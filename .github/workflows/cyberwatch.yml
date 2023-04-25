@@ -16,6 +16,9 @@ jobs:
     steps:
       - name: Checkout the repo
         uses: actions/checkout@v3
+      - name: Install dependencies
+        run: |
+          pip3 install -r requirements.txt
       - name: Generate RSS Feed
         env:
           DEEPL_API_KEY: ${{ secrets.DEEPL_API }}
