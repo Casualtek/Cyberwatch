@@ -14,10 +14,12 @@ jobs:
     timeout-minutes: 170
     environment: CI
     steps:
+      - name: Checkout the repo
+        uses: actions/checkout@v2
       - name: Generate RSS Feed
-        with:
+        env:
           DEEPL_API_KEY: ${{ secrets.DEEPL_API }}
-        run:
+        run: |
           python3 rss.py
       - name: Save changes
         run: |  
