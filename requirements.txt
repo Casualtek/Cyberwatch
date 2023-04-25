@@ -1,7 +1,6 @@
 feedparser
 requests
 functools
-re
 deepl
 hashlib
 os
