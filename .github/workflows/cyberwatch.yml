@@ -29,5 +29,6 @@ jobs:
           DATE=$(date -Iseconds)
           git config user.name github-actions
           git config user.email 41898282+github-actions[bot]@users.noreply.github.com
+          git pull origin main
           git commit --all --message "Updated by Crontab on $DATE" || echo "no changes to commit" 
-          git push
+          git push origin main
