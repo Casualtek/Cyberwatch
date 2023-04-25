@@ -11,11 +11,11 @@ import os
 from feedgen.feed import FeedGenerator
 
 # Constants
-DEEPL_API_KEY = ''
-SEEN_ITEMS_FILE = "./seen_items.txt"
+DEEPL_API_KEY = os.environ['DEEPL_API_KEY']
+SEEN_ITEMS_FILE = './seen_items.txt'
 
-_ENCODED_URL_PREFIX = "https://news.google.com/rss/articles/"
-_ENCODED_URL_RE = re.compile(fr"^{re.escape(_ENCODED_URL_PREFIX)}(?P<encoded_url>[^?]+)")
+_ENCODED_URL_PREFIX = 'https://news.google.com/rss/articles/'
+_ENCODED_URL_RE = re.compile(fr'^{re.escape(_ENCODED_URL_PREFIX)}(?P<encoded_url>[^?]+)')
 _DECODED_URL_RE = re.compile(rb'^\x08\x13".+?(?P<primary_url>http[^\xd2]+)\xd2\x01')
 
 # List of RSS feeds
@@ -68,18 +68,18 @@ ignored_sources = [
 
 def decode_google_news_url(url):
     match = _ENCODED_URL_RE.match(url)
-    encoded_text = match.groupdict()["encoded_url"]  # type: ignore
-    encoded_text += "==="  # Fix incorrect padding. Ref: https://stackoverflow.com/a/49459036/
+    encoded_text = match.groupdict()['encoded_url']  # type: ignore
+    encoded_text += '==='  # Fix incorrect padding. Ref: https://stackoverflow.com/a/49459036/
     decoded_text = base64.urlsafe_b64decode(encoded_text)
 
     match = _DECODED_URL_RE.match(decoded_text)
-    primary_url = match.groupdict()["primary_url"]  # type: ignore
+    primary_url = match.groupdict()['primary_url']  # type: ignore
     primary_url = primary_url.decode()
     return primary_url
 
 def translate_text(text):
     translator = deepl.Translator(DEEPL_API_KEY)
-    result     = translator.translate_text(text , target_lang="EN-US")
+    result     = translator.translate_text(text , target_lang='EN-US')
     return result.text
 
 def get_item_hash(item):
