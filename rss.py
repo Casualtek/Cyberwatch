@@ -100,14 +100,6 @@ def main():
     entries = []
     unique_ids = set()
 
-    fg = FeedGenerator()
-    fg.id('./cyberattcks_news.xml')
-    fg.title('Cyberattacks News')
-    fg.author( {'name':'Valéry Marchive','email':'valery@ynside.net'} )
-    fg.language('en')
-    fg.link( href='https://www.lemagit.fr', rel='self')
-    fg.description('Aggregated and Translated Cyberattacks News Feed')
-
     existing_entries = feedparser.parse('./cyberattacks_news.xml')
     for entry in existing_entries.entries:
         fe = fg.add_entry()
@@ -119,6 +111,14 @@ def main():
     for rss_feed_url in rss_feed_urls_en:
         feed = feedparser.parse(rss_feed_url)
         entries += feed.entries
+
+    fg = FeedGenerator()
+    fg.id('./cyberattacks_news.xml')
+    fg.title('Cyberattacks News')
+    fg.author( {'name':'Valéry Marchive','email':'valery@ynside.net'} )
+    fg.language('en')
+    fg.link( href='https://www.lemagit.fr', rel='self')
+    fg.description('Aggregated and Translated Cyberattacks News Feed')
 
     for entry in entries:
         source = entry.source['title']
