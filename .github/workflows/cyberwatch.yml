@@ -9,14 +9,15 @@ on:
 # https://docs.github.com/en/actions/learn-github-actions/essential-features-of-github-actions#sharing-data-between-jobs
 
 jobs:
-  run-ransomwatch:
+  run-cyberwatch:
     runs-on: ubuntu-latest
     timeout-minutes: 170
     environment: CI
     steps:
       - name: Generate RSS Feed
-        run: |
-          DEEPL_API: ${{ secrets.DEEPL_API }}
+        with:
+          DEEPL_API_KEY: ${{ secrets.DEEPL_API }}
+        run:
           python3 rss.py
       - name: Save changes
         run: |  
