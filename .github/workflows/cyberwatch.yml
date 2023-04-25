@@ -15,7 +15,7 @@ jobs:
     environment: CI
     steps:
       - name: Checkout the repo
-        uses: actions/checkout@v2
+        uses: actions/checkout@v3
       - name: Generate RSS Feed
         env:
           DEEPL_API_KEY: ${{ secrets.DEEPL_API }}
