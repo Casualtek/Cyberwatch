@@ -1,6 +1,5 @@
 feedparser
 requests
-base64
 functools
 re
 deepl
