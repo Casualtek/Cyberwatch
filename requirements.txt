@@ -1,6 +1,5 @@
 feedparser
 requests
-json
 base64
 functools
 re
