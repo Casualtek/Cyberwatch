@@ -1,0 +1,10 @@
+feedparser
+requests
+json
+base64
+functools
+re
+deepl
+hashlib
+os
+feedgen
