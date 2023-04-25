@@ -12,7 +12,7 @@ from feedgen.feed import FeedGenerator
 
 # Constants
 DEEPL_API_KEY = ''
-SEEN_ITEMS_FILE = "seen_items.txt"
+SEEN_ITEMS_FILE = "./seen_items.txt"
 
 _ENCODED_URL_PREFIX = "https://news.google.com/rss/articles/"
 _ENCODED_URL_RE = re.compile(fr"^{re.escape(_ENCODED_URL_PREFIX)}(?P<encoded_url>[^?]+)")
@@ -101,14 +101,14 @@ def main():
     unique_ids = set()
 
     fg = FeedGenerator()
-    fg.id('http://gwfr.ynside.net/static/cyberattcks_news.xml')
+    fg.id('./cyberattcks_news.xml')
     fg.title('Cyberattacks News')
     fg.author( {'name':'Valéry Marchive','email':'valery@ynside.net'} )
     fg.language('en')
     fg.link( href='https://www.lemagit.fr', rel='self')
     fg.description('Aggregated and Translated Cyberattacks News Feed')
 
-    existing_entries = feedparser.parse('http://gwfr.ynside.net/static/cyberattacks_news.xml')
+    existing_entries = feedparser.parse('./cyberattacks_news.xml')
     for entry in existing_entries.entries:
         fe = fg.add_entry()
         fe.id(entry.id)
@@ -162,7 +162,7 @@ def main():
 
     # Save the output to a file
     fg.rss_str(pretty=True)
-    fg.rss_file('/root/RansomLook/website/web/static/cyberattacks_news.xml')
+    fg.rss_file('./cyberattacks_news.xml')
 
 if __name__ == '__main__':
     main()
