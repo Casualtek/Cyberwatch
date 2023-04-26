@@ -1,7 +1,7 @@
 import os
 from newspaper import Article
 
-OPENAI_API_KEY = os.environ['OPENAI_API_KEY']
+OPENAI_API_KEY = os.environ['OPENAI_API']
 ARTICLE_URL    = os.environ['URL']
 
 def main(url):
