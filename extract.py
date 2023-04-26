@@ -1,8 +1,11 @@
+import openai
 import os
+import json
+from datetime import datetime
 from newspaper import Article
 
-OPENAI_API_KEY = os.environ['OPENAI_API']
-ARTICLE_URL    = os.environ['URL']
+openai.api_key = os.environ['OPENAI_API']
+article_url    = os.environ['URL']
 
 def main(url):
     article = Article(url)
@@ -12,5 +15,5 @@ def main(url):
     return news_content
 
 if __name__ == "__main__":
-    story = main(ARTICLE_URL)
+    story = main(article_url)
     print(story)
