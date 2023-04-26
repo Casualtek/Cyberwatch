@@ -99,7 +99,20 @@ def main(url):
     if PubDate is None or PubDate == '':
         PubDate = datetime.now()
     
-    analysis = ask_chatgpt(article.summary, article.title)
+    victim = ''
+    country= ''
+    summary= ''
+
+    if article.summary != '' and article.title !='':
+        analysis = ask_chatgpt(article.summary, article.title)
+        victim = analysis['victim']
+        country= analysis['country']
+        summary= analysis['summary']
+    elif article.text !='':
+        analysis = ask_chatgpt(article.text, article.title)
+        victim = analysis['victim']
+        country= analysis['country']
+        summary= analysis['summary']
 
     story = {
         'date': PubDate.strftime('%Y-%m-%d'),
