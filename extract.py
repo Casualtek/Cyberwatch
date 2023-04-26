@@ -50,7 +50,7 @@ def ask_chatgpt(news_content, news_title):
     completion = openai.ChatCompletion.create(
         model="gpt-3.5-turbo",
         messages=messages,
-        max_tokens=5,
+        max_tokens=10,
         n=1,
         temperature=0.2,
     )
@@ -69,7 +69,7 @@ def ask_chatgpt(news_content, news_title):
     country = completion.choices[0].message.content
 
     messages.append({'role': 'assistant', 'content': country})
-    messages.append({'role': 'user', 'content': 'Sans faire de phrase, indique le code ISO 3166-1 alpha-3 de ce pays.'})
+    messages.append({'role': 'user', 'content': 'Sans faire de phrase, indique le code ISO 3166-1 alpha-3 du pays que tu viens de mentionner.'})
 
     completion = openai.ChatCompletion.create(
         model="gpt-3.5-turbo",
