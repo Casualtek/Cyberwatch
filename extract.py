@@ -94,9 +94,12 @@ def main(url):
     article = Article(url)
     article.download()
     article.parse()
+
+    PubDate  = article.publish_date
+    if PubDate is None or PubDate == '':
+        PubDate = datetime.now()
     
     analysis = ask_chatgpt(article.summary, article.title)
-    PubDate  = article.publish_date
 
     story = {
         'date': PubDate.strftime('%Y-%m-%d'),
