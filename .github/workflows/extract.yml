@@ -1,9 +1,5 @@
 name: extract
 
-on:
-
-  workflow_dispatch:
-
 # to consider: the use of action jobs to breakout each task
 # https://docs.github.com/en/actions/learn-github-actions/essential-features-of-github-actions#sharing-data-between-jobs
 
