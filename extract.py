@@ -1,5 +1,8 @@
-import argparse
+import os
 from newspaper import Article
+
+OPENAI_API_KEY = os.environ['OPENAI_API_KEY']
+ARTICLE_URL    = os.environ['URL']
 
 def main(url):
     article = Article(url)
@@ -9,8 +12,5 @@ def main(url):
     return news_content
 
 if __name__ == "__main__":
-    parser = argparse.ArgumentParser(description="Analyze the content of a news story")
-    parser.add_argument("url", help="The URL of the webpage to analyze.")
-    args = parser.parse_args()
-    story = main(args.url)
+    story = main(ARTICLE_URL)
     print(story)
