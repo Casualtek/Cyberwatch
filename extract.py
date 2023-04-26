@@ -95,8 +95,7 @@ def main(url):
     article.download()
     article.parse()
 
-    print(article.title)
-    print(article.summary)
+    print(article.text)
     
     PubDate  = article.publish_date
     if PubDate is None or PubDate == '':
