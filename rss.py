@@ -62,6 +62,7 @@ ignored_sources = [
     'PR Web',
     'businesswire.com',
     'PR TIMES',
+    'PRWire',
     'ESET',
     'TechTargetジャパン',
 ]
