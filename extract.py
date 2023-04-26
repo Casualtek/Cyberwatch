@@ -95,6 +95,9 @@ def main(url):
     article.download()
     article.parse()
 
+    print(article.title)
+    print(article.summary)
+    
     PubDate  = article.publish_date
     if PubDate is None or PubDate == '':
         PubDate = datetime.now()
@@ -114,6 +117,10 @@ def main(url):
         country= analysis['country']
         summary= analysis['summary']
 
+    print(victim)
+    print(country)
+    print(summary)
+    
     story = {
         'date': PubDate.strftime('%Y-%m-%d'),
         'victim': victim,
