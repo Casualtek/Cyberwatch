@@ -62,7 +62,7 @@ def ask_chatgpt(news_content, news_title):
     completion = openai.ChatCompletion.create(
         model="gpt-3.5-turbo",
         messages=messages,
-        max_tokens=10,
+        max_tokens=90,
         n=1,
         temperature=0.2,
     )
