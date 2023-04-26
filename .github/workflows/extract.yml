@@ -1,0 +1,34 @@
+name: extract
+
+on:
+
+  workflow_dispatch:
+
+# to consider: the use of action jobs to breakout each task
+# https://docs.github.com/en/actions/learn-github-actions/essential-features-of-github-actions#sharing-data-between-jobs
+
+jobs:
+  run-extract:
+    runs-on: ubuntu-latest
+    timeout-minutes: 60
+    environment: CI
+    steps:
+      - name: Checkout the repo
+        uses: actions/checkout@v3
+      - name: Install dependencies
+        run: |
+          pip3 install -r requirements.txt
+      - name: Extract article metadata
+        env:
+          OPENAI_API: ${{ secrets.OPENAI_API }}
+          URL: ${{ vars.URL }}
+        run: |
+          python3 extract.py
+      - name: Save changes
+        run: |  
+          DATE=$(date -Iseconds)
+          git config user.name github-actions
+          git config user.email 41898282+github-actions[bot]@users.noreply.github.com
+          git pull origin main
+          git commit --all --message "Updated by Crontab on $DATE" || echo "no changes to commit" 
+          git push origin main
