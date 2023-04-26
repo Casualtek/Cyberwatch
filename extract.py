@@ -116,9 +116,9 @@ def main(url):
 
     story = {
         'date': PubDate.strftime('%Y-%m-%d'),
-        'victim': analysis['victim'],
-        'country': analysis['country'],
-        'summary': analysis['summary'],
+        'victim': victim,
+        'country': country,
+        'summary': summary,
         'title': article.title,
         'url': url
     }
