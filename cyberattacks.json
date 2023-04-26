@@ -1,1 +1,26 @@
-
+[
+    {
+        "date": "2023-04-25",
+        "victim": "Le Groupe Cloutier",
+        "country": "CAN",
+        "summary": "Le Groupe Cloutier, une entreprise canadienne spécialisée dans les assurances, a été victime d'une violation de données. Les informations personnelles de certains de ses clients ont été compromises. L'entreprise a rapidement réagi en informant les clients concernés et en mettant en place des mesures de sécurité supplémentaires. Une enquête est en cours pour déterminer l'origine de l'attaque. Les autorités ont été informées de l'incident.",
+        "title": "Le Groupe Cloutier confronté à une violation de données",
+        "url": "https://www.finance-investissement.com/nouvelles/actualites/le-groupe-cloutier-confronte-a-une-violation-de-donnees/"
+    },
+    {
+        "date": "2023-04-26",
+        "victim": "North Kingstown.",
+        "country": "USA",
+        "summary": "Des ordinateurs gouvernementaux de la ville de North Kingstown ont été la cible d'une cyberattaque. Les autorités ont confirmé que des données ont été compromises. Les services de police et de pompiers ont été affectés par cette attaque. Les enquêteurs travaillent pour déterminer l'origine de l'attaque. Les autorités ont conseillé aux résidents de surveiller leurs informations personnelles.",
+        "title": "NBC 10 I-Team: Cyberattack targets North Kingstown government computers",
+        "url": "https://turnto10.com/i-team/ask-alison/cyberattack-north-kingstown-rhode-island-government-computers-financial-software-upgrade-backup-system-financial-personal-data"
+    },
+    {
+        "date": "2023-04-26",
+        "victim": "",
+        "country": "",
+        "summary": "",
+        "title": "",
+        "url": "https://actu.fr/pays-de-la-loire/les-sables-d-olonne_85194/vendee-les-raisons-de-la-fermeture-de-ce-casino-depuis-dimanche_59219207.html"
+    }
+]
