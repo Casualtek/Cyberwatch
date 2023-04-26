@@ -6,6 +6,7 @@ from newspaper import Article
 
 openai.api_key = os.environ['OPENAI_API']
 article_url    = os.environ['URL']
+json_file      = './cyberattacks.json'
 
 def main(url):
     article = Article(url)
