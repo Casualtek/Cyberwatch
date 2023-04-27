@@ -33,7 +33,7 @@
     },
     {
         "date": "2023-04-26",
-        "victim": "Uttar Pradesh Road Transport Corporation (UPSRTC)",
+        "victim": "La victime est l'Uttar Pradesh",
         "country": "IND",
         "summary": "Le système de billetterie électronique de l'Uttar Pradesh Road Transport Corporation (UPSRTC) a été paralysé suite à une cyberattaque de hackers étrangers. Les hackers ont crypté les données du serveur de billetterie de la société Orion Pro, qui fournit également des machines de billetterie électronique, des réservations de comptoir et des réservations en ligne. Les bus fonctionnent normalement grâce à la billetterie manuelle. La société a déployé une équipe d'experts pour récupérer les données et une enquête criminelle est en cours. Le système de billetterie électronique sera rétabli dans un délai de 7 à 10 jours.",
         "title": "Cyber-attack hits ticketing service of UPSRTC",
@@ -49,8 +49,8 @@
     },
     {
         "date": "2023-04-26",
-        "victim": "Coca-Cola Femsa",
-        "country": "MEX",
+        "victim": "Coca-Cola Femsa.",
+        "country": "MEX.",
         "summary": "La société mexicaine Coca-Cola Femsa a subi une cyberattaque récemment. Elle a mis en place ses protocoles de sécurité et de réponse pour faire face à cette situation. La société travaille actuellement avec des experts pour éviter tout impact négatif sur ses applications technologiques. Coca-Cola Femsa a publié un communiqué pour informer de la situation. On ne sait pas encore qui est à l'origine de l'attaque.",
         "title": "Coca-Cola Femsa reporta que sufrió ataque cibernético",
         "url": "https://www.jornada.com.mx/notas/2023/04/26/economia/coca-cola-femsa-reporta-que-sufrio-ataque-cibernetico/"
@@ -62,5 +62,444 @@
         "summary": "La centrale Alto Calore a été victime d'une cyberattaque qui a rendu les ordinateurs inaccessibles. Le virus informatique Medusa a momentanément mis hors service le serveur de l'entreprise. Les ordinateurs ont été éteints grâce à une coupure d'électricité effectuée par Enel la veille de l'attaque. Les techniciens travaillent actuellement pour rétablir le système. Les procédures pour le bilan trimestriel et le plan industriel ont été suspendues.",
         "title": "Alto Calore, attacco hacker alla centrale",
         "url": "https://www.ilmattino.it/avellino/alto_calore_attacco_hacker_centrale_avellino-7367723.html"
+    },
+    {
+        "date": "2023-04-25",
+        "victim": "Truman State University.",
+        "country": "USA.",
+        "summary": "L'université Truman State a été victime d'une cyberattaque le 21 avril. Les réseaux informatiques de l'université sont toujours hors ligne. Tous les appareils émis par l'université ont été touchés par une attaque de virus de cybersécurité impliquant des logiciels malveillants. Les étudiants et le personnel ont été invités à éteindre leurs appareils émis par l'université. Les services de l'université seront rétablis de manière sporadique au cours des prochains jours.",
+        "title": "Truman State University works to restore services after reported cyberattack",
+        "url": "https://www.kbia.org/missouri-news/2023-04-25/truman-state-university-works-to-restore-services-after-reported-cyberattack"
+    },
+    {
+        "date": "2023-04-25",
+        "victim": "L'Union Africaine",
+        "country": "ETH",
+        "summary": "L'Union Africaine a été victime d'une cyberattaque qui a paralysé son système informatique. Plus de 200 ordinateurs ont été infectés et les services financiers sont inaccessibles. Les pirates se sont identifiés comme étant le groupe de hackers russes BlackCat et ont demandé une rançon de 3 millions de dollars. Les données stockées ont été sauvegardées la veille de l'attaque et seraient en partie intactes. L'UA est confrontée à la question de la vulnérabilité de ses systèmes informatiques.",
+        "title": "Vent de panique à l’Union africaine après une nouvelle cyberattaque",
+        "url": "https://www.lemonde.fr/afrique/article/2023/04/25/vent-de-panique-a-l-union-africaine-apres-une-nouvelle-cyberattaque_6170976_3212.html"
+    },
+    {
+        "date": "2023-04-24",
+        "victim": "Naivas",
+        "country": "KEN",
+        "summary": "La chaîne de supermarchés kényane Naivas a confirmé avoir été victime d'une attaque de ransomware menée par une organisation criminelle en ligne. Certaines données ont été compromises mais le processus de confinement est terminé et le système est maintenant sécurisé. Naivas assure que ses systèmes ne contiennent pas d'informations de carte de crédit ou de débit et que les informations de paiement sont protégées par une encryption SSL. Il n'y a actuellement aucune preuve d'utilisation malveillante des données volées, mais Naivas a averti les clients de rester vigilants contre les tentatives de phishing. Cette attaque survient une semaine après que la chaîne de supermarchés australienne Coles a confirmé qu'un groupe de cybercriminels avait",
+        "title": "Naivas confirms ransomware attack on its data",
+        "url": "https://www.retail-insight-network.com/news/naivas-ransomware-attack-data/"
+    },
+    {
+        "date": "2023-04-24",
+        "victim": "Klinikum Hochsauerland",
+        "country": "DEU",
+        "summary": "Le Klinikum Hochsauerland a été victime d'une cyberattaque. Toutes les applications web ont été désactivées et le système a été déconnecté d'Internet. Les systèmes sont actuellement examinés par des experts en informatique. Les autorités ont été informées et une enquête est en cours. Les systèmes de communication internes et les systèmes informatiques médicaux ne sont pas affectés et la prise en charge des patients n'a pas été perturbée.",
+        "title": "Cyberangriff auf IT-Netz des Klinikums Hochsauerland - Ermittelungen laufen",
+        "url": "https://www.sauerlandkurier.de/hochsauerlandkreis/arnsberg/cyberangriff-auf-it-netz-des-klinikums-hochsauerland-ermittelungen-laufen-92233385.html"
+    },
+    {
+        "date": "2023-04-24",
+        "victim": "Digi",
+        "country": "ES",
+        "summary": "Digi, un fournisseur de téléphonie mobile et d'Internet en Espagne, en Italie et en Roumanie, a récemment été victime d'une cyberattaque. L'entreprise a publié un communiqué dans lequel elle assure avoir renforcé ses mécanismes de sécurité, examiné tous ses systèmes et renforcé sa politique de sécurité pour garantir l'identité de ses clients. De plus, l'affaire a été confiée aux autorités compétentes pour enquêter et trouver les responsables. Bien que Digi ait affirmé que la cyberattaque n'a pas pu accéder aux données personnelles des clients, il est conseillé aux clients de contacter directement le fournisseur pour s'assurer que tout est en ordre.",
+        "title": "Digi sufre un ciberataque que compromete a los clientes",
+        "url": "https://news.eseuro.com/negocio/1583961.html"
+    },
+    {
+        "date": "2023-04-17",
+        "victim": "Groupe Gambetta",
+        "country": "FR",
+        "summary": "Le groupe Gambetta a été victime d'une cyberattaque le 17 avril 2023, entraînant une restriction d'accès à l'informatique pour les collaborateurs. Le groupe a pris des mesures pour limiter l'impact de l'attaque, déposer plainte et notifier l'incident à la Commission nationale de l'Informatique et des Libertés. Malgré cela, une exfiltration de données à caractère personnel a été identifiée et il est recommandé d'être vigilant face à toute tentative d'hameçonnage et de sécuriser les mots de passe. La cyberattaque a été revendiquée par Play le 22 avril 2023.",
+        "title": "Le groupe Gambetta est victime d'une cyberattaque impliquant le ransomware Play.",
+        "url": "https://www.groupegambetta.fr"
+    },
+    {
+        "date": "2023-04-24",
+        "victim": "SKP",
+        "country": "NLD",
+        "summary": "SKP, une entreprise de services internet et télévision, a été victime d'une cyberattaque le samedi 22 avril. Cette attaque a causé une interruption de service pour les abonnés. Les serveurs ont été rétablis pour la plupart, mais certains abonnés ont encore des problèmes. La Stichting Wandelevenementen Pijnacker a également été touchée. SKP a confirmé qu'il s'agissait d'une attaque de ransomware et qu'une enquête policière était en cours. L'entreprise travaille pour rétablir complètement ses services, mais ne peut pas encore dire si des données ont été perdues.",
+        "title": "Storing SKP blijkt cyberaanval - Het laatste nieuws uit Pijnacker-Nootdorp",
+        "url": "https://www.telstar-online.nl/nieuws/actueel/144362/storing-skp-blijkt-cyberaanval"
+    },
+    {
+        "date": "2023-03-23",
+        "victim": "Careium",
+        "country": "SWE",
+        "summary": "Cet article est en suédois et parle d'une possible fuite de fichiers audio à des cybercriminels. Il n'y a pas assez d'informations pour en savoir plus sur la nature de la fuite ou sur les conséquences potentielles.",
+        "title": "Ljudinspelningar kan ha läckt till cyberkriminella",
+        "url": "https://pt.se/nyheter/pitea/artikel/ljudinspelningar-kan-ha-lackt-till-cyberkriminella/lyo0g86r"
+    },
+    {
+        "date": "2023-04-22",
+        "victim": "Vopak",
+        "country": "NLD",
+        "summary": "La cyberattaque, œuvre du groupe de pirates informatiques russes BlackCat, s'est produite dans une filiale du groupe néerlandais coté en bourse en Malaisie. \"Nous pouvons confirmer qu'un incident informatique s'est produit à Pengerang Independent Terminals (PTSB) en Malaisie\", a déclaré la société dans un communiqué. Au cours de cet incident, des personnes non autorisées ont eu accès à nos données.",
+        "title": "Tankopslagbedrijf Vopak getroffen door Russische cyberaanval",
+        "url": "https://www.tijd.be/ondernemen/chemie/tankopslagbedrijf-vopak-getroffen-door-russische-cyberaanval/10462797.html"
+    },
+    {
+        "date": "2023-04-21",
+        "victim": "Badische Stahlwerke",
+        "country": "DEU",
+        "summary": "Le réseau de Badische Stahlwerke à Kehl a été attaqué par des hackers, obligeant l'entreprise à désactiver sa communication interne. La police d'Offenburg a confirmé l'attaque, tandis que l'entreprise a signalé l'accès non autorisé sur son site web. Les systèmes touchés ont été désactivés, rendant les employés temporairement injoignables par e-mail et téléphone. Les enquêtes sont en cours, mais aucune information supplémentaire n'a été divulguée pour le moment.",
+        "title": "Ortenau Hackerangriff auf Badische Stahlwerke in Kehl Nachrichten der Ortenau - Offenburger Tageblatt",
+        "url": "https://www.bo.de/lokales/ortenau/hackerangriff-auf-badische-stahlwerke-in-kehl#"
+    },
+    {
+        "date": "2023-04-21",
+        "victim": "Nutresa",
+        "country": "COL",
+        "summary": "Le groupe Nutresa a confirmé avoir été victime d'une possible attaque de ransomware ou cyberattaque. Jusqu'à présent, l'intégrité des données de l'organisation et des informations de ses clients, fournisseurs et consommateurs n'a pas été compromise. Un protocole a été activé pour atténuer l'impact potentiel de l'incident. Un équipe technique spécialisée a été désignée pour surveiller la situation et mettre en place les mesures nécessaires pour protéger les systèmes et les informations de l'organisation. La situation est en cours de surveillance.",
+        "title": "Nutresa confirma que está siendo víctima de posible ataque cibernético | Empresas | Negocios | Portafolio",
+        "url": "https://www.portafolio.co/negocios/empresas/nutresa-confirma-que-esta-siendo-victima-de-posible-ataque-cibernetico-581757"
+    },
+    {
+        "date": "2023-04-21",
+        "victim": "Open University of Cyprus (OUC)",
+        "country": "CYP",
+        "summary": "Des hackers ont attaqué l'Open University of Cyprus et ont demandé une rançon de 100 000 euros en cryptomonnaie. Les données volées ont été publiées sur le dark web après l'expiration du délai de paiement de la rançon. Les données sont cryptées et il n'est pas clair quel type de données a été publié. Des données personnelles sensibles de membres de la communauté académique ont été compromises. Les autorités compétentes travaillent pour empêcher l'acquisition de ces données et l'université prend des mesures pour atténuer les risques et restaurer les opérations perturbées.",
+        "title": "Data leaked from Open University is encrypted - police | in-cyprus.com",
+        "url": "https://in-cyprus.philenews.com/news/local/data-leaked-from-open-university-is-encrypted-police/"
+    },
+    {
+        "date": "2023-03-06",
+        "victim": "American Bar Association",
+        "country": "USA",
+        "summary": "Le réseau informatique de l'American Bar Association a été compromis par un tiers non autorisé. Les noms d'utilisateur et les mots de passe des membres ont été obtenus. Les mots de passe étaient \"hashés\" et \"salés\", ce qui signifie qu'ils étaient cryptés. Les membres sont encouragés à changer leurs mots de passe et à rester vigilants contre toute tentative d'accès non autorisé. L'ABA a pris des mesures pour réduire la probabilité d'une future cyberattaque.",
+        "title": "American Bar Association network compromised, member data leaked to third party | Wisconsin Law Journal - WI Legal News & Resources",
+        "url": "https://wislawjournal.com/2023/04/20/american-bar-association-network-compromised-members-data-leaked-to-third-party/"
+    },
+    {
+        "date": "2023-04-20",
+        "victim": "Canal 5",
+        "country": "URY",
+        "summary": "Le canal de télévision Canal 5 a été victime d'une cyberattaque qui a coupé leur accès à internet et a fait disparaître des fichiers importants. C'est la deuxième fois que cela arrive. Le directeur du canal n'a pas fait de déclaration publique à ce sujet, ce qui a suscité des critiques de la part des employés. Le canal de télévision doit prendre des mesures immédiates pour garantir la sécurité de son système et la protection de ses fichiers. Il est nécessaire de mener une enquête pour déterminer les responsables de l'attaque.",
+        "title": "CANAL 5 AYER ESTUVO TODO EL DÍA SIN INTERNET: SERÍA UN NUEVO ATAQUE CIBERNÉTICO",
+        "url": "https://cronicasdeleste.com.uy/Noticias/canal-5-ataque-cibernetico.html"
+    },
+    {
+        "date": "2023-04-20",
+        "victim": "Northeast Behavioral Health Care Consortium.",
+        "country": "USA",
+        "summary": "Le Northeast Behavioral Health Care Consortium a été victime d'une cyberattaque. Les détails de l'attaque n'ont pas été divulgués. Les autorités enquêtent sur l'incident. Les services de santé mentale ont été perturbés. Les patients ont été informés de l'incident.",
+        "title": "Northeast Behavioral Health Care Consortium hit by cyber attack | Cops and Courts | standardspeaker.com",
+        "url": "https://www.standardspeaker.com/northeast-behavioral-health-care-consortium-hit-by-cyber-attack/article_1cd9ab21-9402-5445-9e93-5f21a1e21ca8.html"
+    },
+    {
+        "date": "2023-04-12",
+        "victim": "Fincantieri Marinette Marine",
+        "country": "USA",
+        "summary": "Le chantier naval Fincantieri Marinette Marine a été victime d'une attaque de ransomware le 12 avril 2023, qui a affecté la production de navires de guerre pour la marine américaine et saoudienne. Les serveurs contenant les données nécessaires à la fabrication des navires ont été rendus inutilisables, ce qui a entraîné l'arrêt des machines CNC pendant plusieurs jours. Il est encore incertain si les attaquants ont volé des données. Les opérations de réparation et de construction ont repris, mais certaines opérations en ligne, comme les e-mails, sont toujours hors ligne. Lockheed Martin, le principal contractant de la classe Freedom, a déclaré qu'il prenait régulièrement des mesures pour renforcer la sécurité de ses systèmes.",
+        "title": "Ransomware Attack Hits Marinette Marine Shipyard, Results in Short-Term Delay of Frigate, Freedom LCS Construction - USNI News",
+        "url": "https://news.usni.org/2023/04/20/ransomware-attack-hits-marinette-marine-shipyard-results-in-short-term-delay-of-frigate-freedom-lcs-construction"
+    },
+    {
+        "date": "2023-04-20",
+        "victim": "Anton Paar",
+        "country": "AUT",
+        "summary": "Le groupe Anton Paar est actuellement la cible d'une cyberattaque. Nous enquêtons sur ce problème afin de le résoudre le plus rapidement possible. Nous continuons à assurer une communication de base par le biais de hotlines pour chaque représentation nationale du groupe Anton Paar.",
+        "title": "Le groupe Anton Paar est actuellement la cible d'une cyberattaque",
+        "url": "https://www.anton-paar.com/uk-en/"
+    },
+    {
+        "date": "2023-04-20",
+        "victim": "Montana State University",
+        "country": "USA",
+        "summary": "Montana State University a été victime d'une cyberattaque le 20 avril 2023. Tous les services internet et réseau ont été fermés pour contenir l'attaque. Les ordinateurs MSU doivent être éteints et les utilisateurs doivent se connecter depuis des réseaux non-MSU. Les événements sur le campus continuent comme prévu. MSU travaille à la restauration de ses systèmes et fournira des mises à jour régulières.",
+        "title": "Montana State University gives update on cyberattack",
+        "url": "https://www.kbzk.com/news/local-news/cyber-attack-reportedly-hits-montana-state-university"
+    },
+    {
+        "date": "2023-04-20",
+        "victim": "RWS Holdings PLC",
+        "country": "GBR",
+        "summary": "RWS Holdings PLC a été touché par une cyberattaque sur une ancienne application de gestion de projet. Cette application ne concerne qu'une petite partie de sa division \"Regulated Industries\". La société a immédiatement mis en œuvre ses protocoles d'urgence et a décroché des experts en sécurité pour enquêter sur l'incident. Les personnes touchées ont été contactées et l'application a été décrochée en toute sécurité. L'impact financier et les coûts supplémentaires pour RWS ne devraient pas être significatifs.",
+        "title": "RWS victime d'une cyberattaque mais affirme que l'impact est \"immatériel\" | Zonebourse",
+        "url": "https://www.zonebourse.com/cours/action/RWS-HOLDINGS-PLC-21342343/actualite/RWS-victime-d-une-cyberattaque-mais-affirme-que-l-impact-est-immateriel-43550015/"
+    },
+    {
+        "date": "2023-04-19",
+        "victim": "Insurance Information Bureau of India (IIB)",
+        "country": "IND",
+        "summary": "L'Insurance Information Bureau of India (IIB) a fait l'objet d'une cyberattaque et certaines des données qu'il détient pourraient avoir été compromises, ont déclaré deux personnes au courant de l'affaire. L'IIB recueille les données de transaction des assureurs pour différentes branches d'activité.",
+        "url": "https://economictimes.indiatimes.com/industry/banking/finance/insure/cyberattack-on-insurance-information-bureau-of-india-data-at-risk/articleshow/99621636.cms"
+    },
+    {
+        "date": "2023-03-30",
+        "victim": "Barcelonnette",
+        "country": "FRA",
+        "summary": "La mairie de Barcelonnette a été victime d'une cyberattaque qui a bloqué tous les ordinateurs pendant plusieurs heures. La maire de la commune a confirmé l'attaque et a déclaré qu'il s'agissait d'une tentative de cheval de Troie. L'anti-virus s'est activé et tous les ordinateurs ont été mis à l'arrêt par sécurité. Aucun dommage n'a été constaté. La cellule informatique de Barcelonnette a pris en charge la situation et a rétabli la situation en début d'après-midi.",
+        "title": "En direct | Alpes-de-Haute-Provence : après le piratage du système informatique, la mairie de Barcelonnette fonctionne | La Provence",
+        "url": "https://www.laprovence.com/actu/en-direct/1897962412179515/alpes-de-haute-provence-le-systeme-informatique-de-la-ville-de-barcelonnette-a-ete-pirate"
+    },
+    {
+        "date": "2023-04-19",
+        "victim": "Banco de Venezuela",
+        "country": "VEN",
+        "summary": "La Banco de Venezuela a subi une attaque cybernétique par le ransomware LockBit. Les ordinateurs de la banque ont été infectés et les données ont été chiffrées. Les pirates menacent de publier les données confidentielles des clients si la banque ne paie pas. Le site web de la banque fonctionne normalement. Les clients ont reçu des courriels frauduleux leur demandant de mettre à jour leurs informations.",
+        "title": "Banco de Venezuela sufre ataque cibernético | NTN24.COM",
+        "url": "https://www.ntn24.com/noticias-economia/banco-de-venezuela-sufre-ataque-cibernetico-413126"
+    },
+    {
+        "date": "2023-04-19",
+        "victim": "Bobst",
+        "country": "CHE",
+        "summary": "Le groupe Bobst, basé à Lausanne, a été victime de deux cyberattaques ciblées. Le directeur de l'entreprise a confirmé l'attaque et expliqué comment l'entreprise a réussi à résister aux hackers. Les défenses de pointe de l'entreprise ont permis de déjouer les attaques. L'article souligne que même avec des défenses de pointe, les hackers peuvent parvenir à paralyser partiellement une entreprise.",
+        "title": "Bobst a réussi à déjouer deux cyberattaques ciblées - Le Temps",
+        "url": "https://www.letemps.ch/economie/cyber/bobst-reussi-dejouer-deux-cyberattaques-ciblees"
+    },
+    {
+        "date": "2023-04-19",
+        "victim": "Infolog",
+        "country": "CHE",
+        "summary": "La société Infolog, qui fournit des services informatiques à des communes, PME et entreprises, a été victime d'une cyberattaque. Tous ses systèmes ont été hors service pendant trois jours. Les clients d'Infolog ont également été impactés. Infolog affirme qu'aucune donnée n'a été extraite par les hackers. Un autre prestataire informatique a également été victime d'une cyberattaque quelques jours auparavant.",
+        "title": "Vaud: Infolog et ses clients ont été victimes d’un hacking - 20 minutes",
+        "url": "https://www.20min.ch/fr/story/une-firme-informatique-et-ses-clients-victimes-de-hackers-679691155684"
+    },
+    {
+        "date": "2023-04-17",
+        "victim": "Seal",
+        "country": "PER",
+        "summary": "La société électrique Seal a subi une attaque informatique le 17 avril à 4 heures du matin. Un code malveillant a tenté d'empêcher l'utilisation du système. Le ransomware a été créé en Europe de l'Est (Moldavie) au cours des 20 derniers jours. Le service a été normalisé en 24 heures grâce aux contrôles mis en place. La société a porté plainte auprès de la police et du ministère public pour les présumés délits informatiques.",
+        "title": "Arequipa: Reportan ataque cibernético al sistema de Seal | EDICION | CORREO",
+        "url": "https://diariocorreo.pe/edicion/arequipa/arequipa-reportan-ataque-cibernetico-al-sistema-de-seal-noticia/"
+    },
+    {
+        "date": "2023-03-28",
+        "victim": "Materna",
+        "country": "DEU",
+        "summary": "L'IT-Dienstleister Materna a été victime d'une cyberattaque avec suspicion de ransomware. Vodafone a dû suspendre la vente en ligne de ses cartes prépayées \"Callya\" car Materna fournit les services CallYa. Les systèmes de Materna ont été réinstallés et les employés ont été équipés de nouveaux systèmes. Aucune fuite de données n'a été détectée. Les cyberattaques sur les entreprises et les institutions sont de plus en plus fréquentes.",
+        "title": "Vodafone Callya: Ausfall von Onlinesystemen nach Angriff auf Materna | heise online",
+        "url": "https://www.heise.de/news/Vodafone-Callya-Ausfall-von-Onlinesystemen-nach-Angriff-auf-Materna-8971144.html"
+    },
+    {
+        "date": "2023-04-05",
+        "victim": "BERNINA International AG",
+        "country": "CHE",
+        "summary": "Le réseau informatique de BERNINA International a été attaqué par un logiciel malveillant. L'entreprise a immédiatement pris les mesures de sécurité nécessaires, fait appel à des spécialistes externes et impliqué les autorités compétentes. Une enquête détaillée sur les faits est en cours.",
+        "title": "Cyberangriff auf BERNINA International AG",
+        "url": "https://www.bernina.com/de-CH/Footer-de-CH/Country-Pages/Mediencenter/Medienmitteilungen-2023/BERNINA-International/Cyber-Attack-DE"
+    },
+    {
+        "date": "2023-04-17",
+        "victim": "Morcenx-La-Nouvelle",
+        "country": "FRA",
+        "summary": "La mairie de Morcenx-La-Nouvelle est victime d'une cyberattaque depuis le 17 avril. Les lignes téléphoniques sont indisponibles, mais un numéro provisoire est disponible. Les accueils physiques restent accessibles. Les services du CIAS et de la communauté de communes ont été mis hors service par précaution. Le service passeport et CNI reste fonctionnel.",
+        "title": "Landes : soupçons de cyberattaque à la mairie de Morcenx-la-nouvelle, tous les serveurs indisponibles",
+        "url": "https://www.francebleu.fr/infos/faits-divers-justice/landes-soupcons-de-cyberattaque-a-la-mairie-de-morcenx-la-nouvelle-tous-les-serveurs-indisponibles-7666909"
+    },
+    {
+        "date": "2023-04-17",
+        "victim": "Gateway Casinos and Entertainment",
+        "country": "CAN",
+        "summary": "Gateway Casinos a été victime d'une cyberattaque, entraînant la fermeture de Casino Rama et d'autres sites de jeux en Ontario. La société a retenu des professionnels tiers pour aider à restaurer l'environnement informatique. Il n'est pas clair si des données personnelles ont été compromises. La société informe les autorités compétentes de l'incident. Les employés sont en attente de la réouverture des propriétés en Ontario.",
+        "title": "Gateway casinos to remain closed after cyber attack: officials - Bradford News",
+        "url": "https://www.bradfordtoday.ca/local-news/gateway-casinos-to-remain-closed-after-cyber-attack-officials-6867883"
+    },
+    {
+        "date": "2023-04-17",
+        "victim": "Pierburg Pump Technology",
+        "country": "DEU",
+        "summary": "Pierburg Pump Technology, une filiale de Rheinmetall, a été victime d'une cyberattaque. La production doit être passée de numérique à manuelle. C'est un défi pour l'entreprise. Le directeur de l'usine, Mario Schäfer, a déclaré que c'était une situation très difficile. L'article propose également un abonnement payant pour lire la suite.",
+        "title": "Döbeln: Nach Cyber-Angriff: Pierburg Pump Technology stellt Produktionsprozesse um | Sächsische.de",
+        "url": "https://www.saechsische.de/doebeln/wirtschaft/nach-cyber-angriff-pierburg-pump-technologie-stellt-produktionsprozesse-um-5847271-plus.html"
+    },
+    {
+        "date": "2023-04-16",
+        "victim": "Sarah D. Culbertson Memorial Hospital",
+        "country": "USA",
+        "summary": "Le réseau de l'hôpital Sarah D. Culbertson Memorial a été perturbé par une cyberattaque. L'accès à la plupart des fonctions de leur système de tenue de dossiers électroniques et de paiement de factures a été désactivé. Les responsables de l'hôpital ont immédiatement engagé un spécialiste tiers pour enquêter sur l'activité suspecte qui avait causé la nécessité de fermer le système. L'hôpital est resté ouvert pendant l'enquête et n'a éliminé aucun de ses services. Il est encore inconnu si des informations sur les patients ont été compromises.",
+        "title": "Culbertson Hospital Systems Hit With Cyber Attack - WLDS",
+        "url": "https://wlds.com/culbertson-hospital-systems-hit-with-cyber-attack/"
+    },
+    {
+        "date": "2023-03-03",
+        "victim": "Chantiers navals FSG et Nobiskrug",
+        "country": "DEU",
+        "summary": "Les chantiers navals FSG et Nobiskrug ont été victimes d'une cyberattaque. Tous les systèmes informatiques ont été isolés et les autorités ont été informées. Les chantiers sont de nouveau opérationnels. Aucune rançon n'a été versée. Lürssen, un autre constructeur naval, a également été victime d'une cyberattaque récemment.",
+        "title": "Cyberangriff auf Werften FSG und Nobiskrug - Hamburger Abendblatt",
+        "url": "https://www.abendblatt.de/hamburg/article238145417/Cyberangriff-auf-Werften-FSG-und-Nobiskrug.html"
+    },
+    {
+        "date": "2023-04-14",
+        "victim": "Sdis de l'Isère",
+        "country": "FRA",
+        "summary": "Une cyberattaque est suspectée au Sdis de l'Isère. Les données de 4 500 personnes âgées ont été exposées.",
+        "title": "Isère. Suspicion de cyberattaque au Sdis : les données de 4 500 personnes âgées exposées",
+        "url": "https://www.ledauphine.com/faits-divers-justice/2023/04/14/suspicion-de-cyberattaque-au-sdis-de-l-isere-les-donnees-de-4-500-personnes-agees-exposees"
+    },
+    {
+        "date": "2023-04-14",
+        "victim": "Caracol Radio",
+        "country": "COL",
+        "summary": "Plusieurs stations de radio appartenant à la chaîne Caracol Radio ont été victimes d'une cyberattaque. Les plateformes touchées sont W Radio, Tropicana, Caracol Radio, Bésame, Radioacktiva, Los 40 Urban et Los 40. Les systèmes d'émission de publicité, de gestion de contenu en radio, de publication digitale et de streaming ont été principalement touchés. Caracol Radio travaille à rétablir les systèmes touchés le plus rapidement possible. Le groupe Keralty, qui regroupe les entreprises de santé Sanitas et Colsanitas, a également été victime d'une cyberattaque.",
+        "title": "Emisoras de Caracol Radio sufrieron ataque cibernético",
+        "url": "https://www.pulzo.com/nacion/emisoras-caracol-radio-sufrieron-ataque-cibernetico-PP2750018"
+    },
+    {
+        "date": "2023-04-16",
+        "victim": "Rheinmetall",
+        "country": "DEU",
+        "summary": "Le groupe Rheinmetall, spécialisé dans la défense et l'automobile, a été victime d'une cyberattaque touchant également ses filiales, dont certaines dans la région de Heilbronn. Le groupe a confirmé l'incident dans son activité civile, mais a précisé que ses activités militaires n'étaient pas affectées. Le cyberattaque est mondiale et le groupe est en train d'évaluer les dégâts. Une enquête a été ouverte par la police allemande. Le groupe avait déjà subi une tentative de cyberattaque en mars.",
+        "title": "Rheinmetall Opfer von Cyberangriff - auch Tochterunternehmen betroffen",
+        "url": "https://www.echo24.de/welt/pierburg-rheinmetall-hacker-angriff-opfer-cyberangriff-kolbenschmidt-ruestung-dax-aktie-92211320.html"
+    },
+    {
+        "date": "2023-04-13",
+        "victim": "Commission Nationale de l'Eau (Conagua)",
+        "country": "MEX",
+        "summary": "La Commission Nationale de l'Eau (Conagua) a été victime d'une attaque cybernétique sur ses équipements informatiques. La Garde Nationale et l'entreprise SICTUM-TELMEX ont aidé à contenir l'attaque. Conagua travaille à rétablir les services et à identifier les actions correctives pour éviter une nouvelle attaque. L'attaque a été contenue et les équipements ont été isolés sans impact majeur sur les systèmes d'information administratifs. Conagua a signalé que les services d'eau n'ont pas été affectés.",
+        "title": "SSPC: \"Se contiene ataque cibernético a Conagua\" | El Heraldo de México",
+        "url": "https://heraldodemexico.com.mx/nacional/2023/4/13/sspc-se-contiene-ataque-cibernetico-conagua-497488.html"
+    },
+    {
+        "date": "2023-04-13",
+        "victim": "Cornwall Community Hospital",
+        "country": "CAN",
+        "summary": "Le Cornwall Community Hospital a confirmé qu'il faisait face à une cyberattaque. Les experts en cybersécurité travaillent avec les équipes techniques pour résoudre le problème. Les dossiers de santé électroniques n'ont pas été impactés. Les patients avec des comptes MyChart ne peuvent pas accéder aux dossiers cliniques de l'hôpital. Le type de cyberattaque n'a pas été spécifié.",
+        "title": "Cornwall Community Hospital experiencing cyber incident | The Kingston Whig Standard",
+        "url": "https://www.thewhig.com/news/local-news/cornwall-community-hospital-experiencing-cyber-incident"
+    },
+    {
+        "date": "2023-04-10",
+        "victim": "Le centre hospitalier de Bourg-en-Bresse",
+        "country": "FRA",
+        "summary": "Le centre hospitalier de Bourg-en-Bresse a été victime d'une cyberattaque dans la nuit du 10 au 11 avril 2023. Les activités de soins sont maintenues, mais le système de messagerie et les échanges de mail en interne sont impactés. Une société spécialisée est chargée d'établir le diagnostic des atteintes réelles au système d'information de l'établissement. L'imagerie médicale est perturbée, mais les urgences vitales sont toujours prises en charge. Les adresses mails ont été désactivées et il est recommandé de contacter les établissements par téléphone.",
+        "title": "Une cyberattaque vise le principal centre hospitalier de l'Ain : continuité des soins assurée",
+        "url": "https://france3-regions.francetvinfo.fr/auvergne-rhone-alpes/ain/bourg-bresse/une-cyberattaque-vise-le-principal-centre-hospitalier-de-l-ain-continuite-des-soins-assuree-2753274.html"
+    },
+    {
+        "date": "2023-04-13",
+        "victim": "Medicalodges, Inc.",
+        "country": "USA",
+        "summary": "Une entreprise de soins de santé du Kansas a été victime d'une attaque de ransomware. Le groupe d'extorsion Karakurt a revendiqué l'attaque et prétend avoir accès à 170 Go de données de Medicalodges, y compris des numéros de sécurité sociale et des diagnostics médicaux. Le groupe menace de publier au moins 158 Go de ces données le 17 avril. Les experts en cybersécurité ont été engagés pour aider à l'enquête et à la réponse de Medicalodges. Le groupe Karakurt est connu pour ne pas maintenir la confidentialité des informations des victimes après le paiement de la rançon.",
+        "title": "Kansas healthcare company hit by ransomware",
+        "url": "https://www.ksn.com/news/state-regional/kansas-healthcare-company-hit-by-ransomware-attack/"
+    },
+    {
+        "date": "2023-04-13",
+        "victim": "Future Inn",
+        "country": "JPN",
+        "summary": "Plus de 90 conseils municipaux à travers le Japon ont été touchés par une cyberattaque qui a entraîné l'arrêt des services de diffusion en ligne et de recherche de procès-verbaux. Le système informatique de ces conseils municipaux est géré par une entreprise de Nagoya. Cette entreprise a confirmé que des serveurs ont été touchés par une attaque de virus informatique. Les données personnelles n'ont pas été compromises. L'entreprise a annoncé que les services seront rétablis le 14 avril.",
+        "title": "地方議会にシステム障害 ９０以上、サイバー攻撃で - 産経ニュース",
+        "url": "https://www.sankei.com/article/20230413-CFJZJIX4ABNBFIDB3OMSE7W4TE/"
+    },
+    {
+        "date": "2023-04-12",
+        "victim": "Le ministère des Affaires étrangères slovène",
+        "country": "SVN",
+        "summary": "Le ministère des Affaires étrangères slovène a été victime d'une cyberattaque. Les attaquants seraient une organisation liée à la Chine. Ils auraient eu accès à des courriers diplomatiques. D'autres pays occidentaux ont également été ciblés. Les attaquants cherchent souvent à collecter des informations sensibles.",
+        "title": "Necenzurirano.si - Prve ugotovitve glede kibernetskega napada na zunanje ministrstvo",
+        "url": "https://necenzurirano.si/clanek/svet/prve-ugotovitve-glede-kibernetskega-napada-na-zunanje-ministrstvo-1052608"
+    },
+    {
+        "date": "2023-04-12",
+        "victim": "Sankei Ai",
+        "country": "JPN",
+        "summary": "Cet article rapporte une attaque de type ransomware qui a touché des serveurs et des ordinateurs. Les données ont été rendues inaccessibles aux utilisateurs. L'attaque a été signalée par une entreprise de sécurité informatique. Les détails de l'attaque et les responsables n'ont pas été divulgués. Les utilisateurs sont invités à prendre des mesures de prévention pour éviter de telles attaques.",
+        "title": "【セキュリティ ニュース】サーバやPCがランサム感染、データが閲覧不能に - サンケイアイ（1ページ目 / 全1ページ）：Security NEXT",
+        "url": "https://www.security-next.com/145317"
+    },
+    {
+        "date": "2023-04-05",
+        "victim": "Leibniz-Informationszentrum Wirtschaft (ZBW)",
+        "country": "DEU",
+        "summary": "Le centre d'information économique Leibniz à Kiel a été victime d'une cyberattaque revendiquée par un groupe de hackers pro-russe appelé \"Royal\". La demande de rançon n'a pas encore été chiffrée, mais le directeur de ZBW a déclaré qu'elle serait probablement plus élevée que les dommages causés. Plusieurs sites web officiels ont été touchés dans plusieurs États allemands. Le centre est la plus grande bibliothèque spécialisée en économie au monde. Les pertes de données sont estimées à environ un mois.",
+        "title": "Nach Hackerangriff: ZBW bekommt Lösegeldforderung | NDR.de - Nachrichten - Schleswig-Holstein",
+        "url": "https://www.ndr.de/nachrichten/schleswig-holstein/Nach-Hackerangriff-ZBW-bekommt-Loesegeldforderung,hackerangriff188.html"
+    },
+    {
+        "date": "2023-04-11",
+        "victim": "Le groupe Volkswagen France",
+        "country": "FRA",
+        "summary": "Le groupe Volkswagen France a subi un incident de sécurité informatique à Villers-Cotterêts. Le groupe ne parle pas de cyberattaque et affirme que les données de ses clients n'ont pas été affectées ou volées. L'incident a eu lieu le 11 avril. L'article est réservé aux abonnés. Aucune autre information n'est donnée sur la nature de l'incident.",
+        "title": "Cybersécurité : à Villers-Cotterêts, le groupe Volkswagen France victime d’un \" incident \"",
+        "url": "https://www.lunion.fr/id474304/article/2023-04-11/cybersecurite-villers-cotterets-le-groupe-volkswagen-france-victime-dun-incident"
+    },
+    {
+        "date": "2023-04-11",
+        "victim": "Latitude",
+        "country": "AUS",
+        "summary": "La firme de services financiers Latitude a reçu une demande de rançon de la part des cybercriminels responsables de la cyberattaque du mois dernier. La demande de rançon a été refusée par l'entreprise, qui ne veut pas encourager d'autres tentatives d'extorsion. Latitude travaille à la restauration de ses systèmes informatiques et à la protection de ses clients. Les données de plus d'un million de permis de conduire néo-zélandais ont été volées lors de l'attaque. Latitude opère en Nouvelle-Zélande avec son service d'achat maintenant et payez plus tard Genoapay et Gem Visa.",
+        "title": "Latitude cyber-attack: Cybercriminals demand ransom - NZ Herald",
+        "url": "https://www.nzherald.co.nz/business/latitude-cyber-attack-cybercriminals-demand-ransom/UK57VOBTMRFKBD2TL72N45VHLY/"
+    },
+    {
+        "date": "2023-04-09",
+        "victim": "Écoles publiques de Rochester",
+        "country": "USA",
+        "summary": "Les écoles publiques de Rochester seront fermées lundi en raison d'une possible cyberattaque. Le district scolaire a détecté une activité inhabituelle sur son réseau jeudi et a répondu en fermant le réseau et la plupart des systèmes technologiques. Les activités sportives et parascolaires se poursuivront normalement lundi. Les cours devraient reprendre mardi avec un accès réduit au réseau. Le surintendant du district a présenté ses excuses pour l'impact sur les familles et demande de la patience et de la compréhension pendant que la situation est résolue.",
+        "title": "Rochester Public Schools to close Monday after possible cyber attack",
+        "url": "https://www.fox9.com/news/rochester-schools-hacking-investigation-district-to-close-monday-after-possible-cyber-attack"
+    },
+    {
+        "date": "2023-03-23",
+        "victim": "Gouvernement du Yucatan",
+        "country": "MEX",
+        "summary": "Moins d'une semaine après avoir signalé la cyberattaque dans le gouvernement du Yucatan, il a été annoncé que les pages en ligne ont été récupérées ce jeudi.",
+        "title": "Gobierno de Yucatán recupera sus páginas de internet tras ciberataque",
+        "url": "https://laverdadnoticias.com/yucatan/Gobierno-de-Yucatan-recupera-sus-paginas-de-internet-tras-ciberataque-20230330-0321.html"
+    },
+    {
+        "date": "2023-04-06",
+        "victim": "Le Ministère de l'Économie.",
+        "country": "PRT.",
+        "summary": "Le Ministère de l'Économie a été victime d'une attaque informatique partielle sur certains de ses sites. Des mesures préventives ont été prises pour contenir les dommages et la situation devrait être normalisée d'ici la fin de la journée. Aucune information n'a été compromise.",
+        "title": "\"Alguns sites\" do Ministério da Economia foram alvo de ataque informático",
+        "url": "https://www.noticiasaominuto.com/economia/2292255/alguns-sites-do-ministerio-da-economia-foram-alvo-de-ataque-informatico"
+    },
+    {
+        "date": "2023-04-05",
+        "victim": "Câmara Municipal de Oliveira do Hospital",
+        "country": "PRT",
+        "summary": "La municipalité d'Oliveira do Hospital a été victime d'une cyberattaque. Le Centre National de Cibersegurança et la Commission Nationale de Protection des Données ont été informés. Les services municipaux sont bloqués et les entités externes évaluent la dimension de l'attaque. Les efforts sont en cours pour rétablir la normalité dès que possible. Les citoyens peuvent contacter la municipalité par téléphone ou en personne jusqu'à ce que la situation soit résolue.",
+        "title": "Câmara Municipal de Oliveira do Hospital foi alvo de ataque informático - Computadores - SAPO Tek",
+        "url": "https://tek.sapo.pt/noticias/computadores/artigos/camara-municipal-de-oliveira-do-hospital-foi-alvo-de-ataque-informatico"
+    },
+    {
+        "date": "2023-03-13",
+        "victim": "La victime est l'Autorité de l'Acqueduc et de l'Assainissement de Puerto Rico (AAA)",
+        "country": "PRI",
+        "summary": "La plateforme de l'Autorité de l'Acqueduc et de l'Assainissement de Puerto Rico a été victime d'une cyberattaque le 13 mars 2023. Des données personnelles de clients et d'employés ont été compromises. Les autorités compétentes ont été informées et une enquête est en cours. La nature des informations personnelles exposées incluent des noms, des numéros de sécurité sociale, des permis de conduire, des cartes électorales, des passeports et d'autres identifications personnelles. Des mesures ont été prises pour renforcer la sécurité des systèmes d'information de l'AAA et les clients sont invités à changer régulièrement leurs mots de passe.",
+        "title": "Confirman información de abonados AAA comprometida tras ataque cibernético • WIPR",
+        "url": "https://wipr.pr/confirman-informacion-de-abonados-aaa-comprometida-tras-ataque-cibernetico/"
+    },
+    {
+        "date": "2023-04-04",
+        "victim": "La victime est la Fédération néerlandaise de football (KNVB)",
+        "country": "NLD",
+        "summary": "La Fédération néerlandaise de football a été victime d'une cyberattaque. Des données personnelles d'employés ont été détournées. L'intrusion s'est produite sur le réseau ICT de Heist. Les autorités compétentes ont été informées. La gestion opérationnelle n'est pas menacée et le football pourra se jouer comme prévu.",
+        "title": "La fédération néerlandaise de football victime d'une cyberattaque: \"Malgré notre système de sécurité\" | RTL Info",
+        "url": "https://www.rtl.be/sport/football/football-etranger/la-federation-neerlandaise-de-football-victime-dune-cyberattaque-malgre-notre/2023-04-04/article/539949"
+    },
+    {
+        "date": "2023-04-06",
+        "victim": "L'article ne mentionne pas de victime de cyberattaque.",
+        "country": "DEU",
+        "summary": "Evotec SE (Bse de Francfort Stock Exchange : EVT, MDAX/TecDAX, ISIN : DE 000 566480 9, WKN 566480 ; NASDAQ : EVO) annonce que le 6 avril 2023, une cyberattaque a eu lieu sur les systèmes informatiques d'Evotec. En conséquence, les systèmes ont été arrêtés de manière proactive et déconnectés d'Internet pour se protéger contre la corruption ou les violations de données. Les systèmes informatiques sont actuellement à l'examen et la portée de l'impact est en cours d'examen. La plus grande diligence sera appliquée à l'intégrité des données.",
+        "title": "Cyber Attack on Evotec",
+        "url": "https://uk.sports.yahoo.com/news/cyber-attack-evotec-131026327.html"
+    },
+    {
+        "date": "2023-03-18",
+        "victim": "Peisey-Nancroix",
+        "country": "FRA",
+        "summary": "La mairie de Peisey-Nancroix a été victime d'une cyber-attaque qui a crypté toutes ses données informatiques. Les données personnelles des services municipaux pourraient avoir été extraites et/ou diffusées. Les conséquences de cette attaque peuvent être des fraudes ou l'usurpation d'identité. La mairie appelle à la vigilance et donne des conseils pour se protéger. Les services municipaux fonctionnent de manière dégradée et la mairie travaille à rétablir le fonctionnement normal.",
+        "title": "Cyber-attaque du réseau informatique de la mairie - Mairie de Peisey-Nancroix",
+        "url": "https://www.peisey-nancroix.fr/actualites/cyber-attaque-du-reseau-informatique-de-la-mairie/"
+    },
+    {
+        "date": "2023-04-11",
+        "victim": "Aloha Enterprise (NCR)",
+        "country": "USA",
+        "summary": "Les restaurants à travers le pays subissent les conséquences d'une cyberattaque survenue la semaine dernière chez NCR, un important fournisseur de systèmes de point de vente de restauration. L'attaque par ransomware a affecté les applications Aloha POS qui gèrent les commandes en ligne et les tâches de back-office telles que la paie. La société espère remettre en ligne les applications en panne cette semaine et restaurer les outils de back-office tels que NCR Back Office et Pulse. Les restaurants devront télécharger à nouveau les données pour remettre en service ces outils.",
+        "title": "NCR's Aloha POS hit with cyberattack, causing headaches for restaurants",
+        "url": "https://www.restaurantbusinessonline.com/technology/ncrs-aloha-pos-hit-cyberattack-causing-headaches-restaurants"
+    },
+    {
+        "date": "2023-03-30",
+        "victim": "Evide",
+        "country": "IRL",
+        "summary": "Plusieurs associations caritatives travaillant avec des personnes vulnérables ont été victimes d'une cyberattaque en mars 2023. L'attaque a été menée contre Evide, un fournisseur de services de gestion de données basé à Derry-Londonderry. Les données personnelles des utilisateurs de ces associations ont été compromises. Les autorités policières d'Irlande et d'Irlande du Nord enquêtent sur l'incident. Les associations caritatives sont considérées comme particulièrement vulnérables aux cyberattaques en raison de la quantité de données personnelles qu'elles détiennent et de leur manque de ressources pour investir dans des mesures de sécurité adéquates.",
+        "title": "Charity data stolen in ransomware attack on supplier | Computer Weekly",
+        "url": "https://www.computerweekly.com/news/365534826/Charity-data-stolen-in-ransomware-attack-on-supplier"
     }
 ]
