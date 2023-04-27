@@ -1,6 +1,14 @@
 [
     {
         "date": "2023-04-25",
+        "victim": "Ville de Lowell",
+        "country": "USA",
+        "summary": "Le réseau de la mairie de Lowell a été victime d'une cyberattaque. Les systèmes informatiques ont été mis hors ligne pour empêcher la propagation du virus. Les services de la ville ont été perturbés, mais les services d'urgence ont continué à fonctionner normalement. Les autorités enquêtent sur l'origine de l'attaque et travaillent à rétablir les systèmes. Les résidents sont invités à être vigilants face à d'éventuelles tentatives de phishing.",
+        "title": "Cyber attack on Lowell City Hall's network",
+        "url": "https://www.lowellsun.com/2023/04/25/cyber-attack-on-lowell-city-halls-network/"
+    },
+    {
+        "date": "2023-04-25",
         "victim": "Le Groupe Cloutier",
         "country": "CAN",
         "summary": "Le Groupe Cloutier, une entreprise canadienne spécialisée dans les assurances, a été victime d'une violation de données. Les informations personnelles de certains de ses clients ont été compromises. L'entreprise a rapidement réagi en informant les clients concernés et en mettant en place des mesures de sécurité supplémentaires. Une enquête est en cours pour déterminer l'origine de l'attaque. Les autorités ont été informées de l'incident.",
@@ -9,7 +17,7 @@
     },
     {
         "date": "2023-04-26",
-        "victim": "North Kingstown.",
+        "victim": "Ville de North Kingstown",
         "country": "USA",
         "summary": "Des ordinateurs gouvernementaux de la ville de North Kingstown ont été la cible d'une cyberattaque. Les autorités ont confirmé que des données ont été compromises. Les services de police et de pompiers ont été affectés par cette attaque. Les enquêteurs travaillent pour déterminer l'origine de l'attaque. Les autorités ont conseillé aux résidents de surveiller leurs informations personnelles.",
         "title": "NBC 10 I-Team: Cyberattack targets North Kingstown government computers",
@@ -17,10 +25,34 @@
     },
     {
         "date": "2023-04-26",
-        "victim": "",
-        "country": "",
-        "summary": "",
-        "title": "",
+        "victim": "Groupe Vikings",
+        "country": "FRA",
+        "summary": "Le casino des Atlantes aux Sables-d'Olonne est fermé suite à une panne informatique majeure. Des rumeurs parlent de cyberattaque touchant les 11 casinos du groupe Vikings en France. La police des courses et des jeux enquête.",
+        "title": "Vendée : pourquoi ce casino est fermé depuis dimanche ?",
         "url": "https://actu.fr/pays-de-la-loire/les-sables-d-olonne_85194/vendee-les-raisons-de-la-fermeture-de-ce-casino-depuis-dimanche_59219207.html"
+    },
+    {
+        "date": "2023-04-26",
+        "victim": "La victime est l'Uttar Pradesh",
+        "country": "IND",
+        "summary": "Le système de billetterie électronique de l'Uttar Pradesh Road Transport Corporation (UPSRTC) a été paralysé suite à une cyberattaque de hackers étrangers. Les hackers ont crypté les données du serveur de billetterie de la société Orion Pro, qui fournit également des machines de billetterie électronique, des réservations de comptoir et des réservations en ligne. Les bus fonctionnent normalement grâce à la billetterie manuelle. La société a déployé une équipe d'experts pour récupérer les données et une enquête criminelle est en cours. Le système de billetterie électronique sera rétabli dans un délai de 7 à 10 jours.",
+        "title": "Cyber-attack hits ticketing service of UPSRTC",
+        "url": "http://www.uniindia.com/cyber-attack-hits-ticketing-service-of-upsrtc/north/news/2960340.html"
+    },
+    {
+        "date": "2023-04-26",
+        "victim": "Bitmarck",
+        "country": "DEU",
+        "summary": "Une cyberattaque sur Bitmarck, fournisseur IT de plus de 80 des 96 caisses d'assurance maladie allemandes, provoque des problèmes techniques majeurs.",
+        "title": "Exklusiv: Größter IT-Dienstleister der Krankenkassen bestätigt Cyberangriff",
+        "url": "https://t3n.de/news/bitmarck-krankenkassen-cyberangriff-1548963/"
+    },
+    {
+        "date": "2023-04-26",
+        "victim": "Coca-Cola Femsa.",
+        "country": "MEX.",
+        "summary": "La société mexicaine Coca-Cola Femsa a subi une cyberattaque récemment. Elle a mis en place ses protocoles de sécurité et de réponse pour faire face à cette situation. La société travaille actuellement avec des experts pour éviter tout impact négatif sur ses applications technologiques. Coca-Cola Femsa a publié un communiqué pour informer de la situation. On ne sait pas encore qui est à l'origine de l'attaque.",
+        "title": "Coca-Cola Femsa reporta que sufrió ataque cibernético",
+        "url": "https://www.jornada.com.mx/notas/2023/04/26/economia/coca-cola-femsa-reporta-que-sufrio-ataque-cibernetico/"
     }
 ]
