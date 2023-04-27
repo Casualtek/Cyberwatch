@@ -33,7 +33,7 @@
     },
     {
         "date": "2023-04-26",
-        "victim": "La victime est l'Uttar Pradesh",
+        "victim": "Uttar Pradesh Road Transport Corporation (UPSRTC)",
         "country": "IND",
         "summary": "Le système de billetterie électronique de l'Uttar Pradesh Road Transport Corporation (UPSRTC) a été paralysé suite à une cyberattaque de hackers étrangers. Les hackers ont crypté les données du serveur de billetterie de la société Orion Pro, qui fournit également des machines de billetterie électronique, des réservations de comptoir et des réservations en ligne. Les bus fonctionnent normalement grâce à la billetterie manuelle. La société a déployé une équipe d'experts pour récupérer les données et une enquête criminelle est en cours. Le système de billetterie électronique sera rétabli dans un délai de 7 à 10 jours.",
         "title": "Cyber-attack hits ticketing service of UPSRTC",
@@ -49,8 +49,8 @@
     },
     {
         "date": "2023-04-26",
-        "victim": "Coca-Cola Femsa.",
-        "country": "MEX.",
+        "victim": "Coca-Cola Femsa",
+        "country": "MEX",
         "summary": "La société mexicaine Coca-Cola Femsa a subi une cyberattaque récemment. Elle a mis en place ses protocoles de sécurité et de réponse pour faire face à cette situation. La société travaille actuellement avec des experts pour éviter tout impact négatif sur ses applications technologiques. Coca-Cola Femsa a publié un communiqué pour informer de la situation. On ne sait pas encore qui est à l'origine de l'attaque.",
         "title": "Coca-Cola Femsa reporta que sufrió ataque cibernético",
         "url": "https://www.jornada.com.mx/notas/2023/04/26/economia/coca-cola-femsa-reporta-que-sufrio-ataque-cibernetico/"
