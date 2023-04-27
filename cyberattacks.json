@@ -501,5 +501,14 @@
         "summary": "Plusieurs associations caritatives travaillant avec des personnes vulnérables ont été victimes d'une cyberattaque en mars 2023. L'attaque a été menée contre Evide, un fournisseur de services de gestion de données basé à Derry-Londonderry. Les données personnelles des utilisateurs de ces associations ont été compromises. Les autorités policières d'Irlande et d'Irlande du Nord enquêtent sur l'incident. Les associations caritatives sont considérées comme particulièrement vulnérables aux cyberattaques en raison de la quantité de données personnelles qu'elles détiennent et de leur manque de ressources pour investir dans des mesures de sécurité adéquates.",
         "title": "Charity data stolen in ransomware attack on supplier | Computer Weekly",
         "url": "https://www.computerweekly.com/news/365534826/Charity-data-stolen-in-ransomware-attack-on-supplier"
+    },
+    {
+        "date": "2023-04-27",
+        "victim": "Visma Talent Solutions",
+        "country": "SWE",
+        "summary": "L'application SaaS Recruit de Visma Talent Solutions, est actuellement hors ligne suite à une cyberattaque présumée.",
+        "title": "Efter misstänkt cyberattack - Visma recruit ligger nere | Mölndals-Posten",
+        "url": "https://www.molndalsposten.se/nyheter/efter-misstankt-cyberattack-visma-recruit-ligger-nere.19b42616-8f4b-494d-923f-47f62b0db48e"
     }
+
 ]
