@@ -24,6 +24,10 @@ jobs:
           OPENAI_API_KEY: ${{ secrets.OPENAI_API }}
         run: |
           python3 review-week.py cyberattacks.json
+      - name: Saves the HTML output
+        uses: actions/upload-artifact@v3
+        with:
+           path: ./cyberhebdo/*
       - name: Save changes
         run: |  
           DATE=$(date -Iseconds)
