@@ -93,7 +93,7 @@ def main(json_file):
     html += html_list
     html += '</body>\n</html>'
     
-    with open(f'cyberhebdo/{now.strftime('%Y-%m-%d')}.html', 'w') as html_file:
+    with open(f'cyberhebdo/{now.strftime("%Y-%m-%d")}.html', 'w') as html_file:
     html_file.write(html)
 
 if __name__ == "__main__":
