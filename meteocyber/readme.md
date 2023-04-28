@@ -1,1 +1,2 @@
 
+La météocyber est une revue de presse mensuelle des cyberattaques évoquées dans le monde entier. La génération du code HTML est réalisée de manière automatique le premier jour du mois, à 14h. Les cyberattaques avec DDoS ne sont pas prises en compte : il s'agit de se concentrer sur les cyberattaques avec rançongiciel ou, à tout le moins, intrusion, y compris pour le déploiement de cryptomineurs. Le vol de données simple à des fins d'extorsion est également pris en compte.
