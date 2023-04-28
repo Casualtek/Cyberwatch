@@ -17,7 +17,7 @@ def load_articles_from_json(filename):
 
 def ask_chatgpt(news_count, countries):
     messages = [
-        {'role': 'system', 'content': 'Tu es un journaliste spécialisé en cybersécurité. Tu prépares une revue de presse portant sur les cyberattaques rapportées dans la presse au cours du mois qui s\'achève. Cette revue de presse s\'appelle le Météoransom.'},
+        {'role': 'system', 'content': 'Tu es un journaliste spécialisé en cybersécurité. Tu prépares une revue de presse portant sur les cyberattaques rapportées dans la presse au cours du mois qui s\'achève. Cette revue de presse s\'appelle le Météocyber.'},
         {'role': 'user', 'content': f'Rédige le texte d\'introduction de la revue de presse pour ce mois-ci, sachant que nous avons observé {news_count} cyberattaques évoquées dans les médias des pays suivants : {countries}. Pense à préciser que les cyberattaques en DDoS ne sont pas traitées !'}
     ]
 
@@ -72,12 +72,11 @@ def main(json_file):
     stories = load_articles_from_json(json_file)
     stories.sort(key=lambda x: datetime.strptime(x['date'], '%Y-%m-%d'))
     
-    now          = datetime.now()
-    one_week_ago = now - timedelta(days=7)
-    recent_items = [item for item in stories if datetime.strptime(item['date'], '%Y-%m-%d') >= one_week_ago]
-    recent_items.sort(key=lambda x: datetime.strptime(x['date'], '%Y-%m-%d'))
-    news_count     = len(recent_items)
-    countries_list = set([item['country'] for item in recent_items])
+    now            = datetime.now()
+    current_month_items = [item for item in stories if datetime.strptime(item['date'], '%Y-%m-%d').month == now.month and datetime.strptime(item['date'], '%Y-%m-%d').year == now.year]
+    current_month_items.sort(key=lambda x: datetime.strptime(x['date'], '%Y-%m-%d'))
+    news_count     = len(current_month_items)
+    countries_list = set([item['country'] for item in current_month_items])
     countries      = ', '.join(countries_list)
     
     news_report = ask_chatgpt(news_count,countries)
@@ -93,7 +92,7 @@ def main(json_file):
     html += html_list
     html += '</body>\n</html>'
     
-    with open(f'./cyberhebdo/{now.strftime("%Y-%m-%d")}.html', 'w') as html_file:
+    with open(f'./meteocyber/{now.strftime("%Y-%m")}.html', 'w') as html_file:
         html_file.write(html)
 
 if __name__ == "__main__":
