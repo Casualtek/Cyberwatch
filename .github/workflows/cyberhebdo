@@ -1,0 +1,34 @@
+name: cyberwatch
+
+on:
+  schedule:
+    - cron: '0 14 * * 5'
+  workflow_dispatch:
+
+# to consider: the use of action jobs to breakout each task
+# https://docs.github.com/en/actions/learn-github-actions/essential-features-of-github-actions#sharing-data-between-jobs
+
+jobs:
+  run-cyberwatch:
+    runs-on: ubuntu-latest
+    timeout-minutes: 170
+    environment: CI
+    steps:
+      - name: Checkout the repo
+        uses: actions/checkout@v3
+      - name: Install dependencies
+        run: |
+          pip3 install -r requirements.txt
+      - name: Generate RSS Feed
+        env:
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API }}
+        run: |
+          python3 review-week.py cyberattacks.json
+      - name: Save changes
+        run: |  
+          DATE=$(date -Iseconds)
+          git config user.name github-actions
+          git config user.email 41898282+github-actions[bot]@users.noreply.github.com
+          git pull origin main
+          git commit --all --message "Updated by Crontab on $DATE" || echo "no changes to commit" 
+          git push origin main
