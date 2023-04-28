@@ -9,7 +9,7 @@
     },
     {
         "date": "2023-04-25",
-        "victim": "Le Groupe Cloutier",
+        "victim": "Groupe Cloutier",
         "country": "CAN",
         "summary": "Le Groupe Cloutier, une entreprise canadienne spécialisée dans les assurances, a été victime d'une violation de données. Les informations personnelles de certains de ses clients ont été compromises. L'entreprise a rapidement réagi en informant les clients concernés et en mettant en place des mesures de sécurité supplémentaires. Une enquête est en cours pour déterminer l'origine de l'attaque. Les autorités ont été informées de l'incident.",
         "title": "Le Groupe Cloutier confronté à une violation de données",
@@ -33,7 +33,7 @@
     },
     {
         "date": "2023-04-26",
-        "victim": "La victime est l'Uttar Pradesh",
+        "victim": "Uttar Pradesh Road Transport Corporation (UPSRTC)",
         "country": "IND",
         "summary": "Le système de billetterie électronique de l'Uttar Pradesh Road Transport Corporation (UPSRTC) a été paralysé suite à une cyberattaque de hackers étrangers. Les hackers ont crypté les données du serveur de billetterie de la société Orion Pro, qui fournit également des machines de billetterie électronique, des réservations de comptoir et des réservations en ligne. Les bus fonctionnent normalement grâce à la billetterie manuelle. La société a déployé une équipe d'experts pour récupérer les données et une enquête criminelle est en cours. Le système de billetterie électronique sera rétabli dans un délai de 7 à 10 jours.",
         "title": "Cyber-attack hits ticketing service of UPSRTC",
@@ -49,8 +49,8 @@
     },
     {
         "date": "2023-04-26",
-        "victim": "Coca-Cola Femsa.",
-        "country": "MEX.",
+        "victim": "Coca-Cola Femsa",
+        "country": "MEX",
         "summary": "La société mexicaine Coca-Cola Femsa a subi une cyberattaque récemment. Elle a mis en place ses protocoles de sécurité et de réponse pour faire face à cette situation. La société travaille actuellement avec des experts pour éviter tout impact négatif sur ses applications technologiques. Coca-Cola Femsa a publié un communiqué pour informer de la situation. On ne sait pas encore qui est à l'origine de l'attaque.",
         "title": "Coca-Cola Femsa reporta que sufrió ataque cibernético",
         "url": "https://www.jornada.com.mx/notas/2023/04/26/economia/coca-cola-femsa-reporta-que-sufrio-ataque-cibernetico/"
@@ -65,8 +65,8 @@
     },
     {
         "date": "2023-04-25",
-        "victim": "Truman State University.",
-        "country": "USA.",
+        "victim": "Truman State University",
+        "country": "USA",
         "summary": "L'université Truman State a été victime d'une cyberattaque le 21 avril. Les réseaux informatiques de l'université sont toujours hors ligne. Tous les appareils émis par l'université ont été touchés par une attaque de virus de cybersécurité impliquant des logiciels malveillants. Les étudiants et le personnel ont été invités à éteindre leurs appareils émis par l'université. Les services de l'université seront rétablis de manière sporadique au cours des prochains jours.",
         "title": "Truman State University works to restore services after reported cyberattack",
         "url": "https://www.kbia.org/missouri-news/2023-04-25/truman-state-university-works-to-restore-services-after-reported-cyberattack"
@@ -98,7 +98,7 @@
     {
         "date": "2023-04-24",
         "victim": "Digi",
-        "country": "ES",
+        "country": "ESP",
         "summary": "Digi, un fournisseur de téléphonie mobile et d'Internet en Espagne, en Italie et en Roumanie, a récemment été victime d'une cyberattaque. L'entreprise a publié un communiqué dans lequel elle assure avoir renforcé ses mécanismes de sécurité, examiné tous ses systèmes et renforcé sa politique de sécurité pour garantir l'identité de ses clients. De plus, l'affaire a été confiée aux autorités compétentes pour enquêter et trouver les responsables. Bien que Digi ait affirmé que la cyberattaque n'a pas pu accéder aux données personnelles des clients, il est conseillé aux clients de contacter directement le fournisseur pour s'assurer que tout est en ordre.",
         "title": "Digi sufre un ciberataque que compromete a los clientes",
         "url": "https://news.eseuro.com/negocio/1583961.html"
@@ -106,7 +106,7 @@
     {
         "date": "2023-04-17",
         "victim": "Groupe Gambetta",
-        "country": "FR",
+        "country": "FRA",
         "summary": "Le groupe Gambetta a été victime d'une cyberattaque le 17 avril 2023, entraînant une restriction d'accès à l'informatique pour les collaborateurs. Le groupe a pris des mesures pour limiter l'impact de l'attaque, déposer plainte et notifier l'incident à la Commission nationale de l'Informatique et des Libertés. Malgré cela, une exfiltration de données à caractère personnel a été identifiée et il est recommandé d'être vigilant face à toute tentative d'hameçonnage et de sécuriser les mots de passe. La cyberattaque a été revendiquée par Play le 22 avril 2023.",
         "title": "Le groupe Gambetta est victime d'une cyberattaque impliquant le ransomware Play.",
         "url": "https://www.groupegambetta.fr"
@@ -509,6 +509,37 @@
         "summary": "L'application SaaS Recruit de Visma Talent Solutions, est actuellement hors ligne suite à une cyberattaque présumée.",
         "title": "Efter misstänkt cyberattack - Visma recruit ligger nere | Mölndals-Posten",
         "url": "https://www.molndalsposten.se/nyheter/efter-misstankt-cyberattack-visma-recruit-ligger-nere.19b42616-8f4b-494d-923f-47f62b0db48e"
+    },
+    {
+        "date": "2023-04-28",
+        "victim": "Comté de Spartanburg",
+        "country": "USA",
+        "summary": "Une attaque de ransomware a été signalée dans le comté de Spartanburg en Caroline du Sud. Les numéros de téléphone de certains départements ont été temporairement impactés. Les autorités ont détecté et répondu à l'attaque, et travaillent avec des consultants en cybersécurité tiers. Les services essentiels, y compris les opérations 9-1-1 et les communications d'urgence, continuent de fonctionner. Le système judiciaire de Caroline du Sud ne devrait pas être affecté.",
+        "title": "South Carolina: Ransomware attack Spartanburg County",
+        "url": "https://www.wyff4.com/article/south-carolina-ransomware-attack-spartanburg-county/43725703"
+    },
+    {
+        "date": "2023-04-28",
+        "victim": "Hardenhuish School",
+        "country": "GBR",
+        "summary": "L'école Hardenhuish à Chippenham a été victime d'une cyberattaque. Les détails de l'attaque n'ont pas été divulgués. Les écoles sont des cibles faciles pour les cybercriminels car elles n'ont pas de grandes équipes informatiques. Les écoles utilisent souvent des logiciels standard qui peuvent avoir des vulnérabilités. Les cybercriminels peuvent rapidement exploiter ces vulnérabilités.",
+        "title": "Hardenhuish School in Chippenham hit by cyber attack - BBC News",
+        "url": "https://www.bbc.com/news/uk-england-wiltshire-65411450"
+    },
+    {
+        "date": "2023-04-22",
+        "victim": "Autorité de tutelle de la municipalité de Saxon",
+        "country": "CHE",
+        "summary": "Un auteur jusqu'alors inconnu a réussi à pénétrer dans le système informatique de l'autorité de tutelle de Saxon, à voler et à chiffrer des données. Le ministère public a ouvert une enquête. L'enquête est menée par le département de la cybercriminalité de la police cantonale du Valais.",
+        "title": "Saxon: Cyberattacke auf die Vormundschaftsbehörde - Kantonspolizei Wallis",
+        "url": "https://www.polizeiwallis.ch/medienmitteilungen/saxon-cyberattacke-auf-die-vormundschaftsbehoerde/"
+    },
+    {
+        "date": "2023-04-24",
+        "victim": "Vantage Travel",
+        "country": "USA",
+        "summary": "La compagnie de voyage Vantage Travel a annulé des croisières en Europe à cause d'une cyberattaque. Les clients ont été informés seulement 48 heures avant leur départ. La compagnie a embauché une entreprise spécialisée pour enquêter sur l'incident de sécurité des données. Les clients ont exprimé leur déception et leur inquiétude quant à la situation financière de la compagnie. D'autres voyages ont également été annulés en raison de cet incident.",
+        "title": "Vantage Travel cancels trips, blames data security incident - CBS Boston",
+        "url": "https://www.cbsnews.com/boston/news/vantage-travel-cancels-trips-blames-data-security-incident/"
     }
-
 ]
