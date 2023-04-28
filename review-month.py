@@ -92,7 +92,7 @@ def main(json_file):
     html += html_list
     html += '</body>\n</html>'
     
-    with open(f'./meteocyber/{now.strftime("%Y-%m")}.html', 'w') as html_file:
+    with open(f'./meteocyber/{last_month.year}-{last_month.month}.html', 'w') as html_file:
         html_file.write(html)
 
 if __name__ == "__main__":
