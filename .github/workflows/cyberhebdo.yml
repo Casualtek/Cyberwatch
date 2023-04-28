@@ -9,7 +9,7 @@ on:
 # https://docs.github.com/en/actions/learn-github-actions/essential-features-of-github-actions#sharing-data-between-jobs
 
 jobs:
-  run-cyberwatch:
+  run-cyberhebdo:
     runs-on: ubuntu-latest
     timeout-minutes: 170
     environment: CI
