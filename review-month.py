@@ -73,7 +73,7 @@ def main(json_file):
     stories.sort(key=lambda x: datetime.strptime(x['date'], '%Y-%m-%d'))
     
     last_month       = datetime.now() - timedelta(days=30)
-    last_month_items = [item for item in stories if datetime.strptime(item['date'], '%Y-%m-%d') >= one_month_ago]
+    last_month_items = [item for item in stories if datetime.strptime(item['date'], '%Y-%m-%d') >= last_month]
     last_month_items.sort(key=lambda x: datetime.strptime(x['date'], '%Y-%m-%d'))
     news_count       = len(last_month_items)
     countries_list   = set([item['country'] for item in last_month_items])
