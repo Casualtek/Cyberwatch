@@ -1,0 +1,38 @@
+name: meteocyber
+
+on:
+  schedule:
+    - cron: '0 14 1 * *'
+  workflow_dispatch:
+
+# to consider: the use of action jobs to breakout each task
+# https://docs.github.com/en/actions/learn-github-actions/essential-features-of-github-actions#sharing-data-between-jobs
+
+jobs:
+  run-meteocyber:
+    runs-on: ubuntu-latest
+    timeout-minutes: 170
+    environment: CI
+    steps:
+      - name: Checkout the repo
+        uses: actions/checkout@v3
+      - name: Install dependencies
+        run: |
+          pip3 install -r requirements.txt
+      - name: Generate HTML Digest
+        env:
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API }}
+        run: |
+          python3 review-month.py cyberattacks.json
+      - uses: stefanzweifel/git-auto-commit-action@v4
+        with:
+          repository: ./meteocyber/
+          push_options: --force
+      - name: Save changes
+        run: |  
+          DATE=$(date -Iseconds)
+          git config user.name github-actions
+          git config user.email 41898282+github-actions[bot]@users.noreply.github.com
+          git pull origin main
+          git commit --all --message "Updated by Crontab on $DATE" || echo "no changes to commit" 
+          git push origin main
