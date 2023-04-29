@@ -408,7 +408,7 @@
     },
     {
         "date": "2023-04-11",
-        "victim": "Le groupe Volkswagen France",
+        "victim": "Volkswagen France",
         "country": "FRA",
         "summary": "Le groupe Volkswagen France a subi un incident de sécurité informatique à Villers-Cotterêts. Le groupe ne parle pas de cyberattaque et affirme que les données de ses clients n'ont pas été affectées ou volées. L'incident a eu lieu le 11 avril. L'article est réservé aux abonnés. Aucune autre information n'est donnée sur la nature de l'incident.",
         "title": "Cybersécurité : à Villers-Cotterêts, le groupe Volkswagen France victime d’un \" incident \"",
@@ -440,7 +440,7 @@
     },
     {
         "date": "2023-04-06",
-        "victim": "Le Ministère de l'Économie.",
+        "victim": "Le Ministère de l'Économie du Portugal",
         "country": "PRT.",
         "summary": "Le Ministère de l'Économie a été victime d'une attaque informatique partielle sur certains de ses sites. Des mesures préventives ont été prises pour contenir les dommages et la situation devrait être normalisée d'ici la fin de la journée. Aucune information n'a été compromise.",
         "title": "\"Alguns sites\" do Ministério da Economia foram alvo de ataque informático",
@@ -541,5 +541,13 @@
         "summary": "La compagnie de voyage Vantage Travel a annulé des croisières en Europe à cause d'une cyberattaque. Les clients ont été informés seulement 48 heures avant leur départ. La compagnie a embauché une entreprise spécialisée pour enquêter sur l'incident de sécurité des données. Les clients ont exprimé leur déception et leur inquiétude quant à la situation financière de la compagnie. D'autres voyages ont également été annulés en raison de cet incident.",
         "title": "Vantage Travel cancels trips, blames data security incident - CBS Boston",
         "url": "https://www.cbsnews.com/boston/news/vantage-travel-cancels-trips-blames-data-security-incident/"
+    },
+    {
+        "date": "2023-04-29",
+        "victim": "Aspen Dental",
+        "country": "USA",
+        "summary": "Le groupe dentaire Aspen Dental a été victime d'une cyberattaque qui a temporairement affecté son accès aux systèmes de planification, aux téléphones et aux autres applications commerciales. Les quatre emplacements d'Aspen Dental dans la région sont toujours ouverts, mais il y a un retard dans la planification de nouveaux patients. Les patients existants sont toujours traités, mais certains problèmes ne peuvent pas être traités jusqu'à ce que les systèmes soient de nouveau en ligne. Les dentistes et le personnel de chaque emplacement peuvent conseiller les patients existants sur les prochaines étapes de leur traitement. La société n'indique pas quand elle pourra recommencer à prendre de nouveaux rendez-vous.",
+        "title": "Dental group with four central Iowa locations is victim of cyberattack",
+        "url": "https://www.kcci.com/article/aspen-dental-cyberattack/43742135"
     }
 ]
