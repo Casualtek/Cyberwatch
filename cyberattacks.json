@@ -549,5 +549,21 @@
         "summary": "Le groupe dentaire Aspen Dental a été victime d'une cyberattaque qui a temporairement affecté son accès aux systèmes de planification, aux téléphones et aux autres applications commerciales. Les quatre emplacements d'Aspen Dental dans la région sont toujours ouverts, mais il y a un retard dans la planification de nouveaux patients. Les patients existants sont toujours traités, mais certains problèmes ne peuvent pas être traités jusqu'à ce que les systèmes soient de nouveau en ligne. Les dentistes et le personnel de chaque emplacement peuvent conseiller les patients existants sur les prochaines étapes de leur traitement. La société n'indique pas quand elle pourra recommencer à prendre de nouveaux rendez-vous.",
         "title": "Dental group with four central Iowa locations is victim of cyberattack",
         "url": "https://www.kcci.com/article/aspen-dental-cyberattack/43742135"
+    },
+    {
+        "date": "2023-04-30",
+        "victim": "Le district scolaire de Nashua",
+        "country": "USA",
+        "summary": "Le district scolaire de Nashua a été victime d'une cyberattaque sophistiquée. Les cours ont tout de même eu lieu le lendemain. Une enquête est en cours pour déterminer la nature et l'ampleur de l'attaque. Les données personnelles des élèves, des parents et du personnel pourraient avoir été compromises. Les autorités cherchent à rétablir la fonctionnalité des systèmes le plus rapidement possible.",
+        "title": "Nashua School District hit by 'sophisticated' cyberattack",
+        "url": "https://www.wmur.com/article/nashua-public-schools-cyberattack-classes-monday/43750709"
+    },
+    {
+        "date": "2023-04-30",
+        "victim": "Bluefield University",
+        "country": "USA",
+        "summary": "Bluefield University a été victime d'une cyberattaque qui a entraîné l'arrêt des systèmes informatiques de l'école. Les examens et les devoirs ont été reportés en réponse à l'attaque. Les étudiants et le personnel ont été avertis de ne pas se connecter aux comptes de l'université, y compris les e-mails, pour éviter toute intrusion. La violation de sécurité a commencé dans le système de messagerie électronique de l'université. Il n'y a pas de délai précis pour la résolution du problème. Les mises à jour seront publiées sur les réseaux sociaux de l'université.",
+        "title": "Cyber attack at Bluefield University leads to postponed finals",
+        "url": "https://www.wvva.com/2023/04/30/cyber-attack-bluefield-university-leads-postponed-finals/"
     }
 ]
