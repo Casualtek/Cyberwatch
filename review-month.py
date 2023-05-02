@@ -90,6 +90,7 @@ def main(json_file):
         html_list += f'<li>{date} - <b>{item["victim"]}</b> ({item["country"]})<br/>{item["summary"]} (<a href="{item["url"]}">source</a>)</li>\n'
     html_list += '</ul>\n'
     html += html_list
+    html += '<i>Revue de presse réalisée en partie avec ChatGPT. <a href="https://www.lemagit.fr/actualites/365535799/Cyberhebdo-LeMagIT-met-lIA-au-service-de-linformation-de-ses-lecteurs">Les explications sont à lire ici</a>.</i>'
     html += '</body>\n</html>'
     
     with open(f'./meteocyber/{last_month.year}-{last_month.month}.html', 'w') as html_file:
