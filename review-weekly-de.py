@@ -6,6 +6,12 @@ import os
 from datetime import datetime, timedelta
 
 openai.api_key = os.environ['OPENAI_API_KEY']
+DEEPL_API_KEY  = os.environ['DEEPL_API_KEY']
+
+def translate_text(text):
+    translator = deepl.Translator(DEEPL_API_KEY)
+    result     = translator.translate_text(text , target_lang='DE-DE')
+    return result.text
 
 def load_articles_from_json(filename):
     if os.path.exists(filename):
@@ -88,7 +94,7 @@ def main(json_file):
     html_list = '<ul>\n'
     for item in recent_items:
         date = datetime.strptime(item['date'], '%Y-%m-%d').strftime('%d/%m/%Y')
-        html_list += f'<li>{date} - <b>{item["victim"]}</b> ({item["country"]})<br/>{item["summary"]} (<a href="{item["url"]}">source</a>)</li>\n'
+        html_list += f'<li>{date} - <b>{item["victim"]}</b> ({item["country"]})<br/>{translate_text(item["summary"])} (<a href="{item["url"]}">source</a>)</li>\n'
     html_list += '</ul>\n'
     html += html_list
     html += '<i>Presseschau, teilweise mit ChatGPT erstellt.</i>'
