@@ -11,7 +11,7 @@ DEEPL_API_KEY  = os.environ['DEEPL_API_KEY']
 
 def translate_text(text):
     translator = deepl.Translator(DEEPL_API_KEY)
-    result     = translator.translate_text(text , target_lang='DE-DE')
+    result     = translator.translate_text(text , target_lang='DE')
     return result.text
 
 def load_articles_from_json(filename):
