@@ -1,8 +1,16 @@
 # Cyberwatch
-Building a consolidated RSS feed for articles about cyberattacks
+Keeping track of cyberattacks
 
-This script halps me monitor news to discover mentions of cyberattacks in the media around the globe. 
-It collects news feeds on the topic from Google, removes duplicates, and translates news headlines into English.
-The resulting RSS feed is ready to consume with your favorite RSS reader.
+This project consists in a few Python scripts that help monitor news to discover mentions of cyberattacks in the media around the globe. 
+
+*rss.py* collects news feeds on the topic from Google, removes duplicates, and translates news headlines into English, using DeepL's API.
+The resulting RSS feed is ready to consume with your favorite RSS reader. It's frequently updated using GitHub Actions. 
+
+*review-week.py* uses data from *cyberattacks.json* to produce a weekly cyberattacks digest. It's run by GitHub Actions. 
+
+*review-monthly.py* uses data from *cyberattacks.json* to produce a weekly cyberattacks digest. It's run by GitHub Actions.
+
+Now, what's in *cyberattacks.json*?
+
 
 Enjoy and feel free to contribute any improvements ideas!
