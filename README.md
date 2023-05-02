@@ -11,6 +11,9 @@ The resulting RSS feed is ready to consume with your favorite RSS reader. It's f
 *review-monthly.py* uses data from *cyberattacks.json* to produce a weekly cyberattacks digest. It's run by GitHub Actions.
 
 Now, what's in *cyberattacks.json*?
-
+A set of cyberattacks mentionned in the media and spotted thanks to the meta cyberattacks RSS feed. 
+You'll find there the name of the victim, the country, the date, a short description of the situation, and a link to the original news story. 
+That data is extracted from the original news story with the help of ChatGPT, using OpenIA's developers API. 
+The output is checked manually.
 
 Enjoy and feel free to contribute any improvements ideas!
