@@ -177,7 +177,7 @@
     },
     {
         "date": "2023-04-20",
-        "victim": "Northeast Behavioral Health Care Consortium.",
+        "victim": "Northeast Behavioral Health Care Consortium",
         "country": "USA",
         "summary": "Le Northeast Behavioral Health Care Consortium a été victime d'une cyberattaque. Les détails de l'attaque n'ont pas été divulgués. Les autorités enquêtent sur l'incident. Les services de santé mentale ont été perturbés. Les patients ont été informés de l'incident.",
         "title": "Northeast Behavioral Health Care Consortium hit by cyber attack | Cops and Courts | standardspeaker.com",
@@ -360,7 +360,7 @@
     },
     {
         "date": "2023-04-10",
-        "victim": "Le centre hospitalier de Bourg-en-Bresse",
+        "victim": "Centre hospitalier de Bourg-en-Bresse",
         "country": "FRA",
         "summary": "Le centre hospitalier de Bourg-en-Bresse a été victime d'une cyberattaque dans la nuit du 10 au 11 avril 2023. Les activités de soins sont maintenues, mais le système de messagerie et les échanges de mail en interne sont impactés. Une société spécialisée est chargée d'établir le diagnostic des atteintes réelles au système d'information de l'établissement. L'imagerie médicale est perturbée, mais les urgences vitales sont toujours prises en charge. Les adresses mails ont été désactivées et il est recommandé de contacter les établissements par téléphone.",
         "title": "Une cyberattaque vise le principal centre hospitalier de l'Ain : continuité des soins assurée",
@@ -441,7 +441,7 @@
     {
         "date": "2023-04-06",
         "victim": "Le Ministère de l'Économie du Portugal",
-        "country": "PRT.",
+        "country": "PRT",
         "summary": "Le Ministère de l'Économie a été victime d'une attaque informatique partielle sur certains de ses sites. Des mesures préventives ont été prises pour contenir les dommages et la situation devrait être normalisée d'ici la fin de la journée. Aucune information n'a été compromise.",
         "title": "\"Alguns sites\" do Ministério da Economia foram alvo de ataque informático",
         "url": "https://www.noticiasaominuto.com/economia/2292255/alguns-sites-do-ministerio-da-economia-foram-alvo-de-ataque-informatico"
@@ -456,7 +456,7 @@
     },
     {
         "date": "2023-03-13",
-        "victim": "La victime est l'Autorité de l'Acqueduc et de l'Assainissement de Puerto Rico (AAA)",
+        "victim": "Autorité de l'Acqueduc et de l'Assainissement de Puerto Rico (AAA)",
         "country": "PRI",
         "summary": "La plateforme de l'Autorité de l'Acqueduc et de l'Assainissement de Puerto Rico a été victime d'une cyberattaque le 13 mars 2023. Des données personnelles de clients et d'employés ont été compromises. Les autorités compétentes ont été informées et une enquête est en cours. La nature des informations personnelles exposées incluent des noms, des numéros de sécurité sociale, des permis de conduire, des cartes électorales, des passeports et d'autres identifications personnelles. Des mesures ont été prises pour renforcer la sécurité des systèmes d'information de l'AAA et les clients sont invités à changer régulièrement leurs mots de passe.",
         "title": "Confirman información de abonados AAA comprometida tras ataque cibernético • WIPR",
@@ -464,7 +464,7 @@
     },
     {
         "date": "2023-04-04",
-        "victim": "La victime est la Fédération néerlandaise de football (KNVB)",
+        "victim": "La Fédération néerlandaise de football (KNVB)",
         "country": "NLD",
         "summary": "La Fédération néerlandaise de football a été victime d'une cyberattaque. Des données personnelles d'employés ont été détournées. L'intrusion s'est produite sur le réseau ICT de Heist. Les autorités compétentes ont été informées. La gestion opérationnelle n'est pas menacée et le football pourra se jouer comme prévu.",
         "title": "La fédération néerlandaise de football victime d'une cyberattaque: \"Malgré notre système de sécurité\" | RTL Info",
@@ -472,7 +472,7 @@
     },
     {
         "date": "2023-04-06",
-        "victim": "L'article ne mentionne pas de victime de cyberattaque.",
+        "victim": "Evotec",
         "country": "DEU",
         "summary": "Evotec SE (Bse de Francfort Stock Exchange : EVT, MDAX/TecDAX, ISIN : DE 000 566480 9, WKN 566480 ; NASDAQ : EVO) annonce que le 6 avril 2023, une cyberattaque a eu lieu sur les systèmes informatiques d'Evotec. En conséquence, les systèmes ont été arrêtés de manière proactive et déconnectés d'Internet pour se protéger contre la corruption ou les violations de données. Les systèmes informatiques sont actuellement à l'examen et la portée de l'impact est en cours d'examen. La plus grande diligence sera appliquée à l'intégrité des données.",
         "title": "Cyber Attack on Evotec",
@@ -568,7 +568,7 @@
     },
     {
         "date": "2023-04-30",
-        "victim": "PENNCREST School District ",
+        "victim": "PENNCREST School District",
         "country": "USA",
         "summary": "Au cours du week-end, le district scolaire de PENNCREST a eu connaissance d'une situation, que l'on pense être un ransomware, qui a perturbé certains aspects de nos opérations. Nous avons rapidement pris des mesures pour mettre en œuvre notre plan de réponse aux incidents de cybersécurité. Conformément à ce plan, nous avons arrêté et déconnecté l'ensemble du réseau et de l'infrastructure technologique. Nous travaillons actuellement avec des spécialistes externes en cybersécurité pour mener une enquête approfondie sur la nature et la portée de l'événement et pour rétablir les opérations en toute sécurité. À l'heure actuelle, nous n'avons identifié aucune preuve de perte, d'accès ou de vol de données à la suite de cet événement.",
         "title": "Ransomware Event",
