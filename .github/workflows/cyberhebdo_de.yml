@@ -2,7 +2,7 @@ name: cyberhebdo_de
 
 on:
   schedule:
-    - cron: '0 13 * * 5'
+    - cron: '0 8 * * 5'
   workflow_dispatch:
 
 # to consider: the use of action jobs to breakout each task
