@@ -1,5 +1,6 @@
 #!/usr/bin/python3
 import openai
+import deepl
 import json
 import sys
 import os
