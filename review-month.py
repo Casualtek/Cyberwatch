@@ -18,7 +18,7 @@ def load_articles_from_json(filename):
 def ask_chatgpt(news_count, countries):
     messages = [
         {'role': 'system', 'content': 'Tu es un journaliste spécialisé en cybersécurité. Tu prépares une revue de presse portant sur les cyberattaques rapportées dans la presse au cours du mois écoulé. Cette revue de presse s\'appelle la Météocyber.'},
-        {'role': 'user', 'content': f'Rédige le texte d\'introduction de la revue de presse pour le mois dernier, sachant que nous avons observé {news_count} cyberattaques évoquées dans les médias des pays suivants : {countries}. Pense à préciser que les cyberattaques en DDoS ne sont pas traitées !'}
+        {'role': 'user', 'content': f'Rédige le texte d\'introduction de la revue de presse pour le mois dernier, sachant que nous avons observé {news_count} cyberattaques évoquées dans les médias des pays suivants : {countries}. Pense à préciser que les cyberattaques en DDoS et les défacements de sites Web ne sont pas traitées !'}
     ]
 
     print(f'Obtaining introduction.')
