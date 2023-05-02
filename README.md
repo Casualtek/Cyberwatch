@@ -5,10 +5,13 @@ This project consists in a few Python scripts that help monitor news to discover
 
 *rss.py* collects news feeds on the topic from Google, removes duplicates, and translates news headlines into English, using DeepL's API.
 The resulting RSS feed is ready to consume with your favorite RSS reader. It's frequently updated using GitHub Actions. 
+*TODO*: add results from Bing News Search's API. Extend detection of duplicates.
 
 *review-week.py* uses data from *cyberattacks.json* to produce a weekly cyberattacks digest. It's run by GitHub Actions. 
+*TODO*: extract the most hit country and add a country specific comment.
 
 *review-monthly.py* uses data from *cyberattacks.json* to produce a weekly cyberattacks digest. It's run by GitHub Actions.
+*TODO*: extract the top 3 most hit regions and add a country specific comment.
 
 Now, what's in *cyberattacks.json*?
 A set of cyberattacks mentionned in the media and spotted thanks to the meta cyberattacks RSS feed. 
