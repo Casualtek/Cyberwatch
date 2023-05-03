@@ -589,5 +589,13 @@
         "summary": "Le 29 avril 2023, l'Institut National de Technologie Agropecuaria (INTA) a subi une cyberattaque qui a affecté ses services informatiques. Un groupe extérieur a bloqué les sites web, les mails et la connectivité de toutes les unités du pays. Les attaquants demandent une rançon de 2,5 millions de dollars pour rétablir les services. Le INTA a suspendu tous ses services jusqu'à ce que la situation soit complètement sous contrôle. Les autorités ont précisé que la récupération des services prendra plusieurs jours.",
         "title": "INTA sufre un ataque cibernético que afecta sus servicios informáticos - El Litoral",
         "url": "https://www.ellitoral.com/informacion-general/inta-sufre-un-ataque-cibernetico-que-afecta-sus-servicios-informaticos-hackearon_0_VO1JSkDbsX.html"
+    },
+    {
+        "date": "2023-04-22",
+        "victim": "Murfreesboro Medical Clinic & SurgiCenter",
+        "country": "USA",
+        "summary": "Le centre médical de Murfreesboro a été victime d'une cyberattaque criminelle sophistiquée le 22 avril. Les services aux patients ont été annulés pendant deux jours. Le centre a rapidement fermé son réseau pour limiter la propagation de l'attaque. Le centre travaille avec les autorités et des experts tiers pour identifier la source et l'étendue de l'attaque. Le centre espère rouvrir partiellement mercredi avec des fonctionnalités améliorées de sécurité.",
+        "title": "Medical center victim of cyber 'criminal attack,' closes for 2 days",
+        "url": "https://eu.dnj.com/story/news/2023/05/02/murfreesboro-medical-center-victim-of-cyber-criminal-attack-closes-for-2-days/70176954007/"
     }
 ]
