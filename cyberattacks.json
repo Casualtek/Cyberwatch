@@ -597,5 +597,21 @@
         "summary": "Le centre médical de Murfreesboro a été victime d'une cyberattaque criminelle sophistiquée le 22 avril. Les services aux patients ont été annulés pendant deux jours. Le centre a rapidement fermé son réseau pour limiter la propagation de l'attaque. Le centre travaille avec les autorités et des experts tiers pour identifier la source et l'étendue de l'attaque. Le centre espère rouvrir partiellement mercredi avec des fonctionnalités améliorées de sécurité.",
         "title": "Medical center victim of cyber 'criminal attack,' closes for 2 days",
         "url": "https://eu.dnj.com/story/news/2023/05/02/murfreesboro-medical-center-victim-of-cyber-criminal-attack-closes-for-2-days/70176954007/"
+    },
+    {
+        "date": "2023-05-03",
+        "victim": "Ecole publique à Asheville",
+        "country": "USA",
+        "summary": "Une école publique à Asheville a été fermée à cause d'une cyberattaque. Les téléphones et internet ne fonctionnaient pas. L'école a été informée de l'attaque par le Département de l'Instruction publique de Caroline du Nord. Il faudra peut-être plusieurs jours pour résoudre le problème. L'examen de littérature et composition de niveau avancé aura lieu comme prévu.",
+        "title": "Cyberattack closes public charter school in Asheville | WLOS",
+        "url": "https://wlos.com/news/local/cyberattack-closes-public-charter-school-in-asheville-ic-imagine"
+    },
+    {
+        "date": "2023-05-03",
+        "victim": "Avezzano Sulmona L'Aquila 1",
+        "country": "ITA",
+        "summary": "L'Avezzano Sulmona L'Aquila (ASL 1) a subi une cyberattaque qui a bloqué les serveurs. Les patients ne peuvent plus prendre rendez-vous et sont renvoyés chez eux. Les hôpitaux sont également touchés, avec des difficultés pour délivrer les résultats d'examens et enregistrer les donneurs de sang. La situation est en train d'être gérée manuellement.",
+        "title": "Disagi alla Asl 1 Avezzano Sulmona L'Aquila per il blocco dei server - Rete8",
+        "url": "https://www.rete8.it/cronaca/laquila/disagi-alla-asl-1-avezzano-sulmona-laquila-per-il-blocco-dei-server/"
     }
 ]
