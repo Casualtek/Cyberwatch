@@ -610,8 +610,16 @@
         "date": "2023-05-03",
         "victim": "Avezzano Sulmona L'Aquila 1",
         "country": "ITA",
-        "summary": "L'Avezzano Sulmona L'Aquila (ASL 1) a subi une cyberattaque qui a bloqué les serveurs. Les patients ne peuvent plus prendre rendez-vous et sont renvoyés chez eux. Les hôpitaux sont également touchés, avec des difficultés pour délivrer les résultats d'examens et enregistrer les donneurs de sang. La situation est en train d'être gérée manuellement.",
+        "summary": "L'Avezzano Sulmona L'Aquila (ASL 1) a subi une cyberattaque qui a bloqué les serveurs. Les patients ne peuvent plus prendre rendez-vous et sont renvoyés chez eux. Les hôpitaux sont également touchés, avec des difficultés pour délivrer les résultats d'examens et enregistrer les donneurs de sang. La situation est en train d'être gérée manuellement. La cyberattaque a été revendiquée par le groupe Monti.",
         "title": "Disagi alla Asl 1 Avezzano Sulmona L'Aquila per il blocco dei server - Rete8",
         "url": "https://www.rete8.it/cronaca/laquila/disagi-alla-asl-1-avezzano-sulmona-laquila-per-il-blocco-dei-server/"
+    },
+    {
+        "date": "2023-05-03",
+        "victim": "Ville de Dallas",
+        "country": "USA",
+        "summary": "Une partie du système de communication de la police de Dallas est tombée en panne, ainsi que certains autres services de la ville. On ne sait pas encore si la panne est due à un dysfonctionnement ou à une cyberattaque. La panne affecte le système d'assistance à la police, appelé CAD, qui dirige les policiers vers les urgences et les autres appels. Les opérateurs du 911 peuvent recevoir des appels, mais ils doivent écrire manuellement les instructions pour les policiers. Les officiers ne peuvent répondre que par téléphone et radio.",
+        "title": "Possible cyber attack hampering Dallas police operations - CBS Texas",
+        "url": "https://www.cbsnews.com/texas/news/possible-cyber-attack-hampering-dallas-police-operations/"
     }
 ]
