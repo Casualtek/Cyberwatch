@@ -645,5 +645,13 @@
         "summary": "Des hackers ont publié des données sensibles volées chez AvidXchange, une entreprise de logiciels de paiement, suite à une deuxième attaque de rançongiciel cette année. Les données volées comprennent des accords de non-divulgation, des informations de paie des employés et des numéros de compte bancaire d'entreprise. Les données de connexion ont également été divulguées, y compris des noms d'utilisateur, des mots de passe et des réponses à des questions de sécurité pour divers systèmes de l'entreprise. Les mots de passe facilement devinables suggèrent que l'entreprise utilise des pratiques de sécurité laxistes. AvidXchange a confirmé que des données ont été exfiltrées en avril mais a refusé de répondre aux questions de TechCrunch concernant une éventuelle demande de rançon.",
         "title": "Payment software giant AvidXchange suffers its second ransomware attack of 2023",
         "url": "https://techcrunch.com/2023/05/03/avidxchange-second-ransomware-attack-2023/"
+    },
+    {
+        "date": "2023-05-04",
+        "victim": "Maxim",
+        "country": "DEU",
+        "summary": "L'entreprise allemande Maxim, spécialisée dans la production de marques de distributeurs, a été victime d'une cyberattaque. Les cybercriminels ont réussi à paralyser les systèmes informatiques de l'entreprise. Les détails de l'attaque n'ont pas été divulgués. L'entreprise a déclaré qu'elle travaillait avec des experts en sécurité pour résoudre le problème. L'article est soumis à un paywall et n'est accessible qu'aux abonnés.",
+        "title": "Handelsmarkenhersteller: Cyber-Erpresser legen Maxim lahm",
+        "url": "https://www.lebensmittelzeitung.net/tech-logistik/nachrichten/schadsoftware-cyber-erpresser-legen-handelsmarkenhersteller-maxim-lahm-171065"
     }
 ]
