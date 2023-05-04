@@ -22,10 +22,10 @@ def load_articles_from_json(filename):
     else:
         return []
 
-def ask_chatgpt(news_count, countries):
+def ask_chatgpt(news_count, most_hit_country, countries):
     messages = [
         {'role': 'system', 'content': 'Du bist ein Journalist, der sich auf Cybersicherheit spezialisiert hat. Du erstellst eine Presseschau über Cyberangriffe, die in der vergangenen Woche in der Presse berichtet wurden. Diese Presseschau wird Cyberhebdo genannt.'},
-        {'role': 'user', 'content': f'Verfasse die Einleitung zur Presseschau der letzten Woche und beachte dabei, dass wir {news_count} Cyberangriffe beobachtet haben, die in den Medien der folgenden Länder erwähnt wurden: {countries}. Vergiss nicht zu erwähnen, dass DDoS-Angriffe nicht behandelt werden!'}
+        {'role': 'user', 'content': f'Verfasse die Einleitung zur Presseschau der letzten Woche und beachte dabei, dass wir {news_count} Cyberangriffe beobachtet haben, die in den Medien der folgenden Länder erwähnt wurden: {countries}. Gibt an, dass das am stärksten vertretene Land {most_hit_country["country"]} mit {most_hit_country["count"]} gemeldeten Fällen ist. Denkt daran zu erwähnen, dass DDoS-Cyberangriffe nicht behandelt werden, ebenso wenig wie die Verunstaltung von Websites.'}
     ]
 
     print(f'Obtaining introduction.')
@@ -75,6 +75,19 @@ def ask_chatgpt(news_count, countries):
 
     return output
 
+def most_seen_country(items):
+    counts = {}
+    for item in items:
+        counts[item] = counts.get(item, 0) + 1
+    most_seen = max(counts, key=counts.get)
+    
+    output = {
+        'country': most_seen,
+        'count'  : counts[most_seen]
+    }
+
+    return output
+
 def main(json_file):
     stories = load_articles_from_json(json_file)
     stories.sort(key=lambda x: datetime.strptime(x['date'], '%Y-%m-%d'))
@@ -84,11 +97,17 @@ def main(json_file):
     recent_items = [item for item in stories if datetime.strptime(item['date'], '%Y-%m-%d') >= one_week_ago]
     recent_items.sort(key=lambda x: datetime.strptime(x['date'], '%Y-%m-%d'))
     news_count     = len(recent_items)
+
+    # most affected country
+    countries_all  = [item['country'] for item in recent_items]
+    most_hit       = most_seen_country(countries_all)
+
+    # affected countries
     countries_list = set([item['country'] for item in recent_items])
     countries      = ', '.join(countries_list)
     
-    news_report = ask_chatgpt(news_count,countries)
-    
+    news_report = ask_chatgpt(news_count,most_hit,countries)
+
     html = f'<html>\n<head>\n<title>{news_report["title"]}</title>\n</head>\n<body>\n'
     html += f'<p>{news_report["summary"]}</p>\n'
     html += f'<p>{news_report["introduction"]}</p>\n'
