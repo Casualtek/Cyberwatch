@@ -92,13 +92,11 @@ def main(json_file):
     html = f'<html>\n<head>\n<title>{news_report["title"]}</title>\n</head>\n<body>\n'
     html += f'<p>{news_report["summary"]}</p>\n'
     html += f'<p>{news_report["introduction"]}</p>\n'
-    html_list = '<ul>\n'
     for item in recent_items:
-        date = datetime.strptime(item['date'], '%Y-%m-%d').strftime('%d/%m/%Y')
-        html_list += f'<li>{date} - <b>{item["victim"]}</b> ({item["country"]})<br/>{translate_text(item["summary"])} (<a href="{item["url"]}">source</a>)</li>\n'
-    html_list += '</ul>\n'
+        date = datetime.strptime(item['date'], '%Y-%m-%d').strftime('%d.%m.%Y')
+        html_list += f'<p>{date}, <b>{item["victim"]} ({item["country"]}).</b>{translate_text(item["summary"])}. <a href="{item["url"]}">Quelle</a>.</p>\n'
     html += html_list
-    html += '<i>Presseschau, teilweise mit ChatGPT erstellt.</i>'
+    html += '<i>Presseschau, teilweise mit ChatGPT erstellt und von der Redaktion geprüft. <a href="https://www.lemagit.fr/actualites/365535799/Cyberhebdo-LeMagIT-met-lIA-au-service-de-linformation-de-ses-lecteurs">Cyberhebdo</a> wurde von unseren französischen Kollegen von LeMagIT entwickelt.</i>'
     html += '</body>\n</html>'
     
     with open(f'./cyberhebdo/{now.strftime("%Y-%m-%d")}-de.html', 'w') as html_file:
