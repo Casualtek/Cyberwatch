@@ -621,5 +621,29 @@
         "summary": "Une partie du système de communication de la police de Dallas est tombée en panne, ainsi que certains autres services de la ville. On ne sait pas encore si la panne est due à un dysfonctionnement ou à une cyberattaque. La panne affecte le système d'assistance à la police, appelé CAD, qui dirige les policiers vers les urgences et les autres appels. Les opérateurs du 911 peuvent recevoir des appels, mais ils doivent écrire manuellement les instructions pour les policiers. Les officiers ne peuvent répondre que par téléphone et radio.",
         "title": "Possible cyber attack hampering Dallas police operations - CBS Texas",
         "url": "https://www.cbsnews.com/texas/news/possible-cyber-attack-hampering-dallas-police-operations/"
+    },
+    {
+        "date": "2023-05-04",
+        "victim": "SECOP II",
+        "country": "COL",
+        "summary": "La plateforme SECOP II, utilisée pour les trames de contratación pública en Colombie, a été victime d'une cyberattaque. La plateforme a été hors service pendant 34 heures. Les données des utilisateurs n'ont pas été compromises. Les processus en cours ne seront pas affectés. Les organismes de sécurité de l'État ont été convoqués pour enquêter sur l'incident.",
+        "title": "Confirmaron ataque cibernético a la plataforma SECOP II - Infobae",
+        "url": "https://www.infobae.com/colombia/2023/05/03/confirmaron-ataque-cibernetico-a-la-plataforma-secop-ii/"
+    },
+    {
+        "date": "2023-05-04",
+        "victim": "Le bureau du superviseur des élections du comté de Hillsborough",
+        "country": "USA",
+        "summary": "D'après cet article, une cyberattaque a eu lieu au bureau du superviseur des élections du comté de Hillsborough. L'accès au site web de l'article a été bloqué pour les utilisateurs. La cause de l'attaque n'a pas été précisée. Le bureau des élections a déclaré que les informations des électeurs n'ont pas été compromises. L'enquête est en cours.",
+        "title": "Access Denied",
+        "url": "https://www.wtsp.com/article/news/local/hillsboroughcounty/hillsborough-county-supervisor-of-elections-office-cyber-incident/67-270f1087-a065-48cd-88f1-09e5872484c9"
+    },
+    {
+        "date": "2023-05-04",
+        "victim": "AvidXchange",
+        "country": "USA",
+        "summary": "Des hackers ont publié des données sensibles volées chez AvidXchange, une entreprise de logiciels de paiement, suite à une deuxième attaque de rançongiciel cette année. Les données volées comprennent des accords de non-divulgation, des informations de paie des employés et des numéros de compte bancaire d'entreprise. Les données de connexion ont également été divulguées, y compris des noms d'utilisateur, des mots de passe et des réponses à des questions de sécurité pour divers systèmes de l'entreprise. Les mots de passe facilement devinables suggèrent que l'entreprise utilise des pratiques de sécurité laxistes. AvidXchange a confirmé que des données ont été exfiltrées en avril mais a refusé de répondre aux questions de TechCrunch concernant une éventuelle demande de rançon.",
+        "title": "Payment software giant AvidXchange suffers its second ransomware attack of 2023",
+        "url": "https://techcrunch.com/2023/05/03/avidxchange-second-ransomware-attack-2023/"
     }
 ]
