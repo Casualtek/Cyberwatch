@@ -92,6 +92,7 @@ def main(json_file):
     html = f'<html>\n<head>\n<title>{news_report["title"]}</title>\n</head>\n<body>\n'
     html += f'<p>{news_report["summary"]}</p>\n'
     html += f'<p>{news_report["introduction"]}</p>\n'
+    html_list = ''
     for item in recent_items:
         date = datetime.strptime(item['date'], '%Y-%m-%d').strftime('%d.%m.%Y')
         html_list += f'<p>{date}, <b>{item["victim"]} ({item["country"]}).</b>{translate_text(item["summary"])}. <a href="{item["url"]}">Quelle</a>.</p>\n'
