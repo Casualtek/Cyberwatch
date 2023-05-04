@@ -661,5 +661,13 @@
         "summary": "L'entreprise Uniboard Canada a été victime d'une cyberattaque le 3 mars dernier. Des données personnelles des employés ont été exfiltrées. La société a pris des mesures pour protéger ses systèmes informatiques et offrira des services de surveillance du crédit et de protection contre le vol d'identité pendant trois ans. Les cyberattaques visent de plus en plus les données personnelles des salariés. La sensibilisation des employés est la première protection pour les entreprises contre les attaques.",
         "title": "Uniboard Canada aurait été victime d'une cyberattaque",
         "url": "https://nouvelles-dujour.com/uniboard-canada-aurait-ete-victime-dune-cyberattaque/"
+    },
+    {
+        "date": "2023-04-25",
+        "victim": "Multimedica",
+        "country": "ITA",
+        "summary": "Une attaque informatique contre l'hôpital Multimedica à Milan et Sesto San Giovanni. Le service d'urgence a été bloqué. Cyberattaque revendiquée par LockBit le 26 avril 2023.",
+        "title": "Attacco informatico alla Multimedica: Pronto soccorso di Milano e Sesto San Giovanni bloccati",
+        "url": "https://www.redhotcyber.com/post/attacco-informatico-alla-multimedica-pronto-soccorso-di-milano-e-sesto-san-giovanni-bloccati/"
     }
 ]
