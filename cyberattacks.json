@@ -669,5 +669,13 @@
         "summary": "Une attaque informatique contre l'hôpital Multimedica à Milan et Sesto San Giovanni. Le service d'urgence a été bloqué. Cyberattaque revendiquée par LockBit le 26 avril 2023.",
         "title": "Attacco informatico alla Multimedica: Pronto soccorso di Milano e Sesto San Giovanni bloccati",
         "url": "https://www.redhotcyber.com/post/attacco-informatico-alla-multimedica-pronto-soccorso-di-milano-e-sesto-san-giovanni-bloccati/"
+    },
+    {
+        "date": "2023-05-05",
+        "victim": "Raleigh Housing Authority",
+        "country": "USA",
+        "summary": "Une cyberattaque a touché l'Autorité de logement de Raleigh, en Caroline du Nord. Les systèmes informatiques ont été fermés, affectant les opérations commerciales et les résidents. La Garde nationale a été appelée pour enquêter sur l'attaque. L'Autorité de logement a notifié les autorités étatiques et fédérales et travaille à identifier les auteurs de l'attaque. Les résidents peuvent toujours soumettre leurs besoins de maintenance via une ligne d'appel.",
+        "title": "Raleigh Housing Authority cyber-attack | Cyberattack shuts down Raleigh Housing Authority computer systems - ABC11 Raleigh-Durham",
+        "url": "https://abc11.com/raleigh-housing-authority-cyber-attack-rha-shuts-down-operations-national-guard-security-team-ashley-lommers-johnson/13213151/"
     }
 ]
