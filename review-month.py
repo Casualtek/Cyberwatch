@@ -17,10 +17,10 @@ def load_articles_from_json(filename):
 
 def ask_chatgpt(news_count,most_hit_region,most_hit_country):
     messages = [
-        {'role': 'system', 'content': 'Tu es un journaliste spécialisé en cybersécurité. Tu prépares une revue de presse portant sur les cyberattaques rapportées dans la presse au cours de ce mois-ci.'},
-        {'role': 'user', 'content': f'Rédige le texte d\'introduction de la revue de presse pour le mois en cours, sachant que nous avons observé {news_count} cyberattaques évoquées dans les médias à travers le monde. Précise que la région la plus représentée est {most_hit_region} et que le pays le plus affecté est {most_hit_country["country"]} avec {most_hit_country["count"]} cas constatés. Pense à rappeler que les cyberattaques en DDoS et les défigurations de sites Web ne sont pas traitées.'}
+        {'role': 'system', 'content': 'Tu es un journaliste spécialisé en cybersécurité. Tu prépares une revue de presse portant sur les cyberattaques rapportées dans la presse au cours du mois dernier.'},
+        {'role': 'user', 'content': f'Rédige le texte d\'introduction de la revue de presse pour le mois dernier, sachant que nous avons observé {news_count} cyberattaques évoquées dans les médias à travers le monde. Précise que la région la plus représentée est {most_hit_region} et que le pays le plus affecté est {most_hit_country["country"]} avec {most_hit_country["count"]} cas constatés. Pense à rappeler que les cyberattaques en DDoS et les défigurations de sites Web ne sont pas traitées.'}
     ]
-
+    
     print(f'Obtaining introduction.')
     completion = openai.ChatCompletion.create(
         model='gpt-3.5-turbo',
@@ -33,9 +33,9 @@ def ask_chatgpt(news_count,most_hit_region,most_hit_country):
     print(summary)
 
     messages.append({'role': 'assistant', 'content': summary})
-    messages.append({'role': 'user', 'content': 'Rédige un résumé de ce texte en moins de 150 caractères.'})
+    messages.append({'role': 'user', 'content': 'Rédige un titre pour ce texte.'})
 
-    print(f'Obtaining summary.')
+    print(f'Obtaining title.')
     completion = openai.ChatCompletion.create(
         model='gpt-3.5-turbo',
         messages=messages,
@@ -46,24 +46,9 @@ def ask_chatgpt(news_count,most_hit_region,most_hit_country):
     victim = completion.choices[0].message.content
     print(victim)
 
-    messages.append({'role': 'assistant', 'content': victim})
-    messages.append({'role': 'user', 'content': 'Il nous faudrait un titre également.'})
-
-    print(f'Obtaining title.')
-    completion = openai.ChatCompletion.create(
-        model="gpt-3.5-turbo",
-        messages=messages,
-        max_tokens=90,
-        n=1,
-        temperature=0.2,
-    )
-    country = completion.choices[0].message.content
-    print(country)
-
     output = {
         'introduction': summary,
-        'summary' : victim,
-        'title': country
+        'title' : victim
         }
 
     return output
@@ -96,8 +81,9 @@ def main(json_file):
     stories = load_articles_from_json(json_file)
     stories.sort(key=lambda x: datetime.strptime(x['date'], '%Y-%m-%d'))
     
-    last_month       = datetime.now() - timedelta(days=30)
-    last_month_items = [item for item in stories if datetime.strptime(item['date'], '%Y-%m-%d') >= last_month]
+    last_month       = datetime.now() - timedelta(days=15)
+    last_month       = last_month.replace(day=1)
+    last_month_items = [item for item in stories if datetime.strptime(item['date'], '%Y-%m-%d').month == last_month.month]
     last_month_items.sort(key=lambda x: datetime.strptime(x['date'], '%Y-%m-%d'))
     news_count       = len(last_month_items)
 
@@ -110,7 +96,6 @@ def main(json_file):
     news_report = ask_chatgpt(news_count,most_hit_region,most_hit_country)
     
     html = f'<html>\n<head>\n<title>{news_report["title"]}</title>\n</head>\n<body>\n'
-    html += f'<p>{news_report["summary"]}</p>\n'
     html += f'<p>{news_report["introduction"]}</p>\n'
     html_list = '<ul>\n'
     for item in last_month_items:
