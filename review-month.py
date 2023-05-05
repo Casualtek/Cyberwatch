@@ -102,7 +102,7 @@ def main(json_file):
     news_count       = len(last_month_items)
 
     #affected regions
-    countries_all    = [item['country'] for item in current_month_items]
+    countries_all    = [item['country'] for item in last_month_items]
     regions_hits     = count_by_region(countries_all)
     most_hit_country = most_seen_country(countries_all)
     most_hit_region  = max(regions_hits, key=lambda region: regions_hits[region])
