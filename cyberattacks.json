@@ -83,7 +83,7 @@
         "date": "2023-04-24",
         "victim": "Naivas",
         "country": "KEN",
-        "summary": "La chaîne de supermarchés kényane Naivas a confirmé avoir été victime d'une attaque de ransomware menée par une organisation criminelle en ligne. Certaines données ont été compromises mais le processus de confinement est terminé et le système est maintenant sécurisé. Naivas assure que ses systèmes ne contiennent pas d'informations de carte de crédit ou de débit et que les informations de paiement sont protégées par une encryption SSL. Il n'y a actuellement aucune preuve d'utilisation malveillante des données volées, mais Naivas a averti les clients de rester vigilants contre les tentatives de phishing. Cette attaque survient une semaine après que la chaîne de supermarchés australienne Coles a confirmé qu'un groupe de cybercriminels avait",
+        "summary": "La chaîne de supermarchés kényane Naivas a confirmé avoir été victime d'une attaque de ransomware menée par une organisation criminelle en ligne. Certaines données ont été compromises mais le processus de confinement est terminé et le système est maintenant sécurisé. Naivas assure que ses systèmes ne contiennent pas d'informations de carte de crédit ou de débit et que les informations de paiement sont protégées par une encryption SSL. La cyberattaque a été revendiquée par Alphv/BlackCat le 21 avril 2023.",
         "title": "Naivas confirms ransomware attack on its data",
         "url": "https://www.retail-insight-network.com/news/naivas-ransomware-attack-data/"
     },
@@ -677,5 +677,21 @@
         "summary": "Une cyberattaque a touché l'Autorité de logement de Raleigh, en Caroline du Nord. Les systèmes informatiques ont été fermés, affectant les opérations commerciales et les résidents. La Garde nationale a été appelée pour enquêter sur l'attaque. L'Autorité de logement a notifié les autorités étatiques et fédérales et travaille à identifier les auteurs de l'attaque. Les résidents peuvent toujours soumettre leurs besoins de maintenance via une ligne d'appel.",
         "title": "Raleigh Housing Authority cyber-attack | Cyberattack shuts down Raleigh Housing Authority computer systems - ABC11 Raleigh-Durham",
         "url": "https://abc11.com/raleigh-housing-authority-cyber-attack-rha-shuts-down-operations-national-guard-security-team-ashley-lommers-johnson/13213151/"
+    },
+    {
+        "date": "2023-04-26",
+        "victim": "Americold",
+        "country": "USA",
+        "summary": "Une cyberattaque a touché environ un tiers des installations d'Americold, une entreprise de stockage et de transport de produits alimentaires. L'attaque n'a pas endommagé les stocks de l'entreprise. Le partenaire en cybersécurité de l'entreprise, Mandiant, a rapidement réduit l'impact de l'intrusion. L'entreprise travaille avec les autorités pour enquêter sur l'attaque. C'est la deuxième attaque majeure signalée par Americold au cours des trois dernières années.",
+        "title": "Cyberattack hits a third of Americold’s facilities | SeafoodSource",
+        "url": "https://www.seafoodsource.com/news/business-finance/cyberattack-hits-a-third-of-americold-s-facilities"
+    },
+    {
+        "date": "2023-03-10",
+        "victim": "Transactimo",
+        "country": "FRA",
+        "summary": "Une agence immobilière cliente de Transactimo a été victime d'une cyberattaque. Toutes ses données ont été perdues.",
+        "title": "Loire. Victime d'une cyberattaque, cette agence immobilière du Coteau a perdu toutes ses données",
+        "url": "https://www.leprogres.fr/economie/2023/05/05/comment-l-agence-immobiliere-tout-imo-a-ete-victime-d-une-cyberattaque-et-d-un-piratage-de-ses-donnees"
     }
 ]
