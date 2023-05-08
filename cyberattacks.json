@@ -701,5 +701,13 @@
         "summary": "Le fournisseur de solutions de centre de contact omnicanal Vocalcom a été victime d'une cyberattaque par cryptolocker revendiquée par le groupe Play. Ce dernier a volé des données financières privées et personnelles, ainsi que des passeports, des données clients et des informations techniques. Vocalcom a découvert l'incident le 18 avril et a pris immédiatement des mesures pour isoler ses systèmes d'informations internes. Les systèmes d'information internes et les serveurs hébergeant les données clients sont physiquement séparés et n'ont pas été impactés. Il n'y a pas eu d'interruption de service sur les solutions de Vocalcom, mais l'organisation du travail et la productivité ont été perturbées.",
         "title": "Cyberattaque : Vocalcom confronté au ransomware Play | LeMagIT",
         "url": "https://www.lemagit.fr/actualites/366537032/Cyberattaque-Vocalcom-confronte-au-ransomware-Play"
+    },
+    {
+        "date": "2023-03-08",
+        "victim": "Our Sunday Visitor (OSV)",
+        "country": "USA",
+        "summary": "Le journal catholique \"Our Sunday Visitor\" a subi une cyberattaque. Des données sensibles de ses abonnés ont été exposées. Le journal a lancé une enquête et contacté les autorités. Les informations exposées incluent des données personnelles et financières. Le journal prévoit d'envoyer des notifications aux personnes affectées et donne des conseils pour se protéger.",
+        "title": "Catholic Paper Suffers Data Breach 05/08/2023",
+        "url": "https://www.mediapost.com/publications/article/385137/catholic-paper-suffers-data-breach.html"
     }
 ]
