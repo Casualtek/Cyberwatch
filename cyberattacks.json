@@ -709,5 +709,13 @@
         "summary": "Le journal catholique \"Our Sunday Visitor\" a subi une cyberattaque. Des données sensibles de ses abonnés ont été exposées. Le journal a lancé une enquête et contacté les autorités. Les informations exposées incluent des données personnelles et financières. Le journal prévoit d'envoyer des notifications aux personnes affectées et donne des conseils pour se protéger.",
         "title": "Catholic Paper Suffers Data Breach 05/08/2023",
         "url": "https://www.mediapost.com/publications/article/385137/catholic-paper-suffers-data-breach.html"
+    },
+    {
+        "date": "2023-05-08",
+        "victim": "Fleury",
+        "country": "BRA",
+        "summary": "Le groupe Fleury a subi une attaque informatique dans la nuit de dimanche. La société a immédiatement activé ses protocoles de sécurité pour minimiser les impacts sur ses opérations. Des entreprises spécialisées ont été sollicitées pour aider à résoudre le problème. Les opérations sont en train de reprendre progressivement avec des tests de sécurité en cours. Fleury continue d'enquêter sur les circonstances de l'attaque et prend toutes les mesures nécessaires pour limiter les dommages causés.",
+        "title": "Fleury (FLRY3) identifica ataque cibernético em seu sistema na noite de domingo - São Bento em Foco - São Bento, Paraíba, Brasil e o Mundo",
+        "url": "https://saobentoemfoco.com.br/noticia/97340/fleury-flry3-identifica-ataque-cibernetico-em-seu-sistema-na-noite-de-domingo.html"
     }
 ]
