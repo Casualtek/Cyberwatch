@@ -765,5 +765,13 @@
         "summary": "La National Gallery du Canada a subi une attaque de ransomware le mois dernier. Les systèmes de paiement sont restés sûrs et les données de carte de crédit et de débit des membres et des visiteurs n'ont pas été compromises. Les employés travaillent à distance jusqu'à ce que les serveurs soient reconstruits et que l'accès soit restauré. L'enquête est menée par des experts en cybersécurité tiers et le Centre canadien pour la cybersécurité. Les membres peuvent toujours visiter le site et les promotions seront honorées et prolongées.",
         "title": "National Gallery says it's 'recovering' following ransomeware attack | Ottawa Citizen",
         "url": "https://ottawacitizen.com/news/local-news/national-gallery-recovering-following-ransomeware-attack"
+    },
+    {
+        "date": "2023-04-05",
+        "victim": "Mercer University",
+        "country": "USA",
+        "summary": "Une panne informatique a eu lieu à l'université Mercer, forçant plusieurs systèmes à être hors ligne. Des rapports ont suggéré une possible cyberattaque, mais les responsables de l'université n'ont pas confirmé cette hypothèse. Le groupe Akira revendiquera l'attaque le 9 mai 2023.",
+        "title": "'IT Outage' forces several systems offline at Mercer University | WGXA",
+        "url": "https://wgxa.tv/news/local/it-outage-forces-several-systems-offline-at-mercer-university"
     }
 ]
