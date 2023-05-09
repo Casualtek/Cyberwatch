@@ -757,5 +757,13 @@
         "summary": "Le Gaston College a été victime d'une attaque de ransomware en février. Le pirate a accédé à des fichiers contenant des informations personnelles des employés. Le président du collège a envoyé un e-mail interne pour informer les employés de la situation et les inciter à souscrire à une surveillance de crédit. Le groupe Snatch divulgue les données volées depuis début avril 2023.",
         "title": "Hacker committed ransomware attack on Gaston College",
         "url": "https://eu.gastongazette.com/story/news/local/2023/05/09/hacker-committed-ransomware-attack-on-gaston-college/70189362007/"
+    },
+    {
+        "date": "2023-04-23",
+        "victim": "National Gallery du Canada",
+        "country": "CAN",
+        "summary": "La National Gallery du Canada a subi une attaque de ransomware le mois dernier. Les systèmes de paiement sont restés sûrs et les données de carte de crédit et de débit des membres et des visiteurs n'ont pas été compromises. Les employés travaillent à distance jusqu'à ce que les serveurs soient reconstruits et que l'accès soit restauré. L'enquête est menée par des experts en cybersécurité tiers et le Centre canadien pour la cybersécurité. Les membres peuvent toujours visiter le site et les promotions seront honorées et prolongées.",
+        "title": "National Gallery says it's 'recovering' following ransomeware attack | Ottawa Citizen",
+        "url": "https://ottawacitizen.com/news/local-news/national-gallery-recovering-following-ransomeware-attack"
     }
 ]
