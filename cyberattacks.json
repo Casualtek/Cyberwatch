@@ -717,5 +717,21 @@
         "summary": "Le groupe Fleury a subi une attaque informatique dans la nuit de dimanche. La société a immédiatement activé ses protocoles de sécurité pour minimiser les impacts sur ses opérations. Des entreprises spécialisées ont été sollicitées pour aider à résoudre le problème. Les opérations sont en train de reprendre progressivement avec des tests de sécurité en cours. Fleury continue d'enquêter sur les circonstances de l'attaque et prend toutes les mesures nécessaires pour limiter les dommages causés.",
         "title": "Fleury (FLRY3) identifica ataque cibernético em seu sistema na noite de domingo - São Bento em Foco - São Bento, Paraíba, Brasil e o Mundo",
         "url": "https://saobentoemfoco.com.br/noticia/97340/fleury-flry3-identifica-ataque-cibernetico-em-seu-sistema-na-noite-de-domingo.html"
+    },
+    {
+        "date": "2023-04-09",
+        "victim": "Lürssen",
+        "country": "DEU",
+        "summary": "La société de construction navale Lürssen a été victime d'une attaque de ransomware pendant les vacances de Pâques, qui a paralysé une grande partie de ses opérations. La police enquête sur l'attaque et des experts en cybercriminalité conseillent la société. Lürssen est connue pour la construction de yachts de luxe et emploie environ 1 500 personnes. L'identité des auteurs de l'attaque n'est pas encore connue. La société a immédiatement pris des mesures de protection et a informé les autorités compétentes.",
+        "title": "Hackerangriff auf Lürssen-Werft legt Betrieb teilweise lahm | NDR.de - Nachrichten - Niedersachsen - Studio Oldenburg",
+        "url": "https://www.ndr.de/nachrichten/niedersachsen/oldenburg_ostfriesland/Hackerangriff-auf-Luerssen-Werft-legt-Betrieb-teilweise-lahm,luerssen132.html"
+    },
+    {
+        "date": "2023-04-09",
+        "victim": "SD Worx",
+        "country": "BEL",
+        "summary": "SD Worx, une entreprise belge de gestion de la paie et des ressources humaines, a subi une cyberattaque. Les systèmes informatiques de ses services au Royaume-Uni et en Irlande ont été fermés pour contenir l'attaque. Les portails de connexion pour les autres pays européens fonctionnent correctement. Les clients ont été informés de l'attaque et SD Worx travaille sur une solution pour rétablir l'accès aux systèmes. Il n'y a pas encore d'informations sur le type d'attaque, mais il y a des inquiétudes quant au vol de données sensibles.",
+        "title": "SD Worx shuts down UK payroll, HR services after cyberattack",
+        "url": "https://www.bleepingcomputer.com/news/security/sd-worx-shuts-down-uk-payroll-hr-services-after-cyberattack/"
     }
 ]
