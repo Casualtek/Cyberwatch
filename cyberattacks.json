@@ -733,5 +733,21 @@
         "summary": "SD Worx, une entreprise belge de gestion de la paie et des ressources humaines, a subi une cyberattaque. Les systèmes informatiques de ses services au Royaume-Uni et en Irlande ont été fermés pour contenir l'attaque. Les portails de connexion pour les autres pays européens fonctionnent correctement. Les clients ont été informés de l'attaque et SD Worx travaille sur une solution pour rétablir l'accès aux systèmes. Il n'y a pas encore d'informations sur le type d'attaque, mais il y a des inquiétudes quant au vol de données sensibles.",
         "title": "SD Worx shuts down UK payroll, HR services after cyberattack",
         "url": "https://www.bleepingcomputer.com/news/security/sd-worx-shuts-down-uk-payroll-hr-services-after-cyberattack/"
+    },
+    {
+        "date": "2023-04-23",
+        "victim": "Woonkracht10.",
+        "country": "NLD.",
+        "summary": "La société de logement Woonkracht10 a été victime d'une cyberattaque impliquant le ransomware Play, le week-end du 22 et 23 avril. Des données de locataires, d'employés et d'autres personnes ont été volées. Woonkracht10 a payé une rançon pour protéger les données des locataires et des autres personnes concernées. Le montant de la rançon n'a pas été divulgué. Woonkracht10 a signalé l'attaque à l'Autorité de protection des données et a déposé une plainte auprès de la police.",
+        "title": "Transport Online - Zwijndrechtse woningcorporatie Woonkracht10 betaalt losgeld na cyberaanval",
+        "url": "https://www.transport-online.nl/site/154013/zwijndrechtse-woningcorporatie-woonkracht10-betaalt-losgeld-na-cyberaanval/"
+    },
+    {
+        "date": "2022-07-15",
+        "victim": "Tokyo MOU Port State Control authority",
+        "country": "JPN",
+        "summary": "L'autorité de contrôle des ports de Tokyo MOU a révélé que ses données ont été compromises pendant des mois après avoir été victime d'une cyberattaque en juillet dernier. Cette attaque a causé des problèmes avec les données de contrôle des navires, ce qui a pu créer des difficultés pour la prise de décision des affréteurs sur le marché commercial. L'autorité a déclaré qu'elle augmentera les mesures de prévention pour éviter de futures attaques. En 2022, il y a eu 24 894 inspections dans la région de Tokyo MOU, dont 10,5% ont été effectuées à distance. La Chine, Singapour et Hong Kong ont mené la liste blanche de Tokyo MOU, tandis que les États-Unis et les",
+        "title": "Tokyo MOU reveals cyber-attack compromised data | TradeWinds",
+        "url": "https://www.tradewindsnews.com/regulation/tokyo-mou-reveals-cyber-attack-compromised-data/2-1-1448110"
     }
 ]
