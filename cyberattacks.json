@@ -749,5 +749,13 @@
         "summary": "L'autorité de contrôle des ports de Tokyo MOU a révélé que ses données ont été compromises pendant des mois après avoir été victime d'une cyberattaque en juillet dernier. Cette attaque a causé des problèmes avec les données de contrôle des navires, ce qui a pu créer des difficultés pour la prise de décision des affréteurs sur le marché commercial. L'autorité a déclaré qu'elle augmentera les mesures de prévention pour éviter de futures attaques. En 2022, il y a eu 24 894 inspections dans la région de Tokyo MOU, dont 10,5% ont été effectuées à distance. La Chine, Singapour et Hong Kong ont mené la liste blanche de Tokyo MOU, tandis que les États-Unis et les",
         "title": "Tokyo MOU reveals cyber-attack compromised data | TradeWinds",
         "url": "https://www.tradewindsnews.com/regulation/tokyo-mou-reveals-cyber-attack-compromised-data/2-1-1448110"
+    },
+    {
+        "date": "2023-02-22",
+        "victim": "Gaston College",
+        "country": "USA",
+        "summary": "Le Gaston College a été victime d'une attaque de ransomware en février. Le pirate a accédé à des fichiers contenant des informations personnelles des employés. Le président du collège a envoyé un e-mail interne pour informer les employés de la situation et les inciter à souscrire à une surveillance de crédit. Le groupe Snatch divulgue les données volées depuis début avril 2023.",
+        "title": "Hacker committed ransomware attack on Gaston College",
+        "url": "https://eu.gastongazette.com/story/news/local/2023/05/09/hacker-committed-ransomware-attack-on-gaston-college/70189362007/"
     }
 ]
