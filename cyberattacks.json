@@ -773,5 +773,37 @@
         "summary": "Une panne informatique a eu lieu à l'université Mercer, forçant plusieurs systèmes à être hors ligne. Des rapports ont suggéré une possible cyberattaque, mais les responsables de l'université n'ont pas confirmé cette hypothèse. Le groupe Akira revendiquera l'attaque le 9 mai 2023.",
         "title": "'IT Outage' forces several systems offline at Mercer University | WGXA",
         "url": "https://wgxa.tv/news/local/it-outage-forces-several-systems-offline-at-mercer-university"
+    },
+    {
+        "date": "2023-03-05",
+        "victim": "Sysco",
+        "country": "USA",
+        "summary": "Sysco, une entreprise de distribution alimentaire mondiale, a été victime d'une cyberattaque. Des données sensibles, incluant des informations sur les clients, les fournisseurs et les employés, ont été volées. L'attaque a commencé le 14 janvier 2023 et a été découverte le 5 mars 2023. Les données volées incluent des informations personnelles telles que les noms, les numéros de sécurité sociale et les numéros de compte. Sysco a engagé une entreprise de cybersécurité pour enquêter sur l'incident et a informé les autorités fédérales.",
+        "title": "Food distribution giant Sysco warns of data breach after cyberattack",
+        "url": "https://www.bleepingcomputer.com/news/security/food-distribution-giant-sysco-warns-of-data-breach-after-cyberattack/"
+    },
+    {
+        "date": "2023-05-08",
+        "victim": "Tribunal Supérieur du Travail (TST)",
+        "country": "BRA",
+        "summary": "Le Tribunal Supérieur du Travail a subi une cyberattaque qui a paralysé ses systèmes numériques. La durée de l'attaque et les données potentiellement compromises ne sont pas encore connues. Les experts en cybersécurité recommandent d'adopter des pratiques de sécurité numérique robustes et de former les employés à identifier les menaces. Il est crucial que les organismes gouvernementaux et privés travaillent ensemble pour protéger les informations et la vie privée des citoyens. Cette attaque souligne l'importance d'investir dans la sécurité numérique et de prendre des mesures préventives pour éviter de futurs incidents.",
+        "title": "Ataque cibernético paralisa sistemas do Tribunal Superior do Trabalho",
+        "url": "https://www.contabeis.com.br/noticias/55689/ataque-cibernetico-paralisa-sistemas-do-tribunal-superior-do-trabalho/"
+    },
+    {
+        "date": "2023-05-10",
+        "victim": "Chattanooga State",
+        "country": "USA",
+        "summary": "Chattanooga State a été victime d'une cyberattaque qui a entraîné la fermeture de nombreux services sur le campus. Les cours ont été annulés jusqu'au 26 mai et les crédits ont été retardés. Les détails de l'attaque n'ont pas été divulgués, mais l'école travaille avec les forces de l'ordre et des experts en cyberforensique pour enquêter sur l'incident. Les étudiants et le personnel ont été invités à rester vigilants et à suivre les meilleures pratiques pour protéger leurs informations personnelles. Les événements prévus sur le campus ont été annulés et il n'y a pas de date de retour à la normale pour le moment.",
+        "title": "Chatt State Suffering from Cyber Attack - WDEF",
+        "url": "https://www.wdef.com/chatt-state-suffering-from-cyber-attack/"
+    },
+    {
+        "date": "2023-05-10",
+        "victim": "TechnologyOne",
+        "country": "AUS",
+        "summary": "L'entreprise australienne TechnologyOne a subi une cyberattaque qui a permis à un tiers non autorisé d'accéder à ses systèmes de back-office. La société a isolé les systèmes affectés et enquête sur l'incident. La plateforme SaaS de l'entreprise n'a pas été touchée. La société n'a pas révélé l'impact potentiel sur ses revenus. D'autres grandes entreprises australiennes ont également signalé des violations de données et des accès non autorisés.",
+        "title": "ERP firm TechnologyOne faces cyber attack - InfotechLead",
+        "url": "https://infotechlead.com/security/erp-firm-technologyone-faces-cyber-attack-78242"
     }
 ]
