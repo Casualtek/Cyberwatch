@@ -805,5 +805,13 @@
         "summary": "L'entreprise australienne TechnologyOne a subi une cyberattaque qui a permis à un tiers non autorisé d'accéder à ses systèmes de back-office. La société a isolé les systèmes affectés et enquête sur l'incident. La plateforme SaaS de l'entreprise n'a pas été touchée. La société n'a pas révélé l'impact potentiel sur ses revenus. D'autres grandes entreprises australiennes ont également signalé des violations de données et des accès non autorisés.",
         "title": "ERP firm TechnologyOne faces cyber attack - InfotechLead",
         "url": "https://infotechlead.com/security/erp-firm-technologyone-faces-cyber-attack-78242"
+    },
+    {
+        "date": "2023-05-08",
+        "victim": "Dragos",
+        "country": "USA",
+        "summary": "Un groupe de cybercriminels a tenté de faire chanter Dragos, mais n'a pas réussi à compromettre leurs systèmes. Les criminels ont réussi à accéder à des ressources utilisées par un nouvel employé de vente en compromettant son adresse e-mail personnelle. Dragos a bloqué le compte compromis et a activé son plan de réponse à l'incident. Les criminels ont tenté de déployer des ransomwares et ont contacté des employés de Dragos, mais l'entreprise a choisi de ne pas négocier avec eux. Dragos a ajouté des mesures de sécurité supplémentaires et recommande de renforcer l'infrastructure et les processus de gestion des identités et des accès.",
+        "title": "Deconstructing a Cybersecurity Event | Dragos",
+        "url": "https://www.dragos.com/blog/deconstructing-a-cybersecurity-event/"
     }
 ]
