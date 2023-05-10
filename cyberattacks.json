@@ -821,5 +821,13 @@
         "summary": "AISI, une entreprise de cybersécurité, aide une PME/ETI victime d'une attaque ransomware depuis dimanche dernier. L'entreprise victime est une structure en IDF avec 300-500 salariés. Dès que l'attaque a été signalée, AISI a pris contact avec le client dans les 10 minutes qui ont suivi. Les équipes d'AISI ont créé une War Room et ont collecté les logs de toutes les VMs, démarrant ainsi une investigation pour identifier la souche/groupe d'attaquants et transférer les données à restaurer à l'équipe spécialisée en recovery. Pendant les deux jours suivants, AISI a continué l'investigation, accompagné le client dans la reconstruction et supervisé en temps réel. Cependant, il y a eu plusieurs problèmes auxquels il fallait faire face. Par exemple, le client n'a pas pu couper internet car la direction ne le souhaitait pas, et il a été difficile de transférer toutes les données de son hébergeur vers la team de restauration, ce qui a entraîné une perte de plus de 48 heures. De plus, il y a eu des sollicitations commerciales avec des coûts et des offres très différentes qui ont souvent été peu pertinentes. Le client a été passé sous SOC dès lundi pour limiter les risques avec un monitoring fin des IOCs/IOAs des attaquants et le déploiement de SentinelOne.",
         "title": "Comment AISI aide une entreprise victime d'un ransomware depuis dimanche dernier",
         "url": "https://www.linkedin.com/feed/update/urn:li:activity:7062079147749076992/"
+    },
+    {
+        "date": "2022-09-12",
+        "victim": "Toulouse INP",
+        "country": "FRA",
+        "summary": "En septembre 2022, Toulouse INP a été victime d'une cyberattaque avec le ransomware AvosLocker. L'attaque a été déclenchée via un compte étudiant compromis et a bloqué l'annuaire, les mécanismes d'authentification et les capacités d'accès physique aux bâtiments. Des mesures ont été prises pour rétablir pleinement ces accès. L'enquête est toujours en cours et aucune revendication n'a été faite à ce jour. La franchise Avos est connue pour pratiquer la double extorsion.",
+        "title": "Ransomware : en septembre 2022, Toulouse INP a été frappé avec AvosLocker | LeMagIT",
+        "url": "https://www.lemagit.fr/actualites/252524874/Cyberattaque-dampleur-a-linstitut-national-polytechnique-de-Toulouse"
     }
 ]
