@@ -853,5 +853,13 @@
         "summary": "Des hackers ont réussi à s'introduire dans le système informatique du département de l'éducation de Bâle, en Suisse, pour voler environ 1,2 téraoctet de données. Les hackers ont tenté d'extorquer de l'argent en échange de la restitution des données, mais le département n'a pas cédé à leur demande. Les données volées comprennent des informations personnelles sur les élèves et les enseignants, des rapports d'évaluation et des bulletins de notes. Les hackers ont été identifiés comme faisant partie d'un groupe appelé \"Bianlian\", qui a déjà attaqué plus de 100 entreprises et institutions dans le monde entier. Le département de l'éducation a déposé une plainte auprès du procureur contre",
         "title": "Grosser Cyberangriff - Kinder betroffen: Daten des Basler Erziehungsdepartements gehackt - News - SRF",
         "url": "https://www.srf.ch/news/schweiz/grosser-cyberangriff-kinder-betroffen-daten-des-basler-erziehungsdepartements-gehackt"
+    },
+    {
+        "date": "2023-01-25",
+        "victim": "Middleburg",
+        "country": "USA",
+        "summary": "La ville de Middleburg a été victime d'une cyberattaque fin janvier. Un employé a eu son compte Outlook piraté par un acteur malveillant ayant tenté de se faire passer pour un fournisseur demandant un paiement à la ville. 102 personnes ont été contactées car leurs informations personnelles ont pu être compromises. La ville a travaillé avec des experts en cybersécurité pour sécuriser les informations personnelles et renforcer la sécurité de son réseau.",
+        "title": "Middleburg Weathers Cyber Attack | Towns | loudounnow.com",
+        "url": "https://www.loudounnow.com/news/towns/middleburg-weathers-cyber-attack/article_8661d2d8-ef79-11ed-8f7a-f7ccd5897fbe.html"
     }
 ]
