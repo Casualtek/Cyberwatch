@@ -837,5 +837,13 @@
         "summary": "Le système informatique de trois départements de la mairie de Tulancingo a été victime d'une attaque de ransomware. Les pirates ont demandé une rançon en bitcoins pour restaurer les données. Les départements touchés sont l'Impôt foncier, le Cadastre et le Transfert de propriété et l'Exécution fiscale. La mairie a refusé de payer la rançon et a pris des mesures pour récupérer les données. Les données des contribuables sont protégées et la mairie a signalé l'incident aux autorités compétentes.",
         "title": "Sufre ataque cibernético alcaldía de Tulancingo",
         "url": "https://sintesis.com.mx/hidalgo/2023/05/10/sufre-ataque-cibernetico/"
+    },
+    {
+        "date": "2023-05-11",
+        "victim": "Le Landkreis de Ludwigsburg",
+        "country": "DEU",
+        "summary": "Le Landkreis Ludwigsburg en Allemagne a été victime d'une cyberattaque. Le Landratsamt a été fermé pour le public. Les systèmes informatiques ont été arrêtés suite à des anomalies détectées. Les autorités tentent de trouver la cause de l'attaque et de rétablir les systèmes. D'autres institutions publiques en Allemagne ont également été la cible de cyberattaques récemment.",
+        "title": "Hackerangriff auf Kreis Ludwigsburg: Landratsamt geschlossen - SWR Aktuell",
+        "url": "https://www.swr.de/swraktuell/baden-wuerttemberg/bw-newsticker-am-morgen-2023-05-11-100.html"
     }
 ]
