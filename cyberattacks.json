@@ -845,5 +845,13 @@
         "summary": "Le Landkreis Ludwigsburg en Allemagne a été victime d'une cyberattaque. Le Landratsamt a été fermé pour le public. Les systèmes informatiques ont été arrêtés suite à des anomalies détectées. Les autorités tentent de trouver la cause de l'attaque et de rétablir les systèmes. D'autres institutions publiques en Allemagne ont également été la cible de cyberattaques récemment.",
         "title": "Hackerangriff auf Kreis Ludwigsburg: Landratsamt geschlossen - SWR Aktuell",
         "url": "https://www.swr.de/swraktuell/baden-wuerttemberg/bw-newsticker-am-morgen-2023-05-11-100.html"
+    },
+    {
+        "date": "2023-01-15",
+        "victim": "Le département de l'éducation de Bâle",
+        "country": "CHE",
+        "summary": "Des hackers ont réussi à s'introduire dans le système informatique du département de l'éducation de Bâle, en Suisse, pour voler environ 1,2 téraoctet de données. Les hackers ont tenté d'extorquer de l'argent en échange de la restitution des données, mais le département n'a pas cédé à leur demande. Les données volées comprennent des informations personnelles sur les élèves et les enseignants, des rapports d'évaluation et des bulletins de notes. Les hackers ont été identifiés comme faisant partie d'un groupe appelé \"Bianlian\", qui a déjà attaqué plus de 100 entreprises et institutions dans le monde entier. Le département de l'éducation a déposé une plainte auprès du procureur contre",
+        "title": "Grosser Cyberangriff - Kinder betroffen: Daten des Basler Erziehungsdepartements gehackt - News - SRF",
+        "url": "https://www.srf.ch/news/schweiz/grosser-cyberangriff-kinder-betroffen-daten-des-basler-erziehungsdepartements-gehackt"
     }
 ]
