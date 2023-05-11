@@ -829,5 +829,13 @@
         "summary": "En septembre 2022, Toulouse INP a été victime d'une cyberattaque avec le ransomware AvosLocker. L'attaque a été déclenchée via un compte étudiant compromis et a bloqué l'annuaire, les mécanismes d'authentification et les capacités d'accès physique aux bâtiments. Des mesures ont été prises pour rétablir pleinement ces accès. L'enquête est toujours en cours et aucune revendication n'a été faite à ce jour. La franchise Avos est connue pour pratiquer la double extorsion.",
         "title": "Ransomware : en septembre 2022, Toulouse INP a été frappé avec AvosLocker | LeMagIT",
         "url": "https://www.lemagit.fr/actualites/252524874/Cyberattaque-dampleur-a-linstitut-national-polytechnique-de-Toulouse"
+    },
+    {
+        "date": "2023-05-09",
+        "victim": "La mairie de Tulancingo",
+        "country": "MEX",
+        "summary": "Le système informatique de trois départements de la mairie de Tulancingo a été victime d'une attaque de ransomware. Les pirates ont demandé une rançon en bitcoins pour restaurer les données. Les départements touchés sont l'Impôt foncier, le Cadastre et le Transfert de propriété et l'Exécution fiscale. La mairie a refusé de payer la rançon et a pris des mesures pour récupérer les données. Les données des contribuables sont protégées et la mairie a signalé l'incident aux autorités compétentes.",
+        "title": "Sufre ataque cibernético alcaldía de Tulancingo",
+        "url": "https://sintesis.com.mx/hidalgo/2023/05/10/sufre-ataque-cibernetico/"
     }
 ]
