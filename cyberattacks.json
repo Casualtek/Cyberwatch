@@ -147,7 +147,7 @@
         "date": "2023-04-21",
         "victim": "Nutresa",
         "country": "COL",
-        "summary": "Le groupe Nutresa a confirmé avoir été victime d'une possible attaque de ransomware ou cyberattaque. Jusqu'à présent, l'intégrité des données de l'organisation et des informations de ses clients, fournisseurs et consommateurs n'a pas été compromise. Un protocole a été activé pour atténuer l'impact potentiel de l'incident. Un équipe technique spécialisée a été désignée pour surveiller la situation et mettre en place les mesures nécessaires pour protéger les systèmes et les informations de l'organisation. La situation est en cours de surveillance.",
+        "summary": "Le groupe Nutresa a confirmé avoir été victime d'une possible attaque de ransomware ou cyberattaque. Jusqu'à présent, l'intégrité des données de l'organisation et des informations de ses clients, fournisseurs et consommateurs n'a pas été compromise. Un protocole a été activé pour atténuer l'impact potentiel de l'incident. Un équipe technique spécialisée a été désignée pour surveiller la situation et mettre en place les mesures nécessaires pour protéger les systèmes et les informations de l'organisation. La situation est en cours de surveillance. Le groupe LockBit 3.0 a revendiqué l'attaque. ",
         "title": "Nutresa confirma que está siendo víctima de posible ataque cibernético | Empresas | Negocios | Portafolio",
         "url": "https://www.portafolio.co/negocios/empresas/nutresa-confirma-que-esta-siendo-victima-de-posible-ataque-cibernetico-581757"
     },
@@ -155,7 +155,7 @@
         "date": "2023-04-21",
         "victim": "Open University of Cyprus (OUC)",
         "country": "CYP",
-        "summary": "Des hackers ont attaqué l'Open University of Cyprus et ont demandé une rançon de 100 000 euros en cryptomonnaie. Les données volées ont été publiées sur le dark web après l'expiration du délai de paiement de la rançon. Les données sont cryptées et il n'est pas clair quel type de données a été publié. Des données personnelles sensibles de membres de la communauté académique ont été compromises. Les autorités compétentes travaillent pour empêcher l'acquisition de ces données et l'université prend des mesures pour atténuer les risques et restaurer les opérations perturbées.",
+        "summary": "Des hackers ont attaqué l'Open University of Cyprus et ont demandé une rançon de 100 000 euros en cryptomonnaie. Les données volées ont été publiées sur le dark web, par Medusa, après l'expiration du délai de paiement de la rançon. Les données sont cryptées et il n'est pas clair quel type de données a été publié. Des données personnelles sensibles de membres de la communauté académique ont été compromises. Les autorités compétentes travaillent pour empêcher l'acquisition de ces données et l'université prend des mesures pour atténuer les risques et restaurer les opérations perturbées.",
         "title": "Data leaked from Open University is encrypted - police | in-cyprus.com",
         "url": "https://in-cyprus.philenews.com/news/local/data-leaked-from-open-university-is-encrypted-police/"
     },
@@ -274,7 +274,7 @@
         "date": "2023-04-05",
         "victim": "BERNINA International AG",
         "country": "CHE",
-        "summary": "Le réseau informatique de BERNINA International a été attaqué par un logiciel malveillant. L'entreprise a immédiatement pris les mesures de sécurité nécessaires, fait appel à des spécialistes externes et impliqué les autorités compétentes. Une enquête détaillée sur les faits est en cours.",
+        "summary": "Le réseau informatique de BERNINA International a été attaqué par Alphv/BlackCat. L'entreprise a immédiatement pris les mesures de sécurité nécessaires, fait appel à des spécialistes externes et impliqué les autorités compétentes. Une enquête détaillée sur les faits est en cours.",
         "title": "Cyberangriff auf BERNINA International AG",
         "url": "https://www.bernina.com/de-CH/Footer-de-CH/Country-Pages/Mediencenter/Medienmitteilungen-2023/BERNINA-International/Cyber-Attack-DE"
     },
@@ -370,7 +370,7 @@
         "date": "2023-04-13",
         "victim": "Medicalodges, Inc.",
         "country": "USA",
-        "summary": "Une entreprise de soins de santé du Kansas a été victime d'une attaque de ransomware. Le groupe d'extorsion Karakurt a revendiqué l'attaque et prétend avoir accès à 170 Go de données de Medicalodges, y compris des numéros de sécurité sociale et des diagnostics médicaux. Le groupe menace de publier au moins 158 Go de ces données le 17 avril. Les experts en cybersécurité ont été engagés pour aider à l'enquête et à la réponse de Medicalodges. Le groupe Karakurt est connu pour ne pas maintenir la confidentialité des informations des victimes après le paiement de la rançon.",
+        "summary": "Une entreprise de soins de santé du Kansas a été victime d'une cyberattaque. Le groupe d'extorsion Karakurt a revendiqué l'attaque et prétend avoir accès à 170 Go de données de Medicalodges, y compris des numéros de sécurité sociale et des diagnostics médicaux. Le groupe menace de publier au moins 158 Go de ces données le 17 avril. Les experts en cybersécurité ont été engagés pour aider à l'enquête et à la réponse de Medicalodges. Le groupe Karakurt est connu pour ne pas maintenir la confidentialité des informations des victimes après le paiement de la rançon.",
         "title": "Kansas healthcare company hit by ransomware",
         "url": "https://www.ksn.com/news/state-regional/kansas-healthcare-company-hit-by-ransomware-attack/"
     },
@@ -434,7 +434,7 @@
         "date": "2023-03-23",
         "victim": "Gouvernement du Yucatan",
         "country": "MEX",
-        "summary": "Moins d'une semaine après avoir signalé la cyberattaque dans le gouvernement du Yucatan, il a été annoncé que les pages en ligne ont été récupérées ce jeudi.",
+        "summary": "Moins d'une semaine après avoir signalé la cyberattaque dans le gouvernement du Yucatan, il a été annoncé que les pages en ligne ont été récupérées ce jeudi. L'attaque a été revendiquée par le groupe Alphv/BlackCat.",
         "title": "Gobierno de Yucatán recupera sus páginas de internet tras ciberataque",
         "url": "https://laverdadnoticias.com/yucatan/Gobierno-de-Yucatan-recupera-sus-paginas-de-internet-tras-ciberataque-20230330-0321.html"
     },
@@ -490,7 +490,7 @@
         "date": "2023-04-11",
         "victim": "Aloha Enterprise (NCR)",
         "country": "USA",
-        "summary": "Les restaurants à travers le pays subissent les conséquences d'une cyberattaque survenue la semaine dernière chez NCR, un important fournisseur de systèmes de point de vente de restauration. L'attaque par ransomware a affecté les applications Aloha POS qui gèrent les commandes en ligne et les tâches de back-office telles que la paie. La société espère remettre en ligne les applications en panne cette semaine et restaurer les outils de back-office tels que NCR Back Office et Pulse. Les restaurants devront télécharger à nouveau les données pour remettre en service ces outils.",
+        "summary": "Les restaurants à travers le pays subissent les conséquences d'une cyberattaque survenue la semaine dernière chez NCR, un important fournisseur de systèmes de point de vente de restauration. L'attaque par ransomware a affecté les applications Aloha POS qui gèrent les commandes en ligne et les tâches de back-office telles que la paie. La société espère remettre en ligne les applications en panne cette semaine et restaurer les outils de back-office tels que NCR Back Office et Pulse. Les restaurants devront télécharger à nouveau les données pour remettre en service ces outils. L'attaque a été revendiquée par le groupe Alphv/BlackCat.",
         "title": "NCR's Aloha POS hit with cyberattack, causing headaches for restaurants",
         "url": "https://www.restaurantbusinessonline.com/technology/ncrs-aloha-pos-hit-cyberattack-causing-headaches-restaurants"
     },
@@ -861,5 +861,13 @@
         "summary": "La ville de Middleburg a été victime d'une cyberattaque fin janvier. Un employé a eu son compte Outlook piraté par un acteur malveillant ayant tenté de se faire passer pour un fournisseur demandant un paiement à la ville. 102 personnes ont été contactées car leurs informations personnelles ont pu être compromises. La ville a travaillé avec des experts en cybersécurité pour sécuriser les informations personnelles et renforcer la sécurité de son réseau.",
         "title": "Middleburg Weathers Cyber Attack | Towns | loudounnow.com",
         "url": "https://www.loudounnow.com/news/towns/middleburg-weathers-cyber-attack/article_8661d2d8-ef79-11ed-8f7a-f7ccd5897fbe.html"
+    },
+    {
+        "date": "2023-05-10",
+        "victim": "Seacom",
+        "country": "ZAF",
+        "summary": "Seacom, une entreprise de services internet, a été victime d'une cyberattaque. Certains de ses clients ont été impactés sans être prévenus. L'incident a été contenu dans un petit environnement de serveurs et n'a pas affecté le réseau principal. Aucune donnée client n'a été compromise. Seacom a mis en place un plan de continuité des activités pour rétablir ses systèmes.",
+        "title": "Seacom hit by cyber attack",
+        "url": "https://mybroadband.co.za/news/cloud-hosting/491297-seacom-hit-by-cyber-attack.html"
     }
 ]
