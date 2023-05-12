@@ -104,11 +104,10 @@ def main(json_file):
     html = f'<html>\n<head>\n<title>{news_report["title"]}</title>\n</head>\n<body>\n'
     html += f'<p>{news_report["summary"]}</p>\n'
     html += f'<p>{news_report["introduction"]}</p>\n'
-    html_list = '<ul>\n'
+    html_list = ''
     for item in recent_items:
         date = datetime.strptime(item['date'], '%Y-%m-%d').strftime('%d/%m/%Y')
-        html_list += f'<li>{date} - <b>{item["victim"]}</b> ({item["country"]})<br/>{item["summary"]} (<a href="{item["url"]}">source</a>)</li>\n'
-    html_list += '</ul>\n'
+        html_list += f'<p>{date} - <b>{item["victim"]}</b> ({item["country"]})<br/>{item["summary"]} (<a href="{item["url"]}">source</a>)</p>\n'
     html += html_list
     html += '<i>Revue de presse réalisée en partie avec ChatGPT. <a href="https://www.lemagit.fr/actualites/365535799/Cyberhebdo-LeMagIT-met-lIA-au-service-de-linformation-de-ses-lecteurs">Les explications sont à lire ici</a>.</i>'
     html += '</body>\n</html>'
