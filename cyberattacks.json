@@ -869,5 +869,29 @@
         "summary": "Seacom, une entreprise de services internet, a été victime d'une cyberattaque. Certains de ses clients ont été impactés sans être prévenus. L'incident a été contenu dans un petit environnement de serveurs et n'a pas affecté le réseau principal. Aucune donnée client n'a été compromise. Seacom a mis en place un plan de continuité des activités pour rétablir ses systèmes.",
         "title": "Seacom hit by cyber attack",
         "url": "https://mybroadband.co.za/news/cloud-hosting/491297-seacom-hit-by-cyber-attack.html"
+    },
+    {
+        "date": "2023-05-07",
+        "victim": "ABB",
+        "country": "CHE",
+        "summary": "La société suisse ABB, spécialisée dans les technologies d'électrification et d'automatisation, a été victime d'une attaque de ransomware Black Basta, qui a affecté son Active Directory Windows et des centaines de dispositifs. L'attaque a entraîné des retards dans les projets et des perturbations dans les usines. ABB a mis fin aux connexions VPN avec ses clients pour éviter la propagation du ransomware à d'autres réseaux. Black Basta est un groupe de cybercriminalité qui a lancé son opération Ransomware-as-a-Service en avril 2022 et a rapidement commencé à amasser des victimes d'entreprises dans des attaques à double extorsion. Les chercheurs ont également lié le groupe de ransomware à la bande de hackers",
+        "title": "Multinational tech firm ABB hit by Black Basta ransomware attack",
+        "url": "https://www.bleepingcomputer.com/news/security/multinational-tech-firm-abb-hit-by-black-basta-ransomware-attack/"
+    },
+    {
+        "date": "2023-05-11",
+        "victim": "Richmond University Medical Center (RUMC)",
+        "country": "USA",
+        "summary": "Le Richmond University Medical Center a subi une attaque de ransomware qui a entraîné une panne de réseau. L'étendue de la violation n'est pas claire. Le personnel doit entrer manuellement les données et surveiller les patients individuellement. Le centre médical travaille avec des experts en cybersécurité tiers pour enquêter sur l'incident. Il est encore inconnu si des informations de patients ont été compromises.",
+        "title": "Richmond University Medical Center suffers ransomware attack; unclear if patient info compromised - silive.com",
+        "url": "https://www.silive.com/news/2023/05/richmond-university-medical-center-suffers-ransomware-attack-unclear-if-patient-info-compromised.html"
+    },
+    {
+        "date": "2023-04-26",
+        "victim": "Curry County",
+        "country": "USA",
+        "summary": "Le comté de Curry a été victime d'une attaque de ransomware qui a volé des données et perturbé les services. L'attaque a été attribuée au groupe de ransomware Royal. Tous les départements du comté ont été touchés et les services quotidiens ont été perturbés. Les spécialistes travaillent à la récupération des données perdues, mais il pourrait falloir plusieurs semaines avant que les systèmes ne soient de retour à la normale. Le gouvernement fédéral et plusieurs organisations ont offert leur aide pour résoudre la situation.",
+        "title": "Curry County systems down following ransomware attack | Local | kdrv.com",
+        "url": "https://www.kdrv.com/news/local/curry-county-systems-still-down-several-weeks-later-following-ransomware-attack/article_cbbc29d2-f023-11ed-9666-a340ea782ed5.html"
     }
 ]
