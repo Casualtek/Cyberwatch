@@ -893,5 +893,13 @@
         "summary": "Le comté de Curry a été victime d'une attaque de ransomware qui a volé des données et perturbé les services. L'attaque a été attribuée au groupe de ransomware Royal. Tous les départements du comté ont été touchés et les services quotidiens ont été perturbés. Les spécialistes travaillent à la récupération des données perdues, mais il pourrait falloir plusieurs semaines avant que les systèmes ne soient de retour à la normale. Le gouvernement fédéral et plusieurs organisations ont offert leur aide pour résoudre la situation.",
         "title": "Curry County systems down following ransomware attack | Local | kdrv.com",
         "url": "https://www.kdrv.com/news/local/curry-county-systems-still-down-several-weeks-later-following-ransomware-attack/article_cbbc29d2-f023-11ed-9666-a340ea782ed5.html"
+    },
+    {
+        "date": "2023-05-13",
+        "victim": "Le groupe hospitalier \"Gesundheit Nord\" à Brême",
+        "country": "DEU",
+        "summary": "Le réseau informatique du groupe hospitalier \"Gesundheit Nord\" à Brême a été déconnecté d'Internet après la découverte d'activités suspectes. Les hôpitaux peuvent toujours communiquer entre eux, mais les employés ne peuvent pas accéder à Internet. Les patients ne sont pas en danger. Les raisons de la déconnexion sont encore inconnues, mais une attaque informatique n'est pas exclue. Des enquêtes sont en cours. Cette situation est similaire à celle d'autres attaques informatiques récentes dans le secteur de la santé.",
+        "title": "Vermuteter Cyber-Angriff: Bremer Kliniken seit Mittwoch ohne Internet | heise online",
+        "url": "https://www.heise.de/news/Vermuteter-Cyber-Angriff-Bremer-Kliniken-seit-Mittwoch-ohne-Internet-9032346.html"
     }
 ]
