@@ -901,5 +901,37 @@
         "summary": "Le réseau informatique du groupe hospitalier \"Gesundheit Nord\" à Brême a été déconnecté d'Internet après la découverte d'activités suspectes. Les hôpitaux peuvent toujours communiquer entre eux, mais les employés ne peuvent pas accéder à Internet. Les patients ne sont pas en danger. Les raisons de la déconnexion sont encore inconnues, mais une attaque informatique n'est pas exclue. Des enquêtes sont en cours. Cette situation est similaire à celle d'autres attaques informatiques récentes dans le secteur de la santé.",
         "title": "Vermuteter Cyber-Angriff: Bremer Kliniken seit Mittwoch ohne Internet | heise online",
         "url": "https://www.heise.de/news/Vermuteter-Cyber-Angriff-Bremer-Kliniken-seit-Mittwoch-ohne-Internet-9032346.html"
+    },
+    {
+        "date": "2023-05-13",
+        "victim": "Group DIS",
+        "country": "FRA",
+        "summary": "L'infogéreur Group DIS fait état d'une attaque informatique d'envergure. Le site actu.fr semble avoir compté parmi les victimes collatérales : il a été perturbé pendant plusieurs heures le 13 mai 2023 en raison d'une panne de serveurs.",
+        "title": "Actu.fr en panne de serveurs ce samedi 13 mai | Actu",
+        "url": "https://neptune.group-dis.com/auth/login"
+    },
+    {
+        "date": "2023-05-10",
+        "victim": "Universidad de Zaragoza",
+        "country": "ESP",
+        "summary": "La Universidad de Zaragoza a subi une tentative de cyberattaque via VPN. Il s'agirait d'un ransomware de type lockbit. Aucune conséquence importante n'a été détectée pour le moment. Les ordinateurs personnels ont été conseillés d'être éteints ce week-end pour minimiser les risques. La Universidad a coupé l'accès aux comptes compromis et a renforcé son système de sauvegarde.",
+        "title": "La Universidad de Zaragoza sufre un ciberataque que no ha causado ninguna afección importante",
+        "url": "https://www.heraldo.es/noticias/aragon/2023/05/13/universidad-zaragoza-sufre-ciberataque-no-causado-afeccion-importante-1651378.html"
+    },
+    {
+        "date": "2023-05-11",
+        "victim": "Red Bus",
+        "country": "ARG",
+        "summary": "L'entreprise Red Bus a subi une cyberattaque qui empêche les utilisateurs de recharger leur carte de transport urbain à Córdoba, en Argentine. Bien que la plupart des points de recharge aient encore du crédit disponible, certains sont fermés et affichent \"sans solde\". Les utilisateurs peuvent utiliser leur carte jusqu'à quatre voyages avec un solde négatif, mais devront compenser le solde une fois que le système sera de nouveau opérationnel. La Municipalité de Córdoba a autorisé deux voyages supplémentaires avec un solde négatif. Red Bus estime que le système sera rétabli dans les prochaines heures.",
+        "title": "Tarjeta Red Bus: qué pasa si no puedo recargarla para viajar por el ciberataque",
+        "url": "https://www.lavoz.com.ar/ciudadanos/tarjeta-red-bus-que-pasa-si-no-puedo-recargarla-para-viajar-por-el-ciberataque/"
+    },
+    {
+        "date": "2023-05-14",
+        "victim": "Chemnitzer City-Bahn et Chemnitzer Verkehrs-AG (CVAG)",
+        "country": "DEU",
+        "summary": "Les sites web de deux entreprises de transport de Chemnitz ne sont pas accessibles ce week-end. Les spécialistes en informatique travaillent sur une solution pour résoudre le problème. Des traces numériques ont été sécurisées et une enquête de police a été ouverte. Il est soupçonné qu'une cyberattaque soit à l'origine de la panne. Le site web du Verkehrsverbund Mittelsachsen est toujours accessible.",
+        "title": "Mögliche Cyberattacke auf Chemnitzer Nahverkehr | Sächsische.de",
+        "url": "https://www.saechsische.de/chemnitz/moegliche-cyberattacke-auf-chemnitzer-nahverkehr-5858746.html"
     }
 ]
