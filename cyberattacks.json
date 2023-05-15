@@ -941,5 +941,21 @@
         "summary": "Le journal The Philadelphia Inquirer a été victime d'une cyberattaque qui a perturbé ses opérations pendant le week-end. Le journal n'a pas pu imprimer son édition du dimanche, mais a pu continuer à publier en ligne. Les systèmes ne sont pas encore entièrement restaurés et il n'y a pas de calendrier précis pour le moment. Le FBI a été informé de l'incident. Les attaques informatiques sont une menace croissante pour les organisations de presse et il est important de suivre les meilleures pratiques de cybersécurité.",
         "title": "Philadelphia Inquirer continues response to cyberattack that disrupted publication",
         "url": "https://www.inquirer.com/news/philadelphia/philadelphia-inquirer-hack-cyber-disruption-20230514.html"
+    },
+    {
+        "date": "2023-02-01",
+        "victim": "TroGroup",
+        "country": "AUT",
+        "summary": "La TroGroup, une entreprise autrichienne, a été victime d'une cyberattaque début février. La plupart de ses services informatiques centraux ont été temporairement indisponibles dans de nombreux sites dans le monde. La société a immédiatement activé un plan de continuité des activités pour éviter les perturbations pour ses clients et fournisseurs. Des experts en forensique numérique ont été engagés pour analyser les systèmes touchés et la police a été informée. Les systèmes touchés ont été restaurés à l'aide de sauvegardes et la communication a été gérée avec précaution pour ne pas compromettre l'enquête.",
+        "title": "TroGroup wurde Ziel eines Cyber-Angriffs | TroGroup",
+        "url": "https://www.trogroup.com/de/news/trogroup-cyberangriff/"
+    },
+    {
+        "date": "2023-05-13",
+        "victim": "LACROIX",
+        "country": "FRA",
+        "summary": "L'entreprise LACROIX a subi une attaque cyber ciblée sur ses sites en France, en Allemagne et en Tunisie. Des mesures de sécurisation ont été prises et des investigations sont en cours pour s'assurer du cantonnement de l'attaque. Certains systèmes ont été cryptés et une analyse est en cours pour identifier les données exfiltrées. Les 3 sites touchés sont fermés pour la semaine et des mesures d'activité partielle ont été prises. L'impact sur les performances du groupe pour l'année 2023 n'est pas encore connu.",
+        "title": "LACROIX : Attaque cyber contenue chez LACROIX. | Zonebourse",
+        "url": "https://www.zonebourse.com/cours/action/LACROIX-GROUP-5782/actualite/LACROIX-Attaque-cyber-contenue-chez-LACROIX-43850714/"
     }
 ]
