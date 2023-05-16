@@ -906,8 +906,8 @@
         "date": "2023-05-13",
         "victim": "Group DIS",
         "country": "FRA",
-        "summary": "L'infogéreur Group DIS fait état d'une attaque informatique d'envergure. Le site actu.fr semble avoir compté parmi les victimes collatérales : il a été perturbé pendant plusieurs heures le 13 mai 2023 en raison d'une panne de serveurs.",
-        "title": "Actu.fr en panne de serveurs ce samedi 13 mai | Actu",
+        "summary": "L'infogéreur Group DIS fait état d'une attaque informatique d'envergure. Les sites Web de nombreux clients (voire leurs clients finaux) sont indisponibles. Certains font état d'une erreur de connexion à la base de données. D'autre se contentent d'afficher page blanche.",
+        "title": "Page de connexion - Group DIS",
         "url": "https://neptune.group-dis.com/auth/login"
     },
     {
@@ -954,8 +954,16 @@
         "date": "2023-05-13",
         "victim": "LACROIX",
         "country": "FRA",
-        "summary": "L'entreprise LACROIX a subi une attaque cyber ciblée sur ses sites en France, en Allemagne et en Tunisie. Des mesures de sécurisation ont été prises et des investigations sont en cours pour s'assurer du cantonnement de l'attaque. Certains systèmes ont été cryptés et une analyse est en cours pour identifier les données exfiltrées. Les 3 sites touchés sont fermés pour la semaine et des mesures d'activité partielle ont été prises. L'impact sur les performances du groupe pour l'année 2023 n'est pas encore connu.",
+        "summary": "L'entreprise LACROIX a subi une attaque cyber touchant ses sites en France, en Allemagne et en Tunisie. Des mesures de sécurisation ont été prises et des investigations sont en cours pour s'assurer du cantonnement de l'attaque. Certains systèmes ont été cryptés et une analyse est en cours pour identifier les données exfiltrées. Les 3 sites touchés sont fermés pour la semaine et des mesures d'activité partielle ont été prises. L'impact sur les performances du groupe pour l'année 2023 n'est pas encore connu.",
         "title": "LACROIX : Attaque cyber contenue chez LACROIX. | Zonebourse",
         "url": "https://www.zonebourse.com/cours/action/LACROIX-GROUP-5782/actualite/LACROIX-Attaque-cyber-contenue-chez-LACROIX-43850714/"
+    },
+    {
+        "date": "2023-05-09",
+        "victim": "Norton Healthcare",
+        "country": "USA",
+        "summary": "Norton Healthcare a subi une cyberattaque le 9 mai, ce qui a entraîné la mise hors ligne de ses systèmes pour protéger son réseau. L'équipe de services d'information de Norton et les forces de l'ordre ont été immédiatement informées de l'incident après avoir reçu un message suspect lié à ses systèmes d'information. Tous les e-mails de bureau ont été restaurés dans les installations de Norton. L'équipe de Norton travaille à résoudre le problème et à fournir des réponses à ceux qui pourraient être affectés. Norton a demandé la patience de la communauté alors qu'elle travaille à rétablir les opérations complètes du réseau.",
+        "title": "Norton Healthcare working to restore network after cyber attack",
+        "url": "https://www.wlky.com/article/norton-healthcare-cyber-hack-security-louisville/43898151"
     }
 ]
