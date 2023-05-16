@@ -906,7 +906,7 @@
         "date": "2023-05-13",
         "victim": "Group DIS",
         "country": "FRA",
-        "summary": "L'infogéreur Group DIS fait état d'une attaque informatique d'envergure. Les sites Web de nombreux clients (voire leurs clients finaux) sont indisponibles. Certains font état d'une erreur de connexion à la base de données. D'autre se contentent d'afficher page blanche. Attaque revendiquée par Alphv/BlackCat le 15 mai. Lacroix Electronics, le département des Côtes-d’Armor, et Actu.fr comptent parmi les victimes collatérales.",
+        "summary": "L'infogéreur Group DIS fait état d'une attaque informatique d'envergure. Les sites Web de nombreux clients (voire leurs clients finaux) sont indisponibles. Certains font état d'une erreur de connexion à la base de données. D'autre se contentent d'afficher page blanche. Attaque revendiquée par Alphv/BlackCat le 15 mai. Le département des Côtes-d’Armor, et Actu.fr comptent parmi les victimes collatérales.",
         "title": "Lacroix Electronics : victime collatérale de la cyberattaque contre Group DIS | LeMagIT",
         "url": "https://www.lemagit.fr/actualites/366537496/Group-DIS-encore-un-infogereur-victime-de-cyberattaque"
     },
@@ -946,7 +946,7 @@
         "date": "2023-02-01",
         "victim": "TroGroup",
         "country": "AUT",
-        "summary": "La TroGroup, une entreprise autrichienne, a été victime d'une cyberattaque début février. La plupart de ses services informatiques centraux ont été temporairement indisponibles dans de nombreux sites dans le monde. La société a immédiatement activé un plan de continuité des activités pour éviter les perturbations pour ses clients et fournisseurs. Des experts en forensique numérique ont été engagés pour analyser les systèmes touchés et la police a été informée. Les systèmes touchés ont été restaurés à l'aide de sauvegardes et la communication a été gérée avec précaution pour ne pas compromettre l'enquête.",
+        "summary": "La TroGroup, une entreprise autrichienne, a été victime d'une cyberattaque début février. La plupart de ses services informatiques centraux ont été temporairement indisponibles dans de nombreux sites dans le monde. La société a immédiatement activé un plan de continuité des activités pour éviter les perturbations pour ses clients et fournisseurs. Des experts en forensique numérique ont été engagés pour analyser les systèmes touchés et la police a été informée. Les systèmes touchés ont été restaurés à l'aide de sauvegardes et la communication a été gérée avec précaution pour ne pas compromettre l'enquête. Attaque revendiquée par LockBit 3.0 le 14 mai 2023.",
         "title": "TroGroup wurde Ziel eines Cyber-Angriffs | TroGroup",
         "url": "https://www.trogroup.com/de/news/trogroup-cyberangriff/"
     },
@@ -957,5 +957,13 @@
         "summary": "Norton Healthcare a subi une cyberattaque le 9 mai, ce qui a entraîné la mise hors ligne de ses systèmes pour protéger son réseau. L'équipe de services d'information de Norton et les forces de l'ordre ont été immédiatement informées de l'incident après avoir reçu un message suspect lié à ses systèmes d'information. Tous les e-mails de bureau ont été restaurés dans les installations de Norton. L'équipe de Norton travaille à résoudre le problème et à fournir des réponses à ceux qui pourraient être affectés. Norton a demandé la patience de la communauté alors qu'elle travaille à rétablir les opérations complètes du réseau.",
         "title": "Norton Healthcare working to restore network after cyber attack",
         "url": "https://www.wlky.com/article/norton-healthcare-cyber-hack-security-louisville/43898151"
+    },
+    {
+        "date": "2023-05-13",
+        "victim": "LACROIX",
+        "country": "FRA",
+        "summary": "L'entreprise LACROIX a subi une attaque cyber ciblée sur ses sites en France, en Allemagne et en Tunisie. Des mesures de sécurisation ont été prises et des investigations sont en cours pour s'assurer du cantonnement de l'attaque. Certains systèmes ont été cryptés et une analyse est en cours pour identifier les données exfiltrées. Les sites touchés sont fermés pour la semaine et une réouverture est prévue le 22 mai. L'activité de ces sites représente 19% du chiffre d'affaires de LACROIX en 2022, mais l'impact sur les performances de l'année 2023 n'est pas encore connu.",
+        "title": "LACROIX : Attaque cyber contenue chez LACROIX. | Zonebourse",
+        "url": "https://www.zonebourse.com/cours/action/LACROIX-GROUP-5782/actualite/LACROIX-Attaque-cyber-contenue-chez-LACROIX-43850714/"
     }
 ]
