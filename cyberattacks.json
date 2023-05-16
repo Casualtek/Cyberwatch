@@ -973,5 +973,21 @@
         "summary": "La ville d'Ogden Dunes pense avoir été victime d'une cyberattaque et mène une enquête pour déterminer l'étendue de la menace. Les habitants sont invités à ne pas ouvrir les emails provenant de la ville ou d'autres fonctionnaires gouvernementaux, surtout s'ils contiennent des pièces jointes. Les personnes ayant besoin de contacter la mairie doivent appeler un numéro spécifique. Aucun commentaire n'a été fait par les responsables de la ville. Les autorités espèrent résoudre la situation rapidement.",
         "title": "Ogden Dunes believes it was hit by a cyber attack - Chesterton Tribune",
         "url": "https://www.chestertontribune.com/articles/ogden-dunes-believes-it-was-hit-by-a-cyber-attack/"
+    },
+    {
+        "date": "2023-05-08",
+        "victim": "Bank Syariah Indonesia (BSI)",
+        "country": "IDN",
+        "summary": "La plus grande banque islamique d'Indonésie, BSI, a été victime d'une attaque de ransomware. Le groupe de hackers LockBit a revendiqué la responsabilité de l'attaque et a demandé une rançon de 20 millions de dollars. BSI a refusé de payer la rançon et les hackers ont publié les données de 15 millions de clients et employés de la banque. BSI a assuré que les données de ses clients étaient en sécurité et qu'elle travaillait avec les autorités pour résoudre le problème. L'attaque soulève des questions sur la préparation et la vulnérabilité de BSI aux menaces cybernétiques, ainsi que sur la nécessité d'une meilleure sensibilisation et réglementation de la cybersécurité dans",
+        "title": "Explained: The ransomware attack on BSI, Indonesia's largest Islamic bank | Coconuts",
+        "url": "https://coconuts.co/jakarta/news/explained-the-ransomware-attack-on-bsi-indonesias-largest-islamic-bank/"
+    },
+    {
+        "date": "2023-03-07",
+        "victim": "Credit Control Corporation",
+        "country": "USA",
+        "summary": "Une cyberattaque a eu lieu entre le 2 et le 7 mars et a touché les comptes de recouvrement de dettes des hôpitaux et des cabinets médicaux locaux. Les fichiers volés contenaient des informations personnelles telles que les noms, adresses, numéros de sécurité sociale et autres informations de compte. Les partenaires commerciaux ont été informés et les personnes touchées ont été notifiées. Les breaches dans l'industrie de la santé sont courantes et peuvent être causées par des systèmes obsolètes ou des erreurs utilisateur. Les consommateurs peuvent prendre des mesures préventives en contactant leurs banques et en mettant en place des mesures de sécurité.",
+        "title": "Hospitals and doctors in Va. may be impacted by data breach | 13newsnow.com",
+        "url": "https://www.13newsnow.com/article/money/consumer/data-breach-may-impact-many-virginia-hospitals-and-doctors-offices/291-ffbe89e8-dd54-43de-af1c-ca3260d6138f"
     }
 ]
