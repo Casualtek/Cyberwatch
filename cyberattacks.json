@@ -906,9 +906,9 @@
         "date": "2023-05-13",
         "victim": "Group DIS",
         "country": "FRA",
-        "summary": "L'infogéreur Group DIS fait état d'une attaque informatique d'envergure. Les sites Web de nombreux clients (voire leurs clients finaux) sont indisponibles. Certains font état d'une erreur de connexion à la base de données. D'autre se contentent d'afficher page blanche.",
-        "title": "Page de connexion - Group DIS",
-        "url": "https://neptune.group-dis.com/auth/login"
+        "summary": "L'infogéreur Group DIS fait état d'une attaque informatique d'envergure. Les sites Web de nombreux clients (voire leurs clients finaux) sont indisponibles. Certains font état d'une erreur de connexion à la base de données. D'autre se contentent d'afficher page blanche. Attaque revendiquée par Alphv/BlackCat le 15 mai. Lacroix Electronics, le département des Côtes-d’Armor, et Actu.fr comptent parmi les victimes collatérales.",
+        "title": "Lacroix Electronics : victime collatérale de la cyberattaque contre Group DIS | LeMagIT",
+        "url": "https://www.lemagit.fr/actualites/366537496/Group-DIS-encore-un-infogereur-victime-de-cyberattaque"
     },
     {
         "date": "2023-05-10",
@@ -949,14 +949,6 @@
         "summary": "La TroGroup, une entreprise autrichienne, a été victime d'une cyberattaque début février. La plupart de ses services informatiques centraux ont été temporairement indisponibles dans de nombreux sites dans le monde. La société a immédiatement activé un plan de continuité des activités pour éviter les perturbations pour ses clients et fournisseurs. Des experts en forensique numérique ont été engagés pour analyser les systèmes touchés et la police a été informée. Les systèmes touchés ont été restaurés à l'aide de sauvegardes et la communication a été gérée avec précaution pour ne pas compromettre l'enquête.",
         "title": "TroGroup wurde Ziel eines Cyber-Angriffs | TroGroup",
         "url": "https://www.trogroup.com/de/news/trogroup-cyberangriff/"
-    },
-    {
-        "date": "2023-05-13",
-        "victim": "LACROIX",
-        "country": "FRA",
-        "summary": "L'entreprise LACROIX a subi une attaque cyber touchant ses sites en France, en Allemagne et en Tunisie. Des mesures de sécurisation ont été prises et des investigations sont en cours pour s'assurer du cantonnement de l'attaque. Certains systèmes ont été cryptés et une analyse est en cours pour identifier les données exfiltrées. Les 3 sites touchés sont fermés pour la semaine et des mesures d'activité partielle ont été prises. L'impact sur les performances du groupe pour l'année 2023 n'est pas encore connu.",
-        "title": "LACROIX : Attaque cyber contenue chez LACROIX. | Zonebourse",
-        "url": "https://www.zonebourse.com/cours/action/LACROIX-GROUP-5782/actualite/LACROIX-Attaque-cyber-contenue-chez-LACROIX-43850714/"
     },
     {
         "date": "2023-05-09",
