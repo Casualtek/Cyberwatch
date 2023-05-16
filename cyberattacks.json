@@ -906,7 +906,7 @@
         "date": "2023-05-13",
         "victim": "Group DIS",
         "country": "FRA",
-        "summary": "L'infogéreur Group DIS fait état d'une attaque informatique d'envergure. Les sites Web de nombreux clients (voire leurs clients finaux) sont indisponibles. Certains font état d'une erreur de connexion à la base de données. D'autre se contentent d'afficher page blanche. Attaque revendiquée par Alphv/BlackCat le 15 mai. Le département des Côtes-d’Armor, et Actu.fr comptent parmi les victimes collatérales.",
+        "summary": "L'infogéreur Group DIS fait état d'une attaque informatique d'envergure. Les sites Web de nombreux clients (voire leurs clients finaux) sont indisponibles. Certains font état d'une erreur de connexion à la base de données. D'autre se contentent d'afficher page blanche. Attaque revendiquée par Alphv/BlackCat le 15 mai. Lacroix Electronics, le département des Côtes-d’Armor, et Actu.fr comptent parmi les victimes collatérales.",
         "title": "Lacroix Electronics : victime collatérale de la cyberattaque contre Group DIS | LeMagIT",
         "url": "https://www.lemagit.fr/actualites/366537496/Group-DIS-encore-un-infogereur-victime-de-cyberattaque"
     },
@@ -965,5 +965,13 @@
         "summary": "L'entreprise LACROIX a subi une attaque cyber ciblée sur ses sites en France, en Allemagne et en Tunisie. Des mesures de sécurisation ont été prises et des investigations sont en cours pour s'assurer du cantonnement de l'attaque. Certains systèmes ont été cryptés et une analyse est en cours pour identifier les données exfiltrées. Les sites touchés sont fermés pour la semaine et une réouverture est prévue le 22 mai. L'activité de ces sites représente 19% du chiffre d'affaires de LACROIX en 2022, mais l'impact sur les performances de l'année 2023 n'est pas encore connu.",
         "title": "LACROIX : Attaque cyber contenue chez LACROIX. | Zonebourse",
         "url": "https://www.zonebourse.com/cours/action/LACROIX-GROUP-5782/actualite/LACROIX-Attaque-cyber-contenue-chez-LACROIX-43850714/"
+    },
+    {
+        "date": "2023-05-16",
+        "victim": "Ogden Dunes",
+        "country": "USA",
+        "summary": "La ville d'Ogden Dunes pense avoir été victime d'une cyberattaque et mène une enquête pour déterminer l'étendue de la menace. Les habitants sont invités à ne pas ouvrir les emails provenant de la ville ou d'autres fonctionnaires gouvernementaux, surtout s'ils contiennent des pièces jointes. Les personnes ayant besoin de contacter la mairie doivent appeler un numéro spécifique. Aucun commentaire n'a été fait par les responsables de la ville. Les autorités espèrent résoudre la situation rapidement.",
+        "title": "Ogden Dunes believes it was hit by a cyber attack - Chesterton Tribune",
+        "url": "https://www.chestertontribune.com/articles/ogden-dunes-believes-it-was-hit-by-a-cyber-attack/"
     }
 ]
