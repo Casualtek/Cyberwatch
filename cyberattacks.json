@@ -1053,5 +1053,13 @@
         "summary": "La société Hawa Sliding Solutions AG, fabricant suisse de ferrures pour portes coulissantes, a été victime d'une cyberattaque fin avril 2023. L'entreprise a immédiatement réagi en informant ses clients et fournisseurs, en coupant tous ses systèmes et en demandant à la plupart de ses employés de travailler depuis leur domicile. Une équipe interne et des spécialistes travaillent actuellement à la restauration complète des processus opérationnels. Les commandes ne peuvent actuellement être traitées que manuellement et les systèmes informatiques sont en cours de reconstruction. Les sites web de Hawa restent en ligne et les services clients sont accessibles par téléphone, e-mail et vidéoconférence.",
         "title": "Hawa Sliding Solutions AG: Cyber-Attacke führt zu Einschränkungen - MÖBELMARKT",
         "url": "https://www.moebelmarkt.de/beitrag/hawa-sliding-solutions-ag-cyber-attacke-führt-zu-einschränkungen"
+    },
+    {
+        "date": "2023-05-14",
+        "victim": "ScanSource",
+        "country": "USA",
+        "summary": "ScanSource, un fournisseur de services technologiques basé aux États-Unis, a été victime d'une attaque de ransomware qui a affecté certains de ses systèmes, opérations commerciales et portails clients. L'attaque a commencé le 14 mai 2023 et a entraîné des retards dans la fourniture de services aux clients en Amérique du Nord et au Brésil. L'entreprise a mis en place son plan d'intervention en cas d'incident et a alerté les autorités compétentes. Les experts en cybersécurité ont été appelés pour aider à minimiser les perturbations opérationnelles causées par l'incident. Il n'est pas encore connu quelle opération de ransomware est derrière l'attaque ou si des données ont été volées.",
+        "title": "ScanSource says ransomware attack behind multi-day outages",
+        "url": "https://www.bleepingcomputer.com/news/security/scansource-says-ransomware-attack-behind-multi-day-outages/"
     }
 ]
