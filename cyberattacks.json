@@ -989,5 +989,45 @@
         "summary": "Une cyberattaque a eu lieu entre le 2 et le 7 mars et a touché les comptes de recouvrement de dettes des hôpitaux et des cabinets médicaux locaux. Les fichiers volés contenaient des informations personnelles telles que les noms, adresses, numéros de sécurité sociale et autres informations de compte. Les partenaires commerciaux ont été informés et les personnes touchées ont été notifiées. Les breaches dans l'industrie de la santé sont courantes et peuvent être causées par des systèmes obsolètes ou des erreurs utilisateur. Les consommateurs peuvent prendre des mesures préventives en contactant leurs banques et en mettant en place des mesures de sécurité.",
         "title": "Hospitals and doctors in Va. may be impacted by data breach | 13newsnow.com",
         "url": "https://www.13newsnow.com/article/money/consumer/data-breach-may-impact-many-virginia-hospitals-and-doctors-offices/291-ffbe89e8-dd54-43de-af1c-ca3260d6138f"
+    },
+    {
+        "date": "2023-05-16",
+        "victim": "Collectivité Territoriale de Martinique (CTM)",
+        "country": "MTQ",
+        "summary": "Le site internet et les services téléphoniques de la Collectivité Territoriale de Martinique sont inaccessibles suite à une cyberattaque. Cette attaque paralyse le fonctionnement de la collectivité. Une réunion de crise est en cours pour rétablir les dispositifs informatiques. Ce n'est pas la première fois que le CTM subit une telle attaque. Plusieurs régions en France ont également été victimes de hackers.",
+        "title": "Cyberattaque : le site internet de la CTM inaccessible suite à un piratage informatique",
+        "url": "https://viaatv.tv/cyberattaque-le-site-internet-de-la-ctm-inaccessible-suite-a-un-piratage-informatique/"
+    },
+    {
+        "date": "2023-05-17",
+        "victim": "Franklin County Public Schools",
+        "country": "USA",
+        "summary": "Les écoles publiques du comté de Franklin ont été touchées par une attaque de ransomware. Les cours ont été annulés pour des raisons de sécurité. Des mesures proactives ont été prises pour limiter l'impact de l'attaque. Les autorités locales et nationales, y compris le FBI et la police de l'État de Virginie, sont impliquées dans l'enquête. Les attaques de ransomware sont de plus en plus fréquentes et touchent souvent les secteurs de la santé, de la fabrication et du gouvernement.",
+        "title": "Franklin County Public Schools hit by ransomware attack",
+        "url": "https://martinsvillebulletin.com/news/franklin-county-public-schools-hit-by-ransomware-attack/article_22fddcb8-f41b-11ed-85bc-833affcd6772.html"
+    },
+    {
+        "date": "2023-05-13",
+        "victim": "KD Hospital",
+        "country": "IND",
+        "summary": "Le KD Hospital a été victime d'une attaque de ransomware, bloquant l'accès à tous ses systèmes en ligne, y compris les données des patients. Les pirates ont exigé une rançon de 70 000 $ en bitcoins pour décrypter les fichiers. Une enquête est en cours pour déterminer s'il y avait des vulnérabilités dans l'infrastructure informatique de l'hôpital. Le personnel de l'hôpital a travaillé manuellement pendant un jour avant que les serveurs ne soient de nouveau opérationnels. Une plainte a été déposée auprès de la police.",
+        "title": "Hospital falls prey to ransomware attack, hackers demand $70,000 | Ahmedabad News, The Indian Express",
+        "url": "https://indianexpress.com/article/cities/ahmedabad/hospital-falls-prey-to-ransomware-attack-hackers-demand-70000-8613410/"
+    },
+    {
+        "date": "2023-05-16",
+        "victim": "Gorizia in Bici",
+        "country": "ITA",
+        "summary": "Une attaque de hackers a eu lieu à Gorizia. Le bike sharing transfrontalier a été ralenti en conséquence. L'attaque a eu lieu le 16 mai 2023. L'article a été mis à jour à 21h41. La lecture de l'article prend environ 2 minutes.",
+        "title": "Attacco hacker a Gorizia, rallentato il bike sharing transfrontaliero - Il Piccolo",
+        "url": "https://ilpiccolo.gelocal.it/trieste/cronaca/2023/05/16/news/attacco_hacker_a_gorizia_rallentato_il_bike_sharing_transfrontaliero-12809364/"
+    },
+    {
+        "date": "2023-05-15",
+        "victim": "Oklahoma Institute of Allergy Asthma and Immunology",
+        "country": "USA",
+        "summary": "Un institut d'allergie et d'asthme a fermé ses portes en raison d'une prétendue violation de données de sécurité. Les patients sont préoccupés par la possible compromission de leurs dossiers médicaux. Les patients ont été refusés à l'entrée de l'institut en raison d'un panneau indiquant une violation de données de sécurité. Le FBI n'a pas encore reçu de rapport sur une violation de cybersécurité. Les employés restants de l'institut travaillent à distribuer les médicaments des patients à d'autres fournisseurs.",
+        "title": "Patients concerned after local allergy clinic closes its doors because of alleged data breach",
+        "url": "https://www.koco.com/article/patients-concerned-after-local-allergy-clinic-closes-its-doors-because-of-alleged-data-breach/43897674"
     }
 ]
