@@ -1023,6 +1023,14 @@
         "url": "https://ilpiccolo.gelocal.it/trieste/cronaca/2023/05/16/news/attacco_hacker_a_gorizia_rallentato_il_bike_sharing_transfrontaliero-12809364/"
     },
     {
+        "date": "2023-05-12",
+        "victim": "visumPOINT GmbH",
+        "country": "DEU",
+        "summary": "Deux serveurs d'hébergement ont été chiffrés le 12 mai 2023 lors d'une cyberattaque superficielle, très probablement automatisée. Les deux serveurs d'hébergement exécutent un ancien système de gestion des contrats, qui est utilisé de manière limitée et pour une petite partie des contrats.",
+        "title": "Cyberattaque limitée contre visumPOINT GmbH",
+        "url": "https://twitter.com/ransomwaremap/status/1658360186506031105/photo/1"
+    },
+    {
         "date": "2023-05-15",
         "victim": "Oklahoma Institute of Allergy Asthma and Immunology",
         "country": "USA",
