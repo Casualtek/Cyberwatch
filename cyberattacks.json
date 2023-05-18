@@ -1069,5 +1069,13 @@
         "summary": "Le groupe Voyageurs du Monde a subi une cyberattaque dans la nuit du 15 au 16 mai. Une cellule de crise a été mise en place pour gérer la situation. Les accès internet ont été coupés pour permettre l'analyse de la situation. Les équipes ont renforcé la sécurité du système d'information pour éviter de nouveaux incidents. Aucune donnée de paiement n'est stockée sur les systèmes et aucune donnée de client n'a été dérobée à ce jour.",
         "title": "Voyageurs du Monde: Attaque cyber contenue chez Voyageurs du Monde | Zonebourse",
         "url": "https://www.zonebourse.com/cours/action/VOYAGEURS-DU-MONDE-32742/actualite/Voyageurs-du-Monde-Attaque-cyber-contenue-chez-Voyageurs-du-Monde-43880049/"
+    },
+    {
+        "date": "2023-05-15",
+        "victim": "Buckley King LPA",
+        "country": "USA",
+        "summary": "Le cabinet d'avocats Buckley King LPA a été victime d'une cyberattaque par le groupe de ransomware BlackBasta. Le groupe a exfiltré 110 Go de données sensibles et a demandé une rançon de 400 000 $ pour les restituer. Après des négociations, le cabinet a accepté de payer 150 000 $ pour récupérer les données. Une partie de la rançon a été transférée vers un autre portefeuille. Le cabinet n'a pas encore fait de déclaration publique sur l'incident.",
+        "title": "Cleveland, OH: cyberattack, law firm strikes deal with ransomware group BlackBasta for $150,000",
+        "url": "https://www.suspectfile.com/cleveland-oh-cyberattack-law-firm-strikes-deal-with-ransomware-group-blackbasta-for-150000/"
     }
 ]
