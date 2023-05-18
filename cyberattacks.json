@@ -1061,5 +1061,13 @@
         "summary": "ScanSource, un fournisseur de services technologiques basé aux États-Unis, a été victime d'une attaque de ransomware qui a affecté certains de ses systèmes, opérations commerciales et portails clients. L'attaque a commencé le 14 mai 2023 et a entraîné des retards dans la fourniture de services aux clients en Amérique du Nord et au Brésil. L'entreprise a mis en place son plan d'intervention en cas d'incident et a alerté les autorités compétentes. Les experts en cybersécurité ont été appelés pour aider à minimiser les perturbations opérationnelles causées par l'incident. Il n'est pas encore connu quelle opération de ransomware est derrière l'attaque ou si des données ont été volées.",
         "title": "ScanSource says ransomware attack behind multi-day outages",
         "url": "https://www.bleepingcomputer.com/news/security/scansource-says-ransomware-attack-behind-multi-day-outages/"
+    },
+    {
+        "date": "2023-05-16",
+        "victim": "Voyageurs du Monde",
+        "country": "FRA",
+        "summary": "Le groupe Voyageurs du Monde a subi une cyberattaque dans la nuit du 15 au 16 mai. Une cellule de crise a été mise en place pour gérer la situation. Les accès internet ont été coupés pour permettre l'analyse de la situation. Les équipes ont renforcé la sécurité du système d'information pour éviter de nouveaux incidents. Aucune donnée de paiement n'est stockée sur les systèmes et aucune donnée de client n'a été dérobée à ce jour.",
+        "title": "Voyageurs du Monde: Attaque cyber contenue chez Voyageurs du Monde | Zonebourse",
+        "url": "https://www.zonebourse.com/cours/action/VOYAGEURS-DU-MONDE-32742/actualite/Voyageurs-du-Monde-Attaque-cyber-contenue-chez-Voyageurs-du-Monde-43880049/"
     }
 ]
