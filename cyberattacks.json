@@ -1077,5 +1077,13 @@
         "summary": "Le cabinet d'avocats Buckley King LPA a été victime d'une cyberattaque par le groupe de ransomware BlackBasta. Le groupe a exfiltré 110 Go de données sensibles et a demandé une rançon de 400 000 $ pour les restituer. Après des négociations, le cabinet a accepté de payer 150 000 $ pour récupérer les données. Une partie de la rançon a été transférée vers un autre portefeuille. Le cabinet n'a pas encore fait de déclaration publique sur l'incident.",
         "title": "Cleveland, OH: cyberattack, law firm strikes deal with ransomware group BlackBasta for $150,000",
         "url": "https://www.suspectfile.com/cleveland-oh-cyberattack-law-firm-strikes-deal-with-ransomware-group-blackbasta-for-150000/"
+    },
+    {
+        "date": "2023-05-18",
+        "victim": "La \"Südwest Presse\" et le \"Heidenheimer Zeitung\".",
+        "country": "DEU",
+        "summary": "Les sites internet de la \"Südwest Presse\" et de la \"Heidenheimer Zeitung\" sont inaccessibles depuis jeudi. Une cyberattaque n'est pas exclue mais la cause exacte est en cours d'analyse. Les données personnelles des clients ne seraient pas affectées car stockées sur d'autres serveurs. Les éditions imprimées des journaux ont pu être produites normalement. Les offres numériques telles que les applications ne sont pas disponibles en raison d'un problème chez le prestataire technique.",
+        "title": "Cyberangriff auf \"Heidenheimer Zeitung\" und \"Südwest Presse\"? - SWR Aktuell",
+        "url": "https://www.swr.de/swraktuell/baden-wuerttemberg/ulm/swp-und-hz-nicht-erreichbar-100.html"
     }
 ]
