@@ -1085,5 +1085,21 @@
         "summary": "Les sites internet de la \"Südwest Presse\" et de la \"Heidenheimer Zeitung\" sont inaccessibles depuis jeudi. Une cyberattaque n'est pas exclue mais la cause exacte est en cours d'analyse. Les données personnelles des clients ne seraient pas affectées car stockées sur d'autres serveurs. Les éditions imprimées des journaux ont pu être produites normalement. Les offres numériques telles que les applications ne sont pas disponibles en raison d'un problème chez le prestataire technique.",
         "title": "Cyberangriff auf \"Heidenheimer Zeitung\" und \"Südwest Presse\"? - SWR Aktuell",
         "url": "https://www.swr.de/swraktuell/baden-wuerttemberg/ulm/swp-und-hz-nicht-erreichbar-100.html"
+    },
+    {
+        "date": "2023-05-19",
+        "victim": "ATU",
+        "country": "DEU",
+        "summary": "La chaîne de garages ATU a été victime d'une cyberattaque le 18 mai. Depuis, leur site web est inaccessible et les appels téléphoniques ne fonctionnent pas. Le groupe a confirmé l'attaque. Les détails de l'attaque ne sont pas précisés. Les conséquences de l'attaque ne sont pas précisées non plus.",
+        "title": "Werkstattkette ATU wird Opfer von Cyberangriff | Automobilwoche.de",
+        "url": "https://www.automobilwoche.de/bc-online/werkstattkette-atu-wird-opfer-von-cyberangriff"
+    },
+    {
+        "date": "2023-04-25",
+        "victim": "Bibliothèque publique de Newport News",
+        "country": "USA",
+        "summary": "Une tentative de cyberattaque a été bloquée par les mesures de sécurité informatique de la bibliothèque publique de Newport News. Les ordinateurs publics et les services d'impression, de télécopie et de numérisation par e-mail ont été indisponibles pendant trois semaines. La ville a reconfiguré l'infrastructure du serveur pour empêcher de futures attaques. Les détails de l'attaque ont été transmis à la police de l'État de Virginie et à l'agence de cybersécurité et de sécurité des infrastructures du département de la Sécurité intérieure. Les attaques de ransomware ont touché plus de 200 grandes organisations l'année dernière.",
+        "title": "Attempted cyber attack responsible for 3-week Newport News library computer outage",
+        "url": "https://www.dailypress.com/government/local/dp-nw-newport-news-library-outage-20230518-gxrij7kturgppcao6c6rya5hli-story.html"
     }
 ]
