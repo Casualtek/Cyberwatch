@@ -1080,9 +1080,9 @@
     },
     {
         "date": "2023-05-18",
-        "victim": "La \"Südwest Presse\" et le \"Heidenheimer Zeitung\".",
+        "victim": "Mivitec GmbH",
         "country": "DEU",
-        "summary": "Les sites internet de la \"Südwest Presse\" et de la \"Heidenheimer Zeitung\" sont inaccessibles depuis jeudi. Une cyberattaque n'est pas exclue mais la cause exacte est en cours d'analyse. Les données personnelles des clients ne seraient pas affectées car stockées sur d'autres serveurs. Les éditions imprimées des journaux ont pu être produites normalement. Les offres numériques telles que les applications ne sont pas disponibles en raison d'un problème chez le prestataire technique.",
+        "summary": "Les sites internet de la \"Südwest Presse\" et du \"Heidenheimer Zeitung\" sont inaccessibles depuis jeudi. Le \"Heidenheimer Zeitung\" évoque une cyberattaque touchant son hébergeur. Dans les deux cas, l'hébergeur est Mivitec GmH.",
         "title": "Cyberangriff auf \"Heidenheimer Zeitung\" und \"Südwest Presse\"? - SWR Aktuell",
         "url": "https://www.swr.de/swraktuell/baden-wuerttemberg/ulm/swp-und-hz-nicht-erreichbar-100.html"
     },
