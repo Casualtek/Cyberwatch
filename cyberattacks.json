@@ -1101,5 +1101,21 @@
         "summary": "Une tentative de cyberattaque a été bloquée par les mesures de sécurité informatique de la bibliothèque publique de Newport News. Les ordinateurs publics et les services d'impression, de télécopie et de numérisation par e-mail ont été indisponibles pendant trois semaines. La ville a reconfiguré l'infrastructure du serveur pour empêcher de futures attaques. Les détails de l'attaque ont été transmis à la police de l'État de Virginie et à l'agence de cybersécurité et de sécurité des infrastructures du département de la Sécurité intérieure. Les attaques de ransomware ont touché plus de 200 grandes organisations l'année dernière.",
         "title": "Attempted cyber attack responsible for 3-week Newport News library computer outage",
         "url": "https://www.dailypress.com/government/local/dp-nw-newport-news-library-outage-20230518-gxrij7kturgppcao6c6rya5hli-story.html"
+    },
+    {
+        "date": "2023-05-17",
+        "victim": "NOSM University",
+        "country": "CAN",
+        "summary": "L'université NOSM a été victime d'une cyberattaque qui a été découverte mercredi. De nombreux réseaux et services informatiques sont encore inaccessibles. Les employés et les étudiants ont été invités à travailler à distance. L'université a pris des mesures pour sécuriser le réseau et les données. Des experts ont été engagés pour aider à résoudre le problème.",
+        "title": "Cyber attack at NOSM U forces staff and students to stay home - Sudbury News",
+        "url": "https://www.sudbury.com/local-news/cyber-attack-at-nosm-u-forces-staff-and-students-to-stay-home-7027030"
+    },
+    {
+        "date": "2023-05-10",
+        "victim": "Suzuki Motorcycle India",
+        "country": "IND",
+        "summary": "L'usine de Suzuki Motorcycle en Inde a été fermée pendant une semaine en raison d'une cyberattaque. La production a été interrompue depuis le 10 mai, entraînant une perte de production de plus de 20 000 véhicules. Suzuki Motorcycle a informé ses fournisseurs qu'elle avait reporté sa conférence annuelle en raison d'une \"exigence commerciale sans précédent\". L'attaque est actuellement sous enquête et le gouvernement a été informé. L'Inde est le plus grand marché de Suzuki Motorcycle en dehors du Japon et représente 50% de sa production mondiale.",
+        "title": "Suzuki Motorcycle India plant shut for a week due to cyber-attack | Autocar Professional",
+        "url": "https://www.autocarpro.in/news/exclusive-suzuki-motorcycle-india-plant-shut-for-a-week-due-to-cyber-attack-115136"
     }
 ]
