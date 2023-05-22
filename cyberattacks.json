@@ -1149,5 +1149,13 @@
         "summary": "La banque Adams Bank & Trust dans l'ouest du Nebraska a restreint l'accès à son site web et à son application mobile en raison d'une cyberattaque suspectée. Les serveurs ont été verrouillés pour protéger les informations financières des clients. Une enquête et une analyse forensique ont été menées pour identifier la source de la menace. La banque a déclaré qu'il n'y avait aucune preuve que les informations des clients avaient été consultées. Les services en ligne sont toujours indisponibles et la banque travaille à rétablir la situation.",
         "title": "Western Nebraska bank locks down servers because of suspected cyberattack | National News | kpvi.com",
         "url": "https://www.kpvi.com/news/national_news/western-nebraska-bank-locks-down-servers-because-of-suspected-cyberattack/article_bfdf2bab-4571-54e8-93fb-fcda68673b54.html"
+    },
+    {
+        "date": "2023-05-22",
+        "victim": "Mazars",
+        "country": "FRA",
+        "summary": "Le groupe Mazars a été victime d'une cyberattaque revendiquée par Alphv/Black Cat. Les cybercriminels ont dérobé 700 Go de données, dont des documents confidentiels et secrets de clients. Les noms des dossiers suggèrent que la filiale brésilienne de Mazars a été affectée. Mazars avait annoncé la création d'un centre d'excellence en cybersécurité en mars 2023. Le service de relations publiques de Mazars n'a pas encore communiqué sur cette attaque.",
+        "title": "Ransomware : Alphv/Black Cat revendique une cyberattaque contre Mazars | LeMagIT",
+        "url": "https://www.lemagit.fr/actualites/366538155/Ransomware-Alphv-Black-Cat-revendique-une-cyberattaque-contre-Mazars"
     }
 ]
