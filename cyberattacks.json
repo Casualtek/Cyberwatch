@@ -1117,5 +1117,29 @@
         "summary": "L'usine de Suzuki Motorcycle en Inde a été fermée pendant une semaine en raison d'une cyberattaque. La production a été interrompue depuis le 10 mai, entraînant une perte de production de plus de 20 000 véhicules. Suzuki Motorcycle a informé ses fournisseurs qu'elle avait reporté sa conférence annuelle en raison d'une \"exigence commerciale sans précédent\". L'attaque est actuellement sous enquête et le gouvernement a été informé. L'Inde est le plus grand marché de Suzuki Motorcycle en dehors du Japon et représente 50% de sa production mondiale.",
         "title": "Suzuki Motorcycle India plant shut for a week due to cyber-attack | Autocar Professional",
         "url": "https://www.autocarpro.in/news/exclusive-suzuki-motorcycle-india-plant-shut-for-a-week-due-to-cyber-attack-115136"
+    },
+    {
+        "date": "2023-05-18",
+        "victim": "Bloomfleet",
+        "country": "ITA",
+        "summary": "L'entreprise Bloomfleet, spécialisée dans la gestion de flottes, a subi une cyberattaque le 18 mai 2023. Les systèmes de sécurité ont immédiatement bloqué l'accès à la plateforme et isolé les zones touchées. L'entreprise a lancé une enquête interne pour identifier les causes de l'incident et prendre des mesures de sécurité supplémentaires. Les travaux de restauration sont en cours et l'entreprise s'excuse pour les désagréments causés. La sécurité informatique reste cruciale pour les entreprises qui gèrent des données sensibles.",
+        "title": "Bloomfleet avverte gli interessati di un incidente di sicurezza informatica: \"Stiamo effettuando ulteriori verifiche\"",
+        "url": "https://www.redhotcyber.com/post/bloomfleet-avverte-gli-interessati-di-un-incidente-di-sicurezza-informatica/"
+    },
+    {
+        "date": "2023-04-20",
+        "victim": "Peachtree Orthopedics",
+        "country": "USA",
+        "summary": "Le 20 avril 2023, Peachtree Orthopedics a constaté qu'une partie non autorisée a accédé à certains systèmes limités de notre réseau informatique. Nous avons immédiatement commencé une enquête, en travaillant avec des spécialistes externes pour déterminer la nature complète et l'étendue de la situation. Karakurt a revendiqué le vol de données mi-mai 2023.",
+        "title": "Peachtree Orthopedics alerts patients to cyberattack; third patient data breach in seven years",
+        "url": "https://www.databreaches.net/peachtree-orthopedics-alerts-patients-of-cyberattack-third-patient-data-breach-in-seven-years/"
+    },
+    {
+        "date": "2022-10-25",
+        "victim": "San Diego Unified School District",
+        "country": "USA",
+        "summary": "Des données médicales d'étudiants de San Diego ont été compromises lors d'une cyberattaque en octobre. Les noms et informations médicales des étudiants ont été compromis. Les responsables ont rapidement sécurisé le réseau, lancé une enquête et informé les autorités. Des mesures de sécurité supplémentaires ont été mises en place. Cette attaque n'est pas la première à toucher les écoles de Californie ces derniers mois.",
+        "title": "San Diego Unified student medical data compromised in breach - The San Diego Union-Tribune",
+        "url": "https://www.sandiegouniontribune.com/news/education/story/2023-05-19/student-medical-data-compromised-san-diego-unified-cybersecurity-breach"
     }
 ]
