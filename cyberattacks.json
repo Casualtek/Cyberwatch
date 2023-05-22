@@ -1141,5 +1141,13 @@
         "summary": "Des données médicales d'étudiants de San Diego ont été compromises lors d'une cyberattaque en octobre. Les noms et informations médicales des étudiants ont été compromis. Les responsables ont rapidement sécurisé le réseau, lancé une enquête et informé les autorités. Des mesures de sécurité supplémentaires ont été mises en place. Cette attaque n'est pas la première à toucher les écoles de Californie ces derniers mois.",
         "title": "San Diego Unified student medical data compromised in breach - The San Diego Union-Tribune",
         "url": "https://www.sandiegouniontribune.com/news/education/story/2023-05-19/student-medical-data-compromised-san-diego-unified-cybersecurity-breach"
+    },
+    {
+        "date": "2023-05-16",
+        "victim": "Adams Bank & Trust",
+        "country": "USA",
+        "summary": "La banque Adams Bank & Trust dans l'ouest du Nebraska a restreint l'accès à son site web et à son application mobile en raison d'une cyberattaque suspectée. Les serveurs ont été verrouillés pour protéger les informations financières des clients. Une enquête et une analyse forensique ont été menées pour identifier la source de la menace. La banque a déclaré qu'il n'y avait aucune preuve que les informations des clients avaient été consultées. Les services en ligne sont toujours indisponibles et la banque travaille à rétablir la situation.",
+        "title": "Western Nebraska bank locks down servers because of suspected cyberattack | National News | kpvi.com",
+        "url": "https://www.kpvi.com/news/national_news/western-nebraska-bank-locks-down-servers-because-of-suspected-cyberattack/article_bfdf2bab-4571-54e8-93fb-fcda68673b54.html"
     }
 ]
