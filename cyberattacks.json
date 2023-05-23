@@ -1157,5 +1157,13 @@
         "summary": "Le groupe Mazars a été victime d'une cyberattaque revendiquée par Alphv/Black Cat. Les cybercriminels ont dérobé 700 Go de données, dont des documents confidentiels et secrets de clients. Les noms des dossiers suggèrent que la filiale brésilienne de Mazars a été affectée. Mazars avait annoncé la création d'un centre d'excellence en cybersécurité en mars 2023. Le service de relations publiques de Mazars n'a pas encore communiqué sur cette attaque.",
         "title": "Ransomware : Alphv/Black Cat revendique une cyberattaque contre Mazars | LeMagIT",
         "url": "https://www.lemagit.fr/actualites/366538155/Ransomware-Alphv-Black-Cat-revendique-une-cyberattaque-contre-Mazars"
+    },
+    {
+        "date": "2023-04-14",
+        "victim": "Clarke County Hospital",
+        "country": "USA",
+        "summary": "L'hôpital Clarke County a subi une cyberattaque par le groupe de ransomware Royal. Les chercheurs en sécurité ont repéré l'hôpital sur le site de fuite de données de Royal. L'hôpital a confirmé la violation de données un mois après l'attaque. Les informations personnelles des patients ont été exposées, mais pas les dossiers médicaux électroniques, les numéros de sécurité sociale, les informations bancaires ou les informations financières. Les groupes de ransomware utilisent des tactiques d'extorsion de plus en plus agressives.",
+        "title": "Iowa hospital discloses breach following Royal ransomware leak | TechTarget",
+        "url": "https://www.techtarget.com/searchsecurity/news/366538296/Iowa-hospital-discloses-breach-following-Royal-ransomware-leak"
     }
 ]
