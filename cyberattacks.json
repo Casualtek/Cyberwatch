@@ -1165,5 +1165,29 @@
         "summary": "L'hôpital Clarke County a subi une cyberattaque par le groupe de ransomware Royal. Les chercheurs en sécurité ont repéré l'hôpital sur le site de fuite de données de Royal. L'hôpital a confirmé la violation de données un mois après l'attaque. Les informations personnelles des patients ont été exposées, mais pas les dossiers médicaux électroniques, les numéros de sécurité sociale, les informations bancaires ou les informations financières. Les groupes de ransomware utilisent des tactiques d'extorsion de plus en plus agressives.",
         "title": "Iowa hospital discloses breach following Royal ransomware leak | TechTarget",
         "url": "https://www.techtarget.com/searchsecurity/news/366538296/Iowa-hospital-discloses-breach-following-Royal-ransomware-leak"
+    },
+    {
+        "date": "2023-04-03",
+        "victim": "Canadian Nurses Association (CNA)",
+        "country": "CAN",
+        "summary": "L'Association des infirmières du Canada a été victime d'une cyberattaque, mais n'a pas confirmé s'il s'agissait d'une attaque par rançongiciel. L'incident n'a pas eu d'impact sur les opérations de l'association. La Snatch ransomware gang a revendiqué l'attaque sur Twitter. Cette attaque a été menée par des pirates informatiques qui ont utilisé des techniques de brute-force pour accéder aux réseaux de l'association. L'association a lancé une enquête et a engagé des experts pour l'aider à résoudre le problème.",
+        "title": "Canadian Nurses Association hit by cyber attack | IT World Canada News",
+        "url": "https://www.itworldcanada.com/article/canadian-nurses-association-hit-by-cyber-attack/539330"
+    },
+    {
+        "date": "2023-05-21",
+        "victim": "Thomas Hardye School",
+        "country": "GBR",
+        "summary": "L'école Thomas Hardye à Dorchester a été victime d'une cyberattaque le 21 mai. Le système informatique de l'école a été piraté et est toujours hors service. Les examens ne sont pas affectés et l'école reste ouverte. Les paiements en ligne, les dossiers et les messageries sont inaccessibles. La demande de rançon a été refusée et l'incident a été signalé à la National Cyber Security Centre et à la police.",
+        "title": "Thomas Hardye School in Dorchester hit by cyber attack | Dorset Echo",
+        "url": "https://www.dorsetecho.co.uk/news/23541406.thomas-hardye-school-dorchester-hit-cyber-attack/"
+    },
+    {
+        "date": "2023-05-23",
+        "victim": "Western Cape Provincial parliament.",
+        "country": "ZAF.",
+        "summary": "Le parlement de la province du Cap occidental a subi une cyberattaque qui a rendu ses systèmes informatiques inaccessibles. L'institution travaille actuellement à la récupération de ses systèmes à partir de sauvegardes dans un environnement sécurisé. La police sud-africaine et l'Agence de sécurité de l'État ont été informées de l'attaque. D'autres organismes publics en Afrique du Sud ont également été touchés par des cyberattaques récemment. L'Afrique du Sud a enregistré plus de 230 millions de menaces cybernétiques en 2021, le plus grand nombre sur le continent.",
+        "title": "Going dark: Cyber attack on Western Cape parliament downs ICT systems | News24",
+        "url": "https://www.news24.com/news24/southafrica/news/going-dark-cyber-attack-on-western-cape-parliament-downs-ict-systems-20230523"
     }
 ]
