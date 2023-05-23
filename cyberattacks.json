@@ -216,7 +216,7 @@
         "url": "https://www.zonebourse.com/cours/action/RWS-HOLDINGS-PLC-21342343/actualite/RWS-victime-d-une-cyberattaque-mais-affirme-que-l-impact-est-immateriel-43550015/"
     },
     {
-        "date": "2023-04-19",
+        "date": "2023-04-09",
         "victim": "Insurance Information Bureau of India (IIB)",
         "country": "IND",
         "summary": "L'Insurance Information Bureau of India (IIB) a fait l'objet d'une cyberattaque et certaines des données qu'il détient pourraient avoir été compromises, ont déclaré deux personnes au courant de l'affaire. L'IIB recueille les données de transaction des assureurs pour différentes branches d'activité.",
@@ -1183,11 +1183,19 @@
         "url": "https://www.dorsetecho.co.uk/news/23541406.thomas-hardye-school-dorchester-hit-cyber-attack/"
     },
     {
-        "date": "2023-05-22",
-        "victim": "Western Cape Provincial parliament",
-        "country": "ZAF",
+        "date": "2023-05-23",
+        "victim": "Western Cape Provincial parliament.",
+        "country": "ZAF.",
         "summary": "Le parlement de la province du Cap occidental a subi une cyberattaque qui a rendu ses systèmes informatiques inaccessibles. L'institution travaille actuellement à la récupération de ses systèmes à partir de sauvegardes dans un environnement sécurisé. La police sud-africaine et l'Agence de sécurité de l'État ont été informées de l'attaque. D'autres organismes publics en Afrique du Sud ont également été touchés par des cyberattaques récemment. L'Afrique du Sud a enregistré plus de 230 millions de menaces cybernétiques en 2021, le plus grand nombre sur le continent.",
         "title": "Going dark: Cyber attack on Western Cape parliament downs ICT systems | News24",
         "url": "https://www.news24.com/news24/southafrica/news/going-dark-cyber-attack-on-western-cape-parliament-downs-ict-systems-20230523"
+    },
+    {
+        "date": "2023-04-3à",
+        "victim": "Cafpi",
+        "country": "FRA",
+        "summary": "Le courtier en prêts immobiliers Cafpi a été victime d'une cyberattaque par le groupe Vice Society fin avril. Des données personnelles et des informations internes ont été volées. La gestion de crise a été immédiatement déclenchée et une plainte a été déposée auprès de la CNIL. Cafpi ne disposait pas de traces réseau pour déterminer l'étendue de l'attaque. La priorité de Cafpi est désormais d'informer ses clients.",
+        "title": "Ransomware : CAFPI a été attaqué fin avril par Vice Society | LeMagIT",
+        "url": "https://www.lemagit.fr/actualites/366538284/Ransomware-CAFPI-a-ete-attaque-fin-avril-par-Vice-Society"
     }
 ]
