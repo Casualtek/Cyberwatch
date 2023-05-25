@@ -1213,5 +1213,13 @@
         "summary": "L'hébergeur de messagerie United Hoster a été victime d'une attaque de ransomware exploitant une faille de sécurité de Microsoft Exchange. Les serveurs ont été chiffrés, mais aucune donnée n'a été volée selon l'entreprise. Les clients ont été informés et une solution de messagerie alternative a été proposée. United Hoster reconstruit actuellement une nouvelle infrastructure Exchange pour migrer les clients. Le nombre de clients affectés n'a pas été divulgué.",
         "title": "Ransomware-Attacke: Hosted Exchange von United Hoster offline | heise online",
         "url": "https://www.heise.de/news/Ransomware-Attacke-Hosted-Exchange-von-United-Hoster-offline-9064768.html"
+    },
+    {
+        "date": "2023-05-24",
+        "victim": "Saint-Brevin-les-Pins",
+        "country": "FRA",
+        "summary": "La ville de Saint-Brevin-les-Pins a été victime d'une cyberattaque. Tous les services municipaux ont été impactés, sauf le standard qui fonctionne par internet. Les équipes sont mobilisées pour redémarrer les serveurs en toute sécurité. L'accueil des usagers est assuré malgré la situation. La municipalité communiquera sur l'évolution de la situation via le site internet et les réseaux sociaux.",
+        "title": "Saint-Brevin les Pins : la mairie victime d'une cyberattaque | Le Courrier du Pays de Retz",
+        "url": "https://actu.fr/pays-de-la-loire/saint-brevin-les-pins_44154/saint-brevin-les-pins-la-mairie-victime-dune-cyberattaque_59647378.html"
     }
 ]
