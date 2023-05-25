@@ -1221,5 +1221,13 @@
         "summary": "La ville de Saint-Brevin-les-Pins a été victime d'une cyberattaque. Tous les services municipaux ont été impactés, sauf le standard qui fonctionne par internet. Les équipes sont mobilisées pour redémarrer les serveurs en toute sécurité. L'accueil des usagers est assuré malgré la situation. La municipalité communiquera sur l'évolution de la situation via le site internet et les réseaux sociaux.",
         "title": "Saint-Brevin les Pins : la mairie victime d'une cyberattaque | Le Courrier du Pays de Retz",
         "url": "https://actu.fr/pays-de-la-loire/saint-brevin-les-pins_44154/saint-brevin-les-pins-la-mairie-victime-dune-cyberattaque_59647378.html"
+    },
+    {
+        "date": "2023-05-14",
+        "victim": "SMDEA",
+        "country": "FRA",
+        "summary": "Le SMDEA a été victime d'une cyberattaque de grande ampleur revendiquée par un groupe criminel de rançongiciel. Une plainte a été déposée et une perturbation des services administratifs a été constatée. Les autorités appellent à la vigilance des usagers face aux contacts frauduleux se référant au SMDEA. Des données personnelles et bancaires pourraient être concernées. Aucune rançon n'a été payée et un nouveau point d'étape est attendu dans 15 jours.",
+        "title": "Le SMDEA victime d'une cyber attaque de grande ampleur : face au vol de données les usagers doivent être vigilants - La Gazette Ariégeoise",
+        "url": "https://gazette-ariegeoise.fr/le-smdea-victime-dun-piratage-dampleur-de-tres-nombreuses-donnees-volees/"
     }
 ]
