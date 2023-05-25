@@ -794,7 +794,7 @@
         "date": "2023-05-10",
         "victim": "Chattanooga State",
         "country": "USA",
-        "summary": "Chattanooga State a été victime d'une cyberattaque qui a entraîné la fermeture de nombreux services sur le campus. Les cours ont été annulés jusqu'au 26 mai et les crédits ont été retardés. Les détails de l'attaque n'ont pas été divulgués, mais l'école travaille avec les forces de l'ordre et des experts en cyberforensique pour enquêter sur l'incident. Les étudiants et le personnel ont été invités à rester vigilants et à suivre les meilleures pratiques pour protéger leurs informations personnelles. Les événements prévus sur le campus ont été annulés et il n'y a pas de date de retour à la normale pour le moment.",
+        "summary": "Chattanooga State a été victime d'une cyberattaque qui a entraîné la fermeture de nombreux services sur le campus. Les cours ont été annulés jusqu'au 26 mai et les crédits ont été retardés. Les détails de l'attaque n'ont pas été divulgués, mais l'école travaille avec les forces de l'ordre et des experts en cyberforensique pour enquêter sur l'incident. Les étudiants et le personnel ont été invités à rester vigilants et à suivre les meilleures pratiques pour protéger leurs informations personnelles. Les événements prévus sur le campus ont été annulés et il n'y a pas de date de retour à la normale pour le moment. Cyberattaque revendiquée par Snatch le 23 mai 2023.",
         "title": "Chatt State Suffering from Cyber Attack - WDEF",
         "url": "https://www.wdef.com/chatt-state-suffering-from-cyber-attack/"
     },
@@ -1191,7 +1191,7 @@
         "url": "https://www.lemagit.fr/actualites/366538284/Ransomware-CAFPI-a-ete-attaque-fin-avril-par-Vice-Society"
     },
     {
-        "date": "2023-05-24",
+        "date": "2023-05-21",
         "victim": "La ville d'Augusta",
         "country": "USA",
         "summary": "La ville d'Augusta a été victime d'une cyberattaque. Les ordinateurs de la ville sont hors service. Les informations sensibles des contribuables pourraient être exposées. L'impact de l'attaque est en cours d'investigation. Le FBI d'Atlanta participe à l'enquête.",
@@ -1205,5 +1205,13 @@
         "summary": "L'Agence de Coopération Intermunicipale en Santé Pé da Serra (Acispes) a été victime d'une cyberattaque. Toutes les fonctions administratives et assistentielles ont été temporairement suspendues. La situation est en cours d'investigation et les mesures nécessaires ont été prises. La santé publique et la transparence sont réaffirmées par l'entité. Les patients et les utilisateurs du service ont été informés de la situation.",
         "title": "Acispes sofre ataque cibernético",
         "url": "https://tribunademinas.com.br/noticias/cidade/23-05-2023/acispes-sofre-ataque-cibernetico.html"
+    },
+    {
+        "date": "2023-05-20",
+        "victim": "United Hoster",
+        "country": "DEU",
+        "summary": "L'hébergeur de messagerie United Hoster a été victime d'une attaque de ransomware exploitant une faille de sécurité de Microsoft Exchange. Les serveurs ont été chiffrés, mais aucune donnée n'a été volée selon l'entreprise. Les clients ont été informés et une solution de messagerie alternative a été proposée. United Hoster reconstruit actuellement une nouvelle infrastructure Exchange pour migrer les clients. Le nombre de clients affectés n'a pas été divulgué.",
+        "title": "Ransomware-Attacke: Hosted Exchange von United Hoster offline | heise online",
+        "url": "https://www.heise.de/news/Ransomware-Attacke-Hosted-Exchange-von-United-Hoster-offline-9064768.html"
     }
 ]
