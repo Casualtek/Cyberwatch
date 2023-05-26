@@ -1176,8 +1176,8 @@
     },
     {
         "date": "2023-05-23",
-        "victim": "Western Cape Provincial parliament.",
-        "country": "ZAF.",
+        "victim": "Western Cape Provincial parliament",
+        "country": "ZAF",
         "summary": "Le parlement de la province du Cap occidental a subi une cyberattaque qui a rendu ses systèmes informatiques inaccessibles. L'institution travaille actuellement à la récupération de ses systèmes à partir de sauvegardes dans un environnement sécurisé. La police sud-africaine et l'Agence de sécurité de l'État ont été informées de l'attaque. D'autres organismes publics en Afrique du Sud ont également été touchés par des cyberattaques récemment. L'Afrique du Sud a enregistré plus de 230 millions de menaces cybernétiques en 2021, le plus grand nombre sur le continent.",
         "title": "Going dark: Cyber attack on Western Cape parliament downs ICT systems | News24",
         "url": "https://www.news24.com/news24/southafrica/news/going-dark-cyber-attack-on-western-cape-parliament-downs-ict-systems-20230523"
@@ -1245,5 +1245,21 @@
         "summary": "Un concessionnaire automobile dans le district de Straubing a été victime d'une attaque de ransomware. Les données ont été chiffrées et les propriétaires de l'entreprise ont contacté la police. Une équipe spéciale de la police a été déployée pour aider à enquêter sur l'attaque. Le montant des dommages causés n'a pas encore été chiffré. La police a conseillé aux entreprises de se protéger contre les attaques en mettant en place des stratégies de sauvegarde de données et en mettant à jour régulièrement leurs mesures de sécurité informatique.",
         "title": "Cyberangriff auf Autohaus im Landkreis Straubing: Kripo-Spezialeinheit im Einsatz",
         "url": "https://www.pnp.de/lokales/stadt-straubing-und-landkreis-straubing-bogen/cyberangriff-auf-autohaus-im-landkreis-straubing-kripo-spezialeinheit-im-einsatz-11271749"
+    },
+    {
+        "date": "2023-05-06",
+        "victim": "Fournisseur IT de HVC",
+        "country": "NLD",
+        "summary": "Le fournisseur informatique de l'entreprise énergétique HVC a été victime d'une cyberattaque. Les données des clients ont été affectées, entraînant des problèmes de connexion et de facturation. Le problème a été résolu, mais les clients ne peuvent toujours pas accéder à leur portail personnel. HVC a informé les clients de l'incident et a présenté ses excuses, mais affirme que les données des clients n'ont probablement pas été compromises. L'entreprise n'a pas payé de rançon aux cybercriminels.",
+        "title": "IT-leverancier van energiebedrijf HVC getroffen door cyberaanval",
+        "url": "https://www.rtvdordrecht.nl/nieuws/nieuws/it-leverancier-van-energiebedrijf-hvc-getroffen-door-cyberaanval"
+    },
+    {
+        "date": "2023-05-26",
+        "victim": "Lairie de Mandeure",
+        "country": "FRA",
+        "summary": "La mairie de Mandeure a été victime d'une cyberattaque qui a crypté les données et réclamé une rançon de 5 millions de dollars. La plainte a été déposée auprès de la gendarmerie. Les ordinateurs ont été coupés pour limiter les dégâts. Les services municipaux sont injoignables pendant l'attaque. Le maire recommande de ne pas ouvrir les mails provenant de la mairie pour éviter la propagation du virus.",
+        "title": "Doubs : la mairie de Mandeure est la cible d'une cyberattaque",
+        "url": "https://www.francebleu.fr/infos/faits-divers-justice/doubs-la-mairie-de-mandeure-est-la-cible-d-une-cyberattaque-5302393"
     }
 ]
