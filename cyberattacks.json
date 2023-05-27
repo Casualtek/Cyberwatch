@@ -1261,5 +1261,13 @@
         "summary": "La mairie de Mandeure a été victime d'une cyberattaque qui a crypté les données et réclamé une rançon de 5 millions de dollars. La plainte a été déposée auprès de la gendarmerie. Les ordinateurs ont été coupés pour limiter les dégâts. Les services municipaux sont injoignables pendant l'attaque. Le maire recommande de ne pas ouvrir les mails provenant de la mairie pour éviter la propagation du virus.",
         "title": "Doubs : la mairie de Mandeure est la cible d'une cyberattaque",
         "url": "https://www.francebleu.fr/infos/faits-divers-justice/doubs-la-mairie-de-mandeure-est-la-cible-d-une-cyberattaque-5302393"
+    },
+    {
+        "date": "2023-03-27",
+        "victim": "Onix Group LLC",
+        "country": "USA",
+        "summary": "Onix Group LLC a annoncé une cyberattaque par ransomware le 27 mars 2023. Des fichiers ont été corrompus et supprimés. Les données volées incluent des informations personnelles telles que les noms, les numéros de sécurité sociale, les dates de naissance et les informations de soins de santé. Les entreprises affiliées à Onix ont également été touchées. Onix a ouvert une ligne d'assistance pour les personnes touchées et offre des services de surveillance de crédit et de protection contre le vol d'identité.",
+        "title": "Notice of Data Security Incident at Onix Group LLC",
+        "url": "https://www.prnewswire.com/news-releases/notice-of-data-security-incident-at-onix-group-llc-301836100.html"
     }
 ]
