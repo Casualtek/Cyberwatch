@@ -1277,5 +1277,37 @@
         "summary": "Onix Group LLC a annoncé une cyberattaque par ransomware le 27 mars 2023. Des fichiers ont été corrompus et supprimés. Les données volées incluent des informations personnelles telles que les noms, les numéros de sécurité sociale, les dates de naissance et les informations de soins de santé. Les entreprises affiliées à Onix ont également été touchées. Onix a ouvert une ligne d'assistance pour les personnes touchées et offre des services de surveillance de crédit et de protection contre le vol d'identité.",
         "title": "Notice of Data Security Incident at Onix Group LLC",
         "url": "https://www.prnewswire.com/news-releases/notice-of-data-security-incident-at-onix-group-llc-301836100.html"
+    },
+    {
+        "date": "2023-05-27",
+        "victim": "L'armée chilienne",
+        "country": "CHL",
+        "summary": "Le réseau de transmission de données de l'armée a été affecté par une attaque informatique le 27 mai 2023. Les systèmes de cybersécurité ont détecté l'incident et la procédure d'isolement a été mise en place. Les audits de sécurité ont été lancés et les travaux de récupération ont commencé. Les informations ont été transmises à l'équipe de réponse aux incidents de sécurité informatique et au ministère de la Défense nationale. Les systèmes critiques n'ont pas été affectés, mais leur évaluation se poursuit.",
+        "title": "Declaración del Ejército por ataque cibernético - AdPrensa - agenda de prensa",
+        "url": "https://www.adprensa.cl/cronica/declaracion-del-ejercito-por-ataque-cibernetico/"
+    },
+    {
+        "date": "2023-05-30",
+        "victim": "Wardha Nagari Cooperative Adhikosh Bank",
+        "country": "IND",
+        "summary": "La banque coopérative Wardha Nagari a été victime d'une cyberattaque. 1 crore 21 lakh de roupies ont été transférés vers différents comptes en ligne. La police de la ville de Wardha a ouvert une enquête sur la base d'une plainte. La banque a informé la RBI de l'attaque. Les efforts de l'équipe de la coopérative indienne pour découvrir la vérité n'ont pas abouti.",
+        "title": "Cyberattack in Wardha Nagari Co-op Adhikosh Bank?",
+        "url": "https://www.indiancooperative.com/co-op-news-snippets/cyberattack-in-wardha-nagari-co-op-adhikosh-bank/"
+    },
+    {
+        "date": "2023-05-30",
+        "victim": "La Cordée",
+        "country": "CAN",
+        "summary": "La chaîne de magasins La Cordée a été victime d'un \"cyber-incident\" qui affecte ses systèmes de paiement, son réseau internet et son système téléphonique. Les activités dans les sept magasins physiques sont affectées, mais le site web fonctionne normalement. Les détails de l'attaque sont gardés confidentiels pour le moment. Les employés ont été informés que le système de La Cordée était \"pris en otage\". Les spécialistes qui aident à récupérer les systèmes n'ont pour le moment aucune raison de croire que des données importantes ont été volées.",
+        "title": "La Cordée victim of a “cyber incident” | Wire News",
+        "url": "https://www.wirenewsfax.com/la-cordee-victim-of-a-cyber-incident"
+    },
+    {
+        "date": "2023-05-30",
+        "victim": "Madhya Pradesh Power Management Company Limited",
+        "country": "IND",
+        "summary": "La société de gestion de l'électricité de Madhya Pradesh a été victime d'une attaque de ransomware le 22 mai. La société a signalé l'attaque à la police et a mis en place une méthode alternative pour assurer la continuité des activités urgentes. Les auteurs de l'attaque n'ont pas encore demandé de rançon mais ont fourni des adresses e-mail pour les contacter. Les serveurs sont en cours d'analyse et de restauration conformément aux directives du gouvernement. Les institutions gouvernementales concernées ont été informées de l'attaque.",
+        "title": "Madhya Pradesh News: MP power mgmt co hit by ransomware | Bhopal News - Times of India",
+        "url": "https://m.timesofindia.com/city/bhopal/mp-power-mgmt-co-hit-by-ransomware/articleshow/100577880.cms"
     }
 ]
