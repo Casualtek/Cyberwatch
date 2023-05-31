@@ -1309,5 +1309,29 @@
         "summary": "La municipalité de Bad Langensalza (district d'Unstrut-Hainich) affirme avoir été victime d'une cyberattaque. Selon la commune, la plupart de ses systèmes informatiques ont été paralysés. La municipalité est difficilement joignable et sa capacité de travail est fortement perturbée. Les e-mails entrants ne peuvent pas être traités. Les services de l'enregistrement des résidents et de l'état civil devraient être de nouveau disponibles à partir de mercredi.",
         "title": "Hackerangriff auf Stadtverwaltung von Bad Langensalza: Systeme lahmgelegt",
         "url": "https://www.mdr.de/nachrichten/thueringen/nord-thueringen/unstrut-hainich/hackerangriff-bad-langensalza-stadtverwaltung-cyberattacke-100.html"
+    },
+    {
+        "date": "2023-05-31",
+        "victim": "Mountain View RediCare",
+        "country": "USA",
+        "summary": "Une clinique locale a été contrainte de fermer temporairement ses portes suite à une cyberattaque sur ses systèmes informatiques. Un hôpital local redirige également ses services d'urgence vers d'autres hôpitaux de la région. L'équipe informatique a rapidement identifié l'attaque et travaille sans relâche pour résoudre le problème. Les patients sont pris en charge dans d'autres cliniques et hôpitaux de la région. Les informations des patients sont sécurisées et les équipes travaillent à limiter les impacts de l'attaque.",
+        "title": "Local clinic closes following cyberattack, hospital redirects emergency services - East Idaho News",
+        "url": "https://www.eastidahonews.com/2023/05/local-hospital-clinic-close-following-cyberattack/"
+    },
+    {
+        "date": "2023-04-25",
+        "victim": "La ville du Robert",
+        "country": "MTQ",
+        "summary": "La ville du Robert a été victime d'une cyberattaque le 25 avril dernier. Les données du serveur ont été chiffrées et une demande de rançon a été adressée. Un retour à la normale est prévu pour mi-juin. Les opérations d'inscription et de paiement des activités se font uniquement sur place selon des modalités exceptionnelles. Le Maire tient informés de l'avancée des travaux.",
+        "title": "PAIEMENT ASLH DES VACANCES ET PRESTATIONS DE JUIN 2023 | Ville du Robert",
+        "url": "https://www.ville-robert.fr/actualite/paiement-aslh-des-vacances-et-prestations-de-juin-2023"
+    },
+    {
+        "date": "2023-05-25",
+        "victim": "Heidelberg Materials",
+        "country": "DEU",
+        "summary": "D'après cet article, l'entreprise Heidelberg Materials a été victime d'une cyberattaque. Cette attaque a affecté les systèmes numériques de l'entreprise à Slite. L'attaque a eu lieu jeudi 25 mai. Aucune information n'est donnée sur les conséquences de cette attaque. Un photojournaliste nommé Erik Daun a pris une photo pour illustrer l'article.",
+        "title": "[no-title]",
+        "url": "https://helagotland.se/bli-prenumerant/artikel/jvq2zxer/gt-2m2kr_s_22"
     }
 ]
