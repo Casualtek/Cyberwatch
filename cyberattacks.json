@@ -1341,5 +1341,21 @@
         "summary": "Le groupe de radiologie de Medford a été victime d'une cyberattaque importante. Ils ont découvert le problème vendredi dernier et ont depuis lors été incapables de voir ou de rapporter des images. Une équipe de cybersécurité enquête actuellement sur l'incident. Le groupe a alerté ses partenaires extérieurs, tels que Asante et Providence, et est en train de travailler pour rétablir complètement ses opérations. Les partenaires extérieurs sont considérés comme étant sécurisés.",
         "title": "Medford Radiology Group victims of cybersecurity event - KOBI-TV NBC5 / KOTI-TV NBC2",
         "url": "https://kobi5.com/news/medford-radiology-group-victims-of-cybersecurity-event-209220/"
+    },
+    {
+        "date": "2023-06-02",
+        "victim": "Université de Waterloo",
+        "country": "CAN",
+        "summary": "L'Université de Waterloo enquête sur une attaque présumée de ransomware visant les systèmes en ligne de l'établissement. Seule une petite partie des comptes de messagerie a été affectée, sans impact sur les étudiants. L'équipe informatique travaille à sécuriser les systèmes et les données, et les utilisateurs devront réinitialiser leurs mots de passe à partir de vendredi. L'attaque a été détectée en cours et signalée à l'université par la GRC, qui a collaboré avec les forces de sécurité du campus et l'équipe informatique. Les autorités policières sont impliquées dans l'enquête.",
+        "title": "Access Denied",
+        "url": "https://www.cbc.ca/news/canada/kitchener-waterloo/university-waterloo-ransomware-attack-1.6862175"
+    },
+    {
+        "date": "2023-06-02",
+        "victim": "Lantech",
+        "country": "NZL",
+        "summary": "L'entreprise de services informatiques Lantech a été victime d'une cyberattaque. Les services d'urgence ne sont pas affectés. Lantech a refusé de commenter l'incident et Fenz a renvoyé les questions à Lantech. L'attaque a eu lieu sur la plateforme vOffice de Lantech. Les attaques contre les entreprises de services informatiques ont augmenté ces derniers temps.",
+        "title": "Fenz IT supplier hit by cyberattack, emergency services not affected - NZ Herald",
+        "url": "https://www.nzherald.co.nz/business/fenz-it-supplier-hit-by-cyberattack-emergency-services-not-affected/GCQM3YBKCBCZJCB5ADRLBAP2M4/"
     }
 ]
