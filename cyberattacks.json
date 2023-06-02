@@ -1373,5 +1373,13 @@
         "summary": "La société Unico Data, fournisseur de services IT pour les PME, a été victime d'une attaque de ransomware le 28 mai 2023. Tous les services Unico sont actuellement hors ligne. Les sauvegardes ont été déconnectées d'Internet pour éviter une fuite de données. Les systèmes de tous les clients ont également été déconnectés. Les processus de récupération sont en cours et les clients seront informés des progrès.",
         "title": "Berner IT-Dienstleister Opfer eines Cyberangriffs",
         "url": "https://www.inside-it.ch/berner-it-dienstleister-opfer-eines-cyberangriffs-20230531"
+    },
+    {
+        "date": "2023-06-01",
+        "victim": "Middlesex County Public Schools",
+        "country": "USA",
+        "summary": "Le système scolaire de Middlesex County a été victime d'une attaque de ransomware. Les autorités enquêtent sur l'incident avec l'aide du FBI et du Département de la Sécurité Intérieure. Les responsables de l'école cherchent à déterminer si des informations sur les élèves et le personnel ont été compromises. Les cyberattaques sont une préoccupation majeure pour les districts scolaires en raison du risque pour les dossiers des étudiants. Les districts scolaires ont des protections significatives en place pour prévenir ces types de problèmes.",
+        "title": "Superintendent confirms Middlesex County Public Schools hit with ransomware attack",
+        "url": "https://www.wtvr.com/news/local-news/middlesex-county-public-schools-virginia-ransomware-attack-june-1-2023"
     }
 ]
