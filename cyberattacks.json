@@ -1365,5 +1365,13 @@
         "summary": "La Fédération professionnelle des journalistes du Québec a été victime d'une cyberattaque. Les pirates ont réussi à accéder à des informations sensibles, telles que des adresses courriel et des mots de passe. La Fédération a immédiatement pris des mesures pour sécuriser ses systèmes et a averti les membres concernés. Les autorités ont été informées de l'incident et une enquête est en cours. La Fédération appelle ses membres à la vigilance et à la prudence dans l'utilisation de leurs comptes en ligne.",
         "title": "La Fédération professionnelle des journalistes du Québec victime d’une cyberattaque | Le Devoir",
         "url": "https://www.ledevoir.com/culture/medias/792197/la-fpjq-victime-d-une-cyberattaque"
+    },
+    {
+        "date": "2023-05-28",
+        "victim": "Unico Data",
+        "country": "CHE",
+        "summary": "La société Unico Data, fournisseur de services IT pour les PME, a été victime d'une attaque de ransomware le 28 mai 2023. Tous les services Unico sont actuellement hors ligne. Les sauvegardes ont été déconnectées d'Internet pour éviter une fuite de données. Les systèmes de tous les clients ont également été déconnectés. Les processus de récupération sont en cours et les clients seront informés des progrès.",
+        "title": "Berner IT-Dienstleister Opfer eines Cyberangriffs",
+        "url": "https://www.inside-it.ch/berner-it-dienstleister-opfer-eines-cyberangriffs-20230531"
     }
 ]
