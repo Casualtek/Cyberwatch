@@ -1381,5 +1381,45 @@
         "summary": "Le système scolaire de Middlesex County a été victime d'une attaque de ransomware. Les autorités enquêtent sur l'incident avec l'aide du FBI et du Département de la Sécurité Intérieure. Les responsables de l'école cherchent à déterminer si des informations sur les élèves et le personnel ont été compromises. Les cyberattaques sont une préoccupation majeure pour les districts scolaires en raison du risque pour les dossiers des étudiants. Les districts scolaires ont des protections significatives en place pour prévenir ces types de problèmes.",
         "title": "Superintendent confirms Middlesex County Public Schools hit with ransomware attack",
         "url": "https://www.wtvr.com/news/local-news/middlesex-county-public-schools-virginia-ransomware-attack-june-1-2023"
+    },
+    {
+        "date": "2023-02-11",
+        "victim": "Burton Snowboards",
+        "country": "USA",
+        "summary": "Burton Snowboards a confirmé une violation de données après une cyberattaque en février. Des informations sensibles de clients ont été potentiellement consultées ou volées. L'attaque a été découverte après une panne système et l'annulation de commandes en ligne. Des experts externes ont été embauchés pour enquêter sur l'incident. Les mots de passe des comptes liés aux clients affectés ont été réinitialisés.",
+        "title": "Burton Snowboards discloses data breach after February attack",
+        "url": "https://www.bleepingcomputer.com/news/security/burton-snowboards-discloses-data-breach-after-february-attack/"
+    },
+    {
+        "date": "2023-04-11",
+        "victim": "Enzo Biochem",
+        "country": "USA",
+        "summary": "La société de biotechnologie Enzo Biochem a été victime d'une attaque de ransomware, compromettant les données confidentielles de 2,47 millions de patients, dont 600 000 numéros de sécurité sociale. Les détails sur la façon dont les attaquants ont accédé au réseau et les données des employés perdus sont encore inconnus. La société a mis en place des mesures de confinement et a lancé une enquête avec l'aide d'experts en cybersécurité tiers. Les opérations de la société ont été maintenues malgré l'attaque, mais cela a entraîné des dépenses importantes pour la réponse à l'incident, la remédiation et l'enquête. Les personnes touchées devront être vigilantes quant à la surveillance de leur identité",
+        "title": "Enzo Biochem Hit by Ransomware, 2.5 Million Patients' Data Compromised - Infosecurity Magazine",
+        "url": "https://www.infosecurity-magazine.com/news/enzo-biochem-hit-ransomware/"
+    },
+    {
+        "date": "2023-05-23",
+        "victim": "Xplain",
+        "country": "CHE",
+        "summary": "Une cyberattaque a touché plusieurs polices cantonales, l'armée suisse et l'Office fédéral de la police en Suisse. Tous ces acteurs ont le même prestataire informatique, Xplain, qui a été piraté. Cette attaque met en évidence la vulnérabilité des sociétés tech et les effets domino importants que peuvent avoir les piratages. Cette attaque est considérée comme hors norme en Suisse. Des attaques similaires ont déjà touché des communes, des cabinets médicaux, des services de curatelle, des sociétés de médias et des géants de l'économie.",
+        "title": "Une cyberattaque hors norme frappe la Suisse, touchant l’armée et de nombreuses polices - Le Temps",
+        "url": "https://www.letemps.ch/economie/cyber/une-cyberattaque-norme-frappe-suisse-touchant-larmee-nombreuses-polices"
+    },
+    {
+        "date": "2023-06-03",
+        "victim": "Sky",
+        "country": "ITA",
+        "summary": "D'après cet article, une entreprise a subi une cyberattaque récemment. Les données personnelles de certains clients ont été compromises, notamment leur nom, adresse, adresse e-mail et code client. Ces données pourraient être utilisées par des tiers non autorisés. L'entreprise présente ses excuses pour cet incident. Aucune information supplémentaire n'est donnée sur la nature de l'attaque ou les mesures prises pour y remédier.",
+        "title": "[no-title]",
+        "url": "https://assistenza.sky.it/info/guida-comunicazione"
+    },
+    {
+        "date": "2023-05-18",
+        "victim": "Mairie de Cangas",
+        "country": "ESP",
+        "summary": "La mairie de Cangas a été victime d'une cyberattaque qui a affecté la gestion et le paiement des salaires. Un virus a été introduit dans le système via un faux e-mail. Les ordinateurs ont été cryptés et une rançon a été demandée. La mairie a réussi à stopper le vol d'informations et à récupérer 70% des données. Le groupe de cybercriminels LockBit est suspecté d'être à l'origine de l'attaque.",
+        "title": "A false email to an official made it possible to start the cyber attack on the City Council of Cangas - Time News",
+        "url": "https://time.news/a-false-email-to-an-official-made-it-possible-to-start-the-cyber-attack-on-the-city-council-of-cangas/"
     }
 ]
