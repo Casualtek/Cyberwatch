@@ -1437,5 +1437,13 @@
         "summary": "Un hacker du nom de Bassterlord a volé 2 Go de données de la boutique de luxe Cortina Watch, y compris les coordonnées des clients. Il semble tenir les données en otage et a partagé un échantillon sur Twitter. Les données ont été obtenues à partir du formulaire de contact du site web de l'entreprise. Bassterlord est lié à au moins quatre gangs de ransomware. Cortina Watch a confirmé l'attaque et travaille sur une solution.",
         "title": "Hacker steals luxury retailer Cortina Watch’s data, including customer details | The Straits Times",
         "url": "https://www.straitstimes.com/singapore/hacker-steals-data-of-luxury-retailer-cortina-watch-including-customer-details"
+    },
+    {
+        "date": "2023-06-05",
+        "victim": "Zellis",
+        "country": "UK",
+        "summary": "Des dizaines de milliers de salariés de British Airways, de la BBC et de Boots ont été touchés par une cyberattaque. Le fournisseur de paie Zellis a confirmé que huit de ses clients avaient été affectés. Les informations volées comprennent des noms, des adresses, des numéros d'assurance nationale et des détails bancaires. La BBC a confirmé avoir été touchée par la cyberattaque. L'attaque est liée à un groupe de cybercriminels russophones connu sous le nom de Cl0p.",
+        "title": "British Airways, BBC and Boots staff hit in major payroll cyber attack 'linked to Russia' - LBC",
+        "url": "https://www.lbc.co.uk/news/british-airways-bbc-boots-hacked-payroll/"
     }
 ]
