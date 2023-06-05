@@ -1429,5 +1429,13 @@
         "summary": "La Deutsche Leasing, un important groupe de leasing soutenu par de nombreuses caisses d'épargne, a été victime d'une cyberattaque. Les systèmes informatiques ont été mis hors ligne suite à la détection de l'attaque par les systèmes de sécurité. Les employés ne peuvent pas accéder à une grande partie des systèmes informatiques et des données, y compris les systèmes de messagerie électronique. Des experts en sécurité informatique travaillent avec l'entreprise pour analyser l'attaque et rétablir les systèmes et les données. Les détails de l'attaque sont encore inconnus et il n'est pas clair quand la Deutsche Leasing sera pleinement opérationnelle à nouveau.",
         "title": "Cyber-Angriff: IT der Deutsche Leasing seit Samstag offline | heise online",
         "url": "https://www.heise.de/news/Cyber-Angriff-IT-der-Deutsche-Leasing-seit-Samstag-offline-9164777.html"
+    },
+    {
+        "date": "2023-06-05",
+        "victim": "Cortina Watch",
+        "country": "SGP",
+        "summary": "Un hacker du nom de Bassterlord a volé 2 Go de données de la boutique de luxe Cortina Watch, y compris les coordonnées des clients. Il semble tenir les données en otage et a partagé un échantillon sur Twitter. Les données ont été obtenues à partir du formulaire de contact du site web de l'entreprise. Bassterlord est lié à au moins quatre gangs de ransomware. Cortina Watch a confirmé l'attaque et travaille sur une solution.",
+        "title": "Hacker steals luxury retailer Cortina Watch’s data, including customer details | The Straits Times",
+        "url": "https://www.straitstimes.com/singapore/hacker-steals-data-of-luxury-retailer-cortina-watch-including-customer-details"
     }
 ]
