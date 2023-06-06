@@ -1445,5 +1445,45 @@
         "summary": "Des dizaines de milliers de salariés de British Airways, de la BBC et de Boots ont été touchés par une cyberattaque. Le fournisseur de paie Zellis a confirmé que huit de ses clients avaient été affectés. Les informations volées comprennent des noms, des adresses, des numéros d'assurance nationale et des détails bancaires. La BBC a confirmé avoir été touchée par la cyberattaque. L'attaque est liée à un groupe de cybercriminels russophones connu sous le nom de Cl0p.",
         "title": "British Airways, BBC and Boots staff hit in major payroll cyber attack 'linked to Russia' - LBC",
         "url": "https://www.lbc.co.uk/news/british-airways-bbc-boots-hacked-payroll/"
+    },
+    {
+        "date": "2023-06-04",
+        "victim": "Mayberry Investments",
+        "country": "JAM",
+        "summary": "Mayberry Investments a été victime d'une cyberattaque. L'entreprise a confirmé l'attaque et a déclaré que ses experts travaillaient à résoudre le problème. Les services n'ont pas été perturbés et les positions financières des clients n'ont pas été compromises. Cette attaque met en évidence la prévalence croissante de la cybercriminalité dans la région des Caraïbes. Selon Schneider Electric, la région a connu 144 millions de tentatives de cyberattaques en 2023.",
+        "title": "Mayberry Investments targeted in cyberattack | Loop Jamaica",
+        "url": "https://jamaica.loopnews.com/content/mayberry-investments-targeted-cyberattack"
+    },
+    {
+        "date": "2023-03-15",
+        "victim": "Matthäi",
+        "country": "DEU",
+        "summary": "Cyberattaque revendiquée par Black Basta début juin.",
+        "title": "Werder Bremens neuer Sponsor Matthäi Opfer von Hackerangriff - buten un binnen",
+        "url": "https://www.butenunbinnen.de/nachrichten/werder-bremen-sponsor-matthaei-hackerangriff-100.html"
+    },
+    {
+        "date": "2023-06-02",
+        "victim": "University of Rochester",
+        "country": "USA",
+        "summary": "L'Université de Rochester enquête sur une cyberattaque qui a affecté environ 2 500 organisations dans le monde. La faille de sécurité a été causée par une vulnérabilité dans un produit fourni par une entreprise tierce de transfert de fichiers, MOVEit Transfer. Les données personnelles des membres de la communauté universitaire pourraient avoir été compromises, mais l'étendue de l'impact n'est pas encore connue. L'université travaille avec le FBI et une entreprise de forensique pour déterminer les informations qui ont été compromises et les actions à prendre. Les membres de la communauté universitaire sont invités à prendre des mesures de précaution pour protéger leurs informations personnelles.",
+        "title": "Data Security Updates - University of Rochester",
+        "url": "https://www.rochester.edu/data-security/"
+    },
+    {
+        "date": "2023-06-05",
+        "victim": "Zellis",
+        "country": "RUS",
+        "summary": "Des dizaines de milliers de salariés de British Airways, de la BBC et de Boots ont été touchés par une cyberattaque exploitant une vulnérabilité dans MOVEit Transfer. Le fournisseur de paie Zellis a confirmé que huit de ses clients avaient été affectés. Les informations volées incluent les noms, adresses, numéros d'assurance nationale et coordonnées bancaires. La BBC a confirmé avoir été touchée par la cyberattaque. L'attaque est liée à un groupe de cybercriminels russophones connu sous le nom de Clop.",
+        "title": "British Airways, BBC and Boots staff hit in major payroll cyber attack 'linked to Russia' - LBC",
+        "url": "https://www.lbc.co.uk/news/british-airways-bbc-boots-hacked-payroll/"
+    },
+    {
+        "date": "2023-06-04",
+        "victim": "Nouvelle-Ecosse",
+        "country": "CAN",
+        "summary": "Des pirates informatiques ont mené une cyberattaque contre la plateforme de transfert de fichiers MoveIt, utilisée par le gouvernement de la Nouvelle-Écosse. Les données personnelles de Néo-Écossais pourraient avoir été subtilisées. Une enquête a été ouverte pour déterminer quelles informations ont pu être volées et le nombre de personnes potentiellement touchées. Le gouvernement va informer les personnes concernées une fois qu'il aura répondu à ces deux questions. Progress Software, la société mère d’Ipswitch, a confirmé l'existence d'une vulnérabilité dans son logiciel.",
+        "title": "La Nouvelle-Écosse enquête sur une fuite de données potentielle en lien avec MoveIt | L’actualité",
+        "url": "https://lactualite.com/actualites/la-nouvelle-ecosse-enquete-sur-une-fuite-de-donnees-potentielle-en-lien-avec-moveit/"
     }
 ]
