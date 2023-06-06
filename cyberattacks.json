@@ -1477,5 +1477,13 @@
         "summary": "Des pirates informatiques ont mené une cyberattaque contre la plateforme de transfert de fichiers MoveIt, utilisée par le gouvernement de la Nouvelle-Écosse. Les données personnelles de Néo-Écossais pourraient avoir été subtilisées. Une enquête a été ouverte pour déterminer quelles informations ont pu être volées et le nombre de personnes potentiellement touchées. Le gouvernement va informer les personnes concernées une fois qu'il aura répondu à ces deux questions. Progress Software, la société mère d’Ipswitch, a confirmé l'existence d'une vulnérabilité dans son logiciel.",
         "title": "La Nouvelle-Écosse enquête sur une fuite de données potentielle en lien avec MoveIt | L’actualité",
         "url": "https://lactualite.com/actualites/la-nouvelle-ecosse-enquete-sur-une-fuite-de-donnees-potentielle-en-lien-avec-moveit/"
+    },
+    {
+        "date": "2023-03-14",
+        "victim": "Mont-Saint-Martin",
+        "country": "FRA",
+        "summary": "La mairie de Mont-Saint-Martin a été victime d'une cyberattaque qui a permis aux hackers de voler les données personnelles des agents et des élus. Les coordonnées bancaires, les numéros de sécurité sociale, l'identité et l'adresse des personnels et des élus ont été dérobés. Aucune donnée personnelle d'administré n'a été corrompue ou volée. La commune a suspendu les demandes habituellement traitées en ligne pour contrôler et maintenir le système informatique. Des messages de prévention ont été passés aux personnels concernés pour éviter d'éventuelles tentatives d'usurpation d'identité.",
+        "title": "La mairie de Mont-Saint-Martin cible d'une cyberattaque | Les Frontaliers",
+        "url": "https://www.lesfrontaliers.lu/societe/la-mairie-de-mont-saint-martin-cible-dune-cyberattaque/"
     }
 ]
