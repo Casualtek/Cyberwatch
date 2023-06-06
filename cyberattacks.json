@@ -1485,5 +1485,13 @@
         "summary": "La mairie de Mont-Saint-Martin a été victime d'une cyberattaque qui a permis aux hackers de voler les données personnelles des agents et des élus. Les coordonnées bancaires, les numéros de sécurité sociale, l'identité et l'adresse des personnels et des élus ont été dérobés. Aucune donnée personnelle d'administré n'a été corrompue ou volée. La commune a suspendu les demandes habituellement traitées en ligne pour contrôler et maintenir le système informatique. Des messages de prévention ont été passés aux personnels concernés pour éviter d'éventuelles tentatives d'usurpation d'identité.",
         "title": "La mairie de Mont-Saint-Martin cible d'une cyberattaque | Les Frontaliers",
         "url": "https://www.lesfrontaliers.lu/societe/la-mairie-de-mont-saint-martin-cible-dune-cyberattaque/"
+    },
+    {
+        "date": "2023-04-29",
+        "victim": "Mission Community Hospital",
+        "country": "USA",
+        "summary": "Le Mission Community Hospital en Californie a été victime d'une cyberattaque en avril. Les attaquants, connus sous le nom de RansomHouse, ont exploité des vulnérabilités dans les systèmes Paragon et Cisco. Les fichiers VMware stockés dans le réseau de stockage virtuel ont été chiffrés. Les attaquants ont également exfiltré des données de patients. Le personnel de l'hôpital est confiant d'avoir éjecté les attaquants.",
+        "title": "Mission Community Hospital attackers exploited vulnerabilites in Paragon and Cisco",
+        "url": "https://www.databreaches.net/mission-community-hospital-attackers-exploited-vulnerabilites-in-paragon-and-cisco/"
     }
 ]
