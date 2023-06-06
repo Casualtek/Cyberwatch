@@ -1501,5 +1501,13 @@
         "summary": "La bibliothèque de Gouda a été victime d'une attaque de ransomware. Les services de la bibliothèque sont actuellement limités. Un groupe de hackers, 8Base, a revendiqué l'attaque et menace de divulguer des données confidentielles si la bibliothèque ne les contacte pas rapidement. La bibliothèque a engagé un bureau de cybersécurité pour enquêter sur l'incident. Il n'y a pas encore de confirmation sur le vol de données.",
         "title": "Bibliotheek Gouda doelwit van ransomware-aanval - VPNGids.nl",
         "url": "https://www.vpngids.nl/nieuws/bibliotheek-gouda-doelwit-van-ransomware-aanval/"
+    },
+    {
+        "date": "2023-03-15",
+        "victim": "Straus News",
+        "country": "USA",
+        "summary": "Le journal a été victime d'une cyberattaque par ransomware en mars. Malgré cela, ils ont réussi à publier le journal chaque semaine en créant les pages à partir de zéro. En avril, il y a eu un incendie à l'usine d'impression habituelle du journal. Ils ont dû trouver une nouvelle usine d'impression dans le Massachusetts. Le journal n'a jamais manqué une édition, mais demande maintenant des dons pour soutenir leur travail. Les lecteurs sont également encouragés à soutenir les annonceurs locaux.",
+        "title": "A cyberattack on our newsroom, a fire at the printer",
+        "url": "https://www.pikecountycourier.com/news/local-news/a-cyberattack-on-our-newsroom-a-fire-at-the-printer-FA2570326"
     }
 ]
