@@ -1533,5 +1533,13 @@
         "summary": "L'hôpital AIIMS de Delhi a été victime d'une tentative d'attaque par un logiciel malveillant sur son portail interne. L'attaque a été détectée et neutralisée par les systèmes de sécurité informatique. Les services de l'eHospital sont sécurisés et fonctionnent normalement. Des mesures ont été prises pour éviter de nouvelles attaques et une équipe d'experts en cybersécurité enquête sur l'incident. En novembre 2022, l'AIIMS avait déjà subi une cyberattaque qui avait perturbé ses services pendant plusieurs jours.",
         "title": "AIIMS under cyber attack, hosp says no services hit | Delhi News - Times of India",
         "url": "https://timesofindia.indiatimes.com/city/delhi/aiims-under-cyber-attack-hosp-says-no-services-hit/articleshow/100806999.cms"
+    },
+    {
+        "date": "2023-06-07",
+        "victim": "Université Aix-Marseille",
+        "country": "FRA",
+        "summary": "L'université Aix-Marseille a été victime d'une cyberattaque. Le réseau informatique a été coupé pour éviter des fuites de données. Les personnels ont été invités à rentrer chez eux. Les sites en interne et en externe sont inaccessibles. Le réseau ne devrait pas être rétabli avant la fin de journée.",
+        "title": "L'université Aix-Marseille victime d'une importante cyberattaque",
+        "url": "https://www.bfmtv.com/marseille/l-universite-aix-marseille-victime-d-une-importante-cyberattaque_AN-202306070535.html"
     }
 ]
