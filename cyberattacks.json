@@ -1509,5 +1509,13 @@
         "summary": "Le journal a été victime d'une cyberattaque par ransomware en mars. Malgré cela, ils ont réussi à publier le journal chaque semaine en créant les pages à partir de zéro. En avril, il y a eu un incendie à l'usine d'impression habituelle du journal. Ils ont dû trouver une nouvelle usine d'impression dans le Massachusetts. Le journal n'a jamais manqué une édition, mais demande maintenant des dons pour soutenir leur travail. Les lecteurs sont également encouragés à soutenir les annonceurs locaux.",
         "title": "A cyberattack on our newsroom, a fire at the printer",
         "url": "https://www.pikecountycourier.com/news/local-news/a-cyberattack-on-our-newsroom-a-fire-at-the-printer-FA2570326"
+    },
+    {
+        "date": "2023-06-06",
+        "victim": "Eisai Co., Ltd.",
+        "country": "JPN",
+        "summary": "Eisai Co., Ltd. a été victime d'une attaque de ransomware qui a chiffré certains de ses serveurs. Des systèmes, y compris des systèmes logistiques, ont été mis hors ligne en réponse à l'incident. Les sites web et les systèmes de messagerie de l'entreprise sont opérationnels. La possibilité d'une fuite de données est en cours d'investigation. Eisai travaille avec des experts externes et les forces de l'ordre pour protéger ses systèmes et minimiser les inconvénients pour ses partenaires et parties prenantes.",
+        "title": "Notification of Ransomware Incident | News Release：2023 | Eisai Co., Ltd.",
+        "url": "https://www.eisai.com/news/2023/news202341.html"
     }
 ]
