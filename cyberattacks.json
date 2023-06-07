@@ -1517,5 +1517,21 @@
         "summary": "Eisai Co., Ltd. a été victime d'une attaque de ransomware qui a chiffré certains de ses serveurs. Des systèmes, y compris des systèmes logistiques, ont été mis hors ligne en réponse à l'incident. Les sites web et les systèmes de messagerie de l'entreprise sont opérationnels. La possibilité d'une fuite de données est en cours d'investigation. Eisai travaille avec des experts externes et les forces de l'ordre pour protéger ses systèmes et minimiser les inconvénients pour ses partenaires et parties prenantes.",
         "title": "Notification of Ransomware Incident | News Release：2023 | Eisai Co., Ltd.",
         "url": "https://www.eisai.com/news/2023/news202341.html"
+    },
+    {
+        "date": "2023-06-06",
+        "victim": "Montclair.",
+        "country": "USA",
+        "summary": "La ville de Montclair a été victime d'une cyberattaque. La mairie a rapidement contacté des spécialistes pour enquêter sur l'incident et a informé les autorités compétentes. Il semblerait que le groupe criminel responsable ait déjà attaqué d'autres municipalités. Les systèmes de vote n'ont pas été affectés. Certains services peuvent être retardés et la mairie demande de la patience aux citoyens.",
+        "title": "Criminal Group Strikes Montclair with Cyber Attack, Mayor Says - Baristanet",
+        "url": "https://baristanet.com/2023/06/criminal-group-strikes-montclair-with-cyber-attack-mayor-says/"
+    },
+    {
+        "date": "2023-06-07",
+        "victim": "AIIMS",
+        "country": "IND",
+        "summary": "L'hôpital AIIMS de Delhi a été victime d'une tentative d'attaque par un logiciel malveillant sur son portail interne. L'attaque a été détectée et neutralisée par les systèmes de sécurité informatique. Les services de l'eHospital sont sécurisés et fonctionnent normalement. Des mesures ont été prises pour éviter de nouvelles attaques et une équipe d'experts en cybersécurité enquête sur l'incident. En novembre 2022, l'AIIMS avait déjà subi une cyberattaque qui avait perturbé ses services pendant plusieurs jours.",
+        "title": "AIIMS under cyber attack, hosp says no services hit | Delhi News - Times of India",
+        "url": "https://timesofindia.indiatimes.com/city/delhi/aiims-under-cyber-attack-hosp-says-no-services-hit/articleshow/100806999.cms"
     }
 ]
