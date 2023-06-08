@@ -1549,5 +1549,13 @@
         "summary": "L'entreprise italienne Bennet a été victime d'une cyberattaque. Cependant, les données des clients ne seraient pas en danger.",
         "title": "Attacco informatico all'italiana Bennet. Nessun rischio per i dati dei clienti",
         "url": "https://www.redhotcyber.com/post/attacco-informatico-allitaliana-bennet-nessun-rischio-per-i-dati-dei-clienti/"
+    },
+    {
+        "date": "2023-05-28",
+        "victim": "Cerizay",
+        "country": "FRA",
+        "summary": "La mairie de Cerizay a été victime d’une cyberattaque lors du week-end de la Pentecôte.",
+        "title": "La mairie de Cerizay victime d’une cyberattaque",
+        "url": "https://www.ouest-france.fr/nouvelle-aquitaine/bressuire-79300/la-mairie-de-cerizay-victime-dune-cyberattaque-4ed369cc-0602-11ee-be86-c4e6f5ffafb7"
     }
 ]
