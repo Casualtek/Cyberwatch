@@ -1520,7 +1520,7 @@
     },
     {
         "date": "2023-06-06",
-        "victim": "Montclair.",
+        "victim": "Montclair",
         "country": "USA",
         "summary": "La ville de Montclair a été victime d'une cyberattaque. La mairie a rapidement contacté des spécialistes pour enquêter sur l'incident et a informé les autorités compétentes. Il semblerait que le groupe criminel responsable ait déjà attaqué d'autres municipalités. Les systèmes de vote n'ont pas été affectés. Certains services peuvent être retardés et la mairie demande de la patience aux citoyens.",
         "title": "Criminal Group Strikes Montclair with Cyber Attack, Mayor Says - Baristanet",
@@ -1541,5 +1541,13 @@
         "summary": "L'université Aix-Marseille a été victime d'une cyberattaque. Le réseau informatique a été coupé pour éviter des fuites de données. Les personnels ont été invités à rentrer chez eux. Les sites en interne et en externe sont inaccessibles. Le réseau ne devrait pas être rétabli avant la fin de journée.",
         "title": "L'université Aix-Marseille victime d'une importante cyberattaque",
         "url": "https://www.bfmtv.com/marseille/l-universite-aix-marseille-victime-d-une-importante-cyberattaque_AN-202306070535.html"
+    },
+    {
+        "date": "2023-06-08",
+        "victim": "Bennet",
+        "country": "ITA",
+        "summary": "L'entreprise italienne Bennet a été victime d'une cyberattaque. Cependant, les données des clients ne seraient pas en danger.",
+        "title": "Attacco informatico all'italiana Bennet. Nessun rischio per i dati dei clienti",
+        "url": "https://www.redhotcyber.com/post/attacco-informatico-allitaliana-bennet-nessun-rischio-per-i-dati-dei-clienti/"
     }
 ]
