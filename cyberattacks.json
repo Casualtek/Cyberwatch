@@ -1597,5 +1597,13 @@
         "summary": "L'hôpital Columbus Regional Healthcare System en Caroline du Nord a été victime d'une attaque de ransomware par le groupe Daixin. Ce dernier a chiffré les serveurs de l'hôpital après avoir exfiltré des données et supprimé les sauvegardes. Les négociations avec les pirates ont échoué et ces derniers ont annoncé qu'ils allaient publier plus de 250 000 fichiers contenant des données sensibles. L'attaque a été facilitée par les nombreuses vulnérabilités critiques et à haut risque détectées lors d'une évaluation de sécurité en mars. Les pirates ont également affirmé que l'hôpital ne disposait pas de système de surveillance d'anomalies réseau.",
         "title": "Another hospital hit by ransomware: Columbus Regional Healthcare System in North Carolina hit by Daixin",
         "url": "https://www.databreaches.net/another-hospital-hit-by-ransomware-columbus-regional-healthcare-system-in-north-carolina-hit-by-daixin/"
+    },
+    {
+        "date": "2023-06-09",
+        "victim": "Fayetteville",
+        "country": "USA",
+        "summary": "Une menace de cybersécurité a affecté certains services en ligne de la ville de Fayetteville. Les services d'urgence n'ont pas été touchés. Les services en ligne devraient rester indisponibles pendant plusieurs jours. La police, les pompiers et les services d'urgence 911 ne sont pas affectés. La ville de Fort Smith est prête à aider Fayetteville en cas de besoin.",
+        "title": "A cyber threat shut down some of the city of Fayetteville services",
+        "url": "https://eu.swtimes.com/story/news/state/2023/06/09/a-cyber-threat-shut-down-the-city-of-fayetteville-services/70305362007/"
     }
 ]
