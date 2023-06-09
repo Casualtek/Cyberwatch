@@ -1557,5 +1557,13 @@
         "summary": "La mairie de Cerizay a été victime d’une cyberattaque lors du week-end de la Pentecôte.",
         "title": "La mairie de Cerizay victime d’une cyberattaque",
         "url": "https://www.ouest-france.fr/nouvelle-aquitaine/bressuire-79300/la-mairie-de-cerizay-victime-dune-cyberattaque-4ed369cc-0602-11ee-be86-c4e6f5ffafb7"
+    },
+    {
+        "date": "2023-06-06",
+        "victim": "Vaud Promotion",
+        "country": "CHE",
+        "summary": "L'association Vaud Promotion a été victime d'une attaque informatique dans la nuit du 6 juin 2023. Une cellule de crise a été mise en place en collaboration avec des experts en cybersécurité et une plainte pénale sera déposée. Une exfiltration de données est suspectée et des analyses techniques et judiciaires sont en cours. La continuité des activités est maintenue mais certaines demandes peuvent prendre plus de temps pour leur traitement. Un plan de remise en route des outils de communication de Vaud Promotion est en cours d'élaboration.",
+        "title": "Vaud Promotion | Vaud Promotion victime d’une attaque informatique",
+        "url": "https://vaud-promotion.ch/2023/06/vaud-promotion-victime-dune-attaque-informatique/"
     }
 ]
