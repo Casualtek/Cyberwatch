@@ -1565,5 +1565,13 @@
         "summary": "L'association Vaud Promotion a été victime d'une attaque informatique dans la nuit du 6 juin 2023. Une cellule de crise a été mise en place en collaboration avec des experts en cybersécurité et une plainte pénale sera déposée. Une exfiltration de données est suspectée et des analyses techniques et judiciaires sont en cours. La continuité des activités est maintenue mais certaines demandes peuvent prendre plus de temps pour leur traitement. Un plan de remise en route des outils de communication de Vaud Promotion est en cours d'élaboration.",
         "title": "Vaud Promotion | Vaud Promotion victime d’une attaque informatique",
         "url": "https://vaud-promotion.ch/2023/06/vaud-promotion-victime-dune-attaque-informatique/"
+    },
+    {
+        "date": "2023-06-07",
+        "victim": "Commune de Bex",
+        "country": "CHE",
+        "summary": "La commune de Bex, dans le canton de Vaud, a été victime d'une cyberattaque qui a affecté ses systèmes informatiques. Les services de la commune fonctionnent au ralenti. Une cellule de crise a été mise en place en collaboration avec la Police cantonale vaudoise. Les investigations techniques et judiciaires se poursuivent. Un chiffrement de données a eu lieu et un vol de données n'est pas exclu.",
+        "title": "La commune vaudoise de Bex touchée par une cyberattaque | ICTjournal",
+        "url": "https://www.ictjournal.ch/news/2023-06-09/la-commune-vaudoise-de-bex-touchee-par-une-cyberattaque"
     }
 ]
