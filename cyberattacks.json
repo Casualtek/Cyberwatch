@@ -1589,5 +1589,13 @@
         "summary": "La Labor Burgenland GmbH, une filiale de Gesundheit Burgenland, a été victime d'une attaque de ransomware sur un serveur externe. Des données liées aux tests PCR pendant la pandémie de Covid-19 étaient stockées sur ce serveur. Les dommages ont été réparés et une enquête forensique a été lancée.",
         "title": "Labor Burgenland wurde Opfer eines Cyberangriffs - Netzpolitik - derStandard.at › Web",
         "url": "https://www.derstandard.at/story/3000000173935/labor-burgenland-wurde-opfer-eines-cyber-angriffs"
+    },
+    {
+        "date": "2023-05-18",
+        "victim": "Columbus Regional Healthcare System",
+        "country": "USA",
+        "summary": "L'hôpital Columbus Regional Healthcare System en Caroline du Nord a été victime d'une attaque de ransomware par le groupe Daixin. Ce dernier a chiffré les serveurs de l'hôpital après avoir exfiltré des données et supprimé les sauvegardes. Les négociations avec les pirates ont échoué et ces derniers ont annoncé qu'ils allaient publier plus de 250 000 fichiers contenant des données sensibles. L'attaque a été facilitée par les nombreuses vulnérabilités critiques et à haut risque détectées lors d'une évaluation de sécurité en mars. Les pirates ont également affirmé que l'hôpital ne disposait pas de système de surveillance d'anomalies réseau.",
+        "title": "Another hospital hit by ransomware: Columbus Regional Healthcare System in North Carolina hit by Daixin",
+        "url": "https://www.databreaches.net/another-hospital-hit-by-ransomware-columbus-regional-healthcare-system-in-north-carolina-hit-by-daixin/"
     }
 ]
