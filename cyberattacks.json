@@ -1581,5 +1581,13 @@
         "summary": "L'Université de Manchester a détecté une activité non autorisée sur son réseau et est actuellement confrontée à une cyberattaque. Une enquête est en cours pour déterminer les données qui ont été affectées. L'université travaille avec des experts internes et externes pour résoudre l'incident. Elle collabore également avec les autorités compétentes, y compris l'ICO et le NCSC. Cette attaque survient après que plusieurs entreprises mondiales ont été averties d'une cyberattaque qui a compromis des informations personnelles.",
         "title": "The University of Manchester hit by cyber security breach after detecting 'unauthorised activity' - Manchester Evening News",
         "url": "https://www.manchestereveningnews.co.uk/news/university-manchester-hit-cyber-security-27087003"
+    },
+    {
+        "date": "2023-06-09",
+        "victim": "Labor Burgenland GmbH",
+        "country": "AUT",
+        "summary": "La Labor Burgenland GmbH, une filiale de Gesundheit Burgenland, a été victime d'une attaque de ransomware sur un serveur externe. Des données liées aux tests PCR pendant la pandémie de Covid-19 étaient stockées sur ce serveur. Les dommages ont été réparés et une enquête forensique a été lancée.",
+        "title": "Labor Burgenland wurde Opfer eines Cyberangriffs - Netzpolitik - derStandard.at › Web",
+        "url": "https://www.derstandard.at/story/3000000173935/labor-burgenland-wurde-opfer-eines-cyber-angriffs"
     }
 ]
