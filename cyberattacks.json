@@ -1573,5 +1573,13 @@
         "summary": "La commune de Bex, dans le canton de Vaud, a été victime d'une cyberattaque qui a affecté ses systèmes informatiques. Les services de la commune fonctionnent au ralenti. Une cellule de crise a été mise en place en collaboration avec la Police cantonale vaudoise. Les investigations techniques et judiciaires se poursuivent. Un chiffrement de données a eu lieu et un vol de données n'est pas exclu.",
         "title": "La commune vaudoise de Bex touchée par une cyberattaque | ICTjournal",
         "url": "https://www.ictjournal.ch/news/2023-06-09/la-commune-vaudoise-de-bex-touchee-par-une-cyberattaque"
+    },
+    {
+        "date": "2023-06-09",
+        "victim": "Université de Manchester",
+        "country": "GBR",
+        "summary": "L'Université de Manchester a détecté une activité non autorisée sur son réseau et est actuellement confrontée à une cyberattaque. Une enquête est en cours pour déterminer les données qui ont été affectées. L'université travaille avec des experts internes et externes pour résoudre l'incident. Elle collabore également avec les autorités compétentes, y compris l'ICO et le NCSC. Cette attaque survient après que plusieurs entreprises mondiales ont été averties d'une cyberattaque qui a compromis des informations personnelles.",
+        "title": "The University of Manchester hit by cyber security breach after detecting 'unauthorised activity' - Manchester Evening News",
+        "url": "https://www.manchestereveningnews.co.uk/news/university-manchester-hit-cyber-security-27087003"
     }
 ]
