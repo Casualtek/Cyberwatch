@@ -1613,5 +1613,37 @@
         "summary": "La Hochschule de Kaiserslautern a été victime d'une cyberattaque. Son site internet et son programme de messagerie ont été mis hors ligne par mesure de sécurité. Le président de la Hochschule a déclaré que l'ampleur de l'attaque était encore inconnue. Les cours en ligne ont été annulés et les étudiants ont été invités à suivre les cours en présentiel. Les étudiants et le personnel peuvent se tenir informés de la situation sur une page internet dédiée.",
         "title": "Hacker greifen Hochschule Kaiserslautern an - Studenten betroffen - SWR Aktuell",
         "url": "https://www.swr.de/swraktuell/rheinland-pfalz/kaiserslautern/hackerangriff-auf-hochschule-in-kaiserslautern-102.html"
+    },
+    {
+        "date": "2023-06-11",
+        "victim": "Haynes International",
+        "country": "USA",
+        "summary": "Haynes International, une entreprise spécialisée dans les alliages haute performance, a subi une panne de réseau due à une menace de cybersécurité. Des spécialistes tiers ont été engagés pour enquêter sur l'origine de la panne et rétablir le fonctionnement normal des systèmes. L'enquête est en cours. Haynes International est une entreprise qui développe, fabrique et commercialise des alliages haute performance à base de nickel et de cobalt pour les industries aérospatiale, de traitement chimique et de turbines à gaz terrestres. Le communiqué de presse contient des déclarations prospectives qui comportent des risques et des incertitudes. La société n'a aucune obligation de mettre à jour ou de réviser publiquement les déclarations prospectives.",
+        "title": "Haynes International Announces Network Outage",
+        "url": "https://www.globenewswire.com/en/news-release/2023/6/11/2685905/9124/en/Haynes-International-Announces-Network-Outage.html"
+    },
+    {
+        "date": "2023-06-11",
+        "victim": "JamaicaEye",
+        "country": "JAM",
+        "summary": "Le site web de JamaicaEye, un système de surveillance, a été affecté par une cyberattaque, mais aucune vidéo n'a été compromise. On ne sait pas si les données des personnes s'étant enregistrées pour collaborer avec JamaicaEye ont été exfiltrées. JamaicaEye est un programme national de surveillance par caméras de circuit fermé (CCTV) créé en 2018 pour lutter contre la criminalité. Le site web n'est pas connecté à l'infrastructure centrale du système de surveillance. Une équipe d'experts enquête sur l'incident.",
+        "title": "JamaicaEye reports cyberattack, CCTV footage 'not compromised' - Gov't | News | Jamaica Gleaner",
+        "url": "https://jamaica-gleaner.com/article/news/20230611/jamaicaeye-reports-cyberattack-cctv-footage-not-compromised-govt"
+    },
+    {
+        "date": "2023-05-31",
+        "victim": "Tegma",
+        "country": "BRA",
+        "summary": "La société Tegma a subi une cyberattaque qui a affecté certains de ses serveurs et systèmes. La société a immédiatement activé ses protocoles de sécurité et a reçu le soutien d'une société de conseil spécialisée. Jusqu'à présent, les principaux systèmes de la société sont restés intacts et aucun vol de données clients n'a été identifié. La société a publié un communiqué de presse informant de la situation. La société The Capital Advisor propose un diagnostic en ligne gratuit pour aider les investisseurs à choisir où investir.",
+        "title": "Tegma (TGMA3) Sofre Ataque Cibernético | TheCap",
+        "url": "https://comoinvestir.thecap.com.br/tegma-tgma3-sofre-ataque-cibernetico"
+    },
+    {
+        "date": "2023-06-07",
+        "victim": "Master Builders",
+        "country": "NZL",
+        "summary": "Master Builders, un groupe industriel, a subi une cyberattaque qui a provoqué une panne de plusieurs jours de ses sites web et de ses services. L'incident est en cours d'investigation, mais il semble que les données des membres n'aient pas été compromises. Les attaques contre les fournisseurs de services gérés sont en augmentation, ce qui peut donner aux pirates informatiques accès aux données de plusieurs entreprises. L'IT fournisseur de Master Builders n'a pas été nommé. D'autres entreprises néo-zélandaises ont également été touchées par des cyberattaques récemment.",
+        "title": "Master Builders: Cybersecurity incident being investigated - NZ Herald",
+        "url": "https://www.nzherald.co.nz/business/master-builders-cybersecurity-incident-being-investigated/CJBEEOIMW5GNDHI7WKTLZNPU4U/"
     }
 ]
