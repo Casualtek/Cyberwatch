@@ -1645,5 +1645,13 @@
         "summary": "Master Builders, un groupe industriel, a subi une cyberattaque qui a provoqué une panne de plusieurs jours de ses sites web et de ses services. L'incident est en cours d'investigation, mais il semble que les données des membres n'aient pas été compromises. Les attaques contre les fournisseurs de services gérés sont en augmentation, ce qui peut donner aux pirates informatiques accès aux données de plusieurs entreprises. L'IT fournisseur de Master Builders n'a pas été nommé. D'autres entreprises néo-zélandaises ont également été touchées par des cyberattaques récemment.",
         "title": "Master Builders: Cybersecurity incident being investigated - NZ Herald",
         "url": "https://www.nzherald.co.nz/business/master-builders-cybersecurity-incident-being-investigated/CJBEEOIMW5GNDHI7WKTLZNPU4U/"
+    },
+    {
+        "date": "2023-03-14",
+        "victim": "Petaluma Health Center",
+        "country": "USA",
+        "summary": "Le centre de santé Petaluma a signalé une violation de données à l'Attorney General du Maine après qu'un tiers non autorisé ait accédé à des fichiers contenant des informations confidentielles appartenant aux employés, membres du conseil et bénévoles. Les informations compromises incluent les noms, adresses, numéros de sécurité sociale, numéros de permis de conduire, numéros de passeport, dates de naissance et informations sur les plans d'assurance maladie des consommateurs. Le centre de santé a commencé à envoyer des lettres de notification de violation de données à tous les individus touchés. Une cyberattaque contre le centre de santé Petaluma, sans chiffrement, a été revendiquée mi-avril par Karakurt.",
+        "title": "Petaluma Health Center Files Official Notice of Data Breach Following Recent Cyber-Incident | Console and Associates, P.C. - JDSupra",
+        "url": "https://www.jdsupra.com/legalnews/petaluma-health-center-files-official-5515492/"
     }
 ]
