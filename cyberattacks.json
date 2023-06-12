@@ -1653,5 +1653,13 @@
         "summary": "Le centre de santé Petaluma a signalé une violation de données à l'Attorney General du Maine après qu'un tiers non autorisé ait accédé à des fichiers contenant des informations confidentielles appartenant aux employés, membres du conseil et bénévoles. Les informations compromises incluent les noms, adresses, numéros de sécurité sociale, numéros de permis de conduire, numéros de passeport, dates de naissance et informations sur les plans d'assurance maladie des consommateurs. Le centre de santé a commencé à envoyer des lettres de notification de violation de données à tous les individus touchés. Une cyberattaque contre le centre de santé Petaluma, sans chiffrement, a été revendiquée mi-avril par Karakurt.",
         "title": "Petaluma Health Center Files Official Notice of Data Breach Following Recent Cyber-Incident | Console and Associates, P.C. - JDSupra",
         "url": "https://www.jdsupra.com/legalnews/petaluma-health-center-files-official-5515492/"
+    },
+    {
+        "date": "2023-06-12",
+        "victim": "Service médical de Basse-Saxe",
+        "country": "DEU",
+        "summary": "Après le Klinikverbund Gesundheit Nord, les services médicaux de Brême et de Basse-Saxe sont désormais également touchés par une cyberattaque.",
+        "title": "Niedersachsen und Bremen: Hacker-Angriff beim Medizinischen Dienst",
+        "url": "https://www.weser-kurier.de/bremen/politik/niedersachsen-und-bremen-hacker-angriff-beim-medizinischen-dienst-doc7qm00jbqrzn5fvv95c4"
     }
 ]
