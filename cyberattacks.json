@@ -1685,5 +1685,13 @@
         "summary": "L'université Stephen F. Austin a été victime d'une cyberattaque entre samedi soir et lundi matin. Les systèmes en ligne ont été touchés. Les responsables ont coupé la connexion Internet pour éviter d'autres problèmes. L'université publiera des mises à jour officielles sur les réseaux sociaux. Aucune autre information n'a été donnée sur l'attaque.",
         "title": "SFA Computer Systems Victim Of Cyber-Attack - EastTexasRadio.com",
         "url": "https://easttexasradio.com/sfa-computer-systems-victim-of-cyber-attack/"
+    },
+    {
+        "date": "2023-06-03",
+        "victim": "Automatic Systems",
+        "country": "BEL",
+        "summary": "La filiale Automatic Systems du groupe Bolloré a été victime d'une cyberattaque par ransomware. Les hackers russophones ALPHV ont revendiqué l'attaque et menacent de publier des données confidentielles si la société ne les contacte pas dans les 48 heures. Des informations personnelles de salariés et des contrats avec des clients importants ont déjà été partagés. ALPHV est connu pour être particulièrement cruel et a attaqué 77 organisations entre octobre et décembre 2022. La société fait appel à des experts externes en cybercriminalité pour évaluer la nature des informations qui auraient pu être rendues accessibles à des tiers.",
+        "title": "Une filiale du groupe Bolloré victime de cyberattaque, des documents confidentiels en ligne - Numerama",
+        "url": "https://www.numerama.com/cyberguerre/1413154-une-filiale-du-groupe-bollore-victime-de-cyberattaque-des-documents-confidentiels-en-ligne.html"
     }
 ]
