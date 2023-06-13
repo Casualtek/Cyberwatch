@@ -1669,5 +1669,21 @@
         "summary": "Une entreprise spécialisée dans les vols charter d'affaires est confrontée à une attaque de hackers qui pourrait avoir des conséquences dévastatrices. Sur demande, l'entreprise confirme les recherches correspondantes de watson. Le 21 mai, le système de détection d'intrusion (IDS) a détecté une tentative d'accès non autorisée au réseau. Par la suite, certains systèmes informatiques ont été touchés par une attaque de ransomware, c'est-à-dire un chiffrement.",
         "title": "Black Basta attackiert bekannte Schweizer Aviatik-Firma – Cyberangriff wirft Fragen auf",
         "url": "https://www.watson.ch/digital/schweiz/358345405-ransomware-attacke-schweizer-privatjet-anbieterin-tag-aviation-gehackt"
+    },
+    {
+        "date": "2023-06-06",
+        "victim": "Leytonstone School",
+        "country": "GBR",
+        "summary": "Une école a été forcée de fermer à cause d'une cyberattaque qui a rendu inaccessible un document légalement obligatoire. Des données personnelles ont également été compromises. L'organisation Vice Society cible régulièrement les établissements scolaires. Les établissements doivent avoir les bonnes mesures en place pour se protéger contre les attaques. Les employés doivent également être sensibilisés aux risques de sécurité informatique.",
+        "title": "School forced to close after cyber attack | Cambridge Network",
+        "url": "http://www.cambridgenetwork.co.uk/news/school-forced-close-after-cyber-attack"
+    },
+    {
+        "date": "2023-06-11",
+        "victim": "Stephen F. Austin University",
+        "country": "USA",
+        "summary": "L'université Stephen F. Austin a été victime d'une cyberattaque entre samedi soir et lundi matin. Les systèmes en ligne ont été touchés. Les responsables ont coupé la connexion Internet pour éviter d'autres problèmes. L'université publiera des mises à jour officielles sur les réseaux sociaux. Aucune autre information n'a été donnée sur l'attaque.",
+        "title": "SFA Computer Systems Victim Of Cyber-Attack - EastTexasRadio.com",
+        "url": "https://easttexasradio.com/sfa-computer-systems-victim-of-cyber-attack/"
     }
 ]
