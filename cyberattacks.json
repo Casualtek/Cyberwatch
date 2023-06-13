@@ -1661,5 +1661,13 @@
         "summary": "Après le Klinikverbund Gesundheit Nord, les services médicaux de Brême et de Basse-Saxe sont désormais également touchés par une cyberattaque.",
         "title": "Niedersachsen und Bremen: Hacker-Angriff beim Medizinischen Dienst",
         "url": "https://www.weser-kurier.de/bremen/politik/niedersachsen-und-bremen-hacker-angriff-beim-medizinischen-dienst-doc7qm00jbqrzn5fvv95c4"
+    },
+    {
+        "date": "2023-05-21",
+        "victim": "TAG Aviation",
+        "country": "CHE",
+        "summary": "Une entreprise spécialisée dans les vols charter d'affaires est confrontée à une attaque de hackers qui pourrait avoir des conséquences dévastatrices. Sur demande, l'entreprise confirme les recherches correspondantes de watson. Le 21 mai, le système de détection d'intrusion (IDS) a détecté une tentative d'accès non autorisée au réseau. Par la suite, certains systèmes informatiques ont été touchés par une attaque de ransomware, c'est-à-dire un chiffrement.",
+        "title": "Black Basta attackiert bekannte Schweizer Aviatik-Firma – Cyberangriff wirft Fragen auf",
+        "url": "https://www.watson.ch/digital/schweiz/358345405-ransomware-attacke-schweizer-privatjet-anbieterin-tag-aviation-gehackt"
     }
 ]
