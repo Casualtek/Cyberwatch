@@ -1709,5 +1709,13 @@
         "summary": "L'école OSG Hengelo a été victime d'une attaque de ransomware. Les hackers ont exigé une rançon. Il est encore incertain quelles données ont été obtenues par les hackers. Les employés et les étudiants peuvent à nouveau utiliser le WiFi et la plupart des imprimantes fonctionnent. L'enquête est en cours pour déterminer l'ampleur de l'attaque.",
         "title": "School community OSG Hengelo closes deal with hackers after ransomware attack - Ruetir",
         "url": "https://www.ruetir.com/2023/06/school-community-osg-hengelo-closes-deal-with-hackers-after-ransomware-attack/"
+    },
+    {
+        "date": "2023-05-21",
+        "victim": "Development Bank of Southern Africa (DBSA)",
+        "country": "ZAF",
+        "summary": "La Banque de développement de l'Afrique australe (DBSA) a été victime d'une attaque de ransomware par un groupe russe appelé Akira. Des serveurs, des fichiers journaux et des documents ont été chiffrés. Les informations personnelles des parties prenantes, telles que les coordonnées, les documents d'identification et les informations financières, ont été potentiellement compromises. La DBSA a pris des mesures pour enquêter sur l'incident, restaurer ses systèmes d'information et prévenir de futures attaques. Les parties prenantes sont invitées à rester vigilantes et à signaler toute utilisation incorrecte de leurs informations personnelles.",
+        "title": "Notification of Security Compromise | Development Bank of Southern Africa",
+        "url": "https://www.dbsa.org/press-releases/notification-security-compromise"
     }
 ]
