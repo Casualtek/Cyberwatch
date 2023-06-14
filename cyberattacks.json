@@ -1693,5 +1693,21 @@
         "summary": "La filiale Automatic Systems du groupe Bolloré a été victime d'une cyberattaque par ransomware. Les hackers russophones ALPHV ont revendiqué l'attaque et menacent de publier des données confidentielles si la société ne les contacte pas dans les 48 heures. Des informations personnelles de salariés et des contrats avec des clients importants ont déjà été partagés. ALPHV est connu pour être particulièrement cruel et a attaqué 77 organisations entre octobre et décembre 2022. La société fait appel à des experts externes en cybercriminalité pour évaluer la nature des informations qui auraient pu être rendues accessibles à des tiers.",
         "title": "Une filiale du groupe Bolloré victime de cyberattaque, des documents confidentiels en ligne - Numerama",
         "url": "https://www.numerama.com/cyberguerre/1413154-une-filiale-du-groupe-bollore-victime-de-cyberattaque-des-documents-confidentiels-en-ligne.html"
+    },
+    {
+        "date": "2023-03-18",
+        "victim": "Maimonides Medical Center",
+        "country": "USA",
+        "summary": "Le 4 avril 2023, le Centre médical Maimonides a découvert un accès non autorisé à des informations de patients sur l'un de ses serveurs. L'enquête a révélé que le pirate avait accédé au serveur du 18 mars 2023 au 4 avril 2023. Les informations potentiellement consultées comprenaient les noms, les adresses et des informations cliniques limitées. Le Centre médical a informé 33 000 patients potentiellement touchés et offre une surveillance gratuite du crédit et de l'identité pendant 24 mois. Aucune demande de rançon ou d'extorsion n'a été mentionnée dans la déclaration du Centre médical.",
+        "title": "Maimondes Medical Center notifies 33,000 patients of hacking incident",
+        "url": "https://www.databreaches.net/maimondes-medical-center-notifies-33000-patients-of-hacking-incident/"
+    },
+    {
+        "date": "2023-06-14",
+        "victim": "OSG Hengelo",
+        "country": "NLD",
+        "summary": "L'école OSG Hengelo a été victime d'une attaque de ransomware. Les hackers ont exigé une rançon. Il est encore incertain quelles données ont été obtenues par les hackers. Les employés et les étudiants peuvent à nouveau utiliser le WiFi et la plupart des imprimantes fonctionnent. L'enquête est en cours pour déterminer l'ampleur de l'attaque.",
+        "title": "School community OSG Hengelo closes deal with hackers after ransomware attack - Ruetir",
+        "url": "https://www.ruetir.com/2023/06/school-community-osg-hengelo-closes-deal-with-hackers-after-ransomware-attack/"
     }
 ]
