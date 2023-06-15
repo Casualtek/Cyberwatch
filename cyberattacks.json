@@ -1,5 +1,13 @@
 [
     {
+        "date": "2023-06-15",
+        "victim": "Centre Basile",
+        "country": "ITA",
+        "summary": "Une cyberattaque a visé le Centre Basile, un centre de diagnostic privé à Naples. Les hackers ont demandé une rançon en échange des données volées. Le Centre Basile a assuré que les données sensibles étaient sécurisées et qu'aucune information n'avait été volée. Une enquête est en cours pour retrouver les responsables de l'attaque.",
+        "title": "Napoli, attacco hacker al centro diagnosi: chiesto il riscatto per i dati rubati",
+        "url": "https://www.ilmattino.it/napoli/cronaca/napoli_attacco_hacker_centro_diagnosi_basile_vomero-7462513.html"
+    },
+    {
         "date": "2023-06-14",
         "victim": "Brunswick",
         "country": "USA",
