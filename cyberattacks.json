@@ -1,5 +1,21 @@
 [
     {
+        "date": "2023-03-27",
+        "victim": "Onix Group",
+        "country": "USA",
+        "summary": "En mars, le groupe Onix a subi une attaque de ransomware qui a entraîné une violation des données de santé et a touché plusieurs organisations affiliées.",
+        "title": "Healthcare Business Associate Data Breach Impacts 320K",
+        "url": "https://healthitsecurity.com/news/business-associate-healthcare-data-breach-impacts-320k"
+    },
+    {
+        "date": "2023-06-10",
+        "victim": "Smartpay",
+        "country": "NZL",
+        "summary": "L'entreprise Smartpay, fournisseur de services de paiement électronique, a été victime d'une attaque de ransomware. Des données de clients ont été volées mais aucune donnée de carte n'a été compromise. Smartpay ne collecte pas d'informations de carte. Les clients affectés ont été contactés directement. L'entreprise travaille avec des spécialistes de la cybersécurité et les autorités compétentes pour résoudre l'incident.",
+        "title": "Eftpos provider Smartpay suffers ransomware attack",
+        "url": "https://www.newstalkzb.co.nz/news/business/eftpos-provider-smartpay-suffers-ransomware-attack/"
+    },
+    {
         "date": "2023-06-15",
         "victim": "Centre Basile",
         "country": "ITA",
