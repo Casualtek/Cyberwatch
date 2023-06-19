@@ -1,5 +1,21 @@
 [
     {
+        "date": "2023-04-26",
+        "victim": "Trois magasins de matériaux dans le bassin de Brive",
+        "country": "FRA",
+        "summary": "L'entreprise de Babette Baffet a été victime d'une cyberattaque. Les ordinateurs de l'entreprise ont été bloqués. Un salarié a informé Babette Baffet de la situation. Il n'était pas question de payer une rançon. Babette Baffet a reçu une photo qui lui a confirmé la situation.",
+        "title": "\"Il n'était pas question de payer la moindre rançon\" : une Corrézienne raconte comment son entreprise a été ciblée par des hackers - Brive-la-Gaillarde (19100)",
+        "url": "https://www.lamontagne.fr/brive-la-gaillarde-19100/actualites/il-n-etait-pas-question-de-payer-la-moindre-rancon-une-correzienne-raconte-comment-son-entreprise-a-ete-ciblee-par-des-hackers_14323156/"
+    },
+    {
+        "date": "2023-06-16",
+        "victim": "circ IT GmbH & Co KG",
+        "country": "DEU",
+        "summary": "La Rheinische Post Mediengruppe a subi une panne technique depuis vendredi soir. Cette panne est due à une cyberattaque contre son fournisseur IT, circ IT GmbH & Co KG. Les éditions du samedi sont sorties normalement, mais les sites web sont toujours partiellement indisponibles. Aucun dommage n'a été causé par l'attaque et aucune donnée utilisateur n'a été compromise. La situation est en cours de résolution.",
+        "title": "Cyberangriff ist Ursache für die technische Störung bei der Rheinische Post Mediengruppe. | turi2",
+        "url": "https://www.turi2.de/aktuell/cyberangriff-ist-ursache-fuer-die-technische-stoerung-bei-der-rheinische-post-mediengruppe/"
+    },
+    {
         "date": "2023-05-12",
         "victim": "Le groupe Vitrey",
         "country": "FRA",
