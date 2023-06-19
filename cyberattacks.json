@@ -1,5 +1,13 @@
 [
     {
+        "date": "2023-06-15",
+        "victim": "Helmholtz-Zentrum Berlin (HZB)",
+        "country": "DEU",
+        "summary": "Le Helmholtz-Zentrum Berlin (HZB) a été victime d'une cyberattaque le 15 juin 2023. Pour se protéger, tous les systèmes informatiques ont été arrêtés. Le centre de recherche n'est pas joignable par téléphone, email ou site web. La communication du HZB demande de la compréhension.",
+        "title": "Cyberangriff auf das Helmholtz-Zentrum Berlin (HZB) - HZBblog",
+        "url": "https://hzbblog.de/cyberangriff-auf-das-helmholtz-zentrum-berlin-hzb"
+    },
+    {
         "date": "2023-06-16",
         "victim": "Cafam.",
         "country": "COL",
