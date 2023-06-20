@@ -1,5 +1,13 @@
 [
     {
+        "date": "2023-06-16",
+        "victim": "NIFT",
+        "country": "PAK",
+        "summary": "Le système de compensation de chèques automatique du Pakistan, NIFT, a été victime d'une cyberattaque majeure dans ses centres de données à Islamabad et Karachi. L'attaque a visé les banques pour perturber les processus de compensation de chèques. Les mesures de sécurité ont rapidement été mises en place pour éviter les pertes de données et de systèmes majeures. Les équipes enquêtent sur la nature de l'attaque et les menaces potentielles. Les services de compensation devraient reprendre le 19 juin 2023.",
+        "title": "Major cyber attack on the country’s Automated Check Clearing System ‘NIFT’ GeoTv News | Geo Tv News",
+        "url": "https://geotvnews.com/major-cyber-attack-on-the-countrys-automated-check-clearing-system-nift-geotv-news/"
+    },
+    {
         "date": "2023-06-15",
         "victim": "Helmholtz-Zentrum Berlin (HZB)",
         "country": "DEU",
