@@ -1,9 +1,17 @@
 [
     {
+        "date": "2023-01-09",
+        "victim": "District scolaire de Des Moines",
+        "country": "USA",
+        "summary": "Le district scolaire de Des Moines a été victime d'une cyberattaque en janvier 2023. Près de 6 700 personnes ont été informées de l'incident et de la possible exposition de leurs données personnelles. Des mesures de sécurité ont été prises pour empêcher de futures attaques similaires. Les personnes potentiellement touchées ont été offertes des services de surveillance de crédit gratuits. Aucune preuve de fraude financière ou d'usurpation d'identité n'a été trouvée pour le moment.",
+        "title": "DMPS Notifies Individuals of Data Security Incident - Des Moines Public Schools",
+        "url": "https://www.dmschools.org/news_release/dmps-notifies-individuals-of-data-security-incident/"
+    },
+    {
         "date": "2023-06-18",
         "victim": "INDAP",
         "country": "CHL",
-        "summary": "L'INDAP, relevant du ministère de l'Agriculture du Chili, signale un incident de sécurité perturbateur qui affecte son réseau depuis hier matin, dimanche 18. À l'heure actuelle, tous les services numériques sont suspendus. L'INDAP a notifié la situation au CSIRT gouvernemental conformément au décret 273 du ministère de l'Intérieur et de la Sécurité publique."
+        "summary": "L'INDAP, relevant du ministère de l'Agriculture du Chili, signale un incident de sécurité perturbateur qui affecte son réseau depuis hier matin, dimanche 18. À l'heure actuelle, tous les services numériques sont suspendus. L'INDAP a notifié la situation au CSIRT gouvernemental conformément au décret 273 du ministère de l'Intérieur et de la Sécurité publique.",
         "title": " INDAP, del Ministerio de Agricultura de Chile, está reportando un incidente de seguridad",
         "url": "https://twitter.com/1ZRR4H/status/1671011848823472128"
     },
