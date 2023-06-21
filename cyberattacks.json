@@ -1,5 +1,21 @@
 [
     {
+        "date": "2023-06-17",
+        "victim": "Blowtherm",
+        "country": "ITA",
+        "summary": "L'entreprise Blowtherm, spécialisée dans la cabine de vernissage, a été victime d'une cyberattaque qui a bloqué son système informatique et une partie de ses machines. Les employés ont découvert l'attaque en se rendant sur leur lieu de travail. La direction a organisé une réunion avec les syndicats pour informer les employés et mener des enquêtes internes. L'attaque semble être ciblée et une demande de rançon n'est pas exclue. L'entreprise est contrainte de travailler avec des méthodes manuelles.",
+        "title": "Padova, la Blowtherm di Peghin colpita dagli hacker. Rete bloccata, si teme l’estorsione - Il Mattino di Padova",
+        "url": "https://mattinopadova.gelocal.it/padova/cronaca/2023/06/20/news/blowtherm_hacker_padova_peghin-12867727/?__vfz=medium%3Dsharebar"
+    },
+    {
+        "date": "2023-06-13",
+        "victim": "Hawaiʻi Community College",
+        "country": "USA",
+        "summary": "L'Université d'Hawaï a confirmé qu'une attaque de ransomware a visé le Hawai'i Community College. Les représentants du collège travaillent avec les autorités fédérales et des experts en cybersécurité pour résoudre le problème. Le réseau du collège a été mis hors ligne et des mesures ont été prises pour protéger tous les réseaux de l'Université d'Hawaï. Seul le campus de Hawai'i CC a été touché par l'attaque. Les experts en cybersécurité de l'Université d'Hawaï ne pensent pas que d'autres campus ont été touchés.",
+        "title": "UH investigating ransomware incident at Hawaiʻi CC | University of Hawaiʻi System News",
+        "url": "https://www.hawaii.edu/news/2023/06/20/uh-investigating-ransomware-incident/"
+    },
+    {
         "date": "2023-06-08",
         "victim": "Mortgage Industry Advisory Corporation (MIAC)",
         "country": "PRI",
