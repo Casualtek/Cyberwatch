@@ -1,5 +1,13 @@
 [
     {
+        "date": "2023-06-13",
+        "victim": "King County Sheriff's Office",
+        "country": "USA",
+        "summary": "Le bureau du shérif du comté de King a été victime d'une possible cyberattaque le 13 juin. Les ordinateurs ont été rendus inutilisables, les serveurs de dispatch 911 et les outils d'identification des empreintes digitales ont été gravement affectés. Les ordinateurs de la prison ont également été touchés. Les équipes informatiques travaillent à la résolution des problèmes, mais certains systèmes sont encore hors ligne. Il n'est pas clair si cette attaque a eu un impact sur la sécurité publique.",
+        "title": "King County Sheriff's Office struggling after 'security incident' - MyNorthwest.com",
+        "url": "https://mynorthwest.com/3901496/jason-rantz-king-county-sheriffs-office-struggling-after-security-incident/"
+    },
+    {
         "date": "2023-06-21",
         "victim": "CHU de Rennes",
         "country": "FRA",
