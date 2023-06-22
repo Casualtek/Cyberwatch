@@ -1,5 +1,13 @@
 [
     {
+        "date": "2023-04-29",
+        "victim": "The Vincera Institute",
+        "country": "USA",
+        "summary": "Le Vincera Institute, un établissement de santé de Philadelphie, a été victime d'une attaque de ransomware le 29 avril 2023. Les données des patients, y compris les informations personnelles et médicales, pourraient être compromises. Des experts en cybersécurité ont été engagés pour contenir et atténuer l'attaque. Aucune preuve d'accès non autorisé ou d'utilisation abusive des données des patients n'a été trouvée pour le moment. Le Vincera Institute a pris des mesures pour renforcer la sécurité, enquêter sur l'incident et notifier les autorités compétentes.",
+        "title": "Vincera Institute Reports Potential Patient Data Breach Due to Ransomware Attack",
+        "url": "https://www.prnewswire.com/news-releases/vincera-institute-reports-potential-patient-data-breach-due-to-ransomware-attack-301855592.html"
+    },
+    {
         "date": "2023-06-07",
         "victim": "Fédération Française de Rugby",
         "country": "FRA",
