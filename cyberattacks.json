@@ -1,5 +1,13 @@
 [
     {
+        "date": "2023-06-21",
+        "victim": "Peter Mark",
+        "country": "IRL",
+        "summary": "La chaîne de coiffure Peter Mark a été victime d'une cyberattaque qui a compromis certaines données de ressources humaines. Les experts en cybercriminalité ont été engagés pour enquêter sur l'attaque. Le système de paiement des clients de la chaîne n'a pas été affecté. Il n'y a pas encore de preuve que les données personnelles compromises ont été divulguées sur le dark web. L'incident a été signalé à la Commission de protection des données et à l'Information Commissioner's Office du Royaume-Uni, ainsi qu'à An Garda Síochána et au National Cyber Security Centre.",
+        "title": "Hairdresser chain Peter Mark hit by cyberattack",
+        "url": "https://www.irishexaminer.com/news/arid-41168158.html"
+    },
+    {
         "date": "2023-04-29",
         "victim": "The Vincera Institute",
         "country": "USA",
