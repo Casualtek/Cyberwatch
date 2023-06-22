@@ -1,5 +1,13 @@
 [
     {
+        "date": "2023-06-21",
+        "victim": "CHU de Rennes",
+        "country": "FRA",
+        "summary": "Le CHU de Rennes a été victime d'une cyberattaque qui a commencé par une panne de l'intranet et le blocage des messageries. Le site internet est également inaccessible. Une cellule de crise a été mise en place et les personnels ont été alertés. Il n'est pas possible de savoir si la continuité des soins est concernée. Les établissements de soins sont souvent visés par les cyberattaques.",
+        "title": "Le CHU de Rennes visé par une cyberattaque | Le Télégramme",
+        "url": "https://www.letelegramme.fr/ille-et-vilaine/rennes-35000/le-chu-de-rennes-vise-par-une-cyberattaque-6377794.php"
+    },
+    {
         "date": "2023-06-17",
         "victim": "Blowtherm",
         "country": "ITA",
