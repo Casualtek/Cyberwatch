@@ -1,5 +1,13 @@
 [
     {
+        "date": "2023-02-27",
+        "victim": "Bryan Cave Leighton Paisner",
+        "country": "USA",
+        "summary": "Le cabinet d'avocats Bryan Cave Leighton Paisner a été victime d'une cyberattaque en février 2023. Cette attaque a exposé les données personnelles de plus de 50 000 employés actuels et anciens de Mondelēz International, une entreprise de snacks. Les informations volées comprenaient les dates de naissance, les numéros de sécurité sociale et les adresses personnelles des employés. Le cabinet a lancé une enquête robuste avec l'aide d'une entreprise de cybersécurité externe et a informé les autorités compétentes. La société Mondelēz a déclaré que l'incident ne s'était pas produit sur ses systèmes et n'a pas affecté l'entreprise de quelque manière que ce soit.",
+        "title": "Bryan Cave Hit by Cyberattack Involving Client Mondelez’s Data",
+        "url": "https://news.bloomberglaw.com/business-and-practice/bryan-cave-hit-by-cyberattack-involving-client-mondelezs-data"
+    },
+    {
         "date": "2023-06-22",
         "victim": "Operateur Catastral Valle Avanza SAS",
         "country": "COL",
