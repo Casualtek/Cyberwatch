@@ -1,5 +1,13 @@
 [
     {
+        "date": "2023-06-21",
+        "victim": "Saint-Martin-lez-Tating",
+        "country": "FRA",
+        "summary": "La ville de Saint-Martin-lez-Tatinghem a subi une attaque informatique le 21 juin 2023. Les mesures d'urgence ont été prises en coordination avec le Centre de Réponse aux Incidents Cyber, la gendarmerie nationale et la CAPSO. Les techniciens travaillent à rétablir les accès progressivement. Les services communaux sont maintenus mais fonctionnent de manière adaptée. Il est probable que certaines données aient été dérobées, la CNIL a été saisie.",
+        "title": "Intrusion dans les systèmes d’information de la ville | Ville de Saint-Martin-lez-Tatinghem",
+        "url": "https://www.stmartinleztatinghem.fr/intrusion-dans-les-systemes-dinformation-de-la-ville/"
+    },
+    {
         "date": "2023-06-16",
         "victim": "Bureau du shérif du comté de Baxter",
         "country": "USA",
