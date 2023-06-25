@@ -1,7 +1,15 @@
 [
     {
+        "date": "2023-06-22",
+        "victim": "Radio publique tchèque",
+        "country": "CZE",
+        "summary": "Cet article parle d'une cyberattaque massive contre la radio publique tchèque après une conférence sur l'Ukraine. Les sites web de la radio ont été rendus inaccessibles et les données ont été attaquées par un logiciel malveillant appelé ransomware. Cette attaque est probablement liée à la conférence sur les médias et l'Ukraine, et le directeur général de la radio a déclaré que cela ne pouvait pas être une coïncidence. Les autorités tchèques ont été informées de l'attaque, mais l'origine exacte de celle-ci n'est pas encore connue. Ces dernières années, il y a eu une augmentation des attaques cybernétiques contre les institutions publiques en République tchèque",
+        "title": "Massiver Cyberangriff gegen Tschechischen Rundfunk nach Ukraine-Konferenz | Radio Prague International",
+        "url": "https://deutsch.radio.cz/massiver-cyberangriff-gegen-tschechischen-rundfunk-nach-ukraine-konferenz-8786827"
+    },
+    {
         "date": "2023-06-21",
-        "victim": "Saint-Martin-lez-Tating",
+        "victim": "Saint-Martin-lez-Tatinghem",
         "country": "FRA",
         "summary": "La ville de Saint-Martin-lez-Tatinghem a subi une attaque informatique le 21 juin 2023. Les mesures d'urgence ont été prises en coordination avec le Centre de Réponse aux Incidents Cyber, la gendarmerie nationale et la CAPSO. Les techniciens travaillent à rétablir les accès progressivement. Les services communaux sont maintenus mais fonctionnent de manière adaptée. Il est probable que certaines données aient été dérobées, la CNIL a été saisie.",
         "title": "Intrusion dans les systèmes d’information de la ville | Ville de Saint-Martin-lez-Tatinghem",
