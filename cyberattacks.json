@@ -1,5 +1,13 @@
 [
     {
+        "date": "2023-02-12",
+        "victim": "Sweetwater Union High School District",
+        "country": "USA",
+        "summary": "Le district scolaire Sweetwater Union a confirmé qu'une cyberattaque avait causé une panne de système de plusieurs jours en février. Les données personnelles des employés, des étudiants et des familles ont été compromises. L'attaque a été découverte en mai et le district a mis en place des mesures de protection supplémentaires. Les enseignants ont signalé une augmentation des spams et des appels téléphoniques frauduleux depuis l'attaque. Le district n'a pas précisé comment les personnes concernées seraient informées de l'attaque.",
+        "title": "Sweetwater Union District confirms data breach caused system outages in February",
+        "url": "https://www.10news.com/news/local-news/south-bay-news/sweetwater-union-high-school-district-confirms-data-breach-caused-outages-in-february"
+    },
+    {
         "date": "2023-06-24",
         "victim": "Suncor Energy",
         "country": "CAN",
