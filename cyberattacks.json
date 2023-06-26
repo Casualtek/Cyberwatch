@@ -1,5 +1,13 @@
 [
     {
+        "date": "2023-06-24",
+        "victim": "Suncor Energy",
+        "country": "CAN",
+        "summary": "Suncor Energy, une entreprise canadienne, a subi une cyberattaque. Elle travaille avec des experts tiers pour enquêter et résoudre la situation. Aucune preuve de compromission ou d'utilisation abusive de données de clients, de fournisseurs ou d'employés n'a été trouvée pour le moment. Certaines transactions avec les clients et les fournisseurs peuvent être affectées pendant que l'entreprise travaille à résoudre l'incident. Suncor Energy est une entreprise intégrée d'énergie qui développe des ressources pétrolières tout en investissant dans les énergies renouvelables et l'hydrogène.",
+        "title": "Suncor Energy Responds to Cyber Security Incident",
+        "url": "https://www.newsfilecorp.com/release/171281"
+    },
+    {
         "date": "2023-06-22",
         "victim": "Radio publique tchèque",
         "country": "CZE",
