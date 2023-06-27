@@ -1,5 +1,13 @@
 [
     {
+        "date": "2023-05-11",
+        "victim": "Braintree",
+        "country": "USA",
+        "summary": "Le 11 mai 2023, Braintree a pris connaissance d'une activité suspecte dans son environnement réseau. Dès la découverte, Braintree a immédiatement engagé un cabinet d'avocats spécialisé dans la cybersécurité et la confidentialité des données pour mener une enquête plus approfondie. En outre, Braintree a fait appel à des spécialistes de la police scientifique pour l'aider à analyser toute activité non autorisée. Bien que l'enquête soit en cours, Braintree a déterminé qu'un tiers non autorisé a accédé à des fichiers contenant des informations personnelles de certains individus au cours de cet incident.",
+        "title": "Notice of data breach",
+        "url": "https://apps.web.maine.gov/online/aeviewer/ME/40/8d5fdbcf-008d-4fb1-9e87-34c54935042e.shtml"
+    },
+    {
         "date": "2023-06-21",
         "victim": "Livingston International",
         "country": "CAN",
