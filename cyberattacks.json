@@ -1,5 +1,13 @@
 [
     {
+        "date": "2023-06-21",
+        "victim": "Livingston International",
+        "country": "CAN",
+        "summary": "Une cyberattaque présumée a motivé l'arrêt des systèmes d'exploitation de Livingston International, un courtier en douane, le 21 juin. Cela a provoqué des retards aux postes frontaliers entre le Canada et les États-Unis. Les transporteurs et les camionneurs se sont plaints de retards de plusieurs jours en août et en décembre de l'année dernière. Livingston International a restauré de nombreux segments de ses systèmes et utilise des processus de secours pour continuer à dédouaner les marchandises. L'Agence des services frontaliers du Canada a confirmé que la panne de système a été résolue depuis.",
+        "title": "L'arrêt des systèmes des courtiers en douane entraîne des retards aux frontières - Transport Routier",
+        "url": "https://www.transportroutier.ca/nouvelles/larret-des-systemes-des-courtiers-en-douane-entraine-des-retards-aux-frontieres/"
+    },
+    {
         "date": "2023-06-27",
         "victim": "Virbac SA",
         "country": "FRA",
