@@ -16,12 +16,12 @@
         "url": "https://www.theexaminer.com/news/lumberton-isd-officials-report-cyberattack"
     },
     {
-        "date": "2023-06-26",
+        "date": "2023-01-15",
         "victim": "Le parti politique allemand SPD",
         "country": "DEU",
-        "summary": "Des comptes de messagerie électronique appartenant à des membres du comité directeur du SPD ont été piratés. Les pirates ont exploité une faille de sécurité dans le système et ont volé des données. La piste de l'attaque mène en Russie. Les autorités allemandes ont été informées et les personnes potentiellement touchées ont été averties. Le SPD a déclaré qu'il y avait des preuves solides que les attaquants étaient russes.",
-        "title": "Angriff auf SPD-Mailkonten: Spur führt nach Russland",
-        "url": "https://www.rnd.de/politik/angriff-auf-spd-mailkonten-womoeglich-daten-abgegriffen-I4FBFDGPXBNCFJXMDL6ZK5TEMU.html"
+        "summary": "Des comptes de messagerie électronique appartenant à des membres du comité directeur du SPD ont été piratés. Les pirates ont exploité une faille de sécurité dans un serveur Exchange et ont volé des données. La piste de l'attaque mène en Russie. Les autorités allemandes ont été informées et les personnes potentiellement touchées ont été averties. Le SPD a déclaré qu'il y avait des preuves solides que les attaquants étaient russes.",
+        "title": "Cyber-Angriff auf Mail-Konten des SPD-Parteivorstands",
+        "url": "https://www.heise.de/news/Cyber-Angriff-auf-Mail-Konten-des-SPD-Parteivorstands-9199357.html"
     },
     {
         "date": "2023-06-07",
