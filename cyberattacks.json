@@ -1,5 +1,13 @@
 [
     {
+        "date": "2023-06-24",
+        "victim": "ZDZiT",
+        "country": "POL",
+        "summary": "Un article rapporte qu'une cyberattaque a paralysé la ville d'Olsztyn en Pologne. Les principales rues de la ville sont bloquées et les habitants rencontrent des problèmes pour acheter des tickets de transport en commun. Le système de gestion du trafic ne fonctionne plus et les panneaux d'information électroniques sont également affectés. Les autorités locales enquêtent sur l'incident et préparent un communiqué officiel à ce sujet.",
+        "title": "Olsztyn sparaliżowany przez atak hakerski - Olsztyn",
+        "url": "https://www.olsztyn.com.pl/artykul,olsztyn-sparalizowany-przez-atak-hakerski,37877.html"
+    },
+    {
         "date": "2023-02-18",
         "victim": "Law Foundation of Silicon Valley",
         "country": "USA",
