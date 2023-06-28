@@ -1,5 +1,13 @@
 [
     {
+        "date": "2023-02-18",
+        "victim": "Law Foundation of Silicon Valley",
+        "country": "USA",
+        "summary": "Une attaque sophistiquée de ransomware a touché un groupe de défense du logement à San Jose, affectant plus de 40 000 clients et employés. Les données exposées comprennent les numéros de sécurité sociale et d'immigration, les dossiers médicaux et les informations financières. L'attaque a été attribuée à un groupe appelé \"ALPHV\" qui cible le secteur de la santé. Aucun client n'a signalé une utilisation malveillante de leurs informations jusqu'à présent. Des mesures de sécurité supplémentaires ont été mises en place pour prévenir de futures attaques. C'est la deuxième attaque de grande envergure à San Jose en deux mois, après celle qui a touché le Santa Clara Family Health Plan.",
+        "title": "San Jose nonprofit that serves low-income residents impacted by ransomware attack",
+        "url": "https://www.mercurynews.com/2023/06/27/san-jose-nonprofit-that-serves-low-income-residents-impacted-by-ransomware-attack/"
+    },
+    {
         "date": "2023-05-11",
         "victim": "Braintree",
         "country": "USA",
