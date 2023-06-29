@@ -1,5 +1,13 @@
 [
     {
+        "date": "2023-06-25",
+        "victim": "L'Administration régionale Kativik (ARK)",
+        "country": "CAN",
+        "summary": "Les systèmes informatiques de l'Administration régionale Kativik ont été victimes d'une intrusion le 25 juin, perturbant les communications internes de l'organisation. Une enquête est en cours pour déterminer la nature de l'attaque. On ne sait pas encore si des informations personnelles des employés ou des résidents ont été compromises. Les conséquences sur les activités de l'administration régionale sont inconnues pour le moment, mais les communications internes sont perturbées. Les équipes travaillent sans relâche pour rétablir les systèmes et donneront plus de détails ultérieurement.",
+        "title": "L’Administration régionale Kativik victime d’une intrusion informatique | Radio-Canada.ca",
+        "url": "https://ici.radio-canada.ca/nouvelle/1992263/cyber-attaque-administration-regionale-kativik"
+    },
+    {
         "date": "2023-06-21",
         "victim": "Perpetual",
         "country": "AUS",
