@@ -1,5 +1,13 @@
 [
     {
+        "date": "2023-06-21",
+        "victim": "Perpetual",
+        "country": "AUS",
+        "summary": "Perpetual Group, un fournisseur mondial de services financiers, a été victime d'une attaque de ransomware au cours de laquelle des données personnelles ont été volées. L'attaque a été menée par le biais d'un prestataire tiers chargé des services de registre d'unités et d'administration. Bien que les systèmes principaux aient été restaurés, l'accès à myPerpetual reste encore affecté. Les produits cotés, les mandats institutionnels et les entreprises de gestion d'actifs internationales de Perpetual n'ont pas été touchés. Malheureusement, une quantité limitée d'informations personnelles a été compromise.",
+        "title": "iTWire - Personal data leaks as Perpetual hit by ransomware attack",
+        "url": "https://itwire.com/business-it-news/security/personal-data-leaks-as-perpetual-hit-by-ransomware-attack.html"
+    },
+    {
         "date": "2022-12-20",
         "victim": "Maschinenring Freising",
         "country": "DEU",
