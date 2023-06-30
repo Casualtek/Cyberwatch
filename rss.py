@@ -49,6 +49,7 @@ rss_feed_urls_others = [
     'https://news.google.com/rss/search?tbm=nws&q=when:12h+cyberattack&scoring=n&hl=se&gl=SE&ceid=SE:se',
     'https://news.google.com/rss/search?tbm=nws&q=when:12h+cyberangrep&scoring=n&hl=no&gl=NO&ceid=NO:no'
     'https://news.google.com/rss/search?q=%E3%82%B5%E3%82%A4%E3%83%90%E3%83%BC%E6%94%BB%E6%92%83&gl=JP&hl=ja&ceid=JP:ja',
+    'https://news.google.com/rss/search?tbm=nws&q=when:12h+%E7%BD%91%E7%BB%9C%E6%94%BB%E5%87%BB&scoring=n&hl=zh-CN&gl=CN&ceid=CN:zh-Hans'
 ]
 
 ignored_sources = [
