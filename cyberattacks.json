@@ -1,6 +1,14 @@
 [
     {
         "date": "2023-06-30",
+        "victim": "Université de Salerne",
+        "country": "ITA",
+        "summary": "Cet article rapporte qu'une université italienne, l'Université degli Studi di Salerno, a été victime d'une cyberattaque de type ransomware. Les dégâts causés par l'attaque et les éventuelles fuites de données sensibles ne sont pas encore connus. L'université enquête sur l'incident en collaboration avec des experts en sécurité informatique. Il est souligné l'importance de prendre des mesures pour protéger les données des étudiants, des enseignants et du personnel administratif. Les attaques informatiques représentent une menace constante et il est crucial d'investir dans la sécurité informatique et de sensibiliser les utilisateurs à la sécurité en ligne.",
+        "title": "Attacco informatico all'Università degli Studi di Salerno. Rischio di fuoriuscite di dati sensibili",
+        "url": "https://www.redhotcyber.com/post/attacco-informatico-alluniversita-degli-studi-di-salerno-rischio-di-fuoriuscite-di-dati-sensibili/"
+    },
+    {
+        "date": "2023-06-30",
         "victim": "Schwälbchen Molkerei Jakob Berz AG",
         "country": "DEU",
         "summary": "La Schwälbchen Molkerei Jakob Berz AG a été victime d'une cyberattaque qui a affecté certaines parties de son infrastructure informatique. L'accessibilité de l'entreprise est actuellement perturbée, mais la production et la logistique ne sont pas touchées. Il est encore incertain si des données de l'entreprise ont été compromises. L'entreprise collabore étroitement avec les autorités de sécurité et un prestataire de services de sécurité informatique externe. Les efforts sont en cours pour rétablir pleinement les systèmes.",
