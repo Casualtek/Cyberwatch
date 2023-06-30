@@ -1,5 +1,13 @@
 [
     {
+        "date": "2023-05-23",
+        "victim": "Planfocus",
+        "country": "DEU",
+        "summary": "Une entreprise allemande spécialisée dans la distribution d'argent liquide pour les distributeurs automatiques de billets aurait été victime d'une cyberattaque. L'attaque n'a pas directement touché l'entreprise, mais plutôt un sous-traitant chargé de l'hébergement web. Les données volées comprenaient des informations sur les distributeurs automatiques de billets, les adresses des agences bancaires, les montants retirés et les livraisons d'argent liquide. Les données des clients ne semblent pas avoir été compromises. Les entreprises concernées n'ont pas commenté l'incident.",
+        "title": "Bargeldlieferant für Bankomaten von Cyberangriff betroffen",
+        "url": "https://futurezone.at/digital-life/bargeld-lieferant-geldautomat-bankomat-cyberangriff-diebold-nixdorf-planfocus/402506440"
+    },
+    {
         "date": "2023-04-05",
         "victim": "Delaware Health Network",
         "country": "USA",
