@@ -1,5 +1,13 @@
 [
     {
+        "date": "2023-06-27",
+        "victim": "Econsult Solutions",
+        "country": "USA",
+        "summary": "Econsult Solutions, une entreprise d'analyse économique et de conseil, a été victime d'une attaque de ransomware qui a exposé les données personnelles de ses employés. Les données, y compris les formulaires W-2 de certains employés, sont détenues en otage par les pirates. On ne sait pas encore si les données des partenariats de l'entreprise avec les gouvernements ont été exposées. Econsult travaille avec des experts en cybersécurité pour enquêter sur l'incident. Les employés touchés bénéficieront d'un service de surveillance de crédit gratuit.",
+        "title": "Econsult suffers ransomware attack, exposing personal data",
+        "url": "https://billypenn.com/2023/06/29/econsult-ransomware-attack-philadelphia/"
+    },
+    {
         "date": "2023-06-15",
         "victim": "District scolaire de Lebanon",
         "country": "USA",
