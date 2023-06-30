@@ -1,5 +1,13 @@
 [
     {
+        "date": "2023-04-05",
+        "victim": "Delaware Health Network",
+        "country": "USA",
+        "summary": "Le centre médical Henrietta Johnson dans le Delaware a été victime d'une cyberattaque. Les systèmes de Delaware Health Network (DHN), fournisseur de services de gestion des dossiers médicaux électroniques, ont été compromis. DHN n'a pas encore identifié les données précises des patients impactés. Le centre médical a signalé que 500 patients ont été affectés, mais il est possible que le nombre réel soit plus élevé. On ne sait pas pourquoi DHN ne peut pas informer les autres clients sur le nombre de patients affectés.",
+        "title": "Henrietta Johnson Medical Center patients affected by breach at Delaware Health Network",
+        "url": "https://www.databreaches.net/henrietta-johnson-medical-center-patients-affected-by-breach-at-delaware-health-network/"
+    },
+    {
         "date": "2023-06-27",
         "victim": "Econsult Solutions",
         "country": "USA",
