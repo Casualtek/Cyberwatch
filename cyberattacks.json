@@ -1,5 +1,13 @@
 [
     {
+        "date": "2023-06-20",
+        "victim": "Ayuntamiento de Arganda del Rey",
+        "country": "ESP",
+        "summary": "L'Ayuntamiento de Arganda del Rey a déposé une plainte auprès de la Guardia Civil suite à une cyberattaque survenue sur ses serveurs. L'attaque de type ransomware a paralysé une grande partie des services municipaux. Les principales zones, telles que le registre, le cadastre, la gestion des dossiers, la comptabilité, le personnel et le site de paiement des autoliquidations, sont de nouveau opérationnelles. Les autres systèmes seront rétablis dans les prochains jours. Le gouvernement municipal prévoit d'investir davantage dans la modernisation et la sécurité pour éviter que de telles situations ne se reproduisent.",
+        "title": "El Ayuntamiento de Arganda denuncia ante la Guardia Civil el ciberataque sufrido en sus servidores - Diario de Arganda",
+        "url": "https://www.diariodearganda.es/arganda-denuncia-ciberataque/"
+    },
+    {
         "date": "2023-06-30",
         "victim": "Université de Salerne",
         "country": "ITA",
