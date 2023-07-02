@@ -1,6 +1,14 @@
 [
     {
         "date": "2023-06-20",
+        "victim": "L'université Mateja Bela (UMB)",
+        "country": "SVK",
+        "summary": "L'article parle d'une cyberattaque contre l'Université Mateja Bela en Slovaquie. Les systèmes informatiques de l'université ont été compromis et des données ont été volées. Les hackers demandent une rançon pour supprimer les données volées. Si la rançon n'est pas payée, les hackers menacent de publier les données. Les hackers appartiennent à un groupe appelé Medusa, qui est actif depuis au moins deux ans.",
+        "title": "Hackerský útok na Univerzitu Mateja Bela: Aké dáta chcú hackeri zverejniť a čo sa deje",
+        "url": "https://zive.aktuality.sk/clanok/k5rb75w/hackersky-utok-na-univerzitu-mateja-bela-ake-data-chcu-hackeri-zverejnit-a-co-sa-deje/"
+    },
+    {
+        "date": "2023-06-20",
         "victim": "Ayuntamiento de Arganda del Rey",
         "country": "ESP",
         "summary": "L'Ayuntamiento de Arganda del Rey a déposé une plainte auprès de la Guardia Civil suite à une cyberattaque survenue sur ses serveurs. L'attaque de type ransomware a paralysé une grande partie des services municipaux. Les principales zones, telles que le registre, le cadastre, la gestion des dossiers, la comptabilité, le personnel et le site de paiement des autoliquidations, sont de nouveau opérationnelles. Les autres systèmes seront rétablis dans les prochains jours. Le gouvernement municipal prévoit d'investir davantage dans la modernisation et la sécurité pour éviter que de telles situations ne se reproduisent.",
