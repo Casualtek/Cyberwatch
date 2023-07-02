@@ -1,5 +1,13 @@
 [
     {
+        "date": "2023-06-05",
+        "victim": "Fassi Gru",
+        "country": "ITA",
+        "summary": "L'entreprise italienne Fassi Gru a été victime d'une cyberattaque par le groupe Rhysida. Les pirates ont crypté les fichiers de l'entreprise et ont demandé une rançon en échange de la clé de décryptage. Fassi a refusé de payer, ce qui a conduit les pirates à publier les données volées sur le dark web. Les données publiées comprennent des informations confidentielles telles que des contacts, des e-mails, des numéros de téléphone et des données bancaires. Fassi a communiqué publiquement sur l'incident pour informer ses clients, employés et fournisseurs.",
+        "title": "Il colosso delle gru dice no al ricatto della cybergang: un milione di file riservati finisce nel dark web | Corriere.it",
+        "url": "https://bergamo.corriere.it/notizie/cronaca/23_luglio_01/il-colosso-delle-gru-dice-no-al-ricatto-della-cybergang-un-milione-di-file-riservati-finisce-nel-dark-web-61d91126-a775-4ece-86fa-4fdbcc300xlk.shtml"
+    },
+    {
         "date": "2023-06-20",
         "victim": "L'université Mateja Bela (UMB)",
         "country": "SVK",
