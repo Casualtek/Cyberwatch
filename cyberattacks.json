@@ -1,5 +1,13 @@
 [
     {
+        "date": "2023-07-02",
+        "victim": "Aéroport de Montpellier",
+        "country": "FRA",
+        "summary": "L'aéroport de Montpellier a été victime d'une cyberattaque \"très violente\" qui a perturbé ses activités. Les systèmes internes ont été bloqués pendant plusieurs heures, obligeant les opérations à être effectuées manuellement. Malgré les retards, les vols ont pu être assurés et la situation devrait revenir à la normale d'ici demain. Les autorités ont été alertées et une enquête est en cours pour trouver l'origine de l'attaque. Une hypothèse de démarche de racket est envisagée.",
+        "title": "\"Nos systèmes ont été HS durant plusieurs heures\" : une cyberattaque \"très violente\" contre l'aéroport de Montpellier - midilibre.fr",
+        "url": "https://www.midilibre.fr/2023/07/02/nos-systemes-ont-ete-hs-durant-plusieurs-heures-une-cyberattaque-tres-violente-contre-laeroport-de-montpellier-11316240.php"
+    },
+    {
         "date": "2023-05-04",
         "victim": "Mount Desert Island Hospital",
         "country": "USA",
