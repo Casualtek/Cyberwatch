@@ -1,5 +1,13 @@
 [
     {
+        "date": "2023-05-04",
+        "victim": "Mount Desert Island Hospital",
+        "country": "USA",
+        "summary": "Le Mount Desert Island Hospital dans le Maine a signalé une violation de données à HHS qui a affecté 24 180 patients. L'accès non autorisé s'est produit entre le 28 avril et le 7 mai 2023. Les informations potentiellement compromises incluent des données personnelles et médicales sensibles. Le réseau a été sécurisé et des mesures de sécurité supplémentaires ont été mises en place. Aucune preuve de demande de rançon n'a été mentionnée, mais le groupe de menace Snatch Team est suspecté d'être impliqué.",
+        "title": "Mount Desert Island Hospital notifies 24,180 patients of April network attack",
+        "url": "https://www.databreaches.net/mount-desert-island-hospital-notifies-24180-patients-of-april-network-attack/"
+    },
+    {
         "date": "2023-06-05",
         "victim": "Fassi Gru",
         "country": "ITA",
