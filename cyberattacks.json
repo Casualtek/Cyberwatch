@@ -1,5 +1,13 @@
 [
     {
+        "date": "2023-06-30",
+        "victim": "Centre hospitalier de Saint-Renan",
+        "country": "FRA",
+        "summary": "Le centre hospitalier de Saint-Renan a été victime d'une cyberattaque par rançongiciel. Par mesure de précaution, les systèmes d'information ont été déconnectés d'internet. Aucun vol de données n'a été identifié jusqu'à présent. La prise en charge des patients n'est pas affectée, mais les mails et fax sont inaccessibles. Les familles et professionnels doivent contacter l'hôpital par téléphone ou courrier postal.",
+        "title": "À Saint-Renan, le centre hospitalier \" Le Jeune \" victime d’une cyberattaque | Le Télégramme",
+        "url": "https://www.letelegramme.fr/finistere/saint-renan-29290/a-saint-renan-le-centre-hospitalier-le-jeune-v-ictime-dune-cyberattaque-6386540.php"
+    },
+    {
         "date": "2023-07-02",
         "victim": "Aéroport de Montpellier",
         "country": "FRA",
