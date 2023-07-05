@@ -1,5 +1,13 @@
 [
     {
+        "date": "2023-06-29",
+        "victim": "Montgomery County Schools",
+        "country": "USA",
+        "summary": "Une attaque cybernétique a été arrêtée après une mise à jour du pare-feu du district. Des ports externes ont été laissés ouverts, permettant à des individus de placer des logiciels malveillants. MCNC, la société basée dans le Research Triangle, a répondu rapidement et a promis d'aider au processus de nettoyage. NCLGISA, une force de travail locale pour les systèmes d'information du gouvernement, a également été très active dans la lutte contre cette attaque. Pour plus d'informations, consultez l'édition du 5 juillet du Montgomery Herald.",
+        "title": "Cyber attack stopped | News | montgomeryherald.com",
+        "url": "https://www.montgomeryherald.com/news/article_3f9c72e8-1b40-11ee-b112-8b4c3dd1e039.html"
+    },
+    {
         "date": "2023-07-02",
         "victim": "Ville d'Agen",
         "country": "FRA",
@@ -1529,7 +1537,7 @@
     {
         "date": "2023-04-29",
         "victim": "Hawa Sliding Solutions AG",
-        "country": "CHE.",
+        "country": "CHE",
         "summary": "La société Hawa Sliding Solutions AG, fabricant suisse de ferrures pour portes coulissantes, a été victime d'une cyberattaque fin avril 2023. L'entreprise a immédiatement réagi en informant ses clients et fournisseurs, en coupant tous ses systèmes et en demandant à la plupart de ses employés de travailler depuis leur domicile. Une équipe interne et des spécialistes travaillent actuellement à la restauration complète des processus opérationnels. Les commandes ne peuvent actuellement être traitées que manuellement et les systèmes informatiques sont en cours de reconstruction. Les sites web de Hawa restent en ligne et les services clients sont accessibles par téléphone, e-mail et vidéoconférence.",
         "title": "Hawa Sliding Solutions AG: Cyber-Attacke führt zu Einschränkungen - MÖBELMARKT",
         "url": "https://www.moebelmarkt.de/beitrag/hawa-sliding-solutions-ag-cyber-attacke-führt-zu-einschränkungen"
