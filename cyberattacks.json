@@ -1,5 +1,13 @@
 [
     {
+        "date": "2023-07-04",
+        "victim": "Nagoya Port Transport Association",
+        "country": "JPN",
+        "summary": "Le système de gestion des conteneurs du port de Nagoya a été victime d'une cyberattaque. Le système a été infecté par un virus informatique et a subi des dysfonctionnements. Le port a reçu une demande de rançon pour rétablir le système. La police d'Aichi enquête sur cette attaque. Le port de Nagoya est un important centre de commerce intérieur pour les automobiles et a déjà été victime d'une attaque DDoS l'année dernière.",
+        "title": "名古屋港でシステム障害 港運協会に脅迫文、サイバー攻撃か：時事ドットコム",
+        "url": "https://www.jiji.com/jc/article?k=2023070500440"
+    },
+    {
         "date": "2023-06-30",
         "victim": "Centre hospitalier de Saint-Renan",
         "country": "FRA",
