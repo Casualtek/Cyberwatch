@@ -1,5 +1,13 @@
 [
     {
+        "date": "2023-07-02",
+        "victim": "Ville d'Agen",
+        "country": "FRA",
+        "summary": "La Ville et l'Agglomération d'Agen ont été victimes d'une attaque informatique malveillante. Les serveurs de mail ont été bloqués, impactant de nombreux services. L'infrastructure est en cours de remise en route et devrait être opérationnelle d'ici la fin de la semaine. Les correspondances adressées aux agents et élus n'ont pas été délivrées. Une plainte sera déposée.",
+        "title": "Attaque informatique malveillante sur les systèmes d’information de la Ville et de l’Agglomération d’Agen - ladepeche.fr",
+        "url": "https://www.ladepeche.fr/2023/07/05/attaque-informatique-malveillante-sur-les-systemes-dinformation-de-la-ville-et-de-lagglomeration-dagen-11322265.php"
+    },
+    {
         "date": "2023-07-04",
         "victim": "Nagoya Port Transport Association",
         "country": "JPN",
