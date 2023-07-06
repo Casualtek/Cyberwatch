@@ -1,6 +1,14 @@
 [
     {
         "date": "2023-06-29",
+        "victim": "Amaturo Sonoma Media Group",
+        "country": "USA",
+        "summary": "Plusieurs stations de radio en Californie ont été victimes d'une cyberattaque la semaine dernière. Le groupe Amaturo Sonoma Media, qui exploite ces stations, a confirmé l'attaque. Un individu ou un groupe a réussi à accéder illégalement à plusieurs réseaux informatiques utilisés par les stations, y compris celui qui contient la base de données de programmation. Les stations ont été incapables de diffuser pendant une partie de la journée. Les responsables des stations travaillent toujours à déterminer la cause de l'attaque et à y répondre, certaines systèmes étant encore affectés.",
+        "title": "Santa Rosa radio stations knocked off air by cyberattack",
+        "url": "https://thedesk.net/2023/07/sonoma-santa-rosa-radio-cyberattack/"
+    },
+    {
+        "date": "2023-06-29",
         "victim": "Montgomery County Schools",
         "country": "USA",
         "summary": "Une attaque cybernétique a été arrêtée après une mise à jour du pare-feu du district. Des ports externes ont été laissés ouverts, permettant à des individus de placer des logiciels malveillants. MCNC, la société basée dans le Research Triangle, a répondu rapidement et a promis d'aider au processus de nettoyage. NCLGISA, une force de travail locale pour les systèmes d'information du gouvernement, a également été très active dans la lutte contre cette attaque. Pour plus d'informations, consultez l'édition du 5 juillet du Montgomery Herald.",
