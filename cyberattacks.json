@@ -1,5 +1,13 @@
 [
     {
+        "date": "2023-06-26",
+        "victim": "Runner.it",
+        "country": "ITA",
+        "summary": "L'entreprise italienne Runner.it a été victime d'une cyberattaque sur son serveur de test, mais pas sur son serveur en production. Le communiqué de presse a été publié pour informer de l'incident. Le contenu de l'article semble être un texte générique sur l'utilisation des cookies et la collecte de données. Le consentement des utilisateurs est mentionné, ainsi que la possibilité de modifier les paramètres de confidentialité. Cependant, il n'y a pas d'informations spécifiques sur la nature de la cyberattaque ou ses conséquences.",
+        "title": "L'azienda italiana Runner.it emette un comunicato riportando che ad essere colpito è stato il server di collaudo e non quello di esercizio",
+        "url": "https://www.redhotcyber.com/post/lazienda-italiana-runner-it-emette-un-comunicato-riportando-che-ad-essere-colpito-e-stato-il-server-di-collaudo-e-non-quello-di-esercizio/"
+    },
+    {
         "date": "2023-06-29",
         "victim": "Amaturo Sonoma Media Group",
         "country": "USA",
