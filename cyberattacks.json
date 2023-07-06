@@ -1,5 +1,13 @@
 [
     {
+        "date": "2023-06-28",
+        "victim": "La bibliothèque d'Alexandria",
+        "country": "USA",
+        "summary": "La bibliothèque d'Alexandria a été touchée par une panne de services en ligne pendant une semaine en raison d'un \"incident de données\". Les responsables de la bibliothèque ont contacté des professionnels de la cybersécurité et les forces de l'ordre pour enquêter sur l'incident. Les services tels que l'inscription à une carte de bibliothèque et l'emprunt de livres électroniques ont été temporairement restreints. Certaines fonctionnalités ont été rétablies, mais l'accès aux ordinateurs publics et à l'impression reste indisponible. Les utilisateurs sont encouragés à profiter des services offerts par d'autres bibliothèques de la région.",
+        "title": "Alexandria Library regaining some online services after week-long outage | ALXnow",
+        "url": "https://www.alxnow.com/2023/07/06/alexandria-library-regaining-some-online-services-after-week-long-outage/"
+    },
+    {
         "date": "2023-07-05",
         "victim": "Hôpital universitaire Luigi Vanvitelli de Naples",
         "country": "ITA",
