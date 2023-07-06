@@ -1,5 +1,13 @@
 [
     {
+        "date": "2023-07-05",
+        "victim": "Hôpital universitaire Luigi Vanvitelli de Naples",
+        "country": "ITA",
+        "summary": "L'hôpital universitaire Luigi Vanvitelli de Naples a été victime d'une cyberattaque de type ransomware. L'Agence nationale de cybersécurité a envoyé une équipe d'experts pour évaluer l'attaque et rétablir les systèmes impactés. L'attaque a eu lieu le 1er juillet et la portée de l'attaque ainsi que la nature des données violées sont en cours d'évaluation. Il est recommandé aux établissements de santé de protéger leurs systèmes informatiques et de mettre à jour régulièrement leurs solutions techniques et organisationnelles. Une connaissance approfondie des systèmes et une sauvegarde solide sont essentielles pour faire face à ce type d'attaques.",
+        "title": "Attacco hacker a un ospedale di Napoli, chiesto un riscatto - Campania - ANSA.it",
+        "url": "https://www.ansa.it/campania/notizie/2023/07/05/attacco-hacker-a-un-ospedale-di-napoli-chiesto-un-riscatto_7b967a76-723e-4488-a410-c04313dc4e3b.html"
+    },
+    {
         "date": "2023-06-26",
         "victim": "Runner.it",
         "country": "ITA",
