@@ -1,5 +1,13 @@
 [
     {
+        "date": "2023-07-06",
+        "victim": "Commission électorale du Pakistan (ECP)",
+        "country": "PAK",
+        "summary": "La Commission électorale du Pakistan (ECP) a émis une alerte de cybersécurité après que ses employés ont commencé à recevoir des emails d'expéditeurs non identifiés. L'ECP a informé que quelqu'un envoie des emails à ses officiers dans le cadre d'une attaque de ransomware visant à voler des informations. La Commission a ordonné à ses officiers d'ignorer les emails provenant de sources non identifiées ou anonymes. À ce stade, il n'est pas confirmé si les pirates ont eu accès à des données cruciales sur tous les partis politiques alors que le pays se prépare pour les élections générales dans quelques mois. L'ECP a demandé à ses employés de signaler ces emails comme spam.",
+        "title": "Election Commission Issues Cyber Security Alert After Ransomware Attack",
+        "url": "https://propakistani.pk/2023/07/07/election-commission-issues-cyber-security-alert-after-ransomware-attack/"
+    },
+    {
         "date": "2023-06-28",
         "victim": "La bibliothèque d'Alexandria",
         "country": "USA",
