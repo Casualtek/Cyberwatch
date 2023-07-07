@@ -1,5 +1,13 @@
 [
     {
+        "date": "2023-07-04",
+        "victim": "Roys of Wroxham",
+        "country": "GBR",
+        "summary": "Roys of Wroxham, une entreprise de vente au détail basée au Royaume-Uni, a été touchée par une cyberattaque suspectée d'être un ransomware, affectant ses systèmes informatiques et perturbant ses opérations en magasin et en ligne. L'entreprise a déclaré qu'elle menait une \"enquête judiciaire approfondie\" pour évaluer l'ampleur de l'incident, y compris tout impact potentiel sur les données. Le ransomware est un logiciel malveillant utilisé par les pirates pour accéder aux systèmes informatiques d'une organisation ou d'un individu, puis pour crypter des fichiers importants ou sensibles et demander une rançon pour leur déverrouillage.",
+        "title": "Roys of Wroxham hit by suspected ransomware attack | Eastern Daily Press",
+        "url": "https://www.edp24.co.uk/news/23641229.roys-wroxham-hit-suspected-ransomware-attack/"
+    },
+    {
         "date": "2023-07-07",
         "victim": "Université de l'Ouest de l'Écosse (UWS)",
         "country": "GBR",
