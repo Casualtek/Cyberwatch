@@ -1,5 +1,13 @@
 [
     {
+        "date": "2023-07-07",
+        "victim": "Université de l'Ouest de l'Écosse (UWS)",
+        "country": "GBR",
+        "summary": "L'Université de l'Ouest de l'Écosse (UWS) a subi une importante cyberattaque affectant la plupart de ses systèmes. Suite à cette attaque, son site web a été fermé pendant plusieurs jours. L'université travaille avec des experts du centre national de cybersécurité, de la Police écossaise et du gouvernement écossais pour résoudre le problème. Malgré l'incident, les cérémonies de remise de diplômes prévues pour la semaine prochaine ne seront pas affectées. L'université a déclaré qu'elle suit un processus contrôlé et fait des progrès constants vers une résolution.",
+        "title": "University of West of Scotland working with police and government after cyber attack | STV News",
+        "url": "https://news.stv.tv/west-central/university-of-west-of-scotland-working-with-police-and-government-after-cyber-attack"
+    },
+    {
         "date": "2023-07-06",
         "victim": "Commission électorale du Pakistan (ECP)",
         "country": "PAK",
