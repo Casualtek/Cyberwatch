@@ -30,7 +30,7 @@ def ask_chatgpt(news_count, most_hit_country, countries):
 
     print(f'Obtaining introduction.')
     completion = openai.ChatCompletion.create(
-        model='gpt-3.5-turbo',
+        model='gpt-4',
         messages=messages,
         max_tokens=180,
         n=1,
@@ -44,7 +44,7 @@ def ask_chatgpt(news_count, most_hit_country, countries):
 
     print(f'Obtaining summary.')
     completion = openai.ChatCompletion.create(
-        model='gpt-3.5-turbo',
+        model='gpt-4',
         messages=messages,
         max_tokens=30,
         n=1,
@@ -58,7 +58,7 @@ def ask_chatgpt(news_count, most_hit_country, countries):
 
     print(f'Obtaining title.')
     completion = openai.ChatCompletion.create(
-        model="gpt-3.5-turbo",
+        model="gpt-4",
         messages=messages,
         max_tokens=90,
         n=1,
