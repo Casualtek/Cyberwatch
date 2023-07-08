@@ -1,6 +1,14 @@
 [
     {
         "date": "2023-07-07",
+        "victim": "Jackson Township",
+        "country": "USA",
+        "summary": "Le gouvernement de Jackson Township est confronté à un \"incident\" non spécifié affectant son réseau informatique. Les responsables travaillent avec des experts externes en cybersécurité pour résoudre le problème et une enquête a été lancée, sans qu'aucun accès non autorisé à des données personnelles ou d'employés n'ait été détecté. Les services principaux de la ville, tels que la police, les pompiers et les services médicaux d'urgence, n'ont pas été interrompus. Cependant, le département de police de Jackson n'est pas en mesure de recevoir et de répondre aux courriels non urgents.",
+        "title": "Jackson Township, cyber experts work on computer network 'incident'",
+        "url": "https://www.cantonrep.com/story/news/crime/2023/07/07/jackson-township-cyber-experts-work-on-computer-network-incident/70391285007/"
+    },
+    {
+        "date": "2023-07-07",
         "victim": "Bureau du Procureur Général et le Ministère des Affaires Juridiques de Trinité-et-Tobago (AGLA)",
         "country": "TTO",
         "summary": "Le Ministère de la Transformation Digitale de Trinité-et-Tobago a annoncé que le réseau du Bureau du Procureur Général et du Ministère des Affaires Juridiques a subi une cyberattaque. Cette intrusion non autorisée et illégale a nui aux opérations du ministère et de certaines divisions associées. Des mesures ont été prises pour minimiser la menace et une enquête est en cours, en collaboration avec des experts de premier plan en cybersécurité. En conséquence de cette attaque, certains services habituellement fournis sont temporairement indisponibles. Le Ministère n'a pas donné plus de détails sur l'incident.\n",
