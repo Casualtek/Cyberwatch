@@ -1,5 +1,13 @@
 [
     {
+        "date": "2023-07-04",
+        "victim": "ibis acam",
+        "country": "AUT",
+        "summary": "L'infrastructure informatique d'ibis acam, une institution privée d'éducation qui gère les formations pour les chômeurs en Autriche, a été potentiellement victime d'une cyberattaque. L'institution a remarqué des problèmes informatiques et a déconnecté son infrastructure du réseau par mesure de précaution. Les données sensibles des participants à la formation, qui incluent des numéros de sécurité sociale, des adresses e-mail et des données de membres de la famille, pourraient avoir été compromises, bien qu'il n'y ait actuellement aucune preuve de vol de données. Des experts en informatique ont été engagés pour analyser et résoudre le problème. L'AMS (Arbeitsmarktservice), l'agence autrichienne pour l'emploi, a confirmé",
+        "title": "Mutmaßlicher Hackerangriff: Sorge um Daten von Arbeitslosen | Tiroler Tageszeitung - Aktuelle Nachrichten auf tt.com",
+        "url": "https://www.tt.com/artikel/30859238/mutmasslicher-hackerangriff-sorge-um-daten-von-arbeitslosen"
+    },
+    {
         "date": "2023-07-07",
         "victim": "Jackson Township",
         "country": "USA",
