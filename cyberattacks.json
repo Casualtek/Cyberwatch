@@ -1,5 +1,13 @@
 [
     {
+        "date": "2023-07-10",
+        "victim": "Ventia",
+        "country": "AUS",
+        "summary": "Ventia, une entreprise qui fournit des services d'exploitation, de maintenance et de gestion à long terme pour des actifs et des infrastructures publics et privés essentiels, a été victime d'une cyberattaque. En réponse à l'incident, l'entreprise a décidé de mettre hors ligne un certain nombre de ses \"systèmes clés\". Malgré l'attaque, Ventia a déclaré qu'elle était toujours en mesure de fonctionner dans une certaine mesure. L'entreprise a fait appel à des experts externes en cybersécurité et travaille activement avec les régulateurs et les forces de l'ordre. Ventia s'est excusée pour l'incident et a promis de fournir d'autres mises à jour dans les prochains jours.\n",
+        "title": "Ventia takes systems offline to contain cyber attack - Security - iTnews",
+        "url": "https://www.itnews.com.au/news/ventia-takes-systems-offline-to-contain-cyber-attack-597804"
+    },
+    {
         "date": "2023-07-04",
         "victim": "ibis acam",
         "country": "AUT",
