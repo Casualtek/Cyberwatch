@@ -1,5 +1,13 @@
 [
     {
+        "date": "2023-07-09",
+        "victim": "Ville de Hayward",
+        "country": "USA",
+        "summary": "La ville de Hayward a été victime d'une cyberattaque et a fermé son site web pendant que les équipes informatiques enquêtaient sur l'ampleur du problème. Selon le porte-parole de la ville, Chuck Finne, il s'agit d'un incident de cybersécurité et d'une intrusion dans les réseaux informatiques. Bien que le site web public et les portails en ligne de la ville soient désactivés, les systèmes de répartition des appels d'urgence et du 911 restent opérationnels. Aucune preuve actuelle d'une violation d'informations personnelles des employés ou du public n'a été trouvée, mais si cela se produit, la ville de Hayward préviendra directement les personnes concernées. Les résidents sont invités à s'inscrire à la newsletter électronique de Hayward et à suivre les mises à jour sur les réseaux sociaux.",
+        "title": "Hayward hacked: City suffers cyberattack, turns off website",
+        "url": "https://www.ktvu.com/news/hayward-hacked-city-suffers-cyberattack-turns-off-website"
+    },
+    {
         "date": "2023-07-07",
         "victim": "Maison Mercier",
         "country": "FRA",
