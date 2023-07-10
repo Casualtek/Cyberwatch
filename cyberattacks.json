@@ -1,5 +1,13 @@
 [
     {
+        "date": "2023-07-07",
+        "victim": "Maison Mercier",
+        "country": "FRA",
+        "summary": "La maison Mercier, une chocolaterie située à Baugy, a été victime d'une cyberattaque le vendredi 7 juillet. Daniel Mercier, le chocolatier, décrit l'attaque comme \"brutale et gratuite\". L'attaque a endommagé le système d'information de l'entreprise. Suite à l'attaque, tous les écrans de l'entreprise affichaient uniquement du blanc ou du noir, rendant impossible l'accès à toute information. Le chocolatier n'a pas donné plus de détails sur l'incident.",
+        "title": "La maison Mercier, à Baugy, victime d'une cyberattaque - Baugy (18800)",
+        "url": "https://www.leberry.fr/baugy-18800/actualites/la-maison-mercier-a-baugy-victime-d-une-cyberattaque_14341330/"
+    },
+    {
         "date": "2023-07-08",
         "victim": "Ventia",
         "country": "AUS",
