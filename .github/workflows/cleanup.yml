@@ -1,6 +1,8 @@
 name: clean-up
 
 on:
+  schedule:
+    - cron: '0 1 * * 5'
   workflow_dispatch:
 
 # to consider: the use of action jobs to breakout each task
