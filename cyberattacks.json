@@ -1,5 +1,13 @@
 [
     {
+        "date": "2023-07-07",
+        "victim": "Diputación Provincial de Zaragoza",
+        "country": "ESP",
+        "summary": "La Diputación Provincial de Zaragoza, une institution espagnole, a subi une cyberattaque le vendredi 7 juillet, affectant le travail de ses 400 employés. Le Centre Criptológico Nacional a été informé de l'attaque qui a touché les serveurs de l'institution. Heureusement, les techniciens ont réagi rapidement et aucun vol ou perte de données n'a été signalé. Deux services ont été affectés par l'attaque et une analyse judiciaire est en cours. Les techniciens ont travaillé tout le week-end pour résoudre le problème et garantir la sécurité du système, mais des perturbations persistent encore.",
+        "title": "La Diputación Provincial de Zaragoza sufre un ciberataque",
+        "url": "https://www.heraldo.es/noticias/aragon/zaragoza/2023/07/10/la-diputacion-provincial-de-zaragoza-sufre-un-ciberataque-1664075.html"
+    },
+    {
         "date": "2023-06-07",
         "victim": "Ville de Richmond",
         "country": "CAN",
