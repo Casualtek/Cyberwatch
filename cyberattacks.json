@@ -1,5 +1,13 @@
 [
     {
+        "date": "2023-07-11",
+        "victim": "ZooTampa",
+        "country": "USA",
+        "summary": "ZooTampa, un zoo situé en Floride, a récemment découvert une cyberattaque visant son réseau informatique. Suite à cette découverte, le zoo a immédiatement pris des mesures de sécurité proactives pour atténuer l'impact de l'incident. ZooTampa a également fait appel à des spécialistes en informatique légale pour sécuriser le réseau et enquêter sur l'étendue de l'activité non autorisée. Le zoo travaille également avec les forces de l'ordre fédérales pour enquêter sur l'attaque. Bien que les détails de l'incident restent flous, le zoo a proactivement informé ses employés et fournisseurs dont les informations personnelles pourraient avoir été impactées, et a offert des services",
+        "title": "ZooTampa hit by cyber attack, target unclear | WFLA",
+        "url": "https://www.wfla.com/news/hillsborough-county/zootampa-hit-by-cyber-attack-target-unclear/"
+    },
+    {
         "date": "2023-07-07",
         "victim": "Diputación Provincial de Zaragoza",
         "country": "ESP",
