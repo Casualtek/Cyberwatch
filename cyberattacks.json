@@ -1,5 +1,13 @@
 [
     {
+        "date": "2023-06-07",
+        "victim": "Ville de Richmond",
+        "country": "CAN",
+        "summary": "La ville de Richmond a averti que des informations personnelles contenues dans des emails pourraient avoir été compromises suite à une faille de sécurité dans son système informatique le mois dernier. Après avoir remarqué une \"activité inhabituelle et préoccupante\" dans son système informatique le 7 juin, la ville a commencé une enquête avec l'aide d'experts en cybersécurité externes. Quelques jours plus tard, des emails frauduleux prétendant provenir du personnel de la ville ont été envoyés, avec des pièces jointes susceptibles d'installer des malwares sur les ordinateurs. La ville ne sait pas exactement quelles informations pourraient avoir été consultées, mais elles pourraient inclure des détails de contact, des dates de naissance ainsi que des informations sur",
+        "title": "Cyber attack raises concerns about personal data access - Richmond News",
+        "url": "https://www.richmond-news.com/highlights/personal-info-may-be-compromised-in-cyber-attack-city-of-richmond-7258581"
+    },
+    {
         "date": "2023-07-09",
         "victim": "Ville de Hayward",
         "country": "USA",
