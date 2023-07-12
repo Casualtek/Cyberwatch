@@ -1,5 +1,13 @@
 [
     {
+        "date": "2023-07-12",
+        "victim": "Comune di Ferrara",
+        "country": "ITA",
+        "summary": "Le 12 juillet 2023, la municipalité de Ferrara en Italie a subi une cyberattaque qui a entraîné la désactivation de ses services numériques internes pour des raisons de sécurité. En conséquence, les services de guichet et les lignes téléphoniques, y compris la ligne d'assistance téléphonique, ne sont pas disponibles jusqu'à nouvel ordre. Le personnel technique et l'entreprise chargée de l'assistance système sont en train de vérifier l'infrastructure numérique. Une annonce sera faite dès que les services seront rétablis. En attendant, le bureau d'information du public reste ouvert pour les citoyens, et l'accès au site institutionnel et aux fonctionnalités du guichet télématique multifonctionnel est toujours disponible.",
+        "title": "Comune di Ferrara | Palazzo Municipale Attacco Hacker Alla Rete Internet Del Comune",
+        "url": "https://www.comune.fe.it/b/11822/palazzo-municipale-attacco-hacker-alla-rete-internet-del-comune"
+    },
+    {
         "date": "2023-05-04",
         "victim": "Hôpital Mount Desert Island",
         "country": "USA",
