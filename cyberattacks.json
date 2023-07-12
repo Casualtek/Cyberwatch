@@ -1,5 +1,13 @@
 [
     {
+        "date": "2023-07-08",
+        "victim": "Comté de Kent",
+        "country": "USA",
+        "summary": "Le réseau informatique du gouvernement du comté de Kent a été victime d'une cyberattaque, laissant certaines parties du système inaccessibles quatre jours plus tard. Le site web du comté n'était pas accessible mercredi à midi, affichant un message d'erreur de connexion sécurisée. Malgré l'attaque, il n'y a eu aucune perturbation des services critiques du comté, comme le dispatch d'urgence 911. Les responsables du comté sont confiants que les informations sensibles sont sécurisées, mais prévoient des retards dans les services de routine pendant la restauration des systèmes. L'équipe informatique du comté a réagi immédiatement à l'attaque et travaille avec des consultants en cybersécurité et les forces de l",
+        "title": "Cyber attack cripples Kent County government's computer network",
+        "url": "https://eu.delawareonline.com/story/news/local/2023/07/12/kent-county-delaware-government-computer-network-targeted-hackers/70406014007/"
+    },
+    {
         "date": "2023-07-12",
         "victim": "Comune di Ferrara",
         "country": "ITA",
