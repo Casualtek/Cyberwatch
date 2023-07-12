@@ -1,5 +1,13 @@
 [
     {
+        "date": "2023-05-04",
+        "victim": "Hôpital Mount Desert Island",
+        "country": "USA",
+        "summary": "Environ 24 000 patients de l'hôpital Mount Desert Island ont reçu une lettre les informant d'une violation de la sécurité informatique. Le département informatique a rapidement détecté l'intrusion et a fermé l'attaque en une demi-heure.",
+        "title": "Cyber attack compromises hospital data",
+        "url": "https://www.mdislander.com/news/cyber-attack-compromises-hospital-data/article_3d515fea-1f63-11ee-8fbc-abf9f39bf355.html"
+    },
+    {
         "date": "2023-07-11",
         "victim": "ZooTampa",
         "country": "USA",
