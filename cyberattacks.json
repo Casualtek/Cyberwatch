@@ -1,5 +1,13 @@
 [
     {
+        "date": "2023-07-11",
+        "victim": "Tribunal de Contas do Estado do Rio de Janeiro (TCE-RJ)",
+        "country": "BRA",
+        "summary": "Le site du Tribunal de Contas do Estado do Rio de Janeiro (TCE-RJ) a été victime d'une cyberattaque, le rendant inaccessible. Un employé du tribunal est soupçonné d'avoir causé l'incident en réponse à des allégations de fraude contractuelle au sein de l'organisation. L'équipe de technologie de l'information du TCE-RJ travaille actuellement à résoudre le problème, mais il n'y a pas encore de délai précis pour la normalisation des systèmes. Un Comité de Gestion de Crise a été mis en place pour gérer la situation. En conséquence de l'incident, le tribunal a suspendu le décompte des délais de procédure jusqu'au 14 juillet pour éviter tout préjudice.\n",
+        "title": "Após ataque cibernético, equipe do TCE-RJ trabalha na normalização dos sistemas | Security Report",
+        "url": "https://www.securityreport.com.br/apos-ataque-cibernetico-equipe-do-tce-rj-trabalha-na-normalizacao-dos-sistemas/"
+    },
+    {
         "date": "2023-05-03",
         "victim": "NIPPON CONCRETE INDUSTRIES Co., LTD.",
         "country": "JPN",
