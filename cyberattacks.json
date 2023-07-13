@@ -1,5 +1,13 @@
 [
     {
+        "date": "2023-05-03",
+        "victim": "NIPPON CONCRETE INDUSTRIES Co., LTD.",
+        "country": "JPN",
+        "summary": "L'entreprise a été victime d'une cyberattaque avec ransomware. L'enquête a montré que les attaquants ont exploité une vulnérabilité connue du pare-feu VPN. Une grande partie des systèmes de l'entreprise, y compris les serveurs, ont été chiffrés par le ransomware. En ce qui concerne la restauration du système, étant donné l'impossibilité de récupérer complètement les systèmes actuels, l'entreprise a décidé de poursuivre la transition vers un nouveau système qui était déjà prévue pour avril 2024. Entre-temps, un moyen provisoire de saisie des données sera mis en place pour permettre une utilisation continue du système comptable opérationnel.",
+        "title": "[Status Report] About the results of the investigation of ransomware damage",
+        "url": "https://www.ncic.co.jp/wp/wp-content/uploads/2023/07/230707.pdf"
+    },
+    {
         "date": "2023-07-11",
         "victim": "Ville de Cornelius",
         "country": "USA",
