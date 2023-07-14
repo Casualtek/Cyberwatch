@@ -1,5 +1,13 @@
 [
     {
+        "date": "2023-07-13",
+        "victim": "Morehead State University",
+        "country": "USA",
+        "summary": "L'Université Morehead State a été touchée par une cyberattaque affectant un nombre limité d'ordinateurs sur le campus. Le président Jay Morgan a déclaré que l'internet, les sites web et les serveurs de l'université seraient maintenus hors ligne pour limiter les dommages potentiels. Le personnel du service informatique de l'Université travaille avec diligence avec des fournisseurs pour résoudre le problème. Les étudiants sont encouragés à déconnecter les ordinateurs du campus de tous les réseaux pendant que le personnel résout systématiquement les problèmes techniques. Aucune donnée personnelle n'a été compromise à ce stade.\n",
+        "title": "Morehead State University hit by cyber-attack",
+        "url": "https://www.wmky.org/news/2023-07-13/morehead-state-university-hit-by-cyber-attack"
+    },
+    {
         "date": "2023-07-11",
         "victim": "Tribunal de Contas do Estado do Rio de Janeiro (TCE-RJ)",
         "country": "BRA",
