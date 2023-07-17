@@ -1,5 +1,13 @@
 [
     {
+        "date": "2023-07-16",
+        "victim": "TOMRA",
+        "country": "NOR",
+        "summary": "L'entreprise TOMRA a été la cible d'une cyberattaque importante affectant directement certains de ses systèmes de données. Les autorités compétentes ont été informées et toutes les ressources internes et externes ont été mobilisées pour contenir et neutraliser l'incident. L'attaque a été découverte le matin du 16 juillet et des actions immédiates ont été prises pour l'arrêter et en atténuer les conséquences. TOMRA évalue actuellement si ses clients et employés pourraient subir une réduction de la stabilité de ses services. L'objectif principal de l'entreprise est de remettre tous les systèmes en fonctionnement le plus rapidement possible.\n",
+        "title": "TOMRA subject to cyberattack",
+        "url": "https://www.tomra.com/news-and-media/news/2023/tomra-subject-to-cyberattack"
+    },
+    {
         "date": "2023-07-11",
         "victim": "La Province de Namur",
         "country": "BEL",
