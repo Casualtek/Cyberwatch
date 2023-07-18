@@ -1,5 +1,21 @@
 [
     {
+        "date": "2023-05-08",
+        "victim": "Public Health Management Corporation (PHMC)",
+        "country": "USA",
+        "summary": "Le Phoenician Medical Center (PMC) a récemment signalé une cyberattaque qui a perturbé certains de ses systèmes informatiques, affectant potentiellement jusqu'à 162 500 patients actuels et anciens. Les informations compromises comprennent les noms, coordonnées, informations démographiques, dates de naissance, numéros d'identification d'état, numéros de dossier médical, informations sur les diagnostics et les traitements, noms des prestataires, dates de service, informations sur les prescriptions et/ou informations sur l'assurance santé. L'incident a été signalé au Bureau des droits civils du HHS.",
+        "title": "Phoenician Medical Center Cyberattack Affects Up to 162,500 Patients",
+        "url": "https://www.hipaajournal.com/phoenician-medical-center-cyberattack-affects-up-to-162500-patients/"
+    },
+    {
+        "date": "2023-03-31",
+        "victim": "Phoenician Medical Center (PMC)",
+        "country": "USA",
+        "summary": "Le Phoenician Medical Center (PMC) a récemment signalé une cyberattaque qui a perturbé certains de ses systèmes informatiques, affectant potentiellement jusqu'à 162 500 patients actuels et anciens. Les informations compromises comprennent les noms, coordonnées, informations démographiques, dates de naissance, numéros d'identification d'état, numéros de dossier médical, informations sur les diagnostics et les traitements, noms des prestataires, dates de service, informations sur les prescriptions et/ou informations sur l'assurance santé. L'incident a été signalé au Bureau des droits civils du HHS.",
+        "title": "Phoenician Medical Center Cyberattack Affects Up to 162,500 Patients",
+        "url": "https://www.hipaajournal.com/phoenician-medical-center-cyberattack-affects-up-to-162500-patients/"
+    },
+    {
         "date": "2023-07-16",
         "victim": "TOMRA",
         "country": "NOR",
