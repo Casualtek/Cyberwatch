@@ -1,9 +1,9 @@
 [
     {
         "date": "2023-06-20",
-        "victim": "SUHAN's Pty Ltd",
+        "victim": "SUHAN Pty Ltd",
         "country": "AUS",
-        "summary": "Data from Shodan shows a host used by SUHAN's Pty Ltd that was compromised by BlackHunt ransomware.",
+        "summary": "Data from Shodan shows a host used by SUHAN Pty Ltd that was compromised by BlackHunt ransomware.",
         "title": "WARNING WARNING WARNING",
         "utl": "https://www.shodan.io/host/168.138.10.138/raw#3389",
     },
