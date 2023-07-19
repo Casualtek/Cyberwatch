@@ -1,5 +1,13 @@
 [
     {
+        "date": "2023-07-16",
+        "victim": "Helix",
+        "country": "RUS",
+        "summary": "La société de laboratoire Helix a subi une cyberattaque dans la nuit du 15 au 16 juillet, entraînant des retards dans la délivrance des résultats d'analyses, mais aucune fuite de données personnelles n'a été signalée. Les pirates ont tenté d'implanter un \"ransomware\", un logiciel malveillant qui crypte les fichiers et bloque le système, demandant ensuite une rançon pour le déchiffrement des données. L'équipe informatique d'Helix a réussi à stopper la propagation du ransomware, ne laissant qu'une partie des données cryptées. Pour prévenir de futures fuites, l'entreprise a pris plusieurs mesures, dont la réinitialisation de tous les mots de passe des clients. L'entreprise continue d'enqu",
+        "title": "\"Хеликс\" предупредила о задержке выдачи результатов анализов из-за хакерской атаки",
+        "url": "https://tass.ru/ekonomika/18295025"
+    },
+    {
         "date": "2023-05-08",
         "victim": "Public Health Management Corporation (PHMC)",
         "country": "USA",
