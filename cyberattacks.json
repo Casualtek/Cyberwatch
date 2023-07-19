@@ -1,5 +1,13 @@
 [
     {
+        "date": "2023-07-16",
+        "victim": "George County",
+        "country": "USA",
+        "summary": "Les systèmes informatiques officiels du comté de George, dans le Mississippi, ont été la cible d'une cyberattaque de type ransomware, décrite par les responsables du comté comme une \"attaque de force brute de tous les côtés\". L'attaque, qui a commencé le samedi, a réussi à pénétrer les systèmes le dimanche soir, à la suite d'un courriel de phishing très professionnel qui a probablement été cliqué par un employé du comté. L'identité du pirate est inconnue, mais il est prêt à retenir en otage l'ensemble du système informatique du comté en échange d'une rançon en Bitcoin. Le comté a sauvegardé son système informatique et sa base de données le vendredi soir,",
+        "title": "Official George County, Miss. computer systems hacked for ransom | WKRG",
+        "url": "https://www.wkrg.com/state-regional/mississippi-news/official-george-county-miss-computer-systems-hacked-for-ransom/"
+    },
+    {
         "date": "2023-07-04",
         "victim": "Meteolux.lu",
         "country": "LUX",
