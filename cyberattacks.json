@@ -1,5 +1,13 @@
 [
     {
+        "date": "2023-07-04",
+        "victim": "Meteolux.lu",
+        "country": "LUX",
+        "summary": "Le site de prévisions météorologiques du Luxembourg, Meteolux.lu, a été victime d'une cyberattaque début juillet et est depuis hors-service. Cette attaque a affecté environ 4 700 utilisateurs quotidiens qui ne peuvent plus consulter les prévisions météorologiques. Aucun autre site sous la responsabilité d'une administration luxembourgeoise n'a subi une attaque similaire. En attendant la remise en service du site, l'Administration de la navigation aérienne (ANA) encourage les utilisateurs à utiliser l'application du service météo ou le fil Twitter Meteo_Lux. Malgré cette attaque, l'ANA assure qu'elle reste capable de guider les appareils décollant ou atterrissant au Findel.\n",
+        "title": "Sale temps pour le site Meteolux ! | Les Frontaliers",
+        "url": "https://www.lesfrontaliers.lu/detente/sale-temps-pour-le-site-meteolux/"
+    },
+    {
         "date": "2023-07-16",
         "victim": "Helix",
         "country": "RUS",
