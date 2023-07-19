@@ -1,5 +1,13 @@
 [
     {
+        "date": "2023-03-15",
+        "victim": "Jefferson County School System",
+        "country": "USA",
+        "summary": "Le système scolaire du comté de Jefferson a été victime d'une attaque informatique par ransomware pendant les vacances de printemps. L'équipe technologique a immédiatement pris des mesures pour stopper l'attaque et a informé les autorités locales et étatiques. Le ransomware est une forme de logiciel malveillant conçu pour crypter les fichiers d'un appareil, rendant tous les fichiers et les systèmes qui en dépendent inutilisables. Les attaquants exigent ensuite une rançon en échange du déchiffrement. Les enquêtes préliminaires n'ont révélé aucune preuve d'une violation des informations personnelles sensibles, mais l'enquête se poursuit avec l'aide d'experts en cybersé",
+        "title": "Jefferson County Schools victim of ransomware attack - al.com",
+        "url": "https://www.al.com/news/2023/04/jefferson-county-schools-victim-of-ransomware-attack.html"
+    },
+    {
         "date": "2023-07-16",
         "victim": "George County",
         "country": "USA",
