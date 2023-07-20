@@ -1,5 +1,13 @@
 [
     {
+        "date": "2023-05-30",
+        "victim": "Tampa General Hospital",
+        "country": "USA",
+        "summary": "L'hôpital général de Tampa (TGH) a subi une cyberattaque entre le 12 et le 30 mai 2023, durant laquelle des fichiers contenant des informations sur les patients ont été obtenus par un tiers non autorisé. Les informations potentiellement compromises comprennent les noms, adresses, numéros de téléphone, dates de naissance, numéros de sécurité sociale, informations d'assurance maladie, numéros de dossiers médicaux, numéros de compte patient, dates de service et/ou des informations limitées sur le traitement. Le système de dossiers médicaux électroniques de TGH n'a pas été touché. TGH a signalé l'incident au FBI et a renforcé ses systèmes de sécurité. Les patients concernés",
+        "title": "Cybersecurity Notice | Tampa General Hospital",
+        "url": "https://www.tgh.org/cybersecurity-notice"
+    },
+    {
         "date": "2023-07-20",
         "victim": "ITL Industries Ltd",
         "country": "IND",
