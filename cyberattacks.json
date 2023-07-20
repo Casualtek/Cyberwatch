@@ -1,5 +1,13 @@
 [
     {
+        "date": "2023-07-20",
+        "victim": "ITL Industries Ltd",
+        "country": "IND",
+        "summary": "L'entreprise a été victime d'une cyberattaque/virus. Le serveur de données de l'entreprise a été ciblé par une attaque de ransomware, entraînant le chiffrement de toutes les données. L'équipe technique et la direction ont réagi rapidement et pris les précautions nécessaires pour atténuer l'impact de cet incident.",
+        "title": "Cyber-Attack/Virus Incident On Server Of The Company",
+        "url": "https://www.business-standard.com/stocks/corporate-announcements/40363303"
+    },
+    {
         "date": "2023-06-20",
         "victim": "SUHAN Pty Ltd",
         "country": "AUS",
