@@ -1,5 +1,13 @@
 [
     {
+        "date": "2023-07-18",
+        "victim": "Ortivus",
+        "country": "SWE",
+        "summary": "Le système de dossiers médicaux électroniques d'Ortivus est actuellement indisponible pour certains clients basés au Royaume-Uni en raison d'une cyberattaque. Pour l'instant, aucun patient n'a été directement affecté et aucun autre système n'a été attaqué. Seuls les clients du centre de données hébergé ont été touchés. Ortivus travaille en étroite collaboration avec les clients affectés pour restaurer les systèmes et récupérer les données. L'organisation à l'origine de la cyberattaque n'est pas encore connue et l'incident a été signalé aux autorités comme un crime.",
+        "title": "Ortivus' electronic patient record system are down for some United Kingdom based customers due to a cyber-attack",
+        "url": "https://www.marketscreener.com/quote/stock/ORTIVUS-AB-PUBL-30049549/news/Ortivus-electronic-patient-record-system-are-down-for-some-United-Kingdom-based-customers-due-to-a-44365777/"
+    },
+    {
         "date": "2022-02-28",
         "victim": "Kannapolis",
         "country": "USA",
