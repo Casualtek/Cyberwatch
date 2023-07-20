@@ -1,5 +1,13 @@
 [
     {
+        "date": "2022-02-28",
+        "victim": "Kannapolis",
+        "country": "USA",
+        "summary": "La ville de Kannapolis, en Caroline du Nord, a été victime d'une cyberattaque en février 2022 qui a perturbé son système de dispatch pour la police et les pompiers, mais n'a pas informé le public de l'incident. Les responsables de la ville ont déclaré qu'il n'y avait pas eu de violation de données, ni de demande de rançon, et que les services publics n'avaient pas subi de pertes significatives. Cependant, des documents révélés plus tard ont montré que l'attaque avait complètement détruit le réseau de la ville. Les résidents ont exprimé des opinions divergentes sur la nécessité d'être informés de l'attaque. La ville a déclaré que l'assurance avait couvert une",
+        "title": "9 Investigates: Kannapolis didn’t alert public when cyberattack knocked out police dispatch - WSOC TV",
+        "url": "https://www.wsoctv.com/news/local/9-investigates-kannapolis-didnt-alert-public-when-cyberattack-knocked-out-police-dispatch/UEMD6NRNOJGE3N5UHCRIUBTECE/"
+    },
+    {
         "date": "2023-05-30",
         "victim": "Tampa General Hospital",
         "country": "USA",
