@@ -1,5 +1,13 @@
 [
     {
+        "date": "2023-06-19",
+        "victim": "Colorado Department of Higher Education (CDHE)",
+        "country": "USA",
+        "summary": "Le département de l'enseignement supérieur du Colorado (CDHE) a été victime d'une cyberattaque de type ransomware le 19 juin 2023, affectant ses systèmes réseau. Les acteurs non autorisés ont eu accès aux systèmes du CDHE entre le 11 et le 19 juin 2023, et certaines données ont été copiées. Les informations potentiellement compromises incluent les noms, les numéros de sécurité sociale ou d'identification des étudiants, ainsi que d'autres dossiers éducatifs. En réponse à cet incident, le CDHE a mis en place des mesures de sécurité supplémentaires et offre un accès gratuit à des services de surveillance de crédit et de protection contre le vol d'identité pendant deux ans. Les personnes potentiellement impact",
+        "title": "Colorado Department of Higher Education Provides Notice of Data Incident | Higher Education",
+        "url": "https://cdhe.colorado.gov/news-article/colorado-department-of-higher-education-provides-notice-of-data-incident"
+    },
+    {
         "date": "2023-08-17",
         "victim": "Tempur Sealy International Inc.",
         "country": "USA",
