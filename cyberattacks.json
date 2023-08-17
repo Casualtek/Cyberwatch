@@ -1,5 +1,13 @@
 [
     {
+        "date": "2023-08-01",
+        "victim": "Programme de Soins Médicaux Intégrés (PAMI)",
+        "country": "ARG",
+        "summary": "Le Programme de Soins Médicaux Intégrés (PAMI) en Argentine a confirmé avoir été victime d'une cyberattaque de type ransomware, un virus qui crypte les fichiers pour demander une rançon. Malgré l'attaque, les rendez-vous médicaux sont maintenus et les médicaments peuvent être achetés normalement en pharmacie. PAMI a déclaré que l'attaque a été atténuée et que toutes les informations de leurs serveurs sont sécurisées et protégées. Par ailleurs, une situation distincte a été signalée où un groupe vendait des ordonnances PAMI pour des stupéfiants, ce qui a été rapidement désactivé suite à une dénonciation. Enfin, la députée Graciela Ocaña a demandé",
+        "title": "El PAMI confirmó un ciberataque de ransomware: dio de baja el sitio, pero aseguran que \"fue mitigado\"",
+        "url": "https://www.clarin.com/tecnologia/pami-confirmo-ciberataque-ransomware-aseguran-mitigado-_0_U29WNR9srI.html"
+    },
+    {
         "date": "2023-08-11",
         "victim": "Neogy",
         "country": "ITA",
