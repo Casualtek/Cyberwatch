@@ -1,9 +1,25 @@
 [
     {
+        "date": "2023-06-15",
+        "victim": "Yamaha Corporation US",
+        "country": "USA",
+        "summary": "La filiale de Yamaha Corporation aux Etats-Unis, Yamaha Corporation of America (YCA). Aucune information personnelle de clients, de partenaires commerciaux ou d'employés n'a été divulguée.",
+        "title": "Statement in Light of Cybersecurity Incident - Yamaha Corporation",
+        "url": "https://www.yamaha.com/ja/news_release/files/news/23072003/pdf/2307200301.pdf"
+    },
+    {
+        "date": "2023-06-15",
+        "victim": "Yamaha Canada Music Ltd.",
+        "country": "CAN",
+        "summary": "Yamaha Canada Music Ltd. a été victime d'une cyberattaque entraînant un accès non autorisé et un vol de données. En réponse, l'entreprise a rapidement mis en place des mesures pour contenir l'attaque et a collaboré avec des spécialistes externes et son équipe informatique pour prévenir d'importants dommages ou une infiltration de logiciels malveillants dans son réseau. Yamaha Canada a informé les individus affectés et offre des services de surveillance de crédit à ceux qui risquent d'être potentiellement touchés. De plus, l'entreprise a pris des mesures décisives pour renforcer ses défenses réseau et garantir des mesures de sécurité renforcées à l'avenir.",
+        "title": "Statement in Light of Cybersecurity Incident - Yamaha - Canada - English",
+        "url": "https://ca.yamaha.com/en/news_events/2023/0720_cyber_security.html"
+    },
+    {
         "date": "2023-05-31",
         "victim": "Tampa General Hospital",
         "country": "USA",
-        "summary": "L'hôpital général de Tampa (TGH) a subi une cyberattaque entre le 12 et le 30 mai 2023, détectée le 31 mai grâce à ses outils de surveillance. Un tiers non autorisé a accédé au réseau de l'hôpital et a obtenu certains fichiers, dont des informations sur les patients comme les noms, adresses, numéros de téléphone, dates de naissance, numéros de sécurité sociale, informations d'assurance maladie, numéros de dossiers médicaux, numéros de compte patient, dates de service et/ou des informations limitées sur le traitement. Le système de dossiers médicaux électroniques de TGH n'a pas été impliqué ou accédé. En réponse, l'hôpital a",
+        "summary": "L'hôpital général de Tampa (TGH) a subi une cyberattaque entre le 12 et le 30 mai 2023, détectée le 31 mai grâce à ses outils de surveillance. Un tiers non autorisé a accédé au réseau de l'hôpital et a obtenu certains fichiers, dont des informations sur les patients comme les noms, adresses, numéros de téléphone, dates de naissance, numéros de sécurité sociale, informations d'assurance maladie, numéros de dossiers médicaux, numéros de compte patient, dates de service et/ou des informations limitées sur le traitement. Le système de dossiers médicaux électroniques de TGH n'a pas été impliqué ou accédé.",
         "title": "Cybersecurity Notice | Tampa General Hospital",
         "url": "https://www.tgh.org/cybersecurity-notice"
     },
