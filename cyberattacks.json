@@ -1,5 +1,13 @@
 [
     {
+        "date": "2023-08-08",
+        "victim": "Fondation de Verdeil",
+        "country": "CHE",
+        "summary": "La Fondation de Verdeil, la plus grande institution semi-gouvernementale pour les mineurs dans le canton de Vaud, a été victime d'une cyberattaque le 8 août, avec un serveur crypté et des perturbations dans les opérations, en particulier dans les bureaux et la communication. La directrice générale, Corinne Noth, a confirmé que l'organisation avait immédiatement contacté ses prestataires de services informatiques, des spécialistes de la sécurité et les autorités locales et fédérales. Le groupe de cybercriminels \"NoEscape\" a revendiqué l'attaque, affirmant avoir volé 40 Go de données, y compris des documents médicaux, des photos d'enfants et d'autres informations sensibles. Un ultimatum est en",
+        "title": "Cyberangriff auf die grösste sonderpädagogische Einrichtung im Kanton Waadt",
+        "url": "https://www.inside-it.ch/cyberangriff-auf-die-groesste-sonderpaedagogische-einrichtung-im-kanton-waadt-20230817"
+    },
+    {
         "date": "2023-08-13",
         "victim": "Swan Retail",
         "country": "GBR",
