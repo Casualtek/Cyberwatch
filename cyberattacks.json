@@ -1,5 +1,13 @@
 [
     {
+        "date": "2023-04-14",
+        "victim": "Wildeboer",
+        "country": "DEU",
+        "summary": "L'entreprise Wildeboer a été victime d'une cyberattaque qui a paralysé sa production. Les détails de l'attaque restent flous, notamment concernant la nature des données potentiellement compromises. Il est possible que des informations clients aient été volées, mais cela reste à confirmer. Les investigations sont en cours et devraient durer plusieurs jours avant de fournir plus d'informations. Un lien est également mentionné concernant une autre cyberattaque, où des données ont été retrouvées sur le Darknet suite à une attaque contre Üstra.",
+        "title": "Cybercrime: Hacker legen Produktion von Wildeboer lahm | NDR.de - Nachrichten - Niedersachsen - Studio Oldenburg",
+        "url": "https://www.ndr.de/nachrichten/niedersachsen/oldenburg_ostfriesland/Cybercrime-Hacker-legen-Produktion-von-Wildeboer-lahm,aktuelloldenburg13130.html"
+    },
+    {
         "date": "2023-07-25",
         "victim": "JACCS Corporation",
         "country": "JPN",
