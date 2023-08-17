@@ -1,5 +1,13 @@
 [
     {
+        "date": "2023-08-06",
+        "victim": "Le Service de Santé de Madeira (Sesaram)",
+        "country": "PRT",
+        "summary": "Le Service de Santé de Madeira (Sesaram) au Portugal a été la cible d'une cyberattaque qui a provoqué une \"dysfonction de son réseau informatique\", entraînant la suspension des activités cliniques non urgentes. L'attaque a été décrite comme délibérée et malveillante, visant à perturber le fonctionnement normal du service de santé régional. Le fonctionnement interne de l'organisme a été affecté, notamment le service d'urgence de l'Hôpital Dr. Nélio Mendonça à Funchal. L'incident a été signalé au Centre National de Cybersécurité et à la Commission Nationale de Protection des Données, et a été dénoncé aux autorités policières compétentes. Sesaram travaille",
+        "title": "Ciberataque força suspensão de atividade clínica no Serviço de Saúde da Madeira - Sociedade - Correio da Manhã",
+        "url": "https://www.cmjornal.pt/sociedade/detalhe/20230806-2258-ciberataque-forca-suspensao-de-atividade-clinica-no-servico-de-saude-da-madeira"
+    },
+    {
         "date": "2023-08-03",
         "victim": "Prospect Medical Holdings",
         "country": "USA",
