@@ -1,5 +1,13 @@
 [
     {
+        "date": "2023-07-25",
+        "victim": "St. Landry Parish Schools",
+        "country": "USA",
+        "summary": "La semaine dernière, les écoles de la paroisse de St. Landry ont été victimes d'une attaque de ransomware. Le surintendant Milton Batiste III a confirmé l'attaque et travaille actuellement avec la police de l'État de Louisiane pour enquêter. Il n'est pas encore clair quelles données ont été obtenues lors de l'attaque, mais des captures d'écran montrent des informations disponibles sur le blog du groupe sur le dark web. Le groupe de hackers demande une rançon d'un million de dollars pour supprimer les données volées. Cependant, les experts en cybersécurité déconseillent de payer la rançon, car les informations peuvent toujours être publiées en ligne et souvent utilisées par le groupe pour commettre une fraude d'identité,",
+        "title": "SLPSB victimized in ransomware attack | News | theadvocate.com",
+        "url": "https://www.theadvocate.com/acadiana/news/slpsb-victimized-in-ransomware-attack/article_98507368-2fe4-11ee-a4bc-4f95f3f4cba9.html"
+    },
+    {
         "date": "2023-06-20",
         "victim": "Ville d'Ornex",
         "country": "FRA",
