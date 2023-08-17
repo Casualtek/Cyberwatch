@@ -1,5 +1,13 @@
 [
     {
+        "date": "2023-08-03",
+        "victim": "Prospect Medical Holdings",
+        "country": "USA",
+        "summary": "Les systèmes informatiques de Crozer Health, situé dans le comté de Delaware, ont été victimes d'une attaque de ransomware par le propriétaire de l'entreprise, Prospect Medical Holdings Inc. Le ransomware est un type de logiciel malveillant qui crypte les fichiers, les rendant inutilisables jusqu'à ce qu'une demande financière soit satisfaite. En juin 2020, Crozer avait déjà été victime d'une attaque de malware, et certaines données de Crozer avaient été mises aux enchères après que l'entreprise ait refusé de payer une rançon. Le secteur de la santé est la cible la plus populaire pour les cyberattaques, car il contient des informations personnelles telles que les noms et adresses, les âges et",
+        "title": "Ransomware hits Crozer Health and its owner Prospect Medical Holdings",
+        "url": "https://www.inquirer.com/health/crozer-health-computer-systems-down-20230803.html"
+    },
+    {
         "date": "2023-08-08",
         "victim": "Fondation de Verdeil",
         "country": "CHE",
