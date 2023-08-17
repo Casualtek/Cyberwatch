@@ -1,6 +1,14 @@
 [
     {
         "date": "2023-07-18",
+        "victim": "Estée Lauder Companies Inc.",
+        "country": "USA",
+        "summary": "La société Estée Lauder Companies Inc. a identifié une cyberattaque, où un tiers non autorisé a eu accès à certains de ses systèmes. Suite à la découverte de l'incident, l'entreprise a désactivé certains de ses systèmes et a commencé une enquête avec l'aide d'experts en cybersécurité. L'entreprise pense que le tiers non autorisé a obtenu certaines données de ses systèmes et travaille pour comprendre la nature et l'étendue de ces données. L'incident a causé et devrait continuer à causer des perturbations dans certaines opérations commerciales de l'entreprise. L'entreprise met en œuvre des mesures pour sécuriser ses opérations commerciales et continuera à prendre des mesures supplémentaires si nécessaire.\n",
+        "title": "The Estée Lauder Companies Inc. Provides Information on Cybersecurity Incident - The Estée Lauder Companies Inc.",
+        "url": "https://www.elcompanies.com/en/news-and-media/newsroom/press-releases/2023/07-19-2023-024305426"
+    },
+    {
+        "date": "2023-07-18",
         "victim": "Ortivus",
         "country": "SWE",
         "summary": "Le système de dossiers médicaux électroniques d'Ortivus est actuellement indisponible pour certains clients basés au Royaume-Uni en raison d'une cyberattaque. Pour l'instant, aucun patient n'a été directement affecté et aucun autre système n'a été attaqué. Seuls les clients du centre de données hébergé ont été touchés. Ortivus travaille en étroite collaboration avec les clients affectés pour restaurer les systèmes et récupérer les données. L'organisation à l'origine de la cyberattaque n'est pas encore connue et l'incident a été signalé aux autorités comme un crime.",
