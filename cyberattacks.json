@@ -1,5 +1,13 @@
 [
     {
+        "date": "2023-08-17",
+        "victim": "Tempur Sealy International Inc.",
+        "country": "USA",
+        "summary": "La société Tempur Sealy International Inc. a annoncé avoir identifié un événement de cybersécurité affectant certains de ses systèmes informatiques le 23 juillet. Suite à cette attaque, l'entreprise a activé son équipe de réponse aux incidents pour contenir l'incident. Tempur Sealy travaille actuellement à déterminer si cette violation aura un impact significatif sur ses activités ou ses résultats financiers. Si l'entreprise découvre que des informations personnelles ont été impliquées, elle s'efforcera de se conformer à toutes les obligations de signalement en vertu de la loi applicable. Malgré cet incident, l'action de la société a baissé de 0,6% en préouverture mais a gagné 34% depuis le début de l'année.\n",
+        "title": "Tempur Sealy says its IT system was hacked in July - MarketWatch",
+        "url": "https://www.marketwatch.com/story/tempur-sealy-says-its-it-system-was-hacked-in-july-a1fa84d8?link=sfmw_tw"
+    },
+    {
         "date": "2023-08-01",
         "victim": "Université de Düsseldorf",
         "country": "DEU",
