@@ -1,5 +1,13 @@
 [
     {
+        "date": "2023-07-20",
+        "victim": "Institut National de Recherche Spatiale (Inpe) du Brésil",
+        "country": "BRA",
+        "summary": "Le site web de l'Institut National de Recherche Spatiale (Inpe) du Brésil, qui contient des données sur les incendies, a été attaqué par des pirates informatiques et est actuellement hors ligne. Selon l'institut, l'attaque a eu lieu le 20 juillet. Cependant, le pirate informatique n'a eu accès qu'aux mêmes informations qui sont disponibles pour toute personne accédant au portail. Aucune information sensible ou privée n'a été compromise lors de cette attaque. Les services du site sont temporairement indisponibles suite à cette cyberattaque.",
+        "title": "Site do Inpe com dados sobre queimadas é atacado por hackers e fica fora do ar | Vale do Paraíba e Região | G1",
+        "url": "https://g1.globo.com/sp/vale-do-paraiba-regiao/noticia/2023/08/10/site-do-inpe-com-dados-sobre-queimadas-e-atacado-por-hackers-e-fica-fora-do-ar.ghtml"
+    },
+    {
         "date": "2023-08-03",
         "victim": "Commission des services électriques de Montréal (CSEM)",
         "country": "CAN",
