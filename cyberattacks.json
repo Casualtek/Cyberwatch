@@ -1,5 +1,13 @@
 [
     {
+        "date": "2023-07-29",
+        "victim": "Papel Prensa",
+        "country": "ARG",
+        "summary": "La société Papel Prensa a subi une cyberattaque de type \"ransomware\" qui a restreint l'accès à ses systèmes informatiques. L'attaque a été signalée à la Comisión Nacional de Valores (CNV), l'autorité de régulation des marchés financiers en Argentine. Jusqu'à présent, aucun dommage n'a été détecté sur des fichiers importants pour le fonctionnement de l'entreprise. Bien que la production n'ait pas été affectée, les départements d'administration, de commercialisation, de logistique et de distribution ont été perturbés. La société travaille à la restauration de ses systèmes, certains e-mails ayant déjà été rétablis.\n",
+        "title": "Ciberataque a Papel Prensa: la empresa informó a la Comisión Nacional de Valores sobre el \"secuestro de datos\" | La Opinión",
+        "url": "https://www.laopinionsemanario.com.ar/noticia/ciberataque-a-papel-prensa-la-empresa-informo-a-la-comision-nacional-de-valores-sobre-el-secuestro-de-datos/"
+    },
+    {
         "date": "2023-06-19",
         "victim": "Colorado Department of Higher Education (CDHE)",
         "country": "USA",
