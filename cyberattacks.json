@@ -1,5 +1,13 @@
 [
     {
+        "date": "2023-07-21",
+        "victim": "Ville de Chevilly-Larue",
+        "country": "FRA",
+        "summary": "Victime d'une attaque informatique, les services municipaux sont injoignables par téléphone et par mail pour le moment. Nos services vous accueillent physiquement aux horaires habituels.",
+        "title": "Piratage informatique : services inaccessibles",
+        "url": "http://www.ville-chevilly-larue.fr/fonctionnalites/actualites-109/piratage-informatique-services-inaccessibles-4706.html"
+    },
+    {
         "date": "2023-07-12",
         "victim": "Plateforme IT de 12 ministères norvégiens",
         "country": "NOR",
