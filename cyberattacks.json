@@ -1,5 +1,13 @@
 [
     {
+        "date": "2023-06-20",
+        "victim": "Ville d'Ornex",
+        "country": "FRA",
+        "summary": "Le mardi 20 juin, la commune d'Ornex a été victime d'une cyberattaque s'étant notament traduite par la chiffrement des serveurs de la mairie, y compris les sauvegardes. Les données comptables et financières, de carrière et de paye, ainsi que d'état vicil et électorales, ont été affectées. La société Recoveo a été sollicitée pour récupérer, avec succès, l'intégralité des données.",
+        "title": "Délibération du conseil municipal d'Ornex",
+        "url": "https://ornex.fr/wp-content/uploads/2023/07/15.-Marches-publics-Recuperation-des-donnees-suite-piratage-informatique.pdf"
+    },
+    {
         "date": "2023-04-14",
         "victim": "Wildeboer",
         "country": "DEU",
