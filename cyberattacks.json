@@ -1,5 +1,13 @@
 [
     {
+        "date": "2023-08-09",
+        "victim": "Multiple Listing Service (MLS)",
+        "country": "USA",
+        "summary": "Une cyberattaque de type ransomware a perturbé le Multiple Listing Service (MLS), un outil en ligne essentiel pour les agents immobiliers, rendant les nouvelles annonces immobilières et les portes ouvertes introuvables et certaines données inaccessibles. L'attaque a eu lieu mercredi et a affecté le service à travers tout le pays. Megan Pomponio, une agente immobilière, a déclaré que la panne du MLS a limité les informations disponibles, retardant les annonces et la communication entre les agents et les courtiers. BAREIS, le MLS régional pour le comté de Marin, a indiqué qu'il pourrait s'écouler plusieurs jours avant que le problème ne soit résolu. En attendant, des solutions alternatives ont été proposées pour permettre aux courtiers",
+        "title": "Bay Area realty agents frustrated after cyber attack hobbles MLS",
+        "url": "https://www.marinij.com/2023/08/11/bay-area-realty-agents-frustrated-after-cyber-attack-hobbles-mls/"
+    },
+    {
         "date": "2023-07-20",
         "victim": "Institut National de Recherche Spatiale (Inpe) du Brésil",
         "country": "BRA",
