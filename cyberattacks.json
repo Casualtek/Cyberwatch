@@ -1,9 +1,17 @@
 [
     {
+        "date": "2023-07-21",
+        "victim": "Azimut Holding S.p.A.",
+        "country": "ITA",
+        "summary": "Le 24 juillet, Azimut reconnaît qu'un accès non autorisé à ses systèmes a été détecté, commis par des parties inconnues et non lié à un dysfonctionnement des systèmes eux-mêmes ou à une erreur humaine. Suite à cette cyberattaque, le Groupe Azimut a reçu une demande de rançon à laquelle il n'a pas répondu, la considérant comme criminelle et totalement contraire aux principes et aux valeurs du Groupe, qui s'est toujours engagé à lutter contre le financement de toute activité criminelle. La cyberattaque avait été revendiquée trois jours plus tôt par Alphv/Black Cat.",
+        "title": "Note on Information security",
+        "url": "https://backend.azimut.it/documents/154279/175969/press%20release%20july%2024%202023.pdf/91edb392-f03b-4ad0-b2cb-c0ccd2cebe6a?version=1.0&t=1690789988257&download=true&objectDefinitionExternalReferenceCode=5511ecc4-743d-d56e-4884-555af28db6db&objectEntryExternalReferenceCode=81acdb3c-4bb4-a27c-9375-f5935c31af92"
+    },
+    {
         "date": "2023-07-24",
         "victim": "Ville d'Angoulême et GrandAngoulême",
         "country": "FRA",
-        "summary": "La Ville d'Angoulême et GrandAngoulême ont été victimes d'une cyberattaque ce matin, entraînant une interruption complète du réseau et de la téléphonie. Malgré cela, les services restent ouverts aux horaires habituels. Cependant, le paiement par carte bancaire dans les équipements culturels et pour l'enfance est actuellement impossible et le site internet de la Ville est temporairement suspendu. Du côté de GrandAngoulême, l'instruction des dossiers d'urbanisme est suspendue et l'accueil téléphonique de GrandAngoulême Habitat n'est pas disponible. Les services de l'agglomération et de la ville sont mobilisés pour faire face à cette cyberattaque et sont actuellement en phase de diagnostic.\n",
+        "summary": "La Ville d'Angoulême et GrandAngoulême ont été victimes d'une cyberattaque ce matin, entraînant une interruption complète du réseau et de la téléphonie. Malgré cela, les services restent ouverts aux horaires habituels. Cependant, le paiement par carte bancaire dans les équipements culturels et pour l'enfance est actuellement impossible et le site internet de la Ville est temporairement suspendu. Du côté de GrandAngoulême, l'instruction des dossiers d'urbanisme est suspendue et l'accueil téléphonique de GrandAngoulême Habitat n'est pas disponible. Les services de l'agglomération et de la ville sont mobilisés pour faire face à cette cyberattaque et sont actuellement en phase de diagnostic.",
         "title": "⚠️ [INFORMATION] 💻 Ce matin,... - Ville d’Angoulême | Facebook",
         "url": "https://m.facebook.com/story.php?story_fbid=pfbid0uWQUJMZ1UQL6xRmu1XCiFbwh2UPty4syb6L6e3Hacuzreyoo4aDfbJHzcg6FeFEMl&id=100064764126369"
     },
