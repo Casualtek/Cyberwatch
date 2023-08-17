@@ -1,5 +1,13 @@
 [
     {
+        "date": "2023-07-25",
+        "victim": "JACCS Corporation",
+        "country": "JPN",
+        "summary": "Le 25 juillet 2023, nous avons confirmé qu'il y avait un accès non autorisé à notre serveur. Actuellement, afin d'éviter la propagation des dommages, nous bloquons la communication avec l'extérieur et enquêtons par des experts externes. On s'attend à ce qu'il prenne un certain temps pour identifier l'équipement qui a reçu un accès non autorisé, enquêter sur la cause de l'accès non autorisé et le récupérer.",
+        "title": "Notice of unauthorized access",
+        "url": "https://www.jaccs.co.jp/information/emerge/page_00092.html"
+    },
+    {
         "date": "2023-07-29",
         "victim": "Pensiones Civiles del Estado (PCE)",
         "country": "MEX",
