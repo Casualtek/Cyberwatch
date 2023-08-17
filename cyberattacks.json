@@ -1,5 +1,13 @@
 [
     {
+        "date": "2023-07-12",
+        "victim": "Plateforme IT de 12 ministères norvégiens",
+        "country": "NOR",
+        "summary": "Une cyberattaque a été détectée sur la plateforme informatique de 12 ministères norvégiens par l'organisation de sécurité et de service des départements. L'attaque a exploité une vulnérabilité inconnue dans le logiciel d'un fournisseur, qui a depuis été corrigée. L'incident est actuellement sous enquête par la police et l'autorité de protection des données a été informée. Les conséquences immédiates de l'attaque sont que les employés ne peuvent pas synchroniser leurs emails sur leurs téléphones mobiles. Il est encore trop tôt pour déterminer qui est derrière l'attaque et quelle est son étendue.\n",
+        "title": "Departementer utsatt for dataangrep: - Sårbarhet i programvare er utnyttet - Digi.no",
+        "url": "https://www.digi.no/artikler/departementer-utsatt-for-dataangrep-sarbarhet-i-programvare-utnyttet/534460"
+    },
+    {
         "date": "2023-07-21",
         "victim": "Azimut Holding S.p.A.",
         "country": "ITA",
