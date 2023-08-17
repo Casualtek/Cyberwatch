@@ -1,5 +1,13 @@
 [
     {
+        "date": "2023-07-25",
+        "victim": "CRTVG",
+        "country": "ESP",
+        "summary": "L'entreprise de télévision galicienne CRTVG a été la cible d'une cyberattaque sophistiquée. Selon Rafael Villaverde, PDG de cloud.gal et expert en cybersécurité, l'attaque a probablement commencé par un email trompeur qui a été cliqué par un employé du département des ressources humaines. Une fois l'accès obtenu, les cybercriminels ont probablement chiffré tous les documents, les rendant illisibles, et ont demandé une rançon pour leur déchiffrement, généralement en bitcoins. Si l'entreprise dispose d'une sauvegarde, les attaquants passent à la phase de vol de données en copiant massivement les informations sur un serveur. Dans le cas de CRTVG, environ 500 Go",
+        "title": "O ciberataque á CRTVG expón datos sensibles a redes criminais globais - Praza Pública",
+        "url": "https://praza.gal/ciencia-e-tecnoloxia/o-ciberataque-a-crtvg-expon-datos-sensibles-a-redes-criminais-globais"
+    },
+    {
         "date": "2023-08-14",
         "victim": "Clorox",
         "country": "USA",
