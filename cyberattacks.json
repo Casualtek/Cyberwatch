@@ -1,5 +1,13 @@
 [
     {
+        "date": "2023-07-28",
+        "victim": "Seiko Group",
+        "country": "JPN",
+        "summary": "La société Seiko Group a confirmé avoir été victime d'un accès non autorisé à certains de ses serveurs le 28 juillet 2023. Une enquête menée par une organisation externe spécialisée a révélé le 2 août que certaines informations de l'entreprise et du groupe pourraient avoir été divulguées. La société est actuellement en train de vérifier les informations stockées sur le serveur compromis. Seiko Group s'engage à prévenir toute expansion des dommages et à empêcher de futures attaques. Ils présentent leurs excuses pour les inquiétudes et les désagréments causés et demandent à leurs clients et partenaires de les contacter immédiatement s'ils reçoivent des courriels ou des notifications suspectes.\n",
+        "title": "重要なお知らせ詳細 | 重要なお知らせ | セイコーグループ",
+        "url": "https://www.seiko.co.jp/information/202308101100.html"
+    },
+    {
         "date": "2023-08-15",
         "victim": "Cleveland City Schools",
         "country": "USA",
