@@ -1,5 +1,13 @@
 [
     {
+        "date": "2023-08-15",
+        "victim": "Cleveland City Schools",
+        "country": "USA",
+        "summary": "Les écoles de la ville de Cleveland ont été victimes d'une attaque de ransomware le mardi 15 août, affectant moins de 5% des appareils connectés au réseau de l'école. Malgré cette attaque, la majorité des appareils utilisés par les élèves, le personnel et les enseignants n'ont pas été touchés, assurant ainsi la continuité des opérations. Les données sensibles, y compris les données PowerSchool, sont stockées en toute sécurité hors site et il n'y a aucune indication d'une violation des données des élèves, du personnel ou des parents. Aucun appareil étudiant n'a été victime de cet incident. L'école a activé son plan de réponse aux incidents cybernétiques et travaille avec le département de police",
+        "title": "Cleveland City Schools responds to ransomware attack, ensures data security and learning continuity | Local News | local3news.com",
+        "url": "https://www.local3news.com/local-news/cleveland-city-schools-responds-to-ransomware-attack-ensures-data-security-and-learning-continuity/article_2dcd2956-3bc3-11ee-80c3-0f7ad106336f.html"
+    },
+    {
         "date": "2023-07-25",
         "victim": "CRTVG",
         "country": "ESP",
