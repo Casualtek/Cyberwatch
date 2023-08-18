@@ -1,5 +1,13 @@
 [
     {
+        "date": "2023-08-01",
+        "victim": "Eastern Connecticut Health Network (ECHN) et Waterbury HEALTH",
+        "country": "USA",
+        "summary": "Les systèmes informatiques du Eastern Connecticut Health Network (ECHN) et de Waterbury HEALTH ont été victimes d'une cyberattaque, entraînant une panne généralisée. En conséquence, ECHN détourne les patients de ses salles d'urgence tandis que l'Hôpital de Waterbury utilise des dossiers papier. Le FBI a confirmé qu'il enquête sur une attaque de ransomware visant certaines installations médicales locales. L'impact de la panne affecte toutes les opérations en interne et en externe de Waterbury HEALTH, ce qui pourrait entraîner le report de certains rendez-vous. Plusieurs installations d' ECHN sont fermées jusqu'à nouvel ordre en raison de problèmes informatiques.\n",
+        "title": "Cyberattack suspected in computer system outage for Eastern Connecticut Health Network, Waterbury HEALTH - NBC Connecticut",
+        "url": "https://www.nbcconnecticut.com/news/local/computer-system-outage-affecting-eastern-connecticut-health-network-waterbury-health/3079460/"
+    },
+    {
         "date": "2023-08-07",
         "victim": "Centre médical Mayanei Hayeshua",
         "country": "ISR",
