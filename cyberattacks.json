@@ -1,5 +1,13 @@
 [
     {
+        "date": "2023-08-01",
+        "victim": "NOIRLab",
+        "country": "USA",
+        "summary": "Le matin du 1er août 2023, le NOIRLab de la NSF a détecté un incident cybernétique dans ses systèmes informatiques, entraînant la suspension des observations astronomiques à Gemini North à Hawaï. Les équipes de cybersécurité du NOIRLab et les équipes d'observation ont réagi rapidement pour éviter tout dommage à l'observatoire. Par mesure de précaution, nous avons décidé d'isoler les systèmes informatiques de l'observatoire Gemini en les arrêtant. Le site web et les outils de proposition de Gemini sont actuellement hors ligne, mais le site web du NOIRLab reste en ligne.",
+        "title": "Cyber Incident at NSF’s NOIRLab",
+        "url": "https://noirlab.edu/public/announcements/ann23022/"
+    },
+    {
         "date": "2023-08-02",
         "victim": "Joyson Safety Systems",
         "country": "DEU",
