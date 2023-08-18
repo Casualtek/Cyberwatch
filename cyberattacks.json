@@ -1,5 +1,13 @@
 [
     {
+        "date": "2023-08-16",
+        "victim": "Le consortium de bonification de l'Emilia Centrale",
+        "country": "ITA",
+        "summary": "Le système informatique du consortium de bonification de l'Emilia Centrale en Italie a été victime d'une cyberattaque. Les pirates informatiques ont demandé une rançon d'un million et cent mille euros en échange de la restauration des données, menaçant de les détruire en cas de non-paiement. Suite à l'attaque, les ordinateurs sont tombés en panne et les imprimantes ne produisaient que des feuilles avec la demande de rançon. Le directeur, Domenico Turazza, a déclaré que les services tels que les lignes téléphoniques fixes, l'e-mail et les numéros d'urgence ont été rapidement rétablis. Les techniciens informatiques travaillent à la récupération des données perdues, estimées à",
+        "title": "Reggio Emilia, attacco hacker ai computer della Bonifica",
+        "url": "https://www.ilrestodelcarlino.it/reggio-emilia/cronaca/reggio-emilia-attacco-hacker-ai-computer-della-bonifica-a28c2d6d"
+    },
+    {
         "date": "2023-07-21",
         "victim": "Bureau d'architecture basé à Berne",
         "country": "CHE",
