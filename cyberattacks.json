@@ -1,5 +1,13 @@
 [
     {
+        "date": "2022-12-12",
+        "victim": "Cheyenne Radiology Group & MRI",
+        "country": "USA",
+        "summary": "Le groupe de radiologie Cheyenne Radiology Group & MRI, âgé de 70 ans, a récemment subi une cyberattaque qui pourrait avoir entraîné l'exposition involontaire des informations personnelles des patients. Bien qu'il n'y ait aucune preuve d'une utilisation abusive des informations sensibles, le groupe a pris des mesures pour informer la communauté de l'incident. Après avoir détecté la violation de sécurité le 12 décembre, le groupe a engagé un expert judiciaire spécialisé pour déterminer si des informations de patients avaient été affectées. Les clients ont reçu des lettres contenant des détails supplémentaires sur l'incident et proposant des services de surveillance de crédit aux personnes touchées.",
+        "title": "70-year-old radiology practice suffers cyberattack",
+        "url": "https://radiologybusiness.com/topics/health-it/enterprise-imaging/70-year-old-radiology-practice-suffers-cyberattack"
+    },
+    {
         "date": "2023-07-09",
         "victim": "Quikcard",
         "country": "CAN",
