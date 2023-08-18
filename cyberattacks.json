@@ -1,5 +1,13 @@
 [
     {
+        "date": "2023-08-17",
+        "victim": "Poste Italiane",
+        "country": "ITA",
+        "summary": "Poste Italiane, la société de services postaux italienne, a subi une attaque de ransomware avec une menace de publication de données sensibles sur le dark web si une rançon n'est pas payée. La société a remarqué des activités anormales sur ses systèmes, interrompant le fonctionnement de certains serveurs et postes de travail à travers l'Italie. Les contrôles internes ont permis de restaurer partiellement les services et de vérifier la disponibilité des archives de sauvegarde des systèmes. Actuellement, seules les données internes sont concernées et les cybercriminels ont été éliminés des systèmes de Poste Italiane. Le groupe de hackers Medusa Locker demande 10 000 dollars pour retarder la publication des données d'un jour.",
+        "title": "Attacco hacker a Poste Italiane: riscatto o pubblicazione dati",
+        "url": "https://www.punto-informatico.it/attacco-hacker-a-poste-italiane-riscatto-o-pubblicazione-dati/"
+    },
+    {
         "date": "2023-07-14",
         "victim": "Université d'Uppsala",
         "country": "SWE",
