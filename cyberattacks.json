@@ -1,5 +1,13 @@
 [
     {
+        "date": "2023-07-18",
+        "victim": "The Body Shop Japan",
+        "country": "JPN",
+        "summary": "Le système de The Body Shop Japan a subi une cyberattaque par ransomware le 18 juillet, provoquant des retards de livraison et d'autres impacts sur les services. Aucune preuve n'a été trouvée que des données aient été transférées à l'extérieur du système de l'entreprise, mais l'incident est toujours en cours d'investigation avec l'aide d'experts externes. L'incident ne concerne que The Body Shop Japan et les données potentiellement affectées comprennent les informations personnelles des employés (y compris les anciens employés) et certaines données des clients de la boutique en ligne officielle.",
+        "title": "当社システムへの不正アクセス及びサービス提供への影響に関するお知らせ: ｜THE BODY SHOP (ザボディショップ)",
+        "url": "https://www.the-body-shop.co.jp/shop/e/ens230807"
+    },
+    {
         "date": "2023-07-13",
         "victim": "Association des Employeurs de la Santé de Colombie-Britannique (HEABC)",
         "country": "CAN",
