@@ -1,5 +1,13 @@
 [
     {
+        "date": "2023-07-21",
+        "victim": "Bureau d'architecture basé à Berne",
+        "country": "CHE",
+        "summary": "Un bureau d'architecture basé à Berne, qui a conçu plusieurs représentations suisses à l'étranger, a été victime d'une cyberattaque. Les pirates informatiques ont volé des informations sensibles et menacent de les publier. Le groupe criminel derrière l'attaque, connu sous le nom d'Abyss, prévoit de publier les données le 1er septembre si une rançon n'est pas payée. Les documents volés comprennent des plans d'objets de représentations à l'étranger, certains étant classifiés. C'est la deuxième fois en quelques semaines que l'administration fédérale suisse est indirectement touchée par une cyberattaque.\n",
+        "title": "Hackerangriff: Sensible Daten über Schweizer Botschaften entwendet",
+        "url": "https://www.nzz.ch/technologie/hackerangriff-auf-architekturbuero-kriminelle-stehlen-informationen-ueber-schweizer-vertretungen-im-ausland-ld.1750885"
+    },
+    {
         "date": "2023-08-17",
         "victim": "Poste Italiane",
         "country": "ITA",
