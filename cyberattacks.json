@@ -1,5 +1,13 @@
 [
     {
+        "date": "2023-08-04",
+        "victim": "Trinkwasserverband (TWV) Stader Land",
+        "country": "DEU",
+        "summary": "Le Trinkwasserverband (TWV) Stader Land, un fournisseur d'eau en Allemagne, a subi une cyberattaque qui a causé des \"perturbations techniques\" et affecté ses systèmes de messagerie. Bien que l'approvisionnement en eau soit une infrastructure critique, le TWV a assuré que la fourniture d'eau n'a pas été affectée. Les pirates auraient utilisé un ransomware appelé \"LockBit\", qui est généralement utilisé pour cibler les entreprises et les autorités. Cependant, il semble que les pirates n'ont pas chiffré de données pour exiger une rançon pour leur libération.",
+        "title": "Hacker verursachen \"technische Störungen\": Cyber-Attacke auf den Trinkwasserverband Stade - Horneburg",
+        "url": "https://www.kreiszeitung-wochenblatt.de/horneburg/c-blaulicht/cyber-attacke-auf-den-trinkwasserverband-stade_a289431"
+    },
+    {
         "date": "2023-07-26",
         "victim": "Softproject GmbH",
         "country": "DEU",
