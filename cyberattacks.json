@@ -1,5 +1,13 @@
 [
     {
+        "date": "2023-07-10",
+        "victim": "Municipalité du comté de Kings",
+        "country": "CAN",
+        "summary": "La municipalité du comté de Kings a annoncé qu'une cyberattaque survenue en juillet a probablement affecté les informations personnelles des gens, y compris les noms et les adresses e-mail de ceux qui ont correspondu avec la municipalité. Les experts estiment que l'intrusion initiale a eu lieu le 10 juillet en exploitant une vulnérabilité logicielle sur l'un des serveurs de la municipalité. Les informations personnelles sensibles des employés municipaux et des conseillers ont probablement été volées, et d'autres organisations recevant des services de pension de la municipalité ont également été affectées. Suite à l'incident, le site web, l'internet et tous les systèmes de la municipalité ont été mis hors ligne. Les services municipaux et le site web sont maintenant",
+        "title": "Personal information 'likely stolen' in Municipality of the County of Kings cyberattack | SaltWire",
+        "url": "https://www.saltwire.com/cape-breton/news/personal-information-likely-stolen-in-municipality-of-the-county-of-kings-cyberattack-100883010/"
+    },
+    {
         "date": "2023-08-01",
         "victim": "Eastern Connecticut Health Network (ECHN) et Waterbury HEALTH",
         "country": "USA",
