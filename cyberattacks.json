@@ -1,5 +1,13 @@
 [
     {
+        "date": "2023-07-26",
+        "victim": "Softproject GmbH",
+        "country": "DEU",
+        "summary": "La société Softproject GmbH, un fournisseur de services BiPRO basé en Allemagne, a été la cible d'une cyberattaque par ransomware nommée \"CryTox\". L'attaque a entraîné le chiffrement d'une partie de l'infrastructure d'application de l'entreprise, bien que les enquêtes initiales n'aient pas révélé de fuite de données. Suite à l'attaque, Softproject a déconnecté ses solutions logicielles en tant que service (SaaS) par mesure de précaution, ce qui a pu entraîner des perturbations dans les services BiPRO entre les courtiers et les assureurs. Softproject travaille actuellement avec une équipe d'experts de la société Corporate Trust Business Risk & Crisis Management GmbH pour restaurer complètement ses services",
+        "title": "Makler und Versicherer betroffen: Cyber-Attacke auf BiPRO-Dienstleister | procontra",
+        "url": "https://www.procontra-online.de/maklerburo/artikel/cyber-attacke-auf-bipro-dienstleister"
+    },
+    {
         "date": "2023-07-27",
         "victim": "CardioComm",
         "country": "CAN",
