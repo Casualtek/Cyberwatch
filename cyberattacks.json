@@ -1,5 +1,13 @@
 [
     {
+        "date": "2023-08-17",
+        "victim": "La mairie de Sartrouville",
+        "country": "FRA",
+        "summary": "La mairie de Sartrouville a été victime d'une cyberattaque par ransomware nommé \"Medusa\", qui a paralysé ses services en cryptant toutes les données. Les hackers demandent une rançon pour débloquer le système. Les serveurs internes de la mairie, qui contiennent des informations sensibles, ont été touchés. Le préjudice provisoire est estimé à 200 000 euros. La mairie a déposé plainte et les enquêteurs de la brigade de lutte contre la cybercriminalité de la police judiciaire de Paris sont chargés des investigations.\n",
+        "title": "Cyberattaques : la mairie de Sartrouville paralysée par des hackers - Le Parisien",
+        "url": "https://www.leparisien.fr/yvelines-78/cyberattaques-la-mairie-de-sartrouville-paralysee-par-des-hackers-18-08-2023-OXH2PLRX5JACPMODLW5LR55FFQ.php"
+    },
+    {
         "date": "2023-08-16",
         "victim": "Le consortium de bonification de l'Emilia Centrale",
         "country": "ITA",
