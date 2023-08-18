@@ -1,5 +1,13 @@
 [
     {
+        "date": "2023-07-13",
+        "victim": "Association des Employeurs de la Santé de Colombie-Britannique (HEABC)",
+        "country": "CAN",
+        "summary": "L'Association des Employeurs de la Santé de Colombie-Britannique (HEABC) fait face à une attaque de cybersécurité sur l'un de ses serveurs. Ce serveur héberge des sites web de services de santé gérés par HEABC, mais l'incident n'affecte pas les dossiers médicaux. Les informations personnelles des utilisateurs ont potentiellement été compromises. HEABC travaille avec des experts pour résoudre l'incident, renforcer la sécurité et informer les personnes concernées. Après avoir découvert l'attaque en juillet, HEABC a pris des mesures pour sécuriser les services affectés et enquêter sur l'incident. L'incident se limite à des formulaires d'application et autres informations spécifiques sur les sites web concernés. Le nombre exact de personnes touchées n'est pas encore déterminé.",
+        "title": "HEABC announces measures underway following a cyber security attack and potential data breach",
+        "url": "https://www.heabc.bc.ca/public/News/2023/NR_Privileged%20and%20Confidential%20-%20HEABC%20CyberAttack%20Press%20Release_1Aug%20FINAL.pdf"
+    },
+    {
         "date": "2023-08-04",
         "victim": "Trinkwasserverband (TWV) Stader Land",
         "country": "DEU",
