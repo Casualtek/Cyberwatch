@@ -1,5 +1,13 @@
 [
     {
+        "date": "2023-07-09",
+        "victim": "Quikcard",
+        "country": "CAN",
+        "summary": "La société canadienne Quikcard, qui gère des comptes de dépenses de santé pour les employeurs, a subi une cyberattaque le 9 juillet 2023, au cours de laquelle un tiers non autorisé a accédé à une partie de son infrastructure informatique et déployé un logiciel malveillant. Les systèmes et données affectés ont été temporairement inaccessibles, mais ont pu être récupérés à partir de sauvegardes avec une perte de données minimale. Les informations potentiellement compromises incluent les noms, adresses, numéros de compte bancaire et autres détails personnels et professionnels de divers clients, employés, courtiers et fournisseurs de services de santé.",
+        "title": "Cyber Incident - Quikcard",
+        "url": "https://www.quikcard.com/cyberincident/"
+    },
+    {
         "date": "2023-07-10",
         "victim": "Municipalité du comté de Kings",
         "country": "CAN",
