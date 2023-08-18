@@ -1,5 +1,13 @@
 [
     {
+        "date": "2023-08-02",
+        "victim": "L'Association du Barreau Fédéral Allemand (BRAK)",
+        "country": "DEU",
+        "summary": "L'Association du Barreau Fédéral Allemand (BRAK), qui représente les avocats allemands au niveau national et international, enquête sur une cyberattaque survenue dans son bureau de Bruxelles. L'attaque a été revendiquée par le groupe de rançongiciels NoEscape. BRAK travaille avec une entreprise de sécurité informatique pour analyser l'incident et réparer les dommages. Les pirates ont crypté le serveur de messagerie de BRAK et exfiltré 160 gigaoctets de données. L'organisation avertit que les gens doivent se méfier des e-mails prétendant provenir de l'organisation, en particulier ceux demandant des informations de compte bancaire.\n",
+        "title": "Germany’s national bar association investigating ransomware attack",
+        "url": "https://therecord.media/german-national-bar-association-investigating-cyberattack"
+    },
+    {
         "date": "2023-08-01",
         "victim": "NOIRLab",
         "country": "USA",
