@@ -1,5 +1,13 @@
 [
     {
+        "date": "2023-07-14",
+        "victim": "Université d'Uppsala",
+        "country": "SWE",
+        "summary": "L'Université d'Uppsala a été la cible d'une cyberattaque suspectée d'être d'origine russe. L'attaque a été rendue possible par le détournement d'un compte utilisateur d'un des employés de l'université. Découverte le 14 juillet par le département de sécurité, l'incident a été signalé à la police. L'université est actuellement en train d'examiner quel type de données a été volé, principalement des informations provenant du département informatique. Les noms, prénoms et noms d'utilisateur ont également été divulgués lors de cette fuite, mais le nombre total de personnes touchées reste incertain.",
+        "title": "Misstänkt rysk it-attack mot Uppsala universitet: ”Kan öka sårbarheten” | SVT Nyheter",
+        "url": "https://www.svt.se/nyheter/lokalt/uppsala/misstankt-rysk-it-attack-mot-uppsala-universitet-kan-oka-sarbarheten--r0kbmr"
+    },
+    {
         "date": "2023-08-14",
         "victim": "Prince George's County Public Schools",
         "country": "USA",
