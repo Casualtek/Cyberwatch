@@ -1,5 +1,13 @@
 [
     {
+        "date": "2023-07-27",
+        "victim": "CardioComm",
+        "country": "CAN",
+        "summary": "CardioComm, une entreprise canadienne spécialisée dans la surveillance cardiaque et l'électrocardiogramme médical, a été contrainte de mettre ses systèmes hors ligne suite à une cyberattaque. Cette attaque a affecté ses environnements de serveurs de production et ses opérations commerciales. CardioComm a indiqué qu'il est peu probable que des informations sensibles des clients aient été perdues lors de l'attaque, car son logiciel fonctionne sur les systèmes individuels des clients. L'entreprise travaille avec des professionnels de la santé pour analyser les cardiogrammes, mais ne collecte pas elle-même les informations de santé des patients. Bien que l'entreprise n'ait pas donné de détails spécifiques sur le type de cyberattaque, il est probable qu",
+        "title": "OODA Loop - CardioComm Takes Systems Offline Following Cyberattack",
+        "url": "https://www.oodaloop.com/cyber/2023/07/27/cardiocomm-takes-systems-offline-following-cyberattack/"
+    },
+    {
         "date": "2023-07-01",
         "victim": "Université de l'Ouest de l'Écosse (UWS)",
         "country": "GBR",
