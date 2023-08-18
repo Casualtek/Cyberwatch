@@ -1,5 +1,13 @@
 [
     {
+        "date": "2023-08-14",
+        "victim": "Prince George's County Public Schools",
+        "country": "USA",
+        "summary": "Lundi matin, les écoles publiques du comté de Prince George ont été victimes d'une cyberattaque. Selon PGCPS, l'attaque a affecté 4 500 comptes utilisateurs sur 180 000, principalement des comptes de personnel. Les principaux systèmes d'information pour les entreprises et les étudiants, Oracle et SchoolMAX, ne semblent pas avoir été touchés. Bien que de nombreux systèmes réseau aient été restaurés, tous les utilisateurs devront réinitialiser leurs mots de passe le 15 août. PGCPS contactera les utilisateurs affectés par l'attaque dans les prochains jours avec plus d'informations concernant leurs comptes, en attente d'un examen plus approfondi par une équipe d'experts en cybers",
+        "title": "Prince George's County Public Schools impacted by cyberattack",
+        "url": "https://www.wmar2news.com/local/prince-georges-county-public-schools-impacted-by-cyberattack"
+    },
+    {
         "date": "2023-08-11",
         "victim": "Freeport-McMoRan Inc.",
         "country": "USA",
