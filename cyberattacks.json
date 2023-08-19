@@ -1,5 +1,13 @@
 [
     {
+        "date": "2023-08-07",
+        "victim": "Oniris",
+        "country": "FRA",
+        "summary": "L'école nationale vétérinaire, agroalimentaire et de l'alimentation de Nantes, Oniris, a été victime d'une cyberattaque le lundi 7 août. Les données copiées par les attaquants comprennent les noms, prénoms et adresses mail professionnelles du personnel de l'établissement. Une plainte a été déposée et une notification de violation de données personnelles a été envoyée à la Commission nationale de l'informatique et des libertés. L'école a assuré qu'aucun chiffrement de données ou ransomware n'a été détecté et a verrouillé son système informatique, rendant les adresses e-mail Oniris inutilisables. Malgré l'attaque, les lignes téléphoniques et la",
+        "title": "L’école vétérinaire de Nantes touchée par une cyberattaque",
+        "url": "https://www.ouest-france.fr/pays-de-la-loire/nantes-44000/lecole-veterinaire-de-nantes-touchee-par-une-cyberattaque-42575f66-3de1-11ee-9733-6ec1a60d0098"
+    },
+    {
         "date": "2023-08-02",
         "victim": "L'Association du Barreau Fédéral Allemand (BRAK)",
         "country": "DEU",
