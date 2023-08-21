@@ -1,6 +1,14 @@
 [
     {
         "date": "2023-08-20",
+        "victim": "Singing River Health System",
+        "country": "USA",
+        "summary": "Les responsables du Singing River Health System ont détecté une activité inhabituelle dans leur réseau, indiquant une éventuelle cyberattaque. Ils travaillent avec des spécialistes tiers pour enquêter sur la source de cette perturbation et confirmer son impact sur leurs systèmes. Le système de santé continue de voir des patients et des procédures de temps d'arrêt sont en place. L'équipe de sécurité informatique travaille sans relâche pour enquêter sur la situation et mettre en œuvre les mesures de sécurité nécessaires. L'enquête pour déterminer la nature et l'étendue de l'incident est en cours et le SRHS n'est pas en mesure de commenter davantage à ce stade.\n",
+        "title": "Potential cyberattack throughout Singing River Health System",
+        "url": "https://www.wlox.com/2023/08/20/potential-cyberattack-throughout-singing-river-health-system/"
+    },
+    {
+        "date": "2023-08-20",
         "victim": "Kansai Nerolac Ltd.",
         "country": "IND",
         "summary": "Kansai Nerolac Ltd., l'une des plus grandes entreprises de fabrication de peinture en Inde, a signalé une attaque de ransomware dimanche soir. L'infrastructure informatique de l'entreprise a été ciblée par cette cyberattaque. L'incident a affecté quelques systèmes, mais l'équipe technique de l'entreprise, avec l'aide d'experts en cybersécurité, a rapidement réagi pour atténuer l'impact. La société travaille activement à la restauration des systèmes affectés. L'impact financier de cette attaque de ransomware n'a pas été divulgué.",
