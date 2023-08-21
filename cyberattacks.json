@@ -1,6 +1,14 @@
 [
     {
         "date": "2023-08-21",
+        "victim": "Le Centre Public d'Action Sociale (CPAS) de Charleroi",
+        "country": "BEL",
+        "summary": "Le Centre Public d'Action Sociale (CPAS) de Charleroi a été victime d'une attaque informatique. Suite à cette cyberattaque, l'ensemble du système informatique est désormais bloqué. Malgré cela, les services continuent de fonctionner, bien que cela soit avec de nombreuses difficultés. Pour l'instant, aucune autre information n'a été fournie. Des détails supplémentaires sur l'incident seront partagés prochainement.",
+        "title": "Le CPAS de Charleroi subit une attaque informatique: tout le système est bloqué...",
+        "url": "https://www.sudinfo.be/id699975/article/2023-08-21/le-cpas-de-charleroi-subit-une-attaque-informatique-tout-le-systeme-est-bloque"
+    },
+    {
+        "date": "2023-08-21",
         "victim": "Hôpital municipal Sfânta Treime de Chișinău",
         "country": "MDA",
         "summary": "L'hôpital municipal clinique \"Sfânta Treime\" de Chișinău a été la cible d'une cyberattaque. L'annonce a été faite par le maire Ion Ceban lors d'une réunion opérationnelle des services municipaux. Ion Ceban a également demandé au directeur de l'établissement de vérifier si les données personnelles des patients étaient en sécurité. L'incident souligne l'importance de la cybersécurité dans le secteur de la santé. Aucune information supplémentaire sur la nature ou l'ampleur de l'attaque n'a été fournie.",
