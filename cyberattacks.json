@@ -1,5 +1,13 @@
 [
     {
+        "date": "2023-08-18",
+        "victim": "Energy One Limited",
+        "country": "AUS",
+        "summary": "Le 18 août 2023, Energy One Limited a découvert qu'une cyberattaque avait touché ses systèmes d'entreprise en Australie et au Royaume-Uni. En réponse, l'entreprise a agi rapidement pour minimiser les effets, a fait appel à des experts en cybersécurité et a informé les autorités compétentes. La sécurité de ses employés, clients et systèmes est une priorité pour Energy One. Une enquête est en cours pour déterminer l'étendue des systèmes affectés. Pour renforcer la sécurité des clients, certains liens entre systèmes ont été désactivés. Les mesures prises par Energy One et l'enquête se poursuivent.",
+        "title": "EOL Cyber Incident and Update",
+        "url": "https://cdn-api.markitdigital.com/apiman-gateway/ASX/asx-research/1.0/file/2924-02699435-2A1467437?access_token=83ff96335c2d45a094df02a206a39ff4"
+    },
+    {
         "date": "2023-08-20",
         "victim": "Singing River Health System",
         "country": "USA",
