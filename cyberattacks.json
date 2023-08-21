@@ -1,5 +1,13 @@
 [
     {
+        "date": "2023-05-23",
+        "victim": "Bunker Hill Community College (BHCC)",
+        "country": "USA",
+        "summary": "Le Bunker Hill Community College (BHCC) a confirmé avoir subi une cyberattaque en mai 2023, qui a pris la forme d'une attaque par ransomware. L'incident a été contenu à un nombre limité de systèmes du BHCC et aucun perte de données n'a été signalée grâce aux sauvegardes existantes. Les informations potentiellement compromises incluent les noms, adresses, dates de naissance, numéros de sécurité sociale, dossiers éducatifs et autres informations personnelles. L'enquête sur l'incident est toujours en cours et les individus affectés recevront une notification par courrier. Suite à l'incident, le BHCC a mis en place des mesures pour améliorer la sécurité de ses systèmes informatiques, y compris l'implémentation",
+        "title": "May 2023 Data Security Incident Public Notice",
+        "url": "https://www.prnewswire.com/news-releases/may-2023-data-security-incident-public-notice-301904902.html"
+    },
+    {
         "date": "2023-08-18",
         "victim": "Energy One Limited",
         "country": "AUS",
