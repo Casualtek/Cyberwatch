@@ -1,5 +1,13 @@
 [
     {
+        "date": "2023-06-15",
+        "victim": "Coen Hagedoorn Bouwgroep",
+        "country": "NLD",
+        "summary": "La Coen Hagedoorn Bouwgroep, une entreprise de construction néerlandaise, a averti ses locataires que leurs données pourraient avoir été volées lors d'une attaque de ransomware en juin dernier. Les attaquants ont réussi à accéder aux systèmes de l'entreprise, qui contiennent les coordonnées des locataires. Bien que l'entreprise ait déclaré que tous les systèmes étaient de nouveau opérationnels et qu'aucune activité suspecte n'avait été détectée, elle n'a pas pu exclure la possibilité que des données aient été volées lors de l'attaque. Les données potentiellement volées comprennent le nom, le numéro de téléphone et l'adresse e-mail des locataires. L'entreprise a signalé l'att",
+        "title": "Coen Hagedoorn Bouwgroep informeert huurders over datalek - Security.NL",
+        "url": "https://www.security.nl/posting/807480/Coen+Hagedoorn+Bouwgroep+informeert+huurders+over+datalek"
+    },
+    {
         "date": "2023-08-21",
         "victim": "Le Centre Public d'Action Sociale (CPAS) de Charleroi",
         "country": "BEL",
