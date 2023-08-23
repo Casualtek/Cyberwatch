@@ -1,5 +1,13 @@
 [
     {
+        "date": "2023-06-19",
+        "victim": "KAMIJO",
+        "country": "JPN",
+        "summary": "La société KAMIJO a subi une cyberattaque sur ses serveurs le 19 juin 2023, avec une infection potentielle par un ransomware qui a entraîné l'encryption de certains fichiers de système d'exploitation. L'attaque a été détectée le 14 juin 2023, après la découverte d'un accès non autorisé à leur réseau le 12 juin à 2 heures du matin, et l'encryption des données a commencé le 14 juin à 3 heures du matin. Bien qu'aucune preuve concrète d'exfiltration de données personnelles n'ait été trouvée, la société ne peut pas exclure la possibilité d'une fuite de certaines données personnelles de clients.",
+        "title": "当社サーバへの不正アクセスに関するご報告とお詫び | KAMIJO 上條器械店",
+        "url": "https://www.kjm.co.jp/2023-0818/"
+    },
+    {
         "date": "2023-08-18",
         "victim": "AzeroCloud",
         "country": "DNK",
