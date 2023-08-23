@@ -1,5 +1,13 @@
 [
     {
+        "date": "2023-08-23",
+        "victim": "Haute École de Lucerne (HSLU)",
+        "country": "CHE",
+        "summary": "La Haute École de Lucerne (HSLU) a été victime d'une attaque de ransomware ciblant une de ses environnements informatiques spécifiques, séparée des services IT centraux. Cette attaque n'a pas affecté le fonctionnement général de l'école car elle a visé principalement le département informatique. Les spécialistes de l'école travaillent actuellement pour évaluer l'ampleur de l'attaque, en collaboration avec des entités internes et externes. Selon les informations actuelles, aucune donnée d'employé ou d'étudiant n'a été compromise. Cette attaque s'inscrit dans une série d'attaques récentes contre des établissements d'enseignement en Suisse.\n",
+        "title": "Ransomware-Attacke auf Hochschule Luzern",
+        "url": "https://www.inside-it.ch/ransomware-attacke-auf-hochschule-luzern-20230823"
+    },
+    {
         "date": "2023-08-19",
         "victim": "A1",
         "country": "AUT",
