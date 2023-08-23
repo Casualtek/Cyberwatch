@@ -1,5 +1,13 @@
 [
     {
+        "date": "2023-08-18",
+        "victim": "AzeroCloud",
+        "country": "DNK",
+        "summary": "La société de cloud computing AzeroCloud a été victime d'une attaque de ransomware, au cours de laquelle les pirates ont réussi à crypter et bloquer l'accès à une grande partie des données de l'entreprise. En conséquence, la plupart des clients d'AzeroCloud ont perdu toutes leurs données. Parmi les victimes figure Chili Klaus, une entreprise de vente de produits à base de chili, qui a perdu l'accès à sa boutique en ligne et à son système de messagerie. AzeroCloud a informé ses clients que les pirates avaient réussi à crypter tous les disques des serveurs ainsi que leurs systèmes de sauvegarde primaire et secondaire. Selon le correspondant technologique de DR, Henrik Moltke, ce type d'attaque peut \"dé",
+        "title": "Al data forsvundet i ransomware-angreb - Chili Klaus har mistet alt | Indland | DR",
+        "url": "https://www.dr.dk/nyheder/indland/al-data-forsvundet-i-ransomware-angreb-chili-klaus-har-mistet-alt"
+    },
+    {
         "date": "2023-08-22",
         "victim": "Stadtbibliothek Weißwasser",
         "country": "DEU",
