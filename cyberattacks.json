@@ -1,5 +1,13 @@
 [
     {
+        "date": "2023-08-12",
+        "victim": "Econocom",
+        "country": "BEL",
+        "summary": "Les groupes de cyber-délinquants GhostSec et Stormous revendiquent un vol de plus de 70 giga-octets de données sur le système d’information d’Econocom. Certains fichiers semblent trop récents pour être issus du vol de données par le groupe Pysa en 2020, suggérant une nouvelle intrusion. Econocom n'a pas répondu aux demandes de commentaires, mais GhostSec a confirmé qu'il s'agissait d'une nouvelle cyberattaque. Depuis, de nouveaux fichiers ont commencé à être divulgués sur le site de Stormous. Econocom a finalement réagi en annonçant une alerte de cybersécurité sans impact significatif à ce stade, indiquant que la compromission se limite à un dossier part",
+        "title": "Stormous et GhostSec tentent de faire chanter Econocom | LeMagIT",
+        "url": "https://www.lemagit.fr/actualites/366549472/Stormous-et-GhostSec-tentent-de-faire-chanter-Econocom"
+    },
+    {
         "date": "2023-06-19",
         "victim": "KAMIJO",
         "country": "JPN",
