@@ -1,5 +1,13 @@
 [
     {
+        "date": "2023-07-03",
+        "victim": "Ohio History Connection",
+        "country": "USA",
+        "summary": "L'Ohio History Connection, un musée et centre de recherche à but non lucratif, a été victime d'une cyberattaque par ransomware en juillet, mettant en danger les données de plus de 7 000 personnes. Les pirates ont demandé des millions de dollars en échange des données cryptées, une offre que l'organisation a tenté de négocier sans succès. Les informations potentiellement accessibles comprennent les numéros de sécurité sociale, les noms, les adresses et les images de chèques de près de 7 600 employés actuels et anciens, donateurs et fournisseurs. Aucune utilisation ou tentative d'utilisation des informations exposées n'a été signalée à ce jour. En réponse à l'attaque, l'Ohio History Connection renforce ses mes",
+        "title": "Ohio History Connection hit with ransomware attack | WOSU News",
+        "url": "https://news.wosu.org/news/2023-08-24/ohio-history-connection-hit-with-ransomware-attack"
+    },
+    {
         "date": "2023-08-23",
         "victim": "Heuschen & Schrouff",
         "country": "NLD",
