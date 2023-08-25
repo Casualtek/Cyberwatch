@@ -1,5 +1,13 @@
 [
     {
+        "date": "2023-08-22",
+        "victim": "Leaseweb",
+        "country": "NLD",
+        "summary": "Leaseweb, un fournisseur d'hébergement, semble avoir été touché par une cyberattaque, causant des problèmes à ATPS Online, une entreprise qui fournit une solution de gestion du temps via un modèle SaaS. ATPS Online a déclaré qu'ils ont réussi à accéder à certains de leurs systèmes clés, y compris leur serveur de base de données principal, et qu'il ne semble pas y avoir de perte de données. Leaseweb a promis de publier une déclaration officielle concernant l'incident présumé de cybersécurité dès que possible. Une enquête est en cours pour déterminer la cause et l'impact de l'incident, et pour vérifier s'il y a eu une fuite de données. En attendant, ATPS Online travail",
+        "title": "Dutch IT Channel - Leaseweb lijkt getroffen door cyberaanval",
+        "url": "https://www.dutchitchannel.nl/news/399733/mogelijke-cyberaanval-op-leaseweb"
+    },
+    {
         "date": "2023-07-03",
         "victim": "Ohio History Connection",
         "country": "USA",
