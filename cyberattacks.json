@@ -1,5 +1,13 @@
 [
     {
+        "date": "2023-01-15",
+        "victim": "PurFoods",
+        "country": "USA",
+        "summary": "PurFoods, un service de livraison de repas à domicile aux États-Unis, a révélé une violation de données affectant plus de 1,2 million de personnes. Selon un rapport, les pirates pourraient avoir accédé aux informations personnelles, financières et médicales des clients, y compris les noms, les numéros de compte financier et de carte de paiement, les numéros de sécurité sociale et les numéros d'identification des membres de l'assurance maladie. L'incident a eu lieu en janvier mais n'a été découvert qu'en février. PurFoods a fourni un accès gratuit d'un an à des services de surveillance de crédit pour les personnes dont les informations personnelles ont potentiellement été affectées.",
+        "title": "US food delivery service PurFoods discloses data breach",
+        "url": "https://therecord.media/purfoods-delivery-service-reports-data-breach"
+    },
+    {
         "date": "2023-08-28",
         "victim": "Kendrion",
         "country": "NLD",
