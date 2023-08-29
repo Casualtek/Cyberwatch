@@ -1,5 +1,13 @@
 [
     {
+        "date": "2023-08-28",
+        "victim": "Kendrion",
+        "country": "NLD",
+        "summary": "L'entreprise Kendrion a récemment été victime d'une cyberattaque, permettant à des tiers d'accéder à ses systèmes. Suite à la découverte de cette attaque, Kendrion a immédiatement éteint tous ses systèmes. Actuellement, l'entreprise est en train d'enquêter sur l'incident avec l'aide d'experts externes. Il n'est pas encore possible d'exclure que les pirates aient pu dérober des données. L'information a été rapportée par Kendrion le mardi 29 août 2023.",
+        "title": "Kendrion getroffen door cyberaanval",
+        "url": "https://www.beleggen.nl/nieuws/779930/Kendrion-getroffen-door-cyberaanval.aspx"
+    },
+    {
         "date": "2023-01-31",
         "victim": "Edmonds School District",
         "country": "USA",
