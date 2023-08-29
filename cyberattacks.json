@@ -1,5 +1,13 @@
 [
     {
+        "date": "2023-08-25",
+        "victim": "HTL Mödling",
+        "country": "AUT",
+        "summary": "Le directeur d'école Hannes Sauerzopf explique dans un entretien avec NÖN que rien ne fonctionnait, du téléphone à l'ordinateur. Tout était crypté, donc ils ont débranché immédiatement et fait appel à trois entreprises externes pour analyser la situation et restaurer l'infrastructure numérique d'ici dimanche soir. Le directeur pense que cette attaque était préparée depuis longtemps et a porté plainte. Heureusement, les examens de rattrapage et la rentrée ne seront pas affectés, et les données personnelles des élèves et des enseignants sont en sécurité. En 2016, il y avait déjà eu une alerte de cybersécurité à l'HTL-Mödling, mais il s'agissait d'un élève qui voulait signaler des failles de sécurité.",
+        "title": "HTL Mödling - Cyberangriff: „Das war von langer Hand vorbereitet“ - NÖN.at",
+        "url": "https://www.noen.at/moedling/htl-moedling-das-war-von-langer-hand-vorbereitet-383331170"
+    },
+    {
         "date": "2023-08-27",
         "victim": "University of Michigan",
         "country": "USA",
