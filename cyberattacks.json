@@ -1,6 +1,14 @@
 [
     {
         "date": "2023-08-27",
+        "victim": "University of Michigan",
+        "country": "USA",
+        "summary": "L'Université du Michigan a dû mettre hors ligne tous ses systèmes et services suite à un incident de cybersécurité, perturbant l'accès à des services en ligne essentiels la veille de la rentrée des classes. L'université, qui compte plus de 30 000 employés et environ 51 000 étudiants, a décidé de déconnecter son réseau d'Internet en raison de la gravité de l'incident. Des services tels que Zoom, Adobe Cloud, Dropbox, Slack, Google et Canvas ont été restaurés mais restent instables en raison de la surcharge. L'incident a eu lieu à la veille de la nouvelle année académique, ce qui a conduit l'administration à renoncer aux frais de retard d'inscription pour août.",
+        "title": "University of Michigan shuts down network after cyberattack",
+        "url": "https://www.bleepingcomputer.com/news/security/university-of-michigan-shuts-down-network-after-cyberattack/"
+    },
+    {
+        "date": "2023-08-27",
         "victim": "Hospital Sisters Health System (HSHS) et Prevea Health",
         "country": "USA",
         "summary": "L'Hospital Sisters Health System (HSHS) et Prevea Health ont été victimes d'une cyberattaque, entraînant une panne de leurs systèmes depuis deux jours. Les employés n'ont pas reçu beaucoup d'informations, mais l'hôpital a assuré que les informations personnelles n'avaient pas été compromises. Les sites web, l'internet, les téléphones et les applications informatiques de HSHS et Prevea Health sont inaccessibles depuis dimanche après-midi. HSHS, qui détient 50% de Prevea, est un système de santé à but non lucratif basé à Springfield, Illinois, qui possède un certain nombre d'hôpitaux.",
