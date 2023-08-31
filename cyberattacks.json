@@ -1,5 +1,13 @@
 [
     {
+        "date": "2023-04-11",
+        "victim": "Cornwall Community Hospital (CCH)",
+        "country": "CAN",
+        "summary": "L'hôpital communautaire de Cornwall (CCH) a subi une cyberattaque le 11 avril 2023, entraînant la corruption de nombreux dossiers de patients. Bien que le système de dossiers de santé électroniques n'ait pas été touché, des informations personnelles et médicales de patients pourraient avoir été compromises. Les patients concernés sont ceux qui ont été traités entre 1950 et avril 2023, avec des degrés de corruption de données variables en fonction de la période de traitement. Aucune utilisation malveillante des données n'a été détectée à ce jour. En réponse à l'incident, le CCH a pris des mesures pour contenir l'incident, renforcer la sécurité, et a informé le Commissaire à l'information",
+        "title": "Cornwall Community Hospital - Notice to Patients of Cybersecurity Incident",
+        "url": "https://www.cornwallhospital.ca/en/personal-information-public-notice"
+    },
+    {
         "date": "2023-08-27",
         "victim": "Northwave",
         "country": "ITA",
