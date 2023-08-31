@@ -1,5 +1,13 @@
 [
     {
+        "date": "2023-08-30",
+        "victim": "Stadtverwaltung Alzey",
+        "country": "DEU",
+        "summary": "La ville d'Alzey en Allemagne a subi une possible cyberattaque, limitant l'accès à ses services administratifs. Des irrégularités dans le système réseau ont été détectées, indiquant un accès non autorisé au réseau de sécurité de la ville avant le pare-feu du réseau administratif. En conséquence, toutes les connexions au réseau administratif ont été préventivement interrompues. Aucune fuite de données n'a été détectée pour le moment, mais des vérifications sont en cours. La ville est en contact étroit avec les autorités compétentes et des experts en sécurité, y compris l'agence de police criminelle de l'État.\n",
+        "title": "Stadtverwaltung ist derzeit nur eingeschränkt erreichbar | Stadt Alzey",
+        "url": "https://www.alzey.de/de/aktuelles/meldungen/2023/Rathaus-offline20230831.php"
+    },
+    {
         "date": "2023-04-11",
         "victim": "Cornwall Community Hospital (CCH)",
         "country": "CAN",
