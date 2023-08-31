@@ -1,5 +1,13 @@
 [
     {
+        "date": "2023-08-27",
+        "victim": "Northwave",
+        "country": "ITA",
+        "summary": "L'entreprise de chaussures Northwave a subi une cyberattaque paralysante, forçant l'arrêt de ses activités et l'envoi de ses employés à la maison. Les pirates informatiques ont demandé une rançon de 200 000 euros pour débloquer le réseau de l'entreprise. L'attaque a été réalisée via un ransomware, un virus capable de bloquer et de crypter toutes les données de l'entreprise. Northwave tente de récupérer ce qui peut l'être grâce à des serveurs de sauvegarde maintenus hors ligne. La remise en ligne du système pourrait prendre plusieurs jours, voire plus, en fonction de l'ampleur des dégâts causés par l'attaque.\n",
+        "title": "Le scarpe di Ganna sotto attacco hacker. Northwave paralizzata, lavoratori a casa - Tribuna di Treviso",
+        "url": "https://tribunatreviso.gelocal.it/regione/2023/08/31/news/ciclismo_ganna_northwave_hacker-13019483/"
+    },
+    {
         "date": "2023-08-25",
         "victim": "HTL Mödling",
         "country": "AUT",
