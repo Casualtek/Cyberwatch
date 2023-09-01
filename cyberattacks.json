@@ -1,5 +1,13 @@
 [
     {
+        "date": "2023-08-27",
+        "victim": "Chambersburg Area School District",
+        "country": "USA",
+        "summary": "Le district scolaire de Chambersburg a été victime d'une attaque par ransomware, ce qui a entraîné la fermeture des écoles pendant plusieurs jours. Les élèves et le personnel ont été invités à ne pas se connecter aux ordinateurs, mais le district n'a pas précisé s'ils avaient payé une rançon ou quelles informations auraient pu être compromises. Le district a confirmé que la perturbation de leur réseau était liée à une attaque par ransomware. Des spécialistes forensiques tiers travaillent actuellement à la fois sur l'enquête de l'incident et sur la restauration complète et sécurisée de l'environnement informatique. Le district continue d'enquêter pour déterminer la nature et l'étendue de l'événement, en collaboration",
+        "title": "Chambersburg Area School District hit by ransomware attack | ABC27",
+        "url": "https://www.abc27.com/local-news/chambersburg-area-school-district-hit-by-ransomware-attack/"
+    },
+    {
         "date": "2023-08-30",
         "victim": "Stadtverwaltung Alzey",
         "country": "DEU",
