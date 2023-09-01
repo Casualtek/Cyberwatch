@@ -1,5 +1,13 @@
 [
     {
+        "date": "2023-08-31",
+        "victim": "Debenham High School",
+        "country": "GBR",
+        "summary": "L'école secondaire Debenham a été victime d'une cyberattaque qui a affecté son système informatique, selon la BBC News. Le directeur, Simon Martin, a déclaré qu'il était difficile de donner un délai précis pour une restauration complète du système. Cependant, l'équipe de soutien a assuré que grâce aux mesures de sécurité en place, le processus de restauration devrait se dérouler plus rapidement. Le travail effectué par les étudiants pendant les vacances n'est actuellement pas accessible. L'incident a été signalé mais aucun autre détail n'a été fourni.\n",
+        "title": "Debenham High School IT system hit by cyber attack - BBC News",
+        "url": "https://www.bbc.com/news/uk-england-suffolk-66677856"
+    },
+    {
         "date": "2023-08-03",
         "victim": "Commission des services électriques de Montréal (CSEM)",
         "country": "CAN",
