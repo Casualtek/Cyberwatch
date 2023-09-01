@@ -1,5 +1,13 @@
 [
     {
+        "date": "2023-03-13",
+        "victim": "Orrick, Herrington & Sutcliffe LLP",
+        "country": "USA",
+        "summary": "Le cabinet d'avocats basé à San Francisco, Orrick, Herrington & Sutcliffe LLP, fait face à une action collective suite à une attaque de ransomware et une violation de données détectées le 13 mars 2023. Les informations compromises comprenaient des noms, des adresses, des dates de naissance et des numéros de sécurité sociale. Une plainte a été déposée le 11 août 2023, alléguant que le cabinet d'avocats n'a pas mis en place des mesures adéquates pour protéger ses systèmes informatiques et n'a pas détecté la violation en temps opportun. La plainte allègue également que les plaignants ont vu leur vie privée violée et ont été victimes de vol d'identité et de fraude.",
+        "title": "Orrick, Herrington & Sutcliffe Sued Over Ransomware Attack and Data Breach",
+        "url": "https://www.hipaajournal.com/orrick-herrington-sutcliffe-sued-over-ransomware-attack-breach/"
+    },
+    {
         "date": "2023-08-31",
         "victim": "Debenham High School",
         "country": "GBR",
