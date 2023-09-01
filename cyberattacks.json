@@ -1,5 +1,13 @@
 [
     {
+        "date": "2023-08-30",
+        "victim": "La municipalité de Wörrstadt",
+        "country": "DEU",
+        "summary": "L'article rapporte une cyberattaque qui a touché la municipalité de Wörrstadt en Allemagne, affectant plusieurs services dont le bureau des citoyens, le bureau d'état civil, le bureau des amendes et le département des ressources humaines. En conséquence, tous les rendez-vous ont été annulés jusqu'au lundi 4 septembre 2023. Depuis la découverte de l'incident, l'équipe informatique est en étroite collaboration avec les autorités compétentes, les experts en informatique légale et les experts de la Central Cybercrime Contact Point (ZAC) de l'Office de police criminelle. La municipalité a toutefois rassuré que jusqu'à présent, il n'y a aucune preuve que les données administratives aient été divulguées",
+        "title": "Cyber-Angriff nun auch auf VG Wörrstadt | Allgemeine Zeitung",
+        "url": "https://www.allgemeine-zeitung.de/lokales/kreis-alzey-worms/verbandsgemeinde-woerrstadt/vg-woerrstadt/cyber-angriff-nun-auch-auf-vg-woerrstadt-2817253"
+    },
+    {
         "date": "2023-08-31",
         "victim": "Highgate Wood School",
         "country": "GBR",
