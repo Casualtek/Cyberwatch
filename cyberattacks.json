@@ -1,5 +1,13 @@
 [
     {
+        "date": "2023-08-03",
+        "victim": "Commission des services électriques de Montréal (CSEM)",
+        "country": "CAN",
+        "summary": "La Commission des services électriques de Montréal (CSEM) a été la dernière victime en date de l'attaque du groupe de ransomware LockBit. L'organisation a confirmé l'incident, survenu le 3 août, mais a refusé de payer la rançon et a fait appel aux autorités nationales et à la police du Québec. Malgré la menace de LockBit de divulguer les données volées, la CSEM a minimisé le risque pour la sécurité publique et ses opérations. Des experts en cybersécurité remettent en question la force opérationnelle du groupe de cybercriminalité après la disparition de ses dirigeants au début du mois d'août. En outre, la fuite rapportée de l'outil de construction du ransomware LockBit 3",
+        "title": "Montreal electricity organization latest victim in LockBit ransomware spree",
+        "url": "https://therecord.media/montreal-electricity-organization-lockbit-victim"
+    },
+    {
         "date": "2023-08-31",
         "victim": "LogicMonitor",
         "country": "USA",
