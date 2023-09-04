@@ -1,5 +1,13 @@
 [
     {
+        "date": "2023-08-31",
+        "victim": "La Ville de Betton",
+        "country": "FRA",
+        "summary": "La Ville de Betton a été victime d'une cyberattaque par rançongiciel dans la nuit du 30 au 31 août 2023, ciblant ses serveurs municipaux. Des mesures ont été prises pour contenir l'incident, une plainte a été déposée et l'ANSSI a été contactée. Les sauvegardes informatiques ont permis de préserver les données essentielles et de limiter les perturbations. Certains services municipaux, comme la carte d'identité et la médiathèque, sont déjà opérationnels, tandis que d'autres, comme l'espace citoyens et la réservation de salles, devraient revenir à la normale prochainement. Les services ne sont pas joignables par mail, mais les accue",
+        "title": "La Ville victime d'une cyberattaque - Actualités - betton.fr",
+        "url": "https://www.betton.fr/accueil/actualites/1467-7900/la-ville-victime-dune-cyberattaque"
+    },
+    {
         "date": "2023-08-30",
         "victim": "La municipalité de Wörrstadt",
         "country": "DEU",
