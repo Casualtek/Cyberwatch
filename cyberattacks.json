@@ -1,6 +1,14 @@
 [
     {
         "date": "2023-08-31",
+        "victim": "Carlisle Area School District",
+        "country": "USA",
+        "summary": "Le district scolaire de Carlisle, en Pennsylvanie, a fermé son système Internet suite à une \"possible incident de sécurité\" découvert jeudi après-midi. Les élèves ont dû passer une journée entière sans Internet, incapables d'utiliser les ordinateurs portables ou les iPads de l'école. Les parents et les visiteurs ont également vu leur accès à l'école limité. C'est la deuxième fois cette semaine qu'un district scolaire de la région centrale de la Pennsylvanie est confronté à des problèmes de cybersécurité, après une attaque de ransomware contre le district scolaire de Chambersburg. Scott Davis, de l'Association de cybersécurité de Pennsylvanie, a conseillé aux districts scolaires et aux parents de",
+        "title": "Parents and cybersecurity experts weigh in as Carlisle School District investigates possible cyber attack | fox43.com",
+        "url": "https://www.fox43.com/article/news/local/possible-cyber-attack-hack-carlisle-school-district/521-d2791eb4-2aa1-4eb3-ad3f-19dd62264374"
+    },
+    {
+        "date": "2023-08-31",
         "victim": "Carthage Area Hospital et Claxton Hepburn Medical Center",
         "country": "USA",
         "summary": "Deux hôpitaux du nord du pays, l'hôpital de Carthage et le centre médical Claxton Hepburn à Ogdensburg, ont été ciblés par une cyberattaque, mais il semble qu'aucune information patient n'ait été compromise. L'incident a été découvert jeudi vers 18h et par précaution, les urgences de ces hôpitaux ont été déviées vers d'autres établissements. Le PDG des deux hôpitaux, Richard Duvall, a déclaré qu'aucune demande de rançon n'a été faite et que l'hôpital de Carthage connaît des problèmes intermittents avec son service téléphonique en raison de l'attaque. Le FBI, le département de la santé de",
