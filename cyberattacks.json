@@ -1,6 +1,14 @@
 [
     {
         "date": "2023-09-01",
+        "victim": "Secrétariat de l'environnement et des ressources naturelles (Semarnat)",
+        "country": "MEX",
+        "summary": "La Direction générale de l'informatique et des télécommunications de la Secrétariat de l'environnement et des ressources naturelles (Semarnat) au Mexique est actuellement victime d'une cyberattaque affectant tous ses systèmes. L'attaque, qui a commencé vendredi, a été lancée par un ransomware appelé Azov, l'un des logiciels malveillants les plus agressifs et rapides. Une fois installé, Azov se propage rapidement à travers le réseau, crypte les documents et les détruit sans possibilité de récupération. L'expert en cybersécurité, Víctor Ruíz, a suggéré que le groupe de hackers APT Agrius, aligné sur les intérêts de l'Iran, pourrait être der",
+        "title": "Enfrenta Semarnat hackeo en todos sus sistemas",
+        "url": "https://www.excelsior.com.mx/nacional/semarnat-hackeo-sistemas-riesgo-informacion-todo-sector-ambiental/1606571"
+    },
+    {
+        "date": "2023-09-01",
         "victim": "Comitato Elettrotecnico Italiano (CEI)",
         "country": "ITA",
         "summary": "Le Comité Électrotechnique Italien (CEI) a récemment été victime d'une grave cyberattaque, compromettant certains de ses systèmes informatiques. L'attaque a provoqué une interruption significative des services du CEI, suscitant des inquiétudes quant à l'accès non autorisé aux données et au potentiel vol d'informations sensibles. L'organisation a immédiatement pris des mesures pour atténuer les dommages et restaurer la sécurité de ses systèmes. Bien que la nature exacte de l'attaque ne soit pas encore connue, il est supposé qu'il pourrait s'agir d'une attaque de ransomware. Cet incident souligne l'importance cruciale de la cybersécurité et la nécessité d'ado",
