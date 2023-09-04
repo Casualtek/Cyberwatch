@@ -1,5 +1,13 @@
 [
     {
+        "date": "2023-07-03",
+        "victim": "North Mississippi Health Services (NMHS)",
+        "country": "USA",
+        "summary": "Le 1er septembre 2023, North Mississippi Health Services (NMHS) a annoncé une faille de sécurité des données. Le 3 juillet 2023, une intrusion non autorisée a été détectée dans le compte de messagerie d'un employé suite à l'ouverture d'un email de phishing. Les informations potentiellement accessibles étaient limitées aux noms des patients, dates de naissance, noms des médecins principaux et diagnostics ou dispositions après une récente sortie de l'hôpital North Mississippi Medical Center-Tupelo. Aucune information financière, numéro de sécurité sociale ou dossier médical électronique n'a été consulté. Bien qu'aucune preuve d'utilisation abusive des informations n'ait été trouvée, NMHS encourage les patients à rester vigilants en surve",
+        "title": "Notice of Data Incident | North Mississippi Health Services",
+        "url": "https://www.nmhs.net/policies-notices/notice-of-data-incident/"
+    },
+    {
         "date": "2023-09-01",
         "victim": "Secrétariat de l'environnement et des ressources naturelles (Semarnat)",
         "country": "MEX",
