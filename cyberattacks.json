@@ -1,5 +1,13 @@
 [
     {
+        "date": "2023-08-24",
+        "victim": "Astrid-Lindgren-Schule",
+        "country": "DEU",
+        "summary": "L'école spécialisée Astrid-Lindgren-Schule à Lemgo a été victime d'une cyberattaque qui a toujours des conséquences. Les systèmes de téléphone et d'e-mail de l'école ne fonctionnent toujours pas. Des experts travaillent actuellement à restaurer les données qui ont été cryptées lors de l'attaque. Initialement, les responsables espéraient résoudre le problème à la fin de la semaine dernière ou au début de cette semaine. Un cheval de Troie a paralysé le système informatique de l'école le jeudi de la semaine dernière (24.08.2023).",
+        "title": "Hackerangriff auf Förderschule in Lemgo - Kommunikation noch lahmgelegt | Radio Lippe",
+        "url": "https://www.radiolippe.de/nachrichten/lippe/detailansicht/hackerangriff-auf-foerderschule-in-lemgo-kommunikation-noch-lahmgelegt.html"
+    },
+    {
         "date": "2023-08-30",
         "victim": "Medgate",
         "country": "CHE",
