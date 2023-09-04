@@ -1,5 +1,13 @@
 [
     {
+        "date": "2023-08-31",
+        "victim": "Caja Popular Mexicana (CPM)",
+        "country": "MEX",
+        "summary": "La Caja Popular Mexicana (CPM), une institution financière mexicaine, a été victime d'une cyberattaque de type ransomware, selon la Commission Nationale Bancaire et des Valeurs (CNBV). Cette attaque a entraîné des interruptions de service au sein de l'organisation. Le fait que plusieurs succursales aient dû fermer et que le temps de rétablissement des services ait été long indique que plusieurs systèmes de la CPM ont été affectés. Hiram Camarillo, expert en cybersécurité et directeur exécutif de Seekurity, une entreprise de conseil en sécurité informatique, a confirmé ces informations. La CNBV a révélé ces informations le vendredi dernier.\n",
+        "title": "México | Caja Popular Mexicana sufrió ataque cibernético; fue un secuestro de datos | DPL News",
+        "url": "https://dplnews.com/mexico-caja-popular-mexicana-sufrio-ataque-cibernetico-fue-un-secuestro-de-datos/"
+    },
+    {
         "date": "2023-08-06",
         "victim": "Zaun",
         "country": "GBR",
