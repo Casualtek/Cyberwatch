@@ -1,5 +1,13 @@
 [
     {
+        "date": "2023-08-30",
+        "victim": "Medgate",
+        "country": "CHE",
+        "summary": "Medgate, une entreprise de santé, a subi une cyberattaque sur une partie de son infrastructure informatique les 30 août et 4 septembre 2023, mais a réussi à repousser les attaques. Aucune donnée patient ou entreprise sensible n'a été volée et aucun système n'a été crypté. Les systèmes affectés ont été identifiés et isolés, et sont actuellement soumis à une analyse informatique approfondie. Suite à ces attaques, Medgate est temporairement limité dans sa disponibilité et parfois inaccessible. L'entreprise est en contact avec les autorités compétentes et s'excuse pour les inconvénients causés.\n",
+        "title": "Cyberangriff auf Teile der IT-Infrastruktur von Medgate",
+        "url": "https://www.finanznachrichten.de/nachrichten-2023-09/60020297-cyberangriff-auf-teile-der-it-infrastruktur-von-medgate-006.htm"
+    },
+    {
         "date": "2023-08-31",
         "victim": "Caja Popular Mexicana (CPM)",
         "country": "MEX",
