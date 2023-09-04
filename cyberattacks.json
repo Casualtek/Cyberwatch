@@ -1,6 +1,14 @@
 [
     {
         "date": "2023-08-31",
+        "victim": "Carthage Area Hospital et Claxton Hepburn Medical Center",
+        "country": "USA",
+        "summary": "Deux hôpitaux du nord du pays, l'hôpital de Carthage et le centre médical Claxton Hepburn à Ogdensburg, ont été ciblés par une cyberattaque, mais il semble qu'aucune information patient n'ait été compromise. L'incident a été découvert jeudi vers 18h et par précaution, les urgences de ces hôpitaux ont été déviées vers d'autres établissements. Le PDG des deux hôpitaux, Richard Duvall, a déclaré qu'aucune demande de rançon n'a été faite et que l'hôpital de Carthage connaît des problèmes intermittents avec son service téléphonique en raison de l'attaque. Le FBI, le département de la santé de",
+        "title": "Carthage, Claxton-Hepburn hospitals target of cyber attack",
+        "url": "https://www.wwnytv.com/2023/09/01/carthage-claxton-hepburn-hospitals-target-cyber-attack/"
+    },
+    {
+        "date": "2023-08-31",
         "victim": "La Ville de Betton",
         "country": "FRA",
         "summary": "La Ville de Betton a été victime d'une cyberattaque par rançongiciel dans la nuit du 30 au 31 août 2023, ciblant ses serveurs municipaux. Des mesures ont été prises pour contenir l'incident, une plainte a été déposée et l'ANSSI a été contactée. Les sauvegardes informatiques ont permis de préserver les données essentielles et de limiter les perturbations. Certains services municipaux, comme la carte d'identité et la médiathèque, sont déjà opérationnels, tandis que d'autres, comme l'espace citoyens et la réservation de salles, devraient revenir à la normale prochainement. Les services ne sont pas joignables par mail, mais les accue",
