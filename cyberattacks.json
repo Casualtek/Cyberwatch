@@ -1,5 +1,13 @@
 [
     {
+        "date": "2023-08-06",
+        "victim": "Zaun",
+        "country": "GBR",
+        "summary": "Des hackers liés à la Russie ont volé des informations hautement confidentielles lors d'une attaque contre l'entreprise britannique Zaun, spécialisée dans la sécurité périmétrique. Les données divulguées comprennent des détails sur des sites militaires et de renseignement sensibles au Royaume-Uni, tels que la base de sous-marins nucléaires HMNB Clyde et le laboratoire d'armes chimiques de Porton Down. La fuite inclut également des informations sur des équipements de sécurité à d'autres sites militaires, des dessins de clôtures périmétriques, et des données relatives à des prisons. Cette violation de la sécurité nationale soulève des inquiétudes quant à la vulnérabilité des systèmes informatiques et à la sécurité des sites sensibles.",
+        "title": "Russia linked hackers hit UK Ministry of Defence as security secrets leaked",
+        "url": "https://www.mirror.co.uk/news/uk-news/russia-linked-hackers-hit-uk-30850139"
+    },
+    {
         "date": "2023-07-03",
         "victim": "North Mississippi Health Services (NMHS)",
         "country": "USA",
