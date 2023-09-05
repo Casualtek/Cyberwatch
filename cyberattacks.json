@@ -1,5 +1,13 @@
 [
     {
+        "date": "2023-08-24",
+        "victim": "TissuPath Australia",
+        "Country": "AUS",
+        "summary": "La clinique TissuPath a envoyé une lettre de notification à tous les médecins référents principaux concernant l'incident et est en train de contacter toutes les personnes affectées. Le Centre de cybersécurité australien (Australian Cyber Security Centre - ACSC) de l'Australian Signals Directorate est en contact avec TissuPath, et la clinique a également informé le Bureau du Commissaire à l'information australien. L'ACSC continue de surveiller la situation et de fournir des conseils techniques et une assistance aux organisations si nécessaire. L'incident a été découvert le 24 août et a été causé par une attaque contre un fournisseur tiers, qui a conduit à l'accès à un lecteur de stockage.",
+        "title": "TissuPath hack: patient data possibly exposed in cyber-attack on Melbourne pathology clinic",
+        "url": "https://www.theguardian.com/technology/2023/sep/05/tissupath-hack-patient-data-breach-cyber-attack-melbourne-pathology-clinic"
+    },
+    {
         "date": "2023-08-31",
         "victim": "Chambre de Commerce et d'Industrie Nice Côte d'Azur",
         "country": "FRA",
