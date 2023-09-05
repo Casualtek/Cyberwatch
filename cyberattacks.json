@@ -1,5 +1,13 @@
 [
     {
+        "date": "2023-08-30",
+        "victim": "McLaren Health",
+        "country": "USA",
+        "summary": "McLaren Health Care a fermé le réseau informatique de ses 14 hôpitaux du Michigan la semaine dernière par précaution, après avoir découvert une activité suspecte lors de la surveillance de routine de son équipe de sécurité informatique. L'incident a affecté au moins les systèmes de facturation et les dossiers médicaux électroniques de l'organisation, obligeant parfois les employés à utiliser leurs téléphones portables personnels pour communiquer. McLaren n'a pas confirmé les systèmes spécifiquement touchés, si les informations de santé protégées des patients ont été compromises ou quand la menace a été identifiée.",
+        "title": "Increasingly common, health care cyberattacks now even target patients with ransom",
+        "url": "https://eu.freep.com/story/news/health/2023/09/05/healthcare-cyberattacks-disclosure-ransomware-patients-targeted/70737084007/"        
+    },
+    {
         "date": "2023-09-04",
         "victim": "Maiden Erlegh Trust",
         "country": "GBR",
