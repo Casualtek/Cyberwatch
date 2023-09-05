@@ -1,6 +1,14 @@
 [
     {
         "date": "2023-08-31",
+        "victim": "Chambre de Commerce et d'Industrie Nice Côte d'Azur",
+        "country": "FRA",
+        "summary": "La Chambre de Commerce et d'Industrie Nice Côte d'Azur a été victime d'une cyberattaque ciblant son réseau informatique dans la nuit du 30 au 31 août. Pour protéger les données et limiter la propagation du virus, le système informatique a été entièrement coupé et une plainte a été déposée le 1er septembre. La CNIL et l'ANSSI ont été informées de l'incident, tout comme le Centre de Lutte contre les Criminalités Numériques et la section cybercriminalité du parquet de Paris. L'attaque a été revendiquée sur la vitrine de LockBit 3.0.",
+        "title": "La CCI cyber-attaquée | Tribuca",
+        "url": "https://tribuca.net/actualites_120117556-la-cci-cyber-attaquee"
+    },
+    {
+        "date": "2023-08-31",
         "victim": "La Grande Municipalité d'Amman (GAM)",
         "country": "JOR",
         "summary": "La Grande Municipalité d'Amman (GAM) a expliqué que la coupure d'Internet jeudi était due à une cyberattaque. Cette situation a été gérée en coordination avec le Centre National de Cybersécurité (NCSC). Ce n'est pas la première fois que le bâtiment principal est confronté à une telle coupure d'Internet. La municipalité a confirmé que les services électroniques n'ont pas été interrompus et sont toujours disponibles pour les citoyens. La GAM a donc réussi à gérer cette cyberattaque sans perturber les services en ligne pour les citoyens.",
