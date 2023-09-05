@@ -1,5 +1,13 @@
 [
     {
+        "date": "2023-09-04",
+        "victim": "Maiden Erlegh Trust",
+        "country": "GBR",
+        "summary": "L'école Maiden Erlegh Trust à Earley a été victime d'une cyberattaque sophistiquée, rendant le personnel incapable d'accéder aux ressources pédagogiques et à la technologie. En conséquence, l'école a décidé de terminer plus tôt pour permettre aux enseignants de planifier efficacement les leçons. Le système informatique de l'école a été infiltré par une tierce partie non autorisée utilisant un rançongiciel, ce qui a temporairement bloqué l'accès au réseau. Depuis l'attaque, des mesures ont été prises pour contenir et éliminer le logiciel malveillant et restaurer les systèmes. Une analyse médico-légale du réseau est en cours par des spécialistes en cybersé",
+        "title": "Cyber attack hits Wokingham's Maiden Erlegh School | Reading Chronicle",
+        "url": "https://www.readingchronicle.co.uk/news/23767980.cyber-attack-hits-readings-maiden-erlegh-school/"
+    },
+    {
         "date": "2023-08-24",
         "victim": "TissuPath Australia",
         "Country": "AUS",
