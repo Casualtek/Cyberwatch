@@ -1,5 +1,13 @@
 [
     {
+        "date": "2023-08-30",
+        "victim": "Le district scolaire du comté de Hillsborough",
+        "country": "USA",
+        "summary": "Le district scolaire du comté de Hillsborough en Floride a été victime d'une cyberattaque qui a affecté certains de ses systèmes pendant plusieurs jours. Un courrier électronique initial sur l'attaque a été envoyé aux parents et au personnel la semaine dernière. Selon le surintendant intérimaire Van Ayres, il ne semble pas que les données des élèves aient été consultées. Ron Sanders, ancien directeur du personnel du Centre de cybersécurité de Floride, a déclaré que les entités publiques comme les écoles du comté de Hillsborough sont souvent des cibles privilégiées pour les pirates. Le FBI, le FDLE et le bureau du shérif de Hillsborough participent tous à l'enquête sur la manière dont l'intrusion",
+        "title": "Investigation underway into cybersecurity breach at Hillsborough County schools",
+        "url": "https://www.fox13news.com/news/hillsborough-county-school-district-cyber-security-breach-hackers"
+    },
+    {
         "date": "2023-08-27",
         "victim": "Coffee Meets Bagel",
         "country": "L'article ne mentionne pas le pays concerné.",
