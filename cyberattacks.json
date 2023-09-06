@@ -1,11 +1,19 @@
 [
     {
+        "date": "2023-08-27",
+        "victim": "Coffee Meets Bagel",
+        "country": "L'article ne mentionne pas le pays concerné.",
+        "summary": "La plateforme de rencontres Coffee Meets Bagel (CMB) a confirmé que la panne mondiale de la semaine dernière était due à une cyberattaque. Les pirates ont réussi à pénétrer les systèmes de l'entreprise et à supprimer des données, ce qui a entraîné l'arrêt des serveurs de production. CMB n'a pas encore confirmé si l'attaque était un ransomware qui a crypté les données, les rendant inutilisables, ou si les pirates ont délibérément supprimé des données pour interrompre le service. Le service est de nouveau en ligne depuis le 3 septembre, et l'entreprise a prolongé les chats de sept jours et les abonnements de 14 jours. Ce n'est pas la première fois que CMB est victime d'une cyberattaque",
+        "title": "Coffee Meets Bagel says recent outage caused by destructive cyberattack",
+        "url": "https://www.bleepingcomputer.com/news/security/coffee-meets-bagel-says-recent-outage-caused-by-destructive-cyberattack/"
+    },
+    {
         "date": "2023-08-30",
         "victim": "McLaren Health",
         "country": "USA",
         "summary": "McLaren Health Care a fermé le réseau informatique de ses 14 hôpitaux du Michigan la semaine dernière par précaution, après avoir découvert une activité suspecte lors de la surveillance de routine de son équipe de sécurité informatique. L'incident a affecté au moins les systèmes de facturation et les dossiers médicaux électroniques de l'organisation, obligeant parfois les employés à utiliser leurs téléphones portables personnels pour communiquer. McLaren n'a pas confirmé les systèmes spécifiquement touchés, si les informations de santé protégées des patients ont été compromises ou quand la menace a été identifiée.",
         "title": "Increasingly common, health care cyberattacks now even target patients with ransom",
-        "url": "https://eu.freep.com/story/news/health/2023/09/05/healthcare-cyberattacks-disclosure-ransomware-patients-targeted/70737084007/"        
+        "url": "https://eu.freep.com/story/news/health/2023/09/05/healthcare-cyberattacks-disclosure-ransomware-patients-targeted/70737084007/"
     },
     {
         "date": "2023-09-04",
