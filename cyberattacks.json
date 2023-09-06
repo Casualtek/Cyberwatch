@@ -1,5 +1,13 @@
 [
     {
+        "date": "2023-08-08",
+        "victim": "Acadia Health, LLC d/b/a Just Kids Dental (JKD)",
+        "country": "USA",
+        "sumary": "Le 2 août 2023, les systèmes informatiques et le réseau d'Acadia Health, LLC, connu sous le nom de "Just Kids Dental" (JKD), ont été attaqués par un acteur malveillant. Un programme a été utilisé pour chiffrer les réseaux informatiques et les données de JKD, y compris les systèmes de stockage de certains dossiers de patients et d'employés. Cette attaque a été découverte le 8 août 2023.",
+        "title": "Data Breach Notification",
+        "url": "https://apps.web.maine.gov/online/aeviewer/ME/40/3b1d6421-e4c2-456f-b46e-e9689b9aa953.shtml"
+    }
+    {
         "date": "2023-09-05",
         "victim": "Mairie de Séville",
         "country": "ESP",
