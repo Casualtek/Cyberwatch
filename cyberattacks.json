@@ -1,5 +1,13 @@
 [
     {
+        "date": "2023-09-07",
+        "victim": "Le groupe hospitalier Saint-Vincent à Strasbourg",
+        "country": "FRA",
+        "summary": "Le groupe hospitalier Saint-Vincent à Strasbourg a été victime d'une cyberattaque, entraînant l'arrêt de son système informatique. L'attaque a eu lieu dans la nuit du mercredi au jeudi 7 septembre et a été menée par des hackers. Malgré l'attaque, les cliniques ont pu maintenir leur activité, bien que les employés n'aient pas encore accès aux outils informatiques. Une enquête est en cours pour déterminer l'origine de l'intrusion et si des données ont été dérobées. Les hôpitaux sont des cibles privilégiées pour les hackers qui cherchent à dérober des données médicales.\n",
+        "title": "Un groupe hospitalier touché par une cyberattaque à Strasbourg, le réseau informatique mis à l'arrêt - Numerama",
+        "url": "https://www.numerama.com/cyberguerre/1495294-un-groupe-hospitalier-touche-par-une-cyberattaque-a-strasbourg-le-reseau-informatique-mis-a-larret.html"
+    },
+    {
         "date": "2023-09-04",
         "victim": "Abdelmalek Essaadi University",
         "country": "MAR",
