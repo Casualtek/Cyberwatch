@@ -1,5 +1,13 @@
 [
     {
+        "date": "2023-03-12",
+        "victim": "Amerita",
+        "country": "USA",
+        "summary": "Amerita, une filiale de PharMerica, a confirmé une violation de données ayant exposé les informations de santé de dizaines de milliers de patients. L'entreprise a découvert qu'une partie non autorisée avait accédé à son réseau informatique et potentiellement acquis des données sensibles. L'incident a été détecté le 14 mars 2023 et a conduit à une enquête avec l'aide de spécialistes en cybersécurité. Les informations compromises pourraient inclure le nom, l'adresse, l'historique médical, les diagnostics, les médicaments et les informations d'assurance santé des patients. Suite à cette violation, Amerita a envoyé des lettres de notification de violation de données à toutes les personnes concernées.\n",
+        "title": "PharMerica Company Amerita Confirms Data Breach Leaked Tens of Thousands of Patients’ Health Information | Console and Associates, P.C. - JDSupra",
+        "url": "https://www.jdsupra.com/legalnews/pharmerica-company-amerita-confirms-3631755/"
+    },
+    {
         "date": "2023-09-06",
         "victim": "L'académie St Augustine à Maidstone",
         "country": "GBR",
