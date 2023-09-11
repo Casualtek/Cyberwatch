@@ -1,5 +1,13 @@
 [
     {
+        "date": "2023-08-26",
+        "victim": "Le domaine de messagerie gouvernemental \"gov.lk\" du Sri Lanka",
+        "country": "LKA",
+        "summary": "Une attaque massive de ransomware a touché le domaine de messagerie gouvernemental \"gov.lk\" du Sri Lanka, entraînant la perte de données du 17 mai au 26 août 2023. L'agence de technologie de l'information et de la communication (ICTA) a confirmé que le virus aurait pu affecter environ 5 000 adresses e-mail, sans sauvegarde hors ligne pour environ deux mois et demi de données. Suite à l'attaque, l'ICTA prend des mesures pour commencer une sauvegarde hors ligne quotidienne et mettre à jour l'application concernée vers la dernière version qui a des défenses plus fortes contre les attaques de virus. L'équipe d'intervention d'urgence informatique du Sri Lanka (SLCERT) travail",
+        "title": "Massive ransomware attack on state email domain | Print Edition - The Sunday Times, Sri Lanka",
+        "url": "https://www.sundaytimes.lk/230910/news/massive-ransomware-attack-on-state-email-domain-532126.html"
+    },
+    {
         "date": "2023-09-06",
         "victim": "Comté de Hinds",
         "country": "USA",
