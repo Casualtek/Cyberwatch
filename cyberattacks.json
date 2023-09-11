@@ -1,5 +1,13 @@
 [
     {
+        "date": "2023-09-06",
+        "victim": "Comté de Hinds",
+        "country": "USA",
+        "summary": "Le système informatique du comté de Hinds, aux États-Unis, a subi une cyberattaque par ransomware, entraînant la fermeture de plusieurs bureaux, dont celui du collecteur d'impôts. Le jury a également été annulé pour la semaine. Les équipes techniques travaillent à développer et mettre en œuvre un réseau alternatif. Les responsables du comté ont reçu un numéro de téléphone pour connaître le montant de la rançon et ont contacté les autorités fédérales pour enquête. Bien que des pare-feu aient été installés après une attaque similaire il y a quelques années, le système pourrait ne pas être rétabli avant la semaine prochaine, voire plus tard.\n",
+        "title": "Hinds County computer system remains under ransomware attack",
+        "url": "https://www.wapt.com/article/hinds-county-computer-system-remains-under-ransomware-attack/45053213"
+    },
+    {
         "date": "2023-03-12",
         "victim": "Amerita",
         "country": "USA",
