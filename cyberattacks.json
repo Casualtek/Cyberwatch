@@ -1,5 +1,13 @@
 [
     {
+        "date": "2023-09-05",
+        "victim": "Decatur Independent School District (DISD)",
+        "country": "USA",
+        "summary": "Le district scolaire indépendant de Decatur (DISD) a été touché par une cyberattaque présumée qui a perturbé son service internet et téléphonique. Le serveur principal du DISD est tombé en panne et une enquête a été lancée pour déterminer la cause de l'incident. Robyn Jones, directeur de la communication du DISD, a déclaré qu'aucune preuve n'a été trouvée indiquant que des données ont été consultées, acquises ou mal utilisées. Le district n'a reçu aucune demande liée à l'incident. Le système téléphonique du district a été rétabli et le DISD travaille à restaurer son réseau désactivé ou à mettre en place une solution alternative.\n",
+        "title": "Decatur ISD hit by suspected cybersecurity attack - Wise County Messenger",
+        "url": "https://www.wcmessenger.com/articles/decatur-isd-hit-by-suspected-cybersecurity-attack/"
+    },
+    {
         "date": "2023-08-26",
         "victim": "Le domaine de messagerie gouvernemental \"gov.lk\" du Sri Lanka",
         "country": "LKA",
