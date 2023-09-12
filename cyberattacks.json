@@ -1,5 +1,13 @@
 [
     {
+        "date": "2023-09-11",
+        "victim": "Partenaire de moBiel",
+        "country": "DEU",
+        "summary": "L'entreprise de transport moBiel, basée à Bielefeld en Allemagne, a été contrainte de prendre des mesures de sécurité suite à une cyberattaque sur un de ses partenaires de coopération. En conséquence, les informations de l'horaire de transport en temps réel ne peuvent plus être mises à jour sur leur application, leur site web, leurs distributeurs de billets et la plupart de leurs affichages aux arrêts de bus. Seules les heures prévues sont désormais affichées. Cependant, les anciens panneaux d'affichage, comme ceux du tunnel Jahnplatz ou de l'arrêt de bus Rathaus, affichent toujours les données en temps réel.",
+        "title": "Echtzeit-Anzeigen nicht möglich - Stadtwerke Bielefeld",
+        "url": "https://www.stadtwerke-bielefeld.de/presse/detail/echtzeit-anzeigen-nicht-moeglich/"
+    },
+    {
         "date": "2023-07-13",
         "victim": "Académie de Médecine de Singapour",
         "country": "SGP",
