@@ -1,5 +1,13 @@
 [
     {
+        "date": "2023-09-05",
+        "victim": "Thermae 2000",
+        "country": "NLD",
+        "summary": "L'entreprise Thermae 2000 a été victime d'une cyberattaque. Les pirates ont utilisé un ransomware qui a verrouillé les données de l'entreprise. Les fichiers cryptés ne seront libérés qu'après le paiement d'une rançon. Cependant, Thermae 2000 a déclaré ne pas avoir payé de rançon. Selon le porte-parole de l'entreprise, payer une rançon dans de telles circonstances n'est pas judicieux.",
+        "title": "Cyberaanval op Thermae 2000: klanten gewaarschuwd - 1Limburg",
+        "url": "https://www.1limburg.nl/nieuws/2284404/cyberaanval-op-thermae-2000-klanten-gewaarschuwd"
+    },
+    {
         "date": "2023-09-11",
         "victim": "Partenaire de moBiel",
         "country": "DEU",
