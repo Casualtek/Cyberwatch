@@ -1,5 +1,13 @@
 [
     {
+        "date": "2023-07-13",
+        "victim": "Académie de Médecine de Singapour",
+        "country": "SGP",
+        "summary": "L'Académie de Médecine de Singapour a été victime d'une cyberattaque par rançongiciel en juillet, entraînant la fuite de données personnelles de certains membres. Les informations divulguées comprennent les noms, adresses, e-mails, numéros de téléphone, numéros d'identification ou de passeport, dates de naissance, ainsi que les informations de cartes de crédit et de comptes bancaires. L'Académie a immédiatement signalé l'incident à la police et à l'Agence de sécurité cybernétique de Singapour, et a pris des mesures pour renforcer sa sécurité informatique. Environ 50 médecins associés à l'Académie ont vu leurs informations personnelles publiées sur le",
+        "title": "新加坡专科医学院遭网络攻击 会员个资外泄 - 地方 - 狮城二三事",
+        "url": "https://johor.sinchew.com.my/news/20230912/johor/4978158"
+    },
+    {
         "date": "2023-09-11",
         "victim": "MGM Resorts",
         "country": "USA",
