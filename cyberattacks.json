@@ -1,5 +1,13 @@
 [
     {
+        "date": "2023-09-12",
+        "victim": "Un prestataire de Pelmorex Corp.",
+        "country": "CAN",
+        "summary": "Un incident de cybersécurité a perturbé les systèmes de données associés aux sites Web et applications mobiles de The Weather Network et MeteoMedia pendant plusieurs heures, privant des millions de Canadiens de leur source privilégiée de prévisions météorologiques. Les utilisateurs de l'application n'ont pas pu accéder aux prévisions locales mardi matin et dans l'après-midi, la société de médias, détenue par Pelmorex Corp., indiquant sur le site de médias sociaux X (anciennement connu sous le nom de Twitter) qu'elle avait été touchée par une cyberattaque associée à un fournisseur de services tiers.",
+        "title": "'Cybersecurity incident' disrupts Weather Network website, app services | Northern News",
+        "url": "https://www.northernnews.ca/news/national/the-weather-network-website-app-affected-by-systems-outage/wcm/898f2f32-287d-4be5-a3ca-36604b134dcd"
+    },
+    {
         "date": "2023-09-11",
         "victim": "Le système d'information judiciaire régional (REJIS) du comté de St. Louis",
         "country": "USA",
