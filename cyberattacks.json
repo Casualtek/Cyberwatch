@@ -1,6 +1,14 @@
 [
     {
         "date": "2023-09-12",
+        "victim": "Netglobalis (IFX Networks)",
+        "country": "CHL",
+        "summary": "IFX Networks (aussi connu sous le nom de Netglobalis au Chili) fait face à une attaque de ransomware qui a touché plusieurs sites clients au Chili, dont MercadoPublico et Chilecompra, ainsi que des sites gouvernementaux colombiens.",
+        "title": "IFX Networks (also Netglobalis in Chile) is responding to an attack by Ransomware",
+        "url": "https://twitter.com/1ZRR4H/status/1701735162378145867"
+    },
+    {
+        "date": "2023-09-12",
         "victim": "Un prestataire de Pelmorex Corp.",
         "country": "CAN",
         "summary": "Un incident de cybersécurité a perturbé les systèmes de données associés aux sites Web et applications mobiles de The Weather Network et MeteoMedia pendant plusieurs heures, privant des millions de Canadiens de leur source privilégiée de prévisions météorologiques. Les utilisateurs de l'application n'ont pas pu accéder aux prévisions locales mardi matin et dans l'après-midi, la société de médias, détenue par Pelmorex Corp., indiquant sur le site de médias sociaux X (anciennement connu sous le nom de Twitter) qu'elle avait été touchée par une cyberattaque associée à un fournisseur de services tiers.",
