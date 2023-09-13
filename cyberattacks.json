@@ -1,5 +1,13 @@
 [
     {
+        "date": "2023-09-11",
+        "victim": "Le système d'information judiciaire régional (REJIS) du comté de St. Louis",
+        "country": "USA",
+        "summary": "Une cyberattaque contre le système d'information judiciaire régional (REJIS) a contraint le comté de St. Louis à fermer certains serveurs informatiques, affectant la police, la prison et les tribunaux. Le directeur du comté, Sam Page, a déclaré que cette attaque est le résultat d'un manque d'investissement substantiel dans la technologie de l'information. Les agences touchées utilisent des copies papier pour mener leurs activités jusqu'à ce que le problème soit résolu. Le système d'urgence 9-1-1 du comté de Saint Louis n'est pas affecté. La patrouille routière du Missouri et le département de la sécurité publique enquêtent sur l'attaque et une entreprise de cybersécurité",
+        "title": "Cyber attack reported in St. Louis County law enforcement",
+        "url": "https://www.audacy.com/kmox/news/local/cyber-attack-reported-in-st-louis-county-law-enforcement"
+    },
+    {
         "date": "2023-09-05",
         "victim": "Thermae 2000",
         "country": "NLD",
