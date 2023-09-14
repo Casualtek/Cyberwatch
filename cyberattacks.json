@@ -1,5 +1,13 @@
 [
     {
+        "date": "2023-09-14",
+        "victim": "Auckland Transport",
+        "country": "NZL",
+        "summary": "Le système de carte Hop d'Auckland Transport a été touché par une cyberattaque présumée de ransomware. Les services affectés comprennent les recharges en ligne et d'autres services de carte Hop, qui sont actuellement indisponibles. Les transactions par carte de crédit/Eftpos sont également indisponibles et les machines peuvent ne pas fonctionner. Auckland Transport a déclaré qu'il pourrait falloir jusqu'à la semaine prochaine pour rétablir complètement les services. Brett Callow, analyste des menaces chez Emsisoft, a déclaré qu'il n'y avait pas d'indications immédiates sur le gang de ransomware à l'origine de l'attaque.\n",
+        "title": "Public transport: Major cyber issue hits Auckland Transport’s Hop card system, indications are it’s a ransomware attack - NZ Herald",
+        "url": "https://www.nzherald.co.nz/nz/major-cyber-hit-auckland-transports-hop-system/LCM3HEKTRRDI5OT7LXBKQJSBRA/"
+    },
+    {
         "date": "2023-09-12",
         "victim": "Netglobalis (IFX Networks)",
         "country": "CHL",
