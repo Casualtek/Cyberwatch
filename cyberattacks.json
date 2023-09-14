@@ -1,5 +1,13 @@
 [
     {
+        "date": "2023-09-11",
+        "victim": "Zetema Progetto Cultura",
+        "country": "ITA",
+        "summary": "Les sites web culturels de Rome, gérés par Zetema Progetto Cultura, sont victimes d'une cyberattaque depuis quatre jours. Les pirates informatiques demandent une rançon de trois à quatre bitcoins, soit entre 75 000 et 90 000 euros, pour débloquer les sites. L'attaque a été identifiée comme un ransomware, un type de logiciel malveillant qui chiffre les données et exige une rançon pour leur déchiffrement. Les pirates ont menacé de supprimer le contenu des archives si le paiement n'était pas effectué avant une date non précisée. Les enquêteurs de la police postale travaillent sans relâche pour minimiser les dégâts et identifier les auteurs de l'attaque.\n",
+        "title": "Ancora sotto attacco i siti web culturali di Roma Capitale: i pirati informatici chiedono 90 mila euro",
+        "url": "https://www.agenzianova.com/news/dopo-quattro-giorni-ancora-sotto-attacco-i-siti-web-culturali-di-roma-capitale-i-pirati-chiedono-90-mila-euro/"
+    },
+    {
         "date": "2023-09-14",
         "victim": "Auckland Transport",
         "country": "NZL",
@@ -9,8 +17,8 @@
     },
     {
         "date": "2023-09-12",
-        "victim": "Netglobalis (IFX Networks)",
-        "country": "CHL",
+        "victim": "IFX Networks",
+        "country": "COL",
         "summary": "IFX Networks (aussi connu sous le nom de Netglobalis au Chili) fait face à une attaque de ransomware qui a touché plusieurs sites clients au Chili, dont MercadoPublico et Chilecompra, ainsi que des sites gouvernementaux colombiens.",
         "title": "IFX Networks (also Netglobalis in Chile) is responding to an attack by Ransomware",
         "url": "https://twitter.com/1ZRR4H/status/1701735162378145867"
