@@ -1,5 +1,13 @@
 [
     {
+        "date": "2023-08-21",
+        "victim": "Digital ID",
+        "country": "GBR",
+        "summary": "La société Digital ID, spécialisée dans la création de cartes de mandat pour la police métropolitaine (Met) de Londres, a été la cible d'une cyberattaque, vraisemblablement menée depuis l'étranger. Les pirates ont envoyé une demande de rançon au directeur de l'entreprise depuis un serveur étranger. Ils ont réussi à voler des informations détaillées sur les 47 000 policiers et employés civils de la Met, y compris des photos, des noms, des grades, des statuts de vérification, des numéros de paie et des détails de sécurité à partir d'une puce sur les cartes d'identité. L'incident a suscité des critiques, certains se demandant pourquoi une tâche aussi",
+        "title": "Hackers who targeted company which makes warrant cards for Met Police thought to be overseas | The Sun",
+        "url": "https://www.thesun.co.uk/news/23684212/hackers-warrant-cards-met-police-overseas/"
+    },
+    {
         "date": "2023-08-27",
         "victim": "Caesars Entertainment Inc.",
         "country": "USA",
