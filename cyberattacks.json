@@ -1,5 +1,13 @@
 [
     {
+        "date": "2023-08-27",
+        "victim": "Caesars Entertainment Inc.",
+        "country": "USA",
+        "summary": "Caesars Entertainment Inc. a versé des dizaines de millions de dollars à des pirates informatiques qui ont réussi à pénétrer dans les systèmes de l'entreprise et ont menacé de divulguer ses données. L'attaque est l'œuvre du groupe connu sous le nom de Scattered Spider ou UNC 3944, spécialisé dans l'ingénierie sociale pour accéder aux grands réseaux d'entreprise. Les pirates ont d'abord violé un fournisseur externe de TI avant d'accéder au réseau de l'entreprise.",
+        "title": "Caesars Entertainment Paid Millions in Ransom in Recent Attack - BNN Bloomberg",
+        "url": "https://www.bnnbloomberg.ca/caesars-entertainment-paid-millions-in-ransom-in-recent-attack-1.1971023"
+    },
+    {
         "date": "2023-09-11",
         "victim": "Zetema Progetto Cultura",
         "country": "ITA",
