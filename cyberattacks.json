@@ -1,5 +1,13 @@
 [
     {
+        "date": "2023-09-06",
+        "victim": "ORBCOMM",
+        "country": "USA",
+        "summary": "Le fournisseur de solutions de gestion de flotte de camions, ORBCOMM, a confirmé qu'une cyberattaque par ransomware était à l'origine des récentes pannes de service empêchant les entreprises de transport de gérer leurs flottes. Depuis le 6 septembre, les clients d'ORBCOMM ont signalé qu'ils ne pouvaient pas suivre leur inventaire transporté ou utiliser les dispositifs ELD de Blue Tree, obligeant les camionneurs à passer aux journaux de bord papier. ORBCOMM a confirmé avoir subi une attaque par ransomware le 6 septembre qui a affecté la solution FleetManager de l'entreprise et la gamme de produits Blue Tree. L'Administration fédérale de la sécurité des transporteurs motorisés des Ét",
+        "title": "ORBCOMM ransomware attack causes trucking fleet management outage",
+        "url": "https://www.bleepingcomputer.com/news/security/orbcomm-ransomware-attack-causes-trucking-fleet-management-outage/"
+    },
+    {
         "date": "2023-08-21",
         "victim": "Digital ID",
         "country": "GBR",
