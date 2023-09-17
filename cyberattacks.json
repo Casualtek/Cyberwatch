@@ -1,5 +1,13 @@
 [
     {
+        "date": "2023-09-11",
+        "victim": "Agence de relations publiques ikp",
+        "country": "AUT",
+        "summary": "L'agence de relations publiques ikp, basée à Salzbourg, a été victime d'une cyberattaque au début de la semaine, au cours de laquelle des criminels ont accédé à ses serveurs et volé des données. Les informations personnelles, telles que les noms, adresses d'entreprise, numéros de téléphone et adresses e-mail des employés actuels et anciens, ainsi que des clients et fournisseurs, ont été affectées. Cependant, l'agence a souligné qu'aucune donnée personnelle sensible n'a été compromise.",
+        "title": "Salzburger PR-Agentur wurde zum Opfer einer Cyberattacke | SN.at",
+        "url": "https://www.sn.at/salzburg/chronik/salzburger-pr-agentur-wurde-zum-opfer-einer-cyberattacke-145349074"
+    },
+    {
         "date": "2023-09-06",
         "victim": "ORBCOMM",
         "country": "USA",
