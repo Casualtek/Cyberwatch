@@ -1,5 +1,13 @@
 [
     {
+        "date": "2023-02-17",
+        "victim": "Skidmore College",
+        "country": "USA",
+        "summary": "Le 15 septembre 2023, le Skidmore College a signalé une violation de données suite à une cyberattaque par rançongiciel, permettant à une partie non autorisée d'accéder à des informations sensibles, y compris les noms et numéros de sécurité sociale des individus. Après avoir terminé son enquête, le collège a commencé à envoyer des lettres de notification de violation de données à toutes les personnes dont les informations ont été affectées. Les attaques par rançongiciel sont de plus en plus courantes et même si une organisation paye une rançon, il n'y a aucune garantie que les données volées ne seront pas divulguées. Le 17 février 2023, Skidmore a été alerté d'une activité suspecte dans ses systèmes",
+        "title": "Skidmore College Confirms Recent Ransomware Attack Resulted in Data Breach Affecting Personal Data of 121k | Console and Associates, P.C. - JDSupra",
+        "url": "https://www.jdsupra.com/legalnews/skidmore-college-confirms-recent-6438827/"
+    },
+    {
         "date": "2023-09-17",
         "victim": "Grupo Xcaret",
         "country": "MEX",
