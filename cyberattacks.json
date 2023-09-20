@@ -1,5 +1,13 @@
 [
     {
+        "date": "2023-03-09",
+        "victim": "Cummins Behavioral Health Systems (CBHS)",
+        "country": "USA",
+        "summary": "Entre le 2 février et le 9 mars de cette année, Cummins Behavioral Health Systems (CBHS), une organisation à but non lucratif basée en Indiana, a été victime d'une cyberattaque. L'incident a été découvert lorsque CBHS a trouvé une note de rançon dans leur système le 9 mars, sans aucune donnée chiffrée. Les informations potentiellement accessibles comprenaient les noms, adresses, dates de naissance, numéros de permis de conduire, numéros de sécurité sociale, informations financières, informations de carte de paiement, noms d'utilisateur et mots de passe, informations d'assurance santé et informations médicales.",
+        "title": "IN: Cummins Behavioral Health Systems discovers cyberattack when it finds ransom note",
+        "url": "https://www.databreaches.net/in-cummins-behavioral-health-systems-discovers-cyberattack-when-it-finds-ransom-note/"
+    },
+    {
         "date": "2023-09-18",
         "victim": "La ville de Pittsburg",
         "country": "USA",
