@@ -1,5 +1,13 @@
 [
     {
+        "date": "2023-09-18",
+        "victim": "La ville de Pittsburg",
+        "country": "USA",
+        "summary": "Au cours du week-end, la ville de Pittsburg a découvert une cyberattaque affectant son réseau, entraînant une panne temporaire des emails, des téléphones et des paiements en ligne. L'équipe d'intervention de la ville a immédiatement pris des mesures pour protéger les données et les systèmes du réseau. La ville travaille avec des experts en criminalistique pour comprendre pleinement l'ampleur et les implications de cet incident. Malgré cette perturbation temporaire, les opérations et services de la ville, y compris le dispatching du 9-1-1 et les services publics, restent opérationnels. La ville travaille activement à résoudre cette situation et à mener une enquête approfondie avec ses partenaires.\n",
+        "title": "City of Pittsburg experiences cybersecurity incident | City of Pittsburg",
+        "url": "https://www.pittks.org/news/city-of-pittsburg-experiences-cybersecurity-incident/"
+    },
+    {
         "date": "2023-09-19",
         "victim": "Eventcombo",
         "country": "USA",
