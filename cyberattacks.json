@@ -1,5 +1,13 @@
 [
     {
+        "date": "2023-09-19",
+        "victim": "Hochschule Furtwangen (HFU)",
+        "country": "DEU",
+        "summary": "L'Université de Furtwangen (HFU) en Allemagne a été victime d'une cyberattaque, entraînant une paralysie de ses systèmes informatiques, y compris la communication par e-mail et tous les accès nécessitant une connexion à l'université. L'attaque a eu lieu dans la nuit de lundi et, pour des raisons de sécurité, l'université a immédiatement fermé tous ses systèmes. Les détails de l'attaque restent flous et l'enquête est menée par une instance interrégionale, plutôt que par la police locale. Il y a un peu plus d'un an, la Chambre de Commerce et d'Industrie (IHK) en Allemagne a également été victime d'une attaque massive. Réc",
+        "title": "Cyberangriff Hochschule Furtwangen: Hacker legen IT-Systeme der HFU lahm - Villingen-Schwenningen & Umgebung - Schwarzwälder Bote",
+        "url": "https://www.schwarzwaelder-bote.de/inhalt.cyberangriff-hochschule-furtwangen-hacker-legen-it-systeme-der-hfu-lahm.8da71f9e-27fb-4da6-92b3-1bac9a5103bf.html"
+    },
+    {
         "date": "2023-03-09",
         "victim": "Cummins Behavioral Health Systems (CBHS)",
         "country": "USA",
