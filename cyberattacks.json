@@ -1,5 +1,13 @@
 [
     {
+        "date": "2023-09-19",
+        "victim": "Air Canada",
+        "country": "CAN",
+        "summary": "Un groupe non autorisé a brièvement obtenu un accès limité à un système interne d'Air Canada, touchant des informations personnelles limitées de certains employés et certains dossiers. Les systèmes d'opérations de vol et les systèmes orientés client n'ont pas été affectés, et aucune information client n'a été consultée. Air Canada a confirmé que tous ses systèmes sont pleinement opérationnels et a mis en œuvre des améliorations de sécurité supplémentaires avec l'aide d'experts mondiaux en cybersécurité pour prévenir de tels incidents à l'avenir.",
+        "title": "Air Canada - News Releases",
+        "url": "https://mraircanada.mediaroom.com/Air-Canada-Cyber-Statement"
+    },
+    {
         "date": "2023-09-15",
         "victim": "La Cour pénale internationale (CPI)",
         "country": "NLD",
