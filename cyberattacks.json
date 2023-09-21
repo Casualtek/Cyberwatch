@@ -1,6 +1,14 @@
 [
     {
         "date": "2023-09-19",
+        "victim": "La Fondation de France",
+        "country": "FRA",
+        "summary": "La Fondation de France a été victime d'une intrusion frauduleuse dans son système informatique, ce qui a entraîné l'arrêt de l'ensemble de ses systèmes pour mener un diagnostic approfondi. Les experts certifiés par l'Anssi spécialisés dans ce type d'attaque ont été mobilisés, et une plainte a été déposée tandis qu'un audit approfondi est en cours.",
+        "title": "La Fondation de France victime d’une cyberattaque",
+        "url": "https://www.linforme.com/medias-culture/article/la-fondation-de-france-victime-d-une-cyberattaque_1003.html"
+    },
+    {
+        "date": "2023-09-19",
         "victim": "Air Canada",
         "country": "CAN",
         "summary": "Un groupe non autorisé a brièvement obtenu un accès limité à un système interne d'Air Canada, touchant des informations personnelles limitées de certains employés et certains dossiers. Les systèmes d'opérations de vol et les systèmes orientés client n'ont pas été affectés, et aucune information client n'a été consultée. Air Canada a confirmé que tous ses systèmes sont pleinement opérationnels et a mis en œuvre des améliorations de sécurité supplémentaires avec l'aide d'experts mondiaux en cybersécurité pour prévenir de tels incidents à l'avenir.",
