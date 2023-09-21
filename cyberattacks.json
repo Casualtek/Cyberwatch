@@ -1,5 +1,13 @@
 [
     {
+        "date": "2023-09-21",
+        "victim": "Ville de Morlaix",
+        "country": "FRA",
+        "summary": "La ville de Morlaix a été victime d'une attaque par rançongiciel, entraînant la perte des données de ses deux serveurs. La municipalité a immédiatement contacté l'Anssi, l'agence nationale de la sécurité des systèmes d'information, et a déposé une plainte. Les attaques par rançongiciel impliquent souvent une double extorsion, avec un chantage à la divulgation de données. La ville de Morlaix a déclaré qu'elle ne céderait pas au chantage des cybercriminels et qu'elle dispose d'une sauvegarde récente des données touchées. Les serveurs attaqués hébergeaient la messagerie interne et servaient d'espace de stockage à la municipalité, ce",
+        "title": "La ville de Morlaix victime d’une attaque informatique par rançongiciel | Le Télégramme",
+        "url": "https://www.letelegramme.fr/bretagne/la-ville-de-morlaix-victime-dune-attaque-par-rancongiciel-6432820.php"
+    },
+    {
         "date": "2023-09-19",
         "victim": "La Fondation de France",
         "country": "FRA",
