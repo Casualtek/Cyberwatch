@@ -1,5 +1,13 @@
 [
     {
+        "date": "2023-09-18",
+        "victim": "Somagic",
+        "country": "FRA",
+        "summary": "L'entreprise Somagic, située à La Genête et spécialisée dans la production de barbecues, a été victime d'une cyberattaque majeure. Lundi matin, les employés ont découvert que toutes les données informatiques de la société étaient devenues inaccessibles. Les noms de tous les documents Excel, PDF et autres fichiers de l'entreprise contenaient l'extension \".medusa\". Medusa est le nom d'un gang de hackers connu pour ses cyberattaques contre les entreprises. L'informaticien de l'entreprise a rapidement compris qu'un intrus avait pénétré dans le système informatique, ce qui a conduit à débrancher tous les systèmes pour tenter de comprendre la situation.",
+        "title": "La Genête. L’entreprise bressane Somagic victime d’une cyberattaque de grande ampleur",
+        "url": "https://www.lejsl.com/economie/2023/09/21/l-entreprise-bressane-somagic-victime-d-une-cyberattaque-de-grande-ampleur"
+    },
+    {
         "date": "2023-09-21",
         "victim": "Ville de Morlaix",
         "country": "FRA",
