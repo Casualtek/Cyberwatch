@@ -1,5 +1,13 @@
 [
     {
+        "date": "2023-09-20",
+        "victim": "Conseil des consommateurs",
+        "country": "HKG",
+        "summary": "Le système informatique du Conseil des consommateurs a été piraté, entraînant une fuite de données concernant les plaignants et les abonnés du magazine \"Choix\". Le président du Conseil, Chen Kam-wing, a révélé que le système avait été infiltré par un rançongiciel pendant 7 heures, et que les pirates exigeaient une rançon de 500 000 dollars américains avant 23h20 le 23 septembre, qui passerait à 700 000 dollars après cette échéance. Cependant, le Conseil a déclaré qu'il ne paierait pas la rançon et collaborerait pleinement avec l'enquête de la police. Les données volées pourraient inclure des informations sur les employés, les anciens employés, les",
+        "title": "消委會黑客入侵｜員工客戶資料7小時予取予攜 消委會：不交贖金",
+        "url": "https://www.hk01.com/社會新聞/943645/消委會黑客入侵-員工客戶資料7小時予取予攜-消委會-不交贖金"
+    },
+    {
         "date": "2023-09-22",
         "victim": "Philippine Health Insurance Corporation (PhilHealth)",
         "country": "PHL",
