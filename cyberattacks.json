@@ -1,5 +1,13 @@
 [
     {
+        "date": "2023-09-22",
+        "victim": "Philippine Health Insurance Corporation (PhilHealth)",
+        "country": "PHL",
+        "summary": "La Philippine Health Insurance Corporation (PhilHealth), le programme d'assurance santé du gouvernement philippin, a été victime d'une attaque de ransomware Medusa le 22 septembre 2023. L'attaque a été confirmée par Jeffrey Ian Dy, sous-secrétaire pour la Connectivité, la Cybersécurité et la Mise à niveau des compétences au Département de l'Information et des Communications Technologiques (DICT). En réponse à cette attaque, les Philippines ont rejoint l'Initiative de lutte contre le ransomware (CRI) avec les États-Unis, l'Australie et d'autres pays. Cette initiative mondiale vise à améliorer la coopération entre les pays en matière de prévention, de détection, de réponse et de récupération après une",
+        "title": "PhilHealth paralyzed by Medusa ransomware attack",
+        "url": "https://mb.com.ph/2023/9/22/phil-health-paralyzed-by-medusa-ransomware-attack"
+    },
+    {
         "date": "2023-09-18",
         "victim": "Somagic",
         "country": "FRA",
