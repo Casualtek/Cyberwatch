@@ -1,5 +1,13 @@
 [
     {
+        "date": "2023-09-19",
+        "victim": "Wacoal",
+        "country": "JPN",
+        "summary": "L'entreprise japonaise Wacoal, spécialisée dans la lingerie, a été victime d'une cyberattaque le mardi 19 septembre, affectant ses systèmes de commande, sites web et systèmes téléphoniques. Les sites de Wacoal, Fantasie, Freya et Elomi sont actuellement hors service et affichent un message d'erreur indiquant qu'ils sont \"en maintenance\". Les commandes ne peuvent pas être passées et les transferts d'appels ne fonctionnent pas. Les détaillants indépendants de Wacoal sont inquiets pour le mois à venir, craignant une perte d'argent si la situation persiste. Cette cyberattaque survient un mois après qu'environ 300 détaillants indépendants ont été incapables de traiter leurs stocks suite",
+        "title": "Wacoal hit by cyber attack",
+        "url": "https://www.drapersonline.com/news/wacoal-hit-by-cyber-attack"
+    },
+    {
         "date": "2023-09-22",
         "victim": "Le gouvernement des Bermudes",
         "country": "BMU",
