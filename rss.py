@@ -11,7 +11,8 @@ import os
 from feedgen.feed import FeedGenerator
 
 # Constants
-DEEPL_API_KEY = os.environ['DEEPL_API_KEY']
+DEEPL_API_KEY  = os.environ['DEEPL_API_KEY']
+ATRANS_API_KEY = os.environ['ATRANS_API_KEY']
 SEEN_ITEMS_FILE = './seen_items.txt'
 
 _ENCODED_URL_PREFIX = 'https://news.google.com/rss/articles/'
@@ -70,6 +71,35 @@ ignored_sources = [
     'TechTargetジャパン',
 ]
 
+def atranslate(text):
+    endpoint = "https://api.cognitive.microsofttranslator.com"
+    location = "centralus"
+    path = "/translate"
+    constructed_url = endpoint + path
+    params = {
+        "api-version" : "3.0",
+        "from" : "",
+        "to" : "en"
+    }
+
+    headers = {
+        "Ocp-Apim-Subscription-Key": atrans_api_key,
+        # location required if you're using a multi-service or regional (not global) resource.
+        "Ocp-Apim-Subscription-Region": location,
+        "Content-type": "application/json",
+        "X-ClientTraceId": str(uuid.uuid4())
+    }
+
+    # You can pass more than one object in body.
+    body = [{
+        "text": text
+    }]
+
+    request    = requests.post(constructed_url, params=params, headers=headers, json=body)
+    response   = request.json()
+    result     = response[0]["translations"][0]["text"]
+    return result
+
 def decode_google_news_url(url):
     match = _ENCODED_URL_RE.match(url)
     encoded_text = match.groupdict()['encoded_url']  # type: ignore
@@ -83,8 +113,16 @@ def decode_google_news_url(url):
 
 def translate_text(text):
     translator = deepl.Translator(DEEPL_API_KEY)
-    result     = translator.translate_text(text , target_lang='EN-US')
-    return result.text
+    usage = translator.get_usage()
+    if usage.any_limit_reached:
+        result = atranslate(text)
+    else:
+        try:
+            result = translator.translate_text(text , target_lang="EN-US")
+        except deepl.DeepLException as QuotaExceededException:
+            result = atranslate(text)
+
+    return result
 
 def get_item_hash(item):
     return hashlib.md5(item.title.encode('utf-8')).hexdigest()
