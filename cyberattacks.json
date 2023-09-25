@@ -1,5 +1,13 @@
 [
     {
+        "date": "2023-08-31",
+        "victim": "IT-center Syd",
+        "country": "DNK",
+        "summary": "Le 31 août, une cyberattaque a frappé l'IT-center Syd au Danemark, affectant cinq écoles et entraînant la fuite potentielle d'informations sensibles sur environ 7500 élèves et 550 employés. Les pirates ont tenté d'extorquer à l'IT-center Syd cinq bitcoins (environ un million de couronnes) pour ne pas divulguer les données piratées, mais le centre a refusé de payer. Suite à l'attaque, le centre a renforcé sa cybersécurité, notamment en instaurant une authentification à deux facteurs pour tous ses comptes utilisateurs.\n",
+        "title": "En lang række elevers oplysninger lækket, efter it-center nægtede at betale hackere - TV 2",
+        "url": "https://nyheder.tv2.dk/krimi/2023-09-25-en-lang-raekke-elevers-oplysninger-laekket-efter-it-center-naegtede-at-betale-hackere"
+    },
+    {
         "date": "2023-09-24",
         "victim": "Université Fédérale du Mato Grosso do Sul (UFMS)",
         "country": "BRA",
