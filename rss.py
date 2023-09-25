@@ -99,6 +99,8 @@ def atranslate(text):
     request    = requests.post(constructed_url, params=params, headers=headers, json=body)
     response   = request.json()
     result     = response[0]["translations"][0]["text"]
+    print(text)
+    print(result)
     return result
 
 def decode_google_news_url(url):
@@ -114,15 +116,10 @@ def decode_google_news_url(url):
 
 def translate_text(text):
     translator = deepl.Translator(DEEPL_API_KEY)
-    usage = translator.get_usage()
-    if usage.any_limit_reached:
+    try:
+        result = translator.translate_text(text , target_lang="EN-US")
+    except deepl.DeepLException as QuotaExceededException:
         result = atranslate(text)
-    else:
-        try:
-            result = translator.translate_text(text , target_lang="EN-US")
-        except deepl.DeepLException as QuotaExceededException:
-            result = atranslate(text)
-
     return result
 
 def get_item_hash(item):
