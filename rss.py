@@ -8,6 +8,7 @@ import re
 import deepl
 import hashlib
 import os
+import uuid
 from feedgen.feed import FeedGenerator
 
 # Constants
