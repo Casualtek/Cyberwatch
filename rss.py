@@ -83,7 +83,7 @@ def atranslate(text):
     }
 
     headers = {
-        "Ocp-Apim-Subscription-Key": atrans_api_key,
+        "Ocp-Apim-Subscription-Key": ATRANS_API_KEY,
         # location required if you're using a multi-service or regional (not global) resource.
         "Ocp-Apim-Subscription-Region": location,
         "Content-type": "application/json",
