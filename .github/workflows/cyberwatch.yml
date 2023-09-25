@@ -22,6 +22,7 @@ jobs:
       - name: Generate RSS Feed
         env:
           DEEPL_API_KEY: ${{ secrets.DEEPL_API }}
+          ATRANS_API_KEY: ${{ secrets.AZURE_TRANSL_API }}
         run: |
           python3 rss.py
       - name: Save changes
