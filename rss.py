@@ -118,9 +118,10 @@ def translate_text(text):
     translator = deepl.Translator(DEEPL_API_KEY)
     try:
         result = translator.translate_text(text , target_lang="EN-US")
+        return result
     except deepl.DeepLException as QuotaExceededException:
         result = atranslate(text)
-    return result
+        return result
 
 def get_item_hash(item):
     return hashlib.md5(item.title.encode('utf-8')).hexdigest()
