@@ -1,5 +1,13 @@
 [
     {
+        "date": "2023-08-03",
+        "victim": "Campbell Soup Co.",
+        "country": "USA",
+        "summary": "La société Campbell Soup Co. a signalé une cyberintrusion dans une partie de son réseau informatique à la fin de son quatrième trimestre fiscal. L'entreprise a immédiatement pris des mesures pour enquêter, contenir et éliminer la menace, en engageant des experts en cybersécurité et en informant les autorités fédérales. Bien que l'attaque ait entraîné une interruption de trois jours dans une usine de l'Ohio, l'impact sur les activités de l'entreprise a été limité et n'a pas eu d'effet significatif sur les résultats financiers ou les opérations de l'entreprise.\n",
+        "title": "Campbell Soup says summer cyberattack caused limited business impact | Cybersecurity Dive",
+        "url": "https://www.cybersecuritydive.com/news/campbell-soup-cyberattack-limited-impact/694758/"
+    },
+    {
         "date": "2023-09-14",
         "victim": "Royal HZPC Group",
         "country": "NLD",
