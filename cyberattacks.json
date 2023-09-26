@@ -1,5 +1,13 @@
 [
     {
+        "date": "2023-09-25",
+        "victim": "Baruch College",
+        "country": "USA",
+        "summary": "Le Baruch College a signalé une panne de système à l'échelle du campus le 25 septembre, entraînant le passage à l'apprentissage à distance et la fermeture du campus aux employés \"non essentiels\". L'annonce a suivi un post Instagram, maintenant supprimé, indiquant que le collège subissait une attaque de ransomware et que l'accès à Internet sur le campus était limité. Bien que certains services comme Microsoft 365, Teams et SharePoint restent disponibles, le collège n'a pas confirmé si une attaque de ransomware avait effectivement eu lieu.\n",
+        "title": "BREAKING: Potential ransomware attack causes campus-wide system outage, switch to remote learning - The Ticker",
+        "url": "https://theticker.org/12149/news/breaking-potential-ransomware-attack-causes-campus-wide-system-outage-switch-to-remote-learning/"
+    },
+    {
         "date": "2023-09-22",
         "victim": "Maries County Courthouse",
         "country": "USA",
