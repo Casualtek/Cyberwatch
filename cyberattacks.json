@@ -1,5 +1,13 @@
 [
     {
+        "date": "2023-09-19",
+        "victim": "Duale Hochschule Baden Württemberg",
+        "country": "DEU",
+        "summary": "La Duale Hochschule Baden Württemberg en Allemagne a été victime d'une cyberattaque, avec la présence de logiciels malveillants sur plusieurs de ses serveurs, notamment ceux dédiés à l'envoi et à la réception d'e-mails. Les étudiants doivent donc se passer des services Internet de l'établissement pour une durée indéterminée. Les enquêtes sont en cours pour déterminer l'origine de l'attaque et la nature des dommages, mais il semble que l'intervention rapide d'un employé de l'IT ait pu prévenir des conséquences plus graves.\n",
+        "title": "Cyberangriff: Duale Hochschule findet Schadsoftware | SÜDKURIER",
+        "url": "https://www.suedkurier.de/region/schwarzwald/schwarzwald-baar-kreis/cyberangriff-duale-hochschule-findet-schadsoftware;art372502,11732706"
+    },
+    {
         "date": "2023-09-25",
         "victim": "Baruch College",
         "country": "USA",
