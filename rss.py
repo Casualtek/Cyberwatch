@@ -169,7 +169,8 @@ def main():
             continue
         mark_item_seen(item_hash)
 
-        title = translate_text(entry.title[:' - '])
+        index = input_string.find(' - ')
+        title = translate_text(entry.title[:index])
         link  = decode_google_news_url(entry.link)
         date  = entry.published
 
