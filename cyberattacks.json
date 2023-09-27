@@ -1,5 +1,13 @@
 [
     {
+        "date": "2023-09-21",
+        "victim": "Une entreprise située dans le district de Villach",
+        "country": "AUT",
+        "summary": "Les serveurs d'une entreprise située dans le district de Villach ont été infectés par un cheval de Troie de chiffrement le 21 septembre 2023, rendant toutes les données de l'entreprise inaccessibles. Les auteurs de l'attaque exigent une rançon de plusieurs dizaines de milliers d'euros en Bitcoin pour restaurer les données, mais l'entreprise n'a pas encore effectué de paiement. L'ampleur exacte des dégâts n'est pas encore connue.",
+        "title": "Cyberangriff in Villach: Daten durch Trojaner verschlüsselt",
+        "url": "https://daili.at/2023/09/cyberangriff-in-villach-daten-durch-trojaner-verschluesselt/"
+    },
+    {
         "date": "2023-09-27",
         "victim": "La cristallerie Baccarat",
         "country": "FRA",
