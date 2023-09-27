@@ -1,5 +1,13 @@
 [
     {
+        "date": "2023-09-27",
+        "victim": "La cristallerie Baccarat",
+        "country": "FRA",
+        "summary": "La cristallerie Baccarat a été victime d'une cyberattaque, comme l'a révélé sa directrice générale, Maggie Henriquez, dans un courriel adressé aux clients. Cette attaque a entraîné une réduction de l'activité de l'entreprise, bien que l'impact sur la production reste incertain. Pour l'instant, aucune preuve ne suggère que des données personnelles ou confidentielles des clients ont été compromises, mais l'entreprise demande à ses clients de signaler tout message suspect.\n",
+        "title": "La cristallerie Baccarat victime d'une cyberattaque, l'activité réduite",
+        "url": "https://www.francebleu.fr/infos/economie-social/la-cristallerie-baccarat-victime-d-une-cyberattaque-l-activite-reduite-8465442"
+    },
+    {
         "date": "2023-08-03",
         "victim": "Campbell Soup Co.",
         "country": "USA",
