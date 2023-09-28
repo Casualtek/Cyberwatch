@@ -1,5 +1,13 @@
 [
     {
+        "date": "2023-09-28",
+        "victim": "Johnson Controls International",
+        "country": "USA",
+        "summary": "Le géant de l'automatisation des bâtiments, Johnson Controls International, a subi une importante attaque de ransomware qui a chiffré de nombreux appareils de l'entreprise, y compris les serveurs VMware ESXi, affectant ses opérations et celles de ses filiales. L'attaque a été lancée par le groupe de ransomware Dark Angels, qui réclame 51 millions de dollars pour fournir un décrypteur et supprimer les données volées, affirmant avoir dérobé plus de 27 To de données d'entreprise. Johnson Controls a confirmé l'incident de cybersécurité et travaille avec des experts externes pour enquêter sur l'incident et coordonner avec les assureurs.\n",
+        "title": "Building automation giant Johnson Controls hit by ransomware attack",
+        "url": "https://www.bleepingcomputer.com/news/security/building-automation-giant-johnson-controls-hit-by-ransomware-attack/"
+    },
+    {
         "date": "2023-09-21",
         "victim": "Une entreprise située dans le district de Villach",
         "country": "AUT",
