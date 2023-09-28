@@ -1,5 +1,13 @@
 [
     {
+        "date": "2023-09-25",
+        "victim": "Italtel",
+        "country": "ITA",
+        "summary": "L'entreprise italienne Italtel a été victime d'une cyberattaque qui a impacté son infrastructure IT, limitant l'accès à certains systèmes d'entreprise. L'attaque a compromis des informations d'entreprise, notamment des adresses e-mail et probablement des identifiants d'accès à des applications et services d'entreprise. Italtel a réagi rapidement en activant des contre-mesures techniques, en isolant tous les serveurs et applications d'entreprise, et continue de surveiller la situation tout en travaillant pour résoudre le problème.\n",
+        "title": "Italtel Subisce un Attacco Informatico: Cosa Sappiamo Finora",
+        "url": "https://www.redhotcyber.com/post/italtel-subisce-un-attacco-informatico-cosa-sappiamo-finora/"
+    },
+    {
         "date": "2023-09-28",
         "victim": "Johnson Controls International",
         "country": "USA",
