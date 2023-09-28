@@ -1,5 +1,13 @@
 [
     {
+        "date": "2023-04-06",
+        "victim": "Enzo Biochem",
+        "country": "USA",
+        "summary": "En avril 2023, la société de biotechnologie Enzo Biochem a subi une cyberattaque lors de laquelle des pirates ont dérobé les informations de tests cliniques de près de 2,5 millions de personnes. Enzo a révélé l'incident à la Securities and Exchange Commission en mai, indiquant que les pirates avaient réussi à accéder et à exfiltrer des données sensibles, y compris environ 600 000 numéros de sécurité sociale. En conséquence de cette violation, Enzo devra probablement signaler l'incident au HHS, notifier tous les individus concernés, faire face à une enquête HIPAA de la part du Bureau des droits civils (OCR) au HHS, et gérer plusieurs poursuites judiciaires.\n",
+        "title": "Enzo Biochem Hit with Ransomware",
+        "url": "https://thehipaaetool.com/enzo-biochem-hit-with-ransomware/"
+    },
+    {
         "date": "2023-09-25",
         "victim": "Italtel",
         "country": "ITA",
