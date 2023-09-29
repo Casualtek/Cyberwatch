@@ -124,7 +124,7 @@ def translate_text(text):
         return result
 
 def get_item_hash(item):
-    return hashlib.md5(item.title.encode('utf-8')).hexdigest()
+    return hashlib.md5(item.encode('utf-8')).hexdigest()
 
 def is_item_seen(item_hash):
     try:
@@ -136,6 +136,25 @@ def is_item_seen(item_hash):
 def mark_item_seen(item_hash):
     with open(SEEN_ITEMS_FILE, 'a') as file:
         file.write(item_hash + '\n')
+
+def extract_title(input_string):
+    index_dash = input_string.find(" - ")
+    index_pipe = input_string.find(" | ")
+
+    if index_dash != -1 and (index_pipe == -1 or index_dash < index_pipe):
+        delimiter = " - "
+        index = index_dash
+    elif index_pipe != -1:
+        delimiter = " | "
+        index = index_pipe
+    else:
+        index = -1
+
+    if index != -1:
+        result = input_string[:index]
+    else:
+        result = input_string
+    return(result)
 
 def main():
     entries = []
@@ -163,7 +182,8 @@ def main():
 
     for entry in entries:
         source = entry.source['title']
-        item_hash = get_item_hash(entry)
+        realTitle = extract_title(entry.title)
+        item_hash = get_item_hash(realTitle)
 
         if (is_item_seen(item_hash) or (source in ignored_sources)):
             continue
@@ -175,7 +195,7 @@ def main():
 
         fe = fg.add_entry()
         fe.id(link)
-        fe.title(title)
+        fe.title(realTitle)
         fe.link( href=f'{link}', rel='self')
         fe.pubDate(date)
 
@@ -185,16 +205,15 @@ def main():
 
     for entry in entries:
         source = entry.source['title']
-        item_hash = get_item_hash(entry)
+        realTitle = extract_title(entry.title)
+        item_hash = get_item_hash(realTitle)
 
         if (is_item_seen(item_hash) or (source in ignored_sources)):
             continue
         mark_item_seen(item_hash)
 
-#        index = entry.title.find(' - ')
-#        title = translate_text(entry.title[:index])
-#        title = translate_text(entry.title)
-        title = entry.title
+#        title = translate_text(realTitle)
+        title = realTitle
         link  = decode_google_news_url(entry.link)
         date  = entry.published
 
