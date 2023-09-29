@@ -212,14 +212,13 @@ def main():
             continue
         mark_item_seen(item_hash)
 
-#        title = translate_text(realTitle)
-        title = realTitle
+        title = translate_text(realTitle)
         link  = decode_google_news_url(entry.link)
         date  = entry.published
 
         fe = fg.add_entry()
         fe.id(link)
-        fe.title(title)
+        fe.title(str(title))
         fe.link( href=f'{link}', rel='self')
         fe.pubDate(date)
 
