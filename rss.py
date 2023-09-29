@@ -193,7 +193,7 @@ def main():
 
 #        index = entry.title.find(' - ')
 #        title = translate_text(entry.title[:index])
-        title = translate_text(entry.title)
+#        title = translate_text(entry.title)
         link  = decode_google_news_url(entry.link)
         date  = entry.published
 
