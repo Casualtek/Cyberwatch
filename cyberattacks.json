@@ -1,5 +1,13 @@
 [
     {
+        "date": "2023-09-23",
+        "victim": "Office of the Superintendent of Insurance (OSI)",
+        "country": "USA",
+        "summary": "L'agence d'État chargée de la supervision de l'industrie de l'assurance au Nouveau-Mexique lutte contre une cyberattaque par ransomware, qui a entraîné la fermeture du Bureau du Surintendant de l'Assurance toute la semaine. Les attaquants exigent environ deux millions de dollars de rançon pour débloquer les données de l'office, mais il n'y a pas encore de confirmation officielle de cette demande, et l'enquête est en cours avec la participation d'autorités fédérales.",
+        "title": "New Mexico insurance agency faces cyber attack",
+        "url": "https://www.krqe.com/news/new-mexico/new-mexico-insurance-agency-faces-cyber-attack/"
+    },
+    {
         "date": "2023-04-06",
         "victim": "Enzo Biochem",
         "country": "USA",
