@@ -1,5 +1,13 @@
 [
     {
+        "date": "2023-09-24",
+        "victim": "Le consortium de traitement des données des écoles du comté de Pinal",
+        "country": "USA",
+        "summary": "Une cyberattaque avec ransomware a touché le consortium de traitement des données de 21 districts scolaires du comté de Pinal, aux États-Unis, mettant en péril le paiement des salaires de certains employés. Selon la surintendante du comté de Pinal, Jill Broussard, la plupart du système a été restauré et les districts ont de nouveau accès aux données, sans que les informations des employés aient été compromises. Cependant, certains districts sont toujours en train de finaliser le paiement des salaires, ce qui pose problème car beaucoup d'employés vivent de salaire en salaire.\n",
+        "title": "Ransomware attack impacts 21 Pinal County school districts",
+        "url": "https://www.abc15.com/news/state/ransomware-attack-impacts-21-pinal-county-school-districts"
+    },
+    {
         "date": "2023-09-23",
         "victim": "Office of the Superintendent of Insurance (OSI)",
         "country": "USA",
