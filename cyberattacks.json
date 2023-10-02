@@ -1,5 +1,13 @@
 [
     {
+        "date": "2023-08-28",
+        "victim": "Westlog",
+        "country": "FIN",
+        "summary": "Le groupe de logistique Westlog a subi une cyberattaque de type ransomware, ce qui a pu compromettre les données personnelles de dizaines de milliers de personnes en Finlande, notamment des clients de livraison à domicile de produits d'incontinence de la société Essity. Les autorités enquêtent sur l'attaque, qui a touché au moins 36 000 personnes dans différentes régions du pays, et les entreprises ont coopéré avec les autorités et averti leurs clients.",
+        "title": "Hakkeroidulta Tena-kuljetusyhtiöltä on voitu varastaa kymmenientuhansien ihmisten tietoja – yhtiö arvioi aluksi määräksi jopa 100 000",
+        "url": "https://www.ts.fi/uutiset/6117295"
+    },
+    {
         "date": "2023-09-24",
         "victim": "Le consortium de traitement des données des écoles du comté de Pinal",
         "country": "USA",
