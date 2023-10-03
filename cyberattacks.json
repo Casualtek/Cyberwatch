@@ -1,5 +1,13 @@
 [
     {
+        "date": "2023-09-29",
+        "victim": "Mt. Graham Regional Medical Center (MGRMC)",
+        "country": "USA",
+        "summary": "MGRMC enquête sur un incident de cybersécurité qui affecte ses systèmes de communication et d'information. Ils collaborent avec les autorités et des experts externes pour évaluer la portée de l'incident, y compris une possible compromission de données des patients, et informeront directement les patients affectés si cela se confirme.",
+        "title": "Update - Mt. Graham Regional Medical Center",
+        "url": "https://www.mtgraham.org/update/"
+    },
+    {
         "date": "2023-08-28",
         "victim": "Westlog",
         "country": "FIN",
