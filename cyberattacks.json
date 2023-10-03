@@ -1,5 +1,13 @@
 [
     {
+        "date": "2023-09-12",
+        "victim": "Fauquier County Public Schools",
+        "country": "USA",
+        "summary": "Le district scolaire de Fauquier County en Virginie a été victime d'une attaque de ransomware par le groupe russe LockBit le 12 septembre, mais a réussi à maintenir ses écoles ouvertes. Les experts en cybersécurité ont été immédiatement mobilisés et aucune information personnelle d'élèves ou de personnel n'a été compromise. Le groupe LockBit, qui est l'un des plus actifs actuellement, a donné jusqu'au 19 octobre au district scolaire pour payer une rançon non divulguée pour une quantité inconnue de données.\n",
+        "title": "Virginia school district open despite LockBit ransomware attack",
+        "url": "https://therecord.media/virginia-school-district-open-lockbit"
+    },
+    {
         "date": "2023-09-29",
         "victim": "Mt. Graham Regional Medical Center (MGRMC)",
         "country": "USA",
