@@ -1,5 +1,13 @@
 [
     {
+        "date": "2023-10-03",
+        "victim": "Metro Transit",
+        "country": "USA",
+        "summary": "Le système de transport Metro à St. Louis a subi une cyberattaque qui a perturbé certains de ses services, notamment le service paratransit Call-A-Ride. L'équipe informatique de Metro a réussi à contenir la brèche et à protéger les informations des clients, aucune donnée client n'a été compromise. Bien que les services de bus et de MetroLink n'aient pas été affectés, le service Call-A-Ride n'a pu assurer que les rendez-vous vitaux, comme les traitements de dialyse.\n",
+        "title": "Call-A-Ride service should be back to normal Wednesday, Metro says | FOX 2",
+        "url": "https://fox2now.com/news/call-a-ride-service-should-be-back-to-normal-wednesday-metro-says/"
+    },
+    {
         "date": "2023-10-02",
         "victim": "Estes Express Lines",
         "country": "USA",
