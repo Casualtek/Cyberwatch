@@ -1,6 +1,14 @@
 [
     {
         "date": "2023-10-02",
+        "victim": "Degenia",
+        "country": "DEU",
+        "summary": "Degenia Versicherungsdienst, a été victime d'un piratage informatique. En réaction à cet incident, l'entreprise a temporairement mis hors ligne son infrastructure informatique. Aucun détail sur la nature de l'attaque ou les éventuels dommages subis n'a été fourni, et l'entreprise collabore avec les autorités pour évaluer les dégâts et minimiser les perturbations.",
+        "title": "Cyberkriminelle legen Degenia-IT lahm",
+        "url": "https://www.dasinvestment.com/cyberkriminelle-legen-degenia-it-lahm/"
+    },
+    {
+        "date": "2023-10-02",
         "victim": "Provincia di Cosenza",
         "country": "ITA",
         "summary": "La province de Cosenza a été victime d'une attaque avec ransomware qui a chiffré les données sur certains ordinateurs, mais le système central est resté indemne. Le président a assuré que l'administration n'a pas cédé à la demande de rançon, travaillant à la résolution du problème pour rétablir les activités numériques d'ici jeudi ou vendredi.",
