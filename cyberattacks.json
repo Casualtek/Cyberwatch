@@ -1,6 +1,14 @@
 [
     {
         "date": "2023-10-02",
+        "victim": "Provincia di Cosenza",
+        "country": "ITA",
+        "summary": "La province de Cosenza a été victime d'une attaque avec ransomware qui a chiffré les données sur certains ordinateurs, mais le système central est resté indemne. Le président a assuré que l'administration n'a pas cédé à la demande de rançon, travaillant à la résolution du problème pour rétablir les activités numériques d'ici jeudi ou vendredi.",
+        "title": "Attacco hacker alla Provincia di Cosenza, i pirati chiedono un riscatto",
+        "url": "https://www.corrieredellacalabria.it/2023/10/04/attacco-hacker-alla-provincia-di-cosenza-i-pirati-chiedono-un-riscatto/"
+    },
+    {
+        "date": "2023-10-02",
         "victim": "Hochschule de Karlsruhe",
         "country": "DEU",
         "summary": "La Hochschule de Karlsruhe a été la cible d'une cyberattaque, l'identité des auteurs reste inconnue et les efforts sont en cours pour rétablir les systèmes informatiques. Malgré l'attaque, les cours et les services ont continué normalement, avec des informations supplémentaires fournies aux étudiants par divers moyens. Ce n'est pas la première fois que Karlsruhe est touchée par de telles attaques, huit écoles ayant déjà été victimes de piratage en février.\n",
