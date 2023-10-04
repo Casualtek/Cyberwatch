@@ -1,5 +1,13 @@
 [
     {
+        "date": "2023-09-29",
+        "victim": "Le département de santé publique du comté de Rock, Wisconsin.",
+        "country": "USA",
+        "summary": "Le département de santé publique du comté de Rock, dans le Wisconsin, a été la cible d'une cyberattaque par ransomware le 29 septembre, affectant plusieurs de ses systèmes informatiques. L'attaque a été revendiquée par le groupe de ransomware Cuba, qui aurait dérobé des documents financiers et des informations fiscales, sans préciser la quantité de données volées. Les chercheurs de Google et de l'équipe d'intervention d'urgence informatique de l'Ukraine soupçonnent que les criminels derrière le ransomware pourraient être liés à l'État russe, car ils ont été vus ciblant les systèmes gouvernementaux en Ukraine et au Monténégro.\n",
+        "title": "Wisconsin county dealing with ransomware attack on public health department",
+        "url": "https://therecord.media/wisconsin-county-dealing-with-ransomware-attack-healthcare"
+    },
+    {
         "date": "2023-10-01",
         "victim": "Lyca Mobile UK",
         "country": "GBR",
