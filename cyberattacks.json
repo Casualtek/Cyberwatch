@@ -1,5 +1,13 @@
 [
     {
+        "date": "2023-10-02",
+        "victim": "Hochschule de Karlsruhe",
+        "country": "DEU",
+        "summary": "La Hochschule de Karlsruhe a été la cible d'une cyberattaque, l'identité des auteurs reste inconnue et les efforts sont en cours pour rétablir les systèmes informatiques. Malgré l'attaque, les cours et les services ont continué normalement, avec des informations supplémentaires fournies aux étudiants par divers moyens. Ce n'est pas la première fois que Karlsruhe est touchée par de telles attaques, huit écoles ayant déjà été victimes de piratage en février.\n",
+        "title": "Cyberangriff auf Karlsruhes Hochschule: Für Studis ging der Unterricht am Mittwoch trotzdem weiter",
+        "url": "https://www.ka-news.de/region/karlsruhe/cyberangriff-auf-die-hochschule-karlsruhe-fuer-studenten-geht-der-unterricht-trotzdem-weiter-art-3028644"
+    },
+    {
         "date": "2023-09-26",
         "victim": "Akadem",
         "country": "FRA",
