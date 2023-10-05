@@ -1,6 +1,14 @@
 [
     {
         "date": "2023-10-02",
+        "victim": "Le Premier Circuit Judiciaire de Floride",
+        "country": "USA",
+        "summary": "Le Premier Circuit Judiciaire de Floride a subi un incident de sécurité informatique qui affecte considérablement ses opérations dans les comtés d'Escambia, Okaloosa, Santa Rosa et Walton. Cet événement entraîne l'annulation et le report de certaines procédures judiciaires, ainsi que la suspension de certaines opérations connexes pour plusieurs jours à partir du lundi 2 octobre 2023. Une enquête active est en cours pour résoudre cet incident.",
+        "title": "The First Judicial Circuit of Florida dealing with significant infosecurity incident",
+        "url": "https://www.databreaches.net/the-first-judicial-circuit-of-florida-dealing-with-significant-infosecurity-incident/"
+    },
+    {
+        "date": "2023-10-02",
         "victim": "Degenia",
         "country": "DEU",
         "summary": "Degenia Versicherungsdienst, a été victime d'un piratage informatique. En réaction à cet incident, l'entreprise a temporairement mis hors ligne son infrastructure informatique. Aucun détail sur la nature de l'attaque ou les éventuels dommages subis n'a été fourni, et l'entreprise collabore avec les autorités pour évaluer les dégâts et minimiser les perturbations.",
