@@ -1,5 +1,13 @@
 [
     {
+        "date": "2023-09-27",
+        "victim": "Agência Nacional de Águas e Saneamento Básico (ANA)",
+        "country": "BRA",
+        "summary": "L'Agence Nationale de Águas e Saneamento Básico (ANA) au Brésil a été victime d'une cyberattaque le 27 septembre, ce qui a entraîné l'arrêt de ses systèmes pour interrompre l'attaque et assurer leur sécurité. À partir du 4 octobre, l'ANA a commencé à rétablir progressivement ses systèmes et services, en commençant par le Monitor de Secas et le Ficha de Campo. La remise en service des systèmes se poursuivra dans les semaines à venir, en priorisant les systèmes transversaux comme le système Hidro, tout en assurant la sécurité des utilisateurs et des données.\n",
+        "title": "ANA retoma sistemas gradualmente após ataque cibernético - Agência Nacional de Águas e Saneamento Básico (ANA)",
+        "url": "https://www.gov.br/ana/pt-br/assuntos/noticias-e-eventos/noticias/ana-retoma-sistemas-gradualmente-apos-ataque-cibernetico"
+    },
+    {
         "date": "2023-09-17",
         "victim": "Yusen Logistics",
         "country": "GBR",
