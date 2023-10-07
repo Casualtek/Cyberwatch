@@ -1,5 +1,13 @@
 [
     {
+        "date": "2023-10-07",
+        "victim": "Centre hospitalier de l'Ouest Vosgien",
+        "country": "FRA",
+        "summary": "Le centre hospitalier de l'Ouest Vosgien a subi une cyberattaque dans la nuit de vendredi à samedi, perturbant l'accès aux dossiers patients informatisés et obligeant l'établissement à suspendre ses activités programmées jusqu'à lundi. En réponse à l'attaque, l'hôpital a dû se \"cyber-confiner\", c'est-à-dire couper tous ses systèmes d'information et revenir à l'utilisation de formulaires papier. Le directeur, Dominique Cheveau, indique que le retour à la normale pourrait prendre des jours voire des semaines, mais espère une reprise progressive des activités à partir de mardi.\n",
+        "title": "Les hôpitaux de Vittel et Neufchâteau victimes d'une cyberattaque - France Bleu",
+        "url": "https://www.francebleu.fr/infos/faits-divers-justice/les-hopitaux-de-vittel-et-neufchateau-victimes-d-une-cyberattaque-8825941"
+    },
+    {
         "date": "2023-09-27",
         "victim": "Agência Nacional de Águas e Saneamento Básico (ANA)",
         "country": "BRA",
