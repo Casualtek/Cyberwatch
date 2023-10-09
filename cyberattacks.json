@@ -1,5 +1,13 @@
 [
     {
+        "date": "2023-10-06",
+        "victim": "Clinique universitaire de Francfort",
+        "country": "DEU",
+        "summary": "Lors de contrôles de routine à l'Universitätsklinikum Frankfurt, des préparatifs en vue d'une possible attaque de pirates informatiques ont été détectés, conduisant à la déconnexion du réseau de l'hôpital de l'Internet par mesure de sécurité. Des équipes externes et le service informatique interne travaillent actuellement pour évaluer les dégâts et rétablir les systèmes, ce qui devrait prendre plusieurs semaines. Cependant, les systèmes de base de l'hôpital continuent de fonctionner normalement, et aucune perte de données n'a été signalée jusqu'à présent.",
+        "title": "Hackerangriff auf Uniklinik in Frankfurt: Vom Internet getrennt",
+        "url": "https://www.faz.net/aktuell/rhein-main/frankfurt/hackerangriff-auf-uniklinik-in-frankfurt-vom-internet-getrennt-19229859.html"
+    },
+    {
         "date": "2023-10-08",
         "victim": "Volex PLC",
         "country": "GBR",
