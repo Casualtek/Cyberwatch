@@ -1,5 +1,13 @@
 [
     {
+        "date": "2023-10-08",
+        "victim": "Volex PLC",
+        "country": "GBR",
+        "summary": "Volex plc, un fabricant spécialisé de produits de transmission d'énergie critique et de données, a été victime d'une cyberattaque qui a conduit à un accès non autorisé à certains de ses systèmes informatiques et de données dans des sites internationaux du groupe. L'entreprise a rapidement réagi en activant ses protocoles de sécurité informatique, en engageant des consultants externes pour enquêter sur l'incident, et jusqu'à présent, l'impact financier prévu n'est pas considéré comme significatif, avec une continuité opérationnelle minimale affectée.",
+        "title": "Volex - Regulatory News",
+        "url": "https://www.volex.com/investor-relations/regulatory-news/"
+    },
+    {
         "date": "2023-09-29",
         "victim": "Parkers Chapel School District (PCSD)",
         "country": "USA",
