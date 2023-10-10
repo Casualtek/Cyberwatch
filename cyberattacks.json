@@ -1,5 +1,13 @@
 [
     {
+        "date": "2023-09-06",
+        "victim": "Morsang-sur-Orge",
+        "country": "FRA",
+        "summary": "Le 6 septembre, des problèmes graves ont été détectés dans le système informatique de la Mairie, conduisant à une réaction immédiate de l'équipe informatique, à l'isolement du réseau de la Mairie de l'extérieur et à une déconnexion totale d'Internet. Des plaintes ont été déposées auprès de la police nationale et de la CNIL, et l'Agence Nationale de la Sécurité des Systèmes d'Information a été contactée. Une enquête de cybersécurité a été rapidement entreprise, permettant d'identifier la nature de l'attaque et de l'arrêter le 8 septembre, bien que certaines données aient été cryptées et pourraient ne pas être récupérables. La Mairie travaille à trouver des solutions pour retrouver ou reconstruire ces données, tandis que d'autres éléments du système informatique sont toujours en cours de vérification.",
+        "title": "Cyberattaque - point sur la situation",
+        "url": "https://www.facebook.com/photo/?fbid=322045037151999&set=a.197522999604204"
+    },
+    {
         "date": "2023-10-05",
         "victim": "Dansk Scanning",
         "country": "DNK",
