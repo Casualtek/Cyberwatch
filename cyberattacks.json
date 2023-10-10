@@ -1,5 +1,13 @@
 [
     {
+        "date": "2023-10-05",
+        "victim": "Dansk Scanning",
+        "country": "DNK",
+        "summary": "Le site d'archives de construction Weblager.dk a été victime d'une cyberattaque, affectant l'accès à des dossiers de construction pour environ 50 municipalités danoises. Dansk Scanning, la société qui gère le service, a confirmé que l'attaque a entraîné des problèmes techniques majeurs, obligeant le site à fermer temporairement. Il n'est pas encore clair quand le site sera de nouveau opérationnel.\n",
+        "title": "Ramt af cyberangreb: 50 kommuner ramt - Ekstra Bladet",
+        "url": "https://ekstrabladet.dk/nyheder/samfund/ramt-af-cyberangreb-50-kommuner-ramt/9977052"
+    },
+    {
         "date": "2023-10-06",
         "victim": "Clinique universitaire de Francfort",
         "country": "DEU",
