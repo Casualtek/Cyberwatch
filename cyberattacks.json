@@ -1,5 +1,13 @@
 [
     {
+        "date": "2023-10-09",
+        "victim": "De La Salle University (DLSU)",
+        "country": "PHL",
+        "summary": "L'Université De La Salle (DLSU) à Manille a subi une cyberattaque affectant ses applications hébergées localement, mais sans compromettre les dossiers des étudiants ni les applications hébergées dans le cloud, selon un communiqué officiel. En réponse à l'incident, DLSU a engagé la société de cybersécurité Mandiant pour aider à l'enquête et à la récupération de ses systèmes, et a pris des mesures préventives comme le changement de mots de passe et l'activation de l'authentification multi-facteurs. Suite à l'attaque, certaines classes ont été déplacées en ligne jusqu'à nouvel ordre.\n",
+        "title": "DLSU hit by cyberattack, shifts some classes online - Technobaboy",
+        "url": "https://www.technobaboy.com/2023/10/12/dlsu-hit-by-cyberattack-shifts-some-classes-online/"
+    },
+    {
         "date": "2023-10-10",
         "victim": "Simpson Manufacturing Co.",
         "country": "USA",
