@@ -1,5 +1,13 @@
 [
     {
+        "date": "2023-10-09",
+        "victim": "Kwik Trip",
+        "country": "USA",
+        "summary": "La chaîne de magasins de proximité Kwik Trip a signalé des pannes généralisées affectant ses services dans plus de 800 magasins aux États-Unis, suite à un \"incident réseau\". Les problèmes technologiques ont commencé lundi, affectant l'application de l'entreprise, son système de récompenses et son service téléphonique. Bien que l'entreprise ait confirmé que les pannes étaient le résultat d'un \"incident\", elle n'a pas répondu aux demandes de commentaires sur la possibilité d'une attaque de ransomware.\n",
+        "title": "Kwik Trip says ‘network incident’ causing disruptions at stores",
+        "url": "https://therecord.media/kwik-trip-network-incident-causing-disruptions"
+    },
+    {
         "date": "2023-10-16",
         "victim": "Psychiatrie Baselland",
         "country": "CHE",
