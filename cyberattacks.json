@@ -1,5 +1,13 @@
 [
     {
+        "date": "2023-10-10",
+        "victim": "Pride of Nottingham (PON)",
+        "country": "GBR",
+        "summary": "Le récent arrêt du site web a été causé par une cyberattaque ayant entraîné des dommages importants. Les données d'Onyphe font ressortir l'utilisation de TeamCity de JetBrain, dans une version affectée la vulnérabilité CVE-2023-42793, connue pour être activement exploitée dans ces cyberattaques.",
+        "title": "Downtime and Maintenance Update - Admin Announcements - Pride of Nottingham (Notts County Community)",
+        "url": "https://prideofnottingham.co.uk/community/topic/11370-downtime-and-maintenance%C2%A0update/"
+    },
+    {
         "date": "2023-10-16",
         "victim": "Patriotisk Selskab",
         "country": "DNK",
