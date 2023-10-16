@@ -1,5 +1,13 @@
 [
     {
+        "date": "2023-10-16",
+        "victim": "Psychiatrie Baselland",
+        "country": "CHE",
+        "summary": "La Psychiatrie Baselland en Suisse a été victime d'une cyberattaque, au cours de laquelle une grande partie de son infrastructure informatique a été cryptée par des pirates. En conséquence, les systèmes informatiques ont été arrêtés pour des raisons de sécurité et la communication interne et externe est actuellement limitée. Les autorités cantonales ont été informées et des spécialistes travaillent actuellement à résoudre le problème, bien que la durée de cette opération ne soit pas encore connue.\n",
+        "title": "IT-Systeme heruntergefahren: Cyberangriff auf Psychiatrie Baselland | Basler Zeitung",
+        "url": "https://www.bazonline.ch/it-systeme-heruntergefahren-cyberangriff-auf-psychiatrie-baselland-705576061615"
+    },
+    {
         "date": "2023-10-12",
         "victim": "Service Départemental d'Incendie et de Secours des Pyrénées-Atlantiques (SDIS64)",
         "country": "FRA",
