@@ -1,5 +1,13 @@
 [
     {
+        "date": "2023-10-10",
+        "victim": "Le Cofrac",
+        "country": "FRA",
+        "summary": "Le 10 octobre 2023, l'infrastructure informatique du Cofrac a subi une cyberattaque, rendant son système d'information partiellement inopérant malgré les mécanismes de sécurité en place. Aucune fuite de données n'a été constatée à ce stade et les équipes travaillent à rétablir le service. Les informations d'accréditation sur le site ne sont plus mises à jour depuis la date de l'attaque.\n",
+        "title": "Une cyberattaque vise le Cofrac",
+        "url": "https://www.cofrac.fr/qui-sommes-nous/toutes-nos-actualites/detail-dactualite/news/detail/News/une-cyberattaque-vise-le-cofrac"
+    },
+    {
         "date": "2023-10-15",
         "victim": "Système judiciaire du Kansas",
         "country": "USA",
