@@ -1,5 +1,13 @@
 [
     {
+        "date": "2023-10-11",
+        "victim": "Akumin",
+        "country": "USA",
+        "summary": "La société de radiologie et d'oncologie en ambulatoire Akumin a été victime d'une attaque de ransomware le 11 octobre, perturbant sa capacité à fournir des services à ses clients. Suite à une activité suspecte observée sur son réseau informatique, l'entreprise a dû fermer ses systèmes. Akumin a repris le traitement de certains patients le 13 octobre et a lancé une enquête en collaboration avec un conseiller en cybersécurité.\n",
+        "title": "Akumin Service Disrupted By Cyberattack - MarketWatch",
+        "url": "https://www.marketwatch.com/story/akumin-service-disrupted-by-cyberattack-7dba439d"
+    },
+    {
         "date": "2023-10-10",
         "victim": "Le Cofrac",
         "country": "FRA",
