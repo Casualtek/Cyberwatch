@@ -1,5 +1,13 @@
 [
     {
+        "date": "2023-10-16",
+        "victim": "Hong Kong Ballet",
+        "country": "HKG",
+        "summary": "Le site web du Hong Kong Ballet a subi une cyberattaque par ransomware, entraînant un accès non autorisé à ses systèmes informatiques internes. La compagnie de ballet a déclaré qu'elle ne sait pas encore quels fichiers ont été consultés par les pirates car ils ont été chiffrés. Le HKB a lancé une enquête interne, fait appel à des experts externes en cybersécurité pour évaluer l'ampleur de la violation et mis en œuvre des mesures de remédiation, tout en travaillant avec la police et en signalant l'incident à l'Office du commissaire à la protection des données personnelles.\n",
+        "title": "HK Ballet website in ransomware attack | The Standard",
+        "url": "https://www.thestandard.com.hk/section-news/section/4/257036/HK-Ballet-website-in-ransomware-attack"
+    },
+    {
         "date": "2023-10-11",
         "victim": "Akumin",
         "country": "USA",
