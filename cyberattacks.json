@@ -1,5 +1,13 @@
 [
     {
+        "date": "2023-10-16",
+        "victim": "La Provincia di Perugia",
+        "country": "ITA",
+        "summary": "La province de Perugia en Italie a été la cible d'une cyberattaque visant à perturber ses services en chiffrant les données de ses serveurs internes. Leur équipe de cybersécurité, avec l'aide de la société en charge de leur sécurité informatique, a rapidement réagi pour contrer l'attaque, grâce à un système de sécurité renforcé mis en place récemment. La police postale a été informée de l'incident et participe actuellement à l'enquête, tandis que les bureaux de la province restent ouverts et évaluent les conséquences de l'attaque.\n",
+        "title": "Attacco hacker alla Provincia, intervenuto subito team cybersecurity",
+        "url": "https://www.umbriajournal.com/cronaca/attacco-hacker-alla-provincia-intervenuto-subito-il-team-della-cybersecurity-525691/"
+    },
+    {
         "date": "2023-10-05",
         "victim": "Clark County School District (CCSD)",
         "country": "USA",
