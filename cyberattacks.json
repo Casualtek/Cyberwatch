@@ -1,5 +1,13 @@
 [
     {
+        "date": "2023-10-16",
+        "victim": "Harlingen Police Department",
+        "country": "USA",
+        "summary": "La police de Harlingen, au Texas, a été victime d'une cyberattaque par un groupe d'extorsion russe qui a chiffré les données de la police locale sans toutefois réussir à en voler. Les responsables ont pu récupérer toutes les données grâce à une sauvegarde sur le cloud et ont coupé les services de téléphone et d'internet de la ville pour protéger le système. Les autorités sont en train de reconstruire le système de données et espèrent un retour à la normale d'ici la fin de la semaine.\n",
+        "title": "Russian hackers attack Harlingen Police Department | MyRGV.com",
+        "url": "https://myrgv.com/local-news/2023/10/17/russian-hackers-attack-harlingen-police-department/"
+    },
+    {
         "date": "2023-10-14",
         "victim": "Henry Schein Inc.",
         "country": "USA",
