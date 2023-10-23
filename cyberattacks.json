@@ -1,5 +1,13 @@
 [
     {
+        "date": "2023-10-17",
+        "victim": "Everi",
+        "country": "USA",
+        "summary": "La Commission des jeux de l'État de New York a confirmé que son système d'exploitation central desservant les salles de machines à sous de l'État a été touché par une attaque de cybersécurité, ce qui a notamment entraîné la fermeture du casino Jake 58 à Islandia, dans le comté de Suffolk, pendant plusieurs jours.",
+        "title": "Cyber attacks hit NY state casino operation, two Hudson Valley hospitals",
+        "url": "https://nypost.com/2023/10/22/cyber-attacks-hit-ny-state-casino-operation-two-hudson-valley-hospitals/"
+    },
+    {
         "date": "2023-10-20",
         "victim": "Westchester Medical Center",
         "country": "USA",
