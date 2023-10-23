@@ -1,6 +1,14 @@
 [
     {
         "date": "2023-10-20",
+        "victim": "Westchester Medical Center",
+        "country": "USA",
+        "summary": "Deux hôpitaux de New York ont été victimes d'une cyberattaque, obligeant les ambulances à se détourner vers d'autres établissements. L'attaque a affecté les systèmes informatiques de l'hôpital HealthAlliance à Kingston, de l'hôpital Margaretville et du centre de soins résidentiels Mountainside, tous faisant partie du réseau de santé du Westchester Medical Center. L'incident est actuellement sous enquête par les autorités locales, le FBI et une entreprise indépendante de cybersécurité.\n",
+        "title": "Cyberattack hits 2 New York hospitals forces ambulance diversions - The Week",
+        "url": "https://www.theweek.in/wire-updates/international/2023/10/20/fgn68-us-hospitals-cyber-attack.html"
+    },
+    {
+        "date": "2023-10-20",
         "victim": "Museum d'Histoire Naturelle de Berlin",
         "country": "DEU",
         "summary": "Le Museum für Naturkunde Berlin, un institut de recherche sur l'évolution et la biodiversité, a été victime d'une cyberattaque, dont l'ampleur est actuellement analysée par une cellule de crise en collaboration avec les autorités compétentes. En raison de cette attaque, les employés du musée ne sont pas joignables à leur adresse e-mail habituelle, mais peuvent être contactés par téléphone. Le musée met en place une ligne téléphonique centrale pour répondre aux demandes générales des visiteurs et publiera des mises à jour sur la situation sur son site web.\n",
