@@ -1,11 +1,11 @@
 [
     {
-        "date": "2023-09-19",
-        "victim": "Cadre Services",
+        "date": "2023-10-24",
+        "victim": "Cabarrus County Register of Deeds",
         "country": "USA",
-        "summary": "La société de recrutement Cadre Services, basée dans le Wisconsin, a été victime d'une cyberattaque par le groupe de ransomware AlphV, qui a divulgué des données sensibles, notamment les noms, adresses, dates de naissance et numéros de sécurité sociale de chercheurs d'emploi. Les négociations de rançon entre Cadre et AlphV, qui demandait 300 000 dollars, ont échoué, conduisant à la fuite de données de 4 400 personnes. Cadre Services est toujours en train d'enquêter sur l'incident et enverra des lettres de violation de données à toute personne affectée si elle détermine que des données confidentielles ont été divulguées.\n",
-        "title": "Cadre Services Targeted in Ransomware Attack; Hackers Leak Some Stolen Data, Including SSNs | Console and Associates, P.C. - JDSupra",
-        "url": "https://www.jdsupra.com/legalnews/cadre-services-targeted-in-ransomware-8451231/"
+        "summary": "Une cyberattaque a affecté certains services en ligne fournis par le Registre des actes de Cabarrus County, notamment l'accès public en ligne aux registres fonciers et aux index des naissances, décès et mariages. En réponse à l'incident, les responsables des services informatiques de Cabarrus ont mis en œuvre un plan de réponse et ont brièvement coupé la connexion interne avec le fournisseur en tant que mesure de précaution. Cependant, le bureau du Registre des actes au centre gouvernemental n'a pas été touché et reste ouvert pour l'enregistrement de documents et d'autres tâches.\n",
+        "title": "Greensboro cyber attack takes down some Cabarrus Register of Deeds services",
+        "url": "https://independenttribune.com/news/local/crime-and-courts/greensboro-cyber-attack-takes-down-some-cabarrus-register-of-deeds-services/article_7f74e5c4-726d-11ee-b238-7fa0755f670a.html"
     },
     {
         "date": "2023-10-19",
