@@ -1,5 +1,13 @@
 [
     {
+        "date": "2023-10-19",
+        "victim": "WESTbahn",
+        "country": "AUT",
+        "summary": "La compagnie ferroviaire autrichienne WESTbahn a subi une cyberattaque affectant principalement ses systèmes administratifs, sans perturber le trafic ferroviaire. Les pirates ont pu accéder à des données d'entreprise, d'employés et de clients, bien que la compagnie n'ait pas confirmé si des informations ont été volées. WESTbahn recommande à ses clients de changer leurs mots de passe et a mis en place une ligne d'assistance téléphonique pour toute question relative à cette attaque.\n",
+        "title": "WESTbahn: Cybervorfall in den IT-Systemen - Fahrbetrieb nicht betroffen | WESTbahn Management GmbH, 25.10.2023",
+        "url": "https://www.ots.at/presseaussendung/OTS_20231025_OTS0112/westbahn-cybervorfall-in-den-it-systemen-fahrbetrieb-nicht-betroffen"
+    },
+    {
         "date": "2023-10-23",
         "victim": "L'EHPAD \"Les Hortensias\" à Marigny-le-Lozon",
         "country": "FRA",
