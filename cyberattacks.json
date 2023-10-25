@@ -1,5 +1,13 @@
 [
     {
+        "date": "2023-09-19",
+        "victim": "Cadre Services",
+        "country": "USA",
+        "summary": "La société de recrutement Cadre Services, basée dans le Wisconsin, a été victime d'une cyberattaque par le groupe de ransomware AlphV, qui a divulgué des données sensibles, notamment les noms, adresses, dates de naissance et numéros de sécurité sociale de chercheurs d'emploi. Les négociations de rançon entre Cadre et AlphV, qui demandait 300 000 dollars, ont échoué, conduisant à la fuite de données de 4 400 personnes. Cadre Services est toujours en train d'enquêter sur l'incident et enverra des lettres de violation de données à toute personne affectée si elle détermine que des données confidentielles ont été divulguées.\n",
+        "title": "Cadre Services Targeted in Ransomware Attack; Hackers Leak Some Stolen Data, Including SSNs | Console and Associates, P.C. - JDSupra",
+        "url": "https://www.jdsupra.com/legalnews/cadre-services-targeted-in-ransomware-8451231/"
+    },
+    {
         "date": "2023-10-19",
         "victim": "Cabo Verde Telecom",
         "country": "CPV",
