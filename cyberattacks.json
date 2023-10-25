@@ -1,5 +1,13 @@
 [
     {
+        "date": "2023-10-20",
+        "victim": "Le bureau du procureur du comté d'Orange",
+        "country": "USA",
+        "summary": "Le bureau du procureur du comté d'Orange a été la cible d'une cyberattaque, entraînant la fermeture de son système informatique, mais l'auteur de l'attaque reste inconnu. L'attaque a eu lieu vendredi et des mesures immédiates ont été prises pour fermer le système informatique et empêcher toute intrusion supplémentaire. Le bureau travaille avec un expert tiers pour identifier les vulnérabilités de ses systèmes informatiques et coordonne avec le FBI et le bureau du procureur des États-Unis pour identifier les auteurs de l'attaque.\n",
+        "title": "Orange County DA's Office Targeted by Cyberattack - MyNewsLA.com",
+        "url": "https://mynewsla.com/crime/2023/10/23/orange-county-das-office-targeted-by-cyberattack/"
+    },
+    {
         "date": "2023-10-23",
         "victim": "Hôpital de Vérone",
         "country": "ITA",
