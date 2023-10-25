@@ -1,13 +1,5 @@
 [
     {
-        "date": "2023-10-24",
-        "victim": "SIAAP (Syndicat Interdépartemental pour l'Assainissement de l'Agglomération Parisienne)",
-        "country": "FRA",
-        "summary": "Sous la forme d'un e-mail frauduleux prétendant être lié à la migration des comptes de messagerie, cette attaque a été rapidement maîtrisée, et l'infrastructure informatique reste opérationnelle. Cependant, plusieurs centaines de messages frauduleux ont été envoyés à d'autres administrations depuis le serveur de messagerie du SIAAP.",
-        "title": "SIAAP : Syndicat Interdépartemental pour l'Assainissement de l'Agglomération Parisienne -Le SIAAP cible d’une cyberattaque",
-        "url": "https://www.siaap.fr/presse-publications/publications/detail/actualites/le-siaap-cible-dune-cyberattaque/"
-    },
-    {
         "date": "2023-10-19",
         "victim": "WESTbahn",
         "country": "AUT",
