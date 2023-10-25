@@ -1,5 +1,13 @@
 [
     {
+        "date": "2023-10-21",
+        "victim": "Comté de Clark",
+        "country": "USA",
+        "summary": "Le comté de Clark a détecté une activité suspecte sur son réseau le samedi 21 octobre, et son service informatique est en train d'enquêter sur la situation. Certaines parties du site web du comté, y compris le Centre d'information sur les propriétés et les Services d'information géographique, ne sont actuellement pas disponibles. Cet incident a brièvement retardé le traitement des mises à jour des inscriptions électorales, mais le système de gestion des élections et la base de données des inscriptions électorales, qui font partie de VoteWA, un système géré par le Bureau du secrétaire d'État, n'ont pas été affectés.\n",
+        "title": "Clark County investigating suspicious activity on countywide network | Clark County",
+        "url": "https://clark.wa.gov/county-manager/clark-county-investigating-suspicious-activity-countywide-network"
+    },
+    {
         "date": "2023-10-20",
         "victim": "Le bureau du procureur du comté d'Orange",
         "country": "USA",
