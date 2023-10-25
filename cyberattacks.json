@@ -1,4 +1,12 @@
 [
+{
+        "date": "2023-10-23",
+        "victim": "Alcira Sandoval",
+        "country": "COL",
+        "summary": "La campagne électorale d'Alcira Sandoval, candidate à la mairie de Soledad, a été victime d'une cyberattaque, avec le piratage de son compte Instagram et la dénonciation intentionnelle du compte Facebook de son chef de presse, Dubys Coronado. Ces réseaux sociaux étaient essentiels pour la stratégie de marketing digital de la campagne, servant à diffuser les propositions et programmes de gouvernement de la candidate. Les autorités ont été informées de la situation et ont commencé une enquête pour identifier les responsables de cette attaque.\n",
+        "title": "Ataque cibernético a la campaña de la médico Alcira Sandoval",
+        "url": "https://alternativacaribe.info/2023/10/23/ataque-cibernetico-a-la-campana-de-la-medico-alcira-sandoval/"
+    },
     {
         "date": "2023-10-22",
         "victim": "TransForm",
@@ -6,7 +14,8 @@
         "summary": "Cinq hôpitaux du sud-ouest de l'Ontario ont été touchés par une cyberattaque, entraînant l'arrêt des services en ligne tels que les dossiers des patients et les e-mails, selon leur fournisseur de services informatiques, TransForm. En conséquence, les patients ayant des rendez-vous programmés seront contactés pour reprogrammer ou faire des arrangements alternatifs. TransForm enquête actuellement sur la cause et l'étendue de l'incident, y compris sur la question de savoir si des informations sur les patients ont été affectées.\n",
         "title": "5 southwestern Ontario hospitals hit by cyberattack, patient appointments to be rescheduled | CBC News",
         "url": "https://www.cbc.ca/news/canada/windsor/windsor-hospital-system-1.7005158"
-    },    {
+    },
+    {
         "date": "2023-10-21",
         "victim": "Comté de Clark",
         "country": "USA",
