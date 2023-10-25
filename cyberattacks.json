@@ -1,5 +1,13 @@
 [
     {
+        "date": "2023-10-23",
+        "victim": "Hôpital de Vérone",
+        "country": "ITA",
+        "summary": "La région de Veneto a annoncé qu'une attaque informatique, qui a commencé tôt le matin, a perturbé les infrastructures informatiques du système de santé régional, en particulier l'Azienda Ospedaliera di Verona. Les données des utilisateurs sont en sécurité, mais le président Zaia a demandé aux gens de ne se rendre aux services d'urgence qu'en cas d'urgence.",
+        "title": "Attacco hacker all'azienda ospedaliera di Verona, \"non andate se non avete urgenze\": sistemi in tilt",
+        "url": "https://notizie.virgilio.it/attacco-hacker-all-azienda-ospedaliera-di-verona-non-andate-se-non-avete-urgenze-sistemi-in-tilt-1590490"
+    },
+    {
         "date": "2023-10-19",
         "victim": "Glynn County",
         "country": "USA",
