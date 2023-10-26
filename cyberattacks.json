@@ -1,5 +1,13 @@
 [
     {
+        "date": "2023-10-26",
+        "victim": "La Prefeitura de Araguari",
+        "country": "BRA",
+        "summary": "La mairie d'Araguari et neuf autres municipalités ont été victimes d'une cyberattaque qui a effacé leurs données, perturbant la communication entre les services et entraînant la perte du registre des habitants. L'entreprise qui fournit les services travaille à la résolution du problème, qui a principalement affecté le système de gestion comptable. En réponse à l'attaque, la mairie d'Araguari se concentre sur l'embauche de nouvelles stratégies pour améliorer la protection de ses données, y compris la sauvegarde en nuage et la redondance.\n",
+        "title": "Ataque cibernético apaga dados da Prefeitura de Araguari e de mais nove municípios - Últimas Notícias",
+        "url": "https://ultimasnoticias.inf.br/noticia/ataque-cibernetico-apaga-dados-da-prefeitura-de-araguari-e-de-mais-nove-municipios/"
+    },
+    {
         "date": "2023-10-19",
         "victim": "WESTbahn",
         "country": "AUT",
