@@ -1,5 +1,13 @@
 [
     {
+        "date": "2023-10-26",
+        "victim": "Grupo GTD",
+        "country": "CHL",
+        "summary": "Le géant des télécommunications chilien Grupo GTD a été victime d'une cyberattaque par le gang de ransomware Rorschach, affectant sa plateforme Infrastructure as a Service (IaaS) et perturbant ses services en ligne. L'attaque a impacté plusieurs services, dont les centres de données, l'accès à Internet et la Voix sur IP (VoIP). Le ransomware Rorschach, également connu sous le nom de BabLock, a été utilisé pour exploiter les vulnérabilités de DLL sideloading dans les exécutables légitimes de Trend Micro, BitDefender et Cortex XDR pour charger un DLL malveillant.",
+        "title": "Chilean telecom giant GTD hit by the Rorschach ransomware gang",
+        "url": "https://www.bleepingcomputer.com/news/security/chilean-telecom-giant-gtd-hit-by-the-rorschach-ransomware-gang/"
+    },
+    {
         "date": "2023-10-22",
         "victim": "La Prefeitura de Araguari",
         "country": "BRA",
