@@ -1,5 +1,13 @@
 [
     {
+        "date": "2023-10-26",
+        "victim": "L'article ne mentionne aucune victime.",
+        "country": "FRA",
+        "summary": "L'article ne fournit pas d'informations sur une cyberattaque. Il s'agit plutôt d'un message de gestion des cookies sur le site web de la ville d'Annecy. Le site utilise des cookies pour son bon fonctionnement et la mesure d'audience, et demande aux utilisateurs d'autoriser ou de refuser l'utilisation de ces cookies.",
+        "title": "Sécurité informatique - Ville d'Annecy",
+        "url": "https://www.annecy.fr/actualite/1625/211-securite-informatique.htm"
+    },
+    {
         "date": "2023-10-23",
         "victim": "Grupo GTD",
         "country": "CHL",
