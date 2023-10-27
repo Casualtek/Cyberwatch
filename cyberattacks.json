@@ -1,5 +1,13 @@
 [
     {
+        "date": "2023-09-25",
+        "victim": "Victorville",
+        "country": "USA",
+        "summary": "La ville de Victorville en Californie a averti ses résidents d'une violation de données suite à une attaque de ransomware qui a duré plus d'un mois, du 12 août au 26 septembre. Les pirates ont accédé à des fichiers contenant des informations personnelles telles que les noms, numéros de sécurité sociale, numéros de permis de conduire, informations médicales et numéros de police d'assurance maladie. Le groupe de ransomware NoEscape a revendiqué l'attaque, affirmant avoir volé 200 Go de données des systèmes gouvernementaux.\n",
+        "title": "California city warns of data breach after ransomware attack claims",
+        "url": "https://therecord.media/california-victorville-warns-of-data-breach-after-noescape-ransomware-claims"
+    },
+    {
         "date": "2023-10-12",
         "victim": "Verhelst",
         "country": "BEL",
