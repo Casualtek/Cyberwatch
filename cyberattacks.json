@@ -1,5 +1,13 @@
 [
     {
+        "date": "2023-10-25",
+        "victim": "Michael Garron Hospital",
+        "country": "CAN",
+        "summary": "L'hôpital Michael Garron est actuellement en train d'enquêter sur un \"incident de sécurité des données\" dont il a été informé récemment. Bien que les détails exacts de l'incident ne soient pas encore connus, l'hôpital a déclaré qu'il n'y avait \"aucun impact connu\" sur les applications cliniques ou les services de soins aux patients pour le moment. Cet incident survient dans un contexte où les établissements de santé sont de plus en plus la cible de cyberattaques, comme en témoignent les attaques par ransomware subies par le réseau de santé de Scarborough, l'hôpital pour enfants malades de Toronto et l'hôpital Humber River l'année dernière.\n",
+        "title": "Michael Garron Hospital dealing with data security incident | CP24.com",
+        "url": "https://www.cp24.com/news/michael-garron-hospital-under-code-grey-following-data-security-incident-1.6619700"
+    },
+    {
         "date": "2023-09-25",
         "victim": "Victorville",
         "country": "USA",
