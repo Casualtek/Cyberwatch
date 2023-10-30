@@ -1,6 +1,14 @@
 [
     {
         "date": "2023-10-28",
+        "victim": "Designa Verkehrsleittechnik",
+        "country": "DEU",
+        "summary": "Le Parkhaus Schober à Pforzheim a été indirectement touché par une cyberattaque visant la société Designa Verkehrsleittechnik à Kiel, ce qui a perturbé son fonctionnement. Les données de carte de crédit et de paiement ne sont pas affectées car elles ne passent pas par le système de Designa. Les barrières du parking sont actuellement ouvertes et le stationnement est gratuit jusqu'à ce que le problème soit résolu, et des spécialistes en cybercriminalité travaillent à la restauration des serveurs.\n",
+        "title": "Cyberattacke auf Firma: Parkhaus Schober in Pforzheim auch betroffen - Pforzheim - Pforzheimer-Zeitung",
+        "url": "https://www.pz-news.de/pforzheim_artikel,-Cyberattacke-auf-Firma-Parkhaus-Schober-in-Pforzheim-auch-betroffen-_arid,1949832.html"
+    },
+    {
+        "date": "2023-10-28",
         "victim": "Bibliothèque publique de Toronto",
         "country": "CAN",
         "summary": "La Bibliothèque publique de Toronto a été victime d'une cyberattaque, rendant indisponibles les ordinateurs et services d'impression publics ainsi que les comptes en ligne des utilisateurs et les collections numériques. Toutefois, aucune preuve ne montre que les informations personnelles du personnel ou des clients ont été compromises. La bibliothèque a fait appel à des experts en cybersécurité pour résoudre la situation, mais prévoit que le rétablissement complet des systèmes pourrait prendre plusieurs jours.\n",
