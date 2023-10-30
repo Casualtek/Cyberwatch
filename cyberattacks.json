@@ -1,5 +1,13 @@
 [
     {
+        "date": "2023-10-30",
+        "victim": "Südwestfalen-IT",
+        "country": "DEU",
+        "summary": "Une cyberattaque a paralysé les administrations de la région de Siegen-Wittgenstein en Allemagne, rendant les mairies inaccessibles par téléphone ou par e-mail. Le fournisseur de services informatiques municipal, Südwestfalen-IT, qui dessert 73 clients, dont toutes les communes de Siegen-Wittgenstein, a été la cible de l'attaque. En réponse à l'attaque, la plupart des systèmes informatiques ont été déconnectés par précaution, des numéros d'urgence ont été mis en place et les informations sont diffusées via les réseaux sociaux.\n",
+        "title": "Siegen: Cyber-Attacke - alle Rathäuser im Kreis lahm gelegt - wp.de",
+        "url": "https://www.wp.de/staedte/siegerland/siegen-cyber-attacke-alle-rathaeuser-im-kreis-lahm-gelegt-id239912237.html"
+    },
+    {
         "date": "2023-10-28",
         "victim": "Designa Verkehrsleittechnik",
         "country": "DEU",
