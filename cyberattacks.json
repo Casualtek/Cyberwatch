@@ -1,5 +1,13 @@
 [
     {
+        "date": "2023-10-23",
+        "victim": "Coronel Fabriciano",
+        "country": "BRA",
+        "summary": "La mairie de Coronel Fabriciano au Brésil a été victime d'une cyberattaque le 23 octobre, affectant ses systèmes administratifs et services bureaucratiques. Cependant, grâce aux protocoles de sécurité en place, aucune fuite de données n'a été enregistrée et aucun rançongiciel n'a été utilisé par les cybercriminels. La mairie travaille actuellement à la restauration sécurisée de ses systèmes avec l'aide de l'entreprise de systèmes Sonner et de la société de sauvegarde en nuage Unitec.\n",
+        "title": "Ataque Cibernético: Prefeitura de Fabriciano afirma que não houve vazamentos de dados | Rádio Itatiaia",
+        "url": "https://www.itatiaia.com.br/editorias/valedoaco/2023/10/31/ataque-cibernetico-prefeitura-de-fabriciano-afirma-que-nao-houve-vazamentos-de-dados"
+    },
+    {
         "date": "2023-10-30",
         "victim": "Messe Essen",
         "country": "DEU",
