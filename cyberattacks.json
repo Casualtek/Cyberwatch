@@ -1,5 +1,13 @@
 [
     {
+        "date": "2023-10-30",
+        "victim": "Messe Essen",
+        "country": "DEU",
+        "summary": "La Messe Essen, un grand centre d'exposition en Allemagne, a été victime d'une cyberattaque où les pirates ont réussi à pénétrer dans le système de billetterie en ligne. Les données potentiellement compromises comprennent les adresses et les e-mails des clients, mais aucune information financière n'a été volée. Les enquêtes sont en cours pour déterminer si cette attaque est liée à d'autres cyberattaques récentes dans la région, notamment une attaque sur plusieurs mairies et une autre sur les serveurs centraux de la ville d'Essen.\n",
+        "title": "Cyber-Angriff auf Messe Essen: Tausende Besucher-Daten weg? - waz.de",
+        "url": "https://www.waz.de/staedte/essen/hackerangriff-auf-messe-essen-tausende-kundendaten-geklaut-id239912805.html"
+    },
+    {
         "date": "2023-10-28",
         "victim": "Six Rivers Media, LLC",
         "country": "USA",
