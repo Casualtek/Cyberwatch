@@ -1,5 +1,13 @@
 [
     {
+        "date": "2023-10-09",
+        "victim": "Telecommunications Service of TT (TSTT)",
+        "country": "TTO",
+        "summary": "Le service de télécommunications de Trinité-et-Tobago (TSTT) a déclaré qu'une tentative de cyberattaque par rançongiciel sur ses systèmes a échoué. Selon un communiqué, TSTT a activé ses processus de réponse aux incidents dès le début de la menace, isolant et reconstruisant ses systèmes avec succès. Malgré des allégations selon lesquelles des fichiers personnels auraient été exfiltrés et publiés sur le dark web, le ministre des Services publics, Marvin Gonzales, et TSTT ont nié toute violation de leurs systèmes de sécurité.\n",
+        "title": "TSTT on ransomware attack: Hackers tried but failed - Trinidad and Tobago Newsday",
+        "url": "https://newsday.co.tt/2023/10/31/tstt-on-ransomware-attack-hackers-tried-but-failed/"
+    },
+    {
         "date": "2023-10-30",
         "victim": "Südwestfalen-IT",
         "country": "DEU",
