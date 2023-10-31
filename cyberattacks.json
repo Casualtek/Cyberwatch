@@ -1,5 +1,13 @@
 [
     {
+        "date": "2023-10-28",
+        "victim": "British Library",
+        "country": "GBR",
+        "summary": "La British Library a confirmé qu'une \"cyberattaque\" est à l'origine d'une panne informatique majeure qui dure depuis plusieurs jours. Cette attaque a affecté son site web, ses services sur place, y compris l'accès Wi-Fi, et a rendu presque tous leurs serveurs VMware ESXi indisponibles. Bien que la bibliothèque reste ouverte au public, elle n'accepte que les paiements en espèces et les services restants sont limités.\n",
+        "title": "British Library confirms IT outage caused by infosec issue • The Register",
+        "url": "https://www.theregister.com/2023/10/31/british_library_it_outage/"
+    },
+    {
         "date": "2023-10-23",
         "victim": "Coronel Fabriciano",
         "country": "BRA",
