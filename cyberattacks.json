@@ -1,5 +1,13 @@
 [
     {
+        "date": "2023-09-27",
+        "victim": "Gondomar",
+        "country": "PRT",
+        "summary": "La mairie de Gondomar, au Portugal, a subi en septembre la plus grande cyberattaque jamais enregistrée contre une institution publique dans le pays, coûtant déjà 1,5 million d'euros pour la restauration du système. L'attaque, qui aurait été lancée depuis un serveur russe, a entraîné des pertes de plusieurs millions d'euros en raison de l'arrêt des services, et la normalité ne devrait être rétablie qu'à la fin de l'année. Les pirates auraient infiltré le système de la municipalité pendant plus d'un an, exposant une grande partie des données volées sur le dark web, et bien que la demande de rançon s'élevait à 750 000 euros, elle n'a pas été payée pour diverses raisons, dont",
+        "title": "Cyberattack on Gondomar town hall \"largest on public institution in Portugal\" - Portugal Resident",
+        "url": "https://www.portugalresident.com/cyberattack-on-gondomar-town-hall-largest-on-public-institution-in-portugal/"
+    },
+    {
         "date": "2023-10-30",
         "victim": "Hochschule Hannover",
         "country": "DEU",
