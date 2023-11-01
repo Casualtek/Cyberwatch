@@ -1,5 +1,13 @@
 [
     {
+        "date": "2023-10-23",
+        "victim": "Río Hondo College",
+        "country": "USA",
+        "summary": "Le collège communautaire Río Hondo en Californie a subi une cyberattaque qui a limité ses fonctions pendant plusieurs jours. L'école a été ajoutée à la liste des victimes du groupe de ransomware LockBit, qui a donné aux responsables jusqu'au 20 novembre pour payer une rançon non divulguée. C'est la 69e attaque de ce type sur une université ou un collège cette année, un record qui dépasse largement les 44 attaques observées en 2022.\n",
+        "title": "California community college Río Hondo dealing with cybersecurity incident",
+        "url": "https://therecord.media/california-college-rio-hondo-cyberattack"
+    },
+    {
         "date": "2023-09-27",
         "victim": "Gondomar",
         "country": "PRT",
