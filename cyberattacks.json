@@ -1,5 +1,13 @@
 [
     {
+        "date": "2023-10-30",
+        "victim": "Aéroport Intercontinental de Querétaro (AIQ)",
+        "country": "MEX",
+        "summary": "L'Aéroport Intercontinental de Querétaro (AIQ) au Mexique a subi une cyberattaque suite à l'ouverture accidentelle d'un fichier malveillant. Cependant, l'opération de l'aéroport n'a pas été mise en danger et les enquêtes nécessaires ont été lancées pour déterminer la nature, l'étendue et les responsables de l'attaque. L'équipe de sécurité cybernétique a pris des mesures pour contenir et isoler l'attaque, et l'AIQ a réaffirmé que la sécurité et l'intégrité de ses opérations aéroportuaires restent une priorité.\n",
+        "title": "La Jornada - Aeropuerto de Querétaro sufre ataque cibernético por software malicioso",
+        "url": "https://www.jornada.com.mx/noticia/2023/10/31/estados/aeropuerto-de-queretaro-sufre-ataque-cibernetico-por-software-malicioso-6308"
+    },
+    {
         "date": "2023-10-31",
         "victim": "Ace Hardware",
         "country": "USA",
