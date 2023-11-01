@@ -1,5 +1,13 @@
 [
     {
+        "date": "2023-10-31",
+        "victim": "Ace Hardware",
+        "country": "USA",
+        "summary": "Ace Hardware, une coopérative de vente au détail de matériel, a été victime d'une cyberattaque affectant la majorité de ses systèmes informatiques, y compris la gestion de ses entrepôts et son système de commandes en ligne, selon une déclaration de son PDG, John Venhuizen. Les détails de l'attaque ne sont pas encore clairs, mais l'entreprise travaille avec des experts en informatique légale pour restaurer ses opérations. Malgré l'attaque, il n'y a pas d'impact connu sur les systèmes de paiement en magasin ou le traitement des cartes de crédit.\n",
+        "title": "Ace Hardware hit in cyberattack, CEO confirms • The Register",
+        "url": "https://www.theregister.com/2023/10/31/ace_hardware_cyberattack/"
+    },
+    {
         "date": "2023-10-21",
         "victim": "Habitat Audois",
         "country": "FRA",
