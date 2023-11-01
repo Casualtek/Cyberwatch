@@ -1,6 +1,14 @@
 [
     {
         "date": "2023-10-30",
+        "victim": "Hochschule Hannover",
+        "country": "DEU",
+        "summary": "L'université de Hanovre (HsH) lutte actuellement contre les séquelles d'une cyberattaque. Dès le lundi 30 octobre, les spécialistes de l'université ont découvert dans les systèmes informatiques des signes d'un cheval de Troie de chiffrement. Ils ont arrêté préventivement de grandes parties de l'infrastructure informatique afin d'éviter les dommages causés par ce malware.",
+        "title": "Cyberangriff: Hochschule Hannover muss IT-Systeme runterfahren",
+        "url": "https://www.haz.de/lokales/hannover/cyberangriff-hochschule-hannover-muss-it-systeme-runterfahren-OVZXHQVL2VHURF6JX44J7KT3PA.html"
+    },
+    {
+        "date": "2023-10-30",
         "victim": "Aéroport Intercontinental de Querétaro (AIQ)",
         "country": "MEX",
         "summary": "L'Aéroport Intercontinental de Querétaro (AIQ) au Mexique a subi une cyberattaque suite à l'ouverture accidentelle d'un fichier malveillant. Cependant, l'opération de l'aéroport n'a pas été mise en danger et les enquêtes nécessaires ont été lancées pour déterminer la nature, l'étendue et les responsables de l'attaque. L'équipe de sécurité cybernétique a pris des mesures pour contenir et isoler l'attaque, et l'AIQ a réaffirmé que la sécurité et l'intégrité de ses opérations aéroportuaires restent une priorité.\n",
