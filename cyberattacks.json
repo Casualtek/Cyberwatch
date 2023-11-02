@@ -1,5 +1,13 @@
 [
     {
+        "date": "2023-10-31",
+        "victim": "DePauw University",
+        "country": "USA",
+        "summary": "L'Université DePauw a été victime d'une cyberattaque, entraînant une interruption des services internet et des e-services universitaires. L'incident a eu un impact considérable sur la vie étudiante, avec une interruption des cours en ligne, des services d'impression, des emails et du réseau local de l'université. Pour l'instant, on ignore si des informations privées d'étudiants ou d'employés de l'université ont été compromises.\n",
+        "title": "Cybersecurity incident shuts down DePauw University computer systems - Indianapolis News | Indiana Weather | Indiana Traffic | WISH-TV |",
+        "url": "https://www.wishtv.com/news/cybersecurity-incident-shuts-down-depauw-university-computer-systems-2/"
+    },
+    {
         "date": "2023-10-24",
         "victim": "Les Éleveurs de porcs du Québec",
         "country": "CAN",
