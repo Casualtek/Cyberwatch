@@ -1,5 +1,13 @@
 [
     {
+        "date": "2023-11-01",
+        "victim": "Mr. Cooper Group",
+        "country": "USA",
+        "summary": "Le groupe Mr. Cooper a été victime d'une cyberattaque, mais l'entreprise de prêts hypothécaires ne s'attend pas à un impact majeur suite à cet incident. Un accès non autorisé à certains systèmes technologiques a été détecté, ce qui a poussé l'entreprise basée à Coppell, au Texas, à déployer des mesures de confinement pour protéger ses systèmes et ses données et à fermer certains systèmes par mesure de précaution. Mr. Cooper a lancé une enquête avec l'aide d'experts en cybersécurité et a informé les forces de l'ordre, mais ne pense pas que l'incident aura un effet négatif significatif sur ses activités, ses opérations ou ses résultats financiers.\n",
+        "title": "Mr. Cooper Group Hit by Cybersecurity Breach - MarketWatch",
+        "url": "https://www.marketwatch.com/story/mr-cooper-group-hit-by-cybersecurity-breach-cca2f91b"
+    },
+    {
         "date": "2023-10-31",
         "victim": "DePauw University",
         "country": "USA",
