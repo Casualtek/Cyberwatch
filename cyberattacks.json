@@ -1,5 +1,13 @@
 [
     {
+        "date": "2023-10-25",
+        "victim": "Advarra",
+        "country": "USA",
+        "summary": "Advarra, une entreprise fournissant des solutions intégrées pour la recherche clinique, a été victime d'une cyberattaque le 25 octobre, au cours de laquelle des données ont été exfiltrées. Les auteurs de l'attaque ont menacé de divulguer les données, affirmant avoir obtenu plus de 120 Go de données confidentielles appartenant à des clients, des patients et des employés actuels et anciens. Advarra a répondu en déclarant qu'ils avaient pris des mesures pour contenir l'attaque et qu'ils croyaient que l'affaire était contenue, tout en continuant à enquêter avec des experts en cybersécurité tiers.\n",
+        "title": "Exclusive: Advarra hacked, threat actors threatening to leak data (1)",
+        "url": "https://www.databreaches.net/exclusive-advarra-hacked-threat-actors-threatening-to-leak-data/"
+    },
+    {
         "date": "2023-10-27",
         "victim": "Pontificia Universidad Católica de Chile",
         "country": "CHL",
