@@ -1,5 +1,13 @@
 [
     {
+        "date": "2023-10-31",
+        "victim": "Jeffco Public Schools",
+        "country": "USA",
+        "summary": "Les acteurs de la menace qui ont revendiqué la responsabilité de la cyberattaque contre le district scolaire du comté de Clark (CCSD) ont également ciblé les écoles publiques de Jeffco, au Colorado, en utilisant la même méthode. Ils ont réussi à accéder au réseau de l'école en exploitant la politique de l'école qui utilise la date de naissance des élèves comme mot de passe, permettant ainsi aux acteurs de la menace d'accéder facilement au réseau. Les pirates ont menacé de publier les informations volées, y compris les coordonnées des parents et des élèves, les adresses e-mail des élèves, les contacts d'urgence, les dates de naissance des élèves et d'autres informations sensibles, à moins que",
+        "title": "Jeffco Public Schools hit by the same threat actors that hit Clark County School District - and via the same way",
+        "url": "https://www.databreaches.net/jeffco-public-schools-hit-by-the-same-threat-actors-that-hit-clark-county-school-district-and-via-the-same-way/"
+    },
+    {
         "date": "2023-10-30",
         "victim": "Bauer Gruppe",
         "country": "DEU",
