@@ -1,5 +1,13 @@
 [
     {
+        "date": "2023-10-24",
+        "victim": "Mangaung Metro",
+        "country": "ZAF",
+        "summary": "Le système d'information de la municipalité de Mangaung Metro a été victime d'une cyberattaque par ransomware, rendant inaccessibles toutes les applications utilisées par la municipalité, y compris le système financier, le système de ressources humaines, les téléphones, les emails et l'accès à Internet pour tous les utilisateurs. La cyberattaque a eu un impact négatif sur la prestation de services, rendant difficile les paiements aux fournisseurs de services et pour les outils et le commerce, et affectant l'interaction entre la municipalité, la communauté et d'autres parties prenantes. La municipalité travaille à la récupération du système et à la mise en place d'un plan de récupération avec l'intention de restaurer tous les services critiques.\n",
+        "title": "Bloemfontein metro goes dark after cyber attack | News24",
+        "url": "https://www.news24.com/news24/community-newspaper/bloemnuus/bloemfontein-metro-goes-dark-after-cyber-attack-20231103-2"
+    },
+    {
         "date": "2023-10-27",
         "victim": "Comté de St. Lucie",
         "country": "USA",
