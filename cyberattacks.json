@@ -1,5 +1,13 @@
 [
     {
+        "date": "2023-10-27",
+        "victim": "Pontificia Universidad Católica de Chile",
+        "country": "CHL",
+        "summary": "La Pontificia Universidad Católica de Chile a subi une cyberattaque par ransomware attribuée au groupe Knight Ransomware. Bien que l'attaque n'ait pas entraîné de panne des services web de l'université, le groupe a eu accès à des informations détaillées sur l'université, y compris des informations confidentielles, qui ont été cryptées en attente d'une rançon. Knight Ransomware a menacé de divulguer toutes les informations de l'université si la rançon n'est pas payée.\n",
+        "title": "Ransomware afectaría a la Pontificia Universidad Católica de Chile",
+        "url": "https://pisapapeles.net/ransomware-afecta-a-la-pontificia-universidad-catolica-de-chile/"
+    },
+    {
         "date": "2023-10-31",
         "victim": "Jeffco Public Schools",
         "country": "USA",
