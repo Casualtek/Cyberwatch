@@ -1,5 +1,13 @@
 [
     {
+        "date": "2023-11-05",
+        "victim": "Le conseil départemental du Loiret",
+        "country": "FRA",
+        "summary": "Le conseil départemental du Loiret a été la cible d'une cyberattaque le 6 novembre, entraînant la coupure de certains services et une plainte a été déposée. Des investigations sont en cours avec Orange Cyberdéfense pour déterminer l'origine et les conséquences de l'attaque, mais aucune fuite de données n'a été détectée pour le moment. Parmi les services impactés, la ligne d'accueil ne peut plus recevoir d'appels et l'accès à certains serveurs et logiciels a été interrompu, mais le service départemental d'incendie et de secours du Loiret a été impacté sans conséquences sur les numéros de secours.\n",
+        "title": "Le conseil départemental du Loiret victime d'une cyberattaque - Orléans (45000)",
+        "url": "https://www.larep.fr/orleans-45000/actualites/le-conseil-departemental-du-loiret-victime-d-une-cyberattaque_14399663/"
+    },
+    {
         "date": "2023-11-02",
         "victim": "Crystal Run Healthcare.",
         "country": "USA",
