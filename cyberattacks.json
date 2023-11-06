@@ -1,5 +1,13 @@
 [
     {
+        "date": "2023-09-01",
+        "victim": "Deer Oaks Behavioral Health",
+        "country": "USA",
+        "summary": "Deer Oaks Behavioral Health, un fournisseur de services de santé mentale au Texas, a été victime d'une cyberattaque, affectant 171 871 de ses clients et employés. Les informations potentiellement compromises comprennent les noms, adresses, dates de naissance, numéros de sécurité sociale, codes de diagnostic, informations d'assurance et types de services de traitement des clients. Le groupe de ransomware LockBit3.0 a revendiqué l'attaque et prétend avoir divulgué toutes les données, bien que Deer Oaks n'ait pas mentionné de fuite de données sur le dark web dans sa déclaration.\n",
+        "title": "Data of 171,871 Deer Oaks Behavioral Health clients and employees dumped by ransomware group",
+        "url": "https://www.databreaches.net/data-of-171871-deer-oaks-behavioral-health-clients-and-employees-dumped-by-ransomware-group/"
+    },
+    {
         "date": "2023-10-27",
         "victim": "Corsica Ferries",
         "country": "FRA",
