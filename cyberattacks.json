@@ -1,5 +1,13 @@
 [
     {
+        "date": "2023-10-27",
+        "victim": "Corsica Ferries",
+        "country": "FRA",
+        "summary": "Le transporteur maritime Corsica Ferries a subi une cyberattaque, revendiquée par la franchise mafieuse Alphv, également connue sous le nom de BlackCat. Selon la revendication, 101 Go de données, incluant des informations financières, personnelles, des documents internes et des plans de navires, auraient été volés et téléversés sur les serveurs d'Alphv le 1er novembre. Toutefois, il n'est pas encore confirmé si des données de clients figurent parmi les informations volées.\n",
+        "title": "Alphv revendique une cyberattaque contre Corsica Ferries | LeMagIT",
+        "url": "https://www.lemagit.fr/actualites/366558438/Alphv-revendique-une-cyberattaque-contre-Corsica-Ferries"
+    },
+    {
         "date": "2023-11-05",
         "victim": "Le conseil départemental du Loiret",
         "country": "FRA",
