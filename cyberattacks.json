@@ -1,5 +1,13 @@
 [
     {
+        "date": "2023-11-05",
+        "victim": "Madison Memorial Hospital",
+        "country": "USA",
+        "summary": "L'hôpital Madison Memorial à Rexburg a été la cible d'une cyberattaque, mais aucune information de santé ou financière des patients n'a été compromise. Grâce à des mesures de sécurité préalablement activées et à l'intervention rapide du département des systèmes d'information de l'hôpital, l'attaque a été stoppée avant que les informations des patients ne puissent être accessibles. Cependant, en raison de l'arrêt complet du système, certains services ne sont actuellement pas disponibles.\n",
+        "title": "Rexburg hospital forced to shutdown online systems following cyberattack - East Idaho News",
+        "url": "https://www.eastidahonews.com/2023/11/rexburg-hospital-forced-to-shutdown-online-systems-following-cyberattack/"
+    },
+    {
         "date": "2023-11-06",
         "victim": "KaDeWe",
         "country": "DEU",
