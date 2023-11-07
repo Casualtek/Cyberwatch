@@ -1,5 +1,13 @@
 [
     {
+        "date": "2023-11-06",
+        "victim": "KaDeWe",
+        "country": "DEU",
+        "summary": "Le grand magasin berlinois KaDeWe a été la cible d'une cyberattaque menée par le groupe de hackers russes \"Play\". Le KaDeWe a réussi à repousser l'attaque et a mis en place un \"fonctionnement d'urgence hors ligne\" dans ses magasins et bureaux, tout en assurant que les paiements par carte étaient sécurisés à tout moment. Le groupe \"Play\" est connu pour ses attaques de type ransomware contre des entreprises et des institutions gouvernementales, ayant récemment ciblé l'administration fédérale suisse et volé des données financières telles que des informations fiscales.\n",
+        "title": "KaDeWe: Russische Hacker greifen Berliner Luxus-Kaufhaus an - Berliner Morgenpost",
+        "url": "https://www.morgenpost.de/berlin/article239961892/Russische-Hacker-greifen-das-KaDeWe-an.html"
+    },
+    {
         "date": "2023-09-01",
         "victim": "Deer Oaks Behavioral Health",
         "country": "USA",
