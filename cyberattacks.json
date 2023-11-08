@@ -1,6 +1,14 @@
 [
     {
         "date": "2023-11-05",
+        "victim": "Pulaski County Public Schools (PCPS)",
+        "country": "USA",
+        "summary": "Les écoles publiques du comté de Pulaski en Virginie enquêtent sur une attaque informatique après avoir détecté des irrégularités dans leurs serveurs dimanche. Une investigation a révélé qu'il s'agissait d'un déploiement de rançongiciel, et l'IT collabore avec des experts en cybersécurité pour restaurer la sécurité des serveurs. Malgré l'attaque, les écoles prévoient de reprendre leur emploi du temps normal dès mercredi et ne s'attendent pas à ce que cela perturbe l'enseignement.",
+        "title": "Pulaski Co. Public Schools investigating cyber attack",
+        "url": "https://www.wdbj7.com/2023/11/07/pulaski-co-public-schools-investigating-cyber-attack/"
+    },
+    {
+        "date": "2023-11-05",
         "victim": "Madison Memorial Hospital",
         "country": "USA",
         "summary": "L'hôpital Madison Memorial à Rexburg a été la cible d'une cyberattaque, mais aucune information de santé ou financière des patients n'a été compromise. Grâce à des mesures de sécurité préalablement activées et à l'intervention rapide du département des systèmes d'information de l'hôpital, l'attaque a été stoppée avant que les informations des patients ne puissent être accessibles. Cependant, en raison de l'arrêt complet du système, certains services ne sont actuellement pas disponibles.\n",
