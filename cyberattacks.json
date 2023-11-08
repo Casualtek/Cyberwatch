@@ -1,5 +1,13 @@
 [
     {
+        "date": "2023-10-31",
+        "victim": "Sauk Prairie Healthcare",
+        "country": "USA",
+        "summary": "Sauk Prairie Healthcare, un prestataire de soins basé à Prairie du Sac, a subi une cyberattaque le 31 octobre, qui a été détectée tôt pendant la phase de reconnaissance, sans perte de données des patients ou des employés. En réaction, ils ont désactivé leur système de dossiers de santé électroniques et reporté certaines chirurgies électives, mais ont pu remettre tous les systèmes en ligne le mardi suivant. L'attaque n'a pas été rendue publique immédiatement car il y avait une crainte que l'attaquant puisse surveiller les communications de l'organisation.",
+        "title": "Sauk Prairie Healthcare suffers cyber attack",
+        "url": "https://madison.com/news/local/crime-courts/sauk-prairie-healthcare-cyber-attack/article_4eb43770-7e50-11ee-a746-cb0db9c00d60.html"
+    },
+    {
         "date": "2023-11-07",
         "victim": "Comhairle nan Eilean Siar",
         "country": "GBR",
