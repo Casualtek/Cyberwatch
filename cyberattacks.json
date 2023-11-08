@@ -1,5 +1,21 @@
 [
     {
+        "date": "2023-08-26",
+        "victim": "Western Washington Medical Group",
+        "country": "USA",
+        "summary": "Le Western Washington Medical Group a signalé une violation de données affectant jusqu'à 350 863 patients, impliquant un incident de piratage/IT sans plus de détails disponibles pour le moment.",
+        "title": "Western Washington Medical Group Reports 350,000-Record Data Breach",
+        "url": "https://www.hipaajournal.com/western-washington-medical-group-reports-350000-record-data-breach/"
+    },
+    {
+        "date": "2023-08-23",
+        "victim": "Dakota Eye Institute ",
+        "country": "USA",
+        "summary": "Le Dakota Eye Institute a également rapporté une brèche de données touchant 107 143 patients, sans préciser la nature de l'incident mais a renforcé ses politiques de sécurité des données en réponse.",
+        "title": "Western Washington Medical Group Reports 350,000-Record Data Breach",
+        "url": "https://www.hipaajournal.com/western-washington-medical-group-reports-350000-record-data-breach/"
+    },
+    {
         "date": "2023-11-05",
         "victim": "Pulaski County Public Schools (PCPS)",
         "country": "USA",
