@@ -1,5 +1,13 @@
 [
     {
+        "date": "2022-11-25",
+        "victim": "Prophete-Gruppe",
+        "country": "DEU",
+        "summary": "La société Prophete, fabricant de vélos, a été victime d'une cyberattaque le 25 novembre 2022, qui a paralysé sa production, sa facturation et ses livraisons pendant environ trois semaines, contribuant ainsi à sa faillite. L'attaque a été immédiatement signalée au Landeskriminalamt (police criminelle régionale allemande) et à l'autorité de protection des données, mais les détails de l'incident ne sont pas divulgués en raison d'enquêtes en cours. En plus de l'attaque par ransomware, l'entreprise a également souffert de problèmes d'approvisionnement et de coûts élevés de stockage, et l'avenir de ses marques est incertain, avec un processus",
+        "title": "Fahrradbauer Prophete: Erste Details zum Cyber-Angriff | heise online",
+        "url": "https://www.heise.de/news/Fahrradbauer-Prophete-Erste-Details-zum-Cyber-Angriff-7457031.html"
+    },
+    {
         "date": "2023-10-31",
         "victim": "Sauk Prairie Healthcare",
         "country": "USA",
