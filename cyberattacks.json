@@ -1,5 +1,13 @@
 [
     {
+        "date": "2023-11-09",
+        "victim": "Industrial and Commercial Bank of China (ICBC)",
+        "country": "CHN",
+        "summary": "Une attaque par ransomware contre la Banque Industrielle et Commerciale de Chine (ICBC) a perturbé le marché des bons du Trésor américain, empêchant la banque de régler les transactions de ces titres pour le compte d'autres acteurs du marché. L'association Securities Industry and Financial Markets a informé ses membres que l'ICBC, la plus grande banque de Chine, avait été affectée par un logiciel de rançon qui paralyse les systèmes informatiques jusqu'au paiement d'une rançon. L'ICBC commençait à rétablir ses services jeudi après-midi, mais n'a pas immédiatement répondu aux demandes de commentaire.",
+        "title": "Ransomware attack on ICBC disrupts US Treasury market",
+        "url": "https://www.ft.com/content/8dd2446b-c8da-4854-9edc-bf841069ccb8?accessToken=zwAGCb1j-RSokdON0kRryNpIVNOe3L-EEGnMuA.MEUCIQDRLc_UDifKPtwbqTFMqwX3Hb6z9tVLueq3FhgXVYoC3gIgZrv-O6AB2phgMz7z7ZLY5C8d1jo-BxUGxfgjjBo9aY0&sharetype=gift&token=f2f2d668-ad13-4f9a-804c-6421469be91e"
+    },
+    {
         "date": "2023-11-01",
         "victim": "Rekord Fenster Türen",
         "country": "DEU",
