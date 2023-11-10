@@ -1,5 +1,13 @@
 [
     {
+        "date": "2023-10-30",
+        "victim": "Schule Muri",
+        "country": "CHE",
+        "summary": "Fin octobre, la Schule Muri a été victime d'une cyberattaque après qu'un enseignant a cliqué sur un lien malveillant dans un email de phishing, paralysant le système informatique de l'établissement. Les pirates ont utilisé l'adresse de l'école pour envoyer des emails contenant des logiciels malveillants, ce qui a perturbé les activités scolaires, y compris le report des examens. La direction a dû augmenter le niveau de sécurité et organiser une formation interne pour les employés, mais depuis, l'école a pu reprendre un fonctionnement normal.",
+        "title": "Unbekannte hacken Schule Muri und legen das ganze EDV-System lahm | ArgoviaToday",
+        "url": "https://www.argoviatoday.ch/videos/hackerangriff-auf-schule-sind-mit-einem-blauen-auge-davongekommen-154791541"
+    },
+    {
         "date": "2023-11-09",
         "victim": "Industrial and Commercial Bank of China (ICBC)",
         "country": "CHN",
