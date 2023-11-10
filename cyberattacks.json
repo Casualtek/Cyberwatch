@@ -1,9 +1,17 @@
 [
     {
+        "date": "2023-11-07",
+        "victim": "Harris Center for Mental Health and IDD",
+        "country": "USA",
+        "summary": "Le Harris Center for Mental Health and IDD, un prestataire de services de santé mentale du comté de Harris, a été victime d'une attaque par ransomware le 6 novembre, entraînant l'indisponibilité de certains fichiers d'employés en raison de leur chiffrement. Les experts en cybersécurité ont conseillé aux responsables de ne pas divulguer d'informations sur l'incident pendant que les enquêteurs tentent de déterminer si des données ont été compromises et que des spécialistes en sécurité travaillent à restaurer les systèmes affectés. L'attaque a provoqué des perturbations dans l'accès aux fichiers et des retards dans les soins aux patients.",
+        "title": "Officials mum after cyberattack on Harris Center",
+        "url": "https://www.houstonchronicle.com/news/houston-texas/article/harris-center-cyberattack-18481143.php"
+    },
+    {
         "date": "2023-11-09",
         "victim": "Tri-City Medical Center",
         "country": "USA",
-        "summary": "Le Tri-City Medical Center à Oceanside fait face à une cyberattaque qui a conduit l'établissement à déclarer une \"catastrophe interne\" et à détourner le trafic des ambulances vers d'autres hôpitaux, tout en essayant de contenir les dégâts et de protéger les dossiers des patients. La nature exacte de l'attaque n'a pas été précisée, mais des sources suggèrent qu'il pourrait s'agir d'un ransomware, un type de logiciel malveillant qui a déjà affecté d'autres organisations de santé aux États-Unis. Cette attaque survient alors que l'hôpital est déjà sous pression en raison de négociations avec UC San Diego Health pour la gestion de ses opér",
+        "summary": "Le Tri-City Medical Center à Oceanside fait face à une cyberattaque qui a conduit l'établissement à déclarer une \"catastrophe interne\" et à détourner le trafic des ambulances vers d'autres hôpitaux, tout en essayant de contenir les dégâts et de protéger les dossiers des patients. La nature exacte de l'attaque n'a pas été précisée, mais des sources suggèrent qu'il pourrait s'agir d'un ransomware, un type de logiciel malveillant qui a déjà affecté d'autres organisations de santé aux États-Unis.",
         "title": "Tri-City Medical Center in Oceanside hit by cybersecurity attack - The San Diego Union-Tribune",
         "url": "https://www.sandiegouniontribune.com/news/health/story/2023-11-09/tri-city-medical-center-in-oceanside-hit-by-ransomware-attack"
     },
