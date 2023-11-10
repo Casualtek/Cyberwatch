@@ -22,7 +22,7 @@ def ask_chatgpt(news_count, most_hit_country, countries):
     ]
 
     print(f'Obtaining introduction.')
-    completion = openai.ChatCompletion.create(
+    completion = openai.chat.completions.create(
         model='gpt-4-1106-preview',
         messages=messages,
         max_tokens=180,
@@ -36,7 +36,7 @@ def ask_chatgpt(news_count, most_hit_country, countries):
     messages.append({'role': 'user', 'content': 'Rédige un résumé de ce texte en moins de 150 caractères.'})
 
     print(f'Obtaining summary.')
-    completion = openai.ChatCompletion.create(
+    completion = openai.chat.completions.create(
         model='gpt-4-1106-preview',
         messages=messages,
         max_tokens=30,
@@ -50,7 +50,7 @@ def ask_chatgpt(news_count, most_hit_country, countries):
     messages.append({'role': 'user', 'content': 'Il nous faudrait un titre également.'})
 
     print(f'Obtaining title.')
-    completion = openai.ChatCompletion.create(
+    completion = openai.chat.completions.create(
         model="gpt-4-1106-preview",
         messages=messages,
         max_tokens=90,
