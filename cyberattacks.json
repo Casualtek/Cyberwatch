@@ -1,5 +1,13 @@
 [
     {
+        "date": "2023-11-09",
+        "victim": "Tri-City Medical Center",
+        "country": "USA",
+        "summary": "Le Tri-City Medical Center à Oceanside fait face à une cyberattaque qui a conduit l'établissement à déclarer une \"catastrophe interne\" et à détourner le trafic des ambulances vers d'autres hôpitaux, tout en essayant de contenir les dégâts et de protéger les dossiers des patients. La nature exacte de l'attaque n'a pas été précisée, mais des sources suggèrent qu'il pourrait s'agir d'un ransomware, un type de logiciel malveillant qui a déjà affecté d'autres organisations de santé aux États-Unis. Cette attaque survient alors que l'hôpital est déjà sous pression en raison de négociations avec UC San Diego Health pour la gestion de ses opér",
+        "title": "Tri-City Medical Center in Oceanside hit by cybersecurity attack - The San Diego Union-Tribune",
+        "url": "https://www.sandiegouniontribune.com/news/health/story/2023-11-09/tri-city-medical-center-in-oceanside-hit-by-ransomware-attack"
+    },
+    {
         "date": "2023-10-30",
         "victim": "Schule Muri",
         "country": "CHE",
