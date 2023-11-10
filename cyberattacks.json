@@ -1,5 +1,13 @@
 [
     {
+        "date": "2023-05-02",
+        "victim": "Perry Johnson & Associates",
+        "country": "USA",
+        "summary": "Un réseau informatique de Perry Johnson & Associates, fournisseur de services de transcription médicale pour Northwell Health, a été compromis par une partie non autorisée, entraînant la copie potentielle de données sensibles de patients, y compris des dossiers médicaux et des informations d'assurance. L'incident de sécurité a eu lieu entre le 27 mars et le 2 mai 2023, et les données affectées incluent des noms, numéros de sécurité sociale, et résultats de tests diagnostiques, entre autres informations personnelles.",
+        "title": "Data breach of network with Northwell Health patient info - Newsday",
+        "url": "https://www.newsday.com/long-island/crime/data-breach-northwell-health-perry-johnson-and-associates-patients-long-island-xbsitfv7"
+    },
+    {
         "date": "2023-11-07",
         "victim": "Harris Center for Mental Health and IDD",
         "country": "USA",
