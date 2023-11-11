@@ -1,5 +1,13 @@
 [
     {
+        "date": "2023-11-07",
+        "victim": "Washington State Department of Transportation (WSDOT)",
+        "country": "USA",
+        "summary": "Le site web du Département des Transports de l'État de Washington a été mis hors service depuis mardi à la suite d'une cyberattaque visant à perturber la diffusion d'informations de voyage en ligne. Bien que le site web de base et l'application soient toujours accessibles, la plupart des informations en temps réel ne le sont pas, ce qui provoque des perturbations majeures, notamment pour le suivi des ferries souvent en retard et la navigation dans les cols de montagne. L'origine et la nature de l'attaque font l'objet d'une enquête interne, et bien que les autorités n'aient pas encore fait appel à la police, elles travaillent en étroite coordination avec des partenaires fédéraux.",
+        "title": "Cyber Attack Downs Washington State’s Transportation Website",
+        "url": "https://www.governing.com/security/cyber-attack-downs-washington-states-transportation-website"
+    },
+    {
         "date": "2023-11-10",
         "victim": "DP World Australia",
         "country": "AUS",
