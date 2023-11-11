@@ -1,5 +1,13 @@
 [
     {
+        "date": "2023-11-08",
+        "victim": "York Region District School Board",
+        "country": "CAN",
+        "summary": "Le York Region District School Board est confronté à un incident de cybersécurité détecté mercredi soir, et des mesures ont été prises pour protéger les données et les systèmes critiques. Aucune fuite de données personnelles ou sensibles n'a été signalée, mais certains services, comme le wifi, l'email et les systèmes téléphoniques, sont hors service, et le site web de l'organisation est actuellement hors ligne. La distribution électronique des bulletins de notes des écoles primaires est retardée, et la police a été contactée pour enquêter sur l'attaque.",
+        "title": "York Region school board dealing with a cyber attack | CityNews Toronto",
+        "url": "https://toronto.citynews.ca/2023/11/10/york-region-school-board-cyber-attack/"
+    },
+    {
         "date": "2023-11-01",
         "victim": "EDC",
         "country": "DNK",
