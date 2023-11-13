@@ -1,5 +1,13 @@
 [
     {
+        "date": "2023-11-12",
+        "victim": "Huber Heights",
+        "country": "USA",
+        "summary": "La ville de Huber Heights, dans l'Ohio, a été victime d'une attaque par rançongiciel le dimanche 12 novembre peu après 8 heures du matin, affectant plusieurs services municipaux tels que le zonage, l'ingénierie, les impôts, les finances, les services publics, les ressources humaines et le développement économique. Les services de sécurité publique n'ont pas été touchés, mais on s'attend à ce que les services affectés le soient pendant au moins une semaine.",
+        "title": "Several services impacted after cyberattack in Huber Heights",
+        "url": "https://www.wdtn.com/news/local-news/several-services-impacted-after-cyberattack-in-huber-heights/"
+    },
+    {
         "date": "2023-11-01",
         "victim": "Cogdell Memorial Hospital",
         "country": "USA",
