@@ -1,5 +1,13 @@
 [
     {
+        "date": "2023-11-01",
+        "victim": "Cogdell Memorial Hospital",
+        "country": "USA",
+        "summary": "L'hôpital Cogdell Memorial est confronté à un incident informatique qui bloque l'accès à certains de ses systèmes et perturbe fortement son réseau téléphonique, ce qui a entraîné la déconnexion de son réseau et l'adoption de processus manuels pour maintenir les services de routine. Ils collaborent avec des spécialistes en informatique et ont informé les autorités compétentes, tout en précisant qu'il n'y a pas encore de preuve d'utilisation frauduleuse des données, mais l'enquête est toujours en cours. L'hôpital conseille la vigilance face aux escroqueries potentielles et promet de communiquer des informations supplémentaires dès qu'elles seront disponibles.",
+        "title": "Network Incident Preventing the Use of Systems and Phones - Cogdell Memorial Hospital",
+        "url": "https://cogdellhospital.com/network-incident-preventing-the-use-of-systems-and-phones/"
+    },
+    {
         "date": "2023-10-15",
         "victim": "Otsego Memorial Hospital",
         "country": "USA",
