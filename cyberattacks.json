@@ -1,5 +1,13 @@
 [
     {
+        "date": "2023-11-04",
+        "victim": "Butte School District",
+        "country": "USA",
+        "summary": "Le réseau informatique du Butte School District a été fermé suite à une violation de sécurité non identifiée affectant toutes les écoles publiques de la ville. La surintendante Judy Jonart a indiqué que l'enquête est en cours et qu'aucune information précise n'est disponible, tandis que les cours continuent sans l'accès aux smartboards et aux ressources informatiques. Aucune preuve de compromission des données personnelles des élèves et du personnel n'a été trouvée, et les étudiants, bien que perturbés, restent concentrés sur leur éducation.",
+        "title": "Butte School District shuts down computer network after system compromised",
+        "url": "https://www.kxlf.com/news/local-news/butte-school-district-shuts-down-computer-network-after-system-compromised"
+    },
+    {
         "date": "2023-11-07",
         "victim": "Washington State Department of Transportation (WSDOT)",
         "country": "USA",
