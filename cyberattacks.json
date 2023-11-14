@@ -1,5 +1,13 @@
 [
     {
+        "date": "2023-11-13",
+        "victim": "North Carolina Central University (NCCU)",
+        "country": "USA",
+        "summary": "L'Université North Carolina Central University (NCCU) a annulé les cours en ligne et son Wi-Fi de campus est hors service à la suite d'une cyberattaque, selon un communiqué de l'établissement. L'université travaille avec plusieurs organismes, dont le FBI et le Secret Service américain, pour répondre à l'attaque et affirme que, pour l'instant, aucune donnée personnelle ne semble avoir été dérobée. Cet incident s'inscrit dans une tendance où les universités deviennent des cibles privilégiées pour les hackers, comme en témoignent les attaques précédentes contre d'autres établissements en Caroline du Nord.",
+        "title": "Cyberattack cancels online classes at NCCU",
+        "url": "https://spectrumlocalnews.com/nc/charlotte/news/2023/11/14/cyber-attack-nccu-online-classes"
+    },
+    {
         "date": "2023-11-05",
         "victim": "Concevis AG",
         "country": "CHE",
