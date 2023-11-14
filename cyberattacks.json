@@ -1,5 +1,13 @@
 [
     {
+        "date": "2023-03-30",
+        "victim": "Kyocera AVX Components Corporation (KAVX)",
+        "country": "USA",
+        "summary": "Kyocera AVX Components Corporation (KAVX), un important fabricant américain de composants électroniques avancés et une filiale du géant japonais des semi-conducteurs Kyocera, a été victime d'une attaque de rançongiciel, compromettant les informations personnelles d'environ 39 111 individus. KAVX dit avoir découvert que le 10 octobre 2023 que des pirates informatiques avaient eu accès de manière non autorisée à leurs systèmes entre le 16 février et le 30 mars 2023. L'incident de cybersécurité le 30 mars a compromis les serveurs à Greenville et Myrtle Beach, en Caroline du Sud, entraînant le chiffrement d'un nombre limité de systèmes et perturbant temporairement certains services. Une cyberattaque contre Kyocera AVX a été revendiquée par LockBit 3.0 fin mai 2023, mais aucune donnée associée n'a été divulguée à ce jour.",
+        "title": "Kyocera AVX suffered an alleged LockBit ransomware attack",
+        "url": "https://izoologic.com/2023/11/14/kyocera-avx-suffered-an-alleged-lockbit-ransomware-attack/"
+    },
+    {
         "date": "2023-11-12",
         "victim": "Deutsche Energie-Agentur (Dena)",
         "country": "DEU",
