@@ -1,5 +1,13 @@
 [
     {
+        "date": "2023-11-05",
+        "victim": "Concevis AG",
+        "country": "CHE",
+        "summary": "La société Concevis AG a été victime d'une attaque par ransomware le week-end du 4 et 5 novembre, entraînant le vol et le chiffrement de données sur ses serveurs, dont l'étendue exacte est encore en cours d'analyse. Concevis collabore avec des experts en sécurité externes et les autorités, y compris la police cantonale de Bâle-Ville et le Centre national pour la cybersécurité, pour enquêter sur l'incident et en atténuer les conséquences. L'entreprise a informé ses clients de l'incident et travaille à minimiser les dommages, tout en regrettant les désagréments causés.",
+        "title": "Concevis AG - Softwareentwicklung, E-Government, Systemintegration, BI, Beratung",
+        "url": "https://www.concevis.ch"
+    },
+    {
         "date": "2023-03-30",
         "victim": "Kyocera AVX Components Corporation (KAVX)",
         "country": "USA",
