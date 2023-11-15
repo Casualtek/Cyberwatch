@@ -1,5 +1,13 @@
 [
     {
+        "date": "2023-11-08",
+        "victim": "Hellenic Public Properties Company (ETAD)",
+        "country": "GRC",
+        "summary": "L'entreprise publique grecque Hellenic Public Properties Company (ETAD) a été victime d'une attaque par ransomware découverte le 8 novembre, où les pirates ont chiffré les systèmes de l'entreprise et exigé une rançon. ETAD, qui dispose d'une assurance contre les cyberattaques et effectue régulièrement des sauvegardes de ses fichiers, a refusé de négocier avec les hackers et a rapidement désactivé ses systèmes pour contenir l'attaque. L'entreprise a annoncé que l'incident avait eu un impact limité sur ses opérations, qui sont en cours de restauration.",
+        "title": "Hackers hit ETAD with ransomware | eKathimerini.com",
+        "url": "https://www.ekathimerini.com/news/1224934/hackers-hit-etad-with-ransomware/"
+    },
+    {
         "date": "2023-11-13",
         "victim": "North Carolina Central University (NCCU)",
         "country": "USA",
