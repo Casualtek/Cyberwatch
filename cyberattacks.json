@@ -1,6 +1,14 @@
 [
     {
         "date": "2023-11-14",
+        "victim": "Beaverton School District",
+        "country": "USA",
+        "summary": "Le district scolaire de Beaverton a été victime d'un incident de cybersécurité qui a potentiellement compromis les mots de passe des élèves, affectant l'accès à leurs emails, documents Google, Canvas et autres plateformes éducatives. Les équipes informatiques du district travaillent à la réinitialisation des comptes et des appareils des élèves, mais aucun délai n'a été communiqué pour la résolution complète du problème. La police de Beaverton mène une enquête active sur l'origine et la nature de l'incident, et les parents sont invités à vérifier et changer les mots de passe des élèves sur d'autres plateformes si les mêmes identifiants ont été utilisés.",
+        "title": "Beaverton student passwords may be compromised, district warns | kgw.com",
+        "url": "https://www.kgw.com/article/news/local/security-breach-student-passwords-beaverton-school-district/283-2ef549e9-03e7-45c4-b5a0-40cc4e076658"
+    },
+    {
+        "date": "2023-11-14",
         "victim": "North Muskegon Public Schools",
         "country": "USA",
         "summary": "Les écoles de North Muskegon seront fermées le mercredi 15 novembre en raison d'une violation de la cybersécurité. Notre département technique, le MAISD et l'équipe de cybersécurité de notre compagnie d'assurance travaillent ensemble pour enquêter. Nous n'avons pas accès aux téléphones ou à Internet et nous voulons nous assurer que l'enquête peut être menée sans interruption, car le temps est crucial.  Nous sommes désolés pour ce désagrément imprévu pour nos familles.",
