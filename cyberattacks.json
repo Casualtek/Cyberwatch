@@ -1,5 +1,13 @@
 [
     {
+        "date": "2023-11-09",
+        "victim": "Henry County Schools",
+        "country": "USA",
+        "summary": "Le district scolaire de Henry County a restreint l'accès à Internet depuis la semaine dernière à la suite de la détection d'une activité suspecte sur son réseau. Une enquête est en cours avec l'aide de plusieurs agences, dont le Département de la Sécurité intérieure des États-Unis et le FBI, mais les opérations scolaires continuent de fonctionner normalement à l'exception des cours en ligne. La surintendante Mary Elizabeth Davis n'a pas précisé la nature de l'activité suspecte ni quand l'accès à Internet serait rétabli.",
+        "title": "Georgia School District Goes Offline After Suspicious Activity",
+        "url": "https://www.govtech.com/education/k-12/georgia-school-district-goes-offline-after-suspicious-activity"
+    },
+    {
         "date": "2023-11-14",
         "victim": "Beaverton School District",
         "country": "USA",
