@@ -1,5 +1,13 @@
 [
     {
+        "date": "2023-09-05",
+        "victim": "Decatur Independent School District (DISD)",
+        "country": "USA",
+        "summary": "Le district scolaire indépendant de Decatur (DISD) a subi une perturbation de son service Internet et téléphonique en raison d'une attaque informatique suspectée, survenue mardi à 5h15. Aucune preuve d'accès, d'acquisition ou de mauvaise utilisation des données n'a été trouvée, et le personnel technique travaille activement à rétablir les opérations complètes. Le système téléphonique du district a été remis en service mercredi, et aucune demande n'a été reçue en lien avec l'incident, tandis que les efforts pour restaurer ou remplacer le réseau désactivé se poursuivent.",
+        "title": "Decatur ISD hit by suspected cybersecurity attack - Wise County Messenger",
+        "url": "https://www.wcmessenger.com/articles/decatur-isd-hit-by-suspected-cybersecurity-attack/"
+    },
+    {
         "date": "2023-11-09",
         "victim": "Henry County Schools",
         "country": "USA",
