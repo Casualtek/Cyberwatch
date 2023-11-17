@@ -1,5 +1,13 @@
 [
     {
+        "date": "2023-11-14",
+        "victim": "City of Long Beach",
+        "country": "USA",
+        "summary": "La ville de Long Beach a été cible d'une cyberattaque le 14 novembre 2023, ce qui a conduit à une enquête immédiate avec l'aide d'une firme de consultants en cybersécurité et la notification du FBI. En réaction, la ville a pris la décision de déconnecter certains systèmes par précaution, bien que les services d'urgence restent opérationnels, et prévoit que ces systèmes soient hors ligne pendant plusieurs jours. Des informations supplémentaires seront communiquées au public via le site web de la ville et ses réseaux sociaux au fur et à mesure de l'avancement de l'enquête.",
+        "title": "Official City of Long Beach Statement Regarding a Network Security Incident Targeting City Systems",
+        "url": "https://www.longbeach.gov/latest-news/official-city-of-long-beach-statement"
+    },
+    {
         "date": "2023-11-11",
         "victim": "Okada Manila",
         "country": "PHL",
