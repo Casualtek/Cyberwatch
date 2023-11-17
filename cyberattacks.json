@@ -1,5 +1,13 @@
 [
     {
+        "date": "2023-11-16",
+        "victim": "Etelä-Savon ammattiopisto Esedu",
+        "country": "FIN",
+        "summary": "L'Etelä-Savon ammattiopisto Esedu en Finlande est actuellement affecté par une cyberattaque qui perturbe les cours en ligne, les systèmes et serveurs ayant dû être arrêtés. L'institution évalue l'ampleur du problème avec l'aide de son personnel informatique et d'experts externes, et a signalé l'incident aux autorités, y compris la police. Bien que l'enseignement en présentiel puisse se poursuivre dans une certaine mesure, les cours en ligne ne peuvent pas être assurés pour le moment.",
+        "title": "Verkkohyökkäys haittaa opetusta Etelä-Savon ammattiopistossa - verkko-opintoja ei pysty tekemään lainkaan",
+        "url": "https://yle.fi/a/74-20060880"
+    },
+    {
         "date": "2023-10-23",
         "victim": "South-West Regional Health Authority (SWRHA)",
         "country": "TTO",
