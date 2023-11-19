@@ -1,5 +1,13 @@
 [
     {
+        "date": "2023-10-20",
+        "victim": "Orion Township Public Library",
+        "country": "USA",
+        "summary": "La bibliothèque publique d'Orion Township a été victime d'une attaque par malware qui a nécessité la fermeture temporaire et la restauration de ses systèmes. L'attaque, qui a eu lieu le week-end du 20 octobre, n'était pas ciblée spécifiquement contre la bibliothèque mais a exploité une faiblesse de son système et a engendré des coûts de main-d'œuvre importants. Le directeur de la bibliothèque, Chase McMunn, recommande une formation en sécurité en ligne pour le personnel et mentionne que des ressources pour la cybersécurité sont disponibles auprès de la police d'État du Michigan et de CISA.",
+        "title": "Orion Library Tackles Malware Attack - Oakland County Times",
+        "url": "https://oaklandcounty115.com/2023/11/18/orion-library-tackles-malware-attack/"
+    },
+    {
         "date": "2023-11-19",
         "victim": "Rostocker Straßenbahn AG (RSAG)",
         "country": "DEU",
