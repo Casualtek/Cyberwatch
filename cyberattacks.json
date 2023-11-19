@@ -1,5 +1,13 @@
 [
     {
+        "date": "2023-11-19",
+        "victim": "Rostocker Straßenbahn AG (RSAG)",
+        "country": "DEU",
+        "summary": "La Rostocker Straßenbahn AG, une entreprise de transport public de Mecklembourg-Poméranie-Occidentale, a été victime d'une cyberattaque entraînant des perturbations majeures dans son système informatique. Les fonctions de paiement par carte des distributeurs automatiques de billets et le portail en ligne pour les abonnements sont hors service, bien que les transports en commun continuent de fonctionner normalement. Les experts du bureau d'enquête criminelle régional sont en train d'examiner l'incident, et bien que les services internes de l'entreprise soient gravement affectés, il n'y a actuellement aucune indication que les données des clients aient été compromises.",
+        "title": "Cyberkriminalität: Hackerangriff auf Rostocker Straßenbahn AG | STERN.de",
+        "url": "https://www.stern.de/gesellschaft/regional/mecklenburg-vorpommern/cyberkriminalitaet--hackerangriff-auf-rostocker-strassenbahn-ag-34212106.html"
+    },
+    {
         "date": "2023-11-17",
         "victim": "SIAAP (Syndicat Interdépartemental pour l'Assainissement de l'Agglomération Parisienne)",
         "country": "FRA",
