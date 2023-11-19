@@ -1,5 +1,13 @@
 [
     {
+        "date": "2023-11-17",
+        "victim": "SIAAP (Syndicat Interdépartemental pour l'Assainissement de l'Agglomération Parisienne)",
+        "country": "FRA",
+        "summary": "Le SIAAP, organisme public d'assainissement de la région parisienne, a été touché par une cyberattaque d'envergure le 17 novembre, affectant uniquement son système informatique de gestion. Les services d'assainissement opérationnels ne sont pas impactés, et des mesures ont été prises avec l'aide de l'ANSSI et d'autres experts pour contenir l'attaque et sécuriser les systèmes. Une cellule de crise a été mise en place et restera active tout le week-end pour restaurer un système informatique sécurisé, et un contact d'urgence a été fourni pour les besoins techniques.",
+        "title": "SIAAP : Syndicat Interdépartemental pour l'Assainissement de l'Agglomération Parisienne -CYBERATTAQUE D’AMPLEUR AU SIAAP",
+        "url": "https://www.siaap.fr/presse-publications/publications/detail/actualites/cyberattaque-dampleur-au-siaap/"
+    },
+    {
         "date": "2023-11-16",
         "victim": "Etelä-Savon ammattiopisto Esedu",
         "country": "FIN",
