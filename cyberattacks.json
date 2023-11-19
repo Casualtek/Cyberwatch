@@ -1,5 +1,13 @@
 [
     {
+        "date": "2023-11-17",
+        "victim": "Mössinger Stadtverwaltung",
+        "country": "DEU",
+        "summary": "Le 17 novembre 2023, la municipalité de Mössingen a subi une cyberattaque, entraînant la mise hors service complète de son infrastructure informatique. La ville travaille avec des autorités et des prestataires externes pour résoudre le problème, mais la durée de l'incident est encore inconnue. Le 20 novembre 2023, le bureau de la ville, les services municipaux et les bureaux locaux sont fermés aux citoyens. La communication par téléphone reste possible, mais les e-mails ne sont pas disponibles. Le fonctionnement administratif est fortement limité, et des mises à jour seront fournies sur le site web et les réseaux sociaux.",
+        "title": "Cyber-Angriff auf die Mössinger Stadtverwaltung",
+        "url": "https://www.tagblatt.de/Nachrichten/Cyber-Angriff-auf-die-Stadtverwaltung-610310.html"
+    },
+    {
         "date": "2023-08-12",
         "victim": "Rivers Casino Des Plaines",
         "country": "USA",
