@@ -1,5 +1,13 @@
 [
     {
+        "date": "2023-08-12",
+        "victim": "Rivers Casino Des Plaines",
+        "country": "USA",
+        "summary": "Des pirates informatiques ont réussi à accéder aux informations personnelles sensibles de nombreux joueurs et employés du Rivers Casino dans l'Illinois lors d'une cyberattaque survenue mi-août, mais découverte seulement début novembre. Parmi les données potentiellement compromises figurent les numéros de sécurité sociale, les adresses, les dates de naissance et les numéros de permis de conduire. Le casino a pris des mesures pour contenir la menace et sécuriser ses systèmes, et il n'y a pas encore de signes de fraude ou de vol d'identité suite à cette brèche.",
+        "title": "Hackers get social security numbers, other info in Rivers Casino cyberattack - Chicago Sun-Times",
+        "url": "https://chicago.suntimes.com/2023/11/17/23965433/rivers-casino-data-breach-des-plaines-hackers"
+    },
+    {
         "date": "2023-10-20",
         "victim": "Orion Township Public Library",
         "country": "USA",
