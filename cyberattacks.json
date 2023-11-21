@@ -1,5 +1,13 @@
 [
     {
+        "date": "2023-10-25",
+        "victim": "Yamaha Motor Philippines (YMPH)",
+        "country": "PHL",
+        "summary": "Yamaha Motor Philippines (YMPH) a été victime d'une cyberattaque le 25 octobre, lors de laquelle un serveur a été infecté par un rançongiciel et des informations personnelles des employés ont été partiellement divulguées. L'entreprise a signalé l'incident aux autorités philippines et travaille avec une équipe de contre-mesures et une société de sécurité Internet externe pour enquêter et prévenir d'autres dommages. Yamaha a confirmé que l'attaque était limitée à un serveur de YMPH et n'a pas affecté le siège social ou d'autres entreprises du groupe Yamaha Motor.",
+        "title": "Yamaha Motor PH victimized by cyber attack",
+        "url": "https://www.zigwheels.ph/motorcycle-news/yamaha-motor-ph-victimized-by-cyber-attack"
+    },
+    {
         "date": "2023-11-17",
         "victim": "Mössinger Stadtverwaltung",
         "country": "DEU",
