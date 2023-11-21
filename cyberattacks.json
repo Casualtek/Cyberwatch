@@ -1,5 +1,13 @@
 [
     {
+        "date": "2023-08-24",
+        "victim": "Stadtwerke Neumünster (SWN)",
+        "country": "DEU",
+        "summary": "Les Stadtwerke Neumünster (SWN) en Allemagne ont été victimes d'une cyberattaque de type espionnage, ce qui les a conduits à mettre hors ligne tous leurs systèmes informatiques par mesure de précaution. Bien que les services essentiels tels que l'électricité, le gaz, le chauffage et l'internet restent opérationnels, les employés sont limités dans leur capacité à travailler, ne pouvant ni envoyer d'e-mails ni passer d'appels téléphoniques. Les autorités, y compris la police et les associations de protection des données, ont été alertées et le Landeskriminalamt (LKA) a pris en charge l'enquête, mais la durée des restrictions reste incertaine et pourrait s'étendre de quelques jours à plusieurs semaines",
+        "title": "Angriff durch Hacker in Neumünster: SWN fahren die Systeme runter | SHZ",
+        "url": "https://www.shz.de/lokales/neumuenster/artikel/angriff-durch-hacker-in-neumuenster-swn-fahren-die-systeme-runter-45375551"
+    },
+    {
         "date": "2023-10-25",
         "victim": "Yamaha Motor Philippines (YMPH)",
         "country": "PHL",
