@@ -1,4 +1,12 @@
-[ 
+[
+    {
+        "date": "2023-11-16",
+        "victim": "Sabre Insurance Group",
+        "country": "GBR",
+        "summary": "Le groupe Sabre Insurance a été victime d'une cyberattaque le 16 novembre 2023, mais ses contrôles de sécurité informatique ont réagi rapidement et efficacement pour contenir l'attaque avant que des zones sensibles ne soient compromises. L'entreprise, avec l'aide d'un partenaire spécialisé en sécurité informatique, a géré et résolu l'incident, et estime qu'aucune donnée sensible de clients n'a été accédée. Malgré l'attaque, les clients ont pu continuer à gérer leurs polices d'assurance et à en acheter de nouvelles en toute sécurité.",
+        "title": "Sabre Insurance hit by cyber attack | Insurance Times",
+        "url": "https://www.insurancetimes.co.uk/news/sabre-insurance-hit-by-cyber-attack/1446186.article"
+    },
     {
         "date": "2023-03-28",
         "victim": "Wyoming County Community Health System",
