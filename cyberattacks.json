@@ -1,6 +1,14 @@
 [
     {
         "date": "2023-11-22",
+        "victim": "Gemeinde Zollikofen",
+        "country": "CHE",
+        "summary": "Les systèmes informatiques de la commune de Zollikofen ont été la cible d'une cyberattaque dans la nuit du 22 novembre 2023, ce qui a conduit à leur arrêt et déconnexion d'Internet. Des spécialistes en cybersécurité travaillent actuellement à l'analyse approfondie des systèmes pour les remettre en service, et des sauvegardes externes non affectées par l'attaque sont disponibles. En conséquence, les services de communication de la commune sont interrompus, et les citoyens sont invités à se rendre en personne pour les services urgents, tandis qu'une hotline a été mise en place pour les cas d'urgence.",
+        "title": "Zollikofen - Cyber-Angriff auf ICT-Systeme der Gemeinde Zollikofen",
+        "url": "https://www.zollikofen.ch/aktuellesinformationen/2009281"
+    },
+    {
+        "date": "2023-11-22",
         "victim": "Véligo Location",
         "country": "FRA",
         "summary": "Suite à une attaque informatique, la connexion à l’espace client ainsi que la souscription au service sont actuellement indisponibles.",
