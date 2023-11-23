@@ -1,5 +1,13 @@
 [
     {
+        "date": "2022-11-10",
+        "victim": "London & Zurich",
+        "country": "GBR",
+        "summary": "La société de prélèvement direct London & Zurich a été victime d'une attaque par ransomware le 10 novembre, entraînant des interruptions de service et des retards de paiement significatifs pour ses clients, certains devant recourir à des prêts pour pallier les problèmes de trésorerie. La communication de l'entreprise a été critiquée pour son manque de clarté et de fréquence, laissant les clients dans l'incertitude quant à la reprise normale des services. Malgré l'incident, London & Zurich a commencé à reconstruire ses serveurs dans un nouvel environnement et prévoit de restaurer complètement ses services d'ici la fin de la semaine, tout en continuant l'enquête sur l'attaque.",
+        "title": "London & Zurich ransomware attack causes customer chaos • The Register",
+        "url": "https://www.theregister.com/2023/11/23/ransomware_attack_at_london_zurich/"
+    },
+    {
         "date": "2023-11-18",
         "victim": "Fidelity National Financial (FNF)",
         "country": "USA",
