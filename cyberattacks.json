@@ -1,5 +1,13 @@
 [
     {
+        "date": "2022-11-23",
+        "victim": "CTS (Conveyancing Transaction Services)",
+        "country": "GBR",
+        "summary": "Un \"incident cybernétique\" a touché environ 80 entreprises au Royaume-Uni, perturbant les transactions immobilières et empêchant l'accès aux systèmes. Le prestataire de services d'infrastructure spécialisé dans le secteur juridique, CTS, travaille avec des experts en cyberforensique pour résoudre le problème et restaurer les systèmes le plus rapidement possible. Bien qu'il n'y ait pas de preuve de compromission de l'intégrité des données, les systèmes ne seront pas remis en ligne avant d'avoir toutes les assurances de leur sécurité.",
+        "title": "\"Cyber incident\" impacting transactions - c. 80 firms affected | Today's Conveyancer",
+        "url": "https://todaysconveyancer.co.uk/technology-failure-impacting-transactions/"
+    },
+    {
         "date": "2023-11-23",
         "victim": "Zweckverband gemeindliche Datenverarbeitung im Kreis Neu-Ulm",
         "country": "DEU",
