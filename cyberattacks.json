@@ -1,5 +1,13 @@
 [
     {
+        "date": "2023-11-15",
+        "victim": "Meredosia-Chambersburg school district",
+        "country": "USA",
+        "summary": "Le district scolaire de Meredosia-Chambersburg a réussi à rétablir la majorité de son système informatique après avoir été la cible d'une cyberattaque de type ransomware, qui a rendu les ordinateurs inutilisables et a exigé une rançon. Les serveurs du réseau ont été déconnectés et retirés pour des raisons de sécurité, et l'administration a collaboré avec une entreprise spécialisée en cybersécurité pour gérer l'incident. Selon le rapport 2022 du Internet Crime Complaint Center, l'Illinois est l'un des États les plus touchés par la cybercriminalité aux États-Unis, avec un nombre important de victimes et des pertes financières s'élevant à presque 267 millions de dollars.",
+        "title": "Meredosia school district foils cyber hijackers",
+        "url": "https://www.myjournalcourier.com/news/article/meredosia-school-district-foils-cyber-hijackers-18507534.php"
+    },
+    {
         "date": "2022-10-12",
         "victim": "Berliner Naturkundemuseum",
         "country": "DEU",
