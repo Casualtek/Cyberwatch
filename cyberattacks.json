@@ -1,5 +1,13 @@
 [
     {
+        "date": "2023-11-22",
+        "victim": "Svenska kyrkan (l'Église suédoise)",
+        "country": "SWE",
+        "summary": "Le système informatique central de l'Église suédoise a été victime d'une grave cyberattaque, comme l'a rapporté P4 Värmland. Un courriel concernant l'incident, qualifié de cyberattaque sérieuse, a été envoyé aux employés du pastorat de Karlstad, les enjoignant d'éteindre immédiatement leurs ordinateurs. L'incident affecte l'Église suédoise à l'échelle nationale.",
+        "title": "Cyberattack mot Svenska kyrkan: Allvarligt",
+        "url": "https://www.aftonbladet.se/nyheter/a/KnJ2Vo/cyberattack-mot-svenska-kyrkan-allvarligt"
+    },
+    {
         "date": "2022-11-23",
         "victim": "CTS (Conveyancing Transaction Services)",
         "country": "GBR",
