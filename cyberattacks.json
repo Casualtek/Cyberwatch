@@ -1,5 +1,13 @@
 [
     {
+        "date": "2022-10-12",
+        "victim": "Berliner Naturkundemuseum",
+        "country": "DEU",
+        "summary": "Le Musée d'histoire naturelle de Berlin a été paralysé par une cyberattaque de type ransomware identifiée mi-octobre, qui a rendu jusqu'à 450 employés incapables de travailler en chiffrant les données et en exigeant une rançon pour leur déchiffrement. Un petit groupe d'urgence est opérationnel et un service de crise a été mis en place, tandis que les auteurs de l'attaque ont demandé à la direction du musée de prendre contact avec eux. Malgré l'attaque, le fonctionnement du musée pour les visiteurs et la billetterie en ligne n'ont pas été affectés, car ils sont hébergés sur des serveurs externes.",
+        "title": "Hunderte Mitarbeitende seit fünf Wochen offline: Cyberangriff legt Berlins Naturkundemuseum lahm",
+        "url": "https://www.tagesspiegel.de/berlin/hunderte-mitarbeitende-seit-funf-wochen-offline-cyberangriff-legt-berlins-naturkundemuseum-lahm-10825915.html"
+    },
+    {
         "date": "2022-11-10",
         "victim": "London & Zurich",
         "country": "GBR",
