@@ -1,5 +1,13 @@
 [
     {
+        "date": "2023-11-24",
+        "victim": "UT Health East Texas",
+        "country": "USA",
+        "summary": "Un réseau d'hôpitaux à l'est du Texas ne peut pas recevoir d'ambulances en raison d'un \"incident potentiel de cybersécurité\" qui a commencé le jour de Thanksgiving, forçant l'utilisation de procédures d'urgence pendant que l'enquête est en cours. La panne de réseau a été détectée jeudi et il y avait une attente initiale de rétablissement des systèmes informatiques dans les 24 à 36 heures, mais la situation reste incertaine. Cette cyberattaque s'inscrit dans une série d'incidents similaires affectant les hôpitaux américains, avec une augmentation des attaques de rançongiciels signalées en 2023 par rapport à l'année précédente.",
+        "title": "East Texas hospital network can’t receive ambulances because of potential cybersecurity incident | CNN",
+        "url": "https://edition.cnn.com/2023/11/24/us/east-texas-hospital-cybersecurity/index.html"
+    },
+    {
         "date": "2023-11-22",
         "victim": "Svenska kyrkan (l'Église suédoise)",
         "country": "SWE",
