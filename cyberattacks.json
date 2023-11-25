@@ -1,5 +1,13 @@
 [
     {
+        "date": "2023-09-27",
+        "victim": "Univerzita obrany (Université de la Défense à Brno)",
+        "country": "CZE",
+        "summary": "L'Université de la Défense à Brno a été victime d'une cyberattaque par le groupe de ransomware Monti, qui a dérobé et publié une liste de 150 000 fichiers, incluant des données personnelles et financières des employés et enseignants. Les hackers ont menacé de publier 750 gigaoctets de données à moins qu'une rançon ne soit payée. Les autorités, y compris la police militaire et l'Office national de la cybersécurité et de la sécurité de l'information, enquêtent sur l'incident.",
+        "title": "Univerzitu obrany napadli hackeři. Unikla data pracovníků a vyučujících včetně finančních výkazů | iROZHLAS - spolehlivé zprávy",
+        "url": "https://www.irozhlas.cz/zpravy-domov/unob-univerzita-obrany-kyberneticky-utok-hackeri_2309271200_kac"
+    },
+    {
         "date": "2023-11-24",
         "victim": "UT Health East Texas",
         "country": "USA",
