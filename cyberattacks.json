@@ -1,5 +1,13 @@
 [
     {
+        "date": "2023-11-23",
+        "victim": "Hillcrest HealthCare System",
+        "country": "USA",
+        "summary": "Le système de santé Hillcrest HealthCare System détourne certains patients des urgences en raison d'une possible cyberattaque qui a été détectée jeudi dernier et qui affecte l'accès aux dossiers des patients. L'équipe de Hillcrest travaille à évaluer l'impact de cette panne et à rétablir l'accès, tout en suivant les protocoles établis en cas d'interruption. L'accès MyChart de Hillcrest pour les patients est également indisponible.",
+        "title": "Hillcrest diverts some patients amid possible computer hack",
+        "url": "https://tulsaworld.com/news/local/hillcrest-healthcare-system-diverting-some-er-patients-amid-possible-computer-system-hack/article_1e9bfaf2-8b14-11ee-8fb7-5b33956cff8c.html"
+    },
+    {
         "date": "2023-11-25",
         "victim": "AVU (Energieversorger)",
         "country": "DEU",
