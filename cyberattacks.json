@@ -1,5 +1,13 @@
 [
     {
+        "date": "2023-05-01",
+        "victim": "Mission Community Hospital",
+        "country": "USA",
+        "summary": "L'Hôpital communautaire de Mission en Californie a commencé à informer ses patients d'une cyberattaque survenue en mai 2023, au cours de laquelle des données personnelles et de santé protégées ont été exposées, y compris des noms, adresses, numéros de sécurité sociale et informations financières. Une enquête a révélé que l'accès non autorisé au réseau de l'hôpital a eu lieu le même jour où les fichiers contenant les données des patients ont été consultés, et les individus affectés se sont vu offrir un an de service de surveillance de crédit et de protection contre le vol d'identité. Le groupe de ransomware RansomHouse a revendiqué la responsabilité de l'attaque, prétendant avoir infiltré plus de 2",
+        "title": "Mission Community Hospital Alerts Patients About May 2023 Cyberattack",
+        "url": "https://www.hipaajournal.com/mission-community-hospital-alerts-patients-about-may-2023-cyberattack/"
+    },
+    {
         "date": "2023-11-14",
         "victim": "King Edward VII’s Hospital",
         "country": "GBR",
