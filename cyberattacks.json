@@ -1,5 +1,13 @@
 [
     {
+        "date": "2023-11-22",
+        "victim": "New Relic",
+        "country": "USA",
+        "summary": "New Relic, une entreprise spécialisée dans le suivi web et l'analyse de données, a émis un avertissement de sécurité à ses clients concernant un incident de cybersécurité récent, sans toutefois fournir de détails précis sur la nature de l'incident. La société conseille à ses clients de rester vigilants et de surveiller toute activité suspecte sur leurs comptes, indiquant que ceux qui nécessitent des actions spécifiques seront contactés directement. L'enquête est en cours avec l'aide d'experts en cybersécurité tiers, mais New Relic n'a pas répondu aux questions concernant l'étendue de l'incident ou les données potentiellement compromises.",
+        "title": "New Relic warns customers it's experienced a cyber incident • The Register",
+        "url": "https://www.theregister.com/2023/11/23/new_relic_cyber_incident_warning/"
+    },
+    {
         "date": "2023-11-25",
         "victim": "AVU (Energieversorger)",
         "country": "DEU",
