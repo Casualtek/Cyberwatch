@@ -1,5 +1,13 @@
 [
     {
+        "date": "2023-11-14",
+        "victim": "King Edward VII’s Hospital",
+        "country": "GBR",
+        "summary": "Le GCHQ, via son Centre national de cybersécurité (NCSC), enquête sur une cyberattaque ayant touché l'hôpital King Edward VII à Londres, où des données médicales confidentielles de patients ont été dérobées. Bien que les données médicales des membres de la famille royale soient conservées séparément et n'aient pas été affectées, moins de 1 % des patients de l'hôpital ont vu leurs informations personnelles compromises. Les patients concernés ont été avertis du risque de mésusage de leurs données et se sont vu offrir un service de surveillance d'identité et de crédit.",
+        "title": "GCHQ investigates cyber attack on hospital to the royals after data stolen",
+        "url": "https://www.telegraph.co.uk/news/2023/11/25/gchq-investigates-cyber-attack-hospital-to-royals/"
+    },
+    {
         "date": "2023-11-22",
         "victim": "New Relic",
         "country": "USA",
