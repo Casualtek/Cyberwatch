@@ -1,13 +1,5 @@
 [
     {
-        "date": "2023-11-23",
-        "victim": "Hillcrest HealthCare System",
-        "country": "USA",
-        "summary": "Le système de santé Hillcrest HealthCare System détourne certains patients des urgences en raison d'une possible cyberattaque qui a été détectée jeudi dernier et qui affecte l'accès aux dossiers des patients. L'équipe de Hillcrest travaille à évaluer l'impact de cette panne et à rétablir l'accès, tout en suivant les protocoles établis en cas d'interruption. L'accès MyChart de Hillcrest pour les patients est également indisponible.",
-        "title": "Hillcrest diverts some patients amid possible computer hack",
-        "url": "https://tulsaworld.com/news/local/hillcrest-healthcare-system-diverting-some-er-patients-amid-possible-computer-system-hack/article_1e9bfaf2-8b14-11ee-8fb7-5b33956cff8c.html"
-    },
-    {
         "date": "2023-11-25",
         "victim": "AVU (Energieversorger)",
         "country": "DEU",
@@ -33,9 +25,9 @@
     },
     {
         "date": "2023-11-24",
-        "victim": "UT Health East Texas",
+        "victim": "Ardent Health Services",
         "country": "USA",
-        "summary": "Un réseau d'hôpitaux à l'est du Texas ne peut pas recevoir d'ambulances en raison d'un \"incident potentiel de cybersécurité\" qui a commencé le jour de Thanksgiving, forçant l'utilisation de procédures d'urgence pendant que l'enquête est en cours. La panne de réseau a été détectée jeudi et il y avait une attente initiale de rétablissement des systèmes informatiques dans les 24 à 36 heures, mais la situation reste incertaine. Cette cyberattaque s'inscrit dans une série d'incidents similaires affectant les hôpitaux américains, avec une augmentation des attaques de rançongiciels signalées en 2023 par rapport à l'année précédente.",
+        "summary": "Un réseau d'hôpitaux à l'est du Texas ne peut pas recevoir d'ambulances en raison d'un \"incident potentiel de cybersécurité\" qui a commencé le jour de Thanksgiving, forçant l'utilisation de procédures d'urgence pendant que l'enquête est en cours. L'incident affecte en fait plusieurs autres hôpitaux du groupe Ardent Health Services. L'un d'entre eux parle ouvertement de ransomware.",
         "title": "East Texas hospital network can’t receive ambulances because of potential cybersecurity incident | CNN",
         "url": "https://edition.cnn.com/2023/11/24/us/east-texas-hospital-cybersecurity/index.html"
     },
