@@ -1,5 +1,13 @@
 [
     {
+        "date": "2023-11-27",
+        "victim": "Prefeitura de Taboão da Serra",
+        "country": "BRA",
+        "summary": "La municipalité de Taboão da Serra a confirmé avoir été victime d'une cyberattaque qui a affecté son portail officiel, lequel est temporairement hors ligne pour des raisons de sécurité avec une prévision de rétablissement prochain. Ce n'est pas la première fois que la municipalité est ciblée, ayant déjà subi un ransomware en août 2021 qui avait compromis ses serveurs principaux et de sauvegarde. Les autorités compétentes et la police de Taboão da Serra ont été informées de l'incident.",
+        "title": "Prefeitura de Taboão da Serra sofre incidente cibernético | Security Report",
+        "url": "https://www.securityreport.com.br/prefeitura-de-taboao-da-serra-sofre-incidente-cibernetico/"
+    },
+    {
         "date": "2023-05-01",
         "victim": "Mission Community Hospital",
         "country": "USA",
