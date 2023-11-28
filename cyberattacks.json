@@ -1,5 +1,13 @@
 [
     {
+        "date": "2023-11-17",
+        "victim": "Gellyberry Studios",
+        "country": "SWE",
+        "summary": "Le serveur du jeu en ligne indépendant \"Ethyrial: Echoes of Yore\" a été victime d'une attaque par ransomware, entraînant la perte de 17 000 comptes de joueurs, y compris leurs objets, titres et progression dans le jeu. Les développeurs de Gellyberry Studios ont décidé de reconstruire manuellement chaque compte affecté et d'offrir un animal de compagnie premium en compensation, tout en annonçant des améliorations de sécurité pour éviter de futures attaques. Aucun groupe de ransomware n'a été identifié comme responsable de l'attaque et il est peu probable que les données virtuelles perdues soient menacées de divulgation sur le dark web.",
+        "title": "Ransomware hack destroys 17,000 player accounts on indie MMO - Cyber Daily",
+        "url": "https://www.cyberdaily.au/culture/9866-ransomware-hack-destroys-17-000-player-accounts-on-indie-mmo"
+    },
+    {
         "date": "2023-11-27",
         "victim": "Ministerio de Finanzas Públicas (Minfin)",
         "country": "GTM",
