@@ -1,5 +1,13 @@
 [
     {
+        "date": "2023-11-28",
+        "victim": "Grimme",
+        "country": "DEU",
+        "summary": "La nuit de lundi à mardi, la fabrique de machines agricoles Grimme, située à Damme, a été la cible d'une cyberattaque, ce qui a entraîné l'arrêt de la production et le renvoi des employés chez eux. Les conséquences de l'attaque ne sont pas encore claires, mais l'IT interne a détecté l'incident assez tôt, et l'entreprise a mis en place un état-major de crise tout en examinant minutieusement tous les systèmes. Grimme, qui est une entreprise globalement connectée, avait renforcé ses mesures de sécurité, ce qui pourrait s'avérer bénéfique face à cette attaque.",
+        "title": "Grimme von Hacker-Angriff betroffen - OM online",
+        "url": "https://www.om-online.de/wirtschaft/grimme-von-hacker-angriff-betroffen-180711"
+    },
+    {
         "date": "2023-10-27",
         "victim": "Smidts Autogroep",
         "country": "NLD",
