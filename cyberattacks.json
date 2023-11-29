@@ -1,5 +1,13 @@
 [
     {
+        "date": "2023-11-24",
+        "victim": "Capital Health",
+        "country": "USA",
+        "summary": "Un deuxième système de santé du New Jersey, Capital Health, a signalé une cyberattaque sur son réseau informatique pendant le week-end de Thanksgiving, entraînant des perturbations dans ses établissements. Hackensack Meridian Health a également été ciblé par une attaque par ransomware, affectant deux de ses centres médicaux et obligeant à détourner les nouveaux patients des urgences. Capital Health collabore avec les forces de l'ordre et des experts tiers pour résoudre le problème, sans confirmation d'une éventuelle exposition de données patient.",
+        "title": "Another NJ healthcare provider targeted in cyberattack",
+        "url": "https://nj1015.com/another-nj-healthcare-provider-targeted-in-cyberattack/"
+    },
+    {
         "date": "2022-11-29",
         "victim": "Japan Aerospace Exploration Agency (JAXA)",
         "country": "JPN",
