@@ -1,6 +1,14 @@
 [
     {
         "date": "2023-11-28",
+        "victim": "Inros Lackner",
+        "country": "DEU",
+        "summary": "L'entreprise de planification de projets Inros Lackner, basée à Rostock, a été touchée par une attaque numérique affectant principalement ses téléphones et son système de fichiers informatiques.",
+        "title": "Hacker attackieren offenbar Kreis Vorpommern-Rügen | NDR.de - Nachrichten - Mecklenburg-Vorpommern",
+        "url": "https://www.ndr.de/nachrichten/mecklenburg-vorpommern/Hacker-attackieren-offenbar-Kreis-Vorpommern-Ruegen,hackerangriff194.html"
+    },
+    {
+        "date": "2023-11-20",
         "victim": "Landkreis Vorpommern-Rügen",
         "country": "DEU",
         "summary": "Les systèmes informatiques de l'administration du district de Vorpommern-Rügen en Allemagne ont été déconnectés d'Internet pour des raisons de sécurité suite à une suspicion de cyberattaque. La gestion administrative n'est actuellement accessible que par téléphone, et la police criminelle a été alertée pour enquêter sur l'incident. Les techniciens informatiques du district travaillent à résoudre le problème, mais il n'est pas encore certain qu'il s'agisse d'une attaque de hackers ou de la nature exacte du problème.",
