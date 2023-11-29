@@ -1,6 +1,14 @@
 [
     {
         "date": "2023-11-28",
+        "victim": "Klinikum Esslingen",
+        "country": "DEU",
+        "summary": "Le 28 novembre vers 17 heures, le Centre hospitalier d'Esslingen a été victime d'une cyberattaque ciblée. Une personne inconnue a accédé aux systèmes informatiques à distance, causant des dommages aux systèmes d'imagerie et supprimant des données internes de l'administration. Les données des patients dans le système d'information hospitalier sont toutefois intactes. L'activité hospitalière se poursuit, bien que les retards dans l'imagerie soient notés. Des mesures de sécurité ont été prises, une cellule de crise a été créée, et la police a été informée. La restauration des systèmes est en cours, et la pleine fonctionnalité devrait être rétablie dans les prochaines 24 heures.",
+        "title": "Cyberangriff: Daten gelöscht bei digitalem Einbruch ins Klinikum Esslingen - kma Online",
+        "url": "https://www.kma-online.de/aktuelles/klinik-news/detail/daten-geloescht-bei-digitalem-einbruch-ins-klinikum-esslingen-51112"
+    },
+    {
+        "date": "2023-11-28",
         "victim": "HTC Global Services",
         "country": "USA",
         "summary": "Le site web de Hendricks Regional Health a été mis hors ligne mardi à la suite d'une cyberattaque ciblant un prestataire externe, HTC Global Services. Les responsables de l'hôpital affirment que le site web attaqué n'est pas lié à leurs plateformes de données patients et qu'aucune information patient n'est compromise. Il n'y a pas d'information sur le moment où le site sera de nouveau accessible.",
