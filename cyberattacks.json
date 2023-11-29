@@ -1,5 +1,13 @@
 [
     {
+        "date": "2023-11-29",
+        "victim": "AUSL Modena",
+        "country": "ITA",
+        "summary": "Les systèmes informatiques de l'Azienda USL di Modena, de l'Azienda Ospedaliero-Universitaria di Modena et de l'Ospedale di Sassuolo Spa ont été attaqués par des hackers dans la nuit. L'attaque présente des similitudes avec celles survenues dans d'autres régions ces derniers mois.",
+        "title": "AUSL Modena - Attacco hacker ai sistemi delle tre Aziende sanitarie modenesi",
+        "url": "https://www.ausl.mo.it/attacco-hacker-aziende-sanitarie-modena"
+    },
+    {
         "date": "2023-11-26",
         "victim": "Compass Group Italia S.p.A.",
         "country": "ITA",
