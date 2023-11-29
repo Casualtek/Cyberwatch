@@ -1,6 +1,14 @@
 [
     {
         "date": "2023-11-20",
+        "victim": "Landkreis Vorpommern-Rügen",
+        "country": "DEU",
+        "summary": "Les systèmes informatiques de l'administration du district de Vorpommern-Rügen en Allemagne ont été déconnectés d'Internet pour des raisons de sécurité suite à une suspicion de cyberattaque. La gestion administrative n'est actuellement accessible que par téléphone, et la police criminelle a été alertée pour enquêter sur l'incident. Les techniciens informatiques du district travaillent à résoudre le problème, mais il n'est pas encore certain qu'il s'agisse d'une attaque de hackers ou de la nature exacte du problème.",
+        "title": "IT-Systeme wegen Hacker-Angriff vom Netz getrennt",
+        "url": "https://www.nordkurier.de/regional/mecklenburg-vorpommern/it-systeme-wegen-hacker-angriff-vom-netz-getrennt-2087535"
+    },
+    {
+        "date": "2023-11-20",
         "victim": "LivaNova",
         "country": "GBR",
         "summary": "LivaNova, une entreprise basée à Londres qui gère les déchets nucléaires de l'ancien site Sorin à Saluggia en Italie, a signalé un incident de sécurité informatique qui a perturbé certains de ses systèmes, selon un document déposé auprès de la Securities and Exchange Commission des États-Unis le 20 novembre. L'entreprise enquête sur l'incident avec l'aide d'experts en cybersécurité et a pris des mesures pour contenir les dommages, y compris la mise hors ligne de certains systèmes. L'impact exact de l'incident sur les opérations, la trésorerie et la situation financière de LivaNova reste indéterminé.",
