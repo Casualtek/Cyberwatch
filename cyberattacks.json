@@ -1,5 +1,13 @@
 [
     {
+        "date": "2023-11-20",
+        "victim": "LivaNova",
+        "country": "GBR",
+        "summary": "LivaNova, une entreprise basée à Londres qui gère les déchets nucléaires de l'ancien site Sorin à Saluggia en Italie, a signalé un incident de sécurité informatique qui a perturbé certains de ses systèmes, selon un document déposé auprès de la Securities and Exchange Commission des États-Unis le 20 novembre. L'entreprise enquête sur l'incident avec l'aide d'experts en cybersécurité et a pris des mesures pour contenir les dommages, y compris la mise hors ligne de certains systèmes. L'impact exact de l'incident sur les opérations, la trésorerie et la situation financière de LivaNova reste indéterminé.",
+        "title": "Attacco informatico alla LivaNova ex Sorin: il gestore delle Scorie Nucleari italiane",
+        "url": "https://www.redhotcyber.com/post/attacco-informatico-alla-livanova-ex-sorin-il-gestore-delle-scorie-nucleari-italiane/"
+    },
+    {
         "date": "2023-11-24",
         "victim": "Capital Health",
         "country": "USA",
