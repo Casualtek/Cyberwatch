@@ -1,5 +1,13 @@
 [
     {
+        "date": "2023-11-26",
+        "victim": "Compass Group Italia S.p.A.",
+        "country": "ITA",
+        "summary": "Compass Group Italia, une entreprise majeure dans le secteur des services alimentaires et de la restauration scolaire, a été victime d'une cyberattaque suspectée d'être un ransomware, potentiellement perpétrée par le groupe criminel Akira. L'attaque soulève des inquiétudes concernant la sécurité des données sensibles des clients et des employés, bien que l'entreprise ait affirmé que son fonctionnement n'a pas été compromis et qu'elle travaille à renforcer ses systèmes informatiques. La société collabore avec les autorités et des experts en cybersécurité pour prévenir de futures intrusions et protéger les données personnelles, tout en maintenant la transparence avec ses clients et employés.",
+        "title": "Attacco informatico a Compass Group Italia: a richio anche i dati di molte mense scolastiche - Cyber Security 360",
+        "url": "https://www.cybersecurity360.it/nuove-minacce/ransomware/attacco-informatico-a-compass-group-italia-a-richio-anche-i-dati-di-molte-mense-scolastiche/"
+    },
+    {
         "date": "2023-11-27",
         "victim": "Newfound Area School District",
         "country": "USA",
