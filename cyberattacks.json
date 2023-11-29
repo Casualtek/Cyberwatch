@@ -1,5 +1,13 @@
 [
     {
+        "date": "2022-11-29",
+        "victim": "Japan Aerospace Exploration Agency (JAXA)",
+        "country": "JPN",
+        "summary": "L'agence spatiale japonaise, JAXA, a été victime d'une cyberattaque, mais les informations compromises ne concernent pas les opérations importantes liées aux fusées et aux satellites. L'attaque a été découverte après un avertissement d'une organisation externe et une enquête interne, mais l'agence n'a pas révélé le nom de cette organisation. Les médias japonais ont rapporté que l'attaque s'est produite pendant l'été et que la police a informé JAXA de l'incident cet automne.",
+        "title": "Japan space agency hit with cyberattack, rocket and satellite info not accessed | Reuters",
+        "url": "https://www.reuters.com/technology/cybersecurity/japan-space-agency-hit-with-cyberattack-this-summer-media-2023-11-29/"
+    },
+    {
         "date": "2023-11-20",
         "victim": "Tazewell County",
         "country": "USA",
