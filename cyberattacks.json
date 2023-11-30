@@ -1,6 +1,14 @@
 [
     {
         "date": "2023-11-27",
+        "victim": "Staples",
+        "country": "USA",
+        "summary": "La chaîne américaine de fournitures de bureau Staples a subi une cyberattaque qui a entraîné des perturbations de ses services internes, notamment des problèmes d'accès à divers systèmes et une interruption des communications et du service client. En réponse, Staples a pris des mesures pour contenir l'impact de l'attaque et protéger les données des clients, ce qui a temporairement perturbé les opérations de traitement et de livraison des produits. Bien que les magasins restent ouverts, les commandes en ligne peuvent subir des retards, mais aucun ransomware n'a été déployé et aucun fichier n'a été chiffré lors de l'attaque.",
+        "title": "Staples confirms cyberattack behind service outages, delivery issues",
+        "url": "https://www.bleepingcomputer.com/news/security/staples-confirms-cyberattack-behind-service-outages-delivery-issues/"
+    },
+    {
+        "date": "2023-11-27",
         "victim": "Río Grande",
         "country": "PRI",
         "summary": "Río Grande a été victime d'une attaque cybernétique. Le responsable informatique a constaté une absence de données sur les écrans après avoir remarqué une extraction partielle lundi. Une entreprise de cybersécurité a confirmé une attaque de hackers avec un virus, entraînant des dommages estimés à environ 75 000 $. Le maire assure que la perte de données est minime. Une enquête est en cours.",
