@@ -1,5 +1,13 @@
 [
     {
+        "date": "2022-11-23",
+        "victim": "City of Hendersonville",
+        "country": "USA",
+        "summary": "La ville de Hendersonville, en Caroline du Nord, a été victime d'une cyberattaque qui a tenté d'accéder aux données des employés municipaux. Après avoir découvert l'incident, la ville a fait appel à la North Carolina Joint Cybersecurity Task Force et à des forces de l'ordre de différents niveaux, ainsi qu'à des experts en cybersécurité pour mener une enquête.",
+        "title": "City of Hendersonville affected by cyber attack",
+        "url": "https://www.wspa.com/news/local-news/city-of-hendersonville-affected-by-cyber-attack/"
+    },
+    {
         "date": "2022-11-29",
         "victim": "Groupe Guyamier",
         "country": "FRA",
