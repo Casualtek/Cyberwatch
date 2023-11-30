@@ -1,5 +1,13 @@
 [
     {
+        "date": "2023-11-23",
+        "victim": "Quantum Radiology",
+        "country": "AUS",
+        "summary": "Une clinique de radiologie à Sydney, Quantum Radiology, a fermé temporairement ses 10 établissements à la suite d'une cyberattaque, laissant les patients sans informations ni accès à leurs rendez-vous ou résultats médicaux. Les clients, comme David Montgomery, ont été informés que l'annulation de leurs rendez-vous était due à un \"problème informatique imprévu\", sans mention de l'attaque. La clinique collabore avec la police et des experts en cybersécurité, mais il n'est pas encore certain que les informations médicales personnelles aient été compromises.",
+        "title": "Patients in the dark after cyberattack forces closure of radiology clinic",
+        "url": "https://www.9news.com.au/national/quantum-radiology-hit-by-cyberattack-patients-in-the-dark/81428039-3254-45d2-94b3-872cb85e3164"
+    },
+    {
         "date": "2022-11-23",
         "victim": "City of Hendersonville",
         "country": "USA",
