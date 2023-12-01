@@ -1,5 +1,13 @@
 [
     {
+        "date": "2023-05-24",
+        "victim": "Proliance Surgeons",
+        "country": "USA",
+        "summary": "Proliance Surgeons a informé 437 392 patients d'une violation de données suite à une attaque par ransomware qui a entraîné le chiffrement de fichiers et le vol de données personnelles, y compris des informations médicales et d'identification. La cyberattaque a été détectée pour la première fois le 24 mai 2023, avec un accès non autorisé remontant au 11 février 2023, mais les détails spécifiques concernant les individus affectés n'ont été identifiés qu'après une enquête approfondie. Aucune réponse n'a été fournie aux questions de DataBreaches concernant les détails de l'attaque, et il n'y a pas d'indication que les données aient été divulguées sur le dark web",
+        "title": "Proliance Surgeons notifying 437,392 patients after ransomware attack earlier this year",
+        "url": "https://www.databreaches.net/proliance-surgeons-notifying-437392-patients-after-ransomware-attack-earlier-this-year/"
+    },
+    {
         "date": "2023-09-29",
         "victim": "Rock County",
         "country": "USA",
