@@ -1,5 +1,13 @@
 [
     {
+        "date": "2023-09-29",
+        "victim": "Rock County",
+        "country": "USA",
+        "summary": "Des informations personnelles et sensibles d'employés et de clients ont été dérobées lors d'une attaque de cybersécurité par ransomware contre le département des services humains du comté de Rock, suite à une campagne de phishing par e-mail. L'attaque, qui a eu lieu entre le 22 et le 30 septembre, a été revendiquée par le gang de ransomware Cuba, sans lien avec le pays, et a entraîné une demande de rançon de 1,9 million de dollars, qui n'a pas été payée. Les victimes concernées recevront un avis par courrier avec des instructions et une offre de surveillance de crédit gratuite, bien qu'aucune fraude ou vol d'identité n'ait été signalé suite à l'incident.",
+        "title": "Cybersecurity attack steals Rock County Human Services info",
+        "url": "https://madison.com/news/local/government-politics/wisconsin-cybersecurity-attack-rock-county-human-services/article_4933088a-8f94-11ee-a05c-4788e5405613.html"
+    },
+    {
         "date": "2023-11-30",
         "victim": "Drum/Binghamstown Group Water Scheme",
         "country": "IRL",
