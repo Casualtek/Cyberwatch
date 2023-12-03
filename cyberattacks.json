@@ -1,5 +1,13 @@
 [
     {
+        "date": "2023-11-26",
+        "victim": "Ongoing Operations",
+        "country": "USA",
+        "summary": "Environ 60 caisses de crédit font face à des interruptions de service à la suite d'une attaque par rançongiciel contre Ongoing Operations, un fournisseur de services cloud appartenant à la société de technologie pour les caisses de crédit Trellance. L'attaque a eu des répercussions sur d'autres fournisseurs de technologie pour les caisses de crédit, y compris FedComp, et les autorités fédérales, y compris la NCUA, le Trésor américain, le FBI et la CISA, ont été informées de l'incident. La NCUA a récemment mis en place de nouvelles règles exigeant des notifications d'incident de cybersécurité dans les 72 heures et a signalé une augmentation des cyberattaques impliquant",
+        "title": "60 credit unions facing outages due to ransomware attack on popular tech provider",
+        "url": "https://therecord.media/credit-unions-facing-outages-due-to-ransomware"
+    },
+    {
         "date": "2023-05-24",
         "victim": "Proliance Surgeons",
         "country": "USA",
