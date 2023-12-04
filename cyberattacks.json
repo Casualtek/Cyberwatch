@@ -1,5 +1,13 @@
 [
     {
+        "date": "2023-11-24",
+        "victim": "Fred Hutchinson Cancer Center",
+        "country": "USA",
+        "summary": "Le Fred Hutchinson Cancer Center à Seattle a été victime d'une cyberattaque durant la semaine de Thanksgiving, affectant une partie de son réseau clinique, potentiellement incluant des informations sur les patients. Une enquête est en cours avec l'aide d'experts en cybersécurité et les autorités fédérales pour évaluer l'étendue des données compromises, et le réseau clinique a été déconnecté. D'autres établissements de santé ont également subi des cyberattaques pendant la même période, mais le réseau de recherche du Fred Hutchinson Cancer Center n'a pas été touché.",
+        "title": "Thanksgiving week cyberattack detected at Fred Hutchinson Cancer Center | The Daily Chronicle",
+        "url": "https://www.chronline.com/stories/thanksgiving-week-cyberattack-detected-at-fred-hutchinson-cancer-center,330240"
+    },
+    {
         "date": "2023-11-26",
         "victim": "Ongoing Operations",
         "country": "USA",
