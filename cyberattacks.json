@@ -1,5 +1,13 @@
 [
     {
+        "date": "2023-11-22",
+        "victim": "Å-data infosystem AB",
+        "country": "SWE",
+        "summary": "Le système financier de la commune géré par Strömsunds energi AB a été ciblé par une cyberattaque, mais les systèmes propres à la commune n'ont pas été affectés. La commune travaille à résoudre manuellement certaines tâches, bien que l'accès au système financier soit limité, ce qui pourrait entraîner des retards dans l'émission et le paiement des factures pour les résidents et les fournisseurs. La commune a signalé l'incident à l'Integritetsskyddsmyndigheten (IMY) et a été informée que les données personnelles sensibles n'ont pas été divulguées lors de l'attaque.",
+        "title": "Kommunens ekonomisystem utsatt för cyberattack - Strömsunds energi AB",
+        "url": "https://www.stromsundsenergi.se/878.html"
+    },
+    {
         "date": "2023-11-24",
         "victim": "Fred Hutchinson Cancer Center",
         "country": "USA",
