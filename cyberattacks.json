@@ -1,5 +1,13 @@
 [
     {
+        "date": "2023-11-30",
+        "victim": "Ville de Lac-Mégantic",
+        "country": "CAN",
+        "summary": "La Ville de Lac-Mégantic a été frappée par une cyberattaque le 30 novembre, entraînant une panne informatique affectant tous ses services municipaux. Les communications par courriel avec la ville sont interrompues, obligeant les citoyens à utiliser le téléphone ou à se déplacer pour contacter les employés municipaux. Une firme a été engagée pour enquêter sur l'origine de l'attaque et la mairesse Julie Morin exprime ses inquiétudes quant à l'impact sur la préparation et la présentation du budget 2024.",
+        "title": "La ville Lac-Mégantic victime d'une cyberattaque - 107.7 Estrie",
+        "url": "https://www.fm1077.ca/audio/594290/la-ville-lac-megantic-victime-d-une-cyberattaque"
+    },
+    {
         "date": "2023-11-22",
         "victim": "Å-data infosystem AB",
         "country": "SWE",
