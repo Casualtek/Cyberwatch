@@ -1,5 +1,14 @@
 [
     {
+        "date": "2023-12-06",
+        "victim": "Nissan Oceania",
+        "domain": "nissan.com.au",
+        "country": "AUS",
+        "summary": "Le constructeur automobile japonais Nissan enquête sur une cyberattaque qui a ciblé ses systèmes en Australie et en Nouvelle-Zélande, et qui pourrait avoir permis aux pirates d'accéder à des informations personnelles. Nissan Océanie a informé ses clients d'une potentielle violation de données et les a mis en garde contre le risque d'escroqueries à venir. L'entreprise travaille avec son équipe mondiale de réponse aux incidents pour évaluer l'impact de l'attaque et s'efforce de restaurer les systèmes affectés, tout en précisant que le réseau de concessionnaires n'est pas impacté.",
+        "title": "Nissan is investigating cyberattack and potential data breach",
+        "url": "https://www.bleepingcomputer.com/news/security/nissan-is-investigating-cyberattack-and-potential-data-breach/"
+    },
+    {
         "date": "2023-12-05",
         "victim": "Gräbener Maschinentechnik",
         "domain": "graebener.com",
