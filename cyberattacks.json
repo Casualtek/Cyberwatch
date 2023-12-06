@@ -1,5 +1,13 @@
 [
     {
+        "date": "2023-11-05",
+        "victim": "Hermon School Department",
+        "country": "USA",
+        "summary": "Le département scolaire de Hermon a été victime d'une attaque par rançongiciel début novembre, rapidement contenue par la société DNS Albany, ciblant principalement le service PowerSchool. Aucune rançon n'a été payée et il est supposé que seules des informations d'annuaire telles que les noms et adresses ont été accédées. La sécurité a été mise en question avec la découverte de vulnérabilités dans les systèmes utilisés par l'école, et un nouveau directeur de l'informatique a été embauché malgré des préoccupations concernant son expérience.",
+        "title": "Hermon School Department hit with ransomware attack",
+        "url": "https://www.bangordailynews.com/2023/12/04/news/bangor/hermon-school-department-ransomware-attack/"
+    },
+    {
         "date": "2023-12-05",
         "victim": "Dameron Hospital",
         "country": "USA",
