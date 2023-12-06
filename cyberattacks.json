@@ -1,6 +1,15 @@
 [
     {
         "date": "2023-12-05",
+        "victim": "Gräbener Maschinentechnik",
+        "domain": "graebener.com",
+        "country": "DEU",
+        "summary": "La société Gräbener Maschinentechnik, basée à Werthenbach, a été la cible d'une cyberattaque. Heureusement, l'entreprise a réussi à empêcher le chiffrement de ses données. Actuellement, Gräbener Maschinentechnik travaille à la remise en service de son réseau.",
+        "title": "Netphen: Cyberangriff auf Werthenbacher Firma Gräbener Maschinentechnik",
+        "url": "https://www.siegener-zeitung.de/lokales/siegerland/netphen/netphen-cyberangriff-auf-werthenbacher-firma-graebener-maschinentechnik-XROC6S5VH5BRBIN7NFZE6ROPE4.html"
+    },
+    {
+        "date": "2023-12-05",
         "victim": "Dameron Hospital",
         "domain": "dameronhospital.org",
         "country": "USA",
