@@ -1,5 +1,14 @@
 [
     {
+        "date": "2023-09-29",
+        "victim": "Cardiovascular Consultants, Ltd. (CVC)",
+        "domain": "cvcheart.com",
+        "country": "USA",
+        "summary": "Le 29 septembre 2023, Cardiovascular Consultants, filiale de Fresenius Medical Care AG aux États-Unis, a constaté une violation de sécurité affectant certains systèmes informatiques. Des données ont été chiffrées et volées par un intrus, touchant les dossiers médicaux électroniques et l'entrepôt de données, potentiellement affectant environ 500 000 patients, anciens patients, garants et 200 employés. Une agence a été engagée pour notifier les patients, fournir des services de centre d'appels et surveiller le crédit des personnes touchées. Une enquête sur l'impact sur une autre filiale, Fresenius Vascular Care, Inc., est en cours.",
+        "title": "SEC Filing",
+        "url": "https://app.quotemedia.com/data/downloadFiling?webmasterId=90423&ref=317911482&type=HTML&symbol=FMS&cdn=8a422f270972d2b154adae673795fef1&companyName=Fresenius+Medical+Care+AG+American+Depositary+Shares+%28Each+representing+1%2F2+of+an%29&formType=6-K&formDescription=Report+of+foreign+private+issuer+pursuant+to+Rule+13a-16+or+15d-16+under+the+Securities+Exchange+Act+of+1934&dateFiled=2023-12-06"
+    },
+    {
         "date": "2023-12-06",
         "victim": "Nissan Oceania",
         "domain": "nissan.com.au",
