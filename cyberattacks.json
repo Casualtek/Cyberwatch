@@ -1,5 +1,14 @@
 [
     {
+        "date": "2023-09-20",
+        "victim": "East River Medical Imaging",
+        "domain": "ermi.com",
+        "country": "USA",
+        "summary": "L'East River Medical Imaging à New York a été victime d'une cyberattaque qui a exposé ou volé les données personnelles de 605 809 patients entre le 31 août et le 20 septembre 2023. Les informations compromises incluent des noms, coordonnées, informations d'assurance, résultats d'imagerie et numéros de sécurité sociale. En outre, le Fred Hutchinson Cancer Center a subi une attaque pendant la semaine de Thanksgiving et la 1st Source Bank a rapporté un vol de données de santé de 1 477 individus en mai 2023 à cause d'une faille zero day.",
+        "title": "East River Medical Imaging Cyberattack Affects 606,000 Patients",
+        "url": "https://www.hipaajournal.com/east-river-medical-imaging-cyberattack-affects-606000-patients/"
+    },
+    {
         "date": "2023-12-06",
         "victim": "Gouvernement du Yucatan",
         "domain": "yucatan.gob.mx",
