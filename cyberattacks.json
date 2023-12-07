@@ -1,5 +1,14 @@
 [
     {
+        "date": "2023-05-18",
+        "victim": "Taylor University",
+        "domain": "taylor.edu",
+        "country": "USA",
+        "summary": "L'Université Taylor a été victime d'une cyberattaque par ransomware le 18 mai 2023, découverte le 16 novembre 2023, affectant les données personnelles et financières d'individus, dont 37 résidents du Maine. La notification écrite aux consommateurs a eu lieu le 4 décembre 2023, et l'université a offert 12 mois de services de surveillance de crédit par IDX. L'entité juridique responsable de la notification est représentée par Colin Battersby de McDonald Hopkins.",
+        "title": "Office of the Maine AG: Consumer Protection: Privacy, Identity Theft and Data Security Breaches",
+        "url": "https://apps.web.maine.gov/online/aeviewer/ME/40/ee773198-b84f-4275-a206-6439a3f77b53.shtml"
+    },
+    {
         "date": "2023-09-20",
         "victim": "East River Medical Imaging",
         "domain": "ermi.com",
