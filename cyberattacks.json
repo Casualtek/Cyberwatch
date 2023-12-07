@@ -1,5 +1,14 @@
 [
     {
+        "date": "2023-12-06",
+        "victim": "Gouvernement du Yucatan",
+        "domain": "yucatan.gob.mx",
+        "country": "MEX",
+        "summary": "Le serveur principal du gouvernement d'un État a détecté une cyberattaque dans la nuit de mercredi, entraînant la désactivation des systèmes en ligne par mesure de précaution. Bien qu'aucun dommage au système central n'ait été initialement constaté, tous les portails des agences gouvernementales ont été désactivés pour protection et surveillance. Les services en ligne resteront indisponibles jusqu'à ce que la sécurité du réseau soit assurée et que les citoyens puissent reprendre leurs démarches administratives en toute sécurité.",
+        "title": "Nuevo ataque cibernético detectado en Gobierno Estatal",
+        "url": "https://reporteroshoy.mx/noticias/nuevo-ataque-cibernetico-detectado-en-gobierno-estatal/"
+    },
+    {
         "date": "2023-09-29",
         "victim": "Cardiovascular Consultants, Ltd. (CVC)",
         "domain": "cvcheart.com",
