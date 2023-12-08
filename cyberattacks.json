@@ -1,6 +1,16 @@
 [
     {
         "date": "2023-12-07",
+        "victim": "Hinsdale School District",
+        "domain": "hnhsd.org",
+        "country": "USA",
+        "summary": "Le district scolaire de Hinsdale a été touché par une attaque de ransomware jeudi matin. Les responsables sont en train d'évaluer la situation avec l'aide de professionnels en cybersécurité et d'assurance cybernétique, et communiqueront davantage d'informations ultérieurement. Tous les ordinateurs portables de l'école ont été récupérés et il est conseillé au personnel et aux élèves de ne pas se connecter à leurs comptes scolaires depuis leurs appareils personnels.",
+        "title": "Hinsdale Schools target of ransomware attack | WKBK Radio",
+        "url": "https://wkbkradio.com/news/190091-hinsdale-schools-target-of-ransomware-attack/",
+        "added": "2023-12-08"
+    },
+    {
+        "date": "2023-12-07",
         "victim": "Prefeitura de Poços de Caldas",
         "domain": "pocosdecaldas.mg.gov.br",
         "country": "BRA",
