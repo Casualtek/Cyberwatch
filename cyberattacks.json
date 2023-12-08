@@ -1,5 +1,15 @@
 [
     {
+        "date": "2023-12-07",
+        "victim": "Prefeitura de Poços de Caldas",
+        "domain": "pocosdecaldas.mg.gov.br",
+        "country": "BRA",
+        "summary": "La mairie de Poços de Caldas, dans l'état de Minas Gerais au Brésil, a annoncé la remise en service progressive de ses systèmes après un possible cyberattaque. Les services publics tels que le journal officiel, les consultations publiques et les documents sont désormais accessibles aux citoyens, bien que la mise à jour du système se fasse de manière graduelle. Des mesures de sécurité supplémentaires sont mises en place pour renforcer la protection du système et prévenir de futures attaques, et l'incident a été signalé à la police civile.",
+        "title": "Após incidente cibernético, Prefeitura de Poços de Caldas anuncia restabelecimento dos serviços | Security Report",
+        "url": "https://www.securityreport.com.br/apos-incidente-cibernetico-prefeitura-de-pocos-de-caldas-anuncia-restabelecimento-dos-servicos/",
+        "added": "2023-12-08"
+    },
+    {
         "date": "2023-02-12",
         "victim": "Sweetwater Union High School District",
         "domain": "sweetwaterschools.org",
