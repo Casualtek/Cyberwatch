@@ -1,5 +1,64 @@
 [
     {
+        "date": "2023-02-12",
+        "victim": "Sweetwater Union High School District",
+        "domain": "sweetwaterschools.org",
+        "country": "USA",
+        "summary": "Plus de 22 000 personnes ont été affectées par une cyberattaque sur le réseau informatique du Sweetwater Union High School District, qui a entraîné le paiement d'une rançon de 175 000 dollars par le district aux pirates. Les documents révèlent que des informations personnelles, y compris les numéros de sécurité sociale et les données des étudiants, ont été compromises lors de l'incident survenu en février 2023. Le district fait face à une action en justice collective et a offert un an de surveillance du crédit aux victimes, tandis que des experts en cybersécurité recommandent l'utilisation de l'authentification à deux facteurs et de mots de passe forts pour se protéger.",
+        "title": "Records reveal scope of Sweetwater Union High School District data breach",
+        "url": "https://www.10news.com/news/local-news/south-bay-news/records-reveal-new-information-about-sweetwater-union-high-school-district-data-breach",
+        "added": "2023-12-08"
+    },
+    {
+        "date": "2023-12-08",
+        "victim": "Province des îles Loyauté",
+        "domain": "province-iles.nc",
+        "country": "NCL",
+        "summary": "La province des îles Loyauté en Nouvelle-Calédonie a été la cible d'une cyberattaque par ransomware, bloquant l'accès aux fichiers et demandant une rançon d'un million de dollars US. Les équipes techniques travaillent depuis pour récupérer les données et espèrent rétablir un service optimal d'ici dimanche, avec certaines directions prioritaires. Une plainte a été déposée et la gendarmerie, avec sa cellule cybercriminalité, est saisie de l'affaire.",
+        "title": "La province des îles Loyauté victime d'une cyberattaque - Nouvelle-Calédonie la 1ère",
+        "url": "https://la1ere.francetvinfo.fr/nouvellecaledonie/province-iles/la-province-des-iles-loyaute-victime-d-une-cyber-attaque-1449239.html",
+        "added": "2023-12-08"
+    },
+    {
+        "date": "2023-03-06",
+        "victim": "Stanley Steemer",
+        "domain": "stanleysteemer.com",
+        "country": "USA",
+        "summary": "La société de nettoyage Stanley Steemer, basée dans l'Ohio, a été victime d'une cyberattaque en mars, affectant environ 68 000 personnes, avec une intrusion détectée le 6 mars après une infiltration le 10 février. Le groupe de ransomware Play a revendiqué la responsabilité de l'attaque, qui a compromis des données sensibles telles que des noms et des numéros de sécurité sociale. En réponse, Stanley Steemer offre deux ans de services de surveillance de crédit aux individus affectés et fait face à des défis juridiques, tout en soulignant l'importance de la cybersécurité dans l'industrie du nettoyage.",
+        "title": "Play Ransomware Gang Claims Responsibility For Stanley Steemer Cyberattack in March: Nearly 68,000 People Affected | Tech Times",
+        "url": "https://www.techtimes.com/articles/299520/20231207/play-ransomware-gang-claims-responsibility-stanley-steemer-cyberattack-march-nearly.htm",
+        "added": "2023-12-08"
+    },
+    {
+        "date": "2023-12-07",
+        "victim": "Université de Wollongong",
+        "domain": "uow.edu.au",
+        "country": "AUS",
+        "summary": "L'Université de Wollongong a été victime d'une cyberattaque détectée jeudi, qui a compromis des données. Il est fortement recommandé aux personnes affiliées à l'université de changer immédiatement leurs mots de passe.",
+        "title": "University of Wollongong cyber attack accessed data on Thursday | Illawarra Mercury | Wollongong, NSW",
+        "url": "https://www.illawarramercury.com.au/story/8453619/university-of-wollongong-cyber-attack-accessed-data-on-thursday/",
+        "added": "2023-12-08"
+    },
+    {
+        "date": "2023-12-06",
+        "victim": "Glendale Unified School District",
+        "domain": "gusd.net",
+        "country": "USA",
+        "summary": "Le Glendale Unified School District a été victime d'une cyberattaque par ransomware, affectant plusieurs de ses systèmes informatiques, ce qui a conduit les responsables à conseiller aux élèves et au personnel d'éviter d'utiliser les ordinateurs fournis par le district. Les détails de la brèche de sécurité ne sont pas encore connus, mais une enquête est en cours avec l'aide de la police de Glendale. Des conseils de prudence ont été donnés aux étudiants et aux parents, notamment d'éviter d'utiliser des appareils connectés aux systèmes informatiques du district et de se méfier des liens et programmes suspects.",
+        "title": "Ransomware attack hits Glendale Unified School District - Daily News",
+        "url": "https://www.dailynews.com/2023/12/06/cybersecurity-incident-affects-glendale-unified-computers-laptops/",
+        "added": "2023-12-08"
+    },
+    {
+        "date": "2023-12-06",
+        "victim": "Université de Sherbrooke",
+        "domain": "usherbrooke.ca",
+        "country": "CAN",
+        "summary": "L'Université de Sherbrooke a été ciblée par une cyberattaque qui a affecté deux de ses laboratoires de recherche, entraînant la compromission de certaines données. La situation a été suffisamment maîtrisée pour que les étudiants et les employés puissent continuer à accéder à leurs plateformes numériques sans impact sur les activités de l'université. Une cellule de crise a été mise en place et une équipe est en train de mener une enquête approfondie sur l'incident.",
+        "title": "L’Université de Sherbrooke a été victime d’une cyberattaque | Radio-Canada",
+        "url": "https://ici.radio-canada.ca/nouvelle/2033246/cyber-attaque-udes-universite-sherbrooke"
+    },
+    {
         "date": "2023-12-07",
         "victim": "Aqualectra",
         "domain": "aqualectra.com",
