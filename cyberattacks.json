@@ -1,5 +1,15 @@
 [
     {
+        "date": "2023-09-27",
+        "victim": "Foursquare Healthcare, Hi-School Pharmacy",
+        "domain": "foursquarehealthcare.com",
+        "country": "USA",
+        "summary": "Foursquare Healthcare, une entreprise texane de soins de santé, a subi une attaque par ransomware en septembre 2023, où des informations personnelles et médicales de 10,890 patients ont été compromises, mais l'entreprise a reçu des assurances que les données volées ont été supprimées. Hi-School Pharmacy, une chaîne de pharmacies basée dans l'État de Washington, a également été victime d'une cyberattaque en novembre 2023, affectant 17,676 personnes avec des informations de santé protégées accessibles aux attaquants. Les deux organisations ont offert des services de surveillance de crédit et de protection contre le vol d'identité aux individus affectés.",
+        "title": "Ransomware Attacks Reported by Foursquare Healthcare and Hi-School Pharmacy",
+        "url": "https://www.hipaajournal.com/ransomware-foursquare-healthcare-hi-school-pharmacy/",
+        "added": "2023-12-08"
+    },
+    {
         "date": "2023-12-07",
         "victim": "Hinsdale School District",
         "domain": "hnhsd.org",
