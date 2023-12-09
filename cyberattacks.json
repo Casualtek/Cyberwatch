@@ -1,5 +1,15 @@
 [
     {
+        "date": "2023-12-08",
+        "victim": "WestPole",
+        "domain": "westpole.it",
+        "country": "ITA",
+        "summary": "Le fournisseur de services italien WestPole a été victime d'une cyberattaque qui a rendu son site web inaccessible. L'entreprise a informé ses clients de l'indisponibilité des services cloud de Rome et Milan, suspectant un possible attaque informatique et sans pouvoir donner de délai pour la restauration des services. Il est suggéré que l'incident pourrait être lié à un ransomware, bien qu'aucune revendication n'ait été faite par des groupes de cybercriminels connus à ce moment.",
+        "title": "Il Service Provider Italiano WestPole è rimasto vittima di un attacco informatico. Il sito web risulta offline",
+        "url": "https://www.redhotcyber.com/post/il-service-provider-italiano-westpole-e-rimasto-vittima-di-un-attacco-informatico-il-sito-web-risulta-offline/",
+        "added": "2023-12-09"
+    },
+    {
         "date": "2023-11-24",
         "victim": "Greater Richmond Transit Company (GRTC)",
         "domain": "ridegrtc.com",
