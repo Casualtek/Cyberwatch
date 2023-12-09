@@ -1,5 +1,15 @@
 [
     {
+        "date": "2023-11-24",
+        "victim": "Greater Richmond Transit Company (GRTC)",
+        "domain": "ridegrtc.com",
+        "country": "USA",
+        "summary": "Le système de transport en commun de la région centrale de Virginie, géré par la Greater Richmond Transit Company (GRTC), a été perturbé par une cyberattaque autour de la période de Thanksgiving, entraînant des problèmes sur certaines applications et parties de leur réseau informatique. La GRTC a rapidement rétabli son réseau avec l'aide de spécialistes en informatique et affirme que les services fonctionnent actuellement normalement sans prévoir de perturbations supplémentaires pour les usagers. Le groupe de ransomware Play a revendiqué l'attaque et a donné à la GRTC jusqu'au 13 décembre pour payer une rançon non divulguée, ciblant plusieurs services municipaux en 2023, y compris d'autres systèmes de transport public à travers les États",
+        "title": "Central Virginia transit system affected by cyber incident",
+        "url": "https://therecord.media/central-va-transit-system-cyberattack",
+        "added": "2023-12-09"
+    },
+    {
         "date": "2023-09-27",
         "victim": "Foursquare Healthcare, Hi-School Pharmacy",
         "domain": "foursquarehealthcare.com",
