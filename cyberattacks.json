@@ -1,6 +1,16 @@
 [
     {
         "date": "2023-12-08",
+        "victim": "Coaxis",
+        "domain": "coaxis.com",
+        "country": "FRA",
+        "summary": "L'entreprise de services numériques Coaxis, certifiée HDS, a été victime d'une cyberattaque par rançongiciel, révélée publiquement le 8 décembre. Le directeur général, Joseph Veigas, a confirmé que les sauvegardes étaient intactes et que l'entreprise était en phase de reconstruction, en prenant soin d'assurer la sécurité des infrastructures. L'article suggère que l'attaque pourrait être liée à l'exploitation de la vulnérabilité Citrix Bleed (CVE-2023-4966), déjà exploitée par des groupes de cybercriminels comme LockBit 3.0 et Medusa dans d'autres incidents.",
+        "title": "Coaxis : une ESN certifiée HDS victime d’un rançongiciel | LeMagIT",
+        "url": "https://www.lemagit.fr/actualites/366562894/Coaxis-une-ESN-certifiee-HDS-victime-dun-incident-de-securite",
+        "added": "2023-12-11"
+    },
+    {
+        "date": "2023-12-08",
         "victim": "WestPole",
         "domain": "westpole.it",
         "country": "ITA",
