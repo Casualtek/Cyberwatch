@@ -1,5 +1,15 @@
 [
     {
+        "date": "2023-12-12",
+        "victim": "District de March",
+        "domain": "march.ch",
+        "country": "CHE",
+        "summary": "Le district de March a été la cible d'une cyberattaque, ce qui a contraint les autorités à éteindre l'ensemble de leur système informatique pour protéger les données. Il n'est pas encore clair quand le système sera de nouveau opérationnel, et cela pourrait prendre plusieurs jours. Actuellement, il est impossible de joindre le Bezirk March par téléphone, mais les audiences prévues au tribunal de district auront lieu comme prévu.",
+        "title": "Cyberangriff auf den Bezirk March | Region",
+        "url": "https://march24.ch/articles/221176-cyberangriff-auf-den-bezirk-march",
+        "added": "2023-12-12"
+    },
+    {
         "date": "2023-12-01",
         "victim": "Communauté de communes du Pays du Neubourg",
         "domain": "paysduneubourg.fr",
