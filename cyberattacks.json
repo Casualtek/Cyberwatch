@@ -1,15 +1,5 @@
 [
     {
-        "date": "2023-12-07",
-        "victim": "Comune di Cerveteri",
-        "domain": "cloud.urbi.it",
-        "country": "ITA",
-        "summary": "Le portail Urbi de la commune de Cerveteri en Italie a été mis hors service à la suite d'une cyberattaque qui a débuté dans la soirée du jeudi précédent la publication de l'article. L'attaque a causé des perturbations importantes dans les opérations administratives de la commune, rendant difficile même la signature des documents les plus simples. Le maire Elena Gubetti a souligné la gravité de la situation, notamment parce que l'attaque coïncide avec la période de préparation des budgets par les administrations publiques, et il n'est pas encore possible de prévoir une date de retour à la normale.",
-        "title": "Attacco hacker in “down” il portale Urbi del Comune di Cerveteri",
-        "url": "https://baraondanews.it/attacco-hacker-ai-sistemi-informatici-down-il-portale-urbi-del-comune-di-cerveteri/",
-        "added": "2023-12-12"
-    },
-    {
         "date": "2023-12-11",
         "victim": "Saronno Servizi S.p.A.",
         "domain": "saronnoservizi.it",
