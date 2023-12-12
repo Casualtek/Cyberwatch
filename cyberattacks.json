@@ -1,5 +1,15 @@
 [
     {
+        "date": "2023-12-11",
+        "victim": "Saronno Servizi S.p.A.",
+        "domain": "saronnoservizi.it",
+        "country": "ITA",
+        "summary": "La plateforme de gestion des taxes de Saronno Servizi a subi une cyberattaque dans la nuit de dimanche à lundi, rendant impossible l'accès aux services fiscaux depuis leurs guichets pour toute la journée du mardi 12 décembre. L'attaque a été contenue sans perte ou vol de données, mais des dommages au système nécessitent une maintenance et un redémarrage. Bien que les bureaux restent ouverts et le personnel disponible pour la consultation, l'accès aux données fiscales est indisponible.",
+        "title": "Attacco informatico alla piattaforma dati tributari - Saronno Servizi S.p.A.",
+        "url": "https://www.saronnoservizi.it/it-it/informazioni-/avvisi/2023/comunicazioni-di-servizio/attacco-informatico-alla-piattaforma-dati-tributari-299118-1-435ce8eadb76987d1471ac91891d4cce",
+        "added": "2023-12-12"
+    },
+    {
         "date": "2023-10-01",
         "victim": "Conseil départemental des Yvelines",
         "domain": "yvelines.fr",
