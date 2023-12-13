@@ -1,5 +1,15 @@
 [
     {
+        "date": "2023-12-09",
+        "victim": "Mairie d'Ozoir-la-Ferrière",
+        "domain": "mairie-ozoir-la-ferriere.fr",
+        "country": "FRA",
+        "summary": "La mairie d'Ozoir-la-Ferrière a été victime d'une cyber-attaque le 9 décembre, entraînant la déconnexion de tous les systèmes informatiques pour contenir l'attaque. Les services numériques sont temporairement hors service, et des mesures sont prises pour rétablir les services avec le soutien d'une agence de cybersécurité, tandis qu'une fausse page Facebook liée à l'attaque a été neutralisée.",
+        "title": "La Mairie d'Ozoir-la-Ferrière subit une attaque informatique - Ozoir-la-Ferrière",
+        "url": "https://www.mairie-ozoir-la-ferriere.fr/la-mairie-dozoir-la-ferriere-subit-une-attaque-informatique/",
+        "added": "2023-12-13"
+    },
+    {
         "date": "2023-12-12",
         "victim": "District de March",
         "domain": "march.ch",
