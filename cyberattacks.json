@@ -1,5 +1,15 @@
 [
     {
+        "date": "2023-11-05",
+        "victim": "AEFE (Agence pour l'enseignement français à l'étranger)",
+        "domain": "aefe.fr",
+        "country": "FRA",
+        "summary": "Le 6 novembre 2023, l'AEFE a signalé une intrusion informatique avec un rançongiciel sur un serveur dédié, utilisé pour l'application financière éditée par la société ELAP. Après avoir sécurisé la plateforme, l'AEFE a autorisé le rétablissement du service le 15 novembre. Une fuite de données a été confirmée, et l'AEFE a signalé l'incident aux autorités, poursuivant les investigations pour évaluer précisément les données personnelles affectées, impliquant des établissements, des personnels et des fournisseurs, et recommandant des mesures de précaution aux parties concernées.",
+        "title": "AEFE | Communication AEFE - Cyberattaque et mesures de précaution à mettre en place",
+        "url": "https://www.aefe.fr/vie-du-reseau/toute-lactualite/communication-aefe-cyberattaque-et-mesures-de-precaution-mettre-en-place",
+        "added": "2023-12-13"
+    },
+    {
         "date": "2023-12-09",
         "victim": "Mairie d'Ozoir-la-Ferrière",
         "domain": "mairie-ozoir-la-ferriere.fr",
