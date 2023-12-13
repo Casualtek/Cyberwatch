@@ -1,5 +1,15 @@
 [
     {
+        "date": "2023-12-13",
+        "victim": "Limburg.net",
+        "domain": "limburg.net",
+        "country": "BEL",
+        "summary": "Une cyberattaque a touché Limburg.net, entraînant la fermeture du parc de recyclage non surveillé de Kortessem. Les autres parcs de recyclage gérés par Limburg.net restent ouverts, mais doivent fonctionner hors ligne, ce qui provoque des désagréments, car les usagers ne peuvent plus s'enregistrer numériquement et les employés doivent effectuer les tâches manuellement. Cela complique certaines opérations, comme la pesée sur les ponts-bascules.",
+        "title": "Cyberaanval op Limburg.net: onbemand recyclagepark van Kortessem dicht | VRT NWS: nieuws",
+        "url": "https://www.vrt.be/vrtnws/nl/2023/12/13/limburg-net-digitaal-onbereikbaar-door-cyberaanval/",
+        "added": "2023-12-13"
+    },
+    {
         "date": "2023-12-12",
         "victim": "Hotelplan UK",
         "domain": "hotelplan.co.uk",
