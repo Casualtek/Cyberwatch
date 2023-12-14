@@ -1,5 +1,15 @@
 [
     {
+        "date": "2023-12-06",
+        "victim": "Groveport Madison School District",
+        "domain": "gocruisers.org",
+        "country": "USA",
+        "summary": "Un groupe de hackers nommé BlackSuit a réussi à infiltrer le réseau informatique du district scolaire de Groveport Madison dans l'Ohio, forçant l'établissement à couper son accès à Internet. La cyberattaque a été détectée lorsque le personnel a eu des difficultés à utiliser les imprimantes et à se connecter aux ordinateurs, et bien que les données personnelles des élèves et du personnel ne semblent pas avoir été compromises, l'ampleur de la brèche reste incertaine. Le district scolaire a pris des mesures de précaution en utilisant des appareils non Windows et en s'assurant que les sauvegardes de données sont sécurisées et exemptes de logiciels malveillants avant de rétablir le réseau.",
+        "title": "How Groveport Madison is fighting a hacker breach | NBC4 WCMH-TV",
+        "url": "https://www.nbc4i.com/news/local-news/groveport/how-groveport-madison-is-fighting-a-hacker-breach/",
+        "added": "2023-12-14"
+    },
+    {
         "date": "2023-12-13",
         "victim": "London Public Library",
         "domain": "lpl.ca",
