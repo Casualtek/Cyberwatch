@@ -1,5 +1,15 @@
 [
     {
+        "date": "2023-12-11",
+        "victim": "Banque centrale du Lesotho",
+        "domain": "centralbank.org.ls",
+        "country": "LSO",
+        "summary": "La Banque centrale du Lesotho a été la cible d'une cyberattaque qui a conduit à la suspension de certains de ses systèmes pour éviter d'autres infiltrations, ce qui pourrait entraîner des retards dans les paiements. Aucune perte financière n'a été signalée, mais l'incident soulève des inquiétudes quant à la stabilité du système financier du pays et ses effets sur les échanges avec l'Afrique du Sud.",
+        "title": "Lesotho central bank 'targeted' in cyber attack attempt",
+        "url": "https://sundayworld.co.za/news/lesotho-central-bank-targeted-in-cyber-attack-attempt/",
+        "added": "2023-12-14"
+    },
+    {
         "date": "2023-12-10",
         "victim": "Jysk Energi",
         "domain": "jyskenergi.dk",
