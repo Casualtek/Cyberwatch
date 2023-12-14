@@ -1,5 +1,15 @@
 [
     {
+        "date": "2023-12-13",
+        "victim": "Agência Nacional de Águas e Saneamento Básico (ANA)",
+        "domain": "dadosabertos.ana.gov.br",
+        "country": "BRA",
+        "summary": "L'Agência Nacional de Águas e Saneamento Básico (ANA) du Brésil a subi une cyberattaque qui a temporairement mis hors service ses systèmes, y compris le portail des utilisateurs des ressources hydriques, le système de régulation fédéral (REGLA) et le registre national des utilisateurs des ressources hydriques (CNARH), sans délai prévu pour le rétablissement. C'est la deuxième attaque en deux mois, la précédente ayant conduit l'agence à isoler ses systèmes pour contenir l'incident.",
+        "title": "Agência Nacional de Águas e Saneamento Básico sofre novo ataque cibernético | Security Report",
+        "url": "https://www.securityreport.com.br/agencia-nacional-de-aguas-e-saneamento-basico-sofre-novo-ataque-cibernetico/",
+        "added": "2023-12-14"
+    },
+    {
         "date": "2023-12-11",
         "victim": "Banque centrale du Lesotho",
         "domain": "centralbank.org.ls",
