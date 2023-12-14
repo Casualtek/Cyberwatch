@@ -1,5 +1,15 @@
 [
     {
+        "date": "2023-11-09",
+        "victim": "Clinique IRM Saguenay Lac-Saint-Jean",
+        "domain": "irmsaguenay.com",
+        "country": "CAN",
+        "summary": "La clinique IRM Saguenay Lac-Saint-Jean a subi une cyberattaque entraînant la compromission de données personnelles des patients, incluant noms, adresses, numéros de téléphone, numéros d'assurance maladie, images d'IRM et informations d'assurance, mais sans indication d'usage malveillant de ces informations ni compromission des données de carte de crédit. Les systèmes de la clinique sont à nouveau opérationnels et des mesures de sécurité renforcées ont été mises en place, avec l'assistance d'Equifax et la notification des autorités compétentes. L'impact de l'incident sur le nombre de personnes affectées n'est pas précisé, mais l'intégrité des renseignements médicaux est restée intacte.",
+        "title": "Cyberattaque à la clinique IRM Saguenay Lac-Saint-Jean",
+        "url": "https://www.lequotidien.com/actualites/justice-et-faits-divers/2023/12/13/cyberattaque-a-la-clinique-irm-saguenay-lac-saint-jean-MHWWUQSZTVBLTHWDBZ6XUWTCHE/",
+        "added": "2023-12-14"
+    },
+    {
         "date": "2023-12-13",
         "victim": "Limburg.net",
         "domain": "limburg.net",
