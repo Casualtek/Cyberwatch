@@ -1,5 +1,15 @@
 [
     {
+        "date": "2023-12-10",
+        "victim": "Jysk Energi",
+        "domain": "jyskenergi.dk",
+        "country": "DNK",
+        "summary": "Des hackers ont réussi à pénétrer les systèmes de Jysk Energi, mais il n'y a aucune indication qu'ils aient réussi à voler des données ou à chiffrer des informations. L'entreprise d'énergie est actuellement en train de redémarrer tous ses systèmes suite à une cyberattaque survenue pendant le week-end.",
+        "title": "Hackere kom indenfor hos Jysk Energi - men så blev internetkablet trukket | dagbladet-holstebro-struer.dk",
+        "url": "https://dagbladet-holstebro-struer.dk/lemvig/hackere-kom-indenfor-hos-jysk-energi-men-saa-blev-internetkablet-trukket",
+        "added": "2023-12-14"
+    },
+    {
         "date": "2023-12-06",
         "victim": "Groveport Madison School District",
         "domain": "gocruisers.org",
