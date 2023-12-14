@@ -1,5 +1,15 @@
 [
     {
+        "date": "2023-12-13",
+        "victim": "London Public Library",
+        "domain": "lpl.ca",
+        "country": "CAN",
+        "summary": "La London Public Library est confrontée à une importante panne de ses systèmes, affectant les services tels que le téléphone, l'email, le WIFI, le site web, le catalogue et les ressources numériques dans plusieurs de ses succursales. Trois branches de la bibliothèque fermeront plus tôt et resteront fermées pour le reste de la semaine, entraînant l'annulation de tous les programmes. Les responsables de la bibliothèque n'ont pas encore déterminé si la panne est due à une cyberattaque, mais une enquête est en cours par les équipes informatiques.",
+        "title": "Major systems outage impacting London Public Library | CTV News",
+        "url": "https://london.ctvnews.ca/london-public-library-experiencing-major-systems-outage-1.6686031",
+        "added": "2023-12-14"
+    },
+    {
         "date": "2023-11-09",
         "victim": "Clinique IRM Saguenay Lac-Saint-Jean",
         "domain": "irmsaguenay.com",
