@@ -1,5 +1,15 @@
 [
     {
+        "date": "2022-12-14",
+        "victim": "Verocard",
+        "domain": "verocard.com.br",
+        "country": "BRA",
+        "summary": "La société Verocard, qui gère les tickets alimentation pour les employés de la mairie de Brumadinho, a été victime d'une cyberattaque le 14 décembre, entraînant l'indisponibilité de ses services dans plusieurs villes. Les utilisateurs ont été conseillés d'éviter toute transaction avec leurs cartes jusqu'à la résolution du problème et la société a annoncé prendre des mesures judiciaires contre les auteurs de l'attaque. En conséquence, les employés municipaux ne peuvent temporairement pas accéder aux fonds sur leurs cartes, ce qui perturbe leurs transactions quotidiennes et la gestion financière.",
+        "title": "Ataque cibernético compromete a uso do Verocard por servidores de Brumadinho",
+        "url": "https://brumadinho.portaldacidade.com/noticias/cidade/ataque-cibernetico-compromete-a-uso-do-verocard-por-servidores-de-brumadinho-0356",
+        "added": "2023-12-15"
+    },
+    {
         "date": "2023-12-10",
         "victim": "EasyPark",
         "domain": "easypark.nl",
