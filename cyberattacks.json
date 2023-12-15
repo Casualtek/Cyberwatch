@@ -1,5 +1,15 @@
 [
     {
+        "date": "2023-12-10",
+        "victim": "EasyPark",
+        "domain": "easypark.nl",
+        "country": "NLD",
+        "summary": "La société de paiement de stationnement EasyPark a signalé une fuite de données non sensibles de clients suite à une cyberattaque.",
+        "title": "Parkeerbetaaldienst EasyPark meldt datalek na cyberaanval - Computer - Nieuws - Tweakers",
+        "url": "https://tweakers.net/nieuws/216650/parkeerbetaaldienst-easypark-meldt-datalek-na-cyberaanval.html",
+        "added": "2023-12-15"
+    },
+    {
         "date": "2023-12-13",
         "victim": "Agência Nacional de Águas e Saneamento Básico (ANA)",
         "domain": "dadosabertos.ana.gov.br",
