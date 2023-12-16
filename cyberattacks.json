@@ -1,5 +1,15 @@
 [
     {
+        "date": "2022-12-10",
+        "victim": "CACG (Compagnie d'Aménagement des Coteaux de Gascogne)",
+        "domain": "cacg.fr",
+        "country": "FRA",
+        "summary": "La Compagnie d'Aménagement des Coteaux de Gascogne (CACG), une entreprise publique de gestion de l'eau dans le sud-ouest de la France, a subi une cyberattaque de type ransomware le samedi 10 décembre, entraînant une paralysie de son système d'information. Les équipes de la CACG, aidées par des experts en cybersécurité, travaillent à restaurer les services affectés et ont isolé les réseaux pour contenir l'attaque, tout en collaborant avec les autorités compétentes. Bien que la sécurité des ouvrages ne soit pas compromise, la possibilité d'une fuite de données personnelles n'est pas exclue, et la CACG a mis en garde contre des communications suspectes, rapp",
+        "title": "Victime d'une cyberattaque, les services de la CACG fortement perturbés - nrpyrenees.fr",
+        "url": "https://www.nrpyrenees.fr/2023/12/15/victime-dune-cyberattaque-les-services-de-la-cacg-fortement-perturbes-11644787.php",
+        "added": "2023-12-16"
+    },
+    {
         "date": "2023-12-14",
         "victim": "Verocard",
         "domain": "verocard.com.br",
