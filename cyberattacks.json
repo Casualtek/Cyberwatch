@@ -1,5 +1,15 @@
 [
     {
+        "date": "2023-12-11",
+        "victim": "Milton Town School District (MTSD)",
+        "domain": "mtsd-vt.org",
+        "country": "USA",
+        "summary": "Le district scolaire de Milton Town a été touché par une attaque de ransomware le lundi 11 décembre, entraînant le chiffrement et le verrouillage de plusieurs fichiers sur le serveur du MTSD. Bien que l'audit financier ait été perturbé, les logiciels financiers et les informations bancaires ainsi que les dossiers des élèves sont restés intacts. Le district a collaboré avec diverses organisations pour une réponse rapide et travaille à la restauration sécurisée des fichiers verrouillés, tout en maintenant les systèmes essentiels à l'enseignement opérationnels.",
+        "title": "Ransomware cyber attack hits Milton Town School District | Local News | miltonindependent.com",
+        "url": "https://www.miltonindependent.com/news/ransomware-cyber-attack-hits-milton-town-school-district/article_2347179a-9ddd-11ee-bb42-abb033dcde66.html",
+        "added": "2023-12-18"
+    },
+    {
         "date": "2023-12-13",
         "victim": "MongoDB",
         "domain": "mongodb.com",
