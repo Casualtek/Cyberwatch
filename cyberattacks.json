@@ -1,6 +1,16 @@
 [
     {
         "date": "2023-12-13",
+        "victim": "MongoDB",
+        "domain": "mongodb.com",
+        "country": "USA",
+        "summary": "MongoDB a averti que ses systèmes d'entreprise ont été compromis et que des métadonnées et informations de contact clients ont été exposées suite à une cyberattaque détectée plus tôt dans la semaine. L'entreprise a indiqué que les données stockées par les clients dans MongoDB Atlas n'ont pas été affectées, mais que l'accès non autorisé par les cyberattaquants a duré un certain temps avant d'être découvert. MongoDB recommande à tous ses clients d'activer l'authentification multi-facteurs, de changer leurs mots de passe et de rester vigilants face à d'éventuelles attaques de phishing ciblées.",
+        "title": "MongoDB says customer data was exposed in a cyberattack",
+        "url": "https://www.bleepingcomputer.com/news/security/mongodb-says-customer-data-was-exposed-in-a-cyberattack/",
+        "added": "2023-12-18"
+    },
+    {
+        "date": "2023-12-13",
         "victim": "VF Corp",
         "domain": "vfcorp.com",
         "country": "USA",
