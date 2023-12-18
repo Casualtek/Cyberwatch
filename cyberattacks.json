@@ -1,5 +1,15 @@
 [
     {
+        "date": "2023-10-27",
+        "victim": "Bellin Health",
+        "domain": "bellin.org",
+        "country": "USA",
+        "summary": "L'hôpital Bellin Health a été victime d'un événement de cybersécurité en octobre où un tiers non autorisé a accédé à des dossiers contenant des informations personnelles et de santé des patients liées à des achats d'équipements de soins à domicile entre 2006 et 2013. L'incident n'a pas affecté les dossiers médicaux électroniques ni les opérations quotidiennes de l'hôpital, et une enquête a été menée avec la notification du FBI. Les patients concernés recevront des lettres avec des informations sur l'attaque et ceux dont les numéros de sécurité sociale ont été compromis se verront offrir des services de surveillance du crédit et de protection contre le vol d'identité.",
+        "title": "What to know about Bellin 'cybersecurity event' in October",
+        "url": "https://eu.greenbaypressgazette.com/story/news/health/2023/12/18/what-to-know-about-bellin-cybersecurity-event-in-october/71962754007/",
+        "added": "2023-12-18"
+    },
+    {
         "date": "2023-12-11",
         "victim": "Milton Town School District (MTSD)",
         "domain": "mtsd-vt.org",
