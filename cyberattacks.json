@@ -1,5 +1,15 @@
 [
     {
+        "date": "2023-05-07",
+        "victim": "La mairie du Coteau",
+        "domain": "lecoteau.fr",
+        "country": "FRA",
+        "summary": "En mai, la mairie du Coteau a subi une cyberattaque qui a paralysé presque tous ses réseaux, entraînant des perturbations pendant une semaine et nécessitant deux mois pour un retour à la normale. Cette attaque a coûté environ 43 000 euros à la municipalité et a eu des répercussions sur les services municipaux, y compris le report d'un conseil municipal. L'origine de l'attaque et l'identification des auteurs restent inconnues, les pirates étant intraçables.",
+        "title": "Au Coteau, la cyberattaque aura coûté 43.000 euros à la mairie - Le Coteau (42120)",
+        "url": "https://www.le-pays.fr/coteau-42120/actualites/au-coteau-la-cyberattaque-aura-coute-43-000-euros-a-la-mairie_14404350/",
+        "added": "2023-12-19"
+    },
+    {
         "date": "2023-10-16",
         "victim": "Comcast Cable Communications (Xfinity)",
         "domain": "xfinity.com",
