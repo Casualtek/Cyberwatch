@@ -1,5 +1,15 @@
 [
     {
+        "date": "2023-10-16",
+        "victim": "Comcast Cable Communications (Xfinity)",
+        "domain": "xfinity.com",
+        "country": "USA",
+        "summary": "Xfinity, une marque de Comcast Cable Communications, a révélé qu'une cyberattaque sur l'un de ses serveurs Citrix en octobre a entraîné le vol de données sensibles de clients, y compris des noms d'utilisateur et des mots de passe hachés, ainsi que potentiellement d'autres informations personnelles. L'entreprise a demandé aux utilisateurs de réinitialiser leurs mots de passe et continue d'analyser l'étendue de la fuite de données.",
+        "title": "Xfinity discloses data breach after recent Citrix server hack",
+        "url": "https://www.bleepingcomputer.com/news/security/xfinity-discloses-data-breach-after-recent-citrix-server-hack/",
+        "added": "2023-12-19"
+    },
+    {
         "date": "2023-10-27",
         "victim": "Bellin Health",
         "domain": "bellin.org",
