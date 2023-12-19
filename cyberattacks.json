@@ -1,5 +1,15 @@
 [
     {
+        "date": "2023-12-08",
+        "victim": "Kaunas University of Technology (KTU)",
+        "domain": "ktu.edu",
+        "country": "LTU",
+        "summary": "L'Université de Technologie de Kaunas (KTU) a subi une cyberattaque le 8 décembre, perturbant l'accès à de nombreux systèmes et soulevant des inquiétudes quant à un accès non autorisé aux données personnelles traitées, bien que cela ne puisse être ni confirmé ni nié pour le moment. La KTU a immédiatement lancé une enquête, commencé à restaurer les systèmes et informé les autorités compétentes, tout en demandant aux utilisateurs de changer leurs mots de passe et de rester vigilants, notamment en ce qui concerne les courriels et les activités suspectes. Des mesures de sécurité supplémentaires sont mises en œuvre au-delà de la simple restauration des systèmes, et la KTU continue d'enqu",
+        "title": "Home - Kaunas University of Technology",
+        "url": "https://en.ktu.edu",
+        "added": "2023-12-19"
+    },
+    {
         "date": "2023-05-07",
         "victim": "La mairie du Coteau",
         "domain": "lecoteau.fr",
