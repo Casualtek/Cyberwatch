@@ -1,5 +1,15 @@
 [
     {
+        "date": "2023-12-18",
+        "victim": "Elektroprivreda Srbije (EPS)",
+        "domain": "eps.rs",
+        "country": "SRB",
+        "summary": "La société serbe de production d'électricité Elektroprivreda Srbije (EPS) a subi une attaque de cybernétique sans précédent par un virus cryptographique, mais a affirmé que la production et la distribution d'électricité ainsi que les activités commerciales n'ont pas été affectées grâce aux mesures de protection mises en place. Les systèmes informatiques de l'EPS ont été temporairement mis hors service pour éliminer le virus, et les autorités compétentes ont été informées et prennent des mesures appropriées.",
+        "title": "Serbia’s power utility EPS under unprecedented hacker attack",
+        "url": "https://balkangreenenergynews.com/serbias-power-utility-eps-under-unprecedented-hacker-attack/",
+        "added": "2023-12-19"
+    },
+    {
         "date": "2023-12-08",
         "victim": "Kaunas University of Technology (KTU)",
         "domain": "ktu.edu",
