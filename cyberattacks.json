@@ -1,5 +1,15 @@
 [
     {
+        "date": "2023-12-13",
+        "victim": "Western Railway's Lower Parel workshop",
+        "domain": "wr.indianrailways.gov.in",
+        "country": "IND",
+        "summary": "Le système de stockage automatique de l'atelier de la Western Railway à Lower Parel, Mumbai, qui s'occupe de la maintenance des wagons de trains longue distance, a été victime d'une attaque par ransomware le 13 décembre. Depuis l'attaque, le système a été contraint de fonctionner en mode manuel, ce qui ralentit considérablement le processus de localisation des pièces détachées nécessaires. Aucun montant de rançon spécifique n'a été demandé, mais un message sur le serveur indiquait qu'il s'agissait d'une cyberattaque, et les efforts sont en cours pour restaurer le système, avec une attente de résolution dans la semaine.",
+        "title": "Mumbai: Ransomware attack hits maintenance of train coaches at Lower Parel workshop | Mumbai News - Times of India",
+        "url": "https://timesofindia.indiatimes.com/city/mumbai/ransomware-attack-hits-maintenance-of-train-coaches-at-lower-parel-workshop/articleshow/106138288.cms",
+        "added": "2023-12-20"
+    },
+    {
         "date": "2023-12-19",
         "victim": "HCL Technologies",
         "domain": "hcltech.com",
