@@ -1,5 +1,15 @@
 [
     {
+        "date": "2023-12-19",
+        "victim": "HCL Technologies",
+        "domain": "hcltech.com",
+        "country": "IND",
+        "summary": "HCL Technologies, une importante société informatique, a annoncé avoir été victime d'une attaque par ransomware dans un environnement cloud isolé dédié à un de ses projets, sans que cela n'affecte son réseau global. Une enquête est en cours pour déterminer la cause de l'incident et prendre les mesures correctives nécessaires. Cet événement survient alors que l'entreprise a récemment franchi une capitalisation boursière de 4 trillions de roupies sur les bourses indiennes et a annoncé l'obtention d'un contrat majeur avec le Département des Transports et de la Planification de Victoria, en Australie.",
+        "title": "HCLTech hit by ransomware attack, IT major says investigation underway",
+        "url": "https://www.business-standard.com/companies/news/hcltech-hit-by-ransomware-attack-it-major-says-investigation-underway-123122000226_1.html",
+        "added": "2023-12-20"
+    },
+    {
         "date": "2023-12-18",
         "victim": "Elektroprivreda Srbije (EPS)",
         "domain": "eps.rs",
