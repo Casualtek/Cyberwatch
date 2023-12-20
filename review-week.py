@@ -101,7 +101,7 @@ def main(json_file):
     
     news_report = ask_chatgpt(news_count,most_hit,countries)
     
-    html = f'<html>\n<head>\n<title>{news_report["title"]}</title>\n</head>\n<body>\n'
+    html = f'<p>{news_report["title"]}</p>\n'
     html += f'<p>{news_report["summary"]}</p>\n'
     html += f'<p>{news_report["introduction"]}</p>\n'
     html_list = ''
@@ -110,7 +110,6 @@ def main(json_file):
         html_list += f'<p>{date} - <b>{item["victim"]}</b> ({item["country"]})<br/>{item["summary"]} (<a href="{item["url"]}">source</a>)</p>\n'
     html += html_list
     html += '<i>Revue de presse réalisée en partie avec ChatGPT. <a href="https://www.lemagit.fr/actualites/365535799/Cyberhebdo-LeMagIT-met-lIA-au-service-de-linformation-de-ses-lecteurs">Les explications sont à lire ici</a>.</i>'
-    html += '</body>\n</html>'
     
     with open(f'./cyberhebdo/{now.strftime("%Y-%m-%d")}.html', 'w') as html_file:
         html_file.write(html)
