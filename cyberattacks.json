@@ -1,5 +1,15 @@
 [
     {
+        "date": "2023-12-20",
+        "victim": "Kitco",
+        "domain": "kitco.com",
+        "country": "CAN",
+        "summary": "Kitco.com, une plateforme médiatique en ligne spécialisée dans les actualités sur les métaux précieux et les marchés financiers, a été temporairement mise hors ligne à la suite d'une cyberattaque majeure, dont les détails spécifiques n'ont pas été divulgués. Les utilisateurs ont été informés de l'incident par un message sur le site web de Kitco, qui a également mis en place une adresse e-mail alternative pour les contacter.",
+        "title": "Cyberattack On Kitco: Platform Temporarily Offline",
+        "url": "https://thecyberexpress.com/cyberattack-on-kitco-platform-temporarily-down/",
+        "added": "2023-12-20"
+    },
+    {
         "date": "2023-12-13",
         "victim": "Western Railway's Lower Parel workshop",
         "domain": "wr.indianrailways.gov.in",
