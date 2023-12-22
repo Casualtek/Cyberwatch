@@ -1,5 +1,15 @@
 [
     {
+        "date": "2023-12-16",
+        "victim": "Confédération Luxembourgeoise des Syndicats (LCGB)",
+        "domain": "lcgb.lu",
+        "country": "LUX",
+        "summary": "La Confédération Luxembourgeoise des Syndicats (LCGB) a été victime d'une cyberattaque le 16 décembre, entraînant une fuite limitée de données, dont l'étendue et la nature exactes sont encore en cours d'évaluation. Après l'incident, un état-major de crise a été mis en place et des mesures de sécurité renforcées ont été introduites pour restaurer et protéger l'infrastructure informatique. La LCGB a informé les autorités compétentes et le comité central, et une plainte a été déposée auprès de la police grand-ducale, bien qu'il semble que les données personnelles des employés et des membres n'aient pas été copiées.",
+        "title": "Vorfall am 16. Dezember LCGB meldet Cyberangriff auf IT-System der Gewerkschaft - Ausmaß wird noch untersucht - Tageblatt.lu",
+        "url": "https://www.tageblatt.lu/headlines/lcgb-meldet-cyberangriff-auf-it-system-der-gewerkschaft-ausmass-wird-noch-untersucht/",
+        "added": "2023-12-22"
+    },
+    {
         "date": "2023-12-19",
         "victim": "St Vincent's Health Australia",
         "domain": "svha.org.au",
