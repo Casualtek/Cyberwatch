@@ -1,5 +1,15 @@
 [
     {
+        "date": "2023-12-20",
+        "victim": "First American",
+        "domain": "firstam.com",
+        "country": "USA",
+        "summary": "First American, une entreprise immobilière, a subi une cyberattaque qui a entraîné la mise hors ligne de certains de ses systèmes et le retard de transactions immobilières. Cet incident survient peu après que First American a été condamné à payer 1 million de dollars dans le cadre d'un règlement pour violation de la cybersécurité avec le Département des Services Financiers de New York. Il s'agit de la deuxième attaque majeure dans l'industrie des titres en moins d'un mois, après une attaque par ransomware contre Fidelity National Financial, et d'autres entreprises comme Mr.Cooper ont également été récemment visées par des cyberattaques.",
+        "title": "First American is the latest cybersecurity attack victim - HousingWire",
+        "url": "https://www.housingwire.com/articles/first-american-is-the-latest-cybersecurity-attack-victim/",
+        "added": "2023-12-22"
+    },
+    {
         "date": "2023-09-15",
         "victim": "ESO Solutions",
         "domain": "esosolutions.com",
