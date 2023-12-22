@@ -1,5 +1,15 @@
 [
     {
+        "date": "2023-12-19",
+        "victim": "St Vincent's Health Australia",
+        "domain": "svha.org.au",
+        "country": "AUS",
+        "summary": "St Vincent's Health Australia, le plus grand fournisseur de soins de santé et de services pour personnes âgées à but non lucratif du pays, a été victime d'une cyberattaque majeure le 19 décembre 2023, entraînant l'extraction non autorisée de données. En réponse, l'organisation a pris des mesures immédiates pour contenir l'incident, en faisant appel à des experts en sécurité externes et en informant les gouvernements et agences étatiques et fédéraux, tout en maintenant ses services aux patients et à la communauté. L'incident, qui fait actuellement l'objet d'une enquête avec l'aide du Centre australien de cybersécurité, souligne la menace croissante de cyberattaques en Australie, comme en",
+        "title": "Major Cyberattack on St Vincent's Health Australia",
+        "url": "https://bnnbreaking.com/world/australia/st-vincents-health-australia-hit-by-significant-cyber-attack/",
+        "added": "2023-12-22"
+    },
+    {
         "date": "2023-11-08",
         "victim": "Ville de Rawlins",
         "domain": "rawlinswy.gov",
