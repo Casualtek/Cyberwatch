@@ -1,5 +1,15 @@
 [
     {
+        "date": "2023-10-22",
+        "victim": "Heart of Texas Behavioral Health Network (HOTBHN)",
+        "domain": "hotrmhmr.org",
+        "country": "USA",
+        "summary": "Le Heart of Texas Behavioral Health Network (HOTBHN) a subi une cyberattaque affectant les données sensibles de 63 776 personnes, avec des informations telles que noms, adresses, numéros de sécurité sociale et informations médicales potentiellement exposées. Le groupe DragonForce a revendiqué l'attaque, prétendant avoir extrait environ 56 Go de données. HOTBHN a renforcé ses mesures de sécurité et offre des services de surveillance de crédit et de protection contre le vol d'identité aux individus affectés.",
+        "title": "Heart of Texas Behavioral Health Network Cyberattack Affects 63,776 Individuals",
+        "url": "https://www.hipaajournal.com/heart-of-texas-behavioral-health-network-cyberattack/",
+        "added": "2023-12-22"
+    },
+    {
         "date": "2023-12-20",
         "victim": "First American",
         "domain": "firstam.com",
