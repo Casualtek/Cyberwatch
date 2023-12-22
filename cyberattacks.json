@@ -1,5 +1,15 @@
 [
     {
+        "date": "2023-11-08",
+        "victim": "Ville de Rawlins",
+        "domain": "rawlinswy.gov",
+        "country": "USA",
+        "summary": "La ville de Rawlins a subi une cyberattaque qui a été détectée et notifiée par le Département de la Sécurité Intérieure des États-Unis, mais aucune information sensible n'a été compromise ni de logiciel malveillant installé sur les serveurs de la ville. La divulgation publique de l'attaque a été retardée pour permettre à la ville d'installer de nouveaux logiciels et de renforcer la sécurité afin d'éviter de signaler aux pirates qu'ils avaient été découverts. Bien que l'attaque n'ait pas entraîné de préjudices durables, les coûts liés à l'incident seront en grande partie couverts par l'assurance technologique de la ville, à l'exception de quelques frais supplément",
+        "title": "Serious Cyber Breach In Rawlins Could Have Been Prelude To Ransomware Attack | Your Wyoming News Source",
+        "url": "https://cowboystatedaily.com/2023/12/20/serious-breach-of-rawlins-systems-could-have-been-prelude-to-ransomware-attack/",
+        "added": "2023-12-22"
+    },
+    {
         "date": "2023-10-22",
         "victim": "Heart of Texas Behavioral Health Network (HOTBHN)",
         "domain": "hotrmhmr.org",
