@@ -1,5 +1,15 @@
 [
     {
+        "date": "2023-08-21",
+        "victim": "Keenan & Associates",
+        "domain": "keenan.com",
+        "country": "USA",
+        "summary": "Le College of the Canyons a informé plus de 2 400 employés actuels et anciens d'une violation de données non autorisée survenue via leur fournisseur d'assurance, Keenan & Associates, entre le 21 et le 27 août 2023. Des informations privées, y compris les numéros de sécurité sociale et les informations d'assurance maladie, ont été compromises lors de l'incident, qui a été qualifié d'attaque de ransomware. Keenan a promis de contacter les personnes affectées après les vacances et a offert une adhésion gratuite de 24 mois à Experian IdentityWorks pour aider à la protection contre le vol d'identité.",
+        "title": "COC alerts employees to third-party data breach",
+        "url": "https://signalscv.com/2023/12/coc-alerts-employees-to-third-party-data-breach/",
+        "added": "2023-12-22"
+    },
+    {
         "date": "2023-11-20",
         "victim": "Blaine County School District (BCSD)",
         "domain": "bcsd.org",
