@@ -1,5 +1,15 @@
 [
     {
+        "date": "2023-09-15",
+        "victim": "ESO Solutions",
+        "domain": "esosolutions.com",
+        "country": "USA",
+        "summary": "ESO Solutions, une entreprise spécialisée dans les solutions de santé, a révélé une importante violation de données affectant 2,7 millions de patients, suite à une attaque par rançongiciel en septembre 2023, exposant des informations personnelles sensibles telles que les noms, numéros de sécurité sociale, dossiers médicaux, dates de naissance et détails de traitement. La société a signalé l'incident au procureur général du Maine le 12 décembre 2023 et, bien qu'elle ait rapidement détecté et stoppé l'attaque, des données ont été compromises. Console & Associates, P.C., un cabinet d'avocats spécialisé dans les violations de données, a lancé une enquête et conseille aux victimes de prendre des mesures pour protéger leurs",
+        "title": "ESO Solutions Data Breach: 2.7Million Patients Data At Risk",
+        "url": "https://thecyberexpress.com/eso-solutions-data-breach/",
+        "added": "2023-12-22"
+    },
+    {
         "date": "2023-12-17",
         "victim": "Socadis",
         "domain": "socadis.com",
