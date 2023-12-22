@@ -1,12 +1,12 @@
 [
     {
-        "date": "2023-12-19",
-        "victim": "Liberty Hospital",
-        "domain": "libertyhospital.org",
+        "date": "2023-11-20",
+        "victim": "Blaine County School District (BCSD)",
+        "domain": "bcsd.org",
         "country": "USA",
-        "summary": "Liberty Hospital fait face à une perturbation de son système informatique depuis le 19 décembre, entraînant le transfert des patients aux urgences vers d'autres hôpitaux, tandis que ceux hospitalisés la nuit continuent de recevoir des soins. L'hôpital enquête activement sur l'origine de la perturbation, mettant l'accent sur la sécurité des patients comme principale préoccupation. Des spéculations sur les réseaux sociaux suggèrent une attaque de ransomware, mais l'hôpital n'a pas confirmé la nature du problème informatique ni l'étendue de l'impact sur les données, indiquant des efforts en cours pour évaluer la situation et rétablir les systèmes.",
-        "title": "Liberty Hospital continues to divert ER patients after IT disruption | News | mycouriertribune.com",
-        "url": "https://www.mycouriertribune.com/news/liberty-hospital-continues-to-divert-er-patients-after-it-disruption/article_53e6e289-5e9b-5dd6-95fd-f10179f1cdcf.html",
+        "summary": "Le Blaine County School District (BCSD) en Idaho a été victime d'une cyberattaque le 20 novembre, lorsqu'un parti non autorisé a accédé à son réseau, comme l'a confirmé le surintendant Jim Foudy. Aucune preuve d'utilisation abusive des informations des employés n'a été trouvée, mais il est possible que des noms et numéros de sécurité sociale aient été compromis. Le district avait une sauvegarde hors site et n'a pas eu à payer de rançon, et les employés affectés se sont vu offrir une protection d'identité et de crédit gratuite pendant deux ans.",
+        "title": "BCSD among Idaho agencies hit by cyberattacks | Blaine County | mtexpress.com",
+        "url": "https://www.mtexpress.com/news/blaine_county/bcsd-among-idaho-agencies-hit-by-cyberattacks/article_20784726-9f97-11ee-8254-abcb43d11f0a.html",
         "added": "2023-12-22"
     },
     {
