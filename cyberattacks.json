@@ -1,5 +1,15 @@
 [
     {
+        "date": "2023-10-23",
+        "victim": "Clay County Social Services.",
+        "domain": "claycountymn.gov",
+        "country": "USA",
+        "summary": "Le système de gestion de documents électroniques CaseWorks, hébergé par le comté de Clay et utilisé par d'autres agences de services sociaux dans le Minnesota, a été ciblé par une attaque de ransomware, découverte le 27 octobre et annoncée le 22 décembre. Des données personnelles et de santé de personnes ayant reçu des services sociaux ont été dérobées entre le 23 et le 26 octobre, incluant des noms, numéros de sécurité sociale, adresses, dates de naissance, et d'autres informations sensibles. Le comté de Clay offre des services de surveillance de crédit aux individus affectés et conseille de surveiller les relevés de comptes et les rapports de crédit pour détecter toute activité frauduleuse ou suspecte",
+        "title": "Clay County-run social services system hit by ransomware attack - InForum | Fargo, Moorhead and West Fargo news, weather and sports",
+        "url": "https://www.inforum.com/news/minnesota/clay-county-run-social-services-system-hit-by-ransomware-attack",
+        "added": "2023-12-24"
+    },
+    {
         "date": "2023-11-04",
         "victim": "Fresno Surgical Hospital",
         "domain": "fresnosurgicalhospital.com",
