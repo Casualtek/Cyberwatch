@@ -3,7 +3,7 @@ Keeping track of cyberattacks
 
 This project consists in a few Python scripts that help monitor news to discover mentions of cyberattacks in the media around the globe. 
 
-*rss.py* collects news feeds on the topic from Google, removes duplicates, and translates news headlines into English, using DeepL's API.
+*rss.py* collects news feeds on the topic from Google, removes duplicates, and translates news headlines into English, using Azure Translation service's API. ChatGPT is also involved to assess whether the title suggests that the article refers to a cyberattack of not.
 The resulting RSS feed is ready to consume with your favorite RSS reader. It's frequently updated using GitHub Actions. 
 *TODO*: add results from Bing News Search's API. Extend detection of duplicates.
 
