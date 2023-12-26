@@ -1,5 +1,15 @@
 [
     {
+        "date": "2023-12-21",
+        "victim": "Universität Innsbruck",
+        "domain": "uibk.ac.at",
+        "country": "AUT",
+        "summary": "La semaine dernière, l'Université d'Innsbruck a été la cible d'une cyberattaque au cours de laquelle environ 23 000 données de base des étudiants ont été téléchargées illégalement. Les informations sensibles compromises incluent des détails personnels tels que le nom, la date de naissance, le sexe, l'adresse de résidence et l'adresse e-mail universitaire. La police a été alertée, des mesures de contre-attaque ont été prises, et bien qu'il n'y ait pas d'action requise pour les étudiants affectés, ils ont été conseillés de rester vigilants face aux tentatives de phishing et de signaler tout incident suspect.",
+        "title": "Cyberangriff auf Uni Innsbruck | PULS 24",
+        "url": "https://www.puls24.at/news/politik/cyberangriff-auf-uni-innsbruck/316535",
+        "added": "2023-12-26"
+    },
+    {
         "date": "2023-12-24",
         "victim": "Katholische Hospitalvereinigung Ostwestfalen (KHO)",
         "domain": "kho.de",
