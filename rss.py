@@ -185,7 +185,7 @@ def main():
 
     fgnot = FeedGenerator()
     fgnot.id('https://raw.githubusercontent.com/Casualtek/Cyberwatch/main/unlikely_cyberattacks_news.xml')
-    fgnot.title('Cyberattacks News')
+    fgnot.title('Cyberattacks News (low likeliness)')
     fgnot.author( {'name':'Valéry Marchive','email':'valery@casualtek.com'} )
     fgnot.language('en')
     fgnot.link( href='https://www.lemagit.fr', rel='self')
