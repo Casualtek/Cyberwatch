@@ -140,7 +140,7 @@ def ask_chatgpt(news_title):
         {'role': 'user', 'content': news_title}
     ]
 
-    completion = openai.ChatCompletion.create(
+    completion = openai.chat.completions.create(
         model=gpt_model,
         messages=messages,
         max_tokens=5,
