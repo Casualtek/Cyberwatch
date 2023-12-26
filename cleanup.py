@@ -21,7 +21,7 @@ def main():
     fg = FeedGenerator()
     fg.id('https://raw.githubusercontent.com/Casualtek/Cyberwatch/main/cyberattacks_news.xml')
     fg.title('Cyberattacks News')
-    fg.author( {'name':'Valéry Marchive','email':'valery@ynside.net'} )
+    fg.author( {'name':'Valéry Marchive','email':'valery@casualtek.com'} )
     fg.language('en')
     fg.link( href='https://www.lemagit.fr', rel='self')
     fg.description('Aggregated and Translated Cyberattacks News Feed')
