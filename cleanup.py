@@ -14,21 +14,19 @@ from feedgen.feed import FeedGenerator
 # Constants
 CUTOFF_DATE     = datetime.now() - timedelta(days=28)
 
-def main():
+def cleanup(file):
     entries = []
     unique_ids = set()
 
     fg = FeedGenerator()
-    fg.id('https://raw.githubusercontent.com/Casualtek/Cyberwatch/main/cyberattacks_news.xml')
+    fg.id(f'https://raw.githubusercontent.com/Casualtek/Cyberwatch/main/{file}')
     fg.title('Cyberattacks News')
     fg.author( {'name':'Valéry Marchive','email':'valery@casualtek.com'} )
     fg.language('en')
     fg.link( href='https://www.lemagit.fr', rel='self')
-    fg.description('Aggregated and Translated Cyberattacks News Feed')
+    fg.description('Custom News Feed')
 
-    existing_entries = feedparser.parse('./cyberattacks_news.xml')
-#    for entry in existing_entries.entries:
-#        entries += entry
+    existing_entries = feedparser.parse(f'./{file}')
 
     entries = [item for item in existing_entries.entries if datetime.strptime(f'{item.published_parsed[0]}-{item.published_parsed[1]}-{item.published_parsed[2]}', '%Y-%m-%d') > CUTOFF_DATE]
 
@@ -45,7 +43,11 @@ def main():
 
     # Save the output to a file
     fg.rss_str(pretty=True)
-    fg.rss_file('./cyberattacks_news.xml')
+    fg.rss_file(f'./{file}')
+
+def main():
+    cleanup('cyberattacks_news.xml')
+    cleanup('unlikely_cyberattacks_news.xml')
 
 if __name__ == '__main__':
     main()
