@@ -7,12 +7,16 @@ import functools
 import re
 import deepl
 import hashlib
+import openai
 import os
+import time
 import uuid
 from feedgen.feed import FeedGenerator
+from datetime import datetime
 
 # Constants
-DEEPL_API_KEY  = os.environ['DEEPL_API_KEY']
+openai.api_key = os.environ['OPENAI_API_KEY']
+gpt_model      = 'gpt-4-1106-preview'
 ATRANS_API_KEY = os.environ['ATRANS_API_KEY']
 SEEN_ITEMS_FILE = './seen_items.txt'
 
@@ -115,15 +119,6 @@ def decode_google_news_url(url):
     primary_url = primary_url.decode()
     return primary_url
 
-def translate_text(text):
-    translator = deepl.Translator(DEEPL_API_KEY)
-    try:
-        result = translator.translate_text(text , target_lang="EN-US")
-        return result
-    except deepl.DeepLException as QuotaExceededException:
-        result = atranslate(text)
-        return result
-
 def get_item_hash(item):
     return hashlib.md5(item.encode('utf-8')).hexdigest()
 
@@ -137,6 +132,25 @@ def is_item_seen(item_hash):
 def mark_item_seen(item_hash):
     with open(SEEN_ITEMS_FILE, 'a') as file:
         file.write(item_hash + '\n')
+
+def ask_chatgpt(news_title):
+    today  = datetime.now()
+    messages = [
+        {'role': 'system', 'content': 'Tu es un journaliste technique, spécialisé dans l\'informatique professionnelle, et en particulier la cybersécurité. L’une de tes missions consiste à produire une revue de presse des cyberattaques rapportées à travers le monde, dans les médias. Tu dois évaluer des titres d’articles et dire si, selon toi, le titre suggère que l’article parle vraisemblement d’une cyberattaque (qu’elle soit avérée ou soupçonnée) ou pas. Pour chaque titre évalué, tu ne peux répondre que par “likely”, “unlikely”, “no”. Date d’aujourd’hui: '+today.strftime('%Y-%m-%d')+'.'},
+        {'role': 'user', 'content': news_title}
+    ]
+
+    completion = openai.ChatCompletion.create(
+        model=gpt_model,
+        messages=messages,
+        max_tokens=5,
+        n=1,
+        temperature=0.1,
+    )
+    time.sleep(2)
+    assessment = completion.choices[0].message.content
+    
+    return assessment
 
 def extract_title(input_string):
     index_dash = input_string.find(" - ")
@@ -164,11 +178,20 @@ def main():
     fg = FeedGenerator()
     fg.id('https://raw.githubusercontent.com/Casualtek/Cyberwatch/main/cyberattacks_news.xml')
     fg.title('Cyberattacks News')
-    fg.author( {'name':'Valéry Marchive','email':'valery@ynside.net'} )
+    fg.author( {'name':'Valéry Marchive','email':'valery@casualtek.com'} )
     fg.language('en')
     fg.link( href='https://www.lemagit.fr', rel='self')
-    fg.description('Aggregated and Translated Cyberattacks News Feed')
+    fg.description('Aggregated and Translated Likely Cyberattacks News Feed')
 
+    fgnot = FeedGenerator()
+    fgnot.id('https://raw.githubusercontent.com/Casualtek/Cyberwatch/main/unlikely_cyberattacks_news.xml')
+    fgnot.title('Cyberattacks News')
+    fgnot.author( {'name':'Valéry Marchive','email':'valery@casualtek.com'} )
+    fgnot.language('en')
+    fgnot.link( href='https://www.lemagit.fr', rel='self')
+    fgnot.description('Aggregated and Translated Unlikely Cyberattacks News Feed')
+
+    print('Getting existing entries (likely).')
     existing_entries = feedparser.parse('./cyberattacks_news.xml')
     for entry in existing_entries.entries:
         fe = fg.add_entry()
@@ -177,12 +200,22 @@ def main():
         fe.link( href=f'{entry.id}', rel='self')
         fe.pubDate(entry.published)
 
+    print('Getting existing entries (unlikely).')
+    existing_entries = feedparser.parse('./unlikely_cyberattacks_news.xml')
+    for entry in existing_entries.entries:
+        fe = fgnot.add_entry()
+        fe.id(entry.id)
+        fe.title(entry.title)
+        fe.link( href=f'{entry.id}', rel='self')
+        fe.pubDate(entry.published)
+
+    print('Getting English entries.')
     for rss_feed_url in rss_feed_urls_en:
         feed = feedparser.parse(rss_feed_url)
         entries += feed.entries
 
     for entry in entries:
-        source = entry.source['title']
+        source    = entry.source['title']
         realTitle = extract_title(entry.title)
         item_hash = get_item_hash(realTitle)
 
@@ -190,42 +223,77 @@ def main():
             continue
         mark_item_seen(item_hash)
 
-        title = entry.title
         link  = decode_google_news_url(entry.link)
         date  = entry.published
 
-        fe = fg.add_entry()
-        fe.id(link)
-        fe.title(realTitle)
-        fe.link( href=f'{link}', rel='self')
-        fe.pubDate(date)
+        assessment = ask_chatgpt(realTitle)
+        assessment = assessment.lower()
 
+        if assessment == 'likely':
+            title = atranslate(realTitle)
+            link  = decode_google_news_url(entry.link)
+            date  = entry.published
+
+            fe = fg.add_entry()
+            fe.id(link)
+            fe.title(str(title))
+            fe.link( href=f'{link}', rel='self')
+            fe.pubDate(date)
+        else:
+            title = atranslate(realTitle)
+            link  = decode_google_news_url(entry.link)
+            date  = entry.published
+
+            fe = fgnot.add_entry()
+            fe.id(link)
+            fe.title(str(title))
+            fe.link( href=f'{link}', rel='self')
+            fe.pubDate(date)
+
+    print('Getting non-English entries.')
     for rss_feed_url in rss_feed_urls_others:
         feed = feedparser.parse(rss_feed_url)
         entries += feed.entries
 
     for entry in entries:
-        source = entry.source['title']
+        source    = entry.source['title']
         realTitle = extract_title(entry.title)
         item_hash = get_item_hash(realTitle)
 
         if (is_item_seen(item_hash) or (source in ignored_sources)):
             continue
         mark_item_seen(item_hash)
+        
+        assessment = ask_chatgpt(realTitle)
+        assessment = assessment.lower()
+#        print(f'{realTitle}: {assessment}')
 
-        title = atranslate(realTitle)
-        link  = decode_google_news_url(entry.link)
-        date  = entry.published
+        if assessment == 'likely':
+            title = atranslate(realTitle)
+            link  = decode_google_news_url(entry.link)
+            date  = entry.published
 
-        fe = fg.add_entry()
-        fe.id(link)
-        fe.title(str(title))
-        fe.link( href=f'{link}', rel='self')
-        fe.pubDate(date)
+            fe = fg.add_entry()
+            fe.id(link)
+            fe.title(str(title))
+            fe.link( href=f'{link}', rel='self')
+            fe.pubDate(date)
+        else:
+            title = atranslate(realTitle)
+            link  = decode_google_news_url(entry.link)
+            date  = entry.published
+
+            fe = fgnot.add_entry()
+            fe.id(link)
+            fe.title(str(title))
+            fe.link( href=f'{link}', rel='self')
+            fe.pubDate(date)
 
     # Save the output to a file
     fg.rss_str(pretty=True)
     fg.rss_file('./cyberattacks_news.xml')
+    fgnot.rss_str(pretty=True)
+    fgnot.rss_file('./unlikely_cyberattacks_news.xml')
 
 if __name__ == '__main__':
     main()
