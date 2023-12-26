@@ -1,5 +1,15 @@
 [
     {
+        "date": "2023-12-24",
+        "victim": "Katholische Hospitalvereinigung Ostwestfalen (KHO)",
+        "domain": "kho.de",
+        "country": "DEU",
+        "summary": "Des attaquants non identifiés ont compromis les systèmes informatiques de la Katholische Hospitalvereinigung Ostwestfalen (KHO) en Allemagne, en chiffrant des données de manière ciblée dans une attaque probablement menée par le ransomware LockBit 3.0. En réponse, tous les systèmes ont été immédiatement arrêtés pour des raisons de sécurité et un état-major de crise a été mis en place, bien que les données des patients restent accessibles grâce aux systèmes de sauvegarde. Le Bundeskriminalamt (Office fédéral de la police criminelle) a été informé et les spécialistes de la sécurité informatique travaillent à résoudre le problème, tandis que l'hôpital continue de fonctionner avec",
+        "title": "Ostwestfalen-Lippe: Cyberangriff auf Krankenhäuser",
+        "url": "https://www.westfalen-blatt.de/owl/bielefeld/cyberangriff-krankenhaeuser-ostwestfalen-lippe-herford-guetersloh-2889405",
+        "added": "2023-12-26"
+    },
+    {
         "date": "2023-10-23",
         "victim": "Clay County Social Services.",
         "domain": "claycountymn.gov",
