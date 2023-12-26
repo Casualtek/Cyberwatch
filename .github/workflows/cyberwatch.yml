@@ -25,6 +25,10 @@ jobs:
           ATRANS_API_KEY: ${{ secrets.AZURE_TRANSL_API }}
         run: |
           python3 rss.py
+      - uses: stefanzweifel/git-auto-commit-action@v4
+        with:
+          repository: ./
+          push_options: --force
       - name: Save changes
         run: |  
           DATE=$(date -Iseconds)
