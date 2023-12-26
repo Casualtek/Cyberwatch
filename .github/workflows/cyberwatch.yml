@@ -21,7 +21,8 @@ jobs:
           pip3 install -r requirements.txt
       - name: Generate RSS Feed
         env:
-          DEEPL_API_KEY: ${{ secrets.DEEPL_API }}
+        env:
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API }}
           ATRANS_API_KEY: ${{ secrets.AZURE_TRANSL_API }}
         run: |
           python3 rss.py
