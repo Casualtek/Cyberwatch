@@ -1,5 +1,15 @@
 [
     {
+        "date": "2023-12-24",
+        "victim": "Cullman County Courthouse",
+        "domain": "co.cullman.al.us",
+        "country": "USA",
+        "summary": "Le palais de justice du comté de Cullman en Alabama a été victime d'une attaque par rançongiciel (ransomware) durant le week-end, ce qui a perturbé les paiements en ligne, notamment pour les taxes foncières. Le commissaire aux revenus du comté, Barry Willingham, a découvert l'attaque après avoir été informé via un message Facebook qu'un résident ne pouvait pas effectuer de paiement en ligne. Aucune date précise de rétablissement du système n'a été annoncée, mais l'objectif est de le remettre en service d'ici jeudi ou vendredi, et les paiements en retard seront acceptés jusqu'au 5 janvier, avec une extension possible jusqu'au 8 janvier.",
+        "title": "Cullman County Courthouse victim of cyberattack",
+        "url": "https://www.cbs42.com/news/local/cullman-county-courthouse-victim-of-cyberattack/",
+        "added": "2023-12-27"
+    },
+    {
         "date": "2023-11-28",
         "victim": "Integris Health",
         "domain": "integrisok.com",
