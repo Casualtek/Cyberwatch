@@ -1,5 +1,15 @@
 [
     {
+        "date": "2023-11-28",
+        "victim": "Integris Health",
+        "domain": "integrisok.com",
+        "country": "USA",
+        "summary": "Des patients d'Integris Health en Oklahoma reçoivent des emails de chantage les informant que leurs données ont été dérobées lors d'une cyberattaque sur le réseau de santé et que ces données seront vendues si une rançon n'est pas payée. L'attaque, confirmée par Integris Health, a eu lieu le 28 novembre 2023, et les données compromises incluent des informations sensibles telles que les numéros de sécurité sociale et les détails des visites à l'hôpital. Integris Health a averti les patients de ne pas répondre aux emails d'extorsion, et il est suggéré que payer la rançon ne garantit pas la suppression des données et pourrait entraîner d'autres tentatives d'extorsion.",
+        "title": "Integris Health patients get extortion emails after cyberattack",
+        "url": "https://www.bleepingcomputer.com/news/security/integris-health-patients-get-extortion-emails-after-cyberattack/",
+        "added": "2023-12-27"
+    },
+    {
         "date": "2023-12-20",
         "victim": "Ubisoft",
         "domain": "ubisoft.com",
