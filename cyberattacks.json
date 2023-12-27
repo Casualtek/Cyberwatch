@@ -1,5 +1,15 @@
 [
     {
+        "date": "2023-12-23",
+        "victim": "Commune de Härjedalen",
+        "domain": "harjedalen.se",
+        "country": "SWE",
+        "summary": "La commune de Härjedalen en Suède a été victime d'une cyberattaque sérieuse le jour avant Noël, entraînant la paralysie de ses systèmes informatiques et empêchant des opérations telles que le paiement de factures ou la réception d'emails. Les techniciens informatiques de la commune, aidés par des consultants externes, travaillent sans relâche depuis l'attaque pour résoudre le problème.",
+        "title": "IT-attacken mot Härjedalens kommun är ett utpressningsförsök",
+        "url": "https://www.jamtlandstidning.se/harjedalen-harjedalens-kommun-it-attack/it-attacken-mot-harjedalens-kommun-ar-ett-utpressningsforsok/207351",
+        "added": "2023-12-27"
+    },
+    {
         "date": "2023-12-26",
         "victim": "National Insurance Board of Trinidad and Tobago (NIBTT)",
         "domain": "nibtt.net",
