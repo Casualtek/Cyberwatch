@@ -1,5 +1,15 @@
 [
     {
+        "date": "2023-12-26",
+        "victim": "National Insurance Board of Trinidad and Tobago (NIBTT)",
+        "domain": "nibtt.net",
+        "country": "TTO",
+        "summary": "Les bureaux de la National Insurance Board of Trinidad and Tobago (NIBTT) seront fermés du mercredi au vendredi (27-29 décembre) suite à une attaque avec ransomware survenue mardi. La NIBTT est en train d'évaluer ses systèmes pour protéger l'intégrité de ses données et de son matériel technologique, tout en collaborant avec des partenaires technologiques externes pour résoudre rapidement le problème. L'incident a été signalé à l'équipe de réponse aux incidents de cybersécurité de Trinidad et Tobago sous l'égide du ministère de la Sécurité nationale, avec qui la NIBTT travaille pour trouver une solution.",
+        "title": "Ransomware attack forces closure of NIB offices | Loop Trinidad & Tobago",
+        "url": "https://tt.loopnews.com/content/ransomware-attack-forces-closure-nib-offices",
+        "added": "2023-12-27"
+    },
+    {
         "date": "2023-12-15",
         "victim": "Yakult Australia",
         "domain": "yakult.com.au",
