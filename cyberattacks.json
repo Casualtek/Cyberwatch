@@ -1,5 +1,15 @@
 [
     {
+        "date": "2023-12-21",
+        "victim": "Ohio Lottery",
+        "domain": "ohiolottery.com",
+        "country": "USA",
+        "summary": "Un incident de cybersécurité survenu le 21 décembre a affecté certaines applications internes de la Loterie de l'Ohio, entraînant l'indisponibilité des options de paiement mobile et des encaissements de prix supérieurs à 599 dollars chez les Super Détaillants. Bien que le système de jeu public reste pleinement opérationnel, les numéros gagnants pour les jeux KENO, Lucky One et les jackpots progressifs EZPLAY ne sont pas consultables sur le site web ou l'application mobile, mais peuvent être vérifiés chez n'importe quel détaillant de la Loterie de l'Ohio. Les réclamations de prix peuvent toujours être envoyées par courrier au bureau central de la Loterie de l'Ohio.",
+        "title": "Ohio Lottery cyber incident on Christmas Eve compromises mobile cashing",
+        "url": "https://www.cleveland19.com/2023/12/27/ohio-lottery-cyber-attack-christmas-eve-compromises-mobile-cashing/",
+        "added": "2023-12-27"
+    },
+    {
         "date": "2023-12-23",
         "victim": "Commune de Härjedalen",
         "domain": "harjedalen.se",
