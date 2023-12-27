@@ -1,5 +1,15 @@
 [
     {
+        "date": "2023-12-15",
+        "victim": "Yakult Australia",
+        "domain": "yakult.com.au",
+        "country": "AUS",
+        "summary": "Yakult Australia, fabricant d'une boisson lactée probiotique, a confirmé avoir été victime d'un \"incident cybernétique\", suite à la fuite de 95 Go de données revendiquée par le groupe cybercriminel DragonForce. L'attaque, survenue à la mi-décembre, a affecté les systèmes informatiques de l'entreprise en Australie et en Nouvelle-Zélande, mais les bureaux restent ouverts et opérationnels. DragonForce a publié des données incluant des bases de données de l'entreprise, des contrats, des passeports et d'autres documents sensibles, après avoir tenté d'extorquer l'entreprise qui a refusé de coopérer.",
+        "title": "Yakult Australia confirms 'cyber incident' after 95 GB data leak",
+        "url": "https://www.bleepingcomputer.com/news/security/yakult-australia-confirms-cyber-incident-after-95-gb-data-leak/",
+        "added": "2023-12-27"
+    },
+    {
         "date": "2023-12-27",
         "victim": "Eagers Automotive",
         "domain": "eagersautomotive.com.au",
