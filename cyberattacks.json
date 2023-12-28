@@ -1,5 +1,15 @@
 [
     {
+        "date": "2023-12-26",
+        "victim": "Syndicat Général des Vignerons de la Champagne",
+        "domain": "sgv-champagne.fr",
+        "country": "FRA",
+        "summary": "Le 26 décembre, le SGV fait état d'un événement exceptionnel pour justifier de l'indisponibilité de ses services entre Noël et le nouvel an. Des sources concordantes font état d'une cyberattaque. Les données d'Onyphe font ressortir un serveur Exchange encore affecté, mi-décembre, par les vulnérabilités dites ProxyNotShell.",
+        "title": "Suite à un événement exceptionnel, l'ensemble des services du SGV Champagne sera indisponible entre noël et jour de l'an.",
+        "url": "https://www.facebook.com/SGVchampagne",
+        "added": "2023-12-28"
+    },
+    {
         "date": "2023-12-21",
         "victim": "Ohio Lottery",
         "domain": "ohiolottery.com",
