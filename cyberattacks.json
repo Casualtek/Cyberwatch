@@ -1,5 +1,15 @@
 [
     {
+        "date": "2022-12-25",
+        "victim": "Anna Jaques Hospital",
+        "domain": "ajh.org",
+        "country": "USA",
+        "summary": "L'hôpital Anna Jaques a subi un incident cybernétique grave qui a compromis ses systèmes informatiques, entraînant des retards dans les services et la déviation des ambulances vers d'autres hôpitaux le jour de Noël. Les administrateurs de l'hôpital ont sécurisé l'environnement et engagé des professionnels de la cybersécurité pour l'enquête, mais n'ont pas fourni de détails sur la nature ou la cible de l'attaque. Le service d'ambulance a repris le 26 décembre et l'hôpital travaille en collaboration avec d'autres établissements du système de santé Beth Israel Lahey.",
+        "title": "Anna Jaques systems compromised after cyber issue | Local News | newburyportnews.com",
+        "url": "https://www.newburyportnews.com/news/local_news/anna-jaques-systems-compromised-after-cyber-issue/article_a5a6d88e-a58e-11ee-bc90-cf662aa3badb.html",
+        "added": "2023-12-28"
+    },
+    {
         "date": "2023-12-26",
         "victim": "Syndicat Général des Vignerons de la Champagne",
         "domain": "sgv-champagne.fr",
