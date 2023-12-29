@@ -1,5 +1,15 @@
 [
     {
+        "date": "2023-03-26",
+        "victim": "Retina Group of Washington",
+        "domain": "rgw.com",
+        "country": "USA",
+        "summary": "Près de 456 000 patients ont été affectés par une violation de données au sein du Retina Group of Washington, et les notifications ont commencé à être envoyées 9 mois après l'incident. Le groupe a signalé à l'Office for Civil Rights du Département de la Santé et des Services Humains des États-Unis qu'une cyberattaque avait eu lieu le 26 mars 2023, entraînant le vol de données patients, incluant des informations sensibles comme les numéros de sécurité sociale et les informations médicales. Bien qu'aucun abus des données n'ait été identifié, le Retina Group of Washington n'offre pas de services de surveillance de crédit, mais conseille aux patients de rester vigilants face au risque de vol d'identité et de fraude",
+        "title": "Retina Group of Washington Data Breach Affects 456,000 Patients",
+        "url": "https://www.hipaajournal.com/retina-group-of-washington-data-breach/",
+        "added": "2023-12-29"
+    },
+    {
         "date": "2022-12-26",
         "victim": "Conseil œcuménique des Églises (WCC)",
         "domain": "oikoumene.org",
