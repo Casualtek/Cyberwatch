@@ -1,5 +1,15 @@
 [
     {
+        "date": "2022-12-26",
+        "victim": "Conseil œcuménique des Églises (WCC)",
+        "domain": "oikoumene.org",
+        "country": "CHE",
+        "summary": "Le Conseil œcuménique des Églises (WCC) a été victime d'une cyberattaque par ransomware le 26 décembre, entraînant la mise hors service de tous ses systèmes. Le secrétaire général du WCC, le Rév. Prof. Dr Jerry Pillay, a fermement condamné l'attaque et a affirmé que l'organisation ne céderait pas aux menaces, tout en soulignant la nécessité d'une voix forte pour la justice numérique. Le WCC a informé la police suisse et prend des mesures pour renforcer sa sécurité, tout en appelant à la vigilance face à d'éventuels canulars diffusés par les pirates.",
+        "title": "WCC news: WCC hit by ransomware attack",
+        "url": "https://mailchi.mp/wcc-coe/wcc-news-wcc-hit-by-ransomware-attack-243020",
+        "added": "2023-12-29"
+    },
+    {
         "date": "2022-12-25",
         "victim": "Anna Jaques Hospital",
         "domain": "ajh.org",
