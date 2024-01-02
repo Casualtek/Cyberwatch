@@ -1,5 +1,15 @@
 [
     {
+        "date": "2023-12-31",
+        "victim": "IPS Securex",
+        "domain": "ips-securex.com",
+        "country": "SGP",
+        "summary": "Le 2 janvier, IPS Securex a annoncé que les serveurs du groupe avaient récemment été piratés. Une partie inconnue aurait eu un accès non autorisé à ses serveurs, rendant son réseau inaccessible. Le groupe a pris des mesures immédiates avec des experts externes pour identifier, contenir et traiter l'incident sur ses serveurs affectés.",
+        "title": "IPS Securex’s servers hacked; no evidence of data exfiltration from cyberattack",
+        "url": "https://www.theedgesingapore.com/news/company-news/ips-securexs-servers-hacked-no-evidence-data-exfiltration-cyberattack",
+        "added": "2024-01-02"
+    },
+    {
         "date": "2023-12-21",
         "victim": "Court Services Victoria (CSV)",
         "domain": "courts.vic.gov.au",
