@@ -1,5 +1,15 @@
 [
     {
+        "date": "2023-11-30",
+        "victim": "GCC Bend LLC (BackyardMedia)",
+        "domain": "backyardbend.com",
+        "country": "USA",
+        "summary": "Les quatre stations de radio de GCC Bend LLC à Bend, Oregon, ont été victimes d'une cyberattaque par ransomware, qui a pris en otage leurs bibliothèques musicales et infecté leurs ordinateurs de programmation, exigeant une rançon en bitcoin. Le directeur général Andy Hilmes a annoncé sur Facebook que la société ne paierait pas la rançon et reconstruirait les stations à partir de zéro, entraînant des changements temporaires dans leur programmation habituelle.",
+        "title": "Oregon Cluster Hit By Ransomware Attacks - RadioInsight",
+        "url": "https://radioinsight.com/headlines/261739/oregon-cluster-hit-by-ransomware-attacks/",
+        "added": "2024-01-02"
+    },
+    {
         "date": "2023-12-22",
         "victim": "Coop Värmland",
         "domain": "coopvarmland.se",
