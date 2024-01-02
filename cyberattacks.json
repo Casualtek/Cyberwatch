@@ -1,5 +1,15 @@
 [
     {
+        "date": "2023-12-21",
+        "victim": "Court Services Victoria (CSV)",
+        "domain": "courts.vic.gov.au",
+        "country": "AUS",
+        "summary": "Le système judiciaire de Victoria a été victime d'une attaque par ransomware, découverte le 21 décembre, qui a potentiellement exposé des enregistrements d'audiences sensibles, notamment des témoignages de témoins. Les experts en cybersécurité pensent que des pirates russes sont à l'origine de l'attaque, utilisant un ransomware commercial appelé Qilin pour chiffrer et voler les données, menaçant de les divulguer si une rançon n'est pas payée. Court Services Victoria a isolé et désactivé le réseau affecté pour contenir l'attaque et a mis en place un centre de contact pour les personnes concernées, assurant que les audiences de janvier se dérouleront comme prévu.",
+        "title": "Cyber attack on Victoria's court system may have exposed recordings of sensitive cases - ABC News",
+        "url": "https://www.abc.net.au/news/2024-01-02/victoria-court-system-targeted-in-cyber-attack-russian-hackers/103272118",
+        "added": "2024-01-02"
+    },
+    {
         "date": "2023-11-30",
         "victim": "GCC Bend LLC (BackyardMedia)",
         "domain": "backyardbend.com",
