@@ -1,6 +1,16 @@
 [
     {
         "date": "2023-12-31",
+        "victim": "Mairie de Fouesnant",
+        "domain": "fouesnant.fr",
+        "country": "FRA",
+        "summary": "La mairie de Fouesnant a été la cible d'une cyberattaque significative qui a paralysé tous ses services, à l'exception du service de délivrance des passeports et cartes nationales d'identité, qui reste opérationnel grâce à une ligne sécurisée par l'État. L'accueil téléphonique et physique de la mairie continue de fonctionner aux heures normales, et les citoyens sont priés de reporter les demandes non urgentes.",
+        "title": "La mairie de Fouesnant victime d’une cyberattaque | Le Télégramme",
+        "url": "https://www.letelegramme.fr/finistere/fouesnant-29170/la-mairie-de-fouesnant-victime-dune-cyberattaque-6498204.php",
+        "added": "2024-01-02"
+    },
+    {
+        "date": "2023-12-31",
         "victim": "IPS Securex",
         "domain": "ips-securex.com",
         "country": "SGP",
