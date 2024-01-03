@@ -1,5 +1,15 @@
 [
     {
+        "date": "2023-12-18",
+        "victim": "GvW (Graf von Westphalen)",
+        "domain": "gvw.com",
+        "country": "DEU",
+        "summary": "La firme GvW a subi une cyberattaque qui a temporairement bloqué l'accès à certains de ses systèmes informatiques, y compris la communication par e-mail, mais aucune donnée de clients n'a été divulguée. La firme a rapidement rétabli ses opérations grâce à des mesures de sécurité préexistantes et a informé les autorités compétentes, tout en promettant d'informer les personnes concernées si des accès illégaux aux données étaient découverts. Les détails de l'attaque ne sont pas divulgués en raison d'enquêtes en cours, mais des cas similaires de rançongiciels ont été signalés chez d'autres cabinets d'avocats.",
+        "title": "GvW übersteht Cyberangriff schnell | juve.de",
+        "url": "https://www.juve.de/markt-und-management/gvw-uebersteht-cyberangriff-schnell/",
+        "added": "2024-01-03"
+    },
+    {
         "date": "2023-12-28",
         "victim": "Gallery Systems",
         "domain": "emuseum.com",
