@@ -1,5 +1,15 @@
 [
     {
+        "date": "2023-12-29",
+        "victim": "Xerox Business Solutions (XBS)",
+        "domain": "xeroxbusinesssolutions.com",
+        "country": "USA",
+        "summary": "Xerox a confirmé qu'une de ses filiales, XBS, a été victime d'une cyberattaque impliquant un potentiel vol d'informations personnelles, suite aux revendications d'une attaque par le groupe INC Ransomware. La société a déclaré que l'incident n'avait pas affecté ses systèmes corporatifs ni ses opérations, mais que des informations personnelles limitées dans l'environnement XBS pourraient avoir été compromises. Xerox avait déjà été ciblée par des attaques de rançongiciel dans le passé, notamment par le groupe Maze en 2020 et avait été mentionnée dans des communications du groupe Conti en 2022.",
+        "title": "After ransomware claims, Xerox says subsidiary hit with cyberattack",
+        "url": "https://therecord.media/xerox-xbs-cyberattack",
+        "added": "2024-01-04"
+    },
+    {
         "date": "2023-12-18",
         "victim": "GvW (Graf von Westphalen)",
         "domain": "gvw.com",
