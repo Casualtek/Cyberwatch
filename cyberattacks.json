@@ -1,5 +1,15 @@
 [
     {
+        "date": "2023-04-11",
+        "victim": "Middlefield Banking Company",
+        "domain": "middlefieldbank.bank",
+        "country": "USA",
+        "summary": "La Middlefield Banking Company, basée dans l'Ohio, a signalé une violation de données le 21 décembre 2023, après qu'une cyberattaque a permis à une partie non autorisée d'accéder à des informations sensibles de clients et d'employés, incluant des numéros de sécurité sociale et des informations financières, entre autres. L'incident a été détecté pour la première fois le 12 avril 2023, et après une enquête approfondie, la banque a commencé à envoyer des lettres de notification aux individus affectés le 21 décembre 2023. Middlefield Bank, qui opère environ 20 agences et emploie plus de 185 personnes, offre divers services bancaires traditionnels et génère environ 54 millions de dollars de revenus",
+        "title": "Middlefield Bank Announces Data Breach Affecting Customers and Employees | Console and Associates, P.C. - JDSupra",
+        "url": "https://www.jdsupra.com/legalnews/middlefield-bank-announces-data-breach-2915034/",
+        "added": "2024-01-04"
+    },
+    {
         "date": "2023-03-21",
         "victim": "Academy Mortgage Corporation",
         "domain": "academymortgage.com",
