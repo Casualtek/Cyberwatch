@@ -1,5 +1,15 @@
 [
     {
+        "date": "2023-07-14",
+        "victim": "HealthEC LLC",
+        "domain": "healthec.com",
+        "country": "USA",
+        "summary": "HealthEC LLC, une entreprise de technologie de santé, a informé d'une activité suspecte sur son réseau entre le 14 et le 23 juillet 2023, où des données sensibles de clients ont été potentiellement compromises, incluant des informations personnelles et médicales. L'entreprise a commencé à notifier les partenaires et les individus affectés après avoir complété une enquête le 24 octobre 2023. Ils recommandent aux individus de surveiller leurs comptes pour détecter toute activité suspecte et offrent des conseils sur la protection de l'identité, y compris l'utilisation de rapports de crédit gratuits, d'alertes de fraude et de gels de crédit.",
+        "title": "HealthEC | KLAS-recognized Population Health Management Company",
+        "url": "https://www.healthec.com/cyber-incident/",
+        "added": "2024-01-05"
+    },
+    {
         "date": "2024-01-01",
         "victim": "Commune de Saint-Philippe",
         "domain": "saintphilippe.re",
