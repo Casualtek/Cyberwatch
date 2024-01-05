@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-01-01",
+        "victim": "Commune de Saint-Philippe",
+        "domain": "saintphilippe.re",
+        "country": "FRA",
+        "summary": "La commune de Saint-Philippe a été ciblée par une attaque par rançongiciel le 1er janvier, entraînant la mise hors service de plusieurs services numériques, dont l'état civil et le bureau électoral. Une plainte a été déposée à la suite de cette cyberattaque et la mairie travaille avec une société spécialisée en cybersécurité pour gérer la situation et rétablir les services affectés. Malgré l'attaque, l'accueil téléphonique et physique de la mairie continue de fonctionner aux heures normales.",
+        "title": "La commune de Saint-Philippe a été victime, le 1er janvier, d’une cyber attaque : une plainte déposée - LINFO.re",
+        "url": "https://www.linfo.re/la-reunion/faits-divers/la-commune-de-saint-philippe-a-ete-victime-le-1er-janvier-d-une-cyber-attaque-une-plainte-deposee",
+        "added": "2024-01-05"
+    },
+    {
         "date": "2023-10-22",
         "victim": "First Choice Dental",
         "domain": "firstchoicedental.com",
