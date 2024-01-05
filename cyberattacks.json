@@ -1,5 +1,15 @@
 [
     {
+        "date": "2023-07-27",
+        "victim": "Parathon by JDA eHealth Systems",
+        "domain": "parathon.com",
+        "country": "USA",
+        "summary": "La société Parathon by JDA eHealth Systems, spécialisée dans la gestion du cycle de revenus dans le secteur de la santé, a confirmé avoir été victime d'une cyberattaque le 27 juillet 2023, au cours de laquelle des informations de santé protégées de patients ont été accédées et 560 Go de données ont été dérobées par le groupe de menaces Akira, qui a depuis lors retiré la mention de Parathon de son site de fuite de données, ce qui suggère que la rançon a été payée. Parathon a mis en place des mesures de sécurité renforcées et offre des services de surveillance de crédit aux individus affectés, bien qu'il n'ait pas trouvé de preuves d'utilisation frauduleuse des données volées. Il n'est pas cl",
+        "title": "Parathon by JDA eHealth Systems Confirms July 2023 Cyberattack",
+        "url": "https://www.hipaajournal.com/parathon-by-jda-ehealth-systems-data-breach/",
+        "added": "2024-01-05"
+    },
+    {
         "date": "2023-07-14",
         "victim": "HealthEC LLC",
         "domain": "healthec.com",
