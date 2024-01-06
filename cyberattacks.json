@@ -1,5 +1,15 @@
 [
     {
+        "date": "2023-12-26",
+        "victim": "Fundação Caixa Beneficente dos Servidores (Funcabes)",
+        "domain": "funcabes.com.br",
+        "country": "BRA",
+        "summary": "La Fundação Caixa Beneficente dos Servidores (Funcabes), affiliée à l'Université de Taubaté (Unitau), a été victime d'une cyberattaque pendant la période de fin d'année. Les pirates ont réussi à accéder à un ordinateur et à compromettre des documents et des feuilles de calcul, mais n'ont pas réussi à pénétrer dans les systèmes ou bases de données de l'institution. Un document de rançon en cryptomonnaies a été découvert sur l'ordinateur infecté, et l'Unitau a signalé l'incident à la police pour enquête.",
+        "title": "Funcabes é alvo de ataque cibernético",
+        "url": "https://www.meon.com.br/noticias/rmvale/funcabes-e-alvo-de-ataque-cibernetico",
+        "added": "2024-01-06"
+    },
+    {
         "date": "2023-07-27",
         "victim": "Parathon by JDA eHealth Systems",
         "domain": "parathon.com",
