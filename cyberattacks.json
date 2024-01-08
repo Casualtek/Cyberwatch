@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-01-04",
+        "victim": "Tigo Business",
+        "domain": "tigo.com.py",
+        "country": "PRY",
+        "summary": "Le Paraguay est en état d'alerte suite à une cyberattaque présumée de type ransomware qui a touché la division corporate d'une entreprise de télécommunications, affectant plus de 300 entreprises locales. La Direction Générale des Technologies de l'Information et de la Communication des Forces Militaires a émis un bulletin d'alerte officiel concernant les possibles conséquences de l'infection par ransomware. Les médias locaux ont rapporté que l'attaque a impacté les clients dans le domaine corporate de l'entreprise Tigo depuis jeudi, et Tigo Business a reconnu avoir subi un \"incident de sécurité\" dans son infrastructure.",
+        "title": "Paraguay on alert after cyber attack; at least 300 companies affected - Ruetir",
+        "url": "https://www.ruetir.com/2024/01/08/paraguay-on-alert-after-cyber-attack-at-least-300-companies-affected/",
+        "added": "2024-01-08"
+    },
+    {
         "date": "2024-01-06",
         "victim": "loanDepot",
         "domain": "loandepot.com",
