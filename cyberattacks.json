@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-01-06",
+        "victim": "loanDepot",
+        "domain": "loandepot.com",
+        "country": "USA",
+        "summary": "La société de prêts hypothécaires américaine loanDepot a été victime d'une cyberattaque qui a entraîné la mise hors ligne de ses systèmes informatiques et de son portail de paiement, empêchant les paiements en ligne des prêts. L'entreprise collabore avec les forces de l'ordre et des experts en cybercriminalité pour enquêter sur l'incident. Bien que la nature exacte de l'attaque n'ait pas été divulguée, il est possible qu'il s'agisse d'une attaque par rançongiciel, et les clients sont avertis de la possibilité de phishing et de vol d'identité suite à la compromission de données sensibles lors d'une précédente brèche en août 2022.",
+        "title": "Mortgage firm loanDepot cyberattack impacts IT systems, payment portal",
+        "url": "https://www.bleepingcomputer.com/news/security/mortgage-firm-loandepot-cyberattack-impacts-it-systems-payment-portal/",
+        "added": "2024-01-08"
+    },
+    {
         "date": "2023-02-03",
         "victim": "Cooper Aerobics",
         "domain": "cooperaerobics.com",
