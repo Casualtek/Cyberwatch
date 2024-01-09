@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-01-05",
+        "victim": "Toronto Zoo",
+        "domain": "torontozoo.com",
+        "country": "CAN",
+        "summary": "Le zoo de Toronto a été victime d'une attaque de ransomware, faisant suite à une attaque similaire sur la bibliothèque publique de la ville. L'impact sur les invités, membres et donateurs est en cours d'investigation, mais aucune information de carte de crédit n'est actuellement stockée. Malgré l'attaque, le bien-être animal, les systèmes de soins et de soutien n'ont pas été touchés et le zoo continue de fonctionner normalement.",
+        "title": "Toronto Zoo hit by ransomware attack",
+        "url": "https://www.thestar.com/news/gta/toronto-zoo-hit-with-a-ransomware-attack/article_1bc4d908-ae68-11ee-a0ad-7b63b0bcf918.html",
+        "added": "2024-01-09"
+    },
+    {
         "date": "2024-01-04",
         "victim": "Tigo Business",
         "domain": "tigo.com.py",
