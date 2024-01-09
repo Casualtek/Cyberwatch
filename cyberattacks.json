@@ -1,6 +1,16 @@
 [
     {
         "date": "2024-01-05",
+        "victim": "ODAV AG",
+        "domain": "odav.de",
+        "country": "DEU",
+        "summary": "La Handwerkskammer (Chambre de métiers) de Koblenz en Allemagne a été victime d'une cyberattaque, suite à laquelle elle a déconnecté tous ses systèmes par mesure de sécurité, rendant son site internet et sa logiciel de gestion inaccessibles. Selon le directeur Ralf Hellrich, aucune donnée personnelle ou d'entreprise n'a été compromise. D'autres chambres de métiers dans la région, gérées par le même prestataire informatique, ODAV AG, ont également été touchées par cette attaque ciblée et professionnelle visant à chiffrer des données pour exiger une rançon.",
+        "title": "Cyberangriff auf Handwerkskammer Koblenz - SWR Aktuell",
+        "url": "https://www.swr.de/swraktuell/rheinland-pfalz/koblenz/hackerangriff-handwerkskammer-koblenz-102.html",
+        "added": "2024-01-09"
+    },
+    {
+        "date": "2024-01-05",
         "victim": "Toronto Zoo",
         "domain": "torontozoo.com",
         "country": "CAN",
