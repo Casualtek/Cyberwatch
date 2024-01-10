@@ -1,5 +1,15 @@
 [
     {
+        "date": "2023-12-28",
+        "victim": "TiAuto Investments",
+        "domain": "http://tiautoinvestments.co.za",
+        "country": "ZAF",
+        "summary": " TiAuto Investments (TiAuto, Tiger Wheel & Tyre et autres sociétés), a signalé aux fournisseurs avoir subi un cyberattaque avec ransomware le 28 décembre 2023. Le groupe a déclaré ne pas avoir cédé aux demandes d'extorsion et est en train de ramener graduellement ses systèmes en ligne. TiAuto a assuré ne jamais prévoir de payer des ransoms ni de négocier avec des criminels, et que tout individu qui pourrait être affecté était informé, même si l'on ignore s'il y a eu vol de données durant l'intrusion.",
+        "title": "Tiger Wheel & Tyre parent hit with ransomware attack",
+        "url": "https://mybroadband.co.za/news/security/521213-tiger-wheel-tyre-parent-hit-with-ransomware-attack.html",
+        "added": "2024-01-10"
+    },
+    {
         "date": "2023-07-12",
         "victim": "SSM Health",
         "domain": "ssmhealth.com",
