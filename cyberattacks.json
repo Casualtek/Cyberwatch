@@ -1,5 +1,15 @@
 [
     {
+        "date": "2023-07-12",
+        "victim": "SSM Health",
+        "domain": "ssmhealth.com",
+        "country": "USA",
+        "summary": "Navvis & Company, un prestataire de services pour des établissements de santé, a subi une cyberattaque entre le 12 et le 25 juillet 2023, entraînant une fuite de données sensibles de patients de SSM Health, y compris des noms, numéros de sécurité sociale, et informations médicales. SSM Health, qui n'a pas été directement touché par la brèche, a informé les patients affectés par le biais de lettres de notification envoyées le 29 décembre 2023. Navvis a lancé une enquête avec des experts en cybersécurité pour déterminer l'ampleur de la brèche et les informations spécifiques qui ont été compromises.",
+        "title": "SSM Health Confirms Patient Data Was Leaked Due to Third-Party Data Breach at Navvis & Company | Console and Associates, P.C. - JDSupra",
+        "url": "https://www.jdsupra.com/legalnews/ssm-health-confirms-patient-data-was-7729008/",
+        "added": "2024-01-10"
+    },
+    {
         "date": "2023-12-21",
         "victim": "Xonar",
         "domain": "xonar.nl",
