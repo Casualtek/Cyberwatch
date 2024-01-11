@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-01-10",
+        "victim": "RE&S Holdings",
+        "domain": "res.com.sg",
+        "country": "SGP",
+        "summary": "Une institution de soins de santé, Xonar, basée dans le sud du Limbourg, a été victime d'une cyberattaque au cours de laquelle des données ont été volées. Les employés, les clients et d'autres personnes de contact de l'organisme de soins sont actuellement informés, et bien qu'il ne soit pas encore clair quelles données ont été volées, Xonar affirme qu'elles n'ont pas encore été publiées par les pirates, et la possibilité d'une demande de rançon n'a pas été confirmée.",
+        "title": "RE&S latest Singapore-listed company to be hit by spate of ransomware attacks",
+        "url": "https://www.theedgesingapore.com/news/cybersecurity/res-latest-singapore-listed-company-be-hit-spate-ransomware-attacks",
+        "added": "2024-01-11"
+    },
+    {
         "date": "2023-07-03",
         "victim": "ConsensioHealth",
         "domain": "consensiohealth.com",
