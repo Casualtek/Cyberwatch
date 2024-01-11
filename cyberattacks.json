@@ -1,6 +1,16 @@
 [
     {
         "date": "2024-01-10",
+        "victim": "Lush",
+        "domain": "lush.co.uk",
+        "country": "GBR",
+        "summary": "La société Lush est en train d'enquêter sur une cyberattaque et a pris des mesures immédiates pour sécuriser ses systèmes. Basée à Poole, l'entreprise collabore avec des spécialistes externes en informatique forensique pour mener une enquête approfondie. Lush a également informé les autorités compétentes et rappelle qu'en 2011, son site web avait déjà été la cible de pirates informatiques.",
+        "title": "Lush investigating cyber security attack | Bournemouth Echo",
+        "url": "https://www.bournemouthecho.co.uk/news/24043044.lush-investigating-cyber-security-attack/",
+        "added": "2024-01-11"
+    },
+    {
+        "date": "2024-01-10",
         "victim": "RE&S Holdings",
         "domain": "res.com.sg",
         "country": "SGP",
