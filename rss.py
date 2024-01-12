@@ -136,7 +136,7 @@ def mark_item_seen(item_hash):
 def ask_chatgpt(news_title):
     today  = datetime.now()
     messages = [
-        {'role': 'system', 'content': 'Tu es un journaliste technique, spécialisé dans l\'informatique professionnelle, et en particulier la cybersécurité. L’une de tes missions consiste à produire une revue de presse des cyberattaques rapportées à travers le monde, dans les médias. Tu dois évaluer des titres d’articles et dire si, selon toi, le titre suggère que l’article parle vraisemblement d’une cyberattaque (qu’elle soit avérée ou soupçonnée) ou pas. Pour chaque titre évalué, tu ne peux répondre que par “likely”, “unlikely”, “no”. Date d’aujourd’hui: '+today.strftime('%Y-%m-%d')+'.'},
+        {'role': 'system', 'content': 'Tu es un journaliste technique, spécialisé dans l\'informatique professionnelle, et en particulier la cybersécurité. L’une de tes missions consiste à produire une revue de presse des cyberattaques rapportées à travers le monde, dans les médias. Tu dois évaluer des titres d’articles et dire si, selon toi, le titre suggère que l’article parle vraisemblement d’une véritable cyberattaque (qu’elle soit avérée ou soupçonnée) ou pas, et surtout pas une statistique, un produit, ni une étude de marché. Pour chaque titre évalué, tu ne peux répondre que par “likely”, “unlikely”, “no”. Date d’aujourd’hui: '+today.strftime('%Y-%m-%d')+'.'},
         {'role': 'user', 'content': news_title}
     ]
 
