@@ -33,8 +33,8 @@
         "date": "2024-01-10",
         "victim": "RE&S Holdings",
         "domain": "res.com.sg",
-        "country": "SGP",
-        "summary": "Une institution de soins de santé, Xonar, basée dans le sud du Limbourg, a été victime d'une cyberattaque au cours de laquelle des données ont été volées. Les employés, les clients et d'autres personnes de contact de l'organisme de soins sont actuellement informés, et bien qu'il ne soit pas encore clair quelles données ont été volées, Xonar affirme qu'elles n'ont pas encore été publiées par les pirates, et la possibilité d'une demande de rançon n'a pas été confirmée.",
+        "country": "JPN",
+        "summary": "RE&S Holdings, une entreprise japonaise opérant dans le secteur de la restauration, a été victime d'une attaque de ransomware, avec un accès non autorisé à ses serveurs. Malgré l'impact sur les données stockées, la société a activé son plan de continuité d'activité, affirmant qu'aucun impact significatif sur ses opérations n'a été constaté jusqu'à présent, et elle a signalé l'incident à la Commission de protection des données personnelles.",
         "title": "RE&S latest Singapore-listed company to be hit by spate of ransomware attacks",
         "url": "https://www.theedgesingapore.com/news/cybersecurity/res-latest-singapore-listed-company-be-hit-spate-ransomware-attacks",
         "added": "2024-01-11"
@@ -61,8 +61,8 @@
     },
     {
         "date": "2023-07-12",
-        "victim": "SSM Health",
-        "domain": "ssmhealth.com",
+        "victim": "Navvis",
+        "domain": "navvishealthcare.com",
         "country": "USA",
         "summary": "Navvis & Company, un prestataire de services pour des établissements de santé, a subi une cyberattaque entre le 12 et le 25 juillet 2023, entraînant une fuite de données sensibles de patients de SSM Health, y compris des noms, numéros de sécurité sociale, et informations médicales. SSM Health, qui n'a pas été directement touché par la brèche, a informé les patients affectés par le biais de lettres de notification envoyées le 29 décembre 2023. Navvis a lancé une enquête avec des experts en cybersécurité pour déterminer l'ampleur de la brèche et les informations spécifiques qui ont été compromises.",
         "title": "SSM Health Confirms Patient Data Was Leaked Due to Third-Party Data Breach at Navvis & Company | Console and Associates, P.C. - JDSupra",
