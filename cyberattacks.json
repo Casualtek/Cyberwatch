@@ -1,6 +1,16 @@
 [
     {
         "date": "2024-01-13",
+        "victim": "Sambr'Habitat",
+        "domain": "sambrhabitat.be",
+        "country": "BEL",
+        "summary": "Sambr'Habitat, une société de logements publics située à Sambreville et Jemeppe-sur-Sambre, est contrainte de fonctionner au ralenti à la suite d'une cyberattaque. Les détails de l'attaque et son impact exact sur les opérations de l'entreprise ne sont pas entièrement divulgués dans le texte accessible.",
+        "title": "Attaque informatique : Sambr’Habitat, la société de logements publics de Sambreville et de Jemeppe-sur-Sambre, doit fonctionner au ralenti",
+        "url": "https://www.sudinfo.be/id771345/article/2024-01-14/attaque-informatique-sambrhabitat-la-societe-de-logements-publics-de-sambreville",
+        "added": "2024-01-14"
+    },
+    {
+        "date": "2024-01-13",
         "victim": "Calvia",
         "domain": "calvia.com",
         "country": "ESP",
