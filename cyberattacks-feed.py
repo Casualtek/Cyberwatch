@@ -25,6 +25,7 @@ for item in sorted_items[:20]:
         title=item['victim']+' ('+item['country']+') autour du '+date.strftime('%d %B %Y')+'.',
         link=item['url'],
         description=item['summary'],
+        pubDate=datetime.strptime(item['added'], '%Y-%m-%d')
     )
 
 # Write the feed to a file
