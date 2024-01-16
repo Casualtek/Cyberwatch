@@ -1,5 +1,15 @@
 [
     {
+        "date": "2023-11-24",
+        "victim": "Avesco Rent",
+        "domain": "avescorent.ch",
+        "country": "CHE",
+        "summary": "La société suisse Avesco Rent, spécialisée dans la location de machines de construction, a été victime d'une cyberattaque par le groupe de ransomware Lockbit le 24 novembre 2023, mais l'entreprise n'a détecté l'incident qu'une semaine plus tard. Lors de l'attaque, des données telles que des factures, des devis, des dossiers du personnel et du matériel marketing ont été dérobées et se sont retrouvées sur le Darknet. Avesco Rent n'a pas communiqué avec les cybercriminels et ne connaît donc pas le montant de la rançon demandée.",
+        "title": "Lockbit-Ransomware trifft Schweizer Vermieter von Baumaschinen | Netzwoche",
+        "url": "https://www.netzwoche.ch/news/2024-01-16/lockbit-ransomware-trifft-schweizer-vermieter-von-baumaschinen",
+        "added": "2024-01-16"
+    },
+    {
         "date": "2024-01-15",
         "victim": "Jingding (京鼎)",
         "domain": "foxsemicon.com",
