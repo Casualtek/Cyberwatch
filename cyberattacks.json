@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-01-16",
+        "victim": "Université d'État du Kansas (K-State)",
+        "domain": "k-state.edu",
+        "country": "USA",
+        "summary": "L'Université d'État du Kansas a subi une perturbation de certains de ses systèmes réseau, notamment le VPN, les e-mails K-State Today et les vidéos sur Canvas ou Mediasite, suite à un incident de cybersécurité survenu autour du mardi 16 janvier. Les systèmes affectés ont été déconnectés pour enquête, avec l'assistance d'experts en informatique judiciaire tiers, et des mesures sont prises pour maintenir la continuité des activités académiques et administratives. L'université a communiqué sur l'importance de suivre les meilleures pratiques de cybersécurité et continuera de mettre à jour la communauté universitaire tout en gérant l'incident.",
+        "title": "Recent events update",
+        "url": "https://www.k-state.edu/media/update/",
+        "added": "2024-01-17"
+    },
+    {
         "date": "2023-11-24",
         "victim": "Avesco Rent",
         "domain": "avescorent.ch",
