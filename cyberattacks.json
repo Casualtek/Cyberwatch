@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-01-06",
+        "victim": "Banque nationale d'Angola",
+        "domain": "bna.ao",
+        "country": "AGO",
+        "summary": "La Banque nationale d'Angola a subi une cyberattaque le 6 janvier, mais a déclaré avoir atténué l'incident sans impacts significatifs sur son infrastructure et ses données. Aucun groupe de hackers n'a revendiqué l'attaque, bien qu'une offre d'accès aux systèmes de la banque ait été précédemment signalée sur un forum cybercriminel. Plusieurs autres banques du pays ont été mentionnées sur le site de fuites d'un groupe de ransomware désormais inactif, et des cyberattaques ont été rapportées par d'autres banques d'État dans les années récentes.",
+        "title": "National Bank of Angola says it mitigated cyberattack",
+        "url": "https://therecord.media/angola-national-bank-cyberattack-mitigated",
+        "added": "2024-01-17"
+    },
+    {
         "date": "2023-05-13",
         "victim": "Electrostim Medical Services, Inc.",
         "domain": "wecontrolpain.com",
