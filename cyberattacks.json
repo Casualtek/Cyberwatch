@@ -1,5 +1,15 @@
 [
     {
+        "date": "2023-05-13",
+        "victim": "Electrostim Medical Services, Inc.",
+        "domain": "wecontrolpain.com",
+        "country": "USA",
+        "summary": "La société de dispositifs médicaux de Floride, Electrostim Medical Services, Inc., a subi une cyberattaque en mai 2023, exposant les données de santé protégées de 542 990 patients. Une activité suspecte a été détectée le 13 mai 2023, et bien qu'aucun vol de données n'ait été confirmé, les pirates ont eu accès au réseau pendant environ deux semaines, pouvant copier des informations sensibles. L'entreprise a envoyé des lettres de notification aux patients concernés en décembre et a pris des mesures pour renforcer la sécurité de son réseau.",
+        "title": "Electrostim Medical Services Data Breach Impacts 543,000 Patients",
+        "url": "https://www.hipaajournal.com/electrostim-medical-services-data-breach/",
+        "added": "2024-01-17"
+    },
+    {
         "date": "2023-12-31",
         "victim": "IZIS",
         "domain": "izis.org",
