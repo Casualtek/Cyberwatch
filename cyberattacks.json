@@ -1,5 +1,15 @@
 [
     {
+        "date": "2023-12-31",
+        "victim": "IZIS",
+        "domain": "izis.org",
+        "country": "BIH",
+        "summary": "Le système d'information de santé intégré de l'entité serbe de Bosnie, Republika Srpska, est partiellement remis en ligne après une cyberattaque par ransomware qui l'avait mis hors service pendant 17 jours, mais seulement dans six centres de santé et sans les services de laboratoire. Les données des citoyens auraient été préservées, mais certaines informations piratées seraient déjà en vente sur le dark web. Malgré un investissement de près de 13 millions d'euros dans le système, celui-ci ne fonctionne pas encore pleinement ni n'a intégré toutes les institutions de santé plus d'un an après sa mise en œuvre.",
+        "title": "Bosnian Serb Entity Healthcare System Partly Back Online After Cyber Attack | Balkan Insight",
+        "url": "https://balkaninsight.com/2024/01/17/bosnian-serb-entity-healthcare-system-partly-back-online-after-cyber-attack/",
+        "added": "2024-01-17"
+    },
+    {
         "date": "2024-01-16",
         "victim": "Université d'État du Kansas (K-State)",
         "domain": "k-state.edu",
