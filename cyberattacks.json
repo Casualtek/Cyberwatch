@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-01-15",
+        "victim": "Canterbury City Council, Thanet District Council, Dover District Council.",
+        "domain": "canterbury.gov.uk",
+        "country": "GBR",
+        "summary": "Trois conseils du Kent, Canterbury City Council, Thanet District Council et Dover District Council, ont subi des perturbations de services suite à un incident cybernétique qui pourrait être une attaque de piratage organisée. Les autorités locales collaborent avec les experts du National Cyber Security Centre pour enquêter sur la brèche, et il n'est pas encore confirmé si des données personnelles ont été compromises. Les services affectés incluent les départements de planification, les formulaires en ligne et les cartes sur les sites web des conseils, et des mesures préventives sont prises pendant l'enquête.",
+        "title": "Canterbury City Council, Thanet District Council and Dover District Council suffers issues after ‘cyber incident’",
+        "url": "https://www.kentonline.co.uk/canterbury/news/services-disrupted-as-three-kent-councils-hit-by-cyber-atta-300315/",
+        "added": "2024-01-18"
+    },
+    {
         "date": "2024-01-17",
         "victim": "Service de secours de Jämtland",
         "domain": "jamtland.se",
