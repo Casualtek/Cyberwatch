@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-01-19",
+        "victim": "Japan Food Holdings",
+        "domain": "jfh.com.sg",
+        "country": "SGP",
+        "summary": "Le groupe Japan Foods Holding Ltd. a été victime d'une attaque de ransomware, avec un accès non autorisé à ses serveurs, détectée le 19 janvier 2024. Malgré l'impact sur les données stockées, le groupe a pris des mesures immédiates pour identifier, contenir et restaurer les serveurs affectés, signalant également l'incident à la police de Singapour et à la Commission de protection des données personnelles. Selon une enquête préliminaire, il n'y a aucune preuve de fuite de données ou de compromission d'informations personnelles sensibles, et le groupe a activé son plan de continuité d'activité, assurant qu'aucune perturbation significative n'a eu lieu jusqu'à présent.",
+        "title": "Cybersecurity Incident",
+        "url": "https://media-japanfood.todayir.com/2024012223261066272772_en.pdf",
+        "added": "2024-01-22"
+    },
+    {
         "date": "2023-12-27",
         "victim": "DENHAM the Jeanmaker",
         "domain": "denham.com",
