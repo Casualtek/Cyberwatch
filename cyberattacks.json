@@ -1,5 +1,15 @@
 [
     {
+        "date": "2023-12-27",
+        "victim": "DENHAM the Jeanmaker",
+        "domain": "denham.com",
+        "country": "NLD",
+        "summary": "DENHAM the Jeanmaker, une marque de denim réputée basée à Amsterdam, a été victime d'une cyberattaque découverte le 27 décembre 2023, attribuée au groupe de ransomware Akira, bien que l'entreprise n'ait pas confirmé cette implication. L'attaque n'a pas eu d'impact significatif sur les opérations de la marque grâce à une réponse rapide et à l'intervention d'une firme de cybersécurité spécialisée, et aucune donnée personnelle de consommateurs n'a été compromise. DENHAM a pris des mesures de sécurité supplémentaires et a informé l'Autorité néerlandaise de protection des données par mesure de précaution, tout en s'engageant à protéger la confidentialité des données de ses clients, parten",
+        "title": "TCE Exclusive: DENHAM Cyberattack - What You Need To Know",
+        "url": "https://thecyberexpress.com/denham-cyberattack-tce-exclusive/",
+        "added": "2024-01-22"
+    },
+    {
         "date": "2024-01-19",
         "victim": "Clackamas Community College",
         "domain": "clackamas.edu",
