@@ -1,6 +1,16 @@
 [
     {
         "date": "2024-01-19",
+        "victim": "Tietoevry",
+        "domain": "tietoevry.com",
+        "country": "SWE",
+        "summary": "Un des centres de données de Tietoevry en Suède a été partiellement touché par une attaque de ransomware dans la nuit du 19 au 20 janvier, affectant les services de certains clients. Tietoevry a isolé la plateforme affectée, mobilisé une équipe d'experts pour la résolution du problème et est en dialogue constant avec les clients impactés. L'incident fait l'objet d'une enquête approfondie par des spécialistes internes et externes et a été signalé à la police, tandis que l'entreprise travaille à la restauration des services en suivant une méthodologie éprouvée.",
+        "title": "UPDATE: Ransomware attack in Swedish data center",
+        "url": "https://www.tietoevry.com/en/newsroom/all-news-and-releases/other-news/2024/01/ransomware-attack-in-sweden-update/",
+        "added": "2024-01-22"
+    },
+    {
+        "date": "2024-01-19",
         "victim": "Town of Greater Napanee",
         "domain": "greaternapanee.com",
         "country": "CAN",
