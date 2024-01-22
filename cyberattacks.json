@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-01-19",
+        "victim": "Clackamas Community College",
+        "domain": "clackamas.edu",
+        "country": "USA",
+        "summary": "Le réseau informatique du Clackamas Community College a été piraté le vendredi 19 janvier, entraînant la désactivation de son site web, de son système de messagerie et de ses plateformes d'apprentissage en ligne. Les forces de l'ordre et l'équipe informatique de l'établissement travaillent sur l'enquête et la résolution du problème, et bien que deux serveurs aient été ciblés, on ignore encore si des données personnelles ont été compromises. Les cours ont été annulés pour les 22 et 23 janvier afin de permettre aux services informatiques de procéder aux réparations nécessaires.",
+        "title": "Clackamas Community College computer network hacked - The Clackamas Print",
+        "url": "https://www.theclackamasprint.net/news/clackamas-community-college-computer-network-hacked/",
+        "added": "2024-01-22"
+    },
+    {
         "date": "2023-10-20",
         "victim": "Primary Health & Wellness Center, LLC",
         "domain": "primaryhealthandwellness.com",
