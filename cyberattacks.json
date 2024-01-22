@@ -1,5 +1,15 @@
 [
     {
+        "date": "2023-08-25",
+        "victim": "Carnegie Mellon University",
+        "domain": "cmu.edu",
+        "country": "USA",
+        "summary": "L'Université Carnegie Mellon a été victime d'une cyberattaque le 25 août 2023, qui a potentiellement compromis les informations personnelles de plus de 7 300 personnes, incluant des étudiants actuels ou anciens, des employés, des candidats et des contractants. L'attaque a été rapidement détectée par l'Office de Sécurité de l'Information de l'université, qui a sécurisé le système et averti les autorités compétentes. Les personnes affectées ont été notifiées et l'université offre des services de surveillance de crédit par Experian, bien qu'aucune preuve de fraude ou d'utilisation inappropriée des informations n'ait été trouvée.",
+        "title": "Carnegie Mellon University hit by cyberattack possibly impacting more than 7,000 people - CBS Pittsburgh",
+        "url": "https://www.cbsnews.com/pittsburgh/news/carnegie-mellon-university-cyberattack-impacting-7000-people/",
+        "added": "2024-01-22"
+    },
+    {
         "date": "2024-01-15",
         "victim": "Canterbury City Council, Thanet District Council, Dover District Council.",
         "domain": "canterbury.gov.uk",
