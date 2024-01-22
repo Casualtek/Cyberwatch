@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-01-19",
+        "victim": "Town of Greater Napanee",
+        "domain": "greaternapanee.com",
+        "country": "CAN",
+        "summary": "La ville de Greater Napanee, en Ontario, a été la cible d'une cyberattaque, comme l'ont révélé les responsables municipaux dans un communiqué de presse vendredi. Après avoir pris connaissance de l'incident jeudi, la ville a rapidement réagi en fermant l'accès à ses systèmes pour en limiter l'impact et préserver leur intégrité, tout en faisant appel à des experts pour enquêter et en informant les forces de l'ordre. Les détails et l'ampleur de l'impact de l'attaque restent inconnus, mais la ville promet de communiquer des informations supplémentaires dès qu'elles seront disponibles et de contacter directement les personnes affectées après l'enquête.",
+        "title": "Town of Greater Napanee targeted by hackers, impact as yet unknown - Kingston | Globalnews.ca",
+        "url": "https://globalnews.ca/news/10223187/greater-napanee-hacked/",
+        "added": "2024-01-22"
+    },
+    {
         "date": "2023-08-25",
         "victim": "Carnegie Mellon University",
         "domain": "cmu.edu",
