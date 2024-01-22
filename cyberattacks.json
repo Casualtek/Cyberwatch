@@ -1,5 +1,15 @@
 [
     {
+        "date": "2023-10-20",
+        "victim": "Primary Health & Wellness Center, LLC",
+        "domain": "primaryhealthandwellness.com",
+        "country": "USA",
+        "summary": "Le Primary Health & Wellness Center, LLC, situé dans le comté de Baltimore, Maryland, a publié un avis public informant d'une attaque de ransomware survenue le 20 octobre 2023, qui a chiffré leur serveur contenant les dossiers médicaux de 4,792 patients depuis 2018. L'acteur de la menace a utilisé le ransomware Phobos pour chiffrer le serveur via un bureau à distance, mais il n'y a pas d'indication que les données des patients aient été exfiltrées ou mal utilisées. Le centre a pris des mesures pour sécuriser le réseau, informé le FBI, et conseille aux patients de surveiller leurs rapports de crédit pour prévenir la fraude et le vol d'identité.",
+        "title": "Primary Health & Wellness Center, LLC’s public notice of ransomware incident",
+        "url": "https://www.databreaches.net/primary-health-wellness-center-llcs-public-notice-of-ransomware-incident/",
+        "added": "2024-01-22"
+    },
+    {
         "date": "2024-01-17",
         "victim": "V.I. Lottery (Loterie des Îles Vierges)",
         "domain": "",
