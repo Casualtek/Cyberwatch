@@ -1,5 +1,15 @@
 [
     {
+        "date": "2023-01-17",
+        "victim": "AerCap Holdings",
+        "domain": "aercap.com",
+        "country": "IRL",
+        "summary": "AerCap Holdings, acteur majeur dans le secteur de la location d'avions, a été victime d'une attaque par ransomware le 17 janvier, mais a affirmé avoir le plein contrôle de ses systèmes informatiques sans perte financière immédiate. La société, partiellement détenue par General Electric, qui a vu sa participation diminuer de 33,6% à 14,5% au troisième trimestre de 2023, évalue actuellement l'impact potentiel sur ses données. Cet incident met en lumière la menace constante des cyberattaques dans divers secteurs et l'importance cruciale de mesures de cybersécurité efficaces.",
+        "title": "AerCap Faces Cybersecurity Breach: Ransomware Attack on January 17 - InfotechLead",
+        "url": "https://infotechlead.com/security/aercap-faces-cybersecurity-breach-ransomware-attack-on-january-17-82585",
+        "added": "2024-01-23"
+    },
+    {
         "date": "2024-01-19",
         "victim": "Japan Food Holdings",
         "domain": "jfh.com.sg",
