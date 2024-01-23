@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-01-17",
+        "victim": "Veolia North America",
+        "domain": "veolia.us",
+        "country": "USA",
+        "summary": "La division Municipal Water de Veolia North America a été touchée par un incident de rançongiciel, affectant certaines applications logicielles et systèmes, ce qui a entraîné des retards dans les systèmes de paiement en ligne des clients. Veolia a pris des mesures défensives, comme la mise hors ligne des systèmes ciblés, et travaille avec les forces de l'ordre et des tiers pour enquêter sur l'incident, qui semble ne pas avoir affecté les opérations de traitement de l'eau ou des eaux usées. L'entreprise a identifié un nombre limité d'individus dont les informations personnelles ont été potentiellement impactées et s'associe à une firme de cyber-forensique pour prévenir de futurs incidents.",
+        "title": "Veolia Responds to Cyber Incident | Veolia Water",
+        "url": "https://mywater.veolia.us/veolia-responds-cyber-incident",
+        "added": "2024-01-23"
+    },
+    {
         "date": "2024-01-14",
         "victim": "Douglas County Libraries",
         "domain": "dcl.org",
