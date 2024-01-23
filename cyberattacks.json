@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-01-21",
+        "victim": "Bucks County",
+        "domain": "buckscounty.gov",
+        "country": "USA",
+        "summary": "Le système de répartition assistée par ordinateur (CAD) du comté de Bucks a été mis hors service dimanche à la suite d'une cyberattaque présumée, affectant les services d'urgence locaux qui ont dû revenir à l'utilisation de stylo et de papier. Les autorités locales ont confirmé l'incident de cybersécurité sans donner de délai pour la restauration du système, tout en maintenant le centre d'appels d'urgence 9-1-1 opérationnel pour continuer à recevoir les appels et à dispatcher les équipes sur le terrain. L'attaque a également désactivé l'accès du comté aux bases de données judiciaires étatiques et fédérales, bien que certaines agences puissent y accéder indé",
+        "title": "UPDATE: Bucks County Computer-Aided Dispatch System Crippled By Cyberattack - New Hope Free Press",
+        "url": "https://www.newhopefreepress.com/2024/01/22/bucks-county-computer-aided-dispatch-system-out-of-service/",
+        "added": "2024-01-23"
+    },
+    {
         "date": "2023-01-17",
         "victim": "AerCap Holdings",
         "domain": "aercap.com",
