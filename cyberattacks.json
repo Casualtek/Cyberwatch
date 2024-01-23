@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-01-14",
+        "victim": "Douglas County Libraries",
+        "domain": "dcl.org",
+        "country": "USA",
+        "summary": "La bibliothèque du comté de Douglas a été victime d'une cyberattaque par un groupe criminel international nommé \"Playcrypt\", soupçonné d'avoir des liens avec la Russie. Le système de la bibliothèque a été paralysé, affectant le catalogue en ligne et les services de prêt, mais aucune information personnelle des utilisateurs n'a été compromise. La bibliothèque, qui avait récemment obtenu une excellente note lors d'un audit de cybersécurité, travaille avec une entreprise spécialisée et son assurance cybersécurité pour récupérer de l'attaque et a déjà rétabli environ la moitié de ses services en ligne.",
+        "title": "Douglas County Libraries hacked by overseas criminal group - CBS Colorado",
+        "url": "https://www.cbsnews.com/colorado/news/douglas-county-libraries-hacked-overseas-criminal-group/",
+        "added": "2024-01-23"
+    },
+    {
         "date": "2024-01-21",
         "victim": "Bucks County",
         "domain": "buckscounty.gov",
