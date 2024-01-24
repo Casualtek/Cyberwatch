@@ -1,5 +1,15 @@
 [
     {
+        "date": "2023-10-21",
+        "victim": "Plaza Radiology",
+        "domain": "chattanoogaimaging.com",
+        "country": "USA",
+        "summary": "La pratique de radiologie Plaza Radiology, opérant sous le nom Chattanooga Imaging, a subi une violation de données affectant 569 000 patients suite à une cyberattaque découverte le 21 octobre. Bien que la liste des données exposées n'ait pas encore été divulguée, la pratique a confirmé que des fichiers contenant des informations sensibles, y compris des numéros de sécurité sociale, ont été accédés par une partie non autorisée.",
+        "title": "Radiology practice experiences cyberattack impacting 569,000 patients",
+        "url": "https://radiologybusiness.com/topics/health-it/enterprise-imaging/imaging-informatics/radiology-practice-experiences-cyberattack-impacting-569000-patients",
+        "added": "2024-01-24"
+    },
+    {
         "date": "2024-01-23",
         "victim": "Département de la Sarthe",
         "domain": "sarthe.fr",
