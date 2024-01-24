@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-01-23",
+        "victim": "Département de la Sarthe",
+        "domain": "sarthe.fr",
+        "country": "FRA",
+        "summary": "Le Département de la Sarthe a été la cible d'une cyberattaque révélée par Dominique Le Mèner, président du Conseil départemental, qui a entraîné une fuite de mots de passe sur le darknet. Les services du Département ont réagi rapidement pour contrer l'attaque et le site internet du Département est temporairement bloqué, avec une résolution attendue pour le jour du débat d'orientations budgétaires. Cet incident s'inscrit dans une série d'attaques similaires ayant récemment touché d'autres conseils départementaux comme le Loiret et la Seine-Maritime.",
+        "title": "Le Département de la Sarthe visé par une cyberattaque | Actu Le Mans",
+        "url": "https://actu.fr/pays-de-la-loire/le-mans_72181/le-departement-de-la-sarthe-vise-par-une-cyberattaque_60606112.html",
+        "added": "2024-01-24"
+    },
+    {
         "date": "2024-01-17",
         "victim": "Veolia North America",
         "domain": "veolia.us",
