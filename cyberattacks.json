@@ -1,5 +1,15 @@
 [
     {
+        "date": "2022-12-18",
+        "victim": "Connexus",
+        "domain": "connexus-group.co.uk",
+        "country": "GBR",
+        "summary": "L'association de logement Connexus a confirmé une cyberattaque impliquant un accès non autorisé à ses systèmes, selon un message publié sur leur page Facebook le 18 décembre. En réaction, Connexus a déconnecté ses systèmes pour protéger les données personnelles des utilisateurs et travaille avec des équipes informatiques et des agences pertinentes pour enquêter et restaurer les systèmes. La société a conseillé à ses clients de rester vigilants, en particulier concernant les informations financières, et a annoncé que ses lignes téléphoniques étaient à nouveau opérationnelles.",
+        "title": "Housing association confirms cyber attack - BBC News",
+        "url": "https://www.bbc.com/news/articles/cw4mlrdvv82o",
+        "added": "2024-01-24"
+    },
+    {
         "date": "2023-10-21",
         "victim": "Plaza Radiology",
         "domain": "chattanoogaimaging.com",
