@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-01-22",
+        "victim": "EquiLend",
+        "domain": "equilend.com",
+        "country": "USA",
+        "summary": "La société de technologie financière EquiLend, propriétaire de la plateforme NGT qui exécute des transactions de titres d'une valeur de 2,4 billions de dollars par mois, a confirmé un accès non autorisé à ses systèmes le 22 janvier, perturbant certains de ses services. EquiLend travaille avec des firmes de cybersécurité externes pour enquêter et restaurer les services, et prévient que la restauration pourrait prendre plusieurs jours. Cet incident survient peu après l'annonce de l'acquisition d'une participation majoritaire dans EquiLend par la société de capital-investissement Welsh, Carson, Anderson & Stowe, prévue pour le deuxième trimestre de 2024.",
+        "title": "$2.4 trillion securities platform owner hacked. EquiLend admits \"unauthorised access\"",
+        "url": "https://www.thestack.technology/equilend-cybersecurity-incident/",
+        "added": "2024-01-25"
+    },
+    {
         "date": "2022-12-18",
         "victim": "Connexus",
         "domain": "connexus-group.co.uk",
