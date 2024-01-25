@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-01-23",
+        "victim": "Kansas City Area Transportation Authority (KCATA)",
+        "domain": "ridekc.org",
+        "country": "USA",
+        "summary": "La Kansas City Area Transportation Authority (KCATA) a été victime d'une cyberattaque mardi matin, entraînant la mise hors ligne de plusieurs de ses systèmes, y compris les centres d'appels régionaux RideKC et les lignes fixes. Le président de l'agence, Reginald Townsend, a déclaré que les autorités compétentes, dont le FBI, ont été immédiatement contactées pour enquêter, et il a exprimé sa confiance dans les politiques de stockage des données de l'agence pour sécuriser les systèmes et les données. Bien que les services de transport soient maintenus, l'origine de l'attaque n'est pas encore claire, et c'est la dernière d'une série d'attaques cybernétiques qui ont touché des agences",
+        "title": "Kansas City Area Transportation Authority hit with cyberattack Tuesday",
+        "url": "https://www.kshb.com/news/crime/kansas-city-area-transportation-authority-hit-with-cyberattack-tuesday",
+        "added": "2024-01-25"
+    },
+    {
         "date": "2024-01-20",
         "victim": "Caravan and Motorhome Club (CAMC)",
         "domain": "camc.com",
