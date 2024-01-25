@@ -1,6 +1,16 @@
 [
     {
         "date": "2024-01-22",
+        "victim": "Volkshochschule (VHS) Minden-Bad Oeynhausen",
+        "domain": "vhs-minden.de",
+        "country": "DEU",
+        "summary": "La Volkshochschule (VHS) de Minden-Bad Oeynhausen, en Allemagne, a été victime d'une cyberattaque le lundi après-midi 22 janvier. L'institution a déposé plainte suite à cet incident. La police a commencé ses enquêtes pour faire la lumière sur cette attaque informatique.",
+        "title": "Cyberangriff auf VHS: Polizei hat Ermittlungen aufgenommen",
+        "url": "https://www.westfalen-blatt.de/owl/kreis-minden-luebbecke/bad-oeynhausen/vhs-cyberangriff-notbetrieb-2906726",
+        "added": "2024-01-25"
+    },
+    {
+        "date": "2024-01-22",
         "victim": "EquiLend",
         "domain": "equilend.com",
         "country": "USA",
