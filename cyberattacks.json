@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-01-24",
+        "victim": "Centre de coordination des services de communication en santé (CCSC)",
+        "domain": "ccscapitales.com",
+        "country": "CAN",
+        "summary": "Une cyberattaque, avec rançongiciel, a paralysé les systèmes informatiques du Centre de coordination des services de communication en santé (CCSC), affectant les services ambulanciers dans plusieurs régions, dont la Capitale-Nationale, le Saguenay-Lac-St-Jean et le Nord-du-Québec. Les appels d'urgence sont désormais redirigés vers la Centrale des appels d’Urgence de Chaudière-Appalaches (CAUCA), et bien que les responsables affirment que les services à la population ne sont pas affectés, les ambulanciers sur le terrain rencontrent des difficultés à localiser les appels, ce qui a créé une situation de \"panique totale\".",
+        "title": "Des pirates s’en prennent aux services ambulanciers",
+        "url": "https://www.lesoleil.com/actualites/justice-et-faits-divers/2024/01/25/des-pirates-sen-prennent-aux-services-ambulanciers-JTIY6MSQNVDFJKCF2YOWJ5QDUE/",
+        "added": "2024-01-26"
+    },
+    {
         "date": "2024-01-22",
         "victim": "ICN Business School Nancy",
         "domain": "icn-artem.com",
