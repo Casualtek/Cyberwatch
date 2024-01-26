@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-01-25",
+        "victim": "Santa Cruz do Sul",
+        "domain": "santacruz.rs.gov.br",
+        "country": "BRA",
+        "summary": "La mairie de Santa Cruz do Sul a été victime d'une cyberattaque qui a affecté son réseau informatique, entraînant l'interruption des services de téléphonie et d'internet dans plusieurs de ses départements. En conséquence, le site web de la mairie est hors ligne et les inscriptions pour le processus de sélection de la Secrétairerie de l'Éducation ont été prolongées. Aucune fuite de données n'a été signalée et la mairie a pris des mesures pour rétablir les services le plus rapidement possible.",
+        "title": "Prefeitura de Santa Cruz é alvo de ataque cibernético",
+        "url": "https://www.gaz.com.br/prefeitura-de-santa-cruz-e-alvo-de-ataque-cibernetico/",
+        "added": "2024-01-26"
+    },
+    {
         "date": "2024-01-24",
         "victim": "The Misbourne School",
         "domain": "themisbourne.co.uk",
