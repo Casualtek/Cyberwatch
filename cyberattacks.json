@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-01-25",
+        "victim": "Group Health Cooperative of South Central Wisconsin",
+        "domain": "ghcscw.com",
+        "country": "USA",
+        "summary": "Group Health Cooperative of South Central Wisconsin a alerté ses membres d'un \"événement potentiel de cybersécurité\", qui a contraint l'assureur santé à fermer certains de ses services en ligne et informatiques. Bien que l'événement ait été rapidement identifié, GHC a sécurisé tous ses systèmes informatiques avec accès à Internet par précaution, affectant certains systèmes et services pendant l'enquête, y compris le système téléphonique et l'accès des patients aux dossiers médicaux en ligne via MyChart.",
+        "title": "GHC reports possible cyber attack affecting services",
+        "url": "https://madison.com/news/local/crime-courts/ghc-cyber-health-insurance/article_a1996bf4-bbe5-11ee-ae99-9789feb1137c.html",
+        "added": "2024-01-26"
+    },
+    {
         "date": "2024-01-24",
         "victim": "Centre de coordination des services de communication en santé (CCSC)",
         "domain": "ccscapitales.com",
