@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-01-24",
+        "victim": "The Misbourne School",
+        "domain": "themisbourne.co.uk",
+        "country": "GBR",
+        "summary": "L'école Misbourne a été contrainte de fermer en raison d'une cyberattaque qui a compromis certains de ses systèmes informatiques, affectant l'infrastructure et les opérations. L'établissement sera partiellement fermé le vendredi 26 janvier, avec des cours à distance pour certains niveaux, et espère rouvrir partiellement pour d'autres niveaux le vendredi 27 janvier. La direction de l'école travaille avec les autorités compétentes pour restaurer les systèmes, signalera l'incident à l'ICO conformément au RGPD, et reste en contact avec diverses parties prenantes, y compris le Département de l'Éducation et le Centre National de Cybersécurité.",
+        "title": "Misbourne School remains closed due to cyber attack | Bucks Free Press",
+        "url": "https://www.bucksfreepress.co.uk/news/24072459.misbourne-school-closed-due-cyber-attack/",
+        "added": "2024-01-26"
+    },
+    {
         "date": "2024-01-25",
         "victim": "Group Health Cooperative of South Central Wisconsin",
         "domain": "ghcscw.com",
