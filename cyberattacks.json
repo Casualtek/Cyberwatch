@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-01-17",
+        "victim": "Schneider Electric",
+        "domain": "schneider-electric.com",
+        "country": "FRA",
+        "summary": "Le géant de la gestion de l'énergie et de l'automatisation, Schneider Electric, a été victime d'une attaque de ransomware Cactus, entraînant le vol de données d'entreprise au sein de sa division Sustainability Business le 17 janvier. L'attaque a perturbé la plateforme cloud Resource Advisor de l'entreprise, qui subit toujours des interruptions. Schneider Electric a confirmé l'attaque et travaille à la restauration des systèmes affectés, tout en précisant que l'incident était limité à cette division et qu'il n'a pas impacté d'autres parties de l'entreprise.",
+        "title": "Energy giant Schneider Electric hit by Cactus ransomware attack",
+        "url": "https://www.bleepingcomputer.com/news/security/energy-giant-schneider-electric-hit-by-cactus-ransomware-attack/",
+        "added": "2024-01-29"
+    },
+    {
         "date": "2023-12-13",
         "victim": "Ofuji Fishing Tackles Co.,Ltd.",
         "domain": "ofuji.jp",
