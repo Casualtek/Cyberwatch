@@ -1,5 +1,15 @@
 [
     {
+        "date": "2023-12-13",
+        "victim": "Ofuji Fishing Tackles Co.,Ltd.",
+        "domain": "ofuji.jp",
+        "country": "JPN",
+        "summary": "La société japonaise Ofuji Fishing Tackles a subi une cyberattaque avec ransomware le 13 décembre 2023, entraînant la possible fuite d'informations personnelles de clients, notamment des noms, adresses, dates de naissance et numéros de téléphone, affectant potentiellement jusqu'à 200 000 personnes. Bien qu'aucune preuve de vol de données n'ait été trouvée, la société ne peut pas exclure cette possibilité et s'excuse pour les désagréments causés, tout en renforçant ses mesures de sécurité pour éviter de futures attaques.",
+        "title": "お客様個人情報漏えいの可能性に関するご報告とお詫び｜お知らせ｜株式会社 大藤つり具",
+        "url": "https://ofuji.jp/16282/",
+        "added": "2024-01-29"
+    },
+    {
         "date": "2024-01-28",
         "victim": "Freehold Township School District",
         "domain": "freeholdtwp.k12.nj.us",
