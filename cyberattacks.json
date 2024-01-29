@@ -1,6 +1,16 @@
 [
     {
         "date": "2024-01-28",
+        "victim": "Freehold Township School District",
+        "domain": "freeholdtwp.k12.nj.us",
+        "country": "USA",
+        "summary": "Le district scolaire de Freehold Township a annoncé la fermeture de toutes ses écoles et bureaux le lundi suite à une cyberattaque, selon NJ12. La direction a informé les familles et le personnel qu'ils rencontraient des problèmes techniques à cause de cet incident de cybersécurité. Les responsables collaborent avec des experts en informatique externes pour résoudre le problème, mais les détails de l'attaque et les systèmes affectés n'ont pas été divulgués.",
+        "title": "Freehold Schools Shuttered by Cyberattack - Lakewood News Network",
+        "url": "https://lnnnews.com/freehold-schools-shuttered-by-cyberattack/",
+        "added": "2024-01-29"
+    },
+    {
+        "date": "2024-01-28",
         "victim": "Azienda sanitaria locale (Asp) Basilicata",
         "domain": "aspbasilicata.it",
         "country": "ITA",
