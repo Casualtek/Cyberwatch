@@ -1,5 +1,15 @@
 [
     {
+        "date": "2023-08-21",
+        "victim": "Keenan & Associates",
+        "domain": "keenan.com",
+        "country": "USA",
+        "summary": "Keenan & Associates, une société de courtage et de conseil en assurance basée en Californie, avertit 1,5 million de clients d'une violation de données personnelles suite à une cyberattaque survenue durant l'été 2023. Les données compromises incluent des noms complets, dates de naissance, numéros de sécurité sociale, numéros de passeport, permis de conduire, informations d'assurance santé et informations de santé générales. La société a pris des mesures pour renforcer la sécurité de ses réseaux et offre deux ans de protection contre le vol d'identité via Experian tout en conseillant aux clients de rester vigilants face aux activités suspectes sur leurs comptes.",
+        "title": "Keenan warns 1.5 million people of data breach after summer cyberattack",
+        "url": "https://www.bleepingcomputer.com/news/security/keenan-warns-15-million-people-of-data-breach-after-summer-cyberattack/",
+        "added": "2024-01-30"
+    },
+    {
         "date": "2024-01-29",
         "victim": "EPS Salud Total",
         "domain": "saludtotal.com.co",
