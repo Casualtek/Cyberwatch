@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-01-27",
+        "victim": "Fulton County, Georgia",
+        "domain": "fultoncountyga.gov",
+        "country": "USA",
+        "summary": "Une cyberattaque a perturbé les systèmes judiciaires du comté de Fulton en Géorgie, où l'ancien président Donald Trump est impliqué dans une affaire pénale liée à des allégations d'ingérence dans les résultats des élections de 2020. Les systèmes affectés par l'attaque incluent les tribunaux, les impôts, les armes à feu et les licences de mariage. Les responsables, dont Robb Pitts, président du conseil des commissaires du comté, travaillent à rétablir les opérations normales.",
+        "title": "Cyberattack Hits Georgia County Where Trump Is Charged - Bloomberg",
+        "url": "https://www.bloomberg.com/news/articles/2024-01-29/cyberattack-hits-georgia-county-where-trump-is-charged",
+        "added": "2024-01-30"
+    },
+    {
         "date": "2024-01-17",
         "victim": "Schneider Electric",
         "domain": "schneider-electric.com",
