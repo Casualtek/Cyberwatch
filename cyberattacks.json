@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-01-31",
+        "victim": "Caritas-Klinik Dominikus à Berlin",
+        "domain": "dominikus-krankenhaus-berlin.org",
+        "country": "DEU",
+        "summary": "La Caritas-Klinik Dominikus à Berlin a été victime d'une cyberattaque. Les détails sur les systèmes affectés et l'étendue de l'attaque sont actuellement inconnus, et une analyse est en cours. Après la découverte de l'attaque, le service informatique, en collaboration avec des experts d'une société de sécurité externe, a immédiatement pris des mesures importantes pour stopper rapidement la propagation de l'attaque.",
+        "title": "Cyberangriff auf Caritas-Klinik Dominikus in Berlin - kma Online",
+        "url": "https://www.kma-online.de/aktuelles/it-digital-health/detail/cyberangriff-auf-caritas-klinik-dominikus-in-berlin-51460",
+        "added": "2024-01-31"
+    },
+    {
         "date": "2024-01-23",
         "victim": "Richmond Fellowship Scotland",
         "domain": "trfs.org.uk",
