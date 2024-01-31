@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-01-23",
+        "victim": "Richmond Fellowship Scotland",
+        "domain": "trfs.org.uk",
+        "country": "GBR",
+        "summary": "La Richmond Fellowship Scotland, une organisation caritative écossaise, a été la cible d'une cyberattaque majeure qui a entraîné la mise hors service de ses systèmes numériques. La police écossaise enquête sur l'incident après que le personnel a découvert que les systèmes avaient été compromis, mais il n'est pas encore clair si des données personnelles ont été volées. L'organisation, qui est le plus grand fournisseur de services sociaux en Écosse, emploie plus de 3 300 personnes et gère environ 190 services à travers le pays.",
+        "title": "Scots charity targeted by cyber hackers with 'all of its systems down' | The Scottish Sun",
+        "url": "https://www.thescottishsun.co.uk/news/11882996/major-cyber-attack-scottish-care-firm-police-called/",
+        "added": "2024-01-31"
+    },
+    {
         "date": "2024-01-28",
         "victim": "Volkshochschule (Vhs) Vaterstetten",
         "domain": "vhs-vaterstetten.de",
