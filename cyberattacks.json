@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-01-28",
+        "victim": "Volkshochschule (Vhs) Vaterstetten",
+        "domain": "vhs-vaterstetten.de",
+        "country": "DEU",
+        "summary": "La Volkshochschule (Vhs) de Vaterstetten en Allemagne a été victime d'une cyberattaque qui a affecté presque toute sa structure serveur, la rendant partiellement inopérante. Les responsables ont pris des mesures de sécurité informatique avec l'aide d'experts externes et ont signalé l'incident aux autorités compétentes, y compris le bureau de protection des données de Bavière et la police. Bien que la Vhs fonctionne en mode d'urgence, elle reste accessible par téléphone, en personne et son site web est opérationnel pour les inscriptions en ligne, tandis que les cours actuels se poursuivent.",
+        "title": "„In Teilen arbeitsunfähig“: Cyberangriff auf die Vhs Vaterstetten",
+        "url": "https://www.merkur.de/lokales/ebersberg/vaterstetten-ort29638/cyberangriff-auf-die-vhs-vaterstetten-helmut-ertel-polizei-sicherungsmassnahmen-92804982.html",
+        "added": "2024-01-31"
+    },
+    {
         "date": "2023-08-21",
         "victim": "Keenan & Associates",
         "domain": "keenan.com",
