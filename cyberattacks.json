@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-01-24",
+        "victim": "Global Affairs Canada (GAC)",
+        "domain": "international.gc.ca",
+        "country": "CAN",
+        "summary": "Les systèmes de Global Affairs Canada ont été compromis lors d'une violation de données, avec des indications préliminaires d'un \"accès non autorisé aux informations personnelles des utilisateurs, y compris des employés\". Des mesures sont prises pour protéger les informations sensibles et la sécurité du réseau, notamment après la découverte d'une activité malveillante ayant conduit à une coupure intentionnelle de l'accès à distance au réseau de GAC le 24 janvier 2024. Une enquête est en cours et Global Affairs Canada travaille avec des partenaires informatiques pour restaurer la connectivité complète et a informé les personnes affectées par la brèche.",
+        "title": "Global Affairs Canada systems compromised in data breach - National | Globalnews.ca",
+        "url": "https://globalnews.ca/news/10260753/global-affairs-canada-compromised/",
+        "added": "2024-01-31"
+    },
+    {
         "date": "2024-01-31",
         "victim": "Caritas-Klinik Dominikus à Berlin",
         "domain": "dominikus-krankenhaus-berlin.org",
