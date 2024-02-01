@@ -1,6 +1,16 @@
 [
     {
         "date": "2024-01-31",
+        "victim": "Cuba",
+        "domain": "mfp.gob.cu",
+        "country": "CUB",
+        "summary": "Cuba a reporté une augmentation très impopulaire du prix de l'essence prévue pour le 1er février en raison d'une cyberattaque, selon la vice-ministre de l'Économie, Mildrey Granadillo, qui a annoncé que l'attaque informatique était due à un virus provenant de l'étranger.",
+        "title": "Cuba delays Feb. 1 fuel price hike, cites cyberattack By Reuters",
+        "url": "https://www.investing.com/news/commodities-news/cuba-delays-feb-1-fuel-price-hike-cites-cyberattack-3288862",
+        "added": "2024-02-01"
+    },
+    {
+        "date": "2024-01-31",
         "victim": "Viamedis",
         "domain": "viamedis.fr",
         "country": "FRA",
