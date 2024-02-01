@@ -1,6 +1,16 @@
 [
     {
         "date": "2024-01-31",
+        "victim": "Alamos Gold",
+        "domain": "alamosgold.com",
+        "country": "CAN",
+        "summary": "Alamos Gold, une société minière, a été victime d'une cyberattaque attribuée au groupe de ransomware Black Basta, qui avait déjà ciblé Sobeys et Yellow Pages Canada. L'incident met en évidence la menace croissante de la cybersécurité dans l'industrie minière, avec des attaques récentes affectant d'autres grandes entreprises comme Anglo American, Freeport-McMoRan et Rio Tinto. Une enquête d'EY Global Information Security révèle que plus de la moitié des entreprises du secteur ont subi des cyberattaques significatives, et un nombre similaire d'exécutifs s'inquiètent de leur capacité à gérer ces menaces.",
+        "title": "Alamos Gold falls victim to cyberattack - report - MINING.COM",
+        "url": "https://www.mining.com/alamos-gold-falls-victim-to-cyberattack-report/",
+        "added": "2024-02-01"
+    },
+    {
+        "date": "2024-01-31",
         "victim": "Cuba",
         "domain": "mfp.gob.cu",
         "country": "CUB",
