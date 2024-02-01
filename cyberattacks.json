@@ -1,12 +1,12 @@
 [
     {
-        "date": "2024-01-31",
-        "victim": "Alamos Gold",
-        "domain": "alamosgold.com",
-        "country": "CAN",
-        "summary": "Alamos Gold, une société minière, a été victime d'une cyberattaque attribuée au groupe de ransomware Black Basta, qui avait déjà ciblé Sobeys et Yellow Pages Canada. L'incident met en évidence la menace croissante de la cybersécurité dans l'industrie minière, avec des attaques récentes affectant d'autres grandes entreprises comme Anglo American, Freeport-McMoRan et Rio Tinto. Une enquête d'EY Global Information Security révèle que plus de la moitié des entreprises du secteur ont subi des cyberattaques significatives, et un nombre similaire d'exécutifs s'inquiètent de leur capacité à gérer ces menaces.",
-        "title": "Alamos Gold falls victim to cyberattack - report - MINING.COM",
-        "url": "https://www.mining.com/alamos-gold-falls-victim-to-cyberattack-report/",
+        "date": "2024-01-24",
+        "victim": "Linn County Sheriff’s Office",
+        "domain": "linncounty.org",
+        "country": "USA",
+        "summary": "La semaine dernière, le bureau du shérif du comté de Linn a été la cible d'une cyberattaque, mais aucune violation de données n'a été signalée et aucun message de rançon n'a été reçu. Le shérif Michelle Duncan a indiqué que l'attaque a été rapidement isolée et que des mesures de sécurité renforcées ont été mises en place, bien que peu de détails n'aient été divulgués. En réponse, la ville d'Albany a pris des précautions supplémentaires, notamment en coupant les communications avec les serveurs du bureau du shérif, ce qui a eu un impact significatif sur les services d'incendie et de police d'Albany.",
+        "title": "Cyberattack reported on Linn County Sheriff's Office",
+        "url": "https://democratherald.com/news/local/crime-courts/cyberattack-reported-linn-county-sheriffs-office/article_45553a26-bf05-11ee-9724-2b00527599bf.html",
         "added": "2024-02-01"
     },
     {
