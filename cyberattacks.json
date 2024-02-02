@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-01-19",
+        "victim": "Canterbury Council (le conseil municipal de Canterbury)",
+        "domain": "canterbury.gov.uk",
+        "country": "GBR",
+        "summary": "La municipalité de Canterbury enquête sur un incident de cybersécurité avec l'aide du National Cyber Security Centre. Bien que le système de messagerie et le site web soient restés accessibles, certaines fonctionnalités du site pourraient être affectées, et il n'y a pas d'indication que les données des clients aient été compromises. La municipalité s'excuse pour les désagréments occasionnés et précise que le contractant Civica ne fournit pas de services informatiques au conseil mais gère d'autres services comme les recettes, les prestations, le recouvrement de dettes et le service client.",
+        "title": "Cyber incident under investigation - Canterbury Newsroom",
+        "url": "https://news.canterbury.gov.uk/news/cyber-incident-under-investigation/",
+        "added": "2024-02-02"
+    },
+    {
         "date": "2024-02-01",
         "victim": "Diagnostic Medical Systems Group (DMS Group)",
         "domain": "dms.com",
