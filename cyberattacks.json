@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-02-01",
+        "victim": "Diagnostic Medical Systems Group (DMS Group)",
+        "domain": "dms.com",
+        "country": "FRA",
+        "summary": "Le 2 février 2024, Diagnostic Medical Systems Group (DMS Group), spécialisé dans l'imagerie médicale, a annoncé avoir été la cible d'une cyberattaque de type ransomware. Les équipes informatiques de l'entreprise, aidées par un prestataire de cybersécurité et les services de l'État, ont réagi rapidement pour contenir l'attaque, et il a été confirmé qu'aucune donnée de santé n'était compromise et que les équipements clients n'étaient pas affectés.L'attaque a été revendiquée le 1er février 2024 par le groupe Cuba.",
+        "title": "DMS GROUP : Interception d'une cyberattaque.",
+        "url": "https://www.abcbourse.com/marches/dms-group-interception-d-une-cyberattaque_620363",
+        "added": "2024-02-02"
+    },
+    {
         "date": "2024-01-30",
         "victim": "Digitel",
         "domain": "digitel.com.ve",
