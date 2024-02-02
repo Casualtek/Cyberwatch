@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-01-28",
+        "victim": "Cliniques de district de Moyenne-Franconie",
+        "domain": "bezirkskliniken-mfr.de",
+        "country": "DEU",
+        "summary": "Les systèmes informatiques des cliniques de district de Moyenne-Franconie ont été ciblés par une cyberattaque, entraînant le chiffrement de données, y compris des documents personnels et internes à l'entreprise. En réponse, tous les systèmes ont été déconnectés pour des raisons de sécurité et les autorités, y compris la police, le parquet et les ministères compétents, ont été informés. Malgré ces perturbations, la prise en charge des patients reste assurée, bien que la communication soit actuellement limitée principalement aux appels téléphoniques.",
+        "title": "Hackerangriff auf Bezirkskliniken Mittelfranken | BR24",
+        "url": "https://www.br.de/nachrichten/bayern/hackerangriff-auf-bezirkskliniken-mittelfranken,U2jU9a2",
+        "added": "2024-02-02"
+    },
+    {
         "date": "2024-02-01",
         "victim": "Landkreis Kelheim",
         "domain": "landkreis-kelheim.de",
