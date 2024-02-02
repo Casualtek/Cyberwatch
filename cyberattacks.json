@@ -1,5 +1,15 @@
 [
     {
+        "date": "2023-12-18",
+        "victim": "Skokie",
+        "domain": "skokie.org",
+        "country": "USA",
+        "summary": "La ville de Skokie, dans l'Illinois, a été victime d'une cyberattaque qui a entraîné une panne de son réseau informatique, et les responsables ont dépensé plus de 42 000 dollars en matériel informatique et consultants IT suite à l'incident du 18 décembre. Les employés ont été instruits de ne pas divulguer d'informations sur l'incident au public, tandis que l'assistant du directeur de la ville a promis d'informer toutes les personnes concernées si l'enquête révélait que des données personnelles avaient été compromises.",
+        "title": "Cyberattack Shuts Down Skokie Network, Staff Told To Keep It Secret | Skokie, IL Patch",
+        "url": "https://patch.com/illinois/skokie/cyberattack-shuts-down-skokie-network-staff-told-keep-it-secret",
+        "added": "2024-02-02"
+    },
+    {
         "date": "2024-01-27",
         "victim": "Instituto Nacional do Câncer (INCA)",
         "domain": "inca.gov.br",
