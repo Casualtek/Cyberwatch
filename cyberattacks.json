@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-02-01",
+        "victim": "Groton Public Schools",
+        "domain": "groton.k12.ct.us",
+        "country": "USA",
+        "summary": "Les écoles publiques de Groton ont subi une panne d'internet à l'échelle du district jeudi, suite à une cyberattaque sur leurs serveurs principaux. Le directeur de la technologie de Groton, Clint Kennedy, a indiqué que 90% des systèmes étaient à nouveau opérationnels et que le processus de récupération en cas de désastre était en cours avec l'aide de la police locale. La surintendante des écoles, Susan Austin, a confirmé que l'internet avait été rétabli à 90% et que l'incident faisait l'objet d'une enquête.",
+        "title": "Groton schools’ internet outage from ‘cyber-attack’ under investigation",
+        "url": "https://www.theday.com/police-fire-reports/20240201/groton-schools-internet-outage-under-investigation/",
+        "added": "2024-02-02"
+    },
+    {
         "date": "2023-12-18",
         "victim": "Skokie",
         "domain": "skokie.org",
