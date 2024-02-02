@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-01-30",
+        "victim": "Digitel",
+        "domain": "digitel.com.ve",
+        "country": "VEN",
+        "summary": "Digitel, le deuxième opérateur de téléphonie mobile au Venezuela, a confirmé avoir subi une cyberattaque mais assure que les données de ses utilisateurs n'ont pas été compromises grâce à l'activation de leurs mécanismes de sécurité. Suite à l'attaque, la société a dû bloquer ses serveurs de manière préventive, ce qui a empêché les abonnés d'effectuer des recharges de crédit ou d'accéder aux services clients. Cependant, l'organisation Venezuela Sin Filtro demande à Digitel plus de transparence concernant les détails de l'attaque et la sécurité des données des clients.",
+        "title": "Digitel confirma ataque cibernético pero dice que data de usuarios no fue vulnerada",
+        "url": "https://efectococuyo.com/la-humanidad/digitel-confirma-ataque-cibernetico-pero-dice-que-data-de-usuarios-no-fue-vulnerada/",
+        "added": "2024-02-02"
+    },
+    {
         "date": "2024-01-31",
         "victim": "Lurie Children's Hospital",
         "domain": "luriechildrens.org",
