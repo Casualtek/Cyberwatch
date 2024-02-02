@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-02-01",
+        "victim": "Landkreis Kelheim",
+        "domain": "landkreis-kelheim.de",
+        "country": "DEU",
+        "summary": "Le réseau informatique des autorités du district de Kelheim en Allemagne a été victime d'une cyberattaque, entraînant le piratage du serveur central. En conséquence, les services en ligne, y compris les demandes en ligne, les e-mails et les services téléphoniques, sont indisponibles pour le bureau du district et presque toutes les villes et municipalités concernées. Le bureau du district a déconnecté les connexions Internet pour permettre l'inspection et la désinfection des systèmes, avec une reprise prévue pour le lundi suivant.",
+        "title": "Kelheimer Behördennetzwerk nach Cyber-Angriff bis Montag offline | charivari",
+        "url": "https://www.charivari.com/computer-stoerung-im-kelheimer-behoerdennetzwerk-590176/",
+        "added": "2024-02-02"
+    },
+    {
         "date": "2023-06-16",
         "victim": "Alamos Gold",
         "domain": "alamosgold.com",
