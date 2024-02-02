@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-01-31",
+        "victim": "Lurie Children's Hospital",
+        "domain": "luriechildrens.org",
+        "country": "USA",
+        "summary": "L'hôpital pour enfants Lurie à Chicago enquête sur un incident de cybersécurité qui a entraîné une panne de leur réseau informatique, d'internet et de téléphone pour le deuxième jour consécutif. L'hôpital travaille avec des experts et les forces de l'ordre pour résoudre le problème et a mis hors ligne ses systèmes réseau en réponse à l'incident. Cette panne a forcé l'annulation de certaines chirurgies et procédures électives, et bien que les services d'urgence n'aient pas été affectés, le personnel a dû revenir à des méthodes de travail manuelles, comme l'utilisation de dossiers papier.",
+        "title": "Lurie Children's outage: Chicago hospital investigating 'cyber security matter' as internet, phone outage continues for 2nd day - ABC7 Chicago",
+        "url": "https://abc7chicago.com/lurie-childrens-outage-hospital-luries-my-chart-chicago-hospitals/14378858/",
+        "added": "2024-02-02"
+    },
+    {
         "date": "2024-02-01",
         "victim": "Institut des Statistiques d'Albanie (INSTAT)",
         "domain": "instat.gov.al",
