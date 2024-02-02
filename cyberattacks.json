@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-01-27",
+        "victim": "Instituto Nacional do Câncer (INCA)",
+        "domain": "inca.gov.br",
+        "country": "BRA",
+        "summary": "L'Institut National du Cancer (INCA) au Brésil a subi une cyberattaque qui a perturbé le service de radiologie et la prise de rendez-vous depuis le samedi 27. L'institut a activé son programme de sécurité interne et interrompu ses services technologiques pour protéger les données et éviter des dommages supplémentaires. Les consultations programmées se poursuivent avec des enregistrements manuels, mais la prise de nouveaux rendez-vous est suspendue.",
+        "title": "INCA é alvo de ataque cibernético | Notícias | Baguete",
+        "url": "https://www.baguete.com.br/noticias/01/02/2024/inca-e-alvo-de-ataque-cibernetico",
+        "added": "2024-02-02"
+    },
+    {
         "date": "2024-01-28",
         "victim": "Cliniques de district de Moyenne-Franconie",
         "domain": "bezirkskliniken-mfr.de",
