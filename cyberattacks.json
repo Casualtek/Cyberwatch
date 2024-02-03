@@ -51,16 +51,6 @@
     },
     {
         "date": "2024-02-01",
-        "victim": "Institut des Statistiques d'Albanie (INSTAT)",
-        "domain": "instat.gov.al",
-        "country": "ALB",
-        "summary": "L'Institut des Statistiques d'Albanie (INSTAT) a été victime d'une cyberattaque sophistiquée qui a affecté certains de ses systèmes. Après avoir activé des protocoles d'urgence pour protéger les données, il a été constaté que les systèmes liés à un recensement récent n'avaient pas été touchés. INSTAT collabore avec les autorités pour identifier l'origine et les motifs de l'attaque, rétablir le fonctionnement normal et renforcer la cybersécurité.",
-        "title": "Albania’s Institute of Statistics Suffers Cyberattack, Some Systems Affected - SecurityWeek",
-        "url": "https://www.securityweek.com/albanias-institute-of-statistics-suffers-cyberattack-some-systems-affected/",
-        "added": "2024-02-02"
-    },
-    {
-        "date": "2024-02-01",
         "victim": "Groton Public Schools",
         "domain": "groton.k12.ct.us",
         "country": "USA",
