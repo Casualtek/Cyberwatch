@@ -1,5 +1,15 @@
 [
     {
+        "date": "2023-04-12",
+        "victim": "Atlanta Women’s Health Group",
+        "domain": "awhg.org",
+        "country": "USA",
+        "summary": "Le groupe Atlanta Women’s Health Group a informé plus de 30 000 patients d'une violation de données survenue en avril 2023, où des informations de santé protégées ont été dérobées, bien que leur système de dossiers de santé électroniques soit resté sécurisé. Les données compromises incluaient des informations démographiques, des antécédents médicaux, des diagnostics, des plans de traitement et des informations d'assurance santé. L'article questionne le retard de la notification aux patients, qui a eu lieu le 31 janvier 2024, alors que les réglementations HIPAA et HITECH exigent une notification dans un délai de 60 jours après la découverte de l'activité anormale.",
+        "title": "Atlanta Women’s Health Group notifying patients of April 2023 data breach",
+        "url": "https://www.databreaches.net/atlanta-womens-health-group-notifying-patients-of-april-2023-data-breach/",
+        "added": "2024-02-04"
+    },
+    {
         "date": "2024-02-02",
         "victim": "Université de Reykjavík",
         "domain": "ru.is",
