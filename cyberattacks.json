@@ -1,6 +1,16 @@
 [
     {
         "date": "2024-02-02",
+        "victim": "Université de Reykjavík",
+        "domain": "ru.is",
+        "country": "ISL",
+        "summary": "Reykjavík University is recovering from a cyber attack believed to be orchestrated by the Russian hacker group Akira, known for using ransomware. While the attack was widespread, the university asserts that only basic information about the student body was accessed. Students and staff are advised to change passwords, especially if used elsewhere, and to remain cautious about potential phishing messages and emails. The university plans to resume classes on February 5th.",
+        "title": "Russian Hackers Believed to be Behind Cyber Attack on Icelandic University",
+        "url": "https://www.icelandreview.com/news/russian-hackers-believed-to-be-behind-cyber-attack-on-icelandic-university/",
+        "added": "2024-02-04"
+    },
+    {
+        "date": "2024-02-02",
         "victim": "Germantown",
         "domain": "germantown-tn.gov",
         "country": "USA",
