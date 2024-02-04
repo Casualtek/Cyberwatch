@@ -1,5 +1,15 @@
 [
     {
+        "date": "2023-01-25",
+        "victim": "Claro",
+        "domain": "claro.cr",
+        "country": "CRI",
+        "summary": "L'opérateur téléphonique Claro a été victime d'une cyberattaque de type ransomware qui a entraîné des activités anormales dans certains de ses systèmes depuis le 25 janvier. La société a isolé et éteint les équipements affectés comme mesure de précaution et travaille à rétablir les services. Claro a confirmé l'incident à ses clients via les réseaux sociaux et la situation a été également rapportée dans d'autres pays d'Amérique Centrale, mais pas en Amérique du Sud.",
+        "title": "Claro afectado por ataque cibernético tipo ‘ransomware’ | El Financiero",
+        "url": "https://www.elfinancierocr.com/tecnologia/claro-afectado-por-ataque-cibernetico-tipo/RRRQTNFVWJAULFTDJXL2IN6AF4/story/",
+        "added": "2024-02-04"
+    },
+    {
         "date": "2023-08-15",
         "victim": "Knight Barry Title, Inc.",
         "domain": "knightbarry.com",
