@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-02-02",
+        "victim": "Germantown",
+        "domain": "germantown-tn.gov",
+        "country": "USA",
+        "summary": "La ville de Germantown a été victime d'une \"incident de cybersécurité malveillant\" qui a perturbé ses systèmes informatiques, avec une première alerte signalée juste avant 6 heures du matin le vendredi. L'attaque a été contenue et semble avoir affecté un nombre limité de serveurs internes, tandis que les systèmes financiers, de services publics et d'informations de paiement, qui sont basés sur le cloud, n'ont pas été compromis. Les lignes d'urgence 911 fonctionnent, mais certains services non urgents et les lignes téléphoniques de la ville sont impactés, et les paiements peuvent toujours être effectués en ligne ou à l'hôtel de ville.",
+        "title": "Germantown hit by cybersecurity incident: Here's what we know",
+        "url": "https://www.commercialappeal.com/story/news/local/suburbs/germantown/2024/02/02/cyber-security-attack-in-germantown-tn/72450812007/",
+        "added": "2024-02-04"
+    },
+    {
         "date": "2023-01-25",
         "victim": "Claro",
         "domain": "claro.cr",
