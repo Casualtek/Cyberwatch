@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-02-07",
+        "victim": "Université de Central Missouri",
+        "domain": "ucmo.edu",
+        "country": "USA",
+        "summary": "Les systèmes informatiques de l'Université de Central Missouri sont hors ligne suite à une tentative de cyberattaque sur leurs serveurs, annoncée le mercredi 7 février. Les responsables ont réagi immédiatement pour contenir la situation et travaillent avec des partenaires, y compris l'État du Missouri, pour résoudre le problème, entraînant une mise hors ligne des systèmes pour environ six heures, mais les étudiants et les employés doivent s'attendre à une indisponibilité d'au moins 48 heures. Aucune information sur d'éventuelles données dérobées n'a été divulguée, mais les services de sécurité et d'urgence restent opérationnels sur le campus.",
+        "title": "IT systems at UCM remain offline following attempted cyberattack",
+        "url": "https://www.kctv5.com/2024/02/07/it-systems-ucm-remain-offline-following-attempted-cyberattack/",
+        "added": "2024-02-11"
+    },
+    {
         "date": "2024-01-30",
         "victim": "Balmain",
         "domain": "balmain.com.au",
