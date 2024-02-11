@@ -1,6 +1,16 @@
 [
     {
         "date": "2024-02-07",
+        "victim": "Krankenhaus Lindenbrunn",
+        "domain": "krankenhaus-lindenbrunn.de",
+        "country": "DEU",
+        "summary": "L'hôpital Lindenbrunn à Coppenbrügge, en Basse-Saxe, a été victime d'une cyberattaque qui a paralysé son système informatique et son installation de télécommunication depuis vendredi. Les auteurs de l'attaque ont demandé une rançon pour rétablir les systèmes, mais l'hôpital n'a pas cédé à cette exigence. En conséquence, l'hôpital a dû improviser, en revenant à l'utilisation de dossiers patients papier, et il n'est pas encore clair quand les systèmes seront à nouveau opérationnels.",
+        "title": "Cyberangriff: Hacker legen IT-System von Klinik lahm | NDR.de - Nachrichten - Niedersachsen - Studio Hannover",
+        "url": "https://www.ndr.de/nachrichten/niedersachsen/hannover_weser-leinegebiet/Cyberangriff-Hacker-legen-IT-System-von-Klinik-lahm,aktuellhannover15444.html#:~:text=Das%20Krankenhaus%20Lindenbrunn%20in%20Coppenbrügge,System%20und%20die%20Telekommunikations%2DAnlage.",
+        "added": "2024-02-11"
+    },
+    {
+        "date": "2024-02-07",
         "victim": "Commune de Petersberg",
         "domain": "petersberg.de",
         "country": "DEU",
