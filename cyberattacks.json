@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-02-02",
+        "victim": "Mairie de Korneuburg",
+        "domain": "korneuburg.gv.at",
+        "country": "AUT",
+        "summary": "Le Rathaus (hôtel de ville) de Korneuburg a été victime d'une cyberattaque où toutes les données ont été chiffrées, y compris les serveurs, les postes clients et les systèmes de sauvegarde. Une entreprise externe a été engagée pour résoudre le problème, et un rançongiciel est suspecté puisqu'un message de demande de rançon a été reçu. En attendant, les services municipaux restent accessibles par téléphone, bien que toutes les opérations numériques soient paralysées.",
+        "title": "Alles ist verschlüsselt: Cyberangriff aufs Korneuburger Rathaus - Korneuburg",
+        "url": "https://www.meinbezirk.at/korneuburg/c-lokales/cyberangriff-aufs-korneuburger-rathaus_a6516716",
+        "added": "2024-02-11"
+    },
+    {
         "date": "2024-02-06",
         "victim": "Advania",
         "domain": "advania.se",
