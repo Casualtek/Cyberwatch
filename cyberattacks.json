@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-02-01",
+        "victim": "Ajuntament de Sant Antoni de Portmany",
+        "domain": "santantoni.net",
+        "country": "ESP",
+        "summary": "L'Ajuntament de Sant Antoni de Portmany a été victime d'une cyberattaque de type ransomware qui a affecté ses systèmes informatiques municipaux. Le service informatique travaille depuis la détection du problème à minuit pour analyser l'étendue de l'attaque et son impact sur les services municipaux, en se concentrant sur la contenance de l'attaque et le début des processus de récupération. Il est recommandé aux citoyens de téléphoner avant de se rendre en personne pour confirmer la disponibilité des services, et l'incident est en cours de communication aux organismes compétents, y compris le Centre Criptològic Nacional (CCN-CERT).",
+        "title": "L'Ajuntament de Sant Antoni de Portmany ha patit un ciberatac de ‘ransomware’ que ha afectat els sistemes informàtics municipals - Notícies - santantoni.net",
+        "url": "https://www.santantoni.net/-/l-ajuntament-de-sant-antoni-de-portmany-ha-patit-un-ciberatac-de-ransomware-que-ha-afectat-els-sistemes-informatics-municipals",
+        "added": "2024-02-11"
+    },
+    {
         "date": "2024-02-04",
         "victim": "Northern Light Health",
         "domain": "northernlighthealth.org",
