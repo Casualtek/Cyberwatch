@@ -1,5 +1,15 @@
 [
     {
+        "date": "2023-02-08",
+        "victim": "Central School District 13J",
+        "domain": "central.k12.or.us",
+        "country": "USA",
+        "summary": "Le Central School District 13J, situé dans la région d'Independence et Monmouth en Oregon, a annulé les cours pour le reste de la semaine en raison d'une activité inhabituelle sur leur réseau informatique, suspectée d'être une cyberattaque. Les autorités du district ont fait appel à des experts en cybersécurité indépendants ainsi qu'aux autorités locales, étatiques et fédérales, et certains systèmes et données sont temporairement inaccessibles. Il n'y a pas d'information sur un éventuel vol de données, mais les activités parascolaires, y compris les entraînements et les matchs sportifs, se poursuivront comme prévu.",
+        "title": "Central School District 13J shuts down after cyberattack | kgw.com",
+        "url": "https://www.kgw.com/article/news/education/oregon-central-school-district-cyberattack/283-b3ae13dc-f770-48f0-a0f5-fcb60629e772",
+        "added": "2024-02-11"
+    },
+    {
         "date": "2024-01-30",
         "victim": "Therme Laa",
         "domain": "therme-laa.at",
