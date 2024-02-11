@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-02-06",
+        "victim": "Advania",
+        "domain": "advania.se",
+        "country": "SWE",
+        "summary": "Environ soixante entreprises suédoises ont été affectées par une cyberattaque contre un fournisseur de services informatiques, Advania, qui a eu lieu mardi après-midi. Parmi les victimes, on compte entre dix et quinze centres de soins qui ne peuvent plus accéder à leurs systèmes, empêchant la lecture des dossiers médicaux et la réception des patients. Advania a isolé l'environnement pour contenir l'attaque et il n'y a pas encore de calendrier pour la résolution du problème, bien qu'il n'y ait pas d'indication que des logiciels malveillants de type ransomware aient été introduits dans le système.",
+        "title": "Ett 60-tal företag drabbade av cyberattack",
+        "url": "https://www.aftonbladet.se/nyheter/a/EQ6goP/vardcentraler-utsatta-for-it-attack",
+        "added": "2024-02-11"
+    },
+    {
         "date": "2024-01-30",
         "victim": "Université de Hong Kong",
         "domain": "hku.hk",
