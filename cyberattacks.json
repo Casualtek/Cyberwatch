@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-01-30",
+        "victim": "Therme Laa",
+        "domain": "therme-laa.at",
+        "country": "AUT",
+        "summary": "Therme Laa a été attaquée, entraînant le vol de données de ses employés, mais a réussi à reprendre ses opérations normales le lendemain sans recevoir de demande de rançon.",
+        "title": "Cyberangriffe auf Korneuburg und Therme Laa - noe.ORF.at",
+        "url": "https://noe.orf.at/stories/3244135/",
+        "added": "2024-02-11"
+    },
+    {
         "date": "2023-12-19",
         "victim": "Sage Home Loans Corporation (anciennement Lenox Financial Mortgage Corporation)",
         "domain": "weslend.com",
