@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-02-02",
+        "victim": "Hôpital de la Trinité à Lippstadt, ainsi que les cliniques associées à Erwitte et Geseke.",
+        "domain": "dreifaltigkeits-hospital.de",
+        "country": "DEU",
+        "summary": "Une cyberattaque a paralysé le Dreifaltigkeits-Hospital à Lippstadt ainsi que deux cliniques associées à Erwitte et Geseke, empêchant temporairement l'admission de cas d'urgence. Les patients déjà présents continuent à recevoir des soins complets et les interventions planifiées devraient reprendre dans la journée. Les autorités mènent une enquête pour déterminer comment les cybercriminels ont accédé au réseau informatique du groupe hospitalier et évaluer l'étendue des dommages.",
+        "title": "Keine Notfallaufnahme in Kliniken nach Cyberangriff | Die Glocke",
+        "url": "https://www.die-glocke.de/regionales/artikel/krisensitzung-nach-angriff-auf-klinikverbund-im-kreis-soest-1707124567",
+        "added": "2024-02-11"
+    },
+    {
         "date": "2024-02-01",
         "victim": "Ajuntament de Sant Antoni de Portmany",
         "domain": "santantoni.net",
