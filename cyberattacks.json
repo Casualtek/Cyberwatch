@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-01-30",
+        "victim": "Balmain",
+        "domain": "balmain.com.au",
+        "country": "AUS",
+        "summary": "Le site web de Balmain est hors service depuis 10 jours à la suite d'une cyberattaque majeure, mais les systèmes de ses entreprises associées AMAL, Wave Money et MitchCap, qui offrent divers services financiers, n'ont pas été affectés. Il n'y a pas d'indication que les systèmes de D'Albora, dans laquelle Balmain est un investisseur principal, aient été compromis. Balmain travaille avec des experts externes pour résoudre le problème et espère rétablir ses systèmes, y compris ceux qu'il héberge pour Metro, dans les plus brefs délais.",
+        "title": "Cyberattack: Balmain’s website down 10 days after major hack",
+        "url": "https://www.afr.com/technology/lender-s-website-down-10-days-after-major-hack-20240207-p5f35h",
+        "added": "2024-02-11"
+    },
+    {
         "date": "2024-02-02",
         "victim": "Mairie de Korneuburg",
         "domain": "korneuburg.gv.at",
