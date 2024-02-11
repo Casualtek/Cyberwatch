@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-02-06",
+        "victim": "Commune de Kalmar",
+        "domain": "kalmar.se",
+        "country": "SWE",
+        "summary": "La commune de Kalmar en Suède a été victime d'une cyberattaque, ce qui a conduit à la fermeture de ses systèmes internes, bien que les employés puissent continuer à travailler via des services cloud, selon le chef de la communication Nico Werge. Les fonctions critiques telles que les alarmes, les armoires à médicaments et les ascenseurs n'ont pas été affectées. La responsabilité de l'attaque est attribuée au groupe russe Akira, qui a également récemment attaqué le centre de données de Tietoevry, impactant de nombreuses entreprises, autorités et autres communes.",
+        "title": "Kalmar utsatt för cyberattack - misstänks vara Akira - Computer Sweden",
+        "url": "https://computersweden.idg.se/2.2683/1.780918/kalmar-utsatt-for-cyberattack-misstanks-vara-akira",
+        "added": "2024-02-11"
+    },
+    {
         "date": "2024-02-02",
         "victim": "Hôpital de la Trinité à Lippstadt, ainsi que les cliniques associées à Erwitte et Geseke.",
         "domain": "dreifaltigkeits-hospital.de",
