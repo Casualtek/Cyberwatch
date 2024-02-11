@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-02-07",
+        "victim": "Commune de Petersberg",
+        "domain": "petersberg.de",
+        "country": "DEU",
+        "summary": "La mairie de Petersberg, dans le district de Fulda, est confrontée à des difficultés en raison d'une cyberattaque qui a provoqué une panne informatique depuis mercredi, limitant l'accès aux services de la mairie. Les systèmes de téléphonie et de messagerie électronique sont affectés, entraînant la fermeture de la bibliothèque et la mise en place d'un numéro de téléphone d'urgence pour les cas urgents. Les autorités assurent que le téléphone sera rétabli au début de la semaine prochaine et travaillent avec des experts en IT et des agences de sécurité pour résoudre le problème.",
+        "title": "Fulda: Cyber-Angriff macht Gemeinde Petersberg zu schaffen",
+        "url": "https://www.fuldaerzeitung.de/fulda/fulda-cyber-angriff-attacke-gemeinde-petersberg-rathaus-telefon-mail-ausfall-92825678.html",
+        "added": "2024-02-11"
+    },
+    {
         "date": "2024-02-04",
         "victim": "Middletown Area School District",
         "domain": "raiderweb.org",
