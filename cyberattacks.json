@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-02-04",
+        "victim": "Northern Light Health",
+        "domain": "northernlighthealth.org",
+        "country": "USA",
+        "summary": "Le système de santé intégré Northern Light Health dans le Maine a été victime d'une cyberattaque le 4 février, affectant plusieurs de ses serveurs informatiques. En réponse, l'organisation a temporairement déconnecté ses systèmes de dossiers patients pour mener une enquête approfondie, tout en assurant que les opérations hospitalières et les soins aux patients n'étaient pas affectés. Northern Light Health a nié toute compromission des informations des patients ou tout contrôle perdu sur ses systèmes, et a signalé l'incident aux autorités compétentes tout en continuant à fournir des soins de qualité pendant l'enquête en cours.",
+        "title": "Northern Light Health Cyberattack :Update On Patient Records",
+        "url": "https://thecyberexpress.com/northern-light-health-cyberattack-update/",
+        "added": "2024-02-11"
+    },
+    {
         "date": "2023-02-03",
         "victim": "Ehpad Saint-Jean-Baptiste de Farébersviller",
         "domain": "",
