@@ -360,16 +360,6 @@
         "added": "2024-02-01"
     },
     {
-        "date": "2024-01-31",
-        "victim": "Viamedis",
-        "domain": "viamedis.fr",
-        "country": "FRA",
-        "summary": "Viamedis, un organisme gérant le tiers payant pour la complémentaire santé, a subi une cyberattaque, entraînant la déconnexion de sa plateforme et la mise en place d'une enquête avec notification aux autorités compétentes (CNIL, ANSSI). Les données personnelles compromises incluent l'état civil, la date de naissance et le numéro de sécurité sociale, mais aucune information bancaire, donnée médicale ou coordonnée de contact n'a été affectée. Les clients sont invités à rester vigilants face à d'éventuels messages ou appels inhabituels et à signaler toute activité suspecte au service Relation Client ou via un formulaire en ligne.",
-        "title": "Info sécurité : information important",
-        "url": "https://m.communication.malakoffhumanis.com/nl/jsp/m.jsp?c=yzzNCcF4uE4y1iG%2B7U9wBg%3D%3D",
-        "added": "2024-02-01"
-    },
-    {
         "date": "2024-01-24",
         "victim": "Global Affairs Canada (GAC)",
         "domain": "international.gc.ca",
