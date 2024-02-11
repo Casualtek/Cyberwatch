@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-01-24",
+        "victim": "Commune de Teo",
+        "domain": "teo.gal",
+        "country": "ESP",
+        "summary": "Le Concello (municipalité) travaille à la restauration de ses services principaux après avoir subi une cyberattaque le mercredi 24 janvier, qui a paralysé l'activité administrative pendant les jours suivants. Les autorités collaborent avec l'Agence pour la Modernisation Technologique de Galice (AMTEGA) et la Députation Provinciale de La Corogne pour enquêter sur l'attaque, et les faits ont été rapportés à la Garde Civile ainsi qu'aux organismes nationaux de cybersécurité et de protection des données. Le Concello de Teo rassure les citoyens et les encourage à signaler toute communication suspecte émanant de la municipalité.",
+        "title": "O Concello traballa na recuperación dos seus servizos principais tras sufrir o pasado xoves un ciberataque",
+        "url": "https://teo.gal/gl/actualidade/2024/o-concello-traballa-na-recuperacion-dos-seus-servizos-principais-tras-sufrir-o",
+        "added": "2024-02-11"
+    },
+    {
         "date": "2024-02-07",
         "victim": "Université de Central Missouri",
         "domain": "ucmo.edu",
