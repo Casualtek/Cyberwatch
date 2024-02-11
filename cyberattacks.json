@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-01-31",
+        "victim": "WIFI Niederösterreich",
+        "domain": "wifi.at",
+        "country": "AUT",
+        "summary": "Le WIFI de la Basse-Autriche a été victime d'une cyberattaque. Aucune demande de rançon n'a été faite suite à l'attaque. Des messages sur X (anciennement Twitter) indiquent que le groupe de hackers russophones Lockbit a revendiqué l'attaque sur le Darknet.",
+        "title": "Hackerangriff auf das WIFI Niederösterreich - Niederösterreich | Heute.at",
+        "url": "https://www.heute.at/s/hackerangriff-auf-das-wifi-niederoesterreich-120018484",
+        "added": "2024-02-11"
+    },
+    {
         "date": "2024-02-06",
         "victim": "Commune de Kalmar",
         "domain": "kalmar.se",
