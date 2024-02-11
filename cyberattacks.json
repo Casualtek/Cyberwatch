@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-02-11",
+        "victim": "Centre hospitalier d’Armentières",
+        "domain": "ch-armentieres.fr",
+        "country": "FRA",
+        "summary": "L'hôpital d'Armentières dans le Nord de la France a été la cible d'une cyberattaque dans la nuit de samedi à dimanche, entraînant la fermeture des urgences pour 24 heures et la redirection des patients vers d'autres établissements. Les pirates ont crypté des données et demandent une rançon, ce qui a poussé la direction à déconnecter l'ensemble du réseau informatique de l'hôpital. Une cellule de crise a été mise en place pour gérer la situation et les soins aux patients déjà présents sont maintenus grâce à l'impression de leurs dossiers.",
+        "title": "Nord : l’hôpital d’Armentières victime d’une cyberattaque, les urgences fermées pour la journée",
+        "url": "https://www.francetvinfo.fr/internet/securite-sur-internet/cyberattaques/nord-l-hopital-d-armentieres-victime-d-une-cyberattaque-les-urgences-fermees-pour-la-journee_6359368.html",
+        "added": "2024-02-11"
+    },
+    {
         "date": "2023-04-12",
         "victim": "Atlanta Women’s Health Group",
         "domain": "awhg.org",
