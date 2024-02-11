@@ -1,5 +1,15 @@
 [
     {
+        "date": "2023-11-09",
+        "victim": "Azura Vascular Care",
+        "domain": "azuravascularcare.com",
+        "country": "USA",
+        "summary": "Azura Vascular Care a notifié une violation de données affectant 348 000 patients après avoir été cible d'une cyberattaque, où des informations sensibles telles que les noms, numéros de sécurité sociale, adresses postales, et informations médicales ont été accessibles par une partie non autorisée. L'incident a été découvert le 9 novembre 2023 et confirmé le 27 septembre 2023, lorsque les pirates ont accédé et crypté le réseau d'Azura. La société a commencé à envoyer des lettres de notification aux individus affectés le 13 janvier 2024 pour les informer de la brèche de sécurité.",
+        "title": "Azura Vascular Care Notifies 348,000 Patients of Recent Data Breach | Console and Associates, P.C. - JDSupra",
+        "url": "https://www.jdsupra.com/legalnews/azura-vascular-care-notifies-348-000-5686228/",
+        "added": "2024-02-11"
+    },
+    {
         "date": "2024-01-24",
         "victim": "Commune de Teo",
         "domain": "teo.gal",
