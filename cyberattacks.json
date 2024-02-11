@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-01-30",
+        "victim": "Université de Hong Kong",
+        "domain": "hku.hk",
+        "country": "HKG",
+        "summary": "Le serveur informatique de la Faculté d'éducation de l'Université de Hong Kong a subi une cyberattaque le 30 du mois dernier, entraînant la possible fuite de documents internes, y compris des enregistrements de réservation de salles de classe, des directives internes, des documents d'administration système, ainsi que des procès-verbaux de réunions et des dossiers depuis 2012. Les données personnelles potentiellement affectées comprennent celles d'environ 400 chercheurs invités, les progrès d'apprentissage de quelque 3000 étudiants et les résumés de candidature de près de 4000 étudiants de cycles supérieurs de recherche, mais il n'y a pas de preuve que des informations sensibles comme",
+        "title": "港大教育學院電腦伺服器遭網絡攻擊或洩議程文件及記錄",
+        "url": "https://www.bastillepost.com/hongkong/article/13821470-港大教育學院電腦伺服器遭網絡攻擊或洩議程文件",
+        "added": "2024-02-11"
+    },
+    {
         "date": "2024-01-31",
         "victim": "WIFI Niederösterreich",
         "domain": "wifi.at",
