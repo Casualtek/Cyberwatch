@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-02-06",
+        "victim": "Onclusive",
+        "domain": "onclusive.com",
+        "country": "GBR",
+        "summary": "La société Onclusive, spécialisée dans l'analyse et la surveillance des médias pour les entreprises de relations publiques au Royaume-Uni, a été victime d'une cyberattaque par ransomware le mardi 6 février, ce qui a entraîné l'arrêt de ses systèmes de production. Bien que l'entreprise affirme qu'aucune donnée n'a été compromise et que ses systèmes internes n'ont pas été affectés, le service de surveillance des médias est interrompu et certains clients n'ont pas été informés proactivement de l'incident. Onclusive travaille à la restauration de ses services et à la communication avec ses clients, tout en envisageant des solutions de contournement et des compensations futures.",
+        "title": "PR industry affected as media monitoring firm Onclusive hit by cyber attack | PR Week",
+        "url": "https://www.prweek.com/article/1861136/pr-industry-affected-media-monitoring-firm-onclusive-hit-cyber-attack",
+        "added": "2024-02-12"
+    },
+    {
         "date": "2024-02-09",
         "victim": "Office of Colorado State Public Defender",
         "domain": "coloradodefenders.us",
