@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-02-11",
+        "victim": "Hipocrate Information System (HIS)",
+        "domain": "ms.ro",
+        "country": "ROU",
+        "summary": "Dix-huit hôpitaux en Roumanie ont été mis hors ligne à la suite d'une attaque par ransomware qui a ciblé le système de gestion des soins de santé Hipocrate, entraînant le chiffrement de la base de données. Le Ministère de la Santé roumain et des experts en cybersécurité de la Direction Nationale de la Cybersécurité (DNSC) enquêtent sur l'incident et évaluent les possibilités de récupération, tout en prenant des mesures préventives pour les autres hôpitaux. À l'heure actuelle, il n'y a pas d'information sur l'identité des auteurs de l'attaque ransomware ni sur un éventuel vol de données personnelles ou médicales des patients.",
+        "title": "Ransomware attack forces 18 Romanian hospitals to go offline",
+        "url": "https://www.bleepingcomputer.com/news/security/ransomware-attack-forces-18-romanian-hospitals-to-go-offline/",
+        "added": "2024-02-12"
+    },
+    {
         "date": "2024-01-30",
         "victim": "Jacksonville Beach",
         "domain": "jacksonvillebeach.org",
