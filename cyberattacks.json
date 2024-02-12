@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-01-18",
+        "victim": "Service Employees International Union (SEIU) Local 1000",
+        "domain": "seiu1000.org",
+        "country": "USA",
+        "summary": "La SEIU Local 1000, l'une des plus grandes unions de Californie, a confirmé être victime d'une cyberattaque après que le groupe de ransomware LockBit ait prétendu avoir volé 308 gigaoctets de données sensibles de l'organisation. L'union travaille avec des experts externes pour sécuriser son réseau et restaurer ses opérations tout en aidant les forces de l'ordre dans leur enquête. En réponse à l'incident, la SEIU Local 1000 prévoit d'offrir des services de surveillance de crédit et de protection contre le vol d'identité aux victimes potentielles.",
+        "title": "California union confirms ransomware attack following LockBit claims",
+        "url": "https://therecord.media/california-union-lockbit-attack-ransomware",
+        "added": "2024-02-12"
+    },
+    {
         "date": "2024-02-07",
         "victim": "Krankenhaus Lindenbrunn",
         "domain": "krankenhaus-lindenbrunn.de",
