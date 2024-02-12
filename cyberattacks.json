@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-01-30",
+        "victim": "Jacksonville Beach",
+        "domain": "jacksonvillebeach.org",
+        "country": "USA",
+        "summary": "La ville de Jacksonville Beach en Floride a confirmé avoir été victime d'une cyberattaque qui a entraîné la fermeture de l'hôtel de ville et l'interruption de nombreux services municipaux. Les responsables de la ville ont indiqué qu'ils travaillent à la restauration des systèmes et services et qu'une enquête est en cours, sans donner plus de détails pour le moment. Cet incident s'ajoute à d'autres cyberattaques subies par des villes de Floride, comme Lake City et Riviera Beach, qui ont eu lieu il y a cinq ans et qui avaient conduit à des paiements de rançon de six chiffres.",
+        "title": "Jacksonville Beach admits city tech services have been hacked",
+        "url": "https://floridapolitics.com/archives/656098-jacksonville-beach-admits-city-tech-services-have-been-hacked/",
+        "added": "2024-02-12"
+    },
+    {
         "date": "2024-01-18",
         "victim": "Service Employees International Union (SEIU) Local 1000",
         "domain": "seiu1000.org",
