@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-01-17",
+        "victim": "Ecosystem",
+        "domain": "pro.ecosystem.eco",
+        "country": "FRA",
+        "summary": "L'entreprise Ecosystem a été victime d'une cyberattaque par le ransomware Akira le 17 janvier, ayant entraîné l'impact de serveurs internes et la suspension temporaire de ses services en ligne. Malgré la réouverture progressive des services et la restauration de la messagerie électronique, Ecosystem a révélé que l'attaque exploitait une faille zero-day dans un de leurs VPN Cisco ASA. Le groupe Akira, lié au groupe de cybercriminels Conti, est connu pour exploiter cette vulnérabilité depuis août 2023.",
+        "title": "Ecosystem se dit victime du ransomware Akira | LeMagIT",
+        "url": "https://www.lemagit.fr/actualites/366569754/Ecosystem-se-dit-victime-du-ransomware-Akira",
+        "added": "2024-02-12"
+    },
+    {
         "date": "2024-02-11",
         "victim": "Hipocrate Information System (HIS)",
         "domain": "ms.ro",
