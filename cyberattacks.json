@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-01-31",
+        "victim": "Willis Lease Finance Corporation (WLFC)",
+        "domain": "willislease.com",
+        "country": "USA",
+        "summary": "La Willis Lease Finance Corporation, une entreprise spécialisée dans la location de pièces d'avions, a signalé à la SEC avoir été victime d'une cyberattaque détectée le 31 janvier, dont l'activité non autorisée a été complètement contenue le 2 février, sans que l'entreprise ne puisse encore déterminer l'étendue des données affectées. Le groupe de ransomware Black Basta a revendiqué l'attaque, affirmant avoir dérobé plus de 900 Go de données sensibles et menaçant de les divulguer publiquement. Black Basta est actif depuis avril 2022 et a été lié à plus de 300 infections, avec des demandes de rançon estimées à environ 100 millions de dollars en novembre 2023.",
+        "title": "Willis Lease Finance Corp Discloses Cyberattack - SecurityWeek",
+        "url": "https://www.securityweek.com/willis-lease-finance-corp-discloses-cyberattack/",
+        "added": "2024-02-13"
+    },
+    {
         "date": "2024-02-13",
         "victim": "Aztech Global",
         "domain": "aztech.com",
