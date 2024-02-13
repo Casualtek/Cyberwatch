@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-02-12",
+        "victim": "MSH International",
+        "domain": "msh-intl.com",
+        "country": "CAN",
+        "summary": "Un cyber incident a affecté MSH International, sous-traitant de Canada Life pour le régime de soins de santé des fonctionnaires fédéraux canadiens, perturbant les services de couverture d'urgence et de voyage à l'étranger. L'ampleur de l'accès aux données par les attaquants n'est pas encore connue, et MSH a suspendu ses services pour protéger son réseau, tout en engageant une firme externe pour aider à la restauration sécurisée des services. Le gouvernement du Canada est en communication régulière avec Canada Life pour suivre la situation, et des informations supplémentaires seront partagées dès qu'elles seront disponibles.",
+        "title": "Cyber incident hits sub-contractor of public servants' health plan | Ottawa Citizen",
+        "url": "https://ottawacitizen.com/news/cyber-incident-hits-sub-contractor-of-public-servants-health-plan",
+        "added": "2024-02-13"
+    },
+    {
         "date": "2023-11-15",
         "victim": "Planet Home Lending",
         "domain": "planethomelending.com",
