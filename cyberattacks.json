@@ -1,5 +1,15 @@
 [
     {
+        "date": "2023-07-18",
+        "victim": "Danbury school district",
+        "domain": "danbury.k12.ct.us",
+        "country": "USA",
+        "summary": "Le district scolaire de Danbury a été victime d'une attaque par rançongiciel le 18 juillet 2023, entraînant des coûts de 202 274 dollars pour la sécurité réseau et la surveillance du crédit, sans payer de rançon. Le conseil municipal a approuvé une demande de financement de plus de 600 000 dollars pour couvrir les dépenses imprévues en cybersécurité et en éducation spéciale, cette dernière ayant augmenté en raison d'un changement de loi dans le Connecticut. Aucune couverture d'assurance n'était disponible pour certains besoins essentiels, et le district a pris des mesures pour renforcer la sécurité de ses serveurs et informations.",
+        "title": "Danbury Schools Ask City Council for Help After Ransomware Attack",
+        "url": "https://www.govtech.com/education/k-12/danbury-schools-ask-city-council-for-help-after-ransomware-attack",
+        "added": "2024-02-13"
+    },
+    {
         "date": "2024-02-06",
         "victim": "Onclusive",
         "domain": "onclusive.com",
