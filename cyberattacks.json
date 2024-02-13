@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-02-13",
+        "victim": "Aztech Global",
+        "domain": "aztech.com",
+        "country": "SGP",
+        "summary": "Aztech Global, un fournisseur de solutions technologiques basé à Singapour, a annoncé avoir été victime d'une cyberattaque sous forme de rançongiciel (ransomware) qui a permis aux cybercriminels d'accéder sans autorisation à son réseau informatique. L'entreprise a pris des mesures immédiates, telles que l'arrêt de ses serveurs pendant la pause du Nouvel An chinois et l'utilisation de logiciels de cybersécurité pour s'assurer qu'aucune autre donnée n'était affectée. Aztech Global a également engagé des conseillers forensiques tiers pour enquêter sur l'incident et a informé les autorités compétentes, tout en cherchant des conseils pour renforcer sa sécurité informatique.",
+        "title": "Aztech Global reports ‘cyber security incident’, says no material impact but launches probe | The Straits Times",
+        "url": "https://www.straitstimes.com/business/companies-markets/aztech-global-reports-cyber-security-incident-says-no-material-impact-but-launches-probe",
+        "added": "2024-02-13"
+    },
+    {
         "date": "2024-02-12",
         "victim": "MSH International",
         "domain": "msh-intl.com",
