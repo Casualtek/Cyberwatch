@@ -1,5 +1,15 @@
 [
     {
+        "date": "2023-11-15",
+        "victim": "Planet Home Lending",
+        "domain": "planethomelending.com",
+        "country": "USA",
+        "summary": "Planet Home Lending a informé ses clients d'une violation de données personnelles suite à une cyberattaque du groupe de ransomware LockBit exploitant la faille Citrix Bleed, affectant plus de 200 000 clients avec des informations telles que noms, adresses, numéros de sécurité sociale, numéros de prêt et numéros de comptes financiers. L'attaque a eu lieu le 15 novembre et a été découverte le même jour, mais la société n'a pas l'intention de payer de rançon et a mis en place des mesures de sécurité supplémentaires, offrant également 24 mois de services de surveillance de crédit et de protection d'identité aux victimes.",
+        "title": "Planet Home Lending notifies customers of LockBit ransomware incident | SC Media",
+        "url": "https://www.scmagazine.com/news/planet-home-lending-notifies-customers-of-lockbit-ransomware-incident",
+        "added": "2024-02-13"
+    },
+    {
         "date": "2023-07-18",
         "victim": "Danbury school district",
         "domain": "danbury.k12.ct.us",
