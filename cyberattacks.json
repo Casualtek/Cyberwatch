@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-02-13",
+        "victim": "Act21",
+        "domain": "act21.fr",
+        "country": "FRA",
+        "summary": "Act21, une filiale de Baker Tilly, a subi une cyberattaque le 13 février 2024, entraînant l'indisponibilité de l'accès aux logiciels et données pour ses clients. Bien que les données aient été chiffrées, il n'y a pas d'indication que celles-ci aient été exfiltrées, et des experts en cybercriminalité travaillent à la résolution du problème. L'impact sur les activités des clients est limité car les logiciels d'Act21 ne sont pas essentiels à leur fonctionnement quotidien.",
+        "title": "ESN : Act21, le pôle RSE de Baker Tilly, victime de cyberattaque | LeMagIT",
+        "url": "https://www.lemagit.fr/actualites/366570041/ESN-Act21-le-pole-RSE-de-Baker-Tilly-victime-de-cyberattaque",
+        "added": "2024-02-14"
+    },
+    {
         "date": "2024-02-11",
         "victim": "Clinique privée La Colline (groupe Hirslanden)",
         "domain": "hirslanden.ch",
