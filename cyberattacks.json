@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-02-13",
+        "victim": "Coeur d'Alene",
+        "domain": "coeurdalene.org",
+        "country": "USA",
+        "summary": "La ville de Coeur d'Alene, dans l'Idaho, a été victime d'une cyberattaque par malware le 13 février 2024, entraînant la fermeture des systèmes informatiques affectés, mais les services d'urgence, y compris le 911, sont restés opérationnels. La municipalité collabore avec des spécialistes en cybersécurité pour contrer l'attaque, en déterminer l'origine et renforcer ses défenses numériques. Les citoyens sont invités à changer leurs mots de passe des comptes liés aux services de la ville une fois que ceux-ci seront pleinement rétablis.",
+        "title": "Coeur d'Alene's Battle Against Malware: A Call for Citizen Vigilance and Digital Defense",
+        "url": "https://bnnbreaking.com/tech/coeur-dalenes-battle-against-malware-a-call-for-citizen-vigilance-and-digital-defense",
+        "added": "2024-02-14"
+    },
+    {
         "date": "2024-02-05",
         "victim": "Prudential Financial, Inc.",
         "domain": "prudential.com",
