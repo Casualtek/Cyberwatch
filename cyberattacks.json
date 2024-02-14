@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-02-13",
+        "victim": "Varta",
+        "domain": "varta.com",
+        "country": "DEU",
+        "summary": "Le groupe Varta, spécialisé dans la fabrication de batteries, a été victime d'une cyberattaque qui a conduit à l'arrêt de ses systèmes informatiques et de sa production. L'entreprise, cotée au SDAX, n'a pas pu fournir de détails sur l'étendue des dégâts ni confirmer si un préjudice avait été subi, mais a annoncé son intention de rétablir le fonctionnement normal le plus rapidement possible. En réaction à cette annonce, le cours de l'action Varta a chuté de 4,75 % à la clôture officielle de la Bourse et a continué de baisser en dehors des heures de bourse.",
+        "title": "Varta-Aktie taumelt nach Hackerangriff | finanzen.net",
+        "url": "https://www.finanzen.net/nachricht/aktien/schaden-unklar-varta-aktie-rutscht-ab-cyberangriff-auf-varta-13256244",
+        "added": "2024-02-14"
+    },
+    {
         "date": "2024-01-31",
         "victim": "Willis Lease Finance Corporation (WLFC)",
         "domain": "willislease.com",
