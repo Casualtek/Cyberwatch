@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-02-11",
+        "victim": "Clinique privée La Colline (groupe Hirslanden)",
+        "domain": "hirslanden.ch",
+        "country": "CHE",
+        "summary": "La clinique privée La Colline à Genève, appartenant au groupe Hirslanden, a été victime d'une cyberattaque, ce qui a perturbé la prise de rendez-vous. Le porte-parole du groupe a affirmé que la sécurité des patients et l'intégrité des dispositifs médicaux n'ont pas été compromis et qu'il n'y a pas de preuve de vol de données. L'attaque a été revendiquée par LockBit 3.0.",
+        "title": "Clinique privée à Genève victime d'une cyberattaque - 20 minutes",
+        "url": "https://www.20min.ch/fr/story/geneve-clinique-privee-victime-dune-cyberattaque-103042473",
+        "added": "2024-02-14"
+    },
+    {
         "date": "2024-02-13",
         "victim": "Coeur d'Alene",
         "domain": "coeurdalene.org",
