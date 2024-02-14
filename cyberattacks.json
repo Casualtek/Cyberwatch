@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-02-05",
+        "victim": "Prudential Financial, Inc.",
+        "domain": "prudential.com",
+        "country": "USA",
+        "summary": "L'article semble être un formulaire 8-K, qui est un rapport actuel soumis à la Securities and Exchange Commission (SEC) des États-Unis par Prudential Financial, Inc., indiquant un événement significatif qui pourrait intéresser les investisseurs. Le rapport mentionne l'adresse du siège social de l'entreprise à Newark, New Jersey, et les différents titres financiers de l'entreprise enregistrés à la Bourse de New York. Cependant, l'article ne fournit pas de détails spécifiques sur une cyberattaque, mais plutôt des informations générales sur l'entreprise et ses obligations de déclaration.",
+        "title": "8-K",
+        "url": "https://www.sec.gov/Archives/edgar/data/1137774/000119312524033753/d770643d8k.htm",
+        "added": "2024-02-14"
+    },
+    {
         "date": "2024-02-13",
         "victim": "Varta",
         "domain": "varta.com",
