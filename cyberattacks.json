@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-01-26",
+        "victim": "Kunath",
+        "domain": "kunath.com",
+        "country": "DEU",
+        "summary": "Le matin du 26 janvier 2024, les systèmes informatiques de Kunath, une entreprise de taille moyenne spécialisée dans la fabrication de vêtements professionnels et basée à Bretnig-Hauswalde, ont été paralysés par une cyberattaque. L'entreprise, qui emploie 57 personnes et produit principalement des vêtements pour les maisons de retraite, a dû faire face à une situation critique où \"il s'en est fallu de peu pour que tout s'éteigne\", selon Christian Hartmann, membre de la direction. En conséquence de l'attaque, les transactions au sein de l'entreprise ont dû être traitées manuellement.",
+        "title": "Kamenz: Wie eine Firma aus dem Kreis Bautzen Opfer eines Cyber-Angriffs wurde | Sächsische.de",
+        "url": "https://www.saechsische.de/kamenz/kunath-cyber-angriff-troyaner-virus-bretnig-grossroehrsdorf-it-sicherheit-polizei-5965794-plus.html",
+        "added": "2024-02-15"
+    },
+    {
         "date": "2024-02-13",
         "victim": "Act21",
         "domain": "act21.fr",
