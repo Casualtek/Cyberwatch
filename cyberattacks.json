@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-02-13",
+        "victim": "School District 67",
+        "domain": "sd67.bc.ca",
+        "country": "CAN",
+        "summary": "Le district scolaire 67 a subi une cyberattaque mardi, entraînant la panne des services de téléphone et de courriel, mais les cours se poursuivent normalement. Il n'y a pas de calendrier prévu pour la remise en service des systèmes, et le district bénéficie du soutien du ministère de l'Éducation et de la Protection de l'enfance, de Safer Schools Together, des autorités locales et d'un prestataire de services spécialisé en incidents de cybersécurité. L'attaque n'a pas été identifiée comme étant un rançongiciel, et il n'est pas mentionné si des informations personnelles ont été compromises.",
+        "title": "'No timeline' for SD 67 recovery from cyberattack | News | pentictonherald.ca",
+        "url": "https://www.pentictonherald.ca/news/article_2506e0c4-cb82-11ee-b160-53c844597fde.html",
+        "added": "2024-02-15"
+    },
+    {
         "date": "2024-01-26",
         "victim": "Kunath",
         "domain": "kunath.com",
