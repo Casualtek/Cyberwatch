@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-02-06",
+        "victim": "Kind",
+        "domain": "kind.com",
+        "country": "DEU",
+        "summary": "Le fabricant d'aides auditives Kind a été la cible d'une attaque de hackers, affectant la communication avec plus de 600 magasins spécialisés en plus du siège social à Burgwedel près de Hanovre. Cependant, aucune preuve de vol de données clients n'a été constatée. Les systèmes ont été immédiatement arrêtés pour éviter des dommages plus importants, et des vérifications sont en cours avant de les redémarrer progressivement.",
+        "title": "Handelsblatt",
+        "url": "https://www.handelsblatt.com/unternehmen/handel-konsumgueter/cyberattacke-hackerangriff-trifft-hoergeraetehersteller-kind/100015322.html",
+        "added": "2024-02-15"
+    },
+    {
         "date": "2024-02-13",
         "victim": "School District 67",
         "domain": "sd67.bc.ca",
