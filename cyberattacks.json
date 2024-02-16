@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-02-05",
+        "victim": "Central Arkansas Library System (CALS)",
+        "domain": "cals.org",
+        "country": "USA",
+        "summary": "Le système de bibliothèques de l'Arkansas Central (CALS) a été contraint de fermer son réseau Internet suite à une \"activité inattendue\" qui est en cours d'investigation par des tiers indépendants. Cet incident a entraîné la mise hors ligne de l'IT et de tous les systèmes connectés pendant les 10 derniers jours. Un responsable de la bibliothèque a confirmé cette information le jeudi 15 février 2024.",
+        "title": "CALS shut down its Internet network after being hit with possible cyberattack | The Arkansas Democrat-Gazette - Arkansas' Best News Source",
+        "url": "https://www.arkansasonline.com/news/2024/feb/15/cals-shutdown-its-internet-network-after-being/",
+        "added": "2024-02-16"
+    },
+    {
         "date": "2024-01-28",
         "victim": "Orbit SA",
         "domain": "westernunion.com",
