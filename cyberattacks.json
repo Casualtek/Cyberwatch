@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-02-15",
+        "victim": "PSI",
+        "domain": "psi.de",
+        "country": "DEU",
+        "summary": "Le 15 février 2024, PSI Software SE a détecté une cyberattaque contre ses systèmes informatiques. En réponse, la société a déconnecté proactivement les systèmes de l'Internet pour prévenir les violations de données et les dommages. Les systèmes informatiques et l'étendue des impacts sont actuellement en cours de vérification, avec une attention particulière portée à l'intégrité des données. PSI Software SE travaille activement pour rétablir les systèmes touchés dès que possible.",
+        "title": "EQS-Adhoc: Cyberangriff auf PSI",
+        "url": "https://www.sharewise.com/de/news_articles/EQSAdhoc_Cyberangriff_auf_PSI_PSI_eqsde_20240215_1925",
+        "added": "2024-02-16"
+    },
+    {
         "date": "2024-02-06",
         "victim": "Kind",
         "domain": "kind.com",
