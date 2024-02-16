@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-02-01",
+        "victim": "Minnesota State University-Moorhead (MSUM)",
+        "domain": "mnstate.edu",
+        "country": "USA",
+        "summary": "L'Université d'État du Minnesota à Moorhead (MSUM) a subi une panne de réseau de plus de deux semaines due à une attaque par ransomware. L'équipe informatique de l'université a découvert que certains serveurs étaient cryptés et verrouillés par le ransomware, mais il n'y a actuellement aucune indication que des données sensibles telles que les numéros de sécurité sociale ou de carte de crédit aient été compromises. L'université travaille à la restauration des services et conseille aux étudiants et au personnel de prendre des mesures de sécurité, comme changer régulièrement de mots de passe et utiliser l'authentification multi-facteurs.",
+        "title": "Network outage at MSUM caused by cyber attack",
+        "url": "https://www.valleynewslive.com/2024/02/16/internet-outage-msum-caused-by-cyber-attack/",
+        "added": "2024-02-16"
+    },
+    {
         "date": "2024-02-05",
         "victim": "Central Arkansas Library System (CALS)",
         "domain": "cals.org",
