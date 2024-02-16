@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-02-11",
+        "victim": "Consulting Radiologists Ltd.",
+        "domain": "consultingradiologists.com",
+        "country": "USA",
+        "summary": "Un important fournisseur de services de radiologie à distance, fournissant des interprétations professionnelles de radiographies pour plus de 100 établissements de santé dans le Minnesota, est victime d'une cyberattaque cette semaine. Cette attaque a entraîné des perturbations dans les services de diagnostic dans plusieurs cliniques, affectant principalement les petites structures de santé. Les radiologues externes sont de plus en plus ciblés par les cyberattaques, mettant en lumière une vulnérabilité croissante dans le secteur de la santé.",
+        "title": "Provider of radiology services is offline due to a cyber-attack",
+        "url": "https://www.twincities.com/2024/02/15/cyber-attack-shuts-down-access-to-off-site-radiology-services-for-some-allina-sites-other-healthcare-groups/",
+        "added": "2024-02-16"
+    },
+    {
         "date": "2024-02-15",
         "victim": "PSI",
         "domain": "psi.de",
