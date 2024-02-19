@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-02-18",
+        "victim": "Evangelische Landeskirche Hannovers",
+        "domain": "landeskirche-hannovers.de",
+        "country": "DEU",
+        "summary": "La Landeskirche de Hanovre a été victime d'une cyberattaque par des auteurs inconnus qui ont réussi à accéder à l'infrastructure informatique de l'administration de l'église, des services ecclésiastiques et du bureau de l'évêque dimanche, selon un communiqué publié lundi. Suite à la détection de l'attaque, des parties de l'infrastructure informatique ont été mises hors ligne, rendant difficile l'accès par téléphone et limitant la communication par e-mail; une plainte a été déposée et une enquête est en cours. Il s'agissait d'une attaque par ransomware, mais aucune demande de rançon n'a été faite jusqu'à présent, et il est également en cours d'évaluation si les",
+        "title": "Internet: Cyber-Angriff auf Landeskirche Hannovers | ZEIT ONLINE",
+        "url": "https://www.zeit.de/news/2024-02/19/cyber-angriff-auf-landeskirche-hannovers",
+        "added": "2024-02-19"
+    },
+    {
         "date": "2024-02-14",
         "victim": "JCT600",
         "domain": "jct600.co.uk",
