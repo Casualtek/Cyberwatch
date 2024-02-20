@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-01-22",
+        "victim": "Grace Lutheran Communities (Grace Lutheran Foundation)",
+        "domain": "graceluthfound.com",
+        "country": "USA",
+        "summary": "La Grace Lutheran Foundation, opérant sous le nom de Grace Lutheran Communities dans le Wisconsin, a été victime d'une cyberattaque par le groupe BlackCat, qui a acquis 70 Go de données personnelles et sensibles des employés et résidents, incluant des informations de sécurité sociale et d'assurance santé. Bien que Grace Lutheran ait tenté de négocier avec les attaquants, les pourparlers ont échoué et l'organisation a cessé de répondre, conduisant BlackCat à publier les données sur le dark web.",
+        "title": "Grace Lutheran Communities attacked by BlackCat; employee and resident data acquired",
+        "url": "https://www.databreaches.net/grace-lutheran-communities-attacked-by-blackcat-employee-and-resident-data-acquired/",
+        "added": "2024-02-20"
+    },
+    {
         "date": "2024-02-17",
         "victim": "GCA (Charles André)",
         "domain": "charlesandre.com",
