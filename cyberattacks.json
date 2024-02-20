@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-02-17",
+        "victim": "GCA (Charles André)",
+        "domain": "charlesandre.com",
+        "country": "FRA",
+        "summary": "Le transporteur français GCA (Charles André) a subi une cyberattaque dans la nuit du 17 au 18 février, entraînant la coupure de ses accès Internet et la désactivation de ses communications habituelles. Aucune fuite de données n'a été rapportée à ce stade, et l'entreprise mène des investigations avec des spécialistes externes et l'Anssi. Il est à noter que GCA avait déjà été victime d'une cyberattaque il y a trois ans, et que des vulnérabilités non corrigées sur ses systèmes pourraient avoir été exploitées dans cette dernière attaque.",
+        "title": "Logistique : le Français GCA à nouveau victime d’une cyberattaque | LeMagIT",
+        "url": "https://www.lemagit.fr/actualites/366570358/Logistique-le-Francais-GCA-a-nouveau-victime-dune-cyberattaque",
+        "added": "2024-02-20"
+    },
+    {
         "date": "2024-02-18",
         "victim": "Evangelische Landeskirche Hannovers",
         "domain": "landeskirche-hannovers.de",
