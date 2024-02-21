@@ -1,5 +1,15 @@
 [
     {
+        "date": "2023-02-16",
+        "victim": "Prefeitura de Marechal Floriano",
+        "domain": "marechalfloriano.es.gov.br",
+        "country": "BRA",
+        "summary": "La municipalité de Marechal Floriano a été victime d'une cyberattaque qui a crypté les données de la préfecture, rendant les services publics et le site officiel inaccessibles. Un rapport a été déposé auprès de la police civile et les techniciens ont isolé la menace, mais une grande partie des données a été affectée, empêchant l'accès aux systèmes nécessaires pour certains services municipaux. La municipalité travaille à résoudre le problème et demande la compréhension de tous les utilisateurs affectés.",
+        "title": "Prefeitura de Marechal Floriano é alvo de ataque cibernético e serviços públicos ficam indisponíveis - Montanhas Capixabas",
+        "url": "https://www.montanhascapixabas.com.br/prefeitura-de-marechal-floriano-e-alvo-de-ataque-cibernetico-e-servicos-publicos-ficam-indisponiveis/",
+        "added": "2024-02-21"
+    },
+    {
         "date": "2024-02-20",
         "victim": "Berliner Hochschule für Technik (BHT)",
         "domain": "bht-berlin.de",
