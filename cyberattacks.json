@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-02-20",
+        "victim": "Continental Aerospace",
+        "domain": "continental.aero",
+        "country": "USA",
+        "summary": "Continental Aerospace, un fabricant de moteurs basé à Mobile en Alabama, est actuellement victime d'une cyberattaque qui perturbe ses opérations. L'entreprise a annoncé sur son site web le 20 février qu'elle travaillait avec des experts pour résoudre le problème et espère reprendre ses activités normales prochainement. Aucun détail supplémentaire n'a été fourni concernant la fin de l'attaque ou l'étendue des perturbations, ni si une violation de données a eu lieu.",
+        "title": "Continental Aerospace under cyberattack - Flight Training News",
+        "url": "https://www.ftnonline.co.uk/2024/02/21/continental-aerospace-under-cyberattack-that-is-disrupting-daily-operations-at-the-engine-manufacturers-alabama-site/",
+        "added": "2024-02-21"
+    },
+    {
         "date": "2024-02-15",
         "victim": "Vili's Family Bakery",
         "domain": "vilis.com",
