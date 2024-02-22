@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-02-21",
+        "victim": "Service d'immigration du Malawi",
+        "domain": "immigration.gov.mw",
+        "country": "MWI",
+        "summary": "Le service d'immigration du Malawi a suspendu la délivrance des passeports à la suite d'une cyberattaque sur son système informatique, qualifiée de \"grave atteinte à la sécurité nationale\" par le président Lazarus Chakwera. Les pirates informatiques ont demandé une rançon, mais le gouvernement a refusé de céder à leurs exigences et travaille à résoudre le problème. Le président a donné trois semaines au département de l'immigration pour trouver une solution temporaire et reprendre la délivrance des passeports, tandis qu'une solution à long terme avec des garanties de sécurité supplémentaires sera développée.",
+        "title": "Cyber-attack hits Malawi's immigration service",
+        "url": "https://www.bbc.com/news/world-africa-68366749",
+        "added": "2024-02-22"
+    },
+    {
         "date": "2024-02-20",
         "victim": "Change Healthcare",
         "domain": "changehealthcare.com",
