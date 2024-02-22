@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-02-22",
+        "victim": "Verbraucherzentrale Hessen",
+        "domain": "verbraucherzentrale-hessen.de",
+        "country": "DEU",
+        "summary": "La Verbraucherzentrale Hessen a été victime d'une cyberattaque tôt le jeudi matin, qui a entraîné l'impossibilité d'envoyer et de recevoir des e-mails, mais la consultation a pu continuer par téléphone et vidéo. Une plainte a été déposée auprès de la police, et les autorités de cybersécurité et de protection des données de l'État de Hesse ont été informées, bien que la cause de l'attaque reste inconnue. Les données sur les serveurs et certains systèmes de sauvegarde sont cryptées, et il n'est pas encore clair si des données ont été dérobées, mais une communication des hackers a été reçue et n'a pas encore été ouverte.",
+        "title": "Cyber-Angriff: Hacker attackieren Verbraucherzentrale | ZEIT ONLINE",
+        "url": "https://www.zeit.de/news/2024-02/22/hacker-attackieren-verbraucherzentrale",
+        "added": "2024-02-22"
+    },
+    {
         "date": "2024-02-02",
         "victim": "Etesia",
         "domain": "etesia.com",
