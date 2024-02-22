@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-02-20",
+        "victim": "Change Healthcare",
+        "domain": "changehealthcare.com",
+        "country": "USA",
+        "summary": "Change Healthcare, une importante entreprise technologique dans le secteur de la santé aux États-Unis, a confirmé avoir subi une cyberattaque entraînant une interruption de son réseau. L'incident a débuté tôt mardi matin sur la côte Est des États-Unis, et l'entreprise a pris des mesures immédiates pour déconnecter ses systèmes afin de protéger ses partenaires et patients, ce qui a provoqué des perturbations dans le traitement des prescriptions par les pharmacies locales.",
+        "title": "US health tech giant Change Healthcare hit by cyberattack | TechCrunch",
+        "url": "https://techcrunch.com/2024/02/21/change-healthcare-cyberattack/",
+        "added": "2024-02-22"
+    },
+    {
         "date": "2024-02-19",
         "victim": "Francis Howell School District",
         "domain": "fhsdschools.org",
