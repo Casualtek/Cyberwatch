@@ -1,5 +1,15 @@
 [
     {
+        "date": "2023-11-14",
+        "victim": "Medical Management Resource Group (opérant sous le nom d'American Vision Partners)",
+        "domain": "americanvisionpartners.com",
+        "country": "USA",
+        "summary": "Une entreprise de services administratifs en Arizona, Medical Management Resource Group, opérant sous le nom d'American Vision Partners, a subi une cyberattaque en novembre, affectant les données personnelles de près de 2,4 millions de patients de douze cabinets d'ophtalmologie. Les informations compromises incluent des noms, des informations de contact, des dates de naissance, des dossiers médicaux, des numéros de sécurité sociale et des informations d'assurance. L'entreprise a pris des mesures pour contenir l'incident, averti les autorités, et offre deux ans de surveillance d'identité et de crédit aux individus affectés.",
+        "title": "Hack at Services Firm Hits 2.4 Million Eye Doctor Patients",
+        "url": "https://www.bankinfosecurity.com/hack-at-services-firm-hits-24-million-eye-doctor-patients-a-24418",
+        "added": "2024-02-22"
+    },
+    {
         "date": "2024-02-21",
         "victim": "Service d'immigration du Malawi",
         "domain": "immigration.gov.mw",
