@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-02-19",
+        "victim": "Francis Howell School District",
+        "domain": "fhsdschools.org",
+        "country": "USA",
+        "summary": "Le district scolaire de Francis Howell, après avoir été victime d'une cyberattaque utilisant un logiciel malveillant qui a chiffré certains de ses systèmes, reprendra les cours en présentiel jeudi. Les écoles ont dû passer à l'apprentissage à distance mardi et mercredi en raison de l'attaque, et des spécialistes en informatique ont été engagés pour enquêter. Le district a inspecté plusieurs systèmes pour garantir la sécurité et a confirmé l'accès aux informations nécessaires pour tenir des cours en personne, bien que l'accès à Internet pour l'enseignement ne sera pas disponible pour le reste de la semaine.",
+        "title": "Francis Howell to return Thursday after cyberattack",
+        "url": "https://fox2now.com/news/missouri/francis-howell-to-return-thursday-after-cyber-attack/",
+        "added": "2024-02-22"
+    },
+    {
         "date": "2024-02-16",
         "victim": "Government Employees Pension Fund (GEPF)",
         "domain": "gepf.gov.za",
