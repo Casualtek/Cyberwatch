@@ -1,6 +1,16 @@
 [
     {
         "date": "2024-02-22",
+        "victim": "Coocique",
+        "domain": "coocique.fi.cr",
+        "country": "CRI",
+        "summary": "La coopérative Coocique a détecté une activité inusuelle dans ses systèmes le 22 février, suggérant un incident de ransomware, et a isolé les équipements affectés pour prévenir d'autres dommages. Elle est actuellement en train de récupérer les systèmes affectés pour reprendre ses opérations normales, tout en assurant que la sécurité des données de ses membres n'est pas compromise. Néanmoins, certains services comme le SINPE, les paiements de services de base et les paiements par cartes de débit sont interrompus, tandis que les services en ligne et les cartes de crédit fonctionnent normalement.",
+        "title": "Coocique aisló equipos que pudieron ser víctima de ataque cibernético | SanCarlosDigital.com",
+        "url": "https://www.sancarlosdigital.com/coocique-aislo-equipos-que-pudieron-ser-victima-de-ataque-cibernetico/",
+        "added": "2024-02-23"
+    },
+    {
+        "date": "2024-02-22",
         "victim": "Verbraucherzentrale Hessen",
         "domain": "verbraucherzentrale-hessen.de",
         "country": "DEU",
