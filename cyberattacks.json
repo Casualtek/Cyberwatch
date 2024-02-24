@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-02-22",
+        "victim": "City of Oakley",
+        "domain": "oakley.ca.us",
+        "country": "USA",
+        "summary": "La ville d'Oakley en Californie a été la cible d'une attaque par ransomware le jeudi 22 février, ce qui a conduit à une réaction rapide de la division informatique de la ville, en collaboration avec les forces de l'ordre et des experts en cybersécurité. Les services d'urgence, tels que le 911, la police, les pompiers et les ambulances, n'ont pas été affectés, mais la ville a déclaré un état d'urgence local et a partiellement activé son centre d'opérations d'urgence, tout en prenant les systèmes affectés hors ligne pour sécurisation et restauration. Les résidents doivent s'attendre à des retards dans les services non urgents de la ville et sont encouragés à rester",
+        "title": "Another California city, targeted by Ransomware hackers, cyber criminals disable city services | Golden Gate Media | NewsBreak Original",
+        "url": "https://original.newsbreak.com/@golden-gate-media-1351221/3344715616259-another-california-city-targeted-by-ransomware-hackers-cyber-criminals-disable-city-services",
+        "added": "2024-02-24"
+    },
+    {
         "date": "2024-02-23",
         "victim": "Gendarmerie royale du Canada (RCMP)",
         "domain": "rcmp-grc.gc.ca",
