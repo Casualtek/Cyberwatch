@@ -1,6 +1,16 @@
 [
     {
         "date": "2024-02-22",
+        "victim": "City of Pleasant Hill",
+        "domain": "pleasanthillca.org",
+        "country": "USA",
+        "summary": "La ville de Pleasant Hill a annoncé qu'elle enquêtait sur une cyberattaque survenue jeudi après-midi, qui a ciblé l'infrastructure informatique de la ville. Les professionnels de l'IT de la ville ont détecté et isolé rapidement l'intrusion pour limiter les dégâts, et les services de la ville sont restés opérationnels sans compromettre la sécurité publique. Cette annonce intervient peu de temps après que la ville voisine d'Oakley ait déclaré une attaque de rançongiciel, ayant conduit à la déclaration d'un état d'urgence local et à la mise hors ligne des systèmes affectés.",
+        "title": "City Of Pleasant Hill Says it Was Target In Cyber Attack",
+        "url": "https://contracosta.news/2024/02/23/city-of-pleasant-hill-says-it-was-target-in-cyber-attack/",
+        "added": "2024-02-24"
+    },
+    {
+        "date": "2024-02-22",
         "victim": "City of Oakley",
         "domain": "oakley.ca.us",
         "country": "USA",
