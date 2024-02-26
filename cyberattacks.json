@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-02-24",
+        "victim": "Thyssenkrupp (division Automobile)",
+        "domain": "thyssenkrupp.com",
+        "country": "DEU",
+        "summary": "Thyssenkrupp, un géant industriel allemand basé à Essen, a été visé par une cyberattaque, affectant notamment une usine en Sarre avec environ 1 000 employés. La division Thyssenkrupp Automotive Body Solutions a été spécifiquement touchée, mais d'autres segments de l'entreprise ne sont pas affectés pour le moment. Bien que les détails précis de l'attaque restent flous, Thyssenkrupp a pris des mesures de sécurité et travaille à un retour progressif à la normale.",
+        "title": "Thyssenkrupp bestätigt Cyberangriff auf Automotive-Sparte",
+        "url": "https://www.golem.de/news/systeme-vorerst-offline-thyssenkrupp-bestaetigt-cyberangriff-auf-automotive-sparte-2402-182585.html",
+        "added": "2024-02-26"
+    },
+    {
         "date": "2024-02-09",
         "victim": "Gouvernement des Îles Caïmans",
         "domain": "gov.ky",
