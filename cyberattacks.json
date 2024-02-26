@@ -1,5 +1,15 @@
 [
     {
+        "date": "2023-02-18",
+        "victim": "Laurentian University",
+        "domain": "laurentian.ca",
+        "country": "CAN",
+        "summary": "L'Université Laurentienne a subi un \"incident cybernétique\" le 18 février qui a entraîné la mise hors ligne de plusieurs systèmes informatiques, y compris le site web de l'université, causant des perturbations et du stress pour les étudiants et le personnel. Les responsables de l'université ont annoncé des adaptations pour les examens et les devoirs, ainsi que des progrès dans la résolution de l'incident, avec la reprise des cours en présentiel le 26 février, bien que l'accès à Internet soit limité.",
+        "title": "Fallout from the 'cyber incident' at Laurentian University continues",
+        "url": "https://www.iheartradio.ca/ctv-news-content/fallout-from-the-cyber-incident-at-laurentian-university-continues-1.21882583",
+        "added": "2024-02-26"
+    },
+    {
         "date": "2024-02-22",
         "victim": "City of Pleasant Hill",
         "domain": "pleasanthillca.org",
