@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-02-25",
+        "victim": "Hamilton",
+        "domain": "hamilton.ca",
+        "country": "CAN",
+        "summary": "La ville de Hamilton a annoncé que ses systèmes de téléphonie et de courrier électronique ont été touchés par un \"incident de cybersécurité\" qui a commencé dimanche. L'incident affecte également le système de transport en commun de la ville, perturbant les annonces dans les bus et l'application HSRNow, bien que le service DARTS fonctionne normalement. Les techniciens informatiques de la ville et des experts en cybersécurité travaillent à résoudre le problème, tandis que des institutions publiques ontariennes ont également été ciblées par des cyberattaques récemment.",
+        "title": "City of Hamilton says its phone and email systems have been hit by 'cybersecurity incident' | CBC News",
+        "url": "https://www.cbc.ca/news/canada/hamilton/hamilton-cybersecurity-incident-1.7125556",
+        "added": "2024-02-26"
+    },
+    {
         "date": "2024-02-24",
         "victim": "Thyssenkrupp (division Automobile)",
         "domain": "thyssenkrupp.com",
