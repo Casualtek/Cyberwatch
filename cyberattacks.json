@@ -1,6 +1,16 @@
 [
     {
         "date": "2024-02-25",
+        "victim": "Middleton-Cross Plains Area School District",
+        "domain": "mcpasd.k12.wi.us",
+        "country": "USA",
+        "summary": "Les écoles du district scolaire de Middleton-Cross Plains ont annulé les cours et les activités parascolaires lundi en raison d'une interruption du réseau. Cette perturbation a affecté des opérations critiques du district, telles que le système téléphonique et l'internet. Une enquête est en cours avec l'aide de professionnels de la cybersécurité pour résoudre le problème.",
+        "title": "Middleton-Cross Plains Area School District schools closed Monday",
+        "url": "https://fox47.com/news/local/middleton-cross-plains-area-school-district-schools-closed-monday",
+        "added": "2024-02-27"
+    },
+    {
+        "date": "2024-02-25",
         "victim": "Hamilton",
         "domain": "hamilton.ca",
         "country": "CAN",
