@@ -1,5 +1,15 @@
 [
     {
+        "date": "2023-11-22",
+        "victim": "Zollikofen",
+        "domain": "zollikofen.ch",
+        "country": "CHE",
+        "summary": "La commune de Zollikofen a été victime d'une cyberattaque dans la nuit du 22 novembre 2023, mais a réussi à éviter des dommages majeurs tels que la perte de données, se concentrant uniquement sur les coûts de restauration des systèmes. Les autorités ont impliqué divers partenaires, y compris la police cantonale de Berne, et ont décidé de ne pas négocier de rançon avec les attaquants, se concentrant plutôt sur la récupération des systèmes et des données. Des mesures de renforcement de la sécurité ont été mises en place pour prévenir de futures attaques et la formation du personnel continue.",
+        "title": "Zollikofen: Cyber-Angriff insgesamt glimpflich abgelaufen",
+        "url": "https://www.nau.ch/ort/urtenen-schonbuhl/zollikofen-cyber-angriff-insgesamt-glimpflich-abgelaufen-66715930",
+        "added": "2024-02-27"
+    },
+    {
         "date": "2024-02-25",
         "victim": "Middleton-Cross Plains Area School District",
         "domain": "mcpasd.k12.wi.us",
