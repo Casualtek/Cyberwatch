@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-02-14",
+        "victim": "Orange Public Schools",
+        "domain": "orange.k12.nj.us",
+        "country": "USA",
+        "summary": "Le district scolaire rencontre des difficultés techniques depuis le 14 février, affectant notamment les communications par email. Un incicent de sécurité a été découvert nécessitant la déconnexion de certains systèmes d'information.",
+        "title": "District Technical Difficulties on February 16th",
+        "url": "https://www.orange.k12.nj.us/site/default.aspx?PageType=3&DomainID=1&ModuleInstanceID=27906&ViewID=6446EE88-D30C-497E-9316-3F8874B3E108&RenderLoc=0&FlexDataID=46191&PageID=1",
+        "added": "2024-02-28"
+    },
+    {
         "date": "2024-02-21",
         "victim": "Cencora Inc",
         "domain": "cencora.com",
