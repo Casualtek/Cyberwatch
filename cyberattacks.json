@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-02-21",
+        "victim": "Cencora Inc",
+        "domain": "cencora.com",
+        "country": "USA",
+        "summary": "Cencora Inc a révélé, le 27 février, avoir été victime d'une cyberattaque au cours de laquelle des données, potentiellement comprenant des informations personnelles, ont été dérobées de ses systèmes d'information. L'activité non autorisée a été détectée le 21 février et la société a immédiatement pris des mesures pour contenir l'incident. Cencora a également lancé une enquête avec l'aide des forces de l'ordre, des experts en cybersécurité et d'un conseil externe, mais n'a pas encore déterminé l'impact matériel potentiel de l'incident sur ses finances ou ses opérations.",
+        "title": "Cencora discloses data breach in cybersecurity incident | Reuters",
+        "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/cencora-says-hit-by-cyber-attack-its-information-systems-2024-02-27/",
+        "added": "2024-02-28"
+    },
+    {
         "date": "2023-02-21",
         "victim": "Casino Del Sol",
         "domain": "casinodelsol.com",
