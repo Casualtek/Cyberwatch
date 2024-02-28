@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-02-28",
+        "victim": "Sidaction",
+        "domain": "sidaction.org",
+        "country": "FRA",
+        "summary": "L'association Sidaction, engagée dans la lutte contre le sida, a été victime d'une cyberattaque qui a entraîné une violation des données personnelles de certains donateurs, avec un risque de divulgation des noms, adresses, numéros de téléphone, montants des dons et coordonnées bancaires IBAN/BIC pour environ 3% des personnes affectées. Les données de cartes bancaires ne sont pas concernées par cette fuite. Sidaction a informé les donateurs concernés, notifié la CNIL et pris des mesures pour renforcer la sécurité avec son prestataire.",
+        "title": "Cyberattaque: Sidaction s'inquiète d'un possible vol de coordonnées bancaires de donateurs",
+        "url": "https://www.bfmtv.com/tech/cybersecurite/cyberattaque-sidaction-s-inquiete-d-un-possible-vol-de-coordonnees-bancaires-de-donateurs_AN-202402280811.html",
+        "added": "2024-02-28"
+    },
+    {
         "date": "2024-02-27",
         "victim": "Hochschule Kempten",
         "domain": "hs-kempten.de",
