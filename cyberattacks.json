@@ -1,5 +1,15 @@
 [
     {
+        "date": "2023-02-21",
+        "victim": "Casino Del Sol",
+        "domain": "casinodelsol.com",
+        "country": "USA",
+        "summary": "Le Casino Del Sol dans la région de Tucson a été la cible d'une tentative de cyberattaque le 21 février, entraînant une panne généralisée de ses systèmes, y compris les distributeurs automatiques, les systèmes de cartes de crédit et les jeux de table qui ne pouvaient accepter que du liquide. Le 27 février, le casino a annoncé que les distributeurs automatiques étaient de nouveau opérationnels, mais que les paiements restaient limités au liquide pour les restaurants et bars, et qu'il ne pouvait pas traiter les chèques-cadeaux et les bons. Le casino collabore avec le FBI et le département de police de Pascua Yaqui pour enquêter sur l'incident, et des perturbations telles que l'absence",
+        "title": "Tucson-area casino victim of attempted cyberattack",
+        "url": "https://www.kold.com/2024/02/28/tucson-area-casino-victim-attempted-cyberattack",
+        "added": "2024-02-28"
+    },
+    {
         "date": "2024-02-27",
         "victim": "Hôpital Sophiahemmet",
         "domain": "sophiahemmet.se",
