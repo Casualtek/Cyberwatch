@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-02-19",
+        "victim": "Poughkeepsie Town",
+        "domain": "townofpoughkeepsie.com",
+        "country": "USA",
+        "summary": "La ville de Poughkeepsie a été la cible d'une cyberattaque le week-end précédent, mais a réussi à se rétablir rapidement grâce à l'intervention de ses consultants en cybersécurité et de son équipe informatique. Aucune fuite de données n'a été signalée suite à l'attaque, qui a été contenue par la fermeture rapide des serveurs. La superviseure de la ville, Rebecca Edwards, a souligné l'importance de renforcer les mesures de cybersécurité, en réaction à l'augmentation des attaques de rançongiciels contre les gouvernements locaux et d'État, citant un rapport de Sophos indiquant une hausse de 70% de ces attaques en 2021 par",
+        "title": "Town of Poughkeepsie faces cyber attack, recovers quickly",
+        "url": "https://www.hvobserver.com/38478/town-of-poughkeepsie-faces-cyber-attack-recovers-quickly/",
+        "added": "2024-02-28"
+    },
+    {
         "date": "2023-12-21",
         "victim": "Egyptian Health Department (EHD)",
         "domain": "ehd.org",
