@@ -26,38 +26,38 @@ _DECODED_URL_RE = re.compile(rb'^\x08\x13".+?(?P<primary_url>http[^\xd2]+)\xd2\x
 
 # List of RSS feeds
 rss_feed_urls_en = [
-    'https://news.google.com/rss/search?tbm=nws&q=when:12h+cyber+attack&scoring=n&hl=en-CA&gl=CA&ceid=CA:en',
-    'https://news.google.com/rss/search?tbm=nws&q=when:12h+cyber+attack&scoring=n&hl=en-US&gl=US&ceid=US:en',
-    'https://news.google.com/rss/search?tbm=nws&q=when:12h+cyber+attack&scoring=n&hl=en-IN&gl=IN&ceid=IN:en',
-    'https://news.google.com/rss/search?tbm=nws&q=when:12h+cyber+attack&scoring=n&hl=en-AU&gl=AU&ceid=AU:en',
-    'https://news.google.com/rss/search?tbm=nws&q=when:12h+cyber+attack&scoring=n&hl=en-GB&gl=GB&ceid=GB:en',
-    'https://news.google.com/rss/search?tbm=nws&q=when:12h+cyber+attack&scoring=n&hl=en-NZ&gl=NZ&ceid=NZ:en',
-    'https://news.google.com/rss/search?tbm=nws&q=when:12h+cyber+attack&scoring=n&hl=en-ZA&gl=ZA&ceid=ZA:en',
+    'https://news.google.com/rss/search?tbm=nws&q=when:4h+cyber+attack&scoring=n&hl=en-CA&gl=CA&ceid=CA:en',
+    'https://news.google.com/rss/search?tbm=nws&q=when:4h+cyber+attack&scoring=n&hl=en-US&gl=US&ceid=US:en',
+    'https://news.google.com/rss/search?tbm=nws&q=when:4h+cyber+attack&scoring=n&hl=en-IN&gl=IN&ceid=IN:en',
+    'https://news.google.com/rss/search?tbm=nws&q=when:4h+cyber+attack&scoring=n&hl=en-AU&gl=AU&ceid=AU:en',
+    'https://news.google.com/rss/search?tbm=nws&q=when:4h+cyber+attack&scoring=n&hl=en-GB&gl=GB&ceid=GB:en',
+    'https://news.google.com/rss/search?tbm=nws&q=when:4h+cyber+attack&scoring=n&hl=en-NZ&gl=NZ&ceid=NZ:en',
+    'https://news.google.com/rss/search?tbm=nws&q=when:4h+cyber+attack&scoring=n&hl=en-ZA&gl=ZA&ceid=ZA:en',
 ]
 
 rss_feed_urls_others = [
-    'https://news.google.com/rss/search?tbm=nws&q=when:12h+attaque+informatique&scoring=n&hl=fr-FR&gl=FR&ceid=FR:fr',
-    'https://news.google.com/rss/search?tbm=nws&q=when:12h+cyber+attaque&scoring=n&hl=fr-FR&gl=FR&ceid=FR:fr',
-    'https://news.google.com/rss/search?tbm=nws&q=when:12h+cyber+attaque&scoring=n&hl=fr-BE&gl=BE&ceid=BE:fr',
-    'https://news.google.com/rss/search?tbm=nws&q=when:12h+cyber+attaque&scoring=n&hl=fr-CH&gl=CH&ceid=CH:fr',
-    'https://news.google.com/rss/search?tbm=nws&q=when:12h+cyber+angriff&scoring=n&hl=de-CH&gl=CH&ceid=CH:de',
-    'https://news.google.com/rss/search?tbm=nws&q=when:12h+cyber+angriff&scoring=n&hl=de-DE&gl=DE&ceid=DE:de',
-    'https://news.google.com/rss/search?tbm=nws&q=when:12h+cyber+angriff&scoring=n&hl=de-AT&gl=AT&ceid=AT:de',
-    'https://news.google.com/rss/search?tbm=nws&q=when:12h+ataque+cibernetico&scoring=n&hl=es-ES&gl=ES&ceid=ES:es',
-    'https://news.google.com/rss/search?tbm=nws&q=when:12h+ataque+cibernetico&scoring=n&hl=es-MX&gl=MX&ceid=MX:es',
-    'https://news.google.com/rss/search?tbm=nws&q=when:12h+ataque+cibernetico&scoring=n&hl=es-CL&gl=CL&ceid=CL:es',
-    'https://news.google.com/rss/search?tbm=nws&q=when:12h+ataque+cibernetico&scoring=n&hl=pt-PT&gl=PT&ceid=PR:pt',
-    'https://news.google.com/rss/search?tbm=nws&q=when:12h+ataque+cibernetico&scoring=n&hl=pt-BR&gl=BR&ceid=BR:pt',
-    'https://news.google.com/rss/search?tbm=nws&q=when:12h+attacco+informatico&scoring=n&hl=it&gl=IT&ceid=IT:it',
-    'https://news.google.com/rss/search?tbm=nws&q=when:12h+cyberaanval&scoring=n&hl=nl&gl=NL&ceid=NL:nl',
-    'https://news.google.com/rss/search?tbm=nws&q=when:12h+cyberangreb&scoring=n&hl=dk&gl=DK&ceid=DK:dk',
-    'https://news.google.com/rss/search?tbm=nws&q=when:12h+verkkohy%C3%B6kk%C3%A4ys&scoring=n&hl=fi&gl=FI&ceid=FI:fi',
-    'https://news.google.com/rss/search?tbm=nws&q=when:12h+cyberattack&scoring=n&hl=se&gl=SE&ceid=SE:se',
-    'https://news.google.com/rss/search?tbm=nws&q=when:12h+cyberangrep&scoring=n&hl=no&gl=NO&ceid=NO:no'
-    'https://news.google.com/rss/search?q=%E3%82%B5%E3%82%A4%E3%83%90%E3%83%BC%E6%94%BB%E6%92%83&gl=JP&hl=ja&ceid=JP:ja',
-    'https://news.google.com/rss/search?tbm=nws&q=when:12h+%E7%BD%91%E7%BB%9C%E6%94%BB%E5%87%BB&scoring=n&hl=zh-CN&gl=CN&ceid=CN:zh-Hans',
-    'https://news.google.com/rss/search?tbm=nws&q=when:12h+%E7%BD%91%E7%BB%9C%E6%94%BB%E5%87%BB&scoring=n&hl=zh-TW&gl=TW&ceid=TW:zh-Hant',
-    'https://news.google.com/rss/search?tbm=nws&q=when:12h+%E7%BD%91%E7%BB%9C%E6%94%BB%E5%87%BB&scoring=n&hl=zh-HK&gl=HK&ceid=HK:zh-Hant'
+    'https://news.google.com/rss/search?tbm=nws&q=when:4h+attaque+informatique&scoring=n&hl=fr-FR&gl=FR&ceid=FR:fr',
+    'https://news.google.com/rss/search?tbm=nws&q=when:4h+cyber+attaque&scoring=n&hl=fr-FR&gl=FR&ceid=FR:fr',
+    'https://news.google.com/rss/search?tbm=nws&q=when:4h+cyber+attaque&scoring=n&hl=fr-BE&gl=BE&ceid=BE:fr',
+    'https://news.google.com/rss/search?tbm=nws&q=when:4h+cyber+attaque&scoring=n&hl=fr-CH&gl=CH&ceid=CH:fr',
+    'https://news.google.com/rss/search?tbm=nws&q=when:4h+cyber+angriff&scoring=n&hl=de-CH&gl=CH&ceid=CH:de',
+    'https://news.google.com/rss/search?tbm=nws&q=when:4h+cyber+angriff&scoring=n&hl=de-DE&gl=DE&ceid=DE:de',
+    'https://news.google.com/rss/search?tbm=nws&q=when:4h+cyber+angriff&scoring=n&hl=de-AT&gl=AT&ceid=AT:de',
+    'https://news.google.com/rss/search?tbm=nws&q=when:4h+ataque+cibernetico&scoring=n&hl=es-ES&gl=ES&ceid=ES:es',
+    'https://news.google.com/rss/search?tbm=nws&q=when:4h+ataque+cibernetico&scoring=n&hl=es-MX&gl=MX&ceid=MX:es',
+    'https://news.google.com/rss/search?tbm=nws&q=when:4h+ataque+cibernetico&scoring=n&hl=es-CL&gl=CL&ceid=CL:es',
+    'https://news.google.com/rss/search?tbm=nws&q=when:4h+ataque+cibernetico&scoring=n&hl=pt-PT&gl=PT&ceid=PR:pt',
+    'https://news.google.com/rss/search?tbm=nws&q=when:4h+ataque+cibernetico&scoring=n&hl=pt-BR&gl=BR&ceid=BR:pt',
+    'https://news.google.com/rss/search?tbm=nws&q=when:4h+attacco+informatico&scoring=n&hl=it&gl=IT&ceid=IT:it',
+    'https://news.google.com/rss/search?tbm=nws&q=when:4h+cyberaanval&scoring=n&hl=nl&gl=NL&ceid=NL:nl',
+    'https://news.google.com/rss/search?tbm=nws&q=when:4h+cyberangreb&scoring=n&hl=dk&gl=DK&ceid=DK:dk',
+    'https://news.google.com/rss/search?tbm=nws&q=when:4h+verkkohy%C3%B6kk%C3%A4ys&scoring=n&hl=fi&gl=FI&ceid=FI:fi',
+    'https://news.google.com/rss/search?tbm=nws&q=when:4h+cyberattack&scoring=n&hl=se&gl=SE&ceid=SE:se',
+    'https://news.google.com/rss/search?tbm=nws&q=when:4h+cyberangrep&scoring=n&hl=no&gl=NO&ceid=NO:no'
+    'https://news.google.com/rss/search?tbm=nws&q=when:4h+q=%E3%82%B5%E3%82%A4%E3%83%90%E3%83%BC%E6%94%BB%E6%92%83&scoring=n&gl=JP&hl=ja&ceid=JP:ja',
+    'https://news.google.com/rss/search?tbm=nws&q=when:4h+%E7%BD%91%E7%BB%9C%E6%94%BB%E5%87%BB&scoring=n&hl=zh-CN&gl=CN&ceid=CN:zh-Hans',
+    'https://news.google.com/rss/search?tbm=nws&q=when:4h+%E7%BD%91%E7%BB%9C%E6%94%BB%E5%87%BB&scoring=n&hl=zh-TW&gl=TW&ceid=TW:zh-Hant',
+    'https://news.google.com/rss/search?tbm=nws&q=when:4h+%E7%BD%91%E7%BB%9C%E6%94%BB%E5%87%BB&scoring=n&hl=zh-HK&gl=HK&ceid=HK:zh-Hant'
 ]
 
 ignored_sources = [
