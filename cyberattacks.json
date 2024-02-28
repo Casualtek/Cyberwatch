@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-02-27",
+        "victim": "Hochschule Kempten",
+        "domain": "hs-kempten.de",
+        "country": "DEU",
+        "summary": "L'Université des sciences appliquées de Kempten en Allemagne a été victime d'une cyberattaque criminelle qui a contraint l'établissement à désactiver son infrastructure informatique. L'attaque a bloqué l'accès à plusieurs systèmes informatiques et, actuellement, l'université n'est pas joignable par e-mail, bien que le système téléphonique fonctionne encore.",
+        "title": "German applied sciences university announces being hit by criminal cyberattack",
+        "url": "https://therecord.media/hochschule-kempten-cyberattack-german-university",
+        "added": "2024-02-28"
+    },
+    {
         "date": "2024-02-14",
         "victim": "Orange Public Schools",
         "domain": "orange.k12.nj.us",
