@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-02-27",
+        "victim": "Hôpital Sophiahemmet",
+        "domain": "sophiahemmet.se",
+        "country": "SWE",
+        "summary": "La Regional särskild sjukvårdsledning (RSSL) a été activée en mode de gestion d'urgence suite à une cyberattaque contre Sophiahemmet, un établissement de santé à Stockholm. En conséquence, certaines mesures de protection ont été mises en place, affectant l'accès des prestataires de soins au système de dossiers médicaux de la région et à d'autres systèmes connexes, les obligeant à adopter des procédures manuelles temporairement. La région surveille de près l'évolution de la situation et espère restaurer la fonctionnalité pour les prestataires de soins affectés dès que possible.",
+        "title": "Regional särskild sjukvårdsledning med anledning av cyberattack mot Sophiahemmet - Nyheter - Region Stockholm",
+        "url": "https://www.regionstockholm.se/nyheter/2024/02/regional-sarskild-sjukvardsledning-med-anledning-av-cyberattack-mot-sophiahemmet/",
+        "added": "2024-02-28"
+    },
+    {
         "date": "2024-02-19",
         "victim": "Poughkeepsie Town",
         "domain": "townofpoughkeepsie.com",
