@@ -1,5 +1,15 @@
 [
     {
+        "date": "2023-12-21",
+        "victim": "Egyptian Health Department (EHD)",
+        "domain": "ehd.org",
+        "country": "USA",
+        "summary": "Le 20 février 2024, le département de la santé égyptien (Egyptian Health Department, EHD) a signalé une violation de données à la suite d'une cyberattaque survenue en décembre 2023, où des informations sensibles des consommateurs, telles que les noms, numéros de sécurité sociale, numéros de permis de conduire, identifiants gouvernementaux, informations financières et d'assurance, ont été accessibles par un acteur non autorisé. EHD a sécurisé ses systèmes et a mené une enquête avec des experts en cybersécurité, confirmant que des informations confidentielles sur les patients et les employés ont été affectées.",
+        "title": "Egyptian Health Department Reports Data Breach Following December 2023 Cyberattack | Console and Associates, P.C. - JDSupra",
+        "url": "https://www.jdsupra.com/legalnews/egyptian-health-department-reports-data-9863424/",
+        "added": "2024-02-28"
+    },
+    {
         "date": "2023-11-22",
         "victim": "Zollikofen",
         "domain": "zollikofen.ch",
