@@ -16,10 +16,9 @@ feed = Rss201rev2Feed(
     description="Flux RSS de suivi, en Français, des cyberattaques rapportées dans la presse internationale. Maintenu par Valéry Rieß-Marchive (LeMagIT).", )
 
 locale.setlocale(locale.LC_TIME, 'fr_FR.UTF-8')
-sorted_items = sorted(data, key=lambda x: x["added"], reverse=True)
 
 # Add items to the feed
-for item in sorted_items[:20]:
+for item in data[:20]:
     date = datetime.strptime(item['date'], '%Y-%m-%d')
     feed.add_item(
         title=item['victim']+' ('+item['country']+') autour du '+date.strftime('%d %B %Y')+'.',
