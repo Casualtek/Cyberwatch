@@ -1,6 +1,16 @@
 [
     {
-        "date": "2024-01-29",
+        "date": "2024-02-29",
+        "victim": "Bad Schwalbach",
+        "domain": "bad-schwalbach.de",
+        "country": "DEU",
+        "summary": "Suite à une présumée attaque de pirates informatiques, le système de la ville de Bad Schwalbach (Rheingau-Taunus) a été mis hors service. Toutes les connexions Internet ont été coupées par précaution, et l'administration municipale n'est actuellement accessible que par téléphone et par une boîte e-mail externe. Des "anomalies" dans une application ont été détectées il y a deux semaines, et des investigations ont révélé un "incident de sécurité".",
+        "title": "Hackerangriff auf Stadtverwaltung in Bad Schwalbach | hessenschau.de | Panorama",
+        "url": "https://www.hessenschau.de/panorama/hackerangriff-auf-stadtverwaltung-in-bad-schwalbach-v1,kurz-angriff-180.html",
+        "added": "2024-02-29"
+    },
+    {
+        "date": "2024-02-28",
         "victim": "Université de Management et Technologie (UMT)",
         "domain": "umt.edu.pk",
         "country": "PAK",
