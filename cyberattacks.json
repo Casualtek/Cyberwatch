@@ -1,5 +1,15 @@
 [
     {
+        "date": "2023-01-26",
+        "victim": "Muscatine Power and Water (MPW)",
+        "domain": "mpw.org",
+        "country": "USA",
+        "summary": "Muscatine Power and Water (MPW) travaille avec un groupe d'experts indépendants pour se remettre d'une cyberattaque par ransomware survenue le 26 janvier, qui a potentiellement compromis les données des clients actuels et passés. Aucun cas d'usurpation d'identité n'a été signalé, mais par précaution, MPW offre des services de surveillance de crédit et de protection contre le vol d'identité à tous les clients concernés. L'entreprise a sécurisé ses systèmes et mis en place des protections supplémentaires pour réduire le risque de futures cyberattaques.",
+        "title": "Muscatine Power and Water investigation into cyberattack continues",
+        "url": "https://qctimes.com/muscatine/news/local/muscatine-power-and-water-investigation-into-cyberattack-continues/article_22e6ba0e-cfba-5ebb-829a-21e4ea60f88e.html",
+        "added": "2024-02-29"
+    },
+    {
         "date": "2024-02-29",
         "victim": "Bad Schwalbach",
         "domain": "bad-schwalbach.de",
