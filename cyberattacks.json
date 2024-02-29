@@ -1,5 +1,15 @@
 [
     {
+        "date": "2023-12-14",
+        "victim": "Dupont Restauration",
+        "domain": "dupont-restauration.fr",
+        "country": "FRA",
+        "summary": "La plateforme Restoconnect, utilisée pour la réservation des repas dans les cantines scolaires de Nîmes, est inaccessible depuis le 14 décembre à la suite d'une cyberattaque contre Dupont Restauration, le gestionnaire du service. Aucune donnée personnelle n'a été compromise, mais l'incident a entraîné des difficultés pour les familles qui ne peuvent plus réserver ni recevoir de factures. Le maire de Nîmes a annoncé un échelonnement des paiements pour alléger la charge financière des familles une fois que la plateforme sera rétablie, sans toutefois préciser de date de retour à la normale.",
+        "title": "NÎMES Problème de réservation à la cantine : la plateforme Restoconnect toujours inaccessible",
+        "url": "https://www.objectifgard.com/actualites/nimes-probleme-de-reservation-a-la-cantine-la-plateforme-restoconnect-toujours-inaccessible-123902.php",
+        "added": "2024-02-29"
+    },
+    {
         "date": "2023-01-26",
         "victim": "Muscatine Power and Water (MPW)",
         "domain": "mpw.org",
