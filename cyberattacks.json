@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-02-18",
+        "victim": "Intercos",
+        "domain": "intercos.com",
+        "country": "ITA",
+        "summary": "Intercos, une entreprise cotée sur Euronext Milan et active dans le secteur de la cosmétique, a subi une cyberattaque et travaille activement à la résolution de la situation pour reprendre ses activités normales. Les systèmes ERP (SAP et AS400), les sites web institutionnels et les applications critiques ont été restaurés et sont progressivement déployés sur tous les ordinateurs vérifiés comme sécurisés. La capacité de production de tous les sites d'Intercos augmente progressivement, bien que cela varie selon le degré de contamination des systèmes, et jusqu'à présent, aucune fuite de données n'a été détectée sur le Dark Web.",
+        "title": "Intercos aggiorna su cyberattacco: siti operano con capacità sempre crescente",
+        "url": "https://finanza.ilsecoloxix.it/News/2024/03/01/intercos-aggiorna-su-cyberattacco-siti-operano-con-capacita-sempre-crescente/MTQ1XzIwMjQtMDMtMDFfVExC",
+        "added": "2024-03-01"
+    },
+    {
         "date": "2024-02-29",
         "victim": "Mediplast",
         "domain": "mediplast.se",
