@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-02-16",
+        "victim": "AB Texel",
+        "domain": "abtexel.nl",
+        "country": "NLD",
+        "summary": "La société de transport routier AB Texel a été victime d'une cyberattaque par ransomware menée par le groupe de hackers Cactus, qui avait précédemment ciblé Schneider Electric. Malgré l'attaque survenue le 16 février, l'entreprise affirme que cela n'a pas eu d'impact sur ses services et qu'une opération de restauration a été immédiatement lancée. AB Texel a signalé l'incident à la police et à l'Autorité de protection des données personnelles, et les entreprises logistiques sont de plus en plus ciblées par ce type de cybercriminalité.",
+        "title": "Hackers slaan toe bij AB Texel: ‘geen impact op dienstverlening’ | NT",
+        "url": "https://www.nt.nl/wegvervoer/2024/02/29/hackers-slaan-toe-bij-ab-texel-geen-impact-op-dienstverlening/",
+        "added": "2024-03-01"
+    },
+    {
         "date": "2023-08-11",
         "victim": "Golden Corral",
         "domain": "goldencorral.com",
