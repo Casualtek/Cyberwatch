@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-02-20",
+        "victim": "Willamette University",
+        "domain": "willamette.edu",
+        "country": "USA",
+        "summary": "L'Université Willamette se remet d'une cyberattaque majeure survenue le soir du 20 février 2024, juste après une journée dédiée à la technologie où des sujets tels que l'intelligence artificielle et la cybersécurité ont été abordés. Suite à l'attaque, le site web de l'université, les téléphones et le réseau wifi ont été hors service, affectant également le campus de Portland, le Pacific Northwest College of Art. Bien que des systèmes aient été restaurés, l'université travaille toujours à la récupération complète et le FBI assiste dans l'enquête, sans divulguer de détails sur l'incident.",
+        "title": "Willamette University recovering from cyberattack that followed its Tech Day - Salem Reporter",
+        "url": "https://www.salemreporter.com/2024/02/29/willamette-university-recovering-from-cyberattack-that-followed-its-tech-day/",
+        "added": "2024-03-01"
+    },
+    {
         "date": "2023-12-04",
         "victim": "Baden",
         "domain": "baden.ch",
