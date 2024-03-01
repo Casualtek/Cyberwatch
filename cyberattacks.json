@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-02-29",
+        "victim": "Mediplast",
+        "domain": "mediplast.se",
+        "country": "SWE",
+        "summary": "L'entreprise Mediplast, fournisseur de matériel médical pour la région de Västerbotten en Suède, a été victime d'une cyberattaque, affectant la livraison de produits essentiels utilisés dans les opérations chirurgicales. La région a activé un état d'urgence pour surveiller la situation et évalue la possibilité de recourir à d'autres fournisseurs, tout en disposant d'un stock suffisant pour gérer à court terme. Les responsables prévoient que les problèmes de livraison pourraient persister pendant plusieurs jours, mais ne voient pas de défis immédiats tant que le stock actuel est disponible.",
+        "title": "Region Västerbotten i stabsläge efter cyberattack mot leverantör | SVT Nyheter",
+        "url": "https://www.svt.se/nyheter/lokalt/vasterbotten/region-vasterbotten-i-stabslage-efter-it-storningar-hos-leverantor",
+        "added": "2024-03-01"
+    },
+    {
         "date": "2024-02-16",
         "victim": "AB Texel",
         "domain": "abtexel.nl",
