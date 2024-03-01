@@ -1,5 +1,15 @@
 [
     {
+        "date": "2023-02-17",
+        "victim": "Richland Community College",
+        "domain": "richland.edu",
+        "country": "USA",
+        "summary": "Richland Community College a été victime d'une cyberattaque le 17 février, entraînant des perturbations importantes de ses systèmes, notamment la mise hors service des serveurs réseau, des téléphones et de certains e-mails départementaux. Bien que les cours en personne se poursuivent et que l'accès aux cours en ligne soit maintenu via le système \"Canvas\", l'établissement travaille avec des professionnels de la cybersécurité pour rétablir les opérations normales. Aucune information supplémentaire n'a été partagée sur la nature de l'attaque ou sur l'état d'avancement de la résolution des problèmes.",
+        "title": "Issues remain following cyber attack at Richland Community College",
+        "url": "https://herald-review.com/news/local/crime-courts/issues-remain-following-cyber-attack-at-richland-community-college/article_f8ecf942-d752-11ee-98bd-c357a4db0028.html",
+        "added": "2024-03-01"
+    },
+    {
         "date": "2024-02-20",
         "victim": "Willamette University",
         "domain": "willamette.edu",
