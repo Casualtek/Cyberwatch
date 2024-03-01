@@ -1,5 +1,15 @@
 [
     {
+        "date": "2023-08-11",
+        "victim": "Golden Corral",
+        "domain": "goldencorral.com",
+        "country": "USA",
+        "summary": "La chaîne de restaurants Golden Corral a subi une violation de données en août 2023, affectant les informations personnelles d'environ 183 000 personnes, y compris des clients et des employés actuels et passés. Après avoir découvert l'incident, Golden Corral a informé les autorités fédérales, lancé une enquête et mis en place des mesures de sécurité supplémentaires, offrant également 24 mois de services de surveillance de crédit aux personnes affectées. Cet incident s'inscrit dans une série d'attaques cybernétiques récentes visant des infrastructures critiques, soulignant une augmentation des violations de données dans divers secteurs.",
+        "title": "Golden Corral Restaurant Discloses Data Breach Affecting 183,000 People | Tech Times",
+        "url": "https://www.techtimes.com/articles/302192/20240301/golden-corral-restaurant-discloses-data-breach-affecting-183-000-people.htm",
+        "added": "2024-03-01"
+    },
+    {
         "date": "2023-02-17",
         "victim": "Richland Community College",
         "domain": "richland.edu",
