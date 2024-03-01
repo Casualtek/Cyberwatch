@@ -1,5 +1,15 @@
 [
     {
+        "date": "2023-12-04",
+        "victim": "Baden",
+        "domain": "baden.ch",
+        "country": "CHE",
+        "summary": "Suite à une cyberattaque sur la ville de Baden en décembre, où des données ont été volées, une soixantaine de citoyens se sont renseignés auprès d'une cellule de crise mise en place, avec dix personnes affectées par le vol de données personnelles. Les données compromises incluaient des noms, des adresses e-mail et, dans certains cas, une combinaison de plusieurs informations personnelles. La ville a renforcé ses mesures de sécurité, notamment en sensibilisant ses employés et en collaborant davantage avec des experts externes.",
+        "title": "Kriminalität: Dutzende Anfragen bei Meldestelle nach Cyberangriff auf Stadt Baden | blue News",
+        "url": "https://www.bluewin.ch/de/newsregional/nord/dutzende-anfragen-bei-meldestelle-nach-cyberangriff-auf-stadt-baden-2105435.html",
+        "added": "2024-03-01"
+    },
+    {
         "date": "2023-12-14",
         "victim": "Dupont Restauration",
         "domain": "dupont-restauration.fr",
