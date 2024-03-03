@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-03-01",
+        "victim": "Hansab",
+        "domain": "hansab.ee",
+        "country": "EST",
+        "summary": "Suite à un incident cybernétique, la société de sécurité et de logiciels Hansab a subi des perturbations importantes de ses systèmes informatiques, mais les opérations bancaires en Estonie, y compris les distributeurs automatiques, les paiements par carte et la banque en ligne, n'ont pas été affectées grâce à l'intervention rapide de la Banque d'Estonie. Hansab a collaboré avec l'Autorité de l'État pour les Systèmes d'Information pour restaurer rapidement les services perturbés, démontrant la résilience de l'infrastructure bancaire estonienne face aux menaces cybernétiques.",
+        "title": "Hansab Cyber Incident Disrupts IT Systems, Estonia's Banking Operations Remain Unaffected",
+        "url": "https://bnnbreaking.com/tech/cybersecurity/hansab-cyber-incident-disrupts-it-systems-estonias-banking-operations-remain-unaffected",
+        "added": "2024-03-03"
+    },
+    {
         "date": "2024-02-18",
         "victim": "Intercos",
         "domain": "intercos.com",
