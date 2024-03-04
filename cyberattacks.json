@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-02-15",
+        "victim": "Franz Carl Weber",
+        "domain": "fcw.ch",
+        "country": "CHE",
+        "summary": "La bande de ransomware Black Basta a revendiqué une cyberattaque contre le détaillant de jouets Franz Carl Weber, affirmant avoir volé plus de 700 GB de données, y compris des documents comptables, des données personnelles d'employés et des fichiers du département des ressources humaines. En guise de preuve, ils ont publié des copies de passeports, de cartes d'identité et d'autres documents personnels. La chaîne de drogueries allemande Müller, maison mère de Franz Carl Weber, a confirmé l'attaque et a informé les autorités compétentes, mais n'a pas révélé la méthode d'attaque ni si elle envisage de payer la rançon demandée.",
+        "title": "Cyberkriminelle stehlen schützenswerte Daten von Franz Carl Weber",
+        "url": "https://www.inside-it.ch/cyberkriminelle-stehlen-schuetzenswerte-daten-von-franz-carl-weber-20240301",
+        "added": "2024-03-04"
+    },
+    {
         "date": "2024-03-01",
         "victim": "Hansab",
         "domain": "hansab.ee",
