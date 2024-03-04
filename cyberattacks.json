@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-02-09",
+        "victim": "Auxo",
+        "domain": "auxosoftware.com",
+        "country": "NZL",
+        "summary": "Auxo, un fournisseur de logiciels pour le secteur automobile en Nouvelle-Zélande, a été victime d'une cyberattaque internationale qui a entraîné le vol de données confidentielles de clients. La société a réagi rapidement en obtenant une ordonnance restrictive de la Haute Cour pour tenter de prévenir l'utilisation abusive des données volées. Cet incident met en évidence la menace croissante du cybercrime et souligne la nécessité pour les entreprises de renforcer leurs mesures de cybersécurité.",
+        "title": "Cyber Attack on Auxo Threatens National Car Dealerships, Firm Seeks High Court Aid",
+        "url": "https://bnnbreaking.com/tech/cybersecurity/cyber-attack-on-auxo-threatens-national-car-dealerships-firm-seeks-high-court-aid",
+        "added": "2024-03-04"
+    },
+    {
         "date": "2024-02-28",
         "victim": "El Debate",
         "domain": "debate.com.mx",
