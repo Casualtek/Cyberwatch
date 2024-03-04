@@ -1,5 +1,55 @@
 [
     {
+        "date": "2023-12-26",
+        "victim": "MedQ, Inc.",
+        "domain": "medq.com",
+        "country": "USA",
+        "summary": "MedQ, Inc., un fournisseur de services administratifs pour des entités couvertes par la HIPAA, a été victime d'une attaque par rançongiciel autour du 26 décembre 2023. Certains des serveurs utilisés par la plateforme MedQ et hébergés sur une plateforme tierce ont été chiffrés lors de l'attaque. L'enquête médico-légale a confirmé que des fichiers ont été copiés à partir des serveurs entre le 20 et le 26 décembre 2023, avant le chiffrement des fichiers.",
+        "title": "Cogdell Memorial Hospital Cyberattack Affects 87,000 Patients",
+        "url": "https://www.hipaajournal.com/cogdell-memorial-hospital-cyberattack-affects-87000-patients/",
+        "added": "2024-03-04"
+    },
+    {
+        "date": "2023-12-19",
+        "victim": "Mental Health Center of North Central Alabama",
+        "domain": "mhcna.org",
+        "country": "USA",
+        "summary": "Le Centre de santé mentale du Nord de l'Alabama a informé 1 000 personnes d'un accès non autorisé à leurs informations de santé protégées. La violation a été détectée le 19 décembre 2023 et bien que l'enquête soit toujours en cours, il a été confirmé qu'il y avait eu un accès non autorisé à certains systèmes pendant une courte période en décembre.",
+        "title": "Cogdell Memorial Hospital Cyberattack Affects 87,000 Patients",
+        "url": "https://www.hipaajournal.com/cogdell-memorial-hospital-cyberattack-affects-87000-patients/",
+        "added": "2024-03-04"
+    },
+    {
+        "date": "2023-08-27",
+        "victim": "Santa Clarita Community College District",
+        "domain": "canyons.edu",
+        "country": "USA",
+        "summary": "Le Santa Clarita Community College District a confirmé que les informations de santé protégées de 2 324 personnes ont été compromises lors d'une violation de données chez son associé commercial, le cabinet de conseil et de courtage basé à Torrance, Keenan & Associates. Le 27 août 2023, Keenan & Associates a identifié une intrusion lorsque des perturbations se sont produites sur ses serveurs réseau. L'enquête médico-légale a confirmé qu'il y avait eu un accès non autorisé aux systèmes entre le 21 août 2023 et le 27 août 2023, période pendant laquelle des fichiers ont été retirés de ses systèmes.",
+        "title": "Cogdell Memorial Hospital Cyberattack Affects 87,000 Patients",
+        "url": "https://www.hipaajournal.com/cogdell-memorial-hospital-cyberattack-affects-87000-patients/",
+        "added": "2024-03-04"
+    },
+    {
+        "date": "2023-08-28",
+        "victim": "Hospice of Huntington",
+        "domain": "hospiceofhuntington.org",
+        "country": "USA",
+        "summary": "Le Hospice of Huntington en Virginie-Occidentale a informé 9 013 personnes que certaines de leurs informations de santé protégées ont été exposées lors d'un incident de sécurité survenu le 28 août 2023. L'enquête médico-légale et l'examen des fichiers ont été achevés le 18 décembre 2023 et ont confirmé que des fichiers avaient été retirés de ses systèmes le 25 août 2023. L'attaque a été revendiquée par Karakurt le 22 septembre 2023.",
+        "title": "Cogdell Memorial Hospital Cyberattack Affects 87,000 Patients",
+        "url": "https://www.hipaajournal.com/cogdell-memorial-hospital-cyberattack-affects-87000-patients/",
+        "added": "2024-03-04"
+    },
+    {
+        "date": "2023-10-10",
+        "victim": "Cogdell Memorial Hospital",
+        "domain": "cogdellhospital.com",
+        "country": "USA",
+        "summary": "L'article rapporte une cyberattaque survenue au Cogdell Memorial Hospital au Texas, où les données personnelles et médicales de 87 000 patients ont été potentiellement compromises. L'hôpital a sécurisé son réseau et mène une enquête avec une firme de cybersécurité, mais n'a pas offert de services de surveillance de crédit ou de protection contre le vol d'identité aux victimes. L'attaque a été revendiquée un moins plus tard par Lorenz.",
+        "title": "Cogdell Memorial Hospital Cyberattack Affects 87,000 Patients",
+        "url": "https://www.hipaajournal.com/cogdell-memorial-hospital-cyberattack-affects-87000-patients/",
+        "added": "2024-03-04"
+    },
+    {
         "date": "2024-02-09",
         "victim": "Auxo",
         "domain": "auxosoftware.com",
