@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-03-04",
+        "victim": "FINTRAC (Financial Transactions and Reports Analysis Centre of Canada)",
+        "domain": "fintrac-canafe.canada.ca",
+        "country": "CAN",
+        "summary": "L'agence canadienne de renseignement financier, FINTRAC, a été contrainte de déconnecter ses systèmes d'entreprise suite à un incident de cybersécurité survenu pendant le week-end. Bien que la nature de l'incident n'ait pas été révélée, l'agence a précisé que cela n'impliquait pas ses systèmes de renseignement ou classifiés et qu'elle travaille avec ses partenaires fédéraux pour protéger et restaurer ses systèmes.",
+        "title": "Cyberattack forces Canada’s financial intelligence agency to take systems offline",
+        "url": "https://therecord.media/canada-fintrac-cyberattack-systems-offline",
+        "added": "2024-03-05"
+    },
+    {
         "date": "2024-02-27",
         "victim": "DRK-Kreisverband Mannheim",
         "domain": "drk-mannheim.de",
