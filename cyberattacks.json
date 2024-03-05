@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-02-29",
+        "victim": "Companies and Intellectual Property Commission (CIPC)",
+        "domain": "cipc.co.za",
+        "country": "ZAF",
+        "summary": "Le système de la Commission des sociétés et de la propriété intellectuelle (CIPC) en Afrique du Sud a été la cible d'une cyberattaque, entraînant la compromission de données personnelles de clients et d'employés. Les techniciens en TIC de la CIPC ont rapidement détecté et isolé la menace, permettant de restaurer les systèmes affectés, mais des informations personnelles ont été exposées avant l'intervention. La CIPC a conseillé à ses clients de surveiller leurs transactions par carte de crédit et travaille activement à minimiser l'impact de cette exposition de données.",
+        "title": "CIPC system latest victim of increasing cyber attacks",
+        "url": "https://www.iol.co.za/the-star/news/cipc-system-latest-victim-of-increasing-cyber-attacks-4f7c70d3-3925-45a1-ab9b-d8beb469fa60",
+        "added": "2024-03-05"
+    },
+    {
         "date": "2023-12-26",
         "victim": "MedQ, Inc.",
         "domain": "medq.com",
