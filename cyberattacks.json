@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-02-27",
+        "victim": "DRK-Kreisverband Mannheim",
+        "domain": "drk-mannheim.de",
+        "country": "DEU",
+        "summary": "Le district de Mannheim de la Croix-Rouge allemande (DRK) a été victime d'une cyberattaque. Selon le DRK de Mannheim, l'attaque a eu lieu dans la nuit du 27 février. Une conséquence de cette attaque est que l'accessibilité téléphonique du district ainsi que le contact par e-mail sont actuellement restreints.",
+        "title": "Cyberangriff auf DRK-Kreisverband Mannheim",
+        "url": "https://www.mannheimer-morgen.de/orte/mannheim_artikel,-mannheim-cyberangriff-auf-drk-kreisverband-mannheim-_arid,2182684.html",
+        "added": "2024-03-05"
+    },
+    {
         "date": "2024-02-29",
         "victim": "Companies and Intellectual Property Commission (CIPC)",
         "domain": "cipc.co.za",
