@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-03-06",
+        "victim": "Brasserie Duvel Moortgat",
+        "domain": "duvelmoortgat.com",
+        "country": "BEL",
+        "summary": "La brasserie Duvel Moortgat, située à Breendonk, a été victime d'une cyberattaque par ransomware, entraînant l'arrêt de toutes ses activités. Les alarmes de l'IT ont été déclenchées à 1h30 du matin et la production a été immédiatement suspendue, avec une reprise incertaine prévue peut-être pour le jour suivant ou celui d'après. La brasserie produit non seulement la célèbre bière Duvel, mais aussi Vedett et les bières Maredsous, et il n'est pas encore clair si les autres sites de Duvel Moortgat ont été affectés, bien que la brasserie dispose d'un stock suffisant pour gérer l'arrêt de production.",
+        "title": "Brouwerij Duvel Moortgat slachtoffer van cyberaanval: alle activiteiten in Breendonk stopgezet (Puurs-Sint-Amands) | Het Nieuwsblad",
+        "url": "https://www.nieuwsblad.be/cnt/dmf20240306_93872357",
+        "added": "2024-03-06"
+    },
+    {
         "date": "2022-11-22",
         "victim": "Northeast Orthopedics and Sports Medicine",
         "domain": "northeastorthopedics.com",
