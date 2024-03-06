@@ -1,5 +1,15 @@
 [
     {
+        "date": "2022-11-22",
+        "victim": "Northeast Orthopedics and Sports Medicine",
+        "domain": "northeastorthopedics.com",
+        "country": "USA",
+        "summary": "Le fournisseur de soins de santé New-Yorkais Northeast Orthopedics and Sports Medicine a été victime d'une cyberattaque qui a compromis les données personnelles de plus de 177 000 personnes, dont des patients, révélant des informations sensibles telles que les numéros de sécurité sociale, les informations de permis de conduire, et les détails médicaux. L'entreprise a détecté l'activité suspecte le 22 novembre et a confirmé l'accès non autorisé le 29 décembre, mais n'a rendu publique la déclaration que le 9 février, offrant des services de surveillance de crédit et de protection d'identité aux victimes.",
+        "title": "Northeast Orthopedics suffers data breach​ | Cybernews",
+        "url": "https://cybernews.com/news/northeast-orthopedics-suffers-data-breach/",
+        "added": "2024-03-06"
+    },
+    {
         "date": "2024-03-04",
         "victim": "FINTRAC (Financial Transactions and Reports Analysis Centre of Canada)",
         "domain": "fintrac-canafe.canada.ca",
