@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-01-07",
+        "victim": "Hyundai Motor Europe",
+        "domain": "hyundai-europe.com",
+        "country": "DEU",
+        "summary": "Hyundai Motor Europe a été victime d'une attaque de ransomware Black Basta, au cours de laquelle les cybercriminels affirment avoir volé trois téraoctets de données d'entreprise. Bien que Hyundai ait initialement déclaré faire face à des problèmes informatiques, l'entreprise a ensuite confirmé l'attaque après que des informations supplémentaires sur le vol de données aient été partagées avec eux. Black Basta, qui serait une émanation de l'opération de ransomware Conti, est connu pour ses attaques de double extorsion et aurait reçu plus de 100 millions de dollars en paiements de rançon depuis son lancement en avril 2022.",
+        "title": "Hyundai Motor Europe hit by Black Basta ransomware attack",
+        "url": "https://www.bleepingcomputer.com/news/security/hyundai-motor-europe-hit-by-black-basta-ransomware-attack/",
+        "added": "2024-03-06"
+    },
+    {
         "date": "2024-03-06",
         "victim": "Brasserie Duvel Moortgat",
         "domain": "duvelmoortgat.com",
