@@ -1,6 +1,16 @@
 [
     {
         "date": "2024-03-07",
+        "victim": "Beyers Koffie",
+        "domain": "beyerskoffie.com",
+        "country": "BEL",
+        "summary": "L'entreprise Beyers Koffie a été victime d'une cyberattaque, suivant un incident similaire qui a affecté la brasserie Duvel-Moortgat plus tôt dans la semaine. La production chez Duvel-Moortgat a dû être arrêtée en conséquence de l'attaque. Les répercussions exactes de l'attaque sur Beyers Koffie ne sont pas encore connues.",
+        "title": "Nu ook Beyers Koffie slachtoffer van cyberaanval | RTV",
+        "url": "https://www.rtv.be/actualiteit/nu-ook-beyers-koffie-slachtoffer-van-cyberaanval",
+        "added": "2024-03-08"
+    },
+    {
+        "date": "2024-03-07",
         "victim": "Administradora de Subsidios Sociales (ADESS)",
         "domain": "adess.gob.do",
         "country": "DOM",
