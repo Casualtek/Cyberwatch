@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-03-07",
+        "victim": "Administradora de Subsidios Sociales (ADESS)",
+        "domain": "adess.gob.do",
+        "country": "DOM",
+        "summary": "La Administradora de Subsidios Sociales (ADESS) de la République Dominicaine a été victime d'une cyberattaque par le groupe criminel « Blackcat », qui a temporairement affecté ses systèmes opérationnels. L'intervention rapide des équipes de sécurité informatique, en collaboration avec diverses autorités nationales de cybersécurité, a permis de protéger les données et d'assurer la continuité des opérations. Malgré l'attaque, ADESS assure que le calendrier des paiements des subventions sociales ne sera pas perturbé et encourage les bénéficiaires à continuer de participer aux opérations de remplacement des cartes magnétiques par des cartes à puce.",
+        "title": "Subsidios Sociales (ADESS) informa ataque cibernético a su Data Center",
+        "url": "https://www.elcaribe.com.do/panorama/pais/administradora-de-subsidios-sociales-adess-denuncia-ataque-cibernetico-a-su-data-center/",
+        "added": "2024-03-08"
+    },
+    {
         "date": "2024-03-04",
         "victim": "South St. Paul Public Schools",
         "domain": "sspps.org",
