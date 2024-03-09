@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-03-09",
+        "victim": "Leicester City Council",
+        "domain": "leicester.gov.uk",
+        "country": "GBR",
+        "summary": "Le conseil municipal de Leicester City a fermé certains de ses systèmes informatiques suite à un incident de cybersécurité. Richard Sword, directeur stratégique des développements urbains et des quartiers, a confirmé cette mesure préventive. Cette action fait suite à des incidents similaires qui ont affecté plusieurs autres autorités locales ces derniers mois.",
+        "title": "Leicester City Council systems shut down after 'cyber incident' - BBC News",
+        "url": "https://www.bbc.com/news/uk-england-leicestershire-68517678",
+        "added": "2024-03-09"
+    },
+    {
         "date": "2023-06-15",
         "victim": "Kids Care Dental & Orthodontics",
         "domain": "kidscaredental.com",
