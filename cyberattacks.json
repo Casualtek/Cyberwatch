@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-03-10",
+        "victim": "edpnet",
+        "domain": "edpnet.be",
+        "country": "BEL",
+        "summary": "La société belge de télécommunications edpnet a été victime d'une cyberattaque qui a permis à des individus non autorisés d'accéder à ses systèmes administratifs, mais l'entreprise affirme qu'aucune donnée n'a été volée et que les services de connectivité des clients n'ont pas été affectés. En conséquence de l'attaque, les clients ne peuvent actuellement pas se connecter à leurs comptes, et edpnet a renforcé la sécurité de ses systèmes et travaille avec des experts en cybersécurité.",
+        "title": "Edpnet schakelt klantinlogsystemen uit na cyberaanval, geen data gestolen - Computer - Nieuws - Tweakers",
+        "url": "https://tweakers.net/nieuws/219612/edpnet-schakelt-klantinlogsystemen-uit-na-cyberaanval-geen-data-gestolen.html",
+        "added": "2024-03-11"
+    },
+    {
         "date": "2024-03-08",
         "victim": "Kärntner Landesversicherung (KLV)",
         "domain": "klv.at",
