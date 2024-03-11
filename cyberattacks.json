@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-03-08",
+        "victim": "Kärntner Landesversicherung (KLV)",
+        "domain": "klv.at",
+        "country": "AUT",
+        "summary": "La Kärntner Landesversicherung (KLV), une compagnie d'assurance autrichienne, a été la cible d'une cyberattaque durant le week-end, mais grâce à son système d'alarme, les dommages ont été largement évités et les données des clients n'ont probablement pas été affectées. Cependant, des restrictions temporaires sur les services en ligne sont à prévoir pour les 70 000 clients de la compagnie. Les experts en cybersécurité soulignent l'importance d'avoir des sauvegardes de données efficaces et déconnectées du réseau pour se remettre rapidement d'une telle attaque.",
+        "title": "Cyber-Attacke auf KLV ohne grobe Schäden - kaernten.ORF.at",
+        "url": "https://kaernten.orf.at/stories/3248490/",
+        "added": "2024-03-11"
+    },
+    {
         "date": "2023-07-01",
         "victim": "Eppic Index",
         "domain": "eppicenvae2.org",
