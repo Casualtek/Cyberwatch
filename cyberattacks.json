@@ -1,6 +1,16 @@
 [
     {
         "date": "2024-03-10",
+        "victim": "Town of Huntsville",
+        "domain": "huntsville.ca",
+        "country": "CAN",
+        "summary": "La ville de Huntsville en Ontario a fermé son bureau municipal pour le deuxième jour consécutif et a reporté certaines réunions du conseil en raison d'une enquête sur un incident de cybersécurité détecté pendant le week-end. La municipalité a mis en œuvre son protocole de réponse aux incidents et a pris des mesures pour protéger son réseau, bien qu'aucune preuve de compromission de données sensibles n'ait été trouvée. Cet incident à Huntsville est le deuxième du genre signalé dans une municipalité ontarienne au cours des trois dernières semaines, après une attaque similaire survenue à Hamilton le 25 février.",
+        "title": "Second Ontario municipality reports cybersecurity incident within three weeks | CTV News",
+        "url": "https://northernontario.ctvnews.ca/second-ontario-municipality-reports-cybersecurity-incident-within-three-weeks-1.6804276",
+        "added": "2024-03-12"
+    },
+    {
+        "date": "2024-03-10",
         "victim": "edpnet",
         "domain": "edpnet.be",
         "country": "BEL",
