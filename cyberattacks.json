@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-03-13",
+        "victim": "Maxis",
+        "domain": "maxis.com.my",
+        "country": "MYS",
+        "summary": "L'entreprise malaisienne Maxis a été ciblée par une cyberattaque menée par le groupe de hackers international R00TK1T, mais l'attaque n'a pas entraîné de fuite de données personnelles selon l'Autorité de protection des données personnelles (JPDP). Le ministre du Numérique a informé le Parlement que seul le système d'une boutique ou filiale a été affecté, et ce système était indépendant des systèmes principaux de Maxis. Les autorités malaisiennes, y compris la JPDP, l'Agence de cybersécurité de Malaisie et l'Agence nationale de cybersécurité (NACSA), continueront de surveiller la sécurité des infrastructures numériques du pays et de collaborer avec des ag",
+        "title": "Maxis遭国际骇客组织入侵 | 马来西亚诗华日报新闻网",
+        "url": "https://news.seehua.com/post/1132498",
+        "added": "2024-03-13"
+    },
+    {
         "date": "2024-02-17",
         "victim": "Castle Hill RSL Group (CHRG)",
         "domain": "chrg.com.au",
@@ -3039,7 +3049,7 @@
     {
         "date": "2023-11-27",
         "victim": "Río Grande",
-        "domain": "",
+        "domain": "riogrande.gob.ar",
         "country": "PRI",
         "summary": "Río Grande a été victime d'une attaque cybernétique. Le responsable informatique a constaté une absence de données sur les écrans après avoir remarqué une extraction partielle lundi. Une entreprise de cybersécurité a confirmé une attaque de hackers avec un virus, entraînant des dommages estimés à environ 75 000 $. Le maire assure que la perte de données est minime. Une enquête est en cours.",
         "title": "Ataque cibernético en la casa alcaldía de Río Grande - Telemundo Puerto Rico",
@@ -3264,7 +3274,7 @@
     {
         "date": "2023-11-17",
         "victim": "Gellyberry Studios",
-        "domain": "",
+        "domain": "ethyrialmmo.com",
         "country": "SWE",
         "summary": "Le serveur du jeu en ligne indépendant \"Ethyrial: Echoes of Yore\" a été victime d'une attaque par ransomware, entraînant la perte de 17 000 comptes de joueurs, y compris leurs objets, titres et progression dans le jeu. Les développeurs de Gellyberry Studios ont décidé de reconstruire manuellement chaque compte affecté et d'offrir un animal de compagnie premium en compensation, tout en annonçant des améliorations de sécurité pour éviter de futures attaques. Aucun groupe de ransomware n'a été identifié comme responsable de l'attaque et il est peu probable que les données virtuelles perdues soient menacées de divulgation sur le dark web.",
         "title": "Ransomware hack destroys 17,000 player accounts on indie MMO - Cyber Daily",
@@ -4470,7 +4480,7 @@
     {
         "date": "2023-09-24",
         "victim": "Le consortium de traitement des données des écoles du comté de Pinal",
-        "domain": "",
+        "domain": "pinal.gov",
         "country": "USA",
         "summary": "Une cyberattaque avec ransomware a touché le consortium de traitement des données de 21 districts scolaires du comté de Pinal, aux États-Unis, mettant en péril le paiement des salaires de certains employés. Selon la surintendante du comté de Pinal, Jill Broussard, la plupart du système a été restauré et les districts ont de nouveau accès aux données, sans que les informations des employés aient été compromises. Cependant, certains districts sont toujours en train de finaliser le paiement des salaires, ce qui pose problème car beaucoup d'employés vivent de salaire en salaire.\n",
         "title": "Ransomware attack impacts 21 Pinal County school districts",
@@ -4704,7 +4714,7 @@
     {
         "date": "2023-09-11",
         "victim": "Partenaire de moBiel",
-        "domain": "",
+        "domain": "mobiel.de",
         "country": "DEU",
         "summary": "L'entreprise de transport moBiel, basée à Bielefeld en Allemagne, a été contrainte de prendre des mesures de sécurité suite à une cyberattaque sur un de ses partenaires de coopération. En conséquence, les informations de l'horaire de transport en temps réel ne peuvent plus être mises à jour sur leur application, leur site web, leurs distributeurs de billets et la plupart de leurs affichages aux arrêts de bus. Seules les heures prévues sont désormais affichées. Cependant, les anciens panneaux d'affichage, comme ceux du tunnel Jahnplatz ou de l'arrêt de bus Rathaus, affichent toujours les données en temps réel.",
         "title": "Echtzeit-Anzeigen nicht möglich - Stadtwerke Bielefeld",
@@ -5550,7 +5560,7 @@
     {
         "date": "2023-07-29",
         "victim": "Pensiones Civiles del Estado (PCE)",
-        "domain": "",
+        "domain": "pce.chihuahua.gob.mx",
         "country": "MEX",
         "summary": "Le 29 juillet, Pensiones Civiles del Estado (PCE) a subi une cyberattaque qui a affecté ses services numériques liés aux soins médicaux, à l'administration et aux prestations économiques. En conséquence, PCE met en place un mécanisme alternatif pour répondre aux besoins des bénéficiaires sans support technologique. Des experts travaillent sur la résolution du problème en collaboration avec des entreprises technologiques et les autorités gouvernementales. PCE remercie les utilisateurs pour leur compréhension et leur demande d'utiliser le service uniquement si nécessaire. Toutes les informations officielles sur la situation seront diffusées via les canaux officiels.",
         "title": "Jacarezinho sofre ataque cibernético | Notícias | Baguete",
@@ -5631,7 +5641,7 @@
     {
         "date": "2023-07-24",
         "victim": "Jacarezinho",
-        "domain": "",
+        "domain": "rj.gov.br",
         "country": "BRA",
         "summary": "La ville de Jacarezinho, au Brésil, a été la cible d'une cyberattaque qui a compromis les systèmes informatiques et la base de données de la mairie, perturbant ainsi les services en ligne de la ville. L'attaque a été signalée aux autorités qui enquêtent actuellement sur les auteurs et les motivations de l'acte. La mairie a déclaré qu'elle ne pouvait pas encore donner de date pour le rétablissement complet des systèmes. Les services affectés comprennent l'émission de factures électroniques, les guides de paiement des taxes, la génération de la feuille de paie des employés municipaux et le portail de transparence.",
         "title": "Jacarezinho sofre ataque cibernético | Notícias | Baguete",
@@ -5685,7 +5695,7 @@
     {
         "date": "2023-07-21",
         "victim": "Bureau d'architecture basé à Berne",
-        "domain": "",
+        "domain": "berne.ch",
         "country": "CHE",
         "summary": "Un bureau d'architecture basé à Berne, qui a conçu plusieurs représentations suisses à l'étranger, a été victime d'une cyberattaque. Les pirates informatiques ont volé des informations sensibles et menacent de les publier. Le groupe criminel derrière l'attaque, connu sous le nom d'Abyss, prévoit de publier les données le 1er septembre si une rançon n'est pas payée. Les documents volés comprennent des plans d'objets de représentations à l'étranger, certains étant classifiés. C'est la deuxième fois en quelques semaines que l'administration fédérale suisse est indirectement touchée par une cyberattaque.\n",
         "title": "Hackerangriff: Sensible Daten über Schweizer Botschaften entwendet",
@@ -6243,7 +6253,7 @@
     {
         "date": "2023-06-20",
         "victim": "SUHAN Pty Ltd",
-        "domain": "",
+        "domain": "vicenergysavers.com.au",
         "country": "AUS",
         "summary": "Data from Shodan shows a host used by SUHAN Pty Ltd that was compromised by BlackHunt ransomware.",
         "title": "WARNING WARNING WARNING",
@@ -6270,7 +6280,7 @@
     {
         "date": "2023-06-19",
         "victim": "KAMIJO",
-        "domain": "",
+        "domain": "kjm.co.jp",
         "country": "JPN",
         "summary": "La société KAMIJO a subi une cyberattaque sur ses serveurs le 19 juin 2023, avec une infection potentielle par un ransomware qui a entraîné l'encryption de certains fichiers de système d'exploitation. L'attaque a été détectée le 14 juin 2023, après la découverte d'un accès non autorisé à leur réseau le 12 juin à 2 heures du matin, et l'encryption des données a commencé le 14 juin à 3 heures du matin. Bien qu'aucune preuve concrète d'exfiltration de données personnelles n'ait été trouvée, la société ne peut pas exclure la possibilité d'une fuite de certaines données personnelles de clients.",
         "title": "当社サーバへの不正アクセスに関するご報告とお詫び | KAMIJO 上條器械店",
@@ -6963,7 +6973,7 @@
     {
         "date": "2023-05-24",
         "victim": "Un concessionnaire automobile dans le district de Straubing",
-        "domain": "",
+        "domain": "n/a",
         "country": "DEU",
         "summary": "Un concessionnaire automobile dans le district de Straubing a été victime d'une attaque de ransomware. Les données ont été chiffrées et les propriétaires de l'entreprise ont contacté la police. Une équipe spéciale de la police a été déployée pour aider à enquêter sur l'attaque. Le montant des dommages causés n'a pas encore été chiffré. La police a conseillé aux entreprises de se protéger contre les attaques en mettant en place des stratégies de sauvegarde de données et en mettant à jour régulièrement leurs mesures de sécurité informatique.",
         "title": "Cyberangriff auf Autohaus im Landkreis Straubing: Kripo-Spezialeinheit im Einsatz",
@@ -7197,7 +7207,7 @@
     {
         "date": "2023-05-16",
         "victim": "Gorizia in Bici",
-        "domain": "",
+        "domain": "n/a",
         "country": "ITA",
         "summary": "Une attaque de hackers a eu lieu à Gorizia. Le bike sharing transfrontalier a été ralenti en conséquence. L'attaque a eu lieu le 16 mai 2023. L'article a été mis à jour à 21h41. La lecture de l'article prend environ 2 minutes.",
         "title": "Attacco hacker a Gorizia, rallentato il bike sharing transfrontaliero - Il Piccolo",
@@ -7323,7 +7333,7 @@
     {
         "date": "2023-05-11",
         "victim": "Red Bus",
-        "domain": "",
+        "domain": "n/a",
         "country": "ARG",
         "summary": "L'entreprise Red Bus a subi une cyberattaque qui empêche les utilisateurs de recharger leur carte de transport urbain à Córdoba, en Argentine. Bien que la plupart des points de recharge aient encore du crédit disponible, certains sont fermés et affichent \"sans solde\". Les utilisateurs peuvent utiliser leur carte jusqu'à quatre voyages avec un solde négatif, mais devront compenser le solde une fois que le système sera de nouveau opérationnel. La Municipalité de Córdoba a autorisé deux voyages supplémentaires avec un solde négatif. Red Bus estime que le système sera rétabli dans les prochaines heures.",
         "title": "Tarjeta Red Bus: qué pasa si no puedo recargarla para viajar por el ciberataque",
@@ -7467,7 +7477,7 @@
     {
         "date": "2023-05-06",
         "victim": "Fournisseur IT de HVC",
-        "domain": "",
+        "domain": "n/a",
         "country": "NLD",
         "summary": "Le fournisseur informatique de l'entreprise énergétique HVC a été victime d'une cyberattaque. Les données des clients ont été affectées, entraînant des problèmes de connexion et de facturation. Le problème a été résolu, mais les clients ne peuvent toujours pas accéder à leur portail personnel. HVC a informé les clients de l'incident et a présenté ses excuses, mais affirme que les données des clients n'ont probablement pas été compromises. L'entreprise n'a pas payé de rançon aux cybercriminels.",
         "title": "IT-leverancier van energiebedrijf HVC getroffen door cyberaanval",
@@ -7476,7 +7486,7 @@
     {
         "date": "2023-05-06",
         "victim": "PME/ETI en Ile-de-France avec 300-500 salariés",
-        "domain": "",
+        "domain": "n/a",
         "country": "FRA",
         "summary": "AISI, une entreprise de cybersécurité, aide une PME/ETI victime d'une attaque ransomware depuis dimanche dernier. L'entreprise victime est une structure en IDF avec 300-500 salariés. Dès que l'attaque a été signalée, AISI a pris contact avec le client dans les 10 minutes qui ont suivi. Les équipes d'AISI ont créé une War Room et ont collecté les logs de toutes les VMs, démarrant ainsi une investigation pour identifier la souche/groupe d'attaquants et transférer les données à restaurer à l'équipe spécialisée en recovery. Pendant les deux jours suivants, AISI a continué l'investigation, accompagné le client dans la reconstruction et supervisé en temps réel. Cependant, il y a eu plusieurs problèmes auxquels il fallait faire face. Par exemple, le client n'a pas pu couper internet car la direction ne le souhaitait pas, et il a été difficile de transférer toutes les données de son hébergeur vers la team de restauration, ce qui a entraîné une perte de plus de 48 heures. De plus, il y a eu des sollicitations commerciales avec des coûts et des offres très différentes qui ont souvent été peu pertinentes. Le client a été passé sous SOC dès lundi pour limiter les risques avec un monitoring fin des IOCs/IOAs des attaquants et le déploiement de SentinelOne.",
         "title": "Comment AISI aide une entreprise victime d'un ransomware depuis dimanche dernier",
@@ -8151,7 +8161,7 @@
     {
         "date": "2023-04-13",
         "victim": "Future Inn",
-        "domain": "",
+        "domain": "n/a",
         "country": "JPN",
         "summary": "Plus de 90 conseils municipaux à travers le Japon ont été touchés par une cyberattaque qui a entraîné l'arrêt des services de diffusion en ligne et de recherche de procès-verbaux. Le système informatique de ces conseils municipaux est géré par une entreprise de Nagoya. Cette entreprise a confirmé que des serveurs ont été touchés par une attaque de virus informatique. Les données personnelles n'ont pas été compromises. L'entreprise a annoncé que les services seront rétablis le 14 avril.",
         "title": "地方議会にシステム障害 ９０以上、サイバー攻撃で - 産経ニュース",
@@ -8745,7 +8755,7 @@
     {
         "date": "2023-01-15",
         "victim": "Le département de l'éducation de Bâle",
-        "domain": "",
+        "domain": "ed.bs.ch",
         "country": "CHE",
         "summary": "Des hackers ont réussi à s'introduire dans le système informatique du département de l'éducation de Bâle, en Suisse, pour voler environ 1,2 téraoctet de données. Les hackers ont tenté d'extorquer de l'argent en échange de la restitution des données, mais le département n'a pas cédé à leur demande. Les données volées comprennent des informations personnelles sur les élèves et les enseignants, des rapports d'évaluation et des bulletins de notes. Les hackers ont été identifiés comme faisant partie d'un groupe appelé \"Bianlian\", qui a déjà attaqué plus de 100 entreprises et institutions dans le monde entier. Le département de l'éducation a déposé une plainte auprès du procureur contre",
         "title": "Grosser Cyberangriff - Kinder betroffen: Daten des Basler Erziehungsdepartements gehackt - News - SRF",
