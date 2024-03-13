@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-02-17",
+        "victim": "Castle Hill RSL Group (CHRG)",
+        "domain": "chrg.com.au",
+        "country": "AUS",
+        "summary": "Le groupe australien Castle Hill RSL Group (CHRG) a été victime d'une cyberattaque par le gang de ransomware 8Base, qui prétend avoir exfiltré des données sensibles et a publié une entrée sur son site de fuite le 28 février avec une échéance pour la rançon fixée au 6 mars. CHRG a informé ses membres d'un \"incident cybernétique\" détecté le 17 février, mais affirme que les enquêtes n'ont pas montré d'impact sur sa base de données de membres ou ses systèmes de point de vente. CHRG collabore avec les autorités et les experts en cybersécurité pour enquêter sur l'incident et a promis de communiquer de manière transparente avec les membres potentiellement",
+        "title": "Aussie RSL group falls victim to 8Base ransomware attack - Cyber Daily",
+        "url": "https://www.cyberdaily.au/security/10313-aussie-rsl-group-falls-victim-to-8base-ransomware-attack",
+        "added": "2024-03-13"
+    },
+    {
         "date": "2024-03-06",
         "victim": "Nisqually Red Wind Casino",
         "domain": "redwindcasino.com",
