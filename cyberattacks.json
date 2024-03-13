@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-03-10",
+        "victim": "MarineMax",
+        "domain": "marinemax.com",
+        "country": "USA",
+        "summary": "MarineMax, l'un des plus grands vendeurs de bateaux au monde, a signalé à la Securities and Exchange Commission (SEC) une cyberattaque qui a perturbé ses opérations, débutée dimanche. La société a mis en œuvre ses protocoles de réponse aux incidents et de continuité des activités, entraînant des perturbations, mais a continué à opérer et a engagé des experts en cybersécurité pour enquêter. MarineMax n'a pas confirmé si des données ont été volées, mais a indiqué que les données sensibles n'étaient pas stockées dans l'environnement informatique affecté par l'incident, et l'impact matériel sur les opérations de l'entreprise reste à déterminer.",
+        "title": "Billion-dollar boat seller MarineMax reports cyberattack to SEC",
+        "url": "https://therecord.media/boat-seller-marinemax-reports-cyberattack-sec",
+        "added": "2024-03-13"
+    },
+    {
         "date": "2024-03-13",
         "victim": "Maxis",
         "domain": "maxis.com.my",
