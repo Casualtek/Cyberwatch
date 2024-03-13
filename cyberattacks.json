@@ -1182,7 +1182,7 @@
     {
         "date": "2023-02-03",
         "victim": "Ehpad Saint-Jean-Baptiste de Farébersviller",
-        "domain": "",
+        "domain": "ehpad.fr",
         "country": "FRA",
         "summary": "L'Ehpad Saint-Jean-Baptiste de Farébersviller a été la cible d'une cyberattaque avec demande de rançon dans la nuit du 2 au 3 février, entraînant l'inaccessibilité de leur logiciel de soins et la probable fuite de données personnelles. La direction a refusé de payer la rançon, arguant que cela ne garantit pas la restauration des systèmes, et a signalé l'incident à la Cnil tout en étant soutenue par l'ARS et le Cert. Malgré l'attaque, la qualité des soins n'a pas été affectée, le personnel ayant repris le suivi des résidents manuellement et les systèmes de sécurité de l'établissement n'ayant pas été compromis.",
         "title": "Moselle. Farébersviller : l’Ehpad victime d’une cyberattaque avec demande de rançon",
