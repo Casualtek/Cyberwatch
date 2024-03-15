@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-02-15",
+        "victim": "Hal Allergy",
+        "domain": "hal-allergy.com",
+        "country": "NLD",
+        "summary": "L'entreprise Hal Allergy a été victime d'une cyberattaque qui a perturbé son réseau et entraîné des retards dans la livraison de ses produits d'immunothérapie pour les allergies, affectant ainsi les pharmacies et leurs clients. Malgré la communication sur leur site web, les clients comme le pharmacien Eric Schmitz de Düsseldorf n'ont pas été directement informés et se retrouvent dans l'incertitude concernant leurs commandes. Hal Allergy travaille avec des experts en cybersécurité pour restaurer le réseau et enquêter sur l'incident, notamment pour déterminer si des données personnelles ont été compromises, et a signalé l'attaque aux autorités néerlandaises compétentes.",
+        "title": "Hal Allergy: Hacker-Angriff legt Lieferung lahm | APOTHEKE ADHOC",
+        "url": "https://www.apotheke-adhoc.de/nachrichten/detail/markt/hal-allergy-hacker-angriff-legt-lieferung-lahm/",
+        "added": "2024-03-15"
+    },
+    {
         "date": "2024-03-14",
         "victim": "NHS Dumfries and Galloway",
         "domain": "nhsdg.co.uk",
