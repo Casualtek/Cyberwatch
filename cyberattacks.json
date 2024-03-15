@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-02-16",
+        "victim": "Fonds monétaire international (FMI)",
+        "domain": "imf.org",
+        "country": "USA",
+        "summary": "Le Fonds monétaire international (FMI) a détecté un incident de cybersécurité le 16 février 2024, affectant onze comptes de messagerie qui ont depuis été sécurisés. Une enquête est en cours avec l'aide d'experts en cybersécurité indépendants pour déterminer l'étendue de la brèche et des mesures de remédiation ont été prises. Le FMI a affirmé avoir un programme de cybersécurité robuste pour répondre efficacement à de tels incidents.",
+        "title": "IMF Investigates Cyber-Security Incident",
+        "url": "https://www.imf.org/en/News/Articles/2024/03/15/pr2488-imf-investigates-cyber-security-incident",
+        "added": "2024-03-15"
+    },
+    {
         "date": "2024-02-15",
         "victim": "Hal Allergy",
         "domain": "hal-allergy.com",
