@@ -187,7 +187,7 @@
         "summary": "Hyundai Motor Europe a été victime d'une attaque de ransomware Black Basta, au cours de laquelle les cybercriminels affirment avoir volé trois téraoctets de données d'entreprise. Bien que Hyundai ait initialement déclaré faire face à des problèmes informatiques, l'entreprise a ensuite confirmé l'attaque après que des informations supplémentaires sur le vol de données aient été partagées avec eux. Black Basta, qui serait une émanation de l'opération de ransomware Conti, est connu pour ses attaques de double extorsion et aurait reçu plus de 100 millions de dollars en paiements de rançon depuis son lancement en avril 2022.",
         "title": "Hyundai Motor Europe hit by Black Basta ransomware attack",
         "url": "https://www.bleepingcomputer.com/news/security/hyundai-motor-europe-hit-by-black-basta-ransomware-attack/",
-        "added": "2024-03-06"
+        "added": "2024-02-11"
     },
     {
         "date": "2024-03-06",
@@ -1067,16 +1067,6 @@
         "summary": "La SouthState Bank, basée en Floride et filiale de SouthState Corp., a été victime d'une cyberattaque mercredi, entraînant des perturbations dans ses activités. La banque a révélé dans un dépôt réglementaire vendredi avoir détecté l'incident de cybersécurité et avoir pris des mesures pour contrer l'activité non autorisée, y compris l'isolement de certaines parties de son réseau. Malgré ces perturbations, la banque a affirmé que ses opérations continuaient dans tous les aspects essentiels et qu'une enquête était en cours avec l'assistance d'une entreprise de cybersécurité.",
         "title": "SouthState Bank Reports Cyber Incident - MarketWatch",
         "url": "https://www.marketwatch.com/story/southstate-bank-reports-cyber-incident-60f1dad2",
-        "added": "2024-02-11"
-    },
-    {
-        "date": "2024-01-08",
-        "victim": "Hyundai Motor Europe",
-        "domain": "hyundai.com",
-        "country": "DEU",
-        "summary": "Hyundai Motor Europe a été victime d'une attaque de ransomware Black Basta, les cybercriminels prétendant avoir volé trois téraoctets de données d'entreprise. La société a confirmé l'attaque après que BleepingComputer a partagé des informations supplémentaires sur le vol de données, bien que Hyundai n'ait pas précisé la nature des données dérobées. Le groupe Black Basta, soupçonné d'être une émanation de l'opération de ransomware Conti, est connu pour ses attaques par double extorsion et aurait reçu plus de 100 millions de dollars en paiements de rançon depuis son lancement en avril 2022.",
-        "title": "Hyundai Motor Europe hit by Black Basta ransomware attack",
-        "url": "https://www.bleepingcomputer.com/news/security/hyundai-motor-europe-hit-by-black-basta-ransomware-attack/",
         "added": "2024-02-11"
     },
     {
