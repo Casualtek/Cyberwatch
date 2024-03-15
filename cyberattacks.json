@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-03-14",
+        "victim": "NHS Dumfries and Galloway",
+        "domain": "nhsdg.co.uk",
+        "country": "GBR",
+        "summary": "Le NHS Dumfries and Galloway a été victime d'une cyberattaque ciblée et continue, mettant en péril une quantité importante de données potentiellement identifiables des patients et du personnel. La direction de la santé collabore avec la police écossaise, le Centre national de cybersécurité et le gouvernement écossais pour résoudre la violation de ses systèmes. Des perturbations des services sont attendues et une page web dédiée a été mise en place pour informer sur l'attaque.",
+        "title": "NHS Dumfries and Galloway hit by cyber attack with patient and staff data at risk | UK News | Sky News",
+        "url": "https://news.sky.com/story/nhs-dumfries-and-galloway-hit-by-cyber-attack-with-patient-and-staff-data-at-risk-13095152",
+        "added": "2024-03-15"
+    },
+    {
         "date": "2021-12-15",
         "victim": "Flagstar Bank",
         "domain": "flagstar.com",
