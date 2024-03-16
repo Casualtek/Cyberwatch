@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-01-31",
+        "victim": "Travel Retail Norway",
+        "domain": "travelretail.no",
+        "country": "NOR",
+        "summary": "La \"Klikk & hent\"-tjenesten (service de clic et collecte) des boutiques duty-free des plus grands aéroports de Norvège a été hors service pendant plusieurs semaines à la suite d'une attaque de hackers. Aucune donnée personnelle ou client n'a été divulguée, et la société Travel Retail Norway a indiqué que ses systèmes seraient rétablis dans la semaine, passant à une infrastructure basée sur le cloud plutôt que sur des serveurs privés. Bien que l'identité des attaquants soit connue de l'entreprise, elle n'a pas été révélée publiquement sur les conseils d'experts en cybersécurité, et aucune rançon n'a été payée, bien que l'attaque ait entraîné des coû",
+        "title": "Krevd for løsepenger etter dataangrep",
+        "url": "https://www.vg.no/nyheter/innenriks/i/mQG0vE/krevd-for-loesepenger-etter-dataangrep",
+        "added": "2024-03-16"
+    },
+    {
         "date": "2024-03-14",
         "victim": "Scranton School District",
         "domain": "scrsd.org",
