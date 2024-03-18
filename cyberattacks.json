@@ -1,5 +1,15 @@
 [
     {
+        "date": "2023-11-15",
+        "victim": "National Aerospace Laboratories (NAL)",
+        "domain": "nal.res.in",
+        "country": "IND",
+        "summary": "L'Agence Nationale d'Investigation (NIA) de l'Inde a ouvert une enquête sur une attaque de ransomware contre le National Aerospace Laboratories (NAL), le plus grand organisme de recherche aérospatiale du pays, survenue le 15 novembre de l'année dernière. Le groupe criminel cybernétique LockBit est suspecté d'être derrière cette attaque, au cours de laquelle des données, y compris des lettres classifiées, ont été volées et une rançon a été exigée pour ne pas les divulguer.",
+        "title": "Cyberattack on India's Largest Aerospace Research Firm Under NIA Radar, Case Registered - Republic World",
+        "url": "https://www.republicworld.com/india/cyberattack-on-india-s-largest-aerospace-research-firm-under-nia-radar-case-registered/",
+        "added": "2024-03-18"
+    },
+    {
         "date": "2024-03-11",
         "victim": "District de North Vancouver",
         "domain": "dnv.org",
