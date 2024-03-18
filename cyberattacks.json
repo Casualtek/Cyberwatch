@@ -1,6 +1,16 @@
 [
     {
         "date": "2024-03-15",
+        "victim": "Deutsches Meeresmuseum de Stralsund",
+        "domain": "meeresmuseum.de",
+        "country": "DEU",
+        "summary": "Le Deutsches Meeresmuseum de Stralsund a été la cible d'une cyberattaque, suite à laquelle il est impossible d'acheter des billets en ligne via le site du musée. Les visiteurs peuvent toujours accéder aux sites du musée Ozeaneum et Natureum aux heures habituelles, mais les billets ne peuvent être achetés qu'en espèces sur place. Le musée a signalé l'incident à la police, et bien que les communications avec les visiteurs soient perturbées, les billets préalablement achetés restent valides.",
+        "title": "Cyber-Angriff auf Meeresmuseum in Stralsund",
+        "url": "https://www.nordkurier.de/regional/mecklenburg-vorpommern/cyber-angriff-auf-meeresmuseum-in-stralsund-2357638",
+        "added": "2024-03-18"
+    },
+    {
+        "date": "2024-03-15",
         "victim": "Fujitsu",
         "domain": "fujitsu.com",
         "country": "JPN",
