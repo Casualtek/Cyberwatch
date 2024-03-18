@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-03-17",
+        "victim": "Ville de Pensacola",
+        "domain": "cityofpensacola.com",
+        "country": "USA",
+        "summary": "La ville de Pensacola a subi une cyberattaque potentielle pendant le week-end, affectant son système téléphonique non urgent, mais sans impacter les services d'urgence comme la police et les pompiers. Les autres départements essentiels, tels que le port et l'aéroport international de Pensacola, fonctionnent normalement. L'incident est en cours d'investigation et la ville a mis en place des numéros de téléphone alternatifs pour les services affectés par la panne.",
+        "title": "Pensacola appears to suffer cyberattack over the weekend",
+        "url": "https://eu.pnj.com/story/news/local/pensacola/2024/03/18/pensacola-appears-to-suffer-cyberattack-over-the-weekend/73015442007/",
+        "added": "2024-03-18"
+    },
+    {
         "date": "2024-03-15",
         "victim": "Deutsches Meeresmuseum de Stralsund",
         "domain": "meeresmuseum.de",
