@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-03-15",
+        "victim": "Fujitsu",
+        "domain": "fujitsu.com",
+        "country": "JPN",
+        "summary": "La multinationale Fujitsu a confirmé avoir été victime d'une cyberattaque, révélant que des malwares ont été détectés sur plusieurs ordinateurs de l'entreprise et que des données personnelles et informations clients pourraient avoir été dérobées. L'entreprise a déconnecté les appareils affectés de son réseau et mène une enquête pour déterminer l'étendue de la fuite de données.",
+        "title": "Tech large Fujitsu says it was hacked, warns of information breach - Tech Gate",
+        "url": "https://tech-gate.org/2024/03/18/tech-large-fujitsu-says-it-was-hacked-warns-of-information-breach/",
+        "added": "2024-03-18"
+    },
+    {
         "date": "2023-11-15",
         "victim": "National Aerospace Laboratories (NAL)",
         "domain": "nal.res.in",
