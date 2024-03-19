@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-02-28",
+        "victim": "Franz Carl Weber",
+        "domain": "fcw.ch",
+        "country": "CHE",
+        "summary": "Le revendeur de jouets suisse Franz Carl Weber a subi une cyberattaque en février, orchestrée par le groupe de pirates Black Basta, qui a conduit à la fuite de 700 gigas de données sur le darknet après que la rançon demandée n'a pas été payée. Les données divulguées incluent des informations sensibles de 200 employés, telles que des pièces d'identité, des détails bancaires, des certificats médicaux, des évaluations RH et des informations sur leurs enfants. Le préposé fédéral à la protection des données est au courant de l'incident et les employés concernés ont été informés.",
+        "title": "La vie des employés de Franz Carl Weber divulguée en ligne - 20 minutes",
+        "url": "https://www.20min.ch/fr/story/suisse-la-vie-des-employes-de-franz-carl-weber-divulguee-en-ligne-103064782",
+        "added": "2024-03-19"
+    },
+    {
         "date": "2024-03-12",
         "victim": "Riverview School District",
         "domain": "rsd.k12.pa.us",
