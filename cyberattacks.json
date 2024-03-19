@@ -1,6 +1,16 @@
 [
     {
         "date": "2024-03-17",
+        "victim": "South China Athletic Association",
+        "domain": "scaa.org.hk",
+        "country": "HKG",
+        "summary": "La South China Athletic Association a été victime d'une cyberattaque le dimanche 17 mars, entraînant une possible compromission des données personnelles de quelque 70 000 individus, incluant noms, dates de naissance, numéros d'identification et adresses. L'association a réagi en fermant les équipements informatiques affectés et en informant la police ainsi que le Commissaire à la protection de la vie privée, tout en activant un plan d'urgence pour notifier les membres affectés. Le Commissaire a commencé une enquête sur l'incident et a exhorté les personnes concernées à se manifester s'ils soupçonnent une fuite de leurs données personnelles.",
+        "title": "South China Athletic Association hit by cyber-attack | The Standard",
+        "url": "https://www.thestandard.com.hk/breaking-news/section/4/214499/South-China-Athletic-Association-hit-by-cyber-attack",
+        "added": "2024-03-19"
+    },
+    {
+        "date": "2024-03-17",
         "victim": "Ville de Pensacola",
         "domain": "cityofpensacola.com",
         "country": "USA",
