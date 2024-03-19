@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-03-10",
+        "victim": "EDIS",
+        "domain": "edis.at",
+        "country": "AUT",
+        "summary": "Un fournissur IT basé à Graz, qui gère environ 80 bases de données pour des sociétés immobilières, a été victime d'une cyberattaque le week-end dernier, ce qui pourrait avoir entraîné une fuite de données étendue. La base de données clients de Klagenfurt Wohnen, un baileur appartenant à la ville, pourrait être affectée, selon les recherches de la Kleine Zeitung. L'ampleur des dommages causés par l'intrusion présumée criminelle dans les serveurs de la société IT engagée par la filiale immobilière de la ville de Klagenfurt n'est pas encore claire, a déclaré Valentin Unterkircher, chef de la communication de la ville.",
+        "title": "Sensible Daten: Cyberangriff auf Grazer IT-Firma, die Kundendaten von Klagenfurt Wohnen verwaltet",
+        "url": "https://www.kleinezeitung.at/wirtschaft/18270034/cyberangriff-auf-it-firma-die-kundendaten-von-klagenfurt-wohnen",
+        "added": "2024-03-19"
+    },
+    {
         "date": "2024-02-28",
         "victim": "Franz Carl Weber",
         "domain": "fcw.ch",
