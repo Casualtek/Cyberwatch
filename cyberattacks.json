@@ -1,5 +1,25 @@
 [
     {
+        "date": "2024-03-14",
+        "victim": "Radiant Logistics, Inc.",
+        "domain": "radiantdelivers.com",
+        "country": "USA",
+        "summary": "Le 14 mars 2024, Radiant Logistics, Inc. a détecté les premières étapes d'une cyberattaque liée à ses opérations canadiennes et a immédiatement activé ses protocoles de réponse aux incidents. Des mesures ont été prises pour isoler les opérations canadiennes et engager des professionnels en cybersécurité pour évaluer et remédier à la situation. Bien que cela ait entraîné des retards de service au Canada, les efforts de récupération des systèmes devraient être largement achevés dans la semaine à venir, sans impact majeur sur les opérations globales de l'entreprise.",
+        "title": "Material Cybersecurity Incidents",
+        "url": "https://www.sec.gov/Archives/edgar/data/1171155/000095017024033954/rlgt-20240319.htm",
+        "added": "2024-03-20"
+    },
+    {
+        "date": "2024-03-15",
+        "victim": "Communauté de communes de Nuits-Saint-Georges",
+        "domain": "ccgevrey-chambertin-et-nuits-saint-georges.com",
+        "country": "FRA",
+        "summary": "La communauté de communes de Nuits-Saint-Georges a été paralysée par une cyberattaque le vendredi 15 mars 2024, entraînant l'intervention du Centre régional de cybersécurité CSIRT-Bourgogne-Franche-Comté pour restaurer les services, un processus qui devrait prendre encore quelques jours. Les lignes téléphoniques ont été rétablies, mais les hackers ont demandé une rançon après avoir ciblé la communauté par hasard, exploitant sa cybersécurité jugée fragile. La mairie de Nuits-Saint-Georges, déjà victime d'une attaque similaire en 2019, avait depuis renforcé sa sécurité et n'est pas affectée par cette nouvelle attaque.",
+        "title": "La communauté de communes de Nuits-Saint-Georges cible d'une violente cyberattaque, une rançon demandée",
+        "url": "https://france3-regions.francetvinfo.fr/bourgogne-franche-comte/cote-d-or/la-communaute-de-communes-de-nuits-saint-georges-cible-d-une-violente-cyberattaque-une-rancon-demandee-2942661.html",
+        "added": "2024-03-20"
+    },
+    {
         "date": "2024-02-18",
         "victim": "Fondouest",
         "domain": "fondouest.com",
