@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-01-07",
+        "victim": "Long Island Plastic Surgical Group (LIPSG)",
+        "domain": "lipsg.com",
+        "country": "USA",
+        "summary": "Le Long Island Plastic Surgical Group (LIPSG), un groupe de chirurgie plastique de New York, a été victime d'une attaque de ransomware menée conjointement par deux groupes de cybercriminels, AlphV et Radar, qui ont chiffré des fichiers et exfiltré environ 700 Go de données, incluant des documents internes, des informations sur les employés et des dossiers patients. Malgré le paiement de 500 000 dollars pour une clé de déchiffrement par LIPSG, les négociations avec Radar pour supprimer les données ont échoué et le groupe menace de nuire à l'entreprise en publiant les données. DataBreaches.net a tenté de contacter LIPSG sans succès et a également informé des patients concernés par la",
+        "title": "Another plastic surgery group has fallen victim to a ransomware attack - DataBreaches.net",
+        "url": "https://databreaches.net/another-plastic-surgery-group-has-fallen-victim-to-a-ransomware-attack/",
+        "added": "2024-03-20"
+    },
+    {
         "date": "2024-03-18",
         "victim": "Unimed Cuiabá",
         "domain": "unimed.coop.br",
