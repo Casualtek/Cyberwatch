@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-03-19",
+        "victim": "Goed",
+        "domain": "goed.be",
+        "country": "BEL",
+        "summary": "Le réseau de pharmacies et de magasins de soins à domicile Goed, appartenant à la CM, a été victime d'une cyberattaque où des données ont été volées et cryptées. Les systèmes de Goed ont été déconnectés pour empêcher toute action supplémentaire des hackers, et l'entreprise travaille avec des experts en cybersécurité pour évaluer l'étendue de la fuite de données et la possibilité d'une demande de rançon. Malgré l'attaque, les magasins Goed restent ouverts, mais rencontrent des difficultés avec les paiements par bancontact et l'accès aux prescriptions numériques, et un plan de redémarrage des systèmes est en cours d'élaboration.",
+        "title": "Zorgretailer Goed doelwit van cyberaanval | Binnenland | hln.be",
+        "url": "https://www.hln.be/binnenland/zorgretailer-goed-doelwit-van-cyberaanval~aadbfe96/",
+        "added": "2024-03-20"
+    },
+    {
         "date": "2023-05-28",
         "victim": "Florida Water Products (FWP)",
         "domain": "fwppool.com",
