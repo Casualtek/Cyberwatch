@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-03-18",
+        "victim": "Unimed Cuiabá",
+        "domain": "unimed.coop.br",
+        "country": "BRA",
+        "summary": "La Unimed Cuiabá a subi une cyberattaque dans la nuit du lundi 18 mars, entraînant une indisponibilité temporaire de son système informatisé pour la libération des demandes de soins médicaux. Malgré l'attaque, les données personnelles et sensibles n'ont pas été compromises, et aucun soin n'a été interrompu grâce à la mise en place de procédures manuelles. La coopérative travaille activement à la restauration du système et assure que les services aux clients seront maintenus sans préjudice.",
+        "title": "Unimed Cuiabá informa ataque cibernético e medidas para garantir atendimento ao cliente | O Bom da Notícia",
+        "url": "https://www.obomdanoticia.com.br/cidades/unimed-cuiaba-informa-ataque-cibernetico-e-medidas-para-garantir-atendimento-ao-cliente/224357",
+        "added": "2024-03-20"
+    },
+    {
         "date": "2024-03-19",
         "victim": "Goed",
         "domain": "goed.be",
