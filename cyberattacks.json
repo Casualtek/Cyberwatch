@@ -1,5 +1,15 @@
 [
     {
+        "date": "2023-05-15",
+        "victim": "Teamex",
+        "domain": "teamex-france.fr",
+        "country": "FRA",
+        "summary": "Les assises régionales de la cybersécurité se sont tenues à Chartres pour sensibiliser les entreprises et collectivités locales du Centre-Val de Loire aux risques de cyberattaques, avec la création de Cyberéponse, un centre d'urgence ayant traité 154 dossiers en un an. L'entreprise Teamex a subi une attaque informatique majeure qui a duré trois semaines, révélant que tous les secteurs, même les moins évidents, sont susceptibles d'être ciblés par des cybercriminels.",
+        "title": "Les cyberattaques, nouveau défi pour les entreprises et les collectivités en région Centre-Val de Loire - France Bleu",
+        "url": "https://www.francebleu.fr/infos/economie-social/les-cyberattaques-nouveau-defi-pour-les-entreprises-et-les-collectivites-en-region-centre-val-de-loire-1475279",
+        "added": "2024-03-20"
+    },
+    {
         "date": "2024-03-10",
         "victim": "EDIS",
         "domain": "edis.at",
