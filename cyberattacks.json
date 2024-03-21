@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-03-17",
+        "victim": "Polycab",
+        "domain": "polycab.com",
+        "country": "IND",
+        "summary": "L'infrastructure informatique de Polycab a été ciblée par une attaque de ransomware le 17 mars 2024, mais l'entreprise a déclaré que ses systèmes principaux et ses opérations n'ont pas été affectés. Les systèmes de l'entreprise fonctionnent actuellement normalement, toutes les usines sont opérationnelles et Polycab continue de servir ses clients, avec une équipe technique interne et des experts en cybersécurité externes qui analysent activement l'incident. En parallèle, l'entreprise a connu un début d'année difficile en 2024 suite à des opérations de recherche fiscale présumées sur ses locaux, mais a nié toute évasion fiscale et ses actions ont augmenté de 1,27%",
+        "title": "Polycab IT infrastructure targeted by ransomware attack, company says core systems and operations not impacted",
+        "url": "https://www.cnbctv18.com/market/polycab-share-price-it-infra-ransomware-attack-core-systems-operations-not-impacted-stock-reaction-19328331.htm",
+        "added": "2024-03-21"
+    },
+    {
         "date": "2022-06-10",
         "victim": "Bauer Gruppe",
         "domain": "bauergruppe.de",
