@@ -1,5 +1,15 @@
 [
     {
+        "date": "2022-06-10",
+        "victim": "Bauer Gruppe",
+        "domain": "bauergruppe.de",
+        "country": "DEU",
+        "summary": "La Bauer Gruppe et la Mürwiker Gruppe, deux entreprises allemandes, ont été sévèrement touchées par des cyberattaques qui ont crypté leurs serveurs et données, les laissant sans accès à leurs systèmes informatiques essentiels. Les attaques ont entraîné des coûts de restauration estimés à environ 2,3 millions d'euros pour la Mürwiker Gruppe et 2,5 millions d'euros pour la Bauer Gruppe, qui a également choisi de ne pas payer la rançon et a profité de l'occasion pour restructurer ses entreprises. Suite à ces incidents, les deux sociétés ont amélioré leur sécurité informatique, la Mürwiker Gruppe externalisant même ses serveurs à un prestataire de services informatiques après la dé",
+        "title": "Der Neustart nach dem Hackerangriff - IHK Schleswig-Holstein",
+        "url": "https://www.ihk.de/schleswig-holstein/ihk-magazin/digitalisierung/erfolgsrezept-weiterbildung-5804936",
+        "added": "2024-03-21"
+    },
+    {
         "date": "2024-03-14",
         "victim": "Radiant Logistics, Inc.",
         "domain": "radiantdelivers.com",
