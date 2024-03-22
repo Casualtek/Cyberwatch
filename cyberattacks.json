@@ -1,5 +1,15 @@
 [
     {
+        "date": "2023-02-21",
+        "victim": "Mercy Home for Children",
+        "domain": "mercyhomeny.org",
+        "country": "USA",
+        "summary": "L'entité Mercy Home for Children, une organisation de santé basée à Brooklyn, New York, a subi une cyberattaque le 21 février 2023, affectant les données personnelles de 356 personnes, dont un résident du Maine. L'incident a été découvert le jour même et impliquait une fuite de numéros de sécurité sociale. Les victimes ont été notifiées par écrit le 20 mars 2024 et se sont vu offrir 12 mois de services de surveillance de crédit et de protection contre le vol d'identité par Cyberscout.",
+        "title": "Office of the Maine AG: Consumer Protection: Privacy, Identity Theft and Data Security Breaches",
+        "url": "https://apps.web.maine.gov/online/aeviewer/ME/40/e8f06ee5-f914-4071-8aae-8b083927b3d6.shtml",
+        "added": "2024-03-22"
+    },
+    {
         "date": "2024-03-17",
         "victim": "Polycab",
         "domain": "polycab.com",
