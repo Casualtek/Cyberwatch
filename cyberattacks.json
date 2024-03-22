@@ -1,5 +1,15 @@
 [
     {
+        "date": "2023-03-10",
+        "victim": "Filexis Treuhand AG",
+        "domain": "filexis.ch",
+        "country": "CHE",
+        "summary": "La Filexis Treuhand AG, une entreprise basée à Fislisbach, a subi une cyberattaque le 10 mars, au cours de laquelle des données d'entreprise et de clients ont été cryptées et rendues inaccessibles, sans preuve de fuite de données. La direction a réagi rapidement en sécurisant les systèmes, informant les autorités et les clients, et en restaurant les opérations à partir de sauvegardes.",
+        "title": "Hackerangriff auf eine Fislisbacher Firma | Reussbote",
+        "url": "https://www.reussbote.ch/2024/03/hackerangriff-auf-eine-fislisbacher-firma.html",
+        "added": "2024-03-22"
+    },
+    {
         "date": "2023-02-21",
         "victim": "Mercy Home for Children",
         "domain": "mercyhomeny.org",
