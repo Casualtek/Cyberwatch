@@ -1,5 +1,15 @@
 [
     {
+        "date": "2023-03-18",
+        "victim": "Comté de Henry, Illinois",
+        "domain": "henrycty.com",
+        "country": "USA",
+        "summary": "Le comté de Henry en Illinois a été victime d'une cyberattaque par ransomware le 18 mars, affectant plusieurs de ses systèmes, mais les services d'urgence comme le 911 restent opérationnels. Le groupe de ransomware Medusa a revendiqué l'attaque et exige une rançon de 500 000 dollars, avec un historique d'attaques contre diverses organisations à travers le monde. Par ailleurs, le Monmouth College, situé à proximité, a également subi une attaque par ransomware pendant la période des fêtes, affectant les données personnelles de 44 737 personnes.",
+        "title": "Illinois county government, local college affected by ransomware attacks",
+        "url": "https://therecord.media/illinois-county-gov-college-hit-with-ransomware",
+        "added": "2024-03-22"
+    },
+    {
         "date": "2023-10-15",
         "victim": "Petersen Health Care",
         "domain": "petersenhealthcare.net",
