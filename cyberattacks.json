@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-03-21",
+        "victim": "Tarrant Appraisal District",
+        "domain": "tad.org",
+        "country": "USA",
+        "summary": "Le Tarrant Appraisal District a été victime d'une attaque par ransomware, confirmée après une panne de leur site web qui a duré plusieurs heures. L'incident a été signalé au FBI et au Texas Department of Information Resources, mais il n'est pas encore clair si des informations sensibles ont été compromises. Le montant de la rançon demandée et l'identité du groupe de hackers responsable n'ont pas été divulgués, et une réunion d'urgence du conseil d'administration est prévue pour discuter de l'attaque.",
+        "title": "Tarrant Appraisal District says it is victim of ransomware attack",
+        "url": "https://www.dallasnews.com/news/crime/2024/03/22/tarrant-appraisal-district-says-it-is-victim-of-ransomware-attack/",
+        "added": "2024-03-23"
+    },
+    {
         "date": "2023-03-18",
         "victim": "Comté de Henry, Illinois",
         "domain": "henrycty.com",
