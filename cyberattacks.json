@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-02-20",
+        "victim": "HKScan",
+        "domain": "hkscan.com",
+        "country": "FIN",
+        "summary": "La société finlandaise de viande et de volaille HKScan a été victime d'une cyberattaque qui a entraîné une violation de données de ses systèmes d'information, potentiellement exposant certaines données personnelles, mais l'entreprise a affirmé que l'incident n'avait pas affecté ses activités opérationnelles ni ses livraisons de produits. L'attaque a été détectée il y a environ un mois et HKScan a immédiatement pris des mesures pour enquêter et protéger son environnement informatique, en collaboration avec des experts en sécurité et les autorités. Cet incident s'ajoute à une série d'attaques cybernétiques dans le secteur agroalimentaire, affectant d'autres entreprises telles que JBS et Maple Leaf Foods.",
+        "title": "HKScan targeted in cybersecurity attack | WATTPoultry.com",
+        "url": "https://www.wattagnet.com/regions/europe/article/15667131/hkscan-targeted-in-cybersecurity-attack",
+        "added": "2024-03-25"
+    },
+    {
         "date": "2024-02-10",
         "victim": "Emergency Medical Services Authority (EMSA)",
         "domain": "emsaonline.com",
