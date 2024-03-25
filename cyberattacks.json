@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-02-10",
+        "victim": "Emergency Medical Services Authority (EMSA)",
+        "domain": "emsaonline.com",
+        "country": "USA",
+        "summary": "L'Emergency Medical Services Authority (EMSA) a récemment fait face à un incident de cybersécurité où une activité suspecte a été détectée dans leur réseau informatique le 13 février 2024, entraînant l'accès non autorisé à des fichiers contenant des informations personnelles de certains patients entre le 10 et le 13 février. Les données compromises incluent potentiellement des noms, adresses, dates de naissance, dates de service, et pour certains, le nom du médecin traitant et/ou le numéro de sécurité sociale. EMSA a pris des mesures préventives, notamment l'envoi de lettres de notification aux patients affectés, la mise en place d'un centre d'appel dédié et l'offre de services gratuits de surveillance de crédit",
+        "title": "Cyber Security Incident Notice to Our Patients - EMSA",
+        "url": "https://emsaonline.com/news/cyber-security-notice/",
+        "added": "2024-03-25"
+    },
+    {
         "date": "2023-10-30",
         "victim": "GardaWorld Cash U.S.",
         "domain": "garda.com",
