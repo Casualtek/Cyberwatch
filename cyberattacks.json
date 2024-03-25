@@ -1,5 +1,15 @@
 [
     {
+        "date": "2023-03-10",
+        "victim": "Orrick, Herrington & Sutcliffe, LLP",
+        "domain": "orrick.com",
+        "country": "USA",
+        "summary": "Benefytt a confirmé être affecté par une violation de données chez Multiplan Inc. via le cabinet Orrick, Herrington & Sutcliffe. Bien que leurs systèmes n'aient pas été touchés, des données ont été exposées. Les notifications sont en cours pour les 152 818 personnes potentiellement affectées, avec des services de surveillance de crédit gratuits.",
+        "title": "Benefytt, EMSA, Lindsay Municipal Hospital Affected by Cyberattacks",
+        "url": "https://www.hipaajournal.com/benefytt-emsa-lindsay-municipal-hospital-affected-by-cyberattacks/",
+        "added": "2024-03-25"
+    },
+    {
         "date": "2024-02-20",
         "victim": "HKScan",
         "domain": "hkscan.com",
