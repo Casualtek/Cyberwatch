@@ -1,5 +1,15 @@
 [
     {
+        "date": "2023-10-30",
+        "victim": "GardaWorld Cash U.S.",
+        "domain": "garda.com",
+        "country": "USA",
+        "summary": "La société GardaWorld Cash U.S., basée à Boca Raton en Floride, a été victime d'une cyberattaque par piratage externe entre le 30 octobre et le 16 novembre 2023, affectant les données personnelles de 39 928 personnes, dont 13 résidents du Maine. La brèche a été découverte le 16 novembre 2023 et les notifications écrites aux consommateurs ont été envoyées le 22 mars 2024.",
+        "title": "Office of the Maine AG: Consumer Protection: Privacy, Identity Theft and Data Security Breaches",
+        "url": "https://apps.web.maine.gov/online/aeviewer/ME/40/b259cad1-d4ba-46cf-9a2a-05ff391ebfcc.shtml",
+        "added": "2024-03-25"
+    },
+    {
         "date": "2024-03-21",
         "victim": "Tarrant Appraisal District",
         "domain": "tad.org",
