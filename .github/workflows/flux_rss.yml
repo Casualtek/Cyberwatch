@@ -3,6 +3,11 @@ name: Flux RSS
 on:
   schedule:
     - cron: '0 1/4 * * *'
+  push:
+    branches:
+        - main
+    paths:
+      - '**.json'
   workflow_dispatch:
 
 permissions: write-all
