@@ -17,4 +17,7 @@ You'll find there the name of the victim, the country, the date, a short descrip
 That data is extracted from the original news story with the help of ChatGPT, using OpenIA's developers API. 
 The output is checked manually.
 
+And in *cyberattaques.xml*?
+Well, it's a RSS feed of the aforementioned cyberattacks reports, chronogically sorted by discovery date.
+
 Enjoy and feel free to contribute any improvements ideas!
