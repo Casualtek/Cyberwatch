@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-03-25",
+        "victim": "City of St. Cloud",
+        "domain": "stcloud.org",
+        "country": "USA",
+        "summary": "La ville de St. Cloud a été victime d'une cyberattaque par rançongiciel, mais continue d'assurer ses services publics avec des ajustements, notamment les services d'urgence qui restent pleinement opérationnels. Les paiements pour certaines installations et services, comme la station de transfert et les parcs et loisirs, se font uniquement en espèces pour le moment. La ville travaille à résoudre le problème et maintient la communication avec la communauté pour les mises à jour futures.",
+        "title": "City of St. Cloud Responds to Ransomware Cyberattack",
+        "url": "https://www.positivelyosceola.com/city-of-st-cloud-responds-to-ransomware-cyberattack/",
+        "added": "2024-03-26"
+    },
+    {
         "date": "2023-03-10",
         "victim": "Orrick, Herrington & Sutcliffe, LLP",
         "domain": "orrick.com",
