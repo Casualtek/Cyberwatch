@@ -1,4 +1,4 @@
-name: clean-up
+name: Clean Up XML files
 
 on:
   schedule:
