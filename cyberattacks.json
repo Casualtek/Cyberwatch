@@ -1,6 +1,16 @@
 [
     {
         "date": "2024-03-26",
+        "victim": "Unimed VTRP",
+        "domain": "unimedvtrp.com.br",
+        "country": "BRA",
+        "summary": "La Unimed VTRP, une coopérative médicale, a été victime d'une cyberattaque le matin du mardi 26, qui a perturbé ses services sans qu'une estimation précise de la reprise normale des opérations soit disponible. Les équipes techniques et administratives de l'organisation travaillent à résoudre le problème et à atténuer les impacts sur les clients et partenaires. En réponse à l'incident, Unimed VTRP a mis en place un numéro de téléphone d'urgence pour les cas nécessitant une assistance médicale immédiate.",
+        "title": "Ataque cibernético paralisa serviços da Unimed VTRP nesta terça-feira",
+        "url": "https://independente.com.br/ataque-cibernetico-paralisa-servicos-da-unimed-vtrp-nesta-terca-feira/",
+        "added": "2024-03-27"
+    },
+    {
+        "date": "2024-03-26",
         "victim": "Gilmer County",
         "domain": "gilmercounty-ga.gov",
         "country": "USA",
