@@ -99,13 +99,13 @@ def main():
     #post_to_twitter(tweet)
 
     telegram_msg = flag.flag(countryISO[country])+' '+story['victim']+' ('+story['domain']+')'+' a été victime d\'une cyberattaque autour du '+date_tweet+'.\n\n'+story['summary']+'\n\n👉 [source]('+story['url']+')'
-    #post_to_telegram(telegram_msg)
+    post_to_telegram(telegram_msg)
 
     mastodon_msg = flag.flag(countryISO[country])+' '+story['victim']+' ('+story['domain']+')'+' a été victime d\'une cyberattaque autour du '+date_tweet+'.\n\n'+story['summary']+'\n\n👉 '+story['url']
-    #post_to_mastodon(mastodon_msg)
+    post_to_mastodon(mastodon_msg)
 
     post = flag.flag(countryISO[country])+' '+story['victim']+' ('+story['domain']+')'+' a été victime d\'une cyberattaque autour du '+date_tweet+'.\n👉 '
-    #post_to_bluesky(post,story['url'])
+    post_to_bluesky(post,story['url'])
 
 if __name__ == '__main__':
     main()
