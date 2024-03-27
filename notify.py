@@ -96,7 +96,7 @@ def main():
     country    = story['country']
 
     tweet = flag.flag(countryISO[country])+' '+story['victim']+' ('+story['domain']+')'+' a été victime d\'une #cyberattaque autour du '+date_tweet+'.\n⏭️ https://t.ly/t23z2\n👉 '+story['url']+' cc @ransomwaremap @cyber_etc'
-    #post_to_twitter(tweet)
+    post_to_twitter(tweet)
 
     telegram_msg = flag.flag(countryISO[country])+' '+story['victim']+' ('+story['domain']+')'+' a été victime d\'une cyberattaque autour du '+date_tweet+'.\n\n'+story['summary']+'\n\n👉 [source]('+story['url']+')'
     post_to_telegram(telegram_msg)
