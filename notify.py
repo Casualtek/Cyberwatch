@@ -11,13 +11,13 @@ from mastodon import Mastodon
 
 json_file = './cyberattacks.json'
 
-consumer_key =    #CONS_KEY
-consumer_secret = #CONS_SECRET
-access_token =    #ACC_TOKEN
-access_token_secret = #ACC_TK_SECRET
-bearer_token = #BEARER_TK
+consumer_key =    os.environ['CONS_KEY']
+consumer_secret = os.environ['CONS_SECRET']
+access_token =    os.environ['ACC_TOKEN']
+access_token_secret = os.environ['ACC_TK_SECRET']
+bearer_token = os.environ['BEARER_TK']
 
-MASTODON_TOKEN=    #MAST_TK
+MASTODON_TOKEN=    os.environ['MAST_TK']
 MASTODON_INSTANCE= 'https://infosec.exchange'
 
 countryISO = {
@@ -32,8 +32,8 @@ def post_to_mastodon(message):
     mastodon.status_post(message, language='fr', visibility='public')
 
 def post_to_telegram(message):
-    chatid = #CHAT_ID
-    telegram_token = #TG_TK
+    chatid = os.environ['CHAT_ID']
+    telegram_token = os.environ['TG_TK']
     url = f'https://api.telegram.org/bot{telegram_token}/sendMessage'
     data = {
         'chat_id': chatid,
@@ -56,7 +56,7 @@ def post_to_twitter(message):
     
 def post_to_bluesky(text,url):
     client = Client()
-    client.login('','') #BS_LOGIN #BS_PWD
+    client.login(os.environ['BS_LOGIN'],os.environ['BS_PWD'])
     
     embed_external = models.AppBskyEmbedExternal.Main(
         external=models.AppBskyEmbedExternal.External(
