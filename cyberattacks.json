@@ -1,6 +1,16 @@
 [
     {
         "date": "2024-03-24",
+        "victim": "Intermarché by Mestdagh",
+        "domain": "mestdagh.be",
+        "country": "BEL",
+        "summary": "Des supermarchés Mestdagh d'Intermarché ont subi une cyberattaque dimanche dernier, provoquant des problèmes d'approvisionnement dans certains magasins. L'attaque a visé les systèmes de commande internes, avec une demande de rançon des cybercriminels. Intermarché a signalé un impact limité et a rétabli rapidement le système, sans saisie de données personnelles. Malgré tout, certains magasins ont connu des difficultés de commandes et de livraisons, avec des rayons vides occasionnels.",
+        "title": "Cyberattaque contre les magasins Intermarché de Mestdagh - RetailDetail BE",
+        "url": "https://www.retaildetail.be/fr/news/food/cyberattaque-contre-les-magasins-intermarche-de-mestdagh/",
+        "added": "2024-03-27"
+    },
+    {
+        "date": "2024-03-24",
         "victim": "VNDirect",
         "domain": "vndirect.com.vn",
         "country": "VNM",
