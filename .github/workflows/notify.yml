@@ -29,17 +29,16 @@ jobs:
         run: |
           pip3 install -r notify_requirements.txt
       - name: Send out notifications
+        env:
+          CONS_KEY: ${{ secrets.CONS_KEY }}
+          CONS_SECRET: ${{ secrets.CONS_SECRET }}
+          ACC_TOKEN: ${{ secrets.ACC_TOKEN }}
+          ACC_TK_SECRET: ${{ secrets.ACC_TK_SECRET }}
+          BEARER_TK: ${{ secrets.BEARER_TK }}
+          MAST_TK: ${{ secrets.MAST_TK }}
+          CHAT_ID: ${{ secrets.CHAT_ID }}
+          TG_TK: ${{ secrets.TG_TK }}
+          BS_LOGIN: ${{ secrets.BS_LOGIN }}
+          BS_PWD: ${{ secrets.BS_PWD }}
         run: |
           python3 notify.py
-      - uses: stefanzweifel/git-auto-commit-action@v4
-        with:
-          repository: ./
-          push_options: --force
-      - name: Save changes
-        run: |  
-          DATE=$(date -Iseconds)
-          git config user.name github-actions
-          git config user.email 41898282+github-actions[bot]@users.noreply.github.com
-          git pull origin main
-          git commit --all --message "Updated by Crontab on $DATE" || echo "no changes to commit" 
-          git push origin main
