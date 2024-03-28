@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-03-24",
+        "victim": "Université de Winnipeg",
+        "domain": "uwinnipeg.ca",
+        "country": "CAN",
+        "summary": "L'Université de Winnipeg a subi une cyberattaque durant le week-end, entraînant la fermeture de ses systèmes pour prévenir d'autres dommages, mais aucune fuite d'informations personnelles n'est à déplorer. Les cours ont été annulés le lundi, mais ont repris le mardi avec le rétablissement du Wi-Fi, tandis que l'université travaille à la restauration des services en ligne, avec l'objectif de remettre en fonction certains services critiques d'ici la semaine prochaine. En conséquence, le semestre et la période d'examens ont été prolongés d'une semaine pour permettre la remise en état complète des systèmes pour les étudiants et le personnel.",
+        "title": "University of Winnipeg working on restoring services following cyber attack | CTV News",
+        "url": "https://winnipeg.ctvnews.ca/university-of-winnipeg-hoping-to-have-some-services-restored-next-week-following-cyber-attack-1.6824989",
+        "added": "2024-03-28"
+    },
+    {
         "date": "2024-03-07",
         "victim": "Opheor",
         "domain": "opheor.fr",
