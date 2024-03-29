@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-02-25",
+        "victim": "Université de Cambridge",
+        "domain": "cam.ac.uk",
+        "country": "GBR",
+        "summary": "Des centaines de chercheurs de l'Université de Cambridge sont bloqués dans l'accès à un système informatique en raison d'une \"activité malveillante\". L'incident a été détecté il y a cinq semaines sur le Service Informatique de l'École Clinique, sans preuve de vol de données. L'université travaille à la restauration des données et du service.",
+        "title": "Cambridge university medical IT system targeted by hackers",
+        "url": "https://www.bbc.com/news/uk-england-cambridgeshire-68688410",
+        "added": "2024-03-29"
+    },
+    {
         "date": "2024-02-23",
         "victim": "White Oak Partners, LLC",
         "domain": "whiteoakpartners.com",
