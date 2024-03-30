@@ -1,5 +1,15 @@
 [
     {
+        "date": "2023-09-08",
+        "victim": "Wyndemere Senior Care",
+        "domain": "wyndemerelcs.com",
+        "country": "US",
+        "summary": "Wyndemere Senior Care LLC, basé à Wheaton, IL, a informé 6 846 personnes que certaines de leurs informations personnelles ont été exposées lors d'une cyberattaque détectée le 8 septembre 2023. Une activité suspecte a été détectée dans ses systèmes informatiques, confirmant un accès réseau non autorisé entre le 1er et le 8 septembre 2023. Une vérification des fichiers compromis a confirmé le 21 février 2024 que des noms et des numéros de compte financier avaient été exposés.",
+        "title": "MFA Bypassed in Cyberattack on L.A. County Department of Mental Health",
+        "url": "https://www.hipaajournal.com/mfa-bypased-cyberattack-la-county-department-mental-health/",
+        "added": "2024-03-30"
+    },
+    {
         "date": "2024-02-25",
         "victim": "Université de Cambridge",
         "domain": "cam.ac.uk",
