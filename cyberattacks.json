@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-03-31",
+        "victim": "IxMetro Powerhost",
+        "domain": "powerhost.cl",
+        "country": "CHL",
+        "summary": "Le processus de détection et d'arrêt de l'attaque par Ransomware contre IxMetro Powerhost est terminé. Cependant, en raison de la complexité de cette nouvelle forme de Ransomware, la récupération des données peut prendre du temps et il pourrait y avoir des cas irrécupérables. IxMetro Powerhost présente ses excuses pour les désagréments occasionnés et s'engage à aider les clients affectés.",
+        "title": "Actualización incidente RANSOMWARE",
+        "url": "https://twitter.com/1ZRR4H/status/1774768945003696245/photo/1",
+        "added": "2024-04-01"
+    },
+    {
         "date": "2024-02-27",
         "victim": "BSR Infratech India Ltd",
         "domain": "bsriil.com",
