@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-02-27",
+        "victim": "BSR Infratech India Ltd",
+        "domain": "bsriil.com",
+        "country": "IND",
+        "summary": "Une entreprise privée de construction basée à Bengaluru, BSR Infratech India Ltd, a été victime d'une cyberattaque par ransomware le 27 février, où les pirates ont chiffré les données de l'entreprise et exigé un paiement de 80 000 dollars pour la clé de déchiffrement, menaçant de vendre les données sur le dark web si leurs demandes n'étaient pas satisfaites. L'incident a été signalé à la police le 28 mars après une période de vérification par l'entreprise. La police a enregistré une plainte sous la section 66 de la loi sur les technologies de l'information (IT Act) et enquête actuellement sur l'attaque.",
+        "title": "Bengaluru Cyber crime news: Ransomware attack hits Bengaluru firm, criminals demand $80,000",
+        "url": "https://www.deccanherald.com/india/karnataka/bengaluru/ransomware-attack-hits-b-luru-firm-criminals-demand-80-000-2958894",
+        "added": "2024-04-01"
+    },
+    {
         "date": "2024-03-31",
         "victim": "Traverse City Area Public Schools",
         "domain": "tcaps.net",
@@ -13,7 +23,7 @@
         "date": "2023-07-10",
         "victim": "Risas Dental & Braces",
         "domain": "risasdental.com",
-        "country": "US",
+        "country": "USA",
         "summary": "Risas Dental & Braces à Phoenix, AZ, a récemment informé les patients d'une cyberattaque détectée en juillet 2023, lors de laquelle leurs informations de santé protégées ont été exposées. Des activités inhabituelles ont été identifiées dans ses systèmes informatiques le 10 juillet 2023, et des mesures immédiates ont été prises pour sécuriser son réseau. Les spécialistes externes en cybersécurité ont été engagés pour enquêter sur l'incident et déterminer la nature et l'ampleur de l'activité non autorisée.",
         "title": "MFA Bypassed in Cyberattack on L.A. County Department of Mental Health",
         "url": "https://www.hipaajournal.com/mfa-bypased-cyberattack-la-county-department-mental-health/",
@@ -23,7 +33,7 @@
         "date": "2023-09-08",
         "victim": "Wyndemere Senior Care",
         "domain": "wyndemerelcs.com",
-        "country": "US",
+        "country": "USA",
         "summary": "Wyndemere Senior Care LLC, basé à Wheaton, IL, a informé 6 846 personnes que certaines de leurs informations personnelles ont été exposées lors d'une cyberattaque détectée le 8 septembre 2023. Une activité suspecte a été détectée dans ses systèmes informatiques, confirmant un accès réseau non autorisé entre le 1er et le 8 septembre 2023. Une vérification des fichiers compromis a confirmé le 21 février 2024 que des noms et des numéros de compte financier avaient été exposés.",
         "title": "MFA Bypassed in Cyberattack on L.A. County Department of Mental Health",
         "url": "https://www.hipaajournal.com/mfa-bypased-cyberattack-la-county-department-mental-health/",
