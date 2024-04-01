@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-03-29",
+        "victim": "Torre Pacheco",
+        "domain": "torrepacheco.es",
+        "country": "ESP",
+        "summary": "La mairie de Torre Pacheco a été victime d'une cyberattaque de type ransomware le 29 mars, qui a compromis les systèmes d'information et pourrait affecter les données personnelles des résidents. Le maire a réagi en informant les autorités compétentes et en mettant en place un comité de crise, tout en appelant à l'unité face à la menace des cybercriminels. Des mesures de précaution sont recommandées aux résidents lors de la communication avec la mairie, et une notification a été envoyée à l'Agence Espagnole de Protection des Données.",
+        "title": "! Murcia Today - Torre Pacheco Town Hall Suffers Cyber Attack Which Could Affect Personal Info For Residents",
+        "url": "https://murciatoday.com/torre_pacheco_town_hall_suffers_cyber_attack_which_could_affect_personal_info_for_residents_1000028134-a.html",
+        "added": "2024-04-01"
+    },
+    {
         "date": "2024-03-31",
         "victim": "IxMetro Powerhost",
         "domain": "powerhost.cl",
