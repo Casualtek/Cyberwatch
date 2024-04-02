@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-03-31",
+        "victim": "Morón",
+        "domain": "moron.gob.ar",
+        "country": "ARG",
+        "summary": "Le système informatique du Municipio de Morón en Argentine a été victime d'une cyberattaque de type ransomware, où des données ont été chiffrées et une rançon demandée pour leur déchiffrement. Les services en ligne de la municipalité, y compris la page web officielle et les lignes téléphoniques, ont été gravement affectés, et les autorités ont déposé une plainte pénale. Il est prévu que la restauration des services informatiques prenne plusieurs jours, et en attendant, d'autres moyens de communication pour les urgences ont été mis à disposition des citoyens.",
+        "title": "Morón: El sistema informático del Municipio continúa caído tras el ataque cibernético",
+        "url": "https://laciudadweb.com.ar/moron-el-sistema-informatico-del-municipio-continua-caido-tras-el-ataque-cibernetico/",
+        "added": "2024-04-02"
+    },
+    {
         "date": "2024-03-26",
         "victim": "Ministère des Finances de Palau",
         "domain": "palaugov.pw",
