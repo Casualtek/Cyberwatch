@@ -1,6 +1,16 @@
 [
     {
         "date": "2024-03-29",
+        "victim": "Omni Hotels & Resorts",
+        "domain": "omnihotels.com",
+        "country": "USA",
+        "summary": "Les systèmes informatiques d'Omni Hotels & Resorts ont subi une panne à l'échelle nationale depuis vendredi, affectant les réservations, les serrures de portes des chambres d'hôtel et les systèmes de point de vente (POS). L'entreprise travaille à la restauration des systèmes hors ligne, mais n'a pas encore communiqué sur la cause de l'incident, bien que la nature et l'étendue des perturbations suggèrent qu'il pourrait s'agir d'une cyberattaque.",
+        "title": "Omni Hotels experiencing nationwide IT outage since Friday",
+        "url": "https://www.bleepingcomputer.com/news/security/omni-hotels-experiencing-nationwide-it-outage-since-friday/",
+        "added": "2024-04-03"
+    },
+    {
+        "date": "2024-03-29",
         "victim": "East Baton Rouge Sheriff's Office",
         "domain": "ebrso.org",
         "country": "USA",
