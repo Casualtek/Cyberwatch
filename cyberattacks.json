@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-03-29",
+        "victim": "East Baton Rouge Sheriff's Office",
+        "domain": "ebrso.org",
+        "country": "USA",
+        "summary": "Le bureau du shérif d'East Baton Rouge a subi une tentative de cyberattaque où les pirates ont réussi à obtenir une petite quantité de données, notamment des captures d'écran de dossiers et des images de fichiers vidéo. En réponse, le bureau a renforcé la sécurité de son réseau et travaille avec des partenaires étatiques et fédéraux pour enquêter sur l'incident. Le groupe de ransomware Medusa a revendiqué l'attaque et menace de divulguer plus d'informations, y compris des dossiers sensibles, si une rançon de 300 000 dollars n'est pas payée en moins de neuf jours.",
+        "title": "Data obtained in East Baton Rouge Sheriff's cyber attack | Crime/Police | theadvocate.com",
+        "url": "https://www.theadvocate.com/baton_rouge/news/crime_police/east-baton-rouge-sheriff-cyber-attack/article_e7e5d38c-f14a-11ee-ac0e-bb117ad8cea4.html",
+        "added": "2024-04-03"
+    },
+    {
         "date": "2023-02-12",
         "victim": "Bethel School District (BSD)",
         "domain": "bethelsd.org",
