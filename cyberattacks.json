@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-03-06",
+        "victim": "Birmingham",
+        "domain": "birminghamal.gov",
+        "country": "USA",
+        "summary": "La ville de Birmingham, en Alabama, a été victime d'une cyberattaque, identifiée comme un incident de ransomware, qui a perturbé ses services gouvernementaux depuis le 6 mars, forçant la municipalité à revenir à des processus manuels comme l'utilisation de feuilles de temps en papier pour enregistrer les heures de travail des employés. Bien que les services d'urgence comme le 911, la police et les pompiers n'aient pas été affectés, d'autres services tels que la paie, la taxation, les permis et les licences ont été impactés, avec des répercussions sur les entreprises et les citoyens cherchant à obtenir des permis.",
+        "title": "Paper-Based Payments Continue in Cyber-Struck Birmingham",
+        "url": "https://www.govtech.com/security/paper-based-payments-continue-in-cyber-struck-birmingham",
+        "added": "2024-04-03"
+    },
+    {
         "date": "2024-03-31",
         "victim": "Morón",
         "domain": "moron.gob.ar",
