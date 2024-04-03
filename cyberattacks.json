@@ -1,5 +1,15 @@
 [
     {
+        "date": "2023-02-12",
+        "victim": "Bethel School District (BSD)",
+        "domain": "bethelsd.org",
+        "country": "USA",
+        "summary": "Une cyberattaque a compromis les données personnelles des élèves et du personnel du Bethel School District, causant du stress et des problèmes financiers dans la communauté. L'attaque, qui a eu lieu en février, n'a été communiquée aux intéressés qu'en mars, et a entraîné des perturbations des systèmes informatiques et téléphoniques de l'établissement. Le district scolaire a engagé une entreprise pour enquêter et offre 12 mois de surveillance de crédit gratuite, bien que certains aient déjà été victimes de vol d'identité.",
+        "title": "Bethel School District data breach causes stress, financial issues for community",
+        "url": "https://komonews.com/news/local/bethel-school-district-pierce-county-washington-spanaway-data-breach-cyberattack-cyber-employee-staff-students-teachers-education-victim-stress-financial-issues-identify-theft-credit-cards-opened",
+        "added": "2024-04-03"
+    },
+    {
         "date": "2024-03-31",
         "victim": "NorthBay VacaValley Hospital",
         "domain": "northbay.org",
