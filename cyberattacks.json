@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-03-31",
+        "victim": "NorthBay VacaValley Hospital",
+        "domain": "northbay.org",
+        "country": "USA",
+        "summary": "L'hôpital NorthBay VacaValley à Vacaville a dû refuser des patients en raison d'une cyberattaque qui a entraîné la panne de ses systèmes informatiques. Les patients ne pouvaient pas être enregistrés ni accéder à leurs dossiers médicaux, et la patiente Linda Sperow a témoigné de la difficulté à obtenir des informations. L'hôpital a lancé une enquête avec l'aide d'experts en cybersécurité et travaille à rétablir les systèmes, tandis que l'expert en cybersécurité Paule Keener a souligné la vulnérabilité des hôpitaux aux cyberattaques en raison de la richesse des données qu'ils détiennent.",
+        "title": "Vacaville hospital turns away patients due to cyber incident, systems down - CBS Sacramento",
+        "url": "https://www.cbsnews.com/sacramento/news/northbay-health-cyber-incident-vacaville/",
+        "added": "2024-04-03"
+    },
+    {
         "date": "2024-04-02",
         "victim": "Comté de Jackson",
         "domain": "jacksongov.org",
