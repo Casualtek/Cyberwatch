@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-04-02",
+        "victim": "Comté de Jackson",
+        "domain": "jacksongov.org",
+        "country": "USA",
+        "summary": "Les bureaux d'évaluation, de collecte et d'enregistrement des actes du comté de Jackson seront fermés mercredi et peut-être le reste de la semaine en raison d'une attaque de ransomware découverte mardi par le département informatique du comté. Les autres systèmes du comté n'ont pas été affectés et les données des contribuables n'ont pas été compromises, selon le comté. Les autorités du comté ont confirmé mardi soir que les problèmes informatiques détectés plus tôt dans la journée étaient dus à une cyberattaque.",
+        "title": "Jackson County confirms ransomware attack affecting operations | Kansas City Star",
+        "url": "https://www.kansascity.com/news/politics-government/article287325225.html",
+        "added": "2024-04-03"
+    },
+    {
         "date": "2024-03-06",
         "victim": "Birmingham",
         "domain": "birminghamal.gov",
