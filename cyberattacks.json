@@ -1,5 +1,15 @@
 [
     {
+        "date": "2023-10-13",
+        "victim": "City of Hope",
+        "domain": "cityofhope.org",
+        "country": "USA",
+        "summary": "La City of Hope, un centre de recherche clinique et de traitement du cancer basé en Californie, a été victime d'une cyberattaque qui a compromis les informations personnelles et de santé protégées de 827 000 personnes. L'activité suspecte a été détectée le 13 octobre 2023 et une enquête a révélé un accès non autorisé à certains systèmes entre le 19 septembre et le 12 octobre 2023, avec exfiltration de données. La City of Hope a renforcé ses mesures de sécurité et offre deux ans de services de surveillance de crédit et de protection contre le vol d'identité aux individus affectés.",
+        "title": "City of Hope Cyberattack Affects 827,000 Individuals",
+        "url": "https://www.hipaajournal.com/city-of-hope-cyberattack-affects-827000-individuals/",
+        "added": "2024-04-03"
+    },
+    {
         "date": "2024-02-04",
         "victim": "Ernest Health",
         "domain": "ernesthealth.com",
