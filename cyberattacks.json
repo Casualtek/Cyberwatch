@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-02-04",
+        "victim": "Ernest Health",
+        "domain": "ernesthealth.com",
+        "country": "USA",
+        "summary": "Trois hôpitaux de réadaptation en Caroline du Sud ont signalé des cyberattaques le 2 avril, affectant 12 515 personnes. Les attaquants ont eu accès aux réseaux internes entre le 16 janvier et le 4 février 2024, compromettant les données personnelles des employés. Ces trois établissements font partie du réseau Ernest Health, contre lequel une cyberattaque a été revendiquée sur le site vitrine de la franchise LockBit 3.0 le 26 février 2024.",
+        "title": "Series of cyberattacks hit rehabilitation hospitals | Cybernews",
+        "url": "https://cybernews.com/news/rehabilitation-hospitals-cyberattack-south-carolina/",
+        "added": "2024-04-03"
+    },
+    {
         "date": "2024-03-29",
         "victim": "Omni Hotels & Resorts",
         "domain": "omnihotels.com",
