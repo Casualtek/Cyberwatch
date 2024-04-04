@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-03-30",
+        "victim": "Hoya Corp",
+        "domain": "hoya.co.jp",
+        "country": "JPN",
+        "summary": "La société japonaise de fabrication de lentilles Hoya Corp a arrêté la production de plusieurs de ses produits suite à une défaillance de système probablement causée par un accès non autorisé à ses serveurs. Hoya a détecté une anomalie dans l'un de ses bureaux à l'étranger le samedi et malgré ses tentatives d'isoler les serveurs affectés, la perturbation s'est confirmée. L'entreprise enquête pour savoir si des données confidentielles ou personnelles ont été compromises et collabore avec les autorités pour reprendre la production dès que possible.",
+        "title": "Japanese lens maker Hoya halts production after cyberattack | Reuters",
+        "url": "https://www.reuters.com/technology/cybersecurity/japanese-lens-maker-hoya-halts-production-after-cyberattack-2024-04-04/",
+        "added": "2024-04-04"
+    },
+    {
         "date": "2023-10-13",
         "victim": "City of Hope",
         "domain": "cityofhope.org",
