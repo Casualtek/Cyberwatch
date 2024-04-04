@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-02-17",
+        "victim": "Otolaryngology Associates (OA)",
+        "domain": "otolaryn.com",
+        "country": "USA",
+        "summary": "Otolaryngology Associates (OA) a été victime d'une cyberattaque le 17 février 2024, au cours de laquelle des données ont potentiellement été exfiltrées, bien que le système de dossiers médicaux n'ait pas été compromis. Les informations susceptibles d'avoir été dérobées comprennent des données de facturation et, pour certains individus, des informations sensibles telles que le numéro de sécurité sociale et les coordonnées bancaires. OA a pris des mesures pour renforcer la sécurité, a informé le FBI, engagé une firme de cybersécurité pour enquêter, et conseille aux patients et au personnel de surveiller leurs comptes pour détecter toute activité frauduleuse.",
+        "title": "Important Notice About a Data Breach | Otolaryngology Associates",
+        "url": "https://otolaryn.com/important-notice-about-a-data-breach/",
+        "added": "2024-04-04"
+    },
+    {
         "date": "2023-09-11",
         "victim": "Benefit Management Corporation",
         "domain": "webpayee.com",
