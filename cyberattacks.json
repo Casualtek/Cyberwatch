@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-03-15",
+        "victim": "Diabetes WA",
+        "domain": "diabeteswa.com.au",
+        "country": "AUS",
+        "summary": "Diabetes WA a été victime d'une cyberattaque qui a permis à un tiers d'accéder aux informations personnelles de certains de ses contacts, mais aucune donnée médicale détaillée n'a été consultée. L'incident a été rapidement détecté, contenu et fait l'objet d'une enquête selon le plan de réponse à la cybersécurité de l'organisation. Diabetes WA a conseillé aux individus affectés de remplacer leur numéro de carte Medicare et a fourni des recommandations pour se protéger contre la fraude d'identité, tout en offrant un contact pour plus d'informations ou d'assistance.",
+        "title": "Notification of Privacy Incident | Diabetes WA",
+        "url": "https://www.diabeteswa.com.au/notification-of-privacy-incident/",
+        "added": "2024-04-04"
+    },
+    {
         "date": "2024-02-17",
         "victim": "Otolaryngology Associates (OA)",
         "domain": "otolaryn.com",
