@@ -1,5 +1,15 @@
 [
     {
+        "date": "2023-09-11",
+        "victim": "Benefit Management Corporation",
+        "domain": "webpayee.com",
+        "country": "USA",
+        "summary": "La Benefit Management Corporation a signalé une violation de données au procureur général du Massachusetts après qu'une partie non autorisée ait accédé à son réseau informatique entre le 8 et le 11 septembre 2023, exposant des informations sensibles de certains clients d'Osaic Wealth, incluant noms, numéros de sécurité sociale et informations de comptes financiers. Après avoir terminé son enquête, Benefit Management a commencé à envoyer des lettres de notification de la brèche de données aux individus affectés le 29 mars 2024. Benefit Management Corporation est une entreprise de services financiers basée à Lincoln, Nebraska, et est enregistrée pour la vente de produits de sécurité à travers Osaic Wealth, un réseau de firmes de gestion de patrimoine indépendantes.",
+        "title": "Cyberattack at Benefit Management Corp. Results in Data Breach Affecting Certain Osaic Wealth Clients | Console and Associates, P.C. - JDSupra",
+        "url": "https://www.jdsupra.com/legalnews/cyberattack-at-benefit-management-corp-7923688/",
+        "added": "2024-04-04"
+    },
+    {
         "date": "2024-03-30",
         "victim": "Hoya Corp",
         "domain": "hoya.co.jp",
