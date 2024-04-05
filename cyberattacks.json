@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-03-29",
+        "victim": "Département de la Justice pour Mineurs de Floride",
+        "domain": "djj.state.fl.us",
+        "country": "USA",
+        "summary": "Le réseau informatique du Département de la Justice pour Mineurs de Floride à Tallahassee a été piraté, entraînant une mise hors ligne de certains systèmes informatiques depuis le 29 mars, suite à des préoccupations de sécurité non spécifiées. L'attaque a été initiée par un employé ouvrant un courriel infecté, et les pirates demandent une rançon pour restaurer les systèmes de l'agence. Cette cyberattaque perturbe le fonctionnement de l'agence, empêchant les employés d'accéder aux dossiers nécessaires pour les audiences judiciaires et les suivis de probation des jeunes délinquants.",
+        "title": "Florida juvenile justice systems offline after hacker break-in",
+        "url": "https://eu.tallahassee.com/story/news/politics/2024/04/04/florida-juvenile-justice-systems-offline-after-hacker-break-in/73207520007/",
+        "added": "2024-04-05"
+    },
+    {
         "date": "2024-03-31",
         "victim": "Festspielhaus Baden-Baden",
         "domain": "destspielhaus.de",
