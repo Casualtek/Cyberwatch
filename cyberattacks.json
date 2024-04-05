@@ -1,10 +1,20 @@
 [
     {
+        "date": "2024-04-02",
+        "victim": "Prepay Technologies",
+        "domain": "prepay.es",
+        "country": "ESP",
+        "summary": "En raison d'une cyber-attaque contre Prepay Technologies, la société qui gère une grande partie du réseau de recharge d'AUCORSA (machines à bord des bus et terminaux de recharge dans les établissements), ces services sont temporairement inopérants. Les travaux de récupération sont accélérés avec la collaboration des autorités compétentes.",
+        "title": "Servicio de recargas en máquinas embarcadas y puntos de recarga inoperativo",
+        "url": "https://twitter.com/aucorsa/status/1775478234039128147",
+        "added": "2024-04-05"
+    },
+    {
         "date": "2024-03-22",
         "victim": "Panera Bread",
         "domain": "panerabread.com",
         "country": "USA",
-        "summary": "L'entreprise Panera Bread a subi une panne informatique d'une semaine due à une attaque par rançongiciel, qui a chiffré de nombreuses machines virtuelles de l'entreprise, empêchant l'accès aux données et applications. Aucun groupe de rançongiciel n'a revendiqué l'attaque, et Panera n'a pas communiqué sur l'incident, suscitant l'inquiétude des employés quant à la transparence de l'entreprise et la sécurité de leurs données. L'attaque a entraîné des perturbations majeures, notamment l'impossibilité de traiter les paiements électroniques et d'accéder aux systèmes de programme de fidélité, affectant les opérations des 2 160 cafés de l'entreprise aux",
+        "summary": "L'entreprise Panera Bread a subi une panne informatique d'une semaine due à une attaque par rançongiciel, qui a chiffré de nombreuses machines virtuelles de l'entreprise, empêchant l'accès aux données et applications. Aucun groupe de rançongiciel n'a revendiqué l'attaque, et Panera n'a pas communiqué sur l'incident, suscitant l'inquiétude des employés quant à la transparence de l'entreprise et la sécurité de leurs données. L'attaque a entraîné des perturbations majeures, notamment l'impossibilité de traiter les paiements électroniques et d'accéder aux systèmes de programme de fidélité, affectant les opérations des 2 160 cafés de l'entreprise.",
         "title": "Panera Bread week-long IT outage caused by ransomware attack",
         "url": "https://www.bleepingcomputer.com/news/security/panera-bread-week-long-it-outage-caused-by-ransomware-attack/",
         "added": "2024-04-05"
