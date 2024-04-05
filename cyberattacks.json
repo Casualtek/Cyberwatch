@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-04-07",
+        "victim": "Comté de Hernando (Hernando County)",
+        "domain": "hernandocounty.us",
+        "country": "USA",
+        "summary": "Au cours du week-end de Pâques, une perturbation notable a affecté les services informatiques du comté de Hernando, rendant de nombreux sites web gouvernementaux inaccessibles. Le comté a fait appel à la Cybersecurity and Infrastructure Security Agency (CISA) fédérale et à Digital Florida pour travailler avec l'équipe d'intervention en cas d'incident du bureau du greffier, tandis que des services essentiels comme les urgences et les bibliothèques restent opérationnels. L'enquête sur la panne informatique est en cours et les détails seront communiqués à son issue, tandis que les employés du comté font face à des retards de communication en raison de l'indisponibilité de l'email.",
+        "title": "County's It Outage Is Under Active Investigation - Hernando Sun",
+        "url": "https://www.hernandosun.com/2024/04/04/countys-it-outage-is-under-active-investigation/",
+        "added": "2024-04-05"
+    },
+    {
         "date": "2024-03-15",
         "victim": "Diabetes WA",
         "domain": "diabeteswa.com.au",
