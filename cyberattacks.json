@@ -1,6 +1,16 @@
 [
     {
-        "date": "2024-04-07",
+        "date": "2024-03-31",
+        "victim": "Festspielhaus Baden-Baden",
+        "domain": "destspielhaus.de",
+        "country": "DEU",
+        "summary": "Le récent Festival de Pâques au Festspielhaus de Baden-Baden s'est déroulé avec succès. Mais en coulisses, une cyber-attaque a provoqué des tensions.",
+        "title": "Cyber-Angriff auf Festspielhaus Baden-Baden während der Osterfestspiele",
+        "url": "https://bnn.de/mittelbaden/baden-baden/cyber-angriff-auf-festspielhaus-baden-baden-waehrend-der-osterfestspiele",
+        "added": "2024-04-05"
+    },
+    {
+        "date": "2024-03-31",
         "victim": "Comté de Hernando (Hernando County)",
         "domain": "hernandocounty.us",
         "country": "USA",
