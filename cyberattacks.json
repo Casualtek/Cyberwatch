@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-04-04",
+        "victim": "Communauté de communes du bassin mussipontain",
+        "domain": "bassin-pont-a-mousson.fr",
+        "country": "FRA",
+        "summary": "La communauté de communes du bassin mussipontain a subi une cyberattaque avec demande de rançon le 4 avril, marquant une première d'une telle ampleur pour la collectivité, sans qu'aucune donnée personnelle ne soit compromise grâce à l'activation d'une cellule de crise et au fonctionnement des pare-feux. Une rançon en bitcoins a été demandée par les hackers, mais le président Henry Lemoine a précisé que les collectivités locales ne peuvent effectuer de paiement sans l'aval du Trésor public. Suite à l'attaque, une plainte a été déposée et les mesures de sécurité ont été renforcées, notamment par la sensibilisation des agents à effectuer des sauvegardes plus fréquentes et à être plus vigilants.",
+        "title": "Bassin mussipontain. Une cyberattaque avec demande de rançon touche la communauté de communes du bassin de Pont-à-Mousson",
+        "url": "https://www.estrepublicain.fr/societe/2024/04/06/la-communaute-de-communes-victime-d-une-cyberattaque-avec-demande-de-rancon",
+        "added": "2024-04-06"
+    },
+    {
         "date": "2024-04-02",
         "victim": "Prepay Technologies",
         "domain": "prepay.es",
