@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-04-07",
+        "victim": "St. Elisabeth-Stiftung",
+        "domain": "st-elisabeth-stiftung.de",
+        "country": "DEU",
+        "summary": "L'article semble être une notification standard concernant l'utilisation de cookies et de technologies similaires sur le site web de \"dieBildschirmzeitung\", expliquant comment les données personnelles des utilisateurs, telles que les adresses IP, sont traitées pour personnaliser le contenu et les annonces, intégrer des médias de tiers, et analyser le trafic sur le site. Il mentionne également que certaines données peuvent être traitées dans des pays tiers considérés comme non sécurisés, ce qui pourrait exposer les données des utilisateurs à des risques de surveillance par les autorités sans possibilité de recours. Enfin, il informe les utilisateurs de leurs droits concernant le consentement et le retrait de celui-ci, ainsi que de la possibilité de refuser certaines utilisations de leurs données.",
+        "title": "Cyberangriff auf die St. Elisabeth-Stiftung - dieBildschirmzeitung",
+        "url": "https://www.diebildschirmzeitung.de/allgaeu-oberschwaben/bad-waldsee/cyberangriff-auf-die-st-elisabeth-stiftung-46748/",
+        "added": "2024-04-08"
+    },
+    {
         "date": "2024-04-02",
         "victim": "Riley County",
         "domain": "rileycountyks.gov",
