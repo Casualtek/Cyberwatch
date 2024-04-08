@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-04-07",
+        "victim": "CVS Group",
+        "domain": "cvsukltd.co.uk",
+        "country": "GBR",
+        "summary": "CVS Group, un fournisseur de services vétérinaires coté à Londres, a détecté et intercepté une cyberattaque visant certains de ses systèmes informatiques au Royaume-Uni, entraînant des perturbations dans ses opérations. L'entreprise a engagé un consultant externe pour enquêter sur la nature et l'étendue de l'incident. En réponse à cette attaque, CVS Group accélère le transfert de son système de gestion de pratique et de son infrastructure informatique vers le Cloud pour améliorer la sécurité et l'efficacité opérationnelle.",
+        "title": "CVS Group Flags Cyberattack on U.K. Operations - MarketWatch",
+        "url": "https://www.marketwatch.com/story/cvs-group-flags-cyberattack-on-u-k-operations-8bea232a",
+        "added": "2024-04-08"
+    },
+    {
         "date": "2024-04-04",
         "victim": "Communauté de communes du bassin mussipontain",
         "domain": "bassin-pont-a-mousson.fr",
@@ -540,13 +550,13 @@
         "added": "2024-03-20"
     },
     {
-        "date": "2024-02-18",
+        "date": "2024-02-01",
         "victim": "Fondouest",
         "domain": "fondouest.com",
         "country": "FRA",
-        "summary": "Dataouest, une entreprise de services numériques basée à Saint-Lô, organise une table ronde sur la cybersécurité le 4 avril 2024, suite à une cyberattaque subie par l'un de ses clients, Fondouest, par le groupe de hackers Lockbit. L'attaque a paralysé l'entreprise Fondouest, bloquant les ordinateurs de 65 collaborateurs et dix serveurs, et a nécessité la reconstruction de tout le réseau. La table ronde vise à partager des bonnes pratiques en cybersécurité et à sensibiliser les entreprises à l'importance de la formation des employés, notamment dans la gestion des courriels.",
+        "summary": "Dataouest, une entreprise de services numériques basée à Saint-Lô, organise une table ronde sur la cybersécurité le 4 avril 2024, suite à une cyberattaque subie par l'un de ses clients, Fondouest, avec le ransomware Lockbit. L'attaque a paralysé l'entreprise Fondouest, bloquant les ordinateurs de 65 collaborateurs et dix serveurs, et a nécessité la reconstruction de tout le réseau. La table ronde vise à partager des bonnes pratiques en cybersécurité et à sensibiliser les entreprises à l'importance de la formation des employés, notamment dans la gestion des courriels.",
         "title": "À Saint-Lô, cette entreprise informatique organise une table ronde autour de la cybersécurité | La Presse de la Manche",
-        "url": "https://actu.fr/normandie/saint-lo_50502/a-saint-lo-cette-entreprise-informatique-organise-une-table-ronde-autour-de-la-cybersecurite_60799758.html",
+        "url": "https://actu.fr/normandie/saint-lo_50502/cyberattaques-contre-les-entreprises-il-y-a-des-boites-qui-coulent_60916297.html",
         "added": "2024-03-20"
     },
     {
