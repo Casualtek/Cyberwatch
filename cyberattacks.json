@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-04-03",
+        "victim": "New Mexico Highlands University",
+        "domain": "nmhu.edu",
+        "country": "USA",
+        "summary": "L'Université New Mexico Highlands a été la cible d'une attaque par ransomware la semaine dernière, entraînant l'annulation des cours et des perturbations dans les systèmes de paie des employés. Bien qu'il n'y ait pas encore d'indication que les données des étudiants ou des employés aient été compromises, une enquête plus approfondie est nécessaire pour en être certain. En réponse, l'université a collaboré avec le FBI et diverses agences d'État, et a pris des mesures pour isoler l'attaque en mettant hors ligne le serveur affecté.",
+        "title": "Ransomware Attack Hits New Mexico Highlands University",
+        "url": "https://www.govtech.com/education/higher-ed/ransomware-attack-hits-new-mexico-highlands-university",
+        "added": "2024-04-08"
+    },
+    {
         "date": "2024-04-07",
         "victim": "St. Elisabeth-Stiftung",
         "domain": "st-elisabeth-stiftung.de",
