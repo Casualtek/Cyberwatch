@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-04-05",
+        "victim": "Targus",
+        "domain": "targus.com",
+        "country": "USA",
+        "summary": "Targus, fabricant d'accessoires pour ordinateurs portables et tablettes, a révélé avoir été victime d'une cyberattaque qui a perturbé ses opérations après qu'un acteur malveillant ait accédé à ses serveurs de fichiers. L'incident, détecté le 5 avril 2024, a été contenu avec l'aide de consultants en cybersécurité, entraînant une interruption temporaire des opérations commerciales de Targus. Bien que l'entreprise ait notifié les autorités réglementaires et les forces de l'ordre, elle n'a pas confirmé si des données d'entreprise ont été dérobées lors de l'attaque.",
+        "title": "Targus discloses cyberattack after hackers detected on file servers",
+        "url": "https://www.bleepingcomputer.com/news/security/targus-discloses-cyberattack-after-hackers-detected-on-file-servers/",
+        "added": "2024-04-09"
+    },
+    {
         "date": "2024-04-03",
         "victim": "New Mexico Highlands University",
         "domain": "nmhu.edu",
