@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-04-07",
+        "victim": "GBI-Genios Deutsche Wirtschaftsdatenbank GmbH",
+        "domain": "genios.de",
+        "country": "DEU",
+        "summary": "Le fournisseur de bases de données allemand Genios a été victime d'une cyberattaque par ransomware, rendant ses sites internet, y compris www.genios.de, www.ebib.genios.de et www.wiso.de, inaccessibles depuis lundi. Genios, une filiale de la Frankfurter Allgemeinen Zeitung et de la Handelsblatt Media Group, est connu pour ses bases de données de textes scientifiques, économiques et d'articles de presse utilisées par de nombreuses bibliothèques et institutions académiques. L'entreprise a signalé une attaque \"massive\" et a indiqué travailler intensivement à la résolution du problème, mais prévoit un arrêt de service de plusieurs jours et des communications limitées.",
+        "title": "Angriff auf Wissenschaftsdatenbank: Cyberkriminelle legen Genios lahm | heise online",
+        "url": "https://www.heise.de/news/Angriff-auf-Wissenschaftsdatenbank-Cyberkriminelle-legen-Genios-lahm-9678712.html",
+        "added": "2024-04-09"
+    },
+    {
         "date": "2024-04-05",
         "victim": "Targus",
         "domain": "targus.com",
