@@ -1,5 +1,15 @@
 [
     {
+        "date": "2021-07-30",
+        "victim": "Asl Roma 3",
+        "domain": "aslroma3.it",
+        "country": "ITA",
+        "summary": "Le Garante privacy italien a infligé des amendes totalisant 400 000 euros à LazioCrea, la Regione Lazio et l'Asl Roma 3 pour ne pas avoir mis en place des mesures de sécurité adéquates, permettant ainsi une attaque ransomware sur les systèmes informatiques de la région le 30 juillet 2021, en pleine campagne de vaccination. L'attaque, facilitée par l'introduction du malware Lockbit 2.0 via un ordinateur portable d'un employé, a bloqué l'accès à des services sanitaires essentiels, exposant des données personnelles.",
+        "title": "Regione Lazio, attacco ransomware: multe per 400mila euro | Wired Italia",
+        "url": "https://www.wired.it/article/regione-lazio-attacco-ransomware-multe/",
+        "added": "2024-04-10"
+    },
+    {
         "date": "2024-02-20",
         "victim": "On Q Financial",
         "domain": "onqfinancial.com",
