@@ -1,5 +1,15 @@
 [
     {
+        "date": "2023-05-30",
+        "victim": "Greylock McKinnon Associates",
+        "domain": "gma-us.com",
+        "country": "USA",
+        "summary": "Une cyberattaque contre Greylock McKinnon Associates, une entreprise de conseil basée à Boston travaillant pour le Département de la Justice des États-Unis, a compromis les informations Medicare et d'autres données médicales de près de 342 000 personnes. L'incident, qui n'est pas couvert par les règles HIPAA, a mis en lumière les risques de cybersécurité pour les informations de santé gérées par des entreprises extérieures au cadre HIPAA. En réponse, des actions en justice ont été engagées contre GMA, et un débat sur la nécessité d'une législation nationale sur la protection de la vie privée aux États-Unis, similaire au RGPD de l'Union Européenne, a été relancé.",
+        "title": "Firm Says Medicare Info Obtained From DOJ Breached in Attack",
+        "url": "https://www.govinfosecurity.com/firm-says-medicare-info-obtained-from-doj-breached-in-attack-a-24814",
+        "added": "2024-04-10"
+    },
+    {
         "date": "2024-02-16",
         "victim": "East Central University (ECU)",
         "domain": "ecu.edu",
