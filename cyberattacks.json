@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-02-16",
+        "victim": "East Central University (ECU)",
+        "domain": "ecu.edu",
+        "country": "USA",
+        "summary": "L'Université ECU enquête sur une cyberattaque détectée tôt le matin lorsque le département informatique a commencé à recevoir des alertes concernant des activités anormales. Dès l'après-midi, une tierce partie a été sollicitée sur le campus pour gérer la situation. C#est le groupe BlackSuit qui a tenté d'infiltrer le SI de l'université.",
+        "title": "ECU investigating cyberattack - KTEN - Your source for Texoma news, sports and weather",
+        "url": "https://www.kten.com/story/50653612/ecu-investigates-cyberattack",
+        "added": "2024-04-10"
+    },
+    {
         "date": "2024-04-07",
         "victim": "GBI-Genios Deutsche Wirtschaftsdatenbank GmbH",
         "domain": "genios.de",
