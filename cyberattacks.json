@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-03-02",
+        "victim": "American Renal Associates",
+        "domain": "innovativerenal.com",
+        "country": "USA",
+        "summary": "L'American Renal Associates (désormais connu sous le nom d'Innovative Renal Care), qui compte plus de 230 établissements aux États-Unis, est devenu la dernière victime en date d'une attaque de ransomware dans le secteur clinique-hospitalier. Récemment, le groupe Medusa a mis à la disposition du public, sur son site web, des milliers de données PHI et PII volées sur les serveurs de l'entreprise.",
+        "title": "American Renal Associates, nearly 20,000 patients are affected by the data breach",
+        "url": "https://www.suspectfile.com/american-renal-associates-nearly-20000-patients-are-affected-by-the-data-breach/",
+        "added": "2024-04-10"
+    },
+    {
         "date": "2023-05-30",
         "victim": "Greylock McKinnon Associates",
         "domain": "gma-us.com",
