@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-02-20",
+        "victim": "On Q Financial",
+        "domain": "onqfinancial.com",
+        "country": "USA",
+        "summary": "On Q Financial, une société de prêts hypothécaires basée en Arizona, a signalé une violation de données affectant 211,650 clients au bureau du procureur général du Maine le 2 avril, suite à une exploitation de vulnérabilité dans le logiciel ScreenConnect de ConnectWise, détectée le 20 février. Le groupe de rançongiciel BianLian a revendiqué la responsabilité de l'attaque, affirmant avoir volé 1TB de données, y compris des informations financières et personnelles. ConnectWise avait préalablement averti d'une vulnérabilité critique (CVSS 10/10) dans ScreenConnect, mais malgré les avertissements, de nombreux serveurs sont restés non patchés, permettant aux attaquants d'exploiter",
+        "title": "On Q Financial announces data breach, law firm feeding frenzy follows - DataBreaches.net",
+        "url": "https://databreaches.net/on-q-financial-announces-data-breach-law-firm-feeding-frenzy-follows/",
+        "added": "2024-04-10"
+    },
+    {
         "date": "2024-04-10",
         "victim": "Ville de Saint-Nazaire et son agglomération",
         "domain": "saintnazaire.fr",
