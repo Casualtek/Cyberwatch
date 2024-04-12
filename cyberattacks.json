@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-04-09",
+        "victim": "The Heritage Foundation",
+        "domain": "heritage.org",
+        "country": "USA",
+        "summary": "Le groupe de réflexion conservateur The Heritage Foundation a été victime d'une cyberattaque plus tôt cette semaine, entraînant la fermeture de son réseau pour enquêter sur l'incident, selon Politico. Bien que l'origine de l'attaque soit attribuée à des pirates informatiques nationaux, aucune preuve n'a été fournie pour étayer cette affirmation. Heritage, un acteur influent dans la politique républicaine, a précédemment été la cible d'une cyberattaque en 2015, où des courriels internes et des informations personnelles de donateurs ont été volés.",
+        "title": "US think tank Heritage Foundation hit by cyberattack",
+        "url": "https://techcrunch.com/2024/04/12/heritage-foundation-cyberattack/",
+        "added": "2024-04-12"
+    },
+    {
         "date": "2024-04-11",
         "victim": "Swinomish Casino and Lodge",
         "domain": "swinomishcasinoandlodge.com",
