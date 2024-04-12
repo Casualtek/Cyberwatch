@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-04-04",
+        "victim": "Bielefeld Fertility Center",
+        "domain": "kinderwunsch-bielefeld.de",
+        "country": "DEU",
+        "summary": "Un incident de sécurité important survenu dans le Centre de Fertilité de Bielefeld le 4 avril 2024. Le système informatique a été la cible d'une attaque avec ransomware ce jour-là. Il n'est pas possible de confirmer avec certitude si des données de patients ont été affectées, mais les experts en forensique estiment qu'il n'y a pas eu de fuite de données.",
+        "title": "Wichtige Patienteninformation - BIELEFELD FERTILITY CENTER",
+        "url": "https://www.kinderwunsch-bielefeld.de/2024/04/10/wichtige-patienteninformation/",
+        "added": "2024-04-12"
+    },
+    {
         "date": "2024-04-09",
         "victim": "The Heritage Foundation",
         "domain": "heritage.org",
