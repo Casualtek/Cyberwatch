@@ -1,6 +1,16 @@
 [
     {
         "date": "2024-04-11",
+        "victim": "Swinomish Casino and Lodge",
+        "domain": "swinomishcasinoandlodge.com",
+        "country": "USA",
+        "summary": "Le Swinomish Casino and Lodge a été fermé en raison d'une cyberattaque. Les détails spécifiques de l'attaque, tels que la méthode utilisée ou l'identité des attaquants, ne sont pas fournis dans votre message. Les conséquences immédiates pour le casino et les mesures prises en réponse à l'attaque ne sont pas non plus mentionnées.",
+        "title": "Cyber attack closes Swinomish Casino and Lodge",
+        "url": "https://www.fox13seattle.com/news/cyber-attack-swinomish-casino-lodge",
+        "added": "2024-04-12"
+    },
+    {
+        "date": "2024-04-11",
         "victim": "Taiwan United Renewable Energy Corporation (URECO)",
         "domain": "urecorp.com",
         "country": "TWN",
