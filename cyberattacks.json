@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-04-02",
+        "victim": "NorthBay Health",
+        "domain": "northbay.org",
+        "country": "USA",
+        "summary": "Le 10 avril 2024, NorthBay Health a annoncé avoir été cible d'une cyberattaque, entraînant la mise hors ligne de certains de ses systèmes informatiques pour investigation, avec une attention particulière sur la possibilité d'un accès non autorisé aux informations confidentielles des patients. Bien qu'il soit encore trop tôt pour confirmer une fuite de données, l'entreprise, qui est un prestataire de services de santé basé en Californie et fondé en 1960, pourrait être obligée d'envoyer des lettres de notification de violation de données aux individus affectés si une fuite est confirmée. NorthBay Health collabore avec des experts en cybersécurité pour résoudre l'incident et a repris certaines activités, telles que les rendez-vous de soins",
+        "title": "NorthBay Health Targeted in Cyberattack, Raising Concerns of Possible Data Breach | Console and Associates, P.C. - JDSupra",
+        "url": "https://www.jdsupra.com/legalnews/northbay-health-targeted-in-cyberattack-3357738/",
+        "added": "2024-04-14"
+    },
+    {
         "date": "2024-04-04",
         "victim": "Bielefeld Fertility Center",
         "domain": "kinderwunsch-bielefeld.de",
