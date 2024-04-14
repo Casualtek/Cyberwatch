@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-04-11",
+        "victim": "Iddink Learning Materials",
+        "domain": "iddink.nl",
+        "country": "NLD",
+        "summary": "La société Iddink Learning Materials, basée à Ede et spécialisée dans la distribution de livres et de matériel pédagogique, a été victime d'une cyberattaque jeudi, avec une possible fuite ou consultation de données personnelles, incluant noms, adresses e-mail et informations bancaires de clients tels que des écoles et des élèves. L'attaque a été découverte le même jour, et une enquête est en cours pour déterminer l'étendue des dommages, tandis que les systèmes affectés ont été immédiatement isolés et les autorités compétentes alertées. Le groupe responsable de l'attaque s'identifierait sous le nom de Cactus, mais aucun contact n'a été établi avec eux.",
+        "title": "Cyberaanval op boekenleverancier, mogelijk bankgegevens gestolen",
+        "url": "https://www.welingelichtekringen.nl/samenleving/cyberaanval-op-boekenleverancier-mogelijk-bankgegevens-gestolen",
+        "added": "2024-04-14"
+    },
+    {
         "date": "2024-04-02",
         "victim": "NorthBay Health",
         "domain": "northbay.org",
