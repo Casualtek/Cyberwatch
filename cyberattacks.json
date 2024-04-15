@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-01-02",
+        "victim": "Itac",
+        "domain": "itac.org.za",
+        "country": "ZAF",
+        "summary": "L'organisme de tarification à l'importation Itac a été ciblé par une attaque de ransomware, entraînant la prise de mesures immédiates telles que la fermeture des serveurs affectés, la mise à niveau des pare-feu et des antivirus, et le lancement d'une enquête approfondie. Itac a reconnu que des informations personnelles concernant ses employés, prestataires de services, importateurs, exportateurs et autres parties prenantes, stockées sur ses serveurs, pourraient avoir été compromises et potentiellement extraites par les hackers.",
+        "title": "Import tariff body Itac was targeted in ransomware attack",
+        "url": "https://www.timeslive.co.za/news/south-africa/2024-04-15-import-tariff-body-itac-was-targeted-in-ransomware-attack/",
+        "added": "2024-04-15"
+    },
+    {
         "date": "2024-04-11",
         "victim": "Iddink Learning Materials",
         "domain": "iddink.nl",
