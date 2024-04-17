@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-03-11",
+        "victim": "Instituto Hondureño del Transporte Terrestre (IHTT)",
+        "domain": "transporte.gob.hn",
+        "country": "HND",
+        "summary": "Le président du Instituto Hondureño del Transporte Terrestre (IHTT), Rafael Barahona, a annoncé que l'institution a été victime d'une cyberattaque il y a plus d'un mois, entraînant le dépôt de plaintes auprès de l'unité des délits cybernétiques. Ils ont réussi à sauvegarder et migrer toutes les données vers le cloud avec l'aide d'urgence de Huawei, qui a fourni trois mois d'hébergement. Barahona a souligné que cette attaque, demandant une rançon pour restaurer les systèmes, représente une nouvelle forme de criminalité affectant également le Honduras.",
+        "title": "El IHTT es “víctima” de ataque cibernético, revela comisionado - Diario La Tribuna",
+        "url": "https://www.latribuna.hn/2024/04/16/el-ihtt-es-victima-de-ataque-cibernetico-revela-comisionado/",
+        "added": "2024-04-17"
+    },
+    {
         "date": "2024-04-16",
         "victim": "Norrmjerier",
         "domain": "norrmjerier.se",
