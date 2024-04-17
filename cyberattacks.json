@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-03-15",
+        "victim": "Heinrich-Heine-Universität Düsseldorf",
+        "domain": "hhu.de",
+        "country": "DEU",
+        "summary": "La Heinrich-Heine-Universität Düsseldorf a été victime d'une cyberattaque en mars, au cours de laquelle des données ont été consultées et partiellement téléchargées, incluant des informations sur environ 15 000 étudiants et plus de 60 000 identifiants universitaires. Les attaquants ont exploité des accès volés pour pénétrer dans le système d'examen en ligne et un autre ensemble de données, mais il n'y a eu aucune manipulation des résultats des examens. La sécurité renforcée mise en place par l'université a permis de détecter rapidement l'attaque, de bloquer les accès compromis et de prendre des mesures pour prévenir d'autres dommages, et une plainte a été déposée.",
+        "title": "Hackerangriff: Düsseldorfer Heinrich-Heine-Universität erneut attackiert",
+        "url": "https://www.nrz.de/staedte/duesseldorf/article242112184/Hackerangriff-Duesseldorfer-Heinrich-Heine-Uni-erneut-Ziel.html",
+        "added": "2024-04-17"
+    },
+    {
         "date": "2024-04-16",
         "victim": "Hôpital Simone Veil à Cannes",
         "domain": "ch-cannes.fr",
