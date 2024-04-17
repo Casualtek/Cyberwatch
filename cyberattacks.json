@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-04-15",
+        "victim": "Le Slip Français",
+        "domain": "leslipfrancais.fr",
+        "country": "FRA",
+        "summary": "Le Slip Français, une entreprise spécialisée dans la vente de sous-vêtements, a été victime d'une cyberattaque le 15 avril, entraînant le vol de certaines données personnelles de ses clients, mais sans compromettre les mots de passe ou les données de carte de paiement. L'entreprise a réagi en formant une cellule de crise avec des experts en cybersécurité pour circonscrire l'attaque et surveiller d'éventuelles fraudes. Une plainte a été déposée et un signalement a été fait à la CNIL, bien que l'ampleur de l'attaque reste à déterminer, et l'entreprise a informé ses clients, y compris ceux désinscrits, de manière préventive.",
+        "title": "Des données \"volées par des hackers\": le Slip Français victime d'une cyberattaque",
+        "url": "https://www.bfmtv.com/tech/actualites/cybersecurite/des-donnees-volees-par-des-hackers-le-slip-francais-victime-d-une-cyberattaque_AV-202404170397.html",
+        "added": "2024-04-17"
+    },
+    {
         "date": "2024-04-09",
         "victim": "Pak Suzuki",
         "domain": "suzukipakistan.com",
