@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-03-27",
+        "victim": "Programme des Nations Unies pour le développement (PNUD)",
+        "domain": "undp.org",
+        "country": "DNK",
+        "summary": "Le Programme des Nations Unies pour le développement (PNUD) a été victime d'une cyberattaque fin mars 2024, ciblant son infrastructure informatique à Copenhague et entraînant le vol de données sensibles liées aux ressources humaines et à la passation de marchés. En réponse, le PNUD a pris des mesures immédiates pour isoler le serveur affecté, évaluer l'étendue des données compromises et informer les personnes concernées, tout en s'engageant à maintenir une communication transparente avec ses partenaires et les parties affectées.",
+        "title": "Cyberattack On UNDP Breaches HR And Procurement Data",
+        "url": "https://thecyberexpress.com/cyberattack-on-undp-hr-data-breached/",
+        "added": "2024-04-17"
+    },
+    {
         "date": "2024-03-11",
         "victim": "Instituto Hondureño del Transporte Terrestre (IHTT)",
         "domain": "transporte.gob.hn",
