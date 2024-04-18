@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-03-28",
+        "victim": "Traverse City Area Public Schools",
+        "domain": "tcaps.net",
+        "country": "USA",
+        "summary": "Le groupe de ransomware Medusa a revendiqué une cyberattaque contre les écoles publiques de la région de Traverse City, entraînant l'annulation des cours début avril, après avoir prétendument volé 1,2 To de données et demandé un total de 1 million de dollars pour ne pas divulguer les données et les déchiffrer. La direction du district scolaire, en collaboration avec une entreprise de cybersécurité tierce, la police et le FBI, enquête sur l'incident sans rapporter jusqu'à présent de vol d'identité ou de fraude liée à cette attaque. Medusa est connu pour sa technique de double extorsion et a déjà ciblé d'autres districts scolaires, exploitant les vulnérabilités pour maximiser les paiements des",
+        "title": "Ransomware Group Claims It Targeted Traverse City Schools",
+        "url": "https://www.govtech.com/education/k-12/ransomware-group-claims-it-targeted-traverse-city-schools",
+        "added": "2024-04-18"
+    },
+    {
         "date": "2024-04-17",
         "victim": "Legislative Bill Drafting Commission",
         "domain": "nyassembly.gov",
