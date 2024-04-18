@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-04-06",
+        "victim": "Les bibliothèques du comté de Solano",
+        "domain": "solanolibrary.com",
+        "country": "USA",
+        "summary": "Les services en ligne des bibliothèques du comté de Solano sont interrompus pour la deuxième semaine consécutive suite à une cyberattaque qui a perturbé leur réseau informatique, avec des pirates menaçant de divulguer des données sensibles si une rançon de 100 000 dollars n'est pas payée. Les bibliothèques restent ouvertes mais les services informatiques, les lignes téléphoniques et le Wi-Fi sont hors service, et tous les programmes virtuels sont annulés. Le responsable de l'information du comté, Tim Flanagan, a indiqué qu'une enquête était en cours pour comprendre la nature et l'étendue de l'attaque, sans confirmer ou nier la demande de rançon.",
+        "title": "Solano County libraries still dealing with online disruption - The Vacaville Reporter",
+        "url": "https://www.thereporter.com/2024/04/17/solano-county-libraries-still-dealing-with-online-disruption/",
+        "added": "2024-04-18"
+    },
+    {
         "date": "2024-01-02",
         "victim": "Bureau du shérif de Lancaster",
         "domain": "lasd.org",
