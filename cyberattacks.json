@@ -1,5 +1,15 @@
 [
     {
+        "date": "2023-12-21",
+        "victim": "Cherry Street Services (Cherry Health)",
+        "domain": "cherryhealth.org",
+        "country": "USA",
+        "summary": "Une cyberattaque par rançongiciel fin 2023 a compromis les données personnelles de près de 185 000 personnes, selon Cherry Street Services (également connue sous le nom de Cherry Health), une organisation de soins de santé à but non lucratif du Michigan. L'attaque, qui a eu lieu le 21 décembre et a été découverte le 24 décembre, a permis aux attaquants d'accéder à des informations financières telles que les numéros de cartes de crédit et les codes de sécurité ou mots de passe associés.",
+        "title": "Michigan healthcare organization says ransomware breached data of 185,000",
+        "url": "https://therecord.media/cherry-health-ransomware-michigan",
+        "added": "2024-04-18"
+    },
+    {
         "date": "2024-03-15",
         "victim": "Void Interactive",
         "domain": "voidinteractive.net",
