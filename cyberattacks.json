@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-04-17",
+        "victim": "Legislative Bill Drafting Commission",
+        "domain": "nyassembly.gov",
+        "country": "USA",
+        "summary": "Une cyberattaque a ciblé la Commission de rédaction des projets de loi de l'État de New York, perturbant la rédaction et la publication des projets de loi pour le plan de dépenses de l'année fiscale 2025 et causant un retard dans l'adoption du budget de l'État. Les détails de l'attaque, tels que son origine, les données compromises et l'étendue des dégâts, restaient flous, mais des efforts étaient en cours pour trouver des solutions temporaires et prévenir des retards significatifs dans le processus budgétaire.",
+        "title": "Cyberattack on NY bill drafting commission causes delay in state budget passage | Globe Echo",
+        "url": "https://globeecho.com/cyberattack-on-ny-bill-drafting-commission-causes-delay-in-state-budget-passage/",
+        "added": "2024-04-18"
+    },
+    {
         "date": "2024-02-29",
         "victim": "United Seating and Mobility, LLC d/b/a Numotion",
         "domain": "numotion.com",
