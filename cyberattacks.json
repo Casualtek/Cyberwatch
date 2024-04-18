@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-01-02",
+        "victim": "Bureau du shérif de Lancaster",
+        "domain": "lasd.org",
+        "country": "USA",
+        "summary": "Le bureau du shérif du comté de Lancaster a été victime d'une cyberattaque, révélée publiquement lors d'une réunion du conseil de surveillance de Lancaster fin mars. L'attaque, survenue au début de l'année 2024, a été identifiée comme un ransomware, mais les mesures de sécurité en place ont limité l'accès des attaquants aux informations. Une société d'assurance a engagé une firme d'experts en informatique forensique pour enquêter, et la police d'État de Virginie a également participé aux investigations.",
+        "title": "Lancaster Sheriff’s Office reveals its cyber attack | News | newsontheneck.com",
+        "url": "https://www.newsontheneck.com/news/lancaster-sheriff-s-office-reveals-its-cyber-attack/article_e2cd6464-fccb-11ee-a6ea-73705c6ff6c2.html",
+        "added": "2024-04-18"
+    },
+    {
         "date": "2024-04-14",
         "victim": "Plus Servicios",
         "domain": "plusservicios.cl",
