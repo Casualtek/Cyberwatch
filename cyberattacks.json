@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-04-14",
+        "victim": "Plus Servicios",
+        "domain": "plusservicios.cl",
+        "country": "CHL",
+        "summary": "Un cyberattaque par ransomware a affecté certains serveurs de l'infrastructure technologique de l'organisation Plus Servicios, provoquant une interruption partielle de leurs services en ligne le dimanche 14 avril 2024. Des mesures ont été prises pour rétablir rapidement la continuité opérationnelle et mener une enquête forensique afin d'identifier l'origine de l'attaque et d'appliquer les correctifs nécessaires. Des experts en cybersécurité sont consultés pour restaurer les services et applications le plus rapidement possible, et des mises à jour seront fournies sur l'état des services à venir. En cas de questions ou de préoccupations, l'équipe reste à disposition pour toute assistance.",
+        "title": "COMUNICADO INCIDENTE TECNOLÓGICO",
+        "url": "https://pbs.twimg.com/media/GLTBaq3XUAAUnOX?format=jpg&name=4096x4096",
+        "added": "2024-04-17"
+    },
+    {
         "date": "2024-04-09",
         "victim": "Extern",
         "domain": "extern.org",
