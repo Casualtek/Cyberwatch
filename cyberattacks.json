@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-03-15",
+        "victim": "Void Interactive",
+        "domain": "voidinteractive.net",
+        "country": "IRL",
+        "summary": "Void Interactive, le développeur du jeu FPS Ready Or Not de 2023, a été victime d'une cyberattaque résultant en la fuite de 4 To de données, incluant le code source du jeu et des versions antérieures, ainsi que des données sur les versions console. Cette fuite, considérée comme l'une des plus importantes de l'histoire du jeu vidéo, dépasse celle d'Insomniac Games de l'année précédente. Malgré l'ampleur de la fuite, il n'y a pas eu de rapport sur des informations personnelles compromises, et Void Interactive n'a pas encore officiellement reconnu l'attaque.",
+        "title": "Ready or Not Developer Void Interactive Hit by Massive 4TB Data Breach",
+        "url": "https://afkgaming.com/gaming/general/ready-or-not-developer-void-interactive-hit-by-massive-4tb-data-breach",
+        "added": "2024-04-18"
+    },
+    {
         "date": "2024-03-28",
         "victim": "Traverse City Area Public Schools",
         "domain": "tcaps.net",
