@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-04-16",
+        "victim": "Vooruit.brussels",
+        "domain": "vooruit.brussels",
+        "country": "BEL",
+        "summary": "Hackers ont ont réalisé une cyberattaque sur le serveur de Vooruit.brussels, volant des données personnelles telles que les noms, adresses et numéros de téléphone des membres, avec une demande de rançon de 800 euros. Suzy Bleys, co-présidente de Vooruit.brussels, a signalé l'incident après que le site soit devenu inaccessible et que la bande criminelle ait contacté pour demander de l'argent en Bitcoin. Les autorités ont été informées et une enquête sur la fuite de données est en cours pour déterminer l'étendue des informations compromises.",
+        "title": "Persoonsgegevens gelekt bij Vooruit.brussels: 'Hackers vragen 800 euro losgeld' | BRUZZ",
+        "url": "https://www.bruzz.be/actua/politiek/datalek-bij-vooruitbrussels-hackers-vragen-800-euro-losgeld-2024-04-18",
+        "added": "2024-04-19"
+    },
+    {
         "date": "2023-12-21",
         "victim": "Cherry Street Services (Cherry Health)",
         "domain": "cherryhealth.org",
