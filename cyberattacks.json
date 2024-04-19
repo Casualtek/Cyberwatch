@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-04-18",
+        "victim": "Synlab",
+        "domain": "synlab.it",
+        "country": "ITA",
+        "summary": "Synlab, un fournisseur de services médicaux opérant également à Brescia, a été ciblé par une cyberattaque qui a affecté ses systèmes informatiques sur tout le territoire italien, forçant l'entreprise à désactiver tous ses systèmes informatiques dans le pays. En conséquence, toutes les activités dans les points de prélèvement, les centres médicaux et les laboratoires en Italie sont suspendues jusqu'à nouvel ordre, y compris le téléchargement et le retrait des rapports médicaux. Synlab s'excuse pour les désagréments causés et informera ses clients et patients de l'évolution de la situation via ses réseaux sociaux, sans pouvoir préciser quand les opérations pourront reprendre.",
+        "title": "Attacco hacker a Synlab, chiusi tutti gli ambulatori in Italia e servizi informatici ko | Giornale di Brescia",
+        "url": "https://www.giornaledibrescia.it/cronaca/attacco-hacker-a-synlab-chiusi-tutti-gli-ambulatori-in-italia-e-servizi-informatici-ko-nb8oqg3e",
+        "added": "2024-04-19"
+    },
+    {
         "date": "2024-04-15",
         "victim": "Octapharma Plasma",
         "domain": "octapharmaplasma.com",
