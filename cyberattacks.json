@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-04-14",
+        "victim": "Le ministère de la Santé de la République Dominicaine.",
+        "domain": "salud.gob.do",
+        "country": "DOM",
+        "summary": "Lundi dernier, le ministère de la Santé de la République Dominicaine a confirmé une attaque numérique qui a conduit au vol de 8 000 dossiers de vaccination contre la Covid-19. Ces dossiers, contenant des informations personnelles des patients, pourraient être vendus sur le DarkWeb pour une somme modique, selon des experts. L'enquête policière cherche à identifier les pirates, bien que leur usage du DarkWeb complique leur traçabilité, mettant en lumière les défis de la cybersécurité face à de telles attaques.",
+        "title": "République Dominicaine. Le ministère de la Santé a subi une cyber-attaque - KARIBINFO",
+        "url": "https://www.karibinfo.com/news/republique-dominicaine-le-ministere-de-la-sante-a-subi-une-cyber-attaque/",
+        "added": "2024-04-19"
+    },
+    {
         "date": "2024-04-18",
         "victim": "Synlab",
         "domain": "synlab.it",
