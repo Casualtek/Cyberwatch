@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-04-15",
+        "victim": "Octapharma Plasma",
+        "domain": "octapharmaplasma.com",
+        "country": "USA",
+        "summary": "Octapharma Plasma, une entreprise médicale exploitant plus de 150 centres de don de plasma sanguin aux États-Unis, a fermé ses installations en raison de problèmes de réseau attribués à une infection par le ransomware BlackSuit. Cette cyberattaque pourrait affecter l'approvisionnement en plasma d'Octapharma en Europe, car plus de 75 % de leur plasma provient des États-Unis. Le FBI a été alerté de l'incident, qui s'inscrit dans une tendance croissante de ciblage des organisations de santé par des cybercriminels utilisant des tactiques d'extorsion.",
+        "title": "Ransomware feared as Octapharma Plasma closes 150+ centers • The Register",
+        "url": "https://www.theregister.com/2024/04/18/ransomware_octapharma_plasma/",
+        "added": "2024-04-19"
+    },
+    {
         "date": "2024-04-14",
         "victim": "Frontier Communications",
         "domain": "frontier.com",
