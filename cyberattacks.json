@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-04-17",
+        "victim": "Écoles du comté de Glynn",
+        "domain": "glynn.k12.ga.us",
+        "country": "USA",
+        "summary": "Une cyberattaque contre l'infrastructure informatique des écoles du comté de Glynn mercredi a entraîné une coupure des connexions Internet dans tout le système, provoquant une panne qui a persisté jeudi et devrait durer jusqu'à vendredi. Aucune information sensible n'aurait été compromise selon un responsable scolaire. L'équipe informatique de l'école et un programme de surveillance tiers ont détecté une activité suspecte sur le réseau, ce qui a entraîné la coupure d'Internet pour prévenir toute intrusion.",
+        "title": "School system hit by cyberattck, shuts down internet, programs | Local News | thebrunswicknews.com",
+        "url": "https://thebrunswicknews.com/breaking/school-system-hit-by-cyberattack-shuts-down-internet-programs/article_8674a373-f472-56a3-a237-b88abd4cf357.html",
+        "added": "2024-04-19"
+    },
+    {
         "date": "2024-04-16",
         "victim": "Vooruit.brussels",
         "domain": "vooruit.brussels",
