@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-04-19",
+        "victim": "Speedy France",
+        "domain": "speedy.fr",
+        "country": "FRA",
+        "summary": "Speedy France, une entreprise de réparation automobile, a annoncé avoir subi un \"incident de cybersécurité\" qui pourrait avoir compromis les données personnelles de ses clients inscrits dans ses bases de données. L'entreprise a immédiatement mobilisé des équipes d'experts et des partenaires pour prendre les mesures de protection nécessaires et mener des investigations. La Commission nationale de l'informatique et des libertés (Cnil) a été informée de l'incident, et Speedy France souligne l'importance qu'elle accorde à la sécurité et à la protection des données de ses clients et partenaires.",
+        "title": "Des données personnelles \"compromises\": Speedy France victime d'une cyberattaque",
+        "url": "https://www.bfmtv.com/tech/actualites/cybersecurite/des-donnees-personnelles-compromises-speedy-france-victime-d-une-cyberattaque_AV-202404190752.html",
+        "added": "2024-04-20"
+    },
+    {
         "date": "2024-04-18",
         "victim": "Floirac",
         "domain": "floirac.fr",
