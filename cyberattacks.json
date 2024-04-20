@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-04-18",
+        "victim": "Carpetright",
+        "domain": "carpetright.co.uk",
+        "country": "GBR",
+        "summary": "Carpetright, une chaîne britannique de vente de revêtements de sol, a été victime d'une cyberattaque par des hackers inconnus qui ont utilisé un logiciel malveillant pour accéder sans autorisation à son réseau. L'attaque a perturbé des centaines de commandes de clients et a forcé l'entreprise à mettre hors ligne son réseau au siège social à Purfleet, Essex, affectant également les lignes téléphoniques. La société a isolé le virus avant que des données ne soient dérobées et a informé que ni les données des clients ni celles des employés n'avaient été impactées, tout en poursuivant les investigations et la remise en état des systèmes.",
+        "title": "Carpetright customers hit by cyber attack as firm struggles to fill orders after hackers target company HQ | The Sun",
+        "url": "https://www.thesun.co.uk/money/27434828/carpetright-orders-disrupted-cyber-attack-hack/",
+        "added": "2024-04-20"
+    },
+    {
         "date": "2023-06-18",
         "victim": "SysInformation Healthcare Services, LLC",
         "domain": "sysinformation.com",
