@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-04-13",
+        "victim": "Tyler Technologies",
+        "domain": "tylertech.com",
+        "country": "USA",
+        "summary": "L'agence gouvernementale de Washington D.C., DISB, a confirmé que des données volées et divulguées par le groupe de rançongiciels LockBit provenaient d'un fournisseur de technologie tiers, Tyler Technologies, qui a subi une violation de données affectant le stockage cloud de données client du système STAR de DISB. LockBit a menacé de divulguer 1 Go de données pour inciter l'organisation à payer une rançon après l'échec des négociations. Tyler Technologies, ayant découvert une activité non autorisée dans son environnement cloud, a collaboré avec des experts tiers pour enquêter sur l'incident et a confirmé que certaines informations du système STAR avaient été publiées par LockBit.",
+        "title": "DC city agency says LockBit claims tied to third-party attack",
+        "url": "https://therecord.media/dc-city-agency-ransomware-attack-lockbit",
+        "added": "2024-04-20"
+    },
+    {
         "date": "2024-04-15",
         "victim": "Police Fédérale du Brésil",
         "domain": "gov.br",
@@ -40,7 +50,7 @@
         "added": "2024-04-20"
     },
     {
-        "date": "2024-04-19",
+        "date": "2024-04-09",
         "victim": "Speedy France",
         "domain": "speedy.fr",
         "country": "FRA",
