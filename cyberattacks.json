@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-04-15",
+        "victim": "Police Fédérale du Brésil",
+        "domain": "gov.br",
+        "country": "BRA",
+        "summary": "La Police Fédérale du Brésil a suspendu le service d'agendement en ligne pour l'émission de passeports suite à une tentative de cyberattaque détectée au début de la semaine. L'interruption du service restera en vigueur jusqu'à ce que l'intégrité des systèmes soit vérifiée, bien que les rendez-vous déjà pris soient maintenus. La PF a commencé une enquête sur l'incident et conseille aux usagers sans voyage imminent de reporter leur demande de passeport.",
+        "title": "PF suspende passaporte pela internet após ataque hacker - Convergência Digital - Segurança",
+        "url": "https://www.convergenciadigital.com.br/Seguranca/PF-suspende-passaporte-pela-internet-apos-ataque-hacker-65781.html",
+        "added": "2024-04-20"
+    },
+    {
         "date": "2024-04-20",
         "victim": "仁安醫院 (Union Hospital)",
         "domain": "union.org",
