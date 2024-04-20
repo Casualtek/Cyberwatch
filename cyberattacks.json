@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-04-20",
+        "victim": "仁安醫院 (Union Hospital)",
+        "domain": "union.org",
+        "country": "HKG",
+        "summary": "Le réseau du système de l'hôpital Union a été attaqué par des hackers, affectant partiellement ses opérations, mais jusqu'à présent, aucune fuite ou utilisation abusive des données des patients n'a été détectée. L'attaque a été identifiée comme une attaque de ransomware \"LockBit\", avec les hackers demandant une rançon de 10 millions de dollars américains, que l'hôpital n'a pas payée. Des experts suggèrent que l'attaque pourrait être due à des systèmes non mis à jour ou à des employés ouvrant des e-mails de phishing, soulignant l'importance de la mise à jour des systèmes et de la sensibilisation à la sécurité.",
+        "title": "仁安醫院網絡遭黑客攻擊 稱未發現病人資料洩漏｜本地｜商業電台 881903",
+        "url": "https://www.881903.com/news/local/2529350/仁安醫院網絡遭黑客攻擊-稱未發現病人資料洩漏",
+        "added": "2024-04-20"
+    },
+    {
         "date": "2024-04-18",
         "victim": "Carpetright",
         "domain": "carpetright.co.uk",
