@@ -1,5 +1,15 @@
 [
     {
+        "date": "2023-06-18",
+        "victim": "SysInformation Healthcare Services, LLC",
+        "domain": "sysinformation.com",
+        "country": "USA",
+        "summary": "SysInformation Healthcare Services a signalé une violation de données après qu'une partie non autorisée ait accédé à des informations confidentielles sur son réseau informatique entre le 3 et le 18 juin 2023, touchant des données sensibles telles que les noms, numéros de sécurité sociale, informations financières et médicales des consommateurs. L'entreprise, basée à Austin, Texas, et spécialisée dans la gestion du cycle de revenus et l'accréditation, a commencé à envoyer des lettres de notification de la violation de données aux individus affectés le 17 avril 2024. SysInformation a détecté l'activité inhabituelle en juin 2023, a sécurisé ses systèmes, notifié les forces de l'ordre et lancé une enquête",
+        "title": "SysInformation Healthcare Services Reports Data Breach Following Cyberattack | Console and Associates, P.C. - JDSupra",
+        "url": "https://www.jdsupra.com/legalnews/sysinformation-healthcare-services-5606867/",
+        "added": "2024-04-20"
+    },
+    {
         "date": "2024-04-19",
         "victim": "Speedy France",
         "domain": "speedy.fr",
