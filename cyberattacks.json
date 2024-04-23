@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-04-19",
+        "victim": "Swisspro",
+        "domain": "swisspro.ch",
+        "country": "CHE",
+        "summary": "Les sociétés Swisspro, faisant partie de BKW Building Solutions, ont été touchées par une attaque par ransomware début avril, affectant leur ancien environnement informatique. Une taskforce a été mise en place pour évaluer l'impact et les conséquences possibles de l'attaque, tout en prenant des mesures immédiates comme l'isolement des systèmes affectés et le changement des mots de passe. Il n'y a pas eu d'indication d'attaques sortantes affectant les clients ou d'autres sociétés au sein de BKW, et Swisspro est capable de continuer à fournir ses services.",
+        "title": "Le groupe Swisspro victime d'une attaque par ransomware | ICTjournal",
+        "url": "https://www.ictjournal.ch/news/2024-04-22/le-groupe-swisspro-victime-dune-attaque-par-ransomware",
+        "added": "2024-04-23"
+    },
+    {
         "date": "2024-04-22",
         "victim": "Ville d’Albi",
         "domain": "mairie-albi.fr",
