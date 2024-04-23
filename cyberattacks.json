@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-04-22",
+        "victim": "Ville d’Albi",
+        "domain": "mairie-albi.fr",
+        "country": "FRA",
+        "summary": "La mairie d'Albi, dans le Tarn, subit une cyberattaque depuis le 22 avril 2024, entraînant l'inaccessibilité de ses numéros de téléphone, mails et services informatiques. Les services municipaux s'efforcent de rétablir le fonctionnement normal tout en assurant la continuité du service public. La nature et l'origine de l'attaque n'ont pas été révélées, mais une plainte a été déposée par la mairie auprès de la police.",
+        "title": "Une cyberattaque en cours à la mairie d'Albi - France Bleu",
+        "url": "https://www.francebleu.fr/infos/faits-divers-justice/une-cyber-attaque-en-cours-a-la-mairie-d-albi-6909499",
+        "added": "2024-04-23"
+    },
+    {
         "date": "2024-04-13",
         "victim": "Tyler Technologies",
         "domain": "tylertech.com",
