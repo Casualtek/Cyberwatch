@@ -1,6 +1,16 @@
 [
     {
         "date": "2024-04-20",
+        "victim": "Petit commerce à Bad Wörishofen",
+        "domain": "n/a",
+        "country": "DEU",
+        "summary": "Un petit commerce à Bad Wörishofen a été victime d'une cyberattaque le week-end dernier, entraînant des dommages estimés à environ 30 000 euros après que toutes les données sur le PC du propriétaire aient été cryptées par des pirates informatiques. Le propriétaire a immédiatement contacté la police locale, et les enquêtes sont désormais menées par le département spécialisé en cybercriminalité de la KPI Memmingen, avec l'aide d'un prestataire informatique externe.",
+        "title": "Bad Wörishofen: Cyberangriff auf Gewerbebetrieb - Etwa 30.000 Euro Schaden",
+        "url": "https://www.merkur.de/bayern/schwaben/mindelheim-kurier/bad-woerishofen-cyberangriff-auf-gewerbebetrieb-etwa-30-000-euro-schaden-93028864.html",
+        "added": "2024-04-24"
+    },
+    {
+        "date": "2024-04-20",
         "victim": "Coppel",
         "domain": "coppel.com",
         "country": "MEX",
