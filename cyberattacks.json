@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-04-19",
+        "victim": "Ordre des infirmières et infirmiers du Québec (OIIQ)",
+        "domain": "oiiq.org",
+        "country": "CAN",
+        "summary": "L'Ordre des infirmières et infirmiers du Québec (OIIQ) a été victime d'une cyberattaque au rançongiciel, entraînant la publication en ligne de données personnelles sensibles de ses membres, incluant des informations telles que les coordonnées, numéros d'assurance sociale, et plus. Les cyberpirates ont exigé une rançon de 200 000 $ US pour ne pas divulguer ou supprimer les 112 gigaoctets de données volées. L'OIIQ mène une enquête approfondie pour sécuriser son environnement informatique, tandis que la plus grande organisation syndicale d’infirmières du Québec suit de près la situation, et le gouvernement semble inefficace face à l'augmentation des attaques par rançongiciel",
+        "title": "Attaque au rançongiciel | Fuite de données sur les infirmières du Québec | La Presse",
+        "url": "https://www.lapresse.ca/actualites/2024-04-23/attaque-au-rancongiciel/fuite-de-donnees-sur-les-infirmieres-du-quebec.php",
+        "added": "2024-04-24"
+    },
+    {
         "date": "2024-04-20",
         "victim": "Petit commerce à Bad Wörishofen",
         "domain": "n/a",
