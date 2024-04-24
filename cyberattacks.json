@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-04-23",
+        "victim": "Skanlog",
+        "domain": "skanlog.com",
+        "country": "SWE",
+        "summary": "Un cyberattaque de type rançongiciel a été lancée contre Skanlog, un important distributeur pour Systembolaget en Suède, entraînant des problèmes de distribution et la possibilité que certains produits soient épuisés avant le week-end. La direction de Skanlog a confirmé que l'attaque a paralysé leur système jusqu'à ce qu'une solution soit trouvée pour le rétablir. En conséquence, Systembolaget, qui est affecté par cette perturbation, prévoit que cela pourrait impacter la disponibilité de certaines catégories de boissons, bien qu'il n'y ait pas de risque immédiat de voir toutes les étagères vides.",
+        "title": "Hackerangrep kan gi tomme hyller hos Systembolaget - E24",
+        "url": "https://e24.no/internasjonal-oekonomi/i/5EJxXE/hackerangrep-kan-gi-tomme-hyller-hos-systembolaget",
+        "added": "2024-04-24"
+    },
+    {
         "date": "2024-04-19",
         "victim": "Ordre des infirmières et infirmiers du Québec (OIIQ)",
         "domain": "oiiq.org",
