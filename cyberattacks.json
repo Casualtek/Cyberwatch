@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-03-29",
+        "victim": "Les municipalités de Voorschoten et Wassenaar",
+        "domain": "voorschoten.nl",
+        "country": "NLD",
+        "summary": "La municipalité de Voorschoten, ainsi que celle de Wassenaar, ont été cibles d'une cyberattaque juste avant le weekend de Pâques, détectée le 29 mars suite à une surcharge des systèmes, qui a été rapidement contrée en éteignant les systèmes. Un crisisteam a été formé et des mesures de sécurité renforcées ont été mises en place, avec l'aide de l'IBD, du NCSC et de la police, sans que les services aux citoyens ne soient affectés. L'enquête sur la nature ciblée ou non de l'attaque est en cours, et bien que la sécurité ait été renforcée, les conséquences financières restent inconnues.",
+        "title": "Cyberaanval op gemeente afgeslagen - Al het nieuws uit Voorschoten",
+        "url": "https://www.voorschotensekrant.nl/nieuws/algemeen/27293/cyberaanval-op-gemeente-afgeslagen",
+        "added": "2024-04-25"
+    },
+    {
         "date": "2024-04-25",
         "victim": "Ville de Gravelines",
         "domain": "ville-gravelines.fr",
