@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-04-25",
+        "victim": "Ville de Gravelines",
+        "domain": "ville-gravelines.fr",
+        "country": "FRA",
+        "summary": "La ville de Gravelines a été ciblée par une cyberattaque, conduisant à la déconnexion de tous les serveurs et à la restriction de l'accès à internet pour les services municipaux, par mesure de précaution. À l'heure actuelle, l'origine de l'attaque n'a pas été identifiée. Malgré cela, la mairie et les services municipaux restent accessibles par téléphone, bien que certaines opérations ne soient temporairement plus réalisables.",
+        "title": "La ville de Gravelines victime d’une cyberattaque, les services à la population restreints - La Voix du Nord",
+        "url": "https://www.lavoixdunord.fr/1455837/article/2024-04-25/la-ville-de-gravelines-victime-d-une-cyberattaque-les-services-la-population",
+        "added": "2024-04-25"
+    },
+    {
         "date": "2024-02-15",
         "victim": "South Texas Oncology and Hematology (STOH)",
         "domain": "thestartcenter.com",
