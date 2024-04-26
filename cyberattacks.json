@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-04-25",
+        "victim": "Kansas City Scout",
+        "domain": "kcscout.net",
+        "country": "USA",
+        "summary": "Un important service pour les conducteurs de la région de Kansas City est en panne générale jeudi en raison d'une cyberattaque. Kansas City Scout a déclaré que ses systèmes étaient hors service depuis tôt le matin, y compris son site web, son réseau de caméras de circulation et ses panneaux d'affichage dans la région. Le département des transports du Missouri a déclaré que les systèmes ont été mis hors ligne immédiatement pour limiter les dommages de l'attaque, dont la nature n'a pas été spécifiée. Il n'y a actuellement pas de calendrier pour la restauration, mais KC Scout indique que le personnel travaille pour y remédier dès que possible.",
+        "title": "Kansas City Scout cyberattack: Traffic camera system down",
+        "url": "https://fox4kc.com/news/kansas-city-scout-systems-down-following-cyberattack/",
+        "added": "2024-04-26"
+    },
+    {
         "date": "2024-03-29",
         "victim": "Les municipalités de Voorschoten et Wassenaar",
         "domain": "voorschoten.nl",
