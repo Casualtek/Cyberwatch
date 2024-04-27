@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-04-15",
+        "victim": "Comté de Coffee, Géorgie",
+        "domain": "coffeecountygov.com",
+        "country": "USA",
+        "summary": "L'infrastructure informatique du comté de Coffee en Géorgie, déjà au cœur de controverses liées aux allégations de fraude lors de l'élection présidentielle américaine de 2020, a été victime d'une cyberattaque début avril, entraînant la coupure de son accès aux systèmes électoraux de l'État par mesure de précaution. Aucune preuve d'exfiltration de données n'a été trouvée, mais l'activité malveillante a été détectée par l'Agence de Cybersécurité et de Sécurité des Infrastructures. Cette attaque survient dans un contexte où d'autres comtés géorgiens impliqués dans des batailles juridiques liées aux tentatives de remise",
+        "title": "Cyberattack hits Georgia county at center of voting software breach | CyberScoop",
+        "url": "https://cyberscoop.com/cyberattack-hits-georgia-county-at-center-of-voting-software-breach/",
+        "added": "2024-04-27"
+    },
+    {
         "date": "2023-04-26",
         "victim": "Negociado de Manejo de Emergencias (NMEAD)",
         "domain": "manejodeemergencias.pr.gov",
