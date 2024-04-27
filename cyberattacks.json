@@ -1,5 +1,15 @@
 [
     {
+        "date": "2023-04-26",
+        "victim": "Negociado de Manejo de Emergencias (NMEAD)",
+        "domain": "manejodeemergencias.pr.gov",
+        "country": "PRI",
+        "summary": "Le Negociado de Manejo de Emergencias (NMEAD) de Puerto Rico a été victime d'une cyberattaque, affectant un serveur hors d'usage, mais ses opérations ont continué normalement. La situation est gérée par la Oficina de Innovación y Servicios de Tecnología (PRITS) en collaboration avec le FBI et la CISA. Cette attaque survient dans un contexte où d'autres infrastructures, notamment les ports et la société Puerto Nuevo Terminals, ont également été ciblées par des cyberattaques, causant des retards dans la livraison de cargaison.",
+        "title": "Confirman ataque cibernético en Manejo de Emergencias - Jay Fonseca",
+        "url": "https://jayfonseca.com/confirman-ataque-cibernetico-en-manejo-de-emergencias/",
+        "added": "2024-04-27"
+    },
+    {
         "date": "2024-04-23",
         "victim": "Municipalité de La Guadeloupe",
         "domain": "munlaguadeloupe.qc.ca",
