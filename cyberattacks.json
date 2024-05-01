@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-04-07",
+        "victim": "SSS Australia",
+        "domain": "sssaustralia.com.au",
+        "country": "AUS",
+        "summary": "La société australienne de fourniture de produits de santé, SSS Australia, a été victime d'une cyberattaque par le groupe de ransomware Hunters International, qui a divulgué près de 70 gigaoctets de données, incluant plus de 60 000 fichiers individuels. Les données divulguées comprennent des fichiers de ventes clients, des factures pour des équipements et médicaments, ainsi que du matériel marketing, touchant divers secteurs de la santé. SSS Australia collabore avec les autorités gouvernementales et a confirmé que les données des patients n'ont pas été affectées par cette fuite.",
+        "title": "SSS Australia falls victim to Hunters International ransomware gang - Cyber Daily",
+        "url": "https://www.cyberdaily.au/security/10476-sss-australia-falls-victim-to-hunters-international-ransomware-gang",
+        "added": "2024-05-01"
+    },
+    {
         "date": "2024-04-25",
         "victim": "La Nación",
         "domain": "lanacion.com.ar",
