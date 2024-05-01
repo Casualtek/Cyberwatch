@@ -1,5 +1,15 @@
 [
     {
+        "date": "2023-04-08",
+        "victim": "Magnet+",
+        "domain": "magnetplus.ie",
+        "country": "IRL",
+        "summary": "La société de télécommunications Magnet+ enquête sur une possible violation de ses systèmes survenue le 8 avril, qui pourrait avoir exposé les informations privées de son personnel et de ses clients, y compris des noms, adresses, informations bancaires et détails de service. Bien que les services de télécommunications de Magnet+ n'aient pas été affectés, l'entreprise a informé les employés, anciens employés et clients potentiellement impactés, conformément aux exigences de la Commission de Protection des Données, et a conseillé la vigilance contre les tentatives de phishing et recommandé de changer les mots de passe utilisés sur d'autres plateformes.",
+        "title": "Telecoms company Magnet+ investigating possible cyber attack - The Irish Times",
+        "url": "https://www.irishtimes.com/business/2024/05/01/magnet-investigating-possible-cyber-attack/",
+        "added": "2024-05-01"
+    },
+    {
         "date": "2024-04-15",
         "victim": "Katholische Jugendfürsorge der Diözese Augsburg (KJF)",
         "domain": "kjf-augsburg.de",
