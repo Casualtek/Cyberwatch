@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-02-14",
+        "victim": "Financial Business and Consumer Solutions (FBCS)",
+        "domain": "fbcs-inc.com",
+        "country": "USA",
+        "summary": "L'agence de recouvrement de dettes Financial Business and Consumer Solutions (FBCS) a révélé une violation de données affectant environ 1,955,385 individus, suite à un accès non autorisé à ses systèmes entre le 14 et le 26 février 2024. Les informations compromises pourraient inclure des noms, dates de naissance, numéros de sécurité sociale et informations de compte. FBCS a commencé à notifier les clients affectés le 4 avril 2024 et offre 12 mois de services de surveillance de crédit gratuitement.",
+        "title": "FBCS data breach impacted 2M individuals",
+        "url": "https://securityaffairs.com/162514/cyber-crime/fbcs-data-breach.html",
+        "added": "2024-05-01"
+    },
+    {
         "date": "2024-04-29",
         "victim": "Universidad de las Américas de Puebla (UDLAP)",
         "domain": "udlap.mx",
