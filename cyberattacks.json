@@ -1,5 +1,15 @@
 [
     {
+        "date": "2023-11-11",
+        "victim": "Blackstone Valley Community Health Care (BVCHC)",
+        "domain": "bvchc.org",
+        "country": "USA",
+        "summary": "Le 18 avril 2024, Blackstone Valley Community Health Care (BVCHC), basé à Pawtucket, Rhode Island, a annoncé une violation de données personnelles sensibles, incluant noms, numéros de sécurité sociale, dates de naissance, informations d'assurance santé, informations de traitement et diagnostic, informations Medicare/Medicaid, et numéros de permis de conduire, suite à une cyberattaque détectée le 11 novembre 2023. Une enquête, assistée par des spécialistes de la sécurité des données, a confirmé l'accès non autorisé à des fichiers contenant des informations confidentielles sur les patients. BVCHC a commencé à envoyer des lettres de notification aux individus affectés par cet incident de sécurité des données.",
+        "title": "Blackstone Valley Community Health Care Announces Data Breach | Console and Associates, P.C. - JDSupra",
+        "url": "https://www.jdsupra.com/legalnews/blackstone-valley-community-health-care-2356616/",
+        "added": "2024-05-01"
+    },
+    {
         "date": "2024-02-14",
         "victim": "Financial Business and Consumer Solutions (FBCS)",
         "domain": "fbcs-inc.com",
