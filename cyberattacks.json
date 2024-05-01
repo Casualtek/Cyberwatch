@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-04-25",
+        "victim": "La Nación",
+        "domain": "lanacion.com.ar",
+        "country": "ARG",
+        "summary": "Le journal La Nación de Buenos Aires a signalé une attaque informatique jeudi, déclenchant les protocoles de sécurité de l'équipe technologique. Une activité inhabituelle sur les serveurs a entraîné une perturbation des systèmes internes, nécessitant l'intervention d'une équipe de spécialistes en cybersécurité. Malgré des problèmes techniques, l'édition imprimée du journal du vendredi a été affectée, mais les mises à jour du site web et la diffusion de la chaîne LN+ se sont poursuivies normalement.",
+        "title": "Le journal La Nación victime d'une cyberattaque - Nouvelles Du Monde",
+        "url": "https://www.nouvelles-du-monde.com/le-journal-la-nacion-victime-dune-cyberattaque/",
+        "added": "2024-05-01"
+    },
+    {
         "date": "2023-03-30",
         "victim": "Centrakor, Gémo, Tao Kids",
         "domain": "n/a",
