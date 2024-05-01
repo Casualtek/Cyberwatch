@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-04-28",
+        "victim": "London Drugs",
+        "domain": "londondrugs.com",
+        "country": "CAN",
+        "summary": "London Drugs, une chaîne de magasins de détail et de pharmacie opérant près de 80 magasins à travers la Colombie-Britannique, l'Alberta, la Saskatchewan et le Manitoba, a fermé ses portes jusqu'à nouvel ordre à la suite d'une cyberattaque survenue le dimanche 28 avril 2024. La société a pris cette mesure par précaution et a affirmé n'avoir aucune raison de croire que les données des clients ou des employés ont été affectées, tout en engageant des experts tiers pour contenir et enquêter sur l'incident. Malgré la fermeture des magasins, le personnel de pharmacie reste sur place pour répondre aux besoins urgents des clients.",
+        "title": "London Drugs closes stores until further notice due to cyberattack",
+        "url": "https://www.cbc.ca/lite/story/1.7187615",
+        "added": "2024-05-01"
+    },
+    {
         "date": "2024-04-07",
         "victim": "SSS Australia",
         "domain": "sssaustralia.com.au",
