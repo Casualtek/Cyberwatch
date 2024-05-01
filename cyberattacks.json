@@ -1,6 +1,16 @@
 [
     {
-        "date": "2023-04-08",
+        "date": "2024-04-29",
+        "victim": "Universidad de las Américas de Puebla (UDLAP)",
+        "domain": "udlap.mx",
+        "country": "MEX",
+        "summary": "La Universidad de las Américas de Puebla (UDLAP) a subi une cyberattaque qui a perturbé ses services internet et ses plateformes technologiques. La situation a été contenue, identifiée et atténuée grâce aux systèmes de défense de l'université, avec l'aide des partenaires en cybersécurité Dell et Palo Alto. Les services sont en cours de restauration, notamment la plateforme Blackboard qui est déjà opérationnelle, bien que l'accès nécessite un lien spécifique temporaire.",
+        "title": "Alerta en la UDLAP: Sufre ataque cibernético",
+        "url": "https://www.diariocambio.com.mx/2024/educacion/alerta-en-la-udlap-sufre-ataque-cibernetico/",
+        "added": "2024-05-01"
+    },
+    {
+        "date": "2024-04-08",
         "victim": "Magnet+",
         "domain": "magnetplus.ie",
         "country": "IRL",
