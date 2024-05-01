@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-04-15",
+        "victim": "Katholische Jugendfürsorge der Diözese Augsburg (KJF)",
+        "domain": "kjf-augsburg.de",
+        "country": "DEU",
+        "summary": "La Katholische Jugendfürsorge der Diözese Augsburg (KJF) a été victime d'une cyberattaque professionnelle mi-avril, au cours de laquelle des données personnelles, financières, de patients et de santé ont été volées dans plusieurs de ses établissements, y compris la plus grande maternité de la région, le Josefinum à Augsburg. Les hackers ont accédé à des parties de l'infrastructure informatique de la KJF, mais il semble que les documents de traitement ou les lettres médicales n'ont pas été dérobés. La KJF a mis en place une hotline pour les personnes potentiellement affectées et conseille de changer les mots de passe et de surveiller attentivement les comptes bancaires pour prévenir l'us",
+        "title": "Cyberangriff: Hacker stehlen Daten von Patienten der KJF Augsburg",
+        "url": "https://www.augsburger-allgemeine.de/bayern/cyberangriff-hacker-stehlen-daten-von-patienten-der-kjf-augsburg-id70612686.html",
+        "added": "2024-05-01"
+    },
+    {
         "date": "2024-04-26",
         "victim": "Hong Kong Arts Development Council",
         "domain": "hkadc.org.hk",
