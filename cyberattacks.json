@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-04-26",
+        "victim": "Hong Kong Arts Development Council",
+        "domain": "hkadc.org.hk",
+        "country": "HKG",
+        "summary": "Le 26 avril, le système informatique du Hong Kong Arts Development Council a été victime d'une cyberattaque malveillante, affectant partiellement ses opérations. L'organisation a immédiatement activé un mécanisme de réponse d'urgence pour empêcher de nouvelles intrusions et a engagé des experts en cybersécurité pour enquêter et réparer le système, sans qu'aucune fuite de données, y compris celles des demandeurs de subventions, n'ait été détectée à ce stade. L'incident a été signalé à l'Office of the Privacy Commissioner for Personal Data et à la police de Hong Kong, ainsi qu'au Bureau des affaires culturelles, sportives et touristiques.",
+        "title": "香港藝發局網絡遭攻擊 暫未發現有資料洩露 | am730",
+        "url": "https://www.am730.com.hk/本地/香港藝發局網絡遭攻擊-暫未發現有資料洩露-/448793",
+        "added": "2024-05-01"
+    },
+    {
         "date": "2024-04-27",
         "victim": "La Superintendencia del Subsidio Familiar",
         "domain": "ssf.gov.co",
