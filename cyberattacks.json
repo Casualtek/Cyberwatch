@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-04-13",
+        "victim": "Direction Générale des Achats et des Contrats Publics (DGCP)",
+        "domain": "dgcp.gob.do",
+        "country": "DOM",
+        "summary": "La Direction Générale des Achats et des Contrats Publics (DGCP) a été ciblée par une cyberattaque qui, bien que n'ayant pas affecté son système ni ses opérations, est prise très au sérieux comme un avertissement contre de potentielles intrusions futures. L'attaque n'a pas perturbé les processus de la DGCP, mais souligne les risques liés à son rôle clé dans l'annulation de licitations non conformes ou entachées d'irrégularités. Cette cyberattaque, survenue dans le contexte d'un processus électoral, suscite des inquiétudes supplémentaires et pousse l'organisation à renforcer sa sécurité.",
+        "title": "Ataque cibernético",
+        "url": "https://elnacional.com.do/ataque-cibernetico/",
+        "added": "2024-05-02"
+    },
+    {
         "date": "2024-03-07",
         "victim": "Panda Group, Inc.",
         "domain": "pandarg.com",
