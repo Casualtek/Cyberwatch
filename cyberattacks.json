@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-05-02",
+        "victim": "Umeå universitet",
+        "domain": "umu.se",
+        "country": "SWE",
+        "summary": "L'ITS, l'unité de support informatique et de développement des systèmes de l'Université d'Umeå, a découvert la cyberattaque à 08h30 le 2 mai. Des efforts immédiats et étendus de dépannage ont été entrepris, ainsi que d'autres mesures pour stopper l'attaque, en collaboration avec des spécialistes externes.",
+        "title": "Umeå universitet utsatt för omfattande cyberattack",
+        "url": "https://www.umu.se/nyheter/umea-universitet-utsatt-for-omfattande-cyberattack_11935138/",
+        "added": "2024-05-02"
+    },
+    {
         "date": "2024-04-09",
         "victim": "Shook Lin & Bok",
         "domain": "shooklin.com",
