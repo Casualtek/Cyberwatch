@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-04-09",
+        "victim": "Shook Lin & Bok",
+        "domain": "shooklin.com",
+        "country": "SGP",
+        "summary": "Le cabinet d'avocats Shook Lin & Bok, basé à Singapour, a été victime d'une cyberattaque par rançongiciel le mois dernier, le 9. Bien que l'attaque ait été signalée, il n'y a actuellement aucune preuve que les données clients dans les systèmes centraux aient été compromises. L'Autorité de cybersécurité de Singapour a assisté le cabinet et conseille de ne pas payer la rançon, car cela ne garantit pas la résolution du problème et pourrait rendre la victime plus susceptible à de futures attaques.",
+        "title": "旭龄及穆律师事务所遭勒索软件攻击 - 8world",
+        "url": "https://www.8world.com/singapore/ransomware-attack-2444656",
+        "added": "2024-05-02"
+    },
+    {
         "date": "2024-04-13",
         "victim": "Direction Générale des Achats et des Contrats Publics (DGCP)",
         "domain": "dgcp.gob.do",
