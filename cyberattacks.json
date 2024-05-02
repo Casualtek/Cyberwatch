@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-04-30",
+        "victim": "Mineola Union Free School District",
+        "domain": "mineola.k12.ny.us",
+        "country": "USA",
+        "summary": "Les responsables scolaires ont confirmé qu'une cyberattaque a eu lieu au sein du district scolaire de Mineola Union Free, entraînant une panne d'internet et de téléphone. Un message envoyé aux parents a révélé que la cause de cette panne était due à une cyberattaque, et que des mesures étaient prises avec le fournisseur de sécurité pour rétablir le service. Le district prévoit de rétablir l'accès à internet et au téléphone d'ici mercredi soir, à temps pour la reprise des cours le jeudi.",
+        "title": "School officials: Cyberattack causes internet, phone outage at Mineola Public Schools",
+        "url": "https://longisland.news12.com/school-officials-cyberattack-causes-internet-phone-outage-at-mineola-public-schools",
+        "added": "2024-05-02"
+    },
+    {
         "date": "2023-11-11",
         "victim": "Blackstone Valley Community Health Care (BVCHC)",
         "domain": "bvchc.org",
