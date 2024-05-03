@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-04-19",
+        "victim": "Salamander",
+        "domain": "salamander.de",
+        "country": "DEU",
+        "summary": "Le fabricant de chaussures Salamander a été victime d'une cyberattaque, entraînant la mise hors ligne de sa présence sur Internet et des perturbations dans ses plus de soixante magasins depuis le 19 avril. La société Klauser GmbH & Co KG, propriétaire de Salamander, a dû fermer ses systèmes informatiques mais a réussi à rétablir les processus commerciaux essentiels fin avril, bien que le site de vente en ligne reste inutilisable.",
+        "title": "Cyberangriff: Salamander-Schuhe nach Attacke offline | heise online",
+        "url": "https://www.heise.de/news/Schuhhaendler-Salamander-nach-Cyberattacke-offline-9707690.html",
+        "added": "2024-05-03"
+    },
+    {
         "date": "2024-05-03",
         "victim": "Eucatex (EUCA4)",
         "domain": "eucatex.com.br",
