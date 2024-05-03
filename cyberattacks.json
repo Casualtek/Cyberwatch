@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-05-03",
+        "victim": "Eucatex (EUCA4)",
+        "domain": "eucatex.com.br",
+        "country": "BRA",
+        "summary": "Eucatex (EUCA4) a été victime d'une cyberattaque, entraînant la paralysie de son système ERP et de messagerie électronique. Les bases de données sont restées intactes, et la société assure qu'aucune perte ni fuite de données n'a été constatée. Le problème a été résolu, et les systèmes sont en cours de rétablissement, avec une normalisation attendue dans les prochaines heures.",
+        "title": "Eucatex (EUCA4) comunica ataque cibernético e diz não haver evidências de perdas e vazamentos - SpaceMoney",
+        "url": "https://www.spacemoney.com.br/investimentos/acoes/eucatex-euca4-comunica-ataque-cibernetico/207434/",
+        "added": "2024-05-03"
+    },
+    {
         "date": "2024-05-02",
         "victim": "Umeå universitet",
         "domain": "umu.se",
