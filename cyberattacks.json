@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-05-05",
+        "victim": "Wichita",
+        "domain": "wichita.gov",
+        "country": "USA",
+        "summary": "Wichita a fermé son réseau informatique à la suite d'une attaque par logiciel malveillant. Certains services sont temporairement indisponibles. Des spécialistes externes aident à restaurer le réseau, sans échéance précise. Les services d'urgence fonctionnent, mais les paiements en ligne sont suspendus.",
+        "title": "Wichita reports cyberattack on city computer network | 101.3 KFDI",
+        "url": "https://www.kfdi.com/2024/05/05/wichita-reports-cyberattack-on-city-computer-network/",
+        "added": "2024-05-06"
+    },
+    {
         "date": "2024-05-04",
         "victim": "Regional Cancer Center (RCC)",
         "domain": "rcctvm.gov.in",
