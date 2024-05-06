@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-05-05",
+        "victim": "Université de Sienne",
+        "domain": "unisi.it",
+        "country": "ITA",
+        "summary": "L'Université de Sienne a été victime d'une cyberattaque par un groupe de hackers internationaux, nécessitant la fermeture de son réseau pour vérifier et nettoyer l'infrastructure. Les responsables informatiques de l'université ont informé l'Agence nationale de cybersécurité et préparent une plainte à la police postale et à l'autorité de protection des données personnelles. Le réseau de l'université sera restauré progressivement une fois que les conditions de sécurité seront garanties.",
+        "title": "Rete dell’Università di Siena colpita da attacco hacker",
+        "url": "https://sienafree.it/157720-infrastruttura-di-rete-delluniversita-di-siena-colpita-da-attacco-hacker",
+        "added": "2024-05-06"
+    },
+    {
         "date": "2024-05-03",
         "victim": "Cégep de Lanaudière",
         "domain": "cegep-lanaudiere.qc.ca",
