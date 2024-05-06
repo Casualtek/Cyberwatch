@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-05-03",
+        "victim": "Cégep de Lanaudière",
+        "domain": "cegep-lanaudiere.qc.ca",
+        "country": "CAN",
+        "summary": "Le Cégep de Lanaudière a été victime d'une cyberattaque vendredi, ce qui a entraîné la fermeture des trois établissements scolaires aujourd'hui et demain. L'enquête est en cours avec une firme de cybersécurité et des experts surveillent le \"Dark Web\" pour détecter d'éventuelles fuites de données. Un plan d'action a été mis en place pour remettre en fonction les serveurs et une communication sera envoyée mardi pour dévoiler la marche à suivre.",
+        "title": "Les trois constituantes du Cégep de Lanaudière victimes d’une cyberattaque",
+        "url": "https://monjoliette.com/les-trois-constituantes-du-cegep-de-lanaudiere-victimes-dune-cyberattaque/",
+        "added": "2024-05-06"
+    },
+    {
         "date": "2024-05-05",
         "victim": "Wichita",
         "domain": "wichita.gov",
