@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-05-03",
+        "victim": "Coradix-Magnescan",
+        "domain": "radiologie-perpignan.fr",
+        "country": "FRA",
+        "summary": "Le groupe de radiologie médicale Coradix-Magnescan a été victime d'une cyberattaque qui a touché plusieurs de ses sites d'imagerie médicale dans les Pyrénées-Orientales. Les autorités compétentes ont été informées et une enquête est en cours pour découvrir l'origine de l'attaque, mais pour l'instant, aucune violation de données n'a été détectée. Les équipes des centres d'imagerie travaillent pour assurer la réalisation des examens dans les meilleures conditions possibles malgré un mode de fonctionnement dégradé.",
+        "title": "Pyrénées-Orientales : plusieurs sites d’imagerie médicale victimes d’une cyberattaque - lindependant.fr",
+        "url": "https://www.lindependant.fr/2024/05/07/pyrenees-orientales-de-nombreux-sites-dimagerie-medicale-victimes-dune-cyberattaque-11936827.php",
+        "added": "2024-05-07"
+    },
+    {
         "date": "2024-04-30",
         "victim": "Université de Guyane",
         "domain": "univ-guyane.fr",
