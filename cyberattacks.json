@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-04-30",
+        "victim": "Université de Guyane",
+        "domain": "univ-guyane.fr",
+        "country": "GUF",
+        "summary": "L'Université de Guyane a été victime d'une cyberattaque qui a entraîné le chiffrement et la suppression de certains fichiers, ainsi que la destruction du site web de la faculté. Les hackers réclament une rançon en échange de la restitution des données, mais la direction refuse de payer. Une enquête est en cours pour déterminer l'origine de l'attaque et évaluer les dégâts.",
+        "title": "L'Université de Guyane victime d'une cyberattaque",
+        "url": "https://www.franceguyane.fr/actualite/education-sante-environnement/luniversite-de-guyane-victime-dune-cyberattaque-986312.php",
+        "added": "2024-05-07"
+    },
+    {
         "date": "2024-05-05",
         "victim": "Université de Sienne",
         "domain": "unisi.it",
