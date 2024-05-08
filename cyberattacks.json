@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-05-05",
+        "victim": "Concord Public Schools et Concord-Carlisle Regional School District",
+        "domain": "concordps.org",
+        "country": "USA",
+        "summary": "Les écoles publiques de Concord et le district scolaire régional de Concord-Carlisle ont été victimes d'une cyberattaque, qui a entraîné une demande de rançon et a affecté les ordinateurs personnels. Les équipes de sécurité travaillent pour restaurer les systèmes et contenir l'attaque, tandis que les cafétérias des écoles prendront des espèces pour les snacks en raison de la perturbation. L'enquête est en cours pour déterminer si des données sensibles ont été compromises.",
+        "title": "Report: Concord schools hit with cyber attack",
+        "url": "https://www.bostonglobe.com/2024/05/07/metro/report-concord-schools-hit-with-cyber-attack/",
+        "added": "2024-05-08"
+    },
+    {
         "date": "2024-05-03",
         "victim": "Coradix-Magnescan",
         "domain": "radiologie-perpignan.fr",
