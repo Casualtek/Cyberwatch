@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-05-06",
+        "victim": "DocGo",
+        "domain": "docgo.com",
+        "country": "USA",
+        "summary": "La société de soins de santé mobile DocGo a été victime d'une cyberattaque, au cours de laquelle des données de santé protégées ont été volées à partir d'un nombre limité de dossiers de santé. L'entreprise a pris des mesures pour contenir l'incident et a engagé des experts en cybersécurité pour enquêter. Les données compromises concernent uniquement l'activité de transport d'ambulances aux États-Unis et DocGo est en train de contacter les individus affectés.",
+        "title": "DocGo discloses cyberattack after hackers steal patient health data",
+        "url": "https://www.bleepingcomputer.com/news/security/docgo-discloses-cyberattack-after-hackers-steal-patient-health-data/",
+        "added": "2024-05-08"
+    },
+    {
         "date": "2023-03-29",
         "victim": "NRS Healthcare",
         "domain": "nrshealthcare.co.uk",
