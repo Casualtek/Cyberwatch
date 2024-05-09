@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-04-28",
+        "victim": "Firstmac",
+        "domain": "firstmac.com.au",
+        "country": "AUS",
+        "summary": "La société Firstmac, un prêteur australien, a été victime d'une cyberattaque par le groupe de ransomware EMBARGO, qui a volé plus de 500 Go de données, notamment des bases de données, des codes sources et des informations sensibles sur les clients. L'entreprise a engagé des experts pour enquêter sur l'incident et a pris des mesures pour sécuriser son système. Cet incident fait partie d'une série d'attaques ciblant les institutions financières australiennes, ce qui a conduit le gouvernement et l'industrie à renforcer leurs défenses contre les cybermenaces.",
+        "title": "Firstmac hacked by ransomware gang - Mortgage Business",
+        "url": "https://www.mortgagebusiness.com.au/lender/19018-non-bank-lender-hacked",
+        "added": "2024-05-09"
+    },
+    {
         "date": "2023-05-05",
         "victim": "Palomar Health Medical Group",
         "domain": "palomarhealth.org",
