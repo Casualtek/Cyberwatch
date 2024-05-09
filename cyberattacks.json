@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-05-08",
+        "victim": "Ascension Health",
+        "domain": "ascension.org",
+        "country": "USA",
+        "summary": "Ascension Health, une entreprise de soins de santé, enquête sur une cyberattaque qui a affecté certains systèmes de son réseau technologique. L'accès à certains systèmes a été interrompu, mais la société a mis en place des procédures pour garantir que les soins aux patients continuent de manière sécurisée et avec un impact minimal. Si des informations sensibles sont compromises, les personnes concernées seront notifiées.",
+        "title": "Ascension Health investigates cyber security issue, assures minimal patient impact",
+        "url": "https://fox11online.com/news/local/ascension-health-investigates-cyber-security-issue-assures-minimal-patient-impact-st-elizabeth-appleton-calumet-chilton-mercy-oshkosh-activity-information",
+        "added": "2024-05-09"
+    },
+    {
         "date": "2024-05-01",
         "victim": "Brandywine Realty Trust",
         "domain": "brandywinerealty.com",
