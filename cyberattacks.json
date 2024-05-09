@@ -1,5 +1,15 @@
 [
     {
+        "date": "2023-05-05",
+        "victim": "Palomar Health Medical Group",
+        "domain": "palomarhealth.org",
+        "country": "USA",
+        "summary": "Le groupe médical Palomar Health Medical Group a été victime d'une cyberattaque potentielle, ce qui a entraîné des retards pour les patients et des perturbations dans les opérations. Les téléphones, les télécopieurs et le portail en ligne sont actuellement hors service, et les patients peuvent rencontrer des retards. L'organisation a engagé des experts externes pour enquêter sur l'incident et déterminer l'ampleur de la cyberattaque.",
+        "title": "Palomar Health Medical Group hit by potential cyberattack - The San Diego Union-Tribune",
+        "url": "https://www.sandiegouniontribune.com/news/health/story/2024-05-08/palomar-health-medical-group-hit-by-cyber-attack",
+        "added": "2024-05-09"
+    },
+    {
         "date": "2024-05-08",
         "victim": "Ascension Health",
         "domain": "ascension.org",
