@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-05-06",
+        "victim": "Key Tronic Corporation",
+        "domain": "keytronic.com",
+        "country": "USA",
+        "summary": "Key Tronic Corporation a détecté un accès non autorisé à certaines parties de ses systèmes informatiques le 6 mai 2024. La société a activé ses procédures d'incident cybernétique pour enquêter et contenir l'attaque, en collaborant avec des experts externes en cybersécurité et en informant les autorités. L'incident a entraîné des perturbations et des limitations d'accès à certaines applications commerciales de la société, mais elle estime que l'activité non autorisée a été contenue et travaille à rétablir les systèmes affectés. À ce jour, la société ne pense pas que l'incident aura un impact matériel sur ses activités ou ses résultats financiers.",
+        "title": "FORM 8-K",
+        "url": "https://www.sec.gov/Archives/edgar/data/719733/000071973324000015/ktcc-20240506.htm",
+        "added": "2024-05-09"
+    },
+    {
         "date": "2024-04-28",
         "victim": "Firstmac",
         "domain": "firstmac.com.au",
