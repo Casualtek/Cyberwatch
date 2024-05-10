@@ -1,0 +1,450 @@
+[
+    {
+        "victim": "Hotel Ostella",
+        "domain": "hotel-ostella.com",
+        "country": "FR",
+        "date": "2024-04-28",
+        "group": "lockbit3"
+    },
+    {
+        "victim": "Eléments Ingénierie",
+        "domain": "elements-ing.com",
+        "country": "FR",
+        "date": "2024-03-18",
+        "group": "lockbit3"
+    },
+    {
+        "victim": "Collège Sainte Marie",
+        "domain": "college-stemarie-elven.org",
+        "country": "FR",
+        "date": "2024-03-12",
+        "group": "lockbit3"
+    },
+    {
+        "victim": "Garage Cretot",
+        "domain": "garage-cretot.fr",
+        "country": "FR",
+        "date": "2024-04-30",
+        "group": "lockbit3"
+    },
+    {
+        "victim": "Dopravní podnik Karlovy Vary, a. s.",
+        "domain": "dpkv.cz",
+        "country": "CZ",
+        "date": "2024-04-07",
+        "group": "lockbit3"
+    },
+    {
+        "victim": "Double House",
+        "domain": "doublehorse.in",
+        "country": "IN",
+        "date": "2024-04-24",
+        "group": "lockbit3"
+    },
+    {
+        "victim": "Core Engineering LLC",
+        "domain": "coreengg.com",
+        "country": "US",
+        "date": "2024-02-08",
+        "group": "lockbit3"
+    },
+    {
+        "victim": "ESS Inc.",
+        "domain": "essinc.com",
+        "country": "US",
+        "date": "2024-04-05",
+        "group": "lockbit3"
+    },
+    {
+        "victim": "Museu Paraense Emilio Goeldi",
+        "domain": "museu-goeldi.br",
+        "country": "BR",
+        "date": "2024-04-03",
+        "group": "lockbit3"
+    },
+    {
+        "victim": "V-Star Creations",
+        "domain": "vstar.in",
+        "country": "IN",
+        "date": "2024-04-05",
+        "group": "lockbit3"
+    },
+    {
+        "victim": "Livia Polymer Products Pvt. Ltd.",
+        "domain": "livia.in",
+        "country": "IN",
+        "date": "2024-03-14",
+        "group": "lockbit3"
+    },
+    {
+        "victim": "cinealbeniz.com",
+        "domain": "cinealbeniz.com",
+        "country": "ES",
+        "date": "2024-03-14",
+        "group": "lockbit3"
+    },
+    {
+        "victim": "Slovenská národná knižnica",
+        "domain": "snk.sk",
+        "country": "SK",
+        "date": "2024-03-13",
+        "group": "lockbit3"
+    },
+    {
+        "victim": "Brockington",
+        "domain": "brockington.leics.sch.uk",
+        "country": "UK",
+        "date": "2024-03-06",
+        "group": "lockbit3"
+    },
+    {
+        "victim": "Auburn University",
+        "domain": "auburnpikapp.org",
+        "country": "US",
+        "date": "2024-02-03",
+        "group": "lockbit3"
+    },
+    {
+        "victim": "Environmental Investment Fund (EIF)",
+        "domain": "eif.org.na",
+        "country": "NA",
+        "date": "2024-02-02",
+        "group": "lockbit3"
+    },
+    {
+        "victim": "Medicus Diagnostic and Therapy Center",
+        "domain": "cdtmedicus.pl",
+        "country": "PL",
+        "date": "2024-03-17",
+        "group": "lockbit3"
+    },
+    {
+        "victim": "Tetco",
+        "domain": "tetco.com",
+        "country": "US",
+        "date": "2024-03-14",
+        "group": "lockbit3"
+    },
+    {
+        "victim": "Kioti",
+        "domain": "kioti.com",
+        "country": "US",
+        "date": "2024-01-23",
+        "group": "lockbit3"
+    },
+    {
+        "victim": "Consultants and Researchers in Administration, S.C.",
+        "domain": "ciasc.mx",
+        "country": "MX",
+        "date": "2024-03-12",
+        "group": "lockbit3"
+    },
+    {
+        "victim": "Alian",
+        "domain": "alian.mx",
+        "country": "MX",
+        "date": "2024-03-27",
+        "group": "lockbit3"
+    },
+    {
+        "victim": "DS Global Technology",
+        "domain": "dsglobaltech.com",
+        "country": "SG",
+        "date": "2024-03-26",
+        "group": "lockbit3"
+    },
+    {
+        "victim": "Heartland Health Center",
+        "domain": "heartlandhealthcenter.org",
+        "country": "US",
+        "date": "2024-03-21",
+        "group": "lockbit3"
+    },
+    {
+        "victim": "itss",
+        "domain": "itss.com.tr",
+        "country": "TR",
+        "date": "2024-03-18",
+        "group": "lockbit3"
+    },
+    {
+        "victim": "uniter",
+        "domain": "uniter.net",
+        "country": "ES",
+        "date": "2024-03-19",
+        "group": "lockbit3"
+    },
+    {
+        "victim": "Ondozabal",
+        "domain": "ondozabal.com",
+        "country": "ES",
+        "date": "2024-03-01",
+        "group": "lockbit3"
+    },
+    {
+        "victim": "Grupo PM",
+        "domain": "grupopm.com",
+        "country": "MX",
+        "date": "2024-02-28",
+        "group": "lockbit3"
+    },
+    {
+        "victim": "Wakefield Snapethorpe Primary School",
+        "domain": "snapethorpeprimary.co.uk",
+        "country": "UK",
+        "date": "2024-02-10",
+        "group": "lockbit3"
+    },
+    {
+        "victim": "Champion",
+        "domain": "champion.com.co",
+        "country": "CO",
+        "date": "2024-02-02",
+        "group": "lockbit3"
+    },
+    {
+        "victim": "Vitema",
+        "domain": "vitema.vi.gov",
+        "country": "VG",
+        "date": "2024-02-10",
+        "group": "lockbit3"
+    },
+    {
+        "victim": "Central Paysanne Luxembourgeoise",
+        "domain": "centralepaysanne.lu",
+        "country": "LU",
+        "date": "2024-03-09",
+        "group": "lockbit3"
+    },
+    {
+        "victim": "carlfischer.com",
+        "domain": "carlfischer.com",
+        "country": "US",
+        "date": "2024-01-25",
+        "group": "lockbit3"
+    },
+    {
+        "victim": "Shri Lakshmi Agro Foods Private Limited",
+        "domain": "udhaiyamdhall.com",
+        "country": "IN",
+        "date": "2023-12-14",
+        "group": "lockbit3"
+    },
+    {
+        "victim": "Ultragas México",
+        "domain": "ultragasmexico.com",
+        "country": "MX",
+        "date": "2024-02-12",
+        "group": "lockbit3"
+    },
+    {
+        "victim": "Agencavi Systems",
+        "domain": "agencavisystems.com",
+        "country": "IT",
+        "date": "2024-02-12",
+        "group": "lockbit3"
+    },
+    {
+        "victim": "Salmones Aysén S.A.",
+        "domain": "salmonesaysen.cl",
+        "country": "CL",
+        "date": "2024-02-03",
+        "group": "lockbit3"
+    },
+    {
+        "victim": "Kings",
+        "domain": "kowessex.co.uk",
+        "country": "UK",
+        "date": "2024-02-27",
+        "group": "lockbit3"
+    },
+    {
+        "victim": "Nalsani SAS",
+        "domain": "totto.com",
+        "country": "CO",
+        "date": "2024-02-23",
+        "group": "lockbit3"
+    },
+    {
+        "victim": "Randi Group",
+        "domain": "randi-group.com",
+        "country": "IT",
+        "date": "2024-02-28",
+        "group": "lockbit3"
+    },
+    {
+        "victim": "INOUE MFG., INC.",
+        "domain": "inouemfg.com",
+        "country": "JP",
+        "date": "2023-12-07",
+        "group": "lockbit3"
+    },
+    {
+        "victim": "Ipsen Logistics",
+        "domain": "ipsenlogistics.com",
+        "country": "MA",
+        "date": "2023-06-15",
+        "group": "lockbit3"
+    },
+    {
+        "victim": "Orsini Group",
+        "domain": "orsiniimballaggi.com",
+        "country": "IT",
+        "date": "2024-03-06",
+        "group": "lockbit3"
+    },
+    {
+        "victim": "Vinati Organics Limited",
+        "domain": "vinatiorganics.com",
+        "country": "IN",
+        "date": "2024-03-04",
+        "group": "lockbit3"
+    },
+    {
+        "victim": "Moga International Ltd.",
+        "domain": "mogaisrael.com",
+        "country": "IL",
+        "date": "2024-03-13",
+        "group": "lockbit3"
+    },
+    {
+        "victim": "G. R. si. Consultants Ltd.",
+        "domain": "grc-c.co.il",
+        "country": "IL",
+        "date": "2024-01-29",
+        "group": "lockbit3"
+    },
+    {
+        "victim": "MAXimum Research, Inc.",
+        "domain": "maximumresearch.com",
+        "country": "US",
+        "date": "2024-01-17",
+        "group": "lockbit3"
+    },
+    {
+        "victim": "Taylor Crane & Rigging, Inc.",
+        "domain": "taylorcrane.com",
+        "country": "US",
+        "date": "2024-01-12",
+        "group": "lockbit3"
+    },
+    {
+        "victim": "cargotrinidad.com",
+        "domain": "cargotrinidad.com",
+        "country": "TT",
+        "date": "2024-03-08",
+        "group": "lockbit3"
+    },
+    {
+        "victim": "Hetero",
+        "domain": "hetero.com",
+        "country": "IN",
+        "date": "2024-05-02",
+        "group": "lockbit3"
+    },
+    {
+        "victim": "IIT Madras",
+        "domain": "iitm.ac.in",
+        "country": "IN",
+        "date": "2024-05-03",
+        "group": "lockbit3"
+    },
+    {
+        "victim": "ctt Express",
+        "domain": "cttxpress.com",
+        "country": "ES",
+        "date": "2024-04-29",
+        "group": "lockbit3"
+    },
+    {
+        "victim": "VM3 Fincas",
+        "domain": "vm3fincas.es",
+        "country": "ES",
+        "date": "2024-05-04",
+        "group": "lockbit3"
+    },
+    {
+        "victim": "Tega Industries Limited",
+        "domain": "tegaindustries.com",
+        "country": "IN",
+        "date": "2024-05-04",
+        "group": "lockbit3"
+    },
+    {
+        "victim": "Abu Dhabi National Building Materials Co.",
+        "domain": "bildco.ae",
+        "country": "AE",
+        "date": "2024-03-17",
+        "group": "lockbit3"
+    },
+    {
+        "victim": "Sripatum University",
+        "domain": "spu.ac.th",
+        "country": "TH",
+        "date": "2024-03-12",
+        "group": "lockbit3"
+    },
+    {
+        "victim": "DePenning & DePenning",
+        "domain": "depenning.com",
+        "country": "IN",
+        "date": "2024-04-06",
+        "group": "lockbit3"
+    },
+    {
+        "victim": "Colonial School District",
+        "domain": "colonialsd.org",
+        "country": "US",
+        "date": "2024-04-26",
+        "group": "lockbit3"
+    },
+    {
+        "victim": "Peninsula Crane and Rigging",
+        "domain": "peninsulacrane.com",
+        "country": "US",
+        "date": "2024-03-08",
+        "group": "lockbit3"
+    },
+    {
+        "victim": "EVW School District",
+        "domain": "evw.k12.mn.us",
+        "country": "US",
+        "date": "2024-03-23",
+        "group": "lockbit3"
+    },
+    {
+        "victim": "A Step Ahead Foot & Ankle Center",
+        "domain": "asafoot.com",
+        "country": "US",
+        "date": "2024-04-09",
+        "group": "lockbit3"
+    },
+    {
+        "victim": "Grupo MPE",
+        "domain": "mpeprevencion.com",
+        "country": "ES",
+        "date": "2024-03-22",
+        "group": "lockbit3"
+    },
+    {
+        "victim": "Sislocar",
+        "domain": "sislocar.com",
+        "country": "CR",
+        "date": "2024-04-11",
+        "group": "lockbit3"
+    },
+    {
+        "victim": "Vikrant Group",
+        "domain": "vikrantsprings.com",
+        "country": "IN",
+        "date": "2024-04-30",
+        "group": "lockbit3"
+    },
+    {
+        "victim": "Thai Agri Foods",
+        "domain": "thaiagri.com",
+        "country": "TH",
+        "date": "2024-04-09",
+        "group": "lockbit3"
+    }
+]
