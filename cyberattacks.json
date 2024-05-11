@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-04-16",
+        "victim": "Comune di Mantova",
+        "domain": "mantova.it",
+        "country": "ITA",
+        "summary": "Le Comune di Mantova a été victime d'une cyberattaque le 16 avril 2024, qui a affecté certaines applications technologiques de l'entreprise Tea. Selon les enquêteurs, il n'y a pas eu de perte ou de suppression définitive de données personnelles, mais un groupe criminel a revendiqué l'exfiltration de certaines informations, notamment des données personnelles. Les investigations se poursuivent pour déterminer la nature et l'ampleur de la violation de la confidentialité des données personnelles traitées au nom et pour le compte du Comune di Mantova.",
+        "title": "Comunicato del Comune di Mantova",
+        "url": "https://www.comune.mantova.it/tutte-le-notizie/comunicati-stampa/4400-attacco-informatico-comunicato-del-comune-di-mantova",
+        "added": "2024-05-11"
+    },
+    {
         "date": "2024-02-15",
         "victim": "Bureau des Normes de la Jamaïque (BSJ)",
         "domain": "jbs.org.jm",
