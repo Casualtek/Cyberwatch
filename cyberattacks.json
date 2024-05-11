@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-02-15",
+        "victim": "Bureau des Normes de la Jamaïque (BSJ)",
+        "domain": "jbs.org.jm",
+        "country": "JAM",
+        "summary": "Le Bureau des Normes de la Jamaïque (BSJ) a été victime d'une attaque par ransomware en février, qui a coûté 231 900 dollars pour récupérer et sécuriser ses systèmes d'information et de communication. L'attaque a été causée par une attaque de phishing qui a compromis les informations d'identification du personnel et a exposé les systèmes du BSJ au malware. Les experts travaillent actuellement à restaurer les systèmes et les fichiers affectés, mais aucune donnée n'a été volée ou extraite.",
+        "title": "BSJ Hit by CYBERATTACK | Lead Stories | Jamaica Gleaner",
+        "url": "https://jamaica-gleaner.com/article/lead-stories/20240511/bsj-hit-cyberattack",
+        "added": "2024-05-11"
+    },
+    {
         "date": "2023-05-11",
         "victim": "JR East (East Japan Railway Co.)",
         "domain": "jreast.co.jp",
