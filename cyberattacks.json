@@ -1,5 +1,15 @@
 [
     {
+        "date": "2023-05-11",
+        "victim": "JR East (East Japan Railway Co.)",
+        "domain": "jreast.co.jp",
+        "country": "JPN",
+        "summary": "La compagnie de chemin de fer japonaise JR East a été victime d'une cyberattaque qui a perturbé temporairement son application Mobile Suica et son système de réservation en ligne Eki-net. L'incident a commencé vers 17h30 et a été résolu plus de quatre heures plus tard, sans affecter les opérations des trains. Les utilisateurs ont rencontré des difficultés pour accéder aux services, mais les cartes de transport public pouvaient encore être utilisées si elles avaient un solde restant.",
+        "title": "JR East briefly hit by system disruption due to cyberattack",
+        "url": "https://english.kyodonews.net/news/2024/05/9200c3976fe8-update1-jr-east-briefly-hit-by-system-disruption-due-to-cyberattack.html",
+        "added": "2024-05-11"
+    },
+    {
         "date": "2024-05-06",
         "victim": "Key Tronic Corporation",
         "domain": "keytronic.com",
