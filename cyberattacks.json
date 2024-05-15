@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-04-30",
+        "victim": "City of Helsinki",
+        "domain": "hel.fi",
+        "country": "FIN",
+        "summary": "La ville d'Helsinki a subi une violation de données qui a affecté des dizaines de milliers d'étudiants, de tuteurs et de personnels, exposant des informations personnelles et confidentielles. L'enquête est en cours pour déterminer l'étendue et l'impact de l'incident, qui a été causé par l'exploitation d'une vulnérabilité non corrigée dans le réseau de la Division de l'éducation. La ville a déjà mis en place des mesures de sécurité pour prévenir de nouvelles attaques.",
+        "title": "City of Helsinki suffered a data breach",
+        "url": "https://securityaffairs.com/163088/data-breach/city-of-helsinki-data-breach.html",
+        "added": "2024-05-15"
+    },
+    {
         "date": "2023-05-12",
         "victim": "Macon-Bibb County",
         "domain": "maconbibb.com",
