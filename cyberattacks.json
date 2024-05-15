@@ -1,6 +1,6 @@
 [
     {
-        "date": 2024-05-13",
+        "date": "2024-05-13",
         "victim": "Universidad Complutense de Madrid",
         "domain": "ucm.es",
         "country": "ESP",
@@ -31,8 +31,8 @@
     },
     {
         "date": "2024-04-16",
-        "victim": "Comune di Mantova",
-        "domain": "mantova.it",
+        "victim": "Groupe Tea",
+        "domain": "teaspa.it",
         "country": "ITA",
         "summary": "Le Comune di Mantova a été victime d'une cyberattaque le 16 avril 2024, qui a affecté certaines applications technologiques de l'entreprise Tea. Selon les enquêteurs, il n'y a pas eu de perte ou de suppression définitive de données personnelles, mais un groupe criminel a revendiqué l'exfiltration de certaines informations, notamment des données personnelles. Les investigations se poursuivent pour déterminer la nature et l'ampleur de la violation de la confidentialité des données personnelles traitées au nom et pour le compte du Comune di Mantova.",
         "title": "Comunicato del Comune di Mantova",
