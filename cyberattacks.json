@@ -1,5 +1,15 @@
 [
     {
+        "date": 2024-05-13",
+        "victim": "Universidad Complutense de Madrid",
+        "domain": "ucm.es",
+        "country": "ESP",
+        "summary": "La Universidad Complutense de Madrid a été victime d'une cyberattaque ciblant l'application gérant les stages en entreprise, ce qui a pu exposer les données des étudiants. L'incident a touché l'un des systèmes de l'université, mettant en danger la confidentialité des informations des élèves. Les détails de l'attaque et de l'ampleur de la fuite de données ne sont pas encore connus.",
+        "title": "La Universidad Complutense de Madrid sufre un ciberataque en la aplicación que gestiona prácticas de empresa que \"ha podido exponer\" datos de alumnos - El Correo de Pozuelo",
+        "url": "https://elcorreodepozuelo.com/2024/05/13/la-universidad-complutense-de-madrid-sufre-un-ciberataque-en-la-aplicacion-que-gestiona-practicas-de-empresa-que-ha-podido-exponer-datos-de-alumnos/",
+        "added": "2024-05-15"
+    },
+    {
         "date": "2024-05-12",
         "victim": "Travelite Holdings Ltd.",
         "domain": "etravelite.com",
