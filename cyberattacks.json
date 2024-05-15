@@ -1,5 +1,15 @@
 [
     {
+        "date": "2023-05-12",
+        "victim": "Macon-Bibb County",
+        "domain": "maconbibb.com",
+        "country": "USA",
+        "summary": "Le réseau du comté de Macon-Bibb en Géorgie a été mis hors ligne après une éventuelle cyberattaque, et des mesures de sécurité supplémentaires sont mises en place pour enquêter sur la violation potentielle. Les fonctionnaires ne peuvent actuellement pas accéder à leurs courriels ou téléphones fixes. Le comté a sollicité l'aide des autorités de sécurité de l'État et fédérales pour résoudre l'incident.",
+        "title": "Georgia county's network taken down after potential cyberattack | 13wmaz.com",
+        "url": "https://www.13wmaz.com/article/news/local/potential-breach-forces-macon-bibb-take-down-network-over-the-weekend-georgia/93-fe62bfa6-2d36-46cf-bb3e-a0a8be32f65d",
+        "added": "2024-05-15"
+    },
+    {
         "date": "2024-05-13",
         "victim": "Universidad Complutense de Madrid",
         "domain": "ucm.es",
