@@ -1,6 +1,16 @@
 [
     {
         "date": "2024-05-12",
+        "victim": "Travelite Holdings Ltd.",
+        "domain": "etravelite.com",
+        "country": "SGP",
+        "summary": "La société Travelite Holdings Ltd. a été victime d'une cyberattaque par ransomware, qui a compromis des informations sensibles sur ses serveurs IT, notamment des données sur l'entreprise, les employés et les clients. L'entreprise travaille avec des experts en IT et des avocats pour résoudre le problème et a négocié un paiement de rançon potentiel de 250 000 dollars américains. Les autorités compétentes, notamment la police et la Commission de protection des données personnelles de Singapour, ont été informées de l'incident.",
+        "title": "Travelite Holdings Hit by Major Cyberattack - TipRanks.com",
+        "url": "https://www.tipranks.com/news/company-announcements/travelite-holdings-hit-by-major-cyberattack",
+        "added": "2024-05-15"
+    },
+    {
+        "date": "2024-05-12",
         "victim": "Christie's",
         "domain": "christies.com",
         "country": "CHE",
