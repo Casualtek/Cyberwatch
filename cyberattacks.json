@@ -1,6 +1,16 @@
 [
     {
         "date": "2024-05-15",
+        "victim": "Rockford Public Schools",
+        "domain": "rockfordschools.org",
+        "country": "USA",
+        "summary": "Le district scolaire de Rockford, dans le Michigan, a été victime d'une cyberattaque par ransomware, ce qui a entraîné la fermeture de son réseau informatique et de ses téléphones. Les autorités scolaires ont pris des mesures pour protéger les données et ont contacté le FBI pour enquêter sur l'incident. Les cours continuent normalement, mais sans accès à la technologie, les élèves et les enseignants doivent utiliser des méthodes plus traditionnelles.",
+        "title": "Rockford Public Schools ransomware update | wzzm13.com",
+        "url": "https://www.wzzm13.com/article/news/local/rockford-public-schools-ransomware-attack/69-b80e015e-2310-43aa-859b-b17f1678e591",
+        "added": "2024-05-16"
+    },
+    {
+        "date": "2024-05-15",
         "victim": "MediSecure",
         "domain": "medisecure.com.au",
         "country": "AUS",
