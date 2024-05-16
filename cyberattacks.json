@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-02-13",
+        "victim": "Hessische Hochschule für öffentliches Management und Sicherheit (HöMS)",
+        "domain": "hoems.hessen.de",
+        "country": "DEU",
+        "summary": "La Hessische Hochschule für öffentliches Management und Sicherheit (HöMS) a été victime d'une cyberattaque par ransomware entre le 8 et le 13 février 2024, affectant l'ancien réseau de l'ancienne Hessische Hochschule für Polizei und Verwaltung (HfPV). Les enquêtes sont en cours et il est probable que des données personnelles aient été compromises. Les employés, les étudiants et les enseignants ont été informés de l'incident et des mesures de sécurité supplémentaires ont été mises en place.",
+        "title": "HöMS: Cyberangriff an der Hessischen Hochschule für öffentliches Management und ... | Presseportal",
+        "url": "https://www.presseportal.de/blaulicht/pm/103085/5780955",
+        "added": "2024-05-16"
+    },
+    {
         "date": "2023-11-22",
         "victim": "Myersville",
         "domain": "myersville.org",
