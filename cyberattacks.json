@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-05-15",
+        "victim": "MediSecure",
+        "domain": "medisecure.com.au",
+        "country": "AUS",
+        "summary": "Voici le résumé de l'article :\n\nLa police fédérale australienne enquête sur une cyberattaque par ransomware contre une entreprise de soins de santé, MediSecure, qui a entraîné une violation de données. Le gouvernement australien a mis en place une réponse coordonnée pour gérer l'incident, avec la ministre de la Cybersécurité Clare O'Neil qui appelle à ne pas spéculer sur l'entreprise touchée. L'incident soulève des inquiétudes quant à la vulnérabilité du secteur des soins de santé face aux attaques cybercriminelles.",
+        "title": "Data breach: Healthcare ransomware attack at MediSecure investigated by Australian Federal Police",
+        "url": "https://www.smh.com.au/technology/police-investigate-large-scale-healthcare-data-breach-20240516-p5je66.html",
+        "added": "2024-05-16"
+    },
+    {
         "date": "2024-05-13",
         "victim": "L'aéroport et l'école de commerce de Pau",
         "domain": "pau.aeroport.fr",
