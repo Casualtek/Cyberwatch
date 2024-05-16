@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-02-06",
+        "victim": "Hypertension-Nephrology Associates, P.C.",
+        "domain": "hnapc.com",
+        "country": "USA",
+        "summary": "Hypertension-Nephrology Associates, un cabinet médical, a été victime d'une attaque d'extorsion informatique en février 2024, au cours de laquelle des informations de santé protégées (PHI) ont été compromises. Les données volées incluent des noms, des dates de naissance, des informations de diagnostic et de traitement, des numéros de sécurité sociale et des numéros d'identification d'assurance santé. Le cabinet médical a pris des mesures pour protéger les informations et offre une surveillance de crédit gratuite aux personnes affectées.",
+        "title": "Notice of a Data Breach",
+        "url": "https://www.darkreading.com/cyberattacks-data-breaches/notice-of-a-data-breach",
+        "added": "2024-05-16"
+    },
+    {
         "date": "2024-05-15",
         "victim": "Rockford Public Schools",
         "domain": "rockfordschools.org",
