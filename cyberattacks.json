@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-05-02",
+        "victim": "Ewing Marion Kauffman School",
+        "domain": "kauffmanschool.org",
+        "country": "USA",
+        "summary": "L'école Ewing Marion Kauffman School à Kansas City a été victime d'une cyberattaque par ransomware en mai, ce qui a entraîné la fermeture de l'école pendant un jour. Les informations volées ont été publiées en ligne, ce qui a suscité des inquiétudes quant à la sécurité des données des élèves. L'école travaille avec les forces de l'ordre et des experts en cybersécurité pour enquêter sur l'incident et notifier les personnes concernées.",
+        "title": "Ewing Marion Kauffman School latest victim of cyberattack",
+        "url": "https://fox4kc.com/news/kansas-city-charter-school-latest-cyberattack-victim/",
+        "added": "2024-05-20"
+    },
+    {
         "date": "2024-05-15",
         "victim": "Le Collège Ahuntsic",
         "domain": "collegeahuntsic.qc.ca",
