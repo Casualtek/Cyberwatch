@@ -1,5 +1,15 @@
 [
     {
+        "date": "2023-12-28",
+        "victim": "WebTPA",
+        "domain": "webtpa.com",
+        "country": "USA",
+        "summary": "La société de services de santé WebTPA a subi une violation de données qui a affecté environ 2,5 millions de personnes, exposant des informations personnelles telles que les noms, les coordonnées, les numéros de sécurité sociale et les informations d'assurance. L'incident a été détecté le 28 décembre 2023 et les enquêtes ont révélé que les données ont été compromises entre le 18 et le 23 avril 2023. WebTPA offre deux ans de services de surveillance d'identité gratuite aux personnes affectées et a mis en place des mesures de sécurité supplémentaires pour améliorer la sécurité de son réseau.",
+        "title": "Healthcare firm WebTPA data breach impacted 2.5M individuals",
+        "url": "https://securityaffairs.com/163403/data-breach/webtpa-data-breach.html",
+        "added": "2024-05-20"
+    },
+    {
         "date": "2024-05-16",
         "victim": "American Radio Relay League (ARRL)",
         "domain": "arrl.org",
