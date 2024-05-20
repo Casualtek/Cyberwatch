@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-05-15",
+        "victim": "Central Contra Costa Transit Authority (County Connection)",
+        "domain": "ccta.net",
+        "country": "USA",
+        "summary": "La Central Contra Costa Transit Authority, un opérateur de bus et de paratransit en Californie, a subi une cyberattaque, ce qui a permis à un acteur non autorisé d'accéder à des fichiers et des données stockés dans son réseau. L'enquête est en cours pour déterminer quels sont les données précises qui ont été compromises, mais il n'y a pas encore de preuve que des informations financières ou des numéros de sécurité sociale aient été volées. L'opérateur de bus prend des mesures pour sécuriser son réseau et prévoit de notifier les individus affectés une fois que l'enquête sera terminée.",
+        "title": "Central Contra Costa Transit Authority experiences cyber security data breach | KRON4",
+        "url": "https://www.kron4.com/news/bay-area/contra-costa-transit-authority-experiences-cyber-security-data-breach/",
+        "added": "2024-05-20"
+    },
+    {
         "date": "2024-03-05",
         "victim": "Affiliated Dermatologists",
         "domain": "affiliatedderm.com",
