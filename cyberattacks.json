@@ -1,6 +1,16 @@
 [
     {
         "date": "2024-05-15",
+        "victim": "Le Collège Ahuntsic",
+        "domain": "collegeahuntsic.qc.ca",
+        "country": "CAN",
+        "summary": "Le Collège Ahuntsic à Montréal a fermé ses portes le 16 mai en raison d'une potentielle cyberattaque, entraînant l'annulation de toutes les activités d'enseignement et de formation continue. Les étudiants et employés ont été invités à ne pas utiliser les ordinateurs du collège pendant l'enquête. Le collège a annoncé qu'il devrait reprendre ses activités le 17 mai, mais sans services tels que la bibliothèque et la cafétéria.",
+        "title": "Une potentielle cyberattaque provoque la fermeture du Collège Ahuntsic | TVA Nouvelles",
+        "url": "https://www.tvanouvelles.ca/2024/05/16/une-potentielle-cyberattaque-provoque-la-fermeture-du-college-ahuntsic",
+        "added": "2024-05-20"
+    },
+    {
+        "date": "2024-05-15",
         "victim": "Ranzijn",
         "domain": "ranzijn.nl",
         "country": "NLD",
