@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-04-30",
+        "victim": "CentroMed",
+        "domain": "centromedsa.com",
+        "country": "USA",
+        "summary": "Le réseau informatique de CentroMed, un fournisseur de soins de santé basé à San Antonio, a été piraté, entraînant l'accès non autorisé à des informations personnelles de patients, notamment des noms, adresses, dates de naissance, numéros de sécurité sociale et informations financières. L'enquête a révélé que les hackers ont accédé aux systèmes de CentroMed le 30 avril 2024. CentroMed a commencé à notifier les patients concernés et a mis en place des mesures de sécurité supplémentaires pour prévenir de telles attaques à l'avenir.",
+        "title": "CentroMed computer network hacked, patients personal information ‘acquired,’ investigation reveals",
+        "url": "https://www.ksat.com/news/local/2024/05/17/centromed-computer-network-hacked-patients-personal-information-acquired-investigation-reveals/",
+        "added": "2024-05-20"
+    },
+    {
         "date": "2023-12-28",
         "victim": "WebTPA",
         "domain": "webtpa.com",
