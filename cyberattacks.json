@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-05-16",
+        "victim": "American Radio Relay League (ARRL)",
+        "domain": "arrl.org",
+        "country": "USA",
+        "summary": "L'American Radio Relay League (ARRL), l'association nationale de radio amateur aux États-Unis, a confirmé avoir été victime d'une cyberattaque qui a affecté ses systèmes et services, notamment sa base de données \"Logbook of The World\". L'attaque a compromis des informations sensibles telles que des adresses et des numéros de téléphone, mais pas de numéros de sécurité sociale ou d'informations de carte de crédit. Cette cyberattaque s'inscrit dans un contexte de nombreuses attaques contre des infrastructures critiques, notamment dans le secteur de la santé.",
+        "title": "American Radio Relay League Confirms Cyberattack Disrupted Operations | Tech Times",
+        "url": "https://www.techtimes.com/articles/304782/20240519/american-radio-relay-league-confirms-cyberattack-disrupting-operations.htm",
+        "added": "2024-05-20"
+    },
+    {
         "date": "2024-05-15",
         "victim": "Central Contra Costa Transit Authority (County Connection)",
         "domain": "ccta.net",
