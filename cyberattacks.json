@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-05-13",
+        "victim": "First Nations Health Authority (FNHA)",
+        "domain": "fnha.ca",
+        "country": "CAN",
+        "summary": "La First Nations Health Authority (FNHA) de la Colombie-Britannique a été victime d'une cyberattaque qui a compromis des informations personnelles d'employés et d'autres personnes. L'incident a été détecté le 13 mai et des mesures ont été prises pour bloquer l'accès non autorisé et prévenir d'autres activités illicites. L'enquête est en cours et les autorités compétentes ont été notifiées, mais aucune information clinique n'a été compromise.",
+        "title": "Cyberattack hits B.C.'s First Nations Health Authority | CTV News",
+        "url": "https://bc.ctvnews.ca/b-c-s-first-nations-health-authority-hit-by-cyberattack-1.6897203",
+        "added": "2024-05-23"
+    },
+    {
         "date": "2024-05-22",
         "victim": "Jumbo Group",
         "domain": "jumbogroup.sg",
