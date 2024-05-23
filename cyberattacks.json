@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-05-11",
+        "victim": "Wehrle-Werk AG",
+        "domain": "wehrle-werk.de",
+        "country": "DEU",
+        "summary": "L'entreprise allemande Wehrle-Werk AG, basée à Emmendingen, a été victime d'une cyberattaque le 11 mai dernier. Depuis, la production et la communication de l'entreprise fonctionnent de manière limitée. Les équipes travaillent actuellement à restaurer les systèmes pour rétablir les activités normales.",
+        "title": "Cyberattacke auf Wehrle-Werk AG - Emmendingen - Badische Zeitung",
+        "url": "https://www.badische-zeitung.de/cyberattacke-auf-wehrle-werk-ag",
+        "added": "2024-05-23"
+    },
+    {
         "date": "2024-04-30",
         "victim": "CentroMed",
         "domain": "centromedsa.com",
