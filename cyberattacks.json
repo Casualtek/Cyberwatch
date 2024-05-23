@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-05-20",
+        "victim": "Hong Kong Institute of Contemporary Culture Lee Shau Kee School of Creativity",
+        "domain": "creativehk.edu.hk",
+        "country": "HKG",
+        "summary": "Un établissement scolaire de Hong Kong, le Hong Kong Institute of Contemporary Culture Lee Shau Kee School of Creativity, a été victime d'une cyberattaque par ransomware, entraînant la fuite de données personnelles de plus de 600 personnes. Les hackers ont encrypté 8 To de données, notamment des informations sur les étudiants, les enseignants et les locataires de l'école. Cet incident s'inscrit dans une série d'attaques informatiques ciblant des institutions de Hong Kong, notamment des écoles, des hôpitaux et des parcs technologiques.",
+        "title": "Over 600 people's personal data stolen after school server hacked",
+        "url": "https://hongkongfp.com/2024/05/21/over-600-peoples-personal-data-stolen-after-school-server-hacked-in-latest-cyberattack-on-local-entities/",
+        "added": "2024-05-23"
+    },
+    {
         "date": "2024-05-11",
         "victim": "Wehrle-Werk AG",
         "domain": "wehrle-werk.de",
