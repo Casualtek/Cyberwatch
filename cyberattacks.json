@@ -1,5 +1,15 @@
 [
     {
+        "date": "2023-05-22",
+        "victim": "Stanglwirt",
+        "domain": "stanglwirt.com",
+        "country": "AUT",
+        "summary": "Le luxueux hôtel Stanglwirt à Kitzbühel a été victime d'une cyberattaque, laissant ses serveurs hors ligne et mettant en danger les données de ses célèbres clients, notamment Arnold Schwarzenegger et Jessica Alba. Les propriétaires de l'hôtel ont attribué la panne à leur fournisseur d'accès à internet. Après 12 heures, le site web de l'hôtel a été restauré.",
+        "title": "Stanglwirt-Server down: Schwarzenegger und Co fürchten um ihre Daten - stars24",
+        "url": "https://www.oe24.at/leute/oesterreich/cyber-angriff-auf-stanglwirt-schwarzenegger-und-co-fuerchten-um-ihre-daten/595360548",
+        "added": "2024-05-23"
+    },
+    {
         "date": "2024-05-21",
         "victim": "Top-Medien",
         "domain": "toponline.ch",
