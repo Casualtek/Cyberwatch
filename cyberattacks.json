@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-05-21",
+        "victim": "Top-Medien",
+        "domain": "toponline.ch",
+        "country": "CHE",
+        "summary": "Le groupe de médias Top-Medien, qui comprend Radio Top et Tele Top, a été victime d'une cyberattaque par un Trojan qui a infecté et chiffré plusieurs serveurs, entraînant des perturbations dans l'offre de médias en ligne, radio et télévision. L'attaque a commencé le 21 mai 2024 et les équipes techniques travaillent avec des experts externes pour évaluer l'ampleur de l'attaque et restaurer les données et les programmes affectés. La direction de Radio Top a déclaré que l'attaque était massive et que les Top-Medien étaient sous pression.",
+        "title": "Trojaner legt Teile von Top-Medien lahm | IT-Markt",
+        "url": "https://www.it-markt.ch/news/2024-05-22/trojaner-legt-teile-von-top-medien-lahm",
+        "added": "2024-05-23"
+    },
+    {
         "date": "2023-05-01",
         "victim": "Western Sydney University (WSU)",
         "domain": "westernsydney.edu.au",
