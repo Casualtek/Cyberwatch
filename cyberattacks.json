@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-05-17",
+        "victim": "AddComm",
+        "domain": "addComm.nl",
+        "country": "NLD",
+        "summary": "AddComm, une entreprise de services de santé, a été victime d'une cyberattaque par ransomware, ce qui a entraîné la fuite de données sensibles, notamment des numéros de sécurité sociale (BSN). Les utilisateurs s'inquiètent de la sécurité de leurs données et critiquent la manière dont les autorités ont géré des affaires similaires dans le passé. Les données volées pourraient être utilisées pour commettre des fraudes, notamment dans le domaine des assurances.",
+        "title": "AddComm getroffen door ransomware, leverde aanslagen van waterschapsbelasting - Computer - Nieuws - Tweakers",
+        "url": "https://tweakers.net/nieuws/222286/addcomm-getroffen-door-ransomware-leverde-aanslagen-van-waterschapsbelasting.html",
+        "added": "2024-05-23"
+    },
+    {
         "date": "2023-05-22",
         "victim": "Dreamwall (studio de tournage de la RTBF)",
         "domain": "rtbf.be",
