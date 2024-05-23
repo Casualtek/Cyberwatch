@@ -1,5 +1,15 @@
 [
     {
+        "date": "2023-05-01",
+        "victim": "Western Sydney University (WSU)",
+        "domain": "westernsydney.edu.au",
+        "country": "AUS",
+        "summary": "Une cyberattaque a touché l'université, avec une intrusion datant de mai 2023, où un tiers non autorisé a accédé au système Microsoft Office, aux comptes de messagerie et aux fichiers SharePoint. La police enquête sur cette violation de sécurité. Les étudiants et le personnel de l'université sont affectés par cette attaque.",
+        "title": "University staff, students caught in cyber attack | The Canberra Times | Canberra, ACT",
+        "url": "https://www.canberratimes.com.au/story/8636584/university-staff-students-caught-in-cyber-attack/",
+        "added": "2024-05-23"
+    },
+    {
         "date": "2024-05-21",
         "victim": "Le Cup (Centre Unique de Programmation)",
         "domain": "asur.marche.it",
