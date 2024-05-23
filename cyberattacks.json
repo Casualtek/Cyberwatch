@@ -1,5 +1,15 @@
 [
     {
+        "date": "2023-09-04",
+        "victim": "OmniVision",
+        "domain": "omnivision.com",
+        "country": "USA",
+        "summary": "La société OmniVision, fabricant de capteurs d'image, a annoncé une violation de données après avoir été victime d'une attaque de ransomware Cactus en 2023. Les attaquants ont volé des informations personnelles entre le 4 et le 30 septembre 2023, et ont publié les données en ligne. OmniVision a pris des mesures pour sécuriser son environnement et offre des services de surveillance du crédit et de restauration d'identité aux personnes affectées.",
+        "title": "OmniVision discloses data breach after 2023 ransomware attack",
+        "url": "https://www.bleepingcomputer.com/news/security/omnivision-discloses-data-breach-after-2023-ransomware-attack/",
+        "added": "2024-05-23"
+    },
+    {
         "date": "2024-05-13",
         "victim": "First Nations Health Authority (FNHA)",
         "domain": "fnha.ca",
