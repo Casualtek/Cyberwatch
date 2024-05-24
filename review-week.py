@@ -86,7 +86,7 @@ def main(json_file):
     stories.sort(key=lambda x: datetime.strptime(x['date'], '%Y-%m-%d'))
     
     now          = datetime.now()
-    one_week_ago = now - timedelta(days=8)
+    one_week_ago = now - timedelta(days=9)
     recent_items = [item for item in stories if datetime.strptime(item['date'], '%Y-%m-%d') >= one_week_ago]
     recent_items.sort(key=lambda x: datetime.strptime(x['date'], '%Y-%m-%d'))
     news_count     = len(recent_items)
