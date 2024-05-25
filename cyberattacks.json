@@ -1,12 +1,12 @@
 [
     {
-        "date": "2023-09-24",
-        "victim": "Association of California School Administrators (ACSA)",
-        "domain": "acsa.org",
-        "country": "USA",
-        "summary": "L'Association of California School Administrators (ACSA) a été victime d'une attaque de ransomware en septembre 2023, entraînant la compromission des données personnelles de plus de 50 000 administrateurs scolaires californiens. Les données volées incluent des informations sensibles telles que des numéros de sécurité sociale, des adresses, des dates de naissance et des informations de santé. L'ACSA a notifié les individus affectés et leur offre des services de surveillance du crédit pour 12 mois pour les aider à protéger leur identité.",
-        "title": "Association Of California School Administrators Confirms Attack",
-        "url": "https://thecyberexpress.com/association-of-california-school-administrators/",
+        "date": "2024-05-24",
+        "victim": "RTBF",
+        "domain": "rtbf.be",
+        "country": "BEL",
+        "summary": "La RTBF, la télévision publique belge, a été victime d'une cyberattaque qui a affecté certains de ses programmes. Les pirates ont réussi à accéder aux systèmes de la chaîne de télévision, perturbant ainsi la diffusion de certains programmes. Les détails sur l'ampleur de l'attaque et les données compromises ne sont pas encore connus.",
+        "title": "La RTBF victime d’un piratage informatique : les programmes impactés par le hacking - Le Soir",
+        "url": "https://www.lesoir.be/590114/article/2024-05-24/la-rtbf-victime-dun-piratage-informatique-les-programmes-impactes-par-le-hacking",
         "added": "2024-05-25"
     },
     {
