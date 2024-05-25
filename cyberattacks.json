@@ -1,5 +1,15 @@
 [
     {
+        "date": "2023-09-24",
+        "victim": "Association of California School Administrators (ACSA)",
+        "domain": "acsa.org",
+        "country": "USA",
+        "summary": "L'Association of California School Administrators (ACSA) a été victime d'une attaque de ransomware en septembre 2023, entraînant la compromission des données personnelles de plus de 50 000 administrateurs scolaires californiens. Les données volées incluent des informations sensibles telles que des numéros de sécurité sociale, des adresses, des dates de naissance et des informations de santé. L'ACSA a notifié les individus affectés et leur offre des services de surveillance du crédit pour 12 mois pour les aider à protéger leur identité.",
+        "title": "Association Of California School Administrators Confirms Attack",
+        "url": "https://thecyberexpress.com/association-of-california-school-administrators/",
+        "added": "2024-05-25"
+    },
+    {
         "date": "2024-05-17",
         "victim": "AddComm",
         "domain": "addComm.nl",
