@@ -1,13 +1,13 @@
 [
     {
         "date": "2024-05-24",
-        "victim": "RTBF",
-        "domain": "rtbf.be",
-        "country": "BEL",
-        "summary": "La RTBF, la télévision publique belge, a été victime d'une cyberattaque qui a affecté certains de ses programmes. Les pirates ont réussi à accéder aux systèmes de la chaîne de télévision, perturbant ainsi la diffusion de certains programmes. Les détails sur l'ampleur de l'attaque et les données compromises ne sont pas encore connus.",
-        "title": "La RTBF victime d’un piratage informatique : les programmes impactés par le hacking - Le Soir",
-        "url": "https://www.lesoir.be/590114/article/2024-05-24/la-rtbf-victime-dun-piratage-informatique-les-programmes-impactes-par-le-hacking",
-        "added": "2024-05-25"
+        "victim": "Comté d'Albany",
+        "domain": "albanycounty.com",
+        "country": "USA",
+        "summary": "Le comté d'Albany enquête sur une possible cyberattaque ayant potentiellement compromis ses serveurs, avec une analyse complète en cours en collaboration avec le Département de la Sécurité Intérieure de l'État de New York et l'équipe d'intervention en cas d'incident cybernétique des services d'urgence. L'attaque semble avoir causé une perturbation minimale des services, sans preuve d'extraction non autorisée de données.",
+        "title": "Albany County investigates possible cyberattack",
+        "url": "https://www.timesunion.com/news/article/albany-county-investigates-possible-cyberattack-19476770.php",
+        "added": "2024-05-26"
     },
     {
         "date": "2024-05-17",
@@ -22,7 +22,7 @@
     {
         "date": "2023-05-22",
         "victim": "Dreamwall (studio de tournage de la RTBF)",
-        "domain": "rtbf.be",
+        "domain": "dreamwall.be",
         "country": "BEL",
         "summary": "Le studio de tournage Dreamwall de la RTBF à Charleroi a été victime d'une cyberattaque par le ransomware Akira, ce qui a perturbé plusieurs programmes, notamment la météo et le tirage de l'Euromillions. L'attaque a combiné l'exfiltration et le chiffrement des données, et les attaquants exigent une rançon pour la restitution des données et l'accès aux fichiers. La RTBF a coupé tous les liens avec Dreamwall pour protéger son infrastructure et met en place des procédures d'extrême vigilance pour continuer à diffuser ses programmes.",
         "title": "Mais que se passe-t-il sur la RTBF ? Plusieurs programmes perturbés, le studio de Charleroi piraté !",
