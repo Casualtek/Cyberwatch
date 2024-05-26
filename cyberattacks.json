@@ -1,5 +1,15 @@
 [
     {
+        "date": "2023-05-21",
+        "victim": "Mainstreet Equities Corp.",
+        "domain": "mainst.biz",
+        "country": "CAN",
+        "summary": "La société immobilière basée à Calgary, Mainstreet Equities Corp., a annoncé être la dernière victime d'une cyberattaque sur ses systèmes internes, survenue mardi, sans préciser s'il s'agissait d'une attaque par rançongiciel. Mainstreet, qui possède plus de 17 800 logements dans l'ouest du Canada, collabore avec des experts en cybersécurité pour enquêter sur l'incident et restaurer ses systèmes de manière sécurisée, tout en cherchant à déterminer si des données personnelles ont été compromises. La société a affirmé que la sécurité de ses locataires, employés et autres parties prenantes reste sa priorité absolue, sans indication que les bases de données clients aient été affectées.",
+        "title": "Real estate firm Mainstreet Equities latest victim of cyberattack | Calgary Herald",
+        "url": "https://calgaryherald.com/news/local-news/real-estate-firm-mainstreet-equities-latest-victim-of-cyberattack",
+        "added": "2024-05-26"
+    },
+    {
         "date": "2024-05-24",
         "victim": "Comté d'Albany",
         "domain": "albanycounty.com",
