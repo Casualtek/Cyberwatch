@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-04-13",
+        "victim": "Apollo Hospitals",
+        "domain": "apollohospitals.com",
+        "country": "IND",
+        "summary": "Un échantillon du ransomware Agenda utilisé par le groupe Qilin suggère que le groupe hospitalier Apollo Hospitals a été victime d'une cyberattaque ayant notamment affecté un environnement de sauvegarde Veeam. Le site Tor de négociation, spécifique à la victime, n'est plus accessible.",
+        "title": "",
+        "url": "https://www.virustotal.com/gui/file/91ea14d78a9a318e396575b9f5dd8eb3c03657067cd3d0dd382c209b78d0dee2/details",
+        "added": "2024-05-27"
+    },
+    {
         "date": "2024-05-23",
         "victim": "Le département de la Justice et du Développement constitutionnel (DJ&CD)",
         "domain": "justice.gov.za",
