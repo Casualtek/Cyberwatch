@@ -1,5 +1,25 @@
 [
     {
+        "date": "2024-05-26",
+        "victim": "OPCO 2i",
+        "domain": "opco2i.fr",
+        "country": "FRA",
+        "summary": "OPCO 2i a été victime d'une intrusion malveillante dans son système d'information, entraînant l'extraction de certaines données personnelles. L'organisation a rapidement informé les autorités de contrôle compétentes et prévoit de déposer plainte. OPCO 2i a communiqué l'incident par email à ses partenaires.",
+        "title": "Philippe RICHARD on LinkedIn: #opco #cybersécurité #sécuritéinformatique #protectiondesdonnées",
+        "url": "https://www.linkedin.com/posts/richardpresse_opco-cybersaezcuritaez-saezcuritaezinformatique-activity-7201170555088113666-mxjl",
+        "added": "2024-05-28"
+    },
+    {
+        "date": "2024-05-07",
+        "victim": "Mālama I Ke Ola Health Center",
+        "domain": "ccmaui.org",
+        "country": "USA",
+        "summary": "Le centre de santé Mālama I Ke Ola a subi une atteinte à la sécurité informatique qui a perturbé certaines de ses opérations. Les équipes travaillent actuellement pour restaurer les systèmes et identifier les données potentiellement compromises. Les patients peuvent continuer à recevoir des soins de santé de base au centre de santé, mais certaines activités électroniques sont actuellement indisponibles.",
+        "title": "Aloha Patients & Community",
+        "url": "https://www.ccmaui.org",
+        "added": "2024-05-28"
+    },
+    {
         "date": "2023-10-08",
         "victim": "Sav-Rx",
         "domain": "savrx.com",
