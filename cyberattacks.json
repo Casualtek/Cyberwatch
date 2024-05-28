@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-05-25",
+        "victim": "Seattle Public Library",
+        "domain": "spl.org",
+        "country": "USA",
+        "summary": "La bibliothèque publique de Seattle a été victime d'une cyberattaque par ransomware, qui a rendu inaccessible ses services en ligne, y compris son catalogue et son système de prêt. Les systèmes ont été mis hors ligne pour enquêter sur l'incident et restaurer la sécurité. La bibliothèque est toujours ouverte pour les emprunts de livres et de matériaux physiques, mais les services en ligne restent indisponibles jusqu'à nouvel ordre.",
+        "title": "West Seattle Blog… | FOLLOWUP: Seattle Public Library says ‘ransomware event’ keeping its online services offline",
+        "url": "https://westseattleblog.com/2024/05/followup-seattle-public-library-says-ransomware-event-keeping-its-online-services-offline/",
+        "added": "2024-05-28"
+    },
+    {
         "date": "2024-05-24",
         "victim": "Mobitwin",
         "domain": "mobitwin.be",
