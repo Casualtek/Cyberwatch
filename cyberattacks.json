@@ -1,5 +1,15 @@
 [
     {
+        "date": "2023-05-26",
+        "victim": "La ville de Dammartin-en-Goële",
+        "domain": "dammartin-en-goele.fr",
+        "country": "FRA",
+        "summary": "La ville de Dammartin-en-Goële a été victime d'une cyberattaque \"majeure\" dimanche 26 mai, entraînant l'infection de nombreux fichiers et dossiers par un logiciel malveillant. Les services de la ville fonctionnent en mode \"dégradé\" depuis dimanche soir, et les investigations sont en cours pour évaluer l'étendue de l'impact de l'attaque. Les opérations de nettoyage et de reconstruction des serveurs sont en cours pour un retour à la normale dans les meilleurs délais.",
+        "title": "Seine-et-Marne: la ville de Dammartin-en-Goële victime d'une cyberattaque \"majeure\"",
+        "url": "https://www.bfmtv.com/paris/seine-et-marne-la-ville-de-dammartin-en-goele-victime-d-une-cyberattaque-majeure_AN-202405280581.html",
+        "added": "2024-05-28"
+    },
+    {
         "date": "2024-05-24",
         "victim": "Islamabad Safe City Authority",
         "domain": "islamabadpolice.gov.pk",
