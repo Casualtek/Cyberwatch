@@ -1,5 +1,15 @@
 [
     {
+        "date": "2023-10-08",
+        "victim": "Sav-Rx",
+        "domain": "savrx.com",
+        "country": "USA",
+        "summary": "La société de gestion de prescriptions Sav-Rx a annoncé une violation de données affectant 2,8 millions de personnes aux États-Unis, après qu'une cyberattaque a eu lieu en octobre 2023. Les informations volées incluent des noms, des dates de naissance, des numéros de sécurité sociale, des adresses e-mail, des adresses physiques et des numéros de téléphone. Sav-Rx a mis en place de nouvelles mesures de sécurité et offre une protection d'identité et une surveillance du crédit de deux ans aux personnes affectées.",
+        "title": "Sav-Rx discloses data breach impacting 2.8 million Americans",
+        "url": "https://www.bleepingcomputer.com/news/security/sav-rx-discloses-data-breach-impacting-28-million-americans/",
+        "added": "2024-05-28"
+    },
+    {
         "date": "2024-04-13",
         "victim": "Apollo Hospitals",
         "domain": "apollohospitals.com",
