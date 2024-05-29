@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-05-05",
+        "victim": "Palomar Health",
+        "domain": "palomarhealth.org",
+        "country": "USA",
+        "summary": "Le groupe médical Palomar Health a été victime d'une cyberattaque, ce qui a entraîné des problèmes pour les patients qui ne peuvent pas récupérer leurs ordonnances et ont des difficultés à accéder à leurs dossiers médicaux. L'entreprise a déclaré que 80% de ses opérations devraient être restaurées dans une semaine. Les attaques de ransomware contre les hôpitaux ont augmenté de 300% et sont souvent liées à des hackers russes, selon un expert en cybersécurité.",
+        "title": "Suspected cyberattack creating headaches for patients of Palomar Health",
+        "url": "https://www.10news.com/news/local-news/suspected-cyberattack-creating-headaches-for-patients-of-palomar-health-medical-group",
+        "added": "2024-05-29"
+    },
+    {
         "date": "2024-05-26",
         "victim": "Center Line Public Schools",
         "domain": "clps.org",
