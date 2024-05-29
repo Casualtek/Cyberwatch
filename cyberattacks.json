@@ -1,6 +1,16 @@
 [
     {
         "date": "2024-05-28",
+        "victim": "Smith & Caughey's",
+        "domain": "smithandcaugheys.co.nz",
+        "country": "NZL",
+        "summary": "Le grand magasin Smith & Caughey's d'Auckland a été victime d'une cyberattaque, qui a affecté ses systèmes informatiques internes, le même jour où il a annoncé sa fermeture prévue en 2025. L'attaque a entraîné la perte d'accès à ses systèmes de serveur et de vente au détail, qui sont maintenant \"crypto-verrouillés\". Le président de Smith & Caughey's, Tony Caughey, a décrit l'incident comme un \"défi sans précédent\" pour l'entreprise.",
+        "title": "Smith & Caughey’s set to close: Department store falls victim to cyberattack on day of proposal to close for good - NZ Herald",
+        "url": "https://www.nzherald.co.nz/nz/smith-caugheys-set-to-close-department-store-falls-victim-to-cyber-attack-on-day-of-proposal-to-close-for-good/G25KF73IOFCX5C7CV32RS3LEPE/",
+        "added": "2024-05-29"
+    },
+    {
+        "date": "2024-05-28",
         "victim": "Kantonsschule Frauenfeld",
         "domain": "ksf.ch",
         "country": "CHE",
