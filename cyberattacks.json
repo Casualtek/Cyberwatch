@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-05-26",
+        "victim": "Center Line Public Schools",
+        "domain": "clps.org",
+        "country": "USA",
+        "summary": "Le district scolaire de Center Line, au Michigan, a été victime d'une cyberattaque par ransomware, ce qui a entraîné la fermeture de l'école mardi. Les équipes d'informatique ont réussi à contenir l'attaque et les écoles rouvriront mercredi 29 mai. Une équipe de tiers a été engagée pour évaluer l'attaque et garantir la sécurité des opérations du district.",
+        "title": "Center Line Public Schools set to reopen after cyberattack",
+        "url": "https://www.clickondetroit.com/news/local/2024/05/28/center-line-public-schools-set-to-reopen-after-cyberattack/",
+        "added": "2024-05-29"
+    },
+    {
         "date": "2024-05-25",
         "victim": "Seattle Public Library",
         "domain": "spl.org",
