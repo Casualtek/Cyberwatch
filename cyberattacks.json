@@ -1,6 +1,16 @@
 [
     {
         "date": "2024-05-28",
+        "victim": "Guardian Childcare",
+        "domain": "guardian.edu.au",
+        "country": "AUS",
+        "summary": "Le fournisseur de services de garde d'enfants Guardian Childcare, le plus grand de Victoria, a été ciblé par une cyberattaque. L'entreprise a confirmé que des données confidentielles avaient été compromises, mais elle n'a pas précisé quel type d'informations avait été volé. Les enquêtes sont en cours pour déterminer l'ampleur de la violation de la sécurité.",
+        "title": "Guardian Childcare hack: Victoria's largest childcare provider targeted in cyber attack",
+        "url": "https://www.9news.com.au/national/guardian-childcare-victoria-suffers-cyber-attack-affecting-thousands-of-families/cdf9d285-4ece-413c-8f43-8413f6ff1825",
+        "added": "2024-05-30"
+    },
+    {
+        "date": "2024-05-28",
         "victim": "Smith & Caughey's",
         "domain": "smithandcaugheys.co.nz",
         "country": "NZL",
