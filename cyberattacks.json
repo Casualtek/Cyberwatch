@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-05-27",
+        "victim": "The Billericay School",
+        "domain": "billericayschool.com",
+        "country": "GBR",
+        "summary": "L'école de Billericay, dans l'Essex, a déclaré une \"situation critique\" après avoir été ciblée par une cyberattaque pendant les vacances de demi-trimestre. Les systèmes de l'école ont été compromis malgré la présence de pare-feu et de sécurité anti-malware standard de l'industrie. L'école sera fermée pour certains élèves le lundi pour permettre au personnel de se préparer à donner des cours sans accès à leurs ressources habituelles.",
+        "title": "The Billericay School faces critical incident after cyber attack",
+        "url": "https://www.bbc.com/news/articles/cl44877v7xxo",
+        "added": "2024-06-01"
+    },
+    {
         "date": "2024-05-29",
         "victim": "Boyertown Area School District",
         "domain": "boyertownasd.org",
