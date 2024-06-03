@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-06-02",
+        "victim": "Institut technologique de Sonora (Itson)",
+        "domain": "itson.edu.mx",
+        "country": "MEX",
+        "summary": "L'Institut technologique de Sonora (Itson) a été victime d'une cyberattaque, où un virus a été planté sur le campus central, affectant les serveurs et les connexions Wi-Fi de l'université. Les équipes d'informatique ont travaillé pour identifier et résoudre le problème, tandis que des systèmes de communication alternatifs ont été mis en place pour permettre la poursuite des activités académiques et administratives. Les cours ont continué normalement, sans interruption, malgré les perturbations causées par l'attaque.",
+        "title": "Itson sufre ciberataque en Cajeme; plantan virus cibernético en el campus centro - Diario del Yaqui",
+        "url": "https://diariodelyaqui.mx/ciudadobregon/itson-sufre-ciberataque-en-cajeme-plantan-virus-cibernetico-en-el-campus-centro/84832",
+        "added": "2024-06-03"
+    },
+    {
         "date": "2024-05-27",
         "victim": "The Billericay School",
         "domain": "billericayschool.com",
