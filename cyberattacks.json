@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-03-30",
+        "victim": "Northern Minerals",
+        "domain": "northernminerals.com.au",
+        "country": "AUS",
+        "summary": "La société australienne Northern Minerals, productrice de métaux de terres rares, a confirmé avoir été victime d'une cyberattaque par le groupe de ransomware Bian Lian, qui a volé plus d'un téraoctet de données, notamment des informations opérationnelles, stratégiques et financières, ainsi que des données personnelles d'employés. Les données volées ont été partiellement publiées sur le darknet. L'entreprise a notifié l'Australian Cyber Security Centre et l'Office of the Australian Information Commissioner, et a engagé des spécialistes pour gérer la situation.",
+        "title": "Exclusive: Aussie rare earth metals producer Northern Minerals confirms ransomware attack - Cyber Daily",
+        "url": "https://www.cyberdaily.au/security/10662-exclusive-aussie-rare-earth-metals-producer-northern-minerals-confirms-ransomware-attack",
+        "added": "2024-06-04"
+    },
+    {
         "date": "2024-06-02",
         "victim": "Institut technologique de Sonora (Itson)",
         "domain": "itson.edu.mx",
