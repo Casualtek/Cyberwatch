@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-06-04",
+        "victim": "Vietnam Post Corporation (Vietnam Post)",
+        "domain": "vietnampost.vn",
+        "country": "VNM",
+        "summary": "La société Vietnam Post a été victime d'une attaque par ransomware le 4 juin à 3h10, ce qui a perturbé les services postaux et de livraison. L'attaque a eu un impact direct sur les opérations de l'entreprise. Les détails sur l'ampleur de l'attaque et les mesures de réponse ne sont pas encore disponibles.",
+        "title": "Ransomware attack hits Vietnam Post | Vietnam+ (VietnamPlus)",
+        "url": "https://en.vietnamplus.vn/ransomware-attack-hits-vietnam-post-post288028.vnp",
+        "added": "2024-06-04"
+    },
+    {
         "date": "2024-03-30",
         "victim": "Northern Minerals",
         "domain": "northernminerals.com.au",
