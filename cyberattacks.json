@@ -1,6 +1,16 @@
 [
     {
         "date": "2024-06-04",
+        "victim": "Synnovis",
+        "domain": "synnovis.co.uk",
+        "country": "GBR",
+        "summary": "Deux hôpitaux londoniens, Guy’s and St Thomas’ et Kings College, ont déclaré un incident critique après une importante panne informatique, probablement due à une cyberattaque. La chirurgie de transplantation au Royal Brompton et Harefield a été annulée, et les hôpitaux voisins prennent en charge des patients supplémentaires. L'incident affecte les services de Synnovis, du groupe Synlab, perturbant notamment les laboratoires de pathologie et les transfusions sanguines, ce qui a conduit à l'annulation ou à la redirection de certaines activités.",
+        "title": "Exclusive: Cyber attack strikes multiple hospitals | News | Health Service Journal",
+        "url": "https://www.hsj.co.uk/quality-and-performance/exclusive-cyber-attack-strikes-multiple-hospitals/7037260.article",
+        "added": "2024-06-04"
+    },
+    {
+        "date": "2024-06-04",
         "victim": "Vietnam Post Corporation (Vietnam Post)",
         "domain": "vietnampost.vn",
         "country": "VNM",
