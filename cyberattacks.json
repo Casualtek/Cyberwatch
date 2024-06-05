@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-06-04",
+        "victim": "Groupe IPM",
+        "domain": "ipmgroup.be",
+        "country": "BEL",
+        "summary": "Le groupe de médias IPM a été victime d'une cyberattaque, mais les détails de l'incident ne sont pas encore précisés. L'entreprise a confirmé l'attaque et a déclaré qu'elle enquêtait sur l'incident. Les conséquences de la cyberattaque sur les activités du groupe et les données des utilisateurs ne sont pas encore claires.",
+        "title": "Des médias du groupe IPM victimes d’une cyberattaque - Le Soir",
+        "url": "https://www.lesoir.be/592913/article/2024-06-05/des-medias-belges-victimes-dune-cyberattaque",
+        "added": "2024-06-05"
+    },
+    {
         "date": "2024-05-13",
         "victim": "St. Helena",
         "domain": "cityofsthelena.com",
