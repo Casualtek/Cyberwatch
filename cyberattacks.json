@@ -1,5 +1,15 @@
 [
     {
+        "date": "2023-06-03",
+        "victim": "Panorama Eyecare",
+        "domain": "panoramaeyecare.com",
+        "country": "USA",
+        "summary": "Une cyberattaque a touché la société Panorama Eyecare, qui fournit des services de gestion à des cliniques ophtalmologiques, exposant les informations de santé de près de 400 000 personnes. Les hackers ont accédé au réseau de l'entreprise entre le 22 mai et le 3 juin 2023, volant des données sensibles telles que des numéros de sécurité sociale et des informations financières. La cyberattaque avait été revendiquée le 11 juillet 2023 sur le site vitrine de la franchise LockBit 3.0",
+        "title": "Nearly 400,000 affected by data breach at eye care management services company",
+        "url": "https://therecord.media/data-breach-eye-care-company-cyberattack",
+        "added": "2024-06-07"
+    },
+    {
         "date": "2024-06-06",
         "victim": "ASST Rhodense",
         "domain": "asst-rhodense.it",
