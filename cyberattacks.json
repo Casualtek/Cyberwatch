@@ -1,6 +1,16 @@
 [
     {
-        "date": "2023-05-31",
+        "date": "2024-06-08",
+        "victim": "Mobile County Health Department",
+        "domain": "mchd.org",
+        "country": "USA",
+        "summary": "Le département de la santé du comté de Mobile a fermé son réseau informatique après avoir détecté une activité suspecte, ce qui suggère une possible cyberattaque. Les responsables travaillent avec des consultants en sécurité informatique pour déterminer l'ampleur de l'incident et ont notifié les autorités compétentes. Les services du département de la santé devraient être disponibles lundi, avec quelques modifications éventuelles.",
+        "title": "Mobile County Health Department investigating possible cyber attack - al.com",
+        "url": "https://www.al.com/news/2024/06/mobile-county-health-department-investigating-possible-cyber-attack.html",
+        "added": "2024-06-10"
+    },
+    {
+        "date": "2024-05-31",
         "victim": "SchoolHandle",
         "domain": "schoolhandle.com",
         "country": "MLT",
