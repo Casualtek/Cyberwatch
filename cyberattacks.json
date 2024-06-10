@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-06-08",
+        "victim": "KADOKAWA",
+        "domain": "kadokawa.co.jp",
+        "country": "JPN",
+        "summary": "Le groupe japonais KADOKAWA a subi une cyberattaque qui a rendu inaccessibles plusieurs de ses sites web, notamment le site officiel et les plateformes de services en ligne Nico Nico et Ebten. L'attaque a été découverte le 8 juin et les enquêtes sont en cours pour déterminer l'ampleur de l'incident et si des informations ont été compromises. Le groupe travaille avec des experts externes et les autorités pour résoudre l'incident et protéger ses systèmes.",
+        "title": "KADOKAWAグループの複数ウェブサイトにおける障害の発生について | 株式会社KADOKAWAのプレスリリース",
+        "url": "https://prtimes.jp/main/html/rd/p/000014844.000007006.html",
+        "added": "2024-06-10"
+    },
+    {
         "date": "2023-06-03",
         "victim": "Panorama Eyecare",
         "domain": "panoramaeyecare.com",
