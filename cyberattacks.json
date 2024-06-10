@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-06-09",
+        "victim": "Cleveland",
+        "domain": "clevelandohio.gov",
+        "country": "USA",
+        "summary": "La ville de Cleveland enquête sur une cyberattaque, appelée \"incident cyber\", qui a entraîné la fermeture de l'hôtel de ville et des bureaux d'Erieview. Les systèmes affectés ont été mis hors ligne pour être sécurisés et restaurés en sécurité. Les services d'urgence, tels que la police, les pompiers et les services d'urgence médicale, ne sont pas affectés.",
+        "title": "Cleveland cyber incident",
+        "url": "https://fox8.com/news/cleveland-city-hall-investigating-cyber-incident-i-team/",
+        "added": "2024-06-10"
+    },
+    {
         "date": "2024-06-08",
         "victim": "Mobile County Health Department",
         "domain": "mchd.org",
