@@ -1,6 +1,16 @@
 [
     {
         "date": "2024-06-09",
+        "victim": "Emcali",
+        "domain": "emcali.com.co",
+        "country": "COL",
+        "summary": "Emcali, une entreprise publique de Colombie, a réussi à bloquer un important attaque cibernetique qui visait à perturber ses systèmes commerciaux et de facturation. L'attaque, qui a commencé le 9 juin, a été contenue en moins de deux heures grâce à l'intervention rapide de l'équipe de sécurité de l'entreprise. Les enquêtes sont en cours pour déterminer les motivations et les auteurs de l'attaque, qui semblait avoir des objectifs extorsifs ou de sabotage.",
+        "title": "Emcali logró en tiempo récord bloquear gran ataque cibernético: ¿cómo lo hicieron? Detalles de una operación de alto nivel",
+        "url": "https://www.semana.com/nacion/cali/articulo/emcali-logro-en-tiempo-record-bloquear-gran-ataque-cibernetico-como-lo-hicieron-detalles-de-una-operacion-de-alto-nivel/202442/",
+        "added": "2024-06-11"
+    },
+    {
+        "date": "2024-06-09",
         "victim": "Hands, The Family Network",
         "domain": "thefamilyhelpnetwork.ca",
         "country": "CAN",
