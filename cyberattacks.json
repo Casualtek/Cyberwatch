@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-05-19",
+        "victim": "Okayama Psychiatric Medical Center",
+        "domain": "okayama-u.ac.jp",
+        "country": "JPN",
+        "summary": "Le centre de soins psychiatriques d'Okayama au Japon a été victime d'une cyberattaque par ransomware, entraînant la fuite de données personnelles de jusqu'à 40 000 patients, notamment leurs noms, adresses, dates de naissance et informations médicales. L'attaque a eu lieu le 19 mai et a été détectée le lendemain. Le centre hospitalier a présenté des excuses et travaille à limiter les dégâts.",
+        "title": "日本一精神病院遭網絡攻擊 最多4萬名患者信息被洩露 - 國際 - 香港文匯網",
+        "url": "https://www.wenweipo.com/a/202406/11/AP66681d7ce4b05df3a51f0541.html",
+        "added": "2024-06-11"
+    },
+    {
         "date": "2024-06-08",
         "victim": "Findlay Automotive Group",
         "domain": "findlayauto.com",
