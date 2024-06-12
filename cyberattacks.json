@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-06-10",
+        "victim": "Toronto District School Board (TDSB)",
+        "domain": "tdsb.on.ca",
+        "country": "CAN",
+        "summary": "Le Toronto District School Board (TDSB) a été victime d'une cyberattaque avec ransomware, affectant son environnement technologique de test, sans impacter les systèmes opérationnels. Une enquête est en cours avec l'aide de la police de Toronto et d'experts externes pour évaluer l'incident et déterminer si des informations personnelles ont été compromises. La TDSB a activé son plan de réponse à la cybersécurité et informera les individus affectés si des données personnelles sont impliquées, tout en continuant à communiquer sur l'avancement de l'enquête.",
+        "title": "News: Letter Re: Cyber Incident | Toronto District School Board",
+        "url": "https://www.tdsb.on.ca/home/ctl/Details/mid/43823/itemid/316",
+        "added": "2024-06-12"
+    },
+    {
         "date": "2024-06-11",
         "victim": "Mercatino dell'usato",
         "domain": "mercatinousato.com",
