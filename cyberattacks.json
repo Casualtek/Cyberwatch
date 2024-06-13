@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-06-02",
+        "victim": "Special Health Resources (SHR)",
+        "domain": "specialhealth.org",
+        "country": "USA",
+        "summary": "Special Health Resources (SHR) a été victime d'une attaque par ransomware, attribuée au groupe BlackSuit, qui a causé des \"difficultés techniques\" et des perturbations dans les services de santé. Les cliniques de SHR sont partiellement fermées et les patients ne peuvent être vus que pour des consultations urgentes. Le groupe BlackSuit a menacé de publier les données volées si SHR ne répond pas à leurs demandes.",
+        "title": "Special Health Resources' \"technical difficulties\" are due to a ransomware attack - DataBreaches.net",
+        "url": "https://databreaches.net/2024/06/10/special-health-resources-technical-difficulties-are-due-to-a-ransomware-attack/",
+        "added": "2024-06-13"
+    },
+    {
         "date": "2023-06-12",
         "victim": "Grand Traverse County",
         "domain": "gtcountymi.gov",
