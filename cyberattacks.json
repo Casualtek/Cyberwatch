@@ -1,5 +1,15 @@
 [
     {
+        "date": "2023-06-11",
+        "victim": "City of Newburgh",
+        "domain": "cityofnewburgh-ny.gov",
+        "country": "USA",
+        "summary": "La ville de Newburgh aux États-Unis a été victime d'une grave cyberattaque qui a pris en otage les données et les opérations de la ville. Les autorités locales, étatiques et fédérales, notamment le FBI, sont impliquées pour résoudre la situation. Les responsables de la ville doivent décider si ils vont payer la rançon demandée par les pirates pour récupérer l'accès à leurs données.",
+        "title": "Officials: Serious cybersecurity attack holds data, operations in City of Newburgh at ransom",
+        "url": "https://westchester.news12.com/officials-serious-cybersecurity-attack-holds-data-operations-in-city-of-newburgh-at-ransom",
+        "added": "2024-06-13"
+    },
+    {
         "date": "2024-06-10",
         "victim": "Toronto District School Board (TDSB)",
         "domain": "tdsb.on.ca",
