@@ -1,5 +1,15 @@
 [
     {
+        "date": "2023-06-12",
+        "victim": "Grand Traverse County",
+        "domain": "gtcountymi.gov",
+        "country": "USA",
+        "summary": "Le comté de Grand Traverse et la ville de Traverse City au Michigan ont été victimes d'une cyberattaque par ransomware, entraînant des perturbations dans les services gouvernementaux. Les autorités ont déconnecté le réseau pour enquêter sur l'incident et travaillent avec la police d'État et le FBI pour déterminer si des données ont été volées. Les services essentiels, tels que les services d'urgence, ne sont pas affectés, mais les services en personne sont perturbés.",
+        "title": "Grand Traverse Co. confirms their network was hit with a ransomware cyberattack - 9&10 News",
+        "url": "https://www.9and10news.com/2024/06/12/grand-traverse-co-traverse-city-governments-go-offline-due-to-network-irregularity/",
+        "added": "2024-06-13"
+    },
+    {
         "date": "2023-06-11",
         "victim": "City of Newburgh",
         "domain": "cityofnewburgh-ny.gov",
