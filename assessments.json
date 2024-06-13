@@ -1,0 +1,2060 @@
+[
+    {
+        "victim": "keytronic.com",
+        "domain": "keytronic.com",
+        "country": "US",
+        "date": "2024-05-06",
+        "group": "blackbasta"
+    },
+    {
+        "victim": "craigsteven.com",
+        "domain": "craigsteven.com",
+        "country": "US",
+        "date": "2024-05-24",
+        "group": "lockbit3"
+    },
+    {
+        "victim": "sysroad.com",
+        "domain": "sysroad.com",
+        "country": "US",
+        "date": "2024-05-22",
+        "group": "lockbit3"
+    },
+    {
+        "victim": "longviewoms.com",
+        "domain": "longviewoms.com",
+        "country": "US",
+        "date": "2024-05-20",
+        "group": "lockbit3"
+    },
+    {
+        "victim": "Electronic Maintenance Associates, Inc.",
+        "domain": "emainc.net",
+        "country": "US",
+        "date": "2024-05-16",
+        "group": "lockbit3"
+    },
+    {
+        "victim": "bdcm.com",
+        "domain": "bdcm.com",
+        "country": "US",
+        "date": "2024-04-09",
+        "group": "blackbasta"
+    },
+    {
+        "victim": "kmbdg.com",
+        "domain": "kmbdg.com",
+        "country": "US",
+        "date": "2024-03-19",
+        "group": "blackbasta"
+    },
+    {
+        "victim": "cmactrans.com",
+        "domain": "cmactrans.com",
+        "country": "US",
+        "date": "2024-03-31",
+        "group": "blackbasta"
+    },
+    {
+        "victim": "ids-michigan.com",
+        "domain": "ids-michigan.com",
+        "country": "US",
+        "date": "2024-04-02",
+        "group": "blackbasta"
+    },
+    {
+        "victim": "Territorio Energia Ambiente S.P.A",
+        "domain": "teaspa.it",
+        "country": "IT",
+        "date": "2024-04-19",
+        "group": "blackbasta"
+    },
+    {
+        "victim": "Ayesa",
+        "domain": "ayesa.es",
+        "country": "ES",
+        "date": "2024-04-26",
+        "group": "blackbasta"
+    },
+    {
+        "victim": "Valley Joist + Deck",
+        "domain": "valleyjoist.com",
+        "country": "US",
+        "date": "2024-05-03",
+        "group": "lockbit3"
+    },
+    {
+        "victim": "Novell Group",
+        "domain": "cafesnovell.com",
+        "country": "ES",
+        "date": "2024-05-22",
+        "group": "lockbit3"
+    },
+    {
+        "victim": "SunPetro",
+        "domain": "sunpetro.com",
+        "country": "IN",
+        "date": "2024-05-15",
+        "group": "lockbit3"
+    },
+    {
+        "victim": "University of Siena",
+        "domain": "unisi.it",
+        "country": "IT",
+        "date": "2024-05-03",
+        "group": "lockbit3"
+    },
+    {
+        "victim": "Kharafi Global",
+        "domain": "kharafiglobal.com",
+        "country": "KW",
+        "date": "2024-05-09",
+        "group": "lockbit3"
+    },
+    {
+        "victim": "lactanet.ca",
+        "domain": "lactanet.ca",
+        "country": "CA",
+        "date": "2024-04-10",
+        "group": "blackbasta"
+    },
+    {
+        "victim": "gai-it.com",
+        "domain": "gai-it.com",
+        "country": "IT",
+        "date": "2024-04-18",
+        "group": "blackbasta"
+    },
+    {
+        "victim": "Active-PCB Solutions",
+        "domain": "active-pcb.com",
+        "country": "UK",
+        "date": "2024-04-19",
+        "group": "blackbasta"
+    },
+    {
+        "victim": "mfgroup.it",
+        "domain": "mfgroup.it",
+        "country": "IT",
+        "date": "2024-04-24",
+        "group": "blackbasta"
+    },
+    {
+        "victim": "grupocadarso.com",
+        "domain": "grupocadarso.com",
+        "country": "PT",
+        "date": "2024-05-04",
+        "group": "blackbasta"
+    },
+    {
+        "victim": "atlasoil.com",
+        "domain": "atlasoil.com",
+        "country": "US",
+        "date": "2024-05-07",
+        "group": "blackbasta"
+    },
+    {
+        "victim": "trugreen.com",
+        "domain": "trugreen.com",
+        "country": "US",
+        "date": "2024-05-03",
+        "group": "blackbasta"
+    },
+    {
+        "victim": "Provencher_Roy",
+        "domain": "provencherroy.ca",
+        "country": "CA",
+        "date": "2024-04-01",
+        "group": "blackbasta"
+    },
+    {
+        "victim": "airalbania.com.al",
+        "domain": "airalbania.com.al",
+        "country": "AL",
+        "date": "2022-09-22",
+        "group": "lockbit3"
+    },
+    {
+        "victim": "RoadSafe Traffic Systems",
+        "domain": "roadsafetraffic.com",
+        "country": "US",
+        "date": "2023-04-11",
+        "group": "blackbasta"
+    },
+    {
+        "victim": "Jacobs Farm",
+        "domain": "jacobsfarmdelcabo.com",
+        "country": "US",
+        "date": "2023-11-22",
+        "group": "blackbasta"
+    },
+    {
+        "victim": "HAEFFNER-ASP",
+        "domain": "hugohaeffner.com",
+        "country": "DE",
+        "date": "2023-09-26",
+        "group": "blackbasta"
+    },
+    {
+        "victim": "NCC_2",
+        "domain": "ampersand.tv",
+        "country": "US",
+        "date": "2023-09-28",
+        "group": "blackbasta"
+    },
+    {
+        "victim": "PIEMME S.p.A.",
+        "domain": "piemmeonline.it",
+        "country": "IT",
+        "date": "2023-10-03",
+        "group": "blackbasta"
+    },
+    {
+        "victim": "Intred",
+        "domain": "intred.it",
+        "country": "IT",
+        "date": "2023-09-28",
+        "group": "blackbasta"
+    },
+    {
+        "victim": "Simpson Strong-Tie",
+        "domain": "strongtie.com",
+        "country": "US",
+        "date": "2023-10-10",
+        "group": "blackbasta"
+    },
+    {
+        "victim": "Fortive Corporation",
+        "domain": "fortive.com",
+        "country": "US",
+        "date": "2023-10-12",
+        "group": "blackbasta"
+    },
+    {
+        "victim": "sacksteinlaw.com",
+        "domain": "sacksteinlaw.com",
+        "country": "US",
+        "date": "2023-10-19",
+        "group": "blackbasta"
+    },
+    {
+        "victim": "secci.ca",
+        "domain": "secci.ca",
+        "country": "CA",
+        "date": "2023-10-26",
+        "group": "blackbasta"
+    },
+    {
+        "victim": "cozwolle.nl",
+        "domain": "cozwolle.nl",
+        "country": "NL",
+        "date": "2023-10-27",
+        "group": "blackbasta"
+    },
+    {
+        "victim": "triflex.nl",
+        "domain": "triflex.nl",
+        "country": "NL",
+        "date": "2023-10-27",
+        "group": "blackbasta"
+    },
+    {
+        "victim": "nicecloud.nl",
+        "domain": "nicecloud.nl",
+        "country": "NL",
+        "date": "2023-10-27",
+        "group": "blackbasta"
+    },
+    {
+        "victim": "torrescpa.com",
+        "domain": "torrescpa.com",
+        "country": "US",
+        "date": "2023-10-30",
+        "group": "blackbasta"
+    },
+    {
+        "victim": "h-tube.com",
+        "domain": "h-tube.com",
+        "country": "FR",
+        "date": "2023-10-24",
+        "group": "blackbasta"
+    },
+    {
+        "victim": "gitiusa.com",
+        "domain": "gitiusa.com",
+        "country": "US",
+        "date": "2023-10-28",
+        "group": "lockbit3"
+    },
+    {
+        "victim": "califanocarrelli.it",
+        "domain": "califanocarrelli.it",
+        "country": "IT",
+        "date": "2023-10-18",
+        "group": "blackbasta"
+    },
+    {
+        "victim": "aei.cc",
+        "domain": "aei.cc",
+        "country": "US",
+        "date": "2023-10-21",
+        "group": "lockbit3"
+    },
+    {
+        "victim": "boslogistics.eu",
+        "domain": "boslogistics.eu",
+        "country": "NL",
+        "date": "2023-10-25",
+        "group": "blackbasta"
+    },
+    {
+        "victim": "browardfactory.com",
+        "domain": "browardfactory.com",
+        "country": "US",
+        "date": "2023-10-31",
+        "group": "blackbasta"
+    },
+    {
+        "victim": "ayakitchens.com",
+        "domain": "ayakitchens.com",
+        "country": "CA",
+        "date": "2023-10-31",
+        "group": "blackbasta"
+    },
+    {
+        "victim": "roth-werkzeugbau.de",
+        "domain": "roth-werkzeugbau.de",
+        "country": "DE",
+        "date": "2023-09-22",
+        "group": "lockbit3"
+    },
+    {
+        "victim": "Carson",
+        "domain": "carsonteam.com",
+        "country": "US",
+        "date": "2023-11-04",
+        "group": "lockbit3"
+    },
+    {
+        "victim": "cityofclarksville.com",
+        "domain": "cityofclarksville.com",
+        "country": "US",
+        "date": "2023-10-15",
+        "group": "lockbit3"
+    },
+    {
+        "victim": "thewalkerschool.org",
+        "domain": "thewalkerschool.org",
+        "country": "",
+        "date": "2023-10-25",
+        "group": "alphv"
+    },
+    {
+        "victim": "Mueller Systems, LLC",
+        "domain": "muellersystems.com",
+        "country": "US",
+        "date": "2023-08-17",
+        "group": "lockbit3"
+    },
+    {
+        "victim": "shopbentley.com",
+        "domain": "shopbentley.com",
+        "country": "CA",
+        "date": "2023-10-24",
+        "group": "blackbasta"
+    },
+    {
+        "victim": "maytec.de",
+        "domain": "maytec.de",
+        "country": "DE",
+        "date": "2023-10-30",
+        "group": "blackbasta"
+    },
+    {
+        "victim": "boulangerieauger.com",
+        "domain": "boulangerieauger.com",
+        "country": "CA",
+        "date": "2023-11-07",
+        "group": "blackbasta"
+    },
+    {
+        "victim": "cmcsheetmetal.com",
+        "domain": "cmcsheetmetal.com",
+        "country": "US",
+        "date": "2023-10-31",
+        "group": "blackbasta"
+    },
+    {
+        "victim": "agromatic.de",
+        "domain": "agromatic.de",
+        "country": "DE",
+        "date": "2023-10-30",
+        "group": "blackbasta"
+    },
+    {
+        "victim": "citycontainer.dk",
+        "domain": "citycontainer.dk",
+        "country": "DK",
+        "date": "2023-10-31",
+        "group": "blackbasta"
+    },
+    {
+        "victim": "uchlogistics.co.uk",
+        "domain": "uchlogistics.co.uk",
+        "country": "UK",
+        "date": "2023-11-01",
+        "group": "blackbasta"
+    },
+    {
+        "victim": "etude-villa.fr",
+        "domain": "etude-villa.fr",
+        "country": "FR",
+        "date": "2023-11-08",
+        "group": "blackbasta"
+    },
+    {
+        "victim": "arenaproducts.com",
+        "domain": "arenaproducts.com",
+        "country": "US",
+        "date": "2023-11-07",
+        "group": "blackbasta"
+    },
+    {
+        "victim": "agrovi.dk",
+        "domain": "agrovi.dk",
+        "country": "DK",
+        "date": "2023-11-07",
+        "group": "blackbasta"
+    },
+    {
+        "victim": "jlgmarine.com",
+        "domain": "jlgmarine.com",
+        "country": "UK",
+        "date": "2023-10-28",
+        "group": "blackbasta"
+    },
+    {
+        "victim": "andersonandjones.com",
+        "domain": "andersonandjones.com",
+        "country": "US",
+        "date": "2023-11-17",
+        "group": "blackbasta"
+    },
+    {
+        "victim": "inseinc.com",
+        "domain": "inseinc.com",
+        "country": "UK",
+        "date": "2023-11-08",
+        "group": "blackbasta"
+    },
+    {
+        "victim": "nlt.com",
+        "domain": "nlt.com",
+        "country": "US",
+        "date": "2023-12-02",
+        "group": "blackbasta"
+    },
+    {
+        "victim": "alexander-dennis.com",
+        "domain": "alexander-dennis.com",
+        "country": "US",
+        "date": "2023-12-07",
+        "group": "blackbasta"
+    },
+    {
+        "victim": "agy.com",
+        "domain": "agy.com",
+        "country": "US",
+        "date": "2023-11-03",
+        "group": "blackbasta"
+    },
+    {
+        "victim": "thirdstreetbrewhouse.com   carolinabeveragegroup.com",
+        "domain": "gluek.com",
+        "country": "US",
+        "date": "2023-11-29",
+        "group": "blackbasta"
+    },
+    {
+        "victim": "Gaido-fintzen.com",
+        "domain": "gaido-fintzen.com",
+        "country": "US",
+        "date": "2023-12-08",
+        "group": "cloak"
+    },
+    {
+        "victim": "Pacific Cataract + Laser Institute",
+        "domain": "pcli.com",
+        "country": "US",
+        "date": "2023-11-18",
+        "group": "lockbit3"
+    },
+    {
+        "victim": "kohlwholesale.com",
+        "domain": "kohlwholesale.com",
+        "country": "",
+        "date": "2023-12-04",
+        "group": "blackbasta"
+    },
+    {
+        "victim": "hallidays.co.uk",
+        "domain": "hallidays.co.uk",
+        "country": "UK",
+        "date": "2023-12-06",
+        "group": "blackbasta"
+    },
+    {
+        "victim": "vyera.com",
+        "domain": "vyera.com",
+        "country": "US",
+        "date": "2023-12-05",
+        "group": "blackbasta"
+    },
+    {
+        "victim": "brintons.co.uk",
+        "domain": "brintons.co.uk",
+        "country": "UK",
+        "date": "2023-12-07",
+        "group": "blackbasta"
+    },
+    {
+        "victim": "Integrated Geotechnical Solutions, Inc.",
+        "domain": "igs-inc.com",
+        "country": "US",
+        "date": "2023-12-14",
+        "group": "lockbit3"
+    },
+    {
+        "victim": "hotelplan.co.uk",
+        "domain": "hotelplan.co.uk",
+        "country": "UK",
+        "date": "2023-12-12",
+        "group": "blackbasta"
+    },
+    {
+        "victim": "webblaw.com",
+        "domain": "webblaw.com",
+        "country": "US",
+        "date": "2023-12-04",
+        "group": "blackbasta"
+    },
+    {
+        "victim": "americanalarm.com",
+        "domain": "americanalarm.com",
+        "country": "US",
+        "date": "2023-12-05",
+        "group": "blackbasta"
+    },
+    {
+        "victim": "eagersautomotive.com.au",
+        "domain": "eagersautomotive.com.au",
+        "country": "AU",
+        "date": "2023-12-23",
+        "group": "lockbit3"
+    },
+    {
+        "victim": "nals.com",
+        "domain": "nals.com",
+        "country": "US",
+        "date": "2023-12-05",
+        "group": "blackbasta"
+    },
+    {
+        "victim": "leonardsexpress.com",
+        "domain": "leonardsexpress.com",
+        "country": "US",
+        "date": "2023-12-05",
+        "group": "blackbasta"
+    },
+    {
+        "victim": "graebener-group.com",
+        "domain": "graebener-group.com",
+        "country": "DE",
+        "date": "2023-12-05",
+        "group": "blackbasta"
+    },
+    {
+        "victim": "maisonsdelavenir.com",
+        "domain": "maisonsdelavenir.com",
+        "country": "FR",
+        "date": "2023-12-30",
+        "group": "lockbit3"
+    },
+    {
+        "victim": "agc.com",
+        "domain": "agc.com",
+        "country": "JP",
+        "date": "2023-12-17",
+        "group": "blackbasta"
+    },
+    {
+        "victim": "envea.global",
+        "domain": "envea.global",
+        "country": "FR",
+        "date": "2023-12-11",
+        "group": "blackbasta"
+    },
+    {
+        "victim": "stemcor.com",
+        "domain": "stemcor.com",
+        "country": "UK",
+        "date": "2023-10-30",
+        "group": "lockbit3"
+    },
+    {
+        "victim": "unitedindustries.co.nz",
+        "domain": "unitedindustries.co.nz",
+        "country": "NZ",
+        "date": "2023-12-21",
+        "group": "blackbasta"
+    },
+    {
+        "victim": "prudentpublishing.com",
+        "domain": "prudentpublishing.com",
+        "country": "US",
+        "date": "2023-12-22",
+        "group": "blackbasta"
+    },
+    {
+        "victim": "cinfab.com",
+        "domain": "cinfab.com",
+        "country": "US",
+        "date": "2023-12-20",
+        "group": "blackbasta"
+    },
+    {
+        "victim": "haes.ca",
+        "domain": "haes.ca",
+        "country": "CA",
+        "date": "2023-12-13",
+        "group": "blackbasta"
+    },
+    {
+        "victim": "kivibros.com",
+        "domain": "kivibros.com",
+        "country": "CA",
+        "date": "2023-12-13",
+        "group": "blackbasta"
+    },
+    {
+        "victim": "dupont-restauration.fr",
+        "domain": "dupont-restauration.fr",
+        "country": "FR",
+        "date": "2023-12-12",
+        "group": "blackbasta"
+    },
+    {
+        "victim": "fairmontfcu.com",
+        "domain": "fairmontfcu.com",
+        "country": "US",
+        "date": "2023-10-18",
+        "group": "blackbasta"
+    },
+    {
+        "victim": "leclairgroup.com",
+        "domain": "leclairgroup.com",
+        "country": "US",
+        "date": "2023-12-13",
+        "group": "alphv"
+    },
+    {
+        "victim": "sipicorp.com",
+        "domain": "sipicorp.com",
+        "country": "US",
+        "date": "2023-12-22",
+        "group": "blackbasta"
+    },
+    {
+        "victim": "derrama.org.pe",
+        "domain": "derrama.org.pe",
+        "country": "PE",
+        "date": "2024-01-25",
+        "group": "lockbit3"
+    },
+    {
+        "victim": "interluxury.com",
+        "domain": "interluxury.com",
+        "country": "CH",
+        "date": "2024-02-23",
+        "group": "blackbasta"
+    },
+    {
+        "victim": "igf-inc.com",
+        "domain": "igf-inc.com",
+        "country": "US",
+        "date": "2024-02-08",
+        "group": "blackbasta"
+    },
+    {
+        "victim": "logistasolutions.com",
+        "domain": "logistasolutions.com",
+        "country": "US",
+        "date": "2024-02-26",
+        "group": "blackbasta"
+    },
+    {
+        "victim": "willislease.com",
+        "domain": "willislease.com",
+        "country": "US",
+        "date": "2024-02-02",
+        "group": "blackbasta"
+    },
+    {
+        "victim": "ZGEO",
+        "domain": "zivilgeometer.at",
+        "country": "AT",
+        "date": "2024-02-08",
+        "group": "qilin"
+    },
+    {
+        "victim": "Upper Merion Township",
+        "domain": "umtownship.org",
+        "country": "US",
+        "date": "2024-01-15",
+        "group": "qilin"
+    },
+    {
+        "victim": "ROOSENS BÉTONS",
+        "domain": "roosens.com",
+        "country": "BE",
+        "date": "2024-01-11",
+        "group": "qilin"
+    },
+    {
+        "victim": "leonardssyrups.com",
+        "domain": "leonardssyrups.com",
+        "country": "US",
+        "date": "2024-01-30",
+        "group": "blackbasta"
+    },
+    {
+        "victim": "globalrescue.com",
+        "domain": "globalrescue.com",
+        "country": "US",
+        "date": "2024-02-02",
+        "group": "blackbasta"
+    },
+    {
+        "victim": "btl.info",
+        "domain": "btl.info",
+        "country": "DE",
+        "date": "2024-02-06",
+        "group": "blackbasta"
+    },
+    {
+        "victim": "patriziapepe.com",
+        "domain": "patriziapepe.com",
+        "country": "IT",
+        "date": "2024-02-06",
+        "group": "blackbasta"
+    },
+    {
+        "victim": "ffppkg.co.uk",
+        "domain": "ffppkg.co.uk",
+        "country": "UK",
+        "date": "2024-01-31",
+        "group": "blackbasta"
+    },
+    {
+        "victim": "barberemerson.com",
+        "domain": "barberemerson.com",
+        "country": "IN",
+        "date": "2024-02-06",
+        "group": "blackbasta"
+    },
+    {
+        "victim": "giraud",
+        "domain": "giraudpereetfils.com",
+        "country": "FR",
+        "date": "2024-02-13",
+        "group": "qilin"
+    },
+    {
+        "victim": "conseguros",
+        "domain": "conseguros.com.gt",
+        "country": "TL",
+        "date": "2024-02-04",
+        "group": "qilin"
+    },
+    {
+        "victim": "pacifica.co.uk",
+        "domain": "pacifica.co.uk",
+        "country": "UK",
+        "date": "2024-02-13",
+        "group": "blackbasta"
+    },
+    {
+        "victim": "Aeromech, Inc.",
+        "domain": "aeromechinc.com",
+        "country": "US",
+        "date": "2023-12-27",
+        "group": "lockbit3"
+    },
+    {
+        "victim": "zircodata.com",
+        "domain": "zircodata.com",
+        "country": "AU",
+        "date": "2024-02-07",
+        "group": "blackbasta"
+    },
+    {
+        "victim": "dilweg.com",
+        "domain": "dilweg.com",
+        "country": "US",
+        "date": "2024-02-08",
+        "group": "blackbasta"
+    },
+    {
+        "victim": "birchallfoodservice.co.uk",
+        "domain": "birchallfoodservice.co.uk",
+        "country": "UK",
+        "date": "2024-02-08",
+        "group": "blackbasta"
+    },
+    {
+        "victim": "usmerchants.com",
+        "domain": "usmerchants.com",
+        "country": "US",
+        "date": "2024-02-13",
+        "group": "blackbasta"
+    },
+    {
+        "victim": "climatech.com",
+        "domain": "climatech.com",
+        "country": "US",
+        "date": "2024-02-09",
+        "group": "blackbasta"
+    },
+    {
+        "victim": "nfllp.com",
+        "domain": "nfllp.com",
+        "country": "US",
+        "date": "2024-02-09",
+        "group": "blackbasta"
+    },
+    {
+        "victim": "team.jobs",
+        "domain": "team.jobs",
+        "country": "CH",
+        "date": "2023-12-15",
+        "group": "blackbasta"
+    },
+    {
+        "victim": "kinematica.ch",
+        "domain": "kinematica.ch",
+        "country": "CH",
+        "date": "2024-02-15",
+        "group": "qilin"
+    },
+    {
+        "victim": "nationaldentex.com",
+        "domain": "nationaldentex.com",
+        "country": "US",
+        "date": "2024-02-02",
+        "group": "lockbit3"
+    },
+    {
+        "victim": "silganholdings.com",
+        "domain": "silganholdings.com",
+        "country": "US",
+        "date": "2024-02-16",
+        "group": "lockbit3"
+    },
+    {
+        "victim": "npgandour.com",
+        "domain": "npgandour.com",
+        "country": "CI",
+        "date": "2024-01-26",
+        "group": "lockbit3"
+    },
+    {
+        "victim": "vertdure.com",
+        "domain": "vertdure.com",
+        "country": "CA",
+        "date": "2024-02-15",
+        "group": "lockbit3"
+    },
+    {
+        "victim": "etairoshealth.com",
+        "domain": "etairoshealth.com",
+        "country": "US",
+        "date": "2024-02-22",
+        "group": "qilin"
+    },
+    {
+        "victim": "alanritchey.com",
+        "domain": "alanritchey.com",
+        "country": "US",
+        "date": "2024-02-06",
+        "group": "blackbasta"
+    },
+    {
+        "victim": "haas4.com",
+        "domain": "haas4.com",
+        "country": "US",
+        "date": "2024-02-14",
+        "group": "blackbasta"
+    },
+    {
+        "victim": "fcw.ch",
+        "domain": "fcw.ch",
+        "country": "CH",
+        "date": "2024-02-15",
+        "group": "blackbasta"
+    },
+    {
+        "victim": "scullionlaw.com",
+        "domain": "scullionlaw.com",
+        "country": "UK",
+        "date": "2024-02-16",
+        "group": "blackbasta"
+    },
+    {
+        "victim": "goodinabernathy.com",
+        "domain": "goodinabernathy.com",
+        "country": "IN",
+        "date": "2024-02-20",
+        "group": "blackbasta"
+    },
+    {
+        "victim": "hvd.host",
+        "domain": "hvd.host",
+        "country": "AU",
+        "date": "2024-02-22",
+        "group": "blackbasta"
+    },
+    {
+        "victim": "esser-ps.de",
+        "domain": "esser-ps.de",
+        "country": "DE",
+        "date": "2023-11-08",
+        "group": "lockbit3"
+    },
+    {
+        "victim": "unitednotions.com",
+        "domain": "unitednotions.com",
+        "country": "US",
+        "date": "2023-10-28",
+        "group": "lockbit3"
+    },
+    {
+        "victim": "schuett-grundei.de",
+        "domain": "schuett-grundei.de",
+        "country": "DE",
+        "date": "2023-11-08",
+        "group": "lockbit3"
+    },
+    {
+        "victim": "roehr-stolberg.de",
+        "domain": "roehr-stolberg.de",
+        "country": "DE",
+        "date": "2023-10-25",
+        "group": "lockbit3"
+    },
+    {
+        "victim": "starkpower.de",
+        "domain": "starkpower.de",
+        "country": "DE",
+        "date": "2023-11-08",
+        "group": "lockbit3"
+    },
+    {
+        "victim": "aerospace.com",
+        "domain": "aerospace.com",
+        "country": "US",
+        "date": "2023-02-09",
+        "group": "lockbit3"
+    },
+    {
+        "victim": "iemsc.com",
+        "domain": "iemsc.com",
+        "country": "AE",
+        "date": "2024-02-27",
+        "group": "qilin"
+    },
+    {
+        "victim": "sunwave.com.cn",
+        "domain": "sunwave.com.cn",
+        "country": "CN",
+        "date": "2024-12-25",
+        "group": "lockbit3"
+    },
+    {
+        "victim": "en-act-architecture",
+        "domain": "enact-architecture.fr",
+        "country": "FR",
+        "date": "2024-02-27",
+        "group": "qilin"
+    },
+    {
+        "victim": "rmhfranchise.com",
+        "domain": "rmhfranchise.com",
+        "country": "US",
+        "date": "2024-02-09",
+        "group": "hunters"
+    },
+    {
+        "victim": "imperialtrading.com",
+        "domain": "imperialtrading.com",
+        "country": "US",
+        "date": "2024-03-07",
+        "group": "blackbasta"
+    },
+    {
+        "victim": "linksunlimited.com",
+        "domain": "linksunlimited.com",
+        "country": "US",
+        "date": "2024-03-01",
+        "group": "blackbasta"
+    },
+    {
+        "victim": "creativeenvironments.com",
+        "domain": "creativeenvironments.com",
+        "country": "US",
+        "date": "2024-02-27",
+        "group": "blackbasta"
+    },
+    {
+        "victim": "gfad.de",
+        "domain": "gfad.de",
+        "country": "DE",
+        "date": "2024-02-16",
+        "group": "blackbasta"
+    },
+    {
+        "victim": "elmatic.de",
+        "domain": "elmatic.de",
+        "country": "DE",
+        "date": "2024-02-20",
+        "group": "blackbasta"
+    },
+    {
+        "victim": "cpacsystems.se",
+        "domain": "cpacsystems.se",
+        "country": "SE",
+        "date": "2024-02-21",
+        "group": "blackbasta"
+    },
+    {
+        "victim": "xcelbrands.com",
+        "domain": "xcelbrands.com",
+        "country": "US",
+        "date": "2024-02-22",
+        "group": "blackbasta"
+    },
+    {
+        "victim": "Felda Global Ventures Holdings Berhad",
+        "domain": "fgvholdings.com",
+        "country": "MY",
+        "date": "2024-03-07",
+        "group": "qilin"
+    },
+    {
+        "victim": "flynncompanies.com",
+        "domain": "flynncompanies.com",
+        "country": "CA",
+        "date": "2024-03-05",
+        "group": "blackbasta"
+    },
+    {
+        "victim": "dhanisisd.net",
+        "domain": "dhanisisd.net",
+        "country": "US",
+        "date": "2024-03-06",
+        "group": "lockbit3"
+    },
+    {
+        "victim": "journeyfreight.com",
+        "domain": "journeyfreight.com",
+        "country": "US",
+        "date": "2024-03-06",
+        "group": "lockbit3"
+    },
+    {
+        "victim": "elezabypharmacy.com",
+        "domain": "elezabypharmacy.com",
+        "country": "EG",
+        "date": "2024-01-31",
+        "group": "lockbit3"
+    },
+    {
+        "victim": "bergmeister.eu",
+        "domain": "bergmeister.eu",
+        "country": "DE",
+        "date": "2024-02-10",
+        "group": "lockbit3"
+    },
+    {
+        "victim": "colefabrics.com",
+        "domain": "colefabrics.com",
+        "country": "UK",
+        "date": "2024-02-04",
+        "group": "lockbit3"
+    },
+    {
+        "victim": "hdstrading.com",
+        "domain": "hdstrading.com",
+        "country": "US",
+        "date": "2024-02-17",
+        "group": "lockbit3"
+    },
+    {
+        "victim": "newmans-online.co.uk",
+        "domain": "newmans-online.co.uk",
+        "country": "UK",
+        "date": "2024-02-15",
+        "group": "lockbit3"
+    },
+    {
+        "victim": "agribank.com.na",
+        "domain": "agribank.com.na",
+        "country": "NA",
+        "date": "2024-03-11",
+        "group": "lockbit3"
+    },
+    {
+        "victim": "regencymedia.com.au",
+        "domain": "regencymedia.com.au",
+        "country": "AU",
+        "date": "2024-03-15",
+        "group": "lockbit3"
+    },
+    {
+        "victim": "theshootingwarehouse.com",
+        "domain": "theshootingwarehouse.com",
+        "country": "US",
+        "date": "2024-03-06",
+        "group": "blackbasta"
+    },
+    {
+        "victim": "pctinternational.com",
+        "domain": "pctinternational.com",
+        "country": "US",
+        "date": "2024-03-19",
+        "group": "blackbasta"
+    },
+    {
+        "victim": "mjcelco.com",
+        "domain": "mjcelco.com",
+        "country": "US",
+        "date": "2024-03-19",
+        "group": "blackbasta"
+    },
+    {
+        "victim": "organizedliving.com",
+        "domain": "organizedliving.com",
+        "country": "US",
+        "date": "2024-03-13",
+        "group": "blackbasta"
+    },
+    {
+        "victim": "amerlux.com",
+        "domain": "amerlux.com",
+        "country": "US",
+        "date": "2024-03-13",
+        "group": "blackbasta"
+    },
+    {
+        "victim": "carolinafoodsinc.com",
+        "domain": "carolinafoodsinc.com",
+        "country": "US",
+        "date": "2024-03-12",
+        "group": "blackbasta"
+    },
+    {
+        "victim": "lagunitas.com",
+        "domain": "lagunitas.com",
+        "country": "US",
+        "date": "2024-03-12",
+        "group": "blackbasta"
+    },
+    {
+        "victim": "anovahealth.com",
+        "domain": "anovahealth.com",
+        "country": "US",
+        "date": "2024-02-25",
+        "group": "lockbit3"
+    },
+    {
+        "victim": "truehomes.com",
+        "domain": "truehomes.com",
+        "country": "US",
+        "date": "2024-03-15",
+        "group": "lockbit3"
+    },
+    {
+        "victim": "worthenind.com",
+        "domain": "worthenind.com",
+        "country": "US",
+        "date": "2024-01-10",
+        "group": "lockbit3"
+    },
+    {
+        "victim": "automotionshade.com",
+        "domain": "automotionshade.com",
+        "country": "CA",
+        "date": "2024-01-26",
+        "group": "lockbit3"
+    },
+    {
+        "victim": "duttonbrock.com",
+        "domain": "duttonbrock.com",
+        "country": "CA",
+        "date": "2023-12-23",
+        "group": "lockbit3"
+    },
+    {
+        "victim": "rrib.com",
+        "domain": "rrib.com",
+        "country": "CA",
+        "date": "2024-01-26",
+        "group": "lockbit3"
+    },
+    {
+        "victim": "triella.com",
+        "domain": "triella.com",
+        "country": "CA",
+        "date": "2024-01-11",
+        "group": "lockbit3"
+    },
+    {
+        "victim": "enacrs.com.br",
+        "domain": "enacrs.com.br",
+        "country": "BR",
+        "date": "2023-08-15",
+        "group": "lockbit3"
+    },
+    {
+        "victim": "sbmandco.com",
+        "domain": "sbmandco.com",
+        "country": "UK",
+        "date": "2024-02-19",
+        "group": "lockbit3"
+    },
+    {
+        "victim": "nampak.com",
+        "domain": "nampak.com",
+        "country": "ZA",
+        "date": "2024-03-20",
+        "group": "lockbit3"
+    },
+    {
+        "victim": "wblight.com",
+        "domain": "wblight.com",
+        "country": "US",
+        "date": "2024-03-19",
+        "group": "lockbit3"
+    },
+    {
+        "victim": "countryvillahealthservices.com",
+        "domain": "countryvillahealthservices.com",
+        "country": "US",
+        "date": "2024-02-21",
+        "group": "lockbit3"
+    },
+    {
+        "victim": "oraclecms.com",
+        "domain": "oraclecms.com",
+        "country": "AU",
+        "date": "2024-04-05",
+        "group": "lockbit3"
+    },
+    {
+        "victim": "tristatetruckandequip.com",
+        "domain": "tristatetruckandequip.com",
+        "country": "US",
+        "date": "2024-04-13",
+        "group": "lockbit3"
+    },
+    {
+        "victim": "specialoilfield.com",
+        "domain": "specialoilfield.com",
+        "country": "OM",
+        "date": "2024-04-10",
+        "group": "lockbit3"
+    },
+    {
+        "victim": "craigwire.com",
+        "domain": "craigwire.com",
+        "country": "US",
+        "date": "2024-04-10",
+        "group": "lockbit3"
+    },
+    {
+        "victim": "Asam",
+        "domain": "asamromania.ro",
+        "country": "RO",
+        "date": "2024-01-11",
+        "group": "akira"
+    },
+    {
+        "victim": "TeraGo",
+        "domain": "terago.ca",
+        "country": "CA",
+        "date": "2024-01-31",
+        "group": "akira"
+    },
+    {
+        "victim": "Sefin",
+        "domain": "sefin.it",
+        "country": "IT",
+        "date": "2024-01-22",
+        "group": "akira"
+    },
+    {
+        "victim": "Hamilton-Madison House",
+        "domain": "hamiltonmadisonhouse.org",
+        "country": "US",
+        "date": "2023-12-24",
+        "group": "akira"
+    },
+    {
+        "victim": "Getrix",
+        "domain": "getrix.it",
+        "country": "IT",
+        "date": "2023-10-24",
+        "group": "akira"
+    },
+    {
+        "victim": "Boson Software",
+        "domain": "bosonsoftware.com",
+        "country": "US",
+        "date": "2023-07-23",
+        "group": "akira"
+    },
+    {
+        "victim": "Papel Prensa SA",
+        "domain": "papelpensa.com.ar",
+        "country": "AR",
+        "date": "2023-08-02",
+        "group": "akira"
+    },
+    {
+        "victim": "Hamre Schumann Mueller & Larson HSML",
+        "domain": "hsml.com",
+        "country": "US",
+        "date": "2023-06-18",
+        "group": "akira"
+    },
+    {
+        "victim": "Green Diamond Resource",
+        "domain": "greendiamond.com",
+        "country": "US",
+        "date": "2023-06-30",
+        "group": "akira"
+    },
+    {
+        "victim": "Knights of Old Group",
+        "domain": "knightsofoldgroup.com",
+        "country": "UK",
+        "date": "2023-06-13",
+        "group": "akira"
+    },
+    {
+        "victim": "vilis.com",
+        "domain": "vilis.com",
+        "country": "AU",
+        "date": "2024-02-14",
+        "group": "blackbasta"
+    },
+    {
+        "victim": "fpdcompany.com",
+        "domain": "fpdcompany.com",
+        "country": "US",
+        "date": "2024-02-21",
+        "group": "blackbasta"
+    },
+    {
+        "victim": "northamericansigns.com",
+        "domain": "northamericansigns.com",
+        "country": "US",
+        "date": "2024-02-28",
+        "group": "blackbasta"
+    },
+    {
+        "victim": "otrwheel.com",
+        "domain": "otrwheel.com",
+        "country": "US",
+        "date": "2024-03-02",
+        "group": "blackbasta"
+    },
+    {
+        "victim": "pcinternational.com",
+        "domain": "pcinternational.com",
+        "country": "US",
+        "date": "2024-03-19",
+        "group": "blackbasta"
+    },
+    {
+        "victim": "pdq-airspares.co.uk",
+        "domain": "pdq-airspares.co.uk",
+        "country": "UK",
+        "date": "2024-02-29",
+        "group": "blackbasta"
+    },
+    {
+        "victim": "columbiapipe.com",
+        "domain": "columbiapipe.com",
+        "country": "US",
+        "date": "2024-03-04",
+        "group": "blackbasta"
+    },
+    {
+        "victim": "arch-con.com",
+        "domain": "arch-con.com",
+        "country": "US",
+        "date": "2024-03-07",
+        "group": "blackbasta"
+    },
+    {
+        "victim": "patersoncooke.com",
+        "domain": "patersoncooke.com",
+        "country": "ZA",
+        "date": "2024-03-28",
+        "group": "blackbasta"
+    },
+    {
+        "victim": "atlascontainer.com",
+        "domain": "atlascontainer.com",
+        "country": "US",
+        "date": "2024-03-28",
+        "group": "blackbasta"
+    },
+    {
+        "victim": "robar.com",
+        "domain": "robar.com",
+        "country": "US",
+        "date": "2024-02-27",
+        "group": "blackbasta"
+    },
+    {
+        "victim": "schlesingerlaw.com",
+        "domain": "schlesingerlaw.com",
+        "country": "US",
+        "date": "2024-03-26",
+        "group": "blackbasta"
+    },
+    {
+        "victim": "sermo.com",
+        "domain": "sermo.com",
+        "country": "US",
+        "date": "2024-03-20",
+        "group": "blackbasta"
+    },
+    {
+        "victim": "theparklanegroup.com",
+        "domain": "theparklanegroup.com",
+        "country": "UK",
+        "date": "2024-03-28",
+        "group": "blackbasta"
+    },
+    {
+        "victim": "siemensmfg.com",
+        "domain": "siemensmfg.com",
+        "country": "US",
+        "date": "2024-03-27",
+        "group": "blackbasta"
+    },
+    {
+        "victim": "numotion.com",
+        "domain": "numotion.com",
+        "country": "US",
+        "date": "2024-03-02",
+        "group": "blackbasta"
+    },
+    {
+        "victim": "processsolutions.com",
+        "domain": "processsolutions.com",
+        "country": "US",
+        "date": "2024-03-26",
+        "group": "blackbasta"
+    },
+    {
+        "victim": "doyondrilling.com",
+        "domain": "doyondrilling.com",
+        "country": "US",
+        "date": "2024-04-02",
+        "group": "blackbasta"
+    },
+    {
+        "victim": "azdel.com",
+        "domain": "azdel.com",
+        "country": "US",
+        "date": "2024-03-26",
+        "group": "blackbasta"
+    },
+    {
+        "victim": "hymer-alu.de",
+        "domain": "hymer-alu.de",
+        "country": "DE",
+        "date": "2024-04-04",
+        "group": "blackbasta"
+    },
+    {
+        "victim": "cavotec.com",
+        "domain": "cavotec.com",
+        "country": "CH",
+        "date": "2024-04-04",
+        "group": "blackbasta"
+    },
+    {
+        "victim": "macphie.com",
+        "domain": "macphie.com",
+        "country": "UK",
+        "date": "2024-03-14",
+        "group": "blackbasta"
+    },
+    {
+        "victim": "fluenthome.com",
+        "domain": "fluenthome.com",
+        "country": "US",
+        "date": "2024-04-02",
+        "group": "blackbasta"
+    },
+    {
+        "victim": "true.co.uk",
+        "domain": "true.co.uk",
+        "country": "UK",
+        "date": "2024-02-09",
+        "group": "blackbasta"
+    },
+    {
+        "victim": "Shook Lin & Bok",
+        "domain": "shooklin.com",
+        "country": "SG",
+        "date": "2024-04-09",
+        "group": "akira"
+    },
+    {
+        "victim": "Intuitae",
+        "domain": "intuitae.com",
+        "country": "FR",
+        "date": "2024-04-26",
+        "group": "qilin"
+    },
+    {
+        "victim": "The Weinstein Firm",
+        "domain": "weinsteinwin.com",
+        "country": "US",
+        "date": "2024-05-01",
+        "group": "qilin"
+    },
+    {
+        "victim": "Tholen Building Technology Group",
+        "domain": "tholen-gebaeudetechnik.de",
+        "country": "DE",
+        "date": "2024-04-29",
+        "group": "qilin"
+    },
+    {
+        "victim": "Dr Charles A Evans",
+        "domain": "charlesevansmd.com",
+        "country": "US",
+        "date": "2024-04-29",
+        "group": "qilin"
+    },
+    {
+        "victim": "Dr. Fingerle Rechtsanwälte",
+        "domain": "dr-fingerle.de",
+        "country": "DE",
+        "date": "2024-04-12",
+        "group": "qilin"
+    },
+    {
+        "victim": "Hotel Ostella",
+        "domain": "hotel-ostella.com",
+        "country": "FR",
+        "date": "2024-04-28",
+        "group": "lockbit3"
+    },
+    {
+        "victim": "Eléments Ingénierie",
+        "domain": "elements-ing.com",
+        "country": "FR",
+        "date": "2024-03-18",
+        "group": "lockbit3"
+    },
+    {
+        "victim": "Collège Sainte Marie",
+        "domain": "college-stemarie-elven.org",
+        "country": "FR",
+        "date": "2024-03-12",
+        "group": "lockbit3"
+    },
+    {
+        "victim": "Garage Cretot",
+        "domain": "garage-cretot.fr",
+        "country": "FR",
+        "date": "2024-04-30",
+        "group": "lockbit3"
+    },
+    {
+        "victim": "Dopravní podnik Karlovy Vary, a. s.",
+        "domain": "dpkv.cz",
+        "country": "CZ",
+        "date": "2024-04-07",
+        "group": "lockbit3"
+    },
+    {
+        "victim": "Double House",
+        "domain": "doublehorse.in",
+        "country": "IN",
+        "date": "2024-04-24",
+        "group": "lockbit3"
+    },
+    {
+        "victim": "Core Engineering LLC",
+        "domain": "coreengg.com",
+        "country": "US",
+        "date": "2024-02-08",
+        "group": "lockbit3"
+    },
+    {
+        "victim": "ESS Inc.",
+        "domain": "essinc.com",
+        "country": "US",
+        "date": "2024-04-05",
+        "group": "lockbit3"
+    },
+    {
+        "victim": "Museu Paraense Emilio Goeldi",
+        "domain": "museu-goeldi.br",
+        "country": "BR",
+        "date": "2024-04-03",
+        "group": "lockbit3"
+    },
+    {
+        "victim": "V-Star Creations",
+        "domain": "vstar.in",
+        "country": "IN",
+        "date": "2024-04-05",
+        "group": "lockbit3"
+    },
+    {
+        "victim": "Livia Polymer Products Pvt. Ltd.",
+        "domain": "livia.in",
+        "country": "IN",
+        "date": "2024-03-14",
+        "group": "lockbit3"
+    },
+    {
+        "victim": "cinealbeniz.com",
+        "domain": "cinealbeniz.com",
+        "country": "ES",
+        "date": "2024-03-14",
+        "group": "lockbit3"
+    },
+    {
+        "victim": "Slovenská národná knižnica",
+        "domain": "snk.sk",
+        "country": "SK",
+        "date": "2024-03-13",
+        "group": "lockbit3"
+    },
+    {
+        "victim": "Brockington",
+        "domain": "brockington.leics.sch.uk",
+        "country": "UK",
+        "date": "2024-03-06",
+        "group": "lockbit3"
+    },
+    {
+        "victim": "Auburn University",
+        "domain": "auburnpikapp.org",
+        "country": "US",
+        "date": "2024-02-03",
+        "group": "lockbit3"
+    },
+    {
+        "victim": "Environmental Investment Fund (EIF)",
+        "domain": "eif.org.na",
+        "country": "NA",
+        "date": "2024-02-02",
+        "group": "lockbit3"
+    },
+    {
+        "victim": "Medicus Diagnostic and Therapy Center",
+        "domain": "cdtmedicus.pl",
+        "country": "PL",
+        "date": "2024-03-17",
+        "group": "lockbit3"
+    },
+    {
+        "victim": "Tetco",
+        "domain": "tetco.com",
+        "country": "US",
+        "date": "2024-03-14",
+        "group": "lockbit3"
+    },
+    {
+        "victim": "Kioti",
+        "domain": "kioti.com",
+        "country": "US",
+        "date": "2024-01-23",
+        "group": "lockbit3"
+    },
+    {
+        "victim": "Consultants and Researchers in Administration, S.C.",
+        "domain": "ciasc.mx",
+        "country": "MX",
+        "date": "2024-03-12",
+        "group": "lockbit3"
+    },
+    {
+        "victim": "Alian",
+        "domain": "alian.mx",
+        "country": "MX",
+        "date": "2024-03-27",
+        "group": "lockbit3"
+    },
+    {
+        "victim": "DS Global Technology",
+        "domain": "dsglobaltech.com",
+        "country": "SG",
+        "date": "2024-03-26",
+        "group": "lockbit3"
+    },
+    {
+        "victim": "Heartland Health Center",
+        "domain": "heartlandhealthcenter.org",
+        "country": "US",
+        "date": "2024-03-21",
+        "group": "lockbit3"
+    },
+    {
+        "victim": "itss",
+        "domain": "itss.com.tr",
+        "country": "TR",
+        "date": "2024-03-18",
+        "group": "lockbit3"
+    },
+    {
+        "victim": "uniter",
+        "domain": "uniter.net",
+        "country": "ES",
+        "date": "2024-03-19",
+        "group": "lockbit3"
+    },
+    {
+        "victim": "Ondozabal",
+        "domain": "ondozabal.com",
+        "country": "ES",
+        "date": "2024-03-01",
+        "group": "lockbit3"
+    },
+    {
+        "victim": "Grupo PM",
+        "domain": "grupopm.com",
+        "country": "MX",
+        "date": "2024-02-28",
+        "group": "lockbit3"
+    },
+    {
+        "victim": "Wakefield Snapethorpe Primary School",
+        "domain": "snapethorpeprimary.co.uk",
+        "country": "UK",
+        "date": "2024-02-10",
+        "group": "lockbit3"
+    },
+    {
+        "victim": "Champion",
+        "domain": "champion.com.co",
+        "country": "CO",
+        "date": "2024-02-02",
+        "group": "lockbit3"
+    },
+    {
+        "victim": "Vitema",
+        "domain": "vitema.vi.gov",
+        "country": "VG",
+        "date": "2024-02-10",
+        "group": "lockbit3"
+    },
+    {
+        "victim": "Central Paysanne Luxembourgeoise",
+        "domain": "centralepaysanne.lu",
+        "country": "LU",
+        "date": "2024-03-09",
+        "group": "lockbit3"
+    },
+    {
+        "victim": "carlfischer.com",
+        "domain": "carlfischer.com",
+        "country": "US",
+        "date": "2024-01-25",
+        "group": "lockbit3"
+    },
+    {
+        "victim": "Shri Lakshmi Agro Foods Private Limited",
+        "domain": "udhaiyamdhall.com",
+        "country": "IN",
+        "date": "2023-12-14",
+        "group": "lockbit3"
+    },
+    {
+        "victim": "Ultragas México",
+        "domain": "ultragasmexico.com",
+        "country": "MX",
+        "date": "2024-02-12",
+        "group": "lockbit3"
+    },
+    {
+        "victim": "Agencavi Systems",
+        "domain": "agencavisystems.com",
+        "country": "IT",
+        "date": "2024-02-12",
+        "group": "lockbit3"
+    },
+    {
+        "victim": "Salmones Aysén S.A.",
+        "domain": "salmonesaysen.cl",
+        "country": "CL",
+        "date": "2024-02-03",
+        "group": "lockbit3"
+    },
+    {
+        "victim": "Kings",
+        "domain": "kowessex.co.uk",
+        "country": "UK",
+        "date": "2024-02-27",
+        "group": "lockbit3"
+    },
+    {
+        "victim": "Nalsani SAS",
+        "domain": "totto.com",
+        "country": "CO",
+        "date": "2024-02-23",
+        "group": "lockbit3"
+    },
+    {
+        "victim": "Randi Group",
+        "domain": "randi-group.com",
+        "country": "IT",
+        "date": "2024-02-28",
+        "group": "lockbit3"
+    },
+    {
+        "victim": "INOUE MFG., INC.",
+        "domain": "inouemfg.com",
+        "country": "JP",
+        "date": "2023-12-07",
+        "group": "lockbit3"
+    },
+    {
+        "victim": "Ipsen Logistics",
+        "domain": "ipsenlogistics.com",
+        "country": "MA",
+        "date": "2023-06-15",
+        "group": "lockbit3"
+    },
+    {
+        "victim": "Orsini Group",
+        "domain": "orsiniimballaggi.com",
+        "country": "IT",
+        "date": "2024-03-06",
+        "group": "lockbit3"
+    },
+    {
+        "victim": "Vinati Organics Limited",
+        "domain": "vinatiorganics.com",
+        "country": "IN",
+        "date": "2024-03-04",
+        "group": "lockbit3"
+    },
+    {
+        "victim": "Moga International Ltd.",
+        "domain": "mogaisrael.com",
+        "country": "IL",
+        "date": "2024-03-13",
+        "group": "lockbit3"
+    },
+    {
+        "victim": "G. R. si. Consultants Ltd.",
+        "domain": "grc-c.co.il",
+        "country": "IL",
+        "date": "2024-01-29",
+        "group": "lockbit3"
+    },
+    {
+        "victim": "MAXimum Research, Inc.",
+        "domain": "maximumresearch.com",
+        "country": "US",
+        "date": "2024-01-17",
+        "group": "lockbit3"
+    },
+    {
+        "victim": "Taylor Crane & Rigging, Inc.",
+        "domain": "taylorcrane.com",
+        "country": "US",
+        "date": "2024-01-12",
+        "group": "lockbit3"
+    },
+    {
+        "victim": "cargotrinidad.com",
+        "domain": "cargotrinidad.com",
+        "country": "TT",
+        "date": "2024-03-08",
+        "group": "lockbit3"
+    },
+    {
+        "victim": "Hetero",
+        "domain": "hetero.com",
+        "country": "IN",
+        "date": "2024-05-02",
+        "group": "lockbit3"
+    },
+    {
+        "victim": "IIT Madras",
+        "domain": "iitm.ac.in",
+        "country": "IN",
+        "date": "2024-05-03",
+        "group": "lockbit3"
+    },
+    {
+        "victim": "ctt Express",
+        "domain": "cttxpress.com",
+        "country": "ES",
+        "date": "2024-04-29",
+        "group": "lockbit3"
+    },
+    {
+        "victim": "VM3 Fincas",
+        "domain": "vm3fincas.es",
+        "country": "ES",
+        "date": "2024-05-04",
+        "group": "lockbit3"
+    },
+    {
+        "victim": "Tega Industries Limited",
+        "domain": "tegaindustries.com",
+        "country": "IN",
+        "date": "2024-05-04",
+        "group": "lockbit3"
+    },
+    {
+        "victim": "Abu Dhabi National Building Materials Co.",
+        "domain": "bildco.ae",
+        "country": "AE",
+        "date": "2024-03-17",
+        "group": "lockbit3"
+    },
+    {
+        "victim": "Sripatum University",
+        "domain": "spu.ac.th",
+        "country": "TH",
+        "date": "2024-03-12",
+        "group": "lockbit3"
+    },
+    {
+        "victim": "DePenning & DePenning",
+        "domain": "depenning.com",
+        "country": "IN",
+        "date": "2024-04-06",
+        "group": "lockbit3"
+    },
+    {
+        "victim": "Colonial School District",
+        "domain": "colonialsd.org",
+        "country": "US",
+        "date": "2024-04-26",
+        "group": "lockbit3"
+    },
+    {
+        "victim": "Peninsula Crane and Rigging",
+        "domain": "peninsulacrane.com",
+        "country": "US",
+        "date": "2024-03-08",
+        "group": "lockbit3"
+    },
+    {
+        "victim": "EVW School District",
+        "domain": "evw.k12.mn.us",
+        "country": "US",
+        "date": "2024-03-23",
+        "group": "lockbit3"
+    },
+    {
+        "victim": "A Step Ahead Foot & Ankle Center",
+        "domain": "asafoot.com",
+        "country": "US",
+        "date": "2024-04-09",
+        "group": "lockbit3"
+    },
+    {
+        "victim": "Grupo MPE",
+        "domain": "mpeprevencion.com",
+        "country": "ES",
+        "date": "2024-03-22",
+        "group": "lockbit3"
+    },
+    {
+        "victim": "Sislocar",
+        "domain": "sislocar.com",
+        "country": "CR",
+        "date": "2024-04-11",
+        "group": "lockbit3"
+    },
+    {
+        "victim": "Vikrant Group",
+        "domain": "vikrantsprings.com",
+        "country": "IN",
+        "date": "2024-04-30",
+        "group": "lockbit3"
+    },
+    {
+        "victim": "Thai Agri Foods",
+        "domain": "thaiagri.com",
+        "country": "TH",
+        "date": "2024-04-09",
+        "group": "lockbit3"
+    },
+    {
+        "victim": "Groupe EPR",
+        "domain": "epr-groupe.fr",
+        "country": "FR",
+        "date": "2023-11-26",
+        "group": "lockbit3"
+    },
+    {
+        "victim": "Carcajou",
+        "domain": "carcajou.fr",
+        "country": "FR",
+        "date": "2024-05-09",
+        "group": "lockbit3"
+    },
+    {
+        "victim": "",
+        "domain": "telekom.de",
+        "country": "DE",
+        "date": "2023-08-04",
+        "group": "lockbit3"
+    },
+    {
+        "victim": "longviewoms.com",
+        "domain": "longviewoms.com",
+        "country": "US",
+        "date": "2024-05-20",
+        "group": "lockbit3"
+    },
+    {
+        "victim": "mgops.sedziszow-mlp.pl",
+        "domain": "mgops.sedziszow-mlp.pl",
+        "country": "PL",
+        "date": "2024-05-10",
+        "group": "lockbit3"
+    },
+    {
+        "victim": "Multi Group",
+        "domain": "multigroup.info",
+        "country": "FR",
+        "date": "2024-05-09",
+        "group": "lockbit3"
+    },
+    {
+        "victim": "Pressurejet",
+        "domain": "pressurejet.com",
+        "country": "IN",
+        "date": "2024-05-09",
+        "group": "lockbit3"
+    }
+]
