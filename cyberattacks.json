@@ -1,5 +1,15 @@
 [
     {
+        "date": "2023-12-01",
+        "victim": "International Shoppes, LLC",
+        "domain": "ishoppes.com",
+        "country": "USA",
+        "summary": "International Shoppes, LLC et Diplomatic Duty Free Shops of New York, Inc. ont subi un incident de cybersécurité le 1er décembre 2023, affectant leurs systèmes informatiques contenant des informations personnelles. Bien qu'il n'y ait aucune preuve d'utilisation abusive des informations, ils informent les employés concernés par mesure de précaution. La revendication d'une cyberattaque a été publiée le 6 mais 2024 sur le site vitrine de la franchise LockBit 3.0.",
+        "title": "Notice of Data Security Breach",
+        "url": "https://www.mass.gov/doc/assigned-data-breach-number-2024-257-international-shoppes-llc/download",
+        "added": "2024-06-13"
+    },
+    {
         "date": "2024-05-12",
         "victim": "Kulicke & Soffa Industries, Inc.",
         "domain": "kns.com",
