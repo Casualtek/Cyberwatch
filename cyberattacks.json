@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-05-12",
+        "victim": "Kulicke & Soffa Industries, Inc.",
+        "domain": "kns.com",
+        "country": "USA",
+        "summary": "Kulicke & Soffa Industries, un fournisseur de solutions d'emballage de semi-conducteurs et d'assemblage électronique, a subi une violation de données qui a compromis environ 12 millions de fichiers, notamment du code source, des données d'ingénierie, des informations sur les partenaires commerciaux et des informations personnelles. L'équipe de sécurité de l'entreprise a réagi rapidement pour contenir et isoler les serveurs affectés et a signalé l'incident aux autorités. L'enquête est en cours pour déterminer l'étendue de la violation et prendre des mesures pour renforcer la sécurité des systèmes de l'entreprise.",
+        "title": "Kulicke & Soffa Data Breach - 12 Million Files Leaked",
+        "url": "https://cybersecuritynews.com/kulicke-soffa-data-breach/",
+        "added": "2024-06-13"
+    },
+    {
         "date": "2024-06-02",
         "victim": "Special Health Resources (SHR)",
         "domain": "specialhealth.org",
