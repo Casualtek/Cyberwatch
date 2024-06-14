@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-06-12",
+        "victim": "Axido",
+        "domain": "axido.fr",
+        "country": "FRA",
+        "summary": "Axido, une entreprise de services numériques, a été victime d'une cyberattaque, ce qui a nécessité l'isolement de son système d'information pour limiter les impacts. Les investigations sont en cours avec l'aide d'un cabinet d'expertise indépendant recommandé par l'Anssi, et les autorités compétentes ont été contactées. Pour l'instant, aucune fuite de données sensibles ou personnelles n'a été détectée, mais la restauration des systèmes prendra du temps.",
+        "title": "ESN : Axido (groupe Proxiteam) confronté à une cyberattaque | LeMagIT",
+        "url": "https://www.lemagit.fr/actualites/366588799/ESN-Axido-groupe-Proxiteam-confronte-a-une-cyberattaque",
+        "added": "2024-06-14"
+    },
+    {
         "date": "2024-06-14",
         "victim": "GlobalWafers",
         "domain": "gw-semi.com",
