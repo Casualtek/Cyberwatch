@@ -1,6 +1,16 @@
 [
     {
         "date": "2024-06-12",
+        "victim": "Commune de Benalmádena",
+        "domain": "benalmadena.es",
+        "country": "ESP",
+        "summary": "Le conseil municipal de Benalmádena, en Espagne, a été victime d'une cyberattaque. Les techniciens municipaux, des experts externes et des entreprises de cybersécurité travaillent ensemble pour garantir la sécurité des données et prévenir de nouveaux attaques. Les services web ont été temporairement suspendus en prévention, mais les citoyens peuvent toujours effectuer des démarches en personne et utiliser la plateforme électronique.",
+        "title": "CIBERATAQUE EN BENALMÁDENA | El Ayuntamiento de Benalmádena sufre un ciberataque y evalúa su alcance",
+        "url": "https://www.laopiniondemalaga.es/costa-sol-occidental/2024/06/12/ayuntamiento-benalmadena-sufre-ciberataque-madrugada-103675712.html",
+        "added": "2024-06-14"
+    },
+    {
+        "date": "2024-06-12",
         "victim": "Axido",
         "domain": "axido.fr",
         "country": "FRA",
