@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-03-17",
+        "victim": "Whitko Community Schools",
+        "domain": "whitko.org",
+        "country": "USA",
+        "summary": "Le district scolaire de Whitko Community Schools a subi une panne de son système informatique en mars 2024, initialement attribuée à un problème de alimentation électrique, mais finalement identifiée comme une attaque de ransomware. Aucune preuve de vol de données sensibles n'a été trouvée et le district n'a pas payé de rançon. Des mesures de sécurité supplémentaires sont mises en place pour prévenir de telles attaques à l'avenir.",
+        "title": "Statement regarding the March 2024 IT systems outage - Whitko Community Schools",
+        "url": "https://whitko.org/2024/06/statement-regarding-the-march-2024-it-systems-outage/",
+        "added": "2024-06-14"
+    },
+    {
         "date": "2024-06-12",
         "victim": "Commune de Benalmádena",
         "domain": "benalmadena.es",
