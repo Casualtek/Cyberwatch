@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-06-12",
+        "victim": "Richland School District",
+        "domain": "rsd.edu",
+        "country": "USA",
+        "summary": "Le district scolaire de Richland, dans l'État de Washington, a été victime d'une cyberattaque qui a entraîné une panne de téléphone et d'internet depuis deux jours, rendant inaccessible les informations pour les parents, les élèves et les enseignants. Les équipes IT du district ont détecté un accès non autorisé à certains systèmes informatiques et ont pris la précaution de déconnecter d'autres systèmes pour enquêter sur l'incident. Les données d'inscription, les notes et les portails d'inscription restent inaccessibles en ligne jusqu'à ce que les systèmes soient restaurés.",
+        "title": "Cyber Attack Takes Richland, Wash., Schools Offline",
+        "url": "https://www.govtech.com/education/k-12/cyber-attack-takes-richland-wash-schools-offline",
+        "added": "2024-06-15"
+    },
+    {
         "date": "2024-03-17",
         "victim": "Whitko Community Schools",
         "domain": "whitko.org",
