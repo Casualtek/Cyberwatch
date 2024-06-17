@@ -1,6 +1,16 @@
 [
     {
         "date": "2024-06-17",
+        "victim": "Rekah",
+        "domain": "rekah.co.il",
+        "country": "ISR",
+        "summary": "Une cyberattaque a mis hors service la distribution de Rekah, une importante entreprise pharmaceutique israélienne produisant des médicaments, des cosmétiques, des vitamines et des suppléments nutritionnels. L'entreprise travaille à contenir l'incident, à localiser et à contrer l'attaque, et à restaurer les systèmes compromis. Aucun autre détail n'a été fourni sur la nature de l'attaque ou les données compromises.",
+        "title": "Cyber attack shuts down Israeli pharma company's distribution | Ctech",
+        "url": "https://www.calcalistech.com/ctechnews/article/sjyk8iab0",
+        "added": "2024-06-17"
+    },
+    {
+        "date": "2024-06-17",
         "victim": "MARINA (Maritime Industry Authority)",
         "domain": "marina.gov.ph",
         "country": "PHL",
