@@ -15,7 +15,7 @@ Now, what's in *cyberattacks.json*?
 A set of cyberattacks mentionned in the media and spotted thanks to the meta cyberattacks RSS feed. 
 You'll find there the name of the victim, the country, the date, a short description of the situation, and a link to the original news story. 
 That data is extracted from the original news story with the help of ChatGPT, using OpenIA's developers API. 
-The output is checked manually.
+The output is checked manually. It's used every weeek to produce the **Cyberhebdo** published by **[LeMagIT](https://www.lemagit.fr/ressources/Securite)**.
 
 And in *cyberattaques.xml*?
 Well, it's a RSS feed of the aforementioned cyberattacks reports, chronogically sorted by discovery date.
