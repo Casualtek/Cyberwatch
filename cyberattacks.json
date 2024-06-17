@@ -1,6 +1,16 @@
 [
     {
         "date": "2024-06-17",
+        "victim": "Krankenhaus Agatharied",
+        "domain": "khagatharied.de",
+        "country": "DEU",
+        "summary": "L'hôpital Agatharied, un hôpital allemand, a été victime d'une cyberattaque, ce qui a entraîné des problèmes d'accès aux données et des perturbations dans le fonctionnement de l'hôpital. Un comité de crise a été mis en place pour gérer les conséquences de l'attaque. Les détails sur les répercussions de l'attaque sur le fonctionnement de l'hôpital ne sont pas encore connus.",
+        "title": "Hackerangriff auf Krankenhaus Agatharied: Krisenstab eingerichtet",
+        "url": "https://www.merkur.de/lokales/region-miesbach/hausham-ort74880/hackerangriff-auf-krankenhaus-agatharied-krisenstab-eingerichtet-93135734.html",
+        "added": "2024-06-17"
+    },
+    {
+        "date": "2024-06-17",
         "victim": "Rekah",
         "domain": "rekah.co.il",
         "country": "ISR",
