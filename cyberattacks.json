@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-06-16",
+        "victim": "Oahu Transit Services (OTS)",
+        "domain": "thebus.org",
+        "country": "USA",
+        "summary": "L'organisation qui gère TheBus, le système de transport en commun d'Oahu, a subi une cyberattaque, probablement une attaque de ransomware, qui a entraîné une panne de réseau prolongée. L'enquête est en cours avec le FBI et la police d'Honolulu, tandis que les sites web de TheBus et TheHandi-Van sont toujours hors ligne. C'est la deuxième fois que l'organisation est victime d'une cyberattaque, après une attaque de ransomware en 2021.",
+        "title": "FBI, police investigating following extended ‘network outage’ at organization that runs TheBus",
+        "url": "https://www.hawaiinewsnow.com/2024/06/18/thebus-website-is-down-third-day-after-alleged-ransomware-attack/",
+        "added": "2024-06-18"
+    },
+    {
         "date": "2024-06-17",
         "victim": "Krankenhaus Agatharied",
         "domain": "khagatharied.de",
