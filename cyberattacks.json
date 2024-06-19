@@ -1,6 +1,16 @@
 [
     {
         "date": "2024-06-16",
+        "victim": "俊思集团 (Junsi Group) et Brooks Brothers",
+        "domain": "brooksbrothers.com.hk",
+        "country": "HKG",
+        "summary": "Le groupe chinois 俊思集团 (Junsi Group) a été victime d'une cyberattaque, entraînant la fuite de données personnelles de plus de 54 000 membres et employés de la marque Brooks Brothers. Les informations compromises incluent les noms, adresses e-mail, numéros de téléphone, mois de naissance, sexe et nationalité. L'entreprise a pris des mesures pour sécuriser son système et a signalé l'incident aux autorités compétentes.",
+        "title": "俊思集团系统遭入侵 5.4万服装店会员及员工资料外泄｜即时新闻｜港澳｜on.cc东网",
+        "url": "https://hk.on.cc/hk/bkn/cnt/news/20240618/bkn-20240618150535015-0618_00822_001_cn.html",
+        "added": "2024-06-19"
+    },
+    {
+        "date": "2024-06-16",
         "victim": "Oahu Transit Services (OTS)",
         "domain": "thebus.org",
         "country": "USA",
