@@ -1,6 +1,16 @@
 [
     {
         "date": "2024-06-20",
+        "victim": "Le ministère de la Communication et de l'Information (Kominfo)",
+        "domain": "kominfo.go.id",
+        "country": "IDN",
+        "summary": "Le serveur du ministère de la Communication et de l'Information (Kominfo) a été victime d'une cyberattaque, ce qui a perturbé les services d'immigration à l'aéroport international. L'attaque a eu lieu le 20 juin 2024 à 16h45 heure locale. Les détails de l'incident ne sont pas encore connus, mais les services d'immigration ont été affectés.",
+        "title": "Server PDN Kominfo Diserang, Layanan Imigrasi di Bandara Internasional Terganggu | kumparan.com",
+        "url": "https://kumparan.com/kumparannews/server-pdn-kominfo-diserang-layanan-imigrasi-di-bandara-internasional-terganggu-22ySpneNRR9",
+        "added": "2024-06-20"
+    },
+    {
+        "date": "2024-06-20",
         "victim": "GIC Housing Finance",
         "domain": "gichfindia.com",
         "country": "IND",
