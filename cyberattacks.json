@@ -1,6 +1,16 @@
 [
     {
         "date": "2024-06-20",
+        "victim": "La Scam (Société civile des auteurs multimédia)",
+        "domain": "scam.fr",
+        "country": "FRA",
+        "summary": "La Scam a subi une cyberattaque de type ransomware malgré ses efforts de prévention. Ils ont déposé plainte, informé la CNIL, et collaborent avec une société experte en cybersécurité pour analyser et restaurer les données. Les premières analyses sont encourageantes, et la société assure que les droits de ses membres sont préservés.",
+        "title": "La Scam, victime d’une cyberattaque - Scam : Société civile des auteurs multimédia",
+        "url": "https://www.scam.fr/actualites-ressources/la-scam-victime-dune-cyberattaque/",
+        "added": "2024-06-21"
+    },
+    {
+        "date": "2024-06-20",
         "victim": "Le ministère de la Communication et de l'Information (Kominfo)",
         "domain": "kominfo.go.id",
         "country": "IDN",
