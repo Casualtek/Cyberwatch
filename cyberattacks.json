@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-06-12",
+        "victim": "Newberg-Dundee School District",
+        "domain": "newberg.k12.or.us",
+        "country": "USA",
+        "summary": "Le district scolaire de Newberg-Dundee a été victime d'une cyberattaque par rançon, qui a été signalée à la FBI. L'attaque a rendu inaccessible les données du district, mais selon les responsables, aucune donnée personnelle d'élèves ou d'employés n'a été compromise. Cependant, le district a engagé un cabinet d'avocats spécialisé dans la défense contre les litiges liés à la sécurité des données, ce qui suscite des questions sur la transparence de l'affaire.",
+        "title": "Newberg-Dundee School District Target of Ransomware Cyber Attack - Yamhill Advocate",
+        "url": "https://www.yamhilladvocate.com/2024/06/newberg-dundee-school-district-target-of-ransomware-cyber-attack/",
+        "added": "2024-06-23"
+    },
+    {
         "date": "2024-06-21",
         "victim": "DG Immobilien Management (DGIM)",
         "domain": "dgim.net",
