@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-06-22",
+        "victim": "National Health Laboratory Service (NHLS)",
+        "domain": "nhls.ac.za",
+        "country": "ZAF",
+        "summary": "Le National Health Laboratory Service (NHLS) a été victime d'une cyberattaque par ransomware, qui a rendu ses systèmes et infrastructures inaccessibles. Les enquêtes préliminaires indiquent que les données des patients sont sécurisées et n'ont pas été compromises. Les systèmes de l'NHLS sont actuellement inaccessibles et les laboratoires fonctionnent en mode manuel, avec des résultats d'analyses communiqués par téléphone.",
+        "title": "National Health Lab hit by cyber attack, systems down | The Citizen",
+        "url": "https://www.citizen.co.za/news/nhls-hit-by-ransomware-attack/",
+        "added": "2024-06-25"
+    },
+    {
         "date": "2024-06-23",
         "victim": "Morgunblaðið",
         "domain": "mbl.is",
