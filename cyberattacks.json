@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-06-24",
+        "victim": "Fleury-les-Aubrais",
+        "domain": "fleurylesaubrais.fr",
+        "country": "FRA",
+        "summary": "La mairie de Fleury-les-Aubrais a été victime d'une cyberattaque majeure, obligeant la Direction des systèmes informatiques à couper tous les accès aux serveurs pour éviter une propagation de l'attaque. Les services de la mairie sont donc actuellement indisponibles, y compris les téléphones, les mails et l'accès à internet. Les équipes de la ville travaillent avec un prestataire extérieur pour identifier la source de l'attaque et restaurer les services, mais il est possible que les perturbations durent plusieurs jours.",
+        "title": "Plus de téléphone, plus de mails, plus d’Internet : une mairie paralysée par une cyberattaque",
+        "url": "https://france3-regions.francetvinfo.fr/centre-val-de-loire/loiret/fleury-les-aubrais-la-mairie-paralysee-par-une-attaque-informatique-d-ampleur-2993027.html",
+        "added": "2024-06-25"
+    },
+    {
         "date": "2023-12-15",
         "victim": "West Clermont Local School District",
         "domain": "westcler.k12.oh.us",
