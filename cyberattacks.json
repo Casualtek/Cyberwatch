@@ -1,5 +1,15 @@
 [
     {
+        "date": "2023-12-15",
+        "victim": "West Clermont Local School District",
+        "domain": "westcler.k12.oh.us",
+        "country": "USA",
+        "summary": "Le district scolaire local de West Clermont a été victime d'une cyberattaque en décembre 2023, qui a entraîné une perte nette de 1,7 million de dollars. L'attaque a consisté en une opération d'ingénierie sociale qui a détourné des paiements électroniques vers des comptes bancaires non affiliés au district. Malgré cette perte, le district a affirmé qu'il ne devrait pas être nécessaire de réduire les programmes, les services ou de licencier des employés.",
+        "title": "West Clermont schools victim of costly cyberattack, district says",
+        "url": "https://www.fox19.com/2024/06/25/west-clermont-schools-victim-costly-cyberattack-district-says/",
+        "added": "2024-06-25"
+    },
+    {
         "date": "2024-06-24",
         "victim": "Sicoob",
         "domain": "sicoob.com.br",
