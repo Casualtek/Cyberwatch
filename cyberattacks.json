@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-06-24",
+        "victim": "Sicoob",
+        "domain": "sicoob.com.br",
+        "country": "BRA",
+        "summary": "La coopérative brésilienne Sicoob a confirmé avoir été victime d'une cyberattaque le 24 juin, mais a assuré que les données sensibles étaient sécurisées et que les opérations continuaient normalement. L'institution a activé ses protocoles de sécurité pour enquêter sur l'incident et a informé les autorités compétentes. Il est suspecté que l'attaque pourrait être un ransomware, mais Sicoob n'a pas confirmé cette information.",
+        "title": "Sicoob confirma que sofreu ataque cibernético nesta segunda (24)",
+        "url": "https://tecnologia.ig.com.br/parceiros/canaltech/2024-06-24/sicoob-confirma-que-sofreu-ataque-cibernetico-nesta-segunda-24.html",
+        "added": "2024-06-25"
+    },
+    {
         "date": "2024-06-12",
         "victim": "Newberg-Dundee School District",
         "domain": "newberg.k12.or.us",
