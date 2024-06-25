@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-06-23",
+        "victim": "Morgunblaðið",
+        "domain": "mbl.is",
+        "country": "ISL",
+        "summary": "Une cyberattaque a visé le journal islandais Morgunblaðið et sa station de radio K100, entraînant d'importantes perturbations. L'éditeur, Árvakur, a restreint l'accès à ses plateformes depuis l'extérieur de l'Islande. Les pirates ont volé et crypté des données sur l'intranet d'Árvakur. Le Cert-is est intervenu en bloquant le trafic étranger. L'attaque est attribuée au groupe de pirates Akira, qui a déjà ciblé d'autres entités islandaises.",
+        "title": "Cyberattacke auf Herausgeber des Morgunblaðið",
+        "url": "https://www.icelandreview.com/de/gesellschaft-de/cyberattacke-auf-herausgeber-des-morgunbladid/",
+        "added": "2024-06-25"
+    },
+    {
         "date": "2024-06-24",
         "victim": "Fleury-les-Aubrais",
         "domain": "fleurylesaubrais.fr",
