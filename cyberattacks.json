@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-06-01",
+        "victim": "Pharmascience",
+        "domain": "pharmascience.com",
+        "country": "CAN",
+        "summary": "La société pharmaceutique canadienne Pharmascience a été victime d'une cyberattaque dans les dernières semaines, mais elle refuse de dévoiler l'ampleur de l'attaque et si une rançon a été demandée. L'entreprise affirme avoir réagi promptement et avoir sécurisé ses systèmes informatiques, permettant de reprendre ses activités de manière sûre et efficace. Cette attaque s'inscrit dans une série de cyberattaques récentes dans le secteur pharmaceutique, notamment chez Sun Pharma, Eisai, Evotec et Novartis.",
+        "title": "Cyberattaque chez Pharmascience | La Presse",
+        "url": "https://www.lapresse.ca/affaires/entreprises/2024-06-26/cyberattaque-chez-pharmascience.php",
+        "added": "2024-06-26"
+    },
+    {
         "date": "2024-06-22",
         "victim": "Agata",
         "domain": "agatameble.pl",
