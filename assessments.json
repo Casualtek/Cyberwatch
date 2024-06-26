@@ -1,5 +1,12 @@
 [
     {
+        "victim": "federalreserve.gov",
+        "domain": "federalreserve.gov",
+        "country": "US",
+        "date": "2024-04-16",
+        "group": "lockbit3"
+    },
+    {
         "victim": "daystar.com",
         "domain": "daystar.com",
         "country": "US",
