@@ -79,7 +79,7 @@ def post_to_bluesky(text,url):
         models.ComAtprotoRepoCreateRecord.Data(
             repo=client.me.did,  # or any another DID
             collection=models.ids.AppBskyFeedPost,
-            record=models.AppBskyFeedPost.Main(
+            record=models.AppBskyFeedPost.Record(
                 created_at=client.get_current_time_iso(), text=text+'https://www.ransomware.live/#/recentcyberattacks', embed=embed_external, langs=["fr"], facets=facets
             ),
         )
