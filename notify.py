@@ -58,7 +58,7 @@ def post_to_bluesky(text,url):
     client = Client()
     client.login(os.environ['BS_LOGIN'],os.environ['BS_PWD'])
     
-    embed_external = models.AppBskyEmbedExternal.Main(
+    embed_external = models.app.bsky.embed.external.Main(
         external=models.AppBskyEmbedExternal.External(
             title='Source',
             description='',
@@ -67,7 +67,7 @@ def post_to_bluesky(text,url):
     )
 
     facets = [
-        models.AppBskyRichtextFacet.Main(
+        models.app.bsky.richtext.facet.Main(
             features=[models.AppBskyRichtextFacet.Link(uri='https://www.ransomware.live/#/recentcyberattacks')],
             # we should pass when our link starts and ends in the text
             # the example below selects all the text
@@ -96,13 +96,13 @@ def main():
     country    = story['country']
 
     tweet = flag.flag(countryISO[country])+' '+story['victim']+' ('+story['domain']+')'+' a été victime d\'une #cyberattaque autour du '+date_tweet+'.\n⏭️ https://t.ly/t23z2\n👉 '+story['url']+' cc @ransomwaremap @cyber_etc'
-    post_to_twitter(tweet)
+#    post_to_twitter(tweet)
 
     telegram_msg = flag.flag(countryISO[country])+' '+story['victim']+' ('+story['domain']+')'+' a été victime d\'une cyberattaque autour du '+date_tweet+'.\n\n'+story['summary']+'\n\n👉 [source]('+story['url']+')'
-    post_to_telegram(telegram_msg)
+#    post_to_telegram(telegram_msg)
 
     mastodon_msg = flag.flag(countryISO[country])+' '+story['victim']+' ('+story['domain']+')'+' a été victime d\'une cyberattaque autour du '+date_tweet+'.\n\n'+story['summary']+'\n\n👉 '+story['url']
-    post_to_mastodon(mastodon_msg)
+#    post_to_mastodon(mastodon_msg)
 
     post = flag.flag(countryISO[country])+' '+story['victim']+' ('+story['domain']+')'+' a été victime d\'une cyberattaque autour du '+date_tweet+'.\n👉 '
     post_to_bluesky(post,story['url'])
