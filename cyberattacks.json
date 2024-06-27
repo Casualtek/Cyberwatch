@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-06-27",
+        "victim": "KBC Zagreb",
+        "domain": "kbc-zagreb.hr",
+        "country": "HRV",
+        "summary": "Le centre hospitalier universitaire de Zagreb (KBC Zagreb) a été victime d'une cyberattaque dans la matinée, obligeant à fermer tous les systèmes pour des vérifications supplémentaires. Environ 100 experts travaillent à résoudre le problème, mais la sécurité des patients n'a pas été compromise. Les activités hospitalières sont perturbées, notamment avec la nécessité d'écrire manuellement les résultats des examens et de rediriger certains patients.",
+        "title": "Sastanak kriznog stožera KBC-a Zagreb, 100 stručnjaka radi na uklanjanju problema - HRT",
+        "url": "https://vijesti.hrt.hr/hrvatska/kbc-zagreb-kiberneticki-napad-na-bolnicu-u-jutarnjim-satima-11631404",
+        "added": "2024-06-27"
+    },
+    {
         "date": "2024-06-01",
         "victim": "Pharmascience",
         "domain": "pharmascience.com",
