@@ -1,5 +1,15 @@
 [
     {
+        "date": "2023-07-03",
+        "victim": "Highland Health System",
+        "domain": "highlandhealthsystems.org",
+        "country": "USA",
+        "summary": "Le groupe de ransomware AlphV (aussi connu sous le nom de Blackcat) a disparu après une saisie par les forces de l'ordre en décembre 2023 et une escroquerie de départ en mars 2024, mais les conséquences de ses attaques persistent. L'un des organismes de santé touchés, Highland Health System, a découvert une activité anormale dans son système en juillet 2023 et a finalement notifié les patients affectés en juin 2024, après une longue enquête. Les données volées, qui incluent des informations de santé et des données personnelles sensibles, sont toujours introuvables, et il est inconnu si elles ont été récupérées par le FBI ou si elles sont toujours entre les mains d'affiliés.",
+        "title": "Blackcat may be gone, but recovery from its attacks is not over - DataBreaches.Net",
+        "url": "https://databreaches.net/2024/06/28/blackcat-may-be-gone-but-recovery-from-its-attacks-is-not-over/",
+        "added": "2024-06-28"
+    },
+    {
         "date": "2024-06-27",
         "victim": "Federated Co-operatives Limited",
         "domain": "coop.ca",
