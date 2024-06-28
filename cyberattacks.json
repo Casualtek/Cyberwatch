@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-06-27",
+        "victim": "Federated Co-operatives Limited",
+        "domain": "coop.ca",
+        "country": "CAN",
+        "summary": "Une cyberattaque a entraîné la fermeture de plusieurs emplacements de Co-op, notamment des stations-service et des magasins, après que des systèmes internes et clients ont été touchés. L'entreprise a engagé des experts tiers pour enquêter sur l'incident et a fermé certaines de ses systèmes en précaution. Cette attaque s'ajoute à une série d'incidents de cybersécurité récents qui ont visé des entreprises et des organisations gouvernementales en Colombie-Britannique et dans l'Ouest canadien.",
+        "title": "Cybersecurity incident results in closure of Co-op locations",
+        "url": "https://www.cheknews.ca/cybersecurity-incident-results-in-closure-of-co-op-locations-1211711/",
+        "added": "2024-06-28"
+    },
+    {
         "date": "2024-06-25",
         "victim": "Shoe Zone",
         "domain": "shoezone.com",
