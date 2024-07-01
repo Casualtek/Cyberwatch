@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-06-27",
+        "victim": "Forum Sirius",
+        "domain": "forumsirius.com",
+        "country": "FRA",
+        "summary": "Le Théâtre de la Cité internationale à Paris a été la victime indirecte d'une cyberattaque ayant touché son prestataire de billetterie, Forum Sirius. Les données compromises incluent les noms, prénoms, adresses mails, numéros de téléphone et adresses postales, ainsi que les mots de passe utilisés pour la connexion. Le théâtre a réinitialisé la sécurité et déclare que l'incident est désormais clos, tout en déployant des mesures techniques et juridiques nécessaires.",
+        "title": "Le Théâtre de la Cité internationale victime d’une cyberattaque via son prestataire de billetterie",
+        "url": "https://www.solutions-numeriques.com/le-theatre-de-la-cite-internationale-victime-dune-cyberattaque-via-son-prestataire-de-billetterie/",
+        "added": "2024-07-01"
+    },
+    {
         "date": "2023-06-11",
         "victim": "Coastal Orthopedics & Sports Medicine of Southwest Florida",
         "domain": "coastalorthopedics.com",
