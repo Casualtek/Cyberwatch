@@ -1,0 +1,44 @@
+name: Notify New Reports
+
+on:
+  push:
+    branches:
+        - main
+    paths:
+      - 'assessments.json'
+  workflow_dispatch:
+
+permissions: write-all
+
+env:
+  LANG: "fr_FR.UTF-8"
+
+jobs:
+  run-flux_rss:
+    runs-on: ubuntu-latest
+    timeout-minutes: 170
+    environment: CI
+    steps:
+      - name: Checkout the repo
+        uses: actions/checkout@v3
+      - name: fr_FR.UTF-8
+        run: |
+          sudo locale-gen fr_FR.UTF-8
+          sudo update-locale LANG=fr_FR.UTF-8
+      - name: Install dependencies
+        run: |
+          pip3 install -r notify_requirements.txt
+      - name: Send out notifications
+        env:
+          CONS_KEY: ${{ secrets.CONS_KEY }}
+          CONS_SECRET: ${{ secrets.CONS_SECRET }}
+          ACC_TOKEN: ${{ secrets.ACC_TOKEN }}
+          ACC_TK_SECRET: ${{ secrets.ACC_TK_SECRET }}
+          BEARER_TK: ${{ secrets.BEARER_TK }}
+          MAST_TK: ${{ secrets.MAST_TK }}
+          CHAT_ID: ${{ secrets.CHAT_ID }}
+          TG_TK: ${{ secrets.TG_TK }}
+          BS_LOGIN: ${{ secrets.BS_LOGIN }}
+          BS_PWD: ${{ secrets.BS_PWD }}
+        run: |
+          python3 notify_assessed.py
