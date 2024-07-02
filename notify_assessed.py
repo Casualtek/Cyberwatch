@@ -50,18 +50,10 @@ def post_to_twitter(message):
     tweetbot = tweepy.Client(bearer_token, consumer_key, consumer_secret, access_token, access_token_secret)
     tweetbot.create_tweet(text=message)
     
-def post_to_bluesky(text,url):
+def post_to_bluesky(text):
     client = Client()
     client.login(os.environ['BS_LOGIN'],os.environ['BS_PWD'])
     
-    embed_external = models.AppBskyEmbedExternal.Main(
-        external=models.AppBskyEmbedExternal.External(
-            title='Source',
-            description='',
-            uri=url,
-        )
-    )
-
     facets = [
         models.AppBskyRichtextFacet.Main(
             features=[models.AppBskyRichtextFacet.Link(uri='https://www.ransomware.live/#/recentcyberattacks')],
@@ -76,7 +68,7 @@ def post_to_bluesky(text,url):
             repo=client.me.did,  # or any another DID
             collection=models.ids.AppBskyFeedPost,
             record=models.AppBskyFeedPost.Main(
-                created_at=client.get_current_time_iso(), text=text+'https://www.ransomware.live/#/recentcyberattacks', embed=embed_external, langs=["fr"], facets=facets
+                created_at=client.get_current_time_iso(), text=text+'https://www.ransomware.live/#/recentcyberattacks', langs=["fr"], facets=facets
             ),
         )
     )
