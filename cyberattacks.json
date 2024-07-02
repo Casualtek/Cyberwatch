@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-06-27",
+        "victim": "Agropur",
+        "domain": "agropur.com",
+        "country": "CAN",
+        "summary": "Agropur, un géant laitier québécois, a été victime d'une cyberattaque ciblant une partie de son répertoire en ligne, touchant des employés et des partenaires. La coopérative affirme que les opérations n'ont pas été affectées et que des mesures ont été prises pour atténuer l'impact de l'incident et renforcer la protection des données. Le nombre de personnes touchées et les informations compromises restent inconnus, Agropur préférant éviter tout commentaire susceptible de nuire à l'enquête en cours.",
+        "title": "Des employés et partenaires d’Agropur victimes d’une cyberattaque | JDM",
+        "url": "https://www.journaldemontreal.com/2024/07/02/des-employes-et-partenaires-dagropur-victimes-dune-cyberattaque-la-police-avisee",
+        "added": "2024-07-02"
+    },
+    {
         "date": "2024-06-29",
         "victim": "Patelco Credit Union",
         "domain": "patelco.org",
