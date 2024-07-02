@@ -1,4 +1,4 @@
-name: Notify New Reports
+name: Notify New Assessments
 
 on:
   push:
