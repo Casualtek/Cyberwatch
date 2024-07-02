@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-06-29",
+        "victim": "Patelco Credit Union",
+        "domain": "patelco.org",
+        "country": "USA",
+        "summary": "La Patelco Credit Union, une coopérative de crédit basée en Californie, a été victime d'une attaque de ransomware qui a entraîné la suspension de ses services bancaires pour près de 500 000 membres. Les membres ne peuvent pas accéder à leurs comptes en ligne, aux transactions par carte de crédit ou de débit, ni aux dépôts directs, mais peuvent toujours retirer de l'argent aux distributeurs automatiques de billets. La coopérative de crédit travaille avec des experts en cybersécurité pour résoudre le problème et restaurer les services.",
+        "title": "Patelco Credit Union ransomware attack halts banking services for nearly half a million members - CBS San Francisco",
+        "url": "https://www.cbsnews.com/sanfrancisco/news/patelco-credit-union-security-incident-outage-services/",
+        "added": "2024-07-02"
+    },
+    {
         "date": "2024-06-28",
         "victim": "Isapre Colmena",
         "domain": "colmena.cl",
