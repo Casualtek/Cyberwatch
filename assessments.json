@@ -1,5 +1,12 @@
 [
     {
+        "victim": "Dynasafe",
+        "domain": "dynasafe.com",
+        "country": "SE",
+        "date": "2024-06-03",
+        "group": "blackbasta"
+    },
+    {
         "victim": "Elutia",
         "domain": "elutia.com",
         "country": "US",
