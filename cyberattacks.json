@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-07-02",
+        "victim": "Institut des architectes et Bureau de gestion des registres d'architecture",
+        "domain": "hkia.net",
+        "country": "HKG",
+        "summary": "L'Institut des architectes et le Bureau de gestion des registres d'architecture ont été victimes d'une attaque de logiciel de rançon, entraînant l'interruption de leurs services de site web. Les données personnelles des utilisateurs pourraient avoir été compromises. Les détails de l'incident ne sont pas encore clairs.",
+        "title": "建筑师学会及建筑注册管理局遭勒索软件攻击 网站服务中断 个人资料或外泄 | 星岛日报",
+        "url": "https://std.stheadline.com/sc/realtime/article/2008693/即時-港聞-建築師學會及建築註冊管理局遭勒索軟件攻擊-網站服務中斷-個人資料或外洩",
+        "added": "2024-07-03"
+    },
+    {
         "date": "2024-07-03",
         "victim": "E.S.E. Salud Yopal",
         "domain": "esesalud-yopal-casanare.gov.co",
