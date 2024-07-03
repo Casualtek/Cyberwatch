@@ -1,5 +1,12 @@
 [
     {
+        "victim": "Salton",
+        "domain": "salton.com.br",
+        "country": "BR",
+        "date": "2024-06-24",
+        "group": "akira"
+    },
+    {
         "victim": "Synology",
         "domain": "synology.com",
         "country": "DE",
