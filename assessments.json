@@ -1,5 +1,12 @@
 [
     {
+        "victim": "Synology",
+        "domain": "synology.com",
+        "country": "DE",
+        "date": "2023-05-30",
+        "group": "underground"
+    },
+    {
         "victim": "TPA Group",
         "domain": "tpa-group.sk",
         "country": "SK",
