@@ -88,8 +88,6 @@ def get_claim(group, victim_name, victim_domain):
         if claim.get("website") == victim_domain or title == victim_name.lower() or title == victim_domain:
             claimed = datetime.strptime(claim.get("published"), "%Y-%m-%d %H:%M:%S.%f")
             return(datetime.strftime(claimed, '%d %B %Y'))
-        else:
-            exit()
 
 def main():
     with open(json_file, 'r') as f:
