@@ -101,11 +101,11 @@ def main():
     mastodon_msg = flag.flag(countryISO[country])+' '+story['victim']+' ('+story['domain']+')'+' a été victime d\'une cyberattaque autour du '+date_tweet+'.\n\n'+story['summary']+'\n\n👉 '+story['url']
     post_to_mastodon(mastodon_msg)
 
-    tweet = flag.flag(countryISO[country])+' '+story['victim']+' ('+story['domain']+')'+' a été victime d\'une #cyberattaque autour du '+date_tweet+'.\n⏭️ https://t.ly/t23z2\n👉 '+story['url']+' cc @ransomwaremap @cyber_etc'
-    post_to_twitter(tweet)
-
-    post = flag.flag(countryISO[country])+' '+story['victim']+' ('+story['domain']+')'+' a été victime d\'une cyberattaque autour du '+date_tweet+'.\n👉 '
+    post = flag.flag(countryISO[country])+' '+story['victim']+' ('+story['domain']+')'+' victime d\'une cyberattaque autour du '+date_tweet+'.\n👉 '
     post_to_bluesky(post,story['url'])
+
+    tweet = flag.flag(countryISO[country])+' '+story['victim']+' ('+story['domain']+')'+' victime d\'une #cyberattaque autour du '+date_tweet+'.\n⏭️ https://t.ly/t23z2\n👉 '+story['url']+' cc @ransomwaremap @cyber_etc'
+    post_to_twitter(tweet)
 
 if __name__ == '__main__':
     main()
