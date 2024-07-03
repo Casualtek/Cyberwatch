@@ -86,6 +86,8 @@ def get_claim(group, victim_name, victim_domain):
         if claim.get("website") == victim_domain or claim.get("post_title") == victim_name:
             claimed = datetime.strptime(claim.get("published"), "%Y-%m-%d %H:%M:%S.%f")
             return(datetime.strftime(claimed, '%d %B %Y'))
+        else:
+            exit()
 
 def main():
     with open(json_file, 'r') as f:
@@ -98,6 +100,7 @@ def main():
     country    = story['country']
     
     date_claim = get_claim(story['group'], story['victim'], story['domain'])
+    print(date_claim)
 
     tweet = '📆 la #cyberattaque revendiquée le '+date_claim+' ('+story['group']+') contre '+flag.flag(country)+' '+story['victim']+' ('+story['domain']+')'+' semble survenue ~'+date_tweet+' 🧐'
     post_to_twitter(tweet)
