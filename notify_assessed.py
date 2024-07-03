@@ -55,7 +55,7 @@ def post_to_bluesky(text):
     client.login(os.environ['BS_LOGIN'],os.environ['BS_PWD'])
     
     facets = [
-        models.AppBskyRichtextFacet.Main(
+        models.models.app.bsky.richtext.facet.Main(
             features=[models.AppBskyRichtextFacet.Link(uri='https://www.ransomware.live/#/recentcyberattacks')],
             # we should pass when our link starts and ends in the text
             # the example below selects all the text
@@ -67,7 +67,7 @@ def post_to_bluesky(text):
         models.ComAtprotoRepoCreateRecord.Data(
             repo=client.me.did,  # or any another DID
             collection=models.ids.AppBskyFeedPost,
-            record=models.AppBskyFeedPost.Main(
+            record=models.AppBskyFeedPost.Record(
                 created_at=client.get_current_time_iso(), text=text+'https://www.ransomware.live/#/recentcyberattacks', langs=["fr"], facets=facets
             ),
         )
