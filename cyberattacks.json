@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-06-25",
+        "victim": "Banco de Desenvolvimento da Região Sul do Brasil (BRDE)",
+        "domain": "brde.com.br",
+        "country": "BRA",
+        "summary": "Le Banco de Desenvolvimento da Região Sul do Brasil (BRDE) a été victime d'une cyberattaque le 25 juin, ce qui a rendu ses systèmes temporairement indisponibles. Les équipes internes travaillent pour restaurer la normalité des services, et l'institution a informé les autorités compétentes et a ouvert une enquête sur l'incident. Selon le BRDE, les attaquants n'ont pas eu accès aux données du banque ni de ses clients.",
+        "title": "Site do BRDE é invadido e fica fora do ar após ataque cibernético",
+        "url": "https://ric.com.br/rn24h/economia/site-do-brde-e-invadido-e-fica-fora-do-ar-apos-ataque-cibernetico/",
+        "added": "2024-07-03"
+    },
+    {
         "date": "2024-06-27",
         "victim": "Agropur",
         "domain": "agropur.com",
