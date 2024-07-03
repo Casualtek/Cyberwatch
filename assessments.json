@@ -1,5 +1,12 @@
 [
     {
+        "victim": "wielton.com.pl",
+        "domain": "wielton.com.pl",
+        "country": "PL",
+        "date": "2024-05-16",
+        "group": "blackbasta"
+    },
+    {
         "victim": "Ethypharm",
         "domain": "ethypharm.com",
         "country": "FR",
