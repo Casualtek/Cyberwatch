@@ -83,7 +83,9 @@ def get_claim(group, victim_name, victim_domain):
     claims = response.json()
     
     for claim in claims:
-        if claim.get("website") == victim_domain or claim.get("post_title") == victim_name or claim.get("post_title") == victim_domain:
+        title = claim.get("post_title")
+        title = title.lower()
+        if claim.get("website") == victim_domain or title == victim_name or title == victim_domain:
             claimed = datetime.strptime(claim.get("published"), "%Y-%m-%d %H:%M:%S.%f")
             return(datetime.strftime(claimed, '%d %B %Y'))
         else:
