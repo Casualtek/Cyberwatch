@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-07-01",
+        "victim": "Hiap Seng Industries",
+        "domain": "hiapseng.com",
+        "country": "SGP",
+        "summary": "Hiap Seng Industries a récemment subi une attaque par ransomware, au cours de laquelle un tiers non autorisé a accédé à ses serveurs. Dès la découverte de l'incident, la société a isolé ses serveurs et lancé des mesures de récupération pour assurer la continuité des opérations. Au 2 juillet, aucune incidence majeure sur les activités de l'entreprise n'a été constatée. Hiap Seng a engagé des experts externes pour mener des enquêtes judiciaires et renforcer la cybersécurité. L'incident a été signalé aux autorités compétentes et les enquêtes sont en cours.",
+        "title": "Hiap Seng latest victim of cyber attack",
+        "url": "https://www.theedgesingapore.com/news/cybersecurity/hiap-seng-latest-victim-cyber-attack",
+        "added": "2024-07-03"
+    },
+    {
         "date": "2024-06-25",
         "victim": "Banco de Desenvolvimento da Região Sul do Brasil (BRDE)",
         "domain": "brde.com.br",
