@@ -55,7 +55,7 @@ def post_to_bluesky(text):
     client.login(os.environ['BS_LOGIN'],os.environ['BS_PWD'])
     
     facets = [
-        models.models.app.bsky.richtext.facet.Main(
+        models.app.bsky.richtext.facet.Main(
             features=[models.AppBskyRichtextFacet.Link(uri='https://www.ransomware.live/#/recentcyberattacks')],
             # we should pass when our link starts and ends in the text
             # the example below selects all the text
