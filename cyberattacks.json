@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-05-24",
+        "victim": "Louisiana Special School District",
+        "domain": "ssdofla.org",
+        "country": "USA",
+        "summary": "Le district scolaire spécial de Louisiane a été victime d'une cyberattaque par ransomware Akira le 24 mai, qui a pu compromettre les informations personnelles des employés, notamment les numéros de sécurité sociale et les informations médicales. Les autorités ont été informées et des mesures de sécurité ont été mises en place pour éviter de nouvelles attaques. Les employés, les anciens employés et les familles des étudiants qui pourraient être impactés recevront des notifications la semaine du 8 juillet.",
+        "title": "Louisiana Special School District data breach possibly compromised workers' personal information",
+        "url": "https://www.brproud.com/news/louisiana-news/louisiana-special-school-district-data-breach-possibly-compromised-workers-personal-information/",
+        "added": "2024-07-04"
+    },
+    {
         "date": "2024-07-02",
         "victim": "Apex",
         "domain": "apexnc.org",
