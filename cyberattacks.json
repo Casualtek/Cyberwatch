@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-06-17",
+        "victim": "Alabama State Department of Education",
+        "domain": "alabamaachieves.org",
+        "country": "USA",
+        "summary": "Les autorités de l'État de l'Alabama enquêtent sur une cyberattaque contre le Département de l'éducation de l'État, qui a entraîné une violation de données et la perturbation de services. Les hackers ont pu accéder à des informations personnelles de étudiants et d'employés, mais les autorités travaillent à déterminer l'étendue de la violation. Des mesures de sécurité supplémentaires ont été mises en place pour protéger les données et une page d'information a été créée pour informer le public sur l'enquête.",
+        "title": "Authorities investigating cyber attack on Alabama State Department of Education",
+        "url": "https://www.wsfa.com/2024/07/03/authorities-investigating-cyber-attack-alabama-state-department-education/",
+        "added": "2024-07-04"
+    },
+    {
         "date": "2024-07-02",
         "victim": "Hong Kong Institute of Architects",
         "domain": "hkia.net",
