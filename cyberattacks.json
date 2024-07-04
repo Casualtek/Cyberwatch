@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-02-05",
+        "victim": "Gaia Software",
+        "domain": "gaiasoftware.com",
+        "country": "USA",
+        "summary": "Trois établissements de santé américains, Gaia Software, Pinnacle Orthopaedics & Sports Medicine Specialists et OB GYN Specialists of Lima, ont été victimes de cyberattaques ou d'incidents de sécurité, exposant les informations de santé protégées de milliers de patients. Les attaques ont eu lieu entre février et avril 2024, et les enquêtes sont en cours pour déterminer l'étendue des dommages. Les établissements concernés ont pris des mesures pour renforcer leur sécurité et ont notifié les patients affectés.",
+        "title": "PHI Exposed in Cyberattacks on Gaia Software & Pinnacle Orthopaedics & Sports Medicine Specialists",
+        "url": "https://www.hipaajournal.com/data-breaches-gaia-software-pinnacle-orthopaedics-sports-medicine-specialists/",
+        "added": "2024-07-04"
+    },
+    {
         "date": "2023-09-19",
         "victim": "Baccarat",
         "domain": "baccarat.fr",
