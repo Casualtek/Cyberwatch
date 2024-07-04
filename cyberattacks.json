@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-06-26",
+        "victim": "Elite Fitness",
+        "domain": "elitefitness.co.nz",
+        "country": "NZL",
+        "summary": "La société néo-zélandaise Elite Fitness a confirmé avoir été victime d'une attaque ransomware par le groupe DragonForce, qui a entraîné la fuite de données de clients et d'employés. Les données volées, qui comprennent des informations personnelles et des documents commerciaux, ont été publiées sur le dark web. Elite Fitness a notifié les autorités compétentes et a mis son site web hors ligne en raison de l'incident.",
+        "title": "Exclusive: New Zealand’s Elite Fitness confirms DragonForce ransomware attack - Cyber Daily",
+        "url": "https://www.cyberdaily.au/security/10782-exclusive-new-zealand-s-elite-fitness-confirms-dragonforce-ransomware-attack",
+        "added": "2024-07-04"
+    },
+    {
         "date": "2024-05-24",
         "victim": "Louisiana Special School District",
         "domain": "ssdofla.org",
