@@ -1,5 +1,15 @@
 [
     {
+        "date": "2023-09-19",
+        "victim": "Baccarat",
+        "domain": "baccarat.fr",
+        "country": "FRA",
+        "summary": "La maison française de luxe Baccarat a été victime d'une cyberattaque du groupe Black Basta en septembre 2023, qui a chiffré 100% des serveurs internes et 20% des postes de travail. La direction a décidé de ne pas payer de rançon et a mis en place une cellule de crise pour gérer la situation, avec l'aide d'un prestataire, Orange Cyberdefense. La reconstruction et le durcissement du système d'information ont nécessité un budget de 400 000 à 500 000 euros et un plan d'action de 18 mois pour moderniser le SI.",
+        "title": "Baccarat témoigne de l’attaque de Black Basta en 2023 | LeMagIT",
+        "url": "https://www.lemagit.fr/etude/Baccarat-temoigne-de-lattaque-de-BlackBasta-en-2023",
+        "added": "2024-07-04"
+    },
+    {
         "date": "2024-06-26",
         "victim": "Elite Fitness",
         "domain": "elitefitness.co.nz",
