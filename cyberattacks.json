@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-07-02",
+        "victim": "Apex",
+        "domain": "apexnc.org",
+        "country": "USA",
+        "summary": "La ville d'Apex en Caroline du Nord a été victime d'une cyberattaque qui a entraîné la mise hors ligne de certains services, notamment la facturation des services publics et les permis de construire. L'incident a été détecté mardi matin et une enquête a été lancée avec l'aide de la Task Force de cybersécurité de Caroline du Nord et des agences fédérales. Les services d'urgence et de sécurité continuent de fonctionner normalement en vertu des plans d'urgence en place.",
+        "title": "'Cybersecurity incident' blamed for some services outages in Apex - ABC11 Raleigh-Durham",
+        "url": "https://abc11.com/post/cybersecurity-incident-blamed-services-outages-apex/15025558/",
+        "added": "2024-07-04"
+    },
+    {
         "date": "2024-05-27",
         "victim": "Texas Retina Associates, Human Technology Inc., Wayne Memorial Hospital",
         "domain": "texasretina.com",
