@@ -18,12 +18,12 @@ def load_articles_from_json(filename):
 def ask_chatgpt(news_count, most_hit_country, countries):
     messages = [
         {'role': 'system', 'content': 'Tu es un journaliste spécialisé en cybersécurité. Tu prépares une revue de presse portant sur les cyberattaques rapportées dans la presse au cours de la semaine écoulée. Cette revue de presse s\'appelle le Cyberhebdo.'},
-        {'role': 'user', 'content': f'Rédige le texte d\'introduction de la revue de presse pour la semaine dernière, sachant que nous avons observé {news_count} cyberattaques évoquées dans les médias des pays suivants : {countries}. Indique que le pays le plus représenté est {most_hit_country["country"]} avec {most_hit_country["count"]} cas rapportés. Pense à préciser que les cyberattaques en DDoS ne sont pas traitées, ni même les défigurations de sites Web !'}
+        {'role': 'user', 'content': f'Rédige le texte d\'introduction de la revue de presse pour la semaine dernière, sachant que nous avons observé {news_count} cyberattaques évoquées dans les médias des pays suivants : {countries}. Indique que le pays le plus représenté est {most_hit_country["country"]} avec {most_hit_country["count"]} cas rapportés.'}
     ]
 
     print(f'Obtaining introduction.')
     completion = openai.chat.completions.create(
-        model='gpt-4-1106-preview',
+        model='gpt-4o',
         messages=messages,
         max_tokens=180,
         n=1,
@@ -31,42 +31,8 @@ def ask_chatgpt(news_count, most_hit_country, countries):
     )
     summary = completion.choices[0].message.content
     print(summary)
-
-    messages.append({'role': 'assistant', 'content': summary})
-    messages.append({'role': 'user', 'content': 'Rédige un résumé de ce texte en moins de 150 caractères.'})
-
-    print(f'Obtaining summary.')
-    completion = openai.chat.completions.create(
-        model='gpt-4-1106-preview',
-        messages=messages,
-        max_tokens=30,
-        n=1,
-        temperature=0.2,
-    )
-    victim = completion.choices[0].message.content
-    print(victim)
-
-    messages.append({'role': 'assistant', 'content': victim})
-    messages.append({'role': 'user', 'content': 'Il nous faudrait un titre également.'})
-
-    print(f'Obtaining title.')
-    completion = openai.chat.completions.create(
-        model="gpt-4-1106-preview",
-        messages=messages,
-        max_tokens=90,
-        n=1,
-        temperature=0.2,
-    )
-    country = completion.choices[0].message.content
-    print(country)
-
-    output = {
-        'introduction': summary,
-        'summary' : victim,
-        'title': country
-        }
-
-    return output
+    
+    return summary
 
 def most_seen_country(items):
     counts = {}
@@ -101,9 +67,9 @@ def main(json_file):
     
     news_report = ask_chatgpt(news_count,most_hit,countries)
     
-    html = f'<p>{news_report["title"]}</p>\n'
-    html += f'<p>{news_report["summary"]}</p>\n'
-    html += f'<p>{news_report["introduction"]}</p>\n'
+    html = '<p>Chaque semaine, dans le Cyberhebdo, nous vous présentons une liste aussi exhaustive que possible des cyberattaques évoquées par la presse dans le monde entier.</p>\n'
+    html += f'<p>{news_report}</p>\n'
+    html += '<p>Nous vous rappelons que notre revue de presse se concentre sur les cyberattaques significatives et ne traite pas des attaques DDoS ni des défigurations de sites Web.</p>'
     html_list = ''
     for item in recent_items:
         date = datetime.strptime(item['date'], '%Y-%m-%d').strftime('%d/%m/%Y')
