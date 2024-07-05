@@ -75,6 +75,7 @@ ignored_sources = [
     'ESET',
     'TechTargetジャパン',
     'TEISS',
+    'Smartphone Magazine',
 ]
 
 def atranslate(text):
