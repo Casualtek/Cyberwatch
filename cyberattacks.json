@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-07-03",
+        "victim": "Florida Department of Health",
+        "domain": "floridahealth.gov",
+        "country": "USA",
+        "summary": "Le système en ligne de statistiques vitales de Floride, qui délivre les certificats de naissance et de décès, est tombé en panne suite à une cyberattaque potentielle, causant des retards pour les Floridiens qui ont besoin de ces documents. Les funérariums et les services de crémation sont particulièrement touchés, car ils ne peuvent pas procéder à des crémations sans certificat de décès. Le département de la santé de Floride a confirmé l'incident et travaille avec les forces de l'ordre pour résoudre la situation, mais il n'y a pas d'indication sur la date de remise en service du système.",
+        "title": "Potential cyber attack takes down Florida system for birth, death certificates. Why that matters",
+        "url": "https://www.clickorlando.com/news/florida/2024/07/04/florida-department-of-health-deals-with-potential-cyber-attack/",
+        "added": "2024-07-05"
+    },
+    {
         "date": "2024-02-05",
         "victim": "Gaia Software",
         "domain": "gaiasoftware.com",
