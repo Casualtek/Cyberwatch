@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-06-15",
+        "victim": "TÜV Rheinland Akademie GmbH",
+        "domain": "tuv.com",
+        "country": "DEU",
+        "summary": "TÜV Rheinland Akademie GmbH a subi un accès non autorisé à certaines parties de son réseau de formation. L'incident a été détecté et des mesures de sécurité appropriées ont été mises en place pour y remédier. Une enquête est en cours pour déterminer l'étendue de l'attaque et prévenir de futurs incidents. Le groupe RansomExx a revendiqué l'attaque le 1er juillet.",
+        "title": "Unbefugter Zugriff auf Teilbereiche des Schulungsnetzwerks der TÜV Rheinland Akademie GmbH | TÜV Rheinland",
+        "url": "https://www.tuv.com/presse/de/meldungen/akademie-cyberangriff.html",
+        "added": "2024-07-05"
+    },
+    {
         "date": "2024-07-03",
         "victim": "Florida Department of Health",
         "domain": "floridahealth.gov",
