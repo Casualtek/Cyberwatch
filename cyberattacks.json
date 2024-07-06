@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-06-21",
+        "victim": "Itebo GmbH",
+        "domain": "itebo.de",
+        "country": "DEU",
+        "summary": "Le service en ligne \"OpenRathaus\" des communes d'Artland, Bersenbrück, Neuenkirchen, Fürstenau et de la ville de Bramsche a été mis hors ligne pendant deux semaines en raison d'une cyberattaque contre l'entreprise de services IT Itebo. Aucune donnée personnelle n'a été compromise, mais des travaux de maintenance ont été nécessaires pour sécuriser le système. Le service est à nouveau disponible depuis vendredi.",
+        "title": "Hacker legt OpenRathaus bei IT-Dienstleister Itebo lahm | NOZ",
+        "url": "https://www.noz.de/lokales/bramsche/artikel/hacker-legt-openrathaus-bei-it-dienstleister-itebo-lahm-47359686",
+        "added": "2024-07-06"
+    },
+    {
         "date": "2024-07-01",
         "victim": "Monroe County government",
         "domain": "co.monroe.in.us",
