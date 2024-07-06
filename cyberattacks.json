@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-06-30",
+        "victim": "Gérard Perrier Industrie",
+        "domain": "gerard-perrier.com",
+        "country": "FRA",
+        "summary": "Le groupe été victime d'une cyberattaque fin juin. Grâce à une détection rapide, le chiffrement des serveurs a été empêché, bien que des données aient été exfiltrées. Une cellule de crise a été mise en place et des mesures de renforcement de sécurité sont déployées. L'attaque a été revendiquée le 3 juillet par le groupe Embargo, et une plainte a été déposée. Gérard Perrier Industrie continue ses activités normalement sans interruption de service.",
+        "title": "Communiqué de presse",
+        "url": "https://media.licdn.com/dms/document/media/D4D1FAQHD6otu4uv4Lg/feedshare-document-pdf-analyzed/0/1720188729842?e=1721260800&v=beta&t=F4iFU5WOEHGLs417sRZEGk8JVYrO4ZMuZgJzB-FqB1U",
+        "added": "2024-07-06"
+    },
+    {
         "date": "2024-07-04",
         "victim": "La Ville d'Ans",
         "domain": "ans.eu",
