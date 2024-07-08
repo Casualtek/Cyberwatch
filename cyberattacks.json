@@ -1,5 +1,15 @@
 [
     {
+        "date": "2023-12-11",
+        "victim": "Ville de Ham",
+        "domain": "ville-ham.fr",
+        "country": "FRA",
+        "summary": "Un incident de sécurité a été détecté, empêchant la récupération des données chiffrées. Cet incident malveillant a entraîné une perte de disponibilité et de confidentialité des données personnelles de la mairie, avec un risque de fraude ou d'usurpation d'identité. Des mesures correctives ont été prises : reformatage des disques durs, réinstallation des antivirus et renforcement de la surveillance du réseau.",
+        "title": "INFO MAIRIE - Ville de Ham",
+        "url": "https://ville-ham.fr/info-mairie/",
+        "added": "2024-07-08"
+    },
+    {
         "date": "2023-06-02",
         "victim": "SciFi-Universe (SFU)",
         "domain": "scifi-universe.com",
