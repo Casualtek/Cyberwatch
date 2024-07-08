@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-07-07",
+        "victim": "Frankfurter University of Applied Sciences (UAS)",
+        "domain": "frankfurt-university.de",
+        "country": "DEU",
+        "summary": "La Frankfurter University of Applied Sciences (UAS) a été victime d'une attaque informatique sérieuse, qui a rendu impossible l'accès à ses systèmes et services en ligne, y compris les courriels et les appels téléphoniques. Les hackers ont réussi à accéder à certaines parties de l'infrastructure IT de l'université samedi soir, mais l'ampleur de l'attaque et les objectifs des hackers restent inconnus. Les services en ligne de l'université, y compris les inscriptions en ligne, sont actuellement indisponibles, mais les cours en présence continuent comme d'habitude.",
+        "title": "Hacker-Attacke auf Frankfurter University of Applied Sciences | hessenschau.de | Panorama",
+        "url": "https://www.hessenschau.de/panorama/hacker-attacke-auf-frankfurter-university-of-applied-sciences-v1,uas-frankfurt-hacker-100.html",
+        "added": "2024-07-08"
+    },
+    {
         "date": "2023-12-11",
         "victim": "Ville de Ham",
         "domain": "ville-ham.fr",
