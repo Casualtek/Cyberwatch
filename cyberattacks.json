@@ -1,5 +1,15 @@
 [
     {
+        "date": "2023-06-11",
+        "victim": "Arthaz-Pont-Notre-Dame",
+        "domain": "arthaz-pont-notre-dame.fr",
+        "country": "FRA",
+        "summary": "La commune d'Arthaz-Pont-Notre-Dame a été victime d'une cyberattaque par rançongiciel le week-end du 10 et 11 juin 2023, qui a chiffré ses données et a demandé une rançon de 30 000 dollars en bitcoin pour les récupérer. Les agents de la mairie ont perdu trois mois de travail à la suite de cette attaque. La commune a refusé de payer la rançon et a pris des mesures pour récupérer ses données. L'attaque n'a pas été revendiquée.",
+        "title": "Arthaz-Pont-Notre-Dame victime d'une cyberattaque",
+        "url": "https://www.mairesdefrance.com/m/article/?id=2829",
+        "added": "2024-07-09"
+    },
+    {
         "date": "2024-01-18",
         "victim": "La Croix-Rouge italienne",
         "domain": "cri.it",
