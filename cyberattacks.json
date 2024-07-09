@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-01-18",
+        "victim": "La Croix-Rouge italienne",
+        "domain": "cri.it",
+        "country": "ITA",
+        "summary": "Le 18 janvier 2024, le système de données de la Croix-Rouge italienne a été victime d'une cyberattaque, entraînant le vol de données personnelles de plus de 16 500 personnes, notamment des personnes disparues et leurs familles. Les données volées incluent des informations sur les personnes qui ont demandé l'aide de la Croix-Rouge pour retrouver leurs familles. La Croix-Rouge italienne a sécurisé les données et travaille avec la police pour identifier les responsables de l'attaque.",
+        "title": "Cyberattack mot Italienska Röda Korset | Röda korset",
+        "url": "https://via.tt.se/pressmeddelande/3558746/cyberattack-mot-italienska-roda-korset",
+        "added": "2024-07-09"
+    },
+    {
         "date": "2024-07-07",
         "victim": "Frankfurter University of Applied Sciences (UAS)",
         "domain": "frankfurt-university.de",
