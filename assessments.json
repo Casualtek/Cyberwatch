@@ -1,5 +1,12 @@
 [
     {
+        "victim": "Prinsotel",
+        "domain": "prinsotel.com",
+        "country": "ES",
+        "date": "2024-05-02",
+        "group": "qilin"
+    },
+    {
         "victim": "PFAM",
         "domain": "precisionflange.com",
         "country": "US",
