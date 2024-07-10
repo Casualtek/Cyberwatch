@@ -1,5 +1,12 @@
 [
     {
+        "victim": "Pomalca",
+        "domain": "pomalca.com.pe",
+        "country": "PE",
+        "date": "2024-06-17",
+        "group": "qilin"
+    },
+    {
         "victim": "Consulting Radiologists",
         "domain": "consultingradiologists.com",
         "country": "US",
