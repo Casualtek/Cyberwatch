@@ -1,5 +1,25 @@
 [
     {
+        "date": "2024-05-06",
+        "victim": "Call 4 Health",
+        "domain": "call4health.com",
+        "country": "USA",
+        "summary": "Trois établissements de santé, SouthCoast Health, Call 4 Health et Clear Spring Health, ont notifié leurs patients d'une cyberattaque et d'une violation de données. Les attaques ont eu lieu respectivement en juin 2023, mars 2024 et février 2024, et ont exposé des informations sensibles telles que des données de santé, des informations d'identification et des coordonnées. Les établissements ont pris des mesures pour sécuriser leurs réseaux et offrent des services de surveillance du crédit et de protection de l'identité aux personnes affectées.",
+        "title": "SouthCoast Health; Call 4 Health Notify Patients About Cyberattacks",
+        "url": "https://www.hipaajournal.com/southcoast-health-call-4-health-notify-patients-about-cyberattacks/",
+        "added": "2024-07-10"
+    },
+    {
+        "date": "2023-06-15",
+        "victim": "SouthCoast Health",
+        "domain": "southcoast.org",
+        "country": "USA",
+        "summary": "Trois établissements de santé, SouthCoast Health, Call 4 Health et Clear Spring Health, ont notifié leurs patients d'une cyberattaque et d'une violation de données. Les attaques ont eu lieu respectivement en juin 2023, mars 2024 et février 2024, et ont exposé des informations sensibles telles que des données de santé, des informations d'identification et des coordonnées. Les établissements ont pris des mesures pour sécuriser leurs réseaux et offrent des services de surveillance du crédit et de protection de l'identité aux personnes affectées.",
+        "title": "SouthCoast Health; Call 4 Health Notify Patients About Cyberattacks",
+        "url": "https://www.hipaajournal.com/southcoast-health-call-4-health-notify-patients-about-cyberattacks/",
+        "added": "2024-07-10"
+    },
+    {
         "date": "2024-07-09",
         "victim": "Clay County Courthouse",
         "domain": "claycountyin.gov",
