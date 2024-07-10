@@ -1,5 +1,12 @@
 [
     {
+        "victim": "Golden Acre",
+        "domain": "goldenacre.ca",
+        "country": "CA",
+        "date": "2024-05-10",
+        "group": "qilin"
+    },
+    {
         "victim": "A&A Industrial Piping, Inc.",
         "domain": "a-agroup.com",
         "country": "US",
