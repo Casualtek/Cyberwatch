@@ -1,6 +1,16 @@
 [
     {
         "date": "2024-07-10",
+        "victim": "Sibanye Stillwater",
+        "domain": "sibanyestillwater.com",
+        "country": "ZAF",
+        "summary": "La société minière Sibanye Stillwater a été victime d'une cyberattaque par ransomware qui a perturbé certaines opérations à ses sites miniers du Montana. Les systèmes informatiques ont été mis hors ligne, mais certains ont commencé à être rétablis. L'usine de Columbus, qui emploie plusieurs centaines de personnes, a été particulièrement touchée, mais les travailleurs sont restés sur le site.",
+        "title": "Sibanye Stillwater hit by ransomware attack",
+        "url": "https://www.ktvq.com/news/local-news/sibanye-stillwater-hit-by-ransomware-attack",
+        "added": "2024-07-11"
+    },
+    {
+        "date": "2024-07-10",
         "victim": "Jaboatão dos Guararapes",
         "domain": "jaboatao.pe.gov.br",
         "country": "BRA",
