@@ -1,6 +1,16 @@
 [
     {
         "date": "2024-07-10",
+        "victim": "District scolaire de Goshen",
+        "domain": "gcsny.org",
+        "country": "USA",
+        "summary": "Le district scolaire de Goshen, dans l'État de New York, a été victime d'une cyberattaque, entraînant la fermeture de ses systèmes informatiques. Les autorités ont lancé une enquête pour déterminer l'origine et l'étendue de l'attaque. Les cours ont été maintenus, mais les activités administratives et les communications ont été perturbées.",
+        "title": "Goshen school district under cyber attack - Mid Hudson News",
+        "url": "https://midhudsonnews.com/2024/07/11/breaking-goshen-school-district-under-cyber-attack/",
+        "added": "2024-07-11"
+    },
+    {
+        "date": "2024-07-10",
         "victim": "Sibanye Stillwater",
         "domain": "sibanyestillwater.com",
         "country": "ZAF",
