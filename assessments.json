@@ -1,5 +1,12 @@
 [
     {
+        "victim": "FIAB SpA",
+        "domain": "fiab.it",
+        "country": "IT",
+        "date": "2024-05-02",
+        "group": "qilin"
+    },
+    {
         "victim": "Prinsotel",
         "domain": "prinsotel.com",
         "country": "ES",
