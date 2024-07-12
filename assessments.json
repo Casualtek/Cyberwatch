@@ -1,5 +1,12 @@
 [
     {
+        "victim": "Guhring USA",
+        "domain": "guehring.com",
+        "country": "US",
+        "date": "2024-06-24",
+        "group": "incransom"
+    },
+    {
         "victim": "Inforius",
         "domain": "inforius.be",
         "country": "BE",
