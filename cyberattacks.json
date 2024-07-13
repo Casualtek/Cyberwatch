@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-07-13",
+        "victim": "AKG",
+        "domain": "akg-gruppe.de",
+        "country": "DEU",
+        "summary": "L'entreprise AKG, spécialisée dans les systèmes de refroidissement, a subi une cyberattaque qui a perturbé sa production et sa communication à travers plusieurs sites mondiaux. Bien que les systèmes IT aient été temporairement arrêtés pour contenir la propagation du logiciel malveillant, la production a maintenant repris et les données critiques n'ont pas été affectées. L'enquête est en cours, avec l'implication des autorités et d'experts en cybersécurité pour identifier les responsables de l'attaque.",
+        "title": "Nach Cyber-Angriff: Produktion bei AKG läuft wieder",
+        "url": "https://www.hna.de/lokales/hofgeismar/hofgeismar-ort73038/nach-cyber-angriff-produktion-bei-akg-laeuft-wieder-93184688.html",
+        "added": "2024-07-13"
+    },
+    {
         "date": "2023-06-30",
         "victim": "Accident Fund",
         "domain": "accidentfund.com",
