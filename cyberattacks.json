@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-04-05",
+        "victim": "Bibliothèques du comté de Solano",
+        "domain": "solanolibrary.com",
+        "country": "USA",
+        "summary": "Une cyberattaque a paralysé le système informatique des bibliothèques du comté de Solano. Les hackers responsables, Medusa, menacent de divulguer les données volées si le comté ne paie pas 100 000 dollars d'ici le 19 avril.",
+        "title": "Cyberattack cripples Solano County library computer system",
+        "url": "https://www.vallejosun.com/cyberattack-cripples-solano-county-library-computer-system/",
+        "added": "2024-07-13"
+    },
+    {
         "date": "2024-07-13",
         "victim": "AKG",
         "domain": "akg-gruppe.de",
