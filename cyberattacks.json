@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-05-01",
+        "victim": "Loretto Management Corporation",
+        "domain": "lorettocny.org",
+        "country": "USA",
+        "summary": "Loretto Management Corporation, une entreprise de soins pour personnes âgées basée à Syracuse, New York, a signalé une violation de données à la suite d'une cyberattaque en mai 2024, qui a permis à un tiers non autorisé d'accéder à des informations confidentielles de consommateurs. L'enquête a révélé que les données ont été compromises entre le 1er et le 2 mai 2024, et les lettres de notification de violation de données ont été envoyées aux personnes affectées le 9 juillet 2024. Les détails sur les types de données compromises ne sont pas encore publics, mais les lettres de notification personnalisées devraient fournir ces informations aux victimes.",
+        "title": "Loretto Management Corporation Reports Data Breach Following May 2024 Cyberattack | Console and Associates, P.C. - JDSupra",
+        "url": "https://www.jdsupra.com/legalnews/loretto-management-corporation-reports-1912726",
+        "added": "2024-07-15"
+    },
+    {
         "date": "2024-04-05",
         "victim": "Bibliothèques du comté de Solano",
         "domain": "solanolibrary.com",
