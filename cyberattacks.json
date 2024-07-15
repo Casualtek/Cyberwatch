@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-07-03",
+        "victim": "Southwest Tennessee Community College (SWTCC)",
+        "domain": "southwest.tn.edu",
+        "country": "USA",
+        "summary": "Le Southwest Tennessee Community College (SWTCC) a repris ses cours en personne après une cyberattaque qui a paralysé son réseau début juillet. L'attaque a été détectée le 3 juillet et a été initialement considérée comme un problème de serveur avant que l'enquête ne révèle la véritable nature de l'incident. Les cours ont repris le 15 juillet, mais le collège a averti que des problèmes résiduels pourraient encore survenir.",
+        "title": "SWTCC resumes in-person classes after cyberattack | News | fox13memphis.com",
+        "url": "https://www.fox13memphis.com/news/southwest-tennessee-community-college-resumes-in-person-classes-after-cyberattack/article_c7f90d56-42b1-11ef-9aeb-4bdfef8371f2.html",
+        "added": "2024-07-15"
+    },
+    {
         "date": "2024-06-15",
         "victim": "Rite Aid",
         "domain": "riteaid.com",
