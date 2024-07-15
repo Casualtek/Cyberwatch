@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-06-15",
+        "victim": "Rite Aid",
+        "domain": "riteaid.com",
+        "country": "USA",
+        "summary": "La chaîne de pharmacies américaine Rite Aid a confirmé une violation de données après une attaque par ransomware en juin, attribuée au groupe RansomHub. L'entreprise a restauré ses systèmes compromis avec l'aide d'experts externes et envoie des notifications de violation de données aux clients affectés. Les informations personnelles des clients, telles que les noms, adresses et numéros de récompense, ont été compromises, mais pas les informations de santé ou financières.",
+        "title": "Rite Aid confirms data breach after June ransomware attack",
+        "url": "https://www.bleepingcomputer.com/news/security/rite-aid-confirms-data-breach-after-june-ransomware-attack/",
+        "added": "2024-07-15"
+    },
+    {
         "date": "2024-05-01",
         "victim": "Loretto Management Corporation",
         "domain": "lorettocny.org",
