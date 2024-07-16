@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-07-15",
+        "victim": "Department of Migrant Workers (DMW)",
+        "domain": "dmw.gov.ph",
+        "country": "PHL",
+        "summary": "Le Département des travailleurs migrants (DMW) des Philippines a été victime d'une cyberattaque par ransomware, ce qui a entraîné la mise hors ligne de ses systèmes en ligne pour protéger les informations des travailleurs migrants. Les services en ligne, tels que la délivrance de certificats d'emploi à l'étranger, sont temporairement suspendus, mais les travailleurs migrants peuvent encore obtenir ces documents par voie manuelle. Le DMW travaille avec d'autres agences gouvernementales pour restaurer ses systèmes en ligne et renforcer la sécurité des informations.",
+        "title": "DMW suffers cyber attack; online OFW services put on hold | Philstar.com",
+        "url": "https://www.philstar.com/headlines/2024/07/16/2370584/dmw-suffers-cyber-attack-online-ofw-services-put-hold",
+        "added": "2024-07-16"
+    },
+    {
         "date": "2024-07-14",
         "victim": "Metalfrio",
         "domain": "metalfrio.com.br",
