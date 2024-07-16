@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-07-12",
+        "victim": "ValeCard",
+        "domain": "valecard.com.br",
+        "country": "BRA",
+        "summary": "La ValeCard, une entreprise de services de récompense, a confirmé avoir été victime d'une cyberattaque le 12 juillet, qui a compromis au moins 107 Go de données. Les pirates, qui se revendiquent comme étant le groupe de ransomware Medusa, exigent 500 000 dollars en échange de la restitution des données. Les services de la ValeCard continuent de fonctionner sans difficultés, mais l'entreprise a lancé une enquête avec l'aide d'experts pour déterminer l'ampleur de l'incident.",
+        "title": "Ataque cibernético atinge sistemas da ValeCard - Security Leaders",
+        "url": "https://securityleaders.com.br/ataque-cibernetico-atinge-sistemas-da-valecard/",
+        "added": "2024-07-16"
+    },
+    {
         "date": "2024-07-15",
         "victim": "Department of Migrant Workers (DMW)",
         "domain": "dmw.gov.ph",
