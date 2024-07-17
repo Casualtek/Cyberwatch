@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-06-04",
+        "victim": "Takano Sogo Accounting Firm",
+        "domain": "takanosogo.com",
+        "country": "JPN",
+        "summary": "Le groupe Tokio Marine Holdings a annoncé une fuite d'informations personnelles concernant environ 63 000 individus après qu'une firme de comptabilité, Takano Sogo Accounting Firm, à laquelle il avait sous-traité certaines opérations ait été victime d'une attaque par ransomware. Les informations compromises incluent les noms, adresses et détails d'enquêtes de dommages pour les titulaires de polices, ainsi que des informations sur les employés et anciens employés. L'enquête est en cours pour déterminer l'étendue complète de la situation.",
+        "title": "Tokyo Marine Group 63,000 information leaks - Yo Japan Tech",
+        "url": "https://yo-japan-tech.com/2024/07/10/tokyo-marine-group-63000-information-leaks/",
+        "added": "2024-07-17"
+    },
+    {
         "date": "2024-07-11",
         "victim": "Allegheny County District Attorney’s Office",
         "domain": "alleghenycountyda.us",
