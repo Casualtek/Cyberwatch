@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-07-14",
+        "victim": "MERB",
+        "domain": "merb.de",
+        "country": "DEU",
+        "summary": "Un cyberattaque a eu lieu ce week-end chez l'entreprise de gestion des déchets MERB à Achern. Grâce à un plan d'urgence, la situation a rapidement été maîtrisée, bien que l'étendue des pertes de données reste incertaine. La collecte des déchets n'a pas été affectée et l'entreprise est actuellement joignable principalement par téléphone.",
+        "title": "Achern / Oberkirch Cyberangriff bei der Firma MERB in Achern Nachrichten der Ortenau - Offenburger Tageblatt",
+        "url": "https://www.bo.de/lokales/achern-oberkirch/cyberangriff-bei-der-firma-merb-in-achern#",
+        "added": "2024-07-17"
+    },
+    {
         "date": "2024-06-04",
         "victim": "Takano Sogo Accounting Firm",
         "domain": "takanosogo.com",
