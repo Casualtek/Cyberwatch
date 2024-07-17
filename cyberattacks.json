@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-07-11",
+        "victim": "Allegheny County District Attorney’s Office",
+        "domain": "alleghenycountyda.us",
+        "country": "USA",
+        "summary": "Le bureau du procureur du comté d'Allegheny a été ciblé par une cyberattaque la semaine dernière, ce qui a entraîné la fermeture de ses serveurs et la limitation de l'accès aux ordinateurs et aux téléphones. Les enquêteurs travaillent à restaurer les services tandis que les administrateurs ont mis en place des solutions temporaires pour éviter la propagation de l'attaque. L'enquête est en cours pour déterminer le type d'intrusion et si des informations confidentielles ont été compromises.",
+        "title": "Cyberattack targets Allegheny County DA's office | TribLIVE.com",
+        "url": "https://triblive.com/local/cyber-attack-targets-allegheny-county-das-office/",
+        "added": "2024-07-17"
+    },
+    {
         "date": "2024-07-10",
         "victim": "Bassett Furniture Industries Inc.",
         "domain": "bassettfurniture.com",
