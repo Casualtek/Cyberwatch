@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-07-10",
+        "victim": "Active Learning Trust",
+        "domain": "activelearningtrust.org",
+        "country": "GBR",
+        "summary": "Le trust Active Learning Trust, qui gère 19 écoles dans le Cambridgeshire et le Suffolk, a été victime d'une attaque ransomware le 10 juillet dernier. L'attaque a affecté certains fichiers du réseau, mais selon l'enquête, il n'y a pas eu de fuite de données sensibles concernant les élèves, les parents ou le personnel. Les écoles ont pu rester ouvertes et le trust continue de travailler avec des spécialistes pour sécuriser ses systèmes.",
+        "title": "Cyber attack targets trust that runs schools across Cambridgeshire - Cambridgeshire Live",
+        "url": "https://www.cambridge-news.co.uk/news/local-news/cyber-attack-targets-trust-runs-29564634",
+        "added": "2024-07-18"
+    },
+    {
         "date": "2024-04-27",
         "victim": "Pueblo County School District 70 (D70)",
         "domain": "district70.org",
