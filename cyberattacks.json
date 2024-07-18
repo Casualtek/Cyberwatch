@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-04-27",
+        "victim": "Pueblo County School District 70 (D70)",
+        "domain": "district70.org",
+        "country": "USA",
+        "summary": "Le district scolaire de Pueblo County (Colorado) a été victime d'une cyberattaque par ransomware, qui a pu compromettre les informations personnelles de certains élèves et employés entre 1991 et 2006. Les enquêtes menées par le FBI et la CIA sont en cours pour déterminer l'origine de l'attaque. Le district a mis en place de nouvelles mesures de sécurité et recommande aux personnes potentiellement affectées de prendre des précautions pour protéger leurs informations.",
+        "title": "FBI and CIA investigate Pueblo County School District data breach | FOX21 News Colorado",
+        "url": "https://www.fox21news.com/news/fbi-and-cia-investigate-pueblo-county-school-district-data-breach/",
+        "added": "2024-07-18"
+    },
+    {
         "date": "2024-07-17",
         "victim": "Ingemmet",
         "domain": "ingemmet.gob.pe",
