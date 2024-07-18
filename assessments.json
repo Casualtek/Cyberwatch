@@ -1,5 +1,12 @@
 [
     {
+        "victim": "Norton High School",
+        "domain": "norton.k12.ma.us",
+        "country": "US",
+        "date": "2024-06-12",
+        "group": "lockbit3"
+    },
+    {
         "victim": "RRCA Accounts Management",
         "domain": "rrcaaccounts.com",
         "country": "US",
