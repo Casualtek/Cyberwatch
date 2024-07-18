@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-07-16",
+        "victim": "Le Département de Loire-Atlantique",
+        "domain": "loire-atlantique.fr",
+        "country": "FRA",
+        "summary": "Le Département de Loire-Atlantique a été victime d'une cyberattaque le 16 juillet 2024, mais aucune information sur l'impact de cette attaque n'a été communiquée. Les services au public, tels que le versement du Revenu de solidarité active (RSA), n'ont pas été affectés. Les 5 000 agents du Département ont reçu un appel à la vigilance et ont été invités à réinitialiser leurs mots de passe.",
+        "title": "Le Département de Loire-Atlantique victime d’une cyberattaque, mais aucun service au public impacté",
+        "url": "https://www.ouest-france.fr/societe/cyberattaque/le-departement-de-loire-atlantique-victime-dune-cyberattaque-mais-aucun-service-au-public-impacte-d9d59b14-451f-11ef-90f2-b61ef193591b",
+        "added": "2024-07-18"
+    },
+    {
         "date": "2024-07-10",
         "victim": "Active Learning Trust",
         "domain": "activelearningtrust.org",
