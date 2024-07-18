@@ -1,5 +1,12 @@
 [
     {
+        "victim": "Alameda Healthcare",
+        "domain": "assih.com",
+        "country": "EG",
+        "date": "2024-06-04",
+        "group": "lockbit3"
+    },
+    {
         "victim": "Norton High School",
         "domain": "norton.k12.ma.us",
         "country": "US",
