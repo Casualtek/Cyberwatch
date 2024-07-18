@@ -1,5 +1,12 @@
 [
     {
+        "victim": "iteam",
+        "domain": "iteam.gr",
+        "country": "GR",
+        "date": "2024-07-10",
+        "group": "lockbit3"
+    },
+    {
         "victim": "Modplan",
         "domain": "modplan.co.uk",
         "country": "GB",
