@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-07-16",
+        "victim": "Les Transports Publics du Chablais (TPC)",
+        "domain": "tpc.ch",
+        "country": "CHE",
+        "summary": "Les Transports Publics du Chablais (TPC) ont été victimes d'une cyberattaque débutée mardi matin, qui a rendu indisponibles l'application TPC et certains automates à billets. Les systèmes impactés ont été rétablis en fin de journée, mais les TPC ne peuvent pas exclure un vol de données clients, même si celles-ci ne sont pas sensibles. Une plainte pénale a été déposée contre inconnus auprès des autorités.",
+        "title": "Radio Chablais - Les TPC ont été ciblés par une cyberattaque",
+        "url": "https://radiochablais.ch/infos/98598-les-tpc-ont-ete-cibles-par-une-cyberattaque",
+        "added": "2024-07-19"
+    },
+    {
         "date": "2024-07-18",
         "victim": "Cadastre hellénique",
         "domain": "ktimatologio.gr",
