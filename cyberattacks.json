@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-07-19",
+        "victim": "Le Tribunal supérieur du comté de Los Angeles",
+        "domain": "lacourt.org",
+        "country": "USA",
+        "summary": "Le Tribunal supérieur du comté de Los Angeles a été victime d'une cyberattaque par rançon vendredi matin, ce qui a entraîné la mise hors ligne de ses systèmes pour éviter tout dommage. Les enquêteurs, notamment le Bureau des services d'urgence du gouverneur de Californie, travaillent à minimiser les dégâts et à identifier les responsables. Selon les premières investigations, il n'y a pas de preuve que les données des utilisateurs du tribunal aient été compromises.",
+        "title": "LA County Superior Court experiences ransomware cyber attack - NBC Los Angeles",
+        "url": "https://www.nbclosangeles.com/local-2/la-county-superior-court-hit-by-ransomware-attack/3464626/",
+        "added": "2024-07-21"
+    },
+    {
         "date": "2024-07-18",
         "victim": "Casino du Grand Cercle",
         "domain": "casinograndcercle.com",
