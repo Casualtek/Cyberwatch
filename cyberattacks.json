@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-05-13",
+        "victim": "North Carolina State Bureau of Investigation (NC SBI)",
+        "domain": "ncsbi.gov",
+        "country": "USA",
+        "summary": "Le Bureau d'enquête de l'État de Caroline du Nord (NC SBI) enquête sur une cyberattaque qui a eu lieu en mai dernier, lorsqu'un système géré par un fournisseur a été compromis. Selon les déclarations de l'agence, aucune information personnelle n'a été consultée et les mesures ont été prises pour réparer le système et sécuriser les données. L'incident soulève des inquiétudes quant à la sécurité des systèmes des agences de loi, qui sont souvent ciblées en raison de leurs ressources limitées pour sécuriser leurs réseaux.",
+        "title": "Cyberattack on NC SBI network under investigation",
+        "url": "https://www.wral.com/story/cyberattack-on-nc-sbi-network-under-investigation/21532808/",
+        "added": "2024-07-22"
+    },
+    {
         "date": "2024-07-19",
         "victim": "Le Tribunal supérieur du comté de Los Angeles",
         "domain": "lacourt.org",
