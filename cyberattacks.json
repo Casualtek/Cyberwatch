@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-07-18",
+        "victim": "Globes",
+        "domain": "globes.co.il",
+        "country": "ISR",
+        "summary": "Le journal israélien Globes a été victime d'une cyberattaque sophistiquée menée par un groupe criminel international, qui a entraîné des restrictions d'accès à ses ordinateurs et à certains services. Malgré cela, le journal a réussi à continuer à fournir ses contenus à ses lecteurs sur son site web et dans son édition papier. L'enquête est en cours pour évaluer les conséquences de l'attaque et prendre des mesures pour éviter de nouvelles attaques.",
+        "title": "Update about cyberattack on Globes - Globes",
+        "url": "https://en.globes.co.il/en/article-update-about-cyberattack-on-globes-1001484983",
+        "added": "2024-07-23"
+    },
+    {
         "date": "2024-07-22",
         "victim": "Aéroport de Split",
         "domain": "split-airport.hr",
