@@ -114,6 +114,7 @@ def decode_google_news_url(url):
     encoded_text = match.groupdict()['encoded_url']  # type: ignore
     encoded_text += '==='  # Fix incorrect padding. Ref: https://stackoverflow.com/a/49459036/
     decoded_text = base64.urlsafe_b64decode(encoded_text)
+    print(decoded_text)
 
     match = _DECODED_URL_RE.match(decoded_text)
     primary_url = match.groupdict()['primary_url']  # type: ignore
