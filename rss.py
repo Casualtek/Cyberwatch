@@ -225,7 +225,7 @@ def main():
             continue
         mark_item_seen(item_hash)
 
-        link  = decode_google_news_url(entry.link)
+#        link  = decode_google_news_url(entry.link)
         date  = entry.published
 
         assessment = ask_chatgpt(realTitle)
@@ -233,7 +233,8 @@ def main():
 
         if assessment == 'likely':
             title = atranslate(realTitle)
-            link  = decode_google_news_url(entry.link)
+#            link  = decode_google_news_url(entry.link)
+            link = entry.link
             date  = entry.published
 
             fe = fg.add_entry()
@@ -243,7 +244,8 @@ def main():
             fe.pubDate(date)
         else:
             title = atranslate(realTitle)
-            link  = decode_google_news_url(entry.link)
+#            link  = decode_google_news_url(entry.link)
+            link = entry.link
             date  = entry.published
 
             fe = fgnot.add_entry()
@@ -272,7 +274,8 @@ def main():
 
         if assessment == 'likely':
             title = atranslate(realTitle)
-            link  = decode_google_news_url(entry.link)
+#            link  = decode_google_news_url(entry.link)
+            link = entry.link
             date  = entry.published
 
             fe = fg.add_entry()
@@ -282,7 +285,8 @@ def main():
             fe.pubDate(date)
         else:
             title = atranslate(realTitle)
-            link  = decode_google_news_url(entry.link)
+#            link  = decode_google_news_url(entry.link)
+            link = entry.link
             date  = entry.published
 
             fe = fgnot.add_entry()
