@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-07-18",
+        "victim": "Ville de Columbus",
+        "domain": "columbus.gov",
+        "country": "USA",
+        "summary": "La ville de Columbus est confrontée à une importante cyberattaque qui a impacté tous les services de la ville, y compris les systèmes d'urgence 911 et 311. Le maire Andrew Ginther refuse de confirmer si l'attaque est liée à un ransomware, mais admet que la ville a découvert une anomalie dans son système le 18 juillet. Les enquêtes sont en cours, mais les détails restent confidentiels pour le moment.",
+        "title": "Columbus mayor won't say if city was hit by ransomware attack as tech issues linger | 10tv.com",
+        "url": "https://www.10tv.com/article/news/local/columbus-mayor-wont-say-if-city-hit-by-ransomware-attack-as-tech-issues-linger/530-449437e4-b747-435e-b62e-d7b359e5c728",
+        "added": "2024-07-24"
+    },
+    {
         "date": "2024-07-23",
         "victim": "Ville de Cold Lake",
         "domain": "coldlake.com",
