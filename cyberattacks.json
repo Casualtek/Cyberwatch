@@ -1,5 +1,15 @@
 [
     {
+        "date": "2022-05-21",
+        "victim": "Diligent Corporation",
+        "domain": "diligentusa.com",
+        "country": "USA",
+        "summary": "La société Diligent Corporation, fournisseur de logiciels en tant que service, a subi une violation de données confidentielles après que des hackers ont accédé à un système interne de son acquisition Steele Compliance en mai 2022. Les informations volées incluent des noms, adresses, adresses e-mail et numéros de sécurité sociale, mettant les employés à risque d'identité volée. La société a admis la violation et offre des services de surveillance de crédit et d'identité gratuits aux victimes.",
+        "title": "Data Breach at Diligent Corporation",
+        "url": "https://www.idstrong.com/sentinel/diligent-corporation-files-data-breach-notice/",
+        "added": "2024-07-24"
+    },
+    {
         "date": "2024-07-18",
         "victim": "Ville de Columbus",
         "domain": "columbus.gov",
