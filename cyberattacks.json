@@ -1,6 +1,16 @@
 [
     {
         "date": "2024-07-23",
+        "victim": "Ville de Cold Lake",
+        "domain": "coldlake.com",
+        "country": "CAN",
+        "summary": "La ville de Cold Lake au Canada fait face à une incident de sécurité informatique suite à une cyberattaque survenue dans la nuit, qui a perturbé les systèmes de paiement, les téléphones et les courriels dans tous les établissements de la ville. Les services sont maintenus avec des limitations, et les données sensibles ne semblent pas avoir été compromises. Les autorités travaillent à restaurer les systèmes et à évaluer l'impact de l'attaque.",
+        "title": "City of Cold Lake dealing with potential security incident following overnight cyberattack - Lakeland News",
+        "url": "https://www.lakelandtoday.ca/cold-lake-news/city-of-cold-lake-dealing-with-potential-security-incident-following-overnight-cyberattack-9257851",
+        "added": "2024-07-24"
+    },
+    {
+        "date": "2024-07-23",
         "victim": "Red Art Games",
         "domain": "redartgames.com",
         "country": "FRA",
