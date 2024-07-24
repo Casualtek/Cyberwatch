@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-07-18",
+        "victim": "Wattle Range Council",
+        "domain": "wattlerange.sa.gov.au",
+        "country": "AUS",
+        "summary": "Le conseil municipal de Wattle Range a été victime d'une cyberattaque, où un tiers non autorisé a accédé à certains de ses répertoires de fichiers, emportant des données qui sont actuellement en cours d'analyse. Les enquêteurs estiment que les informations volées proviennent principalement d'un serveur hérité contenant des informations publiques et des documents de travail internes. Le conseil municipal met en garde sa communauté contre les éventuels courriels, appels téléphoniques ou messages texte suspects et rappelle les bonnes pratiques de sécurité en ligne.",
+        "title": "Wattle Range Council Cyber Incident | Wattle Range Council",
+        "url": "https://www.wattlerange.sa.gov.au/our-council/news-and-media/latest-news/wattle-range-council-cyber-incident",
+        "added": "2024-07-24"
+    },
+    {
         "date": "2022-05-21",
         "victim": "Diligent Corporation",
         "domain": "diligentusa.com",
