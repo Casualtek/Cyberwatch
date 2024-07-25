@@ -1,5 +1,12 @@
 [
     {
+        "victim": "CDS",
+        "domain": "hpecds.com",
+        "country": "US",
+        "date": "2024-06-14",
+        "group": "blackbasta"
+    },
+    {
         "victim": "Concord Direct",
         "domain": "concorddirect.com",
         "country": "US",
