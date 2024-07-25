@@ -1,5 +1,15 @@
 [
     {
+        "date": "2023-02-02",
+        "victim": "Häfele",
+        "domain": "hafele.com",
+        "country": "DEU",
+        "summary": "La société allemande Häfele a réussi à surmonter une attaque de ransomware en février 2023, qui avait infecté et chiffré la plupart de ses systèmes et appareils. Grâce à l'aide de Dell Technologies, Häfele a pu restaurer ses systèmes et rétablir son activité normale en quelques semaines. La société a également mis en place de nouvelles mesures de sécurité, notamment un système de sécurité Zero-Trust et un centre d'opérations de sécurité (SOC) pour prévenir de futures attaques.",
+        "title": "Häfele übersteht Ransomware-Angriff",
+        "url": "https://www.storage-insider.de/haefele-uebersteht-ransomware-angriff-a-a29ddde478229de53f7fbf706207c452/",
+        "added": "2024-07-25"
+    },
+    {
         "date": "2024-07-23",
         "victim": "Gouvernement brésilien",
         "domain": "gov.br",
