@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-07-22",
+        "victim": "Jefferson County Clerk's Office",
+        "domain": "jeffersoncountyclerk.org",
+        "country": "USA",
+        "summary": "Les bureaux du greffier du comté de Jefferson resteront fermés jeudi en raison d'une cyberattaque qui a été découverte lundi à 2h30. C'est la troisième journée consécutive que les bureaux sont fermés, affectant les services en personne tels que la rénovation des plaques d'immatriculation, l'enregistrement des achats de biens immobiliers et la délivrance de licences de mariage. Les autorités travaillent avec une firme de cybersécurité privée et les forces de l'ordre pour enquêter sur l'attaque et réparer le système.",
+        "title": "Jefferson County Clerk offices to remain closed on Thursday",
+        "url": "https://www.wlky.com/article/jefferson-county-clerks-offices-closed-thursday-cyberattack/61691340",
+        "added": "2024-07-25"
+    },
+    {
         "date": "2023-02-02",
         "victim": "Häfele",
         "domain": "hafele.com",
