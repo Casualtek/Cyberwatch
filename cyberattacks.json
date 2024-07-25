@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-07-23",
+        "victim": "Gouvernement brésilien",
+        "domain": "gov.br",
+        "country": "BRA",
+        "summary": "Le système électronique d'informations du gouvernement brésilien, qui gère les processus administratifs de neuf ministères, est hors ligne depuis mardi 23 juillet en raison d'une suspicion d'attaque hacker. Les équipes de sécurité travaillent pour rétablir l'accès aux données et garantir leur intégrité, mais il n'y a pas de date prévue pour la réparation. Les services offerts aux citoyens via le portail gov.br ne sont pas affectés par l'incident.",
+        "title": "Sistema Eletrônico de Informações do governo sai do ar; suspeita é de ataque hacker - Aliados Brasil",
+        "url": "https://www.aliadosbrasiloficial.com.br/noticia/sistema-eletronico-de-informacoes-do-governo-sai-do-ar-suspeita-e-de-ataque-hacker",
+        "added": "2024-07-25"
+    },
+    {
         "date": "2024-07-22",
         "victim": "Forest Park",
         "domain": "forestparkga.gov",
