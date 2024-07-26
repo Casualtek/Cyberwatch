@@ -1,5 +1,15 @@
 [
     {
+        "date": "2023-07-06",
+        "victim": "Alps Alpine",
+        "domain": "alpsalpine.com",
+        "country": "JPN",
+        "summary": "Le 6 juillet 2023, Alps Alpine a détecté un accès non autorisé à certains serveurs gérés par le groupe. Pour minimiser les dommages, le groupe a immédiatement isolé les serveurs attaqués du réseau. Cependant, une enquête a révélé que les informations personnelles, telles que les noms et adresses e-mail d'environ 16 000 employés de Alps Alpine et des entreprises du groupe, ont été divulguées, mais aucune fuite d'informations clients n'a été trouvée.",
+        "title": "Cyberattacks on Our Group Companies",
+        "url": "https://www.alpsalpine.com/cms.media/20230728_Cyberattack_ENG_886868a7b3.pdf",
+        "added": "2024-07-26"
+    },
+    {
         "date": "2024-07-04",
         "victim": "Alps Alpine",
         "domain": "alpsalpine.com",
