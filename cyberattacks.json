@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-07-04",
+        "victim": "Alps Alpine",
+        "domain": "alpsalpine.com",
+        "country": "CHN",
+        "summary": "Le 4 juillet 2024, Alps Alpine a confirmé que des serveurs internes de sa filiale chinoise, Ningbo Alps Electronics Co., Ltd., a subi un accès non autorisé par des tiers, impliquant une attaque avec ransomware. Suite à cet incident, des mesures comme l'arrêt ou l'isolement des serveurs ont été prises, et il n'y a eu aucun impact sur la production, l'expédition ou les autres opérations.",
+        "title": "Regarding unauthorized access to the server managed by our Chinese subsidiary",
+        "url": "https://www.alpsalpine.com/cms.media/security_en_20240716_38f26f87ad.pdf",
+        "added": "2024-07-26"
+    },
+    {
         "date": "2024-07-10",
         "victim": "Oxfam Hong Kong",
         "domain": "oxfam.org.hk",
@@ -192,7 +202,7 @@
     {
         "date": "2024-07-11",
         "victim": "Solutions&Co",
-        "domain": "solutions-eco.fr",
+        "domain": "paysdelaloire.fr",
         "country": "FRA",
         "summary": "Une agence de développement économique de la région des Pays de la Loire a été victime d'une cyberattaque revendiquée par le groupe de hackers LockBit, qui a dérobé des documents administratifs et les a publiés sur le dark web. La cellule d'urgence a été mobilisée pour diagnostiquer et mettre en œuvre les mesures techniques et juridiques adaptées, et un redémarrage progressif est en cours. La cyberattaque a été portée plainte et l'unité nationale Cyber de la gendarmerie a été saisie.",
         "title": "Une agence de développement économique de la région des Pays de la Loire victime d’une cyberattaque - Le Parisien",
