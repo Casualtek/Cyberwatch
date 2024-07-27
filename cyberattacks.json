@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-05-04",
+        "victim": "Kansas City, Missouri",
+        "domain": "kcmo.gov",
+        "country": "USA",
+        "summary": "La ville de Kansas City, Missouri, a subi une panne de réseau en mai 2024, qui a été qualifiée de \"panne de réseau\" par les responsables, mais des documents obtenus par FOX4 révèlent que des employés de la ville ont utilisé des termes tels que \"cyber-attaque\" et \"ransomware\" pour décrire l'incident. Les emails montrent que les responsables de la ville ont tenté de contrôler le langage utilisé pour décrire l'incident. L'enquête est toujours en cours, mais les systèmes de la ville ont été restaurés environ deux semaines après l'incident.",
+        "title": "Records reveal new detail from early May 'network outage' in KC",
+        "url": "https://fox4kc.com/news/records-reveal-new-details-from-early-may-network-outage-in-kc/",
+        "added": "2024-07-27"
+    },
+    {
         "date": "2024-07-25",
         "victim": "Summerville",
         "domain": "summervillesc.gov",
