@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-07-25",
+        "victim": "Summerville",
+        "domain": "summervillesc.gov",
+        "country": "USA",
+        "summary": "La ville de Summerville en Caroline du Sud a révélé avoir été ciblée par une cyberattaque impliquant du ransomware, mais a réussi à contenir l'attaque en 30 minutes grâce à ses systèmes de surveillance vigilants. Aucune donnée ou document sensible n'a été compromis, et les services municipaux, y compris la police et les services d'urgence, continuent de fonctionner normalement. Les autorités locales et fédérales enquêtent sur l'incident et la ville s'engage à maintenir la transparence tout au long de l'enquête.",
+        "title": "Town of Summerville says it acted quickly amid an attempted cyberattack | WCBD News 2",
+        "url": "https://www.counton2.com/news/local-news/dorchester-county-news/town-of-summerville-acted-quickly-amid-attempted-cyberattack/",
+        "added": "2024-07-27"
+    },
+    {
         "date": "2023-07-06",
         "victim": "Alps Alpine",
         "domain": "alpsalpine.com",
