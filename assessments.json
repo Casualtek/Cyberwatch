@@ -1,5 +1,12 @@
 [
     {
+        "victim": "E21c",
+        "domain": "e21c.co.uk",
+        "country": "GB",
+        "date": "2023-07-15",
+        "group": "lockbit3"
+    },
+    {
         "victim": "CCI Aix-Marseille-Provence",
         "domain": "ccimp.com",
         "country": "US",
