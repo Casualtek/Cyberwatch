@@ -1,5 +1,12 @@
 [
     {
+        "victim": "Cloudminds",
+        "domain": "cloudminds.com",
+        "country": "CN",
+        "date": "2023-12-29",
+        "group": "lockbit3"
+    },
+    {
         "victim": "Olea Kiosks Resources",
         "domain": "olea.com",
         "country": "US",
