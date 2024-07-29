@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-07-29",
+        "victim": "Fabriano",
+        "domain": "fabriano.an.it",
+        "country": "ITA",
+        "summary": "Le commune de Fabriano a été victime d'une cyberattaque par ransomware, ce qui a limité l'accès aux serveurs du comune et pourrait causer des perturbations pour les utilisateurs qui accèdent au site institutionnel et aux services informatiques communautaires. Les enquêtes sont en cours pour déterminer l'ampleur et le type de dommages, ainsi que pour restaurer rapidement les fonctionnalités compromises. Les mises à jour seront publiées sur le site institutionnel de la commune.",
+        "title": "Fabriano / Attacco informatico ai server del comune - QdM Notizie",
+        "url": "https://www.qdmnotizie.it/fabriano-attacco-informatico-ai-server-del-comune/",
+        "added": "2024-07-29"
+    },
+    {
         "date": "2024-07-20",
         "victim": "Melchers",
         "domain": "melchers.de",
