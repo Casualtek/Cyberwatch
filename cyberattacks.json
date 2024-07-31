@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-06-10",
+        "victim": "New Jersey City University (NJCU)",
+        "domain": "njcu.edu",
+        "country": "USA",
+        "summary": "Des étudiants de la New Jersey City University (NJCU) doivent surveiller leurs comptes et changer leurs mots de passe après une attaque par ransomware menée par le groupe Rhysida, qui a volé des informations sensibles. Les experts en cybersécurité recommandent de vérifier régulièrement les activités suspectes sur les comptes bancaires et de mettre en place une authentification à deux facteurs. L'université offre des services de surveillance d'identité gratuits et a pris des mesures pour sécuriser son réseau.",
+        "title": "NJCU students must be vigilant, monitor all accounts after ransomware attack, cybersecurity experts say - nj.com",
+        "url": "https://www.nj.com/hudson/2024/07/njcu-students-must-be-vigilant-monitor-all-accounts-after-ransomware-attack-cybersecurity-experts-say.html",
+        "added": "2024-07-31"
+    },
+    {
         "date": "2024-07-30",
         "victim": "Industrias Peñoles",
         "domain": "penoles.com.mx",
