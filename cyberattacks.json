@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-07-31",
+        "victim": "C-Edge Technologies",
+        "domain": "cedge.in",
+        "country": "IND",
+        "summary": "Une cyberattaque suspectée a touché C-Edge Technologies, ce qui a perturbé les paiements de détail de UPI (Unified Payments Interface). Cette attaque a entraîné des problèmes pour les utilisateurs qui tentent d'effectuer des transactions en ligne. Les détails de l'incident ne sont pas encore clairs, mais l'enquête est en cours.",
+        "title": "UPI Retail Payments Disrupted After C-Edge Technologies Affected By Suspected Cyberattack",
+        "url": "https://www.ndtvprofit.com/business/upi-retail-payments-disrupted-after-c-edge-technologies-affected-by-suspected-cyberattack",
+        "added": "2024-07-31"
+    },
+    {
         "date": "2024-07-21",
         "victim": "Schneider Hospital",
         "domain": "srmedicalcenter.org",
