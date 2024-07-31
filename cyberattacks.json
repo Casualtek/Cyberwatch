@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-07-30",
+        "victim": "Intendencia de Paysandú",
+        "domain": "paysandu.gub.uy",
+        "country": "URY",
+        "summary": "L'Intendencia de Paysandú a subi une cyberattaque qui a chiffré toutes les informations, les bases de données et le système, nécessitant un redémarrage à zéro. Les services sont actuellement inaccessibles, y compris le courrier électronique, le système tributaire et le registre civil. Les pertes sont estimées à plusieurs centaines de milliers de dollars en frais de licences, heures supplémentaires et autres coûts.",
+        "title": "Intendencia no tiene “prácticamente ningún servicio habilitado” tras ataque cibernético - Diario El Telégrafo",
+        "url": "https://www.eltelegrafo.com/2024/07/intendencia-no-tiene-practicamente-ningun-servicio-habilitado-tras-ataque-cibernetico/",
+        "added": "2024-07-31"
+    },
+    {
         "date": "2024-06-10",
         "victim": "New Jersey City University (NJCU)",
         "domain": "njcu.edu",
