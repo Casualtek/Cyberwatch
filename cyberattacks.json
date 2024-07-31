@@ -1,6 +1,16 @@
 [
     {
         "date": "2024-07-30",
+        "victim": "OneBlood",
+        "domain": "oneblood.org",
+        "country": "USA",
+        "summary": "Une cyberattaque a frappé OneBlood, une organisation à but non lucratif qui fournit du sang à plus de 300 hôpitaux dans le sud-est des États-Unis. L'attaque a entraîné une panne de son système logiciel, affectant la livraison de produits sanguins aux hôpitaux de Floride. L'incident est actuellement enquêté comme une possible attaque de rançon.",
+        "title": "Cyberattack hits blood-donation nonprofit OneBlood | CNN Politics",
+        "url": "https://edition.cnn.com/2024/07/31/politics/cyberattack-oneblood-blood-donation/index.html",
+        "added": "2024-07-31"
+    },
+    {
+        "date": "2024-07-30",
         "victim": "Intendencia de Paysandú",
         "domain": "paysandu.gub.uy",
         "country": "URY",
