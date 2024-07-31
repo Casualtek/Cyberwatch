@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-07-21",
+        "victim": "Schneider Hospital",
+        "domain": "srmedicalcenter.org",
+        "country": "VIR",
+        "summary": "L'hôpital Schneider aux Îles Vierges américaines a été victime d'une cyberattaque par rançonware dimanche matin, ce qui a rendu inaccessible le portail des patients et les copies des dossiers médicaux. Les enquêteurs locaux et fédéraux travaillent ensemble pour évaluer l'incident et déterminer si des données de patients ont été compromises. L'hôpital a mis en place des protocoles de sécurité pour protéger les données et a promis de continuer à fournir des soins de santé pendant cette période.",
+        "title": "Schneider Hospital investigating ransomware cyberattack | News | virginislandsdailynews.com",
+        "url": "https://www.virginislandsdailynews.com/news/schneider-hospital-investigating-ransomware-cyberattack/article_9cd7d2a6-490f-11ef-88bc-a73c05343d71.html",
+        "added": "2024-07-31"
+    },
+    {
         "date": "2024-07-30",
         "victim": "OneBlood",
         "domain": "oneblood.org",
