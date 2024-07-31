@@ -1,44 +1,51 @@
 [
     {
+        "victim": "Network Communications Group",
+        "domain": "netcomms.co.uk",
+        "country": "GB",
+        "date": "2024-07-13",
+        "group": "qilin"
+    },
+    {
         "victim": "Verco",
         "domain": "verco.co.uk",
         "country": "GB",
-        "date": "2023-07-02",
+        "date": "2024-07-02",
         "group": "cactus"
     },
     {
         "victim": "Isometrix",
         "domain": "isometrix.com",
         "country": "US",
-        "date": "2023-06-02",
+        "date": "2024-06-02",
         "group": "cactus"
     },
     {
         "victim": "Leonard's Syrups",
         "domain": "leonardssyrups.com",
         "country": "US",
-        "date": "2023-07-21",
+        "date": "2024-07-21",
         "group": "cactus"
     },
     {
         "victim": "Western Wyoming Beverages",
         "domain": "westernwyomingbeverages.com",
         "country": "US",
-        "date": "2023-07-21",
+        "date": "2024-07-21",
         "group": "cactus"
     },
     {
         "victim": "Denkai America",
         "domain": "denkaiamerica.com",
         "country": "US",
-        "date": "2023-07-26",
+        "date": "2024-07-26",
         "group": "cactus"
     },
     {
         "victim": "E21c",
         "domain": "e21c.co.uk",
         "country": "GB",
-        "date": "2023-07-15",
+        "date": "2024-07-15",
         "group": "lockbit3"
     },
     {
