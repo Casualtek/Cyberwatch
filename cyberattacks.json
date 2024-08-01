@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-07-30",
+        "victim": "Northwest Arkansas Community College (NWACC)",
+        "domain": "nwacc.edu",
+        "country": "USA",
+        "summary": "Le Northwest Arkansas Community College (NWACC) a été victime d'une cyberattaque, qui a entraîné la fermeture intentionnelle de son réseau technique pour protéger les données. Les hackers ont envoyé une note avec des demandes de rançon à tous les imprimantes du campus, mais aucune donnée n'a été compromise et aucune rançon n'a été payée. Le collège travaille avec une équipe de sécurité informatique et le FBI pour résoudre l'incident et restaurer les systèmes.",
+        "title": "NWACC systems down after reports of cyberattack | 5newsonline.com",
+        "url": "https://www.5newsonline.com/article/news/local/nwacc-cyberattack-ransomware-northwest-arkansas-college/527-e131f8fa-c07e-4243-b4fa-59ac037c0db2",
+        "added": "2024-08-01"
+    },
+    {
         "date": "2024-07-31",
         "victim": "C-Edge Technologies",
         "domain": "cedge.in",
