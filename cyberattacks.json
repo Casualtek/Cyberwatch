@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-07-31",
+        "victim": "Virtualcom Interactive Srl",
+        "domain": "virtualcom.it",
+        "country": "ITA",
+        "summary": "Les journaux La Notizia, La Provincia di Cremona e Crema, La Sicilia, ou encore Il Notiziario sont actuellement indisponible en édition digitale en raison d'une cyberattaque touchant la société qui héberge et diffuse leurs éditions numériques. Le serveur touché a été isolé et fait l'objet d'une opération de réinitialisation dans un environnement sécurisé.",
+        "title": "Attacco hacker all'edicola digitale de La Notizia | LA NOTIZIA",
+        "url": "https://www.lanotiziagiornale.it/attacco-hacker-alledicola-digitale-de-la-notizia/",
+        "added": "2024-08-01"
+    },
+    {
         "date": "2024-07-15",
         "victim": "Terry Town",
         "domain": "terrytown.com",
