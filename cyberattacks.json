@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-06-30",
+        "victim": "Crimson Wine Group, Ltd.",
+        "domain": "crimsonwinegroup.com",
+        "country": "USA",
+        "summary": "Le groupe Crimson Wine a déclaré une cyberattaque qui a eu un impact matériel sur ses opérations commerciales, entraînant la perte de données sensibles et la perturbation de ses systèmes. L'entreprise a pris des mesures pour contenir et remédier à l'incident, mais elle est toujours en train d'évaluer l'ampleur de la violation de la sécurité. Crimson Wine estime que l'incident n'a pas eu d'impact matériel sur sa situation financière globale, mais elle pourrait encore encourir des coûts et des pertes supplémentaires.",
+        "title": "cwgl-20240725",
+        "url": "https://www.sec.gov/Archives/edgar/data/1562151/000156215124000032/cwgl-20240725.htm",
+        "added": "2024-08-01"
+    },
+    {
         "date": "2024-07-31",
         "victim": "Virtualcom Interactive Srl",
         "domain": "virtualcom.it",
