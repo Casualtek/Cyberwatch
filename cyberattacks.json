@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-07-15",
+        "victim": "Terry Town",
+        "domain": "terrytown.com",
+        "country": "USA",
+        "summary": "Terry Town, un fournisseur de produits promotionnels basé à San Diego, a été victime d'une cyberattaque par ransomware qui l'a empêché de traiter et d'expédier des commandes pendant près de deux semaines. La société n'a pas payé la rançon et a réussi à restaurer ses opérations, mais a perdu des fichiers de données internes et enquête toujours sur l'incident. Les activités ont repris le 25 juillet, et la société a exprimé sa gratitude envers ses clients pour leur patience pendant cette période difficile.",
+        "title": "Terry Town Fully Operational Again Following Ransomware Attack",
+        "url": "https://members.asicentral.com/news/industry-news/july-2024/terry-town-fully-operational-again-following-ransomware-attack/",
+        "added": "2024-08-01"
+    },
+    {
         "date": "2024-07-30",
         "victim": "Northwest Arkansas Community College (NWACC)",
         "domain": "nwacc.edu",
