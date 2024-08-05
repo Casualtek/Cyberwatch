@@ -1,5 +1,12 @@
 [
     {
+        "victim": "Grande loge nationale française",
+        "domain": "glnf.fr",
+        "country": "FR",
+        "date": "2024-07-02",
+        "group": "lockbit3"
+    },
+    {
         "victim": "Ayurcann",
         "domain": "ayurcann.com",
         "country": "CA",
