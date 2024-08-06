@@ -1,5 +1,15 @@
 [
     {
+        "date": "2023-11-15",
+        "victim": "Vital Bircher",
+        "domain": "emmi.com",
+        "country": "CHE",
+        "summary": "Un agriculteur suisse a été victime d'une cyberattaque qui a permis aux pirates de prendre le contrôle de son robot de traite, ce qui a entraîné la mort d'une vache. Les cybercriminels ont demandé une rançon de 10 000 dollars à l'agriculteur. Cette attaque montre que les exploitations agricoles sont également vulnérables aux menaces cyber.",
+        "title": "Cyberattacke in Cham: Melkroboter gehackt - Kuh gestorben",
+        "url": "https://www.zugerzeitung.ch/zentralschweiz/zug/cham-cyberkriminelle-fordern-von-schweizer-bauer-10000-dollar-danach-stirbt-eine-kuh-ld.2651065",
+        "added": "2024-08-06"
+    },
+    {
         "date": "2024-08-04",
         "victim": "RMN-Grand Palais",
         "domain": "rmngp.fr",
