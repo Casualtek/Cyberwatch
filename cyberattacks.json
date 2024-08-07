@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-08-02",
+        "victim": "Ihecs",
+        "domain": "ihecs.be",
+        "country": "BEL",
+        "summary": "L'Ihecs a été victime d'une attaque informatique de type \"ransomware\" le 2 août, entraînant la perte de données, notamment celles relatives aux inscriptions d'étudiants à partir du 20 juillet. Une cellule de crise a été mise en place et une société spécialisée en cybercriminalité a été appelée pour limiter les dégâts. Une réunion est prévue mercredi pour discuter des conséquences de l'attaque sur les inscriptions.",
+        "title": "L'Ihecs victime d'une attaque informatique de type \"ransomware\" - La Libre",
+        "url": "https://www.lalibre.be/regions/bruxelles/2024/08/06/lihecs-victime-dune-attaque-informatique-de-type-ransomware-D2E4PKZRFRDZDGL6SEGFGNA5J4/",
+        "added": "2024-08-07"
+    },
+    {
         "date": "2023-11-15",
         "victim": "Vital Bircher",
         "domain": "emmi.com",
