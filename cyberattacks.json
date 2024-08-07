@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-08-05",
+        "victim": "McLaren Health Care",
+        "domain": "mclaren.org",
+        "country": "USA",
+        "summary": "Le système de santé McLaren Health Care du Michigan fait face à une attaque de ransomware qui perturbe les opérations dans ses 13 hôpitaux, centres de chirurgie ambulatoire, cabinets de médecins et autres installations. L'attaque, qui implique INC Ransom, a causé des problèmes pour planifier des rendez-vous, accéder aux résultats de tests et maintenir les communications via les systèmes téléphoniques et les sites web de l'hôpital. McLaren travaille à enquêter sur la perturbation et à restaurer les services, après avoir déjà été victime d'une attaque de ransomware en 2023.",
+        "title": "McLaren Health Care of Michigan Faces Ransomware Attack According to Anonymous Source",
+        "url": "https://dysruptionhub.zba.bz/mclaren-health-care-of-michigan-faces-ransomware-attack-according-to-anonymous-source/",
+        "added": "2024-08-07"
+    },
+    {
         "date": "2024-08-06",
         "victim": "Nilörn",
         "domain": "nilorn.com",
