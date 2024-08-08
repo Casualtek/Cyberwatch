@@ -1,5 +1,12 @@
 [
     {
+        "victim": "wdgroup.com.my",
+        "domain": "wdgroup.com.my",
+        "country": "MY",
+        "date": "2023-08-24",
+        "group": "threeam"
+    },
+    {
         "victim": "P/Kaufmann Fabrics",
         "domain": "pkaufmann.com",
         "country": "US",
