@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-08-06",
+        "victim": "Sumter County Sheriff’s Office",
+        "domain": "sumtercountysheriff.org",
+        "country": "USA",
+        "summary": "Le bureau du shérif du comté de Sumter a été victime d'une attaque de ransomware, mais a réussi à couper l'accès de l'attaquant et à préserver sa capacité à répondre aux appels d'urgence. L'enquête est en cours avec l'aide de la police d'État de Floride et d'autres experts en sécurité informatique. Pendant ce temps, l'accès à certains dossiers du bureau du shérif sera limité.",
+        "title": "Sumter County Sheriff’s Office victim of ransomware attack - Villages-News.com",
+        "url": "https://www.villages-news.com/2024/08/06/sumter-county-sheriffs-office-victim-of-ransomware-attack/",
+        "added": "2024-08-09"
+    },
+    {
         "date": "2024-08-07",
         "victim": "Killeen",
         "domain": "killeentexas.gov",
