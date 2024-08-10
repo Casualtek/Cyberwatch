@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-08-08",
+        "victim": "Ohio School Boards Association (OSBA)",
+        "domain": "ohioschoolboards.org",
+        "country": "USA",
+        "summary": "L'Ohio School Boards Association (OSBA) a été victime d'une cyberattaque jeudi, ce qui a entraîné la coupure de sa connexion à internet et la limitation de ses services. L'organisation, qui représente plus de 700 conseils scolaires dans l'État de l'Ohio, a engagé des experts en cybersécurité pour enquêter sur l'incident et restaurer ses activités. L'OSBA a précisé que les données sensibles de ses membres, telles que les numéros de sécurité sociale et les informations financières, ne sont pas stockées sur ses serveurs et ne semblent pas avoir été compromises.",
+        "title": "Ohio school board organization hit by Cyberattack Thursday",
+        "url": "https://eu.dispatch.com/story/news/education/2024/08/09/ohio-school-boards-association-cyberattack-back-to-school/74739880007/",
+        "added": "2024-08-10"
+    },
+    {
         "date": "2024-08-06",
         "victim": "Sumter County Sheriff’s Office",
         "domain": "sumtercountysheriff.org",
