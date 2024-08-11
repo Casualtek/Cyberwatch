@@ -1,5 +1,12 @@
 [
     {
+        "victim": "agapefrance.org",
+        "domain": "agapefrance.org",
+        "country": "FR",
+        "date": "2023-02-04",
+        "group": "lockbit3"
+    },
+    {
         "victim": "clearwaterlandscape.com",
         "domain": "clearwaterlandscape.com",
         "country": "US",
