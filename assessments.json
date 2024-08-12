@@ -1,5 +1,12 @@
 [
     {
+        "victim": "dunaway.com",
+        "domain": "dunaway.com",
+        "country": "US",
+        "date": "2024-01-29",
+        "group": "lockbit3"
+    },
+    {
         "victim": "agapefrance.org",
         "domain": "agapefrance.org",
         "country": "FR",
