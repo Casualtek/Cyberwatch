@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-08-09",
+        "victim": "Schlatter Industries AG",
+        "domain": "schlattergroup.com",
+        "country": "CHE",
+        "summary": "Le groupe Schlatter a été victime d'une cyberattaque par un logiciel malveillant le 9 août 2024, qui a entraîné l'activation de mesures de sécurité immédiates et la notification des autorités compétentes. Les experts en sécurité travaillent à limiter les dégâts et à restaurer les systèmes le plus rapidement possible. L'enquête est en cours pour déterminer si des données ont été compromises et si l'attaque est liée à une tentative d'extorsion.",
+        "title": "Cyber-Angriff auf IT-Netzwerk von Schlatter - boerse.de",
+        "url": "https://www.boerse.de/nachrichten/Cyber-Angriff-auf-IT-Netzwerk-von-Schlatter/36367096",
+        "added": "2024-08-12"
+    },
+    {
         "date": "2024-08-10",
         "victim": "2Park",
         "domain": "2park.nl",
