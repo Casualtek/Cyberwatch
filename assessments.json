@@ -1,5 +1,12 @@
 [
     {
+        "victim": "atcdi.com.cn",
+        "domain": "atcdi.com.cn",
+        "country": "CN",
+        "date": "2024-06-26",
+        "group": "lockbit3"
+    },
+    {
         "victim": "frilot.com",
         "domain": "frilot.com",
         "country": "US",
