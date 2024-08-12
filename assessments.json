@@ -1,5 +1,12 @@
 [
     {
+        "victim": "kvie.org",
+        "domain": "kvie.org",
+        "country": "US",
+        "date": "2022-11-26",
+        "group": "lockbit3"
+    },
+    {
         "victim": "dunaway.com",
         "domain": "dunaway.com",
         "country": "US",
