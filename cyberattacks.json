@@ -1,12 +1,12 @@
 [
     {
-        "date": "2024-08-08",
-        "victim": "Evolution Mining",
-        "domain": "evolutionmining.com.au",
-        "country": "AUS",
-        "summary": "La société minière australienne Evolution Mining a été touchée par une cyberattaque avec ransomware la semaine dernière, mais a réussi à contenir la brèche de sécurité. L'incident a été signalé au Centre de sécurité cybernétique australien et ne devrait pas avoir d'impact matériel sur les opérations de l'entreprise.",
-        "title": "Australia's Evolution Mining targeted in latest cyber attack - Hindustan Times",
-        "url": "https://www.hindustantimes.com/technology/australias-evolution-mining-targeted-in-latest-cyber-attack-101723454489800.html",
+        "date": "2024-08-11",
+        "victim": "Université Paris-Saclay",
+        "domain": "universite-paris-saclay.fr",
+        "country": "FRA",
+        "summary": "Dans un message publié sur X (anciennement Twitter), l'Université indique être victime d'une cyberattaque découverte le 11 août. Elle est accompagnée de l'Anssi pour faire face à cet incident.",
+        "title": "Une cyberattaque par rançongiciel a touché l’Université Paris-Saclay le 11/08/2024.",
+        "url": "https://x.com/UnivParisSaclay/status/1822993151428121078",
         "added": "2024-08-12"
     },
     {
