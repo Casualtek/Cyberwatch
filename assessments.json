@@ -1,5 +1,12 @@
 [
     {
+        "victim": "frilot.com",
+        "domain": "frilot.com",
+        "country": "US",
+        "date": "2024-05-29",
+        "group": "lockbit3"
+    },
+    {
         "victim": "kvie.org",
         "domain": "kvie.org",
         "country": "US",
