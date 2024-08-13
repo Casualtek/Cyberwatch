@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-02-22",
+        "victim": "Kootenai Health",
+        "domain": "kh.org",
+        "country": "USA",
+        "summary": "Kootenai Health, un fournisseur de soins de santé à but non lucratif dans l'Idaho, a subi une cyberattaque qui a entraîné la fuite de données personnelles de plus de 464 000 patients. Les données volées comprennent des informations sensibles telles que les numéros de sécurité sociale, les dates de naissance et les informations de santé. Le groupe de ransomware 3AM a revendiqué la responsabilité de l'attaque et a mis les données en ligne, permettant à d'autres cybercriminels de les télécharger et de les utiliser à des fins malveillantes.",
+        "title": "3AM ransomware stole data of 464,000 Kootenai Health patients",
+        "url": "https://www.bleepingcomputer.com/news/security/3am-ransomware-stole-data-of-464-000-kootenai-health-patients/",
+        "added": "2024-08-13"
+    },
+    {
         "date": "2024-08-11",
         "victim": "Université Paris-Saclay",
         "domain": "universite-paris-saclay.fr",
