@@ -1,5 +1,15 @@
 [
     {
+        "date": "2022-12-23",
+        "victim": "Schäfer Shop",
+        "domain": "schaefer-shop.de",
+        "country": "DEU",
+        "summary": "Après une cyberattaque, Schäfer Shop a réussi à restaurer ses systèmes critiques en dix jours, permettant de reprendre ses activités le 2 janvier avec des restrictions. Pour cela, elle a mis en place une zone rouge isolée, une zone bleue pour les interactions avec l'extérieur et une zone verte pour le système nouvellement établi. L'équipe IT a réussi à réinitialiser plus de 1 000 appareils et systèmes, permettant à l'entreprise de reprendre ses activités plus rapidement que d'autres entreprises ayant subi des attaques similaires.",
+        "title": "“The attack brought us closer”",
+        "url": "https://www.db.com/what-next/digital-disruption/cyber/Schaefer-Shop/index",
+        "added": "2024-08-15"
+    },
+    {
         "date": "2024-06-02",
         "victim": "Roseland Community Hospital Association",
         "domain": "roselandhospital.org",
