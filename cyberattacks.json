@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-06-15",
+        "victim": "Competenz",
+        "domain": "competenz.org.nz",
+        "country": "NZL",
+        "summary": "L'organisme de formation Competenz a été victime d'une cyberattaque en juin 2024, entraînant l'accès non autorisé à ses systèmes informatiques et le vol de données personnelles de ses apprenants, employeurs, évaluateurs, employés et partenaires commerciaux. Les informations volées incluent des noms, des coordonnées, des dates de naissance, des copies de documents d'identité et des informations financières. Competenz a pris des mesures pour renforcer sa sécurité informatique et a mis en place un processus pour informer et aider les personnes affectées.",
+        "title": "Community Scoop \" Competenz Confirms Cyber Attack On IT Systems",
+        "url": "https://community.scoop.co.nz/2024/08/competenz-confirms-cyber-attack-on-it-systems/",
+        "added": "2024-08-16"
+    },
+    {
         "date": "2024-08-14",
         "victim": "Flint",
         "domain": "cityofflint.com",
