@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-08-14",
+        "victim": "Flint",
+        "domain": "cityofflint.com",
+        "country": "USA",
+        "summary": "La ville de Flint, au Michigan, est victime d'une cyberattaque par rançongiciel qui a causé une panne de réseau, entraînant des perturbations dans les services publics. Les enquêteurs du FBI et du procureur général sont impliqués dans l'enquête, tandis que les experts en cybersécurité travaillent à restaurer les services. Les services d'urgence, tels que les services d'incendie et de police, ne sont pas affectés, mais les paiements en ligne et les systèmes de facturation sont temporairement indisponibles.",
+        "title": "Flint’s network outage caused by criminal ransomware attack",
+        "url": "https://www.wnem.com/2024/08/15/flints-network-outage-caused-by-criminal-ransomware-attack/",
+        "added": "2024-08-16"
+    },
+    {
         "date": "2024-07-28",
         "victim": "Patterson Health Center",
         "domain": "pattersonhc.org",
