@@ -1,5 +1,25 @@
 [
     {
+        "date": "2024-08-11",
+        "victim": "AutoCanada",
+        "domain": "autocan.ca",
+        "country": "CAN",
+        "summary": "Le groupe de concessionnaires automobiles AutoCanada a été victime d'une cyberattaque qui a touché ses systèmes informatiques internes, ce qui pourrait entraîner des perturbations. L'enquête est en cours pour déterminer si des données ont été compromises, mais la société a pris des mesures pour protéger son réseau et ses données.",
+        "title": "AutoCanada discloses cyberattack impacting internal IT systems",
+        "url": "https://www.bleepingcomputer.com/news/security/autocanada-discloses-cyberattack-impacting-internal-it-systems/",
+        "added": "2024-08-14"
+    },
+    {
+        "date": "2024-08-08",
+        "victim": "Evolution Mining",
+        "domain": "evolutionmining.com.au",
+        "country": "AUS",
+        "summary": "La société minière australienne Evolution Mining a été touchée par une cyberattaque avec ransomware la semaine dernière, mais a réussi à contenir la brèche de sécurité. L'incident a été signalé au Centre de sécurité cybernétique australien et ne devrait pas avoir d'impact matériel sur les opérations de l'entreprise.",
+        "title": "Australia's Evolution Mining targeted in latest cyber attack",
+        "url": "https://www.hindustantimes.com/technology/australias-evolution-mining-targeted-in-latest-cyber-attack-101723454489800.html",
+        "added": "2024-08-12"
+    },
+    {
         "date": "2024-06-15",
         "victim": "Competenz",
         "domain": "competenz.org.nz",
