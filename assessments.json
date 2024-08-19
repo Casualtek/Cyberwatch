@@ -1,5 +1,12 @@
 [
     {
+        "victim": "NetOne",
+        "domain": "netone.co.zw",
+        "country": "ZW",
+        "date": "2024-07-03",
+        "group": "hunters"
+    },
+    {
         "victim": "atcdi.com.cn",
         "domain": "atcdi.com.cn",
         "country": "CN",
