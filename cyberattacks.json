@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-07-26",
+        "victim": "Charleston County School District (CCSD)",
+        "domain": "ccsdschools.com",
+        "country": "USA",
+        "summary": "Le district scolaire du comté de Charleston a subi une panne de réseau causée par une activité suspecte, affectant les écoles et les communautés locales. Les experts en cybersécurité estiment que ce type d'incident peut avoir un impact important, mais il existe des solutions pour gérer les pannes d'internet. Le district scolaire prévoit une résolution complète d'ici la semaine prochaine.",
+        "title": "CCSD network outage caused by suspicious activity, resolution expected next week",
+        "url": "https://abcnews4.com/news/local/ccsd-network-outage-caused-by-suspicious-activity-resolution-expected-next-week-wciv-abc-news-4-2024-education-news-charleston-county-school-district-south-carolina",
+        "added": "2024-08-19"
+    },
+    {
         "date": "2024-08-18",
         "victim": "Lagoon",
         "domain": "lagoon.nc",
