@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-08-19", 
+        "victim": "BVI Electricity Corporation (BVIEC)",
+        "domain": "bvielectricity.com", 
+        "country": "VGB", 
+        "summary": "La BVI Electricity Corporation (BVIEC) a été victime d'une cyberattaque qui a affecté ses opérations internes et externes. L'entreprise travaille avec des experts et des agences de sécurité pour résoudre le problème et restaurer les opérations normales. Malgré cet incident, BVIEC poursuit ses efforts pour restaurer l'électricité dans les îles Vierges britanniques après le passage de la tempête tropicale Ernesto.",
+        "title": "BVIEC suffers cyber attack", 
+        "url": "https://bvinews.com/bviec-suffers-cyber-attack/",
+        "added": "2024-08-20"
+    },
+    {
         "date": "2024-05-30",
         "victim": "Pocahontas Medical Clinic, PA",
         "domain": "pocahontasmedicalclinic.com",
