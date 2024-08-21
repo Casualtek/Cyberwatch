@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-08-04",
+        "victim": "Regent Caravans",
+        "domain": "regentcaravans.com.au",
+        "country": "AUS",
+        "summary": "La société australienne Regent Caravans, fabricant de caravanes de luxe, a confirmé avoir été victime d'une cyberattaque par le groupe de ransomware RansomHub le 4 août. Les données volées, qui incluent des fichiers CAD, des informations de commande et des photos d'identité des employés, ont été partagées sur un site de fuite sombre. L'entreprise a pris des mesures pour sécuriser ses systèmes et a notifié ses employés et clients, mais n'a pas engagé de négociations avec les cybercriminels.",
+        "title": "Exclusive: Melbourne-based Regent Caravans confirms RansomHub attack - Cyber Daily",
+        "url": "https://www.cyberdaily.au/security/10987-exclusive-melbourne-based-regent-caravans-confirms-ransomhub-attack",
+        "added": "2024-08-21"
+    },
+    {
         "date": "2024-08-21",
         "victim": "Groupe Cirano",
         "domain": "cirano.com",
