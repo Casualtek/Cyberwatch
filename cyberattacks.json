@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-08-11",
+        "victim": "Itu",
+        "domain": "itu.sp.gov.br",
+        "country": "BRA",
+        "summary": "La municipalité d'Itu au Brésil a été victime d'une cyberattaque le 11 août, qui a corrompu tous les systèmes hébergés sur des serveurs internes et a demandé une rançon en bitcoin. Les services publics numériques sont actuellement indisponibles et les attentes sont traitées manuellement, entraînant des retards. L'enquête est en cours et la municipalité travaille à reconstruire son système pour restaurer les services publics numériques le plus rapidement possible.",
+        "title": "Prefeitura de Itu busca restabelecer sistema após ataque cibernético",
+        "url": "https://www.jornalcruzeiro.com.br/sorocaba/regiao/2024/08/736953-prefeitura-de-itu-busca-restabelecer-sistema-apos-ataque-cibernetico.html",
+        "added": "2024-08-21"
+    },
+    {
         "date": "2024-08-04",
         "victim": "Regent Caravans",
         "domain": "regentcaravans.com.au",
