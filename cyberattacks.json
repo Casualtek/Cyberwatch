@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-07-05",
+        "victim": "Bloom Hearing Specialists",
+        "domain": "bloomhearing.com.au",
+        "country": "AUS",
+        "summary": "Une attaque ransomware a touché les systèmes de plusieurs entreprises de soins auditifs en Australie et en Nouvelle-Zélande, entraînant la fuite de données personnelles de patients, employés et contractants. Les informations volées incluent des noms, adresses, coordonnées, informations de santé, données financières et identifiants gouvernementaux. Les entreprises concernées ont mis en place des mesures de sécurité supplémentaires et recommandent aux individus affectés de prendre des précautions pour protéger leur identité et leurs données.",
+        "title": "Important Security Update",
+        "url": "https://www.bloomhearing.com.au/en-au/news/important-security-update",
+        "added": "2024-08-22"
+    },
+    {
         "date": "2024-08-21",
         "victim": "Halliburton",
         "domain": "halliburton.com",
