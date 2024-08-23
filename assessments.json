@@ -1,5 +1,12 @@
 [
     {
+        "victim": "nicholsfleet.com",
+        "domain": "nicholsfleet.com",
+        "country": "US",
+        "date": "2024-07-13",
+        "group": "lockbit3"
+    },
+    {
         "victim": "NetOne",
         "domain": "netone.co.zw",
         "country": "ZW",
