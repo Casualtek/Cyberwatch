@@ -1,5 +1,15 @@
 [
     {
+        "date": "2023-10-23",
+        "victim": "Bluewater Health",
+        "domain": "bluewaterhealth.ca",
+        "country": "CAN",
+        "summary": "Une cyberattaque a compromis plus de 30 ans de dossiers de patients dans plusieurs hôpitaux et sites de soins du comté de Lambton, affectant plus de 250 000 patients. Les informations volées incluent des noms, adresses, numéros de téléphone, dates de naissance et motifs de visites, ainsi que les numéros d'assurance sociale de 20 000 patients. Bluewater Health a mis en place une hotline pour répondre aux questions des patients concernés et contactera ceux dont les numéros d'assurance sociale ont été compromis.",
+        "title": "Bluewater Health provides update on cyber attack | CTV News",
+        "url": "https://london.ctvnews.ca/bluewater-health-says-250k-patients-compromised-by-cyber-attack-1.6638358",
+        "added": "2024-08-23"
+    },
+    {
         "date": "2024-08-16",
         "victim": "Shoshone-Bannock Tribes",
         "domain": "sbtribes.com",
