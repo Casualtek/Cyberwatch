@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-08-24",
+        "victim": "Aéroport international Seattle-Tacoma",
+        "domain": "portseattle.org",
+        "country": "USA",
+        "summary": "L'aéroport international Seattle-Tacoma a été victime d'une cyberattaque suspectée le 24 août, entraînant des indisponibilités de ses systèmes internet et web, ainsi que des retards et des annulations de vols. Les opérations manuelles ont été mises en place pour pallier l'absence d'informatique, mais le site web du port de Seattle est toujours inaccessible. Cette attaque rappelle que le secteur de l'aviation, bien que relativement rarement ciblé, n'est pas à l'abri des cyberattaques.",
+        "title": "Cyberattaque suspectée : nombreux retards à l’aéroport Seattle-Tacoma | LeMagIT",
+        "url": "https://www.lemagit.fr/actualites/366608621/Cyberattaque-suspectee-nombreux-retards-a-laeroport-Seattle-Tacoma",
+        "added": "2024-08-26"
+    },
+    {
         "date": "2024-08-18",
         "victim": "Pittsburg",
         "domain": "pittsburgca.gov",
