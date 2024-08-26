@@ -1,5 +1,12 @@
 [
     {
+        "victim": "Soprema",
+        "domain": "soprema.com",
+        "country": "FR",
+        "date": "2024-04-30",
+        "group": "lockbit3"
+    },
+    {
         "victim": "Promises2Kids",
         "domain": "promises2kids.org",
         "country": "US",
