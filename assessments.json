@@ -1,5 +1,12 @@
 [
     {
+        "victim": "pwb-india.com",
+        "domain": "pwb-india.com",
+        "country": "IN",
+        "date": "2022-12-04",
+        "group": "lockbit3"
+    },
+    {
         "victim": "ciberviaxesespecial.net",
         "domain": "ciberviaxesespecial.net",
         "country": "IT",
