@@ -1,8 +1,15 @@
 [
     {
+        "victim": "EHS Partnerships",
+        "domain": "ehsp.com",
+        "country": "CA",
+        "date": "2024-07-03",
+        "group": "qilin"
+    },
+    {
         "victim": "Central College of the Lebanese Monks",
         "domain": "ccj.edu.lb",
-        "country": "US",
+        "country": "LB",
         "date": "2024-07-15",
         "group": "qilin"
     },
