@@ -1,5 +1,12 @@
 [
     {
+        "victim": "KMLG",
+        "domain": "kmlg.com",
+        "country": "PK",
+        "date": "2024-07-10",
+        "group": "qilin"
+    },
+    {
         "victim": "on365",
         "domain": "on365.co.uk",
         "country": "UK",
