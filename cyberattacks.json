@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-02-07",
+        "victim": "ParkTree Community Health Center",
+        "domain": "parktreechc.org",
+        "country": "USA",
+        "summary": "Le centre de santé communautaire ParkTree à Pomona, CA, a informé ses patients qu'un tiers non autorisé a accédé à son réseau le 7 février 2024, exposant potentiellement certaines informations sensibles, telles que les noms, dates de naissance et informations cliniques. Les numéros de sécurité sociale et les permis de conduire n'ont pas été compromis, mais les patients sont invités à surveiller leurs relevés de compte et rapports de crédit pour éviter tout usage frauduleux. Le centre a annoncé qu'il renforcera ses mesures de sécurité pour prévenir de futurs incidents, bien que le nombre de personnes affectées ne soit pas encore connu.",
+        "title": "Cyberattack on Help at Home Affects 26,700 Current & Former Patients",
+        "url": "https://www.hipaajournal.com/cyberattack-help-at-home/",
+        "added": "2024-08-27"
+    },
+    {
         "date": "2024-06-06",
         "victim": "Kinsler Family Dentistry",
         "domain": "kinslerfamilydentistry.com",
