@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-08-14",
+        "victim": "NWO (Organisation néerlandaise pour la recherche scientifique)",
+        "domain": "nwo.nl",
+        "country": "NLD",
+        "summary": "Le système de demande d'Isaac de l'Organisation néerlandaise pour la recherche scientifique (NWO) a été victime d'une cyberattaque, rendant le système inaccessible aux utilisateurs externes. Les délais pour les demandes ont été reportés en conséquence, notamment pour l'Open Competitie-XS qui est maintenant fixée au 29 août à 14h00 CEST. Le système devrait être à nouveau disponible le 26 août.",
+        "title": "Storing in aanvraagsysteem Isaac verholpen, update 26 augustus 14:30 uur | NWO",
+        "url": "https://www.nwo.nl/nieuws/storing-in-aanvraagsysteem-isaac",
+        "added": "2024-08-27"
+    },
+    {
         "date": "2024-08-24",
         "victim": "Timișoara",
         "domain": "primariatm.ro",
