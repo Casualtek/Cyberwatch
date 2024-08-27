@@ -1,5 +1,12 @@
 [
     {
+        "victim": "ayesa.com",
+        "domain": "ayesa.com",
+        "country": "ES",
+        "date": "2024-04-24",
+        "group": "blackbasta"
+    },
+    {
         "victim": "pbw-india.com",
         "domain": "pbw-india.com",
         "country": "IN",
