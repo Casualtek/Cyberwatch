@@ -1,5 +1,12 @@
 [
     {
+        "victim": "tu-ilmenau.de",
+        "domain": "tu-ilmenau.de",
+        "country": "DE",
+        "date": "2024-03-07",
+        "group": "lockbit3"
+    },
+    {
         "victim": "kimmelcleaners.com",
         "domain": "kimmelcleaners.com",
         "country": "US",
