@@ -1,5 +1,12 @@
 [
     {
+        "victim": "grand-indonesia.com",
+        "domain": "grand-indonesia.com",
+        "country": "ID",
+        "date": "2023-12-19",
+        "group": "lockbit3"
+    },
+    {
         "victim": "sierralobo.com",
         "domain": "sierralobo.com",
         "country": "US",
