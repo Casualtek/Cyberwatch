@@ -1,5 +1,12 @@
 [
     {
+        "victim": "ecotruck.com.br",
+        "domain": "ecotruck.com.br",
+        "country": "BR",
+        "date": "2023-11-26",
+        "group": "lockbit3"
+    },
+    {
         "victim": "iaconnecticut.com",
         "domain": "iaconnecticut.com",
         "country": "US",
