@@ -1,5 +1,12 @@
 [
     {
+        "victim": "iaconnecticut.com",
+        "domain": "iaconnecticut.com",
+        "country": "US",
+        "date": "2023-11-26",
+        "group": "lockbit3"
+    },
+    {
         "victim": "incegroup.com",
         "domain": "incegroup.com",
         "country": "VC",
