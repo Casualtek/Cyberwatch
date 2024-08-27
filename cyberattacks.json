@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-08-24",
+        "victim": "Zeop",
+        "domain": "zeop.re",
+        "country": "FRA",
+        "summary": "Zeop a été victime d'une attaque informatique qui a pu entraîner l'exfiltration de données personnelles de ses clients, notamment des informations d'identité, des adresses et des coordonnées bancaires. L'opérateur a mis en place des mesures de sécurité supplémentaires et a signalé l'incident à la CNIL, qui a ouvert une enquête préliminaire. Les clients sont invités à être vigilants face à d'éventuelles tentatives d'escroqueries ou d'hameçonnage et à ne jamais communiquer leurs mots de passe par téléphone ou par email.",
+        "title": "Zeop victime d’une attaque informatique - Ko@fé",
+        "url": "https://www.koafe.info/index.php/2024/08/27/zeop-victime-dune-attaque-informatique/",
+        "added": "2024-08-27"
+    },
+    {
         "date": "2024-02-07",
         "victim": "ParkTree Community Health Center",
         "domain": "parktreechc.org",
