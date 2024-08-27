@@ -1,5 +1,12 @@
 [
     {
+        "victim": "keystonetech.com",
+        "domain": "keystonetech.com",
+        "country": "US",
+        "date": "2024-02-29",
+        "group": "blackbasta"
+    },
+    {
         "victim": "ero-etikett.com",
         "domain": "ero-etikett.com",
         "country": "DE",
