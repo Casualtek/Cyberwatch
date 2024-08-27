@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-08-25",
+        "victim": "La Cité de la BD d'Angoulême",
+        "domain": "citebd.org",
+        "country": "FRA",
+        "summary": "La Cité de la BD d'Angoulême a été victime d'une cyberattaque, mais les conséquences ont été limitées pour le public, avec le Musée de la BD et la bibliothèque ayant pu ouvrir normalement. Environ 15 à 20 postes ont été infectés, mais la messagerie n'a pas été touchée et il n'y a pas de fuite de données avérée. La Cité de la BD a porté plainte et une enquête est en cours, avec l'Agence nationale de la sécurité des systèmes d'information (Anssi) dépêchant des équipes sur place.",
+        "title": "Angoulême : la Cité de la BD victime d’une cyberattaque - Charente Libre.fr",
+        "url": "https://www.charentelibre.fr/charente/angouleme/angouleme-la-cite-de-la-bd-victime-d-une-cyberattaque-21150048.php",
+        "added": "2024-08-27"
+    },
+    {
         "date": "2024-08-24",
         "victim": "Zeop",
         "domain": "zeop.re",
