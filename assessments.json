@@ -1,5 +1,12 @@
 [
     {
+        "victim": "amsoft.cl",
+        "domain": "amsoft.cl",
+        "country": "CL",
+        "date": "2022-11-26",
+        "group": "lockbit3"
+    },
+    {
         "victim": "cultivarnet.com.br",
         "domain": "cultivarnet.com.br",
         "country": "BR",
