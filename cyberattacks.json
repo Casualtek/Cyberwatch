@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-08-24",
+        "victim": "Timișoara",
+        "domain": "primariatm.ro",
+        "country": "ROU",
+        "summary": "La mairie de Timișoara a été ciblée par une attaque de ransomware massive qui a visé ses serveurs et ceux d'institutions subordonnées, mais les mesures de sécurité ont permis d'arrêter l'attaque avant qu'elle ne compromette tout le système. Aucune donnée personnelle n'a été volée et les services en ligne de la mairie fonctionnent normalement, mais certaines fonctionnalités sont temporairement suspendues. L'enquête est en cours pour identifier les responsables de l'attaque.",
+        "title": "Primăria Timișoara a oprit un atac cibernetic masiv asupra serverelor sale și ale unor instituții subordonate",
+        "url": "https://www.primariatm.ro/2024/08/26/atac-cibernetic",
+        "added": "2024-08-27"
+    },
+    {
         "date": "2024-08-25",
         "victim": "Arntz Optibelt",
         "domain": "optibelt.com",
