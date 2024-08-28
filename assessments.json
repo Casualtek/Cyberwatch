@@ -1,5 +1,12 @@
 [
     {
+        "victim": "lavalpoincon.com",
+        "domain": "lavalpoincon.com",
+        "country": "CA",
+        "date": "2024-03-03",
+        "group": "lockbit3"
+    },
+    {
         "victim": "ccofva.com",
         "domain": "ccofva.com",
         "country": "US",
