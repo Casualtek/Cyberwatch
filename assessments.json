@@ -1,5 +1,12 @@
 [
     {
+        "victim": "acla.de",
+        "domain": "acla.de",
+        "country": "DE",
+        "date": "2024-04-20",
+        "group": "lockbit3"
+    },
+    {
         "victim": "oseranhahn.com",
         "domain": "oseranhahn.com",
         "country": "US",
