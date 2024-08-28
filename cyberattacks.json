@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-08-27",
+        "victim": "Portal do Governo do Estado de Alagoas",
+        "domain": "alagoas.al.gov.br",
+        "country": "BRA",
+        "summary": "Le 27 août, le Portal du Gouvernement de l'État d'Alagoas et les sites hébergés sur ses serveurs ont été ciblés par une tentative d'attaque cybernétique, mais les mesures de sécurité mises en place par l'Institut de Technologie en Informática et Informação (Itec) ont permis de contenir l'attaque sans perte de données personnelles ni dommages significatifs. Certains sites ont été temporairement indisponibles, mais devraient être rétablis d'ici la fin de la journée.",
+        "title": "Tentativa de ataque cibernético ao Portal do Governo de Alagoas é identificada pelo Instituto de Tecnologia em Informática e Informação - A Notícia Alagoas",
+        "url": "https://anoticiaalagoas.com.br/2024/08/27/tentativa-de-ataque-cibernetico-ao-portal-do-governo-de-alagoas-e-identificada-pelo-instituto-de-tecnologia-em-informatica-e-informacao/",
+        "added": "2024-08-28"
+    },
+    {
         "date": "2023-10-28",
         "victim": "Carespring Health Care Management",
         "domain": "carespring.com",
