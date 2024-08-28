@@ -1,5 +1,12 @@
 [
     {
+        "victim": "binder.de",
+        "domain": "binder.de",
+        "country": "DE",
+        "date": "2023-11-03",
+        "group": "lockbit3"
+    },
+    {
         "victim": "truehomesusa.com",
         "domain": "truehomesusa.com",
         "country": "US",
