@@ -1,5 +1,12 @@
 [
     {
+        "victim": "brfibra.com",
+        "domain": "brfibra.com",
+        "country": "BR",
+        "date": "2024-03-07",
+        "group": "lockbit3"
+    },
+    {
         "victim": "ctc-corp.net",
         "domain": "ctc-corp.net",
         "country": "US",
