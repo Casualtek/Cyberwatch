@@ -1,5 +1,12 @@
 [
     {
+        "victim": "ctc-corp.net",
+        "domain": "ctc-corp.net",
+        "country": "US",
+        "date": "2024-03-24",
+        "group": "lockbit3"
+    },
+    {
         "victim": "daubertchemical.com",
         "domain": "daubertchemical.com",
         "country": "US",
