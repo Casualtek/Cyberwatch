@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-07-11",
+        "victim": "Park'N Fly",
+        "domain": "parknfly.ca",
+        "country": "CAN",
+        "summary": "L'opérateur de parking aéroportuaire Park'N Fly a été victime d'une cyberattaque, entraînant la fuite de données de près d'un million de clients canadiens, notamment des noms, adresses e-mail et adresses postales, ainsi que des numéros Aeroplan et CAA. Les attaquants ont accédé au système de l'entreprise via des informations d'identification VPN volées entre le 11 et le 13 juillet 2024. Park'N Fly a restauré ses systèmes dans les cinq jours suivant l'attaque et a mis en place des mesures de sécurité supplémentaires pour protéger les informations de ses clients.",
+        "title": "1m files breached in Park’N Fly cyber attack - Cyber Daily",
+        "url": "https://www.cyberdaily.au/security/11020-1m-files-breached-in-park-n-fly-cyber-attack",
+        "added": "2024-08-28"
+    },
+    {
         "date": "2024-08-15",
         "victim": "Cucamonga Valley Water District",
         "domain": "cvwdwater.com",
