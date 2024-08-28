@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-04-10",
+        "victim": "Young Consulting (Connexure)",
+        "domain": "youngconsulting.com",
+        "country": "USA",
+        "summary": "La société Young Consulting, spécialisée dans les solutions logicielles pour le marché de l'assurance, a été victime d'une cyberattaque par le ransomware BlackSuit en avril 2024, entraînant la fuite de données personnelles de près de 950 000 personnes. Les informations compromises incluent des noms, des numéros de sécurité sociale, des dates de naissance et des informations sur les réclamations d'assurance. Les données volées ont été publiées sur un portail d'extorsion darknet, et les personnes touchées sont invitées à bénéficier d'une surveillance de crédit gratuite pendant 12 mois.",
+        "title": "BlackSuit ransomware stole data of 950,000 from software vendor",
+        "url": "https://www.bleepingcomputer.com/news/security/blacksuit-ransomware-stole-data-of-950-000-from-software-vendor/",
+        "added": "2024-08-28"
+    },
+    {
         "date": "2024-08-21", 
         "victim": "Postnord", 
         "domain": "postnord.se", 
