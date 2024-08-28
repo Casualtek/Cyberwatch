@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-08-21",
+        "victim": "Dick's Sporting Goods, Inc.",
+        "domain": "dickssportinggoods.com",
+        "country": "USA",
+        "summary": "Le 21 août 2024, Dick's Sporting Goods, Inc. a découvert une intrusion non autorisée dans ses systèmes d'information, ce qui a entraîné l'accès à certaines informations confidentielles. L'entreprise a immédiatement activé son plan de réponse à la cybersécurité et a engagé des experts pour enquêter et contenir la menace. L'enquête est toujours en cours, mais l'entreprise ne pense pas que cet incident ait perturbé ses opérations commerciales.",
+        "title": "dks-20240821",
+        "url": "https://www.sec.gov/Archives/edgar/data/1089063/000108906324000104/dks-20240821.htm",
+        "added": "2024-08-28"
+    },
+    {
         "date": "2024-08-27",
         "victim": "Direct Signalétique",
         "domain": "direct-signaletique.com",
