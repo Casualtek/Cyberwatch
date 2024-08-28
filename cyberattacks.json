@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-08-21", 
+        "victim": "Postnord", 
+        "domain": "postnord.se", 
+        "country": "SWE", 
+        "summary": "La société Postnord a été victime d'une cyberattaque mercredi dernier, qui a touché l'un des centres de données de TPL, une filiale de Postnord. Deux grands entrepôts sur le site industriel de Torsvik ont été complètement fermés en raison de l'attaque. L'incident a également affecté les activités de Postnord à Ljungby.", 
+        "title": "Postnord isolerades av cyberattack - Jönköpings-Posten", 
+        "url": "https://www.jp.se/artikel/postnord-isolerades-av-cyberattack/", 
+        "added": "2024-08-28"
+    },    
+    {
         "date": "2024-08-18",
         "victim": "Banham Poultry",
         "domain": "banhampoultry.co.uk",
