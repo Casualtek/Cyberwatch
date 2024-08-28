@@ -1,5 +1,12 @@
 [
     {
+        "victim": "groupe-idea.com",
+        "domain": "groupe-idea.com",
+        "country": "FR",
+        "date": "2023-12-28",
+        "group": "lockbit3"
+    },
+    {
         "victim": "brfibra.com",
         "domain": "brfibra.com",
         "country": "BR",
