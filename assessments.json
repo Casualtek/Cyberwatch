@@ -1,5 +1,12 @@
 [
     {
+        "victim": "habeco.com.vn",
+        "domain": "habeco.com.vn",
+        "country": "VN",
+        "date": "2024-03-20",
+        "group": "lockbit3"
+    },
+    {
         "victim": "dagma.com.ar",
         "domain": "dagma.com.ar",
         "country": "AR",
