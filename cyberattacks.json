@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-08-15",
+        "victim": "Cucamonga Valley Water District",
+        "domain": "cvwdwater.com",
+        "country": "USA",
+        "summary": "Le district de Cucamonga Valley Water a été victime d'une cyberattaque par ransomware le 15 août 2024, qui a affecté ses systèmes de téléphone et de paiement, mais pas son réseau d'alimentation en eau. Les autorités ont été notifiées et des spécialistes ont été engagés pour enquêter sur l'incident. Les clients peuvent continuer à payer leurs factures en ligne ou en personne, et les services d'eau ne seront pas interrompus en raison de non-paiement.",
+        "title": "Alert Center • Update on Computer Network Disruption",
+        "url": "https://cvwdwater.com/AlertCenter.aspx?AID=Update-on-Computer-Network-Disruption-14",
+        "added": "2024-08-28"
+    },
+    {
         "date": "2024-08-27",
         "victim": "Portal do Governo do Estado de Alagoas",
         "domain": "alagoas.al.gov.br",
