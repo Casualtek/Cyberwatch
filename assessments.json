@@ -1,5 +1,12 @@
 [
     {
+        "victim": "dagma.com.ar",
+        "domain": "dagma.com.ar",
+        "country": "AR",
+        "date": "2024-04-21",
+        "group": "lockbit3"
+    },
+    {
         "victim": "acla-werke.com",
         "domain": "acla-werke.com",
         "country": "DE",
