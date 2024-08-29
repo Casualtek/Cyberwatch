@@ -1,5 +1,12 @@
 [
     {
+        "victim": "soken-ce.co.jp",
+        "domain": "soken-ce.co.jp",
+        "country": "JP",
+        "date": "2024-01-16",
+        "group": "lockbit3"
+    },
+    {
         "victim": "hatsinteriors.com",
         "domain": "hatsinteriors.com",
         "country": "AE",
