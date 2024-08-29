@@ -1,5 +1,12 @@
 [
     {
+        "victim": "jdbchina.com",
+        "domain": "jdbchina.com",
+        "country": "CN",
+        "date": "2024-01-11",
+        "group": "lockbit3"
+    },
+    {
         "victim": "groupe-idea.com",
         "domain": "groupe-idea.com",
         "country": "FR",
