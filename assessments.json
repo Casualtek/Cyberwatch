@@ -1,5 +1,12 @@
 [
     {
+        "victim": "sitrack.com",
+        "domain": "sitrack.com",
+        "country": "AR",
+        "date": "2024-01-29",
+        "group": "lockbit3"
+    },
+    {
         "victim": "ksa-architecture.com",
         "domain": "ksa-architecture.com",
         "country": "US",
