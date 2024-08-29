@@ -1,5 +1,12 @@
 [
     {
+        "victim": "alfiras.com",
+        "domain": "alfiras.com",
+        "country": "AE",
+        "date": "2024-01-22",
+        "group": "lockbit3"
+    },
+    {
         "victim": "crbgroup.com",
         "domain": "crbgroup.com",
         "country": "US",
