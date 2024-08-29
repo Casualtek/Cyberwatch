@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-08-26",
+        "victim": "Alcampo",
+        "domain": "alcampo.es",
+        "country": "ESP",
+        "summary": "Alcampo a subi une cyberattaque dans la nuit du dimanche 25 au lundi 26 août. La société a immédiatement contacté des experts pour prendre les mesures nécessaires et a mis en place un système de contingence pour limiter l'impact sur ses opérations. À ce jour, aucune fuite de données concernant les employés ou les clients n'a été détectée, et la situation revient progressivement à la normale.",
+        "title": "Alcampo sufre un ciberataque",
+        "url": "https://www.revistainforetail.com/noticiadet/alcampo-sufre-un-ciberataque/59bb257c9ee55491192b503f4bd7d6ec",
+        "added": "2024-08-29"
+    },
+    {
         "date": "2024-08-21",
         "victim": "Dick's Sporting Goods, Inc.",
         "domain": "dickssportinggoods.com",
