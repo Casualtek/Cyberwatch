@@ -1,5 +1,12 @@
 [
     {
+        "victim": "shinwajpn.co.jp",
+        "domain": "shinwajpn.co.jp",
+        "country": "JP",
+        "date": "2023-12-27",
+        "group": "lockbit3"
+    },
+    {
         "victim": "jdbchina.com",
         "domain": "jdbchina.com",
         "country": "CN",
