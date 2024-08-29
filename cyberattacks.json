@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-08-07",
+        "victim": "Locata",
+        "domain": "locatahousingservices.org.uk",
+        "country": "GBR",
+        "summary": "Une cyberattaque a touché les conseils de Manchester, Salford et Bolton, entraînant la fermeture de leurs sites web de logement et la diffusion d'e-mails de phishing à des milliers de résidents, leur demandant de partager des informations personnelles. La société de logiciels Locata, qui fournit des logiciels de logement aux conseils, a présenté des excuses pour la perturbation et mène une enquête sur l'incident. Les conseils locaux ont averti les résidents de surveiller leurs comptes bancaires et de prendre des mesures de sécurité pour protéger leurs informations personnelles.",
+        "title": "Greater Manchester cyber scam leaves thousands vulnerable",
+        "url": "https://www.bbc.com/news/articles/cn87y0n4jvlo",
+        "added": "2024-08-29"
+    },
+    {
         "date": "2024-08-26",
         "victim": "Alcampo",
         "domain": "alcampo.es",
