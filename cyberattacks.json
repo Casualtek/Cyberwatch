@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-08-13",
+        "victim": "Abecha",
+        "domain": "abecha.com",
+        "country": "SGA",
+        "summary": "La société Abecha, qui fournit des services de commerce électronique, a été victime d'une attaque de logiciel de rançon qui a compromis les informations de carte de crédit de ses clients, notamment ceux qui participent au programme de réduction d'Esso. Les données personnelles telles que les noms, adresses et numéros de téléphone ne semblent pas avoir été affectées. L'enquête est en cours, avec l'aide d'experts en sécurité informatique et des autorités compétentes.",
+        "title": "遭勒索软件攻击 埃索企业车队折扣客户信用卡资料或泄露 - 8world",
+        "url": "https://www.8world.com/singapore/ransomware-attack-esso-discount-programme-customer-card-details-possibly-exposed-2552891",
+        "added": "2024-08-30"
+    },
+    {
         "date": "2024-08-27",
         "victim": "JAS Worldwide",
         "domain": "jas.com",
