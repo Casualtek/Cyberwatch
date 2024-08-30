@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-07-14",
+        "victim": "Hanwha Qcells",
+        "domain": "q-cells.de",
+        "country": "DEU",
+        "summary": "La société allemande Hanwha Qcells, spécialisée dans les énergies solaires, a été victime d'une cyberattaque le 14 juillet 2024, entraînant une fuite de données personnelles de clients et de partenaires commerciaux. Les données volées, qui incluent des noms, adresses, numéros de téléphone, adresses e-mail, mots de passe et informations de compte, sont maintenant proposées à la vente sur le darknet par le groupe de cybercriminels \"Abyss\". Les clients sont avertis de changer leurs mots de passe et de rester vigilants face à d'éventuels phishing et attaques de type \"credential stuffing\".",
+        "title": "Nach Cyberangriff: Solaranbieter \"Qcells\" informiert Kunden über Datenleck | heise online",
+        "url": "https://www.heise.de/news/Nach-Cyberangriff-Solaranbieter-Qcells-informiert-Kunden-ueber-Datenleck-9852641.html",
+        "added": "2024-08-30"
+    },
+    {
         "date": "2024-08-13",
         "victim": "Abecha",
         "domain": "abecha.com",
