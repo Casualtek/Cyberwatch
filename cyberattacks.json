@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-08-28",
+        "victim": "Kernex Microsystems (India) Ltd.",
+        "domain": "kernex.in",
+        "country": "IND",
+        "summary": "Conformément au Règlement 30 de la Securities and Exchange Board of India, la société informe qu'un incident de cybersécurité a eu lieu le 28 août 2024, ciblant son infrastructure informatique par une attaque par ransomware. L'équipe technique de l'entreprise, assistée par des experts externes en cybersécurité, analyse activement l'incident. Aucune répercussion majeure sur les opérations de la société n'a été signalée.",
+        "title": "Disclosure under Regulation 30 of the SEBI Regulations, 2015",
+        "url": "https://www.bseindia.com/xml-data/corpfiling/AttachLive/d14b918c-93dc-4f26-a34f-46bf01f86429.pdf",
+        "added": "2024-08-29"
+    },
+    {
         "date": "2024-08-07",
         "victim": "Locata",
         "domain": "locatahousingservices.org.uk",
