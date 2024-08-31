@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-08-23",
+        "victim": "Mineduc (Ministère de l'Éducation)",
+        "domain": "mineduc.gob.gt",
+        "country": "GTM",
+        "summary": "Le ministère de l'Éducation (Mineduc) a déclaré avoir été victime d'une cyberattaque la semaine dernière, et a porté plainte contre les auteurs auprès des autorités compétentes. Les données sensibles des étudiants et du personnel sont protégées, et les mesures ont été prises pour éviter de nouveaux incidents. Le ministère travaille à restaurer le fonctionnement normal de ses systèmes informatiques.",
+        "title": "Mineduc denuncia ataque cibernético a sus sistemas",
+        "url": "https://emisorasunidas.com/2024/08/30/ministerio-educacion-ataque-cibernetico-agosto-2024/",
+        "added": "2024-08-31"
+    },
+    {
         "date": "2024-07-14",
         "victim": "Hanwha Qcells",
         "domain": "q-cells.de",
