@@ -1,5 +1,19 @@
 [
     {
+        "victim": "hiawathahomes.org",
+        "domain": "hiawathahomes.org",
+        "country": "US",
+        "date": "2024-05-02",
+        "group": "blacksuit"
+    },
+    {
+        "victim": "akanea.com",
+        "domain": "akanea.com",
+        "country": "FR",
+        "date": "2024-02-15",
+        "group": "lockbit3"
+    },
+    {
         "victim": "gbhs.org",
         "domain": "gbhs.org",
         "country": "US",
