@@ -1,5 +1,12 @@
 [
     {
+        "victim": "gbhs.org",
+        "domain": "gbhs.org",
+        "country": "US",
+        "date": "2024-06-21",
+        "group": "blacksuit"
+    },
+    {
         "victim": "a-g.com",
         "domain": "a-g.com",
         "country": "US",
