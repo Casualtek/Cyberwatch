@@ -1,5 +1,12 @@
 [
     {
+        "victim": "colfax.k12.wi.us",
+        "domain": "colfax.k12.wi.us",
+        "country": "US",
+        "date": "2024-04-25",
+        "group": "blacksuit"
+    },
+    {
         "victim": "hiawathahomes.org",
         "domain": "hiawathahomes.org",
         "country": "US",
