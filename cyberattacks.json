@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-09-01",
+        "victim": "Wertachkliniken",
+        "domain": "wertachkliniken.de",
+        "country": "DEU",
+        "summary": "Les cliniques de Bobingen et Schwabmünchen ont subi un cyberattaque le 1er septembre 2024, perturbant gravement leurs systèmes informatiques. Les accès aux données ont été bloqués, entraînant l'annulation des opérations prévues et un passage à un fonctionnement limité en mode analogique. Les autorités ont été informées, et une enquête est en cours pour résoudre la situation avec l'aide d'experts externes.",
+        "title": "IT blockiert | Wertachkliniken Bobingen und Schwabmünchen melden Cyberangriff",
+        "url": "https://presse-augsburg.de/it-blockiert-wertachkliniken-bobingen-und-schwabmuenchen-melden-cyberangriff/969166/",
+        "added": "2024-09-02"
+    },
+    {
         "date": "2024-08-29",
         "victim": "Real Hospital Português de Recife",
         "domain": "rhp.com.br",
