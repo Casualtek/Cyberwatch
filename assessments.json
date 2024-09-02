@@ -1,5 +1,12 @@
 [
     {
+        "victim": "Manotherm",
+        "domain": "manotherm.ie",
+        "country": "IE",
+        "date": "2024-07-30",
+        "group": "ransomhub"
+    },
+    {
         "victim": "Blower Dempsay",
         "domain": "blowerdempsay.com",
         "country": "US",
