@@ -1,5 +1,12 @@
 [
     {
+        "victim": "catiglass.com",
+        "domain": "catiglass.com",
+        "country": "US",
+        "date": "2024-04-29",
+        "group": "blacksuit"
+    },
+    {
         "victim": "ElectriForce",
         "domain": "electriforce.com",
         "country": "US",
