@@ -1,5 +1,12 @@
 [
     {
+        "victim": "Normandy Diesel",
+        "domain": "normandydiesel.fr",
+        "country": "FR",
+        "date": "2024-07-11",
+        "group": "ransomhub"
+    },
+    {
         "victim": "frankmiller.com",
         "domain": "frankmiller.com",
         "country": "US",
