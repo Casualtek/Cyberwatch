@@ -1,5 +1,12 @@
 [
     {
+        "victim": "Greater Mt. Calvary Holy Church",
+        "domain": "gmchc.org",
+        "country": "US",
+        "date": "2024-07-31",
+        "group": "ransomhub"
+    },
+    {
         "victim": "NetConfig",
         "domain": "netconfig.co.za",
         "country": "ZA",
