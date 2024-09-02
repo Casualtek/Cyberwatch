@@ -1,5 +1,12 @@
 [
     {
+        "victim": "ACDC Express",
+        "domain": "acdcexpress.com",
+        "country": "ZA",
+        "date": "2024-05-11",
+        "group": "lockbit3"
+    },
+    {
         "victim": "Normandy Diesel",
         "domain": "normandydiesel.fr",
         "country": "FR",
