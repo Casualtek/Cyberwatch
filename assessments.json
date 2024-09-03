@@ -1,5 +1,12 @@
 [
     {
+        "victim": "cipl.org.in",
+        "domain": "cipl.org.in",
+        "country": "IN",
+        "date": "2024-05-27",
+        "group": "ransomhub"
+    },
+    {
         "victim": "floridahealth.gov",
         "domain": "floridahealth.gov",
         "country": "US",
