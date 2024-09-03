@@ -1,5 +1,12 @@
 [
     {
+        "victim": "kempe.com.au",
+        "domain": "kempe.com.au",
+        "country": "AU",
+        "date": "2024-06-21",
+        "group": "ransomhub"
+    },
+    {
         "victim": "Allium Interiors",
         "domain": "alliuminteriors.co.nz",
         "country": "NZ",
