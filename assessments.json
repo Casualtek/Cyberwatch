@@ -1,5 +1,12 @@
 [
     {
+        "victim": "inv-dar.com",
+        "domain": "inv-dar.com",
+        "country": "SA",
+        "date": "2024-07-31",
+        "group": "ransomhub"
+    },
+    {
         "victim": "mrhme.org",
         "domain": "mrhme.org",
         "country": "US",
