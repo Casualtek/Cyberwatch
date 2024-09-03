@@ -1,5 +1,12 @@
 [
     {
+        "victim": "bluemaven.ca",
+        "domain": "bluemaven.ca",
+        "country": "CA",
+        "date": "2024-08-26",
+        "group": "monti"
+    },
+    {
         "victim": "hudsoncivil.com.au",
         "domain": "hudsoncivil.com.au",
         "country": "AU",
