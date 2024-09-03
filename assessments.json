@@ -1,5 +1,12 @@
 [
     {
+        "victim": "neodesha.org",
+        "domain": "neodesha.org",
+        "country": "US",
+        "date": "2024-05-06",
+        "group": "ransomhub"
+    },
+    {
         "victim": "oriux.com",
         "domain": "oriux.com",
         "country": "US",
