@@ -1,5 +1,12 @@
 [
     {
+        "victim": "iseta.fr",
+        "domain": "iseta.fr",
+        "country": "FR",
+        "date": "2024-05-07",
+        "group": "ransomhub"
+    },
+    {
         "victim": "crezit.com",
         "domain": "crezit.com",
         "country": "ES",
