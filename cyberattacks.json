@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-05-13",
+        "victim": "Bjurholms kommun",
+        "domain": "bjurholm.se",
+        "country": "SWE",
+        "summary": "La commune de Bjurholms a été victime d'une cyberattaque pendant la nuit, qui a rendu inaccessibles ses systèmes internes, son site web et sa fonctionnalité de messagerie électronique. Les responsables de l'attaque sont inconnus et la commune travaille à trouver des solutions pour minimiser l'impact sur les services publics, tels que les soins aux personnes âgées et l'éducation. Les abonnés à internet de la commune seront également touchés, avec une perte d'accès à internet attendue dans les 24 heures.",
+        "title": "Bjurholms kommun utsatt för it-attack - går upp i stabsläge | SVT Nyheter",
+        "url": "https://www.svt.se/nyheter/lokalt/vasterbotten/bjurholms-kommun-utsatt-for-it-attack-gar-upp-i-stabslage",
+        "added": "2024-09-03"
+    },
+    {
         "date": "2024-09-02",
         "victim": "Conseil national de l'ordre des experts-comptables (CNOEC)",
         "domain": "experts-comptables.fr",
