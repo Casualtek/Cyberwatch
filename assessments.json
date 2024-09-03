@@ -1,5 +1,12 @@
 [
     {
+        "victim": "mataderodegijon.es",
+        "domain": "mataderodegijon.es",
+        "country": "ES",
+        "date": "2024-05-16",
+        "group": "ransomhub"
+    },
+    {
         "victim": "acslabtest.com",
         "domain": "acslabtest.com",
         "country": "US",
