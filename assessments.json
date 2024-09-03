@@ -1,5 +1,12 @@
 [
     {
+        "victim": "sfmedical.de",
+        "domain": "sfmedical.de",
+        "country": "DE",
+        "date": "2024-06-19",
+        "group": "ransomhub"
+    },
+    {
         "victim": "baiminstitute.org",
         "domain": "baiminstitute.org",
         "country": "US",
