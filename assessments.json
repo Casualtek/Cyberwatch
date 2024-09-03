@@ -1,5 +1,12 @@
 [
     {
+        "victim": "se.com",
+        "domain": "se.com",
+        "country": "FR",
+        "date": "2024-01-17",
+        "group": "cactus"
+    },
+    {
         "victim": "City of Cedar Falls (via UPC)",
         "domain": "cedarfalls.com",
         "country": "US",
