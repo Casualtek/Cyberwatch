@@ -1,5 +1,12 @@
 [
     {
+        "victim": "cloudeurope.it",
+        "domain": "cloudeurope.it",
+        "country": "IT",
+        "date": "2024-06-22",
+        "group": "ransomhub"
+    },
+    {
         "victim": "cipl.org.in",
         "domain": "cipl.org.in",
         "country": "IN",
