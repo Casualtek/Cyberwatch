@@ -1,5 +1,12 @@
 [
     {
+        "victim": "hudsoncivil.com.au",
+        "domain": "hudsoncivil.com.au",
+        "country": "AU",
+        "date": "2024-07-30",
+        "group": "ransomhub"
+    },
+    {
         "victim": "inv-dar.com",
         "domain": "inv-dar.com",
         "country": "SA",
