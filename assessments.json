@@ -1,5 +1,12 @@
 [
     {
+        "victim": "sobha.com",
+        "domain": "sobha.com",
+        "country": "IN",
+        "date": "2024-08-04",
+        "group": "ransomhub"
+    },
+    {
         "victim": "bluemaven.ca",
         "domain": "bluemaven.ca",
         "country": "CA",
