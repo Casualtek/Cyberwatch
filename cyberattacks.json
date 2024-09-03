@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-09-02",
+        "victim": "Transport for London (TfL)",
+        "domain": "tfl.gov.uk",
+        "country": "GBR",
+        "summary": "Transport for London (TfL) fait face à une cyberattaque en cours, mais assure que les données des clients ne sont pas compromises et que les services ne sont pas affectés. Les systèmes informatiques de l'entreprise, notamment ceux du siège social, sont principalement touchés. TfL travaille avec les autorités pour résoudre l'incident et évalue la situation pour s'assurer que les données des clients sont sécurisées.",
+        "title": "Transport for London faces 'ongoing cyber security incident'",
+        "url": "https://www.bbc.com/news/articles/cd9dpek1883o",
+        "added": "2024-09-03"
+    },
+    {
         "date": "2024-09-01",
         "victim": "Wertachkliniken",
         "domain": "wertachkliniken.de",
