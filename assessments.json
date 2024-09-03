@@ -1,5 +1,12 @@
 [
     {
+        "victim": "eurostrand.de",
+        "domain": "eurostrand.de",
+        "country": "DE",
+        "date": "2024-06-19",
+        "group": "ransomhub"
+    },
+    {
         "victim": "benchinternational.com",
         "domain": "benchinternational.com",
         "country": "US",
