@@ -1,5 +1,12 @@
 [
     {
+        "victim": "nttdata.ro",
+        "domain": "nttdata.ro",
+        "country": "RO",
+        "date": "2024-06-15",
+        "group": "ransomhub"
+    },
+    {
         "victim": "sfmedical.de",
         "domain": "sfmedical.de",
         "country": "DE",
