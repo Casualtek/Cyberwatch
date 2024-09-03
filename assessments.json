@@ -1,5 +1,12 @@
 [
     {
+        "victim": "psgbdvor.rs",
+        "domain": "psgbdvor.rs",
+        "country": "RS",
+        "date": "2024-05-20",
+        "group": "ransomhub"
+    },
+    {
         "victim": "iseta.fr",
         "domain": "iseta.fr",
         "country": "FR",
