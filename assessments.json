@@ -1,5 +1,12 @@
 [
     {
+        "victim": "crezit.com",
+        "domain": "crezit.com",
+        "country": "ES",
+        "date": "2024-05-10",
+        "group": "ransomhub"
+    },
+    {
         "victim": "parlorenzo.com",
         "domain": "parlorenzo.com",
         "country": "US",
