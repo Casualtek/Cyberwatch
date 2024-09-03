@@ -1,5 +1,12 @@
 [
     {
+        "victim": "mangimifusco.it",
+        "domain": "mangimifusco.it",
+        "country": "IT",
+        "date": "2024-06-02",
+        "group": "ransomhub"
+    },
+    {
         "victim": "cloudeurope.it",
         "domain": "cloudeurope.it",
         "country": "IT",
