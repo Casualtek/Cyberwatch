@@ -1,5 +1,12 @@
 [
     {
+        "victim": "whittakersystem.com",
+        "domain": "whittakersystem.com",
+        "country": "US",
+        "date": "2024-07-01",
+        "group": "ransomhub"
+    },
+    {
         "victim": "mcdowallaffleck.com.au",
         "domain": "mcdowallaffleck.com.au",
         "country": "AU",
