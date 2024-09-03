@@ -1,5 +1,12 @@
 [
     {
+        "victim": "Porto de São Francisco do Sul",
+        "domain": "portosaofrancisco.com.br",
+        "country": "BR",
+        "date": "2024-04-24",
+        "group": "ransomhub"
+    },
+    {
         "victim": "lalengineering.com",
         "domain": "lalengineering.com",
         "country": "US",
