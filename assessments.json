@@ -1,5 +1,12 @@
 [
     {
+        "victim": "netavent.dk",
+        "domain": "netavent.dk",
+        "country": "DK",
+        "date": "2024-06-17",
+        "group": "ransomhub"
+    },
+    {
         "victim": "lynchaluminum.com",
         "domain": "lynchaluminum.com",
         "country": "US",
