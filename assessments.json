@@ -1,5 +1,12 @@
 [
     {
+        "victim": "baiminstitute.org",
+        "domain": "baiminstitute.org",
+        "country": "US",
+        "date": "2024-06-28",
+        "group": "ransomhub"
+    },
+    {
         "victim": "netavent.dk",
         "domain": "netavent.dk",
         "country": "DK",
