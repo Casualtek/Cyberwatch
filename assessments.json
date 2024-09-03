@@ -1,5 +1,12 @@
 [
     {
+        "victim": "kumagaigumi.co.jp",
+        "domain": "kumagaigumi.co.jp",
+        "country": "JP",
+        "date": "2024-01-05",
+        "group": "ransomhub"
+    },
+    {
         "victim": "cminsulation.com",
         "domain": "cminsulation.com",
         "country": "US",
