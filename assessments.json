@@ -1,5 +1,12 @@
 [
     {
+        "victim": "okuant.com",
+        "domain": "okuant.com",
+        "country": "ES",
+        "date": "2024-05-13",
+        "group": "ransomhub"
+    },
+    {
         "victim": "neodesha.org",
         "domain": "neodesha.org",
         "country": "US",
