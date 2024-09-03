@@ -1,5 +1,12 @@
 [
     {
+        "victim": "effinghamschools.com",
+        "domain": "effinghamschools.com",
+        "country": "US",
+        "date": "2024-07-31",
+        "group": "ransomhub"
+    },
+    {
         "victim": "retaildatallc.com",
         "domain": "retaildatallc.com",
         "country": "US",
