@@ -1,5 +1,12 @@
 [
     {
+        "victim": "mcdowallaffleck.com.au",
+        "domain": "mcdowallaffleck.com.au",
+        "country": "AU",
+        "date": "2024-07-08",
+        "group": "ransomhub"
+    },
+    {
         "victim": "effinghamschools.com",
         "domain": "effinghamschools.com",
         "country": "US",
