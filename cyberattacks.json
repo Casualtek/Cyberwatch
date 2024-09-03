@@ -1,6 +1,16 @@
 [
     {
         "date": "2024-09-02",
+        "victim": "Conseil national de l'ordre des experts-comptables (CNOEC)",
+        "domain": "experts-comptables.fr",
+        "country": "FRA",
+        "summary": "Le Conseil national de l'ordre des experts-comptables (CNOEC) a subi une attaque informatique sur l'un de ses serveurs hébergés chez un prestataire, entraînant l'interruption de tous ses services opérationnels, y compris le système d'identification Comptexpert. Les équipes informatiques et les experts de la sécurité travaillent pour remettre en état les services techniques et vérifier les risques résiduels. Aucune donnée métier du CNOEC n'a été exfiltrée ou corrompue, et une communication précise sera faite pour informer les utilisateurs concernés dès que les services seront rouverts.",
+        "title": "Conseil supérieur de l'ordre des experts-comptables on LinkedIn: #cnoec",
+        "url": "https://www.linkedin.com/posts/csoec_cnoec-activity-7236404401379119104-gBIg",
+        "added": "2024-09-03"
+    },
+    {
+        "date": "2024-09-02",
         "victim": "Transport for London (TfL)",
         "domain": "tfl.gov.uk",
         "country": "GBR",
