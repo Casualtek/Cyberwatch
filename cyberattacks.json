@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-08-30",
+        "victim": "Val-de-Reuil",
+        "domain": "valdereuil.fr",
+        "country": "FRA",
+        "summary": "La Ville de Val-de-Reuil, dans l'Eure, a été victime d'une cyberattaque qui a affecté ses serveurs, entraînant la suspension des lignes téléphoniques et Internet pour une durée de 24 à 48 heures. Les investigations menées par les services de la Ville et l'Agence nationale de la sécurité des systèmes d'information n'ont pas révélé de fuite de données personnelles ou confidentielles. Les accueils téléphoniques et certains services, tels que la vidéoprotection et les écoles, restent accessibles.",
+        "title": "Dans l’Eure, les serveurs de la Ville de Val-de-Reuil victimes d’une cyberattaque - Paris Normandie",
+        "url": "https://www.paris-normandie.fr/id556416/article/2024-09-05/dans-leure-les-serveurs-de-la-ville-de-val-de-reuil-victimes-dune-cyberattaque",
+        "added": "2024-09-05"
+    },
+    {
         "date": "2024-08-28",
         "victim": "Planned Parenthood",
         "domain": "plannedparenthood.org",
