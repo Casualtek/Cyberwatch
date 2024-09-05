@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-08-28",
+        "victim": "Planned Parenthood",
+        "domain": "plannedparenthood.org",
+        "country": "USA",
+        "summary": "L'organisation à but non lucratif Planned Parenthood a confirmé avoir été victime d'une cyberattaque qui a affecté ses systèmes informatiques, obligeant l'organisation à prendre certaines parties de son infrastructure en ligne pour contenir les dégâts. Le groupe de ransomware RansomHub a revendiqué l'attaque et menace de divulguer 93 Go de données volées si les exigences ne sont pas satisfaites. L'enquête est en cours pour déterminer si des données ont été compromises et Planned Parenthood a informé le FBI de l'incident.",
+        "title": "Planned Parenthood confirms cyberattack as RansomHub claims breach",
+        "url": "https://www.bleepingcomputer.com/news/security/planned-parenthood-confirms-cyberattack-as-ransomhub-claims-breach/",
+        "added": "2024-09-05"
+    },
+    {
         "date": "2024-06-25",
         "victim": "Radiological Society of North America (RSNA)",
         "domain": "rsna.org",
