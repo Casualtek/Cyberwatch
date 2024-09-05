@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-09-04",
+        "victim": "Tewkesbury Borough Council",
+        "domain": "tewkesbury.gov.uk",
+        "country": "GBR",
+        "summary": "Le conseil municipal de Tewkesbury a été victime d'une cyberattaque, ce qui a entraîné la fermeture de nombreux services et la saturation des lignes téléphoniques. Une enquête est en cours, menée en collaboration avec le centre national de sécurité informatique et l'agence de lutte contre la fraude. Les résidents sont avertis que de nombreux services sont indisponibles ou fonctionnent plus lentement que d'ordinaire.",
+        "title": "Tewkesbury Borough Council cyber attack sparks disruption",
+        "url": "https://www.bbc.com/news/articles/c62r9d28456o",
+        "added": "2024-09-05"
+    },
+    {
         "date": "2024-08-30",
         "victim": "Val-de-Reuil",
         "domain": "valdereuil.fr",
