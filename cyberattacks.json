@@ -1,6 +1,16 @@
 [
     {
         "date": "2024-09-05",
+        "victim": "Charles Darwin School",
+        "domain": "cdarwin.com",
+        "country": "GBR",
+        "summary": "L'école Charles Darwin à Bromley a été victime d'une cyberattaque par ransomware, ce qui a entraîné la fermeture de l'établissement du 9 au 11 septembre pour permettre la désinfection des appareils et la planification de nouvelles leçons. L'attaque a peut-être donné accès à toutes les informations détenues par l'école, mais les données enregistrées dans les systèmes cloud et chez les fournisseurs externes, tels que Parent Pay, n'ont pas été compromises. Une enquête forensique est en cours et l'école travaille avec des experts pour restaurer ses systèmes et protéger les données.",
+        "title": "Charles Darwin School Bromley closes due to cyber attack | News Shopper",
+        "url": "https://www.newsshopper.co.uk/news/24568640.charles-darwin-school-bromley-closes-due-cyber-attack/",
+        "added": "2024-09-07"
+    },
+    {
+        "date": "2024-09-05",
         "victim": "Air-e",
         "domain": "air-e.com",
         "country": "COL",
