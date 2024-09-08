@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-09-06",
+        "victim": "Superior Tribunal de Justiça (STJ)",
+        "domain": "stj.jus.br",
+        "country": "BRA",
+        "summary": "Le Superior Tribunal de Justiça (STJ) du Brésil a été victime d'une attaque cibérnétique vendredi dernier, mais a réussi à résoudre le problème en quelques minutes sans causer de pertes pour les utilisateurs. L'enquête sur l'incident est en cours, mais les détails ne sont pas encore disponibles. Par ailleurs, le site de la Police Militaire du District Fédéral est hors ligne depuis deux jours, mais il est impossible de déterminer si cela est lié à une attaque cibérnétique.",
+        "title": "STJ sofre ataque hacker; tribunal diz que não houve prejuízos",
+        "url": "https://www.bol.uol.com.br/noticias/2024/09/08/ataque-cibernetico-stj-paralisacao-sistemas-df-policia.htm",
+        "added": "2024-09-08"
+    },
+    {
         "date": "2024-09-05",
         "victim": "Charles Darwin School",
         "domain": "cdarwin.com",
