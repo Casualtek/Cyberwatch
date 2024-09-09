@@ -1,5 +1,12 @@
 [
     {
+        "victim": "www.swinburne.edu",
+        "domain": "swinburne.edu",
+        "country": "US",
+        "date": "2024-08-11",
+        "group": "ransomhub"
+    },
+    {
         "victim": "www.gruyeria.ch",
         "domain": "gruyeria.ch",
         "country": "CH",
