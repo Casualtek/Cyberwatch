@@ -1,5 +1,12 @@
 [
     {
+        "victim": "Schneider Regional Medical Center",
+        "domain": "srmedicalcenter.org",
+        "country": "US",
+        "date": "2024-07-16",
+        "group": "qilin"
+    },
+    {
         "victim": "CODAC",
         "domain": "codacinc.org",
         "country": "US",
