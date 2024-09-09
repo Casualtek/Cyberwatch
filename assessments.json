@@ -1,5 +1,12 @@
 [
     {
+        "victim": "www.pokerspa.it",
+        "domain": "pokerspa.it",
+        "country": "IT",
+        "date": "2024-08-24",
+        "group": "ransomhub"
+    },
+    {
         "victim": "www.timortelecom.tl",
         "domain": "timortelecom.tl",
         "country": "TL",
