@@ -1,5 +1,12 @@
 [
     {
+        "victim": "www.spie-tec.de",
+        "domain": "spie-tec.de",
+        "country": "DE",
+        "date": "2024-08-19",
+        "group": "ransomhub"
+    },
+    {
         "victim": "www.swinburne.edu",
         "domain": "swinburne.edu",
         "country": "US",
