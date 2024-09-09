@@ -1,5 +1,12 @@
 [
     {
+        "victim": "www.schneider.ch",
+        "domain": "schneider.ch",
+        "country": "CH",
+        "date": "2024-08-18",
+        "group": "ransomhub"
+    },
+    {
         "victim": "www.pokerspa.it",
         "domain": "pokerspa.it",
         "country": "IT",
