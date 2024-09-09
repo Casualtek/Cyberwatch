@@ -1,5 +1,12 @@
 [
     {
+        "victim": "www.gruyeria.ch",
+        "domain": "gruyeria.ch",
+        "country": "CH",
+        "date": "2024-08-01",
+        "group": "ransomhub"
+    },
+    {
         "victim": "www.ramoncorripio.com",
         "domain": "ramoncorripio.com",
         "country": "DO",
