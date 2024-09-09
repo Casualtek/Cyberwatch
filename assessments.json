@@ -1,5 +1,12 @@
 [
     {
+        "victim": "ymca.org.il",
+        "domain": "ymca.org.il",
+        "country": "IL",
+        "date": "2024-08-12",
+        "group": "qilin"
+    },
+    {
         "victim": "atlanticice.com",
         "domain": "atlanticice.com",
         "country": "US",
