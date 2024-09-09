@@ -1,5 +1,12 @@
 [
     {
+        "victim": "CODAC",
+        "domain": "codacinc.org",
+        "country": "US",
+        "date": "2024-07-11",
+        "group": "qilin"
+    },
+    {
         "victim": "dt-technologies",
         "domain": "dt-group.com",
         "country": "FR",
