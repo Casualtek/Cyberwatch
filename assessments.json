@@ -1,5 +1,12 @@
 [
     {
+        "victim": "www.suvacity.org",
+        "domain": "suvacity.org",
+        "country": "FJ",
+        "date": "2024-08-21",
+        "group": "ransomhub"
+    },
+    {
         "victim": "www.johnkellys.com",
         "domain": "johnkellys.com",
         "country": "US",
