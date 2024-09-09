@@ -1,5 +1,12 @@
 [
     {
+        "victim": "dt-technologies",
+        "domain": "dt-group.com",
+        "country": "FR",
+        "date": "2024-08-02",
+        "group": "qilin"
+    },
+    {
         "victim": "Turman",
         "domain": "turmaninc.com",
         "country": "US",
