@@ -1,5 +1,12 @@
 [
     {
+        "victim": "www.timortelecom.tl",
+        "domain": "timortelecom.tl",
+        "country": "TL",
+        "date": "2024-06-12",
+        "group": "ransomhub"
+    },
+    {
         "victim": "www.suvacity.org",
         "domain": "suvacity.org",
         "country": "FJ",
