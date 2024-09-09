@@ -1,5 +1,12 @@
 [
     {
+        "victim": "www.ramoncorripio.com",
+        "domain": "ramoncorripio.com",
+        "country": "DO",
+        "date": "2024-08-21",
+        "group": "ransomhub"
+    },
+    {
         "victim": "prasarana.com.my",
         "domain": "prasarana.com.my",
         "country": "MY",
