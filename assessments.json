@@ -1,5 +1,12 @@
 [
     {
+        "victim": "www.sanyo-bussan.co.jp",
+        "domain": "sanyo-bussan.co.jp",
+        "country": "JP",
+        "date": "2024-08-20",
+        "group": "ransomhub"
+    },
+    {
         "victim": "www.schneider.ch",
         "domain": "schneider.ch",
         "country": "CH",
