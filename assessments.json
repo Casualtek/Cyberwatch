@@ -1,5 +1,12 @@
 [
     {
+        "victim": "ASST Rhodense",
+        "domain": "asst-rhodense.it",
+        "country": "IT",
+        "date": "2024-06-04",
+        "group": "cicada3301"
+    },
+    {
         "victim": "Valley Bulk",
         "domain": "valleybulkinc.com",
         "country": "US",
