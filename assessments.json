@@ -1,5 +1,12 @@
 [
     {
+        "victim": "Bayou DeSiard Country Club - Monroe, LA",
+        "domain": "bayoudesiardcc.com",
+        "country": "US",
+        "date": "2024-08-23",
+        "group": "cicada3301"
+    },
+    {
         "victim": "OSDA Contract Services",
         "domain": "osda.com",
         "country": "GB",
