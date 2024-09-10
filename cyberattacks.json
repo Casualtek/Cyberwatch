@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-09-08",
+        "victim": "Groupe Bayard",
+        "domain": "groupebayard.com",
+        "country": "FRA",
+        "summary": "Le 8 septembre 2024, une cyberattaque de type rançongiciel a affecté les systèmes informatiques d'une entreprise, perturbant la publication et la gestion de certains titres, dont La Croix. Les équipes techniques, avec des experts en cybersécurité, travaillent à rétablir les systèmes de manière sécurisée.",
+        "title": "Le Groupe Bayard a été victime d’une cyberattaque",
+        "url": "https://www.groupebayard.com/wp-content/uploads/2024-09-10_Groupe-Bayard-cyberattaque.pdf",
+        "added": "2024-09-10"
+    },
+    {
         "date": "2024-09-09",
         "victim": "Université de Gênes",
         "domain": "unige.it",
