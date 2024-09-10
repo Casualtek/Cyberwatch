@@ -1,5 +1,26 @@
 [
     {
+        "victim": "vitaldent.com",
+        "domain": "vitaldent.com",
+        "country": "ES",
+        "date": "2024-06-13",
+        "group": "madliberator"
+    },
+    {
+        "victim": "crosswear.co.uk",
+        "domain": "crosswear.co.uk",
+        "country": "GB",
+        "date": "2024-06-19",
+        "group": "madliberator"
+    },
+    {
+        "victim": "zb.co.zw",
+        "domain": "zb.co.zw",
+        "country": "ZW",
+        "date": "2024-07-13",
+        "group": "madliberator"
+    },
+    {
         "victim": "Bayou DeSiard Country Club - Monroe, LA",
         "domain": "bayoudesiardcc.com",
         "country": "US",
