@@ -1,5 +1,12 @@
 [
     {
+        "victim": "OSDA Contract Services",
+        "domain": "osda.com",
+        "country": "GB",
+        "date": "2024-08-12",
+        "group": "blacksuit"
+    },
+    {
         "victim": "ymca.org.il",
         "domain": "ymca.org.il",
         "country": "IL",
