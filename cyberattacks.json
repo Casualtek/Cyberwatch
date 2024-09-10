@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-09-09",
+        "victim": "Université de Gênes",
+        "domain": "unige.it",
+        "country": "ITA",
+        "summary": "L'Université de Gênes a été victime d'une cyberattaque attribuée au groupe de hackers \"RansomHub\", qui a volé environ 18 Go de données et réclame une rançon en échange de ne pas les divulguer. Les enquêteurs de la police postale ont ouvert une enquête et ont un délai de 13 jours pour payer la rançon. Ce groupe de hackers est déjà connu pour avoir attaqué le ville de Taggia en 2023, réclamant une rançon de 300 000 dollars.",
+        "title": "Gli hacker attaccano l’Università di Genova: sottratti dati e chiesto un riscatto. Indagini della Polizia postale - la Repubblica",
+        "url": "https://genova.repubblica.it/cronaca/2024/09/10/news/gli_hacker_attaccano_luniversita_di_genova_sottratti_dati_e_chiesto_un_riscatto_indagini_della_polizia_postale-423489486/",
+        "added": "2024-09-10"
+    },
+    {
         "date": "2024-09-05",
         "victim": "Elektroskandia",
         "domain": "elektroskandia.se",
