@@ -1,5 +1,12 @@
 [
     {
+        "victim": "Wilmington Country Club",
+        "domain": "wilmingtoncc.org",
+        "country": "US",
+        "date": "2024-08-28",
+        "group": "ransomhub"
+    },
+    {
         "victim": "Amber Beverage Group",
         "domain": "amberbev.com",
         "country": "LV",
