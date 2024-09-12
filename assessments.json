@@ -1,5 +1,12 @@
 [
     {
+        "victim": "Bridgestone Americas",
+        "domain": "bridgestoneamericas.com",
+        "country": "US",
+        "date": "2022-02-27",
+        "group": "lockbit3"
+    },
+    {
         "victim": "HP Hood",
         "domain": "hphood.com",
         "country": "US",
