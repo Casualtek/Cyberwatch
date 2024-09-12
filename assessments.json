@@ -1,5 +1,12 @@
 [
     {
+        "victim": "Granja Alconca CA",
+        "domain": "alconca.com.ve",
+        "country": "VE",
+        "date": "2024-06-30",
+        "group": "lockbit3"
+    },
+    {
         "victim": "PT Sampoerna Agro Tbk",
         "domain": "sampoernaagro.com",
         "country": "ID",
