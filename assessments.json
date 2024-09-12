@@ -1,5 +1,12 @@
 [
     {
+        "victim": "Albany Bank",
+        "domain": "albanybank.com",
+        "country": "US",
+        "date": "2022-02-05",
+        "group": "lockbit3"
+    },
+    {
         "victim": "Bridgestone Americas",
         "domain": "bridgestoneamericas.com",
         "country": "US",
