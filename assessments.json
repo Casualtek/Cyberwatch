@@ -1,5 +1,12 @@
 [
     {
+        "victim": "Ince & Co",
+        "domain": "inces.com",
+        "country": "GB",
+        "date": "2022-02-16",
+        "group": "lockbit3"
+    },
+    {
         "victim": "PKF Australia",
         "domain": "pkf.com.au",
         "country": "AU",
