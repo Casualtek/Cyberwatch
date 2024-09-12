@@ -1,5 +1,12 @@
 [
     {
+        "victim": "PT Sampoerna Agro Tbk",
+        "domain": "sampoernaagro.com",
+        "country": "ID",
+        "date": "2024-08-06",
+        "group": "lockbit3"
+    },
+    {
         "victim": "Albany Bank",
         "domain": "albanybank.com",
         "country": "US",
