@@ -1,6 +1,16 @@
 [
     {
         "date": "2024-09-12",
+        "victim": "LolaLiza",
+        "domain": "lolaliza.com",
+        "country": "BEL",
+        "summary": "Le site de prêt-à-porter LolaLiza a été victime d'une cyberattaque, ce qui signifie que les données personnelles de ses clients, notamment nom, adresse électronique, numéro de téléphone portable, adresse postale et date de naissance, pourraient avoir été compromises. La divulgation de ces informations peut entraîner des répercussions graves, telles que l'usurpation d'identité, le phishing ciblé ou des transactions non autorisées. Les clients concernés peuvent contacter le service dédié de LolaLiza pour obtenir plus d'informations.",
+        "title": "Ce site de prêt-à-porter victime d'une cyberattaque : vous êtes peut-être concerné - La DH/Les Sports+",
+        "url": "https://www.dhnet.be/lifestyle/magazine/2024/09/13/ce-site-de-pret-a-porter-victime-dune-cyberattaque-vous-etes-peut-etre-concerne-U3OUZZATWNDYZNGQZ3HPRH2M74/",
+        "added": "2024-09-13"
+    },
+    {
+        "date": "2024-09-12",
         "victim": "株式会社関通 (Kantsu)",
         "domain": "kantsu.com",
         "country": "JPN",
