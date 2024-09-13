@@ -1,5 +1,12 @@
 [
     {
+        "victim": "Luis Felipe Edwards Wines",
+        "domain": "lfewines.com",
+        "country": "CL",
+        "date": "2024-08-22",
+        "group": "ransomhub"
+    },
+    {
         "victim": "www.chwa.com.tw",
         "domain": "chwa.com.tw",
         "country": "TW",
