@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-09-12",
+        "victim": "株式会社関通 (Kantsu)",
+        "domain": "kantsu.com",
+        "country": "JPN",
+        "summary": "La société japonaise 関通 (Kantsu) a été victime d'une cyberattaque par ransomware le 12 septembre 2024, entraînant la détection d'une infection sur certains de ses serveurs et la coupure de ses réseaux pour prévenir d'autres attaques. Une équipe d'urgence a été mise en place pour enquêter sur l'incident et prendre des mesures pour réparer les dégâts et prévenir de nouvelles attaques. La société s'engage à informer rapidement de tout développement supplémentaire concernant cet incident.",
+        "title": "｜新着ニュース｜物流倉庫アウトソーシングの関通（旧関西商業流通）",
+        "url": "https://www.kantsu.com/news/6573/",
+        "added": "2024-09-13"
+    },
+    {
         "date": "2024-09-02",
         "victim": "Kawasaki Motors Europe",
         "domain": "kawasaki.co.uk",
