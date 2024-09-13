@@ -70358,6 +70358,11 @@
                 "date": "2024-08-30",
                 "type": "claimed",
                 "group": "lockbit3"
+            },
+            {
+                "date": "2024-03-26",
+                "type": "assessed",
+                "group": "lockbit3"
             }
         ]
     },
@@ -96890,6 +96895,11 @@
                 "date": "2024-08-30",
                 "type": "claimed",
                 "group": "lockbit3"
+            },
+            {
+                "date": "2024-05-06",
+                "type": "assessed",
+                "group": "lockbit3"
             }
         ]
     },
@@ -111511,6 +111521,11 @@
                 "date": "2024-08-28",
                 "type": "claimed",
                 "group": "ransomhub"
+            },
+            {
+                "date": "2024-08-13",
+                "type": "assessed",
+                "group": "ransomhub"
             }
         ]
     },
@@ -112707,6 +112722,11 @@
                 "date": "2024-08-30",
                 "type": "claimed",
                 "group": "lockbit3"
+            },
+            {
+                "date": "2024-04-24",
+                "type": "assessed",
+                "group": "lockbit3"
             }
         ]
     },
@@ -112829,6 +112849,11 @@
             {
                 "date": "2024-08-30",
                 "type": "claimed",
+                "group": "ransomhub"
+            },
+            {
+                "date": "2024-08-22",
+                "type": "assessed",
                 "group": "ransomhub"
             }
         ]
@@ -114182,6 +114207,17 @@
                 "date": "2024-09-05",
                 "type": "claimed",
                 "group": "ransomhub"
+            },
+            {
+                "date": "2024-09-13",
+                "type": "discovered",
+                "summary": "Le siège européen de Kawasaki a été victime d'une cyberattaque, mais a réussi à se remettre de l'incident. Les détails de l'attaque et de son impact sur l'entreprise ne sont pas précisés. Kawasaki a probablement pris des mesures pour sécuriser ses systèmes et protéger les données de ses clients.",
+                "title": "Kawasaki’s European HQ recovers from cyber attack",
+                "url": "https://webcache.googleusercontent.com/search?q=cache%3Ahttps%3A%2F%2Fwww.kawasaki.co.uk%2Fen%2Fnews%2FKawasaki_s_European_HQ_recovers_from_cyber_attack_%3FUid%3D0805CwpYXQpdWVlQDV9YXFsOUFBfWQ5YCl9fUVtcWwtfWV0%23%3A~%3Atext%3D12%2520September%25202024%2520Kawasaki%27s%2520European%2520HQ%2520recovers%2520from%2520cyber%2520attack%26text%3DAt%2520the%2520start%2520of%2520September%2Clater%2520on%2520the%2520same%2520day"
+            },
+            {
+                "date": "2024-09-02",
+                "type": "reported"
             }
         ]
     },
@@ -115046,19 +115082,37 @@
         ]
     },
     {
-        "victim": "Kawasaki Motors Europe",
-        "domain": "kawasaki.co.uk",
-        "country": "GB",
+        "victim": "LolaLiza",
+        "domain": "lolaliza.com",
+        "country": "BE",
         "timeline": [
             {
                 "date": "2024-09-13",
                 "type": "discovered",
-                "summary": "Le siège européen de Kawasaki a été victime d'une cyberattaque, mais a réussi à se remettre de l'incident. Les détails de l'attaque et de son impact sur l'entreprise ne sont pas précisés. Kawasaki a probablement pris des mesures pour sécuriser ses systèmes et protéger les données de ses clients.",
-                "title": "Kawasaki’s European HQ recovers from cyber attack",
-                "url": "https://webcache.googleusercontent.com/search?q=cache%3Ahttps%3A%2F%2Fwww.kawasaki.co.uk%2Fen%2Fnews%2FKawasaki_s_European_HQ_recovers_from_cyber_attack_%3FUid%3D0805CwpYXQpdWVlQDV9YXFsOUFBfWQ5YCl9fUVtcWwtfWV0%23%3A~%3Atext%3D12%2520September%25202024%2520Kawasaki%27s%2520European%2520HQ%2520recovers%2520from%2520cyber%2520attack%26text%3DAt%2520the%2520start%2520of%2520September%2Clater%2520on%2520the%2520same%2520day"
+                "summary": "Le site de prêt-à-porter LolaLiza a été victime d'une cyberattaque, ce qui signifie que les données personnelles de ses clients, notamment nom, adresse électronique, numéro de téléphone portable, adresse postale et date de naissance, pourraient avoir été compromises. La divulgation de ces informations peut entraîner des répercussions graves, telles que l'usurpation d'identité, le phishing ciblé ou des transactions non autorisées. Les clients concernés peuvent contacter le service dédié de LolaLiza pour obtenir plus d'informations.",
+                "title": "Ce site de prêt-à-porter victime d'une cyberattaque : vous êtes peut-être concerné - La DH/Les Sports+",
+                "url": "https://www.dhnet.be/lifestyle/magazine/2024/09/13/ce-site-de-pret-a-porter-victime-dune-cyberattaque-vous-etes-peut-etre-concerne-U3OUZZATWNDYZNGQZ3HPRH2M74/"
             },
             {
-                "date": "2024-09-02",
+                "date": "2024-09-12",
+                "type": "reported"
+            }
+        ]
+    },
+    {
+        "victim": "株式会社関通 (Kantsu)",
+        "domain": "kantsu.com",
+        "country": "JP",
+        "timeline": [
+            {
+                "date": "2024-09-13",
+                "type": "discovered",
+                "summary": "La société japonaise 関通 (Kantsu) a été victime d'une cyberattaque par ransomware le 12 septembre 2024, entraînant la détection d'une infection sur certains de ses serveurs et la coupure de ses réseaux pour prévenir d'autres attaques. Une équipe d'urgence a été mise en place pour enquêter sur l'incident et prendre des mesures pour réparer les dégâts et prévenir de nouvelles attaques. La société s'engage à informer rapidement de tout développement supplémentaire concernant cet incident.",
+                "title": "｜新着ニュース｜物流倉庫アウトソーシングの関通（旧関西商業流通）",
+                "url": "https://www.kantsu.com/news/6573/"
+            },
+            {
+                "date": "2024-09-12",
                 "type": "reported"
             }
         ]
