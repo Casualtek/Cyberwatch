@@ -1,8 +1,18 @@
 [
     {
+        "date": "2024-09-02",
+        "victim": "Kawasaki Motors Europe",
+        "domain": "kawasaki.co.uk",
+        "country": "GBR",
+        "summary": "Le siège européen de Kawasaki a été victime d'une cyberattaque, mais a réussi à se remettre de l'incident. Les détails de l'attaque et de son impact sur l'entreprise ne sont pas précisés. Kawasaki a probablement pris des mesures pour sécuriser ses systèmes et protéger les données de ses clients.",
+        "title": "Kawasaki’s European HQ recovers from cyber attack",
+        "url": "https://webcache.googleusercontent.com/search?q=cache%3Ahttps%3A%2F%2Fwww.kawasaki.co.uk%2Fen%2Fnews%2FKawasaki_s_European_HQ_recovers_from_cyber_attack_%3FUid%3D0805CwpYXQpdWVlQDV9YXFsOUFBfWQ5YCl9fUVtcWwtfWV0%23%3A~%3Atext%3D12%2520September%25202024%2520Kawasaki%27s%2520European%2520HQ%2520recovers%2520from%2520cyber%2520attack%26text%3DAt%2520the%2520start%2520of%2520September%2Clater%2520on%2520the%2520same%2520day",
+        "added": "2024-09-13"
+    },
+    {
         "date": "2024-09-08",
         "victim": "Isbergues",
-        "domain": "ville-isbergues.fr",
+        "domain": "ville-isbergues",
         "country": "FRA",
         "summary": "La mairie d'Isbergues a été victime d'une cyberattaque dimanche, impactant la majorité de ses services. Les mesures d'urgence ont été mises en place pour sécuriser les accès et déterminer l'origine et la gravité de la situation. Les citoyens sont appelés à faire preuve de prudence face à des mails suspects et à changer leurs mots de passe pour éviter d'éventuels problèmes.",
         "title": "La mairie d’Isbergues victime d’une cyberattaque depuis dimanche : la majorité des services impactés - La Voix du Nord",
