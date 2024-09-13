@@ -1,5 +1,12 @@
 [
     {
+        "victim": "www.chwa.com.tw",
+        "domain": "chwa.com.tw",
+        "country": "TW",
+        "date": "2024-08-13",
+        "group": "ransomhub"
+    },
+    {
         "victim": "Jutebag",
         "domain": "jutebag.co.uk",
         "country": "GB",
