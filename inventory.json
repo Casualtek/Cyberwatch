@@ -116696,66 +116696,6 @@
         ]
     },
     {
-        "victim": "Anniversary Holding Company LLC",
-        "domain": "AnniversaryHoldingCompanyLLC.nodomain",
-        "country": "CH",
-        "timeline": [
-            {
-                "date": "2024-09-09",
-                "type": "claimed",
-                "group": "bianlian"
-            }
-        ]
-    },
-    {
-        "victim": "IDF and Mossad agents",
-        "domain": "IDFandMossadagents.nodomain",
-        "country": "IL",
-        "timeline": [
-            {
-                "date": "2024-09-10",
-                "type": "claimed",
-                "group": "meow"
-            }
-        ]
-    },
-    {
-        "victim": "Advanced Physician Management Services LLC",
-        "domain": "AdvancedPhysicianManagementServicesLLC.nodomain",
-        "country": "US",
-        "timeline": [
-            {
-                "date": "2024-09-11",
-                "type": "claimed",
-                "group": "meow"
-            }
-        ]
-    },
-    {
-        "victim": "Clatronic International GmbH",
-        "domain": "clatronic.de",
-        "country": "DE",
-        "timeline": [
-            {
-                "date": "2024-09-11",
-                "type": "claimed",
-                "group": "fog"
-            }
-        ]
-    },
-    {
-        "victim": "CSMR Agrupación de Colaboración Empresaria",
-        "domain": "CSMRAgrupacióndeColaboraciónEmpresaria.nodomain",
-        "country": "AR",
-        "timeline": [
-            {
-                "date": "2024-09-12",
-                "type": "claimed",
-                "group": "meow"
-            }
-        ]
-    },
-    {
         "victim": "Centrakor, Gémo, Tao Kids",
         "domain": "Centrakor,Gémo,TaoKids.nodomain",
         "country": "FR",
