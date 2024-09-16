@@ -1,5 +1,12 @@
 [
     {
+        "victim": "Inglenorth.co.uk",
+        "domain": "inglenorth.co.uk",
+        "country": "GB",
+        "date": "2024-08-30",
+        "group": "ransomhub"
+    },
+    {
         "victim": "PHD Services",
         "domain": "phdservices.net",
         "country": "US",
