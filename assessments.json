@@ -1,5 +1,12 @@
 [
     {
+        "victim": "CBT GmbH",
+        "domain": "cbt-gmbh.de",
+        "country": "DE",
+        "date": "2024-09-01",
+        "group": "ransomhub"
+    },
+    {
         "victim": "Tri-Tech",
         "domain": "tri-tech.us",
         "country": "US",
