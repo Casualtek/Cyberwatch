@@ -1,5 +1,12 @@
 [
     {
+        "victim": "Department of Physical Education of Thailand",
+        "domain": "dpe.go.th",
+        "country": "TH",
+        "date": "2024-09-07",
+        "group": "ransomhub"
+    },
+    {
         "victim": "Inglenorth.co.uk",
         "domain": "inglenorth.co.uk",
         "country": "GB",
