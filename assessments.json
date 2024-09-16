@@ -1,5 +1,12 @@
 [
     {
+        "victim": "Atos",
+        "domain": "atos.com",
+        "country": "IT",
+        "date": "2024-06-17",
+        "group": "blackbasta"
+    },
+    {
         "victim": "memc.com",
         "domain": "memc.com",
         "country": "US",
