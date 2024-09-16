@@ -1,5 +1,12 @@
 [
     {
+        "victim": "PHD Services",
+        "domain": "phdservices.net",
+        "country": "US",
+        "date": "2024-08-31",
+        "group": "ransomhub"
+    },
+    {
         "victim": "CBT GmbH",
         "domain": "cbt-gmbh.de",
         "country": "DE",
