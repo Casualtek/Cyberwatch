@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-09-16",
+        "victim": "TAAG",
+        "domain": "taag.com",
+        "country": "AGO",
+        "summary": "La compagnie aérienne angolane TAAG a été victime d'une cyberattaque qui a perturbé certains de ses services basés sur des serveurs locaux, mais l'opérationnalité de l'entreprise n'a pas été affectée. La direction de la technologie de l'information travaille à normaliser les services affectés et un plan de contingence a été activé. L'incident a été signalé aux autorités compétentes et la TAAG assure la continuité de ses opérations, notamment la programmation des vols et la délivrance de billets.",
+        "title": "Transportadora aérea angolana TAAG alvo de ataque cibernético - Impala",
+        "url": "https://www.impala.pt/noticias/economia/transportadora-aerea-angolana-taag-alvo-de-ataque-cibernetico/",
+        "added": "2024-09-17"
+    },
+    {
         "date": "2024-09-15",
         "victim": "Radio Geretsried",
         "domain": "radio-geretsried.de",
