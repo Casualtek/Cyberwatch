@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-09-14",
+        "victim": "Zacros",
+        "domain": "zacros.co.jp",
+        "country": "JPN",
+        "summary": "La société Zacros a été victime d'une cyberattaque avec ransomware, qui a crypté certaines de ses serveurs. Une équipe d'urgence a été mise en place pour enquêter sur l'incident et restaurer les systèmes, avec l'aide d'experts externes et de la police. L'ampleur de la cyberattaque n'est pas encore entièrement évaluée, mais la société s'excuse auprès de ses partenaires et clients pour les inconvénients causés.",
+        "title": "ランサムウェア被害の発生について - 藤森工業",
+        "url": "https://www.zacros.co.jp/news/news-1302/",
+        "added": "2024-09-17"
+    },
+    {
         "date": "2024-09-16",
         "victim": "Heinrich-Böll-Gesamtschule et Rurtal-Gymnasium",
         "domain": "dueren.de",
