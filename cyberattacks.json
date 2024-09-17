@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-08-26",
+        "victim": "Robert-Havemann-Gesellschaft",
+        "domain": "havemann-gesellschaft.de",
+        "country": "DEU",
+        "summary": "La Robert-Havemann-Gesellschaft e. V. (RHG) a été victime d'une cyberattaque. L'organisation mène actuellement une enquête approfondie pour évaluer l'incident et ses éventuelles répercussions. À ce stade, il n'est pas encore clair quelles données ont pu être compromises. La protection des données des utilisateurs reste la priorité de la RHG, qui prend des mesures pour limiter les dommages potentiels.",
+        "title": "Meldung Datenschutzvorfall und eingeschränkter Service im Archiv der DDR-Opposition",
+        "url": "https://www.havemann-gesellschaft.de/aktuelles/",
+        "added": "2024-09-17"
+    },
+    {
         "date": "2024-09-16",
         "victim": "TAAG",
         "domain": "taag.com",
