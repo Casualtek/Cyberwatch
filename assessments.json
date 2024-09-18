@@ -1,5 +1,12 @@
 [
     {
+        "victim": "Cape Cod Academy",
+        "domain": "capecodacademy.org",
+        "country": "US",
+        "date": "2024-08-30",
+        "group": "ransomhub"
+    },
+    {
         "victim": "mtmrobotics.com",
         "domain": "mtmrobotics.com",
         "country": "US",
