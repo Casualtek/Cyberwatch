@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-09-16",
+        "victim": "Fylde Coast Academy Trust",
+        "domain": "fcat.org.uk",
+        "country": "GBR",
+        "summary": "Le Fylde Coast Academy Trust, qui gère 10 écoles dans le nord-ouest de l'Angleterre, a été victime d'une cyberattaque par ransomware, qui a infecté son réseau informatique et a demandé une rançon en échange de la restauration des systèmes. Les écoles ont dû revenir à des méthodes de travail manuelles, comme les registres papier et les enseignements à partir de livres, en attendant que les systèmes soient restaurés. La restauration des services est attendue pour la semaine prochaine, mais il faudra plusieurs semaines pour s'assurer que le ransomware est complètement éliminé.",
+        "title": "Hackers hold Lancashire academy schools to ransom after cyber attack",
+        "url": "https://www.blackpoolgazette.co.uk/news/crime/hackers-hold-lancashire-academy-schools-to-ransom-after-cyber-attack-4787702",
+        "added": "2024-09-18"
+    },
+    {
         "date": "2023-12-05",
         "victim": "La coopérative Even",
         "domain": "even.fr",
