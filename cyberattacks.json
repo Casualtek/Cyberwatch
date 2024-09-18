@@ -1,5 +1,15 @@
 [
     {
+        "date": "2023-12-05",
+        "victim": "La coopérative Even",
+        "domain": "even.fr",
+        "country": "FRA",
+        "summary": "La coopérative Even a été victime d'une cyberattaque en décembre 2023, qui a permis aux pirates d'accéder à des données sensibles de 4 000 comptes, mais la coopérative a réussi à réagir rapidement et à éviter une rançon. L'attaque est suspectée d'avoir été lancée depuis les Pays-Bas par des acteurs étrangers, ce qui souligne la menace croissante des cyberattaques contre le secteur agricole. La protection du secteur passera par une meilleure sécurisation de la chaîne d'approvisionnement, y compris les fermes, et des conseils de prévention seront nécessaires pour éviter de telles attaques.",
+        "title": "Le piratage de la coopérative Even est le signe d’une menace grandissante",
+        "url": "https://www.lafranceagricole.fr/cooperative/article/871984/le-piratage-de-la-cooperative-even-est-le-signe-d-une-menace-grandissante",
+        "added": "2024-09-18"
+    },
+    {
         "date": "2024-09-04",
         "victim": "Compass Group",
         "domain": "compass-group.com.au",
