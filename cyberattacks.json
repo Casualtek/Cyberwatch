@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-09-04",
+        "victim": "Compass Group",
+        "domain": "compass-group.com.au",
+        "country": "AUS",
+        "summary": "Le groupe Compass, une entreprise de services alimentaires et de soutien basée à Sydney, a confirmé avoir été victime d'une cyberattaque par le groupe de ransomware Medusa, qui a volé près d'un téraoctet de données. Les données compromises incluent des passeports, des permis de conduire et d'autres informations personnelles, que les cybercriminels menacent de publier si une rançon de 2 millions de dollars n'est pas payée. L'entreprise a activé son plan de réponse à l'incident et a notifié ses employés, clients et fournisseurs, ainsi que les autorités compétentes.",
+        "title": "Exclusive: Sydney-based Compass Group confirms Medusa ransomware attack - Cyber Daily",
+        "url": "https://www.cyberdaily.au/security/11128-exclusive-sydney-based-compass-group-confirms-medusa-ransomware-attack",
+        "added": "2024-09-18"
+    },
+    {
         "date": "2024-09-14",
         "victim": "Zacros",
         "domain": "zacros.co.jp",
