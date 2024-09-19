@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-09-11",
+        "victim": "Providence Public School District (PPSD)",
+        "domain": "providenceschools.org",
+        "country": "USA",
+        "summary": "Le district scolaire de Providence, dans l'État de Rhode Island, aux États-Unis, fait face à des problèmes d'accès à internet depuis le 11 septembre en raison d'une activité irrégulière sur son réseau. Les autorités ont contacté la police d'État, le FBI et le département de la Sécurité intérieure pour enquêter sur l'incident, mais n'ont pas confirmé si il s'agit d'une attaque par rançongiciel. Les écoles restent ouvertes malgré les perturbations, mais les enseignants rencontrent des difficultés pour accéder à des ressources éducatives et utiliser des équipements.",
+        "title": "Providence public schools still struggling with internet outages after ‘irregular activity’",
+        "url": "https://therecord.media/providence-schools-outage-cyberattack-wifi",
+        "added": "2024-09-19"
+    },
+    {
         "date": "2024-07-08",
         "victim": "Notare Bayern und Pfalz (Notarkasse, Landesnotarkammer Bayern, Notarkammer Pfalz und Bayerischer Notar",
         "domain": "notarkammer-pfalz.de",
