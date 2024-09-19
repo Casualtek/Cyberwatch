@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-07-08",
+        "victim": "Notare Bayern und Pfalz (Notarkasse, Landesnotarkammer Bayern, Notarkammer Pfalz und Bayerischer Notar",
+        "domain": "notarkammer-pfalz.de",
+        "country": "DEU",
+        "summary": "Les organisations de notaires de Bavière et du Palatinat ont été victimes d'une attaque de ransomware impliquant Akira le 8 juillet 2024, qui a permis à des pirates d'accéder à leurs données et de les chiffrer, entraînant une fuite de données personnelles. Les données compromises incluent des noms, adresses, numéros de téléphone, adresses e-mail, dates de naissance et numéros de sécurité sociale. Les organisations ont pris des mesures pour contenir l'attaque et recommandent aux personnes concernées de rester vigilantes face à d'éventuels phishings et de changer leurs mots de passe.",
+        "title": "Betroffenenbenachrichtigung nach Art. 34 DSGVO | Notare Bayern Pfalz",
+        "url": "https://www.notarkammer-pfalz.de/presse/pressemitteilungen/betroffenenbenachrichtigung-nach-art-34-dsgvo/",
+        "added": "2024-09-19"
+    },
+    {
         "date": "2024-09-16",
         "victim": "Fylde Coast Academy Trust",
         "domain": "fcat.org.uk",
