@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-04-25",
+        "victim": "Keuka College",
+        "domain": "keuka.edu",
+        "country": "USA",
+        "summary": "Le Keuka College a annoncé une violation de la sécurité des données qui pourrait avoir impliqué des informations personnelles de ses étudiants et employés, mais affirme ne pas savoir si des informations personnelles ont été compromises. Cependant, le groupe de hackers LockBit a revendiqué l'attaque et a publié des preuves et des données volées sur son site web en mai et août 2024. Les enquêteurs se demandent pourquoi le collège n'a pas pu déterminer si des informations personnelles avaient été compromises malgré les preuves évidentes laissées par LockBit.",
+        "title": "NY: Keuka Colllege claims it is uncertain whether PII affected in attack by LockBit; but why? - DataBreaches.Net",
+        "url": "https://databreaches.net/2024/09/21/ny-keuka-colllege-claims-it-is-uncertain-whether-pii-affected-in-attack-by-lockbit-but-why/",
+        "added": "2024-09-23"
+    },
+    {
         "date": "2024-09-19",
         "victim": "Fernando Prestes",
         "domain": "fernandoprestes.sp.gov.br",
