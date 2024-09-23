@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-09-11",
+        "victim": "Town of Ulster",
+        "domain": "townofulster.ny.gov",
+        "country": "USA",
+        "summary": "La ville d'Ulster a été victime d'une cyberattaque le 11 septembre, qui a pris en otage ses systèmes informatiques principaux, nécessitant une réponse d'urgence et la mise en place de mesures de sécurité renforcées. Les enquêtes sont en cours, mais pour l'instant, il n'y a pas de preuve que des données ont été volées et les opérations municipales ont pu reprendre normalement. La ville est actuellement en mode de récupération d'urgence et les autorités attendent les résultats de l'enquête pour déterminer la durée de la récupération opérationnelle.",
+        "title": "Town of Ulster is in a disaster recovery mode - Hudson Valley One",
+        "url": "https://hudsonvalleyone.com/2024/09/18/town-of-ulster-is-in-a-disaster-recovery-mode/",
+        "added": "2024-09-23"
+    },
+    {
         "date": "2024-08-23",
         "victim": "Suva City Council",
         "domain": "suvacity.org",
