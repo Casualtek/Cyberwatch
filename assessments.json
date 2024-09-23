@@ -1,5 +1,12 @@
 [
     {
+        "victim": "Indraprastha Institute of Information Technology Delhi",
+        "domain": "iiitd.ac.in",
+        "country": "IN",
+        "date": "2024-08-22",
+        "group": "ransomhub"
+    },
+    {
         "victim": "Appellation vins fins",
         "domain": "avf-biomedical.com",
         "country": "FR",
