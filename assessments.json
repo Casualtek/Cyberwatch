@@ -1,5 +1,12 @@
 [
     {
+        "victim": "BSG",
+        "domain": "bsg.com.au",
+        "country": "AU",
+        "date": "2024-08-31",
+        "group": "ransomhub"
+    },
+    {
         "victim": "Indraprastha Institute of Information Technology Delhi",
         "domain": "iiitd.ac.in",
         "country": "IN",
