@@ -1,5 +1,12 @@
 [
     {
+        "victim": "Appellation vins fins",
+        "domain": "avf-biomedical.com",
+        "country": "FR",
+        "date": "2024-08-22",
+        "group": "ransomhub"
+    },
+    {
         "victim": "Stainless Foundry & Engineering, LLC.",
         "domain": "stainlessfoundry.com",
         "country": "US",
