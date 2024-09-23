@@ -111999,6 +111999,11 @@
                 "date": "2024-08-23",
                 "type": "assessed",
                 "group": "cicada3301"
+            },
+            {
+                "date": "2024-09-05",
+                "type": "claimed",
+                "group": "cicada3301"
             }
         ]
     },
@@ -115710,12 +115715,17 @@
     },
     {
         "victim": "Appellation vins fins",
-        "domain": "avf-biomedical.com.com",
+        "domain": "avf-biomedical.com",
         "country": "FR",
         "timeline": [
             {
                 "date": "2024-09-09",
                 "type": "claimed",
+                "group": "ransomhub"
+            },
+            {
+                "date": "2024-08-22",
+                "type": "assessed",
                 "group": "ransomhub"
             }
         ]
@@ -118174,6 +118184,419 @@
             {
                 "date": "2024-09-15",
                 "type": "reported"
+            }
+        ]
+    },
+    {
+        "victim": "Centrakor, Gémo, Tao Kids",
+        "domain": "Centrakor,Gémo,TaoKids.nodomain",
+        "country": "FR",
+        "timeline": [
+            {
+                "date": "2024-05-01",
+                "type": "discovered",
+                "summary": "Plusieurs enseignes de prêt-à-porter à La Réunion, dont Centrakor, Gémo et Tao Kids, ont été victimes d'une cyberattaque le 30 mars, sans indication que des données personnelles aient été extraites. Les clients ont été informés par message et une alerte a été lancée par précaution, bien que l'incident ait été rapidement maîtrisé avec l'aide d'experts techniques et juridiques. Les enseignes ont effectué une notification auprès de la CNIL, déclaré l'incident à l'ANSSI et au CSIRT des Hauts-de-France, et déposé une plainte, tout en recommandant aux clients une vigilance accrue face à d'éventuelles tentatives d'usurpation d'",
+                "title": "Plusieurs grands magasins de La Réunion victimes d'une cyberattaque",
+                "url": "https://imazpress.com/actus-reunion/plusieurs-grands-magasins-de-la-reunion-victimes-d-une-cyberattaque"
+            },
+            {
+                "date": "2023-03-30",
+                "type": "reported"
+            }
+        ]
+    },
+    {
+        "victim": "Petit commerce à Bad Wörishofen",
+        "domain": "PetitcommerceàBadWörishofen.nodomain",
+        "country": "DE",
+        "timeline": [
+            {
+                "date": "2024-04-24",
+                "type": "discovered",
+                "summary": "Un petit commerce à Bad Wörishofen a été victime d'une cyberattaque le week-end dernier, entraînant des dommages estimés à environ 30 000 euros après que toutes les données sur le PC du propriétaire aient été cryptées par des pirates informatiques. Le propriétaire a immédiatement contacté la police locale, et les enquêtes sont désormais menées par le département spécialisé en cybercriminalité de la KPI Memmingen, avec l'aide d'un prestataire informatique externe.",
+                "title": "Bad Wörishofen: Cyberangriff auf Gewerbebetrieb - Etwa 30.000 Euro Schaden",
+                "url": "https://www.merkur.de/bayern/schwaben/mindelheim-kurier/bad-woerishofen-cyberangriff-auf-gewerbebetrieb-etwa-30-000-euro-schaden-93028864.html"
+            },
+            {
+                "date": "2024-04-20",
+                "type": "reported"
+            }
+        ]
+    },
+    {
+        "victim": "Un concessionnaire automobile dans le district de Straubing",
+        "domain": "UnconcessionnaireautomobiledansledistrictdeStraubing.nodomain",
+        "country": "DE",
+        "timeline": [
+            {
+                "date": "2023-05-24",
+                "type": "discovered",
+                "summary": "Un concessionnaire automobile dans le district de Straubing a été victime d'une attaque de ransomware. Les données ont été chiffrées et les propriétaires de l'entreprise ont contacté la police. Une équipe spéciale de la police a été déployée pour aider à enquêter sur l'attaque. Le montant des dommages causés n'a pas encore été chiffré. La police a conseillé aux entreprises de se protéger contre les attaques en mettant en place des stratégies de sauvegarde de données et en mettant à jour régulièrement leurs mesures de sécurité informatique.",
+                "title": "Cyberangriff auf Autohaus im Landkreis Straubing: Kripo-Spezialeinheit im Einsatz",
+                "url": "https://www.pnp.de/lokales/stadt-straubing-und-landkreis-straubing-bogen/cyberangriff-auf-autohaus-im-landkreis-straubing-kripo-spezialeinheit-im-einsatz-11271749"
+            },
+            {
+                "date": "2023-05-24",
+                "type": "reported"
+            }
+        ]
+    },
+    {
+        "victim": "Gorizia in Bici",
+        "domain": "GoriziainBici.nodomain",
+        "country": "IT",
+        "timeline": [
+            {
+                "date": "2023-05-16",
+                "type": "discovered",
+                "summary": "Une attaque de hackers a eu lieu à Gorizia. Le bike sharing transfrontalier a été ralenti en conséquence. L'attaque a eu lieu le 16 mai 2023. L'article a été mis à jour à 21h41. La lecture de l'article prend environ 2 minutes.",
+                "title": "Attacco hacker a Gorizia, rallentato il bike sharing transfrontaliero - Il Piccolo",
+                "url": "https://ilpiccolo.gelocal.it/trieste/cronaca/2023/05/16/news/attacco_hacker_a_gorizia_rallentato_il_bike_sharing_transfrontaliero-12809364/"
+            },
+            {
+                "date": "2023-05-16",
+                "type": "reported"
+            }
+        ]
+    },
+    {
+        "victim": "Red Bus",
+        "domain": "RedBus.nodomain",
+        "country": "AR",
+        "timeline": [
+            {
+                "date": "2023-05-11",
+                "type": "discovered",
+                "summary": "L'entreprise Red Bus a subi une cyberattaque qui empêche les utilisateurs de recharger leur carte de transport urbain à Córdoba, en Argentine. Bien que la plupart des points de recharge aient encore du crédit disponible, certains sont fermés et affichent \"sans solde\". Les utilisateurs peuvent utiliser leur carte jusqu'à quatre voyages avec un solde négatif, mais devront compenser le solde une fois que le système sera de nouveau opérationnel. La Municipalité de Córdoba a autorisé deux voyages supplémentaires avec un solde négatif. Red Bus estime que le système sera rétabli dans les prochaines heures.",
+                "title": "Tarjeta Red Bus: qué pasa si no puedo recargarla para viajar por el ciberataque",
+                "url": "https://www.lavoz.com.ar/ciudadanos/tarjeta-red-bus-que-pasa-si-no-puedo-recargarla-para-viajar-por-el-ciberataque/"
+            },
+            {
+                "date": "2023-05-11",
+                "type": "reported"
+            }
+        ]
+    },
+    {
+        "victim": "Fournisseur IT de HVC",
+        "domain": "FournisseurITdeHVC.nodomain",
+        "country": "NL",
+        "timeline": [
+            {
+                "date": "2023-05-06",
+                "type": "discovered",
+                "summary": "Le fournisseur informatique de l'entreprise énergétique HVC a été victime d'une cyberattaque. Les données des clients ont été affectées, entraînant des problèmes de connexion et de facturation. Le problème a été résolu, mais les clients ne peuvent toujours pas accéder à leur portail personnel. HVC a informé les clients de l'incident et a présenté ses excuses, mais affirme que les données des clients n'ont probablement pas été compromises. L'entreprise n'a pas payé de rançon aux cybercriminels.",
+                "title": "IT-leverancier van energiebedrijf HVC getroffen door cyberaanval",
+                "url": "https://www.rtvdordrecht.nl/nieuws/nieuws/it-leverancier-van-energiebedrijf-hvc-getroffen-door-cyberaanval"
+            },
+            {
+                "date": "2023-05-06",
+                "type": "reported"
+            }
+        ]
+    },
+    {
+        "victim": "PME/ETI en Ile-de-France avec 300-500 salariés",
+        "domain": "PME/ETIenIle-de-Franceavec300-500salariés.nodomain",
+        "country": "FR",
+        "timeline": [
+            {
+                "date": "2023-05-06",
+                "type": "discovered",
+                "summary": "AISI, une entreprise de cybersécurité, aide une PME/ETI victime d'une attaque ransomware depuis dimanche dernier. L'entreprise victime est une structure en IDF avec 300-500 salariés. Dès que l'attaque a été signalée, AISI a pris contact avec le client dans les 10 minutes qui ont suivi. Les équipes d'AISI ont créé une War Room et ont collecté les logs de toutes les VMs, démarrant ainsi une investigation pour identifier la souche/groupe d'attaquants et transférer les données à restaurer à l'équipe spécialisée en recovery. Pendant les deux jours suivants, AISI a continué l'investigation, accompagné le client dans la reconstruction et supervisé en temps réel. Cependant, il y a eu plusieurs problèmes auxquels il fallait faire face. Par exemple, le client n'a pas pu couper internet car la direction ne le souhaitait pas, et il a été difficile de transférer toutes les données de son hébergeur vers la team de restauration, ce qui a entraîné une perte de plus de 48 heures. De plus, il y a eu des sollicitations commerciales avec des coûts et des offres très différentes qui ont souvent été peu pertinentes. Le client a été passé sous SOC dès lundi pour limiter les risques avec un monitoring fin des IOCs/IOAs des attaquants et le déploiement de SentinelOne.",
+                "title": "Comment AISI aide une entreprise victime d'un ransomware depuis dimanche dernier",
+                "url": "https://www.linkedin.com/feed/update/urn:li:activity:7062079147749076992/"
+            },
+            {
+                "date": "2023-05-06",
+                "type": "reported"
+            }
+        ]
+    },
+    {
+        "victim": "Future Inn",
+        "domain": "FutureInn.nodomain",
+        "country": "JP",
+        "timeline": [
+            {
+                "date": "2023-04-13",
+                "type": "discovered",
+                "summary": "Plus de 90 conseils municipaux à travers le Japon ont été touchés par une cyberattaque qui a entraîné l'arrêt des services de diffusion en ligne et de recherche de procès-verbaux. Le système informatique de ces conseils municipaux est géré par une entreprise de Nagoya. Cette entreprise a confirmé que des serveurs ont été touchés par une attaque de virus informatique. Les données personnelles n'ont pas été compromises. L'entreprise a annoncé que les services seront rétablis le 14 avril.",
+                "title": "地方議会にシステム障害 ９０以上、サイバー攻撃で - 産経ニュース",
+                "url": "https://www.sankei.com/article/20230413-CFJZJIX4ABNBFIDB3OMSE7W4TE/"
+            },
+            {
+                "date": "2023-04-13",
+                "type": "reported"
+            }
+        ]
+    },
+    {
+        "victim": "River Region Cardiology Associates",
+        "domain": "rrcamd.com",
+        "country": "US",
+        "timeline": [
+            {
+                "date": "2024-09-20",
+                "type": "claimed",
+                "group": "bianlian"
+            }
+        ]
+    },
+    {
+        "victim": "Juice Generation",
+        "domain": "juicegeneration.com",
+        "country": "US",
+        "timeline": [
+            {
+                "date": "2024-09-20",
+                "type": "claimed",
+                "group": "fog"
+            }
+        ]
+    },
+    {
+        "victim": "virainsight.com",
+        "domain": "virainsight.com",
+        "country": "US",
+        "timeline": [
+            {
+                "date": "2024-09-18",
+                "type": "claimed",
+                "group": "ransomhub"
+            }
+        ]
+    },
+    {
+        "victim": "Capital Printing",
+        "domain": "capitalprintingco.com",
+        "country": "US",
+        "timeline": [
+            {
+                "date": "2024-09-20",
+                "type": "claimed",
+                "group": "cicada3301"
+            }
+        ]
+    },
+    {
+        "victim": "KW Realty Group",
+        "domain": "kwrealtygroup.com",
+        "country": "US",
+        "timeline": [
+            {
+                "date": "2024-09-20",
+                "type": "claimed",
+                "group": "qilin"
+            }
+        ]
+    },
+    {
+        "victim": "Visionary Homes",
+        "domain": "visionaryhomes.com",
+        "country": "US",
+        "timeline": [
+            {
+                "date": "2024-09-20",
+                "type": "claimed",
+                "group": "incransom"
+            }
+        ]
+    },
+    {
+        "victim": "Thompson Construction Supply",
+        "domain": "thompsonconstructionsupply.com",
+        "country": "US",
+        "timeline": [
+            {
+                "date": "2024-09-20",
+                "type": "claimed",
+                "group": "play"
+            }
+        ]
+    },
+    {
+        "victim": "Pacific Coast Building Products",
+        "domain": "paccoast.com",
+        "country": "US",
+        "timeline": [
+            {
+                "date": "2024-09-20",
+                "type": "claimed",
+                "group": "play"
+            }
+        ]
+    },
+    {
+        "victim": "Omega Industries",
+        "domain": "omega-industries.com",
+        "country": "US",
+        "timeline": [
+            {
+                "date": "2024-09-20",
+                "type": "claimed",
+                "group": "play"
+            }
+        ]
+    },
+    {
+        "victim": "Noble Environmental",
+        "domain": "nobleenviro.com",
+        "country": "US",
+        "timeline": [
+            {
+                "date": "2024-09-20",
+                "type": "claimed",
+                "group": "play"
+            }
+        ]
+    },
+    {
+        "victim": "Messe C",
+        "domain": "messec.dk",
+        "country": "DK",
+        "timeline": [
+            {
+                "date": "2024-09-20",
+                "type": "claimed",
+                "group": "play"
+            }
+        ]
+    },
+    {
+        "victim": "Jackson Paper Manufacturing",
+        "domain": "jacksonpaper.net",
+        "country": "US",
+        "timeline": [
+            {
+                "date": "2024-09-20",
+                "type": "claimed",
+                "group": "play"
+            }
+        ]
+    },
+    {
+        "victim": "Acho.io",
+        "domain": "acho.io",
+        "country": "US",
+        "timeline": [
+            {
+                "date": "2024-09-21",
+                "type": "claimed",
+                "group": "ransomhub"
+            }
+        ]
+    },
+    {
+        "victim": "savannahcandy.com",
+        "domain": "savannahcandy.com",
+        "country": "US",
+        "timeline": [
+            {
+                "date": "2024-09-20",
+                "type": "claimed",
+                "group": "ransomhub"
+            },
+            {
+                "date": "2024-09-20",
+                "type": "assessed",
+                "group": "ransomhub"
+            }
+        ]
+    },
+    {
+        "victim": "Woodard , Hernandez , Roth & Day",
+        "domain": "woodard-law.com",
+        "country": "US",
+        "timeline": [
+            {
+                "date": "2024-09-22",
+                "type": "claimed",
+                "group": "qilin"
+            }
+        ]
+    },
+    {
+        "victim": "Daughterly Care",
+        "domain": "daughterlycare.com.au",
+        "country": "AU",
+        "timeline": [
+            {
+                "date": "2024-09-22",
+                "type": "claimed",
+                "group": "rhysida"
+            }
+        ]
+    },
+    {
+        "victim": "hanwa.co.th",
+        "domain": "hanwa.co.th",
+        "country": "TH",
+        "timeline": [
+            {
+                "date": "2024-09-22",
+                "type": "claimed",
+                "group": "BrainCipher"
+            }
+        ]
+    },
+    {
+        "victim": "Canstar Restorations",
+        "domain": "canstarrestorations.com",
+        "country": "CA",
+        "timeline": [
+            {
+                "date": "2024-09-23",
+                "type": "claimed",
+                "group": "qilin"
+            }
+        ]
+    },
+    {
+        "victim": "Graminex",
+        "domain": "graminex.com",
+        "country": "US",
+        "timeline": [
+            {
+                "date": "2024-09-23",
+                "type": "claimed",
+                "group": "dragonforce"
+            }
+        ]
+    },
+    {
+        "victim": "Fabrica Industrial Machinery & Equipment",
+        "domain": "fabricasrl.com.ar",
+        "country": "AR",
+        "timeline": [
+            {
+                "date": "2024-09-23",
+                "type": "claimed",
+                "group": "trinity"
+            }
+        ]
+    },
+    {
+        "victim": "ten8fire.com",
+        "domain": "ten8fire.com",
+        "country": "US",
+        "timeline": [
+            {
+                "date": "2024-09-23",
+                "type": "claimed",
+                "group": "cactus"
+            }
+        ]
+    },
+    {
+        "victim": "Detroit Public TV",
+        "domain": "detroitpbs.org",
+        "country": "US",
+        "timeline": [
+            {
+                "date": "2024-09-23",
+                "type": "claimed",
+                "group": "qilin"
             }
         ]
     },
