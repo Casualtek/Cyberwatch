@@ -22701,6 +22701,11 @@
                 "date": "2023-07-17",
                 "type": "claimed",
                 "group": "rhysida"
+            },
+            {
+                "date": "2023-06-19",
+                "type": "assessed",
+                "group": "rhysida"
             }
         ]
     },
@@ -71707,6 +71712,11 @@
                 "date": "2024-05-03",
                 "type": "claimed",
                 "group": "play"
+            },
+            {
+                "date": "2024-04-15",
+                "type": "assessed",
+                "group": "play"
             }
         ]
     },
@@ -75824,6 +75834,17 @@
                 "date": "2024-05-15",
                 "type": "claimed",
                 "group": "lockbit3"
+            },
+            {
+                "date": "2024-09-23",
+                "type": "discovered",
+                "summary": "Le Keuka College a annoncé une violation de la sécurité des données qui pourrait avoir impliqué des informations personnelles de ses étudiants et employés, mais affirme ne pas savoir si des informations personnelles ont été compromises. Cependant, le groupe de hackers LockBit a revendiqué l'attaque et a publié des preuves et des données volées sur son site web en mai et août 2024. Les enquêteurs se demandent pourquoi le collège n'a pas pu déterminer si des informations personnelles avaient été compromises malgré les preuves évidentes laissées par LockBit.",
+                "title": "NY: Keuka Colllege claims it is uncertain whether PII affected in attack by LockBit; but why? - DataBreaches.Net",
+                "url": "https://databreaches.net/2024/09/21/ny-keuka-colllege-claims-it-is-uncertain-whether-pii-affected-in-attack-by-lockbit-but-why/"
+            },
+            {
+                "date": "2024-04-25",
+                "type": "reported"
             }
         ]
     },
@@ -99246,18 +99267,6 @@
         ]
     },
     {
-        "victim": "Dun*****************uk",
-        "domain": "Dun*****************uk",
-        "country": "GB",
-        "timeline": [
-            {
-                "date": "2024-07-04",
-                "type": "claimed",
-                "group": "cloak"
-            }
-        ]
-    },
-    {
         "victim": "Abileneisd.org",
         "domain": "abileneisd.org",
         "country": "US",
@@ -102036,30 +102045,6 @@
             },
             {
                 "date": "2024-07-27",
-                "type": "claimed",
-                "group": "cloak"
-            }
-        ]
-    },
-    {
-        "victim": "We*******.com",
-        "domain": "We*******.com.nodomain",
-        "country": "GB",
-        "timeline": [
-            {
-                "date": "2024-07-22",
-                "type": "claimed",
-                "group": "cloak"
-            }
-        ]
-    },
-    {
-        "victim": "Hv*************.de",
-        "domain": "Hv*************.de.nodomain",
-        "country": "DE",
-        "timeline": [
-            {
-                "date": "2024-07-22",
                 "type": "claimed",
                 "group": "cloak"
             }
@@ -104964,18 +104949,6 @@
                 "date": "2024-08-03",
                 "type": "assessed",
                 "group": "cicada3301"
-            }
-        ]
-    },
-    {
-        "victim": "St**************.org",
-        "domain": "St**************.org.nodomain",
-        "country": "US",
-        "timeline": [
-            {
-                "date": "2024-08-05",
-                "type": "claimed",
-                "group": "cloak"
             }
         ]
     },
@@ -108928,6 +108901,11 @@
         "country": "GB",
         "timeline": [
             {
+                "date": "2024-07-22",
+                "type": "claimed",
+                "group": "cloak"
+            },
+            {
                 "date": "2024-08-21",
                 "type": "claimed",
                 "group": "cloak"
@@ -108939,6 +108917,11 @@
         "domain": "hvb-ingenieure.de",
         "country": "DE",
         "timeline": [
+            {
+                "date": "2024-07-22",
+                "type": "claimed",
+                "group": "cloak"
+            },
             {
                 "date": "2024-08-21",
                 "type": "claimed",
@@ -108952,6 +108935,11 @@
         "country": "DK",
         "timeline": [
             {
+                "date": "2024-07-15",
+                "type": "claimed",
+                "group": "cloak"
+            },
+            {
                 "date": "2024-08-21",
                 "type": "claimed",
                 "group": "cloak"
@@ -108963,6 +108951,11 @@
         "domain": "dunlopaircrafttyres.com",
         "country": "GB",
         "timeline": [
+            {
+                "date": "2024-07-04",
+                "type": "claimed",
+                "group": "cloak"
+            },
             {
                 "date": "2024-08-21",
                 "type": "claimed",
@@ -109299,6 +109292,11 @@
         "domain": "stjamesplace.org",
         "country": "US",
         "timeline": [
+            {
+                "date": "2024-08-05",
+                "type": "claimed",
+                "group": "cloak"
+            },
             {
                 "date": "2024-08-23",
                 "type": "claimed",
@@ -112932,6 +112930,11 @@
                 "date": "2024-08-30",
                 "type": "claimed",
                 "group": "ransomhub"
+            },
+            {
+                "date": "2024-08-22",
+                "type": "assessed",
+                "group": "ransomhub"
             }
         ]
     },
@@ -113058,6 +113061,17 @@
                 "date": "2024-08-21",
                 "type": "assessed",
                 "group": "ransomhub"
+            },
+            {
+                "date": "2024-09-23",
+                "type": "discovered",
+                "summary": "Le conseil municipal de Suva a été victime d'une cyberattaque avec ransomware qui a entraîné une perte de données et a perturbé ses opérations. Une équipe d'experts en cybersécurité a été assemblée pour restaurer le système et améliorer les mesures de sécurité. Le conseil a réussi à récupérer ses systèmes financiers et de paie, et travaille à récupérer les données restantes et à rétablir ses opérations à plein régime.",
+                "title": "Suva City Council Addresses Recent Cyber Breach Swiftly - Suva City Council",
+                "url": "https://suvacity.org/suva-city-council-addresses-recent-cyber-breach/"
+            },
+            {
+                "date": "2024-08-23",
+                "type": "reported"
             }
         ]
     },
@@ -113730,6 +113744,11 @@
                 "type": "reported"
             },
             {
+                "date": "2024-09-03",
+                "type": "claimed",
+                "group": "cloak"
+            },
+            {
                 "date": "2024-09-19",
                 "type": "claimed",
                 "group": "cloak"
@@ -113906,18 +113925,6 @@
                 "date": "2024-08-28",
                 "type": "assessed",
                 "group": "ransomhub"
-            }
-        ]
-    },
-    {
-        "victim": "we****************.de",
-        "domain": "we****************.de",
-        "country": "DE",
-        "timeline": [
-            {
-                "date": "2024-09-03",
-                "type": "claimed",
-                "group": "cloak"
             }
         ]
     },
@@ -115676,6 +115683,11 @@
                 "date": "2024-09-09",
                 "type": "claimed",
                 "group": "ransomhub"
+            },
+            {
+                "date": "2024-08-31",
+                "type": "assessed",
+                "group": "ransomhub"
             }
         ]
     },
@@ -115698,7 +115710,7 @@
     },
     {
         "victim": "Appellation vins fins",
-        "domain": "appellationvinsfins.com",
+        "domain": "avf-biomedical.com.com",
         "country": "FR",
         "timeline": [
             {
@@ -117960,6 +117972,204 @@
                 "summary": "La radio Geretsried a été victime d'une cyberattaque massive, menée par des hackers russes, qui ont crypté toutes les fichiers musicaux et réclament une rançon élevée. L'équipe de direction et le conseil d'administration travaillent à haute pression pour résoudre le problème, mais il faudra probablement jusqu'à la mi-semaine pour rétablir les systèmes. Pendant ce temps, la station de radio diffuse un programme d'urgence.",
                 "title": "EILMELDUNG: Großer Hackerangriff auf Radio Geretsried - wir arbeiten an der Lösung - RADIO GERETSRIED",
                 "url": "https://www.radio-geretsried.de/index.php/2024/09/15/eilmeldung-grosser-hackerangriff-auf-radio-geretsried-wir-arbeiten-an-der-loesung/"
+            },
+            {
+                "date": "2024-09-15",
+                "type": "reported"
+            }
+        ]
+    },
+    {
+        "victim": "Centrakor, Gémo, Tao Kids",
+        "domain": "Centrakor,Gémo,TaoKids.nodomain",
+        "country": "FR",
+        "timeline": [
+            {
+                "date": "2024-05-01",
+                "type": "discovered",
+                "summary": "Plusieurs enseignes de prêt-à-porter à La Réunion, dont Centrakor, Gémo et Tao Kids, ont été victimes d'une cyberattaque le 30 mars, sans indication que des données personnelles aient été extraites. Les clients ont été informés par message et une alerte a été lancée par précaution, bien que l'incident ait été rapidement maîtrisé avec l'aide d'experts techniques et juridiques. Les enseignes ont effectué une notification auprès de la CNIL, déclaré l'incident à l'ANSSI et au CSIRT des Hauts-de-France, et déposé une plainte, tout en recommandant aux clients une vigilance accrue face à d'éventuelles tentatives d'usurpation d'",
+                "title": "Plusieurs grands magasins de La Réunion victimes d'une cyberattaque",
+                "url": "https://imazpress.com/actus-reunion/plusieurs-grands-magasins-de-la-reunion-victimes-d-une-cyberattaque"
+            },
+            {
+                "date": "2023-03-30",
+                "type": "reported"
+            }
+        ]
+    },
+    {
+        "victim": "Petit commerce à Bad Wörishofen",
+        "domain": "PetitcommerceàBadWörishofen.nodomain",
+        "country": "DE",
+        "timeline": [
+            {
+                "date": "2024-04-24",
+                "type": "discovered",
+                "summary": "Un petit commerce à Bad Wörishofen a été victime d'une cyberattaque le week-end dernier, entraînant des dommages estimés à environ 30 000 euros après que toutes les données sur le PC du propriétaire aient été cryptées par des pirates informatiques. Le propriétaire a immédiatement contacté la police locale, et les enquêtes sont désormais menées par le département spécialisé en cybercriminalité de la KPI Memmingen, avec l'aide d'un prestataire informatique externe.",
+                "title": "Bad Wörishofen: Cyberangriff auf Gewerbebetrieb - Etwa 30.000 Euro Schaden",
+                "url": "https://www.merkur.de/bayern/schwaben/mindelheim-kurier/bad-woerishofen-cyberangriff-auf-gewerbebetrieb-etwa-30-000-euro-schaden-93028864.html"
+            },
+            {
+                "date": "2024-04-20",
+                "type": "reported"
+            }
+        ]
+    },
+    {
+        "victim": "Un concessionnaire automobile dans le district de Straubing",
+        "domain": "UnconcessionnaireautomobiledansledistrictdeStraubing.nodomain",
+        "country": "DE",
+        "timeline": [
+            {
+                "date": "2023-05-24",
+                "type": "discovered",
+                "summary": "Un concessionnaire automobile dans le district de Straubing a été victime d'une attaque de ransomware. Les données ont été chiffrées et les propriétaires de l'entreprise ont contacté la police. Une équipe spéciale de la police a été déployée pour aider à enquêter sur l'attaque. Le montant des dommages causés n'a pas encore été chiffré. La police a conseillé aux entreprises de se protéger contre les attaques en mettant en place des stratégies de sauvegarde de données et en mettant à jour régulièrement leurs mesures de sécurité informatique.",
+                "title": "Cyberangriff auf Autohaus im Landkreis Straubing: Kripo-Spezialeinheit im Einsatz",
+                "url": "https://www.pnp.de/lokales/stadt-straubing-und-landkreis-straubing-bogen/cyberangriff-auf-autohaus-im-landkreis-straubing-kripo-spezialeinheit-im-einsatz-11271749"
+            },
+            {
+                "date": "2023-05-24",
+                "type": "reported"
+            }
+        ]
+    },
+    {
+        "victim": "Gorizia in Bici",
+        "domain": "GoriziainBici.nodomain",
+        "country": "IT",
+        "timeline": [
+            {
+                "date": "2023-05-16",
+                "type": "discovered",
+                "summary": "Une attaque de hackers a eu lieu à Gorizia. Le bike sharing transfrontalier a été ralenti en conséquence. L'attaque a eu lieu le 16 mai 2023. L'article a été mis à jour à 21h41. La lecture de l'article prend environ 2 minutes.",
+                "title": "Attacco hacker a Gorizia, rallentato il bike sharing transfrontaliero - Il Piccolo",
+                "url": "https://ilpiccolo.gelocal.it/trieste/cronaca/2023/05/16/news/attacco_hacker_a_gorizia_rallentato_il_bike_sharing_transfrontaliero-12809364/"
+            },
+            {
+                "date": "2023-05-16",
+                "type": "reported"
+            }
+        ]
+    },
+    {
+        "victim": "Red Bus",
+        "domain": "RedBus.nodomain",
+        "country": "AR",
+        "timeline": [
+            {
+                "date": "2023-05-11",
+                "type": "discovered",
+                "summary": "L'entreprise Red Bus a subi une cyberattaque qui empêche les utilisateurs de recharger leur carte de transport urbain à Córdoba, en Argentine. Bien que la plupart des points de recharge aient encore du crédit disponible, certains sont fermés et affichent \"sans solde\". Les utilisateurs peuvent utiliser leur carte jusqu'à quatre voyages avec un solde négatif, mais devront compenser le solde une fois que le système sera de nouveau opérationnel. La Municipalité de Córdoba a autorisé deux voyages supplémentaires avec un solde négatif. Red Bus estime que le système sera rétabli dans les prochaines heures.",
+                "title": "Tarjeta Red Bus: qué pasa si no puedo recargarla para viajar por el ciberataque",
+                "url": "https://www.lavoz.com.ar/ciudadanos/tarjeta-red-bus-que-pasa-si-no-puedo-recargarla-para-viajar-por-el-ciberataque/"
+            },
+            {
+                "date": "2023-05-11",
+                "type": "reported"
+            }
+        ]
+    },
+    {
+        "victim": "Fournisseur IT de HVC",
+        "domain": "FournisseurITdeHVC.nodomain",
+        "country": "NL",
+        "timeline": [
+            {
+                "date": "2023-05-06",
+                "type": "discovered",
+                "summary": "Le fournisseur informatique de l'entreprise énergétique HVC a été victime d'une cyberattaque. Les données des clients ont été affectées, entraînant des problèmes de connexion et de facturation. Le problème a été résolu, mais les clients ne peuvent toujours pas accéder à leur portail personnel. HVC a informé les clients de l'incident et a présenté ses excuses, mais affirme que les données des clients n'ont probablement pas été compromises. L'entreprise n'a pas payé de rançon aux cybercriminels.",
+                "title": "IT-leverancier van energiebedrijf HVC getroffen door cyberaanval",
+                "url": "https://www.rtvdordrecht.nl/nieuws/nieuws/it-leverancier-van-energiebedrijf-hvc-getroffen-door-cyberaanval"
+            },
+            {
+                "date": "2023-05-06",
+                "type": "reported"
+            }
+        ]
+    },
+    {
+        "victim": "PME/ETI en Ile-de-France avec 300-500 salariés",
+        "domain": "PME/ETIenIle-de-Franceavec300-500salariés.nodomain",
+        "country": "FR",
+        "timeline": [
+            {
+                "date": "2023-05-06",
+                "type": "discovered",
+                "summary": "AISI, une entreprise de cybersécurité, aide une PME/ETI victime d'une attaque ransomware depuis dimanche dernier. L'entreprise victime est une structure en IDF avec 300-500 salariés. Dès que l'attaque a été signalée, AISI a pris contact avec le client dans les 10 minutes qui ont suivi. Les équipes d'AISI ont créé une War Room et ont collecté les logs de toutes les VMs, démarrant ainsi une investigation pour identifier la souche/groupe d'attaquants et transférer les données à restaurer à l'équipe spécialisée en recovery. Pendant les deux jours suivants, AISI a continué l'investigation, accompagné le client dans la reconstruction et supervisé en temps réel. Cependant, il y a eu plusieurs problèmes auxquels il fallait faire face. Par exemple, le client n'a pas pu couper internet car la direction ne le souhaitait pas, et il a été difficile de transférer toutes les données de son hébergeur vers la team de restauration, ce qui a entraîné une perte de plus de 48 heures. De plus, il y a eu des sollicitations commerciales avec des coûts et des offres très différentes qui ont souvent été peu pertinentes. Le client a été passé sous SOC dès lundi pour limiter les risques avec un monitoring fin des IOCs/IOAs des attaquants et le déploiement de SentinelOne.",
+                "title": "Comment AISI aide une entreprise victime d'un ransomware depuis dimanche dernier",
+                "url": "https://www.linkedin.com/feed/update/urn:li:activity:7062079147749076992/"
+            },
+            {
+                "date": "2023-05-06",
+                "type": "reported"
+            }
+        ]
+    },
+    {
+        "victim": "Future Inn",
+        "domain": "FutureInn.nodomain",
+        "country": "JP",
+        "timeline": [
+            {
+                "date": "2023-04-13",
+                "type": "discovered",
+                "summary": "Plus de 90 conseils municipaux à travers le Japon ont été touchés par une cyberattaque qui a entraîné l'arrêt des services de diffusion en ligne et de recherche de procès-verbaux. Le système informatique de ces conseils municipaux est géré par une entreprise de Nagoya. Cette entreprise a confirmé que des serveurs ont été touchés par une attaque de virus informatique. Les données personnelles n'ont pas été compromises. L'entreprise a annoncé que les services seront rétablis le 14 avril.",
+                "title": "地方議会にシステム障害 ９０以上、サイバー攻撃で - 産経ニュース",
+                "url": "https://www.sankei.com/article/20230413-CFJZJIX4ABNBFIDB3OMSE7W4TE/"
+            },
+            {
+                "date": "2023-04-13",
+                "type": "reported"
+            }
+        ]
+    },
+    {
+        "victim": "Town of Ulster",
+        "domain": "townofulster.ny.gov",
+        "country": "US",
+        "timeline": [
+            {
+                "date": "2024-09-23",
+                "type": "discovered",
+                "summary": "La ville d'Ulster a été victime d'une cyberattaque le 11 septembre, qui a pris en otage ses systèmes informatiques principaux, nécessitant une réponse d'urgence et la mise en place de mesures de sécurité renforcées. Les enquêtes sont en cours, mais pour l'instant, il n'y a pas de preuve que des données ont été volées et les opérations municipales ont pu reprendre normalement. La ville est actuellement en mode de récupération d'urgence et les autorités attendent les résultats de l'enquête pour déterminer la durée de la récupération opérationnelle.",
+                "title": "Town of Ulster is in a disaster recovery mode - Hudson Valley One",
+                "url": "https://hudsonvalleyone.com/2024/09/18/town-of-ulster-is-in-a-disaster-recovery-mode/"
+            },
+            {
+                "date": "2024-09-11",
+                "type": "reported"
+            }
+        ]
+    },
+    {
+        "victim": "Fernando Prestes",
+        "domain": "fernandoprestes.sp.gov.br",
+        "country": "BR",
+        "timeline": [
+            {
+                "date": "2024-09-23",
+                "type": "discovered",
+                "summary": "La mairie de Fernando Prestes a été victime d'une cyberattaque qui a compromis ses systèmes et a entraîné la suspension temporaire de nombreux services à la population. Les équipes de la mairie travaillent à restaurer les systèmes et à rétablir la normalité le plus rapidement possible. Pendant ce temps, la mairie a mis en place un numéro de téléphone pour répondre aux questions et fournir des orientations aux citoyens qui ont besoin de services essentiels.",
+                "title": "Na região: Prefeitura de Fernando Prestes enfrenta ataque cibernético e suspende serviços temporariamente - O Defensor | O Portal de Notícias de Taquaritinga e região",
+                "url": "https://odefensor.com.br/site/2024/09/20/na-regiao-prefeitura-de-fernando-prestes-enfrenta-ataque-cibernetico-e-suspende-servicos-temporariamente/"
+            },
+            {
+                "date": "2024-09-19",
+                "type": "reported"
+            }
+        ]
+    },
+    {
+        "victim": "Technet",
+        "domain": "technet.no",
+        "country": "NO",
+        "timeline": [
+            {
+                "date": "2024-09-20",
+                "type": "discovered",
+                "summary": "L'entreprise de services numériques Technet, basée à Larvik, a été victime d'une cyberattaque, ce qui a probablement affecté plusieurs de ses clients. Les détails de l'attaque et de son impact ne sont pas précisés.",
+                "title": "Larvik, Næringsliv | Larvik-selskap hacket - flere kunder er trolig rammet",
+                "url": "https://www.op.no/larvik-selskap-hacket-flere-kunder-er-trolig-rammet/s/5-36-1663895"
             },
             {
                 "date": "2024-09-15",
