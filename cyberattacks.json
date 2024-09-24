@@ -1,6 +1,16 @@
 [
     {
         "date": "2024-09-22",
+        "victim": "MoneyGram",
+        "domain": "moneygram.com",
+        "country": "USA",
+        "summary": "MoneyGram, une entreprise de transfert d'argent, est victime d'une cyberattaque qui a entraîné une panne de ses systèmes et services de paiement depuis vendredi. L'entreprise a identifié une \"question de cybersécurité\" comme cause de la panne, mais n'a pas encore précisé si elle est due à une attaque de ransomware. MoneyGram a engagé des experts en cybersécurité tiers et travaille avec les forces de l'ordre pour résoudre le problème et restaurer ses opérations.",
+        "title": "'Cybersecurity issue' blamed for MoneyGram's ongoing outage • The Register",
+        "url": "https://www.theregister.com/2024/09/23/moneygram_cybersecurity_issue/",
+        "added": "2024-09-24"
+    },
+    {
+        "date": "2024-09-22",
         "victim": "Arkansas City Water Plant",
         "domain": "arkcity.org",
         "country": "USA",
