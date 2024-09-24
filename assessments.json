@@ -1,5 +1,12 @@
 [
     {
+        "victim": "nikpol.com.au",
+        "domain": "nikpol.com.au",
+        "country": "AU",
+        "date": "2024-09-10",
+        "group": "ransomhub"
+    },
+    {
         "victim": "BSG",
         "domain": "bsg.com.au",
         "country": "AU",
