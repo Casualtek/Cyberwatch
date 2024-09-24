@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-09-21",
+        "victim": "Namebay",
+        "domain": "namebay.com",
+        "country": "FRA",
+        "summary": "Namebay a été victime d'une cyberattaque par ransomware le 21 septembre, entraînant la mise hors ligne de certains services tels que les mails hébergés, l'hébergement et l'API. Les équipes de sécurité de Namebay travaillent actuellement à la mise en œuvre de mesures pour un rétablissement dans les meilleurs délais. Les investigations sont en cours pour déterminer l'ampleur de l'attaque et si des données ont été exfiltrées.",
+        "title": "Namebay",
+        "url": "https://www.namebay.com",
+        "added": "2024-09-24"
+    },
+    {
         "date": "2024-09-22",
         "victim": "MoneyGram",
         "domain": "moneygram.com",
