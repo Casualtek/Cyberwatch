@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-09-22",
+        "victim": "Schumag Aktiengesellschaft",
+        "domain": "schumag.de",
+        "country": "DEU",
+        "summary": "La Schumag Aktiengesellschaft, une entreprise allemande produisant des pièces de précision en acier, a été victime d'une cyberattaque qui l'empêche de tenir son assemblée générale ordinaire prévue le 25 septembre 2024. La production a pu reprendre partiellement malgré l'attaque, mais les conséquences et les dégâts ne peuvent pas encore être évalués. Une nouvelle assemblée générale sera convoquée dès que possible.",
+        "title": "Schumag Aktiengesellschaft: Cyberangriff. Absage der für den 25. September 2024 einberufenen ordentlichen Hauptversammlung",
+        "url": "https://www.boerse-frankfurt.de/nachrichten/Schumag-Aktiengesellschaft-Cyberangriff-Absage-der-fuer-den-25-September-2024-einberufenen-ordentlichen-Hauptversammlung-63c6812b-71f9-4407-b14a-589dc8f3ab55",
+        "added": "2024-09-24"
+    },
+    {
         "date": "2024-09-11",
         "victim": "Town of Ulster",
         "domain": "townofulster.ny.gov",
