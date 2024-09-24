@@ -1,5 +1,12 @@
 [
     {
+        "victim": "lafuturasrl.it",
+        "domain": "lafuturasrl.it",
+        "country": "IT",
+        "date": "2024-08-25",
+        "group": "ransomhub"
+    },
+    {
         "victim": "advantagecdc.org",
         "domain": "advantagecdc.org",
         "country": "US",
