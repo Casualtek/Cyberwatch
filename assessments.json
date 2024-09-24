@@ -1,5 +1,12 @@
 [
     {
+        "victim": "advantagecdc.org",
+        "domain": "advantagecdc.org",
+        "country": "US",
+        "date": "2024-08-20",
+        "group": "ransomhub"
+    },
+    {
         "victim": "plumbersstock.com",
         "domain": "plumbersstock.com",
         "country": "US",
