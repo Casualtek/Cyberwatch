@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-09-23",
+        "victim": "VBG Unfallversicherung",
+        "domain": "vbg.de",
+        "country": "DEU",
+        "summary": "La VBG Unfallversicherung à Hambourg a été victime d'une attaque de ransomware sur l'un de ses serveurs, compromettant les adresses e-mail et les informations de contact des participants à ses séminaires en ligne. Les données potentiellement compromises incluent les adresses postales et les numéros de téléphone. La VBG a pris des mesures immédiates pour contenir l'attaque et informe les personnes concernées, leur recommandant de surveiller leurs comptes et de changer leurs mots de passe.",
+        "title": "VBG Ransomware-Angriff",
+        "url": "https://www.mittelstand-nachrichten.de/datenschutz/vbg-ransomware-angriff/",
+        "added": "2024-09-24"
+    },
+    {
         "date": "2024-09-21",
         "victim": "Namebay",
         "domain": "namebay.com",
