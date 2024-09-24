@@ -1,6 +1,16 @@
 [
     {
         "date": "2024-09-22",
+        "victim": "Arkansas City Water Plant",
+        "domain": "arkcity.org",
+        "country": "USA",
+        "summary": "L'usine de traitement d'eau d'Arkansas City a été victime d'une cyberattaque pendant le week-end. L'incident a été signalé le 24 septembre 2024. Les détails de l'attaque et de ses conséquences ne sont pas encore disponibles.",
+        "title": "Arkansas City water plant hit by cyberattack over weekend",
+        "url": "https://www.kwch.com/video/2024/09/23/arkansas-city-water-plant-hit-by-cyberattack-over-weekend/",
+        "added": "2024-09-24"
+    },
+    {
+        "date": "2024-09-22",
         "victim": "Schumag Aktiengesellschaft",
         "domain": "schumag.de",
         "country": "DEU",
