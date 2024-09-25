@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-09-20",
+        "victim": "Delaware libraries",
+        "domain": "libraries.delaware.gov",
+        "country": "USA",
+        "summary": "Les bibliothèques du Delaware ont été victimes d'une attaque de ransomware, qui a pris le contrôle des serveurs virtuels des ordinateurs publics, et les hackers demandent une rançon d'environ 1 million de dollars pour restituer le contrôle. La directrice des bibliothèques, Annie Norman, a décidé de ne pas payer la rançon et de reconstruire les serveurs à la place. Les bibliothèques restent ouvertes, mais les ordinateurs publics sont actuellement indisponibles, affectant l'accès à internet pour les personnes qui en dépendent.",
+        "title": "Hackers demand ransom after attack on Delaware libraries - Spotlight Delaware",
+        "url": "https://spotlightdelaware.org/2024/09/23/delaware-libraries-hack/",
+        "added": "2024-09-25"
+    },
+    {
         "date": "2024-07-16",
         "victim": "Lancaster Royal Grammar School",
         "domain": "lrgs.org.uk",
