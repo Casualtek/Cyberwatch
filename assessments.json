@@ -1,5 +1,12 @@
 [
     {
+        "victim": "Menninger Clinic",
+        "domain": "menningerclinic.org",
+        "country": "US",
+        "date": "2024-09-12",
+        "group": "blacksuit"
+    },
+    {
         "victim": "Rextech",
         "domain": "rextech.dk",
         "country": "DK",
