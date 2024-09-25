@@ -1,5 +1,12 @@
 [
     {
+        "victim": "Agricola",
+        "domain": "agricola.ro",
+        "country": "RO",
+        "date": "2024-08-19",
+        "group": "qilin"
+    },
+    {
         "victim": "Millsboro Animal Hospital",
         "domain": "millsboroanimalhospital.nodomain",
         "country": "US",
