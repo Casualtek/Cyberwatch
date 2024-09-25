@@ -1,5 +1,12 @@
 [
     {
+        "victim": "Bakpiliç Entegre Tavukçuluk AŞ",
+        "domain": "bakpilic.com.tr",
+        "country": "TR",
+        "date": "2024-09-22",
+        "group": "ransomhub"
+    },
+    {
         "victim": "Delaware Division of Libraries",
         "domain": "libraries.delaware.gov",
         "country": "US",
