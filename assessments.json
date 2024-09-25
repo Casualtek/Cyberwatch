@@ -1,5 +1,12 @@
 [
     {
+        "victim": "galloway-macleod.co.uk",
+        "domain": "galloway-macleod.co.uk",
+        "country": "GB",
+        "date": "2024-09-17",
+        "group": "ransomhub"
+    },
+    {
         "victim": "Menninger Clinic",
         "domain": "menningerclinic.org",
         "country": "US",
