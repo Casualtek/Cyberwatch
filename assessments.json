@@ -1,5 +1,12 @@
 [
     {
+        "victim": "Delaware Division of Libraries",
+        "domain": "libraries.delaware.gov",
+        "country": "US",
+        "date": "2024-09-18",
+        "group": "ransomhub"
+    },
+    {
         "victim": "lafuturasrl.it",
         "domain": "lafuturasrl.it",
         "country": "IT",
