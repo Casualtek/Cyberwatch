@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-09-26",
+        "victim": "University Medical Center (UMC)",
+        "domain": "umchealthsystem.com",
+        "country": "USA",
+        "summary": "Le Centre Médical Universitaire (UMC) de Lubbock, au Texas, a été victime d'une attaque par rançon (ransomware) qui a perturbé ses systèmes, obligeant l'hôpital à détourner les patients vers d'autres établissements de santé locaux. Les services d'urgence et les cliniques de soins non urgents du centre restent ouverts, mais les patients sont redirigés vers d'autres hôpitaux jusqu'à ce que le problème soit résolu. L'UMC promet de fournir des mises à jour supplémentaires lorsque plus d'informations seront disponibles.",
+        "title": "Lubbock UMC experiences ransomware attack, diverts patients to other hospitals",
+        "url": "https://www.everythinglubbock.com/news/local-news/lubbock-umc-experiences-ransomware-attack-diverts-patients-to-other-hospitals/",
+        "added": "2024-09-27"
+    },
+    {
         "date": "2024-09-24",
         "victim": "Kuwaiti Health Ministry",
         "domain": "moh.gov.kw",
