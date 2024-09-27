@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-06-20",
+        "victim": "Boreal Capital Management",
+        "domain": "borealcm.com",
+        "country": "CHE",
+        "summary": "La société de gestion de patrimoine Boreal Capital Management à Zurich a été victime d'une cyberattaque par le groupe de ransomware Play, qui a volé 46 Go de données, notamment des informations sur 700 clients. Les données ont été publiées sur le darknet et ont été récupérées par le Consortium international des journalistes d'investigation (ICIJ), qui a révélé des informations sensibles sur des personnalités politiques et des oligarques. Boreal Capital Management a pris des mesures pour contenir l'incident et a informé les autorités compétentes.",
+        "title": "Ransomware-Gruppe Play: Hackerangriff stellt Zürcher Latino-Vermögensverwalter Boreal Capital bloss - Tippinpoint",
+        "url": "https://www.tippinpoint.ch/artikel/77642/ransomware-gruppe_play_hackerangriff_stellt_zuercher_latino-vermoegensverwalter_boreal_capital_bloss_.html",
+        "added": "2024-09-27"
+    },
+    {
         "date": "2024-09-26",
         "victim": "University Medical Center (UMC)",
         "domain": "umchealthsystem.com",
