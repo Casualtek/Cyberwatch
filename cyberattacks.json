@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-04-15",
+        "victim": "Scranton School District",
+        "domain": "scrsd.org",
+        "country": "USA",
+        "summary": "Les responsables du district scolaire de Scranton ont payé la rançon demandée par les attaquants pour récupérer l'accès à leurs systèmes informatiques après une cyberattaque. Les détails de la rançon et de l'attaque ne sont pas précisés. Cette décision a été prise pour protéger les données des élèves et du personnel.",
+        "title": "Scranton School District officials pay ransom to attackers | News | thetimes-tribune.com",
+        "url": "https://www.thetimes-tribune.com/news/scranton-school-district-officials-pay-ransom-to-attackers/article_2e51487c-7c30-11ef-aedd-c351670d78c2.html",
+        "added": "2024-09-29"
+    },
+    {
         "date": "2024-08-15",
         "victim": "Cincinnati Public Schools",
         "domain": "cps-k12.org",
