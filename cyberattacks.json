@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-09-27",
+        "victim": "Agence France-Presse (AFP)",
+        "domain": "afp.com",
+        "country": "FRA",
+        "summary": "L'Agence France-Presse (AFP), la plus grande agence de presse de France, a été victime d'une cyberattaque vendredi. Les enquêtes sont en cours et l'agence a précisé que tous ses systèmes fonctionnaient normalement, mais qu'il était possible que les informations d'accès pour la diffusion de contenu AFP soient tombées entre les mains des attaquants. L'AFP a promis de fournir plus d'informations une fois les investigations terminées.",
+        "title": "AFP meldet über sich selbst: Cyber-Angriff auf Frankreichs größte Nachrichtenagentur | Politik | BILD.de",
+        "url": "https://www.bild.de/politik/afp-meldet-ueber-sich-selbst-cyber-angriff-auf-frankreichs-groesste-nachrichtenagentur-66f7e6813fe25e160dfe2f39",
+        "added": "2024-09-29"
+    },
+    {
         "date": "2024-09-26",
         "victim": "CDC Biodiversité",
         "domain": "cdc-biodiversite.fr",
