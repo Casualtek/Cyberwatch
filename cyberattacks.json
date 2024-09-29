@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-08-15",
+        "victim": "Cincinnati Public Schools",
+        "domain": "cps-k12.org",
+        "country": "USA",
+        "summary": "Le district scolaire de Cincinnati a été victime d'une cyberattaque par rançongiciel en août, qui a pu compromettre les données du district. Aucun argent n'a été volé, mais les enquêteurs travaillent avec des experts en cybersécurité pour investiguer l'incident. Le district a mis en garde les parents et les élèves contre les emails suspectes et les liens inconnus, et a promis de mettre en œuvre des mesures de sécurité pour prévenir d'autres accès non autorisés.",
+        "title": "Cincinnati Public Schools suffers ransomware attack",
+        "url": "https://eu.cincinnati.com/story/news/education/2024/09/27/cincinnati-public-schools-suffers-ransomware-attack/75411988007/",
+        "added": "2024-09-29"
+    },
+    {
         "date": "2024-09-27",
         "victim": "Smeg",
         "domain": "smeg.com",
