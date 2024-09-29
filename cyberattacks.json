@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-09-26",
+        "victim": "CDC Biodiversité",
+        "domain": "cdc-biodiversite.fr",
+        "country": "FRA",
+        "summary": "CDC Biodiversité a été victime d'une cyberattaque par ransomware depuis le 26 septembre 2024. Une cellule de crise a été mise en place pour investiguer et résoudre l'incident, avec pour priorité la protection des informations des clients, fournisseurs et collaborateurs. L'objectif est de rétablir un fonctionnement normal du système d'informations dans les meilleurs délais.",
+        "title": "Message d’information | CDC Biodiversité",
+        "url": "https://www.cdc-biodiversite.fr/actualite/cdc-biodiversite-message-dinformation/",
+        "added": "2024-09-29"
+    },
+    {
         "date": "2024-06-20",
         "victim": "Boreal Capital Management",
         "domain": "borealcm.com",
