@@ -1,6 +1,16 @@
 [
     {
         "date": "2024-09-27",
+        "victim": "Smeg",
+        "domain": "smeg.com",
+        "country": "ITA",
+        "summary": "La multinazionale italienne Smeg a été victime d'une cyberattaque qui a entraîné l'arrêt de ses systèmes informatiques, notamment ceux gérant la production, la logistique et les ressources humaines. Pour des raisons de sécurité, le système a été bloqué pour éviter la perte de données sensibles. Les techniciens travaillent à résoudre la situation dans les plus brefs délais pour restaurer la pleine fonctionnalité des systèmes.",
+        "title": "Attacco hacker alla multinazionale Smeg: sistemi in avaria, produzione ferma",
+        "url": "https://www.ilrestodelcarlino.it/reggio-emilia/cronaca/guastalla-attacco-hacker-alla-ditta-smeg-ae6c5ef3",
+        "added": "2024-09-29"
+    },
+    {
+        "date": "2024-09-27",
         "victim": "Agence France-Presse (AFP)",
         "domain": "afp.com",
         "country": "FRA",
