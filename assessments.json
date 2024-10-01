@@ -1,5 +1,12 @@
 [
     {
+        "victim": "rarholding.com",
+        "domain": "rarholding.com",
+        "country": "AE",
+        "date": "2024-09-09",
+        "group": "ransomhub"
+    },
+    {
         "victim": "advbe.com",
         "domain": "advbe.com",
         "country": "FR",
