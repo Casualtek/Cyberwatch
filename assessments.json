@@ -1,5 +1,12 @@
 [
     {
+        "victim": "advbe.com",
+        "domain": "advbe.com",
+        "country": "FR",
+        "date": "2024-09-05",
+        "group": "ransomhub"
+    },
+    {
         "victim": "topdoctors.com",
         "domain": "topdoctors.com",
         "country": "US",
