@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-09-30",
+        "victim": "TOTVS",
+        "domain": "totvs.com",
+        "country": "BRA",
+        "summary": "La société brésilienne de technologie TOTVS a été victime d'une cyberattaque, qui a été revendiquée par le groupe BlackByte, qui a affirmé avoir volé des données de l'entreprise. TOTVS a informé ses clients de l'incident et a pris des mesures pour garantir la continuité de ses services et opérations. L'entreprise n'a pas confirmé l'ampleur de l'attaque ou si ses clients ont été impactés.",
+        "title": "TOTVS enfrenta incidente cibernético - Security Leaders",
+        "url": "https://securityleaders.com.br/totvs-enfrenta-incidente-cibernetico/",
+        "added": "2024-10-01"
+    },
+    {
         "date": "2024-09-25",
         "victim": "Eschau",
         "domain": "eschau.fr",
