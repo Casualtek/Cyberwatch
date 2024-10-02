@@ -1,6 +1,16 @@
 [
     {
         "date": "2024-09-30",
+        "victim": "Service Inspired Restaurants Corp. (SIR Corp.)",
+        "domain": "sircorp.com",
+        "country": "CAN",
+        "summary": "Le fonds de revenu SIR Royalty Income Fund (TSX:SRV.UN) a été touché par une cyberattaque affectant une partie de son infrastructure IT, mais les restaurants et les plateformes de paiement continuent de fonctionner normalement. L'enquête est en cours et la direction prévoit publier plus de détails à mesure qu'ils seront disponibles. Les actions du fonds ont perdu 21,8% sur un an, mais ont gagné 19,4% depuis 2019.",
+        "title": "SIR Royalty Income Fund holds ground after cyberattack | 2024-10-01 | Investing News | Stockhouse",
+        "url": "https://stockhouse.com/news/the-market-online-news/2024/10/01/sir-royalty-income-fund-holds-ground-after-cyberattack",
+        "added": "2024-10-02"
+    },
+    {
+        "date": "2024-09-30",
         "victim": "TOTVS",
         "domain": "totvs.com",
         "country": "BRA",
