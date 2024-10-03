@@ -1,6 +1,26 @@
 [
     {
         "date": "2024-10-02",
+        "victim": "Wayne County",
+        "domain": "waynecounty.com",
+        "country": "USA",
+        "summary": "Le comté de Wayne aux États-Unis a été victime d'une cyberattaque qui a affecté plusieurs services, notamment le bureau du shérif, le trésorier et le registre des biens immobiliers. Les hackers ont demandé une rançon en échange de la restauration des systèmes, mais l'identité des auteurs de l'attaque n'a pas été révélée. Les enquêteurs, y compris le FBI et la police d'État du Michigan, travaillent à élucider l'incident et à rétablir les services affectés.",
+        "title": "Cyberattack hits Wayne County; services affected as hacker demands ransom",
+        "url": "https://www.wxyz.com/news/local-news/investigations/cyberattack-hits-wayne-county-government-services-affected-as-hacker-demands-ransom",
+        "added": "2024-10-03"
+    },
+    {
+        "date": "2024-09-30",
+        "victim": "Red Barrels",
+        "domain": "redbarrelsgames.com",
+        "country": "CAN",
+        "summary": "Le développeur de jeux vidéo Red Barrels, connu pour les jeux d'horreur Outlast et Outlast 2, a subi une importante violation de données, entraînant une atteinte à ses travaux de développement et à ses employés. L'enquête a été menée et l'incident est considéré comme \"contenu\", mais les plans de développement ont été retardés en conséquence. Les données compromises incluent des codes source de jeux, des builds de jeux, des informations sur les ressources humaines et des informations de carte de crédit de l'entreprise.",
+        "title": "OUTLAST DEVELOPER RED BARRELS SUFFERS MAJOR DATA BREACH; COMPANY INFORMATION COMPROMISED",
+        "url": "https://insider-gaming.com/outlast-developer-red-barrels-suffers-major-data-breach/",
+        "added": "2024-10-03"
+    },
+    {
+        "date": "2024-10-02",
         "victim": "Thoraxzentrum Bezirk Unterfranken",
         "domain": "tzbu.de",
         "country": "DEU",
