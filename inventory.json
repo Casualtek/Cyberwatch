@@ -109625,6 +109625,11 @@
                 "date": "2024-08-19",
                 "type": "claimed",
                 "group": "qilin"
+            },
+            {
+                "date": "2024-08-14",
+                "type": "assessed",
+                "group": "qilin"
             }
         ]
     },
@@ -111999,11 +112004,6 @@
                 "date": "2024-08-23",
                 "type": "assessed",
                 "group": "cicada3301"
-            },
-            {
-                "date": "2024-09-05",
-                "type": "claimed",
-                "group": "cicada3301"
             }
         ]
     },
@@ -112638,6 +112638,11 @@
             {
                 "date": "2024-09-04",
                 "type": "claimed",
+                "group": "lockbit3"
+            },
+            {
+                "date": "2024-08-28",
+                "type": "assessed",
                 "group": "lockbit3"
             }
         ]
@@ -114417,6 +114422,17 @@
                 "date": "2024-09-05",
                 "type": "claimed",
                 "group": "ransomhub"
+            },
+            {
+                "date": "2024-09-29",
+                "type": "discovered",
+                "summary": "Le district scolaire de Cincinnati a été victime d'une cyberattaque par rançongiciel en août, qui a pu compromettre les données du district. Aucun argent n'a été volé, mais les enquêteurs travaillent avec des experts en cybersécurité pour investiguer l'incident. Le district a mis en garde les parents et les élèves contre les emails suspectes et les liens inconnus, et a promis de mettre en œuvre des mesures de sécurité pour prévenir d'autres accès non autorisés.",
+                "title": "Cincinnati Public Schools suffers ransomware attack",
+                "url": "https://eu.cincinnati.com/story/news/education/2024/09/27/cincinnati-public-schools-suffers-ransomware-attack/75411988007/"
+            },
+            {
+                "date": "2024-08-15",
+                "type": "reported"
             }
         ]
     },
@@ -116534,6 +116550,11 @@
                 "date": "2024-09-15",
                 "type": "claimed",
                 "group": "lockbit3"
+            },
+            {
+                "date": "2024-09-09",
+                "type": "assessed",
+                "group": "lockbit3"
             }
         ]
     },
@@ -116575,6 +116596,11 @@
                 "date": "2024-09-15",
                 "type": "claimed",
                 "group": "lockbit3"
+            },
+            {
+                "date": "2022-02-04",
+                "type": "assessed",
+                "group": "lockbit3"
             }
         ]
     },
@@ -116586,6 +116612,11 @@
             {
                 "date": "2024-09-15",
                 "type": "claimed",
+                "group": "lockbit3"
+            },
+            {
+                "date": "2022-03-15",
+                "type": "assessed",
                 "group": "lockbit3"
             }
         ]
@@ -116599,6 +116630,11 @@
                 "date": "2024-09-15",
                 "type": "claimed",
                 "group": "lockbit3"
+            },
+            {
+                "date": "2022-02-03",
+                "type": "assessed",
+                "group": "lockbit3"
             }
         ]
     },
@@ -116610,6 +116646,11 @@
             {
                 "date": "2024-09-15",
                 "type": "claimed",
+                "group": "lockbit3"
+            },
+            {
+                "date": "2021-12-26",
+                "type": "assessed",
                 "group": "lockbit3"
             }
         ]
@@ -116623,6 +116664,11 @@
                 "date": "2024-09-15",
                 "type": "claimed",
                 "group": "lockbit3"
+            },
+            {
+                "date": "2024-08-19",
+                "type": "assessed",
+                "group": "lockbit3"
             }
         ]
     },
@@ -116634,6 +116680,11 @@
             {
                 "date": "2024-09-10",
                 "type": "claimed",
+                "group": "ransomhub"
+            },
+            {
+                "date": "2024-08-25",
+                "type": "assessed",
                 "group": "ransomhub"
             }
         ]
@@ -116647,6 +116698,11 @@
                 "date": "2024-09-10",
                 "type": "claimed",
                 "group": "ransomhub"
+            },
+            {
+                "date": "2024-08-20",
+                "type": "assessed",
+                "group": "ransomhub"
             }
         ]
     },
@@ -116658,6 +116714,11 @@
             {
                 "date": "2024-09-10",
                 "type": "claimed",
+                "group": "ransomhub"
+            },
+            {
+                "date": "2024-08-22",
+                "type": "assessed",
                 "group": "ransomhub"
             }
         ]
@@ -117091,6 +117152,11 @@
                 "date": "2024-09-18",
                 "type": "claimed",
                 "group": "ransomhub"
+            },
+            {
+                "date": "2024-09-17",
+                "type": "assessed",
+                "group": "ransomhub"
             }
         ]
     },
@@ -117103,6 +117169,11 @@
                 "date": "2024-09-17",
                 "type": "claimed",
                 "group": "ransomhub"
+            },
+            {
+                "date": "2024-09-10",
+                "type": "assessed",
+                "group": "ransomhub"
             }
         ]
     },
@@ -117114,6 +117185,11 @@
             {
                 "date": "2024-09-17",
                 "type": "claimed",
+                "group": "ransomhub"
+            },
+            {
+                "date": "2024-09-03",
+                "type": "assessed",
                 "group": "ransomhub"
             }
         ]
@@ -117150,6 +117226,11 @@
             {
                 "date": "2024-09-16",
                 "type": "claimed",
+                "group": "ransomhub"
+            },
+            {
+                "date": "2024-09-13",
+                "type": "assessed",
                 "group": "ransomhub"
             }
         ]
@@ -117500,6 +117581,11 @@
                 "date": "2024-09-12",
                 "type": "claimed",
                 "group": "qilin"
+            },
+            {
+                "date": "2024-08-19",
+                "type": "assessed",
+                "group": "qilin"
             }
         ]
     },
@@ -117596,6 +117682,11 @@
                 "date": "2024-09-18",
                 "type": "claimed",
                 "group": "lockbit3"
+            },
+            {
+                "date": "2022-01-31",
+                "type": "assessed",
+                "group": "lockbit3"
             }
         ]
     },
@@ -117607,6 +117698,11 @@
             {
                 "date": "2024-09-18",
                 "type": "claimed",
+                "group": "lockbit3"
+            },
+            {
+                "date": "2022-01-21",
+                "type": "assessed",
                 "group": "lockbit3"
             }
         ]
@@ -117620,6 +117716,11 @@
                 "date": "2024-09-18",
                 "type": "claimed",
                 "group": "lockbit3"
+            },
+            {
+                "date": "2022-03-23",
+                "type": "assessed",
+                "group": "lockbit3"
             }
         ]
     },
@@ -117632,6 +117733,11 @@
                 "date": "2024-09-18",
                 "type": "claimed",
                 "group": "lockbit3"
+            },
+            {
+                "date": "2022-04-21",
+                "type": "assessed",
+                "group": "lockbit3"
             }
         ]
     },
@@ -117643,6 +117749,11 @@
             {
                 "date": "2024-09-18",
                 "type": "claimed",
+                "group": "lockbit3"
+            },
+            {
+                "date": "2022-04-02",
+                "type": "assessed",
                 "group": "lockbit3"
             }
         ]
@@ -117715,6 +117826,11 @@
             {
                 "date": "2024-09-19",
                 "type": "claimed",
+                "group": "ransomhub"
+            },
+            {
+                "date": "2024-09-05",
+                "type": "assessed",
                 "group": "ransomhub"
             }
         ]
@@ -117836,6 +117952,11 @@
                 "date": "2024-09-19",
                 "type": "claimed",
                 "group": "ransomhub"
+            },
+            {
+                "date": "2024-09-09",
+                "type": "assessed",
+                "group": "ransomhub"
             }
         ]
     },
@@ -117847,6 +117968,11 @@
             {
                 "date": "2024-09-20",
                 "type": "claimed",
+                "group": "ransomhub"
+            },
+            {
+                "date": "2024-09-20",
+                "type": "assessed",
                 "group": "ransomhub"
             }
         ]
@@ -118332,271 +118458,403 @@
         ]
     },
     {
-        "victim": "River Region Cardiology Associates",
-        "domain": "rrcamd.com",
+        "victim": "Wayne County",
+        "domain": "waynecounty.com",
         "country": "US",
         "timeline": [
             {
-                "date": "2024-09-20",
-                "type": "claimed",
-                "group": "bianlian"
+                "date": "2024-10-03",
+                "type": "discovered",
+                "summary": "Le comté de Wayne aux États-Unis a été victime d'une cyberattaque qui a affecté plusieurs services, notamment le bureau du shérif, le trésorier et le registre des biens immobiliers. Les hackers ont demandé une rançon en échange de la restauration des systèmes, mais l'identité des auteurs de l'attaque n'a pas été révélée. Les enquêteurs, y compris le FBI et la police d'État du Michigan, travaillent à élucider l'incident et à rétablir les services affectés.",
+                "title": "Cyberattack hits Wayne County; services affected as hacker demands ransom",
+                "url": "https://www.wxyz.com/news/local-news/investigations/cyberattack-hits-wayne-county-government-services-affected-as-hacker-demands-ransom"
+            },
+            {
+                "date": "2024-10-02",
+                "type": "reported"
             }
         ]
     },
     {
-        "victim": "Juice Generation",
-        "domain": "juicegeneration.com",
-        "country": "US",
+        "victim": "Red Barrels",
+        "domain": "redbarrelsgames.com",
+        "country": "CA",
         "timeline": [
             {
-                "date": "2024-09-20",
-                "type": "claimed",
-                "group": "fog"
+                "date": "2024-10-03",
+                "type": "discovered",
+                "summary": "Le développeur de jeux vidéo Red Barrels, connu pour les jeux d'horreur Outlast et Outlast 2, a subi une importante violation de données, entraînant une atteinte à ses travaux de développement et à ses employés. L'enquête a été menée et l'incident est considéré comme \"contenu\", mais les plans de développement ont été retardés en conséquence. Les données compromises incluent des codes source de jeux, des builds de jeux, des informations sur les ressources humaines et des informations de carte de crédit de l'entreprise.",
+                "title": "OUTLAST DEVELOPER RED BARRELS SUFFERS MAJOR DATA BREACH; COMPANY INFORMATION COMPROMISED",
+                "url": "https://insider-gaming.com/outlast-developer-red-barrels-suffers-major-data-breach/"
+            },
+            {
+                "date": "2024-09-30",
+                "type": "reported"
             }
         ]
     },
     {
-        "victim": "virainsight.com",
-        "domain": "virainsight.com",
-        "country": "US",
+        "victim": "Thoraxzentrum Bezirk Unterfranken",
+        "domain": "tzbu.de",
+        "country": "DE",
         "timeline": [
             {
-                "date": "2024-09-18",
-                "type": "claimed",
-                "group": "ransomhub"
+                "date": "2024-10-02",
+                "type": "discovered",
+                "summary": "Le centre thoracique de Münnerstadt a été victime d'une cyberattaque, ce qui a entraîné une limitation des fonctionnalités de ses systèmes d'information. Les activités de la clinique spécialisée dans les maladies pulmonaires sont donc perturbées en raison de cette attaque.",
+                "title": "Cyberangriff auf das Thoraxzentrum Münnerstadt: IT-Systeme der Lungen-Fachklinik funktionieren nur eingeschränkt",
+                "url": "https://www.mainpost.de/regional/bad-kissingen/cyberangriff-auf-das-thoraxzentrum-muennerstadt-it-systeme-der-lungen-fachklinik-funktionieren-nur-eingeschraenkt-art-11623472"
+            },
+            {
+                "date": "2024-10-02",
+                "type": "reported"
             }
         ]
     },
     {
-        "victim": "Capital Printing",
-        "domain": "capitalprintingco.com",
-        "country": "US",
+        "victim": "Service Inspired Restaurants Corp. (SIR Corp.)",
+        "domain": "sircorp.com",
+        "country": "CA",
         "timeline": [
             {
-                "date": "2024-09-20",
-                "type": "claimed",
-                "group": "cicada3301"
+                "date": "2024-10-02",
+                "type": "discovered",
+                "summary": "Le fonds de revenu SIR Royalty Income Fund (TSX:SRV.UN) a été touché par une cyberattaque affectant une partie de son infrastructure IT, mais les restaurants et les plateformes de paiement continuent de fonctionner normalement. L'enquête est en cours et la direction prévoit publier plus de détails à mesure qu'ils seront disponibles. Les actions du fonds ont perdu 21,8% sur un an, mais ont gagné 19,4% depuis 2019.",
+                "title": "SIR Royalty Income Fund holds ground after cyberattack | 2024-10-01 | Investing News | Stockhouse",
+                "url": "https://stockhouse.com/news/the-market-online-news/2024/10/01/sir-royalty-income-fund-holds-ground-after-cyberattack"
+            },
+            {
+                "date": "2024-09-30",
+                "type": "reported"
             }
         ]
     },
     {
-        "victim": "KW Realty Group",
-        "domain": "kwrealtygroup.com",
-        "country": "US",
+        "victim": "TOTVS",
+        "domain": "totvs.com",
+        "country": "BR",
         "timeline": [
             {
-                "date": "2024-09-20",
-                "type": "claimed",
-                "group": "qilin"
+                "date": "2024-10-01",
+                "type": "discovered",
+                "summary": "La société brésilienne de technologie TOTVS a été victime d'une cyberattaque, qui a été revendiquée par le groupe BlackByte, qui a affirmé avoir volé des données de l'entreprise. TOTVS a informé ses clients de l'incident et a pris des mesures pour garantir la continuité de ses services et opérations. L'entreprise n'a pas confirmé l'ampleur de l'attaque ou si ses clients ont été impactés.",
+                "title": "TOTVS enfrenta incidente cibernético - Security Leaders",
+                "url": "https://securityleaders.com.br/totvs-enfrenta-incidente-cibernetico/"
+            },
+            {
+                "date": "2024-09-30",
+                "type": "reported"
             }
         ]
     },
     {
-        "victim": "Visionary Homes",
-        "domain": "visionaryhomes.com",
-        "country": "US",
+        "victim": "Eschau",
+        "domain": "eschau.fr",
+        "country": "FR",
         "timeline": [
             {
-                "date": "2024-09-20",
-                "type": "claimed",
-                "group": "incransom"
+                "date": "2024-09-30",
+                "type": "discovered",
+                "summary": "La mairie d'Eschau a été victime d'une cyberattaque qui dure depuis plusieurs jours. L'article ne fournit pas de détails sur l'attaque, mais invite les lecteurs à rejoindre la communauté d'abonnés pour en savoir plus. Les conséquences de l'attaque et les mesures prises pour y remédier ne sont pas précisées.",
+                "title": "Eschau. La mairie victime d’une cyberattaque depuis plusieurs jours",
+                "url": "https://www.dna.fr/faits-divers-justice/2024/09/30/la-mairie-victime-d-une-cyberattaque-depuis-plusieurs-jours"
+            },
+            {
+                "date": "2024-09-25",
+                "type": "reported"
             }
         ]
     },
     {
-        "victim": "Thompson Construction Supply",
-        "domain": "thompsonconstructionsupply.com",
-        "country": "US",
+        "victim": "Aurdel",
+        "domain": "aurdel.com",
+        "country": "SE",
         "timeline": [
             {
-                "date": "2024-09-20",
-                "type": "claimed",
-                "group": "play"
+                "date": "2024-09-30",
+                "type": "discovered",
+                "summary": "Aurdel, filiale d'une entreprise de produits informatiques, Dist IT, a été victime d'une cyberattaque qui a causé un impact financier. L'attaque a commencé jeudi et les systèmes ont été mis hors ligne pour minimiser les dégâts, ce qui a entraîné des retards dans les livraisons. Les auteurs de l'attaque ont eu accès à des données, mais il est trop tôt pour évaluer l'étendue de la violation.",
+                "title": "Dist IT's subsidiary hit by cyber-attack - 'causes some financial impact' - MarketScreener",
+                "url": "https://www.marketscreener.com/quote/stock/DISTIT-AB-39434477/news/Dist-IT-s-subsidiary-hit-by-cyber-attack-causes-some-financial-impact-47961162/"
+            },
+            {
+                "date": "2024-09-26",
+                "type": "reported"
             }
         ]
     },
     {
-        "victim": "Pacific Coast Building Products",
-        "domain": "paccoast.com",
+        "victim": "Richmond Community Schools",
+        "domain": "werrichmond.com",
         "country": "US",
         "timeline": [
             {
-                "date": "2024-09-20",
-                "type": "claimed",
-                "group": "play"
+                "date": "2024-09-29",
+                "type": "discovered",
+                "summary": "Le district scolaire de Richmond Community Schools dans l'Indiana a été victime d'une attaque par ransomware qui a compromis les informations des élèves et du personnel dans le système PowerSchool. Le district a fermé son réseau de données et travaille avec les autorités locales, étatiques et fédérales pour enquêter sur l'incident.",
+                "title": "Richmond Community Schools reports ransomware attack; Scranton School District paid ransom in March - DataBreaches.Net",
+                "url": "https://databreaches.net/2024/09/29/richmond-community-schools-reports-ransomware-attack-scranton-school-district-paid-ransom-in-march/"
+            },
+            {
+                "date": "2024-09-27",
+                "type": "reported"
             }
         ]
     },
     {
-        "victim": "Omega Industries",
-        "domain": "omega-industries.com",
-        "country": "US",
+        "victim": "Smeg",
+        "domain": "smeg.com",
+        "country": "IT",
         "timeline": [
             {
-                "date": "2024-09-20",
-                "type": "claimed",
-                "group": "play"
+                "date": "2024-09-29",
+                "type": "discovered",
+                "summary": "La multinazionale italienne Smeg a été victime d'une cyberattaque qui a entraîné l'arrêt de ses systèmes informatiques, notamment ceux gérant la production, la logistique et les ressources humaines. Pour des raisons de sécurité, le système a été bloqué pour éviter la perte de données sensibles. Les techniciens travaillent à résoudre la situation dans les plus brefs délais pour restaurer la pleine fonctionnalité des systèmes.",
+                "title": "Attacco hacker alla multinazionale Smeg: sistemi in avaria, produzione ferma",
+                "url": "https://www.ilrestodelcarlino.it/reggio-emilia/cronaca/guastalla-attacco-hacker-alla-ditta-smeg-ae6c5ef3"
+            },
+            {
+                "date": "2024-09-27",
+                "type": "reported"
             }
         ]
     },
     {
-        "victim": "Noble Environmental",
-        "domain": "nobleenviro.com",
-        "country": "US",
+        "victim": "Agence France-Presse (AFP)",
+        "domain": "afp.com",
+        "country": "FR",
         "timeline": [
             {
-                "date": "2024-09-20",
-                "type": "claimed",
-                "group": "play"
+                "date": "2024-09-29",
+                "type": "discovered",
+                "summary": "L'Agence France-Presse (AFP), la plus grande agence de presse de France, a été victime d'une cyberattaque vendredi. Les enquêtes sont en cours et l'agence a précisé que tous ses systèmes fonctionnaient normalement, mais qu'il était possible que les informations d'accès pour la diffusion de contenu AFP soient tombées entre les mains des attaquants. L'AFP a promis de fournir plus d'informations une fois les investigations terminées.",
+                "title": "AFP meldet über sich selbst: Cyber-Angriff auf Frankreichs größte Nachrichtenagentur | Politik | BILD.de",
+                "url": "https://www.bild.de/politik/afp-meldet-ueber-sich-selbst-cyber-angriff-auf-frankreichs-groesste-nachrichtenagentur-66f7e6813fe25e160dfe2f39"
+            },
+            {
+                "date": "2024-09-27",
+                "type": "reported"
             }
         ]
     },
     {
-        "victim": "Messe C",
-        "domain": "messec.dk",
-        "country": "DK",
+        "victim": "CDC Biodiversité",
+        "domain": "cdc-biodiversite.fr",
+        "country": "FR",
         "timeline": [
             {
-                "date": "2024-09-20",
-                "type": "claimed",
-                "group": "play"
+                "date": "2024-09-29",
+                "type": "discovered",
+                "summary": "CDC Biodiversité a été victime d'une cyberattaque par ransomware depuis le 26 septembre 2024. Une cellule de crise a été mise en place pour investiguer et résoudre l'incident, avec pour priorité la protection des informations des clients, fournisseurs et collaborateurs. L'objectif est de rétablir un fonctionnement normal du système d'informations dans les meilleurs délais.",
+                "title": "Message d’information | CDC Biodiversité",
+                "url": "https://www.cdc-biodiversite.fr/actualite/cdc-biodiversite-message-dinformation/"
+            },
+            {
+                "date": "2024-09-26",
+                "type": "reported"
             }
         ]
     },
     {
-        "victim": "Jackson Paper Manufacturing",
-        "domain": "jacksonpaper.net",
-        "country": "US",
+        "victim": "Boreal Capital Management",
+        "domain": "borealcm.com",
+        "country": "CH",
         "timeline": [
             {
-                "date": "2024-09-20",
-                "type": "claimed",
-                "group": "play"
+                "date": "2024-09-27",
+                "type": "discovered",
+                "summary": "La société de gestion de patrimoine Boreal Capital Management à Zurich a été victime d'une cyberattaque par le groupe de ransomware Play, qui a volé 46 Go de données, notamment des informations sur 700 clients. Les données ont été publiées sur le darknet et ont été récupérées par le Consortium international des journalistes d'investigation (ICIJ), qui a révélé des informations sensibles sur des personnalités politiques et des oligarques. Boreal Capital Management a pris des mesures pour contenir l'incident et a informé les autorités compétentes.",
+                "title": "Ransomware-Gruppe Play: Hackerangriff stellt Zürcher Latino-Vermögensverwalter Boreal Capital bloss - Tippinpoint",
+                "url": "https://www.tippinpoint.ch/artikel/77642/ransomware-gruppe_play_hackerangriff_stellt_zuercher_latino-vermoegensverwalter_boreal_capital_bloss_.html"
+            },
+            {
+                "date": "2024-06-20",
+                "type": "reported"
             }
         ]
     },
     {
-        "victim": "Acho.io",
-        "domain": "acho.io",
+        "victim": "University Medical Center (UMC)",
+        "domain": "umchealthsystem.com",
         "country": "US",
         "timeline": [
             {
-                "date": "2024-09-21",
-                "type": "claimed",
-                "group": "ransomhub"
+                "date": "2024-09-27",
+                "type": "discovered",
+                "summary": "Le Centre Médical Universitaire (UMC) de Lubbock, au Texas, a été victime d'une attaque par rançon (ransomware) qui a perturbé ses systèmes, obligeant l'hôpital à détourner les patients vers d'autres établissements de santé locaux. Les services d'urgence et les cliniques de soins non urgents du centre restent ouverts, mais les patients sont redirigés vers d'autres hôpitaux jusqu'à ce que le problème soit résolu. L'UMC promet de fournir des mises à jour supplémentaires lorsque plus d'informations seront disponibles.",
+                "title": "Lubbock UMC experiences ransomware attack, diverts patients to other hospitals",
+                "url": "https://www.everythinglubbock.com/news/local-news/lubbock-umc-experiences-ransomware-attack-diverts-patients-to-other-hospitals/"
+            },
+            {
+                "date": "2024-09-26",
+                "type": "reported"
             }
         ]
     },
     {
-        "victim": "savannahcandy.com",
-        "domain": "savannahcandy.com",
+        "victim": "Kuwaiti Health Ministry",
+        "domain": "moh.gov.kw",
+        "country": "KW",
+        "timeline": [
+            {
+                "date": "2024-09-26",
+                "type": "discovered",
+                "summary": "Le ministère de la Santé du Koweït a annoncé que les systèmes essentiels ont été restaurés après une cyberattaque qui a affecté certains hôpitaux et l'application Sahel. Les équipes techniques ont identifié les causes de la panne et ont mis en évidence des tentatives d'intrusion dans les systèmes, mais ont réussi à protéger les données sensibles. Le ministère travaille avec les agences de sécurité gouvernementales pour restaurer les systèmes restants et renforcer la sécurité pour prévenir de futures attaques.",
+                "title": "KUNA : Kuwait MoH.: Essential systems restored, active after recent cyberattack - Health - 25/09/2024",
+                "url": "https://www.kuna.net.kw/ArticleDetails.aspx?id=3183935&language=en"
+            },
+            {
+                "date": "2024-09-24",
+                "type": "reported"
+            }
+        ]
+    },
+    {
+        "victim": "Ville de Richardson",
+        "domain": "cor.net",
         "country": "US",
         "timeline": [
             {
-                "date": "2024-09-20",
-                "type": "claimed",
-                "group": "ransomhub"
+                "date": "2024-09-26",
+                "type": "discovered",
+                "summary": "La ville de Richardson au Texas a été victime d'une cyberattaque le 25 septembre 2024, où un tiers a temporairement accédé aux serveurs de la ville et a tenté de chiffrer des fichiers. Les systèmes de sécurité automatiques ont contenu l'impact, mais l'accès interne aux serveurs a été fermé en précaution. Les enquêtes sont en cours avec le FBI et le DHS pour restaurer les systèmes et identifier les données compromises.",
+                "title": "Richardson Responding To Cyber Security Incident | News | Richardson, TX",
+                "url": "https://www.cor.net/Home/Components/News/News/7825/73"
+            },
+            {
+                "date": "2024-09-25",
+                "type": "reported"
+            }
+        ]
+    },
+    {
+        "victim": "Delaware libraries",
+        "domain": "libraries.delaware.gov",
+        "country": "US",
+        "timeline": [
+            {
+                "date": "2024-09-25",
+                "type": "discovered",
+                "summary": "Les bibliothèques du Delaware ont été victimes d'une attaque de ransomware, qui a pris le contrôle des serveurs virtuels des ordinateurs publics, et les hackers demandent une rançon d'environ 1 million de dollars pour restituer le contrôle. La directrice des bibliothèques, Annie Norman, a décidé de ne pas payer la rançon et de reconstruire les serveurs à la place. Les bibliothèques restent ouvertes, mais les ordinateurs publics sont actuellement indisponibles, affectant l'accès à internet pour les personnes qui en dépendent.",
+                "title": "Hackers demand ransom after attack on Delaware libraries - Spotlight Delaware",
+                "url": "https://spotlightdelaware.org/2024/09/23/delaware-libraries-hack/"
             },
             {
                 "date": "2024-09-20",
+                "type": "reported"
+            },
+            {
+                "date": "2024-09-18",
                 "type": "assessed",
                 "group": "ransomhub"
             }
         ]
     },
     {
-        "victim": "Woodard , Hernandez , Roth & Day",
-        "domain": "woodard-law.com",
+        "victim": "Lancaster Royal Grammar School",
+        "domain": "lrgs.org.uk",
+        "country": "GB",
+        "timeline": [
+            {
+                "date": "2024-09-24",
+                "type": "discovered",
+                "summary": "Le Lancaster Royal Grammar School a été victime d'une cyberattaque par ransomware le 16 juillet, obligeant les employés à fermer le système informatique et à le reconstruire à partir de zéro pendant les vacances d'été. Les systèmes les plus sensibles, tels que les bases de données des élèves et les systèmes de financement, n'ont pas été affectés. L'école a refusé de payer la rançon demandée par les hackers, qui semblaient être un groupe professionnel.",
+                "title": "Lancaster Royal Grammar targeted by cyber ransom hackers",
+                "url": "https://www.bbc.com/news/articles/c2kdvggk977o"
+            },
+            {
+                "date": "2024-07-16",
+                "type": "reported"
+            }
+        ]
+    },
+    {
+        "victim": "VBG Unfallversicherung",
+        "domain": "vbg.de",
+        "country": "DE",
+        "timeline": [
+            {
+                "date": "2024-09-24",
+                "type": "discovered",
+                "summary": "La VBG Unfallversicherung à Hambourg a été victime d'une attaque de ransomware sur l'un de ses serveurs, compromettant les adresses e-mail et les informations de contact des participants à ses séminaires en ligne. Les données potentiellement compromises incluent les adresses postales et les numéros de téléphone. La VBG a pris des mesures immédiates pour contenir l'attaque et informe les personnes concernées, leur recommandant de surveiller leurs comptes et de changer leurs mots de passe.",
+                "title": "VBG Ransomware-Angriff",
+                "url": "https://www.mittelstand-nachrichten.de/datenschutz/vbg-ransomware-angriff/"
+            },
+            {
+                "date": "2024-09-23",
+                "type": "reported"
+            }
+        ]
+    },
+    {
+        "victim": "Namebay",
+        "domain": "namebay.com",
+        "country": "MC",
+        "timeline": [
+            {
+                "date": "2024-09-24",
+                "type": "discovered",
+                "summary": "Namebay a été victime d'une cyberattaque par ransomware le 21 septembre, entraînant la mise hors ligne de certains services tels que les mails hébergés, l'hébergement et l'API. Les équipes de sécurité de Namebay travaillent actuellement à la mise en œuvre de mesures pour un rétablissement dans les meilleurs délais. Les investigations sont en cours pour déterminer l'ampleur de l'attaque et si des données ont été exfiltrées.",
+                "title": "Namebay",
+                "url": "https://www.namebay.com"
+            },
+            {
+                "date": "2024-09-21",
+                "type": "reported"
+            }
+        ]
+    },
+    {
+        "victim": "MoneyGram",
+        "domain": "moneygram.com",
         "country": "US",
         "timeline": [
+            {
+                "date": "2024-09-24",
+                "type": "discovered",
+                "summary": "MoneyGram, une entreprise de transfert d'argent, est victime d'une cyberattaque qui a entraîné une panne de ses systèmes et services de paiement depuis vendredi. L'entreprise a identifié une \"question de cybersécurité\" comme cause de la panne, mais n'a pas encore précisé si elle est due à une attaque de ransomware. MoneyGram a engagé des experts en cybersécurité tiers et travaille avec les forces de l'ordre pour résoudre le problème et restaurer ses opérations.",
+                "title": "'Cybersecurity issue' blamed for MoneyGram's ongoing outage • The Register",
+                "url": "https://www.theregister.com/2024/09/23/moneygram_cybersecurity_issue/"
+            },
             {
                 "date": "2024-09-22",
-                "type": "claimed",
-                "group": "qilin"
+                "type": "reported"
             }
         ]
     },
     {
-        "victim": "Daughterly Care",
-        "domain": "daughterlycare.com.au",
-        "country": "AU",
+        "victim": "Arkansas City Water Plant",
+        "domain": "arkcity.org",
+        "country": "US",
         "timeline": [
+            {
+                "date": "2024-09-24",
+                "type": "discovered",
+                "summary": "L'usine de traitement d'eau d'Arkansas City a été victime d'une cyberattaque pendant le week-end. L'incident a été signalé le 24 septembre 2024. Les détails de l'attaque et de ses conséquences ne sont pas encore disponibles.",
+                "title": "Arkansas City water plant hit by cyberattack over weekend",
+                "url": "https://www.kwch.com/video/2024/09/23/arkansas-city-water-plant-hit-by-cyberattack-over-weekend/"
+            },
             {
                 "date": "2024-09-22",
-                "type": "claimed",
-                "group": "rhysida"
+                "type": "reported"
             }
         ]
     },
     {
-        "victim": "hanwa.co.th",
-        "domain": "hanwa.co.th",
-        "country": "TH",
+        "victim": "Schumag Aktiengesellschaft",
+        "domain": "schumag.de",
+        "country": "DE",
         "timeline": [
+            {
+                "date": "2024-09-24",
+                "type": "discovered",
+                "summary": "La Schumag Aktiengesellschaft, une entreprise allemande produisant des pièces de précision en acier, a été victime d'une cyberattaque qui l'empêche de tenir son assemblée générale ordinaire prévue le 25 septembre 2024. La production a pu reprendre partiellement malgré l'attaque, mais les conséquences et les dégâts ne peuvent pas encore être évalués. Une nouvelle assemblée générale sera convoquée dès que possible.",
+                "title": "Schumag Aktiengesellschaft: Cyberangriff. Absage der für den 25. September 2024 einberufenen ordentlichen Hauptversammlung",
+                "url": "https://www.boerse-frankfurt.de/nachrichten/Schumag-Aktiengesellschaft-Cyberangriff-Absage-der-fuer-den-25-September-2024-einberufenen-ordentlichen-Hauptversammlung-63c6812b-71f9-4407-b14a-589dc8f3ab55"
+            },
             {
                 "date": "2024-09-22",
-                "type": "claimed",
-                "group": "BrainCipher"
-            }
-        ]
-    },
-    {
-        "victim": "Canstar Restorations",
-        "domain": "canstarrestorations.com",
-        "country": "CA",
-        "timeline": [
-            {
-                "date": "2024-09-23",
-                "type": "claimed",
-                "group": "qilin"
-            }
-        ]
-    },
-    {
-        "victim": "Graminex",
-        "domain": "graminex.com",
-        "country": "US",
-        "timeline": [
-            {
-                "date": "2024-09-23",
-                "type": "claimed",
-                "group": "dragonforce"
-            }
-        ]
-    },
-    {
-        "victim": "Fabrica Industrial Machinery & Equipment",
-        "domain": "fabricasrl.com.ar",
-        "country": "AR",
-        "timeline": [
-            {
-                "date": "2024-09-23",
-                "type": "claimed",
-                "group": "trinity"
-            }
-        ]
-    },
-    {
-        "victim": "ten8fire.com",
-        "domain": "ten8fire.com",
-        "country": "US",
-        "timeline": [
-            {
-                "date": "2024-09-23",
-                "type": "claimed",
-                "group": "cactus"
-            }
-        ]
-    },
-    {
-        "victim": "Detroit Public TV",
-        "domain": "detroitpbs.org",
-        "country": "US",
-        "timeline": [
-            {
-                "date": "2024-09-23",
-                "type": "claimed",
-                "group": "qilin"
+                "type": "reported"
             }
         ]
     },
