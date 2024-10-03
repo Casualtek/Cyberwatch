@@ -1,5 +1,12 @@
 [
     {
+        "victim": "paybito.com",
+        "domain": "paybito.com",
+        "country": "US",
+        "date": "2022-01-31",
+        "group": "lockbit3"
+    },
+    {
         "victim": "efile.com",
         "domain": "efile.com",
         "country": "US",
