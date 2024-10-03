@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-09-25",
+        "victim": "Compañía Cervecerías Unidas S.A. (CCU)",
+        "domain": "ccu.cl",
+        "country": "CL",
+        "summary": "Le 25 septembre 2024, la Compañía Cervecerías Unidas S.A. (CCU) a signalé un incident de cybersécurité affectant ses systèmes informatiques de vente et distribution, causé par un agent externe. CCU a rapidement activé ses protocoles de sécurité, permettant de contenir l'incident et de commencer la restauration des systèmes. Toutefois, il a été confirmé que cet incident a entraîné une fuite de données, dont l'étendue est encore en cours d'évaluation, et les impacts financiers potentiels restent à déterminer.",
+        "title": "HECHO ESENCIAL",
+        "url": "https://ccuinvestor.com/ccu_contenido/uploads/2024/09/Hecho-Esencial-Incidente-de-Ciberseguridad-CCU.pdf",
+        "added": "2024-10-03"
+    },
+    {
         "date": "2024-10-02",
         "victim": "Wayne County",
         "domain": "waynecounty.com",
