@@ -1,5 +1,12 @@
 [
     {
+        "victim": "rhp.com.br",
+        "domain": "rhp.com.br",
+        "country": "BR",
+        "date": "2024-08-28",
+        "group": "lockbit3"
+    },
+    {
         "victim": "paybito.com",
         "domain": "paybito.com",
         "country": "US",
