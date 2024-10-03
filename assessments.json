@@ -1,5 +1,12 @@
 [
     {
+        "victim": "yesmoke.eu",
+        "domain": "yesmoke.eu",
+        "country": "IT",
+        "date": "2022-03-23",
+        "group": "lockbit3"
+    },
+    {
         "victim": "dowley.com",
         "domain": "dowley.com",
         "country": "US",
