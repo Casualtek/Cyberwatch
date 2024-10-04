@@ -1,5 +1,12 @@
 [
     {
+        "victim": "tokiwa-group.co.jp",
+        "domain": "tokiwa-group.co.jp",
+        "country": "JP",
+        "date": "2024-08-30",
+        "group": "ransomhub"
+    },
+    {
         "victim": "careco.se",
         "domain": "careco.se",
         "country": "SE",
