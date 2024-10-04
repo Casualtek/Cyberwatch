@@ -1,5 +1,12 @@
 [
     {
+        "victim": "Manufacturing Network Pte Ltd (MNPL)",
+        "domain": "mnpl.com.sg",
+        "country": "SG",
+        "date": "2024-07-25",
+        "group": "threeam"
+    },
+    {
         "victim": "mctas.org.au (respect.com.au)",
         "domain": "mctas.org.au",
         "country": "AU",
