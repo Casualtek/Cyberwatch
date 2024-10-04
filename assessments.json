@@ -1,5 +1,12 @@
 [
     {
+        "victim": "oipip.gda.pl",
+        "domain": "oipip.gda.pl",
+        "country": "PL",
+        "date": "2024-08-28",
+        "group": "ransomhub"
+    },
+    {
         "victim": "tellurianinc.org",
         "domain": "tellurianinc.org",
         "country": "US",
