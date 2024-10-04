@@ -1,5 +1,12 @@
 [
     {
+        "victim": "tellurianinc.org",
+        "domain": "tellurianinc.org",
+        "country": "US",
+        "date": "2024-09-16",
+        "group": "ransomhub"
+    },
+    {
         "victim": "law-taxes.pl",
         "domain": "law-taxes.pl",
         "country": "PL",
