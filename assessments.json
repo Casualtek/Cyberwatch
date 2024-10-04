@@ -1,5 +1,12 @@
 [
     {
+        "victim": "law-taxes.pl",
+        "domain": "law-taxes.pl",
+        "country": "PL",
+        "date": "2024-08-28",
+        "group": "ransomhub"
+    },
+    {
         "victim": "tokiwa-group.co.jp",
         "domain": "tokiwa-group.co.jp",
         "country": "JP",
