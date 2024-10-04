@@ -1,5 +1,12 @@
 [
     {
+        "victim": "enterpriseoutsourcing.com",
+        "domain": "enterpriseoutsourcing.com",
+        "country": "ZA",
+        "date": "2024-10-02",
+        "group": "ransomhub"
+    },
+    {
         "victim": "cardiovirginia.com",
         "domain": "cardiovirginia.com",
         "country": "US",
