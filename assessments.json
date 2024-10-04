@@ -1,5 +1,12 @@
 [
     {
+        "victim": "quenotedeporten.com",
+        "domain": "quenotedeporten.com",
+        "country": "AR",
+        "date": "2024-08-15",
+        "group": "ransomhub"
+    },
+    {
         "victim": "Faith Family Church",
         "domain": "faithfc.org",
         "country": "US",
