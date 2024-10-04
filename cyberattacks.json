@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-09-05",
+        "victim": "Schäfer Dein Bäcker",
+        "domain": "schaefer-dein-baecker.de",
+        "country": "DEU",
+        "summary": "L'entreprise Schäfer Dein Bäcker a été victime d'une cyberattaque le 5 septembre 2024, au cours de laquelle les attaquants ont réussi à accéder à certaines parties de ses systèmes informatiques et à les crypter. Les systèmes ont été rapidement mis hors ligne et des spécialistes externes ont été appelés pour aider à résoudre l'incident. Selon l'entreprise, les attaquants n'ont pas pu extraire de données et il n'y a donc pas de risque de publication.",
+        "title": "Cyberangriff - Schäfer Dein Bäcker",
+        "url": "https://www.schaefer-dein-baecker.de/cyberangriff-30-09-2024/",
+        "added": "2024-10-04"
+    },
+    {
         "date": "2024-10-01",
         "victim": "Oyonnax",
         "domain": "oyonnax.fr",
