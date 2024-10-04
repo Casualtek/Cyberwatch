@@ -1,5 +1,12 @@
 [
     {
+        "victim": "Faith Family Church",
+        "domain": "faithfc.org",
+        "country": "US",
+        "date": "2024-08-27",
+        "group": "ransomhub"
+    },
+    {
         "victim": "Adantia",
         "domain": "adantia.es",
         "country": "ES",
