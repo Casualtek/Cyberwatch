@@ -1,5 +1,12 @@
 [
     {
+        "victim": "Acho.io",
+        "domain": "acho.io",
+        "country": "DE",
+        "date": "2024-09-20",
+        "group": "ransomhub"
+    },
+    {
         "victim": "rhp.com.br",
         "domain": "rhp.com.br",
         "country": "BR",
