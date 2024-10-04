@@ -1,5 +1,12 @@
 [
     {
+        "victim": "naniwa-pump.co.jp",
+        "domain": "naniwa-pump.co.jp",
+        "country": "JP",
+        "date": "2024-09-11",
+        "group": "ransomhub"
+    },
+    {
         "victim": "Acho.io",
         "domain": "acho.io",
         "country": "DE",
