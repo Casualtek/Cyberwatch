@@ -1,5 +1,12 @@
 [
     {
+        "victim": "Adantia",
+        "domain": "adantia.es",
+        "country": "ES",
+        "date": "2024-08-27",
+        "group": "ransomhub"
+    },
+    {
         "victim": "ringpower.com",
         "domain": "ringpower.com",
         "country": "US",
