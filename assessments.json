@@ -1,5 +1,12 @@
 [
     {
+        "victim": "cardiovirginia.com",
+        "domain": "cardiovirginia.com",
+        "country": "US",
+        "date": "2024-08-28",
+        "group": "ransomhub"
+    },
+    {
         "victim": "Manufacturing Network Pte Ltd (MNPL)",
         "domain": "mnpl.com.sg",
         "country": "SG",
