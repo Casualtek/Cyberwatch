@@ -1,7 +1,14 @@
 [
     {
+        "victim": "mctas.org.au (respect.com.au)",
+        "domain": "mctas.org.au",
+        "country": "AU",
+        "date": "2024-06-06",
+        "group": "threeam"
+    },
+    {
         "victim": "Sacred Heart Catholic School",
-        "domain": "sacredheart.southwark.sch.uk",
+        "domain": "sacredheart.southwark.sch",
         "country": "GB",
         "date": "2024-06-18",
         "group": "threeam"
