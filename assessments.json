@@ -1,5 +1,12 @@
 [
     {
+        "victim": "careco.se",
+        "domain": "careco.se",
+        "country": "SE",
+        "date": "2024-09-05",
+        "group": "ransomhub"
+    },
+    {
         "victim": "naniwa-pump.co.jp",
         "domain": "naniwa-pump.co.jp",
         "country": "JP",
