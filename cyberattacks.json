@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-10-04",
+        "victim": "Groupe Hospi Grand Ouest",
+        "domain": "hospigrandouest.fr",
+        "country": "FRA",
+        "summary": "Le groupe Hospi Grand Ouest, qui gère neuf établissements de santé en Bretagne et Pays-de-la-Loire, a été victime d'une cyberattaque vendredi 4 octobre 2024, entraînant des perturbations sur son réseau. L'attaque est toujours en cours et les établissements doivent faire face à des tentatives d'intrusion sur leur réseau, ce qui peut compromettre l'accès aux prescriptions en ligne et aux dossiers patients. Une réunion d'urgence est prévue pour évaluer l'ampleur de l'attaque et prendre des mesures pour y remédier.",
+        "title": "INFO OUEST-FRANCE. Dans le grand Ouest, des établissements de santé victimes d’une cyberattaque",
+        "url": "https://www.ouest-france.fr/societe/cyberattaque/info-ouest-france-dans-le-grand-ouest-des-etablissements-de-sante-victimes-dune-cyberattaque-e870f94c-8319-11ef-91d9-7f562215fe95",
+        "added": "2024-10-05"
+    },
+    {
         "date": "2024-09-12",
         "victim": "Ministère de l'Économie et du Travail de Macédoine",
         "domain": "economy.gov.mk",
