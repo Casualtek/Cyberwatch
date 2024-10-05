@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-09-12",
+        "victim": "Ministère de l'Économie et du Travail de Macédoine",
+        "domain": "economy.gov.mk",
+        "country": "MKD",
+        "summary": "Le ministère de l'Économie et du Travail de Macédoine a été victime d'une cyberattaque il y a trois semaines, qui a entraîné la perte d'accès à Internet et aux courriels officiels pour les employés. Les données du ministère ont été verrouillées et il est soupçonné que les attaquants ont demandé une rançon en échange de la restitution des données. Le ministère a reçu un nouveau serveur pour migrer les données sauvegardées et le processus devrait être achevé d'ici la semaine prochaine.",
+        "title": "И Министерството за економија и труд мета на хакерски напад | Сител Телевизија",
+        "url": "https://sitel.com.mk/i-ministerstvoto-za-ekonomija-i-trud-meta-na-hakerski-napad",
+        "added": "2024-10-05"
+    },
+    {
         "date": "2024-09-05",
         "victim": "Schäfer Dein Bäcker",
         "domain": "schaefer-dein-baecker.de",
