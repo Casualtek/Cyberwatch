@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-10-03",
+        "victim": "American Water Works",
+        "domain": "amwater.com",
+        "country": "USA",
+        "summary": "Le 3 octobre 2024, American Water Works a détecté une activité non autorisée dans ses réseaux informatiques, résultant d’un incident de cybersécurité. L’entreprise a immédiatement activé ses protocoles de réponse, mobilisé des experts tiers et informé les autorités. Actuellement, aucun impact sur ses installations d’eau ou d’eaux usées n’a été constaté, et l’entreprise ne prévoit pas d’effet significatif sur ses finances.",
+        "title": "Discovery of and Response to Cybersecurity Incident",
+        "url": "https://www.sec.gov/Archives/edgar/data/1410636/000119312524233300/d869346d8k.htm",
+        "added": "2024-10-07"
+    },
+    {
         "date": "2024-10-02",
         "victim": "Traffics GmbH",
         "domain": "traffics.de",
