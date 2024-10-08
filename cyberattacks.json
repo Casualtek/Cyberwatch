@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-10-05",
+        "victim": "Casio Computer Co.",
+        "domain": "casio.co.jp",
+        "country": "JPN",
+        "summary": "La société japonaise Casio Computer Co. a confirmé une importante cyberattaque qui a permis à des parties non autorisées d'accéder à son réseau, entraînant une panne de système et des perturbations de services. L'entreprise a rapidement signalé l'incident aux autorités compétentes et a engagé des experts en cybersécurité pour mener une enquête approfondie. Casio a pris des mesures pour renforcer sa sécurité et protéger les données de ses clients, et s'est engagée à améliorer ses protocoles de sécurité pour éviter de telles incidents à l'avenir.",
+        "title": "Casio Suffers Major Cyber Attack: Unauthorized Access to Network Confirmed",
+        "url": "https://cybersecuritynews.com/casio-suffers-major-cyber-attack/",
+        "added": "2024-10-08"
+    },
+    {
         "date": "2024-10-07",
         "victim": "Vermilion Parish School System",
         "domain": "vpsb.net",
