@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-10-07",
+        "victim": "Vermilion Parish School System",
+        "domain": "vpsb.net",
+        "country": "USA",
+        "summary": "Le système scolaire du parish de Vermilion a été victime d'une possible cyberattaque, obligeant les écoles à déconnecter leur réseau et à changer leurs numéros de téléphone pour ne recevoir que les appels d'urgence. Les écoles ont réussi à restaurer leurs lignes téléphoniques internet dans l'après-midi. Les autorités scolaires travaillent avec une équipe de Baton Rouge pour enquêter sur l'incident et prévenir d'éventuelles compromissions supplémentaires.",
+        "title": "Vermilion Parish schools hit with possible cyberattack | News | theadvocate.com",
+        "url": "https://www.theadvocate.com/acadiana/news/vermilion-parish-schools-hit-with-possible-cyberattack/article_994f2e24-84ea-11ef-a947-0b9e8cc1d106.html",
+        "added": "2024-10-08"
+    },
+    {
         "date": "2024-10-03",
         "victim": "American Water Works",
         "domain": "amwater.com",
