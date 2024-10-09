@@ -10,7 +10,7 @@ on:
 
 jobs:
   run-cyberhebdo_de:
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-22.04
     timeout-minutes: 170
     environment: CI
     steps:
