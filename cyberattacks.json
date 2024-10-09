@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-07-19",
+        "victim": "CreditRiskMonitor.com, Inc.",
+        "domain": "creditriskmonitor.com",
+        "country": "USA",
+        "summary": "La société CreditRiskMonitor.com, Inc. a détecté une cyberattaque le 19 juillet 2024, qui a permis à un acteur non autorisé d'accéder à des fichiers contenant des informations personnelles d'employés et de contractants indépendants. L'enquête a révélé que ces informations pourraient avoir été consultées ou copiées entre le 8 et le 17 juillet 2024. La société a offert des services de surveillance du crédit et de protection contre la fraude d'identité à ces personnes pendant 24 mois.",
+        "title": "FORM 8-K",
+        "url": "https://www.sec.gov/Archives/edgar/data/315958/000114036124043034/ef20036707_8k.htm",
+        "added": "2024-10-09"
+    },
+    {
         "date": "2024-10-08",
         "victim": "Elbe-Heide",
         "domain": "elbe-heide.de",
