@@ -1,5 +1,13 @@
 [
     {
+        "victim": "Xtera Communications",
+        "domain": "xtera.com",
+        "country": "GB",
+        "date": "2024-09-17",
+        "group": "medusa"
+    
+    },
+    {
         "victim": "Wilson & Lafleur",
         "domain": "librairiewilsonlafleur.com",
         "country": "CA",
