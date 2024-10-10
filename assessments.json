@@ -1,5 +1,13 @@
 [
     {
+        "victim": "Compass Group Australia",
+        "domain": "compass-group.com.au",
+        "country": "AU",
+        "date": "2024-09-03",
+        "group": "medusa"
+    
+    },
+    {
         "victim": "Hairstore",
         "domain": "hairstore.no",
         "country": "NO",
