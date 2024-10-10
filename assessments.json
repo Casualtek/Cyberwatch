@@ -1,5 +1,13 @@
 [
     {
+        "victim": "Karakaya Group",
+        "domain": "karakaya.com",
+        "country": "TR",
+        "date": "2024-09-06",
+        "group": "medusa"
+    
+    },
+    {
         "victim": "Acuity Advisors",
         "domain": "acuity.co.uk",
         "country": "GB",
