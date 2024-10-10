@@ -1,5 +1,13 @@
 [
     {
+        "victim": "Micron Internet",
+        "domain": "micron.com.br",
+        "country": "BR",
+        "date": "2024-09-05",
+        "group": "medusa"
+    
+    },
+    {
         "victim": "Karakaya Group",
         "domain": "karakaya.com",
         "country": "TR",
