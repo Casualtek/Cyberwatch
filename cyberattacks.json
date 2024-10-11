@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-10-01",
+        "victim": "C.R. Laurence (CRL)",
+        "domain": "crlaurence.com",
+        "country": "USA",
+        "summary": "La société C.R. Laurence (CRL) a été victime d'une cyberattaque par ransomware le 1er octobre 2024, qui a affecté certaines parties de son réseau et a entraîné l'indisponibilité de services tels que les commandes en ligne et les services de conception et d'estimation. Les opérations ont depuis été restaurées. L'enquête sur l'incident est toujours en cours.",
+        "title": "Cyberattack Hits CRL, Services Restored",
+        "url": "https://www.usglassmag.com/cyberattack-hits-crl-services-restored/",
+        "added": "2024-10-11"
+    },
+    {
         "date": "2024-10-10",
         "victim": "Guajará-Mirim",
         "domain": "guajaramirim.ro.gov.br",
