@@ -1,5 +1,13 @@
 [
     {
+        "victim": "VBR Logística",
+        "domain": "vbrlogistica.com.br",
+        "country": "BR",
+        "date": "2024-09-11",
+        "group": "ransomhub"
+    
+    },
+    {
         "victim": "Xtera Communications",
         "domain": "xtera.com",
         "country": "GB",
