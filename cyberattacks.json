@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-10-07",
+        "victim": "Axis Health System",
+        "domain": "axishealthsystem.org",
+        "country": "USA",
+        "summary": "Le système de santé non lucratif Axis Health System, qui gère 13 établissements de santé au Colorado, a été victime d'une cyberattaque, ce qui a entraîné la mise hors ligne de son portail de soins de santé pour les patients. Le groupe de ransomware Rhysida a revendiqué l'attaque et exige plus de 1,5 million de dollars pour déverrouiller les données. Par ailleurs, une étude de sécurité a révélé que plus de 14 000 appareils de santé sont exposés sur internet, ce qui augmente le risque d'accès non autorisé et d'exploitation.",
+        "title": "Cyberattack targets healthcare nonprofit overseeing 13 Colorado facilities",
+        "url": "https://therecord.media/cyberattack-targets-healthcare-nonprofit-colorado",
+        "added": "2024-10-11"
+    },
+    {
         "date": "2024-10-10",
         "victim": "Agence pour la Modernisation Administrative (AMA) du Portugal",
         "domain": "ama.ogv.pt",
