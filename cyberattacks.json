@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-10-10",
+        "victim": "Agence pour la Modernisation Administrative (AMA) du Portugal",
+        "domain": "ama.ogv.pt",
+        "country": "PRT",
+        "summary": "L'Agence pour la Modernisation Administrative (AMA) du Portugal a été victime d'une cyberattaque par ransomware, rendant son réseau informatique inaccessible au public. L'attaque a eu un impact significatif sur plusieurs services, notamment Authentication.Gov, Gov.ID et CERT.PT. L'AMA travaille avec les autorités nationales pour résoudre la situation et promet de communiquer tout développement relatif à la restauration des services normaux.",
+        "title": "Ransomware attack targets Agency for Administrative Modernisation - Portugal Resident",
+        "url": "https://www.portugalresident.com/ransomware-attack-targets-agency-for-administrative-modernisation/",
+        "added": "2024-10-11"
+    },
+    {
         "date": "2024-10-08",
         "victim": "Nevada Joint Union High School District (NJUHSD)",
         "domain": "njuhsd.com",
