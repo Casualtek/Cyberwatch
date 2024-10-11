@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-10-08",
+        "victim": "Nevada Joint Union High School District (NJUHSD)",
+        "domain": "njuhsd.com",
+        "country": "USA",
+        "summary": "Les enseignants du comté de Nevada ont dû rapidement adapter leur enseignement ces trois derniers jours suite à une cyberattaque qui a affecté plus de cinq districts scolaires. Par précaution, les services Internet ont été suspendus pour éviter la propagation de données infectées aux districts voisins. Le district enquête actuellement sur la compromission éventuelle de données sensibles par un tiers malveillant.",
+        "title": "Ransom demands and cyber attack affecting internet use for schools across Nevada County",
+        "url": "https://www.theunion.com/news/ransom-demands-and-cyber-attack-affecting-internet-use-for-schools-across-nevada-county/article_fb8fa596-8760-11ef-aee7-0fa5a4834c01.html",
+        "added": "2024-10-11"
+    },
+    {
         "date": "2024-10-01",
         "victim": "C.R. Laurence (CRL)",
         "domain": "crlaurence.com",
