@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-09-28",
+        "victim": "Hubergroup",
+        "domain": "hubergroup.com",
+        "country": "DEU",
+        "summary": "La société Hubergroup, un leader mondial dans la fabrication d'encres d'imprimerie, a été victime d'une cyberattaque. Le système SAP, l'internet et la production sont perturbés depuis près de deux semaines. Bien que les impacts spécifiques restent flous, l'entreprise a confirmé que ses systèmes de sécurité ont réagi rapidement, limitant ainsi les dommages à certains systèmes régionaux.",
+        "title": "Cyberangriff auf Hubergroup: Regionale IT-Systeme beeinträchtigt | CELLEHEUTE.DE | Wirtschaft",
+        "url": "https://www.celleheute.de/post/cyberangriff-auf-hubergroup-regionale-it-systeme-beeinträchtigt",
+        "added": "2024-10-15"
+    },
+    {
         "date": "2024-10-07",
         "victim": "Axis Health System",
         "domain": "axishealthsystem.org",
