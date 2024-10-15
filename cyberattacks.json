@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-10-13",
+        "victim": "Johannesstift-Diakonie Berlin",
+        "domain": "johannesstift-diakonie.de",
+        "country": "DEU",
+        "summary": "La Johannesstift-Diakonie de Berlin a été victime d'une cyberattaque dimanche, entraînant la mise hors service de la plupart de ses systèmes informatiques et la cryptation de tous ses serveurs. Les équipes d'urgence ont été déployées et les systèmes de secours ont été activés pour maintenir le fonctionnement des établissements de santé et des services sociaux. La police enquête sur l'incident, suspectant une tentative d'extorsion et de sabotage informatique.",
+        "title": "Notfallsysteme gestartet: Johannesstift-Diakonie Berlin wird Opfer eines Cyber-Angriffs | rbb24",
+        "url": "https://www.rbb24.de/panorama/beitrag/2024/10/cyberangriff-johannesstift-diakonie.html",
+        "added": "2024-10-15"
+    },
+    {
         "date": "2024-10-04",
         "victim": "Cabot Financial",
         "domain": "cabotfinancial.ie",
