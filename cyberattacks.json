@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-10-04",
+        "victim": "Cabot Financial",
+        "domain": "cabotfinancial.ie",
+        "country": "IRL",
+        "summary": "La société de recouvrement de dettes Cabot Financial a été victime d'une cyberattaque, ce qui pourrait donner accès aux hackers aux détails personnels de milliers de clients. L'entreprise a déclaré l'incident à la Commission de protection des données et au Centre national de sécurité informatique et travaille à minimiser les dommages pour les clients. Les détails de la brèche de sécurité sont encore flous, mais il est craint que les hackers aient accès à des informations sensibles telles que les noms, adresses, courriels et détails de paiement.",
+        "title": "Hackers may have access to personal details of thousands of customers after debt collection firm attacked | Irish Independent",
+        "url": "https://m.independent.ie/business/personal-finance/hackers-may-have-access-to-personal-details-of-thousands-of-customers-after-debt-collection-firm-attacked/a887917325.html",
+        "added": "2024-10-15"
+    },
+    {
         "date": "2024-09-28",
         "victim": "Hubergroup",
         "domain": "hubergroup.com",
