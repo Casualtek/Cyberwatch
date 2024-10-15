@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-10-11",
+        "victim": "Calgary Public Library (CPL)",
+        "domain": "calgarylibrary.ca",
+        "country": "CAN",
+        "summary": "La Calgary Public Library a fermé ses portes en raison d'une cyberattaque qui a compromis certains systèmes, obligeant la fermeture de toutes les bibliothèques physiques et la mise hors ligne de tous les serveurs et accès informatiques. L'incident a également affecté le festival Imaginairium, qui a dû changer de lieu pour certaines présentations. Les experts estiment que les bibliothèques sont des cibles fréquentes pour les cyberattaquants en raison de la grande quantité de données qu'elles détiennent et de leur sécurité informatique souvent faible.",
+        "title": "Cyber attack forces Calgary Public Library to close its doors | CTV News",
+        "url": "https://calgary.ctvnews.ca/calgary-public-library-locations-closing-due-to-cybersecurity-breach-1.7071908",
+        "added": "2024-10-15"
+    },
+    {
         "date": "2024-10-13",
         "victim": "Johannesstift-Diakonie Berlin",
         "domain": "johannesstift-diakonie.de",
