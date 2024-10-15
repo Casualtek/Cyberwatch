@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-09-20",
+        "victim": "Funlab",
+        "domain": "fun-lab.com",
+        "country": "AUS",
+        "summary": "La société australienne Funlab, propriétaire de Strike Bowling et d'autres lieux de divertissement, a confirmé avoir été victime d'une attaque par rançongiciel (ransomware) du groupe Lynx, qui a exfiltré des données sensibles, notamment des informations sur les employés. Selon Funlab, aucune donnée de client n'a été compromise, mais des informations sur un petit nombre d'employés actuels et anciens ont été accessibles. L'entreprise a engagé des experts pour enquêter sur l'incident et a informé les employés concernés.",
+        "title": "Exclusive: Aussie owner of Strike Bowling and other venues confirms ransomware attack - Cyber Daily",
+        "url": "https://www.cyberdaily.au/security/11234-exclusive-aussie-owner-of-strike-bowling-and-other-venues-confirms-ransomware-attack",
+        "added": "2024-10-15"
+    },
+    {
         "date": "2024-10-11",
         "victim": "Calgary Public Library (CPL)",
         "domain": "calgarylibrary.ca",
