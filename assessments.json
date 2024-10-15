@@ -1,5 +1,21 @@
 [
     {
+        "victim": "medicato.com",
+        "domain": "medicato.com",
+        "country": "US",
+        "date": "2024-10-13",
+        "group": "ransomhub"
+    
+    },
+    {
+        "victim": "practicesuite.us",
+        "domain": "practicesuite.us",
+        "country": "US",
+        "date": "2024-03-14",
+        "group": "ransomhub"
+    
+    },
+    {
         "victim": "Daughterly Care",
         "domain": "daughterlycare.com.au",
         "country": "AU",
