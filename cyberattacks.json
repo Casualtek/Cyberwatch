@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-10-08",
+        "victim": "Les Chambres d'agriculture de Normandie",
+        "domain": "normandie.chambres-agriculture.fr",
+        "country": "FRA",
+        "summary": "Les Chambres d'agriculture de Normandie ont été victimes d'une cyberattaque entre le 8 et le 9 octobre, mais la situation est considérée comme maîtrisée et les services sont en cours de rétablissement. Une plainte a été déposée auprès des autorités et l'Agence nationale de la sécurité des systèmes d'information (ANSSI) aide à rétablir les services. Cette attaque s'ajoute à une série de cyberattaques récentes dans la région, notamment contre la Région et le Département de Seine-Maritime.",
+        "title": "Normandie. Les Chambres d'agriculture touchées par une cyberattaque",
+        "url": "https://www.lecourriercauchois.fr/actualite-371180-normandie-les-chambres-d-agriculture-touchees-par-une-cyberattaque",
+        "added": "2024-10-16"
+    },
+    {
         "date": "2024-10-14",
         "victim": "La mairie de Clairefontaine-en-Yvelines",
         "domain": "clairefontaine-en-yvelines.fr",
