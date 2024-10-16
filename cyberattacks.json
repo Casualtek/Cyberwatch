@@ -1,6 +1,16 @@
 [
     {
         "date": "2024-10-14",
+        "victim": "Comune di Sorso",
+        "domain": "comune.sorso.ss.it",
+        "country": "ITA",
+        "summary": "La commune de Sorso a été victime d'une cyberattaque qui a bloqué son système informatique et a crypté les données, demandant un rançon pour les déchiffrer. L'attaque a empêché l'accès aux données et a perturbé les services, notamment la convocation d'une réunion du conseil communal. Une plainte a été déposée auprès de la police postale, mais il n'y a pas encore de revendication de l'attaque.",
+        "title": "Attacco hacker al Comune di Sorso: sistema informatico in tilt, chiesto un riscatto per il ripristino",
+        "url": "https://www.unionesarda.it/news-sardegna/sassari-provincia/attacco-hacker-al-comune-di-sorso-sistema-informatico-in-tilt-chiesto-un-riscatto-per-il-ripristino-n4zd4imy",
+        "added": "2024-10-16"
+    },
+    {
+        "date": "2024-10-14",
         "victim": "Well Chip Group Berhad",
         "domain": "wellchip.com.my",
         "country": "MYS",
