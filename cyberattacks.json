@@ -1,7 +1,17 @@
 [
     {
+        "date": "2024-10-15",
+        "victim": "aap Implantate AG",
+        "domain": "aap.de",
+        "country": "DEU",
+        "summary": "L'aap Implantate AG, une entreprise allemande de technologie médicale, a signalé une possible cyberattaque qui aurait pu compromettre la sécurité de ses systèmes et de ses données. L'entreprise a pris des mesures immédiates pour contenir l'incident et a lancé une enquête pour déterminer l'ampleur de l'attaque. Les détails sur l'incident et les éventuelles conséquences ne sont pas encore disponibles.",
+        "title": "EQS-Adhoc: aap Implantate AG: Möglicher Cyber-Angriff auf aap - boerse.de",
+        "url": "https://www.boerse.de/nachrichten/EQS-Adhoc-aap-Implantate-AG-Moeglicher-Cyber-Angriff-auf-aap/36570649",
+        "added": "2024-10-16"
+    },
+    {
         "date": "2024-10-14",
-        "victim": "Comune di Sorso",
+        "victim": "Sorso",
         "domain": "comune.sorso.ss.it",
         "country": "ITA",
         "summary": "La commune de Sorso a été victime d'une cyberattaque qui a bloqué son système informatique et a crypté les données, demandant un rançon pour les déchiffrer. L'attaque a empêché l'accès aux données et a perturbé les services, notamment la convocation d'une réunion du conseil communal. Une plainte a été déposée auprès de la police postale, mais il n'y a pas encore de revendication de l'attaque.",
