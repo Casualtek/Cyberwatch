@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-10-14",
+        "victim": "Well Chip Group Berhad",
+        "domain": "wellchip.com.my",
+        "country": "MYS",
+        "summary": "Le groupe Well Chip a été victime d'une cyberattaque par malware sur certains de ses serveurs IT, mais a réussi à bloquer l'accès aux données contenues dans le système. L'entreprise a pris des mesures immédiates pour contenir et remédier à l'incident, et a engagé un consultant en forensique pour enquêter et renforcer son infrastructure de cybersécurité. Aucune fuite de données externe n'a été détectée pour l'instant, et le groupe travaille à minimiser les perturbations opérationnelles pour ses clients.",
+        "title": "Well Chip Group Informs Of Cyber Attack To Its IT System",
+        "url": "https://www.businesstoday.com.my/2024/10/15/well-chip-group-informs-of-cyber-attack-to-its-it-system/",
+        "added": "2024-10-16"
+    },
+    {
         "date": "2024-10-07",
         "victim": "Teddy",
         "domain": "teddy.it",
