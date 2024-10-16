@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-10-07",
+        "victim": "Teddy",
+        "domain": "teddy.it",
+        "country": "ITA",
+        "summary": "Le groupe de mode italien Teddy a été victime d'une cyberattaque par ransomware le 7 octobre dernier, mais a réussi à contenir la menace et à prévenir la perte de données en activant rapidement ses mesures de sécurité. L'entreprise a isolé les systèmes affectés, averti les autorités compétentes et a procédé à une vérification approfondie de son infrastructure informatique. Teddy a déclaré qu'elle ne avait reçu aucune demande de rançon et qu'elle allait renforcer ses défenses et investir davantage dans la sécurité informatique pour prévenir de futurs attaques.",
+        "title": "Attacco hacker alla Teddy: “Stiamo reagendo, nessun riscatto”",
+        "url": "https://www.ilrestodelcarlino.it/rimini/cronaca/attacco-hacker-teddy-riscatto-wd5ww2r1",
+        "added": "2024-10-16"
+    },
+    {
         "date": "2024-10-08",
         "victim": "Les Chambres d'agriculture de Normandie",
         "domain": "normandie.chambres-agriculture.fr",
