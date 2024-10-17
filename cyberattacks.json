@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-07-14",
+        "victim": "Fractal ID",
+        "domain": "fractal.id",
+        "country": "DE",
+        "summary": "Le groupe de ransomware Stormous revendique avoir piraté la société de blockchain Fractal ID, volant plus de 10 Go de données sensibles, notamment des informations d'identification de plus de 300 000 utilisateurs, y compris des adresses de cryptomonnaie. Les données volées incluent des photos personnelles, des relevés de compte bancaire, des preuves d'adresse et des scans de documents d'identité. C'est la deuxième fois cette année que Fractal ID est victime d'une cyberattaque, après une précédente violation de données en juillet.",
+        "title": "Exclusive: Stormous ransomware gang claims hack of blockchain identity firm Fractal ID - Cyber Daily",
+        "url": "https://www.cyberdaily.au/security/11251-exclusive-stormous-ransomware-claims-hack-of-blockchain-identity-firm-fractal-id",
+        "added": "2024-10-17"
+    },
+    {
         "date": "2024-10-15",
         "victim": "aap Implantate AG",
         "domain": "aap.de",
