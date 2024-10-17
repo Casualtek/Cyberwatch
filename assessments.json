@@ -1,5 +1,13 @@
 [
     {
+        "victim": "kersey.net",
+        "domain": "kersey.net",
+        "country": "US",
+        "date": "2024-10-03",
+        "group": "ransomhub"
+    
+    },
+    {
         "victim": "aristoiclassical.org",
         "domain": "aristoiclassical.org",
         "country": "US",
