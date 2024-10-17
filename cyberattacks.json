@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-07-21",
+        "victim": "North American Steel Tie Corporation (NARSTCO)",
+        "domain": "narstco.com",
+        "country": "USA",
+        "summary": "La North American Steel Tie Corporation (NARSTCO), une filiale de RailWorks, a signalé une violation de données à la suite d'une cyberattaque en juillet 2024, qui a permis à un tiers non autorisé d'accéder à des informations sensibles telles que des noms, des adresses et des numéros de sécurité sociale. L'enquête a révélé que les données compromises varient en fonction des individus, mais peuvent inclure ces informations personnelles. NARSTCO a envoyé des lettres de notification de violation de données à tous les individus affectés par l'incident.",
+        "title": "NARSTCO Files Notice of Data Breach Following July 2024 Cyberattack | Console and Associates, P.C. - JDSupra",
+        "url": "https://www.jdsupra.com/legalnews/narstco-files-notice-of-data-breach-3247955/",
+        "added": "2024-10-17"
+    },
+    {
         "date": "2024-07-14",
         "victim": "Fractal ID",
         "domain": "fractal.id",
