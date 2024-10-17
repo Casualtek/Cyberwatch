@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-09-29",
+        "victim": "Texas Tech Health EL Paso",
+        "domain": "ttuhscep.edu",
+        "country": "USA",
+        "summary": "L'Université Texas Tech Health El Paso a révélé que la panne de son système informatique, qui dure depuis plusieurs semaines, est due à un \"événement de cybersécurité\". L'université mène une enquête et travaille avec ses partenaires internes et externes pour restaurer ses systèmes et applications le plus rapidement possible. L'enquête est en cours et l'université ne fera pas de commentaire supplémentaire jusqu'à sa conclusion.",
+        "title": "Texas Tech Health El Paso says IT outage resulted from ‘cybersecurity event’ | KTSM 9 News",
+        "url": "https://www.ktsm.com/news/texas-tech-says-it-outage-resulted-from-cybersecurity-event/",
+        "added": "2024-10-17"
+    },
+    {
         "date": "2024-09-06",
         "victim": "Boston Children's Health Physicians (BCHP)",
         "domain": "bchp.childrenshospital.org",
