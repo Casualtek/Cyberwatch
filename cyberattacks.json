@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-09-06",
+        "victim": "Boston Children's Health Physicians (BCHP)",
+        "domain": "bchp.childrenshospital.org",
+        "country": "USA",
+        "summary": "Le groupe de médecins Boston Children's Health Physicians a été victime d'une cyberattaque par le groupe de ransomware BianLian, qui a eu accès à des informations sensibles de patients, employés et garanties. Les données compromises incluent des numéros de sécurité sociale, des informations de facturation et des données de santé. Le groupe offre des services de surveillance du crédit gratuits aux personnes affectées et recommande de rester vigilant face à d'éventuelles attaques de phishing.",
+        "title": "BianLian cyberattack hits Boston Children's Health Physicians | TechTarget",
+        "url": "https://www.techtarget.com/healthtechsecurity/news/366613956/BianLian-cyberattack-hits-Boston-Childrens-Health-Physicians",
+        "added": "2024-10-17"
+    },
+    {
         "date": "2024-06-19",
         "victim": "Fitzgerald, DePietro & Wojnas CPAs, P.C.",
         "domain": "fdwcpa.net",
