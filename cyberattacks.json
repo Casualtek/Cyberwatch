@@ -1,5 +1,25 @@
 [
     {
+        "date": "2024-10-15",
+        "victim": "Comune di Aversa",
+        "domain": "comune.aversa.ce.it",
+        "country": "ITA",
+        "summary": "Le maire d'Aversa, Francesco Matacena, a dénoncé une cyberattaque contre les serveurs du comune d'Aversa, qui a entraîné la suppression de données appartenant à divers bureaux communaux. Les enquêteurs de la Digos se sont rendus sur place pour entamer les premières investigations techniques. Le maire a également signalé l'incident à la procureure pour demander une enquête approfondie et un intervention rapide.",
+        "title": "Attacco informatico al Comune di AVERSA, la denuncia del sindaco - CasertaCE",
+        "url": "https://casertace.net/attacco-informatico-al-comune-di-aversa-la-denuncia-del-sindaco/",
+        "added": "2024-10-18"
+    },
+    {
+        "date": "2024-10-11", 
+        "victim": "Polar", 
+        "domain": "polar.com", 
+        "country": "FIN", 
+        "summary": "La société finlandaise Polar, fabricant de montres connectées, a été victime d'une cyberattaque qui a compromis les informations de commande de certains clients de son magasin en ligne aux États-Unis. Les attaquants ont tenté d'effectuer des achats frauduleux en utilisant les comptes compromis et ont également créé de nouveaux comptes frauduleux. Polar a temporairement désactivé les fonctions de connexion et d'inscription sur tous ses magasins en ligne en guise de mesure de précaution.", 
+        "title": "Another Smartwatch Company Hacked - channelnews", 
+        "url": "https://www.channelnews.com.au/another-smartwatch-company-hacked/", 
+        "added": "2024-10-18"
+    },
+    {
         "date": "2024-10-09",
         "victim": "Healthcare Services Group (HSG)",
         "domain": "hcsgrp.com",
