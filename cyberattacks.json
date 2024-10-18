@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-10-09",
+        "victim": "Healthcare Services Group (HSG)",
+        "domain": "hcsgrp.com",
+        "country": "USA",
+        "summary": "Le groupe Healthcare Services Group (HSG) a déclaré une cyberattaque dans un dépôt auprès de la Securities and Exchange Commission (SEC), indiquant que des activités non autorisées ont eu lieu dans certains de ses systèmes le 9 octobre. L'entreprise a activé son processus de réponse à incident de cybersécurité et a notifié les autorités, mais n'a pas encore déterminé la portée de l'incident. HSG ne s'attend pas à ce que l'incident ait un impact matériel sur ses finances ou ses opérations commerciales.",
+        "title": "Healthcare Service Group discloses cyber snafu to SEC • The Register",
+        "url": "https://www.theregister.com/2024/10/18/healthcare_services_group_attack/",
+        "added": "2024-10-18"
+    },
+    {
         "date": "2024-09-29",
         "victim": "Texas Tech Health EL Paso",
         "domain": "ttuhscep.edu",
