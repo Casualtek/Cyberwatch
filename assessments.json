@@ -1,5 +1,13 @@
 [
     {
+        "victim": "icp.pr.gov",
+        "domain": "icp.pr.gov",
+        "country": "PR",
+        "date": "2024-09-30",
+        "group": "ransomhub"
+    
+    },
+    {
         "victim": "kersey.net",
         "domain": "kersey.net",
         "country": "US",
