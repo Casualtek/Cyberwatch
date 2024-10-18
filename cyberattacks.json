@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-10-17",
+        "victim": "Formpipe",
+        "domain": "formpipe.com",
+        "country": "DNK",
+        "summary": "La société Formpipe a signalé une incident de sécurité informatique au sein de sa filiale danoise. L'incident a entraîné une violation de la sécurité des données, mais les détails sur l'ampleur et les conséquences de l'incident ne sont pas encore disponibles. L'enquête est en cours pour déterminer les causes et les implications de l'incident.",
+        "title": "Cybersecurity incident at Formpipe’s Danish subsidiary",
+        "url": "https://www.formpipe.com/en/about-us/media/press-releases/2024/cybersecurity-incident-at-formpipes-danish-subsidiary/",
+        "added": "2024-10-18"
+    },
+    {
         "date": "2024-10-15",
         "victim": "Comune di Aversa",
         "domain": "comune.aversa.ce.it",
@@ -10,13 +20,13 @@
         "added": "2024-10-18"
     },
     {
-        "date": "2024-10-11", 
-        "victim": "Polar", 
-        "domain": "polar.com", 
-        "country": "FIN", 
-        "summary": "La société finlandaise Polar, fabricant de montres connectées, a été victime d'une cyberattaque qui a compromis les informations de commande de certains clients de son magasin en ligne aux États-Unis. Les attaquants ont tenté d'effectuer des achats frauduleux en utilisant les comptes compromis et ont également créé de nouveaux comptes frauduleux. Polar a temporairement désactivé les fonctions de connexion et d'inscription sur tous ses magasins en ligne en guise de mesure de précaution.", 
-        "title": "Another Smartwatch Company Hacked - channelnews", 
-        "url": "https://www.channelnews.com.au/another-smartwatch-company-hacked/", 
+        "date": "2024-10-11",
+        "victim": "Polar",
+        "domain": "polar.com",
+        "country": "FIN",
+        "summary": "La société finlandaise Polar, fabricant de montres connectées, a été victime d'une cyberattaque qui a compromis les informations de commande de certains clients de son magasin en ligne aux États-Unis. Les attaquants ont tenté d'effectuer des achats frauduleux en utilisant les comptes compromis et ont également créé de nouveaux comptes frauduleux. Polar a temporairement désactivé les fonctions de connexion et d'inscription sur tous ses magasins en ligne en guise de mesure de précaution.",
+        "title": "Another Smartwatch Company Hacked - channelnews",
+        "url": "https://www.channelnews.com.au/another-smartwatch-company-hacked/",
         "added": "2024-10-18"
     },
     {
