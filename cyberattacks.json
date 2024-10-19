@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-10-18",
+        "victim": "Grupo Aeroportuario del Centro Norte (OMA)",
+        "domain": "oma.aero",
+        "country": "MEX",
+        "summary": "Le groupe aéroportuaire mexicain OMA a signalé une attaque informatique qui a permis un accès non autorisé à ses systèmes d'information, mais sans impact sur ses opérations pour le moment. L'équipe de technologie de l'information d'OMA, aidée d'experts en cybersécurité, enquête sur l'incident pour déterminer son étendue et protéger l'intégrité de ses systèmes. Les opérations continuent à fonctionner à l'aide de systèmes alternatifs et de sauvegarde, et aucune conséquence financière n'a été signalée jusqu'à présent.",
+        "title": "OMA registra ataque cibernético sin afectar operaciones",
+        "url": "https://www.eleconomista.com.mx/empresas/oma-registra-ataque-cibernetico-afectar-operaciones-20241018-730583.html",
+        "added": "2024-10-19"
+    },
+    {
         "date": "2024-10-17",
         "victim": "Formpipe",
         "domain": "formpipe.com",
