@@ -1,5 +1,12 @@
 [
     {
+        "victim": "株式会社ミヤキ",
+        "domain": "kashima-coat.com",
+        "country": "JP",
+        "date": "2024-09-06",
+        "group": "cicada3301"
+    },
+    {
         "victim": "icp.pr.gov",
         "domain": "icp.pr.gov",
         "country": "PR",
