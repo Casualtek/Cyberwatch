@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-03-16",
+        "victim": "National Diagnostic Imaging (NDI)",
+        "domain": "ndximagning.com",
+        "country": "USA",
+        "summary": "Le centre de santé Birth Choice of San Marcos a subi une violation de données à la suite d'une cyberattaque visant son fournisseur National Diagnostic Imaging (NDI). L'incident a permis à un tiers non autorisé d'accéder à des informations sensibles, notamment des noms, des dates de naissance, des informations cliniques et des biometrics. Les lettres de notification de violation de données ont été envoyées aux personnes affectées, qui sont invitées à prendre des mesures pour protéger leur identité et leur sécurité.",
+        "title": "Data Breach at Birth Choice of San Marcos Caused by Cyberattack at National Diagnostic Imaging | Console and Associates, P.C. - JDSupra",
+        "url": "https://www.jdsupra.com/legalnews/data-breach-at-birth-choice-of-san-7193950/",
+        "added": "2024-10-19"
+    },
+    {
         "date": "2024-10-18",
         "victim": "Grupo Aeroportuario del Centro Norte (OMA)",
         "domain": "oma.aero",
