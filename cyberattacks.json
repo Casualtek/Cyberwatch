@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-05-26",
+        "victim": "Nidec",
+        "domain": "nidec.com",
+        "country": "JPN",
+        "summary": "Le 26 mai 2024, Nidec Instruments Corporation a subi une attaque par ransomware, compromettant des données personnelles de 482 actionnaires, notamment leurs noms et adresses. L'entreprise a mis en place des mesures de sécurité et n'a pas payé de rançon, tout en collaborant avec des experts pour sécuriser ses systèmes. Le 24 juillet 2024, elle a soumis un rapport final à la Commission de protection des données personnelles et a présenté ses excuses publiques sur son site.",
+        "title": "Apology and Report with respect to the Recent Ransomware Infection",
+        "url": "https://www.nidec.com/-/media/www-nidec-com/corporate/news/2024/0725-02/240725-02notice_e.pdf?sc_lang=ja-JP&rev=1c4788041e7d455e9a383d679ed7eb40",
+        "added": "2024-10-20"
+    },
+    {
         "date": "2024-10-17",
         "victim": "Conseil scolaire Viamonde",
         "domain": "csviamonde.ca",
