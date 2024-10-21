@@ -1,11 +1,17 @@
 [
     {
+        "victim": "Indiba Group",
+        "domain": "indiba.com",
+        "country": "ES",
+        "date": "2024-10-05",
+        "group": "cicada3301"    
+    },
+    {
         "victim": "Neighbors Credit Union",
         "domain": "neighborscu.org",
         "country": "US",
         "date": "2024-09-20",
-        "group": "blacksuit"
-    
+        "group": "blacksuit"    
     },
     {
         "victim": "Rollx Vans",
