@@ -1,23 +1,16 @@
 [
     {
-        "victim": "nspproteins.com.com",
-        "domain": "nspproteins.com.com",
+        "victim": "confidencegroup.com.bd",
+        "domain": "confidencegroup.com.bd",
+        "country": "BD",
+        "date": "2024-09-19",
+        "group": "ransomhub"
+    },
+    {
+        "victim": "nspproteins.com",
+        "domain": "nspproteins.com",
         "country": "US",
         "date": "2024-10-07",
-        "group": "ransomhub"
-    },
-    {
-        "victim": "libertyfirstcu.com",
-        "domain": "libertyfirstcu.com",
-        "country": "US",
-        "date": "2024-09-20",
-        "group": "ransomhub"
-    },
-    {
-        "victim": "kleberandassociates.com",
-        "domain": "kleberandassociates.com",
-        "country": "US",
-        "date": "2024-10-08",
         "group": "ransomhub"
     },
     {
