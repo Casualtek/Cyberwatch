@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-10-13",
+        "victim": "La Mutuelle d'Ivry (Mif)",
+        "domain": "mifassur.com",
+        "country": "FRA",
+        "summary": "La Mutuelle d'Ivry (Mif) a été victime d'une cyberattaque le week-end du 12 octobre, entraînant une fuite partielle de données personnelles de moins de 10 000 sociétaires. Les mots de passe, accès clients et actifs n'ont pas été compromis, mais des documents PDF contenant des informations personnelles ont été exfiltrés. L'assureur a déclaré l'incident à la CNIL et aux autorités compétentes et met en place des mesures pour renforcer la sécurité de ses systèmes d'information.",
+        "title": "Assurance vie : la Mif victime d'une cyberattaque",
+        "url": "https://www.moneyvox.fr/assurance-vie/actualites/100191/la-mif-victime-une-cyberattaque",
+        "added": "2024-10-21"
+    },
+    {
         "date": "2024-10-02",
         "victim": "Berufsschule de Schaffhausen",
         "domain": "bbz-sh.ch",
