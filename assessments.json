@@ -1,5 +1,12 @@
 [
     {
+        "victim": "releese.io",
+        "domain": "releese.io",
+        "country": "CA",
+        "date": "2024-10-03",
+        "group": "ransomhub"
+    },
+    {
         "victim": "trulysmall.com",
         "domain": "trulysmall.com",
         "country": "CA",
