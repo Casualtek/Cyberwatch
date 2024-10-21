@@ -1,7 +1,17 @@
 [
     {
+        "date": "2024-10-20",
+        "victim": "District scolaire public de Winnebago",
+        "domain": "winnebagopublicschools.org",
+        "country": "USA",
+        "summary": "Le district scolaire public de Winnebago, au Nebraska, a été victime d'une cyberattaque, a annoncé le superintendent Kamau Turner. Les services tels que les téléphones et l'internet pourraient être fermés périodiquement tandis que le district travaille à résoudre le problème. Aucune autre information n'a été fournie par le district pour l'instant.",
+        "title": "Winnebago Public Schools experiences cyberattack",
+        "url": "https://www.siouxlandproud.com/news/local-news/winnebago-public-schools-experiences-cyberattack/",
+        "added": "2024-10-21"
+    },
+    {
         "date": "2024-10-13",
-        "victim": "La Mutuelle d'Ivry (Mif)",
+        "victim": "Mutuelle d'Ivry (Mif)",
         "domain": "mifassur.com",
         "country": "FRA",
         "summary": "La Mutuelle d'Ivry (Mif) a été victime d'une cyberattaque le week-end du 12 octobre, entraînant une fuite partielle de données personnelles de moins de 10 000 sociétaires. Les mots de passe, accès clients et actifs n'ont pas été compromis, mais des documents PDF contenant des informations personnelles ont été exfiltrés. L'assureur a déclaré l'incident à la CNIL et aux autorités compétentes et met en place des mesures pour renforcer la sécurité de ses systèmes d'information.",
