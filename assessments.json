@@ -1,5 +1,12 @@
 [
     {
+        "victim": "trulysmall.com",
+        "domain": "trulysmall.com",
+        "country": "CA",
+        "date": "2024-10-06",
+        "group": "ransomhub"
+    },
+    {
         "victim": "Indiba Group",
         "domain": "indiba.com",
         "country": "ES",
@@ -19,7 +26,6 @@
         "country": "US",
         "date": "2024-09-10",
         "group": "ransomhub"
-    
     },
     {
         "victim": "株式会社ミヤキ",
