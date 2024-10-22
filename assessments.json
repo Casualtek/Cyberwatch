@@ -1,5 +1,12 @@
 [
     {
+        "victim": "Mauguio-Carnon",
+        "domain": "mauguio-carnon.com",
+        "country": "FR",
+        "date": "2024-10-17",
+        "group": "ransomhub"
+    },
+    {
         "victim": "confidencegroup.com.bd",
         "domain": "confidencegroup.com.bd",
         "country": "BD",
