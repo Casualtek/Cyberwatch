@@ -1,5 +1,12 @@
 [
     {
+        "victim": "Lycée Horticole de Fayl Billot",
+        "domain": "lpahorticole.faylbillot.educagri.fr",
+        "country": "FR",
+        "date": "2024-10-17",
+        "group": "ransomhub"
+    },
+    {
         "victim": "Davis Brothers Inc.",
         "domain": "davisbrothersinc.com",
         "country": "US",
