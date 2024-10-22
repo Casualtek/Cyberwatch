@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-10-22",
+        "victim": "Sabesp (Companhia de Saneamento Básico do Estado de São Paulo)",
+        "domain": "sabesp.com.br",
+        "country": "BRA",
+        "summary": "La Companhia de Saneamento Básico do Estado de São Paulo (Sabesp) a été victime d'une cyberattaque ce mardi 22 octobre, ce qui a entraîné une instabilité dans sa réseau numérique. La société a immédiatement mis en œuvre des mesures de sécurité et activé son plan de contingence pour restaurer les systèmes compromis. Les enquêtes préliminaires n'ont pas révélé de compromission des données personnelles des clients, et les opérations essentielles d'approvisionnement en eau et de traitement des eaux usées n'ont pas été affectées.",
+        "title": "Sabesp (SBSP3) sofre ataque cibernético nesta terça-feira (22)",
+        "url": "https://www.spacemoney.com.br/investimentos/acoes/sabesp-sbsp3-sofre-ataque-cibernetico-e-enfrenta-instabilidade-em-servicos-digitais/",
+        "added": "2024-10-22"
+    },
+    {
         "date": "2024-10-20",
         "victim": "District scolaire public de Winnebago",
         "domain": "winnebagopublicschools.org",
