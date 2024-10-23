@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-10-15",
+        "victim": "Fédération suisse de gymnastique",
+        "domain": "stv-fsg.ch",
+        "country": "CHE",
+        "summary": "Le 15 octobre 2024, le Schweizerischer Turnverband (STV) a subi une attaque par ransomware ciblant ses serveurs dans la DMZ. Grâce à l'intervention rapide d'experts externes, les systèmes compromis ont été isolés, et aucune fuite de données n'a été constatée. Le STV collabore avec les autorités et des spécialistes pour rétablir ses systèmes d'ici la fin de la semaine, tout en renforçant sa sécurité.",
+        "title": "Information Cyber-Angriff",
+        "url": "https://www.stv-fsg.ch/de/news/information-cyber-angriff.html",
+        "added": "2024-10-23"
+    },
+    {
         "date": "2024-10-22",
         "victim": "Sabesp (Companhia de Saneamento Básico do Estado de São Paulo)",
         "domain": "sabesp.com.br",
