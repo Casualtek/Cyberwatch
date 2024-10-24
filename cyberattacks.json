@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-09-06",
+        "victim": "ATSG Inc.",
+        "domain": "atsg.net",
+        "country": "USA",
+        "summary": "Une cyberattaque a touché ATSG Inc., une entreprise de services IT basée à New York, exposant les informations de santé protégées de 909 469 individus. L'attaque a également affecté plusieurs clients d'ATSG, dont Boston Children's Health Physicians, qui a confirmé que des données sensibles avaient été volées. D'autres attaques ont également été signalées, notamment contre Summit Pathology et Community Dental, exposant des informations de santé et des données personnelles.",
+        "title": "More Than 909,000 Individuals Affected by Cyberattack on New York IT Services Provider",
+        "url": "https://www.hipaajournal.com/atsg-data-breach-909000-individuals/",
+        "added": "2024-10-24"
+    },
+    {
         "date": "2024-10-18",
         "victim": "Karat Packaging Inc.",
         "domain": "karatpackaging.com",
