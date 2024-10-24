@@ -1,5 +1,19 @@
 [
     {
+        "victim": "MH-Mech",
+        "domain": "mh-mech.com",
+        "country": "JP",
+        "date": "2024-10-14",
+        "group": "ransomhub"
+    },
+    {
+        "victim": "Instituto de Cultura Puertorriqueña",
+        "domain": "icp.pr.gov",
+        "country": "PR",
+        "date": "2024-09-30",
+        "group": "ransomhub"
+    },
+    {
         "victim": "Instituto de Cultura Puertorriqueña",
         "domain": "icp.pr.gov",
         "country": "PR",
