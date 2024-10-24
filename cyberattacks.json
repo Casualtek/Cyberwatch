@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-10-23",
+        "victim": "Landkreis Kitzingen",
+        "domain": "kitzingen.de",
+        "country": "DEU",
+        "summary": "Le Landkreis Kitzingen a déposé plainte auprès de la police après une cyberattaque qui a touché plusieurs écoles du district, empêchant les enseignants, les élèves et les administrations d'accéder aux réseaux et à internet. L'attaque a visé un prestataire de services IT commun aux écoles, ce qui a nécessité la coupure de toutes les connexions à l'infrastructure partagée. Sept écoles sont affectées, mais les cours peuvent toujours avoir lieu, tandis que les enquêtes sont en cours pour déterminer les causes et les dégâts de l'incident.",
+        "title": "Landkreis Kitzingen: Hacker-Angriff legt… | Radio Gong Würzburg",
+        "url": "https://www.radiogong.com/aktuelles/news/landkreis-kitzingen-hacker-angriff-legt-schulen-lahm",
+        "added": "2024-10-24"
+    },
+    {
         "date": "2024-10-14",
         "victim": "Université de Moncton",
         "domain": "umoncton.ca",
@@ -5260,7 +5270,7 @@
         "added": "2024-03-26"
     },
     {
-        "date": "2024-03-11",
+        "date": "2024-02-29",
         "victim": "Scullion Law",
         "domain": "scullionlaw.com",
         "country": "GBR",
