@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-10-14",
+        "victim": "Université de Moncton",
+        "domain": "umoncton.ca",
+        "country": "CAN",
+        "summary": "Le site web de l'Université de Moncton a été victime d'un \"cyber incident\" le 14 octobre, ce qui a entraîné la mise hors ligne de plusieurs fonctionnalités pour des raisons de sécurité. Les équipes de l'université travaillent à remettre le site en ligne le plus rapidement possible, mais la situation complique les tâches quotidiennes des professeurs et des employés. La panne du site web pourrait également avoir un impact sur le recrutement d'étudiants étrangers, mais les équipes de recrutement ont d'autres outils pour aider à leur travail.",
+        "title": "Le site web de l’Université de Moncton victime d’un \" cyber incident \" | Radio-Canada",
+        "url": "https://ici.radio-canada.ca/nouvelle/2114553/universite-moncton-piratage-attaque-informatique",
+        "added": "2024-10-24"
+    },
+    {
         "date": "2024-10-15",
         "victim": "Fédération suisse de gymnastique",
         "domain": "stv-fsg.ch",
