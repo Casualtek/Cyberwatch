@@ -1,5 +1,15 @@
 [
     {
+        "date": "2023-09-19",
+        "victim": "Community Dental",
+        "domain": "communitydentalme.org",
+        "country": "USA",
+        "summary": "Community Dental à Portland, ME, a informé 1 461 personnes d'une attaque sur son réseau survenue en septembre 2023. Un tiers non autorisé a eu accès à des fichiers contenant des données personnelles, notamment des noms, adresses, numéros de sécurité sociale et informations médicales, entre le 19 et le 20 septembre. Les notifications ont été retardées en raison du temps nécessaire pour examiner les fichiers et vérifier les informations de contact. Des mesures de sécurité supplémentaires ont été mises en place, et des services de surveillance de crédit ont été offerts aux personnes concernées.",
+        "title": "More Than 909,000 Individuals Affected by Cyberattack on New York IT Services Provider",
+        "url": "https://www.hipaajournal.com/atsg-data-breach-909000-individuals/",
+        "added": "2024-10-24"
+    },
+    {
         "date": "2024-04-18",
         "victim": "Summit Pathology",
         "domain": "summitpathology.com",
