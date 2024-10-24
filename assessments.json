@@ -1,5 +1,12 @@
 [
     {
+        "victim": "Instituto de Cultura Puertorriqueña",
+        "domain": "icp.pr.gov",
+        "country": "PR",
+        "date": "2024-09-30",
+        "group": "ransomhub"
+    },
+    {
         "victim": "Pojoaque",
         "domain": "Pojoaque.org",
         "country": "US",
