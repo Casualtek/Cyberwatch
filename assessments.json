@@ -1,5 +1,12 @@
 [
     {
+        "victim": "Asto Labs",
+        "domain": "astolabs.com",
+        "country": "AE",
+        "date": "2024-10-16",
+        "group": "ransomhub"
+    },
+    {
         "victim": "American Pacific Mortgage",
         "domain": "apmortgage.com",
         "country": "US",
