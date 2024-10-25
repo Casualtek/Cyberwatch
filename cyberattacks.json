@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-06-20",
+        "victim": "Fairfield Memorial Hospital Association",
+        "domain": "fairfieldmemorial.org",
+        "country": "USA",
+        "summary": "La Fairfield Memorial Hospital Association a signalé une violation de données à la suite d'une cyberattaque, qui a permis à un acteur non autorisé d'accéder à des informations sensibles de patients, notamment des noms, des dates de naissance, des informations de diagnostic et de traitement médical, des informations d'assurance santé et des numéros de dossiers médicaux. L'hôpital a commencé à envoyer des lettres de notification de violation de données aux personnes affectées le 21 octobre 2024. L'enquête a révélé que l'activité suspecte avait été détectée le 20 juin 2024, et que l'hôpital avait sécurisé son réseau et engagé des experts en sécurité des données pour enquêter sur l'incident.",
+        "title": "Fairfield Memorial Hospital Sends Data Breach Letter Following Cyberattack | Console and Associates, P.C. - JDSupra",
+        "url": "https://www.jdsupra.com/legalnews/fairfield-memorial-hospital-sends-data-5811601/",
+        "added": "2024-10-25"
+    },
+    {
         "date": "2024-05-13",
         "victim": "Landmark Admin",
         "domain": "landmarkadmin.com",
