@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-08-06",
+        "victim": "OnePoint Patient Care",
+        "domain": "oppc.com",
+        "country": "USA",
+        "summary": "OnePoint Patient Care, une entreprise de soins de santé, a notifié près de 800 000 patients d'une cyberattaque par ransomware survenue en août, qui a entraîné la fuite de données sensibles telles que les numéros de sécurité sociale et les informations de prescription. Les données ont été mises en ligne par les pirates informatiques après que l'entreprise n'a pas payé la rançon. OnePoint Patient Care a informé les patients de l'incident, mais sans leur révéler si leurs données avaient réellement été obtenues ou mises en vente.",
+        "title": "OnePoint Patient Care notifies almost 800,000 patients of August ransomware attack - DataBreaches.Net",
+        "url": "https://databreaches.net/2024/10/25/onepoint-patient-care-notifies-almost-800000-patients-of-august-ransomware-attack/",
+        "added": "2024-10-25"
+    },
+    {
         "date": "2023-09-27",
         "victim": "Carolina Arthritis",
         "domain": "carolinaarthritis.com",
