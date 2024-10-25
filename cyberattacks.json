@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-10-24",
+        "victim": "Libération",
+        "domain": "liberation.fr",
+        "country": "FRA",
+        "summary": "Le quotidien Libération a été victime d'une cyberattaque de type rançongiciel dans la nuit du 24 octobre, perturbant le fonctionnement de la rédaction et bloquant certains outils rédactionnels. L'impact précis de l'attaque est encore inconnu, mais la direction a pris des mesures de précaution, notamment en recommandant le télétravail et en limitant l'accès au Wi-Fi interne. C'est la troisième attaque d'un média français cet automne, après celles de La Croix et de l'Agence France-Presse.",
+        "title": "Le journal \" Libération \" victime d’une attaque de type rançongiciel",
+        "url": "https://www.lemonde.fr/pixels/article/2024/10/25/le-journal-liberation-victime-d-une-attaque-de-type-rancongiciel_6359555_4408996.html",
+        "added": "2024-10-25"
+    },
+    {
         "date": "2024-06-20",
         "victim": "Fairfield Memorial Hospital Association",
         "domain": "fairfieldmemorial.org",
