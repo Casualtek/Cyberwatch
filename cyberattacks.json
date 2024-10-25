@@ -1,5 +1,15 @@
 [
     {
+        "date": "2023-09-27",
+        "victim": "Carolina Arthritis",
+        "domain": "carolinaarthritis.com",
+        "country": "USA",
+        "summary": "Le groupe de ransomware ThreeAM a lancé une attaque contre la pratique médicale Carolina Arthritis, exfiltrant des données sensibles telles que des informations de santé protégées et des données d'employés. Les attaquants ont publié toutes les données exfiltrées sur leur site de fuite après que la pratique n'a pas répondu à leurs demandes de rançon. Les données volées comprennent des informations de santé protégées, des données d'employés et des documents internes, ce qui nécessitera une révision approfondie pour déterminer qui doit être notifié.",
+        "title": "Carolina Arthritis hit by ThreeAm ransomware attack - DataBreaches.Net",
+        "url": "https://databreaches.net/2024/10/25/carolina-arthritis-hit-by-threeam-ransomware-attack/",
+        "added": "2024-10-25"
+    },
+    {
         "date": "2024-10-24",
         "victim": "OneLog",
         "domain": "onelog.ch",
