@@ -1,6 +1,16 @@
 [
     {
         "date": "2024-10-24",
+        "victim": "OneLog",
+        "domain": "onelog.ch",
+        "country": "CHE",
+        "summary": "Une cyberattaque a rendu la plateforme de connexion \"OneLog\" inopérable, empêchant l'accès aux comptes de nombreux lecteurs de médias suisses. Tamedia et d'autres éditeurs ont ouvert temporairement leurs contenus pour pallier le problème, qui empêche également les utilisateurs de commenter certains articles. OneLog, utilisé par plus de 40 portails, gère uniquement les données de connexion, et aucune autre information n’a été compromise, selon Tamedia, qui travaille activement à restaurer le service.",
+        "title": "Piratage informatique: problèmes de connexion aux médias suisses | LFM la radio",
+        "url": "https://www.lfm.ch/actualite/suisse/piratage-informatique-problemes-de-connexion-aux-medias-suisses/",
+        "added": "2024-10-25"
+    },
+    {
+        "date": "2024-10-24",
         "victim": "Libération",
         "domain": "liberation.fr",
         "country": "FRA",
