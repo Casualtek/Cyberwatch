@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-10-26",
+        "victim": "Mairie du district 5 de Bucarest",
+        "domain": "sector5.ro",
+        "country": "ROU",
+        "summary": "La mairie du district 5 de Bucarest a été victime d'une attaque par rançongiciel, les hackers réclamant 5 millions de dollars en échange de la restauration des données. Le maire, Cristian Popescu Piedone, a refusé de payer la rançon et a promis de mettre en place de nouvelles mesures de sécurité pour éviter que cela ne se reproduise. Seuls les serveurs de la mairie du district 5 ont été touchés, les départements opérant dans d'autres bureaux n'ayant pas été affectés.",
+        "title": "Bucharest’s District 5 City Hall hit by ransomware attack | Romania Insider",
+        "url": "https://www.romania-insider.com/bucharest-district-city-hall-ransomware-attack-october-2024",
+        "added": "2024-10-28"
+    },
+    {
         "date": "2024-10-27",
         "victim": "Diocèse de St-Gall",
         "domain": "bistum-stgallen.ch",
