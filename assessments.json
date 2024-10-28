@@ -1,5 +1,12 @@
 [
     {
+        "victim": "wescan-services.com",
+        "domain": "wescan-services.com",
+        "country": "CA",
+        "date": "2024-10-05",
+        "group": "blacksuit"
+    },
+    {
         "victim": "Guymon Public Schools",
         "domain": "guymontigers.com",
         "country": "US",
