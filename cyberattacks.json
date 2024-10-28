@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-07-06",
+        "victim": "Agridea",
+        "domain": "agridea.ch",
+        "country": "CHE",
+        "summary": "L'entreprise suisse Agridea a été victime d'une cyberattaque le 6 juillet 2024, mais a réussi à restaurer la sécurité et la fonctionnalité de ses systèmes en collaboration avec des experts en sécurité et les autorités compétentes. Les données perdues datent d'un maximum de six semaines et ont été en grande partie récupérées.",
+        "title": "Der Schweizer Bauer: Agridea erlitt einen Cyberangriff",
+        "url": "https://www.schweizerbauer.ch/politik-wirtschaft/betriebsfuehrung/agridea-erlitt-einen-cyberangriff",
+        "added": "2024-10-28"
+    },
+    {
         "date": "2024-10-26",
         "victim": "Mairie du district 5 de Bucarest",
         "domain": "sector5.ro",
