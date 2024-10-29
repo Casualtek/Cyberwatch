@@ -1,5 +1,12 @@
 [
     {
+        "victim": "lewa.com",
+        "domain": "lewa.com",
+        "country": "AT",
+        "date": "2024-10-03",
+        "group": "blackbasta"
+    },
+    {
         "victim": "ssbwc.com",
         "domain": "ssbwc.com",
         "country": "US",
