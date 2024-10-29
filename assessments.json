@@ -1,5 +1,12 @@
 [
     {
+        "victim": "Aerotecnic",
+        "domain": "aerotecnic.com",
+        "country": "ES",
+        "date": "2024-09-08",
+        "group": "blacksuit"
+    },
+    {
         "victim": "Sempre Médico",
         "domain": "paciente.sempremedico.com.br",
         "country": "BR",
