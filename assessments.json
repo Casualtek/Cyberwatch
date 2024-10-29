@@ -1,5 +1,12 @@
 [
     {
+        "victim": "qs-group.com",
+        "domain": "qs-group.com",
+        "country": "IT",
+        "date": "2024-09-01",
+        "group": "ransomhub"
+    },
+    {
         "victim": "stivo.com",
         "domain": "stivo.com",
         "country": "FR",
