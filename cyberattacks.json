@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-10-28",
+        "victim": "Blackburn College",
+        "domain": "blackburn.ac.uk",
+        "country": "GBR",
+        "summary": "Le Blackburn College a été touché par une incident de sécurité informatique le 28 octobre, entraînant des problèmes avec son réseau IT et l'accès à ses systèmes. Le collège a assuré que la situation était sous contrôle et que les cours se poursuivaient, mais des inquiétudes subsistaient quant à d'éventuelles fuites de données. Cet incident rappelle la cyberattaque récente contre le Fylde Coast Academy Trust, qui avait demandé une rançon en échange de la restauration de l'accès à ses systèmes.",
+        "title": "Blackburn College targeted in \"cyber security incident\" | Lancashire Telegraph",
+        "url": "https://www.lancashiretelegraph.co.uk/news/24686159.blackburn-college-targeted-hackers-lessons-continue/",
+        "added": "2024-10-29"
+    },
+    {
         "date": "2024-09-18",
         "victim": "Ishimitsu & Co., Ltd.",
         "domain": "ishimitsu.co.jp",
