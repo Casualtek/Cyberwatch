@@ -1,5 +1,12 @@
 [
     {
+        "victim": "donbosco-landser.net",
+        "domain": "donbosco-landser.net",
+        "country": "FR",
+        "date": "2024-09-20",
+        "group": "ransomhub"
+    },
+    {
         "victim": "qs-group.com",
         "domain": "qs-group.com",
         "country": "IT",
