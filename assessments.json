@@ -1,5 +1,12 @@
 [
     {
+        "victim": "gkcorp.com",
+        "domain": "gkcorp.com",
+        "country": "US",
+        "date": "2024-10-08",
+        "group": "blackbasta"
+    },
+    {
         "victim": "milleredge.com",
         "domain": "milleredge.com",
         "country": "US",
