@@ -1,5 +1,12 @@
 [
     {
+        "victim": "Sempre Médico",
+        "domain": "paciente.sempremedico.com.br",
+        "country": "BR",
+        "date": "2024-10-16",
+        "group": "ransomhub"
+    },
+    {
         "victim": "lewa.com",
         "domain": "lewa.com",
         "country": "AT",
