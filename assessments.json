@@ -1,5 +1,12 @@
 [
     {
+        "victim": "mauguio-carnon.com",
+        "domain": "mauguio-carnon.com",
+        "country": "FR",
+        "date": "2024-10-08",
+        "group": "ransomhub"
+    },
+    {
         "victim": "donbosco-landser.net",
         "domain": "donbosco-landser.net",
         "country": "FR",
@@ -165,20 +172,6 @@
         "domain": "davisbrothersinc.com",
         "country": "US",
         "date": "2024-10-16",
-        "group": "ransomhub"
-    },
-    {
-        "victim": "Ecole Collège Lycée Don Bosco Landser",
-        "domain": "donbosco-landser.net",
-        "country": "FR",
-        "date": "2024-10-09",
-        "group": "ransomhub"
-    },
-    {
-        "victim": "Mauguio-Carnon",
-        "domain": "mauguio-carnon.com",
-        "country": "FR",
-        "date": "2024-10-17",
         "group": "ransomhub"
     },
     {
