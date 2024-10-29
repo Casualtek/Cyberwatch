@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-10-28",
+        "victim": "AEP",
+        "domain": "aep.de",
+        "country": "DEU",
+        "summary": "La société AEP, un grossiste, a été victime d'une cyberattaque qui a entraîné la mise hors service de certains de ses systèmes d'information. Les experts en sécurité travaillent actuellement à évaluer l'ampleur de l'attaque et à restaurer les systèmes, mais cela nécessite la fermeture temporaire des systèmes et des connexions externes. En conséquence, les commandes ne peuvent pas être traitées et les livraisons sont suspendues, obligeant les clients à trouver d'autres fournisseurs.",
+        "title": "Nach Cyberangriff: IT-Forensiker bei AEP | APOTHEKE ADHOC",
+        "url": "https://www.apotheke-adhoc.de/nachrichten/detail/markt/nach-cyberangriff-it-forensiker-bei-aep/",
+        "added": "2024-10-29"
+    },
+    {
         "date": "2024-10-26",
         "victim": "Marysville Village Exempted Schools",
         "domain": "marysville.k12.oh.us",
