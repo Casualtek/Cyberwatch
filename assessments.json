@@ -1,5 +1,12 @@
 [
     {
+        "victim": "gfm-uk.com",
+        "domain": "gfm-uk.com",
+        "country": "GB",
+        "date": "2024-10-01",
+        "group": "blackbasta"
+    },
+    {
         "victim": "Blalock Companies",
         "domain": "blalockcompanies.com",
         "country": "US",
