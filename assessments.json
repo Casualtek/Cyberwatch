@@ -1,5 +1,12 @@
 [
     {
+        "victim": "hicare.net",
+        "domain": "hicare.net",
+        "country": "IN",
+        "date": "2024-10-16",
+        "group": "ransomhub"
+    },
+    {
         "victim": "Aerotecnic",
         "domain": "aerotecnic.com",
         "country": "ES",
