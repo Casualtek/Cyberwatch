@@ -1,5 +1,25 @@
 [
     {
+        "date": "2024-10-26",
+        "victim": "Marysville Village Exempted Schools",
+        "domain": "marysville.k12.oh.us",
+        "country": "USA",
+        "summary": "Le district scolaire de Marysville aux États-Unis a été victime d'une cyberattaque qui a entraîné l'annulation des cours le lundi. L'incident a affecté les systèmes de technologie du district, qui a immédiatement mis en œuvre son plan de réponse aux incidents et a fait appel à des experts en sécurité informatique et à des forces de l'ordre fédérales. Le district s'est engagé à restaurer la fonctionnalité de ses systèmes et à protéger la confidentialité des informations des élèves et du personnel.",
+        "title": "Marysville cancels classes after 'cybersecurity incident'",
+        "url": "https://eu.dispatch.com/story/news/education/2024/10/28/marysville-cancels-classes-after-cybersecurity-incident/75896476007/",
+        "added": "2024-10-29"
+    },
+    {
+        "date": "2022-08-03",
+        "victim": "IHK Kassel-Marburg",
+        "domain": "ihk-kassel-marburg.de",
+        "country": "DEU",
+        "summary": "Début août 2022, une attaque sophistiquée a visé les systèmes de l'organisation allemande IHK, incitant son fournisseur de services, IHK-GfI, à déconnecter ses 79 chambres de commerce de l'internet pour limiter les dégâts. Des experts du BSI et de la ZAC NRW soupçonnent des motivations d'espionnage ou de sabotage. L'IHK-GfI rétablit progressivement les services après des vérifications approfondies et collabore avec des spécialistes certifiés pour renforcer la sécurité informatique.",
+        "title": "Cyber-Attacke auf IHK-Organisation - IHK Kassel-Marburg",
+        "url": "https://www.ihk.de/kassel-marburg/servicenavigation/jahresblick2022/jb-22-august-cyber-attake-5664126",
+        "added": "2024-10-28"
+    },
+    {
         "date": "2024-07-06",
         "victim": "Agridea",
         "domain": "agridea.ch",
