@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-09-18",
+        "victim": "Ishimitsu & Co., Ltd.",
+        "domain": "ishimitsu.co.jp",
+        "country": "JPN",
+        "summary": "Le 18 septembre 2024, Ishimitsu & Co., Ltd., ainsi que ses filiales japonaises, ont été touchées par une attaque avec ransomware qui a rendu leurs serveurs inaccessibles en chiffrant leurs données. La société collabore avec des experts pour évaluer l'étendue des dommages et restaurer les systèmes. L'impact potentiel sur les résultats financiers de l'entreprise est en cours d'examen, et d'autres informations seront publiées si nécessaire.",
+        "title": "About the occurrence of ransomware damage",
+        "url": "https://contents.xj-storage.jp/xcontents/AS90749/d6a25648/4818/44ac/bc63/4e5cfa5c6e45/140120240919586799.pdf",
+        "added": "2024-10-29"
+    },
+    {
         "date": "2024-10-28",
         "victim": "AEP",
         "domain": "aep.de",
