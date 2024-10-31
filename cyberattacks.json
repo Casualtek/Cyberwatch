@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-10-31",
+        "victim": "Microlise",
+        "domain": "microlise.com",
+        "country": "GBR",
+        "summary": "Une cyberattaque a frappé le système de suivi des livraisons de DHL, rendant impossible la mise à jour des statuts de livraison pour les détaillants Nisa. La société de technologie des transports Microlise, qui fournit le système de suivi à DHL, est considérée comme la cible de l'attaque. Les détaillants Nisa ne peuvent pas recevoir de mises à jour sur leurs livraisons jusqu'à ce que les systèmes soient restaurés.",
+        "title": "EXCLUSIVE: Cyber attack wipes out DHL delivery tracking systems causing issues for Nisa retailers - Better Retailing",
+        "url": "https://www.betterretailing.com/dhl-cyber-attack/",
+        "added": "2024-10-31"
+    },
+    {
         "date": "2024-09-18",
         "victim": "Art Gallery of Ontario (AGO)",
         "domain": "ago.ca",
