@@ -1,5 +1,5 @@
 [
-   {
+    {
         "date": "2024-09-18",
         "victim": "Art Gallery of Ontario (AGO)",
         "domain": "ago.ca",
@@ -41,8 +41,8 @@
     },
     {
         "date": "2024-10-24",
-        "victim": "Taketa",
-        "domain": "taketa.oita.jp",
+        "victim": "Betsudai Kōsan",
+        "domain": "betsudaikosan.co.jp",
         "country": "JPN",
         "summary": "La ville de Taketa a été victime d'une attaque de ransomware qui a entraîné une fuite d'informations. La ville demande à la société Betsudai Kōsan de fournir un rapport détaillé sur l'incident. Les personnes concernées par la fuite d'informations recevront un document d'information de la part de la ville, mais il est important de rester vigilant face à d'éventuels appels ou courriels frauduleux.",
         "title": "市営住宅におけるランサムウェア攻撃による情報漏えいに関するお知らせ／竹田市",
