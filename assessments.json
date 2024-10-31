@@ -1,5 +1,12 @@
 [
     {
+        "victim": "Mabe",
+        "domain": "mabeglobal.com",
+        "country": "MX",
+        "date": "2024-10-15",
+        "group": "ransomhub"
+    },
+    {
         "victim": "SEMNA",
         "domain": "semna.fr",
         "country": "FR",
