@@ -1,5 +1,12 @@
 [
     {
+        "victim": "SEMNA",
+        "domain": "semna.fr",
+        "country": "FR",
+        "date": "2024-10-12",
+        "group": "ransomhub"
+    },
+    {
         "victim": "yorozu-corp.co.jp",
         "domain": "yorozu-corp.co.jp",
         "country": "JP",
