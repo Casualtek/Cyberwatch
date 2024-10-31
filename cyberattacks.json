@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-08-27",
+        "victim": "Western Sydney University",
+        "domain": "westernsydney.edu.au",
+        "country": "AUS",
+        "summary": "L'Université de Western Sydney a subi une cyberattaque qui a permis à un acteur malveillant d'accéder à des données personnelles, notamment des noms, des adresses, des numéros d'identification des étudiants et des informations sur les frais de scolarité. L'université a découvert la violation le 27 août et a contenu l'accès le 31 août, mais a révélé que des données personnelles avaient été compromises. L'université a depuis renforcé ses mesures de sécurité et travaille avec les autorités pour enquêter sur l'incident.",
+        "title": "Western Sydney University suffers cyber attack, personal data compromised - Cyber Daily",
+        "url": "https://www.cyberdaily.au/security/11301-western-sydney-university-suffers-cyber-attack-personal-data-compromised",
+        "added": "2024-10-31"
+    },
+    {
         "date": "2024-10-24",
         "victim": "Taketa",
         "domain": "taketa.oita.jp",
