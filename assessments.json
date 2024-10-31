@@ -1,5 +1,12 @@
 [
     {
+        "victim": "yorozu-corp.co.jp",
+        "domain": "yorozu-corp.co.jp",
+        "country": "JP",
+        "date": "2024-10-11",
+        "group": "ransomhub"
+    },
+    {
         "victim": "TU Parks",
         "domain": "tuparks.com",
         "country": "US",
