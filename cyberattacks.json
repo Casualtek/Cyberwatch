@@ -1,4 +1,24 @@
 [
+   {
+        "date": "2024-09-18",
+        "victim": "Art Gallery of Ontario (AGO)",
+        "domain": "ago.ca",
+        "country": "CAN",
+        "summary": "Le Musée des beaux-arts de l'Ontario (AGO) a été victime d'une cyberattaque en septembre, lors de laquelle un tiers non autorisé a accédé à son serveur partagé interne, potentiellement exposant les adresses e-mail de ses clients. Les informations de carte de crédit et la plupart des données client n'ont pas été compromises, mais le musée recommande aux clients de rester vigilants face aux tentatives de phishing et de fraude. L'AGO prend des mesures pour renforcer sa sécurité, notamment en ajoutant des mesures d'authentification supplémentaires.",
+        "title": "Art Gallery of Ontario hit by cybersecurity incident | CTV News",
+        "url": "https://toronto.ctvnews.ca/ago-hit-by-cybersecurity-incident-says-vast-majority-of-customers-credit-card-info-not-impacted-1.7092693",
+        "added": "2024-10-31"
+    },
+    {
+        "date": "2024-10-17",
+        "victim": "Saint Kentigern College",
+        "domain": "saintkentigern.com",
+        "country": "NZL",
+        "summary": "Le collège privé Saint Kentigern College d'Auckland a été victime d'une cyberattaque, entraînant une fuite de données et des e-mails de phishing. Les experts en cybersécurité ont été engagés pour enquêter et contenir l'incident, et la Commission de la vie privée a été notifiée. Les autorités recommandent aux personnes ayant reçu des e-mails suspectes de supprimer immédiatement les messages et de prendre des mesures pour protéger leurs informations.",
+        "title": "Saint Kentigern College cyber attack: Auckland private school warns of phishing emails, data breach - NZ Herald",
+        "url": "https://www.nzherald.co.nz/nz/saint-kentigern-college-cyber-attack-auckland-private-school-warns-of-phishing-emails-data-breach/SNYF2DVMARHPJMHLG3BN7WNLLY/",
+        "added": "2024-10-31"
+    },
     {
         "date": "2024-10-24",
         "victim": "Hospital de Clínicas Ijuí (HCI)",
