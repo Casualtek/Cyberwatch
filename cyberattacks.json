@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-08-22",
+        "victim": "Stadtwerke Burg",
+        "domain": "stadtwerke-burg.de",
+        "country": "DEU",
+        "summary": "Les Stadtwerke Burg, un fournisseur d'énergie allemand, a signalé un incident de sécurité dans son système d'information, entraînant des problèmes de communication, mais sans impact sur la fourniture d'énergie aux clients. Les données des clients sont considérées comme sécurisées et protégées. L'entreprise a déclenché des mesures de sécurité pour isoler les systèmes affectés et travaille avec des experts pour réactiver ses systèmes d'information le plus rapidement possible.",
+        "title": "Kundendaten sollen sicher sein: IT-Vorfall bei den Stadtwerken in Burg: Technische Probleme beim Energieversorger",
+        "url": "https://www.volksstimme.de/lokal/burg/it-vorfall-bei-den-stadtwerken-in-burg-technische-probleme-beim-energieversorger-3911052",
+        "added": "2024-11-01"
+    },
+    {
         "date": "2024-10-31",
         "victim": "Microlise",
         "domain": "microlise.com",
