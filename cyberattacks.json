@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-10-24",
+        "victim": "Union Nationale des Missions Locales",
+        "domain": "unml.info",
+        "country": "FRA",
+        "summary": "Le ministère du Travail et de l'Emploi a annoncé que l'un de ses prestataires des missions locales a été victime d'une cyberattaque. L'incident a entraîné une violation de la sécurité des données, mais les détails sur l'ampleur de la atteinte et les données compromises ne sont pas encore disponibles. Les enquêtes sont en cours pour déterminer les causes et les conséquences de cette cyber-malveillance.",
+        "title": "Un prestataire des missions locales victime d’un acte de cyber-malveillance | Travail-emploi.gouv.fr | Ministère du Travail et de l’Emploi",
+        "url": "https://travail-emploi.gouv.fr/un-prestataire-des-missions-locales-victime-dun-acte-de-cyber-malveillance",
+        "added": "2024-11-01"
+    },
+    {
         "date": "2024-10-29",
         "victim": "Lampard Community School",
         "domain": "lampard.devon.sch.uk",
