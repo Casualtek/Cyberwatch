@@ -1,5 +1,12 @@
 [
     {
+        "victim": "TETCO",
+        "domain": "tetco-group.com",
+        "country": "SA",
+        "date": "2024-10-09",
+        "group": "ransomhub"
+    },
+    {
         "victim": "sym-global.com",
         "domain": "sym-global.com",
         "country": "TW",
