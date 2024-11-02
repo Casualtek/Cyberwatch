@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-10-23",
+        "victim": "Metropolis Group",
+        "domain": "metropolis.co.uk",
+        "country": "GBR",
+        "summary": "Le groupe de médias Metropolis a été victime d'une cyberattaque, compromettant les passeports, les détails bancaires et les numéros de sécurité sociale de certains employés actuels et anciens. Les hackers ont accédé à deux serveurs contenant des informations personnelles, mais l'entreprise a affirmé avoir identifié et isolé la menace. Les données compromises pourraient être utilisées à des fins d'fraude d'identité ou de fraude bancaire.",
+        "title": "Metropolis staff passports and bank details but by cyberattack",
+        "url": "https://pressgazette.co.uk/publishers/b2b/emap-metropolis-cyberattack-news-industry/",
+        "added": "2024-11-02"
+    },
+    {
         "date": "2024-10-30",
         "victim": "San Joaquin County Superior Court",
         "domain": "sjcourts.org",
