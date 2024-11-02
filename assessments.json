@@ -1,5 +1,12 @@
 [
     {
+        "victim": "ua4rent.com",
+        "domain": "ua4rent.com",
+        "country": "US",
+        "date": "2024-10-28",
+        "group": "ransomhub"
+    },
+    {
         "victim": "TETCO",
         "domain": "tetco-group.com",
         "country": "SA",
