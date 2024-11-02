@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-10-30",
+        "victim": "San Joaquin County Superior Court",
+        "domain": "sjcourts.org",
+        "country": "USA",
+        "summary": "Le tribunal supérieur du comté de San Joaquin en Californie a été victime d'une cyberattaque qui a mis hors ligne la plupart de ses services numériques, notamment les services téléphoniques et de paiement par carte de crédit. Les experts en cybersécurité ont été embauchés pour aider à résoudre l'incident et à enquêter sur la cause de l'attaque. Aucun groupe de hackers ou opération de ransomware n'a revendiqué la responsabilité de l'attaque, et il n'y a pas de calendrier pour la restauration des systèmes.",
+        "title": "California court suffering from tech outages after cyberattack",
+        "url": "https://therecord.media/california-court-suffering-from-tech-outages-cyberattack",
+        "added": "2024-11-02"
+    },
+    {
         "date": "2024-11-01",
         "victim": "South East Technological University (SETU)",
         "domain": "setu.ie",
