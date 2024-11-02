@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-11-01",
+        "victim": "South East Technological University (SETU)",
+        "domain": "setu.ie",
+        "country": "IRL",
+        "summary": "Le campus de Waterford de la South East Technological University (SETU) a été victime d'une cyberattaque importante, entraînant l'annulation des cours du lundi et la perte d'accès à internet, aux courriels internes et aux équipements informatiques sur le campus. L'équipe IT de l'université a réagi rapidement pour protéger les systèmes et enquête sur l'incident, mais il n'y a pas encore de preuve que des données ont été compromises. Les cours dans les autres campus continuent normalement, tandis que les étudiants et les enseignants du campus de Waterford pourraient connaître des perturbations pendant la résolution de l'incident.",
+        "title": "SETU Waterford campuses hit by cyberattack",
+        "url": "https://www.rte.ie/news/education/2024/1101/1478655-waterford-hack/",
+        "added": "2024-11-02"
+    },
+    {
         "date": "2024-10-24",
         "victim": "Union Nationale des Missions Locales",
         "domain": "unml.info",
