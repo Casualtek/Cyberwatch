@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-08-03",
+        "victim": "Van Wagner",
+        "domain": "vanwagner.com",
+        "country": "USA",
+        "summary": "L'agence de publicité et de diffusion Van Wagner, qui a produit des événements tels que le Super Bowl, a été victime d'une cyberattaque par malware qui a entraîné la fuite de données personnelles de plus de 5 000 personnes. Les informations compromises incluent les noms, adresses, dates de naissance, adresses e-mail et numéros de sécurité sociale. L'entreprise a lancé une enquête et offre des services de protection contre la fraude gratuite pendant 12 mois aux personnes affectées.",
+        "title": "NFL Super Bowl producer victim of cyberattack​ | Cybernews",
+        "url": "https://cybernews.com/news/super-bowl-producer-van-wagner-breached/",
+        "added": "2024-11-04"
+    },
+    {
         "date": "2024-06-11",
         "victim": "Belle Tire",
         "domain": "belletire.com",
