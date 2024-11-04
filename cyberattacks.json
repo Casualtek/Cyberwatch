@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-11-02",
+        "victim": "Kumla kommun",
+        "domain": "kumla.se",
+        "country": "SWE",
+        "summary": "La commune de Kumla en Suède a été victime d'une cyberattaque découverte samedi, avec des accès à ses systèmes depuis d'autres pays que la Suède. Les systèmes internes de la commune sont toujours accessibles et aucun n'a été mis hors ligne, mais l'ampleur de l'attaque et la possible fuite de données sensibles sont encore inconnues. La commune a déclenché un plan d'urgence pour obtenir une vision d'ensemble de l'attaque et de ses conséquences éventuelles.",
+        "title": "Cyberattack mot Kumla kommun - gått i stabsläge | SVT Nyheter",
+        "url": "https://www.svt.se/nyheter/lokalt/orebro/cyberattack-mot-kumla-kommun-gatt-i-stabslage",
+        "added": "2024-11-04"
+    },
+    {
         "date": "2024-08-03",
         "victim": "Van Wagner",
         "domain": "vanwagner.com",
