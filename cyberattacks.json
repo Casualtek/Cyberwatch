@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-06-11",
+        "victim": "Belle Tire",
+        "domain": "belletire.com",
+        "country": "USA",
+        "summary": "La chaîne de magasins de pneus Belle Tire a été victime d'une cyberattaque en juin 2024, lors de laquelle des cybercriminels ont volé des données personnelles de près de 30 000 personnes, notamment des noms, adresses, dates de naissance et numéros de sécurité sociale. L'attaque a été attribuée au groupe de ransomware Play, qui a déjà ciblé près de 350 organisations au cours des 12 derniers mois. Les données volées pourraient être utilisées pour des activités malveillantes telles que la fraude d'identité et les attaques de phishing ciblées.",
+        "title": "Belle Tire reveals tens of thousands exposed in cyberattack | Cybernews",
+        "url": "https://cybernews.com/news/belle-tire-data-breach-exposed-thousands/",
+        "added": "2024-11-04"
+    },
+    {
         "date": "2024-11-02",
         "victim": "Memorial Hospital and Manor",
         "domain": "mh-m.org",
