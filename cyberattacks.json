@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-11-02",
+        "victim": "Memorial Hospital and Manor",
+        "domain": "mh-m.org",
+        "country": "USA",
+        "summary": "L'hôpital Memorial Hospital and Manor de Bainbridge, en Géorgie, a été victime d'une attaque de ransomware qui a touché son système d'enregistrement électronique des dossiers de santé. L'attaque a été découverte samedi matin et l'hôpital a immédiatement lancé une enquête interne pour résoudre le problème. Les patients peuvent s'attendre à des temps d'attente plus longs en raison de la mise en place d'un processus papier temporaire.",
+        "title": "Memorial Hospital and Manor investigating cyber attack",
+        "url": "https://www.walb.com/2024/11/03/memorial-hospital-manor-investigating-cyber-attack/",
+        "added": "2024-11-04"
+    },
+    {
         "date": "2024-10-23",
         "victim": "Metropolis Group",
         "domain": "metropolis.co.uk",
