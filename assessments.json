@@ -1,5 +1,19 @@
 [
     {
+        "victim": "rosenlegal.com",
+        "domain": "rosenlegal.com",
+        "country": "US",
+        "date": "2024-10-09",
+        "group": "blackbasta"
+    },
+    {
+        "victim": "weberpackaging.com",
+        "domain": "weberpackaging.com",
+        "country": "US",
+        "date": "2024-10-08",
+        "group": "blackbasta"
+    },
+    {
         "victim": "harrispersonalinjury.com",
         "domain": "harrispersonalinjury.com",
         "country": "US",
