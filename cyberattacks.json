@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-01-04",
+        "victim": "Long Island Plastic Surgical Group",
+        "domain": "lipsg.com",
+        "country": "USA",
+        "summary": "Le Long Island Plastic Surgical Group, un cabinet de chirurgie plastique basé à Garden City, a été victime d'une cyberattaque en janvier, entraînant la compromission des données de 161 707 patients, notamment des informations personnelles et médicales. L'enquête a révélé que des données telles que les noms, les numéros de sécurité sociale, les dates de naissance et les informations financières ont été volées. Le cabinet a mis en place des mesures pour aider les patients à protéger leurs données et recommande l'utilisation de la authentification à deux facteurs pour prévenir de futures attaques.",
+        "title": "LI plastic surgery practice faced data breach in January, 161,707 individuals' data compromised - Newsday",
+        "url": "https://www.newsday.com/business/data-breach-cyber-attack-j7q740l8",
+        "added": "2024-11-05"
+    },
+    {
         "date": "2024-11-02",
         "victim": "Kumla kommun",
         "domain": "kumla.se",
