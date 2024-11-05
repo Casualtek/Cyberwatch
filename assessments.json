@@ -1,5 +1,12 @@
 [
     {
+        "victim": "celo.com",
+        "domain": "celo.com",
+        "country": "US",
+        "date": "2024-10-10",
+        "group": "blackbasta"
+    },
+    {
         "victim": "daserv.com",
         "domain": "daserv.com",
         "country": "US",
