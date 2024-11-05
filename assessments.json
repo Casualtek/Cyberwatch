@@ -1,5 +1,12 @@
 [
     {
+        "victim": "harrispersonalinjury.com",
+        "domain": "harrispersonalinjury.com",
+        "country": "US",
+        "date": "2024-09-23",
+        "group": "ransomhub"
+    },
+    {
         "victim": "resourceinternational.com",
         "domain": "resourceinternational.com",
         "country": "US",
