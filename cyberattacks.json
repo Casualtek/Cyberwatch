@@ -1,5 +1,15 @@
 [
     {
+        "date": "2023-07-21",
+        "victim": "Saint Xavier University",
+        "domain": "sxu.edu",
+        "country": "USA",
+        "summary": "L'université Saint Xavier a été victime d'une cyberattaque qui a exposé les données de 210 000 personnes. L'incident a entraîné une fuite de données confidentielles, mais les détails sur la nature de ces informations et les méthodes d'attaque utilisées ne sont pas encore disponibles. L'université a pris des mesures pour contenir la brèche et avertir les parties concernées.",
+        "title": "210,000 Impacted by Saint Xavier University Data Breach - SecurityWeek",
+        "url": "https://www.securityweek.com/210000-impacted-by-year-old-saint-xavier-university-data-breach/",
+        "added": "2024-11-06"
+    },
+    {
         "date": "2024-09-17",
         "victim": "Goodline",
         "domain": "goodline.com.au",
