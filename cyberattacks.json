@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-09-17",
+        "victim": "Goodline",
+        "domain": "goodline.com.au",
+        "country": "AUS",
+        "summary": "L'entreprise australienne Goodline a confirmé avoir été victime d'une cyberattaque par le groupe de menaces RansomHub, qui a exfiltré 600 gigaoctets de données, mais sans accès à des informations personnelles. L'enquête est en cours avec l'aide de CrowdStrike, et les principaux clients, dont Rio Tinto, ont été informés. RansomHub a menacé de publier les données volées dans les cinq jours suivants.",
+        "title": "Exclusive: Australian firm Goodline confirms RansomHub cyber attack - Cyber Daily",
+        "url": "https://www.cyberdaily.au/security/11317-exclusive-australian-firm-goodline-confirms-ransomhub-cyber-attack",
+        "added": "2024-11-06"
+    },
+    {
         "date": "2024-11-05",
         "victim": "Lojas Marisa",
         "domain": "lojasmarisa.com.br",
