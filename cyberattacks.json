@@ -1,6 +1,16 @@
 [
     {
         "date": "2024-11-05",
+        "victim": "Ridgewood Schools",
+        "domain": "ridgewood.k12.nj.us",
+        "country": "USA",
+        "summary": "Le district scolaire de Ridgewood a été victime d'une cyberattaque le 5 novembre, lorsqu'un tiers non autorisé a tenté d'accéder à ses systèmes, permettant à l'attaquant de consulter des informations de répertoire, notamment des données de mots de passe cryptées. Bien que les mots de passe soient sécurisés, le district a décidé de procéder à un réinitialisation des mots de passe pour tous les élèves pour garantir la sécurité. L'enquête est en cours et aucune information d'élève n'a été compromise.",
+        "title": "Passwords Compromised In Ridgewood Schools Cyber Attack, Superintendent Says | Ridgewood Daily Voice",
+        "url": "https://dailyvoice.com/new-jersey/ridgewood/passwords-compromised-in-ridgewood-schools-cyber-attack-superintendent-says/",
+        "added": "2024-11-07"
+    },
+    {
+        "date": "2024-11-05",
         "victim": "Wexford County",
         "domain": "wexfordcounty.org",
         "country": "USA",
