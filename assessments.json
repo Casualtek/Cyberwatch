@@ -1,5 +1,12 @@
 [
     {
+        "victim": "qualiform.cz",
+        "domain": "qualiform.cz",
+        "country": "CZ",
+        "date": "2024-10-22",
+        "group": "helldown"
+    },
+    {
         "victim": "TIVOLI-33",
         "domain": "tivoli-33.org",
         "country": "FR",
