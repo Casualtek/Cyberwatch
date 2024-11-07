@@ -1,5 +1,12 @@
 [
     {
+        "victim": "hausdesstiftens.org",
+        "domain": "hausdesstiftens.org",
+        "country": "DE",
+        "date": "2024-10-08",
+        "group": "helldown"
+    },
+    {
         "victim": "celo.com",
         "domain": "celo.com",
         "country": "US",
