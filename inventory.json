@@ -29700,6 +29700,17 @@
                 "date": "2023-08-14",
                 "type": "claimed",
                 "group": "alphv"
+            },
+            {
+                "date": "2024-11-06",
+                "type": "discovered",
+                "summary": "L'université Saint Xavier a été victime d'une cyberattaque qui a exposé les données de 210 000 personnes. L'incident a entraîné une fuite de données confidentielles, mais les détails sur la nature de ces informations et les méthodes d'attaque utilisées ne sont pas encore disponibles. L'université a pris des mesures pour contenir la brèche et avertir les parties concernées.",
+                "title": "210,000 Impacted by Saint Xavier University Data Breach - SecurityWeek",
+                "url": "https://www.securityweek.com/210000-impacted-by-year-old-saint-xavier-university-data-breach/"
+            },
+            {
+                "date": "2023-07-21",
+                "type": "reported"
             }
         ]
     },
@@ -65975,6 +65986,11 @@
                 "date": "2024-04-02",
                 "type": "claimed",
                 "group": "medusa"
+            },
+            {
+                "date": "2024-11-05",
+                "type": "claimed",
+                "group": "qilin"
             }
         ]
     },
@@ -108545,6 +108561,11 @@
                 "date": "2024-08-22",
                 "type": "claimed",
                 "group": "helldown"
+            },
+            {
+                "date": "2024-08-21",
+                "type": "assessed",
+                "group": "helldown"
             }
         ]
     },
@@ -112853,6 +112874,11 @@
             {
                 "date": "2024-08-27",
                 "type": "reported"
+            },
+            {
+                "date": "2024-11-06",
+                "type": "claimed",
+                "group": "helldown"
             }
         ]
     },
@@ -115224,6 +115250,11 @@
             {
                 "date": "2024-09-16",
                 "type": "reported"
+            },
+            {
+                "date": "2024-11-05",
+                "type": "claimed",
+                "group": "rhysida"
             }
         ]
     },
@@ -122432,6 +122463,11 @@
                 "date": "2024-10-24",
                 "type": "claimed",
                 "group": "ransomhub"
+            },
+            {
+                "date": "2024-10-08",
+                "type": "assessed",
+                "group": "ransomhub"
             }
         ]
     },
@@ -122868,6 +122904,11 @@
             {
                 "date": "2024-10-20",
                 "type": "reported"
+            },
+            {
+                "date": "2024-11-07",
+                "type": "claimed",
+                "group": "interlock"
             }
         ]
     },
@@ -123794,7 +123835,7 @@
         "country": "LU",
         "timeline": [
             {
-                "date": "2024-10-05",
+                "date": "2024-10-26",
                 "type": "claimed",
                 "group": "blacksuit"
             },
@@ -123907,7 +123948,7 @@
         "country": "IN",
         "timeline": [
             {
-                "date": "2024-10-22",
+                "date": "2024-10-27",
                 "type": "claimed",
                 "group": "ransomhub"
             },
@@ -124035,6 +124076,11 @@
                 "date": "2024-10-28",
                 "type": "claimed",
                 "group": "ransomhub"
+            },
+            {
+                "date": "2024-09-23",
+                "type": "assessed",
+                "group": "ransomhub"
             }
         ]
     },
@@ -124044,7 +124090,7 @@
         "country": "CA",
         "timeline": [
             {
-                "date": "2024-10-03",
+                "date": "2024-10-28",
                 "type": "claimed",
                 "group": "ransomhub"
             },
@@ -124061,7 +124107,7 @@
         "country": "US",
         "timeline": [
             {
-                "date": "2024-10-26",
+                "date": "2024-10-28",
                 "type": "claimed",
                 "group": "ransomhub"
             },
@@ -124345,6 +124391,11 @@
                 "date": "2024-10-29",
                 "type": "claimed",
                 "group": "blackbasta"
+            },
+            {
+                "date": "2024-10-08",
+                "type": "assessed",
+                "group": "blackbasta"
             }
         ]
     },
@@ -124356,6 +124407,11 @@
             {
                 "date": "2024-10-29",
                 "type": "claimed",
+                "group": "blackbasta"
+            },
+            {
+                "date": "2024-10-09",
+                "type": "assessed",
                 "group": "blackbasta"
             }
         ]
@@ -124381,6 +124437,11 @@
                 "date": "2024-10-29",
                 "type": "claimed",
                 "group": "blackbasta"
+            },
+            {
+                "date": "2024-10-10",
+                "type": "assessed",
+                "group": "blackbasta"
             }
         ]
     },
@@ -124392,6 +124453,11 @@
             {
                 "date": "2024-10-29",
                 "type": "claimed",
+                "group": "blackbasta"
+            },
+            {
+                "date": "2024-10-10",
+                "type": "assessed",
                 "group": "blackbasta"
             }
         ]
@@ -124928,7 +124994,7 @@
         "country": "TH",
         "timeline": [
             {
-                "date": "2024-09-16",
+                "date": "2024-11-01",
                 "type": "claimed",
                 "group": "qilin"
             },
@@ -124957,7 +125023,7 @@
         "country": "ZA",
         "timeline": [
             {
-                "date": "2024-09-25",
+                "date": "2024-11-01",
                 "type": "claimed",
                 "group": "qilin"
             },
@@ -124974,7 +125040,7 @@
         "country": "TH",
         "timeline": [
             {
-                "date": "2024-09-25",
+                "date": "2024-11-01",
                 "type": "claimed",
                 "group": "qilin"
             },
@@ -125147,7 +125213,7 @@
         "country": "US",
         "timeline": [
             {
-                "date": "2024-10-27",
+                "date": "2024-11-01",
                 "type": "claimed",
                 "group": "ransomhub"
             },
@@ -125164,7 +125230,7 @@
         "country": "US",
         "timeline": [
             {
-                "date": "2024-10-28",
+                "date": "2024-11-01",
                 "type": "claimed",
                 "group": "ransomhub"
             },
@@ -125205,7 +125271,7 @@
         "country": "SA",
         "timeline": [
             {
-                "date": "2024-10-09",
+                "date": "2024-11-01",
                 "type": "claimed",
                 "group": "ransomhub"
             },
@@ -125234,7 +125300,7 @@
         "country": "TW",
         "timeline": [
             {
-                "date": "2024-10-10",
+                "date": "2024-11-01",
                 "type": "claimed",
                 "group": "ransomhub"
             },
@@ -125287,7 +125353,7 @@
         "country": "FR",
         "timeline": [
             {
-                "date": "2024-10-28",
+                "date": "2024-11-02",
                 "type": "claimed",
                 "group": "qilin"
             },
@@ -125348,12 +125414,17 @@
     },
     {
         "victim": "The Law Offices of Jed Silverman",
-        "domain": " jedsilverman.com",
+        "domain": "jedsilverman.com",
         "country": "US",
         "timeline": [
             {
-                "date": "2024-09-26",
+                "date": "2024-11-03",
                 "type": "claimed",
+                "group": "qilin"
+            },
+            {
+                "date": "2024-09-26",
+                "type": "assessed",
                 "group": "qilin"
             }
         ]
@@ -125484,7 +125555,7 @@
         "country": "US",
         "timeline": [
             {
-                "date": "2024-10-30",
+                "date": "2024-11-04",
                 "type": "claimed",
                 "group": "incransom"
             },
@@ -125612,6 +125683,17 @@
                 "date": "2024-11-04",
                 "type": "claimed",
                 "group": "ransomhub"
+            },
+            {
+                "date": "2024-11-06",
+                "type": "discovered",
+                "summary": "L'entreprise australienne Goodline a confirmé avoir été victime d'une cyberattaque par le groupe de menaces RansomHub, qui a exfiltré 600 gigaoctets de données, mais sans accès à des informations personnelles. L'enquête est en cours avec l'aide de CrowdStrike, et les principaux clients, dont Rio Tinto, ont été informés. RansomHub a menacé de publier les données volées dans les cinq jours suivants.",
+                "title": "Exclusive: Australian firm Goodline confirms RansomHub cyber attack - Cyber Daily",
+                "url": "https://www.cyberdaily.au/security/11317-exclusive-australian-firm-goodline-confirms-ransomhub-cyber-attack"
+            },
+            {
+                "date": "2024-09-17",
+                "type": "reported"
             }
         ]
     },
@@ -126085,6 +126167,11 @@
             {
                 "date": "2024-10-26",
                 "type": "reported"
+            },
+            {
+                "date": "2024-11-05",
+                "type": "claimed",
+                "group": "ransomhub"
             }
         ]
     },
@@ -126138,6 +126225,821 @@
             },
             {
                 "date": "2024-10-24",
+                "type": "reported"
+            }
+        ]
+    },
+    {
+        "victim": "Centrakor, Gémo, Tao Kids",
+        "domain": "Centrakor,Gémo,TaoKids.nodomain",
+        "country": "FR",
+        "timeline": [
+            {
+                "date": "2024-05-01",
+                "type": "discovered",
+                "summary": "Plusieurs enseignes de prêt-à-porter à La Réunion, dont Centrakor, Gémo et Tao Kids, ont été victimes d'une cyberattaque le 30 mars, sans indication que des données personnelles aient été extraites. Les clients ont été informés par message et une alerte a été lancée par précaution, bien que l'incident ait été rapidement maîtrisé avec l'aide d'experts techniques et juridiques. Les enseignes ont effectué une notification auprès de la CNIL, déclaré l'incident à l'ANSSI et au CSIRT des Hauts-de-France, et déposé une plainte, tout en recommandant aux clients une vigilance accrue face à d'éventuelles tentatives d'usurpation d'",
+                "title": "Plusieurs grands magasins de La Réunion victimes d'une cyberattaque",
+                "url": "https://imazpress.com/actus-reunion/plusieurs-grands-magasins-de-la-reunion-victimes-d-une-cyberattaque"
+            },
+            {
+                "date": "2023-03-30",
+                "type": "reported"
+            }
+        ]
+    },
+    {
+        "victim": "Petit commerce à Bad Wörishofen",
+        "domain": "PetitcommerceàBadWörishofen.nodomain",
+        "country": "DE",
+        "timeline": [
+            {
+                "date": "2024-04-24",
+                "type": "discovered",
+                "summary": "Un petit commerce à Bad Wörishofen a été victime d'une cyberattaque le week-end dernier, entraînant des dommages estimés à environ 30 000 euros après que toutes les données sur le PC du propriétaire aient été cryptées par des pirates informatiques. Le propriétaire a immédiatement contacté la police locale, et les enquêtes sont désormais menées par le département spécialisé en cybercriminalité de la KPI Memmingen, avec l'aide d'un prestataire informatique externe.",
+                "title": "Bad Wörishofen: Cyberangriff auf Gewerbebetrieb - Etwa 30.000 Euro Schaden",
+                "url": "https://www.merkur.de/bayern/schwaben/mindelheim-kurier/bad-woerishofen-cyberangriff-auf-gewerbebetrieb-etwa-30-000-euro-schaden-93028864.html"
+            },
+            {
+                "date": "2024-04-20",
+                "type": "reported"
+            }
+        ]
+    },
+    {
+        "victim": "Un concessionnaire automobile dans le district de Straubing",
+        "domain": "UnconcessionnaireautomobiledansledistrictdeStraubing.nodomain",
+        "country": "DE",
+        "timeline": [
+            {
+                "date": "2023-05-24",
+                "type": "discovered",
+                "summary": "Un concessionnaire automobile dans le district de Straubing a été victime d'une attaque de ransomware. Les données ont été chiffrées et les propriétaires de l'entreprise ont contacté la police. Une équipe spéciale de la police a été déployée pour aider à enquêter sur l'attaque. Le montant des dommages causés n'a pas encore été chiffré. La police a conseillé aux entreprises de se protéger contre les attaques en mettant en place des stratégies de sauvegarde de données et en mettant à jour régulièrement leurs mesures de sécurité informatique.",
+                "title": "Cyberangriff auf Autohaus im Landkreis Straubing: Kripo-Spezialeinheit im Einsatz",
+                "url": "https://www.pnp.de/lokales/stadt-straubing-und-landkreis-straubing-bogen/cyberangriff-auf-autohaus-im-landkreis-straubing-kripo-spezialeinheit-im-einsatz-11271749"
+            },
+            {
+                "date": "2023-05-24",
+                "type": "reported"
+            }
+        ]
+    },
+    {
+        "victim": "Gorizia in Bici",
+        "domain": "GoriziainBici.nodomain",
+        "country": "IT",
+        "timeline": [
+            {
+                "date": "2023-05-16",
+                "type": "discovered",
+                "summary": "Une attaque de hackers a eu lieu à Gorizia. Le bike sharing transfrontalier a été ralenti en conséquence. L'attaque a eu lieu le 16 mai 2023. L'article a été mis à jour à 21h41. La lecture de l'article prend environ 2 minutes.",
+                "title": "Attacco hacker a Gorizia, rallentato il bike sharing transfrontaliero - Il Piccolo",
+                "url": "https://ilpiccolo.gelocal.it/trieste/cronaca/2023/05/16/news/attacco_hacker_a_gorizia_rallentato_il_bike_sharing_transfrontaliero-12809364/"
+            },
+            {
+                "date": "2023-05-16",
+                "type": "reported"
+            }
+        ]
+    },
+    {
+        "victim": "Red Bus",
+        "domain": "RedBus.nodomain",
+        "country": "AR",
+        "timeline": [
+            {
+                "date": "2023-05-11",
+                "type": "discovered",
+                "summary": "L'entreprise Red Bus a subi une cyberattaque qui empêche les utilisateurs de recharger leur carte de transport urbain à Córdoba, en Argentine. Bien que la plupart des points de recharge aient encore du crédit disponible, certains sont fermés et affichent \"sans solde\". Les utilisateurs peuvent utiliser leur carte jusqu'à quatre voyages avec un solde négatif, mais devront compenser le solde une fois que le système sera de nouveau opérationnel. La Municipalité de Córdoba a autorisé deux voyages supplémentaires avec un solde négatif. Red Bus estime que le système sera rétabli dans les prochaines heures.",
+                "title": "Tarjeta Red Bus: qué pasa si no puedo recargarla para viajar por el ciberataque",
+                "url": "https://www.lavoz.com.ar/ciudadanos/tarjeta-red-bus-que-pasa-si-no-puedo-recargarla-para-viajar-por-el-ciberataque/"
+            },
+            {
+                "date": "2023-05-11",
+                "type": "reported"
+            }
+        ]
+    },
+    {
+        "victim": "Fournisseur IT de HVC",
+        "domain": "FournisseurITdeHVC.nodomain",
+        "country": "NL",
+        "timeline": [
+            {
+                "date": "2023-05-06",
+                "type": "discovered",
+                "summary": "Le fournisseur informatique de l'entreprise énergétique HVC a été victime d'une cyberattaque. Les données des clients ont été affectées, entraînant des problèmes de connexion et de facturation. Le problème a été résolu, mais les clients ne peuvent toujours pas accéder à leur portail personnel. HVC a informé les clients de l'incident et a présenté ses excuses, mais affirme que les données des clients n'ont probablement pas été compromises. L'entreprise n'a pas payé de rançon aux cybercriminels.",
+                "title": "IT-leverancier van energiebedrijf HVC getroffen door cyberaanval",
+                "url": "https://www.rtvdordrecht.nl/nieuws/nieuws/it-leverancier-van-energiebedrijf-hvc-getroffen-door-cyberaanval"
+            },
+            {
+                "date": "2023-05-06",
+                "type": "reported"
+            }
+        ]
+    },
+    {
+        "victim": "PME/ETI en Ile-de-France avec 300-500 salariés",
+        "domain": "PME/ETIenIle-de-Franceavec300-500salariés.nodomain",
+        "country": "FR",
+        "timeline": [
+            {
+                "date": "2023-05-06",
+                "type": "discovered",
+                "summary": "AISI, une entreprise de cybersécurité, aide une PME/ETI victime d'une attaque ransomware depuis dimanche dernier. L'entreprise victime est une structure en IDF avec 300-500 salariés. Dès que l'attaque a été signalée, AISI a pris contact avec le client dans les 10 minutes qui ont suivi. Les équipes d'AISI ont créé une War Room et ont collecté les logs de toutes les VMs, démarrant ainsi une investigation pour identifier la souche/groupe d'attaquants et transférer les données à restaurer à l'équipe spécialisée en recovery. Pendant les deux jours suivants, AISI a continué l'investigation, accompagné le client dans la reconstruction et supervisé en temps réel. Cependant, il y a eu plusieurs problèmes auxquels il fallait faire face. Par exemple, le client n'a pas pu couper internet car la direction ne le souhaitait pas, et il a été difficile de transférer toutes les données de son hébergeur vers la team de restauration, ce qui a entraîné une perte de plus de 48 heures. De plus, il y a eu des sollicitations commerciales avec des coûts et des offres très différentes qui ont souvent été peu pertinentes. Le client a été passé sous SOC dès lundi pour limiter les risques avec un monitoring fin des IOCs/IOAs des attaquants et le déploiement de SentinelOne.",
+                "title": "Comment AISI aide une entreprise victime d'un ransomware depuis dimanche dernier",
+                "url": "https://www.linkedin.com/feed/update/urn:li:activity:7062079147749076992/"
+            },
+            {
+                "date": "2023-05-06",
+                "type": "reported"
+            }
+        ]
+    },
+    {
+        "victim": "Future Inn",
+        "domain": "FutureInn.nodomain",
+        "country": "JP",
+        "timeline": [
+            {
+                "date": "2023-04-13",
+                "type": "discovered",
+                "summary": "Plus de 90 conseils municipaux à travers le Japon ont été touchés par une cyberattaque qui a entraîné l'arrêt des services de diffusion en ligne et de recherche de procès-verbaux. Le système informatique de ces conseils municipaux est géré par une entreprise de Nagoya. Cette entreprise a confirmé que des serveurs ont été touchés par une attaque de virus informatique. Les données personnelles n'ont pas été compromises. L'entreprise a annoncé que les services seront rétablis le 14 avril.",
+                "title": "地方議会にシステム障害 ９０以上、サイバー攻撃で - 産経ニュース",
+                "url": "https://www.sankei.com/article/20230413-CFJZJIX4ABNBFIDB3OMSE7W4TE/"
+            },
+            {
+                "date": "2023-04-13",
+                "type": "reported"
+            }
+        ]
+    },
+    {
+        "victim": "sundt.com",
+        "domain": "sundt.com",
+        "country": "NO",
+        "timeline": [
+            {
+                "date": "2024-11-04",
+                "type": "claimed",
+                "group": "ransomhub"
+            }
+        ]
+    },
+    {
+        "victim": "Webb Institute",
+        "domain": "webb.edu",
+        "country": "US",
+        "timeline": [
+            {
+                "date": "2024-11-05",
+                "type": "claimed",
+                "group": "incransom"
+            }
+        ]
+    },
+    {
+        "victim": "apoyoconsultoria.com",
+        "domain": "apoyoconsultoria.com",
+        "country": "PE",
+        "timeline": [
+            {
+                "date": "2024-11-05",
+                "type": "claimed",
+                "group": "ransomhub"
+            }
+        ]
+    },
+    {
+        "victim": "Falco Sult",
+        "domain": "falcosult.com",
+        "country": "IT",
+        "timeline": [
+            {
+                "date": "2024-11-05",
+                "type": "claimed",
+                "group": "bianlian"
+            }
+        ]
+    },
+    {
+        "victim": "Model Die & Mold",
+        "domain": "modeldie.com",
+        "country": "US",
+        "timeline": [
+            {
+                "date": "2024-11-05",
+                "type": "claimed",
+                "group": "lynx"
+            }
+        ]
+    },
+    {
+        "victim": "wexfordcounty.org",
+        "domain": "wexfordcounty.org",
+        "country": "JO",
+        "timeline": [
+            {
+                "date": "2024-11-05",
+                "type": "claimed",
+                "group": "embargo"
+            },
+            {
+                "date": "2024-11-07",
+                "type": "discovered",
+                "summary": "Le comté de Wexford a été victime d'une attaque de malware le jour des élections, mais selon l'administrateur du comté, la sécurité des élections n'a pas été compromise. L'attaque a affecté certains systèmes informatiques du palais de justice, notamment les courriels et les téléphones, et le réseau a été déconnecté jusqu'à nouvel ordre. Les enquêteurs du MSP et du FBI travaillent avec le comté pour déterminer l'ampleur de l'attaque et identifier les parties compromises.",
+                "title": "MSP and FBI investigate malware attack in Wexford County - 9&10 News",
+                "url": "https://www.9and10news.com/2024/11/06/msp-and-fbi-investigate-malware-attack-in-wexford-county/"
+            },
+            {
+                "date": "2024-11-05",
+                "type": "reported"
+            }
+        ]
+    },
+    {
+        "victim": "nwhealthporter.com",
+        "domain": "nwhealthporter.com",
+        "country": "US",
+        "timeline": [
+            {
+                "date": "2024-11-05",
+                "type": "claimed",
+                "group": "ransomhub"
+            }
+        ]
+    },
+    {
+        "victim": "pacificglazing.com",
+        "domain": "pacificglazing.com",
+        "country": "CA",
+        "timeline": [
+            {
+                "date": "2024-11-05",
+                "type": "claimed",
+                "group": "ransomhub"
+            }
+        ]
+    },
+    {
+        "victim": "Interoute agency",
+        "domain": "interoute.lu",
+        "country": "LU",
+        "timeline": [
+            {
+                "date": "2024-11-06",
+                "type": "claimed",
+                "group": "lynx"
+            }
+        ]
+    },
+    {
+        "victim": "Dome Construction",
+        "domain": "domebuilds.com",
+        "country": "US",
+        "timeline": [
+            {
+                "date": "2024-11-05",
+                "type": "claimed",
+                "group": "play"
+            }
+        ]
+    },
+    {
+        "victim": "S & W Kitchens",
+        "domain": "sandwkitchens.com",
+        "country": "US",
+        "timeline": [
+            {
+                "date": "2024-11-05",
+                "type": "claimed",
+                "group": "play"
+            }
+        ]
+    },
+    {
+        "victim": "Smitty's Supply",
+        "domain": "smittysinc.net",
+        "country": "US",
+        "timeline": [
+            {
+                "date": "2024-11-05",
+                "type": "claimed",
+                "group": "play"
+            }
+        ]
+    },
+    {
+        "victim": "Delfin Design & Manufacturing",
+        "domain": "delfinfs.com",
+        "country": "US",
+        "timeline": [
+            {
+                "date": "2024-11-05",
+                "type": "claimed",
+                "group": "play"
+            }
+        ]
+    },
+    {
+        "victim": "Paragon Plastics",
+        "domain": "paragonplastics.net",
+        "country": "US",
+        "timeline": [
+            {
+                "date": "2024-11-05",
+                "type": "claimed",
+                "group": "play"
+            }
+        ]
+    },
+    {
+        "victim": "metroelectric.com",
+        "domain": "metroelectric.com",
+        "country": "US",
+        "timeline": [
+            {
+                "date": "2024-11-05",
+                "type": "claimed",
+                "group": "ransomhub"
+            }
+        ]
+    },
+    {
+        "victim": "GSR Andrade Architects (gsr-andrade.com)",
+        "domain": "gsr-andrade.com",
+        "country": "BR",
+        "timeline": [
+            {
+                "date": "2024-11-06",
+                "type": "claimed",
+                "group": "fog"
+            }
+        ]
+    },
+    {
+        "victim": "Cape Cod Regional Technical High School (capetech.us)",
+        "domain": "capetech.us",
+        "country": "US",
+        "timeline": [
+            {
+                "date": "2024-11-06",
+                "type": "claimed",
+                "group": "fog"
+            }
+        ]
+    },
+    {
+        "victim": "Lincoln University",
+        "domain": "lincoln.edu",
+        "country": "US",
+        "timeline": [
+            {
+                "date": "2024-11-06",
+                "type": "claimed",
+                "group": "meow"
+            }
+        ]
+    },
+    {
+        "victim": "arcoexc.com",
+        "domain": "arcoexc.com",
+        "country": "AE",
+        "timeline": [
+            {
+                "date": "2024-11-06",
+                "type": "claimed",
+                "group": "ransomhub"
+            }
+        ]
+    },
+    {
+        "victim": "brandenburgerplumbing.com",
+        "domain": "brandenburgerplumbing.com",
+        "country": "AU",
+        "timeline": [
+            {
+                "date": "2024-11-06",
+                "type": "claimed",
+                "group": "ransomhub"
+            }
+        ]
+    },
+    {
+        "victim": "SMARTS-ENGINEER",
+        "domain": "smarts-engineering.de",
+        "country": "RU",
+        "timeline": [
+            {
+                "date": "2024-11-06",
+                "type": "claimed",
+                "group": "helldown"
+            },
+            {
+                "date": "2024-10-28",
+                "type": "assessed",
+                "group": "helldown"
+            }
+        ]
+    },
+    {
+        "victim": "qualiform.cz",
+        "domain": "qualiform.cz",
+        "country": "CZ",
+        "timeline": [
+            {
+                "date": "2024-11-06",
+                "type": "claimed",
+                "group": "helldown"
+            },
+            {
+                "date": "2024-10-22",
+                "type": "assessed",
+                "group": "helldown"
+            }
+        ]
+    },
+    {
+        "victim": "TIVOLI-33",
+        "domain": "tivoli-33.org",
+        "country": "FR",
+        "timeline": [
+            {
+                "date": "2024-11-06",
+                "type": "claimed",
+                "group": "helldown"
+            },
+            {
+                "date": "2024-10-23",
+                "type": "assessed",
+                "group": "helldown"
+            }
+        ]
+    },
+    {
+        "victim": "lacliniqueducoureur",
+        "domain": "lacliniqueducoureur.com",
+        "country": "CA",
+        "timeline": [
+            {
+                "date": "2024-11-06",
+                "type": "claimed",
+                "group": "helldown"
+            },
+            {
+                "date": "2024-10-25",
+                "type": "assessed",
+                "group": "helldown"
+            }
+        ]
+    },
+    {
+        "victim": "compassfs",
+        "domain": "compassfs.net",
+        "country": "US",
+        "timeline": [
+            {
+                "date": "2024-11-06",
+                "type": "claimed",
+                "group": "helldown"
+            },
+            {
+                "date": "2024-10-11",
+                "type": "assessed",
+                "group": "helldown"
+            }
+        ]
+    },
+    {
+        "victim": "SANJACINTOCOUNY",
+        "domain": "co.san-jacinto.tx.us",
+        "country": "US",
+        "timeline": [
+            {
+                "date": "2024-11-06",
+                "type": "claimed",
+                "group": "helldown"
+            },
+            {
+                "date": "2024-10-11",
+                "type": "assessed",
+                "group": "helldown"
+            }
+        ]
+    },
+    {
+        "victim": "CSIKBS",
+        "domain": "csikitchenandbath.com",
+        "country": "JP",
+        "timeline": [
+            {
+                "date": "2024-11-06",
+                "type": "claimed",
+                "group": "helldown"
+            }
+        ]
+    },
+    {
+        "victim": "AMERICANVENTURE",
+        "domain": "americanventures.com",
+        "country": "US",
+        "timeline": [
+            {
+                "date": "2024-11-06",
+                "type": "claimed",
+                "group": "helldown"
+            }
+        ]
+    },
+    {
+        "victim": "knoxlawcenter",
+        "domain": "knoxlawcenter.com",
+        "country": "US",
+        "timeline": [
+            {
+                "date": "2024-11-06",
+                "type": "claimed",
+                "group": "helldown"
+            },
+            {
+                "date": "2024-10-10",
+                "type": "assessed",
+                "group": "helldown"
+            }
+        ]
+    },
+    {
+        "victim": "children",
+        "domain": "generaldentistryforchildren.com",
+        "country": "IN",
+        "timeline": [
+            {
+                "date": "2024-11-06",
+                "type": "claimed",
+                "group": "helldown"
+            },
+            {
+                "date": "2024-10-12",
+                "type": "assessed",
+                "group": "helldown"
+            }
+        ]
+    },
+    {
+        "victim": "VALLEYFIRM",
+        "domain": "valleyfirm.com",
+        "country": "HK",
+        "timeline": [
+            {
+                "date": "2024-11-06",
+                "type": "claimed",
+                "group": "helldown"
+            },
+            {
+                "date": "2024-10-11",
+                "type": "assessed",
+                "group": "helldown"
+            }
+        ]
+    },
+    {
+        "victim": "fuelco",
+        "domain": "fuelco-us.com",
+        "country": "",
+        "timeline": [
+            {
+                "date": "2024-11-06",
+                "type": "claimed",
+                "group": "helldown"
+            },
+            {
+                "date": "2024-10-01",
+                "type": "assessed",
+                "group": "helldown"
+            }
+        ]
+    },
+    {
+        "victim": "nightnurse.ch",
+        "domain": "nightnurse.ch",
+        "country": "CH",
+        "timeline": [
+            {
+                "date": "2024-11-06",
+                "type": "claimed",
+                "group": "helldown"
+            },
+            {
+                "date": "2024-09-13",
+                "type": "assessed",
+                "group": "helldown"
+            }
+        ]
+    },
+    {
+        "victim": "hausdesstiftens.org",
+        "domain": "hausdesstiftens.org",
+        "country": "DE",
+        "timeline": [
+            {
+                "date": "2024-11-06",
+                "type": "claimed",
+                "group": "helldown"
+            },
+            {
+                "date": "2024-10-08",
+                "type": "assessed",
+                "group": "helldown"
+            }
+        ]
+    },
+    {
+        "victim": "New Law",
+        "domain": "newlawoffice.com",
+        "country": "US",
+        "timeline": [
+            {
+                "date": "2024-11-07",
+                "type": "claimed",
+                "group": "hunters"
+            }
+        ]
+    },
+    {
+        "victim": "Postcard Mania",
+        "domain": "postcardmania.com",
+        "country": "US",
+        "timeline": [
+            {
+                "date": "2024-11-07",
+                "type": "claimed",
+                "group": "play"
+            }
+        ]
+    },
+    {
+        "victim": "www.msdl.ca",
+        "domain": "msdl.ca",
+        "country": "CA",
+        "timeline": [
+            {
+                "date": "2024-11-06",
+                "type": "claimed",
+                "group": "ransomhub"
+            }
+        ]
+    },
+    {
+        "victim": "ucv.es",
+        "domain": "ucv.es",
+        "country": "ES",
+        "timeline": [
+            {
+                "date": "2024-11-07",
+                "type": "claimed",
+                "group": "incransom"
+            }
+        ]
+    },
+    {
+        "victim": "Howell Electric Inc",
+        "domain": "howellelectric.com",
+        "country": "US",
+        "timeline": [
+            {
+                "date": "2024-11-06",
+                "type": "claimed",
+                "group": "medusa"
+            }
+        ]
+    },
+    {
+        "victim": "Jomar Electrical Contractors",
+        "domain": "jomarelectrical.com",
+        "country": "US",
+        "timeline": [
+            {
+                "date": "2024-11-06",
+                "type": "claimed",
+                "group": "medusa"
+            }
+        ]
+    },
+    {
+        "victim": "Alliance Technical Group",
+        "domain": "alliancetg.com",
+        "country": "US",
+        "timeline": [
+            {
+                "date": "2024-11-05",
+                "type": "claimed",
+                "group": "medusa"
+            }
+        ]
+    },
+    {
+        "victim": "Ridgewood Schools",
+        "domain": "ridgewood.k12.nj.us",
+        "country": "US",
+        "timeline": [
+            {
+                "date": "2024-11-07",
+                "type": "discovered",
+                "summary": "Le district scolaire de Ridgewood a été victime d'une cyberattaque le 5 novembre, lorsqu'un tiers non autorisé a tenté d'accéder à ses systèmes, permettant à l'attaquant de consulter des informations de répertoire, notamment des données de mots de passe cryptées. Bien que les mots de passe soient sécurisés, le district a décidé de procéder à un réinitialisation des mots de passe pour tous les élèves pour garantir la sécurité. L'enquête est en cours et aucune information d'élève n'a été compromise.",
+                "title": "Passwords Compromised In Ridgewood Schools Cyber Attack, Superintendent Says | Ridgewood Daily Voice",
+                "url": "https://dailyvoice.com/new-jersey/ridgewood/passwords-compromised-in-ridgewood-schools-cyber-attack-superintendent-says/"
+            },
+            {
+                "date": "2024-11-05",
+                "type": "reported"
+            }
+        ]
+    },
+    {
+        "victim": "Washington state courts",
+        "domain": "courts.wa.gov",
+        "country": "US",
+        "timeline": [
+            {
+                "date": "2024-11-07",
+                "type": "discovered",
+                "summary": "Les systèmes en ligne des tribunaux de l'État de Washington sont hors ligne après la détection d'une activité non autorisée sur le réseau électronique. Les responsables travaillent à restaurer les systèmes et à déterminer l'impact de l'incident, mais ont décidé de prendre des mesures de sécurité pour protéger les données sensibles. L'indisponibilité des systèmes est attendue pour au moins une semaine, affectant les audiences et les services judiciaires dans plusieurs comtés.",
+                "title": "WA courts’ online systems down after ‘unauthorized activity’ | The Seattle Times",
+                "url": "https://www.seattletimes.com/seattle-news/law-justice/wa-courts-online-systems-down-after-unauthorized-activity/"
+            },
+            {
+                "date": "2024-11-03",
+                "type": "reported"
+            }
+        ]
+    },
+    {
+        "victim": "Lojas Marisa",
+        "domain": "lojasmarisa.com.br",
+        "country": "BR",
+        "timeline": [
+            {
+                "date": "2024-11-06",
+                "type": "discovered",
+                "summary": "La chaîne de magasins brésilienne Lojas Marisa a été victime d'une cyberattaque de type ransomware, qui a entraîné une indisponibilité temporaire de certains de ses systèmes. La société a pris des mesures de sécurité appropriées pour minimiser les impacts et a suspendu temporairement certaines de ses activités pour protéger ses informations. L'entreprise évalue actuellement l'ampleur de l'incident et affirme que la menace a été maîtrisée sans avoir eu d'impact significatif sur ses opérations.",
+                "title": "Lojas Marisa sofre ataque cibernético e avalia extensão do incidente Por Reuters",
+                "url": "https://br.investing.com/news/stock-market-news/lojas-marisa-sofre-ataque-cibernetico-e-avalia-extensao-do-incidente-1385581"
+            },
+            {
+                "date": "2024-11-05",
+                "type": "reported"
+            }
+        ]
+    },
+    {
+        "victim": "Avis de Torino",
+        "domain": "avistorino.it",
+        "country": "IT",
+        "timeline": [
+            {
+                "date": "2024-11-05",
+                "type": "discovered",
+                "summary": "Suite à une cyberattaque, le site web de l'Avis de Torino est actuellement indisponible, empêchant l'accès aux listes de préinscription pour la donation de sang. Les personnes déjà inscrites pour la donation du 17 novembre doivent contacter le 335.7827304 pour communiquer leur heure de rendez-vous. L'Avis de San Francesco al Campo appelle à une réponse urgente pour rétablir la liste et organiser la donation de manière efficace.",
+                "title": "SAN FRANCESCO AL CAMPO - Avis: appello urgente ai prenotati per la donazione del 17 novembre",
+                "url": "https://www.obiettivonews.it/2024/11/05/san-francesco-al-campo-avis-appello-urgente-ai-prenotati-per-la-donazione-del-17-novembre/"
+            },
+            {
+                "date": "2024-11-04",
+                "type": "reported"
+            }
+        ]
+    },
+    {
+        "victim": "Construction Industry Council (CIC)",
+        "domain": "cic.org.uk",
+        "country": "GB",
+        "timeline": [
+            {
+                "date": "2024-11-05",
+                "type": "discovered",
+                "summary": "Le Conseil de l'industrie de la construction (CIC) a été victime d'une cyberattaque le 8 octobre, qui a pu entraîner le vol de données personnelles de son personnel, notamment des adresses e-mail et des noms. L'organisation a découvert l'incident le 23 octobre et a sécurisé ses serveurs le 1er novembre. Le CIC a mis en garde les personnes concernées contre les tentatives de phishing et a lancé une enquête pour améliorer la sécurité de ses systèmes.",
+                "title": "CIC hit by cyber attack | Construction News",
+                "url": "https://www.constructionnews.co.uk/tech/cic-hit-by-cyber-attack-05-11-2024/"
+            },
+            {
+                "date": "2024-10-08",
+                "type": "reported"
+            }
+        ]
+    },
+    {
+        "victim": "Cheng Shin Rubber Canada, Inc.",
+        "domain": "csttires.com",
+        "country": "CA",
+        "timeline": [
+            {
+                "date": "2024-11-05",
+                "type": "discovered",
+                "summary": "Le 21 octobre 2024, la filiale Cheng Shin Rubber Canada, Inc. a été victime d'une cyberattaque, entraînant une atteinte à certains de ses systèmes d'information. Les mécanismes de défense et de récupération ont été activés et des experts en sécurité informatique ont été sollicités pour contenir l'incident. L'entreprise estime que l'impact sur ses opérations sera minime et prendra des mesures pour améliorer la sécurité de son infrastructure.",
+                "title": "Today's Information",
+                "url": "https://emops.twse.com.tw/server-java/t05sr01_1_e?step=&caption_id=000001&pagenum=1&co_id=2105&spoke_date=20241021&spoke_time=160420&seq_no=1&isNew=Y"
+            },
+            {
+                "date": "2024-10-21",
                 "type": "reported"
             }
         ]
