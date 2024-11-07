@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-09-30",
+        "victim": "Universidad Católica de Valencia",
+        "domain": "ucv.es",
+        "country": "ESP",
+        "summary": "L'Université Catholique de Valence a subi une attaque informatique par ransomware, qui a crypté des informations personnelles, économiques, académiques et de santé stockées sur ses serveurs. L'université a renforcé sa sécurité et travaille avec des experts en cybersécurité et les autorités compétentes pour résoudre la situation et protéger les données de ses utilisateurs. Les détails de l'incident sont encore en cours d'enquête, mais l'université a précisé que l'activité docente n'a pas été affectée.",
+        "title": "La Universidad Católica de Valencia sufre un ataque informático: los datos personales han sido encriptados",
+        "url": "https://www.20minutos.es/noticia/5639010/0/universidad-catolica-valencia-sufre-un-ataque-informatico-todos-los-datos-personales-han-sido-encriptados/",
+        "added": "2024-11-07"
+    },
+    {
         "date": "2024-11-05",
         "victim": "Ridgewood Schools",
         "domain": "ridgewood.k12.nj.us",
