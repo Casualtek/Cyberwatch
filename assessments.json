@@ -1,5 +1,12 @@
 [
     {
+        "victim": "M.Karrari",
+        "domain": "mkarrari.com.br",
+        "country": "BR",
+        "date": "2024-10-21",
+        "group": "ransomhub"
+    },
+    {
         "victim": "Rumpke Consolidated Companies",
         "domain": "rumpke.com",
         "country": "US",
