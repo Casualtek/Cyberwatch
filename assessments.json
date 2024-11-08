@@ -1,5 +1,12 @@
 [
     {
+        "victim": "passivecomponent.com",
+        "domain": "passivecomponent.com",
+        "country": "US",
+        "date": "2024-09-13",
+        "group": "ransomhub"
+    },
+    {
         "victim": "Guhring USA",
         "domain": "guhring.com",
         "country": "US",
