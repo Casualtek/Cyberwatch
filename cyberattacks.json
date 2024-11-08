@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-10-29",
+        "victim": "Newpark Resources",
+        "domain": "newpark.com",
+        "country": "USA",
+        "summary": "La société Newpark Resources, fournisseur d'équipements pour les champs pétrolifères, a été victime d'une attaque par rançongiciel qui a perturbé ses systèmes d'information et ses applications métier. L'incident a eu un impact sur les opérations de l'entreprise, mais les activités de fabrication et de terrain ont pu continuer en utilisant des procédures de temps d'arrêt établies. Aucun groupe de hackers n'a revendiqué l'attaque et l'entreprise n'a pas encore évalué les coûts et les impacts financiers de l'incident.",
+        "title": "Texas-based oilfield supplier faces disruptions following ransomware attack",
+        "url": "https://therecord.media/oilfield-supplier-faces-disruptions-cyberattack",
+        "added": "2024-11-08"
+    },
+    {
         "date": "2024-11-03",
         "victim": "La Sauvegarde",
         "domain": "sauvegarde47.fr",
