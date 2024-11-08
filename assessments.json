@@ -1,5 +1,12 @@
 [
     {
+        "victim": "ucv.es",
+        "domain": "ucv.es",
+        "country": "ES",
+        "date": "2024-09-28",
+        "group": "incransom"
+    },
+    {
         "victim": "vbuzrt.hu",
         "domain": "vbuzrt.hu",
         "country": "HU",
