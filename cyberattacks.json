@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-11-03",
+        "victim": "La Sauvegarde",
+        "domain": "sauvegarde47.fr",
+        "country": "FRA",
+        "summary": "L'association la Sauvegarde, organisme de formation et de réinsertion, a été victime d'une cyberattaque violente qui a rendu inaccessible son réseau informatique et ses données. Les pirates ont demandé une rançon, mais l'association n'a pas pris contact avec eux pour éviter de leur donner accès à son système. Les salariés travaillent jour et nuit pour répondre aux attentes malgré les difficultés, et les techniciens tentent de résoudre le problème pour un retour à la normale dans les meilleurs délais.",
+        "title": "\"Les pirates ont demandé une rançon\" : l’association lot-et-garonnaise la Sauvegarde victime d’une cyberattaque - ladepeche.fr",
+        "url": "https://www.ladepeche.fr/2024/11/07/les-pirates-ont-demande-une-rancon-lassociation-lot-et-garonnaise-la-sauvegarde-victime-dune-cyberattaque-12310164.php",
+        "added": "2024-11-08"
+    },
+    {
         "date": "2024-09-30",
         "victim": "Universidad Católica de Valencia",
         "domain": "ucv.es",
