@@ -1,5 +1,12 @@
 [
     {
+        "victim": "Legilog",
+        "domain": "legilog.fr",
+        "country": "FR",
+        "date": "2024-10-08",
+        "group": "apt73"
+    },
+    {
         "victim": "passivecomponent.com",
         "domain": "passivecomponent.com",
         "country": "US",
