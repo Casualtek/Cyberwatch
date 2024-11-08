@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-11-07",
+        "victim": "Département des Hautes-Pyrénées",
+        "domain": "ha-py.fr",
+        "country": "FRA",
+        "summary": "Le Département des Hautes-Pyrénées a été victime d'une cyberattaque qui a paralysé sa messagerie depuis jeudi matin, obligeant les usagers à utiliser d'autres canaux de communication. Selon le directeur général des services, l'incident a été isolé à la seule messagerie et tout est sous contrôle, sans demande de rançon ni sujet sensible. Les travaux de rétablissement de la messagerie sont en cours et devraient être achevés début de la semaine prochaine.",
+        "title": "Une cyberattaque paralyse la messagerie du Département des Hautes-Pyrénées depuis jeudi matin - ladepeche.fr",
+        "url": "https://www.ladepeche.fr/2024/11/08/une-cyberattaque-sur-la-messagerie-du-departement-des-hautes-pyrenees-12311658.php",
+        "added": "2024-11-08"
+    },
+    {
         "date": "2024-10-29",
         "victim": "Newpark Resources",
         "domain": "newpark.com",
