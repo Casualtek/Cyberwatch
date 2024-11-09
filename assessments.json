@@ -1,5 +1,12 @@
 [
     {
+        "victim": "Catholic Charities",
+        "domain": "catholiccharitiesbc.org",
+        "country": "US",
+        "date": "2024-06-20",
+        "group": "incransom"
+    },
+    {
         "victim": "Boombah Inc.",
         "domain": "boombah.com",
         "country": "DO",
