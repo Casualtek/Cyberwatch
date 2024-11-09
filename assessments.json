@@ -1,5 +1,12 @@
 [
     {
+        "victim": "Boombah Inc.",
+        "domain": "boombah.com",
+        "country": "DO",
+        "date": "2024-06-29",
+        "group": "incransom"
+    },
+    {
         "victim": "Quantum Health",
         "domain": "quantumhealth.com",
         "country": "US",
