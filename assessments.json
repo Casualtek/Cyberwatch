@@ -1,5 +1,12 @@
 [
     {
+        "victim": "LARC",
+        "domain": "larcinc.org",
+        "country": "US",
+        "date": "2024-07-24",
+        "group": "incransom"
+    },
+    {
         "victim": "HP Distribution",
         "domain": "hpdist.com",
         "country": "US",
