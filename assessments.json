@@ -1,5 +1,12 @@
 [
     {
+        "victim": "usm.cl",
+        "domain": "usm.cl",
+        "country": "CL",
+        "date": "2024-10-21",
+        "group": "ransomhub"
+    },
+    {
         "victim": "tigre.gob.ar",
         "domain": "tigre.gob.ar",
         "country": "AR",
