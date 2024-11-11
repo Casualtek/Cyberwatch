@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-11-09",
+        "victim": "Sheboygan",
+        "domain": "sheboygawi.gov",
+        "country": "USA",
+        "summary": "La ville de Sheboygan aux États-Unis a été victime d'une cyberattaque, avec une demande de rançon, après que des accès non autorisés ont été détectés sur son réseau. L'enquête est en cours et la ville a sécurisé son réseau, mais il n'y a pas encore de preuve que des informations personnelles sensibles aient été compromises. La ville a signalé l'incident aux autorités et travaille avec des experts pour comprendre l'ampleur de l'attaque.",
+        "title": "City of Sheboygan dealing with cyberattack, ransom demanded",
+        "url": "https://www.wisn.com/article/city-of-sheboygan-dealing-with-cyberattack-ransom-demanded/62863731",
+        "added": "2024-11-11"
+    },
+    {
         "date": "2024-11-07",
         "victim": "Département des Hautes-Pyrénées",
         "domain": "ha-py.fr",
