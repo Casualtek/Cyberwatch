@@ -1,5 +1,12 @@
 [
     {
+        "victim": "tigre.gob.ar",
+        "domain": "tigre.gob.ar",
+        "country": "AR",
+        "date": "2024-10-04",
+        "group": "ransomhub"
+    },
+    {
         "victim": "San Francisco Sheriff's Department",
         "domain": "sfsheriff.com",
         "country": "US",
