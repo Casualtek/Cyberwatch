@@ -1,5 +1,12 @@
 [
     {
+        "victim": "Health Quality Council",
+        "domain": "hqca.ca",
+        "country": "CA",
+        "date": "2024-08-07",
+        "group": "incransom"
+    },
+    {
         "victim": "The University and College Union",
         "domain": "ucu.org.uk",
         "country": "GB",
