@@ -1,5 +1,12 @@
 [
     {
+        "victim": "NYPS",
+        "domain": "nynewspapers.com",
+        "country": "US",
+        "date": "2024-11-01",
+        "group": "ransomhub"
+    },
+    {
         "victim": "Cambria Automobiles",
         "domain": "cambriaautomobiles.co.uk",
         "country": "GB",
