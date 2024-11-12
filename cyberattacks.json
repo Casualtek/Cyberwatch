@@ -1,6 +1,16 @@
 [
     {
         "date": "2024-11-09",
+        "victim": "Southern Oregon Veterinary Specialty Center (SOVSC)",
+        "domain": "sovsc.com",
+        "country": "USA",
+        "summary": "Le Southern Oregon Veterinary Specialty Center a été victime d'une cyberattaque qui a entraîné la fermeture temporaire de son service d'urgence et des temps d'attente prolongés pour les patients. Les hackers ont verrouillé les fichiers des patients et ont demandé une rançon pour les déverrouiller, mais le centre a pu récupérer ses données grâce à un système de stockage de fichiers externe protégé. Le centre prévoit passer la semaine à récupérer pleinement de l'attaque et à rétablir l'accès à ses ordinateurs.",
+        "title": "Cyber attack halts some local animal hospital operations | Top Stories | kdrv.com",
+        "url": "https://www.kdrv.com/news/top-stories/cyber-attack-halts-some-local-animal-hospital-operations/article_dc86938e-a0a2-11ef-ba9c-83336a646acb.html",
+        "added": "2024-11-12"
+    },
+    {
+        "date": "2024-11-09",
         "victim": "Berufsförderungswerk Oberhausen",
         "domain": "bfw-oberhausen.de",
         "country": "DEU",
