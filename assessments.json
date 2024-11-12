@@ -1,5 +1,12 @@
 [
     {
+        "victim": "Jarrell Properties, Inc.",
+        "domain": "jarrellimc.com",
+        "country": "US",
+        "date": "2024-09-14",
+        "group": "blacksuit"
+    },
+    {
         "victim": "Future Metals",
         "domain": "futuremetals.com",
         "country": "US",
@@ -19,13 +26,6 @@
         "country": "GB",
         "date": "2024-10-11",
         "group": "lynx"
-    },
-    {
-        "victim": "Jarrell Properties, Inc.",
-        "domain": "jarrellimc.com",
-        "country": "US",
-        "date": "2024-09-14",
-        "group": "blacksuit"
     },
     {
         "victim": "Otto Simon",
