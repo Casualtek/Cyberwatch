@@ -1,5 +1,12 @@
 [
     {
+        "victim": "medigroup.ca",
+        "domain": "medigroup.ca",
+        "country": "CA",
+        "date": "2024-10-27",
+        "group": "ransomhub"
+    },
+    {
         "victim": "Clay Platte Family Medicine",
         "domain": "clayplattefamily.com",
         "country": "US",
