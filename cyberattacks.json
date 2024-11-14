@@ -1,6 +1,16 @@
 [
     {
         "date": "2024-11-13",
+        "victim": "Département de la Réunion",
+        "domain": "departement974.fr",
+        "country": "REU",
+        "summary": "Le département de la Réunion a été victime d'une cyberattaque le 13 novembre, mais grâce à l'intervention rapide des équipes informatiques, la fuite de données a été limitée. Les réseaux informatiques ont été temporairement interrompus pour éviter tout risque de propagation, et une cellule de crise a été mobilisée pour évaluer les conséquences et rétablir les réseaux. Le Département est pleinement mobilisé pour assurer la continuité de ses services et limiter les perturbations liées à cet incident.",
+        "title": "Le Département victime d’une cyberattaque mercredi : \"fuite de données limitée\" - LINFO.re",
+        "url": "https://www.linfo.re/la-reunion/faits-divers/le-departement-victime-d-une-cyberattaque-mercredi-fuite-de-donnees-limitee",
+        "added": "2024-11-14"
+    },
+    {
+        "date": "2024-11-13",
         "victim": "Aschaffenburg",
         "domain": "aschaffenburg.de",
         "country": "DEU",
