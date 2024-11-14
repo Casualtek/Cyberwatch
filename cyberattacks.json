@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-10-14",
+        "victim": "Yorozu Corporation",
+        "domain": "yorozu-corp.co.jp",
+        "country": "JPN",
+        "summary": "La société japonaise Yorozu Corporation a été victime d'une cyberattaque par ransomware en octobre 2024, qui a perturbé ses opérations et retardé la soumission de son rapport financier semestriel. L'entreprise a demandé et obtenu une extension de deux mois pour soumettre son rapport, qui sera maintenant déposé le 17 janvier 2025. La société enquête sur la possibilité d'une fuite de données confidentielles et travaille à renforcer ses défenses contre les menaces futures.",
+        "title": "Yorozu Corporation Cyberattack Delays Financial Report Submission",
+        "url": "https://thecyberexpress.com/yorozu-corporation-cyberattack/",
+        "added": "2024-11-14"
+    },
+    {
         "date": "2024-11-13",
         "victim": "Cégep de Sorel-Tracy",
         "domain": "cegepst.qc.ca",
