@@ -1,6 +1,16 @@
 [
     {
         "date": "2024-11-13",
+        "victim": "Cégep de Sorel-Tracy",
+        "domain": "cegepst.qc.ca",
+        "country": "CAN",
+        "summary": "Le Cégep de Sorel-Tracy, ainsi que son campus de Varennes, ont été visés par une cyberattaque. En réponse, le Service des technologies de l’information, en collaboration avec une firme experte, a pris des mesures immédiates et mène une investigation approfondie. Les systèmes informatiques de l’établissement sont arrêtés temporairement à titre préventif, mais le site web reste accessible.",
+        "title": "Le Cégep de Sorel-Tracy confirme avoir été la cible d’une cyberattaque",
+        "url": "https://www.cjso.ca/le-cegep-de-sorel-tracy-confirme-avoir-ete-la-cible-dune-cyberattaque/",
+        "added": "2024-11-14"
+    },
+    {
+        "date": "2024-11-13",
         "victim": "Alberta Innovates",
         "domain": "albertainnovates.ca",
         "country": "CAN",
