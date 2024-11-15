@@ -1,5 +1,12 @@
 [
     {
+        "victim": "Banco Sucredito Regional S.A.U.",
+        "domain": "bancosucredito.com.ar",
+        "country": "AR",
+        "date": "2024-10-25",
+        "group": "hunters"
+    },
+    {
         "victim": "Yazoo Valley Electric",
         "domain": "yazoovalley.com",
         "country": "US",
