@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-11-03",
+        "victim": "Micon Office National",
+        "domain": "miconnational.com.au",
+        "country": "AUS",
+        "summary": "La société australienne Micon Office National, fournisseur de meubles de bureau, a confirmé avoir été victime d'une attaque de ransomware par le groupe Sarcoma, qui a exfiltré 34 Go de données et menace de les publier si une rançon n'est pas payée. L'entreprise a informé ses employés et les autorités, mais affirme que les données des clients n'ont pas été compromises. Le groupe Sarcoma est considéré comme l'un des 10 opérateurs de ransomware les plus actifs du mois, ayant ciblé près de 40 organisations dans le monde.",
+        "title": "Exclusive: Wollongong-based Micon Office National confirms ransomware attack - Cyber Daily",
+        "url": "https://www.cyberdaily.au/security/11360-exclusive-wollongong-based-micon-office-national-confirms-ransomware-attack",
+        "added": "2024-11-15"
+    },
+    {
         "date": "2024-10-18",
         "victim": "L'Agence d'acquisition de la défense hongroise",
         "domain": "vbuzrt.hu",
