@@ -1,5 +1,12 @@
 [
     {
+        "victim": "AACANet",
+        "domain": "aacanet.org",
+        "country": "US",
+        "date": "2024-09-11",
+        "group": "akira"
+    },
+    {
         "victim": "Blain Supply, Inc.",
         "domain": "farmandfleet.com",
         "country": "US",
