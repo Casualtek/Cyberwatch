@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-04-05",
+        "victim": "Herron Todd White (HTW)",
+        "domain": "htw.com.au",
+        "country": "AUS",
+        "summary": "La société de valorisation australienne Herron Todd White (HTW) a signalé une violation de données qui a touché ses plateformes d'évaluation des propriétés commerciales et agricoles. Les banques australiennes, notamment Westpac, National Australia Bank et Commonwealth Bank, ont suspendu leurs travaux de valorisation avec HTW en raison de la violation. Le groupe de ransomware BlackSuit a revendiqué la responsabilité de l'attaque, affirmant avoir volé des données clientes et des informations de transaction.",
+        "title": "Valuation firm Herron Todd White reports data breach",
+        "url": "https://beyondmachines.net/event_details/valuation-firm-herron-todd-white-reports-data-breach-f-h-9-0-e",
+        "added": "2024-11-16"
+    },
+    {
         "date": "2024-11-03",
         "victim": "Micon Office National",
         "domain": "miconnational.com.au",
