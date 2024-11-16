@@ -1,5 +1,12 @@
 [
     {
+        "victim": "FDC Group"
+        "domain": "fdc.ie",
+        "country": "IE",
+        "date": "2024-10-06",
+        "group": "ransomhub"
+    },
+    {
         "victim": "El Dorado Stores and Supermarkets"
         "domain": "eldorado.com.uy",
         "country": "UY",
