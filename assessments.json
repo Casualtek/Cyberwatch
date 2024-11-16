@@ -1,5 +1,12 @@
 [
     {
+        "victim": "surgicalassociates.com",
+        "domain": "surgicalassociates.com",
+        "country": "US",
+        "date": "2024-10-09",
+        "group": "blacksuit"
+    },
+    {
         "victim": "Pharmatis SAS",
         "domain": "pharmatis.fr",
         "country": "FR",
@@ -25,13 +32,6 @@
         "domain": "billyheromans.com",
         "country": "US",
         "date": "2024-10-20",
-        "group": "blacksuit"
-    },
-    {
-        "victim": "surgicalassociates.com",
-        "domain": "surgicalassociates.com",
-        "country": "US",
-        "date": "2024-10-09",
         "group": "blacksuit"
     },
     {
