@@ -1,76 +1,76 @@
 [
     {
-        "victim": "Pharmatis SAS"
+        "victim": "Pharmatis SAS",
         "domain": "pharmatis.fr",
         "country": "FR",
         "date": "2024-11-09",
         "group": "incransom"
     },
     {
-        "victim": "kapurinc.com"
+        "victim": "kapurinc.com",
         "domain": "kapurinc.com",
         "country": "US",
         "date": "2024-11-15",
         "group": "blacksuit"
     },
     {
-        "victim": "brandywinecoachworks.com"
+        "victim": "brandywinecoachworks.com",
         "domain": "brandywinecoachworks.com",
         "country": "US",
         "date": "2024-10-02",
         "group": "blacksuit"
     },
     {
-        "victim": "billyheromans.com"
+        "victim": "billyheromans.com",
         "domain": "billyheromans.com",
         "country": "US",
         "date": "2024-10-20",
         "group": "blacksuit"
     },
     {
-        "victim": "surgicalassociates.com"
+        "victim": "surgicalassociates.com",
         "domain": "surgicalassociates.com",
         "country": "US",
         "date": "2024-10-09",
         "group": "blacksuit"
     },
     {
-        "victim": "FDC Group"
+        "victim": "FDC Group",
         "domain": "fdc.ie",
         "country": "IE",
         "date": "2024-10-06",
         "group": "ransomhub"
     },
     {
-        "victim": "El Dorado Stores and Supermarkets"
+        "victim": "El Dorado Stores and Supermarkets",
         "domain": "eldorado.com.uy",
         "country": "UY",
         "date": "2024-07-25",
         "group": "akira"
     },
     {
-        "victim": "Allegheny Millwork"
+        "victim": "Allegheny Millwork",
         "domain": "alleghenymillwork.com",
         "country": "US",
         "date": "2024-08-29",
         "group": "akira"
     },
     {
-        "victim": "Irr Supply Centers"
+        "victim": "Irr Supply Centers",
         "domain": "irrsupply.com",
         "country": "US",
         "date": "2024-08-20",
         "group": "akira"
     },
     {
-        "victim": "Duplo USA"
+        "victim": "Duplo USA",
         "domain": "duplousa.com",
         "country": "US",
         "date": "2024-06-13",
         "group": "akira"
     },
     {
-        "victim": "Ocean BeautySeafoods"
+        "victim": "Ocean BeautySeafoods",
         "domain": "oceanbeauty.com",
         "country": "US",
         "date": "2024-08-15",
