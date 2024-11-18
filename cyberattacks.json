@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-04-29",
+        "victim": "Equinox",
+        "domain": "equinoxinc.org",
+        "country": "USA",
+        "summary": "L'organisation de services humains Equinox, basée dans la région de la capitale de l'État de New York, a notifié ses clients et employés d'une violation de la sécurité des données survenue le 29 avril, qui a permis à des acteurs malveillants d'accéder à des informations sensibles. L'attaque, attribuée au groupe LockBit3.0, a entraîné la fuite de 31,8 Go de fichiers contenant des données personnelles et de santé protégées. Les informations compromises incluent des noms, adresses, numéros de sécurité sociale, informations de compte bancaire et informations de santé.",
+        "title": "NY: Equinox notifies clients and employees of April data security incident - DataBreaches.Net",
+        "url": "https://databreaches.net/2024/11/18/ny-equinox-notifies-clients-and-employees-of-april-data-security-incident/",
+        "added": "2024-11-18"
+    },
+    {
         "date": "2024-10-27",
         "victim": "Hartwick College",
         "domain": "hartwick.edu",
