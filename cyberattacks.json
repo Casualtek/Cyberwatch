@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-10-16",
+        "victim": "Bartow Schools",
+        "domain": "bartow.k12.ga.us",
+        "country": "USA",
+        "summary": "Le district scolaire de Bartow a subi une panne d'internet à l'échelle du district, sans date de rétablissement prévue, et il est en train d'enquêter sur la cause de l'incident. Il est possible que le district ait été victime d'une attaque de ransomware, une forme d'attaque informatique qui crypte les données et exige une rançon pour les restaurer. Les écoles et les organismes gouvernementaux sont souvent ciblés par ces attaques en raison des informations sensibles qu'ils détiennent sur les élèves et les citoyens.",
+        "title": "Bartow Schools left without internet after districtwide outage",
+        "url": "https://www.ajc.com/education/get-schooled/bartow-schools-left-without-internet-after-districtwide-outage/ID2A6OY2ZNDNPCQM5NAPFSLMM4/",
+        "added": "2024-11-18"
+    },
+    {
         "date": "2024-04-05",
         "victim": "Herron Todd White (HTW)",
         "domain": "htw.com.au",
