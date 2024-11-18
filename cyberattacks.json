@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-09-29",
+        "victim": "Edwardsburg Public Schools",
+        "domain": "edwardsburgschoolsfoundation.org",
+        "country": "USA",
+        "summary": "Le système d'Edwardsburg Public Schools a subi une panne de réseau, ce qui a entraîné la fermeture de l'école le lundi. L'incident a été causé par une cyberattaque, mais les détails sur l'attaque et ses auteurs présumés ne sont pas encore disponibles. Les conséquences de la panne sur les activités scolaires et les données des élèves ne sont pas encore claires.",
+        "title": "Edwardsburg Public Schools closed Monday due to network outage",
+        "url": "https://www.wndu.com/video/2024/09/30/edwardsburg-public-schools-closed-monday-due-network-outage/",
+        "added": "2024-11-18"
+    },
+    {
         "date": "2024-10-16",
         "victim": "Bartow Schools",
         "domain": "bartow.k12.ga.us",
