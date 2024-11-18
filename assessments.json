@@ -1,5 +1,12 @@
 [
     {
+        "victim": "culligan.fr",
+        "domain": "culligan.fr",
+        "country": "FR",
+        "date": "2024-04-26",
+        "group": "termite"
+    },
+    {
         "victim": "marysville.k12.oh.us",
         "domain": "marysville.k12.oh.us",
         "country": "US",
