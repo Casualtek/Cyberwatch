@@ -1,5 +1,12 @@
 [
     {
+        "victim": "Cenérgica",
+        "domain": "cenergica.com",
+        "country": "SV",
+        "date": "2024-10-08",
+        "group": "ransomhub"
+    },
+    {
         "victim": "Grupo Trisan",
         "domain": "trisan.com",
         "country": "CR",
