@@ -1,8 +1,15 @@
 [
     {
+        "victim": "Hager Group",
+        "domain": "hager-ag.de",
+        "country": "CH",
+        "date": "2024-06-22",
+        "group": "akira"
+    },
+    {
         "victim": "Hutter Acustix",
         "domain": "hutter.co.at",
-        "country": "US",
+        "country": "AT",
         "date": "2024-06-08",
         "group": "akira"
     },
