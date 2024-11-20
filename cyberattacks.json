@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-06-17",
+        "victim": "Espace des sciences",
+        "domain": "espace-sciences.org",
+        "country": "FRA",
+        "summary": "L'Espace des sciences de Rennes et de Morlaix a été victime d'une cyberattaque menée par le groupe Monti, qui a rendu inaccessibles des données nécessaires à la gestion de l'organisme. Les attaquants ont réclamé une rançon de un million d'euros en bitcoin, mais l'Espace des sciences a refusé de payer et a réussi à récupérer sa comptabilité avec l'aide de Breizh Cyber, un \"Samu numérique\" breton. La reconstruction du réseau informatique a coûté entre 25 000 et 30 000 euros et a eu un impact psychologique important sur les salariés.",
+        "title": "\" On était tous sous le choc \" : comment l’Espace des sciences de Rennes et de Morlaix s’est sorti d’une grosse cyberattaque | Le Télégramme",
+        "url": "https://www.letelegramme.fr/bretagne/on-etait-tous-sous-le-choc-comment-lespace-des-sciences-de-rennes-et-de-morlaix-sest-sorti-dune-grosse-cyberattaque-6706600.php",
+        "added": "2024-11-20"
+    },
+    {
         "date": "2024-10-28",
         "victim": "Interboro School District",
         "domain": "interborosd.org",
