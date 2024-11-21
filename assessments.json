@@ -1,5 +1,12 @@
 [
     {
+        "victim": "Gilazo",
+        "domain": "gilazo.com",
+        "country": "BE",
+        "date": "2024-09-25",
+        "group": "safepay"
+    },
+    {
         "victim": "omint.com.ar",
         "domain": "omint.com.ar",
         "country": "AR",
