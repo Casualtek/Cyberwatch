@@ -1,5 +1,12 @@
 [
     {
+        "victim": "safex.us",
+        "domain": "safex.us",
+        "country": "US",
+        "date": "2024-10-23",
+        "group": "safepay"
+    },
+    {
         "victim": "ib-spieth.de",
         "domain": "ib-spieth.de",
         "country": "DE",
