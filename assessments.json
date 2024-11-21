@@ -1,5 +1,12 @@
 [
     {
+        "victim": "ib-spieth.de",
+        "domain": "ib-spieth.de",
+        "country": "DE",
+        "date": "2024-10-21",
+        "group": "safepay"
+    },
+    {
         "victim": "businesstraining.be",
         "domain": "businesstraining.be",
         "country": "BE",
