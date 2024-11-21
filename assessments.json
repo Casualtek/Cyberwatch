@@ -1,5 +1,12 @@
 [
     {
+        "victim": "Richmond Hill Primary Academy",
+        "domain": "richmond.doncaster.sch.uk",
+        "country": "GB",
+        "date": "2024-09-20",
+        "group": "safepay"
+    },
+    {
         "victim": "Gilazo",
         "domain": "gilazo.com",
         "country": "BE",
