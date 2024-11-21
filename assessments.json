@@ -1,5 +1,12 @@
 [
     {
+        "victim": "euromedix.com",
+        "domain": "euromedix.com",
+        "country": "BE",
+        "date": "2024-10-14",
+        "group": "safepay"
+    },
+    {
         "victim": "kingswoodpark.ca",
         "domain": "kingswoodpark.ca",
         "country": "CA",
