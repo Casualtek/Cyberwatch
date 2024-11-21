@@ -1,5 +1,12 @@
 [
     {
+        "victim": "pronatec.com",
+        "domain": "pronatec.com",
+        "country": "CH",
+        "date": "2024-10-06",
+        "group": "safepay"
+    },
+    {
         "victim": "Albatross Srl",
         "domain": "albatrosssrl.com",
         "country": "IT",
