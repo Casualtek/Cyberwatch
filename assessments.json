@@ -1,5 +1,12 @@
 [
     {
+        "victim": "Active Cosmetic",
+        "domain": "activecosmetic.com.ar",
+        "country": "AR",
+        "date": "2024-09-17",
+        "group": "safepay"
+    },
+    {
         "victim": "Richmond Hill Primary Academy",
         "domain": "richmond.doncaster.sch.uk",
         "country": "GB",
