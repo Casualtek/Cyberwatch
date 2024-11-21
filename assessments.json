@@ -1,5 +1,12 @@
 [
     {
+        "victim": "businesstraining.be",
+        "domain": "businesstraining.be",
+        "country": "BE",
+        "date": "2024-10-18",
+        "group": "safepay"
+    },
+    {
         "victim": "incocommercial.com",
         "domain": "incocommercial.com",
         "country": "US",
