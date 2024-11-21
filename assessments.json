@@ -1,5 +1,12 @@
 [
     {
+        "victim": "snowbrand.com.au",
+        "domain": "snowbrand.com.au",
+        "country": "AU",
+        "date": "2024-09-26",
+        "group": "safepay"
+    },
+    {
         "victim": "pronatec.com",
         "domain": "pronatec.com",
         "country": "CH",
