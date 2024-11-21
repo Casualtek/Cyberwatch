@@ -1,5 +1,12 @@
 [
     {
+        "victim": "nkce.jp",
+        "domain": "nkce.jp",
+        "country": "JP",
+        "date": "2024-09-26",
+        "group": "safepay"
+    },
+    {
         "victim": "snowbrand.com.au",
         "domain": "snowbrand.com.au",
         "country": "AU",
