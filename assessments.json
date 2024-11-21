@@ -1,5 +1,12 @@
 [
     {
+        "victim": "stats.gov.bb",
+        "domain": "stats.gov.bb",
+        "country": "BB",
+        "date": "2024-10-29",
+        "group": "safepay"
+    },
+    {
         "victim": "mcauslan.com",
         "domain": "mcauslan.com",
         "country": "CA",
