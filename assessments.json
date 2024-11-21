@@ -1,5 +1,12 @@
 [
     {
+        "victim": "mcauslan.com",
+        "domain": "mcauslan.com",
+        "country": "CA",
+        "date": "2024-10-27",
+        "group": "safepay"
+    },
+    {
         "victim": "millerservicecompany.com",
         "domain": "millerservicecompany.com",
         "country": "US",
