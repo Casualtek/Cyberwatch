@@ -1,5 +1,12 @@
 [
     {
+        "victim": "omint.com.ar",
+        "domain": "omint.com.ar",
+        "country": "AR",
+        "date": "2024-09-27",
+        "group": "safepay"
+    },
+    {
         "victim": "nkce.jp",
         "domain": "nkce.jp",
         "country": "JP",
