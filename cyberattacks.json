@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-11-18",
+        "victim": "Arrondissement de Montréal-Nord",
+        "domain": "montreal.ca",
+        "country": "CAN",
+        "summary": "Une cyberattaque a paralysé les services informatiques de l'arrondissement de Montréal-Nord depuis lundi, privant les employés de leurs données et des services en ligne. La panne pourrait durer plusieurs semaines et a entraîné la fermeture de certains services, notamment le bureau Accès Montréal et les bureaux des permis. Une enquête est en cours pour déterminer la source de la cyberattaque et si des informations confidentielles ont été compromises.",
+        "title": "Une panne informatique paralyse Montréal-Nord | La Presse",
+        "url": "https://www.lapresse.ca/actualites/grand-montreal/2024-11-21/une-panne-informatique-paralyse-montreal-nord.php",
+        "added": "2024-11-22"
+    },
+    {
         "date": "2024-11-17",
         "victim": "SOFITEX",
         "domain": "sofitex.bf",
