@@ -1,5 +1,12 @@
 [
     {
+        "victim": "DAM Capital",
+        "domain": "damcapital.in",
+        "country": "IN",
+        "date": "2024-11-16",
+        "group": "ransomhub"
+    },
+    {
         "victim": "threadfxinc.com",
         "domain": "threadfxinc.com",
         "country": "US",
