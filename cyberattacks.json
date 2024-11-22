@@ -1,6 +1,16 @@
 [
     {
         "date": "2024-11-17",
+        "victim": "SOFITEX",
+        "domain": "sofitex.bf",
+        "country": "BFA",
+        "summary": "La SOFITEX, une entreprise du Burkina Faso, a été victime d'une cyberattaque dans la nuit du 16 au 17 novembre 2024, entraînant l'arrêt total de son système informatique. Les techniciens travaillent à comprendre l'origine de l'attaque et à restaurer l'infrastructure à partir du système de sauvegarde des données. Une cellule de crise a été mise en place pour assurer la continuité des services.",
+        "title": "Burkina Faso : Le système informatique de la SOFITEX attaqué (Communiqué) - 24heures",
+        "url": "https://www.24heures.bf/burkina-faso-le-systeme-informatique-de-la-sofitex-attaque-communique/",
+        "added": "2024-11-22"
+    },
+    {
+        "date": "2024-11-17",
         "victim": "International Game Technology (IGT)",
         "domain": "igt.com",
         "country": "USA",
