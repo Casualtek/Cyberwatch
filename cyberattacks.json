@@ -1,5 +1,15 @@
 [
     {
+        "date": "2023-12-16",
+        "victim": "Rockford Gastroenterology Associates (RGA)",
+        "domain": "rockfordgi.com",
+        "country": "USA",
+        "summary": "Rockford Gastroenterology Associates a notifié 147 253 patients d'une cyberattaque survenue en décembre 2023, au cours de laquelle des données sensibles telles que des dossiers médicaux et des informations de compte patient ont été volées. Les attaquants, connus sous le nom de RA World, ont exigé une rançon et ont finalement publié les données sur le dark web après que l'entreprise n'a pas payé. La notification officielle aux patients ne mentionne pas la fuite de données sur le dark web, laissant les patients dans l'ignorance de la véritable étendue de la violation de leur vie privée.",
+        "title": "Rockford Gastroenterology Associates notifies 147,253 patients of December 2023 cyberattack - DataBreaches.Net",
+        "url": "https://databreaches.net/2024/11/22/rockford-gastroenterology-associates-notifies-147253-patients-of-december-2023-cyberattack/",
+        "added": "2024-11-22"
+    },
+    {
         "date": "2024-11-18",
         "victim": "Arrondissement de Montréal-Nord",
         "domain": "montreal.ca",
