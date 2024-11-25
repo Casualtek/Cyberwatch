@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-11-21",
+        "victim": "Blue Yonder",
+        "domain": "blueyonder.com",
+        "country": "USA",
+        "summary": "L'éditeur de logiciels Blue Yonder, qui fournit des services à des chaînes de supermarchés aux États-Unis et au Royaume-Uni, a été victime d'une attaque de ransomware qui a perturbé son environnement de services gérés. Les géants de la distribution britanniques Morrisons et Sainsbury ont été affectés, tandis que les grandes chaînes de supermarchés américaines Albertsons et Kroger, qui utilisent également les services de Blue Yonder, n'ont pas encore commenté l'incident. Blue Yonder travaille à récupérer ses systèmes, mais n'a pas encore fourni de calendrier pour la restauration.",
+        "title": "Software company providing services to US and UK grocery stores says it was hit by ransomware attack",
+        "url": "https://www.wral.com/story/software-company-providing-services-to-us-and-uk-grocery-stores-says-it-was-hit-by-ransomware-attack/21739436/",
+        "added": "2024-11-25"
+    },
+    {
         "date": "2024-11-14",
         "victim": "Vossko",
         "domain": "vossko.de",
