@@ -1,6 +1,16 @@
 [
     {
         "date": "2024-11-19",
+        "victim": "Minneapolis Park and Recreation Board (MPRB)",
+        "domain": "minneapolisparks.org",
+        "country": "USA",
+        "summary": "Le conseil des parcs et des loisirs de Minneapolis a été victime d'une cyberattaque le 19 novembre, qui a mis hors service ses lignes téléphoniques. Le public est invité à appeler le 911 en cas d'urgence et à consulter le site web du conseil pour obtenir des informations sur les parcs et les services. Les systèmes de registration des programmes n'ont pas été touchés par l'attaque, selon le conseil.",
+        "title": "Minneapolis Park Board cyberattacked, phone lines down, says MPRB | kare11.com",
+        "url": "https://www.kare11.com/article/news/local/minneapolis-park-board-tech-attacked-phone-lines-down/89-7d22f133-82cf-4f70-b73a-82ad23f68813",
+        "added": "2024-11-25"
+    },
+    {
+        "date": "2024-11-19",
         "victim": "University of Algarve (UAlg)",
         "domain": "ualg.pt",
         "country": "PRT",
