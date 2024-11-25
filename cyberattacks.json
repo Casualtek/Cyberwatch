@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-11-14",
+        "victim": "Vossko",
+        "domain": "vossko.de",
+        "country": "DEU",
+        "summary": "La société allemande Vossko, spécialisée dans la transformation de produits alimentaires, a été victime d'une cyberattaque par ransomware le 14 novembre, qui a crypté ses systèmes internes et bases de données. Les systèmes ont été restaurés et la production a repris, mais l'enquête est toujours en cours avec l'aide de la police et d'experts en sécurité. La société a mis en place des mesures pour renforcer sa sécurité informatique et prévenir de futures attaques.",
+        "title": "Cyberattacke auf Firma Vossko in Ostbevern | Die Glocke",
+        "url": "https://www.die-glocke.de/kreis-warendorf/everswinkel-telgte-ostbevern/artikel/cyberattacke-auf-firma-vossko-in-ostbevern-1732439766",
+        "added": "2024-11-25"
+    },
+    {
         "date": "2024-11-19",
         "victim": "Minneapolis Park and Recreation Board (MPRB)",
         "domain": "minneapolisparks.org",
