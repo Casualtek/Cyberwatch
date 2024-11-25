@@ -1,5 +1,15 @@
 [
     {
+        "date": "2022-10-28",
+        "victim": "Satys",
+        "domain": "satys.com",
+        "country": "FRA",
+        "summary": "Le groupe aéronautique Satys, sous-traitant d'Airbus, a été victime d'une cyberattaque massive qui a nécessité la mise en place d'une cellule de crise et la restauration de ses systèmes informatiques. L'attaque a impliqué le ransomware Dagon, une évolution de MountLocker et de Quantum.",
+        "title": "Autopsie d’une cyberattaque chez un sous-traitant aéronautique toulousain d'Airbus",
+        "url": "https://www.usinenouvelle.com/article/autopsie-d-une-cyberattaque-chez-un-sous-traitant-aeronautique-toulousain-d-airbus.N2222800",
+        "added": "2024-11-25"
+    },
+    {
         "date": "2024-11-21",
         "victim": "Blue Yonder",
         "domain": "blueyonder.com",
