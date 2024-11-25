@@ -1,5 +1,15 @@
 [
     {
+        "date": "2022-07-29",
+        "victim": "Semikron",
+        "domain": "semikron-danfoss.com",
+        "country": "FRA",
+        "summary": "L'attaque a conduit à l'arrêt de tous les équipements informatiques et au redémarrage sur une nouvelle infrastructure IT. Tous les départements de l'entreprise ont été affectés et la société a eu recours à l'activité partielle afin de compenser.",
+        "title": "Comptes",
+        "url": "https://www.pappers.fr/entreprise/semikron-danfoss-785408097/comptes/SEMIKRON%20DANFOSS%20-%20Comptes%20sociaux%202022%2017-07-2023.pdf",
+        "added": "2024-11-25"
+    },
+    {
         "date": "2023-06-19",
         "victim": "TCL Europe",
         "domain": "tcl.com",
