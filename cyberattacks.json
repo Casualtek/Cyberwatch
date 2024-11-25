@@ -1,11 +1,21 @@
 [
     {
+        "date": "2024-02-06",
+        "victim": "S.A.S LYNELEC",
+        "domain": "lynelec.nodomain",
+        "country": "FRA",
+        "summary": "Le fonctionnement des outils informatiques de l'entreprise a été affecté durant quelques semaines.",
+        "title": "Comptes",
+        "url": "https://www.pappers.fr/entreprise/lynelec-339398851/comptes/LYNELEC%20-%20Comptes%20sociaux%202023%2022-07-2024.pdf",
+        "added": "2024-11-25"
+    },
+    {
         "date": "2023-05-03",
-        "victim": "Atlantique Habitions",
+        "victim": "Atlantique Habitations",
         "domain": "atlantique-habitations.fr",
         "country": "FRA",
         "summary": "En mai 2023, une cyberattaque d'ampleur a frappé une société, paralysant son infrastructure informatique. Le 3 mai, tous les employés ont reçu une note de rançon imprimée via les périphériques de bureau. Simultanément, les tentatives d'accès aux serveurs ont révélé leur chiffrement complet. Cette attaque faisait suite à une alerte détectée le 27 avril par le prestataire en charge des sauvegardes. Ce dernier avait identifié la présence suspecte d’un outil de prise de contrôle à distance sur un ancien serveur de sauvegarde.",
-        "title": "Autopsie d’une cyberattaque chez un sous-traitant aéronautique toulousain d'Airbus",
+        "title": "Comptes",
         "url": "https://www.pappers.fr/entreprise/atlantique-habitations-sa-hlm-867801334/comptes/ATLANTIQUE%20HABITATIONS%20SA%20HLM%20-%20Comptes%20sociaux%202023%2028-06-2024.pdf",
         "added": "2024-11-25"
     },
