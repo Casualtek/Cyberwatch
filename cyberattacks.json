@@ -1,5 +1,15 @@
 [
     {
+        "date": "2023-06-19",
+        "victim": "TCL Europe",
+        "domain": "tcl.com",
+        "country": "FRA",
+        "summary": "La société TCL Europe a été victime d'une attaque informatique en date du 19 juin 2023 sur son réseau Européen. Cette cyberattaque de type rançongiciel a par ailleurs fait l'objet d'une déclaration à la CNIL en date du 22 juin 2023.",
+        "title": "Comptes",
+        "url": "https://www.pappers.fr/entreprise/tcl-europe-824094528/comptes/TCL%20EUROPE%20-%20Comptes%20sociaux%202022%2017-11-2023.pdf",
+        "added": "2024-11-25"
+    },
+    {
         "date": "2022-10-21",
         "victim": "SOMDIAA",
         "domain": "groupe-somdia.com",
