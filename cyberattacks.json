@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-10-01",
+        "victim": "ATF Services",
+        "domain": "atfservices.com.au",
+        "country": "AUS",
+        "summary": "La société de sécurité ATF Services a confirmé avoir été victime d'une cyberattaque par le groupe de ransomware INC Ransom, qui a volé environ 1 To de données de l'entreprise. Les données volées incluent des informations sur les employés, des documents de prêt et d'impôt, des détails sur les débiteurs et les créanciers, ainsi que des prévisions de revenus. ATF Services a déclaré que les systèmes de l'entreprise étaient à présent sécurisés et qu'il n'y avait pas de preuve de mauvaise utilisation des informations personnelles.",
+        "title": "Exclusive: Fencing and site security firm ATF Services confirms cyber attack - Cyber Daily",
+        "url": "https://www.cyberdaily.au/security/11414-exclusive-fencing-and-site-security-firm-atf-services-confirms-cyber-attack",
+        "added": "2024-11-26"
+    },
+    {
         "date": "2024-11-25",
         "victim": "Hofer Ärztezentrum",
         "domain": "orthopaedie-hof.de",
