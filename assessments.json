@@ -1,5 +1,12 @@
 [
     {
+        "victim": "Hypertype",
+        "domain": "ehypertype.com",
+        "country": "US",
+        "date": "2024-10-29",
+        "group": "lynx"
+    },
+    {
         "victim": "SFR",
         "domain": "sfr.fr",
         "country": "FR",
