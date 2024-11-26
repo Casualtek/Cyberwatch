@@ -1,5 +1,12 @@
 [
     {
+        "victim": "Coppell",
+        "domain": "coppelltx.gov",
+        "country": "US",
+        "date": "2024-10-23",
+        "group": "ransomhub"
+    },
+    {
         "victim": "Borohradek",
         "domain": "mestoborohradek.cz",
         "country": "CZ",
