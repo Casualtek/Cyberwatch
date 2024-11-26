@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-11-25",
+        "victim": "Arrowe Park Hospital",
+        "domain": "wuth.nhs.uk",
+        "country": "GBR",
+        "summary": "Un hôpital de Merseyside, l'Arrowe Park Hospital, a déclaré un \"incident majeur\" en raison d'une faille de sécurité informatique, obligeant les patients à ne se présenter que pour les cas d'urgence. Les processus de continuité des activités sont en place pour maintenir la sécurité des patients, mais les temps d'attente dans le service des urgences et les zones d'évaluation seront plus longs. Les employés de l'hôpital ont signalé que les systèmes électroniques étaient hors ligne, rendant difficile la gestion des dossiers et des résultats.",
+        "title": "'Major incident' declared at Merseyside hospital after 'cyber security' issue - Liverpool Echo",
+        "url": "https://www.liverpoolecho.co.uk/news/liverpool-news/major-incident-declared-merseyside-hospital-30450814",
+        "added": "2024-11-26"
+    },
+    {
         "date": "2022-07-29",
         "victim": "Semikron",
         "domain": "semikron-danfoss.com",
