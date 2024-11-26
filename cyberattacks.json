@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-10-04",
+        "victim": "Pacific Pulmonary Medical Group (PPMG)",
+        "domain": "pacificpulm.com",
+        "country": "USA",
+        "summary": "Le Pacific Pulmonary Medical Group (PPMG) en Californie a été victime d'une cyberattaque par l'Everest Ransomware Team, qui a volé des informations de santé protégées et des données personnelles de patients, notamment des numéros de sécurité sociale et des détails d'assurance santé. Les données ont été publiées sur le dark web et incluent des images de cartes d'assurance et de permis de conduire, ainsi que des fichiers CSV contenant des informations de santé et des coordonnées personnelles. À ce jour, le PPMG n'a pas publié de notification de violation de données sur son site web et n'a pas répondu aux demandes d'information.",
+        "title": "Pacific Pulmonary Medical Group patient information dumped by Everest Ransomware Team - DataBreaches.Net",
+        "url": "https://databreaches.net/2024/11/23/pacific-pulmonary-medical-group-patient-information-dumped-by-everest-ransomware-team/",
+        "added": "2024-11-26"
+    },
+    {
         "date": "2024-10-01",
         "victim": "ATF Services",
         "domain": "atfservices.com.au",
