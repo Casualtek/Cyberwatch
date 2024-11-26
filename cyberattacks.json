@@ -1,5 +1,15 @@
 [
     {
+        "date": "2021-11-24",
+        "victim": "Bryan County Ambulance Authority (BCAA)",
+        "domain": "bcems.net",
+        "country": "USA",
+        "summary": "Le Bureau des droits civils du département de la Santé et des Services sociaux des États-Unis a conclu un accord de règlement avec l'Autorité d'ambulance du comté de Bryan (Oklahoma) pour une violation potentielle de la règle de sécurité HIPAA, après une attaque de ransomware qui a affecté les informations de santé de 14 273 patients. L'accord prévoit que l'Autorité d'ambulance paie 90 000 dollars et met en œuvre un plan d'action correctif pour améliorer la sécurité de ses systèmes d'information. Cette affaire souligne l'importance pour les organismes de santé de réaliser des analyses de risque pour protéger les informations de santé électroniques.",
+        "title": "HHS Office for Civil Rights Settles HIPAA Ransomware Cybersecurity Investigation for $90,000 - DataBreaches.Net",
+        "url": "https://databreaches.net/2024/10/31/hhs-office-for-civil-rights-settles-hipaa-ransomware-cybersecurity-investigation-for-90000/",
+        "added": "2024-11-26"
+    },
+    {
         "date": "2024-10-04",
         "victim": "Pacific Pulmonary Medical Group (PPMG)",
         "domain": "pacificpulm.com",
