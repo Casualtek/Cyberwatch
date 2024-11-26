@@ -1,6 +1,16 @@
 [
     {
         "date": "2024-11-25",
+        "victim": "Hofer Ärztezentrum",
+        "domain": "orthopaedie-hof.de",
+        "country": "DEU",
+        "summary": "Le centre médical Hofer Ärztezentrum, situé à Eppenreuther Straße, a été victime d'une cyberattaque lundi matin, affectant trois cabinets de médecins et leurs filiales. Depuis, les systèmes électroniques ne fonctionnent plus. Les mesures de riposte et les conséquences pour les patients sont en cours d'examen.",
+        "title": "Eppenreuther Straße: Cyberangriff auf Hofer Ärztezentrum - Hof - Frankenpost",
+        "url": "https://www.frankenpost.de/inhalt.eppenreuther-strasse-cyberangriff-auf-hofer-aerztezentrum.ad9eef9c-b551-4d55-8dd0-a9bc6f97438c.html",
+        "added": "2024-11-26"
+    },
+    {
+        "date": "2024-11-25",
         "victim": "Arrowe Park Hospital",
         "domain": "wuth.nhs.uk",
         "country": "GBR",
