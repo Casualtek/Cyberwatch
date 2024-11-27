@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-11-19",
+        "victim": "DGME du Costa Rica",
+        "domain": "migracion.go.cr",
+        "country": "CRI",
+        "summary": "La Direction générale de la migration et des affaires étrangères (DGME) du Costa Rica a suspendu son site web officiel en raison d'une cyberattaque possible, pour protéger les systèmes informatiques et prévenir l'exposition des informations des utilisateurs. Les utilisateurs ne peuvent pas accéder aux services en ligne, tels que la prise de rendez-vous pour les passeports, mais les bureaux de la DGME continuent de fonctionner normalement. Des alternatives ont été mises en place pour permettre aux utilisateurs de gérer leurs rendez-vous et consultations, notamment via un centre d'appel et des partenaires tels que le Banco de Costa Rica et Correos de Costa Rica.",
+        "title": "Migración de Costa Rica suspende su web tras ataque cibernético",
+        "url": "https://confidencial.digital/migrantes/noticias/migracion-de-costa-rica-suspende-su-web-tras-ataque-cibernetico/",
+        "added": "2024-11-27"
+    },
+    {
         "date": "2021-11-24",
         "victim": "Bryan County Ambulance Authority (BCAA)",
         "domain": "bcems.net",
