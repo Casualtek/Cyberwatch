@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-10-17",
+        "victim": "Provincetown IB Schools",
+        "domain": "provincetownschools.com",
+        "country": "USA",
+        "summary": "Une cyberattaque a mis hors service le réseau des écoles de Provincetown pendant 11 jours, affectant les ordinateurs et les serveurs, mais pas les Chromebooks et les systèmes cloud contenant des informations sensibles. L'enquête est en cours et les autorités ont informé les personnes potentiellement affectées. Les experts en cybersécurité soulignent l'importance de la prudence face aux attaques par phishing et aux tentatives d'hameçonnage, qui sont de plus en plus courantes.",
+        "title": "Cyberattack Shuts Down School Network for 11 Days - The Provincetown Independent",
+        "url": "https://provincetownindependent.org/featured/2024/11/27/cyberattack-shuts-down-school-network-for-11-days/",
+        "added": "2024-11-28"
+    },
+    {
         "date": "2024-11-27",
         "victim": "Recope",
         "domain": "recope.go.cr",
