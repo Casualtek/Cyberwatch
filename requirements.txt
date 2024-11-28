@@ -1,6 +1,5 @@
-feedparser
-requests
-deepl
-feedgen
 openai
+feedparser
+feedgen
+requests
 newspaper3k
