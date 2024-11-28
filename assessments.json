@@ -1,5 +1,12 @@
 [
     {
+        "victim": "VISUfarma",
+        "domain": "visufarma.com",
+        "country": "IT",
+        "date": "2024-11-14",
+        "group": "incransom"
+    },
+    {
         "victim": "Formpipe",
         "domain": "formpipe.com",
         "country": "SE",
