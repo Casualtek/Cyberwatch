@@ -2,5 +2,5 @@ feedparser
 requests
 deepl
 feedgen
-openai
+openai=1.55.0
 newspaper3k
