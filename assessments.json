@@ -1,5 +1,19 @@
 [
     {
+        "victim": "Andy Frain Services",
+        "domain": "andyfrain.com",
+        "country": "US",
+        "date": "2024-10-23",
+        "group": "blackbasta"
+    },
+    {
+        "victim": "Suit-Kote Corporation",
+        "domain": "suit-kote.com",
+        "country": "US",
+        "date": "2024-10-16",
+        "group": "blackbasta"
+    },
+    {
         "victim": "Title 9 Sports, Inc.",
         "domain": "titlenine.com",
         "country": "US",
@@ -39,20 +53,6 @@
         "domain": "gfemlaw.com",
         "country": "US",
         "date": "2024-10-31",
-        "group": "blackbasta"
-    },
-    {
-        "victim": "Andy Frain Services",
-        "domain": "andyfrain.com",
-        "country": "US",
-        "date": "2024-10-23",
-        "group": "blackbasta"
-    },
-    {
-        "victim": "Suit-Kote Corporation",
-        "domain": "suit-kote.com",
-        "country": "US",
-        "date": "2024-10-16",
         "group": "blackbasta"
     },
     {
