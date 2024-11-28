@@ -1,6 +1,16 @@
 [
     {
         "date": "2024-11-27",
+        "victim": "Recope",
+        "domain": "recope.go.cr",
+        "country": "CRI",
+        "summary": "La Refinadora Costarricense de Petróleo (Recope) a confirmé avoir été victime d'une attaque de ransomware le 27 novembre, mais a assuré que le suministro de combustible ne serait pas affecté. Les protocoles de sécurité ont été activés et l'impact de l'attaque est en cours d'évaluation. Le ministère de la Science et de la Technologie (Micitt) suit de près la situation et collabore avec Recope pour résoudre l'incident.",
+        "title": "Recope confirma ataque cibernético a sus sistemas pero garantiza suministro de combustible",
+        "url": "https://observador.cr/recope-confirma-ataque-cibernetico-a-sus-sistemas-pero-garantiza-suministro-de-combustible/",
+        "added": "2024-11-28"
+    },
+    {
+        "date": "2024-11-27",
         "victim": "Hoboken",
         "domain": "hobokennj.gov",
         "country": "USA",
