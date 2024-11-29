@@ -19,6 +19,7 @@ jobs:
       - name: Install dependencies
         run: |
           pip3 install -r requirements.txt
+          pip3 install deepl
       - name: Generate HTML Digest
         env:
           OPENAI_API_KEY: ${{ secrets.OPENAI_API }}
