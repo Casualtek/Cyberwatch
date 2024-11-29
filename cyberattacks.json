@@ -1,6 +1,16 @@
 [
     {
         "date": "2024-11-26",
+        "victim": "Alder Hey Children's NHS Foundation Trust",
+        "domain": "alderhey.nhs.uk",
+        "country": "GBR",
+        "summary": "L'Alder Hey Children's NHS Foundation Trust a publié un communiqué concernant les rapports d'une violation de données au sein de l'hôpital. L'hôpital enquête sur l'incident, revendiqué sous la bannière d'INC Ransom, et prend des mesures pour protéger les données des patients. Aucun détail supplémentaire n'a été fourni sur la nature ou l'étendue de la violation. Les captures d'écran partagés par les cybercriminels suggèrent que l'incident remonte, au plus, au 26 novembre. L'impact opérationnel limité suggère l'absence de chiffrement.",
+        "title": "Statement about reports of a data breach at Alder Hey Children's NHS Foundation Trust",
+        "url": "https://www.alderhey.nhs.uk/statement-about-reports-of-a-data-breach-at-alder-hey-childrens-nhs-foundation-trust/",
+        "added": "2024-11-29"
+    },
+    {
+        "date": "2024-11-26",
         "victim": "Dewan Farooque Motors Limited (DFML)",
         "domain": "yousufdewan.com",
         "country": "PAK",
