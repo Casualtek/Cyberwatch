@@ -1,5 +1,12 @@
 [
     {
+        "victim": "Bologna FC 1909",
+        "domain": "bolognafc.it",
+        "country": "IT",
+        "date": "2024-11-12",
+        "group": "ransomhub"
+    },
+    {
         "victim": "REMBE GmbH Safety + Control",
         "domain": "rembe.de",
         "country": "DE",
