@@ -1,5 +1,12 @@
 [
     {
+        "victim": "JTEKT North America",
+        "domain": "jtekt-na.com",
+        "country": "US",
+        "date": "2024-10-11",
+        "group": "blacksuit"
+    },
+    {
         "victim": "Suit-Kote Corporation",
         "domain": "suit-kote.com",
         "country": "US",
