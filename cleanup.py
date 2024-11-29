@@ -5,7 +5,6 @@ import json
 import base64
 import functools
 import re
-import deepl
 import hashlib
 import os
 from datetime import datetime, timedelta
