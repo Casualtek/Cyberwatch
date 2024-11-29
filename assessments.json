@@ -1,5 +1,12 @@
 [
     {
+        "victim": "KMC Global",
+        "domain": "kmcglobal.com",
+        "country": "US",
+        "date": "2024-10-14",
+        "group": "blackbasta"
+    },
+    {
         "victim": "ISA",
         "domain": "isaitaly.com",
         "country": "IT",
