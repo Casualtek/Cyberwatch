@@ -1,5 +1,12 @@
 [
     {
+        "victim": "ISA",
+        "domain": "isaitaly.com",
+        "country": "IT",
+        "date": "2024-10-22",
+        "group": "blackbasta"
+    },
+    {
         "victim": "Wachter",
         "domain": "wachter.com",
         "country": "US",
