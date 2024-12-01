@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-09-20",
+        "victim": "Amber Beverage Group",
+        "domain": "amberbev.com",
+        "country": "LVA",
+        "summary": "Amber Beverage Group (ABG) a annoncé avoir été victime d’une cyberattaque. L’entreprise a pris des mesures pour atténuer les impacts et a informé les autorités compétentes, notamment la police d'État, CERT.LV et l'Inspection des données. Une enquête criminelle est en cours, avec une coopération totale de la part d’ABG. Des actions techniques sont également mises en œuvre pour renforcer la sécurité des systèmes et des données. Aucune information supplémentaire n'est disponible en raison de l'enquête en cours.",
+        "title": "Snatt, attacco hacker e sistemi in tilt. Cassa per cinquecento lavoratori",
+        "url": "https://amberbev.com/uncategorized/amber-beverage-group-informs-on-a-cyberattack-incident/",
+        "added": "2024-12-01"
+    },
+    {
         "date": "2024-11-15",
         "victim": "Snatt",
         "domain": "snatt.it",
