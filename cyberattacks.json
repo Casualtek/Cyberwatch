@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-11-15",
+        "victim": "Snatt",
+        "domain": "snatt.it",
+        "country": "ITA",
+        "summary": "La société Snatt, leader dans la logistique du secteur habillement, a été victime d'une cyberattaque qui a bloqué son système informatique pendant trois jours, nécessitant la mise en chômage technique de 500 travailleurs. Les experts en sécurité ont réussi à rétablir l'activité en trois jours, mais des problèmes résiduels persistent. L'enquête est maintenant entre les mains de l'autorité judiciaire pour identifier l'organisation criminelle responsable de l'attaque.",
+        "title": "Snatt, attacco hacker e sistemi in tilt. Cassa per cinquecento lavoratori",
+        "url": "https://www.ilrestodelcarlino.it/reggio-emilia/cronaca/snatt-attacco-hacker-e-sistemi-7f614a59",
+        "added": "2024-12-01"
+    },
+    {
         "date": "2024-11-26",
         "victim": "Alder Hey Children's NHS Foundation Trust",
         "domain": "alderhey.nhs.uk",
