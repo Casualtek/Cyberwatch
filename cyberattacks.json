@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-11-30",
+        "victim": "Université de Potsdam",
+        "domain": "uni-potsdam.de",
+        "country": "DEU",
+        "summary": "L'Université de Potsdam en Allemagne a été victime d'une cyberattaque présumée, ce qui a entraîné la mise hors ligne de ses systèmes pour des raisons de sécurité. L'Institut Hasso Plattner (HPI) et trois autres instituts sont également touchés par cette attaque. Les détails de l'incident ne sont pas encore connus, mais les autorités enquêtent sur la situation.",
+        "title": "HPI und drei weitere Institute betroffen : Uni Potsdam bleibt nach vermeintlichem Hacker-Angriff offline",
+        "url": "https://www.tagesspiegel.de/potsdam/landeshauptstadt/hpi-und-drei-weitere-institute-betroffen-uni-potsdam-bleibt-nach-vermeintlichem-hacker-angriff-offline-12795062.html",
+        "added": "2024-12-01"
+    },
+    {
         "date": "2024-09-20",
         "victim": "Amber Beverage Group",
         "domain": "amberbev.com",
