@@ -1,6 +1,16 @@
 [
     {
         "date": "2024-11-27",
+        "victim": "Defensoría Penal Pública",
+        "domain": "dpp.cl",
+        "country": "CHL",
+        "summary": "La Defensoría Penal Pública a confirmé avoir été victime d'une cyberattaque perpétrée par des inconnus, qui a entraîné l'activation de protocoles de réponse pour investiguer les causes et évaluer les impacts de l'attaque. Les mesures nécessaires ont été mises en place pour contenir et atténuer l'atteinte, ainsi qu'une denonciation formelle auprès de la police pour ouvrir une enquête. La Defensoría Penal Pública a également renforcé les actions pour garantir la protection des données.",
+        "title": "“Perpetrado por desconocidos”: Defensoría Penal Pública confirma ataque informático | ADN Radio",
+        "url": "https://www.adnradio.cl/2024/11/28/perpetrado-por-desconocidos-defensoria-penal-publica-confirma-ataque-informatico/",
+        "added": "2024-12-02"
+    },
+    {
+        "date": "2024-11-27",
         "victim": "Medion AG",
         "domain": "medion.com",
         "country": "DEU",
