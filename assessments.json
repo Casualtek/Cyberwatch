@@ -1,5 +1,12 @@
 [
     {
+        "victim": "Bitquail",
+        "domain": "bitquail.com",
+        "country": "NL",
+        "date": "2024-10-26",
+        "group": "ransomhub"
+    },
+    {
         "victim": "Madison Home",
         "domain": "madison-home.com",
         "country": "US",
