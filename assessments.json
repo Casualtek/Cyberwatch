@@ -1,5 +1,12 @@
 [
     {
+        "victim": "Webb Institute",
+        "domain": "webb.edu",
+        "country": "US",
+        "date": "2024-09-20",
+        "group": "incransom"
+    },
+    {
         "victim": "Deutsche Industrie Video System GmbH",
         "domain": "divis.eu",
         "country": "DE",
