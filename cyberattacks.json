@@ -1,5 +1,25 @@
 [
     {
+        "date": "2024-11-27",
+        "victim": "Medion AG",
+        "domain": "medion.com",
+        "country": "DEU",
+        "summary": "Medion AG est confronté à une importante panne informatique affectant ses systèmes internes et son site marchand. Bien que l'entreprise ait initialement évoqué un « incident IT dû à des attaquants externes inconnus », cette mention a été remplacée par une annonce de simples « travaux de maintenance », sans explications. Medion affirme travailler avec des experts pour résoudre le problème, tout en garantissant que, selon les premières informations, aucune donnée sensible de clients n’a été compromise.",
+        "title": "CYBERANGRIFF: Medion seit Tagen von IT-Störung geplagt",
+        "url": "https://www.golem.de/news/cyberangriff-medion-seit-tagen-von-it-stoerung-geplagt-2412-191314.html",
+        "added": "2024-12-02"
+    },
+    {
+        "date": "2024-10-17",
+        "victim": "CFPPA Fayl-Billot",
+        "domain": "lpahorticole.faylbillot.educagri.fr",
+        "country": "FRA",
+        "summary": "L'Agri-pôle de la Haute-Marne a été victime d'une cyberattaque qui a crypté tous les données de l'établissement, y compris les coordonnées des élèves et des professeurs, et a demandé une rançon d'un million d'euros. Les enquêteurs ont localisé la faille dans un pare-feu et un mot de passe utilisateur insuffisamment sécurisé, et soupçonnent des \"groupuscules étrangers\" d'être à l'origine de l'attaque. L'établissement a bénéficié d'un accompagnement \"bienveillant\" et \"rassurant\" des gendarmes et des personnels spécialisés de la Région pour gérer les conséquences de l'attaque.",
+        "title": "Cyberattaque de l’Agri-pôle : \" des demandes de rançon ont surgi sur les écrans \"",
+        "url": "https://jhm.fr/cyberattaque-de-lagri-pole-des-demandes-de-rancon-ont-surgi-sur-les-ecrans/",
+        "added": "2024-12-02"
+    },
+    {
         "date": "2024-09-15",
         "victim": "Stoli Group",
         "domain": "stoli.com",
