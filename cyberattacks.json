@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-11-25",
+        "victim": "ENGlobal Corporation",
+        "domain": "englobal.com",
+        "country": "USA",
+        "summary": "La société ENGlobal Corporation a été victime d'une cyberattaque le 25 novembre 2024, entraînant l'accès illégal à son système d'information et la cryptation de certains fichiers de données. L'enquête et les efforts de remédiation sont en cours, mais l'accès au système d'information de l'entreprise est actuellement limité. Il est encore trop tôt pour déterminer si l'incident aura un impact matériel sur la situation financière de l'entreprise.",
+        "title": "eng_8k.htm",
+        "url": "https://www.sec.gov/Archives/edgar/data/933738/000165495424015098/eng_8k.htm",
+        "added": "2024-12-03"
+    },
+    {
         "date": "2023-03-01",
         "victim": "Washington College",
         "domain": "washcoll.edu",
