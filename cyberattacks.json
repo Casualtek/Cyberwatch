@@ -1,5 +1,25 @@
 [
     {
+        "date": "2024-11-27",
+        "victim": "Fourlis Group",
+        "domain": "fourlis.gr",
+        "country": "GRC",
+        "summary": "Le groupe Fourlis a été victime d'une cyberattaque par ransomware en novembre dernier, qui a affecté les opérations de ses entreprises en Grèce, Chypre, Bulgarie et Roumanie, notamment IKEA et Intersport. L'attaque a entraîné la fermeture de l'e-shop d'IKEA dans plusieurs pays et a causé des retards lors de la journée de shopping du Black Friday. Les équipes du groupe travaillent avec des partenaires externes pour résoudre l'incident et sécuriser les systèmes, mais aucune information supplémentaire n'a été fournie sur les attaquants ou leurs revendications financières.",
+        "title": "Fourlis Group hit by cyberattack that crippled online store operation | eKathimerini.com",
+        "url": "https://www.ekathimerini.com/economy/1255232/fourlis-group-hit-by-cyberattack-that-crippled-online-store-operation/",
+        "added": "2024-12-03"
+    },
+    {
+        "date": "2024-09-26",
+        "victim": "Fleet Landing",
+        "domain": "fleetlanding.com",
+        "country": "USA",
+        "summary": "L'affidé Qilin responsable de la cyberattaque contre Bertelkamp Automation a déposé, sur les serveurs de la franchise, des données qu'il attribue à Fleet Landing. La cyberattaque n'a pas été revendiquée sur le site vitrine de la franchise.",
+        "title": "",
+        "url": "",
+        "added": "2024-12-03"
+    },
+    {
         "date": "2024-11-25",
         "victim": "ENGlobal Corporation",
         "domain": "englobal.com",
