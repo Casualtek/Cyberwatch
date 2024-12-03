@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-10-12",
+        "victim": "Guy Demarle",
+        "domain": "guydemarle.com",
+        "country": "FRA",
+        "summary": "L'enseigne française Guy Demarle a été victime d'une cyberattaque en octobre, entraînant la fuite de données personnelles de ses clients, notamment noms, prénoms, adresses postales, e-mails et numéros de téléphone. L'entreprise a informé la CNIL et avertit ses clients des risques de phishing et d'usurpation d'identité. Les données bancaires et les mots de passe ne sont pas concernés par le vol.",
+        "title": "Nouveau hack en France : les données de l'enseigne Guy Demarle ont été volées",
+        "url": "https://www.01net.com/actualites/nouveau-hack-en-france-les-donnees-de-lenseigne-guy-demarle-ont-ete-volees.html",
+        "added": "2024-12-03"
+    },
+    {
         "date": "2024-11-27",
         "victim": "Defensoría Penal Pública",
         "domain": "dpp.cl",
