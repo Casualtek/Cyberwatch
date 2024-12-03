@@ -1,5 +1,12 @@
 [
     {
+        "victim": "Valu-Trac",
+        "domain": "valu-trac.com",
+        "country": "GB",
+        "date": "2024-09-27",
+        "group": "qilin"
+    },
+    {
         "victim": "Colonial Behavioral Health",
         "domain": "colonialbh.org",
         "country": "US",
