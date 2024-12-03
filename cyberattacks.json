@@ -1,5 +1,15 @@
 [
     {
+        "date": "2023-03-01",
+        "victim": "Washington College",
+        "domain": "washcoll.edu",
+        "country": "USA",
+        "summary": "Le Washington College, un collège d'arts libéraux privé dans le comté de Kent, est sur le point de finaliser un règlement après une attaque de ransomware qui a volé les données de plus de 13 000 personnes, notamment des étudiants et des employés. L'attaque a eu lieu entre février et mars 2023, mais le collège n'a envoyé des lettres de notification qu'en novembre 2023, ce qui a \"exacerbé\" les blessures, selon les plaignants. Le règlement proposé prévoit des indemnisations allant jusqu'à 5 000 dollars pour les pertes exceptionnelles et des mesures de sécurité améliorées pour le collège.",
+        "title": "Washington College Approaches Settlement Over Data Breach",
+        "url": "https://www.govtech.com/education/higher-ed/washington-college-approaches-settlement-over-data-breach",
+        "added": "2024-12-03"
+    },
+    {
         "date": "2024-10-12",
         "victim": "Guy Demarle",
         "domain": "guydemarle.com",
