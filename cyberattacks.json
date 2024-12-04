@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-12-01",
+        "victim": "PIH Health",
+        "domain": "pihhealth.org",
+        "country": "USA",
+        "summary": "L'hôpital PIH Health a été victime d'une attaque de ransomware qui a infecté son système informatique le 1er décembre, entraînant la fermeture de son réseau pour des raisons de sécurité. Les patients ne peuvent pas communiquer avec leurs prestataires de soins de santé et les services en personne sont maintenus, mais avec des procédures de fonctionnement en mode dégradé. Les enquêteurs travaillent à restaurer le réseau et à déterminer si des informations de patients ont été compromises.",
+        "title": "Ransomware virus attack on PIH Health leads to network shutdown for hospitals in Downey, LA, Whittier - Whittier Daily News",
+        "url": "https://www.whittierdailynews.com/2024/12/03/ransomware-virus-attack-on-pih-health-leads-to-network-shutdown-for-hospitals-in-downey-los-angeles-whittier/",
+        "added": "2024-12-04"
+    },
+    {
         "date": "2024-12-02",
         "victim": "Pembina Trails School Division",
         "domain": "pembinatrails.ca",
