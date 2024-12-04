@@ -1,5 +1,12 @@
 [
     {
+        "victim": "Kiswire",
+        "domain": "kiswire.com",
+        "country": "US",
+        "date": "2024-11-16",
+        "group": "ransomhub"
+    },
+    {
         "victim": "DAL Group",
         "domain": "dalgroup.com",
         "country": "SD",
