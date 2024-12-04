@@ -1,5 +1,12 @@
 [
     {
+        "victim": "Sefiso Atlantique",
+        "domain": "sefiso-atlantique.fr",
+        "country": "FR",
+        "date": "2024-11-29",
+        "group": "ransomhub"
+    },
+    {
         "victim": "Bertelkamp Automation",
         "domain": "bertelkamp.com",
         "country": "US",
