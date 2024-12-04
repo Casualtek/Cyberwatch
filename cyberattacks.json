@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-11-01",
+        "victim": "Bender UK",
+        "domain": "bender-uk.com",
+        "country": "GBR",
+        "summary": "La société de fabrication électrique Bender UK, basée à Ulverston, a été victime d'une cyberattaque ciblée le 1er novembre, mais a affirmé que aucune donnée n'avait été divulguée. L'attaque a permis l'accès non autorisé à certaines parties de son réseau interne et de sa plateforme de gestion des affaires Sage, contenant des informations de projet, de commande et de gestion financière. L'enquête est en cours et la société a mis en place de nouvelles mesures de sécurité pour protéger ses systèmes.",
+        "title": "Ulverston manufacturing firm Bender hit by cyberattack | The Mail",
+        "url": "https://www.nwemail.co.uk/news/24768508.ulverston-manufacturing-firm-hit-cyberattack/",
+        "added": "2024-12-04"
+    },
+    {
         "date": "2024-12-01",
         "victim": "PIH Health",
         "domain": "pihhealth.org",
