@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-12-02",
+        "victim": "Pembina Trails School Division",
+        "domain": "pembinatrails.ca",
+        "country": "CAN",
+        "summary": "Le district scolaire de Pembina Trails fait face à une incident de cybersécurité, ayant entraîné la mise hors ligne de tous les téléphones et perturbé les services du réseau. Les équipes techniques ont pris des mesures immédiates pour résoudre le problème et une entreprise de gestion de la cybersécurité spécialisée dans les incidents critiques a été sollicitée pour enquêter et restaurer les services. Les classes continuent de fonctionner normalement, mais les utilisateurs du réseau sont invités à rester vigilants face à d'éventuels contenus suspects ou liens inconnus.",
+        "title": "Pembina Trails School Division dealing with 'cyber security incident' | CTV News",
+        "url": "https://winnipeg.ctvnews.ca/pembina-trails-school-division-dealing-with-cyber-security-incident-classes-continuing-1.7132627",
+        "added": "2024-12-04"
+    },
+    {
         "date": "2024-11-27",
         "victim": "Fourlis Group",
         "domain": "fourlis.gr",
