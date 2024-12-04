@@ -1,5 +1,12 @@
 [
     {
+        "victim": "DAL Group",
+        "domain": "dalgroup.com",
+        "country": "SD",
+        "date": "2024-11-20",
+        "group": "ransomhub"
+    },
+    {
         "victim": "Williams Scarborough Gray, LLP",
         "domain": "wsgcpa.com",
         "country": "US",
