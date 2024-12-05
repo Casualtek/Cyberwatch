@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-11-20",
+        "victim": "Odessa",
+        "domain": "odessa-tx.gov",
+        "country": "USA",
+        "summary": "La ville d'Odessa au Texas a été victime d'une cyberattaque le 20 novembre, mais l'équipe de cybersécurité de la ville a réussi à détecter et à stopper l'attaque avant qu'elle ne cause des dommages. Les systèmes de la ville ont été mis hors ligne pour une journée pour s'assurer que tout fonctionnait normalement, et il est prévu que les services soient rétablis le 22 novembre. Aucune donnée des résidents n'a été volée et les paiements dus le 21 novembre ne seront pas considérés comme en retard.",
+        "title": "The City of Odessa experiences a cyber incident",
+        "url": "https://www.firstalert7.com/2024/11/22/city-odessa-experiences-cyber-incident/",
+        "added": "2024-12-05"
+    },
+    {
         "date": "2024-11-26",
         "victim": "New Westminster School District",
         "domain": "newwestschools.ca",
