@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-11-26",
+        "victim": "New Westminster School District",
+        "domain": "newwestschools.ca",
+        "country": "CAN",
+        "summary": "Le district scolaire de New Westminster a été victime d'une cyberattaque, entraînant une panne de réseau à l'échelle du district et affectant les études des élèves. L'incident a été identifié le 26 novembre et a impliqué un accès non autorisé à ses systèmes par une partie externe inconnue. L'enquête est en cours, avec la participation d'experts en cybersécurité, et les autorités compétentes ont été notifiées.",
+        "title": "New Westminster school district hit by cyber security attack - New West Record",
+        "url": "https://www.newwestrecord.ca/local-news/cybersecurity-attack-causes-district-wide-network-outage-in-new-west-schools-9905806",
+        "added": "2024-12-05"
+    },
+    {
         "date": "2024-11-01",
         "victim": "Bender UK",
         "domain": "bender-uk.com",
