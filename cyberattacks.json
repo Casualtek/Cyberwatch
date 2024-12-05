@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-11-27",
+        "victim": "Fuji Electric Indonesia (FEID)",
+        "domain": "id.fujielectric.com",
+        "country": "IDN",
+        "summary": "Fuji Electric Indonesia a été victime d'une attaque par rançongiciel, qui a compromis des informations sensibles sur ses partenaires commerciaux, notamment des noms d'entreprises et des personnes en charge. L'entreprise a pris des mesures immédiates pour contenir l'attaque et enquêter sur l'incident, et elle a promis de notifier individuellement les partenaires commerciaux potentiellement affectés. Cette attaque souligne l'importance de mesures de cybersécurité robustes et de la vigilance continue pour protéger les données sensibles.",
+        "title": "Fuji Electric Indonesia Hit By Ransomware Attack, Business Information Compromised",
+        "url": "https://cybersecuritynews.com/fuji-ransomware-breach/",
+        "added": "2024-12-05"
+    },
+    {
         "date": "2024-11-20",
         "victim": "Odessa",
         "domain": "odessa-tx.gov",
