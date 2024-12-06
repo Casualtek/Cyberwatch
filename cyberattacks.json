@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-11-30",
+        "victim": "Watsonville Community Hospital",
+        "domain": "watsonvillehospital.com",
+        "country": "USA",
+        "summary": "L'hôpital communautaire de Watsonville, en Californie, fait face à une panne informatique majeure qui dure depuis près d'une semaine, perturbant ses opérations et les soins aux patients. Les employés ont recours à des prescriptions et des dossiers médicaux sur papier pour pallier l'indisponibilité des systèmes électroniques. Les spécialistes en technologie de l'information travaillent à identifier la cause de la panne et à restaurer les systèmes, mais il faudra probablement plusieurs jours supplémentaires pour que le réseau informatique soit à nouveau opérationnel. L'attaque apparaît imputable à l'enseigne Termite.",
+        "title": "Watsonville hospital faces prolonged computer outage",
+        "url": "https://www.ksbw.com/article/watsonville-hospital-faces-prolonged-computer-outage/63098463",
+        "added": "2024-12-06"
+    },
+    {
         "date": "2024-11-09",
         "victim": "Lebenshilfe Heinsberg",
         "domain": "lebenshilfe-heinsberg.de",
