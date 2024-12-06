@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-12-04",
+        "victim": "Fournisseur de services responsable de la collecte des amendes en retard au Manitoba",
+        "domain": "",
+        "country": "CAN",
+        "summary": "Un fournisseur de services tiers responsable de la collecte des amendes de justice en retard au Manitoba a été victime d'une cyberattaque, mais il n'y a actuellement aucune preuve que des informations personnelles aient été compromises. Le fournisseur de services travaille avec la province et une firme de cybersécurité pour contenir et atténuer l'incident et déterminer si des données supplémentaires ont été exposées. Les Manitobains ayant des amendes en retard peuvent contacter les tribunaux ou les numéros de téléphone fournis pour obtenir des informations sur les paiements.",
+        "title": "Cyberattack hits 3rd-party service provider that collects court fines: Manitoba Justice | CBC News",
+        "url": "https://www.cbc.ca/news/canada/manitoba/cyberattack-manitoba-justice-department-1.7403000",
+        "added": "2024-12-06"
+    },
+    {
         "date": "2024-11-30",
         "victim": "Watsonville Community Hospital",
         "domain": "watsonvillehospital.com",
