@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-02-04",
+        "victim": "Sumitomo Heavy Industries, Ltd.",
+        "domain": "shi.co.jp",
+        "country": "JPN",
+        "summary": "La société Sumitomo Heavy Industries, Ltd. a annoncé que des accès non autorisés ont eu lieu sur l'un de ses serveurs du groupe. L'enquête est en cours avec l'aide d'experts externes pour déterminer l'étendue des dommages et récupérer les systèmes. L'impact sur les performances commerciales est encore à évaluer, mais la société s'engage à fournir des mises à jour régulières.",
+        "title": "Unauthorized Access to SHI servers | Sumitomo Heavy Industries, Ltd.",
+        "url": "https://www.shi.co.jp/english/info/2024/6kgpsq0000003hz0.html",
+        "added": "2024-12-07"
+    },
+    {
         "date": "2024-12-04",
         "victim": "Fournisseur de services responsable de la collecte des amendes en retard au Manitoba",
         "domain": "",
