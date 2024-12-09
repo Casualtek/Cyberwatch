@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-11-29",
+        "victim": "Kurita America Inc.",
+        "domain": "kurita-water.com",
+        "country": "USA",
+        "summary": "La société Kurita Water Industries a annoncé que sa filiale américaine, Kurita America Inc., a été victime d'une cyberattaque par ransomware, entraînant l'accès non autorisé à des serveurs et la potentialité de fuites de données de clients, partenaires et employés. Les serveurs compromis ont été déconnectés du réseau pour éviter une propagation du dommage. Les activités commerciales n'ont pas été interrompues et l'entreprise s'engage à renforcer les mesures de sécurité de l'information au sein du groupe Kurita.",
+        "title": "Regarding Security Incident at an Overseas Consolidated Subsidiary | News | Kurita Water Industries | Kurita Group",
+        "url": "https://news.kurita-water.com/241207-01",
+        "added": "2024-12-09"
+    },
+    {
         "date": "2024-12-02",
         "victim": "ITO EN (North America) INC.",
         "domain": "itoen.co.jp",
