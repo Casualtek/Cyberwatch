@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-11-15",
+        "victim": "Jefferson Dental Center",
+        "domain": "jeffersondentalcenter.com",
+        "country": "USA",
+        "summary": "Le cabinet dentaire Jefferson Dental Center de South Bend, dans l'Indiana, a été victime d'une cyberattaque, entraînant une fuite de données personnelles de ses patients, notamment des noms, numéros de sécurité sociale, adresses, numéros de permis de conduire et dates de naissance. Le cabinet a notifié l'incident à l'office du procureur général de l'Indiana et aux autorités fédérales, et conseille aux patients de prendre des mesures pour protéger leur identité. Les patients concernés peuvent contacter le cabinet pour obtenir plus d'informations sur la violation de données.",
+        "title": "South Bend dentist office notifies patients of data breach",
+        "url": "https://www.wndu.com/2024/12/08/south-bend-dentist-office-notifies-patients-data-breach/",
+        "added": "2024-12-09"
+    },
+    {
         "date": "2024-11-21",
         "victim": "Artivion, Inc.",
         "domain": "artivion.com",
