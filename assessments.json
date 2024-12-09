@@ -1,5 +1,19 @@
 [
     {
+        "victim": "Everde",
+        "domain": "everde.com",
+        "country": "US",
+        "date": "2024-11-30",
+        "group": "ransomhub"
+    },
+    {
+        "victim": "Curenta",
+        "domain": "curenta.com",
+        "country": "IL",
+        "date": "2024-11-21",
+        "group": "ransomhub"
+    },
+    {
         "victim": "Bluco",
         "domain": "bluco.com",
         "country": "US",
