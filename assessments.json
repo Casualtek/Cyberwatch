@@ -1,5 +1,12 @@
 [
     {
+        "victim": "Bluco",
+        "domain": "bluco.com",
+        "country": "US",
+        "date": "2024-09-20",
+        "group": "ransomhub"
+    },
+    {
         "victim": "Rockport Mortgage",
         "domain": "rockportmortgage.com",
         "country": "US",
