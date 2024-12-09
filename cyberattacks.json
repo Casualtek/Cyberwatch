@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-12-02",
+        "victim": "Wayne-Westland Community Schools",
+        "domain": "wwcsd.net",
+        "country": "USA",
+        "summary": "Le district scolaire de Wayne-Westland Community Schools à Westland, Michigan, a été victime d'une cyberattaque qui a entraîné la perte d'accès à internet et aux téléphones. Les écoles ont réussi à maintenir une certaine normalité malgré l'incident, avec des enseignants qui ont adapté leurs plans de cours et des élèves qui ont pu continuer à apprendre. L'enquête sur l'incident est toujours en cours, mais il semblerait que aucune donnée d'élève n'ait été compromise.",
+        "title": "Wayne-Westland Community Schools bouncing back after cyberattack",
+        "url": "https://www.wxyz.com/news/region/wayne-county/wayne-westland-community-schools-bouncing-back-to-normal-operations-after-cyber-attack",
+        "added": "2024-12-09"
+    },
+    {
         "date": "2024-12-07",
         "victim": "Vidymed",
         "domain": "vidymed.ch",
@@ -9060,7 +9070,7 @@
         "added": "2023-12-29"
     },
     {
-        "date": "2022-12-25",
+        "date": "2023-12-25",
         "victim": "Anna Jaques Hospital",
         "domain": "ajh.org",
         "country": "USA",
