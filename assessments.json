@@ -1,5 +1,12 @@
 [
     {
+        "victim": "blr",
+        "domain": "blr.com",
+        "country": "IN",
+        "date": "2024-11-14",
+        "group": "ransomhub"
+    },
+    {
         "victim": "Everde",
         "domain": "everde.com",
         "country": "US",
