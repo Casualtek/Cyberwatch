@@ -1,5 +1,12 @@
 [
     {
+        "victim": "Internet Way",
+        "domain": "internetway.com.br",
+        "country": "BR",
+        "date": "2024-10-21",
+        "group": "ransomhub"
+    },
+    {
         "victim": "Walking Tree Travel",
         "domain": "walkingtree.org",
         "country": "US",
