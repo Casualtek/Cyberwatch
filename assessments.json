@@ -1,5 +1,12 @@
 [
     {
+        "victim": "IDN",
+        "domain": "idn-inc.com",
+        "country": "ID",
+        "date": "2024-10-25",
+        "group": "qilin"
+    },
+    {
         "victim": "Casa Imports",
         "domain": "casaimports.com",
         "country": "US",
