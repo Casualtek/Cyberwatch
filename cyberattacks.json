@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-11-21",
+        "victim": "Artivion, Inc.",
+        "domain": "artivion.com",
+        "country": "USA",
+        "summary": "La société Artivion, Inc. a signalé une cyberattaque qui a eu lieu le 21 novembre 2024, entraînant la prise de mesures pour contenir et remédier à l'incident. L'incident a entraîné la perte et la cryptage de fichiers, mais la société estime que l'impact financier et opérationnel ne sera pas matériel. La société continue de fournir ses produits et services à ses clients, mais a subi des perturbations dans certaines de ses opérations.",
+        "title": "aort-20241209",
+        "url": "https://www.sec.gov/Archives/edgar/data/784199/000078419924000253/aort-20241209.htm",
+        "added": "2024-12-09"
+    },
+    {
         "date": "2024-12-08",
         "victim": "Societatea Energetica Electrica S.A.",
         "domain": "electrica.ro",
