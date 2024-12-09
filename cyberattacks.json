@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-12-02",
+        "victim": "ITO EN (North America) INC.",
+        "domain": "itoen.co.jp",
+        "country": "USA",
+        "summary": "La société ITO EN a été victime d'une cyberattaque par ransomware sur l'un de ses serveurs de fichiers à l'étranger, spécifiquement au sein de sa filiale ITO EN (North America) INC. L'attaque a été détectée le 2 décembre et les enquêtes sont en cours pour déterminer l'ampleur des dégâts. Pour l'instant, il n'y a pas d'autres victimes en dehors de cette filiale et les systèmes sont toujours en fonctionnement normal.",
+        "title": "弊社グループ会社におけるランサムウェア被害の発生について | 伊藤園 企業情報サイト",
+        "url": "https://www.itoen.co.jp/info/71295/",
+        "added": "2024-12-09"
+    },
+    {
         "date": "2024-11-15",
         "victim": "Jefferson Dental Center",
         "domain": "jeffersondentalcenter.com",
