@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-12-01",
+        "victim": "Klinikum Ingolstadt",
+        "domain": "klinikum-ingolstadt.de",
+        "country": "DEU",
+        "summary": "Le Klinikum Ingolstadt a été victime d'une cyberattaque ciblant son département informatique, qui a été détectée dimanche dernier. Les enquêtes sont en cours pour déterminer si des données de patients ont été compromises, mais pour l'instant, la prise en charge des patients n'est pas affectée. Les experts estiment que les entreprises de santé sont particulièrement vulnérables aux attaques en raison de leur infrastructure informatique historiquement développée et de leurs budgets de sécurité limités.",
+        "title": "Hackerangriff auf Klinikum Ingolstadt - LKA ermittelt | BR24",
+        "url": "https://www.br.de/nachrichten/bayern/hackerangriff-auf-klinikum-ingolstadt-lka-ermittelt,UWY2GmK",
+        "added": "2024-12-10"
+    },
+    {
         "date": "2024-12-09",
         "victim": "Muswellbrook Shire Council",
         "domain": "muswellbrook.nsw.gov.au",
