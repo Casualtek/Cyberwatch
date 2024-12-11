@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-11-29",
+        "victim": "Krispy Kreme, Inc.",
+        "domain": "krispykreme.com",
+        "country": "USA",
+        "summary": "Krispy Kreme, Inc. a été victime d'une cyberattaque le 29 novembre 2024, qui a entraîné des perturbations opérationnelles, notamment la fermeture de la commande en ligne aux États-Unis. L'entreprise travaille à contenir et à remédier à l'incident avec l'aide d'experts en cybersécurité et a notifié les autorités fédérales. Les coûts liés à l'incident devraient avoir un impact matériel sur les résultats opérationnels et la situation financière de l'entreprise.",
+        "title": "dnut-20241211",
+        "url": "https://www.sec.gov/Archives/edgar/data/1857154/000185715424000123/dnut-20241211.htm",
+        "added": "2024-12-11"
+    },
+    {
         "date": "2024-11-25",
         "victim": "Rutherford County Schools",
         "domain": "rcschools.net",
