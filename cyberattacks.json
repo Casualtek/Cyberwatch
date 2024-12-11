@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-12-09",
+        "victim": "Wood County",
+        "domain": "woodcountyohio.gov",
+        "country": "USA",
+        "summary": "Le comté de Wood a été victime d'une attaque de ransomware qui a bloqué l'accès aux serveurs du comté, affectant les fonctions du sheriff, de la cour de common pleas et d'autres bureaux du comté. Les employés ont dû recourir à des méthodes manuelles pour continuer à travailler, mais les services d'urgence n'ont pas été affectés. Les enquêteurs travaillent pour déterminer comment les attaquants ont pu accéder aux serveurs du comté et craignent que les données sensibles ne soient vendues sur le dark web.",
+        "title": "Ransomware attack cripples Wood County computer systems | The Blade",
+        "url": "https://www.toledoblade.com/local/suburbs/2024/12/10/ransomware-attack-cripples-wood-county-computer-systems/stories/20241210087",
+        "added": "2024-12-11"
+    },
+    {
         "date": "2024-12-01",
         "victim": "Klinikum Ingolstadt",
         "domain": "klinikum-ingolstadt.de",
