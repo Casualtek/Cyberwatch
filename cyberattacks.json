@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-12-08",
+        "victim": "Fundación Arturo López Pérez (FALP)",
+        "domain": "falp.org",
+        "country": "CHL",
+        "summary": "FALP (Instituto Oncológico) répond à une attaque de ransomware, impliquant potentiellement l'enseigne INC Ransom. Actuellement, le portail patients (My FALP) et la réservation d'heures sont indisponibles. Dans un communiqué interne, ils font état de fichiers “inc-readme.txt”, et demandent de déconnecter du réseau les PC sur lesquels ils seraient présents. L'équipe informatique, en collaboration avec des fournisseurs de sécurité externes, travaille pour contenir l'incident afin que les autres services de FALP ne soient pas compromis et que les services soient rétablis dès que possible.",
+        "title": "",
+        "url": "https://x.com/1ZRR4H/status/1866915007780245922/photo/1",
+        "added": "2024-12-11"
+    },
+    {
         "date": "2024-11-29",
         "victim": "Krispy Kreme, Inc.",
         "domain": "krispykreme.com",
