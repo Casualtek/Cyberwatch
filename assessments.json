@@ -1,5 +1,12 @@
 [
     {
+        "victim": "Hampton Securities",
+        "domain": "hamptonsecurities.com",
+        "country": "CA",
+        "date": "2024-10-22",
+        "group": "blackbasta"
+    },
+    {
         "victim": "Beko Technologies GmbH",
         "domain": "beko-technologies.com",
         "country": "DE",
