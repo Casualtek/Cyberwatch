@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-11-09",
+        "victim": "National Museum of the Royal Navy",
+        "domain": "nmrn.org.uk",
+        "country": "GBR",
+        "summary": "Le National Museum of the Royal Navy a été victime d'une cyberattaque par ransomware, qui a eu un impact significatif sur la prestation de services au musée. Les sites du musée restent ouverts, mais l'institution travaille avec ses partenaires, notamment le National Cyber Security Centre, pour comprendre l'origine et l'impact de l'attaque. Cet incident survient un an après une attaque similaire contre la British Library, qui a entraîné des pertes de 1,6 million de livres sterling.",
+        "title": "National Museum of the Royal Navy hit by cyber attack - Museums Association",
+        "url": "https://www.museumsassociation.org/museums-journal/news/2024/12/national-museum-of-the-royal-navy-hit-by-cyber-attack/#",
+        "added": "2024-12-12"
+    },
+    {
         "date": "2024-12-08",
         "victim": "Fundación Arturo López Pérez (FALP)",
         "domain": "falp.org",
