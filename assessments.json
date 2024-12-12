@@ -1,5 +1,12 @@
 [
     {
+        "victim": "Marlow",
+        "domain": "cityofmarlow.com",
+        "country": "US",
+        "date": "2024-11-27",
+        "group": "safepay"
+    },
+    {
         "victim": "Midwest.com",
         "domain": "midwest.com",
         "country": "US",
