@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-12-12",
+        "victim": "Taylor Regional Hospital",
+        "domain": "taylorregional.org",
+        "country": "USA",
+        "summary": "Le Taylor Regional Hospital à Hawkinsville, en Géorgie, a été victime d'une cyberattaque par ransomware, mais les responsables ont réussi à isoler le problème et à maintenir les activités hospitalières. L'enquête préliminaire n'a pas trouvé de preuve que des données aient été compromises, mais l'hôpital travaille avec les forces de l'ordre et son assureur pour résoudre l'incident. Les responsables de l'hôpital ont mis en place des protocoles de sécurité qui ont permis de répondre rapidement à la cyberattaque.",
+        "title": "Taylor Regional Hospital in Hawkinsville hit by cyberattack | 13wmaz.com",
+        "url": "https://www.13wmaz.com/article/news/crime/hawkinsville-taylor-regional-hospitalcyberattack-georgia-hospital-association-confirms/93-21c2c430-f080-4cc4-ace9-85df084f686b",
+        "added": "2024-12-13"
+    },
+    {
         "date": "2024-12-06",
         "victim": "Compass Communications",
         "domain": "compass.net.nz",
