@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-12-06",
+        "victim": "Compass Communications",
+        "domain": "compass.net.nz",
+        "country": "NZL",
+        "summary": "La société de télécommunications néo-zélandaise Compass Communications a confirmé avoir été victime d'une cyberattaque par le groupe de ransomware RA World, qui a volé 250 Go de données internes et clientèles. Les données volées incluent des informations financières, des données de ressources humaines et des détails sur les projets en cours. La société a pris des mesures pour contenir l'incident et avertit ses clients potentiellement affectés.",
+        "title": "Exclusive: Kiwi telco Compass Communications confirms ransomware attack - Cyber Daily",
+        "url": "https://www.cyberdaily.au/security/11490-exclusive-kiwi-telco-compass-communications-confirms-ransomware-attack",
+        "added": "2024-12-13"
+    },
+    {
         "date": "2024-11-09",
         "victim": "National Museum of the Royal Navy",
         "domain": "nmrn.org.uk",
