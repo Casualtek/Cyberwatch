@@ -1,5 +1,12 @@
 [
     {
+        "victim": "WimCoCorp",
+        "domain": "wimcocorp.com",
+        "country": "US",
+        "date": "2024-10-17",
+        "group": "lynx"
+    },
+    {
         "victim": "Keable & Brown",
         "domain": "keablelaw.com",
         "country": "US",
