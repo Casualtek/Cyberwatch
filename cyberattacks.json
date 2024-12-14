@@ -1,5 +1,15 @@
 [
     {
+        "date": "2023-12-05",
+        "victim": "Gouvernement de l'État de Rhode Island",
+        "domain": "ri.gov",
+        "country": "USA",
+        "summary": "Le gouvernement de l'État de Rhode Island a été victime d'une cyberattaque majeure, qui a permis aux hackers d'accéder aux informations personnelles de centaines de milliers de personnes, notamment des numéros de sécurité sociale et des coordonnées bancaires. Le système RIBridges, qui gère les programmes de services sociaux de l'État, a été mis hors ligne pour éviter que les données ne soient divulguées. Les autorités travaillent pour rétablir le système et ont mis en place un centre d'appel pour aider les personnes affectées.",
+        "title": "RI state government hit by major cyberattack; Social Security, bank numbers believed stolen | WPRI.com",
+        "url": "https://www.wpri.com/news/politics-government/ri-state-government-hit-by-major-cyberattack-social-security-bank-numbers-believed-stolen/",
+        "added": "2024-12-14"
+    },
+    {
         "date": "2024-12-12",
         "victim": "Taylor Regional Hospital",
         "domain": "taylorregional.org",
