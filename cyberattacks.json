@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-11-13",
+        "victim": "LKQ Corporation",
+        "domain": "lkqcorp.com",
+        "country": "CAN",
+        "summary": "LKQ Corporation, un géant de la pièce automobile, a été victime d'une cyberattaque qui a perturbé l'une de ses unités commerciales au Canada, permettant aux acteurs menaçants de voler des données de l'entreprise. L'incident a eu un impact négatif sur les opérations de l'unité commerciale pendant quelques semaines, mais LKQ a réussi à contenir la menace et à restaurer les opérations à près de 100%. L'entreprise ne s'attend pas à ce que l'incident ait un impact matériel sur ses résultats financiers pour le reste de l'année fiscale.",
+        "title": "Auto parts giant LKQ says cyberattack disrupted Canadian business unit",
+        "url": "https://www.bleepingcomputer.com/news/security/auto-parts-giant-lkq-says-cyberattack-disrupted-canadian-business-unit/",
+        "added": "2024-12-14"
+    },
+    {
         "date": "2023-12-05",
         "victim": "Gouvernement de l'État de Rhode Island",
         "domain": "ri.gov",
