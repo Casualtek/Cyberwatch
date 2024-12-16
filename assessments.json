@@ -1,5 +1,12 @@
 [
     {
+        "victim": "Telecom Namibia",
+        "domain": "telecom.na",
+        "country": "NA",
+        "date": "2024-11-21",
+        "group": "hunters"
+    },
+    {
         "victim": "HTT Packaging & Design",
         "domain": "httpack.com",
         "country": "CA",
