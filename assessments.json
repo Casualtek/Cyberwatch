@@ -1,5 +1,12 @@
 [
     {
+        "victim": "Muswellbrook Shire Council",
+        "domain": "muswellbrook.nsw.gov.au",
+        "country": "AU",
+        "date": "2024-12-03",
+        "group": "safepay"
+    },
+    {
         "victim": "Lorne Stewart Group",
         "domain": "lornestewartgroup.com",
         "country": "GB",
