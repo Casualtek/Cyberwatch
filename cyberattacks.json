@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-11-04",
+        "victim": "SRP Federal Credit Union",
+        "domain": "srpfcu.org",
+        "country": "USA",
+        "summary": "La SRP Federal Credit Union, l'une des plus grandes coopératives de crédit de Caroline du Sud, a été victime d'une cyberattaque qui a permis à des hackers d'accéder à des informations personnelles de plus de 240 000 personnes. Les données volées incluent des noms, des numéros de sécurité sociale, des numéros de permis de conduire, des dates de naissance et des informations financières. La cyberattaque, attribuée au groupe de ransomware Nitrogen, n'a pas touché le système de banque en ligne ni le système de traitement central de la coopérative de crédit.",
+        "title": "South Carolina credit union says 240,000 impacted by recent cyberattack | The Record from Recorded Future News",
+        "url": "https://therecord.media/south-carolina-credit-union-data-breach",
+        "added": "2024-12-16"
+    },
+    {
         "date": "2024-11-13",
         "victim": "LKQ Corporation",
         "domain": "lkqcorp.com",
