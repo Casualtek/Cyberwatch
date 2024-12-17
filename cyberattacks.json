@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-10-17",
+        "victim": "Kitsap Mental Health Services",
+        "domain": "kitsapmentalhealth.org",
+        "country": "USA",
+        "summary": "Kitsap Mental Health Services a subi une cyberattaque en septembre et octobre 2024, entraînant une fuite de données sensibles sur les patients, notamment des informations d'identification, des diagnostics médicaux et des données de santé. L'enquête a révélé que des données confidentielles, notamment des mots de passe et des informations de santé protégées, étaient stockées en clair sur le réseau de l'organisme. Les responsables de la cyberattaque ont mis en ligne des données volées, mais leur motivation et leur identité restent inconnues.",
+        "title": "Kitsap Mental Health Services breach impacted sensitive patient information (1) - DataBreaches.Net",
+        "url": "https://databreaches.net/2024/12/15/did-kitsap-mental-health-services-suffer-a-breach-of-patient-data/",
+        "added": "2024-12-17"
+    },
+    {
         "date": "2024-12-11",
         "victim": "Avril",
         "domain": "avril.ca",
