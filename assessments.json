@@ -1,5 +1,12 @@
 [
     {
+        "victim": "Tricon Energy",
+        "domain": "triconenergy.com",
+        "country": "US",
+        "date": "2024-09-29",
+        "group": "lynx"
+    },
+    {
         "victim": "Brockton Neighborhood Health Center",
         "domain": "bnhc.org",
         "country": "US",
