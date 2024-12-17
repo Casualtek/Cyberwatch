@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-12-08",
+        "victim": "Ecritel",
+        "domain": "ecritel.fr",
+        "country": "FRA",
+        "summary": "L'entreprise de services numériques française Ecritel a été victime d'une cyberattaque par le groupe de ransomware Hunters International, qui revendique le vol de 270 Go de données. Selon Ecritel, l'attaque a été détectée et arrêtée rapidement, sans impact sur la continuité de l'activité, et seul un serveur interne de documents de travail a été compromis. Hunters International est une franchise de ransomware liée à Hive, qui a été surprise en train de recycler des données issues de cyberattaques précédemment conduites sous bannière Hive.",
+        "title": "Ransomware : Ecritel victime d’une cyberattaque impliquant Hunters International | LeMagIT",
+        "url": "https://www.lemagit.fr/actualites/366617337/Ransomware-Ecritel-victime-dune-cyberattaque-impliquant-Hunters-International",
+        "added": "2024-12-17"
+    },
+    {
         "date": "2024-11-04",
         "victim": "SRP Federal Credit Union",
         "domain": "srpfcu.org",
