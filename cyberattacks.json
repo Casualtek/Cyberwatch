@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-09-08",
+        "victim": "Framingham Heart Study",
+        "domain": "framinghamheartstudy.org",
+        "country": "USA",
+        "summary": "L'étude de Framingham Heart Study de l'Université de Boston a été victime d'une cyberattaque, entraînant la fuite de données personnelles et médicales de 15 448 participants. Les hackers ont accédé au serveur de l'étude et ont téléchargé des fichiers contenant des informations sensibles, notamment des numéros de sécurité sociale. L'université et les autorités fédérales enquêtent sur l'incident et mettent en place des mesures de sécurité supplémentaires pour protéger les données des participants.",
+        "title": "BU and Federal Investigation Underway into Hacking of Framingham Heart Study Data | BU Today | Boston University",
+        "url": "https://www.bu.edu/articles/2024/investigation-into-hacking-of-fhs-data/",
+        "added": "2024-12-17"
+    },
+    {
         "date": "2024-10-17",
         "victim": "Kitsap Mental Health Services",
         "domain": "kitsapmentalhealth.org",
