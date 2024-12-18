@@ -1,5 +1,12 @@
 [
     {
+        "victim": "Town of Whitestown",
+        "domain": "whitestown.net",
+        "country": "US",
+        "date": "2024-11-09",
+        "group": "qilin"
+    },
+    {
         "victim": "Groupe-Fimar",
         "domain": "groupe-fimar.com",
         "country": "FR",
