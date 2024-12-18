@@ -1,5 +1,12 @@
 [
     {
+        "victim": "Chaves",
+        "domain": "chaves.pt",
+        "country": "PT",
+        "date": "2024-11-13",
+        "group": "qilin"
+    },
+    {
         "victim": "Town of Whitestown",
         "domain": "whitestown.net",
         "country": "US",
