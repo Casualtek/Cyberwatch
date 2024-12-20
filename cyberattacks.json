@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-12-18",
+        "victim": "Christopher Newport University",
+        "domain": "cnu.edu",
+        "country": "USA",
+        "summary": "L'Université Christopher Newport a été victime d'une cyberattaque sophistiquée qui a exposé les noms, adresses e-mail, numéros d'identification, titres de poste et informations de contact des employés. L'université a demandé aux utilisateurs de réinitialiser leurs mots de passe, sous peine de perdre l'accès à leurs comptes. L'enquête est en cours avec la participation de la police et de fournisseurs tiers pour investiguer, remédier et récupérer les données compromises.",
+        "title": "Names, emails, IDs exposed in Christopher Newport University cyberattack",
+        "url": "https://www.wtkr.com/news/in-the-community/newport-news/christopher-newport-university-hit-with-sophisticated-cyberattack",
+        "added": "2024-12-20"
+    },
+    {
         "date": "2024-11-26",
         "victim": "City of Noblesville",
         "domain": "noblesville.in.gov",
