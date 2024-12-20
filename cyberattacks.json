@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-12-11",
+        "victim": "Vincit",
+        "domain": "vincit.com",
+        "country": "FIN",
+        "summary": "La société finlandaise Valio a été victime d'une cyberattaque qui a compromis les données personnelles de plus de 5 000 employés et membres du personnel, notamment des informations d'identité, des détails de salaire et des informations bancaires. L'attaque a été menée via les informations d'accès d'un fournisseur de services IT, Vincit, qui a également été ciblé par l'attaque. Les enquêtes sont en cours pour déterminer l'ampleur de la violation et identifier les responsables.",
+        "title": "Cyber attack hits Valio, putting data of 5,000 at risk | Yle News | Yle",
+        "url": "https://yle.fi/a/74-20133008",
+        "added": "2024-12-20"
+    },
+    {
         "date": "2024-12-18",
         "victim": "Christopher Newport University",
         "domain": "cnu.edu",
