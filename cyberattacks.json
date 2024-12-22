@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-08-20",
+        "victim": "La ville de Santee",
+        "domain": "cityofsanteeca.gov",
+        "country": "USA",
+        "summary": "La ville de Santee a subi une attaque cybernétique en août dernier, qui a entraîné le vol ou la cryptage de biens de la ville, mais les détails de l'incident et de l'enquête en cours restent largement confidentiels. La ville a attribué un contrat de 603 000 dollars à la société Coveware pour tenter de récupérer les données volées. Les experts en cybersécurité estiment que les attaquants pourraient demander une rançon en échange de la restitution des données, mais les détails du contrat restent flous.",
+        "title": "Santee offering few details about cyber attack or contract to recover data - San Diego Union-Tribune",
+        "url": "https://www.sandiegouniontribune.com/2024/12/22/santee-offering-few-details-about-cyber-attack-or-contract-to-recover-data/",
+        "added": "2024-12-22"
+    },
+    {
         "date": "2024-12-02",
         "victim": "Marietta City Schools",
         "domain": "marietta-city.org",
