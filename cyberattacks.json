@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-02-20",
+        "victim": "PS Logistics",
+        "domain": "pslogistics.com",
+        "country": "USA",
+        "summary": "PS Logistics, une entreprise de transport et de logistique, a annoncé une violation de données suite à une cyberattaque en février 2024, qui a permis à un tiers non autorisé d'accéder à des informations sensibles de consommateurs. L'enquête a révélé que des fichiers et des dossiers contenant des informations confidentielles avaient été consultés, et des lettres de notification ont été envoyées aux personnes affectées. Les détails sur les informations compromises ne sont pas encore publics, mais les lettres de notification devraient fournir ces informations aux victimes.",
+        "title": "PS Logistics Announces Data Breach Stemming from February 2024 Cyberattack | Console and Associates, P.C. - JDSupra",
+        "url": "https://www.jdsupra.com/legalnews/ps-logistics-announces-data-breach-1660208/",
+        "added": "2024-12-22"
+    },
+    {
         "date": "2024-08-20",
         "victim": "La ville de Santee",
         "domain": "cityofsanteeca.gov",
