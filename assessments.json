@@ -1,5 +1,12 @@
 [
     {
+        "victim": "Adveo",
+        "domain": "adveo.eu",
+        "country": "FR",
+        "date": "2024-12-12",
+        "group": "cactus"
+    },
+    {
         "victim": "ProCaps Laboratories",
         "domain": "procapslabs.com",
         "country": "US",
