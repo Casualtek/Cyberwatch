@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-12-19",
+        "victim": "Pittsburgh Regional Transit (PRT)",
+        "domain": "rideprt.org",
+        "country": "USA",
+        "summary": "Une cyberattaque par ransomware a causé une panne d'internet qui a retardé les trains de la Pittsburgh Regional Transit (PRT) et a mis hors ligne plusieurs de ses systèmes. L'attaque a été détectée le 19 décembre et la PRT a immédiatement lancé une enquête et engagé des experts en cybersécurité. Les services de transit fonctionnent actuellement normalement, mais certains services pour les passagers sont toujours affectés.",
+        "title": "Internet outage that delayed T rail cars was related to ransomware attack, PRT says - WPXI",
+        "url": "https://www.wpxi.com/news/local/internet-outage-that-delayed-t-rail-cars-was-result-ransomware-attack-prt-says/4YCKQXPINJBQRB765RWXZZGCTY/",
+        "added": "2024-12-24"
+    },
+    {
         "date": "2024-02-20",
         "victim": "PS Logistics",
         "domain": "pslogistics.com",
