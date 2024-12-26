@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-09-26",
+        "victim": "American Addiction Centers",
+        "domain": "americanaddictioncenters.org",
+        "country": "USA",
+        "summary": "Une cyberattaque par ransomware en septembre dernier a exposé les informations de santé sensibles de plus de 400 000 personnes au sein d'American Addiction Centers, une chaîne de centres de réhabilitation pour la dépendance aux États-Unis. Les données volées incluent des numéros de sécurité sociale, des informations d'assurance santé et des coordonnées personnelles. Le groupe de ransomware Rhysida, connu pour ses attaques contre des réseaux de santé, a revendiqué l'attaque.",
+        "title": "Nearly half a million people had data stolen after cyberattack on American Addiction Centers | The Record from Recorded Future News",
+        "url": "https://therecord.media/data-breach-american-addiction-centers",
+        "added": "2024-12-26"
+    },
+    {
         "date": "2024-12-19",
         "victim": "Pittsburgh Regional Transit (PRT)",
         "domain": "rideprt.org",
