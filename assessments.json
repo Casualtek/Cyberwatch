@@ -1,5 +1,12 @@
 [
     {
+        "victim": "Bender GmbH & Co. KG",
+        "domain": "bender.de",
+        "country": "DE",
+        "date": "2024-10-31",
+        "group": "blackbasta"
+    },
+    {
         "victim": "Valveworks USA",
         "domain": "valveworksusa.com",
         "country": "US",
