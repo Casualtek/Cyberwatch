@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-11-09",
+        "victim": "Sogo",
+        "domain": "sogo-v.co.jp",
+        "country": "JPN",
+        "summary": "La société Sogo a subi une cyberattaque le 9 novembre 2024, lorsqu'un tiers a accédé de manière illicite à ses serveurs de fichiers, entraînant la cryptage de plusieurs serveurs. L'enquête est en cours pour déterminer les causes de l'incident et prévenir de nouvelles attaques. Des mesures de sécurité supplémentaires ont été mises en place, notamment la séparation physique des serveurs du réseau et la surveillance continue des sites sombres.",
+        "title": "当社ファイルサーバーへの不正アクセスについて | リフォーム商材、住宅設備商社の株式会社ソーゴー",
+        "url": "https://www.sogo-v.co.jp/info-cyberattack20241218.html",
+        "added": "2024-12-27"
+    },
+    {
         "date": "2024-09-26",
         "victim": "American Addiction Centers",
         "domain": "americanaddictioncenters.org",
