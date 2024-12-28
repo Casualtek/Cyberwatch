@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-12-27",
+        "victim": "Community Health Northwest Florida (CHNWFL)",
+        "domain": "healthcarewithinreach.org",
+        "country": "USA",
+        "summary": "La communauté de santé du nord-ouest de la Floride (CHNWFL) a été ciblée par une cyberattaque, ce qui a entraîné la mise hors ligne temporaire de ses systèmes pour protéger les opérations et évaluer la situation. Selon la direction, il n'y a pas de preuve que des données de patients aient été compromises. Les services de soins de santé essentiels continuent de fonctionner, mais certains services tels que la dentisterie, la pharmacie et les radiographies sont temporairement affectés.",
+        "title": "Community Health Northwest Florida targeted in cyber attack",
+        "url": "https://eu.pnj.com/story/news/2024/12/27/community-health-northwest-florida-targeted-in-cyber-attack/77270371007/",
+        "added": "2024-12-28"
+    },
+    {
         "date": "2024-11-09",
         "victim": "Sogo",
         "domain": "sogo-v.co.jp",
