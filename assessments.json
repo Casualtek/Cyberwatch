@@ -1,5 +1,12 @@
 [
     {
+        "victim": "UPR",
+        "domain": "upr.sg",
+        "country": "SG",
+        "date": "2024-12-10",
+        "group": "safepay"
+    },
+    {
         "victim": "Furmano's",
         "domain": "furmanos.com",
         "country": "US",
