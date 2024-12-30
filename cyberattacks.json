@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-12-22",
+        "victim": "PSC CORPORATION",
+        "domain": "psccorporation.com",
+        "country": "SGP",
+        "summary": "Le Groupe a récemment été victime d'un incident de ransomware, au cours duquel un tiers non autorisé a accédé à ses serveurs. Grâce à des actions rapides et à l'utilisation de systèmes de sauvegarde, l'impact sur les opérations a été minimal, et une évaluation préliminaire indique que l'incident n'a pas de conséquences financières significatives. Le Groupe a engagé une révision approfondie de ses systèmes informatiques pour renforcer sa cybersécurité et a signalé l'incident aux autorités compétentes à Singapour.",
+        "title": "CYBERSECURITY INCIDENT",
+        "url": "https://links.sgx.com/FileOpen/Announcement%20-%20Cybersecurity%20Incident.ashx?App=Announcement&FileID=828662",
+        "added": "2024-12-30"
+    },
+    {
         "date": "2024-12-27",
         "victim": "Community Health Northwest Florida (CHNWFL)",
         "domain": "healthcarewithinreach.org",
