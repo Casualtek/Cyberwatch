@@ -1,5 +1,12 @@
 [
     {
+        "victim": "Visconti",
+        "domain": "visconti.it",
+        "country": "IT",
+        "date": "2024-11-08",
+        "group": "ransomhub"
+    },
+    {
         "victim": "ACW LAW",
         "domain": "acwlaw.com",
         "country": "US",
