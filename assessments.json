@@ -1,5 +1,12 @@
 [
     {
+        "victim": "multicoasia.com",
+        "domain": "multicoasia.com",
+        "country": "SG",
+        "date": "2024-12-13",
+        "group": "safepay"
+    },
+    {
         "victim": "UPR",
         "domain": "upr.sg",
         "country": "SG",
