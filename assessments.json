@@ -1,5 +1,12 @@
 [
     {
+        "victim": "Groupe GM",
+        "domain": "groupegm.com",
+        "country": "FR",
+        "date": "2024-12-31",
+        "group": "ransomhub"
+    },
+    {
         "victim": "mpdory.com",
         "domain": "mpdory.com",
         "country": "US",
