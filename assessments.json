@@ -1,5 +1,12 @@
 [
     {
+        "victim": "GBC",
+        "domain": "galaxybroadband.ca",
+        "country": "CA",
+        "date": "2024-11-29",
+        "group": "lynx"
+    },
+    {
         "victim": "Talascend",
         "domain": "talascend.com",
         "country": "US",
