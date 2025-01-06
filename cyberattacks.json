@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-12-27",
+        "victim": "Fraunhofer IAO",
+        "domain": "iao.fraunhofer.de",
+        "country": "DEU",
+        "summary": "Le Fraunhofer-Institut für Arbeitswirtschaft und Organisation (IAO) à Stuttgart a été victime d'une attaque par ransomware le 27 décembre 2024, perturbant certains systèmes et données. L'institut enquête sur l'incident avec des experts en cybersécurité et a pris des mesures pour limiter les dégâts, tout en informant les autorités et partenaires concernés. Bien qu'une divulgation non autorisée de données personnelles ne soit pas exclue, ces données sont traitées de manière à ne pas permettre d'identifier directement des individus.",
+        "title": "Golem.de: IT-News für Profis",
+        "url": "https://www.golem.de/news/ransomware-cyberangriff-trifft-fraunhofer-institut-in-stuttgart-2501-192132.html",
+        "added": "2025-01-06"
+    },
+    {
         "date": "2024-12-22",
         "victim": "Nikki-Universal Co. Ltd.",
         "domain": "n-u.co.jp",
