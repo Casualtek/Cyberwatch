@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-12-22",
+        "victim": "Nikki-Universal Co. Ltd.",
+        "domain": "n-u.co.jp",
+        "country": "JPN",
+        "summary": "La société Nikki-Universal, un fabricant de produits chimiques, a été victime d'une attaque de ransomware sophistiquée, au cours de laquelle les hackers ont volé 761,8 Go de données. Le groupe de ransomware Hunters International, connu pour ses tactiques agressives, a revendiqué la responsabilité de l'attaque et menace de publier les données si les demandes de rançon ne sont pas satisfaites. Cette attaque souligne la vulnérabilité des entreprises face aux menaces cyber et met en évidence la nécessité de renforcer les défenses contre les attaques de plus en plus complexes.",
+        "title": "Nikki-Universal Cyber Attack - Hackers Claim 761.8 GB of Data Stolen",
+        "url": "https://cybersecuritynews.com/nikki-universal-cyber-attack/",
+        "added": "2025-01-06"
+    },
+    {
         "date": "2024-11-13",
         "victim": "Youth Eastside Services",
         "domain": "youtheastsideservices.org",
