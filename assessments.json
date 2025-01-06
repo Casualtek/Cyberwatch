@@ -1,5 +1,12 @@
 [
     {
+        "victim": "Horsa",
+        "domain": "horsa.com",
+        "country": "IT",
+        "date": "2024-11-16",
+        "group": "hunters"
+    },
+    {
         "victim": "Conteg",
         "domain": "conteg.com",
         "country": "CZ",
