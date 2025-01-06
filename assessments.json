@@ -1,5 +1,12 @@
 [
     {
+        "victim": "SmartLynx Airlines SIA",
+        "domain": "smartlynx.aero",
+        "country": "LV",
+        "date": "2024-10-31",
+        "group": "hunters"
+    },
+    {
         "victim": "Akantha",
         "domain": "akantha.fr",
         "country": "FR",
