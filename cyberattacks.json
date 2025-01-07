@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-08-25",
+        "victim": "DBG Global Enterprises Pty Ltd (DBG)",
+        "domain": "dbghealth.com.au",
+        "country": "AUS",
+        "summary": "La société DBG Health a été victime d'une cyberattaque le 25 août 2024, lorsqu'un tiers malveillant a accédé sans autorisation à un serveur de stockage et a extrait des données, notamment des formulaires de consentement clinique contenant des informations de santé de patients. Les données compromises datent de 2012 à 2015 et concernent des services de vaccination, de clinique de douleur et de densité osseuse. La société a pris des mesures pour contenir l'incident et avertit ses patients de rester vigilants face à d'éventuels messages ou appels suspects.",
+        "title": "Important Notice: Cybersecurity Incident | DBG Health",
+        "url": "https://dbghealth.com.au/important-notice-cybersecurity-incident/",
+        "added": "2025-01-07"
+    },
+    {
         "date": "2025-01-05",
         "victim": "Upper Canada District School Board (UCDSB)",
         "domain": "ucdsb.on.ca",
