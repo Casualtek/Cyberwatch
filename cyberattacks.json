@@ -1,5 +1,15 @@
 [
     {
+        "date": "2025-01-05",
+        "victim": "Upper Canada District School Board (UCDSB)",
+        "domain": "ucdsb.on.ca",
+        "country": "CAN",
+        "summary": "Le conseil scolaire de Upper Canada District School Board (UCDSB) fait face à une perturbation importante de son réseau, ce qui affectera toutes les écoles demain. Les écoles resteront ouvertes, mais il n'y aura pas d'accès à internet, ce qui signifie que les employés ne pourront pas accéder à leurs courriels et que la plateforme My Family Room sera hors ligne. Les parents sont invités à contacter les écoles directement par téléphone si nécessaire, car les communications par courriel et les réseaux sociaux ne seront pas possibles.",
+        "title": "Network Distruption - Upper Canada District School Board",
+        "url": "https://www.ucdsb.on.ca/u_c_d_s_b_news/what_s_new/network_distruption",
+        "added": "2025-01-07"
+    },
+    {
         "date": "2025-01-03",
         "victim": "La Police de Kingston",
         "domain": "kingstonpolice.ca",
