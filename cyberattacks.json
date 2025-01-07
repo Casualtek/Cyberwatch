@@ -1,5 +1,15 @@
 [
     {
+        "date": "2025-01-05",
+        "victim": "South Portland Public Schools",
+        "domain": "spsdme.org",
+        "country": "USA",
+        "summary": "Deux districts scolaires du Maine ont été victimes de problèmes de cybersécurité au cours du week-end, obligeant l'un d'eux à déconnecter son réseau internet pour protéger les données des étudiants. L'attaque a été détectée par un service de surveillance de la sécurité qui a alerté les responsables de l'école. Les enquêtes sont en cours pour déterminer l'origine et les intentions des attaquants.",
+        "title": "Cybersecurity issues impact 2 Maine public school districts",
+        "url": "https://www.pressherald.com/2025/01/06/south-portland-schools-take-down-network-after-cyber-breach/",
+        "added": "2025-01-07"
+    },
+    {
         "date": "2024-10-10",
         "victim": "Visionworks of America Inc.",
         "domain": "visionworks.com",
