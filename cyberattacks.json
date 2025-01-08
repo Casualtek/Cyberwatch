@@ -1,5 +1,15 @@
 [
     {
+        "date": "2025-01-07",
+        "victim": "Addison Northwest School District (ANWSD)",
+        "domain": "anwsd.org",
+        "country": "USA",
+        "summary": "Le district scolaire Addison Northwest (ANWSD) a fermé ses ordinateurs après avoir détecté une cyberattaque, qui a entraîné la perte ou la fermeture de l'accès à internet dans tout le district. Les administrateurs ont mis en œuvre des protocoles de réponse à l'incident, notamment en isolant les systèmes affectés, en engageant des experts en cybersécurité et en notifiant les autorités. L'enquête est en cours pour déterminer l'étendue de l'incident et les données éventuellement compromises.",
+        "title": "ANWSD shuts down computers after cyberattack - Addison Independent",
+        "url": "https://www.addisonindependent.com/2025/01/07/anwsd-shuts-down-computers-after-cyberattack/",
+        "added": "2025-01-08"
+    },
+    {
         "date": "2024-08-25",
         "victim": "DBG Global Enterprises Pty Ltd (DBG)",
         "domain": "dbghealth.com.au",
