@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-12-26",
+        "victim": "Winston-Salem",
+        "domain": "cityofws.org",
+        "country": "USA",
+        "summary": "La ville de Winston-Salem est toujours victime d'une cyberattaque qui a eu lieu le 26 décembre, ce qui a entraîné la fermeture de son système de paiement des factures d'électricité en ligne et de son service téléphonique CityLink. Les responsables de la ville travaillent sans relâche pour restaurer les services, mais ne peuvent pas encore donner de date pour la réouverture. Pendant ce temps, la ville a suspendu les pénalités de retard et les coupures de service en raison de l'incident.",
+        "title": "No timeline for service restoration after Winston-Salem cyber attack",
+        "url": "https://www.wfdd.org/story/no-timeline-service-restoration-after-winston-salem-cyber-attack",
+        "added": "2025-01-08"
+    },
+    {
         "date": "2023-03-25",
         "victim": "Elgon Information Systems",
         "domain": "homecaregps.net",
