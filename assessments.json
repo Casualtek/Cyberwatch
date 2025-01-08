@@ -1,6 +1,13 @@
 [
     {
-        "victim": "u0 Excel Transportation",
+        "victim": "Acqua Fértil Irrigation",
+        "domain": "acquafertil.com.br",
+        "country": "BR",
+        "date": "2024-12-27",
+        "group": "ransomhub"
+    },
+    {
+        "victim": "Excel Transportation",
         "domain": "exceltransportation.ca",
         "country": "CA",
         "date": "2024-12-21",
