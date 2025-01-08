@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-12-28",
+        "victim": "PowerSchool",
+        "domain": "powerschool.com",
+        "country": "USA",
+        "summary": "La société PowerSchool, fournisseur de logiciels éducatifs pour les écoles K-12, a subi une cyberattaque qui a permis à un acteur malveillant de voler des informations personnelles d'élèves et d'enseignants. Les données volées comprennent des coordonnées, des numéros de sécurité sociale, des informations médicales et des notes, et ont été exportées à l'aide d'un outil de maintenance du portail de support client PowerSource. PowerSchool a payé une rançon pour empêcher la diffusion des données, mais ne peut pas garantir que celles-ci n'ont pas été copiées.",
+        "title": "PowerSchool hack exposes student, teacher data from K-12 districts",
+        "url": "https://www.bleepingcomputer.com/news/security/powerschool-hack-exposes-student-teacher-data-from-k-12-districts/",
+        "added": "2025-01-08"
+    },
+    {
         "date": "2024-12-17",
         "victim": "National Bureau of Statistics (NBS)",
         "domain": "nigerianstat.gov.ng",
