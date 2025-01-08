@@ -1,5 +1,12 @@
 [
     {
+        "victim": "Fort Wayne Medical Education Program",
+        "domain": "fwmep.edu",
+        "country": "US",
+        "date": "2024-12-18",
+        "group": "incransom"
+    },
+    {
         "victim": "Acqua Fértil Irrigation",
         "domain": "acquafertil.com.br",
         "country": "BR",
