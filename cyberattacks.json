@@ -1,5 +1,15 @@
 [
     {
+        "date": "2023-03-25",
+        "victim": "Elgon Information Systems",
+        "domain": "homecaregps.net",
+        "country": "USA",
+        "summary": "La société de santé Elgon Information Systems a accepté de payer 80 000 dollars d'amende à la suite d'une enquête du département de la Santé et des Services sociaux des États-Unis (HHS) sur une attaque de ransomware en 2023. L'enquête a révélé que la société avait violé les règles fédérales sur la protection des données de santé en ne réalisant pas d'analyse de risque adéquate. Elgon doit également mettre en œuvre un plan d'action correctif pour résoudre les violations de la loi HIPAA.",
+        "title": "Massachusetts health firm reaches $80,000 settlement with HHS following ransomware investigation | The Record from Recorded Future News",
+        "url": "https://therecord.media/massachusetts-health-firm-reaches-settlement",
+        "added": "2025-01-08"
+    },
+    {
         "date": "2025-01-07",
         "victim": "Addison Northwest School District (ANWSD)",
         "domain": "anwsd.org",
