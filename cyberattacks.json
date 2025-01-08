@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-01-04",
+        "victim": "Un hôtel à Großarl",
+        "domain": "hotel-grossarl.at",
+        "country": "AUT",
+        "summary": "Un hôtel à Großarl a été victime d'une cyberattaque, où des hackers ont verrouillé son système informatique à l'aide d'un logiciel de cryptage et ont demandé 14 000 euros en bitcoin pour déverrouiller les données. L'hôtel a refusé de payer la rançon. La police enquête sur l'incident, mais le montant des dommages est encore inconnu.",
+        "title": "Cyberangriff auf Hotel in Großarl: Täter sperrten das Computersystem | SN.at",
+        "url": "https://www.sn.at/salzburg/chronik/cyberangriff-hotel-grossarl-taeter-computersystem-171381385",
+        "added": "2025-01-08"
+    },
+    {
         "date": "2024-12-28",
         "victim": "PowerSchool",
         "domain": "powerschool.com",
