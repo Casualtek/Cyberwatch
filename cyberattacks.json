@@ -1,5 +1,15 @@
 [
     {
+        "date": "2021-10-31",
+        "victim": "Virtual Private Network Solutions, LLC (VPN Solutions)",
+        "domain": "vpn-solution.net",
+        "country": "USA",
+        "summary": "Le département américain de la Santé et des Services sociaux (HHS) a conclu un accord de règlement de 90 000 dollars avec Virtual Private Network Solutions (VPN Solutions) pour une violation potentielle de la règle de sécurité HIPAA suite à une attaque de ransomware en 2021. L'enquête a révélé que VPN Solutions n'avait pas mené d'analyse des risques pour déterminer les vulnérabilités de son système. L'accord de règlement impose à VPN Solutions de mettre en œuvre un plan d'action correctif pour résoudre les violations potentielles de la règle de sécurité HIPAA.",
+        "title": "HHS Office for Civil Rights Settles 9th Ransomware Investigation with Virtual Private Network Solutions - DataBreaches.Net",
+        "url": "https://databreaches.net/2025/01/08/hhs-office-for-civil-rights-settles-9th-ransomware-investigation-with-virtual-private-network-solutions/",
+        "added": "2025-01-09"
+    },
+    {
         "date": "2024-01-04",
         "victim": "Un hôtel à Großarl",
         "domain": "hotel-grossarl.at",
