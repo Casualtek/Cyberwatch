@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-12-29",
+        "victim": "Peikko",
+        "domain": "peikko.com",
+        "country": "FIN",
+        "summary": "La société finlandaise Peikko a été victime d'une cyberattaque lors du week-end des fêtes, affectant également son usine à Höringhausen en Allemagne. Les hackers ont probablement cherché à obtenir de l'argent en volant des données ou en demandant une rançon. Les systèmes de l'entreprise ont été restaurés et les productions sont à nouveau en cours, mais l'enquête se poursuit pour déterminer l'ampleur de l'attaque.",
+        "title": "Höringhäuser Peikko-Werk war Opfer von Hacker-Angriff",
+        "url": "https://www.hna.de/lokales/frankenberg/waldeck-ort79441/hoeringhaeuser-peikko-werk-war-opfer-von-hacker-angriff-93504528.html",
+        "added": "2025-01-09"
+    },
+    {
         "date": "2024-02-25",
         "victim": "Kotz Sangster Wysocki P.C.",
         "domain": "kotzsangster.com",
