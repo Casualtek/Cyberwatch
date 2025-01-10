@@ -1,5 +1,12 @@
 [
     {
+        "victim": "League Center",
+        "domain": "leaguecenter.org",
+        "country": "US",
+        "date": "2024-12-07",
+        "group": "ransomhub"
+    },
+    {
         "victim": "Temo Textile",
         "domain": "temotekstil.com.tr",
         "country": "TR",
