@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-10-11",
+        "victim": "BayMark Health Services",
+        "domain": "baymark.com",
+        "country": "USA",
+        "summary": "BayMark Health Services, le plus grand fournisseur de services de traitement des troubles de l'usage de substances en Amérique du Nord, a notifié ses patients d'une violation de données qui a exposé des informations personnelles et de santé, notamment des numéros de sécurité sociale et des informations d'assurance. L'attaque, qui a eu lieu en septembre 2024, a été revendiquée par le groupe de ransomware RansomHub, qui a volé 1,5 To de fichiers. BayMark offre maintenant une année de surveillance d'identité gratuite aux patients dont les informations ont été exposées.",
+        "title": "Largest US addiction treatment provider notifies patients of data breach",
+        "url": "https://www.bleepingcomputer.com/news/security/largest-us-addiction-treatment-provider-notifies-patients-of-data-breach/",
+        "added": "2025-01-10"
+    },
+    {
         "date": "2024-12-29",
         "victim": "Peikko",
         "domain": "peikko.com",
