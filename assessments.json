@@ -1,5 +1,12 @@
 [
     {
+        "victim": "MIE Industrial Sdn Bhd",
+        "domain": "mie.com.my",
+        "country": "MY",
+        "date": "2024-12-18",
+        "group": "ransomhub"
+    },
+    {
         "victim": "TREL",
         "domain": "rotaryeng.co.th",
         "country": "TH",
