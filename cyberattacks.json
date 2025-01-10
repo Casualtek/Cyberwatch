@@ -1,5 +1,15 @@
 [
     {
+        "date": "2025-01-08",
+        "victim": "Office of Geodesy, Cartography and Cadastre of the Slovak Republic (UGKK)",
+        "domain": "skgeodesy.sk",
+        "country": "SVK",
+        "summary": "La Slovaquie a été victime d'une cyberattaque massive ciblant le système d'enregistrement des terres et des propriétés, obligeant à la fermeture de tous les systèmes et à la limitation des activités des bureaux du cadastre. Les autorités soupçonnent que l'attaque provient d'Ukraine, mais aucune preuve n'a été fournie. La cyberattaque, considérée comme la plus importante de l'histoire de la Slovaquie, a demandé une rançon de sept chiffres pour restaurer les systèmes et les données chiffrées.",
+        "title": "Slovakia Hit by Historic Cyber-Attack on Land Registry - Infosecurity Magazine",
+        "url": "https://www.infosecurity-magazine.com/news/slovakia-hit-by-large-scale/",
+        "added": "2025-01-10"
+    },
+    {
         "date": "2025-01-07",
         "victim": "Laramie County Library System",
         "domain": "lclsonline.org",
