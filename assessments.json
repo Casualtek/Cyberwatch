@@ -1,5 +1,12 @@
 [
     {
+        "victim": "Temo Textile",
+        "domain": "temotekstil.com.tr",
+        "country": "TR",
+        "date": "2024-12-12",
+        "group": "ransomhub"
+    },
+    {
         "victim": "Excel Resourcing",
         "domain": "excelresourcing.co.uk",
         "country": "GB",
