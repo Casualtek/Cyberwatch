@@ -1,6 +1,16 @@
 [
     {
         "date": "2025-01-07",
+        "victim": "Laramie County Library System",
+        "domain": "lclsonline.org",
+        "country": "USA",
+        "summary": "Le système de bibliothèques du comté de Laramie a été ciblé par une attaque de ransomware, ce qui signifie que les données du système ont été chiffrées et rendues inaccessibles. Les responsables du système ont déclaré que les données des utilisateurs n'avaient pas été compromises, mais que certaines opérations avaient été interrompues. Les enquêteurs travaillent actuellement pour déterminer l'origine de l'attaque et restaurer l'accès aux données.",
+        "title": "Laramie County library system targeted by ransomware attack",
+        "url": "https://www.wyomingnews.com/news/local_news/laramie-county-library-system-targeted-by-ransomware-attack/article_569c80d6-ced7-11ef-a8bd-4381cda65c2b.html",
+        "added": "2025-01-10"
+    },
+    {
+        "date": "2025-01-07",
         "victim": "New Brunswick Liquor Corporation",
         "domain": "anbl.com",
         "country": "CAN",
