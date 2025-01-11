@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-11-15",
+        "victim": "Institut statistique du Montenegro(MONSTAT)",
+        "domain": "monstat.org",
+        "country": "MNE",
+        "summary": "L'institut de statistiques MONSTAT a été victime d'une cyberattaque en novembre dernier, qui a permis aux hackers d'accéder à ses données. Les données ont été verrouillées et sont restées inaccessibles jusqu'à nouvel ordre. Les hackers auraient demandé une rançon en échange de la restitution des données, mais MONSTAT n'a pas officiellement confirmé l'incident.",
+        "title": "MONSTAT data accessed in hack - CdM",
+        "url": "https://www.cdm.me/english/monstat-data-accessed-in-hack/",
+        "added": "2025-01-11"
+    },
+    {
         "date": "2024-06-23",
         "victim": "Excelsior Orthopaedics, LLP",
         "domain": "excelsiorortho.com",
