@@ -1,6 +1,16 @@
 [
     {
         "date": "2025-01-08",
+        "victim": "Prefeitura de Sarapuí",
+        "domain": "sarapui.sp.gov.br",
+        "country": "BRA",
+        "summary": "La mairie de Sarapuí a été victime d'une cyberattaque le 8 janvier, qui a compromis plusieurs services en ligne, notamment l'émission de documents et de certificats, le paiement de taxes et de tributs, ainsi que les demandes faites via des plateformes numériques. Ces services sont temporairement indisponibles en raison de l'instabilité causée par l'attaque. L'enquête est en cours pour déterminer l'ampleur des dégâts et restaurer les services affectés.",
+        "title": "Prefeitura de Sarapuí sofre ataque cibernético; veja quais serviços foram comprometidos | Itapetininga e Região | G1",
+        "url": "https://g1.globo.com/sp/itapetininga-regiao/noticia/2025/01/10/prefeitura-de-sarapui-sofre-ataque-cibernetico-veja-quais-servicos-foram-comprometidos.ghtml",
+        "added": "2025-01-11"
+    },
+    {
+        "date": "2025-01-08",
         "victim": "Office of Geodesy, Cartography and Cadastre of the Slovak Republic (UGKK)",
         "domain": "skgeodesy.sk",
         "country": "SVK",
@@ -3770,7 +3780,7 @@
         "added": "2024-07-31"
     },
     {
-        "date": "2024-07-30",
+        "date": "2024-07-28",
         "victim": "OneBlood",
         "domain": "oneblood.org",
         "country": "USA",
