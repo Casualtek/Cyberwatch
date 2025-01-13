@@ -1,5 +1,15 @@
 [
     {
+        "date": "2025-01-12",
+        "victim": "Technische Universiteit Eindhoven (TU Eindhoven)",
+        "domain": "tue.nl",
+        "country": "NLD",
+        "summary": "L'Université de Technologie d'Eindhoven (TU Eindhoven) a été victime d'une cyberattaque, ce qui a obligé l'université à déconnecter son réseau interne pour éviter de nouveaux dommages. En conséquence, les cours sont annulés pour au moins un jour et les étudiants ne peuvent pas accéder à leurs courriels ou utiliser le Wi-Fi sur le campus. Les experts en sécurité de l'université enquêtent sur l'incident et travaillent à rétablir les systèmes en ligne.",
+        "title": "Dag geen onderwijs op TU Eindhoven vanwege cyberaanval",
+        "url": "https://nos.nl/artikel/2551479-dag-geen-onderwijs-op-tu-eindhoven-vanwege-cyberaanval",
+        "added": "2025-01-13"
+    },
+    {
         "date": "2024-11-15",
         "victim": "Institut statistique du Montenegro(MONSTAT)",
         "domain": "monstat.org",
