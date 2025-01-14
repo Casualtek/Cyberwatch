@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-10-04",
+        "victim": "HCF Management Inc.",
+        "domain": "hcfinc.com",
+        "country": "USA",
+        "summary": "HCF Management Inc. a informé les victimes d'une cyberattaque survenue en septembre 2024, qui a permis à un tiers non autorisé d'accéder à des informations sensibles telles que des numéros de sécurité sociale, des informations médicales et des coordonnées personnelles. L'enquête a révélé que l'accès non autorisé a eu lieu le 17 septembre 2024 et que des lettres de notification de violation de données ont été envoyées aux personnes affectées le 9 janvier 2025. Les informations compromises varient en fonction des individus, mais peuvent inclure des noms, des adresses, des numéros de téléphone, des dates de naissance, des numéros de sécurité sociale, des informations médicales et des informations d'assurance santé.",
+        "title": "HCF Management Sends Data Breach Letters to Victims Following September 2024 Cyberattack | Console and Associates, P.C. - JDSupra",
+        "url": "https://www.jdsupra.com/legalnews/hcf-management-sends-data-breach-6650149/",
+        "added": "2025-01-14"
+    },
+    {
         "date": "2024-03-09",
         "victim": "Wacks Law Group",
         "domain": "wackslaw.net",
