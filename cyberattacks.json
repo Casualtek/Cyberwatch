@@ -1,5 +1,15 @@
 [
     {
+        "date": "2023-09-20",
+        "victim": "Ashford Inc.",
+        "domain": "ashfordinc.com",
+        "country": "USA",
+        "summary": "La Securities and Exchange Commission (SEC) a intenté une action en justice contre Ashford Inc. pour avoir fait des déclarations mensongères aux investisseurs concernant une cyberattaque qui a eu lieu en septembre 2023. Ashford a affirmé que les informations des clients n'avaient pas été compromises, alors qu'en réalité, plus de 12 To de données sensibles, notamment des informations personnelles et financières de clients, avaient été volées. Ashford a accepté de payer une amende de 115 231 dollars et de consentir à une injonction pour régler l'affaire.",
+        "title": "SEC.gov | Ashford Inc",
+        "url": "https://www.sec.gov/enforcement-litigation/litigation-releases/lr-26215",
+        "added": "2025-01-14"
+    },
+    {
         "date": "2024-01-11",
         "victim": "Bourne",
         "domain": "townofbourne.com",
