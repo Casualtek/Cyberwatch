@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-01-11",
+        "victim": "Bourne",
+        "domain": "townofbourne.com",
+        "country": "USA",
+        "summary": "Le réseau informatique de la ville de Bourne a été compromis lors d'une cyberattaque survenue le samedi 11 janvier, selon un communiqué conjoint publié par le département de police et la ville le 12 janvier. Les services de police et le système d'urgence 9-1-1 restent entièrement opérationnels, et les services téléphoniques et de messagerie électronique de la ville ne semblent pas avoir été affectés. ",
+        "title": "Cyberattack Compromises Town Information Technology Network | Bourne News | capenews.net",
+        "url": "https://www.capenews.net/bourne/news/cyberattack-compromises-town-information-technology-network/article_e439b564-d155-11ef-bf14-27446630f2e6.html",
+        "added": "2025-01-14"
+    },
+    {
         "date": "2025-01-12",
         "victim": "Technische Universiteit Eindhoven (TU Eindhoven)",
         "domain": "tue.nl",
