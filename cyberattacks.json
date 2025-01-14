@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-12-28",
+        "victim": "VSU (Valdosta State University)",
+        "domain": "valdosta.edu",
+        "country": "USA",
+        "summary": "Une cyberattaque a frappé l'université d'État de Valdosta (VSU) le 28 décembre, entraînant la fermeture de tout le réseau, des systèmes et de l'accès à internet. Les équipes d'informatique et de cybersécurité de l'université travaillent avec des experts externes pour sécuriser les données et restaurer les opérations de manière sécurisée. Les cours en ligne se poursuivent normalement, mais les étudiants et les enseignants en présence doivent faire face à des difficultés importantes en raison de l'absence de technologie en classe.",
+        "title": "Cyberattack continues to disrupt classes and computer labs at VSU",
+        "url": "https://www.wtxl.com/valdosta/cyberattack-continues-to-disrupt-classes-and-computer-labs-at-valdosta-state-university",
+        "added": "2025-01-14"
+    },
+    {
         "date": "2023-09-20",
         "victim": "Ashford Inc.",
         "domain": "ashfordinc.com",
