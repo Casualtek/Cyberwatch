@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-03-09",
+        "victim": "Wacks Law Group",
+        "domain": "wackslaw.net",
+        "country": "USA",
+        "summary": "Le cabinet Wacks Law Group a découvert, le 9 mars 2024, une violation de données, impliquant un accès non autorisé à des informations personnelles sensibles dans son réseau informatique. L'incident a fait l'objet d'une enquête approfondie qui a révélé que des informations telles que les noms, numéros de sécurité sociale et numéros de permis de conduire pourraient avoir été consultées et exfiltrées par un tiers. Il a été ultérieurement revendiqué sous la bannière de Qilin.",
+        "title": "The Wacks Law Group Data Breach Investigation - Strauss Borrelli PLLC",
+        "url": "https://straussborrelli.com/2024/08/06/the-wacks-law-group-data-breach-investigation/",
+        "added": "2025-01-14"
+    },
+    {
         "date": "2024-12-28",
         "victim": "VSU (Valdosta State University)",
         "domain": "valdosta.edu",
