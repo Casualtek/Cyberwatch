@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-07-28",
+        "victim": "Baker Center for Children and Families",
+        "domain": "bakercenter.org",
+        "country": "USA",
+        "summary": "Le Baker Center for Children and Families à Boston a subi une violation de sécurité en juillet 2024, avec un accès non autorisé à son environnement de stockage numérique détecté le 28 juillet. Entre le 26 et le 28 juillet, des fichiers contenant des informations sensibles, notamment des noms, adresses, numéros de sécurité sociale, données médicales et financières, ont pu être téléchargés. Des lettres de notification ont été envoyées le 27 décembre 2024 aux 2 715 personnes concernées, et des mesures de sécurité renforcées ont été mises en place pour éviter de futurs incidents.",
+        "title": "Dignity Health Lassen Medical Clinic Cyberattack Affects 65,482 Patients",
+        "url": "https://www.hipaajournal.com/dignity-health-lassen-medical-clinic-cyberattack/",
+        "added": "2025-01-15"
+    },
+    {
         "date": "2024-09-20",
         "victim": "Dignity Health Lassen Medical Clinic",
         "domain": "dignityhealth.org",
