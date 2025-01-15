@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-11-22",
+        "victim": "Golden Age Home Health",
+        "domain": "goldenagehealth.com",
+        "country": "USA",
+        "summary": "Golden Age Home Health, un prestataire de soins à domicile basé à Oklahoma City, a subi une cyberattaque affectant les informations de santé protégées de 2 280 patients. Bien que la date de détection et les types de données concernées ne soient pas précisés, les patients impactés bénéficient de services gratuits de surveillance de crédit et de prévention contre la fraude. L'organisation a mis en place une ligne d'assistance et renforcé ses protocoles de cybersécurité pour protéger la confidentialité et la confiance de ses patients.",
+        "title": "Dignity Health Lassen Medical Clinic Cyberattack Affects 65,482 Patients",
+        "url": "https://www.hipaajournal.com/dignity-health-lassen-medical-clinic-cyberattack/",
+        "added": "2025-01-15"
+    },
+    {
         "date": "2024-07-28",
         "victim": "Baker Center for Children and Families",
         "domain": "bakercenter.org",
