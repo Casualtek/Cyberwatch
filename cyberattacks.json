@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-12-11",
+        "victim": "Mortgage Investors Group (MIG)",
+        "domain": "migonline.com",
+        "country": "USA",
+        "summary": "Le groupe de prêt hypothécaire Mortgage Investors Group (MIG) basé au Tennessee a confirmé avoir été victime d'une cyberattaque en décembre, exposant des informations personnelles et financières de nombreux clients. L'attaque, revendiquée par le groupe de ransomware Black Basta, a commencé le 11 décembre et a été découverte le lendemain. MIG a engagé un fournisseur pour identifier les clients affectés et prévoit les notifier dans les semaines à venir.",
+        "title": "Tennessee-based mortgage lender confirms December cyberattack | The Record from Recorded Future News",
+        "url": "https://therecord.media/tennessee-mortgage-lender-confirms-cyberattack",
+        "added": "2025-01-15"
+    },
+    {
         "date": "2024-11-20",
         "victim": "Conad",
         "domain": "conad.it",
