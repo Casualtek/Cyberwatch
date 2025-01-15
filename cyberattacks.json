@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-11-20",
+        "victim": "Conad",
+        "domain": "conad.it",
+        "country": "ITA",
+        "summary": "La chaîne de supermarchés italienne Conad a été victime d'une cyberattaque par le groupe de hackers Lynx, qui a volé des documents confidentiels et demande un ransom pour ne pas les diffuser sur le dark web. Les hackers affirment avoir obtenu des informations sur les ressources humaines et les clients, mais Conad nie que les données des clients aient été compromises. Le groupe Lynx est considéré comme motivé par le gain financier et cette attaque est considérée comme une évolution du ransomware traditionnel.",
+        "title": "Conad è stata hackerata, chiesto riscatto per non diffondere i dati rubati",
+        "url": "https://www.hdblog.it/sicurezza/articoli/n605483/conad-attacco-hacker-ransomware/",
+        "added": "2025-01-15"
+    },
+    {
         "date": "2024-10-04",
         "victim": "HCF Management Inc.",
         "domain": "hcfinc.com",
