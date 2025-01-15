@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-09-20",
+        "victim": "Dignity Health Lassen Medical Clinic",
+        "domain": "dignityhealth.org",
+        "country": "USA",
+        "summary": "Dignity Health Lassen Medical Clinic a informé 65 482 patients en Californie que certaines de leurs informations médicales protégées ont été exposées ou volées lors d'une cyberattaque détectée le 20 septembre 2024. Les fichiers compromis incluent des données telles que noms, adresses, dates de naissance, informations financières, et un nombre limité de numéros de sécurité sociale, mais les dossiers médicaux électroniques n'ont pas été affectés. Des mesures de sécurité renforcées ont été mises en place, et les patients concernés se sont vu offrir des services gratuits de surveillance de crédit.",
+        "title": "Dignity Health Lassen Medical Clinic Cyberattack Affects 65,482 Patients",
+        "url": "https://www.hipaajournal.com/dignity-health-lassen-medical-clinic-cyberattack/",
+        "added": "2025-01-15"
+    },
+    {
         "date": "2025-01-08",
         "victim": "Gateshead Council",
         "domain": "gateshead.gov.uk",
