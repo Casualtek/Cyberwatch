@@ -74,7 +74,7 @@ def post_to_bluesky(text):
     )
     
 def get_claim(group, victim_name, victim_domain):
-    url = 'https://api.ransomware.live/groupvictims/'+group
+    url = 'https://api.ransomware.live/v2/groupvictims/'+group
     headers = {
         'accept': 'application/json'
         }
