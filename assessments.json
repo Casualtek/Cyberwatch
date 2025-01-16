@@ -1,5 +1,12 @@
 [
     {
+        "victim": "Equipo Postal",
+        "domain": "equipo-postal.com",
+        "country": "MX",
+        "date": "2025-01-07",
+        "group": "safepay"
+    },
+    {
         "victim": "Bell & Graham",
         "domain": "bellandgraham.co.nz",
         "country": "NZ",
