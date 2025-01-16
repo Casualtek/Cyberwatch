@@ -1,5 +1,15 @@
 [
     {
+        "date": "2025-01-08",
+        "victim": "University of Oklahoma",
+        "domain": "ou.edu",
+        "country": "USA",
+        "summary": "L'Université de l'Oklahoma a isolé ses systèmes après avoir détecté une activité inhabituelle sur son réseau informatique, qui aurait permis à un groupe de ransomware appelé Fog de voler 91 Mo de données, notamment des informations sur les employés et des données financières. L'université a pris des mesures pour investiguer l'incident et mettre en place des mesures de sécurité supplémentaires. Cet incident est le dernier d'une série d'attaques de ransomware ciblant des établissements d'enseignement supérieur aux États-Unis.",
+        "title": "University of Oklahoma isolates systems after ‘unusual activity’ on IT network | The Record from Recorded Future News",
+        "url": "https://therecord.media/university-of-oklahoma-isolates-systems-unusual-activity",
+        "added": "2025-01-16"
+    },
+    {
         "date": "2024-11-22",
         "victim": "Golden Age Home Health",
         "domain": "goldenagehealth.com",
