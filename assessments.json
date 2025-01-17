@@ -1,5 +1,12 @@
 [
     {
+        "victim": "Greyform Pte Ltd",
+        "domain": "greyform.sg",
+        "country": "SG",
+        "date": "2025-01-07",
+        "group": "safepay"
+    },
+    {
         "victim": "ddelta.com.mx",
         "domain": "ddelta.com.mx",
         "country": "MX",
