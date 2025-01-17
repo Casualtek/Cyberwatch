@@ -1,9 +1,16 @@
 [
     {
+        "victim": "ddelta.com.mx",
+        "domain": "ddelta.com.mx",
+        "country": "MX",
+        "date": "2025-01-09",
+        "group": "safepay"
+    },
+    {
         "victim": "Platinum Collision",
         "domain": "platinumcollision.com",
         "country": "US",
-        "date": "2024-01-09",
+        "date": "2025-01-09",
         "group": "safepay"
     },
     {
