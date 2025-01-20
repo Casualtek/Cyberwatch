@@ -1,6 +1,16 @@
 [
     {
         "date": "2025-01-13",
+        "victim": "CHU de Grenoble Alpes",
+        "domain": "chu-grenoble.fr",
+        "country": "FRA",
+        "summary": "Le CHU de Grenoble a été ciblé par une tentative d'intrusion informatique depuis le 13 janvier, mais grâce à ses procédures de sécurité, aucune exfiltration de données médicales n'a été détectée pour l'instant. Des mesures conservatoires ont été mises en place, notamment la réinitialisation des mots de passe des professionnels et des restrictions d'accès à distance. L'enquête se poursuit pour garantir une analyse complète et approfondie de l'incident.",
+        "title": "Isère. Tentative d’intrusion informatique au CHU de Grenoble",
+        "url": "https://www.ledauphine.com/sante/2025/01/20/isere-tentative-d-intrusion-informatique-au-chu-de-grenoble",
+        "added": "2025-01-20"
+    },
+    {
+        "date": "2025-01-13",
         "victim": "D-Trust GmbH",
         "domain": "d-trust.net",
         "country": "DEU",
