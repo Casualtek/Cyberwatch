@@ -1,5 +1,12 @@
 [
     {
+        "victim": "West Penn Allegheny Health System",
+        "domain": "ahn.org",
+        "country": "US",
+        "date": "2024-11-13",
+        "group": "lockbit3"
+    },
+    {
         "victim": "HABESHA CEMENT S.C",
         "domain": "habeshacement.com",
         "country": "ET",
