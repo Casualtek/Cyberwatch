@@ -1,5 +1,15 @@
 [
     {
+        "date": "2025-01-13",
+        "victim": "D-Trust GmbH",
+        "domain": "d-trust.net",
+        "country": "DEU",
+        "summary": "La société allemande D-Trust GmbH a été victime d'une cyberattaque sur son portail de demande de cartes de signature et de sceau, qui a pu entraîner la fuite de données personnelles des demandeurs. Les cartes de signature et de sceau émises ne sont pas compromises et peuvent continuer à être utilisées, tandis que les PIN, les mots de passe et les informations de paiement ne sont pas affectés. La D-Trust a pris des mesures immédiates pour sécuriser les données et a signalé l'incident aux autorités compétentes.",
+        "title": "Datenschutzvorfall bei der D-Trust",
+        "url": "https://www.d-trust.net/de/newsroom/news/information-datenschutzvorfall-13-januar-2025",
+        "added": "2025-01-20"
+    },
+    {
         "date": "2025-01-17",
         "victim": "Blacon High School",
         "domain": "blaconhighschool.net",
