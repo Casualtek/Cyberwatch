@@ -1,5 +1,12 @@
 [
     {
+        "victim": "Findhelp Information Services",
+        "domain": "findhelp.ca",
+        "country": "CA",
+        "date": "2024-11-11",
+        "group": "incransom"
+    },
+    {
         "victim": "Arc Community Services Inc.",
         "domain": "arccommserv.com",
         "country": "US",
