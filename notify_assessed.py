@@ -74,7 +74,7 @@ def post_to_bluesky(text):
     )
     
 def get_claim(group, victim_name, victim_domain):
-    url = 'https://api.ransomware.live/groupvictims/'+group
+    url = 'https://api.ransomware.live/v2/groupvictims/'+group
     headers = {
         'accept': 'application/json'
         }
@@ -83,9 +83,9 @@ def get_claim(group, victim_name, victim_domain):
     claims = response.json()
     
     for claim in claims:
-        title   = claim.get("post_title")
+        title   = claim.get("victim")
         title   = title.lower()
-        website = claim.get("website")
+        website = claim.get("domain")
         website = website.lower()
         if website == victim_domain or website == "www."+victim_domain or title == victim_name.lower() or title == victim_domain:
             claimed = datetime.strptime(claim.get("published"), "%Y-%m-%d %H:%M:%S.%f")
