@@ -1,5 +1,12 @@
 [
     {
+        "victim": "Westbank Corp",
+        "domain": "westbankcorp.com",
+        "country": "CA",
+        "date": "2024-10-29",
+        "group": "blackbasta"
+    },
+    {
         "victim": "Spectrum Medical Imaging",
         "domain": "spectrumradiology.com.au",
         "country": "AU",
