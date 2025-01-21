@@ -1,7 +1,14 @@
 [
     {
+        "victim": "Avril Supermarché Santé",
+        "domain": "avril.ca",
+        "country": "CA",
+        "date": "2024-12-12",
+        "group": "blackbasta"
+    },
+    {
         "victim": "Brachot",
-        "domain": "Brachot.com",
+        "domain": "brachot.com",
         "country": "BE",
         "date": "2024-12-11",
         "group": "blackbasta"
