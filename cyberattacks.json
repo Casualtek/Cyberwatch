@@ -1,5 +1,15 @@
 [
     {
+        "date": "2025-01-15",
+        "victim": "Schul-IT in Speyer",
+        "domain": "speyer.de",
+        "country": "DEU",
+        "summary": "Des enquêtes sont en cours après une cyberattaque avec ransomware contre le système d'information scolaire de Speyer. Les détails de l'incident ne sont pas encore disponibles mais une quarantaine d'établissements scolaires sont affectés. Les autorités travaillent à élucider les circonstances de l'attaque et à évaluer les éventuels dommages.",
+        "title": "Untersuchungen nach Hackerangriff auf Schul-IT in Speyer",
+        "url": "https://www.schwetzinger-zeitung.de/orte/speyer_artikel,-speyer-untersuchungen-nach-hackerangriff-auf-schul-it-in-speyer-_arid,2279614.html",
+        "added": "2025-01-21"
+    },
+    {
         "date": "2025-01-13",
         "victim": "CHU de Grenoble Alpes",
         "domain": "chu-grenoble.fr",
