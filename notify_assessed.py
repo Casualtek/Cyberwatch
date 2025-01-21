@@ -88,7 +88,7 @@ def get_claim(group, victim_name, victim_domain):
         website = claim.get("domain")
         website = website.lower()
         if website == victim_domain or website == "www."+victim_domain or title == victim_name.lower() or title == victim_domain:
-            claimed = datetime.strptime(claim.get("published"), "%Y-%m-%d %H:%M:%S.%f")
+            claimed = datetime.strptime(claim.get("discovered"), "%Y-%m-%d %H:%M:%S.%f")
             return(datetime.strftime(claimed, '%d %B %Y'))
 
 def main():
