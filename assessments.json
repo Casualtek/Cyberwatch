@@ -1,5 +1,12 @@
 [
     {
+        "victim": "One Care",
+        "domain": "onecaresupport.ca",
+        "country": "CA",
+        "date": "2024-12-15",
+        "group": "incransom"
+    },
+    {
         "victim": "Nash Brothers Construction (nashdom.local)",
         "domain": "nashbothers.com",
         "country": "US",
