@@ -1,5 +1,12 @@
 [
     {
+        "victim": "Semesco",
+        "domain": "semesco.com",
+        "country": "CY",
+        "date": "2024-12-29",
+        "group": "safepay"
+    },
+    {
         "victim": "Maverick Constructors",
         "domain": "maverickconstructors.com",
         "country": "US",
