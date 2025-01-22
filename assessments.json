@@ -1,5 +1,12 @@
 [
     {
+        "victim": "Gonzales Unified School District",
+        "domain": "gonzalesusd.net",
+        "country": "US",
+        "date": "2024-12-17",
+        "group": "safepay"
+    },
+    {
         "victim": "Semesco",
         "domain": "semesco.com",
         "country": "CY",
