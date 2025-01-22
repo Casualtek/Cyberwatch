@@ -1,6 +1,16 @@
 [
     {
         "date": "2025-01-15",
+        "victim": "Conduent",
+        "domain": "conduent.com",
+        "country": "USA",
+        "summary": "L'entreprise de services IT Conduent a été victime d'une cyberattaque, ce qui a entraîné l'interruption de services publics dans plusieurs États américains, affectant des milliers de familles qui dépendent de ces services. L'attaque a été rapidement maîtrisée, mais a nécessité une restauration sécurisée qui a pris plusieurs jours. Les détails de l'attaque ne sont pas encore connus, mais Conduent a précisé que sa sécurité avait été compromise par une \"intrusion de tiers\".",
+        "title": "这家IT供应商被黑，导致美国多地公共服务被迫中断多天 - 安全内参 | 决策者的网络安全知识库",
+        "url": "https://www.secrss.com/articles/74989",
+        "added": "2025-01-22"
+    },
+    {
+        "date": "2025-01-15",
         "victim": "Schul-IT in Speyer",
         "domain": "speyer.de",
         "country": "DEU",
