@@ -1,5 +1,12 @@
 [
     {
+        "victim": "Solge",
+        "domain": "solge.es",
+        "country": "ES",
+        "date": "2025-01-14",
+        "group": "safepay"
+    },
+    {
         "victim": "Gonzales Unified School District",
         "domain": "gonzalesusd.net",
         "country": "US",
