@@ -1,12 +1,12 @@
 [
     {
-        "date": "2025-01-18",
-        "victim": "KAIKATSU FRONTIER Inc.",
-        "domain": "kaikatsufrontier.co.jp",
-        "country": "JPN",
-        "summary": "Une cyberattaque a touché KAIKATSU FRONTIER Inc., filiale consolidée de AOKI Holdings Inc., et pourrait avoir entraîné une fuite de données personnelles de certains clients. L'incident, détecté le samedi 18 janvier 2025, a conduit à l'isolement immédiat du serveur concerné et à une enquête avec des experts en sécurité, révélant que des informations comme noms, adresses, numéros de téléphone et dates de naissance des membres pourraient avoir été volées. AOKI Holdings et KAIKATSU FRONTIER ont pris des mesures pour renforcer leur sécurité, consulté les autorités compétentes et s'engagent à prévenir de futurs incidents tout en poursuivant l'enquête.",
-        "title": "Unauthorized Access and Possibility of Stolen Personal Information at a Consolidated Subsidiary",
-        "url": "https://ir.aoki-hd.co.jp/en/news/news/auto_20250122553763/pdfFile.pdf",
+        "date": "2025-01-15",
+        "victim": "Topackt IT Solutions GmbH",
+        "domain": "topackt.com",
+        "country": "DEU",
+        "summary": "Des enquêtes sont en cours après une cyberattaque avec ransomware contre le système d'information scolaire de Speyer. Les détails de l'incident ne sont pas encore disponibles mais une quarantaine d'établissements scolaires sont affectés. Les autorités travaillent à élucider les circonstances de l'attaque et à évaluer les éventuels dommages. Une cyberattaque contre Topack IT Solutions, éditeur de solutions notamment utilisées par les écoles de la région, et basé à Speyer, a été revendiquée sur le site vitrine de LockBit.",
+        "title": "Untersuchungen nach Hackerangriff auf Schul-IT in Speyer",
+        "url": "https://www.schwetzinger-zeitung.de/orte/speyer_artikel,-speyer-untersuchungen-nach-hackerangriff-auf-schul-it-in-speyer-_arid,2279614.html",
         "added": "2025-01-23"
     },
     {
@@ -18,16 +18,6 @@
         "title": "这家IT供应商被黑，导致美国多地公共服务被迫中断多天 - 安全内参 | 决策者的网络安全知识库",
         "url": "https://www.secrss.com/articles/74989",
         "added": "2025-01-22"
-    },
-    {
-        "date": "2025-01-15",
-        "victim": "Schul-IT in Speyer",
-        "domain": "speyer.de",
-        "country": "DEU",
-        "summary": "Des enquêtes sont en cours après une cyberattaque avec ransomware contre le système d'information scolaire de Speyer. Les détails de l'incident ne sont pas encore disponibles mais une quarantaine d'établissements scolaires sont affectés. Les autorités travaillent à élucider les circonstances de l'attaque et à évaluer les éventuels dommages.",
-        "title": "Untersuchungen nach Hackerangriff auf Schul-IT in Speyer",
-        "url": "https://www.schwetzinger-zeitung.de/orte/speyer_artikel,-speyer-untersuchungen-nach-hackerangriff-auf-schul-it-in-speyer-_arid,2279614.html",
-        "added": "2025-01-21"
     },
     {
         "date": "2025-01-13",
