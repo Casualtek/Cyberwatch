@@ -1,5 +1,12 @@
 [
     {
+        "victim": "Frigopesca",
+        "domain": "frigopesca.com.ec",
+        "country": "EC",
+        "date": "2024-11-29",
+        "group": "ransomhub"
+    },
+    {
         "victim": "Pro-Mec",
         "domain": "pro-mec.com",
         "country": "US",
