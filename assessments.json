@@ -1,5 +1,12 @@
 [
     {
+        "victim": "Tabocas",
+        "domain": "tabocas.com.br",
+        "country": "BR",
+        "date": "2024-11-20",
+        "group": "ransomhub"
+    },
+    {
         "victim": "Frigopesca",
         "domain": "frigopesca.com.ec",
         "country": "EC",
