@@ -1,5 +1,12 @@
 [
     {
+        "victim": "planetgroup.co.il",
+        "domain": "planetgroup.co.il",
+        "country": "IL",
+        "date": "2024-12-18",
+        "group": "ransomhub"
+    },
+    {
         "victim": "itca.edu.sv",
         "domain": "itca.edu.sv",
         "country": "SV",
