@@ -1,5 +1,12 @@
 [
     {
+        "victim": "itca.edu.sv",
+        "domain": "itca.edu.sv",
+        "country": "SV",
+        "date": "2024-12-21",
+        "group": "safepay"
+    },
+    {
         "victim": "Chain And Rope Suppliers",
         "domain": "chainandrope.ie",
         "country": "IE",
