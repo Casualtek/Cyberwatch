@@ -1,5 +1,12 @@
 [
     {
+        "victim": "Byron Union School District",
+        "domain": "byronunionschooldistrict.us",
+        "country": "US",
+        "date": "2024-12-20",
+        "group": "safepay"
+    },
+    {
         "victim": "planetgroup.co.il",
         "domain": "planetgroup.co.il",
         "country": "IL",
