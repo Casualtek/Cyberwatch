@@ -1,5 +1,25 @@
 [
     {
+        "date": "2025-01-24",
+        "victim": "Matagorda County",
+        "domain": "co.matagorda.tx.us",
+        "country": "USA",
+        "summary": "Le comté de Matagorda, au Texas, a déclaré l'état de catastrophe après qu'une cyberattaque a perturbé ses systèmes internes, mais il n'y a pas encore de preuve que des données personnelles de résidents aient été compromises. Les autorités locales enquêtent sur l'incident avec l'aide de plusieurs agences, notamment le FBI, et ont isolé les systèmes affectés pour mener une analyse approfondie. Le juge du comté a promis de fournir des mises à jour transparentes sur l'incident tandis que les équipes travaillent à sécuriser les systèmes.",
+        "title": "Matagorda County declares disaster after cyber attack disrupts internal systems; Investigation underway | Free Share | baycitytribune.com",
+        "url": "https://baycitytribune.com/free_share/matagorda-county-declares-disaster-after-cyber-attack-disrupts-internal-systems-investigation-underway/article_31b75348-daaa-11ef-993e-83f86b96f01a.html",
+        "added": "2025-01-25"
+    },
+    {
+        "date": "2025-01-19",
+        "victim": "Hospital El Cruce-Néstor Kirchner", 
+        "domain": "hospitalelcruce.org",
+        "country": "ARG",
+        "summary": "Le prestigieux hôpital El Cruce-Néstor Kirchner a été victime d'une attaque cibernetique il y a six jours, attribuée à un hacker nommé MEDUSA, qui a exploité une vulnérabilité dans le système informatique de l'hôpital. L'attaque a affecté les informations stockées sur les serveurs de l'hôpital, suscitant des inquiétudes quant à la sécurité et la disponibilité des données. Le personnel a été recommandé de ne pas se connecter au Wi-Fi de l'hôpital jusqu'à ce que la situation soit résolue.",
+        "title": "HOSPITAL EL CRUCE SUFRE ATAQUE CIBERNÉTICO | LA MISIÓN INFORMA", 
+        "url": "https://lamisioninforma.com.ar/hospital-el-cruce-sufre-ataque-cibernetico/",
+        "added": "2025-01-25"
+    }
+    {
         "date": "2025-01-19",
         "victim": "Boost (filiale d'Ilem)",
         "domain": "ilemgroup.com",
