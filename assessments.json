@@ -1,5 +1,12 @@
 [
     {
+        "victim": "Nutripack",
+        "domain": "nutripack.eu",
+        "country": "FR",
+        "date": "2025-01-14",
+        "group": "safepay"
+    },
+    {
         "victim": "Archie Cochrane Ford",
         "domain": "billingsford.com",
         "country": "US",
