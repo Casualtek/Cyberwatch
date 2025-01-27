@@ -1,5 +1,12 @@
 [
     {
+        "victim": "Brunetti",
+        "domain": "brunetti.com",
+        "country": "AU",
+        "date": "2025-01-14",
+        "group": "safepay"
+    },
+    {
         "victim": "Paradise Schools",
         "domain": "paradiseschools.org",
         "country": "US",
