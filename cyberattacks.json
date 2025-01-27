@@ -1,6 +1,16 @@
 [
     {
         "date": "2025-01-21",
+        "victim": "Sanrio Entertainment",
+        "domain": "sanrio.co.jp",
+        "country": "JPN",
+        "summary": "Sanrio Entertainment, propriétaire de parcs à thème populaires au Japon, dont Harmonyland, a été victime d'une cyberattaque le 21 janvier 2025, entraînant des perturbations opérationnelles et des restrictions d'accès pour les visiteurs. L'incident soulève des questions sur la sécurité des données et la préparation des entreprises face aux cybermenaces, notamment au Japon où les attaques informatiques sont en augmentation. La société travaille à restaurer la fonctionnalité de ses systèmes et à protéger les informations de ses clients.",
+        "title": "Emergency Alert: Cyber Attack Strikes Popular Theme Parks! What You Need to Know",
+        "url": "https://elblog.pl/2025/01/26/emergency-alert-cyber-attack-strikes-popular-theme-parks-what-you-need-to-know/",
+        "added": "2025-01-27"
+    },
+    {
+        "date": "2025-01-21",
         "victim": "Runway Hair Design",
         "domain": "runwayhairdesign.ca",
         "country": "CAN",
