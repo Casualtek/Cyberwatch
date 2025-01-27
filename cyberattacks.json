@@ -1,5 +1,15 @@
 [
     {
+        "date": "2025-01-21",
+        "victim": "Runway Hair Design",
+        "domain": "runwayhairdesign.ca",
+        "country": "CAN",
+        "summary": "Un salon de coiffure à Strathmore, en Alberta, a été fermé pendant plusieurs jours après avoir été victime d'une cyberattaque par ransomware, qui a crypté les fichiers de l'entreprise. Le salon a pu rouvrir après avoir réparé ses ordinateurs, mais il accuse le fournisseur de logiciel Milano de ne pas avoir fourni d'informations sur l'attaque. Selon le salon, aucune donnée client n'a été compromise pendant l'attaque.",
+        "title": "Cyberattack temporarily shuts down Strathmore hair salon - StrathmoreNow.com - Local news, Weather, Sports, Free Classifieds, and Job Listings for Strathmore and southern Alberta.",
+        "url": "https://strathmorenow.com/articles/cyberattack-temporarily-shuts-down-strathmore-hair-salon",
+        "added": "2025-01-27"
+    },
+    {
         "date": "2025-01-24",
         "victim": "Matagorda County",
         "domain": "co.matagorda.tx.us",
@@ -11,11 +21,11 @@
     },
     {
         "date": "2025-01-19",
-        "victim": "Hospital El Cruce-Néstor Kirchner", 
+        "victim": "Hospital El Cruce-Néstor Kirchner",
         "domain": "hospitalelcruce.org",
         "country": "ARG",
         "summary": "Le prestigieux hôpital El Cruce-Néstor Kirchner a été victime d'une attaque cibernetique il y a six jours, attribuée à un hacker nommé MEDUSA, qui a exploité une vulnérabilité dans le système informatique de l'hôpital. L'attaque a affecté les informations stockées sur les serveurs de l'hôpital, suscitant des inquiétudes quant à la sécurité et la disponibilité des données. Le personnel a été recommandé de ne pas se connecter au Wi-Fi de l'hôpital jusqu'à ce que la situation soit résolue.",
-        "title": "HOSPITAL EL CRUCE SUFRE ATAQUE CIBERNÉTICO | LA MISIÓN INFORMA", 
+        "title": "HOSPITAL EL CRUCE SUFRE ATAQUE CIBERNÉTICO | LA MISIÓN INFORMA",
         "url": "https://lamisioninforma.com.ar/hospital-el-cruce-sufre-ataque-cibernetico/",
         "added": "2025-01-25"
     },
