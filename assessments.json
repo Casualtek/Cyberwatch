@@ -1,5 +1,12 @@
 [
     {
+        "victim": "Bigotti",
+        "domain": "bigotti.ro",
+        "country": "RO",
+        "date": "2025-01-14",
+        "group": "safepay"
+    },
+    {
         "victim": "Brunetti",
         "domain": "brunetti.com",
         "country": "AU",
