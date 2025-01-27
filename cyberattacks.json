@@ -1,5 +1,15 @@
 [
     {
+        "date": "2025-01-29",
+        "victim": "Flashforge",
+        "domain": "flashforge.com",
+        "country": "CHN",
+        "summary": "La société Flashforge, spécialisée dans les imprimantes 3D, a été victime d'une cyberattaque qui a compromis son service en ligne Flash Cloud, entraînant la perte de données utilisateur. Les détails de l'attaque et de l'étendue des dommages ne sont pas encore connus. Les utilisateurs de Flash Cloud sont invités à changer leurs mots de passe et à surveiller leurs comptes pour détecter d'éventuelles activités suspectes.",
+        "title": "Flashforge's 'Flash Cloud' Suffers Cyberattack, Loses User Data | All3DP",
+        "url": "https://all3dp.com/4/flashforges-flash-cloud-suffers-cyberattack-loses-user-data/",
+        "added": "2025-01-27"
+    },
+    {
         "date": "2025-01-27",
         "victim": "Université Autonome d'Occident",
         "domain": "uao.edu.co",
