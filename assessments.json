@@ -1,5 +1,12 @@
 [
     {
+        "victim": "Gaylord Specialty Healthcare",
+        "domain": "gaylord.org",
+        "country": "US",
+        "date": "2024-12-19",
+        "group": "safepay"
+    },
+    {
         "victim": "Bigotti",
         "domain": "bigotti.ro",
         "country": "RO",
