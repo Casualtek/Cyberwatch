@@ -1,5 +1,15 @@
 [
     {
+        "date": "2025-01-26",
+        "victim": "South African Weather Service (SAWS)",
+        "domain": "weathersa.co.za",
+        "country": "ZAF",
+        "summary": "Le service météorologique sud-africain (SAWS) a été victime d'une cyberattaque présumée dimanche soir, affectant son site web et ses services d'e-mail. Les systèmes d'information et de communication de l'organisme ont été touchés, perturbant les services d'aviation et de marine. Les autorités enquêtent sur l'incident et les systèmes sont en cours de restauration.",
+        "title": "Hackers target SA Weather service - twice - hitting critical web and email systems | Business",
+        "url": "https://www.news24.com/fin24/climate_future/news/hackers-target-sa-weather-service-twice-hitting-critical-web-and-email-systems-20250127",
+        "added": "2025-01-27"
+    },
+    {
         "date": "2025-01-21",
         "victim": "Sanrio Entertainment",
         "domain": "sanrio.co.jp",
