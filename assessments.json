@@ -1,5 +1,12 @@
 [
     {
+        "victim": "Paradise Schools",
+        "domain": "paradiseschools.org",
+        "country": "US",
+        "date": "2024-12-29",
+        "group": "safepay"
+    },
+    {
         "victim": "Nutripack",
         "domain": "nutripack.eu",
         "country": "FR",
