@@ -1,5 +1,15 @@
 [
     {
+        "date": "2025-01-28",
+        "victim": "Smiths Group plc",
+        "domain": "smiths.com",
+        "country": "GBR",
+        "summary": "Le groupe Smiths a été victime d'une cyberattaque qui a entraîné un accès non autorisé à ses systèmes. L'entreprise a rapidement isolé les systèmes affectés et a activé ses plans de continuité des activités, et elle travaille maintenant avec des experts en cybersécurité pour récupérer les systèmes et déterminer l'impact plus large sur l'entreprise. Smiths prend des mesures pour se conformer à toutes les exigences réglementaires pertinentes et fournira des mises à jour lorsque cela sera approprié.",
+        "title": "Cyber Security Incident",
+        "url": "https://otp.tools.investis.com/clients/uk/smiths_group_plc2/rns/regulatory-story.aspx?cid=1441&newsid=1904230",
+        "added": "2025-01-28"
+    },
+    {
         "date": "2025-01-27",
         "victim": "Marposs",
         "domain": "marposs.com",
