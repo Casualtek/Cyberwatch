@@ -1,5 +1,25 @@
 [
     {
+        "date": "2025-01-27",
+        "victim": "Marposs",
+        "domain": "marposs.com",
+        "country": "ITA",
+        "summary": "L'entreprise Marposs a été victime d'une cyberattaque de type Cryptolocker, qui a crypté certains de ses serveurs, mais elle a rapidement réagi en mettant en place une équipe d'experts en cybersécurité pour minimiser les dégâts. Les activités internes ont continué avec quelques retards, mais l'impact sur la production a été limité. Marposs a notifié l'incident aux autorités compétentes et travaille à restaurer progressivement ses systèmes pour reprendre ses activités normales.",
+        "title": "Marposs sotto attacco: criptati i server",
+        "url": "https://www.ilrestodelcarlino.it/bologna/cronaca/marposs-sotto-attacco-criptati-i-4e224af0",
+        "added": "2025-01-28"
+    },
+    {
+        "date": "2025-01-18",
+        "victim": "KAIKATSU FRONTIER Inc.",
+        "domain": "kaikatsufrontier.co.jp",
+        "country": "JPN",
+        "summary": "Une cyberattaque a touché KAIKATSU FRONTIER Inc., filiale consolidée de AOKI Holdings Inc., et pourrait avoir entraîné une fuite de données personnelles de certains clients. L'incident, détecté le samedi 18 janvier 2025, a conduit à l'isolement immédiat du serveur concerné et à une enquête avec des experts en sécurité, révélant que des informations comme noms, adresses, numéros de téléphone et dates de naissance des membres pourraient avoir été volées. AOKI Holdings et KAIKATSU FRONTIER ont pris des mesures pour renforcer leur sécurité, consulté les autorités compétentes et s'engagent à prévenir de futurs incidents tout en poursuivant l'enquête.",
+        "title": "Unauthorized Access and Possibility of Stolen Personal Information at a Consolidated Subsidiary",
+        "url": "https://ir.aoki-hd.co.jp/en/news/news/auto_20250122553763/pdfFile.pdf",
+        "added": "2025-01-23"
+    },
+    {
         "date": "2024-11-03",
         "victim": "Furniture Mart USA",
         "domain": "furnituremartusa.com",
