@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-12-09",
+        "victim": "Alles Lægehus",
+        "domain": "alleslaegehus.dk",
+        "country": "DNK",
+        "summary": "Une cyberattaque a visé le fournisseur de services de santé danois Alles Lægehus, entraînant le vol de données sensibles, notamment des numéros d'identification centrale (CPR) et des informations de santé. Les données volées, qui concernent environ 130 000 patients, ont été divulguées et pourraient être utilisées pour des arnaques. Les autorités et Alles Lægehus travaillent ensemble pour informer les patients concernés et prévenir d'éventuels abus.",
+        "title": "Dänemark: Cyberangriff auf Praxis-Anbieter | APOTHEKE ADHOC",
+        "url": "https://www.apotheke-adhoc.de/nachrichten/detail/internationales/daenemark-cyberangriff-auf-praxis-anbieter/",
+        "added": "2025-01-30"
+    },
+    {
         "date": "2025-01-27",
         "victim": "Mt Baker Imaging / Northwest Radiologists",
         "domain": "mtbakerimaging.com",
