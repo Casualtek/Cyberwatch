@@ -1,5 +1,15 @@
 [
     {
+        "date": "2025-01-28",
+        "victim": "AAA Data",
+        "domain": "aaa-data.fr",
+        "country": "FRA",
+        "summary": "L'éditeur de solutions métiers AAA Data a été victime d'une cyberattaque ciblée le 28 janvier, détectée par son centre opérationnel de sécurité (SOC) à 6h23. L'entreprise a immédiatement confiné son système d'information et mobilisé ses partenaires forensiques, et travaille en collaboration avec les autorités compétentes pour mener à bien les analyses et identifier les mesures de renforcement. Les services AutoImmat et Sivin n'ont pas été impactés, mais l'activité de certains clients de AAA Data est affectée, suscitant des interrogations quant à la situation.",
+        "title": "L’éditeur de solutions métiers AAA DATA victime d’une cyberattaque | LeMagIT",
+        "url": "https://www.lemagit.fr/actualites/366618566/Lediteur-de-solutions-metiers-AAA-DATA-victime-dune-cyberattaque",
+        "added": "2025-01-31"
+    },
+    {
         "date": "2025-01-02",
         "victim": "Community Health Center (CHC)",
         "domain": "chc1.com",
