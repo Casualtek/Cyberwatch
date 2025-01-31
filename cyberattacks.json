@@ -1,5 +1,15 @@
 [
     {
+        "date": "2025-01-20",
+        "victim": "Apex Custom Software",
+        "domain": "apexcustomsoftware.com",
+        "country": "USA",
+        "summary": "La société Apex Custom Software, spécialisée dans les logiciels de santé, a été victime d'une cyberattaque par le groupe de hackers 0mid16B, qui menace de divulguer les données volées si une rançon n'est pas payée. Les hackers affirment avoir accès à des informations sensibles, notamment des données de médicaments et des informations de connexion d'employés, et accusent Apex de négligence en matière de sécurité. Apex n'a pas répondu aux demandes de commentaire, et il est inconnu si les clients, tels que Cardinal Health, ont été informés de l'incident.",
+        "title": "Exclusive: Apex Custom Software hacked, threat actors threaten to leak the software - DataBreaches.Net",
+        "url": "https://databreaches.net/2025/01/30/exclusive-apex-custom-software-hacked-threat-actors-threaten-to-leak-the-software/",
+        "added": "2025-01-31"
+    },
+    {
         "date": "2025-01-30",
         "victim": "Hamilton-Wentworth District School Board",
         "domain": "hwdsb.on.ca",
