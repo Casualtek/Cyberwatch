@@ -1,5 +1,15 @@
 [
     {
+        "date": "2025-01-02",
+        "victim": "Community Health Center (CHC)",
+        "domain": "chc1.com",
+        "country": "USA",
+        "summary": "Le fournisseur de soins de santé américain Community Health Center (CHC) a été victime d'une cyberattaque qui a compromis les données personnelles et de santé de plus de 1 million de patients. Les attaquants ont volé des fichiers contenant des informations sensibles, mais n'ont pas chiffré les systèmes de l'organisme. L'incident fait partie d'une série de brèches de sécurité récentes dans le secteur de la santé aux États-Unis, ce qui a conduit le département de la Santé et des Services sociaux à proposer des mises à jour des règles de cybersécurité.",
+        "title": "US healthcare provider data breach impacts 1 million patients",
+        "url": "https://www.bleepingcomputer.com/news/security/us-healthcare-provider-data-breach-impacts-1-million-patients/",
+        "added": "2025-01-31"
+    },
+    {
         "date": "2025-01-16",
         "victim": "Heart Center",
         "domain": "heartcentre.net.au",
