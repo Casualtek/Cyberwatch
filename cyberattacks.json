@@ -1,5 +1,25 @@
 [
     {
+        "date": "2025-01-16",
+        "victim": "Heart Center",
+        "domain": "heartcentre.net.au",
+        "country": "AUS",
+        "summary": "Le groupe de cybercriminels DragonForce a revendiqué la responsabilité d'une cyberattaque contre Heart Centre, un réseau de cliniques de cardiologie en Nouvelle-Galles du Sud, en Australie. Cette attaque a entraîné le vol de données sensibles concernant des patients, notamment des diagnostics et des informations de santé protégées, soulignant ainsi la vulnérabilité des infrastructures informatiques des hôpitaux. Cet incident souligne la nécessité urgente d'améliorer les mesures de cybersécurité dans le secteur des soins de santé afin de protéger la vie privée et les données des patients.",
+        "title": "Exclusive: Heart Centre Cyberattack in Australia, DragonForce Claims Responsibility for Sensitive Data Theft",
+        "url": "https://www.suspectfile.com/exclusive-heart-centre-cyberattack-in-australia-dragonforce-claims-responsibility-for-sensitive-data-theft/",
+        "added": "2025-01-31"
+    },
+    {
+        "date": "2024-11-06",
+        "victim": "Mizuno USA",
+        "domain": "mizunousa.com",
+        "country": "USA",
+        "summary": "Mizuno USA, une filiale du fabricant de matériel de sport Mizuno, a confirmé avoir été victime d'une cyberattaque entre août et octobre 2024, durant laquelle des hackers ont volé des fichiers contenant des informations personnelles. L'attaque a été revendiquée par le groupe de ransomware BianLian, qui a déjà ciblé d'autres entreprises et organisations. Mizuno offre désormais une année de surveillance de crédit et de protection d'identité gratuite aux personnes touchées par la violation de données.",
+        "title": "Mizuno USA says hackers stayed in its network for two months",
+        "url": "https://www.bleepingcomputer.com/news/security/mizuno-usa-says-hackers-stayed-in-its-network-for-two-months/",
+        "added": "2025-01-31"
+    },
+    {
         "date": "2025-01-20",
         "victim": "Apex Custom Software",
         "domain": "apexcustomsoftware.com",
