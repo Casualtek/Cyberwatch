@@ -1,5 +1,15 @@
 [
     {
+        "date": "2025-02-02",
+        "victim": "Top-Medien",
+        "domain": "toponline.ch",
+        "country": "CHE",
+        "summary": "Les médias de Winterthur, en Suisse, ont été victimes d'une cyberattaque au cours du week-end, entraînant des perturbations dans la production et les émissions en direct de Radio Top et Tele Top. L'attaque a été perpétrée par un Trojan de cryptage et a affecté les systèmes de l'entreprise, rendant impossibles les productions et les émissions en direct. L'équipe IT travaille actuellement à analyser les conséquences de l'attaque et à restaurer les systèmes le plus rapidement possible, en collaboration avec des experts en cybersécurité et les autorités compétentes.",
+        "title": "Hackerangriff auf Winterthurer Top-Medien - Blick",
+        "url": "https://www.blick.ch/schweiz/top-medien-in-winterthur-einschraenkungen-bei-radio-und-tv-angebot-nach-trojanerangriff-id20552567.html",
+        "added": "2025-02-02"
+    },
+    {
         "date": "2025-01-28",
         "victim": "AAA Data",
         "domain": "aaa-data.fr",
