@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-05-27",
+        "victim": "Delta County Memorial Hospital District (Delta Health)",
+        "domain": "deltahealthco.org",
+        "country": "USA",
+        "summary": "Le Delta County Memorial Hospital District (Delta Health) au Colorado a été victime d'une cyberattaque en mai 2024, qui a affecté 148 363 personnes. L'hôpital a détecté l'activité suspecte le 30 mai 2024 et a commencé à envoyer des notifications écrites aux personnes concernées le 29 juillet 2024, mais n'a pas terminé les notifications avant le 31 janvier 2025. Les informations compromises incluent des données personnelles et médicales, mais l'hôpital n'a pas encore déclaré si les données ont été mises en ligne ou utilisées à des fins malveillantes.",
+        "title": "Delta County Memorial Hospital District reveals more about 2024 cyberattack that affected 148,363 people - DataBreaches.Net",
+        "url": "https://databreaches.net/2025/02/03/delta-county-memorial-hospital-district-reveals-more-about-2024-cyberattack-that-affected-148363-people/",
+        "added": "2025-02-03"
+    },
+    {
         "date": "2025-01-31",
         "victim": "Business Registration Service (BRS)",
         "domain": "brs.go.ke",
