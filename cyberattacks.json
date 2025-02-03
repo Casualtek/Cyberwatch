@@ -1,5 +1,15 @@
 [
     {
+        "date": "2023-08-26",
+        "victim": "Yazoo Valley Electric Power Association",
+        "domain": "yazoovalley.com",
+        "country": "USA",
+        "summary": "La Yazoo Valley Electric Power Association, une entreprise d'électricité du Mississippi, a été victime d'une cyberattaque l'été dernier, exposant les informations de plus de 20 000 résidents. Les pirates ont accédé à des fichiers contenant des informations personnelles, mais l'entreprise a refusé de dévoiler les détails sur les données volées. L'attaque a été revendiquée par Akira mi-novembre. Les données semblent avoir été volées avant la mi-août.",
+        "title": "Mississippi electric utility warns 20,000 residents of data breach | The Record from Recorded Future News",
+        "url": "https://therecord.media/mississippii-electric-utility-residents-breach",
+        "added": "2025-02-03"
+    },
+    {
         "date": "2024-05-27",
         "victim": "Delta County Memorial Hospital District (Delta Health)",
         "domain": "deltahealthco.org",
