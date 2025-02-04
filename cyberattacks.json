@@ -1,6 +1,16 @@
 [
     {
         "date": "2023-11-20",
+        "victim": "Lion Travel Service Co., Ltd.",
+        "domain": "liontravel.com",
+        "country": "TWN",
+        "summary": "Le 20 novembre 2023, Lion Travel Service Co., Ltd. a été victime d'une cyberattaque, qui a été détectée et traitée immédiatement par l'équipe de sécurité de l'information de l'entreprise et une entreprise de sécurité externe. L'incident n'a pas eu d'impact significatif sur les opérations de l'entreprise. L'entreprise prend des mesures pour renforcer sa gestion de la sécurité de l'information et avertir ses clients de manière plus efficace.",
+        "title": "Today's Information",
+        "url": "https://emops.twse.com.tw/server-java/t05sr01_1_e?&isNew=Y&seq_no=2&spoke_time=182711&spoke_date=20231120&co_id=2731",
+        "added": "2025-02-04"
+    },
+    {
+        "date": "2023-11-20",
         "victim": "CHINA PETROCHEMICAL DEVELOPMENT CORPORATION",
         "domain": "cpdc.com.tw",
         "country": "TWN",
