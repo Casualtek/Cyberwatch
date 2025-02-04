@@ -1,5 +1,15 @@
 [
     {
+        "date": "2025-02-02",
+        "victim": "Mayer Steel Pipe Corporation",
+        "domain": "mayer.com.tw",
+        "country": "TWN",
+        "summary": "Une cyberattaque a touché un système de services d'information le 2 février 2025, mais les mécanismes de défense et de récupération ont été activés immédiatement pour prévenir d'autres problèmes de sécurité. Aucune fuite de données personnelles ou de documents internes n'a été détectée, et l'impact sur les opérations de l'entreprise est considéré comme négligeable. L'entreprise continue de renforcer son infrastructure de sécurité de l'information et de surveiller ses réseaux pour garantir la sécurité des informations.",
+        "title": "Today's Information",
+        "url": "https://emops.twse.com.tw/server-java/t05sr01_1_e?&isNew=Y&seq_no=1&spoke_time=151504&spoke_date=20250202&co_id=2020",
+        "added": "2025-02-04"
+    },
+    {
         "date": "2024-09-16",
         "victim": "River Region Cardiology, Delta County Memorial Hospital District, Lucent Health Solutions",
         "domain": "rrcamd1.com",
