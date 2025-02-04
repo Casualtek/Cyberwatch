@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-10-16",
+        "victim": "Senao International Co.,Ltd.",
+        "domain": "senao.com.tw",
+        "country": "TWN",
+        "summary": "Senao International Co.,Ltd. a été victime d'une cyberattaque le 16 octobre 2024, qui a visé un de ses serveurs externes. Les mécanismes de protection ont été activés pour isoler l'attaque et prévenir d'autres problèmes de sécurité. Aucune information personnelle ou document interne n'a été compromise, et l'entreprise va renforcer ses contrôles de sécurité pour prévenir de telles attaques à l'avenir.",
+        "title": "Today's Information",
+        "url": "https://emops.twse.com.tw/server-java/t05sr01_1_e?&isNew=Y&seq_no=2&spoke_time=172857&spoke_date=20241016&co_id=2450",
+        "added": "2025-02-04"
+    },
+    {
         "date": "2024-10-28",
         "victim": "LI PENG ENTERPRISE CO., LTD.",
         "domain": "lealeagroup.com.tw",
