@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-07-30",
+        "victim": "Fortune Information Systems Corp.",
+        "domain": "fis.com.tw",
+        "country": "TWN",
+        "summary": "Fortune Information Systems Corp. (TWN) a été victime d'une cyberattaque le 30 juillet 2024, mais a réussi à contenir l'incident sans perte de données personnelles ou confidentielles. Les opérations de l'entreprise se déroulent normalement et aucune perte significative n'est attendue. L'entreprise va renforcer les contrôles de sécurité de son réseau et de son infrastructure d'information pour prévenir de futures attaques.",
+        "title": "Today's Information",
+        "url": "https://emops.twse.com.tw/server-java/t05sr01_1_e?&isNew=Y&seq_no=2&spoke_time=170623&spoke_date=20240730&co_id=2468",
+        "added": "2025-02-04"
+    },
+    {
         "date": "2024-10-15",
         "victim": "D-Link Corporation",
         "domain": "dlink.com",
