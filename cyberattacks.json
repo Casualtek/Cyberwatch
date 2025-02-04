@@ -1,5 +1,15 @@
 [
     {
+        "date": "2025-01-05",
+        "victim": "Swissmem-Ausgleichskasse",
+        "domain": "swissmem.ch",
+        "country": "CHE",
+        "summary": "La Swissmem-Ausgleichskasse a été victime d'une cyberattaque qui a entraîné la fuite de environ 10% de ses données au cours du week-end des 4 et 5 janvier. Pour l'instant, il n'y a pas de preuves que les données volées aient été utilisées de manière malveillante ou publiées. L'enquête est en cours pour déterminer les détails de l'attaque et les mesures à prendre pour éviter de nouvelles violations de sécurité.",
+        "title": "Swissmem-Ausgleichskasse von Cyberangriff betroffen | cash",
+        "url": "https://www.cash.ch/news/top-news/swissmem-ausgleichskasse-von-cyberangriff-betroffen-792027",
+        "added": "2025-02-04"
+    },
+    {
         "date": "2024-07-23",
         "victim": "TSANN KUEN ENTERPRISE CO.,LTD",
         "domain": "tk3c.com.tw",
