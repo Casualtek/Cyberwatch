@@ -1,5 +1,6 @@
 #!/usr/bin/python3
 import json
+import os
 import requests
 from playwright.sync_api import sync_playwright
 from datetime import datetime, timedelta
