@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-07-25",
+        "victim": "Lite-On Technology",
+        "domain": "liteon.com",
+        "country": "TWN",
+        "summary": "Le 25 juillet 2024, LITE-ON TECHNOLOGY CORP. a détecté une attaque de hackers sur un serveur externe, qui a été rapidement isolé pour éviter tout impact supplémentaire. L'entreprise a activé ses mécanismes de défense et a sollicité l'aide d'experts en cybersécurité pour renforcer ses mécanismes de détection et de protection. Les opérations de l'entreprise ont repris normalement, sans impact financier ou commercial prévu.",
+        "title": "Today's Information",
+        "url": "https://emops.twse.com.tw/server-java/t05sr01_1_e?&isNew=Y&seq_no=3&spoke_time=170208&spoke_date=20240725&co_id=2301",
+        "added": "2025-02-04"
+    },
+    {
         "date": "2024-07-30",
         "victim": "Fortune Information Systems Corp.",
         "domain": "fis.com.tw",
