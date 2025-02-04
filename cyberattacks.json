@@ -1,5 +1,15 @@
 [
     {
+        "date": "2025-01-19",
+        "victim": "Elite Advanced Laser Corporation",
+        "domain": "elaser.com.tw",
+        "country": "TWN",
+        "summary": "Le 19 janvier 2025, le système d'information d'une entreprise a été victime d'une attaque par ransomware. Les mesures de défense ont été mises en place pour contrer l'attaque et récupérer le système, sans impact significatif pour l'instant. L'entreprise va renforcer sa sécurité en intensifiant la surveillance et la protection de son infrastructure d'information.",
+        "title": "Today's Information",
+        "url": "https://emops.twse.com.tw/server-java/t05sr01_1_e?&isNew=Y&seq_no=2&spoke_time=72120&spoke_date=20250120&co_id=3450",
+        "added": "2025-02-04"
+    },
+    {
         "date": "2025-01-23",
         "victim": "Solomon Technology Corporation",
         "domain": "solomon-3d.com",
