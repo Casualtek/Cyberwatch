@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-10-28",
+        "victim": "LI PENG ENTERPRISE CO., LTD.",
+        "domain": "lealeagroup.com.tw",
+        "country": "TWN",
+        "summary": "Le 28 octobre 2024, les serveurs de l'usine de Yangmei de LI PENG ENTERPRISE CO., LTD. ont été victimes d'une attaque de ransomware, entraînant la suppression des données de sauvegarde locales. Les données sont actuellement restaurées à partir de sauvegardes hors site et il n'y a pas de risque de fuite de données personnelles ou de documents internes. L'entreprise estime que ses mécanismes de protection de la sécurité des informations sont suffisants pour faire face à cet incident et continuera à surveiller la situation de près.",
+        "title": "Today's Information",
+        "url": "https://emops.twse.com.tw/server-java/t05sr01_1_e?&isNew=Y&seq_no=1&spoke_time=180947&spoke_date=20241028&co_id=1447",
+        "added": "2025-02-04"
+    },
+    {
         "date": "2024-11-19",
         "victim": "HiTi Digital Inc.",
         "domain": "hitidigital.com",
