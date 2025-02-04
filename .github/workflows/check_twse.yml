@@ -2,7 +2,7 @@ name: check_new_disclosures_twse
 
 on:
   schedule:
-    - cron: '00 06 * * *'
+    - cron: '00 07 * * *'
   workflow_dispatch:
 
 # to consider: the use of action jobs to breakout each task
