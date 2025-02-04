@@ -1,1 +1,33 @@
+name: check_new_disclosures_twse
 
+on:
+  schedule:
+    - cron: '00 06 * * *'
+  workflow_dispatch:
+
+# to consider: the use of action jobs to breakout each task
+# https://docs.github.com/en/actions/learn-github-actions/essential-features-of-github-actions#sharing-data-between-jobs
+
+jobs:
+  run-prepare-posts:
+    runs-on: ubuntu-22.04
+    timeout-minutes: 170
+    environment: CI
+    steps:
+      - name: Install Chrome
+        uses: browser-actions/setup-chrome@v1
+      - name: Checkout the repo
+        uses: actions/checkout@v3
+      - name: Install dependencies
+        run: |
+          pip3 install -r twse_requirements.txt
+      - name: Initialize Playwright
+        run: |
+          playwright install
+      - name: Generate Posts
+        env:
+          TG_CHAT_ID: ${{ secrets.TG_CHAT_ID }}
+          TG_TK: ${{ secrets.TG_TK }}
+        run: |
+          python3 twse.py
+          
