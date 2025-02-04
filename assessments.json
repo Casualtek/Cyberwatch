@@ -1,5 +1,12 @@
 [
     {
+        "victim": "Derrimon Trading Company",
+        "domain": "derrimon.com",
+        "country": "JM",
+        "date": "2025-01-22",
+        "group": "safepay"
+    },
+    {
         "victim": "GlobexUSA",
         "domain": "globexusa.com",
         "country": "US",
