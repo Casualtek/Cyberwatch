@@ -1,5 +1,15 @@
 [
     {
+        "date": "2025-01-23",
+        "victim": "Solomon Technology Corporation",
+        "domain": "solomon-3d.com",
+        "country": "TWN",
+        "summary": "Le 23 janvier 2025, une entreprise a été victime d'une cyberattaque, détectée par son système de détection, et a immédiatement pris des mesures pour contenir l'impact, notamment en déconnectant son réseau et en faisant appel à des experts en cybersécurité. L'enquête n'a pas révélé d'impact financier ou opérationnel pour l'entreprise. L'entreprise a promis de renforcer ses mécanismes de sécurité pour prévenir de telles attaques à l'avenir.",
+        "title": "Today's Information",
+        "url": "https://emops.twse.com.tw/server-java/t05sr01_1_e?&isNew=Y&seq_no=1&spoke_time=151003&spoke_date=20250123&co_id=2359",
+        "added": "2025-02-04"
+    },
+    {
         "date": "2025-02-02",
         "victim": "Mayer Steel Pipe Corporation",
         "domain": "mayer.com.tw",
