@@ -1,6 +1,16 @@
 [
     {
         "date": "2024-04-09",
+        "victim": "Lien Hwa Industrial Holdings Corporation",
+        "domain": "lhicholdings.com",
+        "country": "TWN",
+        "summary": "Lien Hwa Industrial Holdings Corporation a été victime d'une cyberattaque le 9 avril 2024, mais a rapidement activé des mécanismes de défense et des opérations de récupération. L'impact sur les opérations de l'entreprise est considéré comme non significatif. L'entreprise s'engage à améliorer en permanence la sécurité de son réseau et de son architecture d'information pour garantir la sécurité des données.",
+        "title": "Today's Information",
+        "url": "https://emops.twse.com.tw/server-java/t05sr01_1_e?&isNew=Y&seq_no=1&spoke_time=173336&spoke_date=20240409&co_id=1229",
+        "added": "2025-02-04"
+    },
+    {
+        "date": "2024-04-09",
         "victim": "UPC Technology Corporation",
         "domain": "upc.com.tw",
         "country": "TWN",
