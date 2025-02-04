@@ -9,7 +9,7 @@ on:
 # https://docs.github.com/en/actions/learn-github-actions/essential-features-of-github-actions#sharing-data-between-jobs
 
 jobs:
-  run-prepare-posts:
+  run-check-twse:
     runs-on: ubuntu-22.04
     timeout-minutes: 170
     environment: CI
@@ -24,7 +24,7 @@ jobs:
       - name: Initialize Playwright
         run: |
           playwright install
-      - name: Generate Posts
+      - name: Post TWSE Announcements
         env:
           TG_CHAT_ID: ${{ secrets.TG_CHAT_ID }}
           TG_TK: ${{ secrets.TG_TK }}
