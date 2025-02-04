@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-07-08",
+        "victim": "Taiwan Pelican Express Co., Ltd.",
+        "domain": "e-can.com.tw",
+        "country": "TWN",
+        "summary": "Le 8 juillet 2024, Taiwan Pelican Express Co., Ltd. (TWN) a été victime d'une cyberattaque qui a touché une partie de son système d'information. L'entreprise a activé ses mécanismes de défense et a travaillé avec des experts externes pour gérer l'attaque, sans que cela n'affecte significativement ses opérations. Les serveurs touchés sont en train de reprendre leur fonctionnement normal et l'entreprise va renforcer sa structure de sécurité de l'information pour prévenir de futures attaques.",
+        "title": "Today's Information",
+        "url": "https://emops.twse.com.tw/server-java/t05sr01_1_e?&isNew=Y&seq_no=1&spoke_time=180934&spoke_date=20240708&co_id=2642",
+        "added": "2025-02-04"
+    },
+    {
         "date": "2024-07-17",
         "victim": "HUNG SHENG CONSTRUCTION CO., LTD.",
         "domain": "hsc.com.tw",
