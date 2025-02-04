@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-12-18",
+        "victim": "Holtek Semiconductor Incorporation",
+        "domain": "holtek.com",
+        "country": "TWN",
+        "summary": "Holtek Semiconductor Incorporation a été victime d'une cyberattaque le 18 décembre 2024, qui a pu entraîner une fuite de données liée à la plateforme de gestion des CV de candidats. L'entreprise a activé ses mécanismes de défense et a réussi à bloquer l'attaque, sans impact matériel attendu sur ses opérations. Des mesures de sécurité supplémentaires seront mises en place pour protéger les données et garantir leur intégrité.",
+        "title": "Today's Information",
+        "url": "https://emops.twse.com.tw/server-java/t05sr01_1_e?&isNew=Y&seq_no=1&spoke_time=163239&spoke_date=20241227&co_id=6202",
+        "added": "2025-02-04"
+    },
+    {
         "date": "2025-01-19",
         "victim": "Elite Advanced Laser Corporation",
         "domain": "elaser.com.tw",
