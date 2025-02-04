@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-04-09",
+        "victim": "UPC Technology Corporation",
+        "domain": "upc.com.tw",
+        "country": "TWN",
+        "summary": "UPC Technology Corporation a été victime d'une cyberattaque le 9 avril 2024, qui a ciblé certains de ses systèmes d'information. Les mécanismes de défense et de récupération ont été activés et des experts en cybersécurité externes ont été engagés pour résoudre l'incident. Les systèmes d'information sont en cours de restauration et aucune perte significative n'a été signalée pour l'instant.",
+        "title": "Today's Information",
+        "url": "https://emops.twse.com.tw/server-java/t05sr01_1_e?&isNew=Y&seq_no=1&spoke_time=185101&spoke_date=20240409&co_id=1313",
+        "added": "2025-02-04"
+    },
+    {
         "date": "2024-06-17",
         "victim": "Yung Shin Pharm. Ind. Co. Ltd",
         "domain": "ysp.com.tw",
