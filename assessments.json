@@ -1,5 +1,19 @@
 [
     {
+        "victim": "Snelling Paper & Sanitation",
+        "domain": "snellingpaper.com",
+        "country": "US",
+        "date": "2024-08-23",
+        "group": "akira"
+    },
+    {
+        "victim": "Lotus Concepts Management",
+        "domain": "lotusconceptsmgmt.com",
+        "country": "US",
+        "date": "2024-07-17",
+        "group": "akira"
+    },
+    {
         "victim": "Tedkomp AB",
         "domain": "tedkomp.se",
         "country": "SE",
