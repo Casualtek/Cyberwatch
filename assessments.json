@@ -1,5 +1,12 @@
 [
     {
+        "victim": "mk Technology Group",
+        "domain": "mk-group.com",
+        "country": "DE",
+        "date": "2023-05-10",
+        "group": "akira"
+    },
+    {
         "victim": "Tennis Canada",
         "domain": "tenniscanada.com",
         "country": "CA",
@@ -87,7 +94,7 @@
         "victim": "Saint Andrews Bureau",
         "domain": "sab.co.uk",
         "country": "GB",
-        "date": "2023-09-30",
+        "date": "2023-06-10",
         "group": "akira"
     },
     {
