@@ -1,5 +1,15 @@
 [
     {
+        "date": "2025-02-01",
+        "victim": "CESI",
+        "domain": "cesi.fr",
+        "country": "FRA",
+        "summary": "Le CESI a été victime d'une cyberattaque samedi 1er février 2025, qui a nécessité la coupure d'accès à Internet et la mobilisation d'une cellule de crise pour contenir l'incident. Les cours ont pu reprendre lundi 3 février, avec des mesures de continuité pédagogique mises en place pour les élèves, et les autorités compétentes ont été saisies. L'enquête est toujours en cours pour déterminer l'étendue de l'incident, et la direction de l'école déplore cet acte criminel.",
+        "title": "CESI victime d'un incident de cybersécurité - CESI",
+        "url": "https://www.cesi.fr/incident-cybersecurite/",
+        "added": "2025-02-05"
+    },
+    {
         "date": "2023-11-20",
         "victim": "Lion Travel Service Co., Ltd.",
         "domain": "liontravel.com",
