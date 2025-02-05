@@ -1,5 +1,12 @@
 [
     {
+        "victim": "REV Engineering",
+        "domain": "reveng.ca",
+        "country": "CA",
+        "date": "2023-10-15",
+        "group": "akira"
+    },
+    {
         "victim": "mk Technology Group",
         "domain": "mk-group.com",
         "country": "DE",
