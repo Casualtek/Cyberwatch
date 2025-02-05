@@ -1,5 +1,12 @@
 [
     {
+        "victim": "Tedkomp AB",
+        "domain": "tedkomp.se",
+        "country": "SE",
+        "date": "2023-08-31",
+        "group": "akira"
+    },
+    {
         "victim": "Bergeron",
         "domain": "bergeronltd.com",
         "country": "US",
