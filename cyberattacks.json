@@ -1,5 +1,15 @@
 [
     {
+        "date": "2025-01-21",
+        "victim": "Orainville",
+        "domain": "orainville.fr",
+        "country": "FRA",
+        "summary": "La commune d’Orainville a subi une cyberattaque, entraînant l’exfiltration de données personnelles de ses administrés, fournisseurs et autres contacts, incluant notamment noms, adresses, dates de naissance, coordonnées bancaires et pièces d’identité. Face aux risques d’hameçonnage, d’escroqueries et d’usurpation d’identité, les personnes concernées sont invitées à rester vigilantes, surveiller leurs comptes bancaires et déposer plainte si nécessaire, tandis que la commune a signalé l’incident à la CNIL et engagé les démarches requises.",
+        "title": "Orainville",
+        "url": "https://www.facebook.com/permalink.php?story_fbid=pfbid0c6XcD9ThcstfxSyQRsfr265sdhtHEm6jvwh7Mgvh3ZyppL7paorewu4dyeqeu9Skl&id=100089547012661",
+        "added": "2025-02-06"
+    },
+    {
         "date": "2025-02-01",
         "victim": "CESI",
         "domain": "cesi.fr",
