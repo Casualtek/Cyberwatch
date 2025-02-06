@@ -1,5 +1,12 @@
 [
     {
+        "victim": "Escada",
+        "domain": "escada.com",
+        "country": "DE",
+        "date": "2025-01-18",
+        "group": "ransomhub"
+    },
+    {
         "victim": "SportAdmin",
         "domain": "sportadmin.se",
         "country": "SE",
