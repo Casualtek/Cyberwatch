@@ -1,5 +1,12 @@
 [
     {
+        "victim": "SportAdmin",
+        "domain": "sportadmin.se",
+        "country": "SE",
+        "date": "2025-01-16",
+        "group": "ransomhub"
+    },
+    {
         "victim": "McFarlane, Inc.",
         "domain": "mcfarlane-e3.com",
         "country": "US",
