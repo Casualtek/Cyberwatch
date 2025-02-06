@@ -1,5 +1,15 @@
 [
     {
+        "date": "2025-01-16",
+        "victim": "Sportadmin",
+        "domain": "sportadmin.se",
+        "country": "SWE",
+        "summary": "L'application SportAdmin, utilisée par environ 1 700 clubs de sport en Suède, a été victime d'une cyberattaque qui a pu entraîner la fuite de toutes les données personnelles de ses utilisateurs. L'attaque a été détectée jeudi dernier et le système a été fermé temporairement avant d'être rouvert pour les utilisateurs d'iPhone et d'Android. Les clubs de sport sont invités à être vigilants face à d'éventuels contacts suspects suite à cette fuite de données.",
+        "title": "Sportadmin: All persondata kan ha läckt",
+        "url": "https://www.aftonbladet.se/nyheter/a/73Jp89/sportadmin-all-persondata-kan-ha-lackt",
+        "added": "2025-02-06"
+    },
+    {
         "date": "2025-01-21",
         "victim": "Orainville",
         "domain": "orainville.fr",
