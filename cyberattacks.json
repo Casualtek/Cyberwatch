@@ -1,5 +1,15 @@
 [
     {
+        "date": "2025-02-05",
+        "victim": "IMI",
+        "domain": "imiplc.com",
+        "country": "GBR",
+        "summary": "Le groupe d'ingénierie IMI a été victime d'une cyberattaque, qui a touché plusieurs de ses sites à travers le monde, et a isolé certaines de ses systèmes pour enquêter et contenir l'incident. L'entreprise a informé ses employés et clients de l'incident, mais a refusé de divulguer les données qui ont été compromises. C'est le dernier d'une série de cyberattaques récentes visant des entreprises du Royaume-Uni, notamment Smiths Group, Transport for London et Harvey Nichols.",
+        "title": "Engineering group IMI latest UK firm to be hit by cyber attack | The Independent",
+        "url": "https://www.independent.co.uk/business/engineering-group-imi-latest-uk-firm-to-be-hit-by-cyber-attack-b2693250.html",
+        "added": "2025-02-06"
+    },
+    {
         "date": "2025-01-16",
         "victim": "Sportadmin",
         "domain": "sportadmin.se",
