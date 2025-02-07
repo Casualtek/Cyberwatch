@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-02-15",
+        "victim": "Kreisel",
+        "domain": "kreisel.eu",
+        "country": "DEU",
+        "summary": "La société Kreisel, un fabricant d'équipements basé à Krauschwitz, a été ciblée par une cyberattaque en février, mais a pu résister grâce à sa préparation et à ses systèmes de sécurité modernes. Les attaquants ont envoyé un message d'extorsion par fax, mais n'ont pas réussi à obtenir de rançon. La société avait été prévenue d'une potentielle attaque par le Landeskriminalamt (office de police criminelle régional) un jour avant l'incident et avait pris des mesures de sécurité supplémentaires.",
+        "title": "Krauschwitz: Cyberangriff auf weltweit agierenden Anlagenbauer Kreisel",
+        "url": "https://www.saechsische.de/wirtschaft/regional/krauschwitz-cyberangriff-auf-weltweit-agierenden-anlagenbauer-kreisel-3VIACAHTUKKB2B3SGITWA7DDBU.html",
+        "added": "2025-02-07"
+    },
+    {
         "date": "2025-02-05",
         "victim": "IMI",
         "domain": "imiplc.com",
@@ -7420,16 +7430,6 @@
         "added": "2024-04-14"
     },
     {
-        "date": "2024-04-02",
-        "victim": "NorthBay Health",
-        "domain": "northbay.org",
-        "country": "USA",
-        "summary": "Le 10 avril 2024, NorthBay Health a annoncé avoir été cible d'une cyberattaque, entraînant la mise hors ligne de certains de ses systèmes informatiques pour investigation, avec une attention particulière sur la possibilité d'un accès non autorisé aux informations confidentielles des patients. Bien qu'il soit encore trop tôt pour confirmer une fuite de données, l'entreprise, qui est un prestataire de services de santé basé en Californie et fondé en 1960, pourrait être obligée d'envoyer des lettres de notification de violation de données aux individus affectés si une fuite est confirmée. NorthBay Health collabore avec des experts en cybersécurité pour résoudre l'incident et a repris certaines activités, telles que les rendez-vous de soins",
-        "title": "NorthBay Health Targeted in Cyberattack, Raising Concerns of Possible Data Breach | Console and Associates, P.C. - JDSupra",
-        "url": "https://www.jdsupra.com/legalnews/northbay-health-targeted-in-cyberattack-3357738/",
-        "added": "2024-04-14"
-    },
-    {
         "date": "2024-04-04",
         "victim": "Bielefeld Fertility Center",
         "domain": "kinderwunsch-bielefeld.de",
@@ -7741,7 +7741,7 @@
     },
     {
         "date": "2024-03-31",
-        "victim": "NorthBay VacaValley Hospital",
+        "victim": "NorthBay Health",
         "domain": "northbay.org",
         "country": "USA",
         "summary": "L'hôpital NorthBay VacaValley à Vacaville a dû refuser des patients en raison d'une cyberattaque qui a entraîné la panne de ses systèmes informatiques. Les patients ne pouvaient pas être enregistrés ni accéder à leurs dossiers médicaux, et la patiente Linda Sperow a témoigné de la difficulté à obtenir des informations. L'hôpital a lancé une enquête avec l'aide d'experts en cybersécurité et travaille à rétablir les systèmes, tandis que l'expert en cybersécurité Paule Keener a souligné la vulnérabilité des hôpitaux aux cyberattaques en raison de la richesse des données qu'ils détiennent.",
