@@ -65,8 +65,9 @@ def main():
                         announcements += f"🏢 Company: {item['COMPANY_NAME']} ({item['COMPANY_ID']})\n"
                         announcements += f"🔹 Category: {item['CODE_NAME']}\n"
                         announcements += f"📄 Subject: {item['SUBJECT']}\n"
-                        announcements += f"🔗 Link: {item['HYPERLINK']}\n"
+                        announcements += f"🔗 [Link]({item['HYPERLINK']})\n"
                         announcements += "-" * 26
+                        announcements += "\n"
                     post_to_telegram(announcements)
                 else:
                     print("No relevant data found.")
