@@ -1,5 +1,15 @@
 [
     {
+        "date": "2025-02-02",
+        "victim": "Université des Bahamas",
+        "domain": "ub.edu.bs",
+        "country": "BHS",
+        "summary": "L'Université des Bahamas a été victime d'une cyberattaque par rançongiciel le 2 février, ce qui a entraîné la fermeture de ses systèmes internet et téléphoniques, ainsi que l'annulation de ses cours en ligne. Les enquêtes sont en cours pour déterminer l'ampleur de l'incident, mais il est déjà établi que des informations personnelles pourraient avoir été compromises. L'université travaille avec les forces de l'ordre pour contenir l'incident et mettre en place de nouvelles mesures de sécurité pour protéger ses systèmes.",
+        "title": "Phones, email, classes disrupted in University of The Bahamas ransomware attack | The Record from Recorded Future News",
+        "url": "https://therecord.media/bahamas-university-ransomware-attack",
+        "added": "2025-02-08"
+    },
+    {
         "date": "2025-02-07",
         "victim": "Transcend Information, Inc.",
         "domain": "transcend-info.com",
