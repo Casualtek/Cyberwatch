@@ -1,5 +1,15 @@
 [
     {
+        "date": "2025-02-03",
+        "victim": "Lee Enterprises",
+        "domain": "lee.net",
+        "country": "USA",
+        "summary": "Lee Enterprises, une société mère de nombreux journaux et plateformes médiatiques, a été victime d'une cyberattaque qui a entraîné la suspension des publications dans 24 États, dont la Virginie. L'entreprise enquête sur l'incident et cherche à identifier les mesures à prendre pour éviter que cela ne se reproduise. Par ailleurs, Lee Enterprises fait face à des difficultés financières et a réduit ses effectifs et ses publications imprimées pour se tourner vers des opérations numériques plus rentables.",
+        "title": "Lee Enterprises confronté à une cyberattaque menaçant ses journaux | LesNews",
+        "url": "https://lesnews.ca/tech/cybersecurite/lee-enterprises-confronte-a-une-cyberattaque-menacant-ses-journaux/",
+        "added": "2025-02-09"
+    },
+    {
         "date": "2025-02-02",
         "victim": "Université des Bahamas",
         "domain": "ub.edu.bs",
