@@ -1,5 +1,12 @@
 [
     {
+        "victim": "ALO Center",
+        "domain": "aloteknik.se",
+        "country": "SE",
+        "date": "2025-01-18",
+        "group": "lynx"
+    },
+    {
         "victim": "Primary Health Services Center",
         "domain": "phsccenter.org",
         "country": "US",
