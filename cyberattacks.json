@@ -1,5 +1,15 @@
 [
     {
+        "date": "2025-02-08",
+        "victim": "FORTUNE ELECTRIC CO.,LTD",
+        "domain": "fortune.com.tw",
+        "country": "TWN",
+        "summary": "Le 8 février 2025, une FORTUNE ELECTRIC CO.,LTD a été victime d'une cyberattaque par rançongiciel, mais grâce à une réaction rapide de son équipe de sécurité, les systèmes d'information et le site web officiel n'ont pas été affectés et aucune fuite de données personnelles n'a été détectée. L'incident n'a donc pas causé de dommages significatifs à l'entreprise. L'entreprise prévoit améliorer la sécurité et la gestion de son infrastructure réseau et informatique pour prévenir de telles attaques à l'avenir.",
+        "title": "Today's Information",
+        "url": "https://emops.twse.com.tw/server-java/t05sr01_1_e?&isNew=Y&seq_no=1&spoke_time=191745&spoke_date=20250209&co_id=1519",
+        "added": "2025-02-10"
+    },
+    {
         "date": "2025-02-04",
         "victim": "Pinehurst Radiology",
         "domain": "pinehurstradiology.com",
