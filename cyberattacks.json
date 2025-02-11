@@ -1,5 +1,15 @@
 [
     {
+        "date": "2021-06-14",
+        "victim": "Huber Metallguss GmbH",
+        "domain": "huber-metallgaeu.de",
+        "country": "DEU",
+        "summary": "Une entreprise allemande, la Huber Metallguss GmbH, a été victime d'une attaque ransomware en juin 2021, qui a entraîné la perte de données et des coûts élevés. L'enquête a révélé que l'attaque était due à une faille de sécurité chez l'IT-Dienstleister de l'entreprise, qui a refusé de prendre la responsabilité de l'incident. L'entreprise a dû engager un expert en forensique informatique pour collecter des preuves et tenter d'obtenir des dommages et intérêts.",
+        "title": "Ransomware: Nach Hackerangriff Schadensersatz vom IT-Dienstleister | heise online",
+        "url": "https://www.heise.de/hintergrund/Ransomware-Nach-Hackerangriff-Schadensersatz-vom-IT-Dienstleister-10274859.html",
+        "added": "2025-02-11"
+    },
+    {
         "date": "2024-12-13",
         "victim": "VectraRx Mail Pharmacy Services LLC",
         "domain": "vectrapharmacy.com",
