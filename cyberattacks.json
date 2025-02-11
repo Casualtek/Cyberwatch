@@ -1,5 +1,15 @@
 [
     {
+        "date": "2025-01-30",
+        "victim": "Unimicron",
+        "domain": "unimicron.com",
+        "country": "TWN",
+        "summary": "Le 30 janvier 2025, la filiale Unimicron Technology (ShenZhen) Corp. a été victime d'une attaque par ransomware. L'entreprise a collaboré avec une équipe de forensique cybernétique externe pour analyser l'incident et mettre en place des mesures de défense. L'impact sur les opérations de l'entreprise est limité et des mesures de sécurité supplémentaires seront mises en place pour garantir la sécurité des informations.",
+        "title": "Today's Information",
+        "url": "https://emops.twse.com.tw/server-java/t05sr01_1_e?&isNew=Y&seq_no=1&spoke_time=214002&spoke_date=20250201&co_id=3037",
+        "added": "2025-02-11"
+    },
+    {
         "date": "2025-02-10",
         "victim": "LUP-Kliniken",
         "domain": "lup-kliniken.de",
