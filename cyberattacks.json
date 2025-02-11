@@ -1,5 +1,15 @@
 [
     {
+        "date": "2025-02-10",
+        "victim": "City of Tarrant",
+        "domain": "cityoftarrant.com",
+        "country": "USA",
+        "summary": "La ville de Tarrant, en Alabama, a été victime d'une attaque de ransomware qui a touché ses systèmes informatiques. Les autorités locales ont immédiatement mis en œuvre des protocoles de sécurité et ont notifié les autorités fédérales, avec lesquelles elles travaillent pour évaluer la situation et mettre en place des mesures de sécurité supplémentaires. Les résidents et les entreprises sont appelés à rester vigilants face à d'éventuels menaces cyber et à signaler tout activité suspecte aux forces de l'ordre locales.",
+        "title": "City of Tarrant computer systems impacted by ransomware attack",
+        "url": "https://www.wbrc.com/2025/02/10/city-tarrant-computer-systems-impacted-by-ransomware-attack/",
+        "added": "2025-02-11"
+    },
+    {
         "date": "2025-01-30",
         "victim": "Unimicron",
         "domain": "unimicron.com",
