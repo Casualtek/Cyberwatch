@@ -1,5 +1,15 @@
 [
     {
+        "date": "2025-02-11",
+        "victim": "Port of Oostende",
+        "domain": "portofoostende.be",
+        "country": "BEL",
+        "summary": "Le port d'Ostende a subi une cyberattaque dans la nuit de lundi à mardi, affectant son système \"Ensor\" qui gère les données des navires. Bien que le système soit temporairement hors service, les opérations portuaires ne sont pas perturbées. Une équipe d'experts travaille à rétablir le système rapidement.",
+        "title": "Haven van Oostende slachtoffer van cyberaanval: “Geen hinder voor de scheepvaart”",
+        "url": "https://www.hln.be/oostende/haven-van-oostende-slachtoffer-van-cyberaanval-geen-hinder-voor-de-scheepvaart~af34dba8/",
+        "added": "2025-02-11"
+    },
+    {
         "date": "2021-06-14",
         "victim": "Huber Metallguss GmbH",
         "domain": "huber-metallgaeu.de",
