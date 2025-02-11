@@ -1,5 +1,12 @@
 [
     {
+        "victim": "Harada",
+        "domain": "harada.com",
+        "country": "JP",
+        "date": "2025-02-04",
+        "group": "qilin"
+    },
+    {
         "victim": "Banfi Vintners",
         "domain": "banfiwinesusa.com",
         "country": "US",
