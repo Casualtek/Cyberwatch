@@ -1,5 +1,12 @@
 [
     {
+        "victim": "Dolmor Salon",
+        "domain": "dolmor.com",
+        "country": "CA",
+        "date": "2025-01-23",
+        "group": "medusa"
+    },
+    {
         "victim": "True World Foods",
         "domain": "trueworldfoods.com",
         "country": "US",
