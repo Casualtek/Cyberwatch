@@ -1,5 +1,15 @@
 [
     {
+        "date": "2025-01-30",
+        "victim": "Natures Organics",
+        "domain": "naturesorganics.com.au",
+        "country": "AUS",
+        "summary": "La société australienne Natures Organics a confirmé avoir été victime d'une cyberattaque par le groupe de ransomware Medusa, qui a volé des données personnelles de ses employés, notamment des scans de passeports et de permis de conduire. Les hackers menacent de publier les données si une rançon de 150 000 dollars n'est pas payée dans les 8 jours. Natures Organics a notifié les parties concernées et a pris des mesures pour répondre à l'incident.",
+        "title": "Exclusive: Natures Organics confirms Medusa ransomware attack - Cyber Daily",
+        "url": "https://www.cyberdaily.au/security/11699-exclusive-natures-organics-confirms-medusa-ransomware-attack",
+        "added": "2025-02-12"
+    },
+    {
         "date": "2025-02-10",
         "victim": "Secrétariat de la Conférence des évêques allemands (Deutsche Bischofskonferenz)",
         "domain": "dbk.de",
