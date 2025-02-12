@@ -1,5 +1,12 @@
 [
     {
+        "victim": "Ada-Borup-West School",
+        "domain": "ada.k12.mn.us",
+        "country": "US",
+        "date": "2023-10-12",
+        "group": "medusalocker"
+    },
+    {
         "victim": "INSULCANA CONTRACTING LTD",
         "domain": "insulcana.com",
         "country": "CA",
