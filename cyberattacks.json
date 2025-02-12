@@ -1,5 +1,15 @@
 [
     {
+        "date": "2025-02-10",
+        "victim": "Secrétariat de la Conférence des évêques allemands (Deutsche Bischofskonferenz)",
+        "domain": "dbk.de",
+        "country": "DEU",
+        "summary": "Le secrétariat de la Conférence des évêques allemands a été victime d'une cyberattaque professionnelle le 10 février 2025, menée par une organisation criminelle. Les systèmes d'information ont été déconnectés d'internet et les autorités compétentes ont été informées, tandis que des experts en forensique informatique enquêtent sur l'incident. L'accès aux e-mails est actuellement limité et il est encore à déterminer si des données ont été exfiltrées, notamment des informations personnelles.",
+        "title": "Cyberangriff auf die IT-Systeme des Sekretariats der Deutschen Bischofskonferenz: Deutsche Bischofskonferenz",
+        "url": "https://www.dbk.de/presse/aktuelles/meldung/cyberangriff-auf-die-it-systeme-des-sekretariats-der-deutschen-bischofskonferenz",
+        "added": "2025-02-12"
+    },
+    {
         "date": "2025-02-11",
         "victim": "Port of Oostende",
         "domain": "portofoostende.be",
