@@ -1,5 +1,12 @@
 [
     {
+        "victim": "True World Foods",
+        "domain": "trueworldfoods.com",
+        "country": "US",
+        "date": "2025-01-29",
+        "group": "medusa"
+    },
+    {
         "victim": "Micro Manufacturing",
         "domain": "micromfg.com",
         "country": "US",
