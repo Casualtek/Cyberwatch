@@ -1,5 +1,12 @@
 [
     {
+        "victim": "Springfield Housing Community",
+        "domain": "shamass.org",
+        "country": "US",
+        "date": "2024-04-22",
+        "group": "medusalocker"
+    },
+    {
         "victim": "Ada-Borup-West School",
         "domain": "ada.k12.mn.us",
         "country": "US",
