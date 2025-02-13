@@ -1,5 +1,15 @@
 [
     {
+        "date": "2023-02-12",
+        "victim": "Le bureau du procureur général de Virginie",
+        "domain": "oag.state.va.us",
+        "country": "USA",
+        "summary": "Le bureau du procureur général de Virginie a été victime d'une cyberattaque sophistiquée, obligeant l'agence à fermer ses systèmes informatiques et à recourir à des dépôts de cour en papier. Les enquêteurs de la police d'État de Virginie et du FBI ont été appelés pour enquêter sur l'incident. Les responsables ont une grande confiance dans le fait qu'ils ont détecté l'attaque à un stade précoce et que les dommages potentiels, tels que des fuites de données, seront minimaux.",
+        "title": "Virginia AG’s office says it was struck by ‘sophisticated cyberattack’ - The Washington Post",
+        "url": "https://www.washingtonpost.com/dc-md-va/2025/02/12/virginia-attorney-general-cyber-attack/",
+        "added": "2025-02-13"
+    },
+    {
         "date": "2025-02-11",
         "victim": "Ville de Tulln",
         "domain": "tulln.gv.at",
