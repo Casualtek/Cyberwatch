@@ -1,5 +1,15 @@
 [
     {
+        "date": "2025-01-15",
+        "victim": "Collège La Salle",
+        "domain": "lasalle-brive.fr",
+        "country": "FRA",
+        "summary": "Le collège La Salle à Brive a été victime d'une cyberattaque par ransomware, qui a volé toutes les données informatiques de l'établissement, notamment les bulletins scolaires des élèves. Les pirates ont demandé une rançon de 8 000 euros pour récupérer les données, mais l'établissement a refusé de payer. Depuis, le collège a renforcé son système de sécurité informatique pour un coût de 25 000 euros.",
+        "title": "\"Le montant de la rançon était de 8 000 euros.\" Ce collège perd tous les bulletins des élèves après une cyberattaque",
+        "url": "https://france3-regions.francetvinfo.fr/nouvelle-aquitaine/correze/brive/le-montant-de-la-rancon-qui-etait-de-8-000-euros-ce-college-perd-tous-les-bulletins-des-eleves-apres-une-cyberattaque-3107128.html",
+        "added": "2025-02-13"
+    },
+    {
         "date": "2023-02-12",
         "victim": "Le bureau du procureur général de Virginie",
         "domain": "oag.state.va.us",
