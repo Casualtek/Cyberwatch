@@ -1,5 +1,15 @@
 [
     {
+        "date": "2025-02-11",
+        "victim": "Ville de Tulln",
+        "domain": "tulln.gv.at",
+        "country": "AUT",
+        "summary": "La ville de Tulln en Autriche a été victime d'une cyberattaque qui a rendu inaccessible ses serveurs et a crypté les données stockées. Les services de la ville sont actuellement limités, mais les équipes IT travaillent avec des experts pour résoudre le problème et les services essentiels tels que l'eau et les égouts ne sont pas affectés. Les autorités locales ont mis en place des solutions de contournement pour maintenir les services publics, mais certaines tâches nécessitant l'accès à des données stockées ne sont pas encore possibles.",
+        "title": "Stadtgemeinde Tulln: Neuigkeiten rund um den Hackerangriff in Tulln - Tulln",
+        "url": "https://www.meinbezirk.at/tulln/c-lokales/neuigkeiten-rund-um-den-hackerangriff-in-tulln_a7150494",
+        "added": "2025-02-13"
+    },
+    {
         "date": "2025-02-05",
         "victim": "REMSA Health",
         "domain": "remsahealth.com",
