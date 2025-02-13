@@ -1,5 +1,15 @@
 [
     {
+        "date": "2025-02-13",
+        "victim": "Eckert & Ziegler SE",
+        "domain": "ezag.com",
+        "country": "DEU",
+        "summary": "L'entreprise allemande Eckert & Ziegler SE a été victime d'une cyberattaque qui a touché certaines parties de ses systèmes d'information. Les systèmes ont été temporairement mis hors ligne pour minimiser les effets de l'attaque et une task-force a été mise en place pour restaurer le fonctionnement normal et enquêter sur l'incident. La production de l'entreprise n'a pas été significativement affectée et le conseil d'administration ne s'attend pas à des perturbations majeures de l'activité.",
+        "title": "Börse Express - EQS-Adhoc: Eckert & Ziegler von Cyberangriff betroffen (deutsch)",
+        "url": "https://www.boerse-express.com/news/articles/eqs-adhoc-eckert-ziegler-von-cyberangriff-betroffen-deutsch-718745",
+        "added": "2025-02-13"
+    },
+    {
         "date": "2025-01-29",
         "victim": "Commission du revenu interne de Papouasie-Nouvelle-Guinée (IRC)",
         "domain": "irc.gov.pg",
