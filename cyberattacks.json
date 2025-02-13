@@ -1,5 +1,15 @@
 [
     {
+        "date": "2025-01-29",
+        "victim": "Commission du revenu interne de Papouasie-Nouvelle-Guinée (IRC)",
+        "domain": "irc.gov.pg",
+        "country": "PNG",
+        "summary": "La Commission du revenu interne de Papouasie-Nouvelle-Guinée (IRC) a été victime d'une importante cyberattaque, qui a mis hors ligne ses systèmes et pourrait avoir exposé des données sensibles appartenant à des centaines de milliers de personnes et d'entreprises. L'IRC n'a pas encore informé le public de la cyberattaque et a engagé une entreprise privée pour l'aider à récupérer. La région du Pacifique est de plus en plus ciblée par des cyberattaques, ce qui soulève des inquiétudes quant à la sécurité des données et à la confiance des investisseurs étrangers.",
+        "title": "Papua New Guinea's Internal Revenue Commission hit in major cyber attack but public only told of 'system outage' - ABC News",
+        "url": "https://www.abc.net.au/news/2025-02-13/papua-new-guinea-internal-revenue-commission-irc-cyber-attack-/104928536",
+        "added": "2025-02-13"
+    },
+    {
         "date": "2025-01-15",
         "victim": "Collège La Salle",
         "domain": "lasalle-brive.fr",
