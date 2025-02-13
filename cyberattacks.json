@@ -1,5 +1,15 @@
 [
     {
+        "date": "2023-01-29",
+        "victim": "Realgymnasium Rämibühl",
+        "domain": "rgzh.ch",
+        "country": "CHE",
+        "summary": "Le Realgymnasium Rämibühl à Zurich a été victime d'une cyberattaque le 29 janvier, entraînant des perturbations techniques, notamment l'indisponibilité des projecteurs et la nécessité pour les élèves de réinitialiser leurs mots de passe. La direction de l'établissement a pris des mesures d'urgence pour protéger son infrastructure IT et a fait appel à des experts en cybersécurité pour analyser la situation et restaurer les systèmes. Les enquêtes sont en cours et le fonctionnement de l'école a pu se poursuivre, bien que avec des limitations techniques.",
+        "title": "Cyberangriff auf Zürcher Gymnasium",
+        "url": "https://www.inside-it.ch/cyberangriff-auf-zuercher-gymnasium-20250213",
+        "added": "2025-02-13"
+    },
+    {
         "date": "2025-02-13",
         "victim": "Eckert & Ziegler SE",
         "domain": "ezag.com",
