@@ -1,5 +1,12 @@
 [
     {
+        "victim": "NAGA Architects",
+        "domain": "naga.ae",
+        "country": "AE",
+        "date": "2025-01-30",
+        "group": "ransomhub"
+    },
+    {
         "victim": "IMG Enterprises",
         "domain": "imgenterprises.com",
         "country": "US",
