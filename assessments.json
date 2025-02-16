@@ -1,5 +1,12 @@
 [
     {
+        "victim": "Cola Couronne",
+        "domain": "colacouronnelocations.com",
+        "country": "HT",
+        "date": "2025-02-12",
+        "group": "ransomhub"
+    },
+    {
         "victim": "CST Corp",
         "domain": "cstcorp.net",
         "country": "US",
