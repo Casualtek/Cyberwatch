@@ -1,5 +1,15 @@
 [
     {
+        "date": "2025-02-07",
+        "victim": "Rainbow District School Board",
+        "domain": "rainbowschools.ca",
+        "country": "CAN",
+        "summary": "Le Rainbow District School Board a été victime d'un incident de cybersécurité, entraînant une interruption du réseau informatique et de l'accès à Internet. Progressivement, les services ont été restaurés, d'abord pour le personnel, puis pour les étudiants, qui peuvent désormais se connecter au WiFi avec des appareils approuvés. L'évaluation des impacts se poursuit avec des experts en cybersécurité, et des mises à jour sont disponibles sur le site rainbowschools.ca.",
+        "title": "Cyber Incident Updates",
+        "url": "https://www.rainbowschools.ca/parents/cyber-incident-updates/",
+        "added": "2025-02-17"
+    },
+    {
         "date": "2025-02-13",
         "victim": "Université de la Bundeswehr",
         "domain": "unibw.de",
