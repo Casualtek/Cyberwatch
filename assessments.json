@@ -1,5 +1,12 @@
 [
     {
+        "victim": "Fastighetsservice AB",
+        "domain": "ff-fastighetsservice.se",
+        "country": "SE",
+        "date": "2024-12-24",
+        "group": "play"
+    },
+    {
         "victim": "NG-BLU Networks",
         "domain": "ngblunetworks.nl",
         "country": "NL",
