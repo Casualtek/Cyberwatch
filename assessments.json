@@ -1,5 +1,12 @@
 [
     {
+        "victim": "Empire Home Center",
+        "domain": "empirehomecenter.com",
+        "country": "US",
+        "date": "2025-01-23",
+        "group": "lynx"
+    },
+    {
         "victim": "Fastighetsservice AB",
         "domain": "ff-fastighetsservice.se",
         "country": "SE",
