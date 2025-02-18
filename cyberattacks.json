@@ -1,5 +1,15 @@
 [
     {
+        "date": "2023-02-17",
+        "victim": "Minneapolis Public Schools",
+        "domain": "mpls.k12.mn.us",
+        "country": "USA",
+        "summary": "Le district scolaire de Minneapolis a été victime d'une cyberattaque en février 2023, lors de laquelle des hackers ont volé des informations sensibles sur les élèves et les enseignants. Les responsables du district ont caché l'ampleur de la violation de données aux familles et aux élèves, en dépit de la publication en ligne des fichiers volés par le groupe de ransomware Medusa. Il a fallu sept mois pour que les 105 617 personnes affectées soient informées de l'incident.",
+        "title": "Kept in the Dark: Inside the Minneapolis Schools Cyberattack - The 74",
+        "url": "https://www.the74million.org/article/kept-in-the-dark-inside-the-minneapolis-schools-cyberattack/",
+        "added": "2025-02-18"
+    },
+    {
         "date": "2025-02-11",
         "victim": "Alf DaFrè",
         "domain": "alfdafre.it",
