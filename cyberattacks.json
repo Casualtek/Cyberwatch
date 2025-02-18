@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-11-07",
+        "victim": "Finastra",
+        "domain": "finastra.com",
+        "country": "GBR",
+        "summary": "Finastra, une entreprise de technologie financière, a annoncé une violation de données après la découverte d'une cyberattaque en novembre 2024, qui a permis à un tiers non autorisé d'accéder à des informations sensibles, notamment des noms et des informations de compte financier. L'enquête a révélé que l'accès non autorisé avait eu lieu entre le 31 octobre et le 8 novembre 2024 via une plateforme de transfert de fichiers sécurisée. Finastra a envoyé des lettres de notification de violation de données aux personnes affectées et leur recommande de prendre des mesures pour protéger leur identité et prévenir la fraude.",
+        "title": "Finastra Announces Data Breach Following Discovery of November 2024 Cyberattack | Console and Associates, P.C. - JDSupra",
+        "url": "https://www.jdsupra.com/legalnews/finastra-announces-data-breach-7637704/",
+        "added": "2025-02-18"
+    },
+    {
         "date": "2023-02-17",
         "victim": "Minneapolis Public Schools",
         "domain": "mpls.k12.mn.us",
