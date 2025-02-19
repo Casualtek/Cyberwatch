@@ -1,5 +1,15 @@
 [
     {
+        "date": "2025-02-19",
+        "victim": "Genea",
+        "domain": "genea.com.au",
+        "country": "AUS",
+        "summary": "Un fournisseur australien leader de services de fécondation in vitro (IVF) a été ciblé par une cyberattaque. L'incident a entraîné une indisponibilité temporaire de certaines fonctionnalités, mais les détails sur l'ampleur de l'attaque et les données compromises ne sont pas encore disponibles. Les équipes travaillent à restaurer les services et à enquêter sur l'incident.",
+        "title": "Video: Leading Australian IVF provider targeted in cyberattack",
+        "url": "https://www.watoday.com.au/national/leading-australian-ivf-provider-targeted-in-cyberattack-20250219-p5ldic.html",
+        "added": "2025-02-19"
+    },
+    {
         "date": "2024-11-07",
         "victim": "Finastra",
         "domain": "finastra.com",
