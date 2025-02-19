@@ -1,5 +1,15 @@
 [
     {
+        "date": "2025-01-29",
+        "victim": "Fashion Box S.p.A.",
+        "domain": "replayjeans.com",
+        "country": "ITA",
+        "summary": "La société italienne Fashion Box, connue sous le nom de Replay, a été victime d'une cyberattaque le 29 janvier 2025, lorsqu'un hacker a réussi à accéder à ses serveurs en utilisant une méthode d'attaque par force brute. L'attaque a permis au pirate de s'emparer de données confidentielles, notamment des informations personnelles des parties prenantes internes et externes. La société a déjà porté plainte et a notifié l'incident aux autorités compétentes en matière de protection des données personnelles en Italie et à l'étranger.",
+        "title": "Attacco hacker al quartier generale Replay ad Asolo | Il Mattino di Padova",
+        "url": "https://www.mattinopadova.it/regione/attacco-hacker-replay-asolo-nordest-cosa-e-successo-i12vldl7",
+        "added": "2025-02-19"
+    },
+    {
         "date": "2025-02-18",
         "victim": "Cayuga Health",
         "domain": "cayugahealth.org",
