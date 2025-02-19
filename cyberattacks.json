@@ -1,6 +1,16 @@
 [
     {
         "date": "2025-02-18",
+        "victim": "Cayuga Health",
+        "domain": "cayugahealth.org",
+        "country": "USA",
+        "summary": "Le système de santé Cayuga Health a été victime d'une cyberattaque infructueuse mardi soir, mais a réussi à isoler les systèmes affectés et à restaurer l'intégrité du système. Les systèmes sont à nouveau en ligne ce matin. Cayuga Health avait fusionné avec Arnot Health pour former Centralus Health en janvier dernier.",
+        "title": "Cayuga Health systems online after ‘unsuccessful cyberattack’ - 607 News Now",
+        "url": "https://607newsnow.com/news/258852-cayuga-health-systems-online-after-unsuccessful-cyberattack/",
+        "added": "2025-02-19"
+    },
+    {
+        "date": "2025-02-18",
         "victim": "Raymond",
         "domain": "raymond.in",
         "country": "IND",
