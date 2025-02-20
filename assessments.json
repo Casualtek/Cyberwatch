@@ -1,5 +1,12 @@
 [
     {
+        "victim": "Ziese & Sons",
+        "domain": "ziese.net",
+        "country": "US",
+        "date": "2025-02-10",
+        "group": "safepay"
+    },
+    {
         "victim": "Foyer Notre Dame De Paix",
         "domain": "foyernotredamedepaix.be",
         "country": "BE",
