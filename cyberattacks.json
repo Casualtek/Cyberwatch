@@ -1,5 +1,15 @@
 [
     {
+        "date": "2025-02-17",
+        "victim": "Bibliothèque Muntpunt",
+        "domain": "muntpunt.be",
+        "country": "BEL",
+        "summary": "La bibliothèque néerlandophone de Bruxelles, Muntpunt, a été victime d'une cyberattaque dans la nuit de dimanche à lundi, perturbant son réseau. Bien qu'aucune donnée personnelle n'ait été compromise, le Wi-Fi, les ordinateurs en salle de lecture et certaines fonctions comme l'impression sont indisponibles jusqu'à fin mars. Malgré ces restrictions, la bibliothèque reste ouverte, permettant l'emprunt de livres et la tenue des activités prévues.",
+        "title": "Une bibliothèque bruxelloise touchée par une cyberattaque - Le Soir",
+        "url": "https://www.lesoir.be/656722/article/2025-02-20/une-bibliotheque-bruxelloise-touchee-par-une-cyberattaque",
+        "added": "2025-02-20"
+    },
+    {
         "date": "2025-02-19",
         "victim": "Paratus Namibia",
         "domain": "nimbus.africa",
