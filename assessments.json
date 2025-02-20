@@ -1,5 +1,12 @@
 [
     {
+        "victim": "Foyer Notre Dame De Paix",
+        "domain": "foyernotredamedepaix.be",
+        "country": "BE",
+        "date": "2025-02-12",
+        "group": "safepay"
+    },
+    {
         "victim": "Shields Facilities Maintenance",
         "domain": "shieldsfm.com",
         "country": "US",
