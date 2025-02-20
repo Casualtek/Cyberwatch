@@ -1,5 +1,12 @@
 [
     {
+        "victim": "PYA Solutions",
+        "domain": "pyasolutions.com",
+        "country": "CA",
+        "date": "2025-01-30",
+        "group": "incransom"
+    },
+    {
         "victim": "Kibbutz Lavi Hotel",
         "domain": "lavi.co.il",
         "country": "IL",
