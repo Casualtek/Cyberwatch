@@ -1,5 +1,15 @@
 [
     {
+        "date": "2025-02-18",
+        "victim": "HCRG Care Group",
+        "domain": "hcrgcaregroup.com",
+        "country": "GBR",
+        "summary": "Le groupe de soins de santé privé HCRG Care Group au Royaume-Uni a été victime d'une cyberattaque par le gang de ransomware Medusa, qui réclame 2 millions de dollars en échange de la non-divulgation de données internes volées. Le gang a déjà publié des échantillons de ces données, notamment des scans de passeports et de permis de conduire, et menace de les rendre publiques si le paiement n'est pas effectué d'ici le 27 février. HCRG a confirmé l'incident et a mis en place des mesures de confinement, mais il est probable qu'il refuse de payer la rançon.",
+        "title": "Medusa extortion gang demands $2M from UK's HCRG Care Group • The Register",
+        "url": "https://www.theregister.com/2025/02/20/medusa_hcrg_ransomware/",
+        "added": "2025-02-20"
+    },
+    {
         "date": "2025-01-29",
         "victim": "Fashion Box S.p.A.",
         "domain": "replayjeans.com",
