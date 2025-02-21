@@ -1,5 +1,15 @@
 [
     {
+        "date": "2025-02-17",
+        "victim": "Einstein-Gymnasium à Kehl",
+        "domain": "einstein-kehl.de",
+        "country": "DEU",
+        "summary": "Un incident de sécurité informatique a perturbé le réseau servant à préparer et dispenser les cours à l'Einstein-Gymnasium et à la Tulla-Realschule à Kehl le lundi 17 février. Les systèmes ont été mis hors service par la ville.",
+        "title": "Cyber-Angriff in Kehl - Kehl - Badische Zeitung",
+        "url": "https://www.badische-zeitung.de/cyber-angriff-in-kehl",
+        "added": "2025-02-21"
+    },
+    {
         "date": "2025-02-07",
         "victim": "CPI UK",
         "domain": "cpi-print.co.uk",
