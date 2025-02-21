@@ -1,5 +1,12 @@
 [
     {
+        "victim": "Riverdale Country School",
+        "domain": "riverdale.edu",
+        "country": "US",
+        "date": "2025-02-07",
+        "group": "ransomhub"
+    },
+    {
         "victim": "PYA Solutions",
         "domain": "pyasolutions.com",
         "country": "CA",
