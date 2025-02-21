@@ -1,5 +1,15 @@
 [
     {
+        "date": "2025-02-10",
+        "victim": "Utsunomiya Central Clinic",
+        "domain": "ucc.or.jp",
+        "country": "JPN",
+        "summary": "L'Utsunomiya Central Clinic au Japon a été victime d'une cyberattaque par ransomware, ce qui a entraîné une fuite possible d'informations personnelles de patients et de personnel, notamment des noms, dates de naissance, adresses et numéros de téléphone. L'hôpital a signalé l'incident à la police et a engagé des experts pour enquêter et restaurer ses systèmes. En conséquence, les activités de l'hôpital sont actuellement limitées.",
+        "title": "不正アクセスに伴う情報漏えいの可能性および当面の業務制限について|栃木県でがん治療,ガン検査なら宇都宮セントラルクリニック",
+        "url": "https://ucc.or.jp/2025/02/17259",
+        "added": "2025-02-21"
+    },
+    {
         "date": "2025-02-04",
         "victim": "GFOS mbH",
         "domain": "gfos.com",
