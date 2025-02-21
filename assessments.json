@@ -1,5 +1,12 @@
 [
     {
+        "victim": "Elecgalapagos S.A.",
+        "domain": "elecgalapagos.com.ec",
+        "country": "EC",
+        "date": "2025-02-13",
+        "group": "ransomhub"
+    },
+    {
         "victim": "Saracen Properties",
         "domain": "saracenproperties.com",
         "country": "US",
