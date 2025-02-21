@@ -1,5 +1,15 @@
 [
     {
+        "date": "2025-02-07",
+        "victim": "CPI UK",
+        "domain": "cpi-print.co.uk",
+        "country": "GBR",
+        "summary": "La société CPI UK, spécialisée dans l'impression de livres, a été victime d'une cyberattaque qui a touché ses systèmes informatiques le 7 février. Les experts techniques ont été appelés pour résoudre le problème et des progrès significatifs ont été réalisés pour restaurer les systèmes. La société s'attend à reprendre ses services complets dans les jours à venir.",
+        "title": "Printweek - CPI tackles cyber attack",
+        "url": "https://www.printweek.com/content/news/cpi-tackles-cyber-attack",
+        "added": "2025-02-21"
+    },
+    {
         "date": "2025-02-19",
         "victim": "Prefeitura de Paranhos",
         "domain": "paranhos.ms.gov.br",
