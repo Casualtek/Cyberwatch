@@ -1,5 +1,12 @@
 [
     {
+        "victim": "PRAN Systems",
+        "domain": "pransystems.com",
+        "country": "CA",
+        "date": "2025-02-13",
+        "group": "ransomhub"
+    },
+    {
         "victim": "ProHealth Dental",
         "domain": "phdental.com",
         "country": "US",
