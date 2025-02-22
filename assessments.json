@@ -1,5 +1,12 @@
 [
     {
+        "victim": "Midwest Vascular",
+        "domain": "midwestvascular.net",
+        "country": "US",
+        "date": "2025-02-15",
+        "group": "ransomhub"
+    },
+    {
         "victim": "Withey Addison LLP",
         "domain": "witheyaddison.com",
         "country": "CA",
