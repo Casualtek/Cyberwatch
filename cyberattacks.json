@@ -1,5 +1,15 @@
 [
     {
+        "date": "2025-02-23",
+        "victim": "Hong Kong Investment Promotion Agency",
+        "domain": "investhk.gov.hk",
+        "country": "HKG",
+        "summary": "Le système informatique de l'agence de promotion de l'investissement à Hong Kong a été victime d'une attaque de logiciel de rançon, affectant notamment le système de gestion des clients, le réseau interne et certains sites web. L'expert en cybersécurité, Fang Baoqiu, estime que l'attaque est probablement due à une vulnérabilité du système plutôt qu'à une erreur humaine. Les mesures de sécurité ont été renforcées, notamment le changement de mots de passe et la mise en place de systèmes de secours, pour prévenir de futures attaques.",
+        "title": "投资推广署电脑系统遭勒索软件入侵 方保侨料系统有漏洞所致 - RTHK",
+        "url": "https://gbcode.rthk.hk/TuniS/news.rthk.hk/rthk/ch/component/k2/1792857-20250223.htm",
+        "added": "2025-02-23"
+    },
+    {
         "date": "2025-02-20",
         "victim": "Haryana State Pollution Control Board (HSPCB)",
         "domain": "hrocmms.nic.in",
