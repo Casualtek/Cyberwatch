@@ -1,5 +1,15 @@
 [
     {
+        "date": "2025-02-23",
+        "victim": "Anne Arundel County Government",
+        "domain": "aacounty.org",
+        "country": "USA",
+        "summary": "Le gouvernement du comté d'Anne Arundel a été victime d'une cyberattaque, apparemment une attaque de rançon (ransomware) menée par le groupe INC ransomware, qui a entraîné la mise hors ligne de certains services publics. Les autorités enquêtent sur l'incident et travaillent à restaurer l'accès aux services affectés. Les données sensibles du comté ont été publiées sur un site web sombre, mais il est déconseillé d'y accéder.",
+        "title": "Anne Arundel County Government Hit by Cyber Attack - Eye On Annapolis",
+        "url": "https://www.eyeonannapolis.net/2025/02/anne-arundel-county-government-hit-by-cyber-attack/",
+        "added": "2025-02-23"
+    },
+    {
         "date": "2025-02-10",
         "victim": "Utsunomiya Central Clinic",
         "domain": "ucc.or.jp",
