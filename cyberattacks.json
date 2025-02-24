@@ -1,6 +1,16 @@
 [
     {
         "date": "2025-02-23",
+        "victim": "Cleveland Municipal Court",
+        "domain": "clevelandmunicipalcourt.org",
+        "country": "USA",
+        "summary": "Le Tribunal municipal de Cleveland enquête sur une cyberattaque survenue le dimanche soir, qui a entraîné la fermeture des systèmes affectés en mesure de précaution. Les systèmes resteront hors ligne jusqu'à ce que le tribunal comprenne mieux la situation, et le tribunal sera fermé le 24 février, sauf pour le personnel essentiel. L'enquête est en cours pour déterminer la cause de l'incident et restaurer les services en sécurité.",
+        "title": "Cleveland Municipal Court investigates cyber incident: Court closed Feb. 23",
+        "url": "https://www.news5cleveland.com/news/local-news/cleveland-municipal-court-investigates-cyber-incident",
+        "added": "2025-02-24"
+    },
+    {
+        "date": "2025-02-23",
         "victim": "Hong Kong Investment Promotion Agency",
         "domain": "investhk.gov.hk",
         "country": "HKG",
