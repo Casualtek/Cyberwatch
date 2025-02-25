@@ -1,5 +1,12 @@
 [
     {
+        "victim": "Atelier Monarque Architecture",
+        "domain": "ateliermonarque.com",
+        "country": "CA",
+        "date": "2025-02-17",
+        "group": "ransomhub"
+    },
+    {
         "victim": "Con-Fab California, LLC",
         "domain": "confabca.com",
         "country": "US",
