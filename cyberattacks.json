@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-09-01",
+        "victim": "Detroit PBS",
+        "domain": "detroitpbs.org",
+        "country": "USA",
+        "summary": "La chaîne de télévision publique Detroit PBS a été victime d'une cyberattaque, au cours de laquelle des informations sensibles ont été volées, notamment des données personnelles de 1 694 individus. Le groupe de ransomware Qilin, connu pour ses attaques contre des hôpitaux, a revendiqué la responsabilité de l'attaque et a publié 345 Go de fichiers. Detroit PBS a mis en place des mesures pour protéger les données des personnes affectées et a notifié les autorités fédérales.",
+        "title": "Television station Detroit PBS hacked, Qilin ransomware takes responsibility | Cybernews",
+        "url": "https://cybernews.com/security/television-station-detroit-pbs-hacked/",
+        "added": "2025-02-25"
+    },
+    {
         "date": "2025-02-21",
         "victim": "Bain de Bretagne",
         "domain": "baindebretagne.fr",
