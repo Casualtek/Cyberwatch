@@ -1,5 +1,15 @@
 [
     {
+        "date": "2025-02-21",
+        "victim": "Bain de Bretagne",
+        "domain": "baindebretagne.fr",
+        "country": "FRA",
+        "summary": "La Mairie a été victime d'une cyberattaque et a mis en place une cellule de crise, déposé plainte auprès de la Gendarmerie et sollicité des entreprises spécialisées en cybersécurité pour évaluer et remédier à la situation. Les services de la Mairie sont perturbés, avec des difficultés d'accès à certaines informations et des restrictions pour les accueils physiques. Les investigations sont toujours en cours pour évaluer l'ampleur de l'attaque et restaurer les services normaux.",
+        "title": "La Mairie, touchée par une cyberattaque",
+        "url": "https://www.baindebretagne.fr/actualites/perturbations-mairie-cyberattaque/",
+        "added": "2025-02-25"
+    },
+    {
         "date": "2025-02-23",
         "victim": "Cleveland Municipal Court",
         "domain": "clevelandmunicipalcourt.org",
