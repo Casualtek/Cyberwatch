@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-04-22",
+        "victim": "DISA Global Solutions, Inc.",
+        "domain": "disa.com",
+        "country": "USA",
+        "summary": "La société DISA Global Solutions, Inc. a été victime d'une cyberattaque entre le 9 février et le 22 avril 2024, entraînant l'accès non autorisé à des informations personnelles de particuliers, notamment des numéros de sécurité sociale et des données de compte bancaire. Les données compromises ont été contenues dans des fichiers liés aux services de vérification d'emploi et de dépistage de drogues. DISA a mis en place des mesures de sécurité supplémentaires et offre des services de surveillance du crédit et de restauration d'identité aux personnes affectées.",
+        "title": "Notice of Data Incident | DISA",
+        "url": "https://disa.com/notice",
+        "added": "2025-02-25"
+    },
+    {
         "date": "2025-02-22",
         "victim": "Northern Caribbean University (NCU)",
         "domain": "ncu.edu.jm",
