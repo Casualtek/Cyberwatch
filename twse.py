@@ -39,16 +39,26 @@ def main():
     }
 
     with sync_playwright() as p:
-        # Créer un contexte de requête
+        user_agent = (
+            "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36"
+        )
+
         request = p.request.new_context(
-            base_url="https://mops.twse.com.tw",
+            base_url="https://mopsov.twse.com.tw",
             extra_http_headers={
-                "Origin": "https://mops.twse.com.tw",
-                "Referer": "https://mops.twse.com.tw/mops/web/index",
+                "User-Agent": user_agent,
+                "Accept": "*/*",
+                "Accept-Encoding": "gzip, deflate, br, zstd",
+                "Accept-Language": "en-GB,en;q=0.9,en-US;q=0.8,fr;q=0.7",
+                "Origin": "https://mopsov.twse.com.tw",
+                "Sec-Ch-Ua": '"Not(A:Brand";v="99", "Google Chrome";v="133", "Chromium";v="133"',
+                "Sec-Ch-Ua-Mobile": "?0",
+                "Sec-Ch-Ua-Platform": '"macOS"',
+                "Connection": "keep-alive",
+                "Dnt": "1",  # Do Not Track (optional)
             }
         )
-    
-        # Envoyer la requête POST
+
         response = request.post(
             "/mops/web/ezsearch_query",
             form=form_data,  # Données du formulaire
