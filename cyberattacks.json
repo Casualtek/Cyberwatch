@@ -1,5 +1,15 @@
 [
     {
+        "date": "2025-02-25",
+        "victim": "Fort St. John",
+        "domain": "fortstjohn.ca",
+        "country": "CAN",
+        "summary": "La ville de Fort St. John au Canada a été victime d'une cyberattaque qui a fortement impacté les services municipaux. Les équipes de la ville ont réagi rapidement en isolant les systèmes pour limiter l'activité non autorisée et une équipe d'intervention en cas de cyberincident a été activée pour évaluer l'ampleur de l'impact. Les détails sur l'incident sont encore limités, mais la ville s'engage à fournir des mises à jour régulières au fur et à mesure que l'enquête progresse.",
+        "title": "Cyber attack 'severely impacts' City of Fort St. John services",
+        "url": "https://energeticcity.ca/2025/02/25/city-of-fort-st-john-dealing-with-cyber-attack/",
+        "added": "2025-02-26"
+    },
+    {
         "date": "2024-04-22",
         "victim": "DISA Global Solutions, Inc.",
         "domain": "disa.com",
