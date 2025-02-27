@@ -1,16 +1,16 @@
 [
     {
+        "victim": "Clinica CES",
+        "domain": "clinicaces.edu.co",
+        "country": "CO",
+        "date": "2024-12-23",
+        "group": "qilin"
+    },
+    {
         "victim": "Akran",
         "domain": "akran.it",
         "country": "IT",
         "date": "2024-12-19",
-        "group": "qilin"
-    },
-    {
-        "victim": "Palau Health",
-        "domain": "palauhealth.org",
-        "country": "PW",
-        "date": "2024-12-23",
         "group": "qilin"
     },
     {
