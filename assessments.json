@@ -1,5 +1,12 @@
 [
     {
+        "victim": "Mega Metals",
+        "domain": "megamtls.com",
+        "country": "US",
+        "date": "2025-01-31",
+        "group": "incransom"
+    },
+    {
         "victim": "Emery Air, LLC.",
         "domain": "emeryair.net",
         "country": "US",
