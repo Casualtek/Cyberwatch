@@ -1,5 +1,12 @@
 [
     {
+        "victim": "Compañia Minera San Gerónimo (CMSG)",
+        "domain": "cmsg.cl",
+        "country": "CL",
+        "date": "2025-01-31",
+        "group": "ransomhub"
+    },
+    {
         "victim": "RGB Spectrum",
         "domain": "rgb.com",
         "country": "US",
