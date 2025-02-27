@@ -1,5 +1,12 @@
 [
     {
+        "victim": "Favbet",
+        "domain": "favbet.com",
+        "country": "UA",
+        "date": "2024-12-13",
+        "group": "qilin"
+    },
+    {
         "victim": "HEXPOL Compunding Americas",
         "domain": "hexpol.com",
         "country": "US",
