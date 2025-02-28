@@ -1,5 +1,19 @@
 [
     {
+        "victim": "Worldnet",
+        "domain": "worldnetpr.com",
+        "country": "PR",
+        "date": "2025-01-10",
+        "group": "akira"
+    },
+    {
+        "victim": "The Pawn",
+        "domain": "pawnco.local",
+        "country": "US",
+        "date": "2025-01-16",
+        "group": "akira"
+    },
+    {
         "victim": "McCORMICK TAYLOR",
         "domain": "mccormicktaylor.com",
         "country": "US",
