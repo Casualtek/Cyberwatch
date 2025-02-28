@@ -1,6 +1,16 @@
 [
     {
         "date": "2025-02-21",
+        "victim": "Mairie de Berson",
+        "domain": "mairieberson.fr",
+        "country": "FRA",
+        "summary": "La mairie de Berson, en Gironde, a été victime d'une cyberattaque le 21 février, entraînant la perte d'accès à ses données, y compris ses sauvegardes en ligne, et une demande de rançon. Le maire suspecte l'intervention de hackeurs russes et a porté plainte à la gendarmerie de Blaye. Les services de la mairie sont perturbés, notamment les accueils par mail, et les habitants ont été avertis de la situation sur le site internet de la mairie.",
+        "title": "\" Même nos sauvegardes ne nous sont plus accessibles \" : en Gironde, ce village victime d’une cyberattaque",
+        "url": "https://www.sudouest.fr/gironde/berson/meme-nos-sauvegardes-ne-nous-sont-plus-accessibles-en-gironde-ce-village-victime-d-une-cyberattaque-23443299.php",
+        "added": "2025-02-28"
+    },
+    {
+        "date": "2025-02-21",
         "victim": "Banque de Papouasie-Nouvelle-Guinée (BPNG)",
         "domain": "bankpng.gov.pg",
         "country": "PNG",
