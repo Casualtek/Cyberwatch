@@ -1,5 +1,15 @@
 [
     {
+        "date": "2025-02-21",
+        "victim": "Banque de Papouasie-Nouvelle-Guinée (BPNG)",
+        "domain": "bankpng.gov.pg",
+        "country": "PNG",
+        "summary": "La Banque de Papouasie-Nouvelle-Guinée (BPNG) a réussi à contenir une récente cyberattaque, sans impact sur les données financières ou les opérations bancaires. L'équipe de cybersécurité de la banque a détecté une activité réseau anormale le 21 février dans un environnement de test isolé, et a résolu l'incident le 23 février. La banque centrale a réaffirmé son engagement à renforcer son cadre de cybersécurité pour protéger le système financier du pays.",
+        "title": "Bank of PNG Thwarts Cyber Attack: Financial Systems Remain Untouched Amid Rising Digital Threats - Papua New Guinea Today",
+        "url": "https://news.pngfacts.com/2025/02/bank-of-png-png-thwarts-cyber-attack.html",
+        "added": "2025-02-28"
+    },
+    {
         "date": "2025-02-25",
         "victim": "Fort St. John",
         "domain": "fortstjohn.ca",
