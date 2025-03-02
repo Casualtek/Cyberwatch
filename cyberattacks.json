@@ -1,5 +1,15 @@
 [
     {
+        "date": "2025-02-28",
+        "victim": "Missouri Department of Conservation",
+        "domain": "mdc.mo.gov",
+        "country": "USA",
+        "summary": "Le département de la Conservation du Missouri enquête sur une activité suspecte détectée sur l'un de ses serveurs de données. Une équipe de réponse d'urgence et une équipe de cybersécurité ont été mobilisées pour analyser les systèmes et les fichiers du département. Si des données individuelles sont compromises, les personnes concernées seront informées.",
+        "title": "Cybersecurity team investigates Missouri Conservation Department's data server issue",
+        "url": "https://krcgtv.com/news/local/cybersecurity-team-investigates-missouri-conservation-departments-data-server-issue",
+        "added": "2025-03-02"
+    },
+    {
         "date": "2025-02-06",
         "victim": "Franklin County",
         "domain": "franklincountymaine.gov",
