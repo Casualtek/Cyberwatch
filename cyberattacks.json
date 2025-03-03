@@ -1,6 +1,16 @@
 [
     {
         "date": "2025-03-02",
+        "victim": "Penn-Harris-Madison school district",
+        "domain": "phm.k12.in.us",
+        "country": "USA",
+        "summary": "Le district scolaire de Penn-Harris-Madison a lancé une enquête suite à une éventuelle cyberattaque par rançon. Les ordinateurs de bureau ont été mis hors ligne en précaution, mais les appareils connectés au Wi-Fi, tels que les ordinateurs portables et les téléphones, sont toujours sécurisés. Aucun autre détail n'est disponible pour le moment, l'enquête est en cours. (via eCrime.ch)",
+        "title": "Investigation into potential ransomware attack on Penn-Harris-Madison school district",
+        "url": "https://wsbt.com/news/local/ransomware-attack-school-district-penn-harris-madison-phm-education-elementary-middle-high-desktops-disconnected-wifi-devices-laptops-cell-phones-investigation-mishawaka-indiana",
+        "added": "2025-03-03"
+    },
+    {
+        "date": "2025-03-02",
         "victim": "Adval Tech Group",
         "domain": "advaltech.com",
         "country": "CHE",
