@@ -1,5 +1,15 @@
 [
     {
+        "date": "2025-03-02",
+        "victim": "HomeTeamNS",
+        "domain": "hometeamns.sg",
+        "country": "SGP",
+        "summary": "L'organisation à but non lucratif singapourienne HomeTeamNS a été victime d'une attaque par rançongiciel qui a affecté certains de ses serveurs contenant des données de ses employés actuels et anciens, ainsi que des détails de véhicules de certains membres. L'organisation a immédiatement désactivé et isolé les serveurs affectés et a engagé des experts en sécurité pour enquêter et remédier à l'incident. Il n'y a pas encore de preuve d'extraction de données, mais l'organisation surveille la situation de près et a pris des mesures pour protéger les données de ses stakeholders.",
+        "title": "Singapore’s HomeTeamNS hit by ransomware attack | Computer Weekly",
+        "url": "https://www.computerweekly.com/news/366619629/Singapores-HomeTeamNS-hit-by-ransomware-attack",
+        "added": "2025-03-03"
+    },
+    {
         "date": "2025-02-28",
         "victim": "Missouri Department of Conservation",
         "domain": "mdc.mo.gov",
