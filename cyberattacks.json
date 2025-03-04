@@ -1,5 +1,15 @@
 [
     {
+        "date": "2025-03-02",
+        "victim": "Ivinhema",
+        "domain": "ivinhema.ms.gov.br",
+        "country": "BRA",
+        "summary": "Le 2 mars 2025, une cyberattaque par ransomware a compromis des données personnelles de contribuables de la ville, touchant les départements de la fiscalité et de la comptabilité. Bien que les attaquants aient chiffré les informations et exigé une rançon, aucun usage frauduleux des données n’a été constaté à ce jour, mais la population est invitée à redoubler de vigilance face aux tentatives d’escroquerie. La mairie a signalé l’incident aux autorités compétentes et renforce ses mesures de sécurité, tout en rappelant que la divulgation non autorisée de données personnelles est un crime sévèrement puni par la loi.",
+        "title": "IVINHEMA: Ataque Cibernético compromete dados da Prefeitura: população deve redobrar a atenção",
+        "url": "https://www.aconteceums.com.br/noticia/69674/ivinhema-ataque-cibernetico-compromete-dados-da-prefeitura-populacao-deve-redobrar-a-atencao",
+        "added": "2025-03-04"
+    },
+    {
         "date": "2025-02-17",
         "victim": "Ministère de la Santé de Palau",
         "domain": "palauhealth.org",
