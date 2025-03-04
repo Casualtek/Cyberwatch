@@ -1,5 +1,15 @@
 [
     {
+        "date": "2025-02-17",
+        "victim": "Ministère de la Santé de Palau",
+        "domain": "palauhealth.org",
+        "country": "PLW",
+        "summary": "Le ministère de la Santé de Palau a été victime d'une attaque ransomware menée par le groupe Qilin, qui a volé des fichiers contenant des informations de patients, notamment des données de facturation et des informations personnelles. Les autorités ont réussi à isoler l'incident et à rétablir les opérations hospitalières dans les 48 heures, avec l'aide d'experts en cybersécurité. Le groupe Qilin a publié certaines des informations volées et a menacé d'en publier davantage, mais les autorités ont déclaré que l'impact sur la sécurité des individus était limité.",
+        "title": "Palau health ministry on the mend after Qilin ransomware attack | The Record from Recorded Future News",
+        "url": "https://therecord.media/palau-health-ministry-ransomware-recover",
+        "added": "2025-03-04"
+    },
+    {
         "date": "2025-02-12",
         "victim": "Cistec",
         "domain": "cistec.com",
