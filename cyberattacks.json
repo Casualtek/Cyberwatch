@@ -1,5 +1,15 @@
 [
     {
+        "date": "2025-02-12",
+        "victim": "Cistec",
+        "domain": "cistec.com",
+        "country": "CHE",
+        "summary": "Cistec, un fournisseur suisse de système d'information clinique, a été victime d'une attaque par ransomware le 12 février 2025, visant les services connectés à l'Active Directory. Les systèmes clients et les données des patients n'ont pas été touchés, et l'entreprise a immédiatement arrêté ses systèmes pour éviter que le piratage ne s'étende. Cistec travaille actuellement à la remise en état de ses systèmes dans un nouvel environnement informatique sécurisé.",
+        "title": "Des cybercriminels s'en prennent à Cistec, fournisseur suisse de système clinique | ICTjournal",
+        "url": "https://www.ictjournal.ch/news/2025-03-03/des-cybercriminels-sen-prennent-a-cistec-fournisseur-suisse-de-systeme-clinique",
+        "added": "2025-03-04"
+    },
+    {
         "date": "2025-03-02",
         "victim": "Penn-Harris-Madison school district",
         "domain": "phm.k12.in.us",
