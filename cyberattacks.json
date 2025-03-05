@@ -1,5 +1,15 @@
 [
     {
+        "date": "2025-02-10",
+        "victim": "Utsunomiya Central Clinic",
+        "domain": "ucc.or.jp",
+        "country": "JPN",
+        "summary": "L'hôpital Utsunomiya Central Clinic au Japon a été victime d'une cyberattaque par ransomware le 10 février 2025, ce qui a entraîné une fuite possible d'informations personnelles de patients et de personnel, notamment des noms, dates de naissance, adresses et numéros de téléphone. L'hôpital a signalé l'incident à la police et a engagé des experts pour enquêter et renforcer la sécurité de ses systèmes. Les activités de l'hôpital sont actuellement limitées en raison de la cyberattaque. L'attaque a été revendiquée par l'enseigne Qilin.",
+        "title": "不正アクセスに伴う情報漏えいの可能性および当面の業務制限について|栃木県でがん治療,ガン検査なら宇都宮セントラルクリニック",
+        "url": "http://ucc.or.jp/2025/02/17259",
+        "added": "2025-03-05"
+    },
+    {
         "date": "2025-02-27",
         "victim": "Harvest",
         "domain": "harvest.fr",
