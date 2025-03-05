@@ -1,5 +1,15 @@
 [
     {
+        "date": "2025-03-04",
+        "victim": "Unikorn Semiconductor Corp.",
+        "domain": "unikornsemi.com",
+        "country": "TWN",
+        "summary": "Le 4 mars 2025, les systèmes d'information de la filiale Unikorn du groupe Ennostar ont été attaqués par des pirates, mais grâce à la mise en œuvre du mécanisme de défense, l'incident n'a pas affecté les opérations de l'entreprise. Les mesures préventives sont actuellement mises en place et les sites web externes sont fermés pour maintenance. La filiale va renforcer son infrastructure de sécurité de l'information et améliorer le contrôle de la sécurité de son réseau et de son SI.",
+        "title": "Today's Information",
+        "url": "https://emops.twse.com.tw/server-java/t05sr01_1_e?&isNew=Y&seq_no=1&spoke_time=154354&spoke_date=20250304&co_id=3714",
+        "added": "2025-03-05"
+    },
+    {
         "date": "2025-03-02",
         "victim": "Ivinhema",
         "domain": "ivinhema.ms.gov.br",
