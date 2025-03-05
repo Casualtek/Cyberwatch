@@ -1,5 +1,15 @@
 [
     {
+        "date": "2025-02-27",
+        "victim": "Harvest",
+        "domain": "harvest.fr",
+        "country": "FRA",
+        "summary": "La FinTech française Harvest, qui compte plus de 4600 sociétés clientes, a été victime d'une cyberattaque par ransomware le 27 février dernier, rendant son site web et ses services inaccessibles. L'entreprise n'a pas encore communiqué officiellement sur l'incident, mais les données établies sont indisponibles, ce qui oblige ses clients à notifier la CNIL. L'ampleur des dégâts et l'impact sur l'activité de Harvest restent pour l'instant inconnus.",
+        "title": "Ransomware : la FinTech française Harvest victime d’une cyberattaque | LeMagIT",
+        "url": "https://www.lemagit.fr/actualites/366620232/Ransomware-la-FinTech-francaise-Harvest-victime-dune-cyberattaque",
+        "added": "2025-03-05"
+    },
+    {
         "date": "2025-03-04",
         "victim": "Stadtwerke Schwerte",
         "domain": "stadtwerke-schwerte.de",
