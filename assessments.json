@@ -1,5 +1,12 @@
 [
     {
+        "victim": "Winbas",
+        "domain": "winbas.com",
+        "country": "SE",
+        "date": "2025-01-23",
+        "group": "lynx"
+    },
+    {
         "victim": "Planet One",
         "domain": "planetone-asia.com",
         "country": "SG",
