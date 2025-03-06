@@ -1,12 +1,12 @@
 [
     {
-        "date": "2024-12-21",
-        "victim": "Carruth Compliance Consulting",
-        "domain": "ncompliance.com",
+        "date": "2023-03-02",
+        "victim": "Berkeley Research Group (BRG)",
+        "domain": "thinkbrg.com",
         "country": "USA",
-        "summary": "Une cyberattaque en décembre 2024 contre Carruth Compliance Consulting, un administrateur de plans de retraite pour les écoles publiques, a exposé les informations de plus de 40 000 enseignants et employés scolaires aux États-Unis. Les données volées incluent des numéros de sécurité sociale, des informations financières et des données médicales. L'incident a déjà entraîné des poursuites collectives et des enquêtes, tandis que les écoles et les districts scolaires concernés informent leurs employés de la violation de données.",
-        "title": "Thousands of public school workers impacted by cyberattack on retirement plan administrator | The Record from Recorded Future News",
-        "url": "https://therecord.media/thousands-of-public-school-workers-impacted-data-breach",
+        "summary": "Le cabinet de conseil Berkeley Research Group (BRG) a été victime d'une cyberattaque la semaine dernière, alors que des banques préparaient une vente de dettes pour financer son rachat par Towerbrook Capital Partners. Les systèmes de BRG ont été compromis le 2 mars et des rançons ont été demandées par un hacker qui prétend avoir volé des données et crypté des fichiers du réseau. L'incident a eu lieu au moment où la vente de dettes était sur le point d'être finalisée.",
+        "title": "Consulting Firm BRG Suffers Cyberattack Amid LBO Debt Sale - Bloomberg",
+        "url": "https://www.bloomberg.com/news/articles/2025-03-06/consulting-firm-brg-suffers-cyberattack-amid-debt-sale-for-lbo",
         "added": "2025-03-06"
     },
     {
