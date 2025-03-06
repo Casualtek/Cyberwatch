@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-12-21",
+        "victim": "Carruth Compliance Consulting",
+        "domain": "ncompliance.com",
+        "country": "USA",
+        "summary": "Une cyberattaque en décembre 2024 contre Carruth Compliance Consulting, un administrateur de plans de retraite pour les écoles publiques, a exposé les informations de plus de 40 000 enseignants et employés scolaires aux États-Unis. Les données volées incluent des numéros de sécurité sociale, des informations financières et des données médicales. L'incident a déjà entraîné des poursuites collectives et des enquêtes, tandis que les écoles et les districts scolaires concernés informent leurs employés de la violation de données.",
+        "title": "Thousands of public school workers impacted by cyberattack on retirement plan administrator | The Record from Recorded Future News",
+        "url": "https://therecord.media/thousands-of-public-school-workers-impacted-data-breach",
+        "added": "2025-03-06"
+    },
+    {
         "date": "2023-03-05",
         "victim": "Ålands Centralandelslag (ÅCA)",
         "domain": "aca.ax",
