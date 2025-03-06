@@ -1,5 +1,12 @@
 [
     {
+        "victim": "Warsemann",
+        "domain": "warsemann.fr",
+        "country": "FR",
+        "date": "2025-02-18",
+        "group": "qilin"
+    },
+    {
         "victim": "Stürmer Maschinen",
         "domain": "stuermer-maschinen.de",
         "country": "DE",
