@@ -1,5 +1,15 @@
 [
     {
+        "date": "2023-03-05",
+        "victim": "Ålands Centralandelslag (ÅCA)",
+        "domain": "aca.ax",
+        "country": "FIN",
+        "summary": "Ålands Centralandelslag (ÅCA) a été victime d'une cyberattaque mercredi, mais après quelques heures de travail intensif, tous les systèmes sont à nouveau opérationnels. Cependant, il est possible que certaines opérations soient retardées car certaines processus sont exécutés de manière analogique pour des raisons de sécurité. ÅCA avertit ses clients de rester vigilants face à d'éventuelles communications anormales de la part de l'entreprise.",
+        "title": "Cyberattack på Ålandsmejeriet och Ålandsbagarn | Nya Åland",
+        "url": "https://www.nyan.ax/nyheter/cyberattack-pa-alandsmejeriet-och-alandsbagarn/",
+        "added": "2025-03-06"
+    },
+    {
         "date": "2025-03-04",
         "victim": "Adina Hotels",
         "domain": "adinahotels.com",
