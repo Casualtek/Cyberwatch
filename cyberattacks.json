@@ -1,5 +1,15 @@
 [
     {
+        "date": "2025-03-01",
+        "victim": "National Presto Industries, Inc.",
+        "domain": "gopresto.com",
+        "country": "USA",
+        "summary": "National Presto Industries, Inc. a signalé une cyberattaque qui a causé une panne de système le 1er mars 2025. L'enquête est en cours pour déterminer la nature et l'impact de l'incident, qui a temporairement affecté les opérations de l'entreprise. L'incident pourrait avoir un impact matériel sur la situation financière et les résultats de l'entreprise. (via eCrime.ch)",
+        "title": "npk20250306_8k.htm",
+        "url": "https://www.sec.gov/Archives/edgar/data/80172/000143774925006475/npk20250306_8k.htm",
+        "added": "2025-03-07"
+    },
+    {
         "date": "2025-02-24",
         "victim": "Australian New Zealand Clinical Trials Registry (ANZCTR)",
         "domain": "anzctr.org.au",
