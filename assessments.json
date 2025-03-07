@@ -1,5 +1,12 @@
 [
     {
+        "victim": "Hinton",
+        "domain": "hinton.ca",
+        "country": "CA",
+        "date": "2025-02-22",
+        "group": "ransomhub"
+    },
+    {
         "victim": "Center Sheet Metal",
         "domain": "centersheetmetal.com",
         "country": "US",
