@@ -1,5 +1,15 @@
 [
     {
+        "date": "2025-02-24",
+        "victim": "Australian New Zealand Clinical Trials Registry (ANZCTR)",
+        "domain": "anzctr.org.au",
+        "country": "AUS",
+        "summary": "Une cyberattaque a mis hors ligne le registre australien des essais cliniques (ANZCTR) depuis le 28 février, empêchant les chercheurs de poursuivre leurs expériences. Les informations de contact et les mots de passe des utilisateurs ont été exposés, mais aucune donnée de santé n'a été compromise. Les chercheurs attendent avec impatience la remise en ligne du registre, qui est essentiel pour la transparence et la conduite éthique des essais cliniques en Australie.",
+        "title": "Australian clinical trials delayed after cyberattack on ANZCTR",
+        "url": "https://www.crikey.com.au/2025/03/07/australian-clinical-trials-cyberattack-anzctr/",
+        "added": "2025-03-07"
+    },
+    {
         "date": "2025-03-05",
         "victim": "Endless Mountains Health Systems (EMHS)",
         "domain": "endlesscare.org",
