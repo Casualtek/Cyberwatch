@@ -1,6 +1,16 @@
 [
     {
-        "date": "2023-03-06",
+        "date": "2025-02-13",
+        "victim": "Hinton",
+        "domain": "hinton.ca",
+        "country": "CAN",
+        "summary": "Le 13 février, la Ville a été victime d'un incident de cybersécurité et a immédiatement mis ses systèmes informatiques hors ligne pour limiter les risques. Aucune preuve d'utilisation abusive des données sensibles n'a été trouvée, et les experts en cybersécurité travaillent à restaurer les services en toute sécurité. Pendant cette période, certains services sont affectés, notamment l’impossibilité d’effectuer des paiements par carte dans les bâtiments municipaux et des retards dans l’application des paiements aux comptes clients, mais d’autres modes de paiement restent disponibles.",
+        "title": "The Town of Hinton continues to work diligently to securely restore our networks and return services to full functionality.",
+        "url": "https://www.facebook.com/share/p/1FRW6UpktM/",
+        "added": "2025-03-06"
+    },
+    {
+        "date": "2025-03-06",
         "victim": "Bikur Rofeh",
         "domain": "bikurofeh.co.il",
         "country": "ISR",
@@ -10,7 +20,7 @@
         "added": "2025-03-06"
     },
     {
-        "date": "2023-03-02",
+        "date": "2025-03-02",
         "victim": "Berkeley Research Group (BRG)",
         "domain": "thinkbrg.com",
         "country": "USA",
@@ -20,7 +30,7 @@
         "added": "2025-03-06"
     },
     {
-        "date": "2023-03-05",
+        "date": "2025-03-05",
         "victim": "Ålands Centralandelslag (ÅCA)",
         "domain": "aca.ax",
         "country": "FIN",
