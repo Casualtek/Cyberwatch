@@ -1,11 +1,6 @@
 name: Notify New Assessments
 
 on:
-  push:
-    branches:
-        - main
-    paths:
-      - 'assessments.json'
   workflow_dispatch:
 
 permissions: write-all
