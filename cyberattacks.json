@@ -1,5 +1,15 @@
 [
     {
+        "date": "2025-03-03",
+        "victim": "Mission, Texas",
+        "domain": "missiontexas.us",
+        "country": "USA",
+        "summary": "La ville de Mission au Texas a été victime d'une cyberattaque qui a forcé la fermeture de ses systèmes informatiques, laissant les policiers sans accès aux bases de données de l'État pour vérifier les plaques d'immatriculation et les permis de conduire. Les détails de l'incident, notamment la façon dont les cybercriminels ont ciblé le réseau de la ville et les informations qu'ils ont pu accéder, restent inconnus. La ville a déclaré qu'elle travaillait avec des experts en cybersécurité pour enquêter et remédier à l'incident.",
+        "title": "Mission hit by ‘security incident,’ computer systems offline | KVEO-TV",
+        "url": "https://www.valleycentral.com/news/local-news/mission-hit-by-security-incident-computer-systems-offline/",
+        "added": "2025-03-07"
+    },
+    {
         "date": "2025-02-13",
         "victim": "Hinton",
         "domain": "hinton.ca",
