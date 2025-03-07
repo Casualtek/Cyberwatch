@@ -1,5 +1,15 @@
 [
     {
+        "date": "2025-02-05",
+        "victim": "NTT Communications Corporation (NTT)",
+        "domain": "ntt.com",
+        "country": "JPN",
+        "summary": "La société japonaise de télécommunications NTT Communications a subi une cyberattaque qui a compromis les informations de 18 000 clients entreprises, notamment des noms, des numéros de téléphone, des adresses e-mail et des informations de service. La brèche de sécurité a été découverte le 5 février 2025 et les hackers ont pu accéder au système d'information des commandes de NTT. L'enquête est en cours et NTT a bloqué l'accès des attaquants au système, mais ne prévoit pas d'envoyer de notifications personnalisées aux clients touchés.",
+        "title": "Data breach at Japanese telecom giant NTT hits 18,000 companies",
+        "url": "https://www.bleepingcomputer.com/news/security/data-breach-at-japanese-telecom-giant-ntt-hits-18-000-companies/",
+        "added": "2025-03-07"
+    },
+    {
         "date": "2025-03-01",
         "victim": "National Presto Industries, Inc.",
         "domain": "gopresto.com",
