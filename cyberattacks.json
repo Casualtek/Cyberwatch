@@ -1,5 +1,15 @@
 [
     {
+        "date": "2025-03-05",
+        "victim": "Fachhochschule Nordwestschweiz",
+        "domain": "fhnw.ch",
+        "country": "CHE",
+        "summary": "L'article rapporte une cyberattaque contre la Fachhochschule Nordwestschweiz, une école supérieure en Suisse. Les détails de l'attaque ne sont pas précisés dans l'article. Il n'y a pas d'informations sur les conséquences ou les données compromises.",
+        "title": "Hacker-Angriff auf Fachhochschule Nordwestschweiz",
+        "url": "https://www.soaktuell.ch/post/hacker-angriff-auf-fachhochschule-nordwestschweiz",
+        "added": "2025-03-09"
+    },
+    {
         "date": "2025-02-05",
         "victim": "NTT Communications Corporation (NTT)",
         "domain": "ntt.com",
