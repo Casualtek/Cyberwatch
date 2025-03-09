@@ -1,5 +1,12 @@
 [
     {
+        "victim": "Ministry of Health of Palau",
+        "domain": "palauhealth.org",
+        "country": "PW",
+        "date": "2025-02-13",
+        "group": "qilin"
+    },
+    {
         "victim": "Central Texas Pediatric Orthopedics",
         "domain": "ctpomd.com",
         "country": "US",
