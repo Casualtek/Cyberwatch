@@ -1,5 +1,15 @@
 [
     {
+        "date": "2025-03-03",
+        "victim": "Brucha",
+        "domain": "brucha.com",
+        "country": "AUT",
+        "summary": "La société Brucha, producteur de matériaux isolants, a été victime d'une cyberattaque par ransomware dans la nuit du 3 mars, où des hackers ont chiffré presque toutes les données du serveur et ont demandé une rançon à six chiffres. Grâce à l'engagement de ses employés, l'entreprise a réussi à récupérer ses données sans payer la rançon. L'attaque aurait pu entraîner l'arrêt total de la production si les employés n'avaient pas agi rapidement.",
+        "title": "Schon wieder Hacker - Cyberangriff auf Brucha: „Wir haben unsere Daten selbst zurückerobert“ - NÖN.at",
+        "url": "https://www.noen.at/niederoesterreich/wirtschaft/schon-wieder-hacker-cyberangriff-auf-brucha-wir-haben-unsere-daten-selbst-zurueckerobert-464492626",
+        "added": "2025-03-09"
+    },
+    {
         "date": "2023-08-03",
         "victim": "Renton School District",
         "domain": "rentonschools.us",
