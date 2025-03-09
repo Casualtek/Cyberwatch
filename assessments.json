@@ -1,5 +1,12 @@
 [
     {
+        "victim": "JPW Industries",
+        "domain": "jpwindustries.com",
+        "country": "IS",
+        "date": "2025-02-03",
+        "group": "ransomhub"
+    },
+    {
         "victim": "Ministry of Health of Palau",
         "domain": "palauhealth.org",
         "country": "PW",
