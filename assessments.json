@@ -1,8 +1,15 @@
 [
     {
+        "victim": "DCaro Solutions",
+        "domain": "dcaro.com.co",
+        "country": "CO",
+        "date": "2025-02-28",
+        "group": "ransomhub"
+    },
+    {
         "victim": "JPW Industries",
         "domain": "jpwindustries.com",
-        "country": "IS",
+        "country": "US",
         "date": "2025-02-03",
         "group": "ransomhub"
     },
