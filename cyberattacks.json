@@ -1,5 +1,15 @@
 [
     {
+        "date": "2023-08-03",
+        "victim": "Renton School District",
+        "domain": "rentonschools.us",
+        "country": "USA",
+        "summary": "Le district scolaire de Renton a été victime d'une attaque par ransomware en août 2023, menaçant de divulguer 200 Go de données volées, notamment des informations médicales. L'attaque a exposé les numéros de sécurité sociale, les informations bancaires et les données de santé de 30 373 personnes. Les responsables du district scolaire n'ont pas pu être joints pour commenter l'incident.",
+        "title": "Renton School District Victim of Ransomware attack - The 74",
+        "url": "https://www.the74million.org/article/renton-school-district-victim-of-ransomware-attack/",
+        "added": "2025-03-09"
+    },
+    {
         "date": "2025-03-05",
         "victim": "Fachhochschule Nordwestschweiz",
         "domain": "fhnw.ch",
