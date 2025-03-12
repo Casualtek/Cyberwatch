@@ -1,5 +1,15 @@
 [
     {
+        "date": "2025-03-01",
+        "victim": "TFE Hotels",
+        "domain": "tfehotels.com",
+        "country": "AUS",
+        "summary": "Le groupe hôtelier australien TFE Hotels a admis que la récupération après une cyberattaque était un processus en cours, avec des employés qui doivent aider manuellement les clients et des lignes téléphoniques détournées. L'enquête est toujours en cours pour déterminer l'ampleur de l'incident, mais le groupe a précisé que les détails de carte de crédit des clients n'ont pas été compromis. TFE Hotels travaille avec des experts en sécurité pour investiguer et remédier à l'incident.",
+        "title": "Australian TFE Hotels group admits cyber attack recovery an ongoing process - Cyber Daily",
+        "url": "https://www.cyberdaily.au/security/11832-australian-tfe-hotels-group-admits-cyber-attack-recovery-an-ongoing-process",
+        "added": "2025-03-12"
+    },
+    {
         "date": "2025-03-09",
         "victim": "Aerticket",
         "domain": "aerticket.de",
