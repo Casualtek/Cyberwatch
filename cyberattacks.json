@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-12-15",
+        "victim": "Sunflower Medical Group",
+        "domain": "sunflowermed.com",
+        "country": "USA",
+        "summary": "Le groupe de soins de santé Sunflower Medical Group au Kansas a été victime d'une cyberattaque en décembre, exposant les informations sensibles de plus de 220 000 patients, notamment des numéros de sécurité sociale, des informations médicales et des données d'assurance santé. Les hackers ont accédé aux systèmes de l'entreprise le 15 décembre et ont fait des copies de fichiers, avant d'être découverts le 7 janvier. Le groupe de ransomware Rhysida a revendiqué l'attaque et a menacé de divulguer les données volées si une rançon de 800 000 dollars n'était pas payée.",
+        "title": "Kansas healthcare provider says more than 220,000 impacted by cyberattack | The Record from Recorded Future News",
+        "url": "https://therecord.media/kansas-healthcare-provider-data-breach",
+        "added": "2025-03-12"
+    },
+    {
         "date": "2025-03-01",
         "victim": "TFE Hotels",
         "domain": "tfehotels.com",
