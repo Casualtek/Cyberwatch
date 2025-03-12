@@ -1,5 +1,12 @@
 [
     {
+        "victim": "Facharztzentrum Westmecklenburg GmbH",
+        "domain": "wmk-hvb.de",
+        "country": "DE",
+        "date": "2025-02-11",
+        "group": "incransom"
+    },
+    {
         "victim": "CDG Elements",
         "domain": "cdg.us",
         "country": "US",
