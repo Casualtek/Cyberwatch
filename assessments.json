@@ -1,5 +1,12 @@
 [
     {
+        "victim": "C.I. Scientific Pty Ltd (CIS)",
+        "domain": "ciscientific.com.au",
+        "country": "AU",
+        "date": "2025-01-04",
+        "group": "lynx"
+    },
+    {
         "victim": "Mac Jee",
         "domain": "macjee.com.br",
         "country": "BR",
