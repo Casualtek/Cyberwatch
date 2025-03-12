@@ -1,5 +1,12 @@
 [
     {
+        "victim": "CNN Indonesia",
+        "domain": "cnnindonesia.com",
+        "country": "ID",
+        "date": "2025-01-05",
+        "group": "incransom"
+    },
+    {
         "victim": "Broward College",
         "domain": "broward.edu",
         "country": "US",
