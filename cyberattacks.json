@@ -1,5 +1,15 @@
 [
     {
+        "date": "2025-03-11",
+        "victim": "YAP Health Services",
+        "domain": "yapstate.gov.fm",
+        "country": "FSM",
+        "summary": "Le département de la santé de l'État de Yap, dans les États fédérés de Micronésie, a été victime d'une cyberattaque par ransomware le 11 mars 2025, entraînant la mise hors ligne de son réseau et la fermeture de ses systèmes de santé numériques. Les autorités travaillent actuellement à évaluer l'ampleur de l'intrusion et à restaurer les services en ligne. Aucun groupe de ransomware n'a encore revendiqué la responsabilité de cette attaque.",
+        "title": "FMS: YAP Health Services disrupted by ransomware attack - DataBreaches.Net",
+        "url": "https://databreaches.net/2025/03/13/fms-yap-health-services-disrupted-by-ransomware-attack/",
+        "added": "2025-03-13"
+    },
+    {
         "date": "2025-03-13",
         "victim": "Mairie de Murça",
         "domain": "cm-murca.pt",
