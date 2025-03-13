@@ -1,5 +1,12 @@
 [
     {
+        "victim": "Los Andes",
+        "domain": "losandes.com.ar",
+        "country": "AR",
+        "date": "2024-12-09",
+        "group": "akira"
+    },
+    {
         "victim": "Longue Vue Club",
         "domain": "longuevue.com",
         "country": "US",
