@@ -1,5 +1,15 @@
 [
     {
+        "date": "2023-03-01",
+        "victim": "Syma",
+        "domain": "syma.com",
+        "country": "CHE",
+        "summary": "La société Syma, spécialisée dans la construction de stands pour les salons et la technologie de système, a été victime d'une cyberattaque le 1er mars, qui a touché sa filiale autrichienne. Les attaquants, identifiés comme le groupe de ransomware Play, ont menacé de publier les données volées, mais l'entreprise a réussi à rétablir son environnement opérationnel en Autriche avec l'aide de spécialistes en sécurité. Syma collabore avec les autorités policières autrichiennes et suisses pour enquêter sur l'incident et a notifié l'incident aux autorités de surveillance compétentes.",
+        "title": "Cyberangriff auf Messebau-Gruppe Syma",
+        "url": "https://www.inside-it.ch/cyberangriff-auf-messebau-gruppe-syma-20250313",
+        "added": "2025-03-13"
+    },
+    {
         "date": "2024-12-15",
         "victim": "Sunflower Medical Group",
         "domain": "sunflowermed.com",
