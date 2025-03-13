@@ -1,5 +1,15 @@
 [
     {
+        "date": "2023-02-24",
+        "victim": "Fort Bend County Libraries",
+        "domain": "fortbendlibraries.gov",
+        "country": "USA",
+        "summary": "Le système de bibliothèques du comté de Fort Bend a subi une cyberattaque qui a entraîné une panne de son site web. Les données des usagers, telles que les noms, adresses et numéros de téléphone, n'ont pas été compromises, selon les responsables de la bibliothèque. Les services en ligne sont progressivement restaurés, notamment l'accès à Hoopla, un service de streaming de musique, de vidéos et de livres audio.",
+        "title": "Fort Bend County Libraries system faces website outage after ‘cybersecurity incident’ - Houston Public Media",
+        "url": "https://www.houstonpublicmedia.org/articles/news/fort-bend/2025/03/12/515895/fort-bend-county-libraries-faces-website-outage-after-cybersecurity-incident/",
+        "added": "2025-03-13"
+    },
+    {
         "date": "2025-03-03",
         "victim": "Vranken-Pommery Monopole",
         "domain": "vrankenpommery.com",
