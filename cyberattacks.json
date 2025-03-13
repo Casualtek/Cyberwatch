@@ -1,5 +1,15 @@
 [
     {
+        "date": "2025-02-20",
+        "victim": "Brydens Lawyers",
+        "domain": "brydens.com.au",
+        "country": "AUS",
+        "summary": "Le cabinet d'avocats sydneyen Brydens Lawyers a été victime d'une cyberattaque, entraînant une importante fuite de données. Le cabinet a signalé l'incident au Centre australien de cybersécurité et au Bureau du Commissaire à l'information australien, et a restauré la sécurité de son système informatique. Cette attaque rappelle d'autres incidents similaires qui ont touché des cabinets d'avocats, notamment Bell et Graham en Nouvelle-Zélande et HWL Ebsworth en Australie.",
+        "title": "Brydens Lawyers: Prominent Sydney law firm hit with cyberattack, massive data breach",
+        "url": "https://www.smh.com.au/national/nsw/prominent-sydney-law-firm-hit-with-cyberattack-massive-data-breach-20250313-p5ljd8.html",
+        "added": "2025-03-13"
+    },
+    {
         "date": "2023-02-24",
         "victim": "Fort Bend County Libraries",
         "domain": "fortbendlibraries.gov",
