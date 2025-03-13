@@ -1,5 +1,12 @@
 [
     {
+        "victim": "Lucid Corp",
+        "domain": "lucidcorp.com",
+        "country": "CA",
+        "date": "2024-08-23",
+        "group": "akira"
+    },
+    {
         "victim": "Union Studio",
         "domain": "unionstudioarch.com",
         "country": "US",
