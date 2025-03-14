@@ -1,5 +1,12 @@
 [
     {
+        "victim": "Japan Rebuilt",
+        "domain": "japanrebuilt.jp",
+        "country": "JP",
+        "date": "2025-02-15",
+        "group": "ransomhub"
+    },
+    {
         "victim": "Gilbert",
         "domain": "gilbertusa.com",
         "country": "US",
