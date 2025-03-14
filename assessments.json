@@ -1,5 +1,12 @@
 [
     {
+        "victim": "CDA",
+        "domain": "cda.be",
+        "country": "BE",
+        "date": "2025-02-18",
+        "group": "ransomhub"
+    },
+    {
         "victim": "Japan Rebuilt",
         "domain": "japanrebuilt.jp",
         "country": "JP",
