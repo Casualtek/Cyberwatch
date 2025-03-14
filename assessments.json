@@ -1,5 +1,12 @@
 [
     {
+        "victim": "Black Star",
+        "domain": "black-star.fr",
+        "country": "FR",
+        "date": "2025-02-20",
+        "group": "ransomhub"
+    },
+    {
         "victim": "CDA",
         "domain": "cda.be",
         "country": "BE",
