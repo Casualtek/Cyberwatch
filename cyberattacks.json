@@ -1,5 +1,15 @@
 [
     {
+        "date": "2025-03-12",
+        "victim": "Prefeitura Municipal de Palmeira",
+        "domain": "palmeira.pr.gov.br",
+        "country": "BRA",
+        "summary": "La mairie de Palmeira a été victime d'une cyberattaque de type ransomware qui a rendu indisponible son service de messagerie institutionnel hébergé par GMAES TELECOM LTDA. L'entreprise responsable travaille à la récupération des services, mais la normalisation est retardée en raison de la complexité du cas. L'incident a été signalé au centre de plainte contre les crimes sur internet (IC3) lié au FBI pour enquête.",
+        "title": "Serviço de e-mail institucional da Prefeitura de Palmeira sofre ataque cibernético | aRede",
+        "url": "https://arede.info/campos-gerais/563667/servico-de-e-mail-institucional-da-prefeitura-de-palmeira-sofre-ataque-cibernetico",
+        "added": "2025-03-15"
+    },
+    {
         "date": "2025-03-13",
         "victim": "Pelham School District",
         "domain": "pelhamsd.org",
