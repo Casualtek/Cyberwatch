@@ -1,5 +1,15 @@
 [
     {
+        "date": "2025-03-14",
+        "victim": "Spar Gruppe Schweiz",
+        "domain": "spar.ch",
+        "country": "CHE",
+        "summary": "Le groupe Spar Suisse a été victime d'une cyberattaque qui a rendu inopérants les systèmes de paiement électronique et les systèmes de commande de marchandises dans ses magasins. Les clients ne peuvent actuellement payer que par Twint ou en espèces, et les livraisons de marchandises sont également affectées. Spar a déclaré qu'il travaillait à restaurer ses systèmes et à rétablir les services normaux dans les plus brefs délais.",
+        "title": "Cyberangriff auf Spar: Bestellungen und Kartenzahlung lahmgelegt - Blick",
+        "url": "https://www.blick.ch/wirtschaft/kartenzahlungen-funktionieren-nicht-lieferprobleme-drohen-cyberangriff-legt-spar-filialen-lahm-id20682194.html",
+        "added": "2025-03-15"
+    },
+    {
         "date": "2023-02-19",
         "victim": "Raymond Limited",
         "domain": "raymond.in",
