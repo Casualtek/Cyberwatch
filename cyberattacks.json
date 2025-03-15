@@ -1,5 +1,15 @@
 [
     {
+        "date": "2025-03-13",
+        "victim": "Pelham School District",
+        "domain": "pelhamsd.org",
+        "country": "USA",
+        "summary": "Le district scolaire de Pelham a été victime d'une cyberattaque cette semaine, ce qui a entraîné la mise hors ligne des ordinateurs et des lignes téléphoniques du district pour les deux prochaines semaines. L'attaque a coupé l'accès à internet, aux lignes téléphoniques et aux courriels, affectant ainsi les enseignants et les élèves qui ne peuvent plus utiliser leurs Chromebooks et leurs comptes Google Drive. L'enquête est en cours pour déterminer si des informations confidentielles d'enseignants ou d'élèves ont été volées.",
+        "title": "Pelham School District investigates cyberattack",
+        "url": "https://www.wmur.com/article/pelham-school-district-cyberattack-hack-31425/64190851",
+        "added": "2025-03-15"
+    },
+    {
         "date": "2025-03-14",
         "victim": "Spar Gruppe Schweiz",
         "domain": "spar.ch",
