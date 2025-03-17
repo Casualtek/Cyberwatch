@@ -1,5 +1,15 @@
 [
     {
+        "date": "2025-03-16",
+        "victim": "Mairie de Kirkel",
+        "domain": "kirkel.de",
+        "country": "DEU",
+        "summary": "La mairie de Kirkel est fermée temporairement après avoir été victime d'une cyberattaque. Les détails de l'attaque ne sont pas précisés dans l'article. La mairie a décidé de fermer ses portes pour une durée indéterminée en raison de cette attaque.",
+        "title": "SR.de: Kirkeler Rathaus nach Cyberangriff vorerst geschlossen",
+        "url": "https://www.sr.de/sr/home/nachrichten/politik_wirtschaft/cyberangriff_auf_gemeinde_kirkel_100.html",
+        "added": "2025-03-17"
+    },
+    {
         "date": "2025-03-12",
         "victim": "Prefeitura Municipal de Palmeira",
         "domain": "palmeira.pr.gov.br",
