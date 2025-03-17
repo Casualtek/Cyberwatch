@@ -1,5 +1,15 @@
 [
     {
+        "date": "2025-03-17",
+        "victim": "Keding Enterprises Co., Ltd.",
+        "domain": "keding-global.com",
+        "country": "TWN",
+        "summary": "Une cyberattaque a touché un système de services d'information le 17 mars 2025, mais les mécanismes de défense et de récupération ont été activés pour prévenir d'autres problèmes de sécurité. Aucune fuite de données personnelles ou de documents internes n'a été détectée, et l'impact sur les opérations de l'entreprise est considéré comme négligeable. L'entreprise continue de renforcer son infrastructure de sécurité de l'information et de surveiller ses réseaux pour garantir la sécurité des données.",
+        "title": "Today's Information",
+        "url": "https://emops.twse.com.tw/server-java/t05sr01_1_e?&isNew=Y&seq_no=1&spoke_time=103955&spoke_date=20250317&co_id=6655",
+        "added": "2025-03-17"
+    },
+    {
         "date": "2025-03-16",
         "victim": "Mairie de Kirkel",
         "domain": "kirkel.de",
