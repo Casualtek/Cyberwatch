@@ -1,5 +1,33 @@
 [
     {
+        "victim": "World Wide Fittings",
+        "domain": "worldwidefittings.com",
+        "country": "US",
+        "date": "2025-01-26",
+        "group": "qilin"
+    },
+    {
+        "victim": "The Gatesworth Senior Living St. Louis",
+        "domain": "thegatesworth.com",
+        "country": "US",
+        "date": "2025-01-24",
+        "group": "qilin"
+    },
+    {
+        "victim": "DPA Auctions",
+        "domain": "dpaauctions.com",
+        "country": "US",
+        "date": "2025-01-24",
+        "group": "qilin"
+    },
+    {
+        "victim": "Alford Walden Law",
+        "domain": "alfordwalden.com",
+        "country": "US",
+        "date": "2025-01-30",
+        "group": "qilin"
+    },
+    {
         "victim": "Harrells",
         "domain": "harrells.com",
         "country": "US",
