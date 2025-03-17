@@ -1,5 +1,15 @@
 [
     {
+        "date": "2025-03-05",
+        "victim": "St Albert the Great College",
+        "domain": "stalbert.edu.mt",
+        "country": "MLT",
+        "summary": "Une cyberattaque massive a frappé le collège St Albert the Great à Malte, bloquant les comptes Microsoft Teams de 600 étudiants et membres du personnel, ce qui a suscité des inquiétudes quant à la perte de données académiques et de informations sensibles. L'incident a été signalé à la police, qui a reçu trois autres rapports de hacking similaires, mais l'enquête est encore à un stade précoce. Les autorités craignent que d'autres écoles aient pu être ciblées ou le soient dans les semaines à venir.",
+        "title": "Cyberattack shuts down 600 staff, student accounts at St Albert college",
+        "url": "https://timesofmalta.com/article/cyberattack-shuts-600-staff-student-accounts-st-albert-college.1106623",
+        "added": "2025-03-17"
+    },
+    {
         "date": "2025-03-17",
         "victim": "Keding Enterprises Co., Ltd.",
         "domain": "kdpanels.com",
