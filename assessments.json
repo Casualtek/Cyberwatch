@@ -1,5 +1,12 @@
 [
     {
+        "victim": "CO.GE.S.I.",
+        "domain": "gruppocogesi.org",
+        "country": "IT",
+        "date": "2024-02-04",
+        "group": "lockbit3"
+    },
+    {
         "victim": "Sublette County",
         "domain": "sublettecountywy.gov",
         "country": "US",
