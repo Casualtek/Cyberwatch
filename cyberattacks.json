@@ -1,5 +1,15 @@
 [
     {
+        "date": "2025-02-02",
+        "victim": "Ostheim",
+        "domain": "ostheim.fr",
+        "country": "FRA",
+        "summary": "La mairie d'Ostheim, dans le Haut-Rhin, a été victime d'une cyberattaque par rançongiciel le 2 février dernier, qui a crypté 95% de ses données. La mairie n'a pas payé la rançon et a pu récupérer la plupart de ses données grâce à une sauvegarde quasi intégrale, mais l'opération a coûté environ 2 500 €. L'incident a servi de rappel pour renforcer la prévention et la sécurité au sein de la mairie, et la gendarmerie propose des services de prévention et de pré-diagnostic gratuits aux collectivités et entreprises.",
+        "title": "Région de Colmar. La mairie d’Ostheim attaquée par un logiciel de rançon",
+        "url": "https://www.dna.fr/faits-divers-justice/2025/03/17/la-mairie-d-ostheim-attaquee-par-un-logiciel-de-rancon",
+        "added": "2025-03-18"
+    },
+    {
         "date": "2025-03-16",
         "victim": "Atchison County",
         "domain": "atchisoncountyks.org",
