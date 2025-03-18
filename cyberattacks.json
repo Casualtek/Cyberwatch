@@ -1,6 +1,16 @@
 [
     {
         "date": "2025-03-16",
+        "victim": "James Pascoe",
+        "domain": "pascoes.co.nz",
+        "country": "NZL",
+        "summary": "Le groupe de distribution James Pascoe a été victime d'une cyberattaque ayant perturbé ses magasins à travers le pays. L'attaque, survenue durant le week-end, a été rapidement détectée par les systèmes de sécurité, limitant les dommages. Bien que certains services, comme les lignes téléphoniques et les e-mails du service client, aient été affectés, la plupart des systèmes ont depuis été rétablis.",
+        "title": "Parent company of Farmers and Whitcoulls victim of cyber-attack | BusinessDesk",
+        "url": "https://businessdesk.co.nz/article/retail/parent-company-of-farmers-and-whitcoulls-victim-of-cyber-attack",
+        "added": "2025-03-18"
+    },
+    {
+        "date": "2025-03-16",
         "victim": "Ascom",
         "domain": "ascom.com",
         "country": "CHE",
