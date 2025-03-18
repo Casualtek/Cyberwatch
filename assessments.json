@@ -1,9 +1,16 @@
 [
     {
+        "victim": "JACAREÍ TRANSPORTE URBANO",
+        "domain": "jtu.com.br",
+        "country": "BR",
+        "date": "2024-12-10",
+        "group": "lockbit3"
+    },
+    {
         "victim": "CO.GE.S.I.",
         "domain": "gruppocogesi.org",
         "country": "IT",
-        "date": "2024-02-04",
+        "date": "2025-02-04",
         "group": "lockbit3"
     },
     {
