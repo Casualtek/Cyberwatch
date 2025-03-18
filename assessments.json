@@ -1,5 +1,19 @@
 [
     {
+        "victim": "lamejor.com.co",
+        "domain": "lamejor.com.co",
+        "country": "CO",
+        "date": "2024-12-18",
+        "group": "lockbit3"
+    },
+    {
+        "victim": "atpformosa.gob.ar",
+        "domain": "atpformosa.gob.ar",
+        "country": "AR",
+        "date": "2024-11-29",
+        "group": "lockbit3"
+    },
+    {
         "victim": "CANDELAS Y ASOCIADOS S.L.",
         "domain": "candelasyasociados.es",
         "country": "ES",
