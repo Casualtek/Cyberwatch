@@ -1,5 +1,12 @@
 [
     {
+        "victim": "Vikurverk ehf.",
+        "domain": "vikurverk.is",
+        "country": "IS",
+        "date": "2024-09-30",
+        "group": "lockbit3"
+    },
+    {
         "victim": "Uniformed Services University of the Health Sciences",
         "domain": "usuhs.edu",
         "country": "US",
