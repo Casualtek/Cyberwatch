@@ -1,5 +1,35 @@
 [
     {
+        "date": "2024-11-20",
+        "victim": "Southeast Series of Lockton Companies",
+        "domain": "lockton.com",
+        "country": "USA",
+        "summary": "Une cyberattaque a touché le centre de chirurgie plastique Hand & Plastic Surgery Centre au Michigan, affectant près de 20 000 patients, avec des informations personnelles et de santé protégées exposées. Deux autres entreprises, Dove Healthcare au Wisconsin et Southeast Series of Lockton Companies en Géorgie, ont également signalé des violations de données, affectant respectivement 16 255 et 1 706 individus. Les entreprises ont offert des services de surveillance du crédit et de protection contre la fraude aux personnes affectées.",
+        "title": "Cyberattack on Michigan Plastic Surgery Practice Affects Almost 20,000 Patients",
+        "url": "https://www.hipaajournal.com/cyberattack-on-michigan-plastic-surgery-practice-affects-almost-20000-patients/",
+        "added": "2025-03-19"
+    },
+    {
+        "date": "2024-07-06",
+        "victim": "Dove Healthcare",
+        "domain": "dovehealthcare.com",
+        "country": "USA",
+        "summary": "Une cyberattaque a touché le centre de chirurgie plastique Hand & Plastic Surgery Centre au Michigan, affectant près de 20 000 patients, avec des informations personnelles et de santé protégées exposées. Deux autres entreprises, Dove Healthcare au Wisconsin et Southeast Series of Lockton Companies en Géorgie, ont également signalé des violations de données, affectant respectivement 16 255 et 1 706 individus. Les entreprises ont offert des services de surveillance du crédit et de protection contre la fraude aux personnes affectées.",
+        "title": "Cyberattack on Michigan Plastic Surgery Practice Affects Almost 20,000 Patients",
+        "url": "https://www.hipaajournal.com/cyberattack-on-michigan-plastic-surgery-practice-affects-almost-20000-patients/",
+        "added": "2025-03-19"
+    },
+    {
+        "date": "2025-01-29",
+        "victim": "Hand & Plastic Surgery Centre",
+        "domain": "trinityhealthmichigan.org",
+        "country": "USA",
+        "summary": "Une cyberattaque a touché le centre de chirurgie plastique Hand & Plastic Surgery Centre au Michigan, affectant près de 20 000 patients, avec des informations personnelles et de santé protégées exposées. Deux autres entreprises, Dove Healthcare au Wisconsin et Southeast Series of Lockton Companies en Géorgie, ont également signalé des violations de données, affectant respectivement 16 255 et 1 706 individus. Les entreprises ont offert des services de surveillance du crédit et de protection contre la fraude aux personnes affectées.",
+        "title": "Cyberattack on Michigan Plastic Surgery Practice Affects Almost 20,000 Patients",
+        "url": "https://www.hipaajournal.com/cyberattack-on-michigan-plastic-surgery-practice-affects-almost-20000-patients/",
+        "added": "2025-03-19"
+    },
+    {
         "date": "2024-04-20",
         "victim": "California Cryobank (CCB)",
         "domain": "cryobank.com",
