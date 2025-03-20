@@ -1,5 +1,425 @@
 [
     {
+        "victim": "Promotrans",
+        "domain": "promotrans.fr",
+        "country": "FR",
+        "date": "2023-07-21",
+        "group": "cactus"
+    },
+    {
+        "victim": "SMS Alderley",
+        "domain": "sms-alderley.com",
+        "country": "UK",
+        "date": "2023-08-01",
+        "group": "cactus"
+    },
+    {
+        "victim": "Tormax USA",
+        "domain": "tormax.com",
+        "country": "US",
+        "date": "2023-08-01",
+        "group": "cactus"
+    },
+    {
+        "victim": "West Craft Manufacturing",
+        "domain": "westcraftmfg.net",
+        "country": "US",
+        "date": "2023-07-26",
+        "group": "cactus"
+    },
+    {
+        "victim": "atWork Office Furniture",
+        "domain": "atwork.ca",
+        "country": "CA",
+        "date": "2023-08-11",
+        "group": "cactus"
+    },
+    {
+        "victim": "BRiC Partnership",
+        "domain": "bricpartnership.com",
+        "country": "US",
+        "date": "2023-08-17",
+        "group": "cactus"
+    },
+    {
+        "victim": "Custom Powder Systems",
+        "domain": "custom-powder.com",
+        "country": "US",
+        "date": "2023-08-11",
+        "group": "cactus"
+    },
+    {
+        "victim": "JSS Almonds",
+        "domain": "jssalmonds.com",
+        "country": "US",
+        "date": "2023-08-11",
+        "group": "cactus"
+    },
+    {
+        "victim": "GeoTek",
+        "domain": "geotekusa.com",
+        "country": "US",
+        "date": "2023-08-11",
+        "group": "cactus"
+    },
+    {
+        "victim": "Levine Bagade Han LLP",
+        "domain": "lbhip.com",
+        "country": "US",
+        "date": "2023-08-18",
+        "group": "cactus"
+    },
+    {
+        "victim": "Leekes",
+        "domain": "leekes.co.uk",
+        "country": "GB",
+        "date": "2023-08-09",
+        "group": "cactus"
+    },
+    {
+        "victim": "My Insurance Broker",
+        "domain": "myinsurancebroker.com",
+        "country": "CA",
+        "date": "2023-08-02",
+        "group": "cactus"
+    },
+    {
+        "victim": "Unimarketing",
+        "domain": "unimarketing.ca",
+        "country": "CA",
+        "date": "2023-08-03",
+        "group": "cactus"
+    },
+    {
+        "victim": "Peacock Bros",
+        "domain": "peacocks.com.au",
+        "country": "AU",
+        "date": "2023-09-01",
+        "group": "cactus"
+    },
+    {
+        "victim": "Bacon Universal",
+        "domain": "baconuniversal.com",
+        "country": "US",
+        "date": "2023-08-22",
+        "group": "cactus"
+    },
+    {
+        "victim": "Spuncast",
+        "domain": "spuncast.com",
+        "country": "US",
+        "date": "2023-09-02",
+        "group": "cactus"
+    },
+    {
+        "victim": "DM Civil",
+        "domain": "dmcivil.com.au",
+        "country": "AU",
+        "date": "2023-08-08",
+        "group": "cactus"
+    },
+    {
+        "victim": "Orthum Bau",
+        "domain": "orthumbau.de",
+        "country": "DE",
+        "date": "2023-08-10",
+        "group": "cactus"
+    },
+    {
+        "victim": "Astro Lighting",
+        "domain": "astrolighting.com",
+        "country": "GB",
+        "date": "2023-09-02",
+        "group": "cactus"
+    },
+    {
+        "victim": "Unitex Textile Rental Services",
+        "domain": "unitex.com",
+        "country": "US",
+        "date": "2023-09-20",
+        "group": "cactus"
+    },
+    {
+        "victim": "Cornerstone Projects Group",
+        "domain": "cornerstoneprojectsgroup.com",
+        "country": "US",
+        "date": "2023-09-19",
+        "group": "cactus"
+    },
+    {
+        "victim": "Ricor Global Limited",
+        "domain": "ricor.co.uk",
+        "country": "GB",
+        "date": "2023-09-22",
+        "group": "cactus"
+    },
+    {
+        "victim": "The Hurley Group",
+        "domain": "hurleygroup.net",
+        "country": "US",
+        "date": "2023-09-25",
+        "group": "cactus"
+    },
+    {
+        "victim": "SCS SpA",
+        "domain": "scsivrea.it",
+        "country": "IT",
+        "date": "2023-08-11",
+        "group": "cactus"
+    },
+    {
+        "victim": "OmniVision Technologies",
+        "domain": "ovt.com",
+        "country": "US",
+        "date": "2023-09-26",
+        "group": "cactus"
+    },
+    {
+        "victim": "GEOCOM Uruguay SA",
+        "domain": "geocom.com.uy",
+        "country": "UY",
+        "date": "2023-10-04",
+        "group": "cactus"
+    },
+    {
+        "victim": "MultiMasters",
+        "domain": "multimasters.be",
+        "country": "BE",
+        "date": "2023-10-09",
+        "group": "cactus"
+    },
+    {
+        "victim": "Petersen Health Care",
+        "domain": "petersenhealthcare.net",
+        "country": "US",
+        "date": "2023-10-20",
+        "group": "cactus"
+    },
+    {
+        "victim": "Paul Stuart",
+        "domain": "paulstuart.com",
+        "country": "US",
+        "date": "2023-10-28",
+        "group": "cactus"
+    },
+    {
+        "victim": "Medi-Market",
+        "domain": "medi-market.be",
+        "country": "BE",
+        "date": "2023-10-31",
+        "group": "cactus"
+    },
+    {
+        "victim": "Odalys Vacances",
+        "domain": "odalys-vacances.com",
+        "country": "FR",
+        "date": "2023-10-10",
+        "group": "cactus"
+    },
+    {
+        "victim": "CIE Automotive",
+        "domain": "cieautomotive.com",
+        "country": "ES",
+        "date": "2023-11-07",
+        "group": "cactus"
+    },
+    {
+        "victim": "National Nail Corp",
+        "domain": "nationalnail.com",
+        "country": "US",
+        "date": "2023-11-14",
+        "group": "cactus"
+    },
+    {
+        "victim": "ISC Consulting Engineers",
+        "domain": "isc.dk",
+        "country": "DK",
+        "date": "2023-11-17",
+        "group": "cactus"
+    },
+    {
+        "victim": "La Jolla Group",
+        "domain": "lajollagroup.com",
+        "country": "US",
+        "date": "2023-11-07",
+        "group": "cactus"
+    },
+    {
+        "victim": "Dillard Door & Security",
+        "domain": "dillarddoor.com",
+        "country": "US",
+        "date": "2023-11-30",
+        "group": "cactus"
+    },
+    {
+        "victim": "CTS",
+        "domain": "cts.co.uk",
+        "country": "GB",
+        "date": "2023-11-21",
+        "group": "cactus"
+    },
+    {
+        "victim": "Hunter Buildings",
+        "domain": "hunterbuildings.com",
+        "country": "US",
+        "date": "2023-11-24",
+        "group": "cactus"
+    },
+    {
+        "victim": "Larlyn",
+        "domain": "larlyn.com",
+        "country": "CA",
+        "date": "2023-11-28",
+        "group": "cactus"
+    },
+    {
+        "victim": "WKW Group",
+        "domain": "wkw-group.com",
+        "country": "DE",
+        "date": "2023-12-06",
+        "group": "cactus"
+    },
+    {
+        "victim": "Quaker Windows",
+        "domain": "quakerwindows.com",
+        "country": "US",
+        "date": "2023-11-25",
+        "group": "cactus"
+    },
+    {
+        "victim": "DBM Group",
+        "domain": "dbmgroup.com",
+        "country": "US",
+        "date": "2023-11-23",
+        "group": "cactus"
+    },
+    {
+        "victim": "Bachoco",
+        "domain": "bachoco.com.mx",
+        "country": "MX",
+        "date": "2023-12-05",
+        "group": "cactus"
+    },
+    {
+        "victim": "PBS Systems",
+        "domain": "pbssystems.com",
+        "country": "CA",
+        "date": "2023-12-08",
+        "group": "cactus"
+    },
+    {
+        "victim": "Bell Group",
+        "domain": "bellgroup.co.uk",
+        "country": "GB",
+        "date": "2023-12-22",
+        "group": "cactus"
+    },
+    {
+        "victim": "COOP",
+        "domain": "coop.se",
+        "country": "SE",
+        "date": "2023-12-21",
+        "group": "cactus"
+    },
+    {
+        "victim": "Tridon",
+        "domain": "tridon.com.au",
+        "country": "AU",
+        "date": "2023-12-19",
+        "group": "cactus"
+    },
+    {
+        "victim": "DTSolutions",
+        "domain": "dtsolutions.net",
+        "country": "US",
+        "date": "2023-12-16",
+        "group": "cactus"
+    },
+    {
+        "victim": "Intercity Investments",
+        "domain": "intercityinvestments.com",
+        "country": "US",
+        "date": "2023-12-16",
+        "group": "cactus"
+    },
+    {
+        "victim": "Hi-Cone",
+        "domain": "hi-cone.com",
+        "country": "US",
+        "date": "2023-12-18",
+        "group": "cactus"
+    },
+    {
+        "victim": "Hi-Cone",
+        "domain": "hi-cone.com",
+        "country": "US",
+        "date": "2023-12-18",
+        "group": "cactus"
+    },
+    {
+        "victim": "SPB Global",
+        "domain": "spbglobal.com",
+        "country": "ES",
+        "date": "2024-01-17",
+        "group": "cactus"
+    },
+    {
+        "victim": "Gocco",
+        "domain": "gocco.com",
+        "country": "ES",
+        "date": "2024-01-19",
+        "group": "cactus"
+    },
+    {
+        "victim": "Parksite",
+        "domain": "parksite.com",
+        "country": "US",
+        "date": "2024-01-17",
+        "group": "cactus"
+    },
+    {
+        "victim": "APS",
+        "domain": "advancedprosolutions.com",
+        "country": "US",
+        "date": "2024-01-30",
+        "group": "cactus"
+    },
+    {
+        "victim": "Remkes",
+        "domain": "remkes.nl",
+        "country": "NL",
+        "date": "2024-01-29",
+        "group": "cactus"
+    },
+    {
+        "victim": "Plymouth Tube",
+        "domain": "plymouth.com",
+        "country": "US",
+        "date": "2024-01-26",
+        "group": "cactus"
+    },
+    {
+        "victim": "Cleshar",
+        "domain": "cleshar.co.uk",
+        "country": "GB",
+        "date": "2024-02-19",
+        "group": "cactus"
+    },
+    {
+        "victim": "AMMEGA",
+        "domain": "ammega.com",
+        "country": "NL",
+        "date": "2024-02-16",
+        "group": "cactus"
+    },
+    {
+        "victim": "Reny Picot",
+        "domain": "renypicot.es",
+        "country": "ES",
+        "date": "2024-02-27",
+        "group": "cactus"
+    },
+    {
         "victim": "Ulysses ERP & MES Software",
         "domain": "ulysses-erp.com",
         "country": "DE",
