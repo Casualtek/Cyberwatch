@@ -1,5 +1,12 @@
 [
     {
+        "victim": "Alpha Oil",
+        "domain": "alphaoil.ca",
+        "country": "CA",
+        "date": "2025-02-22",
+        "group": "incransom"
+    },
+    {
         "victim": "Rashti & Rashti",
         "domain": "rashtiandrashti.com",
         "country": "US",
