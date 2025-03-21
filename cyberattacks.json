@@ -1,5 +1,15 @@
 [
     {
+        "date": "2025-03-19",
+        "victim": "North Shore Health Network",
+        "domain": "nshn.care",
+        "country": "CAN",
+        "summary": "Le North Shore Health Network a été victime d'une cyberattaque qui a affecté ses trois sites à Blind River, Thessalon et Richards Landing, entraînant la perte d'accès à internet et aux dossiers médicaux régionaux. Selon le CEO, Tim Vine, il n'y a eu ni rançon, ni perte de données, ni compromission d'informations de santé ou privées. Le réseau de santé travaille avec une firme de sécurité tierce pour valider son réseau et espère restaurer l'accès à ses systèmes d'ici la fin de la journée.",
+        "title": "North Shore Health Network experiences cyber incident - Elliot Lake News",
+        "url": "https://www.elliotlaketoday.com/local-news/north-shore-health-network-experiences-cyber-incident-10404284",
+        "added": "2025-03-21"
+    },
+    {
         "date": "2025-03-15",
         "victim": "Cerballiance",
         "domain": "cerballiance.fr",
