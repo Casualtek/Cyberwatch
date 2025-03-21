@@ -1,5 +1,15 @@
 [
     {
+        "date": "2025-03-20",
+        "victim": "DHR Health",
+        "domain": "dhrhealth.com",
+        "country": "USA",
+        "summary": "DHR Health, un établissement de santé au Texas, a été victime d'une cyberattaque, mais a affirmé que les soins aux patients continuaient sans interruption grâce à des protocoles de sauvegarde en place. L'équipe IT de l'établissement travaille à restaurer la fonctionnalité complète de ses systèmes d'information. L'incident est en cours d'enquête et DHR Health a exprimé sa gratitude envers ses patients, son personnel et sa communauté pour leur patience et leur soutien.",
+        "title": "DHR Health hit by cyber attack",
+        "url": "https://www.valleycentral.com/news/local-news/dhr-health-hit-by-cyber-attack/",
+        "added": "2025-03-21"
+    },
+    {
         "date": "2025-02-14",
         "victim": "Lake-Washington-Vascular",
         "domain": "lakewashingtonvascular.com",
