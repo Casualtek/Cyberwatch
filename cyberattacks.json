@@ -1,5 +1,15 @@
 [
     {
+        "date": "2025-01-21",
+        "victim": "Cottrill's Specialty Pharmacy",
+        "domain": "cottrillspharmacy.com",
+        "country": "USA",
+        "summary": "La pharmacie spécialisée Cottrill's a révélé une violation de données qui a pu affecter des informations personnelles de certains individus, notamment des noms, des dates de naissance, des numéros de sécurité sociale et des informations de santé. L'incident a été découvert le 21 janvier 2025 et la pharmacie a pris des mesures pour sécuriser ses systèmes et notifier les autorités compétentes. Les individus potentiellement affectés sont encouragés à rester vigilants et à prendre des mesures pour protéger leurs informations personnelles.",
+        "title": "Data Security Event | Cottrill's Pharmacy",
+        "url": "https://cottrillspharmacy.com/data-security-event/",
+        "added": "2025-03-21"
+    },
+    {
         "date": "2025-03-19",
         "victim": "North Shore Health Network",
         "domain": "nshn.care",
