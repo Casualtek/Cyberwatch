@@ -1,5 +1,236 @@
 [
     {
+        "victim": "MGA Innovation",
+        "domain": "mgainnovation.com",
+        "country": "US",
+        "date": "2025-01-23",
+        "group": "cactus"    
+    },
+    {
+        "victim": "Northern Response",
+        "domain": "northernresponse.com",
+        "country": "CA",
+        "date": "2025-01-27",
+        "group": "cactus"    
+    },
+    {
+        "victim": "Curtis International Ltd.",
+        "domain": "curtisint.com",
+        "country": "CA",
+        "date": "2025-01-21",
+        "group": "cactus"    
+    },
+    {
+        "victim": "Savoie's",
+        "domain": "savoiesfoods.com",
+        "country": "US",
+        "date": "2025-01-28",
+        "group": "cactus"    
+    },
+    {
+        "victim": "uniquehd.com",
+        "domain": "uniquehd.com",
+        "country": "US",
+        "date": "2025-01-29",
+        "group": "cactus"    
+    },
+    {
+        "victim": "kinseysinc.com",
+        "domain": "kinseysinc.com",
+        "country": "US",
+        "date": "2025-01-14",
+        "group": "cactus"    
+    },
+    {
+        "victim": "steelerubber.com",
+        "domain": "steelerubber.com",
+        "country": "US",
+        "date": "2025-02-05",
+        "group": "cactus"    
+    },
+    {
+        "victim": "almostfamousclothing.com",
+        "domain": "almostfamousclothing.com",
+        "country": "US",
+        "date": "2025-02-05",
+        "group": "cactus"    
+    },
+    {
+        "victim": "ssmcoop.com",
+        "domain": "ssmcoop.com",
+        "country": "US",
+        "date": "2025-02-05",
+        "group": "cactus"    
+    },
+    {
+        "victim": "uniekinc.com",
+        "domain": "uniekinc.com",
+        "country": "US",
+        "date": "2025-02-05",
+        "group": "cactus"    
+    },
+    {
+        "victim": "midwayimporting.com",
+        "domain": "midwayimporting.com",
+        "country": "US",
+        "date": "2025-01-16",
+        "group": "cactus"    
+    },
+    {
+        "victim": "bestbrands.com",
+        "domain": "bestbrands.com",
+        "country": "US",
+        "date": "2025-02-03",
+        "group": "cactus"    
+    },
+    {
+        "victim": "revitalash.com",
+        "domain": "revitalash.com",
+        "country": "US",
+        "date": "2025-01-15",
+        "group": "cactus"    
+    },
+    {
+        "victim": "newhorizonsbaking.com",
+        "domain": "newhorizonsbaking.com",
+        "country": "US",
+        "date": "2025-01-21",
+        "group": "cactus"    
+    },
+    {
+        "victim": "stanleyconsultants.com",
+        "domain": "stanleyconsultants.com",
+        "country": "US",
+        "date": "2025-01-30",
+        "group": "cactus"    
+    },
+    {
+        "victim": "electrocraft.com",
+        "domain": "electrocraft.com",
+        "country": "US",
+        "date": "2025-01-30",
+        "group": "cactus"    
+    },
+    {
+        "victim": "associatedasset.com",
+        "domain": "associatedasset.com",
+        "country": "US",
+        "date": "2025-02-06",
+        "group": "cactus"    
+    },
+    {
+        "victim": "grede.com",
+        "domain": "grede.com",
+        "country": "US",
+        "date": "2025-02-06",
+        "group": "cactus"    
+    },
+    {
+        "victim": "pace-usa.com",
+        "domain": "pace-usa.com",
+        "country": "US",
+        "date": "2025-02-06",
+        "group": "cactus"    
+    },
+    {
+        "victim": "steelwarehouse.com",
+        "domain": "steelwarehouse.com",
+        "country": "US",
+        "date": "2025-02-06",
+        "group": "cactus"    
+    },
+    {
+        "victim": "aiibeauty.com",
+        "domain": "aiibeauty.com",
+        "country": "US",
+        "date": "2025-02-06",
+        "group": "cactus"    
+    },
+    {
+        "victim": "formanmills.com",
+        "domain": "formanmills.com",
+        "country": "US",
+        "date": "2025-02-06",
+        "group": "cactus"    
+    },
+    {
+        "victim": "amalgamatedsugar.com",
+        "domain": "amalgamatedsugar.com",
+        "country": "US",
+        "date": "2025-02-06",
+        "group": "cactus"    
+    },
+    {
+        "victim": "everelgroup.com",
+        "domain": "everelgroup.com",
+        "country": "IT",
+        "date": "2025-02-12",
+        "group": "cactus"    
+    },
+    {
+        "victim": "regulvar.com",
+        "domain": "regulvar.com",
+        "country": "CA",
+        "date": "2025-02-16",
+        "group": "cactus"    
+    },
+    {
+        "victim": "thermoid.com",
+        "domain": "thermoid.com",
+        "country": "US",
+        "date": "2025-02-12",
+        "group": "cactus"    
+    },
+    {
+        "victim": "tempel.com",
+        "domain": "tempel.com",
+        "country": "US",
+        "date": "2025-02-09",
+        "group": "cactus"    
+    },
+    {
+        "victim": "rocketstores.com",
+        "domain": "rocketstores.com",
+        "country": "US",
+        "date": "2025-02-26",
+        "group": "cactus"    
+    },
+    {
+        "victim": "urban1.com",
+        "domain": "urban1.com",
+        "country": "US",
+        "date": "2025-02-25",
+        "group": "cactus"    
+    },
+    {
+        "victim": "caltrol.com",
+        "domain": "caltrol.com",
+        "country": "US",
+        "date": "2025-02-06",
+        "group": "cactus"    
+    },
+    {
+        "victim": "alphabaking.com",
+        "domain": "alphabaking.com",
+        "country": "US",
+        "date": "2025-02-06",
+        "group": "cactus"    
+    },
+    {
+        "victim": "holtcat.com",
+        "domain": "holtcat.com",
+        "country": "US",
+        "date": "2025-01-30",
+        "group": "cactus"    
+    },
+    {
+        "victim": "bluedge.com",
+        "domain": "bluedge.com",
+        "country": "US",
+        "date": "2025-02-17",
+        "group": "cactus"    
+    },
+    {
         "victim": "OneUp Innovations, Inc.",
         "domain": "oneupinnovations.com",
         "country": "US",
