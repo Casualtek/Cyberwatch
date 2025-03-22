@@ -1,5 +1,89 @@
 [
     {
+        "victim": "ICS Nett",
+        "domain": "ics-nett.com",
+        "country": "US",
+        "date": "2024-07-09",
+        "group": "sarcoma"
+    },
+    {
+        "victim": "Ferrer & Ojeda",
+        "domain": "ferrerojeda.com",
+        "country": "ES",
+        "date": "2024-07-27",
+        "group": "sarcoma"
+    },
+    {
+        "victim": "AHI Supply",
+        "domain": "ahi-supply.com",
+        "country": "US",
+        "date": "2024-08-11",
+        "group": "sarcoma"
+    },
+    {
+        "victim": "Importadora Monterrey SRL",
+        "domain": "monterrey.com.bo",
+        "country": "BO",
+        "date": "2024-07-09",
+        "group": "sarcoma"
+    },
+    {
+        "victim": "National Edging",
+        "domain": "nationaledging.co.za",
+        "country": "ZA",
+        "date": "2024-07-09",
+        "group": "sarcoma"
+    },
+    {
+        "victim": "Nexus-Shinozaki",
+        "domain": "nexus-shinozaki.co.jp",
+        "country": "JP",
+        "date": "2024-08-06",
+        "group": "sarcoma"
+    },
+    {
+        "victim": "Structure-flex",
+        "domain": "structure-flex.co.uk",
+        "country": "GB",
+        "date": "2024-07-25",
+        "group": "sarcoma"
+    },
+    {
+        "victim": "Nora-Lindefrakt",
+        "domain": "noralindefrakt.se",
+        "country": "SE",
+        "date": "2024-08-06",
+        "group": "sarcoma"
+    },
+    {
+        "victim": "Rio Marine",
+        "domain": "riomarineinc.com",
+        "country": "US",
+        "date": "2024-09-17",
+        "group": "sarcoma"
+    },
+    {
+        "victim": "InCare Technologies",
+        "domain": "incaretechnologies.com",
+        "country": "US",
+        "date": "2024-08-15",
+        "group": "sarcoma"
+    },
+    {
+        "victim": "Smart Media Group Bulgaria",
+        "domain": "smartmediagroup.eu",
+        "country": "BG",
+        "date": "2024-08-31",
+        "group": "sarcoma"
+    },
+    {
+        "victim": "The Roberts Family Law Firm",
+        "domain": "aggressivefamilylaw.com",
+        "country": "US",
+        "date": "2024-08-31",
+        "group": "sarcoma"
+    },
+    {
         "victim": "MGA Innovation",
         "domain": "mgainnovation.com",
         "country": "US",
