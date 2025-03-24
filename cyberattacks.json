@@ -1,5 +1,15 @@
 [
     {
+        "date": "2025-03-13",
+        "victim": "County of Union, PA",
+        "domain": "unioncountypa.org",
+        "country": "USA",
+        "summary": "Le comté de Union a détecté une attaque par ransomware sur son réseau informatique le 13 mars 2025, entraînant l'accès non autorisé et le vol de certaines données, principalement liées aux forces de l'ordre, aux affaires judiciaires et aux services du comté. Les informations compromises incluent potentiellement des numéros de sécurité sociale et de permis de conduire. En réponse, le comté a renforcé sa cybersécurité, lancé une enquête avec des experts et informé les autorités, tout en préparant des notifications et des services de surveillance du crédit pour les personnes concernées. (via eCrime.ch)",
+        "title": "Notice of Data Security Incident",
+        "url": "https://unioncountypa.org/notice-of-data-security-incident/",
+        "added": "2025-03-24"
+    },
+    {
         "date": "2025-03-23",
         "victim": "Ama Roma S.p.A.",
         "domain": "amaroma.it",
