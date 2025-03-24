@@ -1,5 +1,15 @@
 [
     {
+        "date": "2025-03-16",
+        "victim": "Astral Foods",
+        "domain": "astralfoods.com",
+        "country": "ZAF",
+        "summary": "Astral Foods, le principal producteur de volaille d'Afrique du Sud, prévoit une baisse de son bénéfice semestriel pouvant atteindre 60 %, en raison de la baisse des prix du poulet et de la hausse des coûts des intrants. Un incident de cybersécurité survenu le 16 mars a aggravé la situation, entraînant des pertes de revenus et des coûts supplémentaires pour résorber l’arriéré de production, impactant le bénéfice d’environ 20 millions de rands (1,10 million de dollars). L'entreprise assure toutefois que toutes ses unités fonctionnent désormais normalement et qu'aucune donnée sensible de clients, fournisseurs ou parties prenantes n’a été compromise.",
+        "title": "MSN",
+        "url": "https://www.astralfoods.com/assets/Documents/News/SENS/2025/25.03.24%20Announcement%20-%20Voluntary%20trading%20update.VF.pdf",
+        "added": "2025-03-24"
+    },
+    {
         "date": "2024-07-06",
         "victim": "Pennsylvania State Education Association",
         "domain": "psea.org",
