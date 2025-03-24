@@ -1,5 +1,12 @@
 [
     {
+        "victim": "terrell.k12.ga.us",
+        "domain": "terrell.k12.ga.us",
+        "country": "US",
+        "date": "2025-02-27",
+        "group": "safepay"
+    },
+    {
         "victim": "Gaines County, Texas",
         "domain": "gaines.tx.us",
         "country": "US",
