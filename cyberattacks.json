@@ -1,5 +1,15 @@
 [
     {
+        "date": "2025-01-13",
+        "victim": "Columbia Eye Clinic",
+        "domain": "columbiaeye.com",
+        "country": "USA",
+        "summary": "La clinique Columbia Eye a détecté une intrusion dans son réseau informatique entre le 9 et le 13 janvier 2025, affectant l'accès à certains systèmes et exposant potentiellement des données personnelles. Les informations compromises pourraient inclure des noms, coordonnées, dates de naissance et codes de procédure médicale, bien que les dossiers médicaux électroniques et les systèmes de gestion n’aient pas été impactés. En réponse, la clinique a renforcé sa cybersécurité, informé les autorités et procède actuellement à une analyse approfondie des fichiers concernés avant de notifier individuellement les personnes affectées. (via eCrime.ch)",
+        "title": "Notice of Data Security Incident",
+        "url": "https://columbiaeye.com/notice-of-data-security-incident/",
+        "added": "2025-03-25"
+    },
+    {
         "date": "2025-03-25",
         "victim": "KLIA (Kuala Lumpur International Airport)",
         "domain": "klia.com.my",
