@@ -1,5 +1,15 @@
 [
     {
+        "date": "2025-02-12",
+        "victim": "Bureau du procureur général de Virginie",
+        "domain": "oag.state.va.us",
+        "country": "USA",
+        "summary": "Le bureau du procureur général de Virginie a été victime d'une cyberattaque sophistiquée, ce qui a entraîné la fermeture de ses systèmes informatiques et la suspension de l'accès à internet et à ses systèmes de courriel. Les enquêteurs de la police d'État de Virginie et du FBI ont été notifiés et mènent une enquête conjointe. Il est actuellement inconnu si l'attaque est liée à une demande de rançon.",
+        "title": "'Sophisticated' cyberattack downs systems at Virginia attorney general's office | StateScoop",
+        "url": "https://statescoop.com/cyberattack-virginia-attorney-general-office-2025/",
+        "added": "2025-03-25"
+    },
+    {
         "date": "2025-03-23",
         "victim": "Teays Valley Christian School",
         "domain": "teaysvalleychristian.org",
