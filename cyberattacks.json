@@ -1,6 +1,16 @@
 [
     {
         "date": "2025-03-25",
+        "victim": "KUOYANG DEVELOPMENT CO.,LTD",
+        "domain": "k-yang.com.tw",
+        "country": "TWN",
+        "summary": "Voici le résumé de l'article :\n\nLa société a subi une attaque par cryptage le 25 mars 2025, mais a activé ses mécanismes de défense et de récupération pour éviter tout impact significatif sur ses opérations. Aucune fuite de données personnelles ou de documents n'a été détectée. La société va mener une enquête approfondie sur l'incident et renforcer ses mesures de sécurité pour prévenir de futures attaques.",
+        "title": "Today's Information",
+        "url": "https://emops.twse.com.tw/server-java/t05sr01_1_e?&isNew=Y&seq_no=3&spoke_time=180014&spoke_date=20250325&co_id=2505",
+        "added": "2025-03-26"
+    },
+    {
+        "date": "2025-03-25",
         "victim": "Johnson Health Tech. Co., Ltd.",
         "domain": "johnsonhealthtech.com",
         "country": "TWN",
