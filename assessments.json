@@ -1,5 +1,12 @@
 [
     {
+        "victim": "saiedu.fi",
+        "domain": "saiedu.fi",
+        "country": "FI",
+        "date": "2025-03-19",
+        "group": "safepay"
+    },
+    {
         "victim": "D&S Electrical Contractors",
         "domain": "dselectrical.com",
         "country": "US",
