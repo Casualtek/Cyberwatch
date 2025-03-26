@@ -1,5 +1,15 @@
 [
     {
+        "date": "2025-03-25",
+        "victim": "Johnson Health Tech. Co., Ltd.",
+        "domain": "johnsonhealthtech.com",
+        "country": "TWN",
+        "summary": "Le groupe a été victime d'une cyberattaque le 25 mars 2025, avec des hackers ayant tenté d'accéder à ses réseaux internes, mais les mécanismes de défense ont été activés pour prévenir tout impact sécuritaire. Aucune fuite de données personnelles, confidentielles ou importantes n'a été détectée, et l'activité de l'entreprise n'a pas été significativement affectée. Un cabinet de cybersécurité a été engagé pour résoudre l'incident et améliorer les contrôles de sécurité du réseau et de l'infrastructure IT.",
+        "title": "Today's Information",
+        "url": "https://emops.twse.com.tw/server-java/t05sr01_1_e?&isNew=Y&seq_no=1&spoke_time=161226&spoke_date=20250325&co_id=1736",
+        "added": "2025-03-26"
+    },
+    {
         "date": "2025-03-24",
         "victim": "Hospital Orizonti",
         "domain": "hospitalorizonti.com.br",
