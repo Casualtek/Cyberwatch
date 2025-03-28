@@ -1,5 +1,12 @@
 [
     {
+        "victim": "exemplar",
+        "domain": "exemplar.com",
+        "country": "IT",
+        "date": "2025-02-28",
+        "group": "ransomhub"
+    },
+    {
         "victim": "Amatech Inc.",
         "domain": "amatechinc.com",
         "country": "US",
