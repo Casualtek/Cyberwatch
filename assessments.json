@@ -1,5 +1,12 @@
 [
     {
+        "victim": "Janvier Labs",
+        "domain": "janvier-labs.com",
+        "country": "FR",
+        "date": "2025-03-10",
+        "group": "ransomhub"
+    },
+    {
         "victim": "Solventa Centro America",
         "domain": "solventacentroamerica.com",
         "country": "GT",
