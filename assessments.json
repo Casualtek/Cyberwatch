@@ -1,5 +1,12 @@
 [
     {
+        "victim": "Solventa Centro America",
+        "domain": "solventacentroamerica.com",
+        "country": "GT",
+        "date": "2025-03-03",
+        "group": "ransomhub"
+    },
+    {
         "victim": "exemplar",
         "domain": "exemplar.com",
         "country": "IT",
