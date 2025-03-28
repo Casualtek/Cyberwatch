@@ -1,5 +1,12 @@
 [
     {
+        "victim": "Jhayber",
+        "domain": "jhayber.com",
+        "country": "ES",
+        "date": "2025-03-02",
+        "group": "ransomhub"
+    },
+    {
         "victim": "Janvier Labs",
         "domain": "janvier-labs.com",
         "country": "FR",
