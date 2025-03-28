@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-10-25",
+        "victim": "Hellenic Open University (EAP)",
+        "domain": "eap.gr",
+        "country": "GRC",
+        "summary": "L'Université ouverte hellénique (EAP) a subi une cyberattaque majeure le 25 octobre 2024, entraînant la fuite de 813 Go de données personnelles sensibles sur le dark web. L'attaque par ransomware a exploité des informations d'identification spécifiques pour infiltrer les systèmes IT et de sauvegarde de l'université, causant des perturbations généralisées. Une enquête est en cours pour déterminer l'ampleur des dégâts et identifier les responsables de la cyberattaque.",
+        "title": "Hellenic Open University Hit By Cyberattack, 813 GB Of Personal Data Leaked On Dark Web",
+        "url": "https://greekcitytimes.com/2025/03/29/hellenic-open-university-hit-by-cyberattack-813-gb-of-personal-data-leaked-on-dark-web/",
+        "added": "2025-03-28"
+    },
+    {
         "date": "2025-03-26",
         "victim": "Maria Enzersdorf",
         "domain": "mariaenzersdorf.gv.at",
