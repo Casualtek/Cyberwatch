@@ -1,5 +1,12 @@
 [
     {
+        "victim": "Visualisation One",
+        "domain": "visualisation.one",
+        "country": "DE",
+        "date": "2025-02-22",
+        "group": "ransomhub"
+    },
+    {
         "victim": "Jhayber",
         "domain": "jhayber.com",
         "country": "ES",
