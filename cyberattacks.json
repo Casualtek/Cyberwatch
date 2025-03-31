@@ -1,5 +1,15 @@
 [
     {
+        "date": "2023-03-10",
+        "victim": "Moncaro",
+        "domain": "moncaro.com",
+        "country": "ITA",
+        "summary": "La coopérative vitivinicole Moncaro, basée à Montecarotto, a été victime d'une cyberattaque il y a 19 jours, bloquant tous les ordinateurs et les serveurs de l'entreprise. Les données et les archives sont inaccessibles, et les employés doivent utiliser leurs adresses e-mail personnelles pour travailler. Les enquêteurs soupçonnent que l'attaque pourrait être liée à un ransomware et qu'elle pourrait avoir été perpétrée par des hackers étrangers, peut-être russes, ou même être une tentative de sabotage interne.",
+        "title": "Moncaro nel mirino degli hacker: computer bloccati da 19 giorni",
+        "url": "https://www.corriereadriatico.it/ancona/montecarotto_moncaro_mirino_degli_hacker_computer_bloccati_da_19_giorni-8744538.html",
+        "added": "2025-03-31"
+    },
+    {
         "date": "2025-03-30",
         "victim": "SHENG YU STEEL CO., LTD.",
         "domain": "shengyusteel.com",
