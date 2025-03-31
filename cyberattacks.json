@@ -1,5 +1,15 @@
 [
     {
+        "date": "2025-03-28",
+        "victim": "IPEN/CNEN (Instituto de Pesquisas Energéticas e Nucleares / Comissão Nacional de Energia Nuclear)",
+        "domain": "cnen.gov.br",
+        "country": "BRA",
+        "summary": "Une cyberattaque a frappé l'Institut de recherche nucléaire brésilien (IPEN/CNEN) le 28 mars, entraînant la suspension temporaire de la production et de la livraison de six radiofármacos. Les mesures correctives ont été mises en œuvre immédiatement, mais la sécurité physique, radiologique et nucléaire n'ont pas été compromises. La production et la livraison des radiofármacos devraient reprendre une fois que les mesures de sécurité nécessaires auront été mises en place.",
+        "title": "Incidente cibernético trava produção e fornecimento de seis radiofármacos - Capital Digital",
+        "url": "https://capitaldigital.com.br/incidente-cibernetico-trava-producao-e-fornecimento-de-seis-radiofarmacos/",
+        "added": "2025-03-31"
+    },
+    {
         "date": "2024-06-26",
         "victim": "MIPS",
         "domain": "mips.com",
