@@ -1,5 +1,12 @@
 [
     {
+        "victim": "wieso-cert",
+        "domain": "wieso-cert.de",
+        "country": "DE",
+        "date": "2025-01-15",
+        "group": "qilin"
+    },
+    {
         "victim": "A-ChieveMent Solution (S) Pte Ltd (ACM)",
         "domain": "achievement.com.sg",
         "country": "SG",
