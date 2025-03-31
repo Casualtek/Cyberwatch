@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-06-26",
+        "victim": "MIPS",
+        "domain": "mips.com",
+        "country": "USA",
+        "summary": "MIPS a signalé au procureur général de Californie une violation de données survenue le 26 juin 2024, au cours de laquelle des acteurs non autorisés ont pu accéder à des informations sensibles. L'enquête a révélé que les données compromises incluent potentiellement des noms et des numéros de sécurité sociale. À la suite de cette découverte, MIPS a lancé une analyse approfondie pour identifier les personnes concernées et, depuis le 18 septembre 2024, envoie des notifications aux individus affectés tout en leur offrant des services de surveillance du crédit. La cyberattaque a été revendiquée par Play le 17 juillet 2024.",
+        "title": "MIPS Data Breach Investigation - Strauss Borrelli PLLC",
+        "url": "https://straussborrelli.com/2024/09/20/mips-data-breach-investigation/",
+        "added": "2025-03-31"
+    },
+    {
         "date": "2025-03-25",
         "victim": "Netfar",
         "domain": "netfar.net",
