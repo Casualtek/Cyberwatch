@@ -1,5 +1,2305 @@
 [
     {
+        "victim": "Kimco Steel",
+        "domain": "kimcosteel.com",
+        "country": "CA",
+        "date": "2025-01-30",
+        "group": "play"
+    },
+    {
+        "victim": "B&C Industries",
+        "domain": "bcpkg.com",
+        "country": "US",
+        "date": "2025-03-19",
+        "group": "play"
+    },
+    {
+        "victim": "Zaveta Custom Homes",
+        "domain": "zaveta.com",
+        "country": "US",
+        "date": "2025-03-10",
+        "group": "play"
+    },
+    {
+        "victim": "REOC San Antonio",
+        "domain": "reocsanantonio.com",
+        "country": "US",
+        "date": "2025-03-17",
+        "group": "play"
+    },
+    {
+        "victim": "Q railing",
+        "domain": "q-railing.com",
+        "country": "DE",
+        "date": "2025-02-19",
+        "group": "play"
+    },
+    {
+        "victim": "Best Cheer Stone",
+        "domain": "bestcheerstone.com",
+        "country": "US",
+        "date": "2025-01-27",
+        "group": "play"
+    },
+    {
+        "victim": "Backes",
+        "domain": "backes-ag.de",
+        "country": "DE",
+        "date": "2025-02-24",
+        "group": "play"
+    },
+    {
+        "victim": "Nor Arc",
+        "domain": "norarc.com",
+        "country": "CA",
+        "date": "2025-02-18",
+        "group": "play"
+    },
+    {
+        "victim": "Dectron",
+        "domain": "dectron.com",
+        "country": "CA",
+        "date": "2025-02-18",
+        "group": "play"
+    },
+    {
+        "victim": "Clawson Honda",
+        "domain": "clawsonhonda.com",
+        "country": "US",
+        "date": "2025-02-14",
+        "group": "play"
+    },
+    {
+        "victim": "Holiday Comfort",
+        "domain": "scofcharlotte.com",
+        "country": "US",
+        "date": "2025-02-24",
+        "group": "play"
+    },
+    {
+        "victim": "Buckley BalaWilson Mew",
+        "domain": "bbwmlaw.com",
+        "country": "US",
+        "date": "2025-02-12",
+        "group": "play"
+    },
+    {
+        "victim": "Yorke & Curtis",
+        "domain": "yorkeandcurtis.com",
+        "country": "US",
+        "date": "2023-01-26",
+        "group": "play"
+    },
+    {
+        "victim": "Peak Season",
+        "domain": "peakseasoninc.net",
+        "country": "US",
+        "date": "2025-02-12",
+        "group": "play"
+    },
+    {
+        "victim": "Gevril",
+        "domain": "gevril.com",
+        "country": "US",
+        "date": "2025-02-05",
+        "group": "play"
+    },
+    {
+        "victim": "T J Machine & Tool",
+        "domain": "tjmachine.com",
+        "date": "2025-02-17",
+        "group": "play"
+    },
+    {
+        "victim": "Compound Solutions",
+        "domain": "compoundsolutions.com",
+        "country": "US",
+        "date": "2025-02-20",
+        "group": "play"
+    },
+    {
+        "victim": "Syma-System",
+        "domain": "syma.com",
+        "country": "CH",
+        "date": "2025-02-27",
+        "group": "play"
+    },
+    {
+        "victim": "Jerue Companies",
+        "domain": "jerue.com",
+        "date": "2025-03-03",
+        "group": "play"
+    },
+    {
+        "victim": "INS Quebec",
+        "domain": "insquebec.org",
+        "country": "CA",
+        "date": "2025-02-18",
+        "group": "play"
+    },
+    {
+        "victim": "Tulsat",
+        "domain": "tulsat.com",
+        "country": "US",
+        "date": "2025-03-04",
+        "group": "play"
+    },
+    {
+        "victim": "International Process Plants",
+        "domain": "ippe.com",
+        "country": "US",
+        "date": "2025-02-21",
+        "group": "play"
+    },
+    {
+        "victim": "Optometrics",
+        "domain": "optometrics.com",
+        "country": "US",
+        "date": "2025-02-03",
+        "group": "play"
+    },
+    {
+        "victim": "M&n Management",
+        "domain": "mandnmanagement.com",
+        "country": "US",
+        "date": "2024-11-13",
+        "group": "play"
+    },
+    {
+        "victim": "Couri Insurance Agency",
+        "domain": "couri.com",
+        "country": "US",
+        "date": "2025-02-17",
+        "group": "play"
+    },
+    {
+        "victim": "North American Fire Hose",
+        "domain": "nafhc.com",
+        "country": "US",
+        "date": "2025-02-06",
+        "group": "play"
+    },
+    {
+        "victim": "Pre Con Industries",
+        "domain": "preconindustries.com",
+        "country": "US",
+        "date": "2025-02-19",
+        "group": "play"
+    },
+    {
+        "victim": "Muller Insurance",
+        "domain": "mullerinsurance.com",
+        "country": "US",
+        "date": "2025-02-12",
+        "group": "play"
+    },
+    {
+        "victim": "Story Environmental",
+        "domain": "storyenvironmental.com",
+        "country": "CA",
+        "date": "2025-01-31",
+        "group": "play"
+    },
+    {
+        "victim": "Finck Cigar",
+        "domain": "finckcigarcompany.com",
+        "date": "2025-02-16",
+        "group": "play"
+    },
+    {
+        "victim": "3cBSI",
+        "domain": "3cbsi.com",
+        "country": "US",
+        "date": "2025-02-05",
+        "group": "play"
+    },
+    {
+        "victim": "First Federal Savings & Loan",
+        "domain": "firstwithus.com",
+        "country": "US",
+        "date": "2025-02-07",
+        "group": "play"
+    },
+    {
+        "victim": "Island Realty",
+        "domain": "islandrealty.us",
+        "country": "US",
+        "date": "2025-02-06",
+        "group": "play"
+    },
+    {
+        "victim": "Fairhaven Shipyard Companies",
+        "domain": "fairhavenshipyard.com",
+        "country": "US",
+        "date": "2025-02-14",
+        "group": "play"
+    },
+    {
+        "victim": "Radco Industries",
+        "domain": "radcoindustries.com",
+        "date": "2025-02-06",
+        "group": "play"
+    },
+    {
+        "victim": "Convert Solar",
+        "domain": "convert-solar.com",
+        "country": "US",
+        "date": "2025-02-11",
+        "group": "play"
+    },
+    {
+        "victim": "Bulldog Oilfield Services",
+        "domain": "bulldogoilfield.com",
+        "country": "US",
+        "date": "2025-02-06",
+        "group": "play"
+    },
+    {
+        "victim": "Weed Man Canada",
+        "domain": "weedmancanada.com",
+        "country": "CA",
+        "date": "2025-02-06",
+        "group": "play"
+    },
+    {
+        "victim": "Startek Peglar & Calcagni",
+        "domain": "spclaw.ca",
+        "country": "CA",
+        "date": "2025-01-22",
+        "group": "play"
+    },
+    {
+        "victim": "Rheinischer Sch",
+        "domain": "rsb2020.de",
+        "country": "DE",
+        "date": "2025-01-28",
+        "group": "play"
+    },
+    {
+        "victim": "Transkid",
+        "domain": "transkid.com",
+        "country": "CA",
+        "date": "2025-02-07",
+        "group": "play"
+    },
+    {
+        "victim": "Stage 3 Separation",
+        "domain": "s3s.com",
+        "country": "US",
+        "date": "2025-02-09",
+        "group": "play"
+    },
+    {
+        "victim": "Wylie Steel Fabricators",
+        "domain": "wyliesteel.com",
+        "country": "US",
+        "date": "2025-01-27",
+        "group": "play"
+    },
+    {
+        "victim": "Inland Empire Distribution Systems, Inc.",
+        "domain": "ieds.net",
+        "country": "US",
+        "date": "2025-02-11",
+        "group": "play"
+    },
+    {
+        "victim": "Bushmans",
+        "domain": "bushmansinc.com",
+        "country": "US",
+        "date": "2025-01-06",
+        "group": "play"
+    },
+    {
+        "victim": "The Townsley Law Firm Information",
+        "domain": "townsleylawfirm.com",
+        "country": "US",
+        "date": "2025-02-11",
+        "group": "play"
+    },
+    {
+        "victim": "Shields Facilities Maintenance",
+        "domain": "shieldsfm.com",
+        "date": "2025-01-24",
+        "group": "play"
+    },
+    {
+        "victim": "Neaton Auto Products Manufacturing",
+        "domain": "neaton.com",
+        "country": "US",
+        "date": "2025-01-29",
+        "group": "play"
+    },
+    {
+        "victim": "Cold Storage Manufacturing",
+        "domain": "coldstoragemfg.com",
+        "country": "US",
+        "date": "2025-01-17",
+        "group": "play"
+    },
+    {
+        "victim": "Shinn Fu Company of America",
+        "domain": "shinnfuamerica.com",
+        "country": "US",
+        "date": "2025-02-01",
+        "group": "play"
+    },
+    {
+        "victim": "Fastighetsservice AB",
+        "domain": "ff-fastighetsservice.se",
+        "country": "Sweden",
+        "date": "2025-01-24",
+        "group": "play"
+    },
+    {
+        "victim": "Baltimore Country Club",
+        "domain": "bcc1898.com",
+        "country": "US",
+        "date": "2025-01-31",
+        "group": "play"
+    },
+    {
+        "victim": "EAC Consulting",
+        "domain": "eacconsult.com",
+        "country": "US",
+        "date": "2025-01-31",
+        "group": "play"
+    },
+    {
+        "victim": "Kensington Glass Arts",
+        "domain": "kensingtonglass.com",
+        "country": "US",
+        "date": "2025-01-31",
+        "group": "play"
+    },
+    {
+        "victim": "Monroe Transportation Services Inc",
+        "domain": "monroe-trans.com",
+        "country": "US",
+        "date": "2025-02-01",
+        "group": "play"
+    },
+    {
+        "victim": "Tie Down Engineering",
+        "domain": "tiedown.com",
+        "country": "US",
+        "date": "2025-01-31",
+        "group": "play"
+    },
+    {
+        "victim": "CST Corp",
+        "domain": "cstcorp.net",
+        "country": "US",
+        "date": "2025-01-30",
+        "group": "play"
+    },
+    {
+        "victim": "Ratioparts",
+        "domain": "ratioparts.com",
+        "country": "DE",
+        "date": "2025-02-05",
+        "group": "play"
+    },
+    {
+        "victim": "Hydronic & Steam Equipment",
+        "domain": "hydstm.com",
+        "country": "US",
+        "date": "2025-01-15",
+        "group": "play"
+    },
+    {
+        "victim": "Mid-State Machine & Fabricating Corp",
+        "domain": "midstateindustrialcorp.com",
+        "country": "US",
+        "date": "2025-01-21",
+        "group": "play"
+    },
+    {
+        "victim": "KWS",
+        "domain": "kwsmfg.com",
+        "country": "US",
+        "date": "2025-01-14",
+        "group": "play"
+    },
+    {
+        "victim": "Daniel Island Club",
+        "domain": "danielislandclub.com",
+        "country": "US",
+        "date": "2025-01-15",
+        "group": "play"
+    },
+    {
+        "victim": "Woodway USA",
+        "domain": "woodway.com",
+        "country": "US",
+        "date": "2025-01-17",
+        "group": "play"
+    },
+    {
+        "victim": "DPC Development",
+        "domain": "dpccompanies.com",
+        "country": "US",
+        "date": "2024-11-27",
+        "group": "play"
+    },
+    {
+        "victim": "The Hill Brush",
+        "domain": "hillbrush.com",
+        "country": "US",
+        "date": "2025-01-20",
+        "group": "play"
+    },
+    {
+        "victim": "Sheridan Nurseries",
+        "domain": "sheridannurseries.com",
+        "country": "CA",
+        "date": "2025-01-21",
+        "group": "play"
+    },
+    {
+        "victim": "Dickerson & Nieman Realtors",
+        "domain": "dickersonnieman.com",
+        "country": "US",
+        "date": "2025-01-07",
+        "group": "play"
+    },
+    {
+        "victim": "Cimarron Telephone Company",
+        "domain": "cimtel.net",
+        "country": "US",
+        "date": "2024-12-17",
+        "group": "play"
+    },
+    {
+        "victim": "Wallin & Klarich",
+        "domain": "wklaw.com",
+        "country": "US",
+        "date": "2024-12-20",
+        "group": "play"
+    },
+    {
+        "victim": "TRIVAD",
+        "domain": "trivad.com",
+        "country": "US",
+        "date": "2024-12-18",
+        "group": "play"
+    },
+    {
+        "victim": "Plymouth Foam",
+        "domain": "plymouthfoam.com",
+        "country": "US",
+        "date": "2025-01-14",
+        "group": "play"
+    },
+    {
+        "victim": "Marshall & Bruce Printing",
+        "domain": "marbruco.com",
+        "date": "2024-12-21",
+        "group": "play"
+    },
+    {
+        "victim": "By design",
+        "domain": "bydesignllc.com",
+        "country": "US",
+        "date": "2025-01-16",
+        "group": "play"
+    },
+    {
+        "victim": "Bettisworth North",
+        "domain": "bettisworthnorth.com",
+        "country": "US",
+        "date": "2024-12-10",
+        "group": "play"
+    },
+    {
+        "victim": "Luxury Yacht Group",
+        "domain": "luxyachts.com",
+        "country": "US",
+        "date": "2024-12-11",
+        "group": "play"
+    },
+    {
+        "victim": "Zeifmans",
+        "domain": "zeifmans.ca",
+        "country": "CA",
+        "date": "2024-12-20",
+        "group": "play"
+    },
+    {
+        "victim": "McCray Lumber",
+        "domain": "mccraylumber.com",
+        "country": "US",
+        "date": "2024-12-06",
+        "group": "play"
+    },
+    {
+        "victim": "Krispy Kreme",
+        "domain": "krispykreme.com",
+        "country": "US",
+        "date": "2024-11-21",
+        "group": "play"
+    },
+    {
+        "victim": "Welker",
+        "domain": "welkerproducts.com",
+        "country": "US",
+        "date": "2024-12-03",
+        "group": "play"
+    },
+    {
+        "victim": "Lanigan Ryan",
+        "domain": "laniganryan.com",
+        "country": "US",
+        "date": "2024-11-18",
+        "group": "play"
+    },
+    {
+        "victim": "Hatfield Consultants",
+        "domain": "hatfieldgroup.com",
+        "country": "CA",
+        "date": "2024-11-13",
+        "group": "play"
+    },
+    {
+        "victim": "Chemitex SA Information",
+        "domain": "chemitex.com",
+        "country": "BE",
+        "date": "2024-12-10",
+        "group": "play"
+    },
+    {
+        "victim": "South Plains Implement",
+        "domain": "southplainsimplement.com",
+        "date": "2024-12-09",
+        "group": "play"
+    },
+    {
+        "victim": "Joshua Grading & Excavating",
+        "domain": "joshuagrading.com",
+        "country": "US",
+        "date": "2024-12-11",
+        "group": "play"
+    },
+    {
+        "victim": "Arnott",
+        "domain": "arnottindustries.com",
+        "country": "US",
+        "date": "2024-11-22",
+        "group": "play"
+    },
+    {
+        "victim": "Sunline",
+        "domain": "sunlineglobal.com",
+        "country": "US",
+        "date": "2024-12-04",
+        "group": "play"
+    },
+    {
+        "victim": "SBW",
+        "domain": "sbw.ca",
+        "country": "CA",
+        "date": "2024-11-28",
+        "group": "play"
+    },
+    {
+        "victim": "Long Beach Convention Center",
+        "domain": "longbeachcc.com",
+        "country": "US",
+        "date": "2024-12-03",
+        "group": "play"
+    },
+    {
+        "victim": "Max Trans",
+        "domain": "maxtrans.us",
+        "country": "US",
+        "date": "2024-11-27",
+        "group": "play"
+    },
+    {
+        "victim": "ITO EN",
+        "domain": "itoen.co.jp",
+        "country": "JP",
+        "date": "2024-11-22",
+        "group": "play"
+    },
+    {
+        "victim": "Standard Calibrations",
+        "domain": "standardcal.com",
+        "country": "US",
+        "date": "2024-11-25",
+        "group": "play"
+    },
+    {
+        "victim": "Bendheim",
+        "domain": "bendheim.com",
+        "country": "US",
+        "date": "2024-10-29",
+        "group": "play"
+    },
+    {
+        "victim": "Vox Printing",
+        "domain": "voxpackaging.com",
+        "country": "US",
+        "date": "2024-10-25",
+        "group": "play"
+    },
+    {
+        "victim": "Birdair",
+        "domain": "birdair.com",
+        "date": "2024-10-24",
+        "group": "play"
+    },
+    {
+        "victim": "IVC Technologies",
+        "domain": "ivctechnologies.com",
+        "country": "US",
+        "date": "2024-10-22",
+        "group": "play"
+    },
+    {
+        "victim": "Miller & Smith",
+        "domain": "millerandsmith.com",
+        "country": "US",
+        "date": "2024-11-05",
+        "group": "play"
+    },
+    {
+        "victim": "Henderson Stamping & Production",
+        "domain": "hendersonstamping.com",
+        "country": "US",
+        "date": "2024-11-07",
+        "group": "play"
+    },
+    {
+        "victim": "Postcard Mania",
+        "domain": "postcardmania.com",
+        "country": "US",
+        "date": "2024-10-21",
+        "group": "play"
+    },
+    {
+        "victim": "Dome Construction",
+        "domain": "domebuilds.com",
+        "country": "US",
+        "date": "2024-09-12",
+        "group": "play"
+    },
+    {
+        "victim": "S & W Kitchens",
+        "domain": "sandwkitchens.com",
+        "country": "US",
+        "date": "2024-10-29",
+        "group": "play"
+    },
+    {
+        "victim": "Smitty's Supply",
+        "domain": "smittysinc.net",
+        "country": "US",
+        "date": "2024-10-31",
+        "group": "play"
+    },
+    {
+        "victim": "Delfin Design & Manufacturing",
+        "domain": "delfinfs.com",
+        "country": "US",
+        "date": "2024-11-02",
+        "group": "play"
+    },
+    {
+        "victim": "Paragon Plastics",
+        "domain": "paragonplastics.net",
+        "country": "US",
+        "date": "2024-09-11",
+        "group": "play"
+    },
+    {
+        "victim": "JS McCarthy Printers",
+        "domain": "jsmccarthy.com",
+        "country": "US",
+        "date": "2024-10-16",
+        "group": "play"
+    },
+    {
+        "victim": "Paul White Company",
+        "domain": "paulwhitecompany.com",
+        "country": "US",
+        "date": "2024-10-11",
+        "group": "play"
+    },
+    {
+        "victim": "Pelsue",
+        "domain": "pelsue.com",
+        "country": "US",
+        "date": "2024-10-18",
+        "group": "play"
+    },
+    {
+        "victim": "iFocus Consulting",
+        "domain": "ifocus.us",
+        "country": "US",
+        "date": "2024-10-17",
+        "group": "play"
+    },
+    {
+        "victim": "Unlimited Lawn Care",
+        "domain": "unlimitedlawncare.com",
+        "country": "US",
+        "date": "2024-10-24",
+        "group": "play"
+    },
+    {
+        "victim": "Maval Industries",
+        "domain": "mavalgear.com",
+        "country": "US",
+        "date": "2024-10-10",
+        "group": "play"
+    },
+    {
+        "victim": "Dana Safety Supply",
+        "domain": "danasafetysupply.com",
+        "country": "US",
+        "date": "2024-10-14",
+        "group": "play"
+    },
+    {
+        "victim": "Astac",
+        "domain": "astac.net",
+        "country": "US",
+        "date": "2024-10-16",
+        "group": "play"
+    },
+    {
+        "victim": "C & C Industries",
+        "domain": "cncinds.com",
+        "country": "US",
+        "date": "2024-10-16",
+        "group": "play"
+    },
+    {
+        "victim": "Ivanhoe Club",
+        "domain": "ivanhoeclub.com",
+        "country": "US",
+        "date": "2024-10-02",
+        "group": "play"
+    },
+    {
+        "victim": "TU Parks",
+        "domain": "tuparks.com",
+        "country": "US",
+        "date": "2024-10-17",
+        "group": "play"
+    },
+    {
+        "victim": "Mainelli Mechanical Contractors",
+        "domain": "mainellimechanical.com",
+        "country": "US",
+        "date": "2024-10-18",
+        "group": "play"
+    },
+    {
+        "victim": "Action Heating & Cooling",
+        "domain": "actionwi.com",
+        "country": "US",
+        "date": "2024-10-16",
+        "group": "play"
+    },
+    {
+        "victim": "Eagle Industries",
+        "domain": "eagleindinc.com",
+        "country": "US",
+        "date": "2024-10-16",
+        "group": "play"
+    },
+    {
+        "victim": "Iron World Manufacturing",
+        "domain": "ironworldfencing.com",
+        "country": "US",
+        "date": "2024-10-18",
+        "group": "play"
+    },
+    {
+        "victim": "The Strainrite Companies",
+        "domain": "strainrite.com",
+        "country": "US",
+        "date": "2024-10-11",
+        "group": "play"
+    },
+    {
+        "victim": "Absolute Machine Tools",
+        "domain": "absolutemachine.com",
+        "country": "US",
+        "date": "2024-10-07",
+        "group": "play"
+    },
+    {
+        "victim": "Mid State Electric",
+        "domain": "midstateelectric.net",
+        "country": "US",
+        "date": "2024-10-14",
+        "group": "play"
+    },
+    {
+        "victim": "Wilkinson",
+        "domain": "wilkinson.net",
+        "country": "CA",
+        "date": "2024-10-02",
+        "group": "play"
+    },
+    {
+        "victim": "Kuhn and Associates",
+        "domain": "kuhnandassociates.com",
+        "country": "US",
+        "date": "2024-09-26",
+        "group": "play"
+    },
+    {
+        "victim": "Nor-Well",
+        "domain": "nor-wellcompany.com",
+        "country": "US",
+        "date": "2024-10-09",
+        "group": "play"
+    },
+    {
+        "victim": "CETRULO",
+        "domain": "cetllp.com",
+        "country": "US",
+        "date": "2024-10-10",
+        "group": "play"
+    },
+    {
+        "victim": "Byerly Aviation",
+        "domain": "byerlyaviation.com",
+        "country": "US",
+        "date": "2024-10-01",
+        "group": "play"
+    },
+    {
+        "victim": "Rescar Companies",
+        "domain": "rescar.com",
+        "country": "US",
+        "date": "2024-09-26",
+        "group": "play"
+    },
+    {
+        "victim": "Nora Biscuits",
+        "domain": "nora.nl",
+        "country": "Netherlands",
+        "date": "2024-10-07",
+        "group": "play"
+    },
+    {
+        "victim": "Steel Art Signs",
+        "domain": "steelart.com",
+        "country": "CA",
+        "date": "2024-09-26",
+        "group": "play"
+    },
+    {
+        "victim": "RobbJack & Crystallume",
+        "domain": "robbjack.com",
+        "country": "US",
+        "date": "2024-09-17",
+        "group": "play"
+    },
+    {
+        "victim": "Aaren Scientific",
+        "domain": "aareninc.com",
+        "country": "CA",
+        "date": "2024-09-16",
+        "group": "play"
+    },
+    {
+        "victim": "Accounting Resource Group",
+        "domain": "accountingresourcegrp.com",
+        "country": "US",
+        "date": "2024-09-25",
+        "group": "play"
+    },
+    {
+        "victim": "AnVa Industries",
+        "domain": "anva.se",
+        "country": "SE",
+        "date": "2024-10-01",
+        "group": "play"
+    },
+    {
+        "victim": "Power Torque Services",
+        "domain": "powertorqueservices.com",
+        "country": "US",
+        "date": "2024-09-17",
+        "group": "play"
+    },
+    {
+        "victim": "Pete's Road Service",
+        "domain": "petesrs.com",
+        "country": "US",
+        "date": "2024-09-19",
+        "group": "play"
+    },
+    {
+        "victim": "Markdom Plastic Products",
+        "domain": "markdom.com",
+        "country": "CA",
+        "date": "2024-09-24",
+        "group": "play"
+    },
+    {
+        "victim": "Guerriere & Halnon",
+        "domain": "guerriereandhalnon.com",
+        "country": "US",
+        "date": "2024-09-30",
+        "group": "play"
+    },
+    {
+        "victim": "Wilmington Convention Center",
+        "domain": "wilmingtonconventions.com",
+        "country": "US",
+        "date": "2024-09-13",
+        "group": "play"
+    },
+    {
+        "victim": "C&L Ward",
+        "domain": "goclward.com",
+        "country": "US",
+        "date": "2024-09-30",
+        "group": "play"
+    },
+    {
+        "victim": "Garvey",
+        "domain": "garveyscarpet.com",
+        "country": "US",
+        "date": "2024-09-17",
+        "group": "play"
+    },
+    {
+        "victim": "The Rubber Resources",
+        "domain": "rubber-resources.com",
+        "country": "US",
+        "date": "2024-09-23",
+        "group": "play"
+    },
+    {
+        "victim": "Condere Ip, Infracom Group",
+        "domain": "acom.se",
+        "country": "SE",
+        "date": "2024-09-24",
+        "group": "play"
+    },
+    {
+        "victim": "4B Components",
+        "domain": "go4b.com",
+        "country": "US",
+        "date": "2024-09-10",
+        "group": "play"
+    },
+    {
+        "victim": "Reutter",
+        "domain": "reutter-group.com",
+        "country": "DE",
+        "date": "2024-09-16",
+        "group": "play"
+    },
+    {
+        "victim": "Mile Hi Foods",
+        "domain": "milehicompanies.com",
+        "country": "US",
+        "date": "2024-08-24",
+        "group": "play"
+    },
+    {
+        "victim": "Eurobulk",
+        "domain": "eurobulk.gr",
+        "country": "GR",
+        "date": "2024-09-09",
+        "group": "play"
+    },
+    {
+        "victim": "BroadGrain Commodities",
+        "domain": "broadgrain.com",
+        "country": "CA",
+        "date": "2024-08-19",
+        "group": "play"
+    },
+    {
+        "victim": "Thompson Construction Supply",
+        "domain": "tbmdf.com",
+        "country": "US",
+        "date": "2024-08-31",
+        "group": "play"
+    },
+    {
+        "victim": "Omega Industries",
+        "domain": "omega-industries.com",
+        "country": "US",
+        "date": "2024-08-19",
+        "group": "play"
+    },
+    {
+        "victim": "Jackson Paper Manufacturing",
+        "domain": "jacksonpaper.net",
+        "country": "US",
+        "date": "2024-09-13",
+        "group": "play"
+    },
+    {
+        "victim": "Plaisted Companies",
+        "domain": "plaistedcompanies.com",
+        "country": "US",
+        "date": "2024-08-21",
+        "group": "play"
+    },
+    {
+        "victim": "Hariri Pontarini Architects",
+        "domain": "hariripontarini.com",
+        "country": "CA",
+        "date": "2024-09-10",
+        "group": "play"
+    },
+    {
+        "victim": "Rsp",
+        "domain": "rsp.ca",
+        "country": "CA",
+        "date": "2024-09-09",
+        "group": "play"
+    },
+    {
+        "victim": "Baskervill",
+        "domain": "baskervill.com",
+        "country": "US",
+        "date": "2024-09-04",
+        "group": "play"
+    },
+    {
+        "victim": "Creative Playthings",
+        "domain": "creativeplaythings.com",
+        "country": "US",
+        "date": "2024-09-05",
+        "group": "play"
+    },
+    {
+        "victim": "Dimensional Merchandising",
+        "domain": "dminj.com",
+        "country": "US",
+        "date": "2024-09-07",
+        "group": "play"
+    },
+    {
+        "victim": "Southeast Cooler",
+        "domain": "secooler.com",
+        "country": "US",
+        "date": "2024-08-28",
+        "group": "play"
+    },
+    {
+        "victim": "Bel-Air Bay Club",
+        "domain": "belairbayclub.com",
+        "country": "US",
+        "date": "2024-08-28",
+        "group": "play"
+    },
+    {
+        "victim": "Elgin Separation Solutions",
+        "domain": "elginseparationsolutions.com",
+        "country": "US",
+        "date": "2024-08-27",
+        "group": "play"
+    },
+    {
+        "victim": "PIGGLY WIGGLY ALABAMA DISTRIBUTING",
+        "country": "US",
+        "date": "2024-09-06",
+        "group": "play"
+    },
+    {
+        "victim": "Weldco-Beales Manufacturing",
+        "domain": "weldco-beales.com",
+        "country": "CA",
+        "date": "2024-09-03",
+        "group": "play"
+    },
+    {
+        "victim": "Evans Distribution Systems",
+        "domain": "evansdist.com",
+        "country": "US",
+        "date": "2024-09-05",
+        "group": "play"
+    },
+    {
+        "victim": "Bakersfield",
+        "domain": "bakersfield.com",
+        "country": "US",
+        "date": "2024-08-30",
+        "group": "play"
+    },
+    {
+        "victim": "Farmers' Rice Cooperative",
+        "domain": "farmersrice.com",
+        "country": "US",
+        "date": "2024-08-30",
+        "group": "play"
+    },
+    {
+        "victim": "Universal Pure",
+        "domain": "universalpure.com",
+        "country": "US",
+        "date": "2024-08-19",
+        "group": "play"
+    },
+    {
+        "victim": "ABC Parts International",
+        "domain": "abcparts.net",
+        "country": "US",
+        "date": "2024-08-01",
+        "group": "play"
+    },
+    {
+        "victim": "Software Engineering Associates",
+        "domain": "seadeo.com",
+        "country": "US",
+        "date": "2024-08-21",
+        "group": "play"
+    },
+    {
+        "victim": "Epi Breads",
+        "domain": "epibreads.com",
+        "country": "US",
+        "date": "2024-08-21",
+        "group": "play"
+    },
+    {
+        "victim": "Precom",
+        "domain": "precom-inc.com",
+        "country": "US",
+        "date": "2024-08-07",
+        "group": "play"
+    },
+    {
+        "victim": "RCG",
+        "domain": "rcg-llc.com",
+        "country": "US",
+        "date": "2024-08-12",
+        "group": "play"
+    },
+    {
+        "victim": "Armour Coatings",
+        "domain": "armourcoatings.com",
+        "country": "US",
+        "date": "2024-08-15",
+        "group": "play"
+    },
+    {
+        "victim": "The SMS Group",
+        "domain": "thesmsgroup.com",
+        "country": "US",
+        "date": "2024-08-16",
+        "group": "play"
+    },
+    {
+        "victim": "Erie Meats",
+        "domain": "eriemeats.com",
+        "country": "CA",
+        "date": "2024-07-31",
+        "group": "play"
+    },
+    {
+        "victim": "Adina Design",
+        "domain": "adinareyter.com",
+        "country": "US",
+        "date": "2024-08-07",
+        "group": "play"
+    },
+    {
+        "victim": "Air International Thermal Systems",
+        "domain": "ai-thermal.com",
+        "country": "US",
+        "date": "2024-08-06",
+        "group": "play"
+    },
+    {
+        "victim": "Parker Development Company",
+        "domain": "parkerdevco.com",
+        "country": "US",
+        "date": "2024-08-09",
+        "group": "play"
+    },
+    {
+        "victim": "Mill Creek Lumber",
+        "domain": "millcreeklumber.com",
+        "country": "US",
+        "date": "2024-08-03",
+        "group": "play"
+    },
+    {
+        "victim": "TelPro",
+        "domain": "telpro1.com",
+        "country": "US",
+        "date": "2024-08-02",
+        "group": "play"
+    },
+    {
+        "victim": "Nilorngruppen AB",
+        "domain": "nilorn.com",
+        "country": "SE",
+        "date": "2024-07-10",
+        "group": "play"
+    },
+    {
+        "victim": "Credible Group",
+        "domain": "iblegroup.com",
+        "country": "CA",
+        "date": "2024-07-09",
+        "group": "play"
+    },
+    {
+        "victim": "KinetX",
+        "domain": "kinetx.com",
+        "country": "US",
+        "date": "2024-08-01",
+        "group": "play"
+    },
+    {
+        "victim": "Granit Design",
+        "domain": "granitdesign.com",
+        "country": "CA",
+        "date": "2024-07-16",
+        "group": "play"
+    },
+    {
+        "victim": "True Blue Environmental",
+        "domain": "trueblueenvironmental.com",
+        "country": "US",
+        "date": "2024-07-08",
+        "group": "play"
+    },
+    {
+        "victim": "Alternate Energy",
+        "domain": "alternateenergyhawaii.com",
+        "country": "US",
+        "date": "2024-07-30",
+        "group": "play"
+    },
+    {
+        "victim": "Golden Business Machines",
+        "domain": "goldenbusiness.com",
+        "country": "US",
+        "date": "2024-06-29",
+        "group": "play"
+    },
+    {
+        "victim": "Gendron & Gendron",
+        "domain": "gendroncorp.com",
+        "country": "US",
+        "date": "2024-06-25",
+        "group": "play"
+    },
+    {
+        "victim": "Gateway Extrusions",
+        "domain": "gwextrusions.com",
+        "country": "US",
+        "date": "2024-06-29",
+        "group": "play"
+    },
+    {
+        "victim": "The Computer Merchant",
+        "domain": "itstaffing.com",
+        "country": "US",
+        "date": "2024-06-28",
+        "group": "play"
+    },
+    {
+        "victim": "Hayden Power Group",
+        "domain": "haydenpower.com",
+        "country": "US",
+        "date": "2024-06-19",
+        "group": "play"
+    },
+    {
+        "victim": "Congoleum",
+        "domain": "congoleum.com",
+        "country": "US",
+        "date": "2024-06-27",
+        "group": "play"
+    },
+    {
+        "victim": "T P C I",
+        "domain": "tpicorp.com",
+        "country": "US",
+        "date": "2024-06-11",
+        "group": "play"
+    },
+    {
+        "victim": "The 21st Century Energy Group",
+        "domain": "21stcenturyenergygroup.com",
+        "country": "US",
+        "date": "2024-06-18",
+        "group": "play"
+    },
+    {
+        "victim": "Innerspec Technologies",
+        "domain": "innerspec.com",
+        "country": "US",
+        "date": "2024-06-07",
+        "group": "play"
+    },
+    {
+        "victim": "Texas Recycling",
+        "domain": "texasrecycling.com",
+        "country": "US",
+        "date": "2024-06-29",
+        "group": "play"
+    },
+    {
+        "victim": "Elyria Foundry",
+        "domain": "elyriafoundry.com",
+        "country": "US",
+        "date": "2024-06-13",
+        "group": "play"
+    },
+    {
+        "victim": "Custom Concrete",
+        "domain": "customconcrete.com",
+        "country": "US",
+        "date": "2024-05-29",
+        "group": "play"
+    },
+    {
+        "victim": "ProMotion Holdings",
+        "domain": "promotionholdings.com",
+        "country": "US",
+        "date": "2024-05-28",
+        "group": "play"
+    },
+    {
+        "victim": "RRCA Accounts Management",
+        "domain": "rrcaaccounts.com",
+        "country": "US",
+        "date": "2024-06-06",
+        "group": "play"
+    },
+    {
+        "victim": "Bunger Steel",
+        "domain": "bungersteel.com",
+        "country": "US",
+        "date": "2024-06-07",
+        "group": "play"
+    },
+    {
+        "victim": "World inquest",
+        "domain": "inquesttechnologies.com",
+        "country": "GB",
+        "date": "2024-06-07",
+        "group": "play"
+    },
+    {
+        "victim": "Hedrick Brothers Construction",
+        "domain": "hedrickbrothers.com",
+        "country": "US",
+        "date": "2024-06-08",
+        "group": "play"
+    },
+    {
+        "victim": "Belle Tire",
+        "domain": "belletire.com",
+        "country": "US",
+        "date": "2024-06-10",
+        "group": "play"
+    },
+    {
+        "victim": "Harvey Construction",
+        "domain": "harveyconst.com",
+        "country": "US",
+        "date": "2024-06-14",
+        "group": "play"
+    },
+    {
+        "victim": "TPI",
+        "domain": "tpicorp.com",
+        "country": "US",
+        "date": "2024-06-11",
+        "group": "play"
+    },
+    {
+        "victim": "Chroma Color",
+        "domain": "chromacolors.com",
+        "country": "US",
+        "date": "2024-05-17",
+        "group": "play"
+    },
+    {
+        "victim": "Peterbilt of Atlanta",
+        "domain": "peteatlanta.com",
+        "country": "US",
+        "date": "2024-05-16",
+        "group": "play"
+    },
+    {
+        "victim": "Great Lakes International Trading",
+        "domain": "glit.com",
+        "country": "US",
+        "date": "2024-05-20",
+        "group": "play"
+    },
+    {
+        "victim": "Eagle Materials",
+        "domain": "eaglematerials.com",
+        "country": "US",
+        "date": "2024-05-23",
+        "group": "play"
+    },
+    {
+        "victim": "Brainworks Software",
+        "domain": "brainworks.com",
+        "country": "US",
+        "date": "2024-05-24",
+        "group": "play"
+    },
+    {
+        "victim": "3GL Technology Solutions",
+        "domain": "3gl.ca",
+        "country": "CA",
+        "date": "2024-05-17",
+        "group": "play"
+    },
+    {
+        "victim": "Goodman Reichwald-Dodge",
+        "domain": "freightbillauditor.com",
+        "country": "US",
+        "date": "2024-05-30",
+        "group": "play"
+    },
+    {
+        "victim": "Western Mechanical",
+        "domain": "westmech-hvac.com",
+        "country": "US",
+        "date": "2024-06-03",
+        "group": "play"
+    },
+    {
+        "victim": "Kinter",
+        "domain": "kinter.com",
+        "country": "US",
+        "date": "2024-05-13",
+        "group": "play"
+    },
+    {
+        "victim": "Amarilla Gas",
+        "domain": "amarillagas.com",
+        "country": "AR",
+        "date": "2024-05-14",
+        "group": "play"
+    },
+    {
+        "victim": "Ab Monsteras Metall",
+        "domain": "monsterasmetall.se",
+        "country": "SE",
+        "date": "2024-05-07",
+        "group": "play"
+    },
+    {
+        "victim": "Me Too Shoes",
+        "domain": "metooshoes.com",
+        "country": "US",
+        "date": "2024-05-22",
+        "group": "play"
+    },
+    {
+        "victim": "Ntv",
+        "domain": "ntv.ca",
+        "country": "CA",
+        "date": "2024-05-10",
+        "group": "play"
+    },
+    {
+        "victim": "WALSER AUTOMOTIVE GROUP",
+        "domain": "walser.com",
+        "country": "US",
+        "date": "2024-05-03",
+        "group": "play"
+    },
+    {
+        "victim": "Elmhurst Group",
+        "domain": "elmhurstgroup.com",
+        "country": "US",
+        "date": "2024-05-09",
+        "group": "play"
+    },
+    {
+        "victim": "Semicore Equipment",
+        "domain": "semicore.com",
+        "country": "US",
+        "date": "2024-05-03",
+        "group": "play"
+    },
+    {
+        "victim": "Ardenbrook",
+        "domain": "ardenbrook.com",
+        "country": "US",
+        "date": "2024-05-01",
+        "group": "play"
+    },
+    {
+        "victim": "RDI-USA",
+        "domain": "rdiglobalhospitality.com",
+        "country": "US",
+        "date": "2024-04-18",
+        "group": "play"
+    },
+    {
+        "victim": "The Louis G Freeman",
+        "domain": "freemancompany.com",
+        "country": "US",
+        "date": "2024-04-29",
+        "group": "play"
+    },
+    {
+        "victim": "Aspire Tax",
+        "domain": "aspiretax.com",
+        "country": "US",
+        "date": "2024-05-07",
+        "group": "play"
+    },
+    {
+        "victim": "Tri-state General Contractors",
+        "domain": "tri-stategc.com",
+        "country": "US",
+        "date": "2024-05-10",
+        "group": "play"
+    },
+    {
+        "victim": "Ryder Scott Co.",
+        "domain": "ryderscott.com",
+        "country": "US",
+        "date": "2024-05-07",
+        "group": "play"
+    },
+    {
+        "victim": "Badger Tag & Label",
+        "domain": "badgertag.com",
+        "country": "US",
+        "date": "2024-04-25",
+        "group": "play"
+    },
+    {
+        "victim": "NK Parts Industries",
+        "domain": "nkparts.com",
+        "country": "US",
+        "date": "2024-05-01",
+        "group": "play"
+    },
+    {
+        "victim": "LiveHelpNow",
+        "domain": "livehelpnow.net",
+        "country": "US",
+        "date": "2024-04-27",
+        "group": "play"
+    },
+    {
+        "victim": "Sentry Data Management",
+        "domain": "sentrydatamgt.com",
+        "country": "US",
+        "date": "2024-04-23",
+        "group": "play"
+    },
+    {
+        "victim": "KC Scout",
+        "domain": "kcscout.net",
+        "country": "US",
+        "date": "2024-04-10",
+        "group": "play"
+    },
+    {
+        "victim": "Utica Mack",
+        "domain": "uticamack.com",
+        "country": "US",
+        "date": "2024-04-24",
+        "group": "play"
+    },
+    {
+        "victim": "Affordable Payroll & Bookkeeping Services",
+        "domain": "apb-services.com",
+        "country": "US",
+        "date": "2024-04-19",
+        "group": "play"
+    },
+    {
+        "victim": "Donco Air",
+        "domain": "raymon-hvac.com",
+        "country": "US",
+        "date": "2024-04-24",
+        "group": "play"
+    },
+    {
+        "victim": "Somerville",
+        "domain": "somervilleinc.com",
+        "country": "US",
+        "date": "2024-04-26",
+        "group": "play"
+    },
+    {
+        "victim": "Mauritzon",
+        "domain": "mauritzon.net",
+        "country": "US",
+        "date": "2024-04-17",
+        "group": "play"
+    },
+    {
+        "victim": "Central Florida Equipment",
+        "domain": "centralcivil.com",
+        "country": "US",
+        "date": "2024-04-30",
+        "group": "play"
+    },
+    {
+        "victim": "Profile Products",
+        "domain": "profileproducts.com",
+        "country": "US",
+        "date": "2024-04-13",
+        "group": "play"
+    },
+    {
+        "victim": "Canatal Industries",
+        "domain": "canatal.net",
+        "country": "US",
+        "date": "2024-04-16",
+        "group": "play"
+    },
+    {
+        "victim": "New Hudson Facades",
+        "domain": "newhudsonfacades.com",
+        "country": "US",
+        "date": "2024-04-12",
+        "group": "play"
+    },
+    {
+        "victim": "Legislative Bill Drafting Commission",
+        "domain": "lbdc.state.ny.us",
+        "country": "US",
+        "date": "2024-04-15",
+        "group": "play"
+    },
+    {
+        "victim": "Yale Mortgage",
+        "domain": "yalemortgage.com",
+        "country": "US",
+        "date": "2024-04-19",
+        "group": "play"
+    },
+    {
+        "victim": "Precision Fluid Controls",
+        "domain": "precisionfluidcontrols.com",
+        "country": "US",
+        "date": "2024-04-18",
+        "group": "play"
+    },
+    {
+        "victim": "Original Herkimer Cheese",
+        "domain": "originalherkimercheese.com",
+        "country": "US",
+        "date": "2024-04-17",
+        "group": "play"
+    },
+    {
+        "victim": "Axip Energy Services",
+        "domain": "axip.com",
+        "country": "US",
+        "date": "2024-04-18",
+        "group": "play"
+    },
+    {
+        "victim": "Engineered Automation of Maine",
+        "domain": "eaminc.com",
+        "country": "US",
+        "date": "2024-04-12",
+        "group": "play"
+    },
+    {
+        "victim": "Pennsylvania Convention Center",
+        "domain": "paconvention.com",
+        "country": "US",
+        "date": "2024-03-26",
+        "group": "play"
+    },
+    {
+        "victim": "SIS Automatisering",
+        "domain": "sisautomatisering.nl",
+        "country": "Netherlands",
+        "date": "2024-03-28",
+        "group": "play"
+    },
+    {
+        "victim": "JE Owens",
+        "domain": "jeowens.com",
+        "country": "US",
+        "date": "2024-04-09",
+        "group": "play"
+    },
+    {
+        "victim": "Heritage Cooperative",
+        "domain": "heritagecooperative.com",
+        "country": "US",
+        "date": "2024-03-22",
+        "group": "play"
+    },
+    {
+        "victim": "The MBTW Group",
+        "domain": "mbtw.com",
+        "country": "CA",
+        "date": "2024-03-27",
+        "group": "play"
+    },
+    {
+        "victim": "LS Networks",
+        "domain": "lsnetworks.net",
+        "country": "US",
+        "date": "2024-03-26",
+        "group": "play"
+    },
+    {
+        "victim": "New England Wooden Ware",
+        "domain": "newwpkg.com",
+        "country": "US",
+        "date": "2024-04-02",
+        "group": "play"
+    },
+    {
+        "victim": "Access Intelligence",
+        "domain": "accessintel.com",
+        "country": "US",
+        "date": "2024-04-01",
+        "group": "play"
+    },
+    {
+        "victim": "MoldTech",
+        "domain": "moldtechrubber.com",
+        "country": "US",
+        "date": "2024-04-05",
+        "group": "play"
+    },
+    {
+        "victim": "Feldstein & Stewart",
+        "domain": "feldsteinandstewart.com",
+        "country": "US",
+        "date": "2024-03-23",
+        "group": "play"
+    },
+    {
+        "victim": "Everbrite",
+        "domain": "everbrite.com",
+        "country": "US",
+        "date": "2024-03-22",
+        "group": "play"
+    },
+    {
+        "victim": "Guy's Floor Service",
+        "domain": "guysfloor.com",
+        "country": "US",
+        "date": "2024-03-18",
+        "group": "play"
+    },
+    {
+        "victim": "Sit",
+        "domain": "sitnsleep.com",
+        "country": "US",
+        "date": "2024-03-27",
+        "group": "play"
+    },
+    {
+        "victim": "Lambda Energy Resources",
+        "domain": "lambdaenergyllc.com",
+        "country": "US",
+        "date": "2024-03-05",
+        "group": "play"
+    },
+    {
+        "victim": "Quality Enclosures",
+        "domain": "qualityenclosures.com",
+        "country": "US",
+        "date": "2024-03-05",
+        "group": "play"
+    },
+    {
+        "victim": "Hartz",
+        "domain": "hartz.com",
+        "country": "US",
+        "date": "2024-03-07",
+        "group": "play"
+    },
+    {
+        "victim": "JM Thompson",
+        "domain": "jmthompson.com",
+        "country": "US",
+        "date": "2024-03-14",
+        "group": "play"
+    },
+    {
+        "victim": "Pavilion Construction",
+        "domain": "pavilionconstruction.com",
+        "country": "US",
+        "date": "2024-03-04",
+        "group": "play"
+    },
+    {
+        "victim": "Boingo Graphics",
+        "domain": "boingographics.com",
+        "country": "US",
+        "date": "2024-03-06",
+        "group": "play"
+    },
+    {
+        "victim": "Premier Technology",
+        "domain": "premiertechnology.net",
+        "country": "US",
+        "date": "2024-02-20",
+        "group": "play"
+    },
+    {
+        "victim": "SREE Hotels",
+        "domain": "sree.com",
+        "country": "US",
+        "date": "2024-02-21",
+        "group": "play"
+    },
+    {
+        "victim": "Bridger Insurance",
+        "domain": "bridgerins.com",
+        "country": "US",
+        "date": "2024-02-26",
+        "group": "play"
+    },
+    {
+        "victim": "BiTec",
+        "domain": "bitecsmi.com",
+        "country": "US",
+        "date": "2024-02-29",
+        "group": "play"
+    },
+    {
+        "victim": "QI Group",
+        "domain": "qigroup.ca",
+        "country": "CA",
+        "date": "2024-02-13",
+        "group": "play"
+    },
+    {
+        "victim": "Fashion UK",
+        "domain": "fashions-uk.com",
+        "country": "GB",
+        "date": "2024-02-19",
+        "group": "play"
+    },
+    {
+        "victim": "Grassmid Transport",
+        "domain": "grassmidtransportinc.com",
+        "country": "US",
+        "date": "2024-02-22",
+        "group": "play"
+    },
+    {
+        "victim": "Image Pointe",
+        "domain": "imagepointe.com",
+        "country": "US",
+        "date": "2024-02-21",
+        "group": "play"
+    },
+    {
+        "victim": "Bechtold",
+        "domain": "bechtoldfenster.de",
+        "country": "DE",
+        "date": "2024-03-01",
+        "group": "play"
+    },
+    {
+        "victim": "Schokinag",
+        "domain": "schokinag.com",
+        "date": "2024-02-27",
+        "group": "play"
+    },
+    {
+        "victim": "QEO Group",
+        "domain": "qeo.com",
+        "country": "US",
+        "date": "2024-02-21",
+        "group": "play"
+    },
+    {
+        "victim": "Continental Aerospace Technologies",
+        "domain": "continental.aero",
+        "country": "US",
+        "date": "2024-02-12",
+        "group": "play"
+    },
+    {
+        "victim": "Kool-air",
+        "domain": "kool-air-inc.com",
+        "country": "CA",
+        "date": "2024-02-15",
+        "group": "play"
+    },
+    {
+        "victim": "Influence Communication",
+        "domain": "influencecommunication.com",
+        "country": "CA",
+        "date": "2024-02-15",
+        "group": "play"
+    },
+    {
+        "victim": "Marketon",
+        "domain": "marketon.com",
+        "country": "US",
+        "date": "2024-02-15",
+        "group": "play"
+    },
+    {
+        "victim": "Compact Mould",
+        "domain": "compactmould.com",
+        "country": "CA",
+        "date": "2024-02-16",
+        "group": "play"
+    },
+    {
+        "victim": "Hedlunds",
+        "domain": "hedlundspapper.se",
+        "country": "Sweden",
+        "date": "2024-02-05",
+        "group": "play"
+    },
+    {
+        "victim": "Winona Pattern & Mold",
+        "domain": "winonapattern.com",
+        "country": "US",
+        "date": "2024-02-16",
+        "group": "play"
+    },
+    {
+        "victim": "Trans+Plus Systems",
+        "domain": "transplus.io",
+        "country": "CA",
+        "date": "2024-02-16",
+        "group": "play"
+    },
+    {
+        "victim": "Powill Manufacturing & Engineering",
+        "domain": "powill.com",
+        "country": "US",
+        "date": "2024-02-07",
+        "group": "play"
+    },
+    {
+        "victim": "A&A Wireless",
+        "domain": "aawireless.us",
+        "country": "US",
+        "date": "2024-02-14",
+        "group": "play"
+    },
+    {
+        "victim": "American Nuts",
+        "domain": "americannuts.com",
+        "country": "US",
+        "date": "2024-02-20",
+        "group": "play"
+    },
+    {
+        "victim": "Skyland Grain",
+        "domain": "skylandgrain.com",
+        "country": "US",
+        "date": "2024-02-12",
+        "group": "play"
+    },
+    {
+        "victim": "Gilmore & Associates",
+        "domain": "gilmore-assoc.com",
+        "country": "US",
+        "date": "2024-02-08",
+        "group": "play"
+    },
+    {
+        "victim": "Welch's",
+        "domain": "welchs.com",
+        "country": "US",
+        "date": "2024-02-01",
+        "group": "play"
+    },
+    {
+        "victim": "MeerServices",
+        "domain": "meerservices.nl",
+        "country": "NL",
+        "date": "2024-01-22",
+        "group": "play"
+    },
+    {
+        "victim": "Mechanical Reps",
+        "domain": "mechreps.com",
+        "country": "US",
+        "date": "2024-01-19",
+        "group": "play"
+    },
+    {
+        "victim": "HR Ewell & Hy-tec",
+        "domain": "hrewell.com www.hytectank.com",
+        "country": "US",
+        "date": "2024-02-07",
+        "group": "play"
+    },
+    {
+        "victim": "Norman, Fox",
+        "domain": "norfoxchem.com",
+        "country": "US",
+        "date": "2024-02-10",
+        "group": "play"
+    },
+    {
+        "victim": "LD Davis",
+        "domain": "lddavis.com",
+        "country": "US",
+        "date": "2024-02-09",
+        "group": "play"
+    },
+    {
+        "victim": "Leaders Staffing",
+        "domain": "leadersstaffing.com",
+        "country": "US",
+        "date": "2024-01-10",
+        "group": "play"
+    },
+    {
+        "victim": "Douglas County Libraries",
+        "domain": "dcl.org",
+        "country": "US",
+        "date": "2024-01-03",
+        "group": "play"
+    },
+    {
+        "victim": "Premier Facility Management",
+        "domain": "pfmgreen.com",
+        "country": "US",
+        "date": "2024-01-09",
+        "group": "play"
+    },
+    {
+        "victim": "Virgin Islands Lottery",
+        "domain": "winusvilottery.com",
+        "country": "US",
+        "date": "2024-01-12",
+        "group": "play"
+    },
+    {
+        "victim": "Perry-McCall Construction",
+        "domain": "perry-mccall.com",
+        "country": "US",
+        "date": "2024-01-02",
+        "group": "play"
+    },
+    {
+        "victim": "Albert Bartlett",
+        "domain": "albertbartlett.com",
+        "country": "US",
+        "date": "2024-01-18",
+        "group": "play"
+    },
+    {
+        "victim": "Mason Construction",
+        "domain": "masonconstruction.net",
+        "country": "US",
+        "date": "2024-01-19",
+        "group": "play"
+    },
+    {
+        "victim": "McMillan Pazdan Smith",
+        "domain": "mcmillanpazdansmith.com",
+        "country": "US",
+        "date": "2024-01-23",
+        "group": "play"
+    },
+    {
+        "victim": "Hannon Transport",
+        "domain": "hannontransport.com",
+        "country": "US",
+        "date": "2024-01-24",
+        "group": "play"
+    },
+    {
+        "victim": "Ready Mixed Concrete",
+        "domain": "aareadymix.com",
+        "country": "US",
+        "date": "2024-01-25",
+        "group": "play"
+    },
+    {
+        "victim": "Greenwich Leisure",
+        "domain": "gll.org",
+        "country": "GB",
+        "date": "2024-01-22",
+        "group": "play"
+    },
+    {
+        "victim": "Modern Kitchens",
+        "domain": "modernkitchens.com",
+        "country": "US",
+        "date": "2024-01-26",
+        "group": "play"
+    },
+    {
+        "victim": "Madison Capital & WPM & The Time Group",
+        "domain": "madisoncapital.com www.wpmllc.com www.thetimegroup.com",
+        "country": "US",
+        "date": "2023-12-20",
+        "group": "play"
+    },
+    {
+        "victim": "DYWIDAG-Systems & American Transportation",
+        "domain": "dywidag-systems.com",
+        "country": "LU",
+        "date": "2023-12-05",
+        "group": "play"
+    },
+    {
+        "victim": "Greater Richmond Transit",
+        "domain": "ridegrtc.com",
+        "country": "US",
+        "date": "2023-11-22",
+        "group": "play"
+    },
+    {
+        "victim": "The DMC",
+        "domain": "dmc.com",
+        "country": "US",
+        "date": "2023-11-11",
+        "group": "play"
+    },
+    {
+        "victim": "Inclinator",
+        "domain": "inclinator.com",
+        "country": "US",
+        "date": "2023-10-25",
+        "group": "play"
+    },
+    {
+        "victim": "Conditioned Air",
+        "domain": "conditionedair.com",
+        "country": "US",
+        "date": "2023-10-26",
+        "group": "play"
+    },
+    {
+        "victim": "Meindl",
+        "domain": "meindl.de",
+        "country": "DE",
+        "date": "2023-10-24",
+        "group": "play"
+    },
+    {
+        "victim": "Ackerman-Estvold",
+        "domain": "ackerman-estvold.com",
+        "country": "US",
+        "date": "2023-10-26",
+        "group": "play"
+    },
+    {
+        "victim": "The Supply Room Companies & Citron WorkSpaces",
+        "domain": "thesupplyroom.com",
+        "country": "US",
+        "date": "2023-10-19",
+        "group": "play"
+    },
+    {
+        "victim": "Identification Products",
+        "domain": "idproducts.com",
+        "country": "US",
+        "date": "2023-10-27",
+        "group": "play"
+    },
+    {
+        "victim": "JS Hovnanian & Sons",
+        "domain": "hovhomes.com",
+        "country": "US",
+        "date": "2023-10-31",
+        "group": "play"
+    },
+    {
+        "victim": "Brodart",
+        "domain": "brodart.com",
+        "country": "US",
+        "date": "2023-10-13",
+        "group": "play"
+    },
+    {
+        "victim": "Drug Emporium",
+        "domain": "drugemporiuminc.com",
+        "country": "US",
+        "date": "2023-10-16",
+        "group": "play"
+    },
+    {
+        "victim": "Sam Tell Companies",
+        "domain": "samtell.com",
+        "country": "US",
+        "date": "2023-10-17",
+        "group": "play"
+    },
+    {
+        "victim": "Rea Magnet Wire",
+        "domain": "reawire.com",
+        "country": "US",
+        "date": "2023-09-07",
+        "group": "play"
+    },
+    {
+        "victim": "First Line",
+        "domain": "firstline.co.uk",
+        "country": "GB",
+        "date": "2023-09-09",
+        "group": "play"
+    },
+    {
+        "victim": "Vucke",
+        "domain": "vucke.sk",
+        "country": "SK",
+        "date": "2023-09-04",
+        "group": "play"
+    },
+    {
+        "victim": "Dpc & S",
+        "domain": "dpconsulting.com",
+        "country": "US",
+        "date": "2023-08-31",
+        "group": "play"
+    },
+    {
+        "victim": "Xplain",
+        "domain": "xplain.ch",
+        "country": "CH",
+        "date": "2023-05-10",
+        "group": "play"
+    },
+    {
+        "victim": "BMD Systemhaus",
+        "domain": "bmd.com",
+        "country": "AT",
+        "date": "2023-05-22",
+        "group": "play"
+    },
+    {
+        "victim": "Unico Data,INSYS Industriesysteme,PathA Suisse,PB Swiss Tools,Boess Gruppe",
+        "domain": "unicodata.ch",
+        "country": "CH",
+        "date": "2023-05-25",
+        "group": "play"
+    },
+    {
+        "victim": "Palo Alto County Sheriff",
+        "domain": "paloaltosheriff.com",
+        "country": "US",
+        "date": "2023-04-01",
+        "group": "play"
+    },
+    {
+        "victim": "BMW France",
+        "domain": "bmw.fr",
+        "country": "FR",
+        "date": "2023-03-03",
+        "group": "play"
+    },
+    {
         "victim": "Yeans Halle",
         "domain": "yeanshalle.de",
         "country": "DE",
