@@ -1,5 +1,15 @@
 [
     {
+        "date": "2025-01-27",
+        "victim": "SimonMed Imaging",
+        "domain": "simonmed.com",
+        "country": "USA",
+        "summary": "SimonMed Imaging a subi une cyberattaque en janvier 2025, entraînant une violation de données qui a pu affecter des informations sensibles telles que les noms, adresses, dates de naissance et informations de santé de patients. L'enquête est toujours en cours pour déterminer l'étendue de la violation et les données spécifiques qui ont été compromises. Les individus potentiellement affectés sont invités à rester vigilants contre les tentatives d'usurpation d'identité et de fraude.",
+        "title": "SimonMed Imaging Provides Notice of Security Incident",
+        "url": "https://www.prnewswire.com/news-releases/simonmed-imaging-provides-notice-of-security-incident-302414648.html",
+        "added": "2025-03-31"
+    },
+    {
         "date": "2023-03-10",
         "victim": "Moncaro",
         "domain": "moncaro.com",
