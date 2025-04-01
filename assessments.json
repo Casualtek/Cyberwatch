@@ -1,5 +1,12 @@
 [
     {
+        "victim": "Groupe Sinari",
+        "domain": "sinari.com",
+        "country": "FR",
+        "date": "2025-03-17",
+        "group": "qilin"
+    },
+    {
         "victim": "Kimco Steel",
         "domain": "kimcosteel.com",
         "country": "CA",
