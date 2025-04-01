@@ -1,5 +1,15 @@
 [
     {
+        "date": "2025-03-21",
+        "victim": "Heilbronn Marketing GmbH",
+        "domain": "heilbronn-marketing.de",
+        "country": "DEU",
+        "summary": "La société Heilbronn Marketing GmbH a été victime d'une cyberattaque, dont l'ampleur est encore inconnue. Les systèmes IT de l'entreprise ont été sécurisés et les activités commerciales ont repris deux jours après l'attaque, mais il est possible que des données de clients et de fournisseurs aient été volées. Les enquêtes sont en cours pour déterminer l'étendue de la violation de données et les mesures de sécurité ont été renforcées pour prévenir de nouvelles attaques.",
+        "title": "Cyber-Attacke auf Heilbronn Marketing: Ausmaß unklar - SWR Aktuell",
+        "url": "https://www.swr.de/swraktuell/baden-wuerttemberg/heilbronn/cyberattacke-heilbronn-marketing-gmbh-100.html",
+        "added": "2025-04-01"
+    },
+    {
         "date": "2024-08-15",
         "victim": "Cincinnati Pain Physicians",
         "domain": "cincinnatipainphysicians.com",
