@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-08-15",
+        "victim": "Cincinnati Pain Physicians",
+        "domain": "cincinnatipainphysicians.com",
+        "country": "USA",
+        "summary": "Un médecin de Cincinnati, Dr. Gururau Sudarshan, a été victime d'une attaque par ransomware attribuée au groupe Helldown, qui a entraîné la perte de données médicales et a coûté des dizaines de milliers de dollars. Le médecin a refusé de payer la rançon et a réussi à récupérer environ 80% des données en les reconstruisant manuellement avec l'aide de ses patients. L'incident a mis en évidence la vulnérabilité du secteur de la santé face aux attaques par ransomware, qui touchent de plus en plus d'organisations médicales.",
+        "title": "Local doctor hit by ransomware attack fights to save his practice",
+        "url": "https://local12.com/news/investigates/how-hackers-stealing-medical-data-helldown-target-doctors-hospitals-threats-healthcare-info-cincinnati-blue-ash-gururau-sudarshan-ransomware-attack",
+        "added": "2025-04-01"
+    },
+    {
         "date": "2025-01-17",
         "victim": "United Domestic Workers of America (UDW)",
         "domain": "udwa.org",
