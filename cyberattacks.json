@@ -1,5 +1,15 @@
 [
     {
+        "date": "2025-03-31",
+        "victim": "Plus Service Srl",
+        "domain": "confindustria.an.it",
+        "country": "ITA",
+        "summary": "Une cyberattaque a paralysé les systèmes de billetterie électronique de la Mobilità di Marca (Mom) pendant deux jours, causant des problèmes pour les voyageurs et les étudiants. L'attaque a visé les serveurs de l'entreprise Plus Service, qui gère la plateforme Telemaco utilisée par de nombreuses compagnies de transport public. Les autorités ont promis de rétablir le service dans les meilleurs délais possibles et soulignent l'urgence d'investir dans des mesures de cybersécurité plus robustes pour protéger les services essentiels comme le transport public.",
+        "title": "Attacco hacker blocca i biglietti Mom: due giorni di caos per pendolari e studenti | Tribuna di Treviso",
+        "url": "https://www.tribunatreviso.it/cronaca/mon-hacker-attacco-biglietti-xueo4que",
+        "added": "2025-04-02"
+    },
+    {
         "date": "2025-03-29",
         "victim": "Jackpot Junction casino",
         "domain": "jackpotjunction.com",
