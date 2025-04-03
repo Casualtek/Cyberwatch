@@ -1,5 +1,15 @@
 [
     {
+        "date": "2025-02-06",
+        "victim": "MacKay Memorial Hospital",
+        "domain": "mmh.org.tw",
+        "country": "TWN",
+        "summary": "Le Bureau d'Investigation Criminelle (CIB) de Taïwan a identifié un hacker chinois de 20 ans, surnommé \"Crazyhunter\", comme étant responsable d'une attaque ransomware contre l'hôpital MacKay Memorial et d'autres institutions taiwanaises. L'hôpital avait refusé de payer la rançon, et les données des patients volées ont été mises en vente sur un forum de hackers. Le CIB a collecté des preuves numériques et a demandé à la justice de délivrer un mandat d'arrêt contre le hacker, qui sera également signalé aux autorités chinoises.",
+        "title": "Chinese hacker behind ransomware attack on MacKay Hospital, others: CIB - Focus Taiwan",
+        "url": "https://focustaiwan.tw/society/202504030019",
+        "added": "2025-04-03"
+    },
+    {
         "date": "2025-03-31",
         "victim": "Graz 99ers",
         "domain": "99ers.at",
