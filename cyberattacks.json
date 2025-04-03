@@ -1,5 +1,15 @@
 [
     {
+        "date": "2025-02-12",
+        "victim": "State Bar of Texas",
+        "domain": "texasbar.com",
+        "country": "USA",
+        "summary": "La State Bar of Texas, la deuxième plus grande association du barreau aux États-Unis, a subi une violation de données après que le groupe de ransomware INC ait revendiqué une attaque contre l'organisation. Les attaquants ont pu voler des informations, notamment des noms complets et d'autres données, entre le 28 janvier et le 9 février 2025. Les données volées ont déjà été partiellement divulguées, notamment des documents de cas juridiques.",
+        "title": "Texas State Bar warns of data breach after INC ransomware claims attack",
+        "url": "https://www.bleepingcomputer.com/news/security/texas-state-bar-warns-of-data-breach-after-inc-ransomware-claims-attack/",
+        "added": "2025-04-03"
+    },
+    {
         "date": "2025-03-21",
         "victim": "Regionalen Verkehrsbetriebe Baden-Wettingen (RVBW)",
         "domain": "rvbw.ch",
