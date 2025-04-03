@@ -1,5 +1,15 @@
 [
     {
+        "date": "2025-03-21",
+        "victim": "Regionalen Verkehrsbetriebe Baden-Wettingen (RVBW)",
+        "domain": "rvbw.ch",
+        "country": "CHE",
+        "summary": "Les Regionalen Verkehrsbetriebe Baden-Wettingen (RVBW) ont été victimes d'une cyberattaque par la bande de cybercriminels \"Play\", qui réclame une rançon en menaçant de publier des données si elle n'est pas payée. L'attaque a entraîné des restrictions dans le système de gestion de la circulation et des perturbations dans les affichages électroniques, mais les données des clients n'ont pas été compromises. Les RVBW ont refusé de payer la rançon et collaborent avec la police fédérale pour enquêter sur l'incident.",
+        "title": "RVBW: Hackerangriff mit Lösegeldforderung",
+        "url": "https://www.badenertagblatt.ch/aargau/baden/baden-hackerangriff-auf-rvbw-cyberkriminelle-verlangen-loesegeld-was-bei-nichtbezahlung-droht-ld.2756220",
+        "added": "2025-04-03"
+    },
+    {
         "date": "2025-02-06",
         "victim": "MacKay Memorial Hospital",
         "domain": "mmh.org.tw",
