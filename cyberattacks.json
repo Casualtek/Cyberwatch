@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-08-15",
+        "victim": "Prefeitura de Taubaté (SP)",
+        "domain": "taubate.sp.gov.br",
+        "country": "BRA",
+        "summary": "La mairie de Taubaté, dans l'État de São Paulo, au Brésil, a confirmé avoir subi une cyberattaque en août 2024, entraînant une fuite de données sensibles. La ville a notifié l'Autorité nationale de protection des données (ANPD) et a pris des mesures pour améliorer sa sécurité cibernetique, notamment en adoptant un décret sur la sécurité de l'information et de la communication. La tendance des cyberattaques contre les municipalités brésiliennes s'intensifie, avec près de 30% des incidents cibernetiques signalés cette année impliquant des préfectures.",
+        "title": "Prefeitura de Taubaté (SP) confirma incidente cibernético com data leak - Security Leaders",
+        "url": "https://securityleaders.com.br/prefeitura-de-taubate-sp-confirma-incidente-cibernetico-com-data-leak/",
+        "added": "2025-04-03"
+    },
+    {
         "date": "2025-02-12",
         "victim": "State Bar of Texas",
         "domain": "texasbar.com",
