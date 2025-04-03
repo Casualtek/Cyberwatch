@@ -1,5 +1,15 @@
 [
     {
+        "date": "2025-01-22",
+        "victim": "Genus",
+        "domain": "genus.no",
+        "country": "NOR",
+        "summary": "Le fournisseur de services norvégien Genus, qui fournit des logiciels pour les plateformes numériques, a été victime d'une cyberattaque en janvier, lorsqu'un groupe de hackers a volé des données sensibles, notamment des contrats de clients avec des numéros de téléphone et des signatures. Les hackers ont demandé une rançon, mais Genus a refusé de payer et a restauré ses systèmes à partir de sauvegardes. Le fournisseur de services travaille avec la police norvégienne, mais les données de la police n'ont pas été compromises lors de l'attaque.",
+        "title": "Tjenesteleverandør til politiet hacket og frastjålet sensitiv data - Altinget",
+        "url": "https://www.altinget.no/artikkel/tjenesteleverandoer-til-politiet-hacket-og-frastjaalet-sensitiv-data",
+        "added": "2025-04-03"
+    },
+    {
         "date": "2025-03-31",
         "victim": "Plus Service Srl",
         "domain": "confindustria.an.it",
