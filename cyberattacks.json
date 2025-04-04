@@ -1,5 +1,15 @@
 [
     {
+        "date": "2023-03-01",
+        "victim": "SRAM",
+        "domain": "sram.com",
+        "country": "USA",
+        "summary": "SRAM, un fabricant de composants de vélo, a été victime d'une cyberattaque qui a entraîné la fermeture temporaire de son système de commande en gros et d'autres services numériques. Les spécialistes en sécurité informatique ont été appelés pour enquêter sur l'incident et sécuriser les systèmes de l'entreprise. L'attaque n'a pas affecté le système AXS, mais a perturbé les commandes et a rendu temporairement inaccessible l'application RockShox Trailhead.",
+        "title": "Computer hack treft SRAM, IT-specialisten ingeschakeld | NieuwsFiets.nu",
+        "url": "https://nieuwsfiets.nu/2025/04/04/computer-hack-treft-sram-it-specialisten-ingeschakeld/",
+        "added": "2025-04-04"
+    },
+    {
         "date": "2024-08-15",
         "victim": "Prefeitura de Taubaté (SP)",
         "domain": "taubate.sp.gov.br",
