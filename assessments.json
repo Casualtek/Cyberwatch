@@ -1,5 +1,208 @@
 [
     {
+        "victim": "Oxford Companies",
+        "domain": "oxfordcompanies.com",
+        "country": "US",
+        "date": "2025-02-04",
+        "group": "play"
+    },
+    {
+        "victim": "LenelS2",
+        "domain": "lenels2.com",
+        "country": "US",
+        "date": "2024-10-24",
+        "group": "play"
+    },
+    {
+        "victim": "Sunrise Express",
+        "domain": "sunriseexpress.com",
+        "country": "US",
+        "date": "2024-10-08",
+        "group": "play"
+    },
+    {
+        "victim": "Eagle Recovery Associates",
+        "domain": "eaglerecovery.net",
+        "country": "US",
+        "date": "2024-10-04",
+        "group": "play"
+    },
+    {
+        "victim": "G/S Solutions",
+        "domain": "gssolutions.com",
+        "country": "US",
+        "date": "2024-08-23",
+        "group": "play"
+    },
+    {
+        "victim": "InteriorWorx Commercial Flooring",
+        "domain": "interiorworxcommercialflooring.com",
+        "country": "US",
+        "date": "2024-09-03",
+        "group": "play"
+    },
+    {
+        "victim": "Multidata",
+        "domain": "multidata.lu",
+        "country": "LU",
+        "date": "2024-08-28",
+        "group": "play"
+    },
+    {
+        "victim": "Clabots",
+        "domain": "clabots.be",
+        "country": "BE",
+        "date": "2024-07-12",
+        "group": "play"
+    },
+    {
+        "victim": "GDB International",
+        "domain": "gdbinternational.com",
+        "country": "US",
+        "date": "2024-07-12",
+        "group": "play"
+    },
+    {
+        "victim": "CinemaTech",
+        "domain": "mycinematech.com",
+        "country": "US",
+        "date": "2024-07-14",
+        "group": "play"
+    },
+    {
+        "victim": "Williams Construction",
+        "domain": "williamsconst.com",
+        "country": "US",
+        "date": "2024-06-06",
+        "group": "play"
+    },
+    {
+        "victim": "MIPS Technologies",
+        "domain": "mips.com",
+        "country": "US",
+        "date": "2024-06-10",
+        "group": "play"
+    },
+    {
+        "victim": "Seagulf Marine Industries",
+        "domain": "seagulf.com",
+        "country": "CA",
+        "date": "2024-04-25",
+        "group": "play"
+    },
+    {
+        "victim": "Corbin Turf & Ornamental Supply",
+        "domain": "corbinturf.com",
+        "country": "US",
+        "date": "2024-04-19",
+        "group": "play"
+    },
+    {
+        "victim": "Air Cleaning Specialists",
+        "domain": "aircleaningspecialists.com",
+        "country": "US",
+        "date": "2024-04-23",
+        "group": "play"
+    },
+    {
+        "victim": "Diverse Technology Industrial",
+        "domain": "dtindustrialflooring.com",
+        "country": "US",
+        "date": "2024-04-06",
+        "group": "play"
+    },
+    {
+        "victim": "City Builders",
+        "domain": "citybuilders.com",
+        "country": "US",
+        "date": "2024-05-02",
+        "group": "play"
+    },
+    {
+        "victim": "Starostwo Powiatowe w Świebodzinie",
+        "domain": "samorzad.gov.pl",
+        "country": "PL",
+        "date": "2024-04-11",
+        "group": "play"
+    },
+    {
+        "victim": "High Performance Services",
+        "domain": "hpsllc.us",
+        "country": "US",
+        "date": "2024-03-12",
+        "group": "play"
+    },
+    {
+        "victim": "Stainless Foundry & Engineering",
+        "domain": "stainlessfoundry.com",
+        "country": "US",
+        "date": "2024-03-11",
+        "group": "play"
+    },
+    {
+        "victim": "Advanced Business Networks",
+        "domain": "netabn.com",
+        "country": "US",
+        "date": "2024-03-25",
+        "group": "play"
+    },
+    {
+        "victim": "Lawrence Semiconductor Research Laboratory",
+        "domain": "lsrl.com",
+        "country": "US",
+        "date": "2024-02-20",
+        "group": "play"
+    },
+    {
+        "victim": "Alber Law Group",
+        "domain": "alberlaw.com",
+        "country": "US",
+        "date": "2024-01-16",
+        "group": "play"
+    },
+    {
+        "victim": "Festspielhaus Baden-Baden",
+        "domain": "festspielhaus.de",
+        "country": "DE",
+        "date": "2024-01-25",
+        "group": "play"
+    },
+    {
+        "victim": "Northeastern Sheet Metal",
+        "domain": "nesmco.com",
+        "country": "US",
+        "date": "2023-12-05",
+        "group": "play"
+    },
+    {
+        "victim": "TPG Architecture",
+        "domain": "tpgarchitecture.com",
+        "country": "US",
+        "date": "2023-12-06",
+        "group": "play"
+    },
+    {
+        "victim": "Richard Harris Personal Injury Law Firm",
+        "domain": "richardharrislaw.com",
+        "country": "US",
+        "date": "2023-11-09",
+        "group": "play"
+    },
+    {
+        "victim": "CK Associates",
+        "domain": "c-ka.com",
+        "country": "US",
+        "date": "2023-10-17",
+        "group": "play"
+    },
+    {
+        "victim": "Alfagomma, Argus Fluidhandling Ltd",
+        "domain": "alfagomma.com",
+        "country": "US",
+        "date": "2023-07-07",
+        "group": "play"
+    }
+    {
         "victim": "fd-friedrich.com",
         "domain": "fd-friedrich.com",
         "country": "DE",
