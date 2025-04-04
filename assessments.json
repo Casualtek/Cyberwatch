@@ -1,5 +1,96 @@
 [
     {
+        "victim": "fd-friedrich.com",
+        "domain": "fd-friedrich.com",
+        "country": "DE",
+        "date": "2025-02-18",
+        "group": "safepay"
+    },
+    {
+        "victim": "norson",
+        "domain": "norson.com",
+        "country": "CA",
+        "date": "2025-03-01",
+        "group": "safepay"
+    },
+    {
+        "victim": "schuhbode.de",
+        "domain": "schuhbode.de",
+        "country": "DE",
+        "date": "2025-03-05",
+        "group": "safepay"
+    },
+    {
+        "victim": "comfort.de",
+        "domain": "comfort.de",
+        "country": "DE",
+        "date": "2025-02-25",
+        "group": "safepay"
+    },
+    {
+        "victim": "Maya Assurance Company",
+        "domain": "mayaassurance.com",
+        "country": "US",
+        "date": "2025-03-15",
+        "group": "safepay"
+    },
+    {
+        "victim": "children-ne.org.uk",
+        "domain": "children-ne.org.uk",
+        "country": "GB",
+        "date": "2025-02-28",
+        "group": "safepay"
+    },
+    {
+        "victim": "adolphelawgroup.com",
+        "domain": "adolphelawgroup.com",
+        "country": "US",
+        "date": "2025-03-15",
+        "group": "safepay"
+    },
+    {
+        "victim": "Prestige ER",
+        "domain": "prestigeer.com",
+        "country": "US",
+        "date": "2025-02-20",
+        "group": "safepay"
+    },
+    {
+        "victim": "wagner-transporte.com",
+        "domain": "wagner-transporte.com",
+        "country": "DE",
+        "date": "2025-03-11",
+        "group": "safepay"
+    },
+    {
+        "victim": "brightonaustralia.com.au",
+        "domain": "brightonaustralia.com.au",
+        "country": "AU",
+        "date": "2025-02-14",
+        "group": "safepay"
+    },
+    {
+        "victim": "system-toolsgmbh.de",
+        "domain": "system-toolsgmbh.de",
+        "country": "DE",
+        "date": "2025-02-16",
+        "group": "safepay"
+    },
+    {
+        "victim": "Estilo Interiors",
+        "domain": "estilointeriors.co.uk",
+        "country": "GB",
+        "date": "2025-02-19",
+        "group": "safepay"
+    },
+    {
+        "victim": "ultimateclasslimo.com",
+        "domain": "ultimateclasslimo.com",
+        "country": "US",
+        "date": "2025-02-07",
+        "group": "safepay"
+    },
+    {
         "victim": "Doumen",
         "domain": "doumen.fr",
         "country": "FR",
