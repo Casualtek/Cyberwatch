@@ -1,6 +1,16 @@
 [
     {
-        "date": "2023-03-01",
+        "date": "2025-03-21",
+        "victim": "LM Bram Controle",
+        "domain": "lmbram-controle.fr",
+        "country": "FRA",
+        "summary": "Une cyberattaque a effacé tous les rendez-vous du planning. La prise de rendez-vous en ligne est temporairement indisponible et doit se faire uniquement par téléphone. Les personnes ayant un rendez-vous sont invitées à contacter l’établissement pour le reprogrammer.",
+        "title": "Cyberattaque",
+        "url": "https://www.facebook.com/lmbramcontrole/posts/pfbid05rD7uN1k6g1MHEdzT1U5URgwF1taQYgiTD9g9ao1uu3m8qFrwq8EE1cvS7om8YwQl",
+        "added": "2025-04-04"
+    },
+    {
+        "date": "2025-03-01",
         "victim": "SRAM",
         "domain": "sram.com",
         "country": "USA",
