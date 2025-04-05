@@ -1,5 +1,15 @@
 [
     {
+        "date": "2025-03-22",
+        "victim": "Delcourt",
+        "domain": "groupedelcourt.com",
+        "country": "FRA",
+        "summary": "Delcourt, une maison d'édition, a été victime d'une cyberattaque par le groupe Hunters International, qui a pu exfiltrer des données personnelles sensibles avant de chiffrer les systèmes. Les données potentiellement exposées incluent des noms, dates de naissance, numéros de sécurité sociale, adresses et numéros de téléphone. Delcourt a lancé une enquête et avertit ses clients de la possibilité de tentatives d'hameçonnage ou d'usurpation d'identité.",
+        "title": "Cyberattaque chez Delcourt : des données personnelles potentiellement exposées",
+        "url": "https://actualitte.com/article/123036/technologie/cyberattaque-chez-delcourt-des-donnees-personnelles-potentiellement-exposees",
+        "added": "2025-04-05"
+    },
+    {
         "date": "2025-03-21",
         "victim": "LM Bram Controle",
         "domain": "lmbram-controle.fr",
