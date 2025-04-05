@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-06-10",
+        "victim": "Niles",
+        "domain": "vniles.com",
+        "country": "USA",
+        "summary": "La ville de Niles est entrée dans la troisième phase de sa réponse à une cyberattaque par ransomware survenue le 10 juin 2024, qui vise à renforcer ses systèmes pour éviter de nouvelles attaques et garantir une récupération rapide des données en cas d'incident. Cette phase, appelée \"resiliency\", devrait être achevée dans les 90 à 120 jours et coûtera 786 200 dollars. Les responsables de la ville ont choisi l'option qui leur permet de conserver le contrôle de leurs données et qui offre un temps de récupération de 12 à 72 heures.",
+        "title": "Niles Enters Phase 3 ‘Resiliency’ From Ransomware Cyberattack - Journal & Topics Media Group",
+        "url": "https://www.journal-topics.com/articles/niles-enters-phase-3-resiliency-from-ransomware-cyberattack/",
+        "added": "2025-04-05"
+    },
+    {
         "date": "2025-03-22",
         "victim": "Delcourt",
         "domain": "groupedelcourt.com",
