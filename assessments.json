@@ -1,5 +1,12 @@
 [
     {
+        "victim": "Canada Revenue Agency",
+        "domain": "zsb.ca",
+        "country": "CA",
+        "date": "2024-01-18",
+        "group": "play"
+    },
+    {
         "victim": "Anchorage Daily News",
         "domain": "adn.com",
         "country": "US",
