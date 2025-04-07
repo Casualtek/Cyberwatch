@@ -1,5 +1,12 @@
 [
     {
+        "victim": "OSSC Mexico",
+        "domain": "ossc.com.mx",
+        "country": "MX",
+        "date": "2025-01-19",
+        "group": "lockbit3"
+    },
+    {
         "victim": "Canada Revenue Agency",
         "domain": "zsb.ca",
         "country": "CA",
