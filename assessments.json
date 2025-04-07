@@ -1,5 +1,12 @@
 [
     {
+        "victim": "Flo Components",
+        "domain": "flocomponents.com",
+        "country": "CA",
+        "date": "2024-10-14",
+        "group": "qilin"
+    },
+    {
         "victim": "D.A. Lincoln",
         "domain": "dalincoln.com",
         "country": "US",
@@ -13117,7 +13124,7 @@
         "victim": "sunwave.com.cn",
         "domain": "sunwave.com.cn",
         "country": "CN",
-        "date": "2024-12-25",
+        "date": "2023-12-25",
         "group": "lockbit3"
     },
     {
