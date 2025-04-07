@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-10-15",
+        "victim": "Te Whatu Ora Health New Zealand",
+        "domain": "tewhatuora.govt.nz",
+        "country": "NZL",
+        "summary": "Te Whatu Ora, l'organisme de santé néo-zélandais, a révélé une violation de la sécurité de son système d'information dans la région centrale, où un hacker a accédé et téléchargé des informations sensibles sur le personnel et les patients en octobre dernier. Les données compromises incluent des évaluations médicales et des correspondances liées à la santé, couvrant les années 2020 et 2024. L'enquête est en cours, avec la participation de la Commission de la vie privée et de la police néo-zélandaise, qui prévoit déposer des charges criminelles contre le hacker suspecté.",
+        "title": "Te Whatu Ora reveals IT breach in Central region | Healthcare IT News",
+        "url": "https://www.healthcareitnews.com/news/anz/te-whatu-ora-reveals-it-breach-central-region",
+        "added": "2025-04-07"
+    },
+    {
         "date": "2024-11-17",
         "victim": "Laborers' International Union of North America Local 1184 (LiUNA)",
         "domain": "local1184.com",
