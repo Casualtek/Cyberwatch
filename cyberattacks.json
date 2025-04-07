@@ -1,5 +1,15 @@
 [
     {
+        "date": "2025-03-31",
+        "victim": "Centre hospitalier Stell",
+        "domain": "chd-stell.fr",
+        "country": "FRA",
+        "summary": "Le Centre hospitalier Stell à Rueil-Malmaison a été victime d'une cyberattaque massive le 31 mars, paralysant ses systèmes informatiques et forçant les équipes à revenir à des méthodes de travail analogiques. Les autorités sanitaires et les équipes techniques travaillent pour remettre en état les services, mais la qualité des soins est compromise en l'absence d'outils numériques. La cyberattaque a mis en évidence les faiblesses de la cybersécurité dans les établissements de santé français, qui sont devenus des cibles privilégiées pour les cybercriminels.",
+        "title": "ZATAZ \" Après la cyberattaque, l’hôpital Stell à Rueil-Malmaison s’organise et résiste",
+        "url": "https://www.zataz.com/apres-la-cyberattaque-lhopital-stell-sorganise-et-resiste/",
+        "added": "2025-04-07"
+    },
+    {
         "date": "2024-10-15",
         "victim": "Te Whatu Ora Health New Zealand",
         "domain": "tewhatuora.govt.nz",
