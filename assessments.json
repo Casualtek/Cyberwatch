@@ -1,5 +1,12 @@
 [
     {
+        "victim": "St Edmund's College",
+        "domain": "sec.qld.edu.au",
+        "country": "AU",
+        "date": "2024-10-22",
+        "group": "qilin"
+    },
+    {
         "victim": "Wertex Group",
         "domain": "wertex.com",
         "country": "US",
