@@ -1,5 +1,15 @@
 [
     {
+        "date": "2025-03-29",
+        "victim": "Hofmann Fördertechnik",
+        "domain": "hofmann-foerdertechnik.com",
+        "country": "DEU",
+        "summary": "La société allemande Hofmann Fördertechnik, spécialisée dans les systèmes de manutention, a été victime d'une cyberattaque fin mars, entraînant un arrêt complet de ses systèmes IT. Les pirates ont pu accéder aux serveurs de l'entreprise et ont volé environ 1,7 To de données, mais il n'est pas encore clair quel type de données a été compromis. L'entreprise a pris des mesures pour éviter d'autres attaques et travaille à restaurer la sécurité de ses systèmes.",
+        "title": "Hackerangriff auf Hofmann Fördertechnik | CSO Online",
+        "url": "https://www.csoonline.com/article/3955838/hackerangriff-auf-hofmann-fordertechnik.html",
+        "added": "2025-04-07"
+    },
+    {
         "date": "2025-03-31",
         "victim": "Centre hospitalier Stell",
         "domain": "chd-stell.fr",
