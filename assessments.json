@@ -1,8 +1,15 @@
 [
     {
+        "victim": "BAUCENTER",
+        "domain": "baucenter.it",
+        "country": "IT",
+        "date": "2024-08-24",
+        "group": "qilin"
+    },
+    {
         "victim": "HEWS Company",
         "domain": "hewsco.com",
-        "country": "IT",
+        "country": "US",
         "date": "2024-12-22",
         "group": "qilin"
     },
