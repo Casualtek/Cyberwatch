@@ -1,5 +1,12 @@
 [
     {
+        "victim": "HEWS Company",
+        "domain": "hewsco.com",
+        "country": "IT",
+        "date": "2024-12-22",
+        "group": "qilin"
+    },
+    {
         "victim": "St Edmund's College",
         "domain": "sec.qld.edu.au",
         "country": "AU",
