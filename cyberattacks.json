@@ -1,5 +1,15 @@
 [
     {
+        "date": "2025-04-06",
+        "victim": "Toppan Next Tech (TNT)",
+        "domain": "toppannext.com",
+        "country": "SGP",
+        "summary": "Une cyberattaque par logiciel de rançon a frappé l'imprimeur Toppan Next Tech, exposant les informations de clients de la banque DBS et de la banque de Chine à Singapour. Environ 8 200 clients ont été affectés, avec des informations de factures et de lettres qui ont pu être compromises. Cependant, les informations de connexion, les mots de passe et les données sensibles des clients n'ont pas été touchées.",
+        "title": "印刷商遭勒索软件攻击 本地星展银行与中国银行客户资料外泄 | 联合早报",
+        "url": "https://www.zaobao.com.sg/realtime/singapore/story20250407-6133253",
+        "added": "2025-04-07"
+    },
+    {
         "date": "2025-03-29",
         "victim": "Hofmann Fördertechnik",
         "domain": "hofmann-foerdertechnik.com",
