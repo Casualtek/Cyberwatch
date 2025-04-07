@@ -1,5 +1,15 @@
 [
     {
+        "date": "2025-03-26",
+        "victim": "Bosshard-Farben",
+        "domain": "bosshard-farben.ch",
+        "country": "CHE",
+        "summary": "L'entreprise suisse Bosshard-Farben a été victime d'une cyberattaque le 26 mars, lors de laquelle des accès à des serveurs et des données ont été chiffrés. Les auteurs de l'attaque, identifiés comme la bande de ransomware Cloak, ont publié des documents volés sur le darknet après que l'entreprise a refusé de payer la rançon. Bosshard-Farben a informé les autorités compétentes et a repris ses activités sur une nouvelle plateforme le 1er avril.",
+        "title": "Cyberangriff trifft Bosshard-Farben",
+        "url": "https://www.inside-it.ch/cyberangriff-trifft-bosshard-farben-20250403",
+        "added": "2025-04-07"
+    },
+    {
         "date": "2025-04-06",
         "victim": "Toppan Next Tech (TNT)",
         "domain": "toppannext.com",
