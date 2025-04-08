@@ -1,5 +1,12 @@
 [
     {
+        "victim": "JKC Australia LNG",
+        "domain": "jkc-lng.com",
+        "country": "AU",
+        "date": "2025-01-08",
+        "group": "qilin"
+    },
+    {
         "victim": "Canderel Management",
         "domain": "canderel.com",
         "country": "CA",
