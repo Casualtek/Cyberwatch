@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-12-02",
+        "victim": "Medway Community Healthcare (MCH)",
+        "domain": "medwaycommunityhealthcare.nhs.uk",
+        "country": "GBR",
+        "summary": "Le fournisseur de soins de santé Medway Community Healthcare (MCH) a été victime d'une cyberattaque en décembre 2024, mais a réussi à empêcher les hackers d'accéder à des données sensibles. Cependant, l'attaque a entraîné des perturbations importantes des services, notamment pour les patients qui devaient subir des tests à domicile pour des problèmes cardiaques. Cinq mois plus tard, la plupart des problèmes ont été résolus, mais quelques retards persistent, notamment pour la numérisation de documents papier et les moniteurs cardiaques à domicile.",
+        "title": "Kent healthcare provider which suffered cyber attack says most issues now resolved - Kent Live",
+        "url": "https://www.kentlive.news/news/kent-news/kent-healthcare-provider-suffered-cyber-10088567",
+        "added": "2025-04-08"
+    },
+    {
         "date": "2025-04-05",
         "victim": "Optimax Technology",
         "domain": "optimax.com.tw",
