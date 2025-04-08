@@ -1,5 +1,15 @@
 [
     {
+        "date": "2025-04-05",
+        "victim": "Optimax Technology",
+        "domain": "optimax.com.tw",
+        "country": "TWN",
+        "summary": "Une cyberattaque a frappé la société le 7 avril 2025, mais les mécanismes de défense ont été activés pour minimiser les risques. Aucune fuite de données personnelles ou internes n'a été détectée et les opérations de l'entreprise n'ont pas été significativement impactées. La société continue d'améliorer la sécurité de son réseau et de son infrastructure d'information pour prévenir de futures attaques. L'attaque a été revendiquée le 5 avril sous la bannière de Qilin par \"Devman\".",
+        "title": "Today's Information",
+        "url": "https://emops.twse.com.tw/server-java/t05sr01_1_e?&isNew=Y&seq_no=1&spoke_time=153314&spoke_date=20250407&co_id=3051",
+        "added": "2025-04-08"
+    },
+    {
         "date": "2025-03-26",
         "victim": "Bosshard-Farben",
         "domain": "bosshard-farben.ch",
