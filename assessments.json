@@ -1,5 +1,12 @@
 [
     {
+        "victim": "Averasia",
+        "domain": "averasia.com",
+        "country": "SG",
+        "date": "2025-02-14",
+        "group": "qilin"
+    },
+    {
         "victim": "Komec",
         "domain": "komec.be",
         "country": "BE",
