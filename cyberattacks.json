@@ -1,5 +1,15 @@
 [
     {
+        "date": "2025-04-02",
+        "victim": "Bureau du défenseur public fédéral de l'Arizona",
+        "domain": "az.fd.org",
+        "country": "USA",
+        "summary": "Une cyberattaque par ransomware a frappé le bureau du défenseur public fédéral de l'Arizona, entraînant la perte d'accès aux fichiers de l'affaire de Ralph Menzies, condamné à mort. La défense a demandé et obtenu un délai pour déposer un mémoire sur la compétence mentale de Menzies, initialement prévu pour le 18 avril. L'audience a été reportée au 7 mai en raison de la cyberattaque.",
+        "title": "Cyberattack delays death row inmate's competency briefing",
+        "url": "https://kjzz.com/news/local/cyberattack-delays-death-row-inmates-competency-briefing",
+        "added": "2025-04-09"
+    },
+    {
         "date": "2025-03-29",
         "victim": "MRC de Maskinongé",
         "domain": "mrcmaskinonge.ca",
