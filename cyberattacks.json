@@ -1,5 +1,15 @@
 [
     {
+        "date": "2025-03-29",
+        "victim": "MRC de Maskinongé",
+        "domain": "mrcmaskinonge.ca",
+        "country": "CAN",
+        "summary": "La MRC de Maskinongé a été victime d'une cyberattaque qui a paralysé son système informatique, affectant les municipalités de Saint-Justin, Saint-Léon-le-Grand et Saint-Sévère. Les données des municipalités sont stockées sur les serveurs centraux de la MRC et aucune donnée n'a été perdue, mais les systèmes informatiques sont toujours hors ligne. Une enquête est en cours pour déterminer les causes de l'attaque et la Sûreté du Québec est impliquée dans l'enquête.",
+        "title": "Cyberattaque: Saint-Justin reporte sa séance du conseil",
+        "url": "https://www.lenouvelliste.ca/actualites/actualites-locales/2025/04/08/cyberattaque-saint-justin-reporte-sa-seance-du-conseil-7LEI7F6MP5DL7EIZ7XK5PTULLU/",
+        "added": "2025-04-09"
+    },
+    {
         "date": "2025-04-06",
         "victim": "Fall River Public Schools",
         "domain": "fallriverschools.org",
