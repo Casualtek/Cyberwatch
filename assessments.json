@@ -1,5 +1,12 @@
 [
     {
+        "victim": "Cell C",
+        "domain": "cellc.co.za",
+        "country": "ZA",
+        "date": "2024-11-04",
+        "group": "ransomhouse"
+    },
+    {
         "victim": "Lifebreath",
         "domain": "lifebreath.com",
         "country": "CA",
