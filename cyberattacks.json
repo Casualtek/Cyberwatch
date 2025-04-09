@@ -1,5 +1,15 @@
 [
     {
+        "date": "2025-04-06",
+        "victim": "Fall River Public Schools",
+        "domain": "fallriverschools.org",
+        "country": "USA",
+        "summary": "Le district scolaire de Fall River, dans le Massachusetts, a été victime d'une cyberattaque qui a permis à un tiers non autorisé d'accéder à certaines parties de son réseau interne. Les enquêteurs n'ont pas trouvé de preuve que des données personnelles d'élèves ou de membres du personnel aient été consultées ou compromises, mais une enquête approfondie est en cours. Le district a déjà commencé à renforcer sa sécurité pour éviter de nouvelles attaques.",
+        "title": "Fall River Public Schools, Mass., Hit by Cyber Attack",
+        "url": "https://www.govtech.com/education/k-12/fall-river-public-schools-mass-hit-by-cyber-attack",
+        "added": "2025-04-09"
+    },
+    {
         "date": "2024-12-02",
         "victim": "Medway Community Healthcare (MCH)",
         "domain": "medwaycommunityhealthcare.nhs.uk",
