@@ -1,5 +1,15 @@
 [
     {
+        "date": "2025-04-09",
+        "victim": "SIAPA (Sistema Intermunicipal de los Servicios de Agua Potable y Alcantarillado)",
+        "domain": "siapa.gob.mx",
+        "country": "MEX",
+        "summary": "Le système intermunicipal des services d'eau potable et d'assainissement (SIAPA) a été victime d'une cyberattaque qui a paralysé ses services administratifs, obligeant l'organisme à activer ses protocoles de sécurité et à signaler l'incident à la Fiscalía del Estado. Pendant la résolution de la situation, les citoyens sont invités à effectuer leurs paiements dans des magasins de conveniencia et des succursales bancaires. L'enquête est en cours pour identifier les responsables de l'attaque.",
+        "title": "Ataque cibernético paraliza servicios administrativos del SIAPA - Tráfico ZMG",
+        "url": "https://traficozmg.com/2025/04/ataque-cibernetico-paraliza-servicios-administrativos-del-siapa/",
+        "added": "2025-04-10"
+    },
+    {
         "date": "2025-03-25",
         "victim": "Comté de Gooding",
         "domain": "goodingcounty.org",
