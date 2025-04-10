@@ -1,5 +1,12 @@
 [
     {
+        "victim": "Galvatech",
+        "domain": "galvatech.com.au",
+        "country": "AU",
+        "date": "2025-01-12",
+        "group": "qilin"
+    },
+    {
         "victim": "North Platte Natural Resources District",
         "domain": "npnrd.org",
         "country": "US",
