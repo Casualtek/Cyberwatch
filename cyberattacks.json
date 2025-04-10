@@ -1,5 +1,15 @@
 [
     {
+        "date": "2025-03-17",
+        "victim": "Smyk",
+        "domain": "smyk.com",
+        "country": "POL",
+        "summary": "La chaîne de magasins polonaise Smyk a confirmé une violation de données suite à une attaque par ransomware sur ses systèmes informatiques, affectant des employés, des contractants et des clients. L'incident a entraîné le vol de données sensibles, notamment des informations personnelles et des fichiers liés à la production de vêtements. Smyk a pris des mesures pour limiter l'impact de la violation et a notifié les autorités compétentes, soulignant l'importance de la cybersécurité dans le secteur du commerce électronique.",
+        "title": "Smyk Confirms Data Breach Following Ransomware Attack - The Pinnacle Gazette",
+        "url": "https://evrimagaci.org/tpg/smyk-confirms-data-breach-following-ransomware-attack-317538",
+        "added": "2025-04-10"
+    },
+    {
         "date": "2025-04-07",
         "victim": "Sensata Technologies",
         "domain": "sensata.com",
