@@ -1,5 +1,15 @@
 [
     {
+        "date": "2025-04-07",
+        "victim": "Sensata Technologies",
+        "domain": "sensata.com",
+        "country": "USA",
+        "summary": "La société Sensata Technologies, un fabricant de technologies industrielles basé au Massachusetts, a été victime d'une attaque par ransomware qui a perturbé ses systèmes et a forcé la mise hors ligne de son réseau. L'incident, qui a commencé dimanche, a temporairement impacté les opérations de l'entreprise, notamment la production et la livraison. Les experts en cybersécurité aident à la récupération et tentent d'identifier les fichiers volés pour notifier les personnes concernées.",
+        "title": "Industrial tech manufacturer Sensata says ransomware attack is impacting production | The Record from Recorded Future News",
+        "url": "https://therecord.media/sensata-technologies-ransomware-attack",
+        "added": "2025-04-10"
+    },
+    {
         "date": "2025-03-21",
         "victim": "LaTouche Pediatrics",
         "domain": "latouchepediatrics.com",
