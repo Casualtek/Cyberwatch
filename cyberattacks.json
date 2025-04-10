@@ -1,5 +1,15 @@
 [
     {
+        "date": "2025-04-10",
+        "victim": "Oregon Department of Environmental Quality (DEQ)",
+        "domain": "deq.state.or.us",
+        "country": "USA",
+        "summary": "Le département de la qualité de l'environnement de l'Oregon (DEQ) a été victime d'une cyberattaque mercredi, ce qui a entraîné la fermeture de ses systèmes informatiques jusqu'à la fin de la semaine. Les stations d'inspection des véhicules seront fermées jusqu'à vendredi, mais le système de gestion des données environnementales en ligne n'a pas été touché. L'enquête est en cours pour déterminer l'origine et les motivations de l'attaque, qui ne semble pas être une attaque de rançon pour l'instant.",
+        "title": "Cyberattack shuts down Oregon DEQ systems, testing through Friday, agency says",
+        "url": "https://www.kptv.com/2025/04/10/cyberattack-shuts-down-oregon-deq-systems-testing-through-friday-agency-says/",
+        "added": "2025-04-10"
+    },
+    {
         "date": "2025-03-17",
         "victim": "Smyk",
         "domain": "smyk.com",
