@@ -1,5 +1,15 @@
 [
     {
+        "date": "2025-03-25",
+        "victim": "Comté de Gooding",
+        "domain": "goodingcounty.org",
+        "country": "USA",
+        "summary": "Le 25 mars 2025, le comté de Gooding (Idaho) a détecté une attaque par ransomware affectant son réseau informatique, et a immédiatement lancé une enquête avec l'aide d'experts en cybersécurité et de ses conseillers juridiques. Le 4 avril, l’enquête a révélé une probable acquisition non autorisée de données personnelles, incitant le comté à préparer des notifications aux personnes concernées ainsi qu’une offre de surveillance de crédit gratuite. L’incident a été signalé aux autorités fédérales et au responsable de la sécurité de l'information de l’État, et l’enquête se poursuit. (via eCrime.ch)",
+        "title": "Notice of Data Security Incident",
+        "url": "https://www.ag.idaho.gov/content/uploads/2025/04/Gooding-Co-ID-AG-Notice120552382.pdf",
+        "added": "2025-04-10"
+    },
+    {
         "date": "2025-01-16",
         "victim": "Pulaski Co. Clerk’s Office",
         "domain": "pulaski.kycountyclerk.us",
