@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-10-14",
+        "victim": "Groupe Althays",
+        "domain": "groupe-althays.com",
+        "country": "FRA",
+        "summary": "En octobre 2024, le Groupe Althays a été victime d’une cyberattaque par ransomware, déclenchant immédiatement l’activation d’une cellule de crise avec le soutien de Stoïk. L’entreprise a mené une communication transparente, sécurisé ses infrastructures, restauré les systèmes client par client, et refusé de payer la rançon. Malgré des protections en place, l’attaque a touché 50 clients et a nécessité jusqu’à quatre semaines pour un retour à la normale.",
+        "title": "La cyberattaque du Groupe Althays - Octobre 2024",
+        "url": "https://www.youtube.com/watch?v=kKCuMfUPtY8",
+        "added": "2025-04-10"
+    },
+    {
         "date": "2025-04-02",
         "victim": "Bureau du défenseur public fédéral de l'Arizona",
         "domain": "az.fd.org",
