@@ -1,5 +1,15 @@
 [
     {
+        "date": "2025-03-19",
+        "victim": "Charles Jones Industrial Limited",
+        "domain": "charlesjones.ca",
+        "country": "CAN",
+        "summary": "Bien qu'aucune attaque contre Charles Jones Industrial n'ait encore été revendiquée, des données attribuées à cette entreprise sont présentes sur les serveurs FTP de divulgation de données de l'enseigne de rançongiciel Qilin. Divers éléments figurant dans les noms de fichiers confortent l'attributuon. Les dates figurant dans les noms des fichiers suggèrent que l'exfiltration de données s'est achevée autour du 18 mars 2025.",
+        "title": "From Qilin Leaks",
+        "url": "",
+        "added": "2025-04-10"
+    },
+    {
         "date": "2025-04-09",
         "victim": "SIAPA (Sistema Intermunicipal de los Servicios de Agua Potable y Alcantarillado)",
         "domain": "siapa.gob.mx",
