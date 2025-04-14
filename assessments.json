@@ -1,5 +1,12 @@
 [
     {
+        "victim": "Finetech GmbH & Co. KG",
+        "domain": "finetech.de",
+        "country": "DE",
+        "date": "2025-03-09",
+        "group": "incransom"
+    },
+    {
         "victim": "Silocaf of New Orleans, Inc.",
         "domain": "silocaf.com",
         "country": "US",
