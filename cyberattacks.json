@@ -1,5 +1,15 @@
 [
     {
+        "date": "2025-04-12",
+        "victim": "DaVita Inc.",
+        "domain": "davita.com",
+        "country": "USA",
+        "summary": "La société DaVita Inc. a été victime d'une cyberattaque par ransomware le 12 avril 2025, qui a encrypté certaines parties de son réseau. L'entreprise a activé ses protocoles de réponse et a isolé les systèmes touchés, mais l'incident affecte certaines de ses opérations. L'enquête est en cours et l'impact final de l'incident sur l'entreprise n'est pas encore connu.",
+        "title": "Form 8-K",
+        "url": "https://www.sec.gov/Archives/edgar/data/927066/000119312525079593/d948299d8k.htm",
+        "added": "2025-04-14"
+    },
+    {
         "date": "2025-02-24",
         "victim": "Brunswick Medical Center",
         "domain": "cmbmed.com",
