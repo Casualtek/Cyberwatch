@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-10-27",
+        "victim": "Laboratory Services Cooperative (LSC)",
+        "domain": "contractlaboratory.com",
+        "country": "USA",
+        "summary": "La Laboratory Services Cooperative (LSC), un fournisseur de services de laboratoire pour certains centres de Planned Parenthood, a déclaré une violation de données affectant environ 1,6 million de personnes. Les informations volées incluent des données médicales et personnelles, notamment des numéros de sécurité sociale, des détails de cartes de crédit et des informations d'assurance santé. LSC a engagé des entreprises de cybersécurité pour surveiller le dark web pour détecter si les informations volées sont mises en ligne.",
+        "title": "Lab provider for Planned Parenthood discloses breach affecting 1.6 million people | The Record from Recorded Future News",
+        "url": "https://therecord.media/lab-provider-planned-parenthood-breach",
+        "added": "2025-04-14"
+    },
+    {
         "date": "2025-03-15",
         "victim": "Cherokee County School District",
         "domain": "cherokee1.org",
