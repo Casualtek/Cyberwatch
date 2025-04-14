@@ -1,5 +1,15 @@
 [
     {
+        "date": "2025-02-24",
+        "victim": "Brunswick Medical Center",
+        "domain": "cmbmed.com",
+        "country": "CAN",
+        "summary": "Le centre médical Brunswick de Pointe-Claire a été victime d'une cyberattaque ciblant ses systèmes d'information, entraînant la fuite de données de patients. L'attaque a visé les systèmes d'information du centre médical, mais les détails sur la nature et l'ampleur de la fuite de données ne sont pas encore connus. Le centre médical a informé les patients concernés et a pris des mesures pour renforcer la sécurité de ses systèmes.",
+        "title": "Patient data leaked from cyberattack on Pointe-Claire clinic | Montreal Gazette",
+        "url": "https://www.montrealgazette.com/news/article871867.html",
+        "added": "2025-04-14"
+    },
+    {
         "date": "2024-10-27",
         "victim": "Laboratory Services Cooperative (LSC)",
         "domain": "contractlaboratory.com",
