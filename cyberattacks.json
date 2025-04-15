@@ -1,5 +1,15 @@
 [
     {
+        "date": "2025-03-31",
+        "victim": "Whiteboard Technologies Pvt Ltd",
+        "domain": "whiteboardtec.com",
+        "country": "IND",
+        "summary": "Une entreprise de Bengaluru, Whiteboard Technologies Pvt Ltd, a été victime d'une attaque par ransomware, les hackers demandant 60,26 lakhs de roupies (environ 70 000 dollars) pour déverrouiller les données. Les hackers ont encrypté les fichiers de l'entreprise et menacent de divulguer les informations sensibles des clients si leur demande n'est pas satisfaite. La police de Bengaluru a ouvert une enquête et a alerté l'équipe d'urgence informatique indienne (CERT-In) pour tenter de décrypter les données.",
+        "title": "Ransomware Attack on Bengaluru Firm: Hackers Demand Rs 60 Lakh for Data Release",
+        "url": "https://www.deccanherald.com/india/karnataka/bengaluru/ransomware-attack-on-bengaluru-firm-hackers-demand-up-to-rs-60-lakh-3493792",
+        "added": "2025-04-15"
+    },
+    {
         "date": "2025-04-12",
         "victim": "DaVita Inc.",
         "domain": "davita.com",
