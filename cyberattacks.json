@@ -1,5 +1,15 @@
 [
     {
+        "date": "2025-03-30",
+        "victim": "Gestopark S.r.l.",
+        "domain": "gestopark.it",
+        "country": "ITA",
+        "summary": "La société Gestopark S.r.l., chargée de la gestion des parkings à Sarzana, a été victime d'une cyberattaque dans la nuit du 29 au 30 mars 2025, rendant temporairement inaccessible l'application de paiement de la sosta. L'attaque a pu entraîner la fuite de données personnelles des utilisateurs, telles que des informations anagrafiques et de contact. La société a activé des procédures de sécurité et a pris des mesures pour renforcer ses systèmes informatiques et prévenir de futurs attaques.",
+        "title": "C'è stato un attacco informatico alla società che gestisce i parcheggi a Sarzana - Eco della Lunigiana",
+        "url": "https://ecodellalunigiana.it/ce-stato-un-attacco-informatico-alla-societa-che-gestisce-i-parcheggi-a-sarzana/",
+        "added": "2025-04-15"
+    },
+    {
         "date": "2025-04-14",
         "victim": "Administration communale de Jemeppe-sur-Sambre",
         "domain": "jemeppe-sur-sambre.be",
