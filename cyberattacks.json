@@ -1,5 +1,15 @@
 [
     {
+        "date": "2025-03-11",
+        "victim": "Uncle Henry's",
+        "domain": "unclehenrys.com",
+        "country": "USA",
+        "summary": "Le site de petites annonces Uncle Henry's a été victime d'une attaque de ransomware qui a supprimé sa base de données électronique, forçant le site à fermer pendant quatre semaines. Les hackers étrangers ont demandé une rançon en Bitcoin, mais la société a refusé de payer après avoir découvert que les données n'avaient pas été réellement volées. Le site est maintenant de retour en ligne, avec de nouvelles mesures de sécurité mises en place pour protéger les données des utilisateurs.",
+        "title": "Uncle Henry’s back online following ransomware attack",
+        "url": "https://www.pressherald.com/2025/04/15/uncle-henrys-back-online-following-ransomware-attack/",
+        "added": "2025-04-16"
+    },
+    {
         "date": "2025-04-15",
         "victim": "Rhône FM",
         "domain": "rhonefm.ch",
