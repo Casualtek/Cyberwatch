@@ -1,5 +1,15 @@
 [
     {
+        "date": "2025-04-15",
+        "victim": "Rhône FM",
+        "domain": "rhonefm.ch",
+        "country": "CHE",
+        "summary": "La radio valaisanne Rhône FM a été victime d'une cyberattaque, où des hackers ont crypté les serveurs de diffusion des programmes et exigent une rançon en échange de la récupération des données touchées. La radio a pu émettre en mode allégé mardi matin et espère récupérer la totalité de ses fonctions ce mercredi après-midi. Il est possible que des fichiers aient été téléchargés par les hackers, mais les données sensibles liées à la clientèle sont protégées.",
+        "title": "Rançon exigée: La radio valaisanne Rhône FM a subi une cyberattaque | blue News",
+        "url": "https://www.bluewin.ch/fr/infos/faits-divers/la-radio-valaisanne-rhone-fm-a-subi-une-cyberattaque-2655518.html",
+        "added": "2025-04-16"
+    },
+    {
         "date": "2025-03-30",
         "victim": "Gestopark S.r.l.",
         "domain": "gestopark.it",
