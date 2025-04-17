@@ -1,5 +1,12 @@
 [
     {
+        "victim": "Niemann Möbelteile",
+        "domain": "niemann.de",
+        "country": "DE",
+        "date": "2025-04-07",
+        "group": "safepay"
+    },
+    {
         "victim": "REPROHAUS Corp",
         "domain": "reprohaus.com",
         "country": "US",
