@@ -1,5 +1,15 @@
 [
     {
+        "date": "2025-04-17",
+        "victim": "Service public de Wallonie",
+        "domain": "spw.wallonie.be",
+        "country": "BEL",
+        "summary": "Le Service public de Wallonie a détecté une intrusion d’ampleur dans son système informatique, les conséquences vont être majeures. Le comité stratégique du SPW a pris la décision de couper provisoirement toute connexion internet afin d’évaluer le niveau de compromission du parc informatique et d’entreprendre des mesures de sécurisation. Une cellule de crise a été mise en place afin de lister les urgences.",
+        "title": "Attaque informatique d’ampleur en cours dans le système informatique du Service public de Wallonie : \" Les conséquences vont être majeures \"",
+        "url": "https://www.sudinfo.be/id985540/article/2025-04-17/attaque-informatique-dampleur-en-cours-dans-le-systeme-informatique-du-service",
+        "added": "2025-04-17"
+    },
+    {
         "date": "2025-04-03",
         "victim": "Manchester Credit Union",
         "domain": "manchestercreditunion.co.uk",
