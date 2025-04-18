@@ -1,6 +1,16 @@
 [
     {
         "date": "2025-04-17",
+        "victim": "Limestone District School Board",
+        "domain": "limestone.on.ca",
+        "country": "CAN",
+        "summary": "Le Limestone District School Board a subi une atteinte à la sécurité informatique, ce qui a entraîné une interruption de son réseau et l'obligation pour les écoles de fonctionner hors ligne jusqu'à ce que l'accès au réseau puisse être rétabli en toute sécurité. Les écoles restent ouvertes et les cours se poursuivent normalement, mais les communications se font uniquement par téléphone. La police a été contactée et des experts en cybersécurité travaillent pour évaluer l'impact et rétablir les services.",
+        "title": "LDSB schools operating offline due to a cyber incident - Kingston News",
+        "url": "https://www.kingstonist.com/news/ldsb-schools-operating-offline-due-to-a-cyber-incident/",
+        "added": "2025-04-18"
+    },
+    {
+        "date": "2025-04-17",
         "victim": "Service public de Wallonie",
         "domain": "spw.wallonie.be",
         "country": "BEL",
