@@ -30,11 +30,11 @@ def ask_chatgpt(news_count, most_hit_country, countries):
 
     print(f'Obtaining introduction.')
     completion = openai.chat.completions.create(
-        model='gpt-4o',
+        model='gpt-4.1',
         messages=messages,
-        max_tokens=180,
+        max_tokens=300,
         n=1,
-        temperature=0.2,
+        temperature=0.1,
     )
     summary = completion.choices[0].message.content
     print(summary)
