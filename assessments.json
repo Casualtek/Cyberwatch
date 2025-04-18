@@ -1,5 +1,12 @@
 [
     {
+        "victim": "Tedom",
+        "domain": "tedom.com",
+        "country": "CZ",
+        "date": "2025-01-11",
+        "group": "hunters"
+    },
+    {
         "victim": "Sirius S.R.L.",
         "domain": "sirius.to.it",
         "country": "IT",
