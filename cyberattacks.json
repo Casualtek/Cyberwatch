@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-07-11",
+        "victim": "Nationwide Recovery Service",
+        "domain": "nrsagency.com",
+        "country": "USA",
+        "summary": "Vitruvian Health et Erlanger Health ont été touchés par une cyberattaque visant le service de recouvrement de dettes Nationwide Recovery Service, entraînant la fuite de données sensibles de 88 848 patients. Les informations compromises incluent des noms, des adresses, des numéros de sécurité sociale, des dates de naissance, des informations financières et des données médicales. Les personnes touchées ont été proposées des services de surveillance de crédit et de protection contre le vol d'identité gratuits.",
+        "title": "Vitruvian Health & Erlanger Health Affected by Nationwide Recovery Service Cyberattack",
+        "url": "https://www.hipaajournal.com/vitruvian-health-erlanger-health-business-associate-breach/",
+        "added": "2025-04-19"
+    },
+    {
         "date": "2024-04-10",
         "victim": "Gasconade County R-2",
         "domain": "dutchmen.us",
