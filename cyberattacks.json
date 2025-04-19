@@ -1,6 +1,26 @@
 [
     {
         "date": "2025-04-17",
+        "victim": "Tokai University",
+        "domain": "u-tokai.ac.jp",
+        "country": "JPN",
+        "summary": "Tokai University a subi une attaque informatique importante qui a rendu de nombreux systèmes inutilisables, ce qui a conduit à une enquête de la police. L'attaque a été détectée le 17 avril 2025 et a affecté plusieurs campus à travers le Japon. Les autorités travaillent pour identifier les auteurs et rétablir les systèmes.",
+        "title": "Tokai University Cyberattack Sparks Investigation By Police - The Pinnacle Gazette",
+        "url": "https://evrimagaci.org/tpg/tokai-university-cyberattack-sparks-investigation-by-police-329604",
+        "added": "2025-04-19"
+    },
+    {
+        "date": "2025-02-03", 
+        "victim": "Nuna Baby Essentials, Inc.", 
+        "domain": "nunababy.com", 
+        "country": "USA", 
+        "summary": "Nuna Baby Essentials, Inc. a subi une violation de données qui a compromis les informations personnelles sensibles de milliers d'individus. La violation de données a été découverte le 3 février 2025 et a entraîné des préoccupations quant à la sécurité des informations personnelles sensibles confiées à Nuna. Une enquête a été lancée pour déterminer la nature et la portée de l'incident.", 
+        "title": "Nuna Baby Essentials, Inc. Data Breach - Levi & Korsinsky, LLP Launches Investigation", 
+        "url": "https://www.accessnewswire.com/newsroom/en/business-and-professional-services/nuna-baby-essentials-inc-data-breach-levi-and-korsinsky-llp-laun-995651", 
+        "added": "2025-04-19"
+    },
+    {
+        "date": "2025-04-17",
         "victim": "Centre hospitalier de Pézenas",
         "domain": "hopital-pezenas.fr",
         "country": "FRA",
