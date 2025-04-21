@@ -1,5 +1,15 @@
 [
     {
+        "date": "2025-04-20",
+        "victim": "City of Abilene",
+        "domain": "abilenetx.gov",
+        "country": "USA",
+        "summary": "La ville d'Abilene au Texas a subi une attaque informatique qui a mis hors ligne certains services en ligne. Les services d'urgence fonctionnent toujours et aucune activité financière suspecte n'a été détectée. L'enquête sur l'attaque est toujours en cours.",
+        "title": "City of Abilene suffers cyber attack",
+        "url": "https://ktxs.com/news/local/city-of-abilene-suffers-cyber-attack",
+        "added": "2025-04-21"
+    },
+    {
         "date": "2025-04-18",
         "victim": "Groupe INDIGO",
         "domain": "indigo.com",
