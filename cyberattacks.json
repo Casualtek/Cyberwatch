@@ -1,5 +1,15 @@
 [
     {
+        "date": "2023-09-23",
+        "victim": "Hospital Español Auxilio Mutuo de Puerto Rico, Inc.",
+        "domain": "auxiliomutuo.com",
+        "country": "PRI",
+        "summary": "Hospital Español Auxilio Mutuo de Puerto Rico, Inc. a signalé une faille de sécurité dans ses systèmes, ce qui pourrait avoir entraîné l'accès non autorisé à des informations personnelles et de santé. L'hôpital prend des mesures pour renforcer la sécurité de ses systèmes et offre des services de surveillance de crédit gratuits aux personnes touchées. Les patients sont invités à rester vigilants et à surveiller leurs comptes et rapports de crédit pour détecter toute activité suspecte.",
+        "title": "Notificación Sobre Potencial Brecha de Datos",
+        "url": "https://www.auxiliomutuo.com/notificacion-sobre-potencial-brecha-de-datos/",
+        "added": "2025-04-22"
+    },
+    {
         "date": "2025-02-13",
         "victim": "Baltimore City Public Schools",
         "domain": "baltimorecityschools.org",
