@@ -1,6 +1,16 @@
 [
     {
         "date": "2025-04-20",
+        "victim": "Marks & Spencer",
+        "domain": "marksandspencer.com",
+        "country": "GBR",
+        "summary": "Le groupe britannique de distribution Marks & Spencer a annoncé avoir subi une attaque informatique, mais ses magasins et son site web fonctionnent toujours. L'entreprise a pris des mesures temporaires pour sécuriser son réseau et maintenir ses services. Les détails de l'incident ne sont pas encore connus.",
+        "title": "CYBER INCIDENT UPDATE",
+        "url": "https://www.londonstockexchange.com/news-article/MKS/cyber-incident-update/16999905",
+        "added": "2025-04-22"
+    },
+    {
+        "date": "2025-04-20",
         "victim": "City of Abilene",
         "domain": "abilenetx.gov",
         "country": "USA",
