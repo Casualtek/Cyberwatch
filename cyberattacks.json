@@ -1,5 +1,15 @@
 [
     {
+        "date": "2025-04-19",
+        "victim": "SK Telecom",
+        "domain": "sktelecom.com",
+        "country": "KOR",
+        "summary": "SK텔레콤 a découvert une fuite de données liée à des informations sur les cartes SIM de ses clients en raison d'un code malveillant, mais n'a pas encore détecté d'utilisation abusive de ces informations. L'entreprise a pris des mesures pour renforcer la sécurité et propose un service de protection des cartes SIM gratuite à ses clients. SK Telecom s'excuse pour les inconvénients causés et s'engage à renforcer ses mesures de sécurité pour prévenir de telles incidents à l'avenir.",
+        "title": "SK텔레콤에서 알려드립니다 - SK텔레콤 뉴스룸",
+        "url": "https://news.sktelecom.com/211423",
+        "added": "2025-04-23"
+    },
+    {
         "date": "2024-12-17",
         "victim": "Kelly Benefits",
         "domain": "kellybenefits.com",
