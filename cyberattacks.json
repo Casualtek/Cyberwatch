@@ -1,5 +1,15 @@
 [
     {
+        "date": "2025-01-22",
+        "victim": "Alabama Ophthalmology Associates",
+        "domain": "aoapc.com",
+        "country": "USA",
+        "summary": "Alabama Ophthalmology Associates a subi une faille de sécurité des données qui a touché des informations personnelles et de santé protégées de certains patients actuels et anciens. L'incident a été découvert le 30 janvier 2025 et la société a pris des mesures pour sécuriser son réseau et informer les personnes potentiellement touchées. Les informations potentiellement touchées incluent des noms, adresses, dates de naissance, numéros de permis de conduire, numéros de sécurité sociale, informations médicales et informations d'assurance maladie.",
+        "title": "Alabama Ophthalmology Associates Provides Notice Following Data Security Incident",
+        "url": "https://www.prnewswire.com/news-releases/alabama-ophthalmology-associates-provides-notice-following-data-security-incident-302426090.html",
+        "added": "2025-04-23"
+    },
+    {
         "date": "2025-02-13",
         "victim": "Bell Ambulance, Inc.",
         "domain": "264bell.com",
