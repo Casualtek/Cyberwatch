@@ -1,5 +1,15 @@
 [
     {
+        "date": "2025-04-21",
+        "victim": "Aigües de Mataró",
+        "domain": "aiguesmataro.com",
+        "country": "ESP",
+        "summary": "La compagnie d'eau Aigües de Mataró a subi un ciberataque qui a affecté son système informatique et a laissé sa page web hors service. L'attaque n'a pas affecté le service de distribution d'eau, la qualité de l'eau, la gestion des égouts ou le service TubVerd. La compagnie travaille pour récupérer et rétablir son infrastructure le plus rapidement possible.",
+        "title": "Un ciberataque afecta al sistema informático y deja sin servicio la página web de la compañía de aguas de Mataró",
+        "url": "https://www.elperiodico.com/es/mataro/20250423/ciberataque-afecta-sistema-informatico-sin-servicio-pagina-web-compania-aguas-de-mataro-116641462",
+        "added": "2025-04-23"
+    },
+    {
         "date": "2025-04-19",
         "victim": "SK Telecom",
         "domain": "sktelecom.com",
