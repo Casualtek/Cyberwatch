@@ -1,5 +1,15 @@
 [
     {
+        "date": "2025-04-07",
+        "victim": "Eu-Rec GmbH",
+        "domain": "eu-rec.de",
+        "country": "DEU",
+        "summary": "Le 7 avril 2025, l'entreprise Eu–Rec GmbH a constaté avoir été victime d'une cyberattaque, malgré ses mesures de sécurité. Environ 200 clients privés et contacts professionnels pourraient avoir vu leurs données personnelles compromises (adresses e-mail, numéros de téléphone, adresses postales, coordonnées bancaires, etc.). L'entreprise a immédiatement pris des mesures pour sécuriser les données et limiter les risques de réutilisation malveillante, tout en exprimant ses regrets pour cet incident.",
+        "title": "Schreiben-Datenschutzbehoerde",
+        "url": "https://www.eu-rec.de/wp-content/uploads/2025/04/Schreiben-Datenschutzbehoerde-Website.pdf",
+        "added": "2025-04-24"
+    },
+    {
         "date": "2025-04-23",
         "victim": "guenstiger.de GmbH",
         "domain": "guenstiger.de",
