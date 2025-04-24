@@ -1,5 +1,15 @@
 [
     {
+        "date": "2025-04-23",
+        "victim": "guenstiger.de GmbH",
+        "domain": "guenstiger.de",
+        "country": "DEU",
+        "summary": "Un incident de sécurité a été signalé chez guenstiger.de GmbH, une entreprise allemande, dans la nuit du 23 avril 2025. Il s'agit d'une cyberattaque avec ransomware. L'impact de l'attaque prive l'entreprise des moyens de communication qui lui permettraient d'informer directement et personnellement ses partenaires et clients.",
+        "title": "Achtung: Sicherheitsvorfall bei guenstiger.de 🚨 In der vergangenen Nacht… | guenstiger.de GmbH",
+        "url": "https://www.linkedin.com/posts/guenstiger-de-gmbh_achtung-sicherheitsvorfall-bei-guenstigerde-activity-7320830845160718354-EpAd",
+        "added": "2025-04-24"
+    },
+    {
         "date": "2025-04-17",
         "victim": "Versa Networks",
         "domain": "versa-networks.com",
