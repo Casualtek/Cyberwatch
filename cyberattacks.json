@@ -1,5 +1,15 @@
 [
     {
+        "date": "2025-04-17",
+        "victim": "Versa Networks",
+        "domain": "versa-networks.com",
+        "country": "USA",
+        "summary": "Versa Networks a été victime d'une cyberattaque, mais l'incident n'a pas eu d'impact sur les systèmes de production ou les données des clients. L'attaque a été contenue et l'acteur malveillant a été supprimé du système. L'attaque est attribuée à un acteur lié à la jeune enseigne Silent.",
+        "title": "Versa Networks confronté à une cyberattaque | LeMagIT",
+        "url": "https://www.lemagit.fr/actualites/366623040/Versa-Networks-confronte-a-une-cyberattaque",
+        "added": "2025-04-24"
+    },
+    {
         "date": "2025-04-21",
         "victim": "Aigües de Mataró",
         "domain": "aiguesmataro.com",
