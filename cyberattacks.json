@@ -1,5 +1,15 @@
 [
     {
+        "date": "2025-03-08",
+        "victim": "Yale New Haven Health",
+        "domain": "ynhhs.org",
+        "country": "USA",
+        "summary": "Yale New Haven Health a subi une violation de données qui a affecté 5,5 millions de patients, les informations personnelles volées incluent les noms complets, les dates de naissance et les numéros de sécurité sociale. L'organisation a embauché Mandiant pour aider à la restauration du système et à l'enquête forensique. Les patients touchés ont reçu des lettres avec des instructions pour s'inscrire à des services de surveillance de crédit et de protection d'identité gratuits.",
+        "title": "Yale New Haven Health data breach affects 5.5 million patients",
+        "url": "https://www.bleepingcomputer.com/news/security/yale-new-haven-health-data-breach-affects-55-million-patients/",
+        "added": "2025-04-24"
+    },
+    {
         "date": "2024-12-12",
         "victim": "Nth Degree Investment Group",
         "domain": "nthdegree.com",
