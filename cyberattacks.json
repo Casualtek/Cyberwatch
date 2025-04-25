@@ -1,5 +1,15 @@
 [
     {
+        "date": "2025-04-14",
+        "victim": "Schweizerische Zentralverein für das Blindenwesen",
+        "domain": "szblind.ch",
+        "country": "CHE",
+        "summary": "Le Schweizerische Zentralverein für das Blindenwesen a été victime d'une cyberattaque le 14 avril, les hackers ont réussi à extraire des données, mais les détails sur l'ampleur de la fuite ne sont pas divulgués. Le site du shop de matériel d'aide est actuellement hors ligne en raison de l'attaque. Les autorités sont toujours en train d'enquêter sur l'incident. (via eCrime.ch)",
+        "title": "Zentralverein für das Blindenwesen angegriffen",
+        "url": "https://www.inside-it.ch/zentralverein-fuer-das-blindenwesen-angegriffen-20250425",
+        "added": "2025-04-25"
+    },
+    {
         "date": "2025-04-20",
         "victim": "Santa Fe ISD",
         "domain": "sfisd.org",
