@@ -1,5 +1,15 @@
 [
     {
+        "date": "2025-04-25",
+        "victim": "Swiss Post Cargo Deutschland",
+        "domain": "post.ch",
+        "country": "DEU",
+        "summary": "Une cyberattaque a touché Swiss Post Cargo Deutschland, affectant environ 1600 clients commerciaux, la société travaille à la stabilisation de ses systèmes et à la mise en place de systèmes de remplacement. Les systèmes de la Poste en Suisse n'ont pas été touchés. Les données des clients ont été volées, y compris des données sensibles.",
+        "title": "Post kämpft gegen Cyberangriff in Deutschland | Nau.ch",
+        "url": "https://www.nau.ch/news/schweiz/post-kampft-gegen-cyberangriff-in-deutschland-66975755",
+        "added": "2025-04-26"
+    },
+    {
         "date": "2025-04-14",
         "victim": "Schweizerische Zentralverein für das Blindenwesen",
         "domain": "szblind.ch",
