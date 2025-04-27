@@ -1,5 +1,15 @@
 [
     {
+        "date": "2025-04-13",
+        "victim": "Western New Mexico University",
+        "domain": "wnmu.edu",
+        "country": "USA",
+        "summary": "Western New Mexico University a été victime d'une attaque de ransomware par un groupe de hackers russes appelé Qilin, ce qui a entraîné la fermeture de son site Web et de ses systèmes numériques. Les hackers ont exigé un paiement en échange de la restitution des données volées, y compris des informations personnelles sur les employés et les étudiants. L'université travaille avec des experts en cybersécurité pour résoudre le problème et a mis en place des mesures pour protéger les données des utilisateurs.",
+        "title": "An infamous group of Russian-linked hackers appears to have launched a crippling cyberattack on WNMU | Searchlight New Mexico Russian-linked hackers have launched a cyberattack on WNMU",
+        "url": "https://searchlightnm.org/western-new-mexico-university-cyberattack-russian-hackers-qilin-social-security-payroll/",
+        "added": "2025-04-27"
+    },
+    {
         "date": "2025-04-25",
         "victim": "Swiss Post Cargo Deutschland",
         "domain": "post.ch",
