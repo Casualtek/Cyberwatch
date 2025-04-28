@@ -1,5 +1,12 @@
 [
     {
+        "victim": "farma",
+        "domain": "farmaciadelpueblo.com.ar",
+        "country": "AR",
+        "date": "2025-02-14",
+        "group": "qilin"
+    },
+    {
         "victim": "Nelson University",
         "domain": "nelson.edu",
         "country": "US",
