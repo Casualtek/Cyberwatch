@@ -1,5 +1,12 @@
 [
     {
+        "victim": "Nelson University",
+        "domain": "nelson.edu",
+        "country": "US",
+        "date": "2025-03-28",
+        "group": "qilin"
+    },
+    {
         "victim": "Lift Solutions",
         "domain": "liftsolutionsinc.net",
         "country": "US",
