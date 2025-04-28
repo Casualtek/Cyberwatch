@@ -1,5 +1,15 @@
 [
     {
+        "date": "2025-04-26",
+        "victim": "Hitachi Vantara",
+        "domain": "hitachivantara.com",
+        "country": "JPN",
+        "summary": "Hitachi Vantara a été victime d'une attaque de ransomware Akira, ce qui a forcé l'entreprise à déconnecter ses serveurs pour contenir l'attaque. L'entreprise a engagé des experts en cybersécurité pour enquêter sur l'incident et travaille à remettre en ligne tous les systèmes affectés. L'attaque a également touché plusieurs projets appartenant à des entités gouvernementales.",
+        "title": "Hitachi Vantara takes servers offline after Akira ransomware attack",
+        "url": "https://www.bleepingcomputer.com/news/security/hitachi-vantara-takes-servers-offline-after-akira-ransomware-attack/",
+        "added": "2025-04-28"
+    },
+    {
         "date": "2025-04-25",
         "victim": "Nova Scotia Power",
         "domain": "nspower.ca",
