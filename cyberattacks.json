@@ -1,5 +1,15 @@
 [
     {
+        "date": "2025-04-25",
+        "victim": "Nova Scotia Power",
+        "domain": "nspower.ca",
+        "country": "CAN",
+        "summary": "Emera Inc. et Nova Scotia Power ont annoncé une faille de sécurité informatique impliquant un accès non autorisé à certaines parties de leur réseau canadien. Les entreprises ont activé leurs protocoles de réponse aux incidents et de continuité des activités. Il n'y a pas eu de perturbation des opérations physiques au Canada, et l'incident n'a pas eu d'impact sur la capacité de l'entreprise à servir ses clients en Nouvelle-Écosse. (via eCrime.ch)",
+        "title": "Home - Cyber| Nova Scotia Power",
+        "url": "https://www.nspower.ca",
+        "added": "2025-04-28"
+    },
+    {
         "date": "2025-03-25",
         "victim": "Compumedics Limited",
         "domain": "compumedics.com.au",
