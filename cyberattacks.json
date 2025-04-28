@@ -1,5 +1,15 @@
 [
     {
+        "date": "2025-03-12",
+        "victim": "Urban One",
+        "domain": "urban1.com",
+        "country": "USA",
+        "summary": "Urban One, un conglomérat médiatique basé aux États-Unis, a subi une attaque de ransomware qui a compromis des informations personnelles sensibles de centaines d'individus. L'incident, découvert en mars 2025, a impliqué un accès non autorisé au réseau de l'entreprise, entraînant l'exfiltration de données d'employés. Les détails compromis incluent des noms, des numéros de sécurité sociale, des coordonnées de dépôt direct, des informations fiscales et des adresses personnelles.",
+        "title": "Urban One Hit by Ransomware: Employee Data Leaked - The420.in",
+        "url": "https://the420.in/urban-one-data-breach-2025-cactus-ransomware-attack/",
+        "added": "2025-04-28"
+    },
+    {
         "date": "2025-04-13",
         "victim": "Western New Mexico University",
         "domain": "wnmu.edu",
