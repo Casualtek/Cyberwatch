@@ -1,5 +1,12 @@
 [
     {
+        "victim": "govcz",
+        "domain": "hzscr.gov.cz",
+        "country": "CZ",
+        "date": "2025-03-22",
+        "group": "qilin"
+    },
+    {
         "victim": "BlueHive",
         "domain": "blue-hive.com",
         "country": "US",
