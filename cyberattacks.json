@@ -1,5 +1,15 @@
 [
     {
+        "date": "2025-03-25",
+        "victim": "Compumedics Limited",
+        "domain": "compumedics.com.au",
+        "country": "AUS",
+        "summary": "Compumedics Limited a subi une attaque de ransomware qui a touché les données de certains de ses systèmes en Australie et aux États-Unis. L'entreprise a pris des mesures pour contenir et remédier à l'incident. Une enquête indépendante est en cours pour comprendre ce qui s'est passé et assurer la sécurité des systèmes. L'attaque a été revendiquée sous l'enseigne VanHelsing le 26 mars 2025.",
+        "title": "Cybersecurity Incident Impacting Compumedics Limited - Compumedics",
+        "url": "https://www.compumedics.com.au/en/asx-announcements/business-update-appendix4d31dec2024-2/",
+        "added": "2025-04-28"
+    },
+    {
         "date": "2025-03-12",
         "victim": "Urban One",
         "domain": "urban1.com",
