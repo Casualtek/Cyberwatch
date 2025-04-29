@@ -1,5 +1,15 @@
 [
     {
+        "date": "2025-04-28",
+        "victim": "DuPage County sheriff’s office, circuit clerk’s office and courthouse",
+        "domain": "dupagesheriff.org",
+        "country": "USA",
+        "summary": "Une attaque de ransomware a touché les ordinateurs du bureau du shérif du comté de DuPage, du greffe du circuit et du palais de justice, forçant les systèmes à fermer. Les audiences judiciaires en personne devraient reprendre le lendemain matin. Le comté a contacté le FBI et le Service secret américain à propos de l'incident.",
+        "title": "Ransomware attack shuts down DuPage sheriff’s, courthouse computers",
+        "url": "https://www.chicagotribune.com/2025/04/28/cyber-dupage-computer-outages-sheriff-courthouse/",
+        "added": "2025-04-29"
+    },
+    {
         "date": "2025-04-26",
         "victim": "Hitachi Vantara",
         "domain": "hitachivantara.com",
