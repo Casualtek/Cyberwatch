@@ -1,6 +1,16 @@
 [
     {
         "date": "2025-04-28",
+        "victim": "Doctors Hospital",
+        "domain": "doctorshospital.ky",
+        "country": "CYM",
+        "summary": "Doctors Hospital a réagi rapidement à une attaque de ransomware, mais aucune donnée de patient, de tiers ou de fournisseur de services n'a été compromise. L'hôpital a pris des mesures proactives pour protéger ses systèmes et maintenir la prestation de soins de santé sans interruption. Les systèmes affectés sont en cours de restauration de manière sécurisée et contrôlée.",
+        "title": "Doctors Hospital Responds Swiftly to Cybersecurity Incident - No Patient, 3rd Party, or Service Provider Data Compromised - Doctors Hospital Cayman",
+        "url": "https://www.doctorshospital.ky/general-news/doctors-hospital-news-april-28/",
+        "added": "2025-04-29"
+    },
+    {
+        "date": "2025-04-28",
         "victim": "DuPage County sheriff’s office, circuit clerk’s office and courthouse",
         "domain": "dupagesheriff.org",
         "country": "USA",
