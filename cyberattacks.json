@@ -1,5 +1,15 @@
 [
     {
+        "date": "2025-04-06",
+        "victim": "Ushio Europe B.V.",
+        "domain": "ushio.eu",
+        "country": "NLD",
+        "summary": "Ushio Europe a été victime d'une cyberattaque, ce qui rend actuellement impossible l'envoi et la réception d'e-mails ; l’entreprise reste joignable uniquement par téléphone. Aucune donnée client n’a été compromise, et toutes les exigences en matière de protection des données ont été respectées. Les systèmes sont en cours de restauration avec l’aide d’experts en cybersécurité, tandis que la production, les expéditions et les stocks ne sont pas affectés.",
+        "title": "Ushio Europe B.V. | Cyber Attack",
+        "url": "https://www.ushio.eu/en/cyber-attack",
+        "added": "2025-04-30"
+    },
+    {
         "date": "2025-04-30",
         "victim": "Kintetsu World Express (KWE)",
         "domain": "kwe.com",
@@ -10,13 +20,13 @@
         "added": "2025-04-30"
     },
     {
-        "date": "2025-04-28", 
-        "victim": "MJ Biopharm Pvt Ltd", 
-        "domain": "mjbiopharm.com", 
-        "country": "IND", 
-        "summary": "Une attaque informatique a eu lieu contre MJ Biopharm Pvt Ltd, une entreprise de biopharmacie, avec une demande de rançon de 80 000 dollars. Les pirates ont crypté les données de 15 serveurs et ont laissé un message demandant le paiement de la rançon pour récupérer les données. La police a ouvert une enquête et travaille pour récupérer les données.", 
-        "title": "Cyber attack on firm with ransom demand - Hindustan Times", 
-        "url": "https://www.hindustantimes.com/cities/pune-news/cyber-attack-on-firm-with-ransom-demand-101745952867968.html", 
+        "date": "2025-04-28",
+        "victim": "MJ Biopharm Pvt Ltd",
+        "domain": "mjbiopharm.com",
+        "country": "IND",
+        "summary": "Une attaque informatique a eu lieu contre MJ Biopharm Pvt Ltd, une entreprise de biopharmacie, avec une demande de rançon de 80 000 dollars. Les pirates ont crypté les données de 15 serveurs et ont laissé un message demandant le paiement de la rançon pour récupérer les données. La police a ouvert une enquête et travaille pour récupérer les données.",
+        "title": "Cyber attack on firm with ransom demand - Hindustan Times",
+        "url": "https://www.hindustantimes.com/cities/pune-news/cyber-attack-on-firm-with-ransom-demand-101745952867968.html",
         "added": "2025-04-30"
     },
     {
