@@ -1,5 +1,15 @@
 [
     {
+        "date": "2025-04-24",
+        "victim": "CPAS de Rebecq",
+        "domain": "rebecq.be",
+        "country": "BEL",
+        "summary": "Le CPAS de Rebecq a été victime d’une cyberattaque par rançongiciel le 24 avril dernier, les données ont été compromises et une rançon a été exigée pour les restituer. Le CPAS de Rebecq a confirmé l’attaque et les autorités sont probablement en train d’enquêter sur l’incident. Les détails de l’attaque et de ses conséquences ne sont pas encore fully disponibles.",
+        "title": "Le CPAS de Rebecq a été victime d’une cyberattaque",
+        "url": "https://www.sudinfo.be/id991329/article/2025-04-30/le-cpas-de-rebecq-ete-victime-dune-cyberattaque",
+        "added": "2025-04-30"
+    },
+    {
         "date": "2025-04-28",
         "victim": "The Co-operative Group",
         "domain": "coop.co.uk",
