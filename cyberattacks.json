@@ -1,5 +1,25 @@
 [
     {
+        "date": "2025-04-30",
+        "victim": "Kintetsu World Express (KWE)",
+        "domain": "kwe.com",
+        "country": "JPN",
+        "summary": "Kintetsu World Express a été victime d'une attaque de ransomware, ce qui a entraîné une panne de serveur et affecté une partie de ses opérations. L'entreprise a mis en place un quartier général de réponse d'urgence et travaille avec des professionnels externes pour enquêter sur l'incident. Les efforts pour restaurer le système affecté sont en cours, mais la restauration devrait prendre du temps. (via eCrime.ch)",
+        "title": "Ransomware Attack to KWE System | Kintetsu World Express",
+        "url": "https://www.kwe.com/news/news/250428.html",
+        "added": "2025-04-30"
+    },
+    {
+        "date": "2025-04-28", 
+        "victim": "MJ Biopharm Pvt Ltd", 
+        "domain": "mjbiopharm.com", 
+        "country": "IND", 
+        "summary": "Une attaque informatique a eu lieu contre MJ Biopharm Pvt Ltd, une entreprise de biopharmacie, avec une demande de rançon de 80 000 dollars. Les pirates ont crypté les données de 15 serveurs et ont laissé un message demandant le paiement de la rançon pour récupérer les données. La police a ouvert une enquête et travaille pour récupérer les données.", 
+        "title": "Cyber attack on firm with ransom demand - Hindustan Times", 
+        "url": "https://www.hindustantimes.com/cities/pune-news/cyber-attack-on-firm-with-ransom-demand-101745952867968.html", 
+        "added": "2025-04-30"
+    },
+    {
         "date": "2025-04-14",
         "victim": "Hamilton County Sheriff's Office",
         "domain": "hcso.org",
