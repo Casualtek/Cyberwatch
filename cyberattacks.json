@@ -1,5 +1,15 @@
 [
     {
+        "date": "2025-04-30",
+        "victim": "Badajoz",
+        "domain": "aytobadajoz.es",
+        "country": "ESP",
+        "summary": "La mairie de Badajoz a subi un incident de ransomware, ce qui a paralysé les délais administratifs généraux jusqu'à la récupération du système. Les services informatiques travaillent à la récupération du système et ont suspendu les délais administratifs. La Sede Electrónica et le Registro sont toujours opérationnels.",
+        "title": "Servicios administrativos del Ayuntamiento de Badajoz sufren un ataque cibernético | Radio Extremadura | Cadena SER",
+        "url": "https://cadenaser.com/extremadura/2025/04/30/servicios-administrativos-del-ayuntamiento-de-badajoz-sufren-un-ataque-cibernetico-radio-extremadura/",
+        "added": "2025-04-30"
+    },
+    {
         "date": "2025-04-06",
         "victim": "Ushio Europe B.V.",
         "domain": "ushio.eu",
