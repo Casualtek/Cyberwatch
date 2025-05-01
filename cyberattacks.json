@@ -1,5 +1,15 @@
 [
     {
+        "date": "2025-05-01",
+        "victim": "Harrods",
+        "domain": "harrods.com",
+        "country": "GBR",
+        "summary": "Harrods a été victime d'une attaque informatique, devenant ainsi le dernier grand détaillant à être ciblé par des hackers. L'attaque a eu lieu après des incidents similaires chez Marks and Spencer et Co-op. Les systèmes de Harrods ont été sécurisés et les magasins restent ouverts aux clients.",
+        "title": "Harrods is hit by cyber attack: Luxury department store is latest high street name targeted by hackers | Daily Mail Online",
+        "url": "https://www.dailymail.co.uk/news/article-14669117/Harrods-hit-cyber-attack-department-store.html",
+        "added": "2025-05-01"
+    },
+    {
         "date": "2025-04-22",
         "victim": "JDC Logistik Deutschland",
         "domain": "jdc-logistik.de",
