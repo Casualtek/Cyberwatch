@@ -1,5 +1,15 @@
 [
     {
+        "date": "2025-04-15",
+        "victim": "Administración Portuaria Integral (API) de Baja California Sur (BCS)",
+        "domain": "apibcs.com.mx",
+        "country": "MEX",
+        "summary": "L'Administration portuaire de la basse Californie du sud a subi un ataque cibernétique, mais n'a pas enregistré d'impact économique. L'attaque a temporairement empêché l'accès à l'information digitale, mais les données ont été récupérées grâce à des sauvegardes physiques et documentales. L'API-BCS s'est engagée à fournir des informations véridiques et opportunes à la population.",
+        "title": "API BCS, reporta no tener afectaciones económicas luego del ataque cibernético | Diario El Independiente",
+        "url": "https://www.diarioelindependiente.mx/2025/05/api-bcs-reporta-no-tener-afectaciones-economicas-luego-del-ataque-cibernetico",
+        "added": "2025-05-02"
+    },
+    {
         "date": "2025-04-11",
         "victim": "Bangalore Water Supply and Sewerage Board (BWSSB)",
         "domain": "bwssb.gov.in",
