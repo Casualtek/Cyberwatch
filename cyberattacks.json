@@ -1,5 +1,15 @@
 [
     {
+        "date": "2025-04-11",
+        "victim": "Bangalore Water Supply and Sewerage Board (BWSSB)",
+        "domain": "bwssb.gov.in",
+        "country": "IND",
+        "summary": "Le Bangalore Water Supply and Sewerage Board (BWSSB) a repoussé une attaque informatique contre son portail de connexion en ligne. L'attaque a été détectée le 11 avril et les investigations préliminaires ont confirmé que aucune donnée sensible des clients n'a été compromise. Le BWSSB envisage de mettre en œuvre la technologie blockchain pour renforcer la sécurité numérique.",
+        "title": "BWSSB foils cyber attack on water connection portal",
+        "url": "https://www.newindianexpress.com/amp/story/cities/bengaluru/2025/May/01/bwssb-foils-cyber-attack-on-water-connection-portal",
+        "added": "2025-05-02"
+    },
+    {
         "date": "2025-04-28",
         "victim": "Iowa County",
         "domain": "iowacounty.org",
