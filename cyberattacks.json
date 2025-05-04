@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-12-15",
+        "victim": "TG3 Electronics",
+        "domain": "tg3electronics.com",
+        "country": "USA",
+        "summary": "Lors d’une conférence sur la cybersécurité organisée par Johnson Financial Group, Ryan Irish, responsable informatique de TG3 Electronics, a partagé son expérience d’une cyberattaque survenue en décembre. L’entreprise a été paralysée par une attaque par ransomware, mais grâce à des sauvegardes hors ligne efficaces, elle a pu récupérer presque toutes ses données, et les informations sensibles n’ont pas été compromises. Depuis l'incident, TG3 a renforcé ses protocoles de sécurité, embauché un prestataire pour surveiller ses serveurs 24h/24, et la majorité des pertes a été couverte par l’assurance.",
+        "title": "Rare Look At A Cyber Ransom Demand On A Local Company",
+        "url": "https://www.wgtd.org/news/rare-look-cyber-ransom-demand-local-company",
+        "added": "2025-05-04"
+    },
+    {
         "date": "2025-04-24",
         "victim": "Ellwangen",
         "domain": "ellwangen.de",
