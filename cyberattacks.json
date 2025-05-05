@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-02-27",
+        "victim": "VeriSource Services",
+        "domain": "verisource.com",
+        "country": "USA",
+        "summary": "VeriSource Services, une entreprise de gestion des avantages sociaux des employés, a annoncé que une faille de sécurité en février 2024 a exposé les informations personnelles de quatre millions de personnes. L'incident a été découvert le 28 février 2024, mais son impact n'a été évalué qu'en avril 2025. Les personnes touchées recevront des services de surveillance de crédit et de protection d'identité pendant douze mois.",
+        "title": "VeriSource now says February data breach impacts 4 million people",
+        "url": "https://www.bleepingcomputer.com/news/security/verisource-now-says-february-data-breach-impacts-4-million-people/",
+        "added": "2025-05-05"
+    },
+    {
         "date": "2025-05-03",
         "victim": "Coweta County School System",
         "domain": "cowetaschools.net",
