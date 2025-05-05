@@ -1,5 +1,12 @@
 [
     {
+        "victim": "unila.edu.mx",
+        "domain": "unila.edu.mx",
+        "country": "MX",
+        "date": "2025-02-11",
+        "group": "lockbit3"
+    },
+    {
         "victim": "AC Investement Management LLC",
         "domain": "acimfunds.com",
         "country": "US",
