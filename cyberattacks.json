@@ -1,6 +1,16 @@
 [
     {
-        "date": "2025-04-30",
+        "date": "2025-05-03",
+        "victim": "Coweta County School System",
+        "domain": "cowetaschools.net",
+        "country": "USA",
+        "summary": "Le système scolaire du comté de Coweta a subi une attaque de cybersécurité sur son réseau informatique le vendredi soir. L'intrusion est prise au sérieux et fait l'objet d'une enquête. Les opérations scolaires se poursuivront normalement, mais certaines fonctions du réseau seront perturbées. Il n'apparaît pas que des informations personnelles aient été compromises.",
+        "title": "Coweta School System Experiences Cybersecurity Attack on System Network - Winters Media",
+        "url": "https://www.wintersmedia.net/coweta-school-system-experiences-cybersecurity-attack-on-system-network/",
+        "added": "2025-05-05"
+    },
+    {
+        "date": "2025-04-27",
         "victim": "Arbeiterwohlfahrt",
         "domain": "awo.org",
         "country": "DEU",
