@@ -1,5 +1,15 @@
 [
     {
+        "date": "2025-03-14",
+        "victim": "Gloversville, New York",
+        "domain": "cityofgloversvilleny.gov",
+        "country": "USA",
+        "summary": "La Ville de Gloversville (New York) a été victime d’un incident de cybersécurité détecté le 14 mars 2025, survenu entre le 12 mars et le 3 avril, au cours duquel certaines données municipales ont été exfiltrées. Une enquête menée avec des experts en cybersécurité a révélé que des informations personnelles telles que le nom, l’adresse, la date de naissance, le numéro de permis de conduire et le numéro de sécurité sociale pourraient avoir été concernées. Par précaution, la Ville a renforcé ses mesures de sécurité et sensibilise ses employés pour prévenir de futurs incidents.",
+        "title": "Data Breach Notifications",
+        "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/4a685670-536d-4c8d-a8d5-06408fac3385.html",
+        "added": "2025-05-06"
+    },
+    {
         "date": "2025-01-25",
         "victim": "Deed Research, Inc.",
         "domain": "drititle.com",
