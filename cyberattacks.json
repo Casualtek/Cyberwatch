@@ -1,5 +1,15 @@
 [
     {
+        "date": "2025-05-01",
+        "victim": "Legal Aid Agency",
+        "domain": "legalservices.gov.uk",
+        "country": "GBR",
+        "summary": "L'Agence d'aide juridique du Royaume-Uni a signalé une faille de sécurité, les attaquants auraient pu accéder à des informations financières. L'agence enquête sur l'incident et a pris des mesures pour atténuer les effets. Cet incident fait suite à des cyberattaques ciblant des détaillants britanniques.",
+        "title": "UK Legal Aid Agency investigates cybersecurity incident",
+        "url": "https://www.bleepingcomputer.com/news/security/uk-legal-aid-agency-investigates-cybersecurity-incident/",
+        "added": "2025-05-06"
+    },
+    {
         "date": "2025-05-04",
         "victim": "South African Airways",
         "domain": "flysaa.com",
