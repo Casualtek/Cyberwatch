@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-06-13",
+        "victim": "Alvin Independent School District",
+        "domain": "alvinisd.net",
+        "country": "USA",
+        "summary": "Alvin Independent School District a subi une violation de données en juin 2024, qui a compromis les informations personnelles de 47 606 personnes, notamment des numéros de sécurité sociale, des numéros de cartes de crédit et des informations médicales. Le gang de ransomware Fog a revendiqué la responsabilité de l'attaque. L'incident a été signalé sur le site Web du procureur général du Texas le 2 mai 2025.",
+        "title": "Texas school district notifies 47K students and staff of data breach that leaked SSNs, credit cards, and more - Comparitech",
+        "url": "https://www.comparitech.com/news/texas-school-district-notifies-47k-students-and-staff-of-data-breach-that-leaked-ssns-credit-cards-and-more/",
+        "added": "2025-05-06"
+    },
+    {
         "date": "2024-02-27",
         "victim": "VeriSource Services",
         "domain": "verisource.com",
