@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-10-06",
+        "victim": "Drug and Alcohol Treatment Services, Inc.",
+        "domain": "datsrecovery.org",
+        "country": "USA",
+        "summary": "Le 6 octobre 2024, Drug and Alcohol Treatment Services, Inc. (DATS) a détecté une activité inhabituelle sur son réseau et a immédiatement pris des mesures pour sécuriser ses systèmes, tout en lançant une enquête avec l’aide d’experts et en alertant les autorités. L’enquête a révélé qu’un tiers non autorisé avait accédé à certains fichiers les 5 et 6 octobre 2024. Le 15 avril 2025, DATS a terminé son analyse et confirmé qu’un volume limité de données personnelles avait pu être consulté lors de l’incident.",
+        "title": "Data Breach Notifications",
+        "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/5ef8db77-a4fd-46a0-99d3-19688c4f0434.html",
+        "added": "2025-05-06"
+    },
+    {
         "date": "2025-03-14",
         "victim": "Gloversville, New York",
         "domain": "cityofgloversvilleny.gov",
