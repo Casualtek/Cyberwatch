@@ -1,5 +1,25 @@
 [
     {
+        "date": "2025-02-09",
+        "victim": "Bay Village of Sarasota Inc.",
+        "domain": "bayvillage.org",
+        "country": "USA",
+        "summary": "Le 9 février 2025, une activité suspecte a été détectée dans notre réseau. Nous avons immédiatement déconnecté nos systèmes, lancé une enquête, fait appel à des experts en informatique légale et informé les forces de l'ordre. L'enquête a révélé qu'un individu non autorisé avait accédé à nos systèmes pendant une période limitée, et certains fichiers contenant des informations personnelles ont pu être consultés lors de cet incident.",
+        "title": "Data Breach Notifications",
+        "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/019e2616-8f8f-4e8d-a76b-59fb9b0f65ba.html",
+        "added": "2025-05-06"
+    },
+    {
+        "date": "2024-07-31",
+        "victim": "Massachusetts Association for Mental Health",
+        "domain": "mamh.org",
+        "country": "USA",
+        "summary": "Fin juillet 2024, MAMH a découvert une cyberattaque contre ses systèmes et a fait appel à un consultant en cybersécurité pour enquêter sur l'incident. L'enquête a révélé que l'attaquant avait accédé aux systèmes de MAMH entre février et juin 2024, et a potentiellement pu accéder à des informations personnelles.",
+        "title": "Data Breach Notifications",
+        "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/2bccbab1-95d1-46fa-929d-18e75f5d59a3.html",
+        "added": "2025-05-06"
+    },
+    {
         "date": "2024-09-17",
         "victim": "Adkore Staffing Group, LLC",
         "domain": "adkorestaffing.com",
