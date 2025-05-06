@@ -1,5 +1,15 @@
 [
     {
+        "date": "2025-02-11",
+        "victim": "Huntsman Building Solutions (USA) LLC",
+        "domain": "huntsmanbuildingsolutions.com",
+        "country": "USA",
+        "summary": "Le 11 février 2025, Huntsman Building Solutions (HBS) a découvert qu’un tiers non autorisé avait accédé à ses systèmes informatiques. L’équipe informatique de l’entreprise a immédiatement sécurisé les accès et lancé une enquête approfondie avec l’aide d’experts en cybersécurité. L’analyse a révélé que certaines données personnelles, dont le nom et d’autres informations sensibles, pourraient avoir été compromises.",
+        "title": "Data Breach Notifications",
+        "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/4db10df8-f077-4de1-8898-9ce99b0c18ad.html",
+        "added": "2025-05-06"
+    },
+    {
         "date": "2024-10-06",
         "victim": "Drug and Alcohol Treatment Services, Inc.",
         "domain": "datsrecovery.org",
