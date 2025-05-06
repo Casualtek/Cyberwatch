@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-12-10",
+        "victim": "Good Neighbors Credit Union",
+        "domain": "goodneighborscu.com",
+        "country": "USA",
+        "summary": "Le 10 décembre 2024, Good Neighbors Federal Credit Union (GNFCU) a été victime d’un accès non autorisé à son réseau informatique. Une enquête approfondie a été immédiatement lancée avec l’aide de spécialistes en cybersécurité, et le 4 avril 2025, il a été confirmé que certaines données personnelles pouvaient avoir été consultées ou extraites. GNFCU continue de renforcer ses mesures de sécurité pour protéger les informations de ses membres.",
+        "title": "Data Breach Notifications",
+        "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/b924adb1-e21b-43de-adbe-6426643a725f.html",
+        "added": "2025-05-06"
+    },
+    {
         "date": "2025-02-11",
         "victim": "Huntsman Building Solutions (USA) LLC",
         "domain": "huntsmanbuildingsolutions.com",
