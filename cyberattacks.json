@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-02-04",
+        "victim": "Fitzgerald Auto Malls",
+        "domain": "fitzmall.com",
+        "country": "USA",
+        "summary": "L'attaque contre Fitzgerald Auto Malls a été détectée autour du 4 février 2024, lorsqu’un accès non autorisé à leur réseau a été identifié, entraînant une possible exposition de données personnelles.",
+        "title": "Data Breach Notifications",
+        "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/31d2ab6d-85bd-42c7-b612-be4d4f891fff.html",
+        "added": "2025-05-06"
+    },
+    {
         "date": "2025-01-12",
         "victim": "Newport Advisory, LLC",
         "domain": "newportllc.com",
