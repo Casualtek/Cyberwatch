@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-09-23",
+        "victim": "Genpro, Inc.",
+        "domain": "genproinc.com",
+        "country": "USA",
+        "summary": "Le 23 septembre 2024, une activité inhabituelle a été détectée sur le réseau de l’organisation, entraînant des mesures immédiates de sécurisation. Une enquête appuyée par des experts en cybersécurité a révélé que certaines données avaient pu être acquises sans autorisation. À l’issue d’un examen approfondi, terminé le 15 avril 2025, il a été confirmé que des informations personnelles figuraient parmi les données potentiellement concernées, et les personnes affectées ont été notifiées.",
+        "title": "Data Breach Notifications",
+        "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/861d1ab0-c9bf-4817-9f5c-1cd798fa769b.html",
+        "added": "2025-05-06"
+    },
+    {
         "date": "2024-11-13",
         "victim": "Conrey Insurance Brokers & Risk Managers",
         "domain": "conreyins.com",
