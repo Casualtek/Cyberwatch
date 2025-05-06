@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-05-14",
+        "victim": "Atelier Rouy",
+        "domain": "atelier-rouy.fr",
+        "country": "FRA",
+        "summary": "Un mardi matin en mai 2024, L’atelier de métallerie Atelier Rouy, situé à Blaise dans les Ardennes, subit une attaque informatique avec rançongiciel. Résultat : serveurs bloqués, données volées, activité à l’arrêt.",
+        "title": "CYBERATTAQUE : quand 20 ans de travail s'effondrent en quelques heures",
+        "url": "https://www.linkedin.com/posts/grandenov_blaise-gendarmerie-prestataire-ugcPost-7325164785816199169-zDf_",
+        "added": "2025-05-06"
+    },
+    {
         "date": "2024-09-23",
         "victim": "Genpro, Inc.",
         "domain": "genproinc.com",
