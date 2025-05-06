@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-09-17",
+        "victim": "Adkore Staffing Group, LLC",
+        "domain": "adkorestaffing.com",
+        "country": "USA",
+        "summary": "Le 17 septembre 2024, Adkore a détecté une activité suspecte sur certains systèmes, ce qui a entraîné une enquête pour évaluer l'ampleur de l'incident. L'enquête a révélé qu'entre le 11 et le 12 septembre 2024, des fichiers ont été consultés et acquis par une partie non autorisée. Le 19 mars 2025, Adkore a confirmé que des informations sensibles, notamment des noms, numéros de sécurité sociale, permis de conduire, identifiants d'État et informations financières, concernant des résidents du Maine, étaient présentes dans les fichiers affectés.",
+        "title": "Data Breach Notifications",
+        "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/5bcd1913-2c88-4db3-8d08-917c8c0f1d0f.html",
+        "added": "2025-05-06"
+    },
+    {
         "date": "2024-12-05",
         "victim": "Bath Fitter Distributing Inc.",
         "domain": "bathfitter.com",
