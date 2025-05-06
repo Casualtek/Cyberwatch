@@ -1,5 +1,15 @@
 [
     {
+        "date": "2025-01-12",
+        "victim": "Newport Advisory, LLC",
+        "domain": "newportllc.com",
+        "country": "USA",
+        "summary": "Le 12 janvier 2025, Newport Advisory a détecté une activité suspecte sur son réseau et a immédiatement mis son système hors ligne, averti les autorités et lancé une enquête avec des experts en cybersécurité. Celle-ci a révélé que certains fichiers avaient été copiés depuis le réseau fin décembre 2024, dont certains contenaient des informations personnelles. Bien qu’aucune utilisation malveillante n’ait été constatée, des mesures de sécurité renforcées ont été mises en place, en parallèle de l'intégration des systèmes informatiques à ceux de Mariner.",
+        "title": "Data Breach Notifications",
+        "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/b841a914-edab-4586-abb1-6a67db4089fd.html",
+        "added": "2025-05-06"
+    },
+    {
         "date": "2025-05-01",
         "victim": "Framlingham College",
         "domain": "framlinghamcollege.co.uk",
