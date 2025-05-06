@@ -1,5 +1,15 @@
 [
     {
+        "date": "2025-05-04",
+        "victim": "South African Airways",
+        "domain": "flysaa.com",
+        "country": "ZAF",
+        "summary": "South African Airways a subi une attaque informatique majeure qui a perturbé l'accès à ses plateformes en ligne. L'entreprise a réussi à restaurer ses systèmes en quelques heures et a lancé une enquête pour déterminer l'ampleur de l'incident. Les opérations de vol et les canaux de service client ont continué à fonctionner normalement.",
+        "title": "South African Airways restores systems within hours following major cyberattack",
+        "url": "https://iol.co.za/technology/2025-05-06-south-african-airways-restores-systems-within-hours-following-major-cyberattack/",
+        "added": "2025-05-06"
+    },
+    {
         "date": "2025-02-09",
         "victim": "Bay Village of Sarasota Inc.",
         "domain": "bayvillage.org",
