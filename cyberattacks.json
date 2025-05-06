@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-05-29",
+        "victim": "Thompson Coburn LLP",
+        "domain": "thompsoncoburn.com",
+        "country": "USA",
+        "summary": "Le 29 mai 2024, Thompson Coburn a détecté une activité suspecte sur son réseau et a immédiatement lancé une enquête avec l’aide de spécialistes en cybersécurité. L’enquête a révélé qu’un acteur non autorisé avait accédé à certaines données entre le 28 et le 29 mai 2024, notamment des noms et numéros de sécurité sociale de résidents du Maine. Un examen approfondi des fichiers concernés a été mené pour identifier les personnes touchées et permettre l’envoi d’une notification appropriée.",
+        "title": "Data Breach Notifications",
+        "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/6dafd081-b175-4c00-b161-c4a5b8c43cfb.html",
+        "added": "2025-05-06"
+    },
+    {
         "date": "2024-05-31",
         "victim": "Divaris Consolidated Investments, Inc.",
         "domain": "divaris.com",
