@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-10-07",
+        "victim": "CLAS Information Services",
+        "domain": "clasinfo.com",
+        "country": "USA",
+        "summary": "Le 18 octobre 2024, CLAS a détecté une activité inhabituelle sur son réseau et a immédiatement lancé une enquête avec l’aide d’experts en cybersécurité. En janvier 2025, il a été confirmé que des documents contenant des informations personnelles avaient pu être consultés par un tiers non autorisé, et l’analyse des documents concernés s’est achevée le 31 mars 2025. L'attaque avait été revendiquée sous la bannière de BianLian le 29 octobre 2024.",
+        "title": "Data Breach Notifications",
+        "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/fbb0a1cc-f043-42f6-af9b-4624e94cb810.html",
+        "added": "2025-05-06"
+    },
+    {
         "date": "2024-12-17",
         "victim": "Albion College",
         "domain": "albion.edu",
