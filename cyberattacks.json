@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-06-05",
+        "victim": "Cambridge University Press & Assessment",
+        "domain": "cambridge.org",
+        "country": "USA",
+        "summary": "Le 5 juin 2024, une activité suspecte a été détectée dans le réseau d'une filiale en Australie, ce qui a conduit à une enquête impliquant des experts en cybersécurité. Celle-ci a révélé que des fichiers contenant des informations personnelles avaient été consultés. Une telle attaque a été revendiquée le 29 juin 2024 sous la bannière d'INC Ransom.",
+        "title": "Data Breach Notifications",
+        "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/033e24ec-a9dd-42d9-b50c-601ccb88df05.html",
+        "added": "2025-05-06"
+    },
+    {
         "date": "2024-05-20",
         "victim": "Allied Telesis, Inc.",
         "domain": "alliedtelesis.com",
