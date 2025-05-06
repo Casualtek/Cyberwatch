@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-12-27",
+        "victim": "iHeart Media + Entertainment, Inc",
+        "domain": "iheartmedia.com",
+        "country": "USA",
+        "summary": "Entre le 24 et le 27 décembre 2024, un acteur non autorisé a consulté et extrait des fichiers sur les systèmes de certaines stations locales d’iHeart Media + Entertainment, Inc. Dès la détection de l’incident, iHeart a activé ses protocoles de réponse, lancé une enquête avec des experts en cybersécurité et informé les autorités. Le 11 avril 2025, l’examen des fichiers a révélé que des données sensibles, telles que noms, numéros de sécurité sociale et informations financières de trois résidents du Maine, avaient pu être compromises.",
+        "title": "Data Breach Notifications",
+        "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/79b5d25d-ddf1-4f01-802d-1b8c43010377.html",
+        "added": "2025-05-06"
+    },
+    {
         "date": "2024-05-29",
         "victim": "Thompson Coburn LLP",
         "domain": "thompsoncoburn.com",
