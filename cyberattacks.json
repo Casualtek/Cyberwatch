@@ -1,5 +1,15 @@
 [
     {
+        "date": "2025-05-06",
+        "victim": "West Lothian Council",
+        "domain": "westlothian.gov.uk",
+        "country": "GBR",
+        "summary": "Les écoles de West Lothian ont été victimes d'une attaque de ransomware, un type de logiciel malveillant qui empêche l'accès aux données. Le conseil de West Lothian a confirmé l'attaque et a mis en place des plans de contingence pour minimiser les perturbations. Une enquête criminelle est en cours avec la police écossaise et le gouvernement écossais.",
+        "title": "West Lothian schools hit by ransomware cyberattack",
+        "url": "https://www.bbc.com/news/articles/cp8v836jr30o",
+        "added": "2025-05-06"
+    },
+    {
         "date": "2025-05-01",
         "victim": "Legal Aid Agency",
         "domain": "legalservices.gov.uk",
