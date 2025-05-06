@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-10-30",
+        "victim": "SAU Tech",
+        "domain": "sautech.edu",
+        "country": "USA",
+        "summary": "En octobre 2024, Southern Arkansas University Tech (SAU Tech) a détecté une activité suspecte sur ses systèmes informatiques, révélant qu’un utilisateur non autorisé avait accédé aux données et potentiellement copié des fichiers contenant des informations personnelles. L’université a immédiatement lancé une enquête avec l’aide de spécialistes en cybersécurité, informé les autorités, et identifié les personnes concernées le 18 mars 2025. SAU Tech présente ses excuses et propose des ressources pour aider les personnes affectées à protéger leurs données.",
+        "title": "Data Breach Notifications",
+        "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/48768c4e-9f11-4bdd-a90b-fdd5790ed60a.html",
+        "added": "2025-05-06"
+    },
+    {
         "date": "2024-06-13",
         "victim": "Alvin Independent School District",
         "domain": "alvinisd.net",
