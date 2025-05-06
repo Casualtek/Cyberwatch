@@ -1,5 +1,15 @@
 [
     {
+        "date": "2025-01-25",
+        "victim": "Deed Research, Inc.",
+        "domain": "drititle.com",
+        "country": "USA",
+        "summary": "Le 25 janvier 2025, Deed Research, Inc. a détecté une activité suspecte sur ses serveurs et a immédiatement lancé une enquête avec l’aide de spécialistes en informatique légale. Celle-ci a révélé que certains documents avaient été extraits de leur système, et le 2 avril 2025, l’entreprise a confirmé que des données personnelles pouvaient être concernées. Deed Research a présenté ses excuses et propose des ressources pour aider les personnes affectées à protéger leurs informations.",
+        "title": "Data Breach Notifications",
+        "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/343b01da-518a-414f-bdb6-f620a7dd8956.html",
+        "added": "2025-05-06"
+    },
+    {
         "date": "2024-10-07",
         "victim": "CLAS Information Services",
         "domain": "clasinfo.com",
