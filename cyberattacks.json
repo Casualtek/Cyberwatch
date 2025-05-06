@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-12-05",
+        "victim": "Bath Fitter Distributing Inc.",
+        "domain": "bathfitter.com",
+        "country": "USA",
+        "summary": "Bath Fitter a été victime d'une cyberattaque entre le 4 et le 5 décembre 2024, au cours de laquelle un acteur malveillant s'est fait passer pour un technicien informatique afin d'infiltrer le réseau, y déployer un ransomware et potentiellement exfiltrer des données. Une notification provisoire a été envoyée aux employés le 26 décembre 2024, et l’enquête, finalisée le 7 mars 2025, a révélé que d’anciens employés pourraient également être concernés. L’entreprise a depuis pris des mesures pour contenir l’incident et informe désormais officiellement toutes les personnes potentiellement touchées. Une telle attaque a été revendiquée le 18 décembre 2024 sous la bannière de Black Basta.",
+        "title": "Data Breach Notifications",
+        "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/befd3e39-1ae1-41a0-9c1b-bc9e2d061c7f.html",
+        "added": "2025-05-06"
+    },
+    {
         "date": "2024-06-05",
         "victim": "Cambridge University Press & Assessment",
         "domain": "cambridge.org",
