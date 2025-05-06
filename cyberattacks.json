@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-12-17",
+        "victim": "Albion College",
+        "domain": "albion.edu",
+        "country": "USA",
+        "summary": "Le 17 décembre 2024, Albion College a découvert un accès non autorisé à son réseau. Une enquête a été lancée immédiatement avec l’aide de spécialistes en cybersécurité, et les analyses ont révélé que des données personnelles, dont le nom complet et possiblement d’autres informations, ont été extraites. L’enquête s’est conclue le 18 avril 2025, et l’établissement affirme continuer à renforcer la sécurité de ses systèmes.",
+        "title": "Data Breach Notifications",
+        "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/d16941f7-1e1e-4625-9a16-437a13f4f948.html",
+        "added": "2025-05-06"
+    },
+    {
         "date": "2024-10-30",
         "victim": "SAU Tech",
         "domain": "sautech.edu",
