@@ -1,5 +1,15 @@
 [
     {
+        "date": "2022-06-07",
+        "victim": "Lincoln Investment Planning, LLC",
+        "domain": "lincolninvestment.com",
+        "country": "USA",
+        "summary": "On June 7, 2022, Lincoln Investment became aware of unusual activity in a cloud-based sharefile account used by a financial professional. In response, Lincoln Investment immediately secured the sharefile account, and began working with third-party specialists to investigate the nature and scope of the incident. On June 8, 2022, the investigation determined that an unauthorized user may have accessed the account and acquired certain files that contained personal information. The stolen data got leaked by the Silent Ransom Group (SRG).",
+        "title": "Data Breach Notification",
+        "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/100ab30e-b798-4950-be79-8e7c414b188d.shtml",
+        "added": "2025-05-07"
+    },
+    {
         "date": "2025-04-15",
         "victim": "Esse Health",
         "domain": "essehealth.com",
