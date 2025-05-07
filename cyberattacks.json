@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-10-24",
+        "victim": "Metro Public Adjustment, Inc.",
+        "domain": "metropa.com",
+        "country": "USA",
+        "summary": "Le 13 novembre 2024, nous avons reçu un signalement anonyme concernant un accès potentiellement non autorisé à certains fichiers de notre réseau informatique, ce qui a déclenché une enquête immédiate avec l’aide d’experts externes. Cette enquête a confirmé qu’un nombre limité de fichiers contenant notamment des noms ont été consultés sans autorisation les 24 et 25 octobre 2024, et une analyse approfondie des informations compromises a été réalisée. En réponse, nous avons engagé une investigation médico-légale, revu nos procédures de protection des données, et offrons gratuitement un service de surveillance de crédit et de protection d’identité pendant douze mois, sans avoir constaté de cas de fraude à ce jour.",
+        "title": "Data Breach Notification",
+        "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/34d34020-1499-4fbd-9ae9-dd25bcee761d.html",
+        "added": "2025-05-07"
+    },
+    {
         "date": "2025-04-27",
         "victim": "Masimo Corporation",
         "domain": "masimo.com",
