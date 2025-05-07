@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-10-23",
+        "victim": "Starkville Utilities",
+        "domain": "starkvilleutilities.com",
+        "country": "USA",
+        "summary": "Le 23 octobre 2024, Starkville a découvert une activité non autorisée sur son réseau informatique. Dès la découverte, Starkville a immédiatement coupé tous les accès au réseau et fait appel à une entreprise spécialisée pour sécuriser l’environnement et mener une enquête médico-légale approfondie. Cette enquête, terminée le 11 décembre 2024, a établi qu’un utilisateur non autorisé avait eu un accès limité aux informations du réseau.",
+        "title": "Data Breach Notification",
+        "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/221c5ffe-01e6-4cee-a930-ec734fb0e59d.html",
+        "added": "2025-05-07"
+    },
+    {
         "date": "2025-03-04",
         "victim": "Woods Hole Group",
         "domain": "woodsholegroup.com",
