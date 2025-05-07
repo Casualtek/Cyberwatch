@@ -1,5 +1,15 @@
 [
     {
+        "date": "2025-03-04",
+        "victim": "Woods Hole Group",
+        "domain": "woodsholegroup.com",
+        "country": "USA",
+        "summary": "Le 4 mars 2025, une activité non autorisée a été détectée sur les systèmes informatiques de Woods Hole Group (WHG), ce qui a conduit à interrompre certains services par précaution et à lancer une enquête avec des experts externes, tout en avisant les autorités compétentes. Des fichiers contenant des données personnelles ont été consultés et copiés.",
+        "title": "Data Breach Notification",
+        "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/91b0d94d-c901-4cf6-acef-a1fcbc5af274.html",
+        "added": "2025-05-07"
+    },
+    {
         "date": "2024-04-14",
         "victim": "Aspire USA, LLC",
         "domain": "aspiresoftware.com",
