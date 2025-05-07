@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-12-10",
+        "victim": "ATLAS CPAs and Advisors PLLC",
+        "domain": "atlascpas.com",
+        "country": "USA",
+        "summary": "Le 10 décembre 2024, ATLAS a détecté une activité non autorisée visant ses systèmes d’information et a rapidement mis fin à l’intrusion. L’enquête a révélé que l’attaquant avait réussi à extraire certains fichiers contenant, entre autres, des numéros de sécurité sociale et des informations financières. ATLAS a depuis renforcé ses mesures de sécurité, collaboré avec les autorités et des experts en cybersécurité, et continue d'améliorer ses protections pour éviter de futurs incidents.",
+        "title": "Data Breach Notification",
+        "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/3e7dfc7f-4bd3-4753-8c55-021e6071f09d.html",
+        "added": "2025-05-07"
+    },
+    {
         "date": "2024-12-04",
         "victim": "Cross Valley Federal Credit Union",
         "domain": "crossvalleyfcu.com",
