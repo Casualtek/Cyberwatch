@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-12-04",
+        "victim": "Cross Valley Federal Credit Union",
+        "domain": "crossvalleyfcu.com",
+        "country": "USA",
+        "summary": "Le 4 décembre 2024, Cross Valley a détecté une activité suspecte sur son réseau et a confirmé un accès non autorisé. L’entreprise a immédiatement sécurisé son environnement et engagé des experts en cybersécurité pour enquêter. L’enquête a révélé que des données personnelles comme les noms, adresses et numéros de sécurité sociale de certains membres avaient pu être compromises.",
+        "title": "Data Breach Notification",
+        "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/e874ba63-10fe-49a3-a92f-fd79c81edb00.html",
+        "added": "2025-05-07"
+    },
+    {
         "date": "2024-10-24",
         "victim": "Metro Public Adjustment, Inc.",
         "domain": "metropa.com",
