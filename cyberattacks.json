@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-04-14",
+        "victim": "Aspire USA, LLC",
+        "domain": "aspiresoftware.com",
+        "country": "USA",
+        "summary": "Le 14 février 2024, Alltrust a détecté une activité inhabituelle sur un réseau informatique non destiné à la production, géré par sa filiale Aspire USA, LLC, où un transfert de fichiers non autorisé a été interrompu en cours. L’enquête menée avec des spécialistes externes a confirmé un accès non autorisé entre le 12 et le 15 février 2024, sans pouvoir déterminer précisément quels fichiers ont été consultés, mais a révélé la présence d’informations personnelles sensibles sur le système impacté.",
+        "title": "Data Breach Notification",
+        "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/c58bf5d1-f08b-4c50-8859-4fe253db8af9.html",
+        "added": "2025-05-07"
+    },
+    {
         "date": "2025-03-14",
         "victim": "Graphique De France",
         "domain": "graphiquedefrance.com",
