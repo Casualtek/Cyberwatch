@@ -1,5 +1,15 @@
 [
     {
+        "date": "2025-04-27",
+        "victim": "Masimo Corporation",
+        "domain": "masimo.com",
+        "country": "USA",
+        "summary": "Masimo Corporation a signalé une activité non autorisée sur son réseau local le 27 avril 2025, ce qui a eu un impact temporaire sur ses capacités de fabrication et de traitement des commandes. L'entreprise travaille actuellement pour résoudre l'incident avec l'aide de professionnels de la cybersécurité et a informé les autorités. L'enquête se poursuit pour déterminer l'étendue et la nature de l'incident.",
+        "title": "[no-title]",
+        "url": "https://www.sec.gov/Archives/edgar/data/937556/000110465925045035/tm2514064d1_8k.htm",
+        "added": "2025-05-07"
+    },
+    {
         "date": "2025-05-06",
         "victim": "West Lothian Council",
         "domain": "westlothian.gov.uk",
