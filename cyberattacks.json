@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-12-18",
+        "victim": "Nixon, Inc.",
+        "domain": "nixon.com",
+        "country": "USA",
+        "summary": "Le 18 décembre 2024, une activité inhabituelle a été détectée dans l’environnement informatique de l’organisation, ce qui a conduit au lancement d’une enquête, au renforcement de la sécurité et à l’alerte des autorités. Une entreprise spécialisée en cybersécurité a été sollicitée pour appuyer l’investigation. Le 18 avril 2025, il a été confirmé qu’un individu non autorisé avait accédé à des fichiers contenant des informations personnelles telles que le nom et d’autres données sensibles.",
+        "title": "Data Breach Notification",
+        "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/05fe8300-1c34-4ff2-b8da-1e1f935134d9.html",
+        "added": "2025-05-07"
+    },
+    {
         "date": "2022-06-07",
         "victim": "Lincoln Investment Planning, LLC",
         "domain": "lincolninvestment.com",
