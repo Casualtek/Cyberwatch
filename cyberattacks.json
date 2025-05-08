@@ -1,5 +1,15 @@
 [
     {
+        "date": "2025-02-11",
+        "victim": "Linear Technologies, Inc.",
+        "domain": "lineartech.com",
+        "country": "USA",
+        "summary": "LTI a récemment informé l'ACC qu'il avait subi un incident de cybersécurité impliquant le déploiement d'un ransomware et le chiffrement d'informations que LTI conservait pour le compte de l'ACC. À la date de la présente lettre, des informations personnelles conservées par LTI peuvent avoir été acquises, divulguées ou utilisées par une personne non autorisée à la suite de cet incident.",
+        "title": "Data Breach Notification",
+        "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/2a499614-8b36-4d61-8432-152ae43af3a9.html",
+        "added": "2025-05-08"
+    },
+    {
         "date": "2025-03-17",
         "victim": "WaterStreet Company",
         "domain": "waterstreetcompany.com",
