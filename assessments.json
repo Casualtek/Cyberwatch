@@ -1,5 +1,12 @@
 [
     {
+        "victim": "51talk",
+        "domain": "51talk.com",
+        "country": "US",
+        "date": "2025-01-30",
+        "group": "lockbit3"
+    },
+    {
         "victim": "NESCTC",
         "domain": "nesctc.com",
         "country": "US",
