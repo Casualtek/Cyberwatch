@@ -1,5 +1,15 @@
 [
     {
+        "date": "2025-03-17",
+        "victim": "WaterStreet Company",
+        "domain": "waterstreetcompany.com",
+        "country": "USA",
+        "summary": "Le 17 mars 2025, WaterStreet a découvert une activité suspecte liée à son environnement. WaterStreet a réagi rapidement et a lancé une enquête pour confirmer la nature et l'étendue de l'incident et restaurer en toute sécurité les systèmes informatiques touchés pour les rendre opérationnels. L'enquête a permis de déterminer qu'un acteur non autorisé avait accédé à certains fichiers le 17 mars 2025. Nous avons procédé à un examen approfondi des fichiers acquis afin de confirmer s'ils contenaient des informations sensibles.",
+        "title": "Data Breach Notification",
+        "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/25103dc9-ce30-48a0-937c-ab58b98dde85.html",
+        "added": "2025-05-08"
+    },
+    {
         "date": "2024-10-23",
         "victim": "Starkville Utilities",
         "domain": "starkvilleutilities.com",
