@@ -1,8 +1,15 @@
 [
     {
+        "victim": "physiciansmedicalbilling.net",
+        "domain": "physiciansmedicalbilling.net",
+        "country": "US",
+        "date": "2025-03-31",
+        "group": "lockbit3"
+    },
+    {
         "victim": "visionproducts.llc",
         "domain": "visionproducts.llc",
-        "country": "BR",
+        "country": "US",
         "date": "2025-04-06",
         "group": "lockbit3"
     },
