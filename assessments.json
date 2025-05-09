@@ -1,5 +1,12 @@
 [
     {
+        "victim": "Empresa Nacional de Electricidad",
+        "domain": "ende.bo",
+        "country": "BR",
+        "date": "2025-04-04",
+        "group": "lockbit3"
+    },
+    {
         "victim": "AEA-MG",
         "domain": "aeamg.org.br",
         "country": "BR",
