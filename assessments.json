@@ -1,5 +1,12 @@
 [
     {
+        "victim": "fepasa.com.ar",
+        "domain": "fepasa.com.ar",
+        "country": "AR",
+        "date": "2025-03-07",
+        "group": "lockbit3"
+    },
+    {
         "victim": "grupotersa.com.mx",
         "domain": "grupotersa.com.mx",
         "country": "MX",
