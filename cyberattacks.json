@@ -1,5 +1,15 @@
 [
     {
+        "date": "2025-05-09",
+        "victim": "Hessischen Apothekerverband",
+        "domain": "hav.de",
+        "country": "DEU",
+        "summary": "Le Hessischen Apothekerverband a été victime d'une attaque cybernétique, les parties sécurisées de ses systèmes informatiques ont été compromises et chiffrées. Un groupe d'experts en forensique informatique a été chargé d'enquêter sur l'attaque et d'analyser les dégâts. Pour le moment, il n'y a aucune indication que des données sensibles des membres de l'association, des participants aux séminaires et aux études ont été compromises.",
+        "title": "Cyber-Angriff auf Hessischen Apothekerverband",
+        "url": "https://www.pharmazeutische-zeitung.de/cyber-angriff-auf-hessischen-apothekerverband-155834/",
+        "added": "2025-05-09"
+    },
+    {
         "date": "2025-03-13",
         "victim": "Horizon Behavioral Health",
         "domain": "horizonbh.org",
