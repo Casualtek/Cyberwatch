@@ -1,5 +1,12 @@
 [
     {
+        "victim": "AEA-MG",
+        "domain": "aeamg.org.br",
+        "country": "BR",
+        "date": "2025-03-31",
+        "group": "lockbit3"
+    },
+    {
         "victim": "Heng Chang Machinery Co., Ltd",
         "domain": "aqhch.com.cn",
         "country": "CN",
