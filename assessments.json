@@ -1,5 +1,12 @@
 [
     {
+        "victim": "Ehlers Inc.",
+        "domain": "ehlers-inc.com",
+        "country": "US",
+        "date": "2025-04-16",
+        "group": "lockbit3"
+    },
+    {
         "victim": "Intelliloan",
         "domain": "intelliloan.com",
         "country": "US",
