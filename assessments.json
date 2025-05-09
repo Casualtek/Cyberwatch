@@ -1,5 +1,12 @@
 [
     {
+        "victim": "nicatel.com.uy",
+        "domain": "nicatel.com.uy",
+        "country": "UY",
+        "date": "2024-12-21",
+        "group": "lockbit3"
+    },
+    {
         "victim": "viacaojacarei.com.br",
         "domain": "viacaojacarei.com.br",
         "country": "BR",
