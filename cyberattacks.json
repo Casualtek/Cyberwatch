@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-07-29",
+        "victim": "Redbrick LMD LLC",
+        "domain": "redbricklmd.com",
+        "country": "USA",
+        "summary": "Le 29 juillet 2024, une activité inhabituelle a été détectée sur le réseau de Redbrick, entraînant une sécurisation immédiate du système et le lancement d’une enquête avec des experts en cybersécurité. L’enquête approfondie a permis de conclure que certains fichiers avaient probablement été exfiltrés par un acteur non autorisé. Le 7 mars 2025, il a été déterminé que des informations personnelles pouvaient avoir été consultées sans autorisation.",
+        "title": "Data Breach Notification",
+        "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/a82431b6-35cc-4309-a49c-6c2123317cb1.html",
+        "added": "2025-05-09"
+    },
+    {
         "date": "2025-02-06",
         "victim": "Berks County Bar Association",
         "domain": "berksbar.org",
