@@ -1,5 +1,15 @@
 [
     {
+        "date": "2025-03-13",
+        "victim": "Horizon Behavioral Health",
+        "domain": "horizonbh.org",
+        "country": "USA",
+        "summary": "Horizon Behavioral Health a subi une faille de sécurité informatique, une attaque de ransomware, entre le 13 et le 16 mars 2025, qui a pu donner accès à des informations personnelles de ses patients, notamment des informations démographiques et des données relatives aux assurances.",
+        "title": "Data Breach Notice | Horizon Behavioral Health",
+        "url": "https://www.horizonbh.org/data-breach-notice/",
+        "added": "2025-05-09"
+    },
+    {
         "date": "2024-07-29",
         "victim": "Redbrick LMD LLC",
         "domain": "redbricklmd.com",
