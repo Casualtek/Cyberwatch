@@ -1,5 +1,19 @@
 [
     {
+        "victim": "viacaojacarei.com.br",
+        "domain": "viacaojacarei.com.br",
+        "country": "BR",
+        "date": "2024-12-21",
+        "group": "lockbit3"
+    },
+    {
+        "victim": "abcapital.com.ph",
+        "domain": "abcapital.com.ph",
+        "country": "PH",
+        "date": "2025-01-24",
+        "group": "lockbit3"
+    },
+    {
         "victim": "bioclimaservice.it",
         "domain": "bioclimaservice.it",
         "country": "IT",
