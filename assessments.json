@@ -1,5 +1,12 @@
 [
     {
+        "victim": "bioclimaservice.it",
+        "domain": "bioclimaservice.it",
+        "country": "IT",
+        "date": "2025-03-15",
+        "group": "lockbit3"
+    },
+    {
         "victim": "fepasa.com.ar",
         "domain": "fepasa.com.ar",
         "country": "AR",
