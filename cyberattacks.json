@@ -1,5 +1,15 @@
 [
     {
+        "date": "2025-01-15",
+        "victim": "Pearson",
+        "domain": "pearson.com",
+        "country": "GBR",
+        "summary": "Pearson, une entreprise d'éducation basée au Royaume-Uni, a subi une attaque informatique, permettant aux acteurs menaçants de voler des données d'entreprise et des informations client. L'attaque a été possible en raison d'un jeton d'accès GitLab exposé dans un fichier de configuration public. Les données volées contiennent des informations client, des données financières, des tickets de support et du code source, avec des millions de personnes touchées.",
+        "title": "Education giant Pearson hit by cyberattack exposing customer data",
+        "url": "https://www.bleepingcomputer.com/news/security/education-giant-pearson-hit-by-cyberattack-exposing-customer-data/",
+        "added": "2025-05-09"
+    },
+    {
         "date": "2025-05-01",
         "victim": "Breton S.p.A.",
         "domain": "breton.it",
