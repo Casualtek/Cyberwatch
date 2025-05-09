@@ -1,5 +1,15 @@
 [
     {
+        "date": "2025-02-06",
+        "victim": "Berks County Bar Association",
+        "domain": "berksbar.org",
+        "country": "USA",
+        "summary": "Aux alentours du 6 février 2025, un serveur de l'association du barreau a été la cible d'une cyberattaque, ce qui a entraîné une réponse immédiate incluant la sécurisation du réseau, la notification aux autorités et le lancement d'une enquête approfondie. Celle-ci, menée avec l'aide d'experts indépendants, a récemment été conclue. Bien qu’aucune utilisation frauduleuse n’ait été constatée à ce jour, des données telles que le nom, l’adresse, le numéro de téléphone et le numéro de sécurité sociale pourraient avoir été exposées.",
+        "title": "Data Breach Notification",
+        "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/067aadcc-da34-4008-b989-5424e745174e.html",
+        "added": "2025-05-09"
+    },
+    {
         "date": "2025-01-15",
         "victim": "Pearson",
         "domain": "pearson.com",
