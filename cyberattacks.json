@@ -1,5 +1,15 @@
 [
     {
+        "date": "2025-02-19",
+        "victim": "Raymond Ltd",
+        "domain": "raymond.in",
+        "country": "IND",
+        "summary": "Raymond Ltd a signalé un incident de cybersécurité qui a affecté certains de ses actifs informatiques, mais n'a pas impacté ses systèmes et opérations principaux. L'incident n'a pas non plus affecté les opérations des clients et des magasins. L'entreprise a pris des mesures pour atténuer l'impact de l'incident et mène une enquête pour déterminer les causes.",
+        "title": "Raymond reports cyber security incident, IT assets affected - The Economic Times",
+        "url": "https://economictimes.indiatimes.com/tech/technology/raymond-reports-cyber-security-incident-affecting-some-of-its-it-assets/articleshow/118382291.cms",
+        "added": "2025-05-12"
+    },
+    {
         "date": "2025-05-05",
         "victim": "Global Crossing Airlines Group Inc.",
         "domain": "globalxair.com",
