@@ -1,5 +1,25 @@
 [
     {
+        "date": "2024-10-23",
+        "victim": "Andy Frain Services, Inc.",
+        "domain": "andyfrain.com",
+        "country": "USA",
+        "summary": "Andy Frain Services, Inc. (AFS) a subi un incident informatique pouvant avoir affecté des informations personnelles, sans toutefois qu'il y ait preuve d’un quelconque usage frauduleux.",
+        "title": "Data Breach Notification",
+        "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/a767f210-0989-43f8-9ceb-8bc018ce2b8c.html",
+        "added": "2025-05-13"
+    },
+    {
+        "date": "2024-02-01",
+        "victim": "Robinson, Farmer, Cox Associates",
+        "domain": "rfca.com",
+        "country": "USA",
+        "summary": "Vers le 1er février 2024, RFC a détecté une activité suspecte sur son réseau informatique et a immédiatement lancé une enquête avec l’aide d’experts en cybersécurité et en criminalistique numérique. L’enquête a révélé un accès non autorisé au réseau entre le 25 et le 31 janvier 2024, durant lequel certains fichiers et dossiers ont été consultés. RFC a ensuite mené un examen approfondi des données potentiellement compromises afin d’identifier les informations sensibles et les personnes concernées, et bien qu’aucun usage frauduleux n’ait été détecté, des notifications ont été envoyées par précaution, notamment concernant des noms et numéros de sécurité sociale.",
+        "title": "Data Breach Notification",
+        "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/ef965761-57e2-4424-8fb4-9ce99e58ab97.html",
+        "added": "2025-05-13"
+    },
+    {
         "date": "2025-02-19",
         "victim": "Raymond Ltd",
         "domain": "raymond.in",
