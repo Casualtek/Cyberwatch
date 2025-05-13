@@ -1,5 +1,89 @@
 [
     {
+        "victim": "mooregiles.com",
+        "domain": "mooregiles.com",
+        "country": "US",
+        "date": "2025-03-28",
+        "group": "safepay"
+    },
+    {
+        "victim": "dreng.com",
+        "domain": "dreng.com",
+        "country": "US",
+        "date": "2025-03-30",
+        "group": "safepay"
+    },
+    {
+        "victim": "kolpa.com.pe",
+        "domain": "kolpa.com.pe",
+        "country": "PE",
+        "date": "2025-03-22",
+        "group": "safepay"
+    },
+    {
+        "victim": "bloomfamilyeyesurgeons.com",
+        "domain": "bloomfamilyeyesurgeons.com",
+        "country": "US",
+        "date": "2025-03-13",
+        "group": "safepay"
+    },
+    {
+        "victim": "biglevel.net",
+        "domain": "biglevel.net",
+        "country": "US",
+        "date": "2025-03-23",
+        "group": "safepay"
+    },
+    {
+        "victim": "dosjm.com",
+        "domain": "dosjm.com",
+        "country": "HK",
+        "date": "2025-03-19",
+        "group": "safepay"
+    },
+    {
+        "victim": "schapmann",
+        "domain": "schapmann",
+        "country": "DE",
+        "date": "2025-04-11",
+        "group": "safepay"
+    },
+    {
+        "victim": "eu-rec.de",
+        "domain": "eu-rec.de",
+        "country": "DE",
+        "date": "2025-04-05",
+        "group": "safepay"
+    },
+    {
+        "victim": "morricetransportation.com",
+        "domain": "morricetransportation.com",
+        "country": "US",
+        "date": "2025-04-04",
+        "group": "safepay"
+    },
+    {
+        "victim": "gewandhaus.bayern",
+        "domain": "gewandhaus.bayern",
+        "country": "DE",
+        "date": "2025-04-04",
+        "group": "safepay"
+    },
+    {
+        "victim": "scheuerle-stuttgart.de",
+        "domain": "scheuerle-stuttgart.de",
+        "country": "DE",
+        "date": "2025-04-05",
+        "group": "safepay"
+    },
+    {
+        "victim": "metten-maas.de",
+        "domain": "metten-maas.de",
+        "country": "DE",
+        "date": "2025-04-04",
+        "group": "safepay"
+    },
+    {
         "victim": "hagemann-h.de",
         "domain": "hagemann-h.de",
         "country": "DE",
