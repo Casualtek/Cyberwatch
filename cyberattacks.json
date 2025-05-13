@@ -1,5 +1,15 @@
 [
     {
+        "date": "2025-05-10",
+        "victim": "Alabama",
+        "domain": "alabama.gov",
+        "country": "USA",
+        "summary": "L'Alabama Office of Information Technology a détecté une activité anormale sur son réseau, ce qui a entraîné des perturbations temporaires des services en ligne. Les équipes travaillent pour identifier et atténuer les impacts, et les données personnelles des résidents de l'État n'ont pas été compromises. L'événement a été détecté vendredi dernier et les équipes travaillent sans relâche pour assurer la continuité des services essentiels. (via eCrime.ch)",
+        "title": "Alabama investigating cybersecurity 'event' on state network | StateScoop",
+        "url": "https://statescoop.com/alabama-cybersecurity-event-may-2025/",
+        "added": "2025-05-13"
+    },
+    {
         "date": "2024-10-23",
         "victim": "Andy Frain Services, Inc.",
         "domain": "andyfrain.com",
