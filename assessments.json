@@ -1,5 +1,61 @@
 [
     {
+        "victim": "hagemann-h.de",
+        "domain": "hagemann-h.de",
+        "country": "DE",
+        "date": "2025-04-02",
+        "group": "safepay"
+    },
+    {
+        "victim": "maxusgroup.com",
+        "domain": "maxusgroup.com",
+        "country": "HK",
+        "date": "2025-04-15",
+        "group": "safepay"
+    },
+    {
+        "victim": "join-the-quest.co.uk",
+        "domain": "join-the-quest.co.uk",
+        "country": "GB",
+        "date": "2025-04-16",
+        "group": "safepay"
+    },
+    {
+        "victim": "abfiad.nl",
+        "domain": "abfiad.nl",
+        "country": "NL",
+        "date": "2025-04-15",
+        "group": "safepay"
+    },
+    {
+        "victim": "gravelec.ch",
+        "domain": "gravelec.ch",
+        "country": "CH",
+        "date": "2025-04-14",
+        "group": "safepay"
+    },
+    {
+        "victim": "kize-weisser-stein.de",
+        "domain": "kize-weisser-stein.de",
+        "country": "DE",
+        "date": "2025-03-29",
+        "group": "safepay"
+    },
+    {
+        "victim": "igpi.co.jp",
+        "domain": "igpi.co.jp",
+        "country": "JP",
+        "date": "2025-03-31",
+        "group": "safepay"
+    },
+    {
+        "victim": "moorecoal.com",
+        "domain": "moorecoal.com",
+        "country": "US",
+        "date": "2025-04-15",
+        "group": "safepay"
+    },
+    {
         "victim": "Lantronics",
         "domain": "lantronix.com",
         "country": "US",
