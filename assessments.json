@@ -1,5 +1,19 @@
 [
     {
+        "victim": "Bioprofarma Bagó S.A",
+        "domain": "bioprofarma-bago.com.ar",
+        "country": "AR",
+        "date": "2025-04-27",
+        "group": "gunra"
+    },
+    {
+        "victim": "Klinger Italy",
+        "domain": "klinger.it",
+        "country": "IT",
+        "date": "2025-04-26",
+        "group": "gunra"
+    },
+    {
         "victim": "Shinko Shoji",
         "domain": "shinkcorp.co.jp.es",
         "country": "JP",
