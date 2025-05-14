@@ -1,5 +1,15 @@
 [
     {
+        "date": "2025-05-13",
+        "victim": "Nucor Corporation",
+        "domain": "nucor.com",
+        "country": "USA",
+        "summary": "Nucor Corporation a récemment identifié une faille de sécurité informatique impliquant un accès non autorisé à certains systèmes d'information. L'entreprise a pris des mesures pour contenir et répondre à l'incident, y compris la mise en œuvre de son plan de réponse aux incidents et la notification des autorités de police fédérales. Les opérations de production ont été temporairement suspendues dans certaines usines, mais sont en cours de redémarrage.",
+        "title": "NUCOR CORP (Form: 8-K, Received: 05/14/2025 06:06:03)",
+        "url": "https://d18rn0p25nwr6d.cloudfront.net/CIK-0000073309/0741b3df-efb6-4d81-b518-1cf8b0071c22.html",
+        "added": "2025-05-14"
+    },
+    {
         "date": "2025-01-26",
         "victim": "Unicorr Packaging Group",
         "domain": "unicorr.com",
