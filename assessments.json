@@ -1,5 +1,103 @@
 [
     {
+        "victim": "psec.com.ar",
+        "domain": "psec.com.ar",
+        "country": "AR",
+        "date": "2025-03-16",
+        "group": "J"
+    },
+    {
+        "victim": "bouygues-es.fr",
+        "domain": "bouygues-es.fr",
+        "country": "FR",
+        "date": "2025-04-25",
+        "group": "J"
+    },
+    {
+        "victim": "ferretornillos.com",
+        "domain": "ferretornillos.com",
+        "country": "ES",
+        "date": "2025-04-25",
+        "group": "J"
+    },
+    {
+        "victim": "ratnasagar.com",
+        "domain": "ratnasagar.com",
+        "country": "IN",
+        "date": "2025-04-26",
+        "group": "J"
+    },
+    {
+        "victim": "brdigital.net.br",
+        "domain": "brdigital.net.br",
+        "country": "BR",
+        "date": "2025-05-05",
+        "group": "J"
+    },
+    {
+        "victim": "uva.edu.br",
+        "domain": "uva.edu.br",
+        "country": "BR",
+        "date": "2025-02-17",
+        "group": "J"
+    },
+    {
+        "victim": "ausfec1.com.au",
+        "domain": "ausfec1.com.au",
+        "country": "AU",
+        "date": "2025-02-22",
+        "group": "J"
+    },
+    {
+        "victim": "rosekennedygreenway.org",
+        "domain": "rosekennedygreenway.org",
+        "country": "US",
+        "date": "2025-02-23",
+        "group": "J"
+    },
+    {
+        "victim": "jean-petit.lu",
+        "domain": "jean-petit.lu",
+        "country": "LU",
+        "date": "2025-03-02",
+        "group": "J"
+    },
+    {
+        "victim": "atp.chaco.gob.ar",
+        "domain": "atp.chaco.gob.ar",
+        "country": "AR",
+        "date": "2025-03-03",
+        "group": "J"
+    },
+    {
+        "victim": "l-a.com.vn",
+        "domain": "l-a.com.vn",
+        "country": "VN",
+        "date": "2025-03-03",
+        "group": "J"
+    },
+    {
+        "victim": "automobile-mueller.info",
+        "domain": "automobile-mueller.info",
+        "country": "DE",
+        "date": "2025-03-13",
+        "group": "J"
+    },
+    {
+        "victim": "laticrete.com.cn",
+        "domain": "laticrete.com.cn",
+        "country": "CN",
+        "date": "2025-03-13",
+        "group": "J"
+    },
+    {
+        "victim": "mygoalseek.com",
+        "domain": "mygoalseek.com",
+        "country": "US",
+        "date": "2025-03-13",
+        "group": "J"
+    },
+    {
         "victim": "Defected Records",
         "domain": "defected.com",
         "country": "GB",
