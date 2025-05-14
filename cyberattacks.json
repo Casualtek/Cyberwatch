@@ -1,5 +1,15 @@
 [
     {
+        "date": "2025-01-26",
+        "victim": "Unicorr Packaging Group",
+        "domain": "unicorr.com",
+        "country": "USA",
+        "summary": "Le 26 janvier 2025, Unicorr a détecté une activité non autorisée sur son réseau et a fait appel à des spécialistes en cybersécurité pour en déterminer l’origine et l’ampleur. L’enquête a confirmé qu’un individu avait accédé sans autorisation à certaines données, dont celles concernant l’utilisateur, identifiées le 19 février 2025. En réaction, Unicorr a sécurisé ses systèmes, réinitialisé les mots de passe, et propose gratuitement 24 mois de surveillance du crédit et de protection d’identité. Une cyberattaque contre Unicorr a été revendiquée le 14 mars 2024 sous la bannière d'Akira.",
+        "title": "Data Breach Notification",
+        "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/0b5a38a4-b0d5-4b3e-88c7-0552a4b19f1f.html",
+        "added": "2025-05-14"
+    },
+    {
         "date": "2024-09-09",
         "victim": "Weiser Memorial Hospital",
         "domain": "weisermemorialhospital.org",
