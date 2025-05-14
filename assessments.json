@@ -1,5 +1,89 @@
 [
     {
+        "victim": "Imedexsa",
+        "domain": "imedexsa.es",
+        "country": "ES",
+        "date": "2025-04-21",
+        "group": "ransomhouse"
+    },
+    {
+        "victim": "Bacton Transport Services",
+        "domain": "bactontransport.co.uk",
+        "country": "UK",
+        "date": "2025-04-10",
+        "group": "ransomhouse"
+    },
+    {
+        "victim": "C-Mec",
+        "domain": "c-mec.be",
+        "country": "BE",
+        "date": "2025-04-10",
+        "group": "ransomhouse"
+    },
+    {
+        "victim": "Telecontrol",
+        "domain": "telecontrolspa.it",
+        "country": "IT",
+        "date": "2025-04-01",
+        "group": "ransomhouse"
+    },
+    {
+        "victim": "NEW JERSEY CPA",
+        "domain": "njcpa.org",
+        "country": "US",
+        "date": "2025-02-17",
+        "group": "ransomhouse"
+    },
+    {
+        "victim": "Statesman Business Advisors",
+        "domain": "statesmanbiz.com",
+        "country": "US",
+        "date": "2025-04-11",
+        "group": "dragonforce"
+    },
+    {
+        "victim": "Beaumont Products",
+        "domain": "citrusproducts.com",
+        "country": "US",
+        "date": "2025-04-11",
+        "group": "dragonforce"
+    },
+    {
+        "victim": "TUV India Pvt. Ltd.",
+        "domain": "tuv-nord.com",
+        "country": "IN",
+        "date": "2025-01-03",
+        "group": "ransomhouse"
+    },
+    {
+        "victim": "The Loretto Hospital",
+        "domain": "lorettohospital.org",
+        "country": "US",
+        "date": "2025-02-02",
+        "group": "ransomhouse"
+    },
+    {
+        "victim": "Nationz Technologies Inc.",
+        "domain": "nationz.com.cn",
+        "country": "CN",
+        "date": "2025-02-08",
+        "group": "ransomhouse"
+    },
+    {
+        "victim": "Supreme Administrative Court of Bulgaria",
+        "domain": "sac.justice.bg",
+        "country": "BG",
+        "date": "2025-01-27",
+        "group": "ransomhouse"
+    },
+    {
+        "victim": "Aishu, Eshoo",
+        "domain": "aishutech.com",
+        "country": "CN",
+        "date": "2025-01-20",
+        "group": "ransomhouse"
+    },
+    {
         "victim": "psec.com.ar",
         "domain": "psec.com.ar",
         "country": "AR",
