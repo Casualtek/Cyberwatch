@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-09-09",
+        "victim": "Weiser Memorial Hospital",
+        "domain": "weisermemorialhospital.org",
+        "country": "USA",
+        "summary": "Le 4 septembre 2024, Weiser a détecté une activité inhabituelle sur son réseau et a immédiatement sécurisé ses systèmes avec l’aide d’experts en cybersécurité. L’enquête a révélé que certaines données avaient pu être consultées sans autorisation à cette date. Après une analyse approfondie des fichiers concernés, achevée le 21 avril 2025, Weiser a pu identifier les personnes touchées et leur adresser un avis personnalisé. Une attaque contre Weiser avait été revendiquée sous la bannière d'Embargo, le 30 septembre 2024.",
+        "title": "Data Breach Notification",
+        "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/7e5d44a8-a4d9-4e49-b2c1-b66ba1cb328d.html",
+        "added": "2025-05-14"
+    },
+    {
         "date": "2025-05-10",
         "victim": "Alabama",
         "domain": "alabama.gov",
