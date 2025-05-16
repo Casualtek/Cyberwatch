@@ -1,5 +1,15 @@
 [
     {
+        "date": "2025-02-13",
+        "victim": "Harrison Interests, Ltd.",
+        "domain": "harrisoninterests.com",
+        "country": "USA",
+        "summary": "DJH Services LLC informe qu’un incident de cybersécurité a touché les réseaux des entreprises DJH, entraînant un accès non autorisé à certaines données personnelles entre le 7 et le 13 février 2025. Dès la détection de l’intrusion, DJH a sécurisé ses systèmes, lancé une enquête approfondie avec des experts en cybersécurité, et signalé l’incident au FBI. Après analyse, il a été confirmé le 14 avril 2025 que des informations personnelles faisaient partie des données compromises.",
+        "title": "Data Breach Notification",
+        "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/28df8b21-d154-46fc-8bec-c6fef65c7ecb.html",
+        "added": "2025-05-16"
+    },
+    {
         "date": "2025-04-22",
         "victim": "Gloucester County Virginia",
         "domain": "gloucesterva.gov",
