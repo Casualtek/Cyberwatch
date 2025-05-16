@@ -1,5 +1,12 @@
 [
     {
+        "victim": "sfrent.net",
+        "domain": "sfrent.net",
+        "country": "US",
+        "date": "2025-04-04",
+        "group": "play"
+    },
+    {
         "victim": "The Study",
         "domain": "studyhotels.com",
         "country": "US",
