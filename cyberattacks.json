@@ -1,5 +1,15 @@
 [
     {
+        "date": "2025-03-23",
+        "victim": "EB Archbald & Associates, Inc",
+        "domain": "ebassi.com",
+        "country": "USA",
+        "summary": "Le 23 mars 2025, l’entreprise a découvert qu’elle avait été victime d’une attaque de type ransomware, au cours de laquelle des pirates ont chiffré toutes les données présentes sur ses serveurs et son portail cloud. Après avoir exigé une rançon en échange d’une clé de déchiffrement, les cybercriminels ont été signalés au FBI, dont les recommandations ont conduit l’entreprise à refuser de céder au chantage. Bien que les attaquants aient menacé de diffuser des données potentiellement exfiltrées, aucune preuve de cette fuite n’a été fournie, sans toutefois qu’un tel risque puisse être écarté. L'attaque a été revendiquée chez Qilin, le 26 mars.",
+        "title": "Data Breach Notification",
+        "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/fb7a77ed-bf73-407e-95fb-add5fe40a5ab.html",
+        "added": "2025-05-16"
+    },
+    {
         "date": "2025-02-13",
         "victim": "Harrison Interests, Ltd.",
         "domain": "harrisoninterests.com",
