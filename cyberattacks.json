@@ -1,5 +1,15 @@
 [
     {
+        "date": "2025-02-13",
+        "victim": "Duo Broadband",
+        "domain": "duobroadband.com",
+        "country": "USA",
+        "summary": "Le 13 février 2025, un incident de cybersécurité a été découvert, impliquant une tentative de perturbation des systèmes de l’entreprise par un acteur malveillant, probablement dans le but de déployer un ransomware et d’exiger une rançon. Dès la détection, l’accès non autorisé a été interrompu, les systèmes sécurisés, et les autorités compétentes ont été informées conformément à la réglementation. Le 17 mars 2025, un accès non autorisé à certaines informations personnelles sensibles de clients de Duo Broadband a été confirmé.",
+        "title": "Data Breach Notification",
+        "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/943d1111-7f57-42a2-8259-b0de8e4ba981.html",
+        "added": "2025-05-16"
+    },
+    {
         "date": "2025-03-23",
         "victim": "EB Archbald & Associates, Inc",
         "domain": "ebassi.com",
