@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-10-17",
+        "victim": "Kitsap Mental Health Services",
+        "domain": "kitsapmentalhealth.org",
+        "country": "USA",
+        "summary": "Kitsap Mental Health Services a subi une attaque cyber en septembre dernier, les hackers ont téléchargé des données sensibles, notamment des informations de santé et des données personnelles, entre le 17 septembre et le 19 octobre 2024. Les données compromises incluent des noms de patients, des dates de naissance, des numéros de sécurité sociale et des informations d'assurance maladie. L'organisation a pris des mesures pour atténuer l'incident, notamment en changeant les mots de passe et en déployant des outils pour surveiller les activités suspectes.",
+        "title": "Kitsap Mental Health Services Data Breach - TechNadu",
+        "url": "https://www.technadu.com/hacker-explores-kitsap-mental-health-services-systems-and-then-steals-data-next-month/594934/",
+        "added": "2025-05-19"
+    },
+    {
         "date": "2025-05-15",
         "victim": "Arla Foods",
         "domain": "arlafoods.de",
