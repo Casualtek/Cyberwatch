@@ -1,5 +1,12 @@
 [
     {
+        "victim": "greenpac.com.sg",
+        "domain": "greenpac.com.sg",
+        "country": "SG",
+        "date": "2025-04-08",
+        "group": "safepay"
+    },
+    {
         "victim": "mylikowines.co.uk",
         "domain": "mylikowines.co.uk",
         "country": "GB",
