@@ -1,5 +1,12 @@
 [
     {
+        "victim": "prais.ro",
+        "domain": "prais.ro",
+        "country": "RO",
+        "date": "2025-04-16",
+        "group": "safepay"
+    },
+    {
         "victim": "aplusmachining.com",
         "domain": "aplusmachining.com",
         "country": "US",
