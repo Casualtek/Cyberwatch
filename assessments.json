@@ -1,5 +1,12 @@
 [
     {
+        "victim": "distribution2.com",
+        "domain": "distribution2.com",
+        "country": "DE",
+        "date": "2025-04-23",
+        "group": "safepay"
+    },
+    {
         "victim": "redsquaredentalcare.com",
         "domain": "redsquaredentalcare.com",
         "country": "US",
