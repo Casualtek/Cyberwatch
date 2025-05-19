@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-09-15",
+        "victim": "Business Systems House (BSH)",
+        "domain": "bshsoft.com",
+        "country": "ARE",
+        "summary": "Une attaque de ransomware a visé un partenaire d'ADP, Business Systems House, en septembre 2024, exposant des données sensibles d'employés de Broadcom. L'attaque a été découverte en septembre 2024, mais les détails n'ont été communiqués à Broadcom qu'en mai 2025. L'incident met en évidence les risques liés à la gestion des données de tiers et à la sécurité de la chaîne d'approvisionnement.",
+        "title": "Ransomware Attack on ADP Partner Exposes Broadcom Employee Data",
+        "url": "https://www.webpronews.com/ransomware-attack-on-adp-partner-exposes-broadcom-employee-data/",
+        "added": "2025-05-19"
+    },
+    {
         "date": "2025-04-28",
         "victim": "DBKL Systems",
         "domain": "dbkl.gov.my",
