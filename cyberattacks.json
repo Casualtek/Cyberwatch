@@ -1,5 +1,15 @@
 [
     {
+        "date": "2025-05-15",
+        "victim": "Arla Foods",
+        "domain": "arlafoods.de",
+        "country": "DEU",
+        "summary": "Une usine d'Arla Foods en Allemagne a été touchée par un incident de cybersécurité, ce qui a affecté la production. L'entreprise a déclaré que des mesures de sécurité ont été mises en place pour résoudre le problème. Arla Foods est un géant laitier basé au Danemark avec des opérations en Allemagne. (via eCrime.ch)",
+        "title": "Arla factory in Germany hit by cyber incident - Just Food",
+        "url": "https://www.just-food.com/news/arla-factory-in-germany-hit-by-cyber-incident/",
+        "added": "2025-05-19"
+    },
+    {
         "date": "2024-09-15",
         "victim": "Business Systems House (BSH)",
         "domain": "bshsoft.com",
