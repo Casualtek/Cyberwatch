@@ -1,5 +1,12 @@
 [
     {
+        "victim": "mylikowines.co.uk",
+        "domain": "mylikowines.co.uk",
+        "country": "GB",
+        "date": "2025-04-05",
+        "group": "safepay"
+    },
+    {
         "victim": "ngca.net",
         "domain": "ngca.net",
         "country": "US",
