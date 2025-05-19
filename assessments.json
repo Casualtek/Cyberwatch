@@ -1,5 +1,12 @@
 [
     {
+        "victim": "ngca.net",
+        "domain": "ngca.net",
+        "country": "US",
+        "date": "2025-04-29",
+        "group": "safepay"
+    },
+    {
         "victim": "distribution2.com",
         "domain": "distribution2.com",
         "country": "DE",
