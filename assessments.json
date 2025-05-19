@@ -1,5 +1,12 @@
 [
     {
+        "victim": "zvaonline.com",
+        "domain": "zvaonline.com",
+        "country": "US",
+        "date": "2025-04-12",
+        "group": "safepay"
+    },
+    {
         "victim": "greenpac.com.sg",
         "domain": "greenpac.com.sg",
         "country": "SG",
