@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-10-08",
+        "victim": "Bosque School",
+        "domain": "bosqueschool.org",
+        "country": "USA",
+        "summary": "Bosque School is notifying individuals of a recent security incident that may have involved their personal information. The incident occurred between October 3-7, 2024, when an unauthorized actor gained access to a limited number of school systems, potentially viewing or downloading certain files. The investigation found that the affected files contained personal information, including names, but there is currently no evidence of identity theft or fraud.",
+        "title": "Data Breach Notification",
+        "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/6f938633-f767-4a35-8abb-79364f53cda8.html",
+        "added": "2025-05-19"
+    },
+    {
         "date": "2024-10-17",
         "victim": "Kitsap Mental Health Services",
         "domain": "kitsapmentalhealth.org",
