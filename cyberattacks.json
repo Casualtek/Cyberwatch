@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-04-01",
+        "victim": "Mairie de Loon-Plage",
+        "domain": "ville-loonplage.org",
+        "country": "FRA",
+        "summary": "La mairie de Loon-Plage a été victime d'une cyberattaque par ransomware le 1er avril, ce qui a paralysé temporairement les services municipaux. Aucune rançon n'a été payée et la situation a été rétablie grâce aux interventions du service informatique. La municipalité va renforcer les consignes de vigilance auprès des agents pour éviter que de tels incidents ne se reproduisent.",
+        "title": "Loon-Plage : une cyberattaque paralyse temporairement la mairie",
+        "url": "https://www.deltafm.fr/loon-plage-une-cyberattaque-paralyse-temporairement-la-mairie",
+        "added": "2025-05-20"
+    },
+    {
         "date": "2024-05-20",
         "victim": "Community Counseling of Bristol County",
         "domain": "comcounseling.org",
