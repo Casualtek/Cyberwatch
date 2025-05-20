@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-05-20",
+        "victim": "Community Counseling of Bristol County",
+        "domain": "comcounseling.org",
+        "country": "USA",
+        "summary": "Community Counseling of Bristol County, Inc. (CCBC) has experienced a data security incident where an unauthorized party gained access to their network, potentially compromising personal and protected health information. The incident occurred between May 18, 2024, and May 20, 2024, and CCBC is offering complimentary credit monitoring services through Experian IdentityWorks to affected individuals. To protect themselves, individuals can place a fraud alert or security freeze on their credit files, obtain a free credit report, and review their financial statements for suspicious activity. CCBC is providing additional resources and information to help individuals protect their medical information and prevent identity theft. Individuals with questions or concerns can contact CCBC's dedicated response line or visit the Experian IdentityWorks website for more information.",
+        "title": "Data Breach Notification",
+        "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/a0ceba86-0696-4903-b076-e35c53882ce4.html",
+        "added": "2025-05-20"
+    },
+    {
         "date": "2025-05-20",
         "victim": "Département des Hauts-de-Seine",
         "domain": "hauts-de-seine.fr",
