@@ -1,5 +1,25 @@
 [
     {
+        "date": "2025-05-20",
+        "victim": "Département des Hauts-de-Seine",
+        "domain": "hauts-de-seine.fr",
+        "country": "FRA",
+        "summary": "Le Département dit avoir été victime d’une cyberattaque qualifiée de grande ampleur. Il indique que l’ensemble de ses systèmes d’information et de ses moyens de communication habituels ont été désactivés pour une période indéterminée.",
+        "title": "Facebook post",
+        "url": "https://www.facebook.com/hautsdeseine.ledepartement/posts/pfbid02P824StB91wdtq4xg85fQBVW3QDcS9GjX8KdwXHf5WLXWfskLRAXa16bKWRU54Yv4l",
+        "added": "2025-05-20"
+    },
+    {
+        "date": "2025-04-23",
+        "victim": "INDIGO Group",
+        "domain": "group-indigo.com",
+        "country": "FRA",
+        "summary": "Le groupe INDIGO a été victime d'une faille de sécurité, des individus malveillants ont accédé à son système d'information, potentiellement permettant l'accès non autorisé à des données personnelles de clients. Des mesures techniques et d'information ont été prises et une plainte a été déposée. Les clients ont été informés d'une fuite potentielle de leurs données personnelles. Une cyberattaque contre le groupe a été revendiquée sous la bannière de World Leaks le 20 mai.",
+        "title": "WARNING: CYBER-INCIDENT AT INDIGO GROUP - INDIGO Group",
+        "url": "https://www.group-indigo.com/en/indigo-incident-alert/",
+        "added": "2025-05-20"
+    },
+    {
         "date": "2025-05-15",
         "victim": "Peter Green Chilled",
         "domain": "petergreenchilled.co.uk",
