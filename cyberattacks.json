@@ -1,5 +1,15 @@
 [
     {
+        "date": "2025-05-14",
+        "victim": "Cellcom",
+        "domain": "cellcom.com",
+        "country": "USA",
+        "summary": "Cellcom a subi une attaque cyber qui a causé une panne de service, mais aucune information personnelle des clients n'a été compromise. L'entreprise travaille à restaurer le service, qui est actuellement limité aux appels et messages texte entre les clients Cellcom. Le CEO de Cellcom a présenté ses excuses pour les désagréments causés et a assuré que l'entreprise suivait tous les protocoles pour résoudre le problème.",
+        "title": "Cellcom CEO confirms cyber incident as cause of service outage, says no customer information impacted",
+        "url": "https://eu.greenbaypressgazette.com/story/money/2025/05/20/cellcom-ceo-says-outage-caused-by-cyber-attack/83745408007/",
+        "added": "2025-05-21"
+    },
+    {
         "date": "2025-05-18",
         "victim": "La Maison Liégeoise",
         "domain": "maisonliegeoise.be",
