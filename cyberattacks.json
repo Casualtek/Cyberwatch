@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-09-10",
+        "victim": "Branhaven Motors Inc.",
+        "domain": "branhaven.com",
+        "country": "USA",
+        "summary": "Branhaven Motors Inc. a subi une faille de sécurité qui a permis à des acteurs non autorisés d'accéder à certaines informations personnelles de ses clients. Les informations compromises incluent les noms complets, mais pas les détails financiers ou les numéros de sécurité sociale. La société recommande à ses clients de placer une alerte de fraude sur leurs dossiers de crédit et de considérer la possibilité de geler leur crédit pour se protéger contre les fraudes potentielles. Les clients peuvent obtenir un rapport de crédit gratuit et examiner leurs relevés bancaires pour détecter toute activité suspecte. Branhaven Motors Inc. a mis en place une ligne de réponse téléphonique confidentielle pour aider les clients à répondre à leurs questions et à prendre des mesures pour se protéger.",
+        "title": "Data Breach Notification",
+        "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/25a92876-781e-44d3-b07e-a1bae2b60824.html",
+        "added": "2025-05-21"
+    },
+    {
         "date": "2025-02-14",
         "victim": "Veristat Parent, L.P.",
         "domain": "veristat.com",
