@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-11-30",
+        "victim": "Williams Scarborough Gray, LLP",
+        "domain": "wsgcpa.com",
+        "country": "USA",
+        "summary": "Williams Scarborough Gray, LLP, a law firm, has notified the Office of the Attorney General of Maine about a data security incident that occurred between November 30, 2024, and December 4, 2024. During this period, an unauthorized party accessed the firm's systems and obtained files containing personal information, including names, Social Security numbers, and financial account numbers. The firm has taken steps to contain the situation, including changing passwords, installing new firewalls, and notifying tax authorities. One Maine resident was affected by the incident, and the firm is providing written notification and offering complimentary access to Experian IdentityWorks for identity protection. The firm is also providing resources and information to help the affected individual protect their identity and prevent potential fraud.",
+        "title": "Data Breach Notification",
+        "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/245ee80a-4059-4ccb-901d-2c028a29e815.html",
+        "added": "2025-05-21"
+    },
+    {
         "date": "2025-05-14",
         "victim": "Cellcom",
         "domain": "cellcom.com",
