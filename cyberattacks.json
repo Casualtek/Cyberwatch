@@ -1,5 +1,15 @@
 [
     {
+        "date": "2025-02-14",
+        "victim": "Veristat Parent, L.P.",
+        "domain": "veristat.com",
+        "country": "USA",
+        "summary": "Veristat, a company, has reported a data event that occurred between February 12-14, 2025, where certain files on their systems were accessed or acquired without authorization. The investigation revealed that personal information, including names and Social Security numbers, was involved in the event. Veristat is providing written notice to affected individuals, including approximately one Maine resident, and is offering 24 months of complimentary credit monitoring services through Epiq. The company is also providing guidance on how to protect against identity theft and fraud, including information on how to place a fraud alert and security freeze on credit files. Affected individuals are encouraged to remain vigilant and report any suspicious activity to their financial institutions and relevant authorities.",
+        "title": "Data Breach Notification",
+        "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/f6b83fc2-33b0-4e4d-a305-479c99a080b6.html",
+        "added": "2025-05-21"
+    },
+    {
         "date": "2024-04-10",
         "victim": "Casner & Edwards, LLP",
         "domain": "casneredwards.com",
