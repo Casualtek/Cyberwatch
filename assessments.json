@@ -1,5 +1,12 @@
 [
     {
+        "victim": "schoene-aussicht-kassel.de",
+        "domain": "schoene-aussicht-kassel.de",
+        "country": "DE",
+        "date": "2025-04-10",
+        "group": "safepay"
+    },
+    {
         "victim": "Woodbine Hospitality",
         "domain": "woodbinehospitality.com",
         "country": "US",
