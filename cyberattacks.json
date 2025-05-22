@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-10-24",
+        "victim": "Sangoma Technologies Inc.",
+        "domain": "sangoma.com",
+        "country": "USA",
+        "summary": "Sangoma a récemment découvert une faille de sécurité qui a pu compromettre certaines informations personnelles de ses employés, anciens employés, contractants et demandeurs d'emploi. L'incident a eu lieu entre le 23 et le 24 octobre 2024, et des fichiers contenant des informations personnelles ont été copiés. Les informations compromises incluent les noms, ainsi que d'autres éléments personnels. En réponse à cet incident, Sangoma propose une protection d'identité gratuite pendant 24 mois aux personnes concernées, ainsi que des conseils pour protéger leur identité. Les personnes concernées peuvent également contacter les agences de notation de crédit pour obtenir des informations sur la protection de leur identité et les mesures à prendre en cas de vol d'identité.",
+        "title": "Data Breach Notification",
+        "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/4c1fbb51-a407-4729-bd3d-46eafe43563f.html",
+        "added": "2025-05-22"
+    },
+    {
         "date": "2024-09-10",
         "victim": "Branhaven Motors Inc.",
         "domain": "branhaven.com",
