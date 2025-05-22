@@ -1,5 +1,12 @@
 [
     {
+        "victim": "dawg-dok.de",
+        "domain": "dawg-dok.de",
+        "country": "DE",
+        "date": "2025-04-15",
+        "group": "safepay"
+    },
+    {
         "victim": "sb-p.de",
         "domain": "sb-p.de",
         "country": "DE",
