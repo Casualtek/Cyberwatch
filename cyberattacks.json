@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-08-04",
+        "victim": "Alera Group Inc",
+        "domain": "alera.com",
+        "country": "USA",
+        "summary": "Alera Group a découvert une faille de sécurité dans son système informatique, qui a permis à des personnes non autorisées d'accéder à des informations personnelles entre le 19 juillet et le 4 août 2024. Les informations compromises incluent des noms, des numéros de sécurité sociale, des informations d'assurance maladie, des informations financières et des informations médicales. Alera Group a lancé une enquête et a pris des mesures pour sécuriser son environnement et protéger les informations de ses clients. La société offre des services de surveillance de crédit et de protection contre la fraude d'identité pendant 24 mois aux personnes affectées. Les personnes concernées sont invitées à rester vigilantes et à prendre des mesures pour protéger leurs informations personnelles, telles que la surveillance de leurs relevés de compte et la demande d'un rapport de",
+        "title": "Data Breach Notification",
+        "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/43965017-dee2-4b6b-9ea0-e259eaeb35ef.html",
+        "added": "2025-05-22"
+    },
+    {
         "date": "2024-10-24",
         "victim": "Sangoma Technologies Inc.",
         "domain": "sangoma.com",
