@@ -1,5 +1,12 @@
 [
     {
+        "victim": "notar-roemer-troisdorf.de",
+        "domain": "notar-roemer-troisdorf.de",
+        "country": "DE",
+        "date": "2025-04-11",
+        "group": "safepay"
+    },
+    {
         "victim": "rgvengineering.co.uk",
         "domain": "rgvengineering.co.uk",
         "country": "GB",
