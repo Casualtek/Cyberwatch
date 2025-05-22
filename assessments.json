@@ -1,5 +1,12 @@
 [
     {
+        "victim": "sb-p.de",
+        "domain": "sb-p.de",
+        "country": "DE",
+        "date": "2025-04-19",
+        "group": "safepay"
+    },
+    {
         "victim": "schoene-aussicht-kassel.de",
         "domain": "schoene-aussicht-kassel.de",
         "country": "DE",
