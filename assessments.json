@@ -1,5 +1,12 @@
 [
     {
+        "victim": "planet-itservices.com",
+        "domain": "planet-itservices.com",
+        "country": "DE",
+        "date": "2025-04-07",
+        "group": "safepay"
+    },
+    {
         "victim": "ctd-dortmund.de",
         "domain": "ctd-dortmund.de",
         "country": "DE",
