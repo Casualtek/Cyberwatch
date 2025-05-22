@@ -1,5 +1,12 @@
 [
     {
+        "victim": "ctd-dortmund.de",
+        "domain": "ctd-dortmund.de",
+        "country": "DE",
+        "date": "2025-04-08",
+        "group": "safepay"
+    },
+    {
         "victim": "dawg-dok.de",
         "domain": "dawg-dok.de",
         "country": "DE",
