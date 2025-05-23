@@ -1,5 +1,15 @@
 [
     {
+        "date": "2025-05-06",
+        "victim": "Terre d'Oc",
+        "domain": "terredoc.com",
+        "country": "FRA",
+        "summary": "Une cyberattaque par rançongiciel a été détectée dans l'entreprise *terre d'Oc* dans la nuit du 5 au 6 mai 2025, entraînant une possible divulgation de données personnelles (nom, prénom, adresse postale, téléphone), mais sans impact sur les données bancaires. L'entreprise a immédiatement mobilisé ses équipes et des experts pour contenir l'attaque et sécuriser les systèmes. La CNIL a été notifiée, des mesures correctives ont été mises en place, et les services sont désormais pleinement opérationnels. Par précaution, les clients sont invités à rester vigilants face aux risques de phishing. Toute communication douteuse doit être vérifiée directement avec l’entreprise.",
+        "title": "Communiqué Sécurité - Cyberattaque détectée et mesures prises",
+        "url": "https://www.linkedin.com/posts/julie-restino_cyberattaque-communication-databreach-activity-7331619443036336128-rSwu/",
+        "added": "2025-05-23"
+    },
+    {
         "date": "2025-04-21",
         "victim": "Pierce County Library System",
         "domain": "piercecountylibrary.org",
