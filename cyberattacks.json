@@ -1,5 +1,15 @@
 [
     {
+        "date": "2025-04-21",
+        "victim": "Pierce County Library System",
+        "domain": "piercecountylibrary.org",
+        "country": "USA",
+        "summary": "Le système de bibliothèque du comté de Pierce a subi une brèche de sécurité, une entité extérieure a accédé sans autorisation au réseau de la bibliothèque, certaines données ont été compromises, mais les détails restent inconnus pour le moment. La bibliothèque a minimisé la collecte d'informations personnelles et avertira les individus touchés. Une cyberattaque contre la bibliothèque a été revendiquée le 22 mai 2025 sous la bannière de INC Ransom.",
+        "title": "Pierce County Library System confirms data breach",
+        "url": "https://tacomaweekly.com/pierce-county-library-system-confirms-data-breach-p9817-222.htm",
+        "added": "2025-05-23"
+    },
+    {
         "date": "2025-05-22",
         "victim": "Landratsamt Bodenseekreis",
         "domain": "landratsamt-bodenseekreis.de",
