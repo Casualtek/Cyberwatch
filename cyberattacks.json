@@ -1,5 +1,15 @@
 [
     {
+        "date": "2025-01-08",
+        "victim": "Digital Realty Trust, Inc.",
+        "domain": "digitalrealty.com",
+        "country": "USA",
+        "summary": "Une entreprise a subi une faille de sécurité le 8 janvier 2025, permettant à une partie non autorisée d'accéder à certaines de ses données. Les informations personnelles compromises incluent les noms, les coordonnées et d'autres éléments de données. L'entreprise propose deux ans de surveillance de crédit et de protection contre la fraude aux personnes affectées. Pour activer ces services, les individus doivent suivre les instructions fournies dans la lettre d'information. Les personnes concernées peuvent également prendre des mesures supplémentaires pour protéger leurs informations, telles que demander un rapport de crédit gratuit ou placer une alerte de fraude sur leur dossier de crédit.",
+        "title": "Data Breach Notification",
+        "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/0b4813f8-f0cc-4869-afb5-f1f520efa242.html",
+        "added": "2025-05-24"
+    },
+    {
         "date": "2025-02-25",
         "victim": "O'Neill Wetsuits, L.L.C.",
         "domain": "oneillwetsuits.com",
