@@ -1,5 +1,15 @@
 [
     {
+        "date": "2025-02-25",
+        "victim": "O'Neill Wetsuits, L.L.C.",
+        "domain": "oneillwetsuits.com",
+        "country": "USA",
+        "summary": "O'Neill Wetsuits, L.L.C. a subi une faille de sécurité informatique entre le 23 et le 25 février 2025, entraînant l'accès non autorisé à certaines informations personnelles. L'entreprise a pris des mesures pour sécuriser ses systèmes et a engagé des experts en cybersécurité pour enquêter sur l'incident. Les personnes concernées sont invitées à s'inscrire à des services de protection contre les vols d'identité offerts par IDX, qui incluent une surveillance de crédit et une assurance de 1 000 000 $. Les individus peuvent s'inscrire en ligne ou par téléphone en utilisant un code d'inscription fourni.",
+        "title": "Data Breach Notification",
+        "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/2efde660-93be-43a4-9360-267ef34e894d.html",
+        "added": "2025-05-24"
+    },
+    {
         "date": "2024-10-31",
         "victim": "City of Sheboygan, Wisconsin",
         "domain": "sheboyganwi.gov",
