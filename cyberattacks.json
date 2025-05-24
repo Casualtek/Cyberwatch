@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-05-14",
+        "victim": "The Cooper Health System",
+        "domain": "cooperhealth.org",
+        "country": "USA",
+        "summary": "Cooper a détecté une activité suspecte en mai 2024, a réagi rapidement en lançant une enquête avec des experts, et a découvert en mars 2025 qu’un accès non autorisé avait pu compromettre des données personnelles.",
+        "title": "Data Breach Notification",
+        "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/00e705cf-30ba-4dd1-aa72-82e50be98ac9.html",
+        "added": "2025-05-24"
+    },
+    {
         "date": "2024-08-06",
         "victim": "Kronick Moskovitz Tiedemann & Girard",
         "domain": "kmtg.com",
