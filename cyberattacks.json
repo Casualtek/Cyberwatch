@@ -1,5 +1,15 @@
 [
     {
+        "date": "2025-02-19",
+        "victim": "Gaines County, Texas",
+        "domain": "gaines.tx.us",
+        "country": "USA",
+        "summary": "Le comté de Gaines, au Texas, a subi une faille de sécurité dans son réseau le 19 février 2025. Une enquête a été menée avec l'aide d'experts indépendants pour déterminer l'ampleur de l'incident. Il a été découvert que des informations personnelles, notamment des noms, des dates de naissance et des numéros de sécurité sociale, pourraient avoir été compromises.",
+        "title": "Data Breach Notification",
+        "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/52a89aef-a309-45a5-8ea8-61f11538a74d.html",
+        "added": "2025-05-24"
+    },
+    {
         "date": "2025-04-30",
         "victim": "Kalamazoo Public Schools",
         "domain": "kalamazoopublicschools.com",
