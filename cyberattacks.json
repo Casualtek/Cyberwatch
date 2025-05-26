@@ -1,5 +1,15 @@
 [
     {
+        "date": "2025-05-22",
+        "victim": "Choksi Laboratories Limited",
+        "domain": "choksilab.in",
+        "country": "IND",
+        "summary": "Choksi Laboratories Limited a été victime d'une attaque de ransomware, les hackers ont crypté les données et exigent une rançon pour les restaurer. L'attaque a été découverte lorsque l'équipe IT a constaté que le système était verrouillé et que les données étaient inaccessibles. La police a ouvert une enquête et cherche à identifier les auteurs de l'attaque.",
+        "title": "Indore: Pharma Laboratory Hit By Ransomware Attack, Encrypted All Data And Demanded A Ransom For Restoration",
+        "url": "https://www.freepressjournal.in/indore/indore-pharma-laboratory-hit-by-ransomware-attack-encrypted-all-data-and-demanded-a-ransom-for-restoration",
+        "added": "2025-05-26"
+    },
+    {
         "date": "2024-05-14",
         "victim": "The Cooper Health System",
         "domain": "cooperhealth.org",
