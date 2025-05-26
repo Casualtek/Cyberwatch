@@ -1,5 +1,40 @@
 [
     {
+        "victim": "vazirilaw.com",
+        "domain": "vazirilaw.com",
+        "country": "US",
+        "date": "2025-05-20",
+        "group": "threeam"
+    },
+    {
+        "victim": "icgad.com",
+        "domain": "icgad.com",
+        "country": "US",
+        "date": "2025-02-21",
+        "group": "threeam"
+    },
+    {
+        "victim": "icmtx.com",
+        "domain": "icmtx.com",
+        "country": "US",
+        "date": "2025-02-06",
+        "group": "threeam"
+    },
+    {
+        "victim": "jastreet.com",
+        "domain": "jastreet.com",
+        "country": "US",
+        "date": "2025-02-27",
+        "group": "threeam"
+    },
+    {
+        "victim": "neffendorfblockercpa.com",
+        "domain": "neffendorfblockercpa.com",
+        "country": "US",
+        "date": "2025-02-18",
+        "group": "threeam"
+    },
+    {
         "victim": "JDC Air & Sea Freight (HEUEL LOGISTICS Group)",
         "domain": "jdc-logistik.de",
         "country": "DE",
