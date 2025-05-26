@@ -1,5 +1,15 @@
 [
     {
+        "date": "2025-05-09",
+        "victim": "Tiffany & Co.",
+        "domain": "tiffany.kr",
+        "country": "KOR",
+        "summary": "Tiffany & Co. a confirmé une violation de données touchant des clients en Corée du Sud, survenue le 8 avril via une plateforme tierce de gestion de données, exposant des informations personnelles sensibles comme les noms, adresses et historiques d’achats. Cet incident survient après une affaire similaire chez Dior, soulevant des inquiétudes sur la sécurité des données au sein du groupe LVMH. Tiffany a précisé qu’aucune utilisation malveillante des données n’a été détectée à ce jour et que seuls les clients concernés ont été prévenus individuellement.",
+        "title": "Exclusive: Tiffany confirms data breach in South Korea following Dior incident",
+        "url": "https://www.chosun.com/english/industry-en/2025/05/26/ORM5MULB7NEM7EBUFVXHVLSB4A/",
+        "added": "2025-05-26"
+    },
+    {
         "date": "2025-04-17",
         "victim": "Holz Ruser GmbH & Co. KG",
         "domain": "holzruser.de",
