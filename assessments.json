@@ -1,5 +1,12 @@
 [
     {
+        "victim": "estudiolm.com.ar",
+        "domain": "estudiolm.com.ar",
+        "country": "AR",
+        "date": "2025-05-17",
+        "group": "safepay"
+    },
+    {
         "victim": "vazirilaw.com",
         "domain": "vazirilaw.com",
         "country": "US",
