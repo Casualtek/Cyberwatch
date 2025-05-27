@@ -1,5 +1,12 @@
 [
     {
+        "victim": "lrcpa.com",
+        "domain": "lrcpa.com",
+        "country": "US",
+        "date": "2025-05-04",
+        "group": "safepay"
+    },
+    {
         "victim": "estudiolm.com.ar",
         "domain": "estudiolm.com.ar",
         "country": "AR",
