@@ -1,5 +1,15 @@
 [
     {
+        "date": "2025-04-15",
+        "victim": "VNPT",
+        "domain": "vnanet.vn",
+        "country": "VNM",
+        "summary": "Les organisations médiatiques vietnamiennes sont vulnérables aux cyberattaques en raison de leur utilisation de logiciels non sécurisés et de leur dépendance à l'égard de plateformes technologiques partagées. Les experts en cybersécurité mettent en garde contre les conséquences potentiellement catastrophiques de telles attaques, qui pourraient nuire à la crédibilité des médias et compromettre les intérêts nationaux. Il est essentiel que les équipes éditoriales prennent des mesures proactives pour renforcer leur cybersécurité et sensibiliser le public aux menaces numériques.",
+        "title": "Vietnam’s top news agencies hit by cyberattacks, data stolen",
+        "url": "https://vietnamnet.vn/en/vietnam-s-top-news-agencies-hit-by-cyberattacks-data-stolen-2404394.html",
+        "added": "2025-05-27"
+    },
+    {
         "date": "2025-05-18",
         "victim": "MathWorks",
         "domain": "mathworks.com",
