@@ -1,5 +1,15 @@
 [
     {
+        "date": "2025-05-18",
+        "victim": "MathWorks",
+        "domain": "mathworks.com",
+        "country": "USA",
+        "summary": "MathWorks a subi une attaque de ransomware qui a affecté ses systèmes informatiques, rendant certains de ses applications en ligne indisponibles. L'entreprise a notifié les autorités fédérales et travaille avec des experts en cybersécurité pour rétablir les systèmes. Plusieurs applications ont déjà été rétablies, mais certaines sont toujours indisponibles. (via eCrime.ch)",
+        "title": "Issue with multiple applications",
+        "url": "https://status.mathworks.com/incidents/h1fjvcr72n87",
+        "added": "2025-05-27"
+    },
+    {
         "date": "2024-12-09",
         "victim": "Alles Lægehus",
         "domain": "alleslaegehus.dk",
