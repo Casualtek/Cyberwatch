@@ -1,5 +1,12 @@
 [
     {
+        "victim": "dcbflegal.com",
+        "domain": "dcbflegal.com",
+        "country": "US",
+        "date": "2025-05-09",
+        "group": "safepay"
+    },
+    {
         "victim": "rtblegal.com.au",
         "domain": "rtblegal.com.au",
         "country": "AU",
