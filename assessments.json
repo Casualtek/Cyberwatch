@@ -1,5 +1,12 @@
 [
     {
+        "victim": "rtblegal.com.au",
+        "domain": "rtblegal.com.au",
+        "country": "AU",
+        "date": "2025-05-01",
+        "group": "safepay"
+    },
+    {
         "victim": "labbeemint.com",
         "domain": "labbeemint.com",
         "country": "US",
