@@ -1,5 +1,12 @@
 [
     {
+        "victim": "FrontierCo",
+        "domain": "frontierco.co.za",
+        "country": "ZA",
+        "date": "2024-11-12",
+        "group": "datacarry"
+    },
+    {
         "victim": "Étude Bordet",
         "domain": "etudebordet.com",
         "country": "BE",
