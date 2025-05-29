@@ -1,5 +1,15 @@
 [
     {
+        "date": "2025-05-25",
+        "victim": "DataPost",
+        "domain": "datapost.com.sg",
+        "country": "SGP",
+        "summary": "Une attaque de ransomware a compromis les informations personnelles et de police d'au moins 146 souscripteurs de l'assureur Income Insurance à Singapour. L'attaque a visé DataPost, un fournisseur externe responsable de l'impression et de l'envoi de documents aux souscripteurs d'Income. Les investigations préliminaires montrent que les déclarations de bonus de ces souscripteurs ont été compromises, mais les systèmes d'Income Insurance restent sécurisés.",
+        "title": "Details of 146 Income Insurance policyholders compromised after cyber attack of external vendor",
+        "url": "https://www.straitstimes.com/singapore/consumer/details-of-146-income-insurance-policyholders-compromised-after-cyberattack-on-external-vendor",
+        "added": "2025-05-29"
+    },
+    {
         "date": "2025-04-15",
         "victim": "Department of Pensions",
         "domain": "gov.lk",
