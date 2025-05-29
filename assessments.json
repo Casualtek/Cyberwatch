@@ -1,5 +1,12 @@
 [
     {
+        "victim": "codylawfirm.com",
+        "domain": "codylawfirm.com",
+        "country": "US",
+        "date": "2025-05-15",
+        "group": "safepay"
+    },
+    {
         "victim": "paynecountyok.gov",
         "domain": "paynecountyok.gov",
         "country": "US",
