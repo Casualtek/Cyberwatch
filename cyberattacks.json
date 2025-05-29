@@ -1,6 +1,16 @@
 [
     {
         "date": "2025-05-27",
+        "victim": "Victoria’s Secret",
+        "domain": "victoriassecret.com",
+        "country": "USA",
+        "summary": "Victoria’s Secret a signalé un incident de sécurité, ce qui a provoqué des perturbations sur son site web et ses commandes en ligne. L'entreprise a activé ses protocoles de réponse et a engagé des experts tiers pour résoudre le problème. Les magasins de Victoria’s Secret restent ouverts malgré l'incident.",
+        "title": "Victoria's Secret hit by outages as it battles security incident | TechCrunch",
+        "url": "https://techcrunch.com/2025/05/28/victorias-secret-hit-by-outages-as-it-battles-security-incident/",
+        "added": "2025-05-29"
+    },
+    {
+        "date": "2025-05-27",
         "victim": "St. Joseph Hospital",
         "domain": "covenanthealth.com",
         "country": "USA",
