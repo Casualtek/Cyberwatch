@@ -1,5 +1,12 @@
 [
     {
+        "victim": "schoenundendres.de",
+        "domain": "schoenundendres.de",
+        "country": "DE",
+        "date": "2025-05-10",
+        "group": "safepay"
+    },
+    {
         "victim": "hennertanklines.com",
         "domain": "hennertanklines.com",
         "country": "US",
