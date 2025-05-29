@@ -1,5 +1,15 @@
 [
     {
+        "date": "2025-05-06",
+        "victim": "Flemington-Raritan School District",
+        "domain": "frsd.us",
+        "country": "USA",
+        "summary": "Le 6 mai, le district scolaire de Flemington-Raritan a subi une attaque par ransomware, mais aucune donnée personnelle n’a été confirmée comme compromise et l’enseignement n’a pas été perturbé, hormis une mise hors ligne temporaire les 8 et 9 mai. Les informations sensibles comme les plans d’éducation individualisés (IEP et 504), les données de santé ou les courriels des parents n’ont pas été affectées, car elles sont hébergées sur des systèmes externes non touchés. La superintendante McGann a salué le travail remarquable de l’équipe informatique, qui a agi avec efficacité et dévouement face à la situation.",
+        "title": "McGann Provides Update on Cyber Attack",
+        "url": "https://www.tapinto.net/towns/flemington-slash-raritan/sections/education/articles/mcgann-provides-update-on-cyber-attack",
+        "added": "2025-05-29"
+    },
+    {
         "date": "2025-05-25",
         "victim": "DataPost",
         "domain": "datapost.com.sg",
