@@ -1,5 +1,12 @@
 [
     {
+        "victim": "paynecountyok.gov",
+        "domain": "paynecountyok.gov",
+        "country": "US",
+        "date": "2025-05-09",
+        "group": "safepay"
+    },
+    {
         "victim": "SEAQUEST SEAFOOD",
         "domain": "sqseafood.com",
         "country": "US",
