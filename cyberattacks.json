@@ -1,5 +1,15 @@
 [
     {
+        "date": "2025-04-07",
+        "victim": "3P Corporation",
+        "domain": "3pcorp.com.au",
+        "country": "AUS",
+        "summary": "La société 3P Corporation a été victime d'une attaque de ransomware en avril, mais elle affirme que ses données n'ont pas été compromises. Les hackers ont publié plus de 200 gigaoctets de documents internes et de données client en ligne. L'incident a été signalé à l'Australian Cyber Security Centre et les employés et les clients potentiels ont été informés.",
+        "title": "Melbourne-based financial services and advice firm hit with cyber attack",
+        "url": "https://www.ifa.com.au/news/35799-melbourne-based-financial-services-and-advice-firm-hit-with-cyber-attack",
+        "added": "2025-05-30"
+    },
+    {
         "date": "2025-05-06",
         "victim": "Flemington-Raritan School District",
         "domain": "frsd.us",
