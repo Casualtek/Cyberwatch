@@ -1,5 +1,15 @@
 [
     {
+        "date": "2025-05-27",
+        "victim": "Mediehuset Altaposten",
+        "domain": "altaposten.no",
+        "country": "NOR",
+        "summary": "Mediehuset Altaposten a été victime d'une attaque de ransomware, ce qui a affecté la publication de l'édition papier du journal et les émissions de Radio Alta. L'attaque a été signalée à la police et à l'autorité de contrôle des données. Les responsables de l'entreprise travaillent pour rétablir les services et publier à nouveau le journal sur papier. (via eCrime.ch)",
+        "title": "Data-angrepet mot Altaposten: – Har mottatt et løsepengekrav",
+        "url": "https://www.altaposten.no/nyheter/i/yE2eJ2/data-angrepet-mot-altaposten-har-mottatt-et-loesepengekrav",
+        "added": "2025-05-30"
+    },
+    {
         "date": "2025-04-07",
         "victim": "3P Corporation",
         "domain": "3pcorp.com.au",
