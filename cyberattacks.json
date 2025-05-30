@@ -1,5 +1,15 @@
 [
     {
+        "date": "2023-12-08",
+        "victim": "Bradford Health Systems",
+        "domain": "bradfordhealth.com",
+        "country": "USA",
+        "summary": "Bradford Health Systems a détecté une activité anormale dans son réseau le 8 décembre 2023, ce qui a conduit à une enquête qui a révélé que des fichiers contenant des informations personnelles et de santé protégées avaient pu être accédés sans autorisation. Les informations potentiellement affectées incluent des noms, des numéros de permis de conduire, des dates de naissance et des informations de santé. Des lettres ont été envoyées aux personnes affectées le 30 mai 2025.",
+        "title": "Bradford Health Systems detected abnormal network activity in December 2023. They first sent out breach notices this week.",
+        "url": "https://databreaches.net/2025/05/30/bradford-health-systems-detected-abnormal-network-activity-in-december-2023-they-first-sent-out-breach-notices-this-week/",
+        "added": "2025-05-30"
+    },
+    {
         "date": "2025-05-27",
         "victim": "Mediehuset Altaposten",
         "domain": "altaposten.no",
