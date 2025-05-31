@@ -1,5 +1,25 @@
 [
     {
+        "date": "2025-03-15",
+        "victim": "Unimed",
+        "domain": "unimed.coop.br",
+        "country": "BRA",
+        "summary": "La Unimed, une des principales opérateurs de santé supplémentaire du Brésil, a confirmé un incident cybernétique impliquant son infrastructure numérique, mais a affirmé que les données sensibles n'ont pas été compromises. L'incident a été identifié en mars 2025 et a été résolu sans preuve de fuite de données. La société a souligné son engagement envers la sécurité et la protection des données.",
+        "title": "Unimed confirma incidente cibernético no sistema digital - Security Leaders",
+        "url": "https://securityleaders.com.br/unimed-confirma-acidente-cibernetico-no-sistema-digital/",
+        "added": "2025-05-31"
+    },
+    {
+        "date": "2025-02-15",
+        "victim": "Orphee Beinoglou International Transportation",
+        "domain": "beinoglou.gr",
+        "country": "GRC",
+        "summary": "Nespresso Greece avertit ses clients d'une faille de sécurité potentielle suite à une attaque informatique en février 2025 contre son partenaire logistique, Orphee Beinoglou International Transportation. Les données compromises pourraient inclure les noms, numéros de téléphone, adresses, emails et numéros fiscaux des clients. Nespresso exhorte ses clients à rester vigilants contre les emails ou appels suspects demandant des détails personnels ou financiers.",
+        "title": "Russian Cyberattack Targets Greek Logistics Partner of Nespresso",
+        "url": "https://greekcitytimes.com/2025/05/31/russian-cyberattack-targets-greek-logistics-partner-of-nespresso/",
+        "added": "2025-05-31"
+    },
+    {
         "date": "2025-05-13",
         "victim": "Botetourt County Public Schools",
         "domain": "bcps.k12.va.us",
