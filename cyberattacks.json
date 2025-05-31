@@ -1,5 +1,15 @@
 [
     {
+        "date": "2023-09-30",
+        "victim": "Ordre des psychologues de Lombardie",
+        "domain": "opl.it",
+        "country": "ITA",
+        "summary": "L'Ordine degli psicologi della Lombardia a été victime d'une attaque de type ransomware, les hackers ont volé 6,89 gigabytes de données sensibles, l'Ordine a été condamné à une amende de 30 000 euros pour ne pas avoir pris les mesures de sécurité nécessaires.",
+        "title": "Il cyber attacco con riscatto. Così NoEscape ha bucato la rete dell’Ordine psicologi",
+        "url": "https://www.ilgiorno.it/milano/cronaca/il-cyber-attacco-con-riscatto-1fcdb5c9",
+        "added": "2025-05-31"
+    },
+    {
         "date": "2025-03-15",
         "victim": "Unimed",
         "domain": "unimed.coop.br",
