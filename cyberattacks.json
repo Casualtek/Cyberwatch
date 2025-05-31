@@ -1,5 +1,15 @@
 [
     {
+        "date": "2025-05-30",
+        "victim": "Ministère de la Justice de Porto Rico",
+        "domain": "justicia.pr.gov",
+        "country": "PRI",
+        "summary": "Le ministère de la Justice a subi un ataque cibernétique, ce qui a obligé à suspendre temporairement certains services, notamment la délivrance du certificat de casier judiciaire. Les autorités travaillent à résoudre l'incident et à protéger les données personnelles des citoyens. La sécurité de l'information est la priorité absolue du département.",
+        "title": "Justicia sufre ataque cibernético",
+        "url": "https://www.primerahora.com/noticias/gobierno-politica/notas/justicia-sufre-ataque-cibernetico/",
+        "added": "2025-05-31"
+    },
+    {
         "date": "2025-05-29",
         "victim": "Comté de Lorain",
         "domain": "loraincountyohio.gov",
