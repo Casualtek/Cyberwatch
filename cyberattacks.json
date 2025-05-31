@@ -1,5 +1,15 @@
 [
     {
+        "date": "2025-05-29",
+        "victim": "Comté de Lorain",
+        "domain": "loraincountyohio.gov",
+        "country": "USA",
+        "summary": "Le comté de Lorain a subi une faille de sécurité réseau, ce qui a perturbé ses systèmes et a entraîné la fermeture de plusieurs départements jusqu'à ce que les systèmes soient rétablis. Les services critiques et les départements essentiels restent en ligne pour les citoyens. L'organisation travaille avec des experts pour enquêter sur l'incident et fournira des mises à jour à la communauté.",
+        "title": "Important - Security Incident",
+        "url": "https://www.loraincountyohio.gov/CivicAlerts.aspx?AID=41",
+        "added": "2025-05-31"
+    },
+    {
         "date": "2023-12-08",
         "victim": "Bradford Health Systems",
         "domain": "bradfordhealth.com",
