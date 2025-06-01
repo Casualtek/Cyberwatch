@@ -1,5 +1,12 @@
 [
     {
+        "victim": "ibague.losolivos.co",
+        "domain": "losolivos.co",
+        "country": "CO",
+        "date": "2025-05-07",
+        "group": "safepay"
+    },
+    {
         "victim": "Avance Agricola sl",
         "domain": "avanceagricola.es",
         "country": "ES",
