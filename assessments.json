@@ -1,5 +1,12 @@
 [
     {
+        "victim": "Avance Agricola sl",
+        "domain": "avanceagricola.es",
+        "country": "ES",
+        "date": "2025-05-15",
+        "group": "safepay"
+    },
+    {
         "victim": "murraybuildingcompany.com",
         "domain": "murraybuildingcompany.com",
         "country": "US",
