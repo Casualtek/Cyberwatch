@@ -1,5 +1,12 @@
 [
     {
+        "victim": "sander-doll.com",
+        "domain": "sander-doll.com",
+        "country": "DE",
+        "date": "2025-05-12",
+        "group": "safepay"
+    },
+    {
         "victim": "Laboratorios Belloch",
         "domain": "laboratoriosbelloch.com",
         "country": "ES",
