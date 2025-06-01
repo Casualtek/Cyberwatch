@@ -1,5 +1,12 @@
 [
     {
+        "victim": "iicil.com",
+        "domain": "iicil.com",
+        "country": "US",
+        "date": "2025-05-09",
+        "group": "safepay"
+    },
+    {
         "victim": "visco.de",
         "domain": "visco.de",
         "country": "DE",
