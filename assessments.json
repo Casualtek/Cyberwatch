@@ -1,5 +1,12 @@
 [
     {
+        "victim": "visco.de",
+        "domain": "visco.de",
+        "country": "DE",
+        "date": "2025-04-14",
+        "group": "safepay"
+    },
+    {
         "victim": "buechel-online.com",
         "domain": "buechel-online.com",
         "country": "DE",
