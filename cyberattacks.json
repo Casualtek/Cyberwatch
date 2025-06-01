@@ -1,5 +1,15 @@
 [
     {
+        "date": "2025-05-28",
+        "victim": "EdforTech Alliance",
+        "domain": "edfortech.org",
+        "country": "USA",
+        "summary": "Le district scolaire d'Allentown a subi une cyberattaque via son fournisseur de plateforme d'apprentissage en ligne, EdforTech Alliance, ce qui a entraîné une interruption de service pour les étudiants inscrits au Campus virtuel. Les données académiques des étudiants n'ont pas été compromises, mais la plateforme en ligne ne sera pas accessible vendredi. Les enseignants seront disponibles via Zoom pour aider les étudiants à compléter leurs devoirs.",
+        "title": "Cyberattack on vendor shuts down ASD's Virtual Campus learning platform Friday",
+        "url": "https://www.wfmz.com/news/area/lehighvalley/lehigh-county/allentown-area/cyberattack-on-vendor-shuts-down-asds-virtual-campus-learning-platform-friday/article_e35c53ce-63f6-451e-876f-c57eabd55102.html",
+        "added": "2025-06-01"
+    },
+    {
         "date": "2023-09-30",
         "victim": "Ordre des psychologues de Lombardie",
         "domain": "opl.it",
