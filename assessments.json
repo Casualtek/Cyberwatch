@@ -1,5 +1,12 @@
 [
     {
+        "victim": "buechel-online.com",
+        "domain": "buechel-online.com",
+        "country": "DE",
+        "date": "2025-04-17",
+        "group": "safepay"
+    },
+    {
         "victim": "spring-green.com/petbutler.com",
         "domain": "spring-green.com",
         "country": "US",
