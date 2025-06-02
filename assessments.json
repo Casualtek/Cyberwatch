@@ -1,5 +1,12 @@
 [
     {
+        "victim": "sitro.com.au",
+        "domain": "sitro.com.au",
+        "country": "AU",
+        "date": "2025-02-27",
+        "group": "incransom"
+    },
+    {
         "victim": "INDA's",
         "domain": "inda.org",
         "country": "US",
