@@ -1,5 +1,12 @@
 [
     {
+        "victim": "Hpital Glengarry Memorial Hospital (clglen.local)",
+        "domain": "clglen.on.ca",
+        "country": "CA",
+        "date": "2025-03-15",
+        "group": "incransom"
+    },
+    {
         "victim": "New Pathways for Youth",
         "domain": "npfy.org",
         "country": "US",
