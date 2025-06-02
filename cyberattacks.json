@@ -1,5 +1,25 @@
 [
     {
+        "date": "2025-04-10",
+        "victim": "Saito Korotype Printing Co., Ltd.",
+        "domain": "saicollo.jp",
+        "country": "JPN",
+        "summary": "Comme l’ont rapporté plusieurs organes de presse, la société a été victime d'une attaque par ransomware visant l’une de ses usines. Elle présente ses plus sincères excuses pour les inquiétudes et les désagréments causés.",
+        "title": "Notice of ransomware attack on our factory",
+        "url": "https://saicollo.jp/news/17578/",
+        "added": "2025-06-02"
+    },
+    {
+        "date": "2025-03-03",
+        "victim": "Ishikura Co.",
+        "domain": "ishikura.co.jp",
+        "country": "JPN",
+        "summary": "Une entreprise de publication d'annuaires scolaires, Ishikura Co., a publié des excuses après une faille de sécurité apparente causée par une cyberattaque. Les attaques ont touché plusieurs municipalités et ont compromis des photos et des noms d'enfants. Les experts craignent que les données compromises puissent être utilisées pour créer des images deepfake, des vols d'identité ou des impostures sur les réseaux sociaux.",
+        "title": "Hackers target yearbooks, expose students’ personal data | The Asahi Shimbun: Breaking News, Japan News and Analysis",
+        "url": "https://www.asahi.com/ajw/articles/15724387",
+        "added": "2025-06-02"
+    },
+    {
         "date": "2025-05-08",
         "victim": "Kulmbacher Verein Kunstwert",
         "domain": "kunstwert.org",
