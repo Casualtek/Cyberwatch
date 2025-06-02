@@ -1,6 +1,16 @@
 [
     {
         "date": "2025-05-12",
+        "victim": "Drug Safety Testing Center (DSC)",
+        "domain": "hkstp.org",
+        "country": "HKG",
+        "summary": "Le Drug Safety Testing Center (DSC) a subi une attaque de ransomware qui a touché les données de 30 employés et 20 clients. Les mesures de sécurité ont été renforcées pour prévenir de nouvelles intrusions et une enquête a été lancée. Le DSC travaille en étroite collaboration avec la police et des experts en cybersécurité pour résoudre l'incident.",
+        "title": "Drug Safety Testing Center (DSC) Information Security Incident Statement",
+        "url": "https://www.hkstp.org/en/park-life/news-and-events/news/drug-safety-testing-center-information-security-incident-statement",
+        "added": "2025-06-02"
+    },
+    {
+        "date": "2025-05-12",
         "victim": "Arc System Works",
         "domain": "arcsystemworks.com",
         "country": "USA",
