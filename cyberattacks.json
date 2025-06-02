@@ -1,5 +1,15 @@
 [
     {
+        "date": "2025-05-14",
+        "victim": "Autohaus Jürgens",
+        "domain": "autohaus-juergens.de",
+        "country": "DEU",
+        "summary": "Un entreprise de Hagen a été victime d'une attaque informatique, mais les données des clients n'ont pas été compromises. L'entreprise n'a pas reçu de demande de rançon et les systèmes IT sont actuellement inaccessibles. L'incident est en cours d'investigation.",
+        "title": "Hacker-Angriff auf Mercedes: Autohaus in Hagen betroffen",
+        "url": "https://www.wp.de/lokales/hagen/article409022341/hacker-angriff-autohaus-juergens-ist-in-teilen-gelaehmt.html",
+        "added": "2025-06-02"
+    },
+    {
         "date": "2025-05-13",
         "victim": "Cooperativa Telefonica Santa Maria Ltda.",
         "domain": "cosamanet.com",
