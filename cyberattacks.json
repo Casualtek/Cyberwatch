@@ -1,5 +1,15 @@
 [
     {
+        "date": "2025-05-12",
+        "victim": "Arc System Works",
+        "domain": "arcsystemworks.com",
+        "country": "USA",
+        "summary": "Arc System Works a subi une brèche de sécurité, une partie de ses données a été piratée, mais aucune information personnelle n'a été confirmée comme ayant été compromise, l'entreprise travaille pour déterminer l'ampleur de l'impact et les utilisateurs sont invités à ne pas accéder aux données compromises pour éviter les infections de logiciels malveillants.",
+        "title": "Notice Regarding Data Leakage Due to Unauthorized Access",
+        "url": "https://www.arcsystemworks.com/notice-regarding-data-leakage-due-to-unauthorized-access/",
+        "added": "2025-06-02"
+    },
+    {
         "date": "2025-05-06",
         "victim": "GMA Network",
         "domain": "gmanetwork.com",
