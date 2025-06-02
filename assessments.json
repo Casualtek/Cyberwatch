@@ -1,5 +1,12 @@
 [
     {
+        "victim": "lemi-group",
+        "domain": "lemispa.com",
+        "country": "IT",
+        "date": "2025-04-12",
+        "group": "incransom"
+    },
+    {
         "victim": "Hpital Glengarry Memorial Hospital (clglen.local)",
         "domain": "clglen.on.ca",
         "country": "CA",
