@@ -1,5 +1,25 @@
 [
     {
+        "date": "2025-05-03",
+        "victim": "Tomoku Co., Ltd.",
+        "domain": "tomoku.co.jp",
+        "country": "JPN",
+        "summary": "Le 3 mai 2025, Tomoku Co., Ltd. a subi une attaque par ransomware ayant chiffré certains de ses serveurs, provoquant une panne de son système de commande en ligne. Malgré cette perturbation, les commandes via le web, le fax et l'e-mail, ainsi que le site web et les systèmes de messagerie de l'entreprise, fonctionnent normalement, permettant la poursuite de la production. L'entreprise collabore actuellement avec des experts externes et la police pour enquêter sur l'incident et restaurer ses systèmes.",
+        "title": "不正アクセスによるシステム障害発生についてのお知らせ",
+        "url": "https://www.tomoku.co.jp/pdf/250508-01.pdf",
+        "added": "2025-06-02"
+    },
+    {
+        "date": "2025-05-12",
+        "victim": "Université pour femmes de Miyagi",
+        "domain": "mgu.ac.jp",
+        "country": "JPN",
+        "summary": "Le 12 mai 2025, l'Université pour femmes de Miyagi a détecté une infection par un ransomware affectant plusieurs serveurs, entraînant la modification de fichiers et de paramètres. Pour prévenir la propagation et protéger les données, l'université a décidé de couper l'accès à son réseau interne, rendant indisponibles des services essentiels tels que le système de gestion académique et le portail étudiant UNIPA, bien que le site web et les e-mails restent opérationnels. Une enquête est en cours avec des experts en cybersécurité, et la restauration complète du réseau est estimée à environ dix jours, tandis que les cours continuent normalement avec des ajustements pour les matières dépendant des systèmes affectés.",
+        "title": "ランサムウェア感染によるネットワーク遮断措置について",
+        "url": "https://news.mgu.ac.jp/wp-content/uploads/2025/05/gakugaikouhyou.pdf",
+        "added": "2025-06-02"
+    },
+    {
         "date": "2025-05-14",
         "victim": "Autohaus Jürgens",
         "domain": "autohaus-juergens.de",
