@@ -1,5 +1,15 @@
 [
     {
+        "date": "2025-05-06",
+        "victim": "GMA Network",
+        "domain": "gmanetwork.com",
+        "country": "PHL",
+        "summary": "GMA Network a subi une faille de sécurité, mais les données compromises n'étaient pas sensibles. L'entreprise mène une enquête approfondie avec ses partenaires technologiques. GMA Network est déterminée à maintenir l'intégrité et la sécurité de ses opérations.",
+        "title": "GMA Network statement on cybersecurity incident",
+        "url": "https://www.gmanetwork.com/news/topstories/nation/945481/gma-network-statement-on-cybersecurity-incident/story/",
+        "added": "2025-06-02"
+    },
+    {
         "date": "2025-05-28",
         "victim": "EdforTech Alliance",
         "domain": "edfortech.org",
