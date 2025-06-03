@@ -1,5 +1,15 @@
 [
     {
+        "date": "2025-06-01",
+        "victim": "Central Maine Healthcare",
+        "domain": "cmhc.org",
+        "country": "USA",
+        "summary": "Central Maine Healthcare a subi une attaque informatique potentielle, ce qui a entraîné la fermeture de ses systèmes d'information et de ses réseaux. Les techniciens en informatique travaillent pour identifier la nature et l'étendue de l'incident. Les hôpitaux continuent de recevoir et de traiter les patients, mais certains procédures et visites de bureau peuvent être reportées en raison de la panne du système informatique.",
+        "title": "Central Maine Healthcare Investigating Potential Cyberattack",
+        "url": "https://www.hipaajournal.com/central-maine-healthcare-cyberattack/",
+        "added": "2025-06-03"
+    },
+    {
         "date": "2025-05-29",
         "victim": "College of Eastern Idaho (CEI)",
         "domain": "cei.edu",
