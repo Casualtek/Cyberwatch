@@ -1,5 +1,15 @@
 [
     {
+        "date": "2025-05-29",
+        "victim": "College of Eastern Idaho (CEI)",
+        "domain": "cei.edu",
+        "country": "USA",
+        "summary": "Le College of Eastern Idaho a subi une attaque de malware qui a conduit à la fermeture de son réseau pour protéger les données des étudiants et du personnel. Les cours d'été devraient se dérouler comme prévu grâce à des plans de continuité. L'université travaille avec des experts en cybersécurité pour éliminer le malware et restaurer le fonctionnement du réseau. (via eCrime.ch)",
+        "title": "CEI shuts down network after malware attack; No data breach detected so far - Local News 8",
+        "url": "https://localnews8.com/news/2025/06/02/cei-shuts-down-network-after-malware-attack-no-data-breach-detected-so-far/",
+        "added": "2025-06-03"
+    },
+    {
         "date": "2025-05-31",
         "victim": "Gemeindeverwaltung Ostercappeln",
         "domain": "ostercappeln.de",
