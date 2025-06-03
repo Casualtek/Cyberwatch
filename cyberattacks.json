@@ -1,5 +1,15 @@
 [
     {
+        "date": "2025-05-20",
+        "victim": "Resonac Holdings Corporation",
+        "domain": "resonac.com",
+        "country": "JPN",
+        "summary": "Resonac Holdings Corporation a subi une attaque extérieure sur certains de ses serveurs, entraînant une infection par rançongiciel. L'entreprise a mis en place un quartier général de réponse d'urgence pour enquêter sur l'ampleur de l'impact et mettre en œuvre des mesures de récupération. Les efforts sont en cours pour protéger et restaurer les systèmes de l'entreprise.",
+        "title": "Security Incident at Our Company (First Report) | Resonac",
+        "url": "https://www.resonac.com/news/2025/05/20/3513.html",
+        "added": "2025-06-03"
+    },
+    {
         "date": "2025-04-04",
         "victim": "Smart City Kids (SCK)",
         "domain": "smartcitykids.com",
