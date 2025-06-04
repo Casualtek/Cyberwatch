@@ -1,5 +1,15 @@
 [
     {
+        "date": "2025-04-25",
+        "victim": "MDG Design and Construction",
+        "domain": "mdgny.com",
+        "country": "USA",
+        "summary": "MDG Design and Construction LLC a été victime d'une attaque de ransomware le 25 avril 2025, ce qui a pu compromettre les informations personnelles de certaines personnes. Les informations qui pourraient avoir été accessibles incluent les noms, les numéros de sécurité sociale, les numéros de permis de conduire, les informations financières et les informations médicales. MDG a pris des mesures pour sécuriser ses systèmes et enquêter sur l'incident, mais n'a pas pu confirmer si des informations personnelles spécifiques avaient été consultées ou acquises.",
+        "title": "Data Breach Notification",
+        "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/ce854d17-80a3-40b7-a513-72827588a0b9.html",
+        "added": "2025-06-04"
+    },
+    {
         "date": "2025-06-01",
         "victim": "Ville de Durant",
         "domain": "durant.org",
