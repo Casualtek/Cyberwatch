@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-06-05",
+        "victim": "Next Step Healthcare LLC",
+        "domain": "nextstephc.com",
+        "country": "USA",
+        "summary": "Next Step Healthcare, LLC, a informé l'Attorney General du Maine, Aaron Frey, d'une faille de sécurité dans ses systèmes. Cette faille a pu affecter environ 192 résidents du Maine, dont des informations personnelles telles que les noms, les numéros de sécurité sociale et les numéros de permis de conduire. L'entreprise a pris des mesures pour sécuriser ses systèmes et a lancé une enquête pour déterminer l'étendue de la faille. L'attaque a été revendiquée par Qilin le 17 juin 2024.",
+        "title": "Data Breach Notification",
+        "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/bcc8bbb9-cf64-4b49-b36f-d87a687f1412.html",
+        "added": "2025-06-04"
+    },
+    {
         "date": "2024-12-02",
         "victim": "Mental Health Association",
         "domain": "mhainc.org",
