@@ -1,5 +1,15 @@
 [
     {
+        "date": "2025-04-14",
+        "victim": "Whitley Clark Attorneys at Law",
+        "domain": "whitleyclark.com",
+        "country": "USA",
+        "summary": "Le cabinet d'avocats Whitley Clark Attorneys at Law a subi une faille de sécurité qui a exposé les informations personnelles de certains clients. Les données compromises incluent des noms, des numéros de sécurité sociale, des dates de naissance, des adresses et des informations de santé protégées. Le cabinet a pris des mesures pour atténuer les risques et a engagé des professionnels de la cybersécurité pour évaluer l'incident. Les clients concernés sont invités à s'inscrire à des services de protection contre la fraude d'identité offerts par IDX, qui incluent une surveillance du crédit et une assurance de remboursement. Les clients peuvent également prendre des mesures pour protéger leurs informations personnelles, telles que placer des alertes de fraude et des gel de sécurité sur leurs dossiers de crédit.",
+        "title": "Data Breach Notification",
+        "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/b6a9600e-32d5-4e35-921b-4abc8bd07537.html",
+        "added": "2025-06-04"
+    },
+    {
         "date": "2025-04-25",
         "victim": "MDG Design and Construction",
         "domain": "mdgny.com",
