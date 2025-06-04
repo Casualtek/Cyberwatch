@@ -1,5 +1,12 @@
 [
     {
+        "victim": "National Defense Corp",
+        "domain": "nationaldefensecorp.com",
+        "country": "US",
+        "date": "2025-02-24",
+        "group": "interlock"
+    },
+    {
         "victim": "Brackett & Ellis",
         "domain": "belaw.com",
         "country": "US",
