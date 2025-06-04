@@ -1,5 +1,33 @@
 [
     {
+        "victim": "kiwi86",
+        "domain": "kiwi86.com",
+        "country": "TW",
+        "date": "2024-05-23",
+        "group": "direwolf"
+    },
+    {
+        "victim": "SMV Thailand",
+        "domain": "smvthailand.com",
+        "country": "TH",
+        "date": "2024-04-17",
+        "group": "direwolf"
+    },
+    {
+        "victim": "Wilson International",
+        "domain": "wilsonuniverse.com",
+        "country": "SG",
+        "date": "2024-05-09",
+        "group": "direwolf"
+    },
+    {
+        "victim": "Qualitas Commercialisti Associati",
+        "domain": "qualitas.pro",
+        "country": "IT",
+        "date": "2024-05-23",
+        "group": "direwolf"
+    },
+    {
         "victim": "Bin Faqeeh Real Estate",
         "domain": "binfaqeeh.com",
         "country": "BH",
