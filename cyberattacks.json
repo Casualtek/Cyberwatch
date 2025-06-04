@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-12-02",
+        "victim": "Mental Health Association",
+        "domain": "mhainc.org",
+        "country": "USA",
+        "summary": "Mental Health Association (MHA) a subi une faille de sécurité informatique le 2 décembre 2024, qui a pu permettre à un acteur non autorisé d'accéder à des informations personnelles. L'incident a été découvert et MHA a pris des mesures pour sécuriser ses systèmes et engager une enquête forensique. Les résultats de l'enquête ont montré que des informations personnelles, telles que des noms, adresses, numéros de sécurité sociale et informations médicales, pourraient avoir été compromises.",
+        "title": "Data Breach Notification",
+        "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/df6a34d8-4d54-4bb9-b1b9-4f04b42cda30.html",
+        "added": "2025-06-04"
+    },
+    {
         "date": "2023-12-08",
         "victim": "Bradford Health Services LLC",
         "domain": "bradfordhealth.net",
