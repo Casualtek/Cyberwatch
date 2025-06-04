@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-11-27",
+        "victim": "Astor Weiss Kaplan & Mandel LLP",
+        "domain": "astorweiss.com",
+        "country": "USA",
+        "summary": "Astor Weiss Kaplan & Mandel LLP a subi une faille de sécurité dans son réseau le 27 novembre 2024, ce qui a pu compromettre les informations personnelles de certains individus. L'entreprise a pris des mesures immédiates pour sécuriser son système et a lancé une enquête pour déterminer l'étendue de l'incident. Les informations potentiellement affectées incluent les noms, les numéros de sécurité sociale, les informations de permis de conduire et les informations de compte financier. Astor Weiss a notifié les individus potentiellement affectés, y compris un résident du Maine, et leur offre des services de surveillance de crédit et d'assistance en cas de fraude gratuits. L'entreprise a également mis en place des mesures supplémentaires pour renforcer la sécurité de ses systèmes et prévenir de futurs incidents.",
+        "title": "Data Breach Notification",
+        "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/02a0ee60-98ec-46ce-b2e2-a455980291f8.html",
+        "added": "2025-06-04"
+    },
+    {
         "date": "2025-01-21",
         "victim": "DC Safety Sales Co., Inc.",
         "domain": "dcsafety.com",
