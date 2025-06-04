@@ -1,5 +1,15 @@
 [
     {
+        "date": "2025-06-03",
+        "victim": "Landespolizei Mecklenburg-Vorpommern",
+        "domain": "polizei.mvnet.de",
+        "country": "DEU",
+        "summary": "La Landespolizei Mecklenburg-Vorpommern a été victime d'une attaque de hackers, ce qui a affecté les téléphones de service des agents. Les téléphones ne pourront pas être utilisés dans leur plein potentiel pendant quelques jours. Les agents devront utiliser à nouveau les communications radio pour certaines tâches.",
+        "title": "Hackerangriff legt Polizeihandys in MV teilweise lahm – Beamte müssen wieder funken",
+        "url": "https://www.ostsee-zeitung.de/mecklenburg-vorpommern/mecklenburg-vorpommern-hackerangriff-legt-polizeihandys-lahm-2FEWD6V2DVH5XAK4XGKMLYWTPU.html",
+        "added": "2025-06-04"
+    },
+    {
         "date": "2025-06-01",
         "victim": "Central Maine Healthcare",
         "domain": "cmhc.org",
