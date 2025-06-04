@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-10-31",
+        "victim": "Gleason, Flynn, Emig & Mcafee, Chartered",
+        "domain": "gfemlaw.com",
+        "country": "USA",
+        "summary": "Gleason, Flynn, Emig et McAfee, Chartered, ont découvert une activité suspecte sur leurs systèmes informatiques le 31 octobre 2024. Une enquête a révélé que des fichiers contenant des informations personnelles, notamment des numéros de sécurité sociale et des numéros de compte financier, ont pu être accédés par un acteur non autorisé. L'entreprise offre des services de protection contre la fraude et de surveillance du crédit gratuits aux personnes touchées. Pour s'inscrire à ces services, les personnes concernées doivent se connecter au site Web de Cyberscout et suivre les instructions. Les personnes touchées sont également invitées à prendre des mesures pour protéger leur identité, telles que la vérification de leurs rapports de crédit et la mise en place d'alertes de fraude.",
+        "title": "Data Breach Notification",
+        "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/d5721432-1548-4877-beb6-632492450f38.html",
+        "added": "2025-06-04"
+    },
+    {
         "date": "2024-12-08",
         "victim": "Lanigan Ryan",
         "domain": "laniganryan.com",
