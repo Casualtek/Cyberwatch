@@ -1,5 +1,15 @@
 [
     {
+        "date": "2025-01-21",
+        "victim": "DC Safety Sales Co., Inc.",
+        "domain": "dcsafety.com",
+        "country": "USA",
+        "summary": "DC Safety Sales Co., Inc. a découvert qu'un tiers non autorisé a exploité une vulnérabilité dans l'une de leurs applications, ce qui a pu permettre l'accès non autorisé à certaines informations. L'incident a été découvert le 21 janvier 2025 et une enquête a été menée pour déterminer l'étendue de l'incident. Les informations qui ont pu être compromises incluent les noms et prénoms des employés, ainsi que d'autres informations personnelles. En réponse à cet incident, DC Safety Sales Co., Inc. offre un service de surveillance de crédit gratuit pendant 24 mois aux personnes concernées. Les individus touchés sont invités à rester vigilants et à surveiller leurs comptes pour détecter toute activité suspecte.",
+        "title": "Data Breach Notification",
+        "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/78796fc8-38c3-4f7a-9eff-c900c72f821e.html",
+        "added": "2025-06-04"
+    },
+    {
         "date": "2025-04-14",
         "victim": "Whitley Clark Attorneys at Law",
         "domain": "whitleyclark.com",
