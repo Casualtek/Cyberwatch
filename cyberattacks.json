@@ -1,5 +1,15 @@
 [
     {
+        "date": "2025-04-01",
+        "victim": "Precision Tax Relief LLC",
+        "domain": "precisiontax.com",
+        "country": "USA",
+        "summary": "Precision Tax Relief, LLC (PTR) a découvert une activité suspecte dans son réseau informatique le 1er avril 2025. Une enquête a révélé qu'un acteur non autorisé a accédé au réseau de PTR et a pu visualiser ou copier certaines informations, notamment des noms, des numéros de sécurité sociale, des numéros de permis de conduire et des informations financières. L'attaque a été revendiquée par Akira le 13 mai.",
+        "title": "Data Breach Notification",
+        "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/903f1ed9-9c12-4058-b6d7-3c45bc80b8f5.html",
+        "added": "2025-06-04"
+    },
+    {
         "date": "2024-10-31",
         "victim": "Gleason, Flynn, Emig & Mcafee, Chartered",
         "domain": "gfemlaw.com",
