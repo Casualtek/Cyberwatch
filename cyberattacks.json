@@ -1,5 +1,45 @@
 [
     {
+        "date": "2025-04-23",
+        "victim": "Lewy Body Dementia Association, Inc.",
+        "domain": "lbda.org",
+        "country": "USA",
+        "summary": "La Lewy Body Dementia Association (LBDA) a été victime d'un incident de sécurité découvert le 23 avril 2025, impliquant un accès non autorisé à leur plateforme de paie. Les informations personnelles compromises incluent les noms, numéros de sécurité sociale et informations bancaires des personnes affectées.",
+        "title": "Notice of Data Breach – LBDA",
+        "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/0d845d9a-2c66-45d6-af48-5d5476279dd4.html",
+        "added": "2025-06-04"
+    },
+    {
+        "date": "2024-04-19",
+        "victim": "Carpenter, McCadden & Lane, LLP",
+        "domain": "cml-law.net",
+        "country": "USA",
+        "summary": "Entre le 18 et le 19 avril 2024, le cabinet Carpenter, McCadden & Lane, LLP a été victime d’un accès non autorisé à certains fichiers contenant des informations personnelles telles que le nom, le numéro de sécurité sociale et le numéro de permis de conduire. L’incident a été découvert le 12 septembre 2024, date à laquelle l'attaque a été revendiquée sous l'enseigne Meow.",
+        "title": "Notice of Data Breach – Carpenter, McCadden & Lane, LLP",
+        "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/3189bef5-582d-4467-afa0-c9293faf867c.html",
+        "added": "2025-06-04"
+    },
+    {
+        "date": "2025-03-03",
+        "victim": "Renkim Corporation",
+        "domain": "renkim.com",
+        "country": "USA",
+        "summary": "Le 3 mars 2025, Renkim a détecté une activité suspecte sur son réseau, qui aurait débuté la veille, impliquant un accès non autorisé à certains fichiers contenant des informations personnelles limitées utilisées pour la gestion de services de communication. L’entreprise a immédiatement sécurisé ses systèmes, lancé une enquête avec l’aide d’experts en cybersécurité et informé les forces de l’ordre. Afin de protéger les personnes affectées, Renkim propose un abonnement gratuit à un service de surveillance de crédit via Experian IdentityWorks.",
+        "title": "Notice of Data Breach – Renkim Corporation",
+        "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/6495db02-104b-4de2-b073-94f24f0d7508.html",
+        "added": "2025-06-04"
+    },
+    {
+        "date": "2025-02-05",
+        "victim": "Charleston School of Law",
+        "domain": "charlestonlaw.edu",
+        "country": "USA",
+        "summary": "Le 5 février 2025, la Charleston School of Law a découvert qu'un tiers non autorisé avait accédé à son réseau interne, compromettant potentiellement des fichiers contenant des informations personnelles. Après enquête, il a été confirmé que des données telles que les noms complets et potentiellement d'autres informations sensibles ont été exposées entre le 15 janvier et le 10 février 2025. L’établissement a depuis renforcé la sécurité, informé les personnes concernées, et propose un abonnement gratuit à Experian IdentityWorks pour prévenir toute utilisation frauduleuse des données.",
+        "title": "Notice of Data Breach – Charleston School of Law",
+        "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/8ea7381e-72cc-48d1-b961-9cba3481f9bf.html",
+        "added": "2025-06-04"
+    },
+    {
         "date": "2024-06-05",
         "victim": "Next Step Healthcare LLC",
         "domain": "nextstephc.com",
