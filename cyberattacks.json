@@ -1,5 +1,15 @@
 [
     {
+        "date": "2025-05-18",
+        "victim": "ENILV",
+        "domain": "enilv-alpes.fr",
+        "country": "FRA",
+        "summary": "Qilin. Non revendiqué à date, mais données volées déjà divulguées.",
+        "title": "n/a",
+        "url": "n/a",
+        "added": "2025-06-05"
+    },
+    {
         "date": "2024-06-19",
         "victim": "U.S. Dermatology Partners",
         "domain": "usdermatologypartners.com",
@@ -124,7 +134,7 @@
         "victim": "Hardin, Kundla, McKeon, & Poletto, P.C.",
         "domain": "hkmpp.com",
         "country": "USA",
-        "summary": "e cabinet d'avocats Constangy Brooks Smith & Prophete LLP a informé l'Attorney General du Maine, Aaron Frey, d'une faille de sécurité chez son client, Hardin, Kundla, McKeon & Poletto P.C. Cette faille a pu permettre l'accès non autorisé à des informations personnelles, notamment des noms, des dates de naissance, des numéros de sécurité sociale et des informations de santé.",
+        "summary": "Le cabinet d'avocats Constangy Brooks Smith & Prophete LLP a informé l'Attorney General du Maine, Aaron Frey, d'une faille de sécurité chez son client, Hardin, Kundla, McKeon & Poletto P.C. Cette faille a pu permettre l'accès non autorisé à des informations personnelles, notamment des noms, des dates de naissance, des numéros de sécurité sociale et des informations de santé.",
         "title": "Data Breach Notification",
         "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/05405773-6097-4b88-8f0e-61634e053b38.html",
         "added": "2025-06-04"
