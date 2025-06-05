@@ -1,5 +1,12 @@
 [
     {
+        "victim": "EPC Group",
+        "domain": "epc.com",
+        "country": "DE",
+        "date": "2025-05-29",
+        "group": "direwolf"
+    },
+    {
         "victim": "IoTechWorld",
         "domain": "iotechworld.com",
         "country": "IN",
