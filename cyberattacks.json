@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-07-25",
+        "victim": "InStream, LLC",
+        "domain": "instreamllc.com",
+        "country": "USA",
+        "summary": "InStream, une entreprise de stockage et de numérisation de données, a subi une faille de sécurité entre le 20 et le 25 juillet 2024, lors de laquelle des fichiers ont été copiés par un acteur inconnu. L'enquête a révélé que des informations personnelles, notamment des noms et des numéros de sécurité sociale, avaient été compromises. InStream a informé les individus concernés et leur offre des services de surveillance de crédit et de protection d'identité gratuits pendant 12 mois. Les personnes touchées sont invitées à rester vigilantes et à surveiller leurs comptes pour détecter toute activité suspecte. InStream a également fourni des informations sur la façon de placer une alerte de fraude ou un gel de crédit sur leur dossier de crédit pour se protéger contre les vols d'identité.",
+        "title": "Data Breach Notification",
+        "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/f166b568-5187-42f3-96cf-efd913c7efc5.html",
+        "added": "2025-06-05"
+    },
+    {
         "date": "2025-04-23",
         "victim": "Lewy Body Dementia Association, Inc.",
         "domain": "lbda.org",
