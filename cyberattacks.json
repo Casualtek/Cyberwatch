@@ -1,5 +1,15 @@
 [
     {
+        "date": "2025-06-05",
+        "victim": "Prefeitura de Rio Preto",
+        "domain": "riopreto.sp.gov.br",
+        "country": "BRA",
+        "summary": "Un ataque cibernétique a paralysé le système de la préfecture de Rio Preto, affectant les services de santé, notamment le SAMU, dont le téléphone est hors service. Les services sont actuellement réalisés manuellement, ce qui provoque des retards et des files d'attente. La préfecture travaille pour rétablir les services le plus rapidement possible.",
+        "title": "Ataque cibernético tira telefone do SAMU do ar em Rio Preto",
+        "url": "https://www.gazetaderiopreto.com.br/cidades/noticia/2025/06/ataque-cibernetico-tira-telefone-do-samu-do-ar-em-rio-preto.html",
+        "added": "2025-06-05"
+    },
+    {
         "date": "2025-03-25",
         "victim": "Foppa",
         "domain": "foppa.com",
