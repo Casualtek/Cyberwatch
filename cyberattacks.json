@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-06-19",
+        "victim": "U.S. Dermatology Partners",
+        "domain": "usdermatologypartners.com",
+        "country": "USA",
+        "summary": "U.S. Dermatology Partners a subi une faille de sécurité le 19 juin 2024, entraînant l'accès non autorisé à des informations de patients, notamment des noms, dates de naissance et numéros d'assurance maladie. L'entreprise a pris des mesures pour renforcer la sécurité de ses systèmes et offre des services de surveillance de crédit et de protection d'identité aux patients concernés. Les patients sont invités à vérifier leurs relevés d'assurance maladie et à contacter leur assureur en cas de services non reçus.",
+        "title": "Notice of Data Incident",
+        "url": "https://www.usdermatologypartners.com/notice-of-data-incident/",
+        "added": "2025-06-05"
+    },
+    {
         "date": "2025-06-03",
         "victim": "Farm’s Best Food Industries Sdn. Bhd.",
         "domain": "farmsbest.com.my",
