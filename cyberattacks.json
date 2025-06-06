@@ -1,5 +1,15 @@
 [
     {
+        "date": "2025-04-06",
+        "victim": "Sensata Technologies, Inc.",
+        "domain": "sensata.com",
+        "country": "USA",
+        "summary": "Sensata Technologies, Inc. a découvert le 6 avril 2025 que certaines de ses serveurs avaient été chiffrés avec un rançongiciel. L'entreprise a immédiatement pris des mesures pour contenir l'activité et a lancé une enquête, avec l'aide d'une firme de cybersécurité. Les résultats de l'enquête ont montré que des informations personnelles de 362 résidents du Maine, notamment des numéros de sécurité sociale et des informations de santé, avaient pu être compromises.",
+        "title": "Data Breach Notification",
+        "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/2208eade-8738-48e1-b3a5-c8e7a609227a.html",
+        "added": "2025-06-06"
+    },
+    {
         "date": "2024-12-16",
         "victim": "Boston Interiors Home Furnishings LLC",
         "domain": "bostoninteriors.com",
