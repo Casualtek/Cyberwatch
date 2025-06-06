@@ -1,6 +1,16 @@
 [
     {
         "date": "2025-06-05",
+        "victim": "Excellence Optoelectronics Inc",
+        "domain": "eoi.com.tw",
+        "country": "TWN",
+        "summary": "Le groupe a subi une attaque cybernétique visant son intranet et ses systèmes d'information, mais a activé ses mécanismes de défense pour minimiser l'impact. Il n'y a actuellement pas d'impact significatif sur les opérations de l'entreprise. Le groupe continuera à renforcer ses mesures de sécurité pour prévenir de futures attaques.",
+        "title": "Today's Information",
+        "url": "https://emops.twse.com.tw/server-java/t05sr01_1_e?&isNew=Y&seq_no=5&spoke_time=165411&spoke_date=20250605&co_id=6288",
+        "added": "2025-06-06"
+    },
+    {
+        "date": "2025-06-05",
         "victim": "Prefeitura de Rio Preto",
         "domain": "riopreto.sp.gov.br",
         "country": "BRA",
