@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-12-16",
+        "victim": "Boston Interiors Home Furnishings LLC",
+        "domain": "bostoninteriors.com",
+        "country": "USA",
+        "summary": "Boston Interiors Home Furnishings LLC a subi une faille de sécurité qui a pu affecter les informations personnelles de cinq résidents du Maine. L'incident a été découvert le 17 décembre 2024 et a fait l'objet d'une enquête approfondie. Les informations qui ont pu être compromises incluent les noms, les numéros de sécurité sociale et les numéros de permis de conduire.",
+        "title": "Data Breach Notification",
+        "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/85ac85e7-4980-4494-9c05-0324d91ef7b8.html",
+        "added": "2025-06-06"
+    },
+    {
         "date": "2025-01-20",
         "victim": "General Digital Corporation",
         "domain": "generaldigital.com",
