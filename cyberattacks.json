@@ -1,5 +1,15 @@
 [
     {
+        "date": "2025-04-03",
+        "victim": "Cumberland County Hospital",
+        "domain": "cchospital.org",
+        "country": "USA",
+        "summary": "Cumberland County Hospital a subi une attaque de ransomware qui a affecté 36 659 patients, les informations personnelles et médicales ont été compromises. L'hôpital a immédiatement pris des mesures pour contenir l'incident et a offert des services de surveillance de crédit et de protection contre la fraude d'identité aux personnes touchées. Les groupes de ransomware ont également revendiqué des attaques contre d'autres établissements de santé.",
+        "title": "Cumberland County Hospital Cyberattack Affects 36,600 Patients",
+        "url": "https://www.hipaajournal.com/cumberland-county-hospital-cyberattack/",
+        "added": "2025-06-06"
+    },
+    {
         "date": "2025-06-05",
         "victim": "Lexington-Richland School District Five",
         "domain": "lexrich5.org",
