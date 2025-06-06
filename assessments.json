@@ -1,5 +1,19 @@
 [
     {
+        "victim": "UNITED OPTICS GmbH",
+        "domain": "unitedoptics.at",
+        "country": "AT",
+        "date": "2025-03-06",
+        "group": "akira"
+    },
+    {
+        "victim": "JDC Air & Sea Freight (HEUEL LOGISTICS Group)",
+        "domain": "jdc-logistik.de",
+        "country": "DE",
+        "date": "2025-04-23",
+        "group": "akira"
+    },
+    {
         "victim": "Belvedere",
         "domain": "cityofbelvedere.org",
         "country": "US",
