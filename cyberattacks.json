@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-08-07",
+        "victim": "Rio Marine, Inc.",
+        "domain": "riomarineinc.com",
+        "country": "USA",
+        "summary": "Rio Marine, Inc. a découvert une faille de sécurité dans son système, ce qui a pu compromettre les informations personnelles de certains individus. L'incident a été détecté en août 2024 et une enquête approfondie a été menée pour déterminer l'étendue de la faille. Les informations qui pourraient avoir été compromises incluent des données réglementées telles que les numéros de sécurité sociale et les adresses.",
+        "title": "Data Breach Notification",
+        "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/0236977d-5a8f-4062-8d99-025bf2f77139.html",
+        "added": "2025-06-06"
+    },
+    {
         "date": "2025-06-05",
         "victim": "Excellence Optoelectronics Inc",
         "domain": "eoi.com.tw",
