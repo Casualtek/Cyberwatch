@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-09-15",
+        "victim": "Mastery Charter High School",
+        "domain": "masterycharter.org",
+        "country": "USA",
+        "summary": "Mastery Charter High School a subi une faille de sécurité en septembre 2024, ce qui a potentiellement compromis les informations personnelles de certaines personnes. L'école a pris des mesures pour enquêter et remédier à la situation, notamment en engageant des experts en cybersécurité et en signalant l'incident aux autorités fédérales. L'attaque a été revendiquée par DragonForce le 29 octobre 2024.",
+        "title": "Data Breach Notification",
+        "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/1a2f7e23-e6a7-448f-b7a4-f2a875c0da1b.html",
+        "added": "2025-06-07"
+    },
+    {
         "date": "2025-04-03",
         "victim": "Cumberland County Hospital",
         "domain": "cchospital.org",
