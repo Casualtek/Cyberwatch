@@ -1,5 +1,15 @@
 [
     {
+        "date": "2025-06-07",
+        "victim": "General Registry at Belize’s High Court",
+        "domain": "belizejudiciary.org",
+        "country": "BLZ",
+        "summary": "Une faille de sécurité majeure a forcé le Registre général de la Haute Cour du Belize à cesser ses activités, en raison d'une attaque de ransomware qui a rendu les systèmes principaux inopérants. Le personnel de la cour a été invité à éteindre ses ordinateurs pendant que des experts évaluent les dégâts et tentent d'empêcher de nouvelles infiltrations. Les services sont au point mort, à l'exception d'une plateforme de dépôt électronique qui reste en ligne.",
+        "title": "Belize High Court registry paralyzed by cyberattack",
+        "url": "https://www.breakingbelizenews.com/2025/06/07/belize-high-court-registry-paralyzed-by-cyberattack/",
+        "added": "2025-06-07"
+    },
+    {
         "date": "2024-09-15",
         "victim": "Mastery Charter High School",
         "domain": "masterycharter.org",
