@@ -1,5 +1,15 @@
 [
     {
+        "date": "2025-03-06",
+        "victim": "Digital Forest",
+        "domain": "digitalforest.fr",
+        "country": "FRA",
+        "summary": "L'hébergeur Digital Forest a été victime d'un acte malveillant qui a affecté ses clients pendant plusieurs jours. Certains faisaient état de 5 jours d'indisponibilité quand d'autres indiquait que la situation était résolue au 11 mars.",
+        "title": "Problème résolu à la date du 11/03/2025",
+        "url": "https://www.facebook.com/story.php?story_fbid=122191063136126233&id=61553786996231",
+        "added": "2025-06-07"
+    },
+    {
         "date": "2025-06-07",
         "victim": "General Registry at Belize’s High Court",
         "domain": "belizejudiciary.org",
