@@ -1,5 +1,15 @@
 [
     {
+        "date": "2025-06-09",
+        "victim": "ERIE",
+        "domain": "erieinsurance.com",
+        "country": "USA",
+        "summary": "ERIE a connu une panne de réseau qui affecte ses systèmes, les ressources disponibles travaillent pour rétablir l'accès le plus rapidement possible, les propriétaires de police peuvent contacter leur agent ou l'équipe de première notification de perte d'ERIE, les services en ligne et de gestion de la clientèle ne sont pas encore opérationnels. (via eCrime.ch)",
+        "title": "Network Outage",
+        "url": "https://www.erieinsurance.com/support-center/notice",
+        "added": "2025-06-09"
+    },
+    {
         "date": "2025-06-03",
         "victim": "AMI Group of Companies",
         "domain": "amigroups.com",
