@@ -1,5 +1,15 @@
 [
     {
+        "date": "2025-06-05",
+        "victim": "United Natural Foods, Inc.",
+        "domain": "unfi.com",
+        "country": "USA",
+        "summary": "United Natural Foods, Inc. a subi une activité non autorisée sur certains de ses systèmes informatiques, ce qui a temporairement impacté sa capacité à remplir et à distribuer les commandes des clients. L'entreprise travaille activement pour évaluer, atténuer et remédier à l'incident avec l'aide de professionnels de la cybersécurité tiers. L'enquête pour évaluer l'impact et la portée de l'incident est toujours en cours.",
+        "title": "unfi-20250605",
+        "url": "https://www.sec.gov/Archives/edgar/data/1020859/000102085925000021/unfi-20250605.htm",
+        "added": "2025-06-09"
+    },
+    {
         "date": "2025-03-06",
         "victim": "Digital Forest",
         "domain": "digitalforest.fr",
