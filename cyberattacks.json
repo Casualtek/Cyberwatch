@@ -1,5 +1,15 @@
 [
     {
+        "date": "2025-06-03",
+        "victim": "AMI Group of Companies",
+        "domain": "amigroups.com",
+        "country": "USA",
+        "summary": "AMI Group of Companies a été victime d'une attaque de ransomware orchestrée par le groupe de menace internationale APT73, mais aucune rançon n'a été demandée ou payée et les plateformes existantes de l'entreprise restent opérationnelles et sécurisées. L'incident concerne uniquement les systèmes prévus pour être mis en ligne en juillet. L'entreprise travaille avec le FBI pour renforcer sa posture de cybersécurité et mener l'enquête.",
+        "title": "AMI Group – Travel & Tours notice of ransomware attack",
+        "url": "https://databreaches.net/2025/06/09/ami-group-travel-tours-notice-of-ransomware-attack/",
+        "added": "2025-06-09"
+    },
+    {
         "date": "2025-06-05",
         "victim": "United Natural Foods, Inc.",
         "domain": "unfi.com",
