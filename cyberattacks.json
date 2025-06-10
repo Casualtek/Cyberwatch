@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-04-18",
+        "victim": "MBE CPAs LLP",
+        "domain": "mbe.cpa",
+        "country": "USA",
+        "summary": "Le cabinet d'expertise comptable MBE CPAs, LLP, a subi une faille de sécurité dans son réseau informatique le 18 avril 2024. Cette faille a permis à un individu non autorisé d'accéder à certaines informations personnelles, notamment des numéros de sécurité sociale, des adresses et des informations bancaires. Le cabinet a engagé un spécialiste de la cybersécurité pour enquêter sur l'incident et a mis en place des mesures pour prévenir de futures failles. Les personnes touchées par cette faille, dont 12 résidents du Maine, ont reçu une notification et ont été proposées des services de surveillance de crédit gratuits. Le cabinet a également fourni des conseils pour aider les personnes touchées à protéger leur identité et à prévenir les fraudes.",
+        "title": "Data Breach Notification",
+        "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/2a9eba75-0594-43fc-a50a-a2321d2e06d6.html",
+        "added": "2025-06-10"
+    },
+    {
         "date": "2025-04-12",
         "victim": "CMC Group",
         "domain": "cmc.com.vn",
