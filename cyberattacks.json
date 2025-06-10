@@ -1,5 +1,15 @@
 [
     {
+        "date": "2025-05-16",
+        "victim": "Elite Advanced Laser Corporation",
+        "domain": "elaser.com.tw",
+        "country": "TWN",
+        "summary": "La société a subi une attaque de ransomware le 19 janvier, puis une autre le 16 mai, mais n'a pas signalé d'impact significatif sur ses opérations. La société a lancé une enquête approfondie et renforce la sécurité de ses systèmes. Aucun impact financier ou opérationnel significatif n'est prévu.",
+        "title": "Today's Information",
+        "url": "https://emops.twse.com.tw/server-java/t05sr01_1_e?&isNew=Y&seq_no=1&spoke_time=162017&spoke_date=20250609&co_id=3450",
+        "added": "2025-06-10"
+    },
+    {
         "date": "2025-06-09",
         "victim": "ERIE",
         "domain": "erieinsurance.com",
