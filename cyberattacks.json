@@ -1,5 +1,15 @@
 [
     {
+        "date": "2025-06-09",
+        "victim": "YES24",
+        "domain": "yes24.com",
+        "country": "KOR",
+        "summary": "Pour le deuxième jour consécutif, la librairie en ligne YES24 a été victime d'une attaque par ransomware, entraînant des problèmes d'accès à son site web et à son application dès 4 h du matin le 9 juin. L'entreprise a immédiatement lancé des mesures de sécurité, alerté les autorités compétentes, dont l’Agence coréenne pour la sécurité Internet (KISA), et mène une analyse de l’incident. (via eCrime.ch)",
+        "title": "YES24 battles ransomware access issues, assures no personal data leak",
+        "url": "https://biz.chosun.com/en/en-retail/2025/06/10/HVTHA23LVNBJDHN37R5PODRJCI/",
+        "added": "2025-06-10"
+    },
+    {
         "date": "2025-06-06",
         "victim": "British Horseracing Authority",
         "domain": "britishhorseracing.com",
