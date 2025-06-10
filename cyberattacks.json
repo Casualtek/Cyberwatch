@@ -1,5 +1,15 @@
 [
     {
+        "date": "2025-04-12",
+        "victim": "CMC Group",
+        "domain": "cmc.com.vn",
+        "country": "VNM",
+        "summary": "Le groupe CMC a subi une attaque de ransomware menée par le gang Crypto24, entraînant la perte de 2 To de données. L'attaque a été contenue en 90 minutes et les services critiques ont été rétablis en 24 heures. L'incident souligne l'importance de la cybersécurité et de la résilience face aux menaces.",
+        "title": "Vietnam CMC Group Ransomware Attack: Timeline, Impact & Lessons",
+        "url": "https://www.sangfor.com/blog/cybersecurity/vietnam-cmc-group-ransomware-attack-anatomy-asian-cyber-shock",
+        "added": "2025-06-10"
+    },
+    {
         "date": "2025-05-16",
         "victim": "Elite Advanced Laser Corporation",
         "domain": "elaser.com.tw",
