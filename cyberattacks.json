@@ -1,6 +1,16 @@
 [
     {
         "date": "2025-06-11",
+        "victim": "Gobierno Regional de La Araucanía",
+        "domain": "gorearaucania.cl",
+        "country": "CHL",
+        "summary": "Un ataque cibernético ha afectado al Gobierno Regional de La Araucanía, lo que ha llevado a la anunciación de una investigación interna. El ataque se produjo el miércoles 11 de junio de 2025. La región de La Araucanía se encuentra en Chile.",
+        "title": "Ataque cibernÃ©tico afecta al Gobierno Regional de La AraucanÃa: anuncian investigaciÃ³n interna",
+        "url": "https://www.biobiochile.cl/noticias/nacional/region-de-la-araucania/2025/06/11/ataque-cibernetico-afecta-al-gobierno-regional-de-la-araucania-anuncian-investigacion.shtml",
+        "added": "2025-06-11"
+    },
+    {
+        "date": "2025-06-11",
         "victim": "Ogeechee Judicial Circuit District Attorney’s Office",
         "domain": "ogeecheecircuit.org",
         "country": "USA",
