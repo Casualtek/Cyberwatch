@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-10-17",
+        "victim": "McLean Mortgage Corporation",
+        "domain": "mcleanmortgage.com",
+        "country": "USA",
+        "summary": "McLean Mortgage Corporation a subi une faille de sécurité dans ses systèmes numériques, ce qui a pu compromettre les informations personnelles de certains clients. L'incident a été découvert le 17 octobre 2024 et une enquête a été menée pour déterminer l'étendue de la faille. L'attaque a été revendiquée par Black Basta le 28 novembre 2024.",
+        "title": "Data Breach Notification",
+        "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/e423ab1f-c575-44f8-b5fc-c02533be7338.html",
+        "added": "2025-06-12"
+    },
+    {
         "date": "2024-11-29",
         "victim": "Brodsky Renehan Pearlstein & Bouquet Chartered",
         "domain": "brpfamilylaw.com",
