@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-11-29",
+        "victim": "Brodsky Renehan Pearlstein & Bouquet Chartered",
+        "domain": "brpfamilylaw.com",
+        "country": "USA",
+        "summary": "Brodsky Renehan Pearlstein & Bouquet Chartered (BRPB) a découvert une activité suspecte dans son réseau le 29 novembre 2024. Une enquête a révélé qu'un acteur non autorisé a copié des données sans permission, notamment des noms, des numéros de sécurité sociale, des informations de carte de paiement et des informations de compte financier. L'attaque a été revendiquée le 6 décembre 2024, sous l'enseigne de Medusa.",
+        "title": "Data Breach Notification",
+        "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/3e0b8bc8-db2d-4baf-b285-2c3c4aeec442.html",
+        "added": "2025-06-12"
+    },
+    {
         "date": "2025-06-11",
         "victim": "Gobierno Regional de La Araucanía",
         "domain": "gorearaucania.cl",
