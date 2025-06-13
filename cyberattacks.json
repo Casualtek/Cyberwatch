@@ -1,5 +1,15 @@
 [
     {
+        "date": "2025-06-05",
+        "victim": "Sorbonne Université",
+        "domain": "sorbonne-universite.fr",
+        "country": "FRA",
+        "summary": "Sorbonne Université a été victime d'une cyberattaque qui a endommagé ses outils numériques, mais les services essentiels sont toujours disponibles. Les données sensibles compromises incluent des adresses e-mail professionnelles, des coordonnées bancaires et des numéros de sécurité sociale. L'université a déposé plainte et travaille à rétablir les services dans les meilleures conditions possibles.",
+        "title": "Informations sur la cyberattaque dont Sorbonne Université a fait l’objet",
+        "url": "https://www.sorbonne-universite.fr/presse/informations-sur-la-cyberattaque-dont-sorbonne-universite-fait-lobjet",
+        "added": "2025-06-13"
+    },
+    {
         "date": "2025-06-09",
         "victim": "Philadelphia Insurance Companies (PHLY)",
         "domain": "phly.com",
