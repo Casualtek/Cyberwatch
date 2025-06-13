@@ -1,5 +1,15 @@
 [
     {
+        "date": "2025-06-09",
+        "victim": "Philadelphia Insurance Companies (PHLY)",
+        "domain": "phly.com",
+        "country": "USA",
+        "summary": "Une attaque par ransomware a touché Philadelphia Insurance Companies, probablement causée par le groupe Scattered Spider, selon des sources dans le domaine de la cybersécurité. L'entreprise a dû annuler la présence en personne de ses employés en raison de la perturbation de son réseau. Le groupe Scattered Spider est connu pour cibler plusieurs entreprises dans une même industrie en même temps.",
+        "title": "Exclusive: Ransomware gang Scattered Spider likely to have caused PHLY disruption, cyber sources say",
+        "url": "https://www.tradingview.com/news/reuters.com,2025:newsml_L6N3SF0VF:0-exclusive-ransomware-gang-scattered-spider-likely-to-have-caused-phly-disruption-cyber-sources-say/",
+        "added": "2025-06-13"
+    },
+    {
         "date": "2024-04-01",
         "victim": "DOYON, LIMITED",
         "domain": "doyondrilling.com",
