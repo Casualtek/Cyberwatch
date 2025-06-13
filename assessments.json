@@ -1,5 +1,12 @@
 [
     {
+        "victim": "ramlaw.com",
+        "domain": "ramlaw.com",
+        "country": "US",
+        "date": "2025-05-20",
+        "group": "safepay"
+    },
+    {
         "victim": "Dyrham Park",
         "domain": "dyrhampark.com",
         "country": "GB",
