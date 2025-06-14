@@ -1,5 +1,15 @@
 [
     {
+        "date": "2025-02-21",
+        "victim": "Christopherson Business Travel",
+        "domain": "cbtravel.com",
+        "country": "USA",
+        "summary": "Christopherson Business Travel (CBT) a subi une faille de sécurité qui a compromis des informations de carte de crédit. Les informations compromises incluent les noms, les numéros de carte de crédit et les dates d'expiration. CBT a mis en place des mesures de sécurité renforcées pour prévenir de futures attaques et offre 12 mois de surveillance de crédit gratuite aux personnes touchées.",
+        "title": "Data Breach Notification",
+        "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/790d5654-1efd-4e60-b676-c31ca5681b6a.html",
+        "added": "2025-06-14"
+    },
+    {
         "date": "2024-10-18",
         "victim": "Central Kentucky Radiology",
         "domain": "ckr.net",
@@ -37,6 +47,16 @@
         "summary": "Alpha Baking Co., Inc. a découvert une activité anormale sur son réseau informatique le 23 janvier 2025, qui a conduit à une enquête approfondie. Il a été déterminé qu'un tiers non autorisé a obtenu des fichiers contenant des informations personnelles, dont certaines appartiennent à vous. L'attaque a été revendiquée le 26 février 2025 sous l'enseigne Cactus.",
         "title": "Data Breach Notification",
         "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/28c4bef7-98fb-460b-90ef-18caa49b59b1.html",
+        "added": "2025-06-14"
+    },
+    {
+        "date": "2024-08-04",
+        "victim": "Alera Group, Inc.",
+        "domain": "aleragroup.com",
+        "country": "USA",
+        "summary": "Alera Group, Inc. a informé les résidents du Maine d'une faille de sécurité qui a pu affecter la confidentialité de certaines informations personnelles. L'incident a eu lieu entre le 19 juillet 2024 et le 4 août 2024, et la société a découvert la faille de sécurité le 28 avril 2025. Alera Group a pris des mesures pour sécuriser son environnement et offre des services de surveillance de crédit et de protection contre la fraude d'identité pendant 24 mois aux personnes touchées.",
+        "title": "Data Breach Notification",
+        "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/9f1c2cfe-f696-40c6-9013-28e4a9f5ae66.html", 
         "added": "2025-06-14"
     },
     {
