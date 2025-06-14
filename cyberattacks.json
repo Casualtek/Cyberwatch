@@ -1,6 +1,16 @@
 [
     {
         "date": "2025-06-11",
+        "victim": "Parmanand Multi-Superspeciality Hospital",
+        "domain": "sphdelhi.org",
+        "country": "IND",
+        "summary": "Deux hôpitaux de Delhi ont été victimes d'une attaque informatique, les serveurs de Parmanand Multi-Superspeciality Hospital et NKS Superspeciality Hospital ont été touchés. La police de Delhi a ouvert une enquête pour retracer les auteurs de l'attaque. Les experts techniques sont impliqués pour identifier les coupables.",
+        "title": "Delhi Hospitals Hit by Cyber Attack | Technology",
+        "url": "https://www.devdiscourse.com/article/technology/3458661-delhi-hospitals-hit-by-cyber-attack",
+        "added": "2025-06-14"
+    },
+    {
+        "date": "2025-06-11",
         "victim": "NKS Superspeciality Hospital",
         "domain": "nkshospital.com",
         "country": "IND",
@@ -18,16 +28,6 @@
         "title": "Delhi Hospitals Hit by Cyber Attack | Technology",
         "url": "https://www.devdiscourse.com/article/technology/3458661-delhi-hospitals-hit-by-cyber-attack",
         "added": "2025-06-14"
-    },
-    {
-        "date": "2025-06-12",
-        "victim": "Thomasville",
-        "domain": "thomasville-nc.gov",
-        "country": "USA",
-        "summary": "La ville de Thomasville a subi une intrusion dans ses systèmes municipaux, mais les efforts de confinement ont été couronnés de succès sans causer de dommages. Les systèmes critiques sont restés opérationnels et aucune donnée sensible n'a été accédée. La ville travaille avec des experts en cybersécurité pour mener une analyse approfondie.",
-        "title": "Cyberattack hits Thomasville municipal systems",
-        "url": "https://www.the-dispatch.com/news/crime/cyberattack-hits-thomasville-municipal-systems/article_44054c4e-f880-53be-8c97-6257abfc2070.html",
-        "added": "2025-06-13"
     },
     {
         "date": "2025-06-05",
