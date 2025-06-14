@@ -1,5 +1,15 @@
 [
     {
+        "date": "2025-06-10",
+        "victim": "Albemarle County",
+        "domain": "albemarle.org",
+        "country": "USA",
+        "summary": "Le comté d'Albemarle en Virginie a subi une attaque informatique, ce qui a entraîné une perte d'accès à Internet dans ses bâtiments administratifs. Les services de sécurité publique n'ont pas été affectés, mais certains services pourraient être temporairement indisponibles. Une équipe de cybersécurité a été déployée pour contenir l'incident et minimiser les perturbations.",
+        "title": "Internet outage associated with recent cyberattack",
+        "url": "https://www.cbs19news.com/news/local/internet-outage-associated-with-recent-cyberattack/article_3e44f677-bb04-413e-ab4c-94d567740c98.html",
+        "added": "2025-06-14"
+    },
+    {
         "date": "2025-06-11",
         "victim": "Parmanand Multi-Superspeciality Hospital",
         "domain": "sphdelhi.org",
@@ -13,16 +23,6 @@
         "date": "2025-06-11",
         "victim": "NKS Superspeciality Hospital",
         "domain": "nkshospital.com",
-        "country": "IND",
-        "summary": "Deux hôpitaux de Delhi ont été victimes d'une attaque informatique, les serveurs de Parmanand Multi-Superspeciality Hospital et NKS Superspeciality Hospital ont été touchés. La police de Delhi a ouvert une enquête pour retracer les auteurs de l'attaque. Les experts techniques sont impliqués pour identifier les coupables.",
-        "title": "Delhi Hospitals Hit by Cyber Attack | Technology",
-        "url": "https://www.devdiscourse.com/article/technology/3458661-delhi-hospitals-hit-by-cyber-attack",
-        "added": "2025-06-14"
-    },
-    {
-        "date": "2025-06-11",
-        "victim": "Parmanand Multi-Superspeciality Hospital",
-        "domain": "sphdelhi.org",
         "country": "IND",
         "summary": "Deux hôpitaux de Delhi ont été victimes d'une attaque informatique, les serveurs de Parmanand Multi-Superspeciality Hospital et NKS Superspeciality Hospital ont été touchés. La police de Delhi a ouvert une enquête pour retracer les auteurs de l'attaque. Les experts techniques sont impliqués pour identifier les coupables.",
         "title": "Delhi Hospitals Hit by Cyber Attack | Technology",
