@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-10-18",
+        "victim": "Central Kentucky Radiology",
+        "domain": "ckr.net",
+        "country": "USA",
+        "summary": "Central Kentucky Radiology (CKR) a découvert une faille de sécurité dans son système informatique le 18 octobre 2024. Une enquête a révélé qu'un acteur non autorisé a accédé et copié des fichiers entre le 16 et le 18 octobre 2024. Les informations compromises incluent des noms, adresses, dates de naissance, numéros de sécurité sociale et informations de facturation médicale.",
+        "title": "Data Breach Notification",
+        "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/56a3e90a-7bd3-46d0-97e3-88f30e7a79cc.html",
+        "added": "2025-06-14"
+    },
+    {
         "date": "2024-06-27",
         "victim": "Spitler, Kilgore & Enck, PC",
         "domain": "skelawfirm.com",
