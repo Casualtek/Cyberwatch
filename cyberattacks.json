@@ -1,5 +1,15 @@
 [
     {
+        "date": "2025-01-23",
+        "victim": "Alpha Baking Co., Inc.",
+        "domain": "alphabaking.com",
+        "country": "USA",
+        "summary": "Alpha Baking Co., Inc. a découvert une activité anormale sur son réseau informatique le 23 janvier 2025, qui a conduit à une enquête approfondie. Il a été déterminé qu'un tiers non autorisé a obtenu des fichiers contenant des informations personnelles, dont certaines appartiennent à vous. L'attaque a été revendiquée le 26 février 2025 sous l'enseigne Cactus.",
+        "title": "Data Breach Notification",
+        "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/28c4bef7-98fb-460b-90ef-18caa49b59b1.html",
+        "added": "2025-06-14"
+    },
+    {
         "date": "2025-06-10",
         "victim": "Albemarle County",
         "domain": "albemarle.org",
