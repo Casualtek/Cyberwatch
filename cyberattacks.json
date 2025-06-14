@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-11-18",
+        "victim": "Asheville Eye Associates, PLLC",
+        "domain": "ashevilleeye.com",
+        "country": "USA",
+        "summary": "Asheville Eye Associates, PLLC a détecté une faille de sécurité dans son réseau le 18 novembre 2024, permettant à une partie non autorisée d'accéder à certaines informations personnelles. Les données compromises peuvent inclure des noms, adresses, numéros de sécurité sociale, informations médicales et assurances maladie. La société a pris des mesures pour sécuriser son réseau et propose des services de surveillance de crédit gratuits aux personnes affectées. L'attaque a été revendiquée par DragonForce le 29 décembre 2024.",
+        "title": "Data Breach Notification",
+        "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/c4455141-8d8a-4179-8be8-49ce21a2a97f.html",
+        "added": "2025-06-14"
+    },
+    {
         "date": "2025-01-23",
         "victim": "Alpha Baking Co., Inc.",
         "domain": "alphabaking.com",
