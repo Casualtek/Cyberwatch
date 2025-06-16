@@ -1,5 +1,12 @@
 [
     {
+        "victim": "Termignoni SpA",
+        "domain": "termignoni.it",
+        "country": "IT",
+        "date": "2025-05-15",
+        "group": "akira"
+    },
+    {
         "victim": "Chain IQ",
         "domain": "chainiq.com",
         "country": "CH",
