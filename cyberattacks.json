@@ -1,5 +1,15 @@
 [
     {
+        "date": "2025-06-01",
+        "victim": "ASEFA",
+        "domain": "asefa.es",
+        "country": "ESP",
+        "summary": "L'entreprise ASEFA (groupe SMABTP) a subi un cyberattaque qui a affecté une partie de ses systèmes, mais les systèmes centraux du business n'ont pas été touchés et la plupart des services ont déjà été rétablis. L'accès à la page web de l'entreprise reste temporairement fermé jusqu'à ce que toutes les outils et fonctionnalités soient sécurisées et opérationnelles. L'attaque a été revendiquée par Qilin le 11 juin 2025.",
+        "title": "Asefa - Incidente informÃ¡tico",
+        "url": "https://www.asefa.es/indispo.html",
+        "added": "2025-06-16"
+    },
+    {
         "date": "2025-06-13",
         "victim": "WestJet",
         "domain": "westjet.com",
