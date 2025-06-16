@@ -1,5 +1,12 @@
 [
     {
+        "victim": "realschule-karlstadt.org",
+        "domain": "realschule-karlstadt.org",
+        "country": "DE",
+        "date": "2025-04-24",
+        "group": "safepay"
+    },
+    {
         "victim": "Nelson Law Firm",
         "domain": "nlfiowa.com",
         "country": "US",
