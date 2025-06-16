@@ -1,5 +1,15 @@
 [
     {
+        "date": "2025-06-13",
+        "victim": "WestJet",
+        "domain": "westjet.com",
+        "country": "CAN",
+        "summary": "WestJet a subi une faille de sécurité informatique affectant ses systèmes internes et son application, l'entreprise a activé des équipes spécialisées pour enquêter et limiter les impacts. Les opérations de l'entreprise sont toujours en cours et les équipes travaillent pour maintenir la sécurité opérationnelle et protéger les données sensibles. L'enquête est en cours avec la participation de la police et de Transports Canada.",
+        "title": "WestJet faced with cybersecurity incident involving app and internal systems",
+        "url": "https://calgaryherald.com/business/westjet-cybersecurity-incident-june-2025",
+        "added": "2025-06-16"
+    },
+    {
         "date": "2025-06-09",
         "victim": "Zoomcar Holdings, Inc.",
         "domain": "zoomcar.com",
