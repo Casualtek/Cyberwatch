@@ -1,5 +1,12 @@
 [
     {
+        "victim": "mcsl.de",
+        "domain": "mcsl.de",
+        "country": "DE",
+        "date": "2025-05-01",
+        "group": "safepay"
+    },
+    {
         "victim": "realschule-karlstadt.org",
         "domain": "realschule-karlstadt.org",
         "country": "DE",
