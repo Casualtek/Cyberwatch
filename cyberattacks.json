@@ -1,5 +1,15 @@
 [
     {
+        "date": "2025-06-04",
+        "victim": "Center Parcs",
+        "domain": "centerparcs.com",
+        "country": "FRA",
+        "summary": "Center Parcs a été victime d'une cyberattaque, entraînant le vol de données de réservations de 20 000 clients. Les hackers ont accédé aux noms, prénoms, adresses e-mail et détails de réservation, mais pas aux informations financières ou bancaires. Le groupe prend des mesures pour améliorer la sécurité de ses systèmes et avertit les clients de possibles campagnes de phishing.",
+        "title": "Center Parcs biecht dataverlies door cyberaanval op",
+        "url": "https://datanews.knack.be/nieuws/security/datalekken/center-parcs-biecht-dataverlies-door-cyberaanval-op/",
+        "added": "2025-06-16"
+    },
+    {
         "date": "2025-06-01",
         "victim": "ASEFA",
         "domain": "asefa.es",
