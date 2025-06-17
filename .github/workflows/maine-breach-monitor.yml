@@ -1,0 +1,86 @@
+name: Maine Breach Monitor
+
+on:
+  schedule:
+    # Run daily at 7:00 AM UTC (adjust timezone as needed)
+    - cron: '0 7 * * *'
+  workflow_dispatch:  # Allow manual triggering
+
+jobs:
+  monitor-breaches:
+    runs-on: ubuntu-latest
+    
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v4
+      with:
+        # Fetch full history to ensure we have the cyberattacks.json file
+        fetch-depth: 0
+    
+    - name: Set up Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: '3.11'
+    
+    - name: Cache pip dependencies
+      uses: actions/cache@v3
+      with:
+        path: ~/.cache/pip
+        key: ${{ runner.os }}-pip-${{ hashFiles('**/requirements.txt') }}
+        restore-keys: |
+          ${{ runner.os }}-pip-
+    
+    - name: Install dependencies
+      run: |
+        python -m pip install --upgrade pip
+        pip install -r maine_breach_monitor_requirements.txt
+    
+    - name: Run Maine breach monitor
+      env:
+        GROQ_API: ${{ secrets.GROQ_API }}
+        TG_TK: ${{ secrets.TG_TK }}
+        TG_CHAT_ID: ${{ secrets.TG_CHAT_ID }}
+      run: |
+        python maine_breach_monitor.py
+    
+    - name: Upload new notifications artifact
+      if: always()
+      uses: actions/upload-artifact@v3
+      with:
+        name: new-notifications-${{ github.run_number }}
+        path: |
+          new_notification.json
+          *.log
+        retention-days: 3
+        if-no-files-found: ignore
+    
+    - name: Commit and push new cyberattacks data
+      if: hashFiles('new_notification.json') != ''
+      run: |
+        git config --local user.email "action@github.com"
+        git config --local user.name "GitHub Action"
+        
+        # Check if new_notification.json exists and has content
+        if [ -f "new_notification.json" ] && [ -s "new_notification.json" ]; then
+          echo "New notifications found, updating repository"
+          
+          # Add any new files that might have been created
+          git add new_notification.json
+          
+          # Check if there are changes to commit
+          if ! git diff --staged --quiet; then
+            git commit -m "🚨 New breach notifications found - $(date '+%Y-%m-%d %H:%M:%S')"
+            git push
+          else
+            echo "No changes to commit"
+          fi
+        else
+          echo "No new notifications to commit"
+        fi
+    
+    - name: Check workflow status
+      if: failure()
+      run: |
+        echo "❌ Maine breach monitor workflow failed"
+        echo "Check the logs for details"
+        exit 1
