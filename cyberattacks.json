@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-09-14",
+        "victim": "Albany College of Pharmacy and Health Sciences",
+        "domain": "acphs.edu",
+        "country": "USA",
+        "summary": "Albany College of Pharmacy and Health Sciences (ACPHS) a détecté une activité anormale sur son réseau le 14 septembre 2024, ce qui a conduit à une enquête approfondie. L'enquête a révélé que des données personnelles, notamment des noms, avaient pu être accessibles et acquises entre le 31 août et le 14 septembre 2024. L'attaque a été revendiquée le 8 octobre suivant sous la bannière de Medusa.",
+        "title": "Data Breach Notification",
+        "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/1a3e04ef-d52d-498b-b624-2d04049a677a.html",
+        "added": "2025-06-17"
+    },
+    {
         "date": "2025-04-08",
         "victim": "Shrader & Associates, LLP",
         "domain": "shraderlaw.com",
