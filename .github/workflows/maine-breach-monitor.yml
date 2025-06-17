@@ -45,7 +45,7 @@ jobs:
     
     - name: Upload new notifications artifact
       if: always()
-      uses: actions/upload-artifact@v3
+      uses: actions/upload-artifact@v4
       with:
         name: new-notifications-${{ github.run_number }}
         path: |
