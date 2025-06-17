@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-10-28",
+        "victim": "HomeTrust Mortgage Company",
+        "domain": "hometrust.com",
+        "country": "USA",
+        "summary": "La société HomeTrust Mortgage Company a subi une faille de sécurité dans son réseau le 28 octobre 2024, ce qui a permis à des personnes non autorisées d'accéder à certaines informations personnelles. Une enquête a été menée avec l'aide d'experts en cybersécurité et il a été découvert que des informations telles que les noms et les numéros de sécurité sociale avaient pu être compromises. La société avait déjà été victime d'une cyberattaque revendiquée par Alphv/BlackCat, en juillet 2023.",
+        "title": "Data Breach Notification",
+        "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/206c9dd4-0639-4f2c-9fff-78ff256df01a.html",
+        "added": "2025-06-17"
+    },
+    {
         "date": "2024-09-14",
         "victim": "Albany College of Pharmacy and Health Sciences",
         "domain": "acphs.edu",
