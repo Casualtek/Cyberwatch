@@ -1,0 +1,34 @@
+# Maine Breach Monitor - Requirements
+# Core dependencies for all three scripts
+
+# Web scraping and HTTP requests
+requests>=2.31.0
+beautifulsoup4>=4.12.0
+
+# PDF processing
+PyPDF2>=3.0.0
+
+# Date parsing
+python-dateutil>=2.8.0
+
+# AI/LLM integration
+groq>=0.4.0
+instructor>=0.4.0
+
+# HTML parsing (dependency of beautifulsoup4, but explicit for clarity)
+lxml>=4.9.0
+
+# Standard library modules (no installation needed):
+# - argparse
+# - base64
+# - json
+# - os
+# - re
+# - socket
+# - subprocess
+# - sys
+# - time
+# - logging
+# - datetime
+# - urllib.parse
+# - io
