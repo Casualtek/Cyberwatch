@@ -1,5 +1,25 @@
 [
     {
+        "date": "2025-05-05",
+        "victim": "McKeown Farm & Lawn",
+        "domain": "harpsterequipment.com",
+        "country": "USA",
+        "summary": "Qilin. Non revendiqué à date, mais données volées déjà divulguées.",
+        "title": "n/a",
+        "url": "n/a",
+        "added": "2025-06-18"
+    },
+    {
+        "date": "2025-02-06",
+        "victim": "Episource LLC",
+        "domain": "episource.com",
+        "country": "USA",
+        "summary": "Episource LLC a subi une attaque par ransomware qui a affecté plusieurs de ses clients dans le domaine de la santé, entraînant la fuite de données sensibles. L'attaque a été détectée le 6 février 2025 et les systèmes ont été mis hors ligne pour prévenir tout accès non autorisé. Les personnes touchées seront offertes deux ans de surveillance de crédit et de protection contre le vol d'identité.",
+        "title": "Episource Ransomware Attack Affects Multiple Healthcare Customers",
+        "url": "https://www.hipaajournal.com/episource-data-breach/",
+        "added": "2025-06-17"
+    },
+    {
         "date": "2025-05-27",
         "victim": "Eastern Platinum",
         "domain": "eastplats.com",
