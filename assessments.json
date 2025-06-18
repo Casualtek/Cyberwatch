@@ -1,5 +1,12 @@
 [
     {
+        "victim": "FLOE International",
+        "domain": "floeintl.com",
+        "country": "US",
+        "date": "2025-05-30",
+        "group": "play"
+    },
+    {
         "victim": "Asefa (SMABTP)",
         "domain": "asefa.es",
         "country": "ES",
