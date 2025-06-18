@@ -1,5 +1,335 @@
 [
     {
+        "date": "2024-02-20",
+        "victim": "On Q Financial",
+        "domain": "onqfinancial.com",
+        "country": "USA",
+        "summary": "Le 20 février 2024, On Q Financial a reçu une notification de ConnectWise, un fournisseur de logiciels et de services informatiques, concernant une vulnérabilité dans son produit ScreenConnect, un programme utilisé par On Q Financial pour l’accès à distance à son réseau informatique. En réponse à cette alerte, On Q Financial a immédiatement corrigé et mis à jour l’application, puis lancé une enquête. Celle-ci a révélé une activité suspecte ayant transité par l’application ScreenConnect.",
+        "title": "Data Breach Notification",
+        "url": "https://agportal-s3bucket.s3.amazonaws.com/databreach/BreachA28496.pdf",
+        "added": "2025-06-18"
+    },
+    {
+        "date": "2024-02-05",
+        "victim": "Prudential Financial",
+        "domain": "prudential.com",
+        "country": "USA",
+        "summary": "Le 5 février 2024, Prudential a détecté un accès non autorisé de la part d’un tiers à certains de ses systèmes et données. L’entreprise a immédiatement activé son plan de réponse à incident et lancé une enquête avec l’aide d’experts en cybersécurité externes, tout en informant les autorités compétentes. L’enquête a révélé qu’un acteur malveillant avait accédé au réseau de Prudential le 4 février 2024 et avait extrait un petit pourcentage de données personnelles.",
+        "title": "Data Breach Notification",
+        "url": "https://agportal-s3bucket.s3.amazonaws.com/databreach/BreachA28804.pdf",
+        "added": "2025-06-18"
+    },
+    {
+        "date": "2024-02-06",
+        "victim": "Hypertension Nephrology Associates, P.C.",
+        "domain": "hnapc.com",
+        "country": "USA",
+        "summary": "Le 6 février 2024, le cabinet médical a découvert qu’il faisait l’objet d’une attaque par extorsion, après la découverte d’une note sur ses systèmes informatiques. Une enquête a été immédiatement lancée avec l’aide d’experts en cybersécurité, révélant que les cybercriminels avaient accédé aux systèmes entre le 20 janvier et le 6 février 2024. Des données concernant d’anciens et actuels patients ont été exfiltrées, et par mesure de précaution, toutes les informations sont considérées comme compromises.",
+        "title": "Data Breach Notification",
+        "url": "https://agportal-s3bucket.s3.amazonaws.com/databreach/BreachA29253.pdf",
+        "added": "2025-06-18"
+    },
+    {
+        "date": "2024-04-12",
+        "victim": "TRC Talent Solutions",
+        "domain": "trctalent.com",
+        "country": "USA",
+        "summary": "Le 12 avril 2024, TRC a détecté une activité suspecte sur certains de ses systèmes informatiques, incluant le chiffrement de fichiers. TRC a immédiatement sécurisé son environnement, lancé une enquête et informé les autorités fédérales. L’enquête a révélé qu’un acteur inconnu avait accédé à certains systèmes entre le 25 mars et le 12 avril 2024, et pourrait y avoir consulté ou copié des informations ; une analyse est en cours pour identifier les données personnelles potentiellement concernées.",
+        "title": "Data Breach Notification",
+        "url": "https://agportal-s3bucket.s3.amazonaws.com/databreach/BreachA29258.pdf",
+        "added": "2025-06-18"
+    },
+    {
+        "date": "2024-05-05",
+        "victim": "Holstein Association USA",
+        "domain": "holsteinusa.com",
+        "country": "USA",
+        "summary": "Le 5 mai 2024, Holstein a détecté une activité potentiellement non autorisée sur son réseau informatique et a immédiatement lancé une enquête, tout en prenant des mesures pour contenir l’incident et rétablir ses opérations. L’entreprise a informé les autorités et fait appel à des experts en cybersécurité pour évaluer la situation. Le 13 mai 2024, ces experts ont confirmé qu’un tiers non autorisé avait accédé à certaines données du réseau de Holstein et les avait exfiltrées ; une analyse approfondie a ensuite été menée pour identifier les personnes concernées et les informations compromises.",
+        "title": "Data Breach Notification",
+        "url": "https://agportal-s3bucket.s3.amazonaws.com/databreach/BreachA29637.pdf",
+        "added": "2025-06-18"
+    },
+    {
+        "date": "2024-03-19",
+        "victim": "DG3",
+        "domain": "dg3.com",
+        "country": "USA",
+        "summary": "DG3, un fournisseur spécialisé dans les services d’impression, de publipostage et de communication, a détecté vers le 19 mars 2024 une activité suspecte sur certains systèmes réseau, révélant un incident cybernétique. DG3 a immédiatement lancé une enquête avec des experts en criminalistique pour déterminer la nature et l’étendue de l’incident. L’enquête a révélé qu’entre le 5 et le 22 février 2024, certaines informations personnelles ont été consultées et/ou copiées.",
+        "title": "Data Breach Notification",
+        "url": "https://agportal-s3bucket.s3.amazonaws.com/databreach/BreachA29971.pdf",
+        "added": "2025-06-18"
+    },
+    {
+        "date": "2024-01-31",
+        "victim": "T&B Inc.",
+        "domain": "papamurphys.com",
+        "country": "USA",
+        "summary": "Nous avons récemment appris qu’un incident de sécurité est survenu le 31 janvier 2024, lorsqu’un acteur non autorisé a pu accéder à certains fichiers de notre réseau et les exfiltrer.",
+        "title": "Data Breach Notification",
+        "url": "https://agportal-s3bucket.s3.amazonaws.com/databreach/BreachA30230.pdf",
+        "added": "2025-06-18"
+    },
+    {
+        "date": "2023-07-19",
+        "victim": "Ellensburg School District",
+        "domain": "esd401.org",
+        "country": "USA",
+        "summary": "Vers le 19 juillet 2023, le district scolaire d’Ellensburg a subi une perturbation réseau affectant certains systèmes. Dès la découverte, Ellensburg a pris des mesures immédiates et engagé des spécialistes externes pour enquêter sur la nature et l’étendue de l’incident. L’enquête approfondie a révélé qu’un acteur non autorisé avait peut-être accédé à une quantité limitée d’informations entre le 18 et le 19 juillet 2023, et en raison de la complexité de l’incident, la containment, l’analyse médico-légale, l’identification et la revue des données affectées ont pris du temps.",
+        "title": "Data Breach Notification",
+        "url": "https://agportal-s3bucket.s3.amazonaws.com/databreach/BreachA30284.pdf",
+        "added": "2025-06-18"
+    },
+    {
+        "date": "2024-05-03",
+        "victim": "Insurance Agency Marketing Services",
+        "domain": "iamsinc.com",
+        "country": "USA",
+        "summary": "IAMS a découvert qu’entre le 1er mars et le 3 mai 2024, un tiers non autorisé a accédé à distance à certains de ses systèmes informatiques, accédant ainsi à des fichiers contenant des informations personnelles. Dès la détection de l’incident, IAMS a fait appel à des experts en cybersécurité pour remédier à la situation, approfondir l’enquête et déterminer l’étendue de l’incident. Cette notification n’a pas été retardée par une enquête des forces de l’ordre.",
+        "title": "Data Breach Notification",
+        "url": "https://agportal-s3bucket.s3.amazonaws.com/databreach/BreachA30611.pdf",
+        "added": "2025-06-18"
+    },
+    {
+        "date": "2024-08-21",
+        "victim": "DICK’S Sporting Goods",
+        "domain": "dickssportinggoods.com",
+        "country": "USA",
+        "summary": "Le 21 août 2024, DICK’S a découvert un accès non autorisé à ses systèmes d’information, incluant des parties contenant des informations confidentielles. Dès la détection de l’incident, l’entreprise a lancé une enquête interne, interrompu l’accès non autorisé, corrigé les systèmes affectés et cherché à déterminer si des données clients ou employé avaient été compromises. L’incident a également été signalé aux autorités fédérales et à certains régulateurs étatiques.",
+        "title": "Data Breach Notification",
+        "url": "https://agportal-s3bucket.s3.amazonaws.com/databreach/BreachA30601.pdf",
+        "added": "2025-06-18"
+    },
+    {
+        "date": "2024-04-01",
+        "victim": "KemperSports",
+        "domain": "kempersports.com",
+        "country": "USA",
+        "summary": "Le 1er avril 2024, KemperSports a détecté une activité suspecte sur son réseau informatique. L’entreprise a immédiatement lancé une enquête qui a révélé qu’elle avait été victime d’une cyberattaque, avec un accès à certains systèmes contenant des informations personnelles protégées. KemperSports a examiné en détail les systèmes et les fichiers pour identifier les données concernées et informer les personnes impactées, bien qu’aucun cas de vol d’identité ou de fraude n’ait été constaté à ce jour.",
+        "title": "Data Breach Notification",
+        "url": "https://agportal-s3bucket.s3.amazonaws.com/databreach/BreachA30498.pdf",
+        "added": "2025-06-18"
+    },
+    {
+        "date": "2023-12-15",
+        "victim": "Water For People",
+        "domain": "waterforpeople.org",
+        "country": "USA",
+        "summary": "Vers le 15 décembre 2023, Water For People a détecté une activité non autorisée sur ses systèmes informatiques. L’organisation a immédiatement sécurisé ses systèmes et fait appel à une société spécialisée en criminalistique informatique pour enquêter. Après une enquête approfondie, Water For People a confirmé qu’une quantité limitée d’informations personnelles avait pu être consultée dans le cadre de cet incident.",
+        "title": "Data Breach Notification",
+        "url": "https://agportal-s3bucket.s3.amazonaws.com/databreach/BreachA30470.pdf",
+        "added": "2025-06-18"
+    },
+    {
+        "date": "2024-01-22",
+        "victim": "Western Electrical Contractors Association, Inc. (WECA)",
+        "domain": "goweca.com",
+        "country": "USA",
+        "summary": "Au début de l’année 2024, WECA a détecté une activité suspecte sur certains systèmes informatiques de son réseau. Une enquête a révélé qu’un acteur non autorisé avait accédé à certains fichiers entre le 21 et le 22 janvier 2024, et avait peut-être copié ces fichiers. Après une analyse approfondie finalisée le 27 juin 2024, WECA a déterminé que des informations concernant certains résidents de Washington, telles que nom, numéro de sécurité sociale, date de naissance, numéro de permis de conduire, informations médicales et d’assurance santé, pourraient avoir été compromises.",
+        "title": "Data Breach Notification",
+        "url": "https://agportal-s3bucket.s3.amazonaws.com/databreach/BreachA30376.pdf",
+        "added": "2025-06-18"
+    },
+    {
+        "date": "2024-06-17",
+        "victim": "Lake Washington Institute of Technology (LWTech)",
+        "domain": "lwtech.edu",
+        "country": "USA",
+        "summary": "Aux alentours du 17 juin 2024, LWTech a constaté des perturbations sur certains systèmes informatiques et a rapidement déterminé avoir été victime d’une attaque par rançongiciel sophistiquée. LWTech a immédiatement sécurisé ses systèmes et fait appel à des experts externes de premier plan pour enquêter et remédier à l’incident. Les premières traces d’activité malveillante remontent au 10 juin 2024, et LWTech a informé les autorités fédérales et étatiques, notamment la division cybercriminalité du FBI et la police de l’État de Washington.",
+        "title": "Data Breach Notification",
+        "url": "https://agportal-s3bucket.s3.amazonaws.com/databreach/BreachA30356.pdf",
+        "added": "2025-06-18"
+    },
+    {
+        "date": "2024-05-15",
+        "victim": "Okanogan Behavioral HealthCare",
+        "domain": "okbhc.org",
+        "country": "USA",
+        "summary": "Le 15 mai 2024, OBHC a été informé d’un incident perturbant certaines opérations de ses systèmes informatiques. L’entreprise a rapidement sécurisé ses systèmes, lancé une enquête avec des experts externes et informé les autorités. Le 20 mai 2024, l’enquête a révélé qu’un acteur malveillant avait accédé à certains fichiers entre le 13 et le 15 mai 2024, et une analyse approfondie de ces fichiers est en cours.",
+        "title": "Data Breach Notification",
+        "url": "https://agportal-s3bucket.s3.amazonaws.com/databreach/BreachA30312.pdf",
+        "added": "2025-06-18"
+    },
+    {
+        "date": "2024-05-21",
+        "victim": "Set Forth, Inc.",
+        "domain": "setforth.com",
+        "country": "USA",
+        "summary": "Le 21 mai 2024, Forth a détecté une activité suspecte sur ses systèmes, a immédiatement déclenché ses protocoles de réponse aux incidents et lancé une enquête interne. L’entreprise a également fait appel à des spécialistes en cybersécurité et en criminalistique des données pour déterminer la nature de l’incident et l’éventuelle compromission de données. L’enquête a confirmé que des informations personnelles de clients et clients de Forth ont été affectées.",
+        "title": "Data Breach Notification",
+        "url": "https://agportal-s3bucket.s3.amazonaws.com/databreach/BreachA31325.pdf",
+        "added": "2025-06-18"
+    },
+    {
+        "date": "2024-09-23",
+        "victim": "Falco Sult",
+        "domain": "falcosult.com",
+        "country": "USA",
+        "summary": "Le 23 septembre 2024, Falco Sult a découvert qu’un de ses serveurs avait potentiellement été compromis. L’entreprise a rapidement fait appel à une société spécialisée en cybersécurité pour mener une enquête médico-légale afin de déterminer la nature et l’étendue de l’incident. L’enquête est toujours en cours, et Falco Sult travaille à identifier les personnes concernées ainsi que les données potentiellement compromises pour leur envoyer une notification formelle si nécessaire.",
+        "title": "Data Breach Notification",
+        "url": "https://agportal-s3bucket.s3.amazonaws.com/databreach/BreachM18181.pdf",
+        "added": "2025-06-18"
+    },
+    {
+        "date": "2024-05-15",
+        "victim": "Richland City Hall",
+        "domain": "richland.wa.us",
+        "country": "USA",
+        "summary": "Le 15 mai 2024, Richland a détecté une activité suspecte sur son réseau. L’entreprise a rapidement sécurisé ses systèmes et lancé une enquête pour en déterminer la nature et l’étendue. L’enquête a révélé qu’un acteur inconnu avait accédé à certains systèmes entre le 11 et le 15 mai 2024, avec un possible accès ou vol d’informations.",
+        "title": "Data Breach Notification",
+        "url": "https://agportal-s3bucket.s3.amazonaws.com/databreach/BreachA31241.pdf",
+        "added": "2025-06-18"
+    },
+    {
+        "date": "2024-04-18",
+        "victim": "Summit Pathology",
+        "domain": "summitpathology.com",
+        "country": "USA",
+        "summary": "Vers le 18 avril 2024, une activité suspecte a été détectée dans notre environnement informatique. Nous avons immédiatement sécurisé notre réseau et lancé une enquête avec l’aide de spécialistes en criminalistique informatique. L’enquête a révélé que certains fichiers de nos systèmes ont pu être consultés ou acquis par un cybercriminel non autorisé, et vos données pourraient avoir été concernées.",
+        "title": "Data Breach Notification",
+        "url": "https://agportal-s3bucket.s3.amazonaws.com/databreach/BreachA31027.pdf",
+        "added": "2025-06-18"
+    },
+    {
+        "date": "2024-08-08",
+        "victim": "OnePoint Patient Care",
+        "domain": "oppc.com",
+        "country": "USA",
+        "summary": "Le 8 août 2024, OnePoint Patient Care (OPPC) a détecté une activité suspecte sur son réseau informatique. L’entreprise a rapidement pris des mesures pour contenir l’incident, lancé une enquête interne et fait appel à des experts en cybersécurité, tout en informant les autorités. L’enquête a révélé qu’un tiers non autorisé avait accédé au réseau d’OPPC entre le 3 et le 8 août 2024 et avait acquis certains fichiers.",
+        "title": "Data Breach Notification",
+        "url": "https://agportal-s3bucket.s3.amazonaws.com/databreach/BreachA31107.pdf",
+        "added": "2025-06-18"
+    },
+    {
+        "date": "2024-07-24",
+        "victim": "BNBuilders",
+        "domain": "bnbuilders.com",
+        "country": "USA",
+        "summary": "Le 24 juillet 2024, BNB a découvert qu’elle avait été victime d’un incident de sécurité des données. Avec l’aide d’experts externes, l’entreprise a rapidement sécurisé ses systèmes et lancé une enquête pour en déterminer la nature et l’étendue. L’incident semble s’être produit entre le 17 et le 24 juillet 2024.",
+        "title": "Data Breach Notification",
+        "url": "https://agportal-s3bucket.s3.amazonaws.com/databreach/BreachA31248.pdf",
+        "added": "2025-06-18"
+    },
+    {
+        "date": "2024-04-01",
+        "victim": "Inszone Insurance Services",
+        "domain": "inszoneinsurance.com",
+        "country": "USA",
+        "summary": "En avril 2024, Inszone a détecté une activité inhabituelle sur son réseau. L’entreprise a pris des mesures et fait appel à des spécialistes en cybersécurité pour mener une enquête approfondie. Celle-ci a révélé qu’une certaine quantité de données stockées avait pu être acquise sans autorisation, ce qui a conduit Inszone à analyser les informations concernées, les personnes impliquées et leurs adresses, un processus achevé le 25 octobre 2024.",
+        "title": "Data Breach Notification",
+        "url": "https://agportal-s3bucket.s3.amazonaws.com/databreach/BreachA31327.pdf",
+        "added": "2025-06-18"
+    },
+    {
+        "date": "2024-08-23",
+        "victim": "AnnieMac",
+        "domain": "annie-mac.com",
+        "country": "USA",
+        "summary": "Le 23 août 2024, AnnieMac a détecté une activité suspecte sur certains systèmes de son réseau. Après avoir sécurisé les systèmes concernés et confirmé la sécurité globale du réseau, une enquête avec des spécialistes a révélé qu’un acteur inconnu avait accédé aux systèmes entre le 21 et le 23 août 2024, consulté et/ou copié certains fichiers. AnnieMac a identifié les fichiers affectés, analysé les informations personnelles concernées, notamment les noms et numéros de sécurité sociale, et a récemment finalisé les notifications aux personnes impactées.",
+        "title": "Data Breach Notification",
+        "url": "https://agportal-s3bucket.s3.amazonaws.com/databreach/BreachA31385.pdf",
+        "added": "2025-06-18"
+    },
+    {
+        "date": "2024-03-01",
+        "victim": "Witherspoon Brajcich McPhee, PLLC",
+        "domain": "workwith.com",
+        "country": "USA",
+        "summary": "Le 1er mars 2024, WBM a détecté une activité suspecte sur son réseau. L’entreprise a rapidement vérifié la sécurité de ses systèmes et lancé une enquête approfondie avec des experts externes. L’enquête a révélé qu’un acteur non autorisé avait eu un accès intermittent à certains systèmes entre le 5 janvier et le 1er mars 2024, avec des données consultées ou dérobées, ce qui a conduit à une revue complète des informations à risque.",
+        "title": "Data Breach Notification",
+        "url": "https://agportal-s3bucket.s3.amazonaws.com/databreach/BreachA31394.pdf",
+        "added": "2025-06-18"
+    },
+    {
+        "date": "2024-06-13",
+        "victim": "Keesal, Young & Logan",
+        "domain": "kyl.com",
+        "country": "USA",
+        "summary": "Le 13 juin 2024, KYL a détecté une activité suspecte sur son réseau et a rapidement sécurisé son environnement. Une enquête menée avec des spécialistes a révélé un accès non autorisé entre le 7 et le 13 juin 2024, durant lequel certaines informations ont été extraites. KYL a alors procédé à une analyse approfondie pour identifier les données concernées et les personnes affectées.",
+        "title": "Data Breach Notification",
+        "url": "https://agportal-s3bucket.s3.amazonaws.com/databreach/BreachA31547.pdf",
+        "added": "2025-06-18"
+    },
+    {
+        "date": "2024-08-07",
+        "victim": "ABC Legal",
+        "domain": "abclegal.com",
+        "country": "USA",
+        "summary": "Le 7 août 2024, une activité inhabituelle a été détectée sur le réseau d’ABC Legal. L’entreprise a immédiatement sécurisé son système, lancé une enquête avec des experts externes et contenu l’incident dès le 8 août. L’enquête a révélé qu’un acteur non autorisé avait probablement extrait certains fichiers, incluant des informations personnelles, ce qui a été confirmé le 11 novembre 2024.",
+        "title": "Data Breach Notification",
+        "url": "https://agportal-s3bucket.s3.amazonaws.com/databreach/BreachA31630.pdf",
+        "added": "2025-06-18"
+    },
+    {
+        "date": "2024-06-14",
+        "victim": "Young Life",
+        "domain": "younglife.org",
+        "country": "USA",
+        "summary": "Aux alentours du 14 juin 2024, Young Life a détecté une activité suspecte sur son réseau informatique. Une enquête a révélé la présence d’un logiciel malveillant et un accès non autorisé à certains systèmes. Ces systèmes contenaient des informations concernant certains employés actuels et anciens ainsi que leurs ayants droit.",
+        "title": "Data Breach Notification",
+        "url": "https://agportal-s3bucket.s3.amazonaws.com/databreach/BreachA31683.pdf",
+        "added": "2025-06-18"
+    },
+    {
+        "date": "2024-12-09",
+        "victim": "Avery Products Corporation",
+        "domain": "avery.com",
+        "country": "USA",
+        "summary": "Le 9 décembre 2024, Avery a découvert une attaque par rançongiciel visant certains de ses systèmes. Une enquête menée avec des experts a révélé qu’un acteur non autorisé avait introduit un logiciel malveillant pour collecter des informations de cartes bancaires utilisées sur le site avery.com entre le 18 juillet 2024 et le 5 janvier 2025. Après une analyse approfondie, Avery a confirmé que des données personnelles avaient pu être consultées ou dérobées, et a informé les personnes concernées.",
+        "title": "Data Breach Notification",
+        "url": "https://agportal-s3bucket.s3.amazonaws.com/databreach/BreachA31898.pdf",
+        "added": "2025-06-18"
+    },
+    {
+        "date": "2023-12-30",
+        "victim": "Wolf Haldenstein Adler Freeman & Herz LLP",
+        "domain": "whafh.com",
+        "country": "USA",
+        "summary": "Le 13 décembre 2023, Wolf Haldenstein a détecté une activité suspecte sur son réseau informatique. L’entreprise a immédiatement sécurisé son système et mandaté une société spécialisée en cybersécurité pour enquêter. L’enquête a révélé qu’un acteur non autorisé avait accédé à certains fichiers, et un examen approfondi a été mené pour évaluer l’impact et la sécurité des données.",
+        "title": "Data Breach Notification",
+        "url": "https://agportal-s3bucket.s3.amazonaws.com/databreach/BreachA31952.pdf",
+        "added": "2025-06-18"
+    },
+    {
+        "date": "2024-07-30",
+        "victim": "Columbia Hospitality",
+        "domain": "columbiahospitality.com",
+        "country": "USA",
+        "summary": "Le 30 juillet 2024, Columbia a subi un incident perturbant son réseau informatique. Des mesures immédiates ont été prises pour sécuriser le système et une enquête a été confiée à un expert indépendant. L’enquête a révélé un accès non autorisé au réseau et une possible acquisition de données personnelles, ce qui a conduit Columbia à identifier les informations concernées et à notifier les personnes affectées.",
+        "title": "Data Breach Notification",
+        "url": "https://agportal-s3bucket.s3.amazonaws.com/databreach/BreachA31983.pdf",
+        "added": "2025-06-18"
+    },
+    {
+        "date": "2024-07-08",
+        "victim": "Berman & Rabin, P.A.",
+        "domain": "bermanrabin.com",
+        "country": "USA",
+        "summary": "Aux alentours du 8 juillet 2024, Berman & Rabin a détecté une activité suspecte sur certains systèmes informatiques, incluant le chiffrement de fichiers. L’entreprise a immédiatement sécurisé son environnement, lancé une enquête et informé les autorités fédérales. Il a été établi qu’un acteur inconnu a accédé à certains systèmes entre le 5 et le 8 juillet 2024, avec un risque possible d’accès ou d’extraction de données personnelles.",
+        "title": "Data Breach Notification",
+        "url": "https://agportal-s3bucket.s3.amazonaws.com/databreach/BreachA32055.pdf",
+        "added": "2025-06-18"
+    },
+    {
+        "date": "2024-12-30",
+        "victim": "Pacific Rehabilitation Centers",
+        "domain": "pacificrehabilitation.com",
+        "country": "USA",
+        "summary": "Le 30 décembre 2024 au matin, un employé de Pacific Rehabilitation Centers a reçu un message de rançongiciel sur son ordinateur. L’équipe informatique a immédiatement mis en place des mesures de sécurité et déconnecté les serveurs pour protéger les données. Une enquête est en cours : bien que les données aient été chiffrées, aucun accès ou vol non autorisé n’a encore été confirmé, mais les informations personnelles de patients, employés et prestataires sont concernées.",
+        "title": "Data Breach Notification",
+        "url": "https://agportal-s3bucket.s3.amazonaws.com/databreach/BreachA32086.pdf",
+        "added": "2025-06-18"
+    },
+    {
+        "date": "2024-12-18",
+        "victim": "New Era Enterprises, Inc.",
+        "domain": "newera-spectro.com",
+        "country": "USA",
+        "summary": "Le 18 décembre 2024, NEEI a détecté une activité suspecte sur son réseau informatique. Une enquête a révélé qu’un accès non autorisé avait eu lieu entre le 9 et le 18 décembre 2024, durant lequel des fichiers ont été copiés. L’analyse des données concernées s’est achevée le 31 janvier 2025.",
+        "title": "Data Breach Notification",
+        "url": "https://agportal-s3bucket.s3.amazonaws.com/databreach/BreachA32246.pdf",
+        "added": "2025-06-18"
+    },
+    {
         "date": "2024-08-16",
         "victim": "Ocean Beauty Seafoods",
         "domain": "oceanbeauty.com",
