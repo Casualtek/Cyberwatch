@@ -1,5 +1,35 @@
 [
     {
+        "date": "2024-08-16",
+        "victim": "Ocean Beauty Seafoods",
+        "domain": "oceanbeauty.com",
+        "country": "USA",
+        "summary": "OBI Seafoods, LLC, a informé les personnes concernées d'une faille de sécurité qui a touché certaines informations personnelles de travailleurs et de fournisseurs actuels et anciens. La faille a été découverte le 16 août 2024 et les systèmes ont été sécurisés immédiatement. Les informations touchées peuvent inclure le nom, les numéros de sécurité sociale, les numéros d'identification de l'État et d'autres données personnelles.",
+        "title": "Data Breach Notification",
+        "url": "https://agportal-s3bucket.s3.amazonaws.com/databreach/BreachA32749.pdf",
+        "added": "2025-06-18"
+    },
+    {
+        "date": "2024-07-13",
+        "victim": "Smart ERP Solutions, Inc.",
+        "domain": "smarterp.com",
+        "country": "USA",
+        "summary": "Smart ERP Solutions, Inc. a subi une faille de sécurité qui a pu donner accès à des données personnelles. L'incident a eu lieu entre le 3 et le 13 juillet 2024, et une enquête a été menée pour déterminer l'étendue de l'accès non autorisé. Les informations compromises incluent des données personnelles, mais aucune preuve de mauvaise utilisation n'a été trouvée.",
+        "title": "Data Breach Notification",
+        "url": "https://agportal-s3bucket.s3.amazonaws.com/databreach/BreachA32648.pdf",
+        "added": "2025-06-18"
+    },
+    {
+        "date": "2024-10-22",
+        "victim": "Rivers Casino Philadelphia",
+        "domain": "riverscasino.com",
+        "country": "USA",
+        "summary": "Rivers Casino Philadelphia a récemment découvert une faille de sécurité dans ses systèmes informatiques, permettant à un acteur non autorisé d'accéder à certaines informations personnelles. Les informations compromises incluent des noms, des numéros de sécurité sociale, des numéros de permis de conduire, des numéros de passeport et des numéros d'identification fiscale de 2 480 résidents de l'État de Washington.",
+        "title": "Data Breach Notification",
+        "url": "https://agportal-s3bucket.s3.amazonaws.com/databreach/BreachA32537.pdf",
+        "added": "2025-06-18"
+    },
+    {
         "date": "2025-06-15",
         "victim": "Unidad Administrativa Especial de la Justicia Penal Militar y Policial",
         "domain": "justiciamilitar.gov.co",
