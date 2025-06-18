@@ -1,5 +1,12 @@
 [
     {
+        "victim": "Macedonia, OH",
+        "domain": "macedonia.oh.us",
+        "country": "US",
+        "date": "2025-05-14",
+        "group": "safepay"
+    },
+    {
         "victim": "MemberSource Credit Union",
         "domain": "membersourcecu.org",
         "country": "US",
