@@ -1,5 +1,15 @@
 [
     {
+        "date": "2025-03-31",
+        "victim": "American Falls School District",
+        "domain": "sd381.k12.id.us",
+        "country": "USA",
+        "summary": "Le 31 mars 2025, AFSD a confirmé qu’un incident de rançongiciel affectait son réseau informatique. L'organisation a immédiatement collaboré avec des avocats spécialisés et une société de cybersécurité pour contenir l’attaque, restaurer ses systèmes et en évaluer l’ampleur. Les forces de l’ordre fédérales ont été informées et une enquête est en cours.",
+        "title": "Data Breach Notification",
+        "url": "https://www.ag.idaho.gov/content/uploads/2025/04/UTF-8AFSD-ID-AG-Notice120780899.pdf",
+        "added": "2025-06-19"
+    },
+    {
         "date": "2024-12-11",
         "victim": "Potomac and Rappahannock Transportation Commission",
         "domain": "omniride.com",
