@@ -1,0 +1,22 @@
+[
+    {
+        "date": "2024-11-19",
+        "victim": "Krispy Kreme Doughnut Corporation",
+        "domain": "krispykreme.com",
+        "country": "USA",
+        "summary": "Krispy Kreme Doughnut Corporation a subi une faille de sécurité informatique qui a compromis certaines informations personnelles de ses clients. L'incident a été découvert le 29 novembre 2024 et les enquêtes ont révélé que certaines informations personnelles ont été compromises. La société offre des services de surveillance d'identité gratuits pendant une période déterminée pour aider les clients à protéger leur identité. Les clients peuvent activer ces services en visitant le site web de Kroll et en suivant les instructions. Il est recommandé aux clients de rester vigilants et de surveiller leurs comptes et leurs rapports de crédit pour détecter toute activité suspecte.",
+        "title": "Data Breach Notification",
+        "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/0c411aee-5d5d-45bc-b6ad-ec41ce2bfdda.html",
+        "added": "2025-06-19"
+    },
+    {
+        "date": "2025-06-02",
+        "victim": "PanOptimization LLC",
+        "domain": "panoptimization.com",
+        "country": "USA",
+        "summary": "Une faille de sécurité a été détectée chez PanOptimization LLC, impliquant l'accès non autorisé à des informations liées aux dossiers de personnel. L'intrusion a eu lieu via une attaque de phishing qui a permis aux attaquants d'obtenir des informations de connexion à un compte Microsoft Exchange. Les données accessibles comprenaient des informations personnelles telles que les noms, adresses, numéros de sécurité sociale et images de passeport. Pour protéger les employés contre les risques d'usurpation d'identité, l'entreprise recommande de souscrire à un service de surveillance du crédit, dont les coûts seront pris en charge par PanOptimization. Les employés peuvent contacter l'entreprise à l'adresse info@panoptimization.com pour obtenir plus d'informations ou de l'aide supplémentaire.",
+        "title": "Data Breach Notification",
+        "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/45281cfb-8a0e-4f89-9b3f-1cea9610082a.html",
+        "added": "2025-06-19"
+    }
+]
