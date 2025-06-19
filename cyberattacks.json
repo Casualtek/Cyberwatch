@@ -1,5 +1,15 @@
 [
     {
+        "date": "2025-06-03",
+        "victim": "Banque Sol",
+        "domain": "bancosol.ao",
+        "country": "AGO",
+        "summary": "La Banque Sol a été la cible d'une cyber-attaque il y a deux semaines, mais a pu empêcher que le système central ne soit affecté grâce à ses outils de défense contre les cyber-menaces. La banque a confirmé l'intégrité des données des clients et regrette les inconvénients causés à certains clients. La sécurité des informations personnelles et financières est la principale priorité de la Banque Sol.",
+        "title": "Banque Sol confirme une cyber-attaque et affirme que les donnÃ©es sont en sÃ©curitÃ©",
+        "url": "https://angop.ao/fr/noticias/economia/banco-sol-confirma-ataque-cibernetico-e-diz-que-dados-estao-seguros",
+        "added": "2025-06-19"
+    },
+    {
         "date": "2025-06-13",
         "victim": "Vertel",
         "domain": "vertel.com.au",
@@ -3661,10 +3671,10 @@
     },
     {
         "date": "2025-03-31",
-        "victim": "Plus Service Srl",
+        "victim": "Pluservice Srl",
         "domain": "confindustria.an.it",
         "country": "ITA",
-        "summary": "Une cyberattaque a paralysé les systèmes de billetterie électronique de la Mobilità di Marca (Mom) pendant deux jours, causant des problèmes pour les voyageurs et les étudiants. L'attaque a visé les serveurs de l'entreprise Plus Service, qui gère la plateforme Telemaco utilisée par de nombreuses compagnies de transport public. Les autorités ont promis de rétablir le service dans les meilleurs délais possibles et soulignent l'urgence d'investir dans des mesures de cybersécurité plus robustes pour protéger les services essentiels comme le transport public.",
+        "summary": "Une cyberattaque a paralysé les systèmes de billetterie électronique de la Mobilità di Marca (Mom) pendant deux jours, causant des problèmes pour les voyageurs et les étudiants. L'attaque a visé les serveurs de l'entreprise Pluservice, qui gère la plateforme Telemaco utilisée par de nombreuses compagnies de transport public. Les autorités ont promis de rétablir le service dans les meilleurs délais possibles et soulignent l'urgence d'investir dans des mesures de cybersécurité plus robustes pour protéger les services essentiels comme le transport public.",
         "title": "Attacco hacker blocca i biglietti Mom: due giorni di caos per pendolari e studenti | Tribuna di Treviso",
         "url": "https://www.tribunatreviso.it/cronaca/mon-hacker-attacco-biglietti-xueo4que",
         "added": "2025-04-02"
