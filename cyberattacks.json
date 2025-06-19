@@ -1,5 +1,15 @@
 [
     {
+        "date": "2025-04-17",
+        "victim": "Eckert Seamans Cherin & Mellott, LLC",
+        "domain": "eckertseamans.com",
+        "country": "USA",
+        "summary": "Eckert Seamans Cherin & Mellott, LLC a subi un incident de cybersécurité impliquant des informations personnelles de certains individus, notamment des anciens élèves de l'Université Wheeling Jesuit. L'incident a été découvert le 17 avril 2025 et a fait l'objet d'une enquête immédiate. Les informations personnelles compromises incluent des données telles que le nom, l'adresse et les informations de contact. En réponse à cet incident, Eckert Seamans offre un service de surveillance d'identité gratuit pendant un an aux personnes affectées, ainsi que des conseils pour protéger leurs informations personnelles. Les individus concernés sont invités à contacter Experian pour activer leur adhésion au service de surveillance d'identité et à prendre des mesures pour protéger leurs informations personnelles.",
+        "title": "Data Breach Notification",
+        "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/de6640e0-abfe-4d3f-b360-899e7aa88a61.html",
+        "added": "2025-06-19"
+    },
+    {
         "date": "2024-02-20",
         "victim": "On Q Financial",
         "domain": "onqfinancial.com",
