@@ -1,4 +1,4 @@
-name: Maine Breach Monitor
+name: Breach Notifications Monitor
 
 on:
   schedule:
@@ -35,13 +35,13 @@ jobs:
         python -m pip install --upgrade pip
         pip install -r maine_breach_monitor_requirements.txt
     
-    - name: Run Maine breach monitor
+    - name: Run Breach notifications monitor
       env:
         GROQ_API: ${{ secrets.GROQ_API }}
         TG_TK: ${{ secrets.TG_TK }}
         TG_CHAT_ID: ${{ secrets.TG_CHAT_ID }}
       run: |
-        python maine_breach_monitor.py
+        python breach_monitor.py
     
     - name: Upload new notifications artifact
       if: always()
