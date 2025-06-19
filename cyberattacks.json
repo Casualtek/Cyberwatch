@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-11-18", 
+        "victim": "Asheville Eye Associates, PLLC",
+        "domain": "ashevilleeye.com", 
+        "country": "USA", 
+        "summary": "Asheville Eye Associates (AEA) a détecté et stoppé une faille de sécurité dans son réseau le 18 novembre 2024. Une partie non autorisée a accédé à leur réseau et a acquis certains fichiers de leurs systèmes. AEA a mené une enquête approfondie et a déterminé que des informations personnelles, notamment des numéros de sécurité sociale, avaient été compromises.", 
+        "title": "Data Breach Notification", 
+        "url": "https://mm.nh.gov/files/uploads/doj/remote-docs/asheville-eye-associates-20250613.pdf",
+        "added": "2025-06-19"
+    },
+    {
         "date": "2024-03-06",
         "victim": "Mity, Inc.",
         "domain": "mityinc.com",
