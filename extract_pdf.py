@@ -1,5 +1,6 @@
 #!/usr/bin/python3
 import argparse
+import os
 import requests
 import PyPDF2
 import re
