@@ -33,9 +33,9 @@ jobs:
     - name: Install dependencies
       run: |
         python -m pip install --upgrade pip
-        pip install -r maine_breach_monitor_requirements.txt
+        pip install -r breach_monitor_requirements.txt
     
-    - name: Run Breach notifications monitor
+    - name: Run Breach notifications monitor (All States)
       env:
         GROQ_API: ${{ secrets.GROQ_API }}
         TG_TK: ${{ secrets.TG_TK }}
@@ -49,27 +49,47 @@ jobs:
       with:
         name: new-notifications-${{ github.run_number }}
         path: |
-          new_notification.json
+          new_notification_*.json
           *.log
         retention-days: 3
         if-no-files-found: ignore
     
     - name: Commit and push new cyberattacks data
-      if: hashFiles('new_notification.json') != ''
+      if: hashFiles('new_notification_*.json') != ''
       run: |
         git config --local user.email "action@github.com"
         git config --local user.name "GitHub Action"
         
-        # Check if new_notification.json exists and has content
-        if [ -f "new_notification.json" ] && [ -s "new_notification.json" ]; then
+        # Check if any state notification files exist and have content
+        notification_files=$(ls new_notification_*.json 2>/dev/null || true)
+        
+        if [ -n "$notification_files" ]; then
           echo "New notifications found, updating repository"
+          echo "Found notification files: $notification_files"
           
-          # Add any new files that might have been created
-          git add new_notification.json
+          # Add any new notification files that might have been created
+          git add new_notification_*.json
           
           # Check if there are changes to commit
           if ! git diff --staged --quiet; then
-            git commit -m "🚨 New breach notifications found - $(date '+%Y-%m-%d %H:%M:%S')"
+            # Count total notifications across all states
+            total_notifications=0
+            states_with_notifications=""
+            
+            for file in $notification_files; do
+              if [ -s "$file" ]; then
+                count=$(jq length "$file" 2>/dev/null || echo "0")
+                total_notifications=$((total_notifications + count))
+                state=$(echo "$file" | sed 's/new_notification_\(.*\)\.json/\1/')
+                if [ -n "$states_with_notifications" ]; then
+                  states_with_notifications="$states_with_notifications, $state"
+                else
+                  states_with_notifications="$state"
+                fi
+              fi
+            done
+            
+            git commit -m "🚨 New breach notifications found ($total_notifications from $states_with_notifications) - $(date '+%Y-%m-%d %H:%M:%S')"
             git push
           else
             echo "No changes to commit"
@@ -81,6 +101,6 @@ jobs:
     - name: Check workflow status
       if: failure()
       run: |
-        echo "❌ Maine breach monitor workflow failed"
+        echo "❌ Breach monitor workflow failed"
         echo "Check the logs for details"
         exit 1
