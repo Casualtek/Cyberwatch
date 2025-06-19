@@ -1,5 +1,15 @@
 [
     {
+        "date": "2025-06-18",
+        "victim": "IKT-Ost AöR",
+        "domain": "ikt-ost.de",
+        "country": "DEU",
+        "summary": "Un cyberattaque a visé les systèmes informatiques de plusieurs écoles dans les villes de Demmin et Neustrelitz, en Allemagne, provoquant des perturbations dans l'utilisation des appareils électroniques. Les écoles touchées incluent le Regionalen Beruflichen Bildungszentrum, la Förderschule Neustrelitz et le Goethe-Gymnasium Demmin. Les autorités enquêtent sur l'incident et travaillent à rétablir les services.",
+        "title": "Vermutlich Hackerangriff auf Schulen in Demmin und Neustrelitz",
+        "url": "https://www.ndr.de/nachrichten/mecklenburg-vorpommern/haff-mueritz/vermutlich-hackerangriff-auf-schulen-in-demmin-und-neustrelitz,mvregioneubrandenburg-112.html",
+        "added": "2025-06-19"
+    },
+    {
         "date": "2025-06-03",
         "victim": "Banque Sol",
         "domain": "bancosol.ao",
