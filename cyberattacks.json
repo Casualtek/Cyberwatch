@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-03-06",
+        "victim": "Mity, Inc.",
+        "domain": "mityinc.com",
+        "country": "USA",
+        "summary": "Le 6 mars 2024, Mity Inc. a découvert un incident de sécurité lié à une attaque par rançongiciel ayant compromis ses systèmes informatiques. Le 1er octobre 2024, il a été confirmé que des informations personnelles avaient été affectées. Les données potentiellement concernées incluent le nom, l’adresse, le numéro de sécurité sociale et les informations d’assurance sociale.",
+        "title": "Data Breach Notification",
+        "url": "https://www.ag.idaho.gov/content/uploads/2025/02/01-27-2025-Mity-Inc.pdf",
+        "added": "2025-06-19"
+    },
+    {
         "date": "2025-03-31",
         "victim": "American Falls School District",
         "domain": "sd381.k12.id.us",
