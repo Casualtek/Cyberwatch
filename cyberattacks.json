@@ -1,5 +1,15 @@
 [
     {
+        "date": "2025-06-13",
+        "victim": "Vertel",
+        "domain": "vertel.com.au",
+        "country": "AUS",
+        "summary": "La société australienne de services gérés Vertel a été victime d'une attaque de ransomware par le groupe Space Bears, qui a exfiltré des données sensibles. L'entreprise a confirmé l'incident et travaille avec des experts en cybersécurité pour comprendre l'étendue de l'attaque. Les hackers menacent de publier les données volées d'ici la fin juin si un ransom n'est pas payé.",
+        "title": "Exclusive: Aussie MSP Vertel confirms Space Bears ransomware attack",
+        "url": "https://www.cyberdaily.au/security/12262-exclusive-aussie-msp-vertel-confirms-space-bears-ransomware-attack",
+        "added": "2025-06-19"
+    },
+    {
         "date": "2025-06-18",
         "victim": "Mower County",
         "domain": "mower.mn.us",
