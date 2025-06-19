@@ -1,5 +1,165 @@
 [
     {
+        "date": "2025-01-30",
+        "victim": "Alabama Ophthalmology Associates",
+        "domain": "aoapc.com",
+        "country": "USA",
+        "summary": "On January 30, 2025, AOA detected unusual network activity and engaged cybersecurity experts. The investigation found that certain data, including personal and protected health information, may have been acquired without authorization between January 22 and January 30, 2025. AOA secured its systems, completed a file review by March 19, 2025, notified law enforcement, and is offering complimentary identity protection services to affected individuals. The cyberattack was claimed by bianlian on 2025-02-19.",
+        "title": "Data Breach Notification",
+        "url": "https://ago.vermont.gov/sites/ago/files/documents/2025-04-08%20Alabama%20Ophthalmology%20Associates%20Data%20Breach%20Notice%20to%20Consumers.pdf",
+        "added": "2025-06-19"
+    },
+    {
+        "date": "2024-11-14",
+        "victim": "Westfield Fire District",
+        "domain": "westfieldnj.gov",
+        "country": "USA",
+        "summary": "On November 14, 2024, Westfield Fire District detected unauthorized access to its network during an IT outage, resulting in acquisition of certain files containing members’ personal information. By April 17, 2025, the district confirmed that personal data may have been compromised and notified affected individuals. They have secured their systems, involved law enforcement, and offered complimentary credit monitoring and identity protection services.",
+        "title": "Data Breach Notification",
+        "url": "https://ago.vermont.gov/sites/ago/files/documents/2025-05-06%20Westfield%20Fire%20District%20Data%20Breach%20Notice%20to%20Consumers.pdf",
+        "added": "2025-06-19"
+    },
+    {
+        "date": "2024-12-09",
+        "victim": "McCormick & Priore PC",
+        "domain": "mccormickpriore.com",
+        "country": "USA",
+        "summary": "On May 27, 2025, McCormick & Priore PC notified individuals of a security incident that may have exposed personal information. The firm is providing complimentary credit and cyber monitoring services, identity theft insurance, and fraud remediation assistance through CyberScout. Recipients are urged to review credit reports and account statements for suspicious activity and consider placing fraud alerts or credit freezes as needed.",
+        "title": "Data Breach Notification",
+        "url": "https://ago.vermont.gov/sites/ago/files/documents/2025-05-30%20McCormick%20%26%20Priore%20-Tokio%20Marine%20Data%20Breach%20Noitce%20to%20Consumers.pdf",
+        "added": "2025-06-19"
+    },
+    {
+        "date": "2025-04-25",
+        "victim": "Western New York Energy",
+        "domain": "wnyenergy.com",
+        "country": "USA",
+        "summary": "On April 25, 2025, Western New York Energy detected an unauthorized third-party access to its network environment, potentially exposing individuals’ first and last names. The company engaged forensic specialists, secured and rebuilt affected systems, notified the FBI, and enhanced its security policies and infrastructure. Affected individuals are being offered 12 months of complimentary single-bureau credit monitoring and proactive fraud assistance.",
+        "title": "Data Breach Notification",
+        "url": "https://ago.vermont.gov/sites/ago/files/documents/2025-06-04%20Western%20New%20York%20Energy%20Data%20Breach%20Notice%20to%20Consumers.pdf",
+        "added": "2025-06-19"
+    },
+    {
+        "date": "2025-04-29",
+        "victim": "Mount Rogers Community Services",
+        "domain": "mountrogers.org",
+        "country": "USA",
+        "summary": "Mount Rogers Community Services detected a ransomware attack on April 29, 2025, which began around April 27, 2025, allowing unauthorized access to its systems. Impacted data may include personal health, demographic, billing, and insurance information. Mount Rogers is working with law enforcement and cybersecurity experts, has enhanced its security measures, and is offering affected individuals complimentary identity monitoring services.",
+        "title": "Data Breach Notification",
+        "url": "https://ago.vermont.gov/sites/ago/files/documents/2025-06-13%20Mount%20Rogers%20Community%20Services%20Data%20Breach%20Notice%20to%20Consumers.pdf",
+        "added": "2025-06-19"
+    },
+    {
+        "date": "2024-06-01",
+        "victim": "Bunkhouse Management, LLC",
+        "domain": "bunkhousehotels.com",
+        "country": "USA",
+        "summary": "In June 2024, Bunkhouse Management, LLC discovered unauthorized activity on its systems, during which an individual accessed and copied files containing personal data. The exposed information included names, Social Security or taxpayer identification numbers, driver’s license numbers, health and medical information, financial account data, and payment card details. Bunkhouse secured its systems, conducted a thorough investigation, and is offering twelve months of free credit monitoring and identity theft protection to affected individuals. The cyberattack was claimed by bianlian on 2024-07-24.",
+        "title": "Data Breach Notification",
+        "url": "https://ago.vermont.gov/sites/ago/files/documents/2025-04-15%20Bunkhouse%20Management%20Data%20Breach%20Notice%20to%20Consumers.pdf",
+        "added": "2025-06-19"
+    },
+    {
+        "date": "2024-04-21",
+        "victim": "Thede Culpepper Moore Munro & Silliman LLP",
+        "domain": "thede-culpepper.com",
+        "country": "USA",
+        "summary": "On April 21, 2024, Thede Culpepper Moore Munro & Silliman LLP discovered unusual activity on its computer network and launched an investigation. The firm later determined that an unauthorized party copied digital files containing personal information, including names and other data elements. The company is offering affected individuals a complimentary one-year Experian IdentityWorks Credit 3B membership and enhancing its security measures to prevent future incidents. The cyberattack was claimed by lockbit3 on 2025-05-07.",
+        "title": "Data Breach Notification",
+        "url": "https://ago.vermont.gov/sites/ago/files/documents/2025-04-11%20Thede%20Culpepper%20Moore%20Munro%20%26%20Silliman%20Data%20Breach%20Notice%20to%20Consumers.pdf",
+        "added": "2025-06-19"
+    },
+    {
+        "date": "2025-02-26",
+        "victim": "Vitenas Cosmetic Surgery, PA",
+        "domain": "drvitenas.com",
+        "country": "USA",
+        "summary": "On February 26, 2025, Vitenas Cosmetic Surgery, PA detected an unauthorized attempt to infiltrate its computer network and launched a forensic investigation, which concluded on March 28, 2025. The investigation determined that some patient data—including names, dates of birth, Social Security numbers, driver’s license numbers, and health information—may have been exposed. Vitenas has engaged cybersecurity experts to strengthen its security architecture and is providing affected individuals with 12 months of complimentary single‐bureau credit monitoring and proactive fraud assistance. The cyberattack was claimed by kairos on 2025-03-03.",
+        "title": "Data Breach Notification",
+        "url": "https://ago.vermont.gov/sites/ago/files/documents/2025-04-08%20Vitenas%20Cosmetic%20Surgery%20Data%20Breach%20Notice%20to%20Consumers.pdf",
+        "added": "2025-06-19"
+    },
+    {
+        "date": "2024-07-30",
+        "victim": "Life University",
+        "domain": "life.edu",
+        "country": "USA",
+        "summary": "On July 30, 2024, Life University experienced a network disruption that resulted in unauthorized access to certain systems and potential acquisition of sensitive personal information, including account numbers, routing numbers, and names. The university immediately contained the incident and engaged third-party cybersecurity and forensic experts to assess the nature and scope of the breach and review compromised data. Affected individuals were notified on March 28, 2025, and offered 12 months of complimentary credit monitoring and identity theft protection services. The cyberattack was claimed by metaencryptor on 2024-08-22.",
+        "title": "Data Breach Notification",
+        "url": "https://ago.vermont.gov/sites/ago/files/documents/2025-04-02%20Life%20University%20Data%20Breach%20Notice%20to%20Consumers.pdf",
+        "added": "2025-06-19"
+    },
+    {
+        "date": "2024-10-26",
+        "victim": "Gemini Industries, Inc.",
+        "domain": "geminiindustriesinc.com",
+        "country": "USA",
+        "summary": "On October 26, 2024, Gemini Industries, Inc. detected suspicious activity in its network and determined that unauthorized actors had accessed its systems between October 15 and November 14, 2024, extracting certain files. A forensic investigation and comprehensive file review confirmed that personal information of some individuals, including the recipient, was contained in the affected files. Gemini has secured its network, implemented additional security measures, and is offering free credit monitoring and identity theft protection services through Experian to those impacted. The cyberattack was claimed by ransomhub on 2024-11-07.",
+        "title": "Data Breach Notification",
+        "url": "https://ago.vermont.gov/sites/ago/files/documents/2025-04-02%20Gemini%20Industries%20Data%20Breach%20Notice%20to%20Consumers.pdf",
+        "added": "2025-06-19"
+    },
+    {
+        "date": "2023-10-30",
+        "victim": "The Peddie School",
+        "domain": "peddie.org",
+        "country": "USA",
+        "summary": "Peddie School discovered suspicious activity on its computer network on October 30, 2023 and determined by December 22, 2023 that an unknown actor had accessed and copied certain files containing personal information. A comprehensive review completed on December 24, 2024 confirmed that individuals’ names and other data were involved. Peddie reported the incident to the FBI, notified affected individuals, implemented additional security measures, and is offering complimentary Experian IdentityWorks credit monitoring. The cyberattack was claimed by Clop on 2024-02-26.",
+        "title": "Data Breach Notification",
+        "url": "https://ago.vermont.gov/sites/ago/files/documents/2025-03-25%20The%20Peddie%20School%20Data%20Breach%20Notice%20to%20Consumers.pdf",
+        "added": "2025-06-19"
+    },
+    {
+        "date": "2024-12-04",
+        "victim": "Cross Valley FCU",
+        "domain": "crossvalleyfcu.org",
+        "country": "USA",
+        "summary": "On December 4, 2024, Cross Valley Federal Credit Union discovered unauthorized access to its network that may have exposed members’ personal information. The credit union engaged external cybersecurity experts, contained the intrusion, and implemented new security measures to prevent future incidents. Affected individuals are being offered free credit monitoring, identity theft protection, and proactive fraud assistance. The cyberattack was claimed by Silent Ransom Group on 2025-05-06.",
+        "title": "Data Breach Notification",
+        "url": "https://ago.vermont.gov/sites/ago/files/documents/2025-03-23%20Cross%20Valley%20Federal%20Credit%20Union%20Data%20Breach%20Notice%20to%20Consumers.pdf",
+        "added": "2025-06-19"
+    },
+    {
+        "date": "2024-12-19",
+        "victim": "Miedema Produce, Inc.",
+        "domain": "miedemaproduce.com",
+        "country": "USA",
+        "summary": "On December 19, 2024, Miedema Produce, Inc. discovered suspicious activity on its systems that may have exposed the names and Social Security numbers of current and former employees. A forensic investigation concluded on January 24, 2025 and, while no misuse has been detected, the company deployed enhanced security controls including endpoint monitoring and a global password reset. Affected individuals are being offered identity theft protection services through IDX, with credit and CyberScan monitoring, insurance reimbursement, and recovery assistance. The cyberattack was claimed by ransomhub on 2025-01-21.",
+        "title": "Data Breach Notification",
+        "url": "https://ago.vermont.gov/sites/ago/files/documents/2025-03-20%20Miedema%20Produce%20Data%20Breach%20Notice%20to%20Consumers.pdf",
+        "added": "2025-06-19"
+    },
+    {
+        "date": "2025-02-08",
+        "victim": "Geokon, Inc.",
+        "domain": "geokon.com",
+        "country": "USA",
+        "summary": "On February 8, 2025, Geokon, Inc. discovered unauthorized activity on its network and determined that files containing personal information were copied between January 30 and February 8, 2025. A review completed on February 24, 2025 confirmed that affected files included names and Social Security numbers. Geokon secured its systems, enhanced security measures, and is offering affected individuals free credit monitoring and identity restoration services. The cyberattack was claimed by lynx on 2025-02-21.",
+        "title": "Data Breach Notification",
+        "url": "https://ago.vermont.gov/sites/ago/files/documents/2025-03-19%20Geokon%20Data%20Breach%20Notice%20to%20Consumers.pdf",
+        "added": "2025-06-19"
+    },
+    {
+        "date": "2024-10-14",
+        "victim": "Trinity Petroleum Management, LLC",
+        "domain": "trinitymgt.com",
+        "country": "USA",
+        "summary": "In October 2024, Trinity Petroleum Management, LLC detected unauthorized access to its systems that occurred between October 10 and October 14, and on December 18, 2024 determined that names and Social Security numbers may have been exfiltrated. The company retained legal counsel, engaged external forensic specialists, notified law enforcement, and implemented additional security safeguards. Affected individuals are being offered 12 months of complimentary single-bureau credit monitoring and proactive fraud assistance. The cyberattack was claimed by bianlian on 2024-11-22.",
+        "title": "Data Breach Notification",
+        "url": "https://ago.vermont.gov/sites/ago/files/documents/2025-03-10%20Trinity%20Petroleum%20Management%20Data%20Breach%20Notice%20to%20Consumers.pdf",
+        "added": "2025-06-19"
+    },
+    {
+        "date": "2024-07-06",
+        "victim": "Community Care Alliance",
+        "domain": "communitycareri.org",
+        "country": "USA",
+        "summary": "On July 6, 2024, Community Care Alliance experienced a network disruption that led to unauthorized access or acquisition of certain systems and data between July 1 and July 5, 2024. An investigation completed on January 8, 2025, determined that personal and health information—including names, addresses, Social Security numbers, driver’s license numbers, and medical details—may have been at risk. Community Care Alliance has engaged third-party specialists, implemented additional security safeguards, and is offering free credit monitoring and identity protection services for 12 months. The cyberattack was claimed by rhysida on 2024-07-26.",
+        "title": "Data Breach Notification",
+        "url": "https://ago.vermont.gov/sites/ago/files/documents/2025-03-07%20Community%20Care%20Alliance%20Data%20Breach%20Notice%20to%20Consumers.pdf",
+        "added": "2025-06-19"
+    },
+    {
         "date": "2024-10-19",
         "victim": "Maxxis International – USA",
         "domain": "maxxis.com",
