@@ -29,8 +29,8 @@ class IdahoConfig:
         table = soup.find('table')
         
         if not table:
-            logger.error("No table found on the page")
-            return []
+            logger.error("No table found on the page - unable to parse page structure")
+            return None  # Indicates parsing failure
         
         # Find the tbody
         tbody = table.find('tbody')
@@ -97,7 +97,7 @@ class IdahoConfig:
                 continue
         
         logger.info(f"Found {len(breaches)} notifications from {yesterday_str}")
-        return breaches
+        return breaches  # Empty list is valid - means no matching results
     
     @staticmethod
     def process_breach(link, fetch_webpage_func):
