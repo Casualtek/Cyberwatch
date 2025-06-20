@@ -1,5 +1,6 @@
 #!/usr/bin/python3
 import argparse
+import json
 import os
 import requests
 import PyPDF2
@@ -8,9 +9,10 @@ from datetime import datetime
 from groq import Groq
 from io import BytesIO
 import domain_discovery
+from pydantic import BaseModel, ValidationError
 
 groq_api_key   = os.environ.get('GROQ_API')
-gpt_model      = 'llama-3.3-70b-versatile'
+gpt_model      = 'llama-3.1-8b-instant'
 
 headers = {
     'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; rv:102.0) Gecko/20100101 Firefox/102.0',
@@ -60,48 +62,79 @@ def extract_pdf_metadata(pdf_file):
     for chunk in text_chunks:
         merged_text += chunk + " "
 
-    # Extract victim/entity name from PDF content
-    messages = [
-        {'role': 'user', 'content': merged_text},
-        {'role': 'user', 'content': 'Identifie le nom de l\'entité ou organisation victime de la violation de données mentionnée dans ce texte. Réponds seulement avec le nom de l\'organisation.'}
-    ]
-    victim_response = client.chat.completions.create(
-        model=gpt_model,
-        messages=messages,
-        max_tokens=50,
-        n=1,
-        temperature=0.1
-    )
-    victim = victim_response.choices[0].message.content.strip()
+    # Define Pydantic model for structured response
+    class BreachMetadata(BaseModel):
+        victim: str
+        summary: str  
+        date_discovered: str
+        domain: str
 
-    # Generate summary
+    # Extract all metadata at once using structured JSON
+    system_prompt = """
+You are a data breach analysis expert. When asked to analyze breach notifications,
+always respond with valid JSON objects that match this structure:
+{
+  "victim": "string",
+  "summary": "string", 
+  "date_discovered": "string",
+  "domain": "string"
+}
+Your response should ONLY contain the JSON object and nothing else.
+"""
+    
     messages = [
-        {'role': 'user', 'content': merged_text},
-        {'role': 'user', 'content': 'Résume le texte précédent en un paragraphe de cinq phrases, au maximum.'}
-    ]
-    merged_summary = client.chat.completions.create(
-        model=gpt_model,
-        messages=messages,
-        max_tokens=200,
-        n=1,
-        temperature=0.1
-    ).choices[0].message.content
+        {'role': 'system', 'content': system_prompt},
+        {'role': 'user', 'content': f'''Analyze this data breach notification text and extract the following information:
 
-    # Try to discover domain using multiple methods
-    domain_name = domain_discovery.discover_domain(victim, client, model=gpt_model)
+Text to analyze:
+{merged_text}
 
-    # Extract date from PDF content
-    messages = [
-        {'role': 'user', 'content': merged_text},
-        {'role': 'user', 'content': 'Indique-moi, au format YYYY-MM-DD, la date de découverte de l\'incident rapporté dans le texte suivant : '+merged_summary}
+Extract:
+- victim: Name of the organization/entity that suffered the breach
+- summary: Summary of the breach in maximum 3 sentences
+- date_discovered: Date when the incident was discovered (format: YYYY-MM-DD)  
+- domain: Primary internet domain name of the organization (e.g., company.com, leave empty if unknown)'''}
     ]
-    date_discovered = client.chat.completions.create(
-        model=gpt_model,
-        messages=messages,
-        max_tokens=10,
-        n=1,
-        temperature=0.1
-    ).choices[0].message.content
+    
+    try:
+        metadata_response = client.chat.completions.create(
+            model=gpt_model,
+            messages=messages,
+            max_tokens=400,
+            n=1,
+            temperature=0.1,
+            response_format={"type": "json_object"}
+        )
+        
+        # Parse JSON and validate with Pydantic
+        response_content = metadata_response.choices[0].message.content
+        json_data = json.loads(response_content)
+        breach_data = BreachMetadata(**json_data)
+        
+        victim = breach_data.victim.strip()
+        merged_summary = breach_data.summary.strip()
+        date_discovered = breach_data.date_discovered.strip()
+        domain_name = breach_data.domain.strip()
+        
+    except (json.JSONDecodeError, ValidationError) as e:
+        print(f"Error with structured JSON response: {e}")
+        print(f"Raw response: {metadata_response.choices[0].message.content}")
+        # Fallback to empty values
+        victim = ''
+        merged_summary = ''
+        date_discovered = ''
+        domain_name = ''
+    except Exception as e:
+        print(f"Unexpected error: {e}")
+        # Fallback to empty values
+        victim = ''
+        merged_summary = ''
+        date_discovered = ''
+        domain_name = ''
+    
+    # If LLM didn't provide a domain, try domain discovery as fallback
+    if not domain_name and victim:
+        domain_name = domain_discovery.discover_domain(victim, client, model=gpt_model)
 
     return {
         'victim': victim,
