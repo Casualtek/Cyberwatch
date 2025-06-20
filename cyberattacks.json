@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-12-11",
+        "victim": "Archie Cochrane Ford",
+        "domain": "billingsford.com",
+        "country": "USA",
+        "summary": "On or around December 11, 2024, Archie Cochrane Motors detected an unauthorized third party attempt to access its network and secured its systems while launching an ongoing forensic investigation. The investigation determined that names, mailing addresses, and Social Security Numbers may have been exposed, though there is no evidence of misuse to date. The cyberattack was claimed by akira on 2024-12-18.",
+        "title": "Data Breach Notification",
+        "url": "https://ago.vermont.gov/sites/ago/files/documents/2025-02-27%20Archie%20Cochrane%20Motors%20Data%20Breach%20Notice%20to%20Consumers.pdf",
+        "added": "2025-06-20"
+    },
+    {
         "date": "2024-09-23",
         "victim": "Transak USA LLC",
         "domain": "transak.com",
