@@ -1,5 +1,15 @@
 [
     {
+        "date": "2025-06-08",
+        "victim": "Oxford City Council",
+        "domain": "oxford.gov.uk",
+        "country": "GBR",
+        "summary": "Oxford City Council a été victime d'une attaque de sécurité informatique le week-end des 7 et 8 juin, entraînant une interruption de certains services. Les systèmes de sécurité ont détecté et éliminé la présence non autorisée, mais les attaquants ont pu accéder à des données historiques sur des systèmes hérités. L'enquête se poursuit pour déterminer l'étendue de l'accès et des mesures ont été prises pour prévenir de nouvelles atteintes à la sécurité. (via eCrime.ch)",
+        "title": "Statement on cyber security incident – Oxford City Council",
+        "url": "https://www.oxford.gov.uk/news/article/1704/statement-on-cyber-security-incident",
+        "added": "2025-06-20"
+    },
+    {
         "date": "2025-06-16",
         "victim": "Tonga's National Health Information System (NHIS)",
         "domain": "tonga-nhis.org",
