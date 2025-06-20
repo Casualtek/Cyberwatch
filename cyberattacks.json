@@ -1,5 +1,15 @@
 [
     {
+        "date": "2025-06-19",
+        "victim": "Leymann-Baustoffe",
+        "domain": "leymann-baustoffe.de",
+        "country": "DEU",
+        "summary": "La chaîne de magasins de matériaux de construction Leymann-Baustoffe a été victime d'une attaque informatique, affectant également des filiales à Storkow, Beeskow, Eisenhüttenstadt et Francfort-sur-l'Oder. Les détails de l'attaque ne sont pas précisés dans l'article. L'entreprise est basée en Allemagne.",
+        "title": "Leymann-Baustoffe: Cyberangriff mit Folgen auch in Beeskow und Frankfurt (Oder)",
+        "url": "https://www.moz.de/lokales/beeskow/cyber-angriff-baumarktkette-leymann-baustoffe-it-attacke-mit-folgen-78131983.html",
+        "added": "2025-06-20"
+    },
+    {
         "date": "2025-01-30",
         "victim": "Alabama Ophthalmology Associates",
         "domain": "aoapc.com",
@@ -210,32 +220,32 @@
         "added": "2025-06-19"
     },
     {
-        "date": "2025-03-14", 
-        "victim": "Caputo & Company, PC", 
-        "domain": "cc-cpa.com", 
-        "country": "USA", 
-        "summary": "Caputo & Company, PC, a informé les individus concernés d'une faille de sécurité dans leur réseau informatique, qui a permis à un acteur inconnu d'accéder à certaines informations personnelles. La faille a été découverte le 14 mars 2025 et les investigations ont révélé que les informations personnelles, notamment les noms et les données sensibles, ont été compromises.", 
-        "title": "Data Breach Notification", 
-        "url": "https://ago.vermont.gov/sites/ago/files/documents/2025-04-17%20Caputo%20%26%20Company%20Data%20Breach%20Notice%20to%20Consumers.pdf", 
+        "date": "2025-03-14",
+        "victim": "Caputo & Company, PC",
+        "domain": "cc-cpa.com",
+        "country": "USA",
+        "summary": "Caputo & Company, PC, a informé les individus concernés d'une faille de sécurité dans leur réseau informatique, qui a permis à un acteur inconnu d'accéder à certaines informations personnelles. La faille a été découverte le 14 mars 2025 et les investigations ont révélé que les informations personnelles, notamment les noms et les données sensibles, ont été compromises.",
+        "title": "Data Breach Notification",
+        "url": "https://ago.vermont.gov/sites/ago/files/documents/2025-04-17%20Caputo%20%26%20Company%20Data%20Breach%20Notice%20to%20Consumers.pdf",
         "added": "2025-06-19"
     },
     {
-        "date": "2024-07-16", 
-        "victim": "Effortless Office Enterprises, LLC", 
-        "domain": "effortlessoffice.com", 
-        "country": "USA", 
-        "summary": "Effortless Office Enterprises, LLC, avertit ses clients d'une faille de sécurité dans leur système informatique, qui a pu compromettre des informations personnelles. La faille a été découverte le 16 juillet 2024 et des mesures ont été prises pour sécuriser l'environnement et restaurer les systèmes affectés.", 
-        "title": "Data Breach Notification", 
-        "url": "https://ago.vermont.gov/sites/ago/files/documents/2025-04-17%20Effortless%20Office%20Enterprises%20%20Data%20Breach%20Notice%20to%20Consumers.pdf", 
+        "date": "2024-07-16",
+        "victim": "Effortless Office Enterprises, LLC",
+        "domain": "effortlessoffice.com",
+        "country": "USA",
+        "summary": "Effortless Office Enterprises, LLC, avertit ses clients d'une faille de sécurité dans leur système informatique, qui a pu compromettre des informations personnelles. La faille a été découverte le 16 juillet 2024 et des mesures ont été prises pour sécuriser l'environnement et restaurer les systèmes affectés.",
+        "title": "Data Breach Notification",
+        "url": "https://ago.vermont.gov/sites/ago/files/documents/2025-04-17%20Effortless%20Office%20Enterprises%20%20Data%20Breach%20Notice%20to%20Consumers.pdf",
         "added": "2025-06-19"
     },
     {
-        "date": "2024-11-18", 
+        "date": "2024-11-18",
         "victim": "Asheville Eye Associates, PLLC",
-        "domain": "ashevilleeye.com", 
-        "country": "USA", 
-        "summary": "Asheville Eye Associates (AEA) a détecté et stoppé une faille de sécurité dans son réseau le 18 novembre 2024. Une partie non autorisée a accédé à leur réseau et a acquis certains fichiers de leurs systèmes. AEA a mené une enquête approfondie et a déterminé que des informations personnelles, notamment des numéros de sécurité sociale, avaient été compromises.", 
-        "title": "Data Breach Notification", 
+        "domain": "ashevilleeye.com",
+        "country": "USA",
+        "summary": "Asheville Eye Associates (AEA) a détecté et stoppé une faille de sécurité dans son réseau le 18 novembre 2024. Une partie non autorisée a accédé à leur réseau et a acquis certains fichiers de leurs systèmes. AEA a mené une enquête approfondie et a déterminé que des informations personnelles, notamment des numéros de sécurité sociale, avaient été compromises.",
+        "title": "Data Breach Notification",
         "url": "https://mm.nh.gov/files/uploads/doj/remote-docs/asheville-eye-associates-20250613.pdf",
         "added": "2025-06-19"
     },
