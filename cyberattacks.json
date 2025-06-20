@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-11-19",
+        "victim": "InterCon Construction, Inc.",
+        "domain": "intercon-const.com",
+        "country": "USA",
+        "summary": "On November 19, 2024, InterCon Construction, Inc. discovered that an unauthorized third party accessed its network and may have viewed or taken files containing personal information, including names and Social Security numbers, between November 9 and November 20, 2024. By December 6, 2024, the company confirmed the involvement of personal data and secured its systems, launched an investigation, and notified federal law enforcement. The cyberattack was claimed by hunters on 2024-12-03.",
+        "title": "Data Breach Notification",
+        "url": "https://ago.vermont.gov/sites/ago/files/documents/2025-01-30%20InterCon%20Construction%20Data%20Breach%20Notice%20to%20Consumers.pdf",
+        "added": "2025-06-20"
+    },
+    {
         "date": "2024-11-05",
         "victim": "James H Maloy",
         "domain": "jhmaloy.com",
