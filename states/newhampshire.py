@@ -55,8 +55,8 @@ class NewHampshireConfig:
             
             # Get the data list
             if 'data' not in data:
-                logger.error("No 'data' field found in JSON response")
-                return []
+                logger.error("No 'data' field found in JSON response - unable to parse API response")
+                return None  # Indicates parsing failure
             
             items = data['data']
             breaches = []
@@ -138,11 +138,11 @@ class NewHampshireConfig:
                     continue
             
             logger.info(f"Found {len(breaches)} notifications from {yesterday_str}")
-            return breaches
+            return breaches  # Empty list is valid - means no matching results
             
         except Exception as e:
             logger.error(f"Error parsing JSON API response: {e}")
-            return []
+            return None  # Indicates parsing failure
     
     @staticmethod
     def process_breach(item, fetch_webpage_func):
