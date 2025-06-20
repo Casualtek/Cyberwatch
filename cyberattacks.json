@@ -1,5 +1,15 @@
 [
     {
+        "date": "2025-06-12",
+        "victim": "Aflac Incorporated",
+        "domain": "aflac.com",
+        "country": "USA",
+        "summary": "Aflac Incorporated a subi une faille de sécurité, entraînant l'accès non autorisé à des données sensibles de clients et d'employés, y compris des numéros de sécurité sociale et des informations de santé. L'entreprise a pris des mesures pour contenir l'incident et offre des services de surveillance de crédit et de protection d'identité gratuits. L'enquête est toujours en cours pour déterminer l'étendue de l'incident.",
+        "title": "Aflac Data Breach Alert: Social Security Numbers and Health Records at Risk in Massive Cyber Attack",
+        "url": "https://www.stocktitan.net/news/AFL/aflac-incorporated-discloses-cybersecurity-1k6cl3k3oi0a.html",
+        "added": "2025-06-20"
+    },
+    {
         "date": "2025-06-08",
         "victim": "Oxford City Council",
         "domain": "oxford.gov.uk",
