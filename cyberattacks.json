@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-11-05",
+        "victim": "James H Maloy",
+        "domain": "jhmaloy.com",
+        "country": "USA",
+        "summary": "On November 5, 2024, an unknown actor gained access to a limited number of James H. Maloy, Inc.’s computer systems and accessed or exfiltrated certain files. The files potentially contained individuals’ names, addresses, Social Security numbers, and financial account information. The company secured its systems, reported the event to law enforcement, and is offering affected individuals 24 months of complimentary credit monitoring and identity restoration services. The cyberattack was claimed by akira on 2024-11-20.",
+        "title": "Data Breach Notification",
+        "url": "https://ago.vermont.gov/sites/ago/files/documents/2025-01-30%20James%20H.%20Maloy%20Data%20Breach%20Notice%20to%20Consumers.pdf",
+        "added": "2025-06-20"
+    },
+    {
         "date": "2024-11-02",
         "victim": "Textiles Coated International",
         "domain": "textilescoated.com",
