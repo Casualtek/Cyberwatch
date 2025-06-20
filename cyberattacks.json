@@ -1,5 +1,15 @@
 [
     {
+        "date": "2025-06-16",
+        "victim": "Tonga's National Health Information System (NHIS)",
+        "domain": "tonga-nhis.org",
+        "country": "TON",
+        "summary": "Le système d'information sanitaire national du Tonga a subi une attaque de ransomware, ce qui a conduit à sa fermeture et au recours à des opérations manuelles. Les pirates ont crypté les données et exigent un paiement, mais les autorités assurent que les informations ne seront pas endommagées. Une équipe australienne de cybersécurité est arrivée pour aider à résoudre le problème.",
+        "title": "Health ministry’s information system hit by ransomware attack – TALANOA 'O TONGA",
+        "url": "https://talanoaotonga.to/health-ministrys-information-system-hit-by-ransomware-attack/",
+        "added": "2025-06-20"
+    },
+    {
         "date": "2025-06-18",
         "victim": "Commune de Villars-sur-Glâne",
         "domain": "villars-sur-glane.ch",
