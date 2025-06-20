@@ -1,5 +1,15 @@
 [
     {
+        "date": "2025-06-18",
+        "victim": "Commune de Villars-sur-Glâne",
+        "domain": "villars-sur-glane.ch",
+        "country": "CHE",
+        "summary": "La commune de Villars-sur-Glâne a subi une cyberattaque visant ses systèmes informatiques, des mesures ont été prises pour contrer l'attaque et sécuriser l'infrastructure. L'attaque aurait été de type rançongiciel, mais aucune information n'a été divulguée sur les conséquences. Les autorités compétentes ont été informées et une analyse est en cours.",
+        "title": "La commune de Villars-sur-Glâne subit une cyberattaque",
+        "url": "https://frapp.ch/fr/articles/stories/un-incident-de-cybersecurite-dans-la-commune-de-villars",
+        "added": "2025-06-20"
+    },
+    {
         "date": "2025-06-19",
         "victim": "Leymann-Baustoffe",
         "domain": "leymann-baustoffe.de",
