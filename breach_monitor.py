@@ -207,11 +207,16 @@ def process_vermont_rss(state_config):
     # Parse RSS feed using state-specific parser
     logger.info("Parsing RSS feed")
     rss_items = state_config.parse_rss_feed(rss_content)
+    
+    if rss_items is None:
+        logger.error("Failed to parse RSS feed - check feed structure")
+        return False
+    
     logger.info(f"Found {len(rss_items)} RSS items")
     
     if not rss_items:
-        logger.warning("No RSS items found - check RSS feed structure")
-        return False
+        logger.info("No RSS items found matching filter criteria - this is normal if no new breaches were posted yesterday")
+        return True
     
     # Load existing cyberattacks data
     logger.info("Loading existing cyberattacks.json data")
@@ -274,11 +279,16 @@ def process_newhampshire_json(state_config):
     # Parse JSON API using state-specific parser
     logger.info("Parsing JSON API response")
     json_items = state_config.parse_json_api(json_content)
+    
+    if json_items is None:
+        logger.error("Failed to parse JSON API response - check API structure")
+        return False
+    
     logger.info(f"Found {len(json_items)} JSON items")
     
     if not json_items:
-        logger.warning("No JSON items found - check API response structure")
-        return False
+        logger.info("No JSON items found matching filter criteria - this is normal if no new breaches were posted yesterday")
+        return True
     
     # Load existing cyberattacks data
     logger.info("Loading existing cyberattacks.json data")
@@ -347,11 +357,16 @@ def process_html_table_state(state_config, state_name):
     # Parse breach table using state-specific parser
     logger.info("Parsing breach notification table")
     breaches = state_config.parse_breach_table(html_content)
+    
+    if breaches is None:
+        logger.error("Failed to parse breach table - check page structure")
+        return False
+    
     logger.info(f"Found {len(breaches)} breach notifications")
     
     if not breaches:
-        logger.warning("No breaches found - check page structure")
-        return False
+        logger.info("No breaches found matching filter criteria - this is normal if no new breaches were posted yesterday")
+        return True
     
     # Load existing cyberattacks data
     logger.info("Loading existing cyberattacks.json data")
