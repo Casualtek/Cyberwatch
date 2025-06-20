@@ -33,8 +33,8 @@ class MaineConfig:
             logger.warning("Specific table class not found, looking for alternative structure")
             rows = soup.find_all('tr')
             if not rows:
-                logger.error("No table structure found")
-                return []
+                logger.error("No table structure found - unable to parse page")
+                return None  # Indicates parsing failure
         else:
             rows = table.find_all('tr')
         
@@ -87,7 +87,7 @@ class MaineConfig:
                 continue
         
         logger.info(f"Found {len(breaches)} notifications from {yesterday}")
-        return breaches
+        return breaches  # Empty list is valid - means no matching results
     
     @staticmethod
     def extract_notification_details(url, fetch_webpage_func):
