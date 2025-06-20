@@ -3,7 +3,7 @@
 Unified Breach Notification Monitor
 Supports multiple states through pluggable state-specific modules.
 Usage: python breach_monitor.py <state>
-Where <state> is: maine, washington
+Where <state> is: maine, washington, vermont
 """
 
 import requests
@@ -152,6 +152,21 @@ def load_state_config(state_name):
         elif state_name.lower() == 'washington':
             from states.washington import WashingtonConfig
             return WashingtonConfig
+        elif state_name.lower() == 'vermont':
+            from states.vermont import VermontConfig
+            return VermontConfig
+        elif state_name.lower() == 'newhampshire':
+            from states.newhampshire import NewHampshireConfig
+            return NewHampshireConfig
+        elif state_name.lower() == 'idaho':
+            from states.idaho import IdahoConfig
+            return IdahoConfig
+        elif state_name.lower() == 'california':
+            from states.california import CaliforniaConfig
+            return CaliforniaConfig
+        elif state_name.lower() == 'iowa':
+            from states.iowa import IowaConfig
+            return IowaConfig
         else:
             raise ValueError(f"Unsupported state: {state_name}")
     except ImportError as e:
@@ -172,9 +187,159 @@ def process_state(state_name):
     
     logger.info(f"Starting {state_config.STATE_NAME} breach notification monitor")
     
-    # Fetch webpage
-    logger.info(f"Fetching {state_config.STATE_NAME} breach notification page")
-    html_content = fetch_webpage(state_config.URL)
+    # Handle different state data sources
+    if state_name.lower() == 'vermont':
+        return process_vermont_rss(state_config)
+    elif state_name.lower() == 'newhampshire':
+        return process_newhampshire_json(state_config)
+    else:
+        return process_html_table_state(state_config, state_name)
+
+def process_vermont_rss(state_config):
+    """Process Vermont's RSS feed"""
+    # Fetch RSS feed
+    logger.info(f"Fetching {state_config.STATE_NAME} RSS feed")
+    rss_content = fetch_webpage(state_config.RSS_URL)
+    if not rss_content:
+        logger.error("Failed to fetch RSS feed")
+        return False
+    
+    # Parse RSS feed using state-specific parser
+    logger.info("Parsing RSS feed")
+    rss_items = state_config.parse_rss_feed(rss_content)
+    logger.info(f"Found {len(rss_items)} RSS items")
+    
+    if not rss_items:
+        logger.warning("No RSS items found - check RSS feed structure")
+        return False
+    
+    # Load existing cyberattacks data
+    logger.info("Loading existing cyberattacks.json data")
+    cyberattacks_data = load_cyberattacks_json()
+    logger.info(f"Loaded {len(cyberattacks_data)} existing cyberattack records")
+    
+    # Process each RSS item
+    new_breaches = 0
+    new_notifications = []
+    
+    for item in rss_items:
+        title = item['title']
+        link = item['link']
+        pubdate = item['pubdate']
+        
+        logger.info(f"Checking RSS item: {title} ({pubdate})")
+        
+        # Check if notification URL already exists
+        if check_existing_urls(cyberattacks_data, link):
+            logger.info(f"Notification URL '{link}' already exists in cyberattacks.json")
+            logger.info("Found already processed notification - stopping processing (assuming chronological order)")
+            break
+        
+        # New breach found
+        logger.info(f"New breach found: {title}")
+        new_breaches += 1
+        
+        logger.info(f"Processing link: {link}")
+        # Use state-specific processing
+        extracted_data = state_config.process_breach(item, fetch_webpage)
+        if extracted_data:
+            logger.info(f"Successfully processed new breach: {title}")
+            new_notifications.append(extracted_data)
+            # Save immediately after processing each notification
+            save_notification_to_file(extracted_data, state_config.STATE_NAME)
+        else:
+            logger.info(f"No data extracted for {title} (likely filtered out or error)")
+    
+    # Send Telegram notification if there are new notifications
+    if new_notifications:
+        logger.info("Sending Telegram notification")
+        telegram_prefix = state_config.get_telegram_message_prefix()
+        send_telegram_notification(new_notifications, state_config.STATE_NAME, telegram_prefix)
+        logger.info(f"Processing complete. All {len(new_notifications)} notifications have been saved incrementally to new_notification_vermont.json")
+    else:
+        logger.info("No new notifications found")
+    
+    logger.info(f"{state_config.STATE_NAME} processing complete. Found {new_breaches} new breaches, {len(new_notifications)} saved to file")
+    return True
+
+def process_newhampshire_json(state_config):
+    """Process New Hampshire's JSON API"""
+    # Fetch JSON API
+    logger.info(f"Fetching {state_config.STATE_NAME} JSON API")
+    json_content = state_config.fetch_json_api()
+    if not json_content:
+        logger.error("Failed to fetch JSON API")
+        return False
+    
+    # Parse JSON API using state-specific parser
+    logger.info("Parsing JSON API response")
+    json_items = state_config.parse_json_api(json_content)
+    logger.info(f"Found {len(json_items)} JSON items")
+    
+    if not json_items:
+        logger.warning("No JSON items found - check API response structure")
+        return False
+    
+    # Load existing cyberattacks data
+    logger.info("Loading existing cyberattacks.json data")
+    cyberattacks_data = load_cyberattacks_json()
+    logger.info(f"Loaded {len(cyberattacks_data)} existing cyberattack records")
+    
+    # Process each JSON item
+    new_breaches = 0
+    new_notifications = []
+    
+    for item in json_items:
+        title = item['title']
+        pdf_url = item['pdf_url']
+        date = item['date']
+        
+        logger.info(f"Checking JSON item: {title} ({date})")
+        
+        # Check if notification URL already exists
+        if check_existing_urls(cyberattacks_data, pdf_url):
+            logger.info(f"Notification URL '{pdf_url}' already exists in cyberattacks.json")
+            logger.info("Found already processed notification - stopping processing (assuming chronological order)")
+            break
+        
+        # New breach found
+        logger.info(f"New breach found: {title}")
+        new_breaches += 1
+        
+        logger.info(f"Processing PDF: {pdf_url}")
+        # Use state-specific processing
+        extracted_data = state_config.process_breach(item, fetch_webpage)
+        if extracted_data:
+            logger.info(f"Successfully processed new breach: {title}")
+            new_notifications.append(extracted_data)
+            # Save immediately after processing each notification
+            save_notification_to_file(extracted_data, state_config.STATE_NAME)
+        else:
+            logger.info(f"No data extracted for {title} (likely filtered out or error)")
+    
+    # Send Telegram notification if there are new notifications
+    if new_notifications:
+        logger.info("Sending Telegram notification")
+        telegram_prefix = state_config.get_telegram_message_prefix()
+        send_telegram_notification(new_notifications, state_config.STATE_NAME, telegram_prefix)
+        logger.info(f"Processing complete. All {len(new_notifications)} notifications have been saved incrementally to new_notification_newhampshire.json")
+    else:
+        logger.info("No new notifications found")
+    
+    logger.info(f"{state_config.STATE_NAME} processing complete. Found {new_breaches} new breaches, {len(new_notifications)} saved to file")
+    return True
+
+def process_html_table_state(state_config, state_name):
+    """Process states that use HTML table parsing (Maine, Washington, Idaho, California, Iowa)"""
+    # Fetch webpage - handle Iowa's dynamic URL
+    if state_name.lower() == 'iowa':
+        url = state_config.get_current_year_url()
+        logger.info(f"Fetching {state_config.STATE_NAME} breach notification page (year-specific): {url}")
+    else:
+        url = state_config.URL
+        logger.info(f"Fetching {state_config.STATE_NAME} breach notification page")
+    
+    html_content = fetch_webpage(url)
     if not html_content:
         logger.error("Failed to fetch webpage")
         return False
@@ -250,7 +415,7 @@ def process_state(state_name):
 def main():
     """Main function"""
     parser = argparse.ArgumentParser(description='Unified breach notification monitor')
-    parser.add_argument('state', nargs='?', choices=['maine', 'washington'], 
+    parser.add_argument('state', nargs='?', choices=['maine', 'washington', 'vermont', 'newhampshire', 'idaho', 'california', 'iowa'], 
                        help='State to monitor (if not specified, processes all states)')
     args = parser.parse_args()
     
@@ -259,7 +424,7 @@ def main():
         states_to_process = [args.state]
         logger.info(f"Processing single state: {args.state}")
     else:
-        states_to_process = ['maine', 'washington']
+        states_to_process = ['maine', 'washington', 'vermont', 'newhampshire', 'idaho', 'california', 'iowa']
         logger.info("No specific state provided - processing all states")
     
     # Process each state
