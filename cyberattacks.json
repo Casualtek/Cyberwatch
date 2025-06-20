@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-11-14",
+        "victim": "City of McKinney",
+        "domain": "mckinneytexas.org",
+        "country": "USA",
+        "summary": "On October 31, 2024 an unknown third party gained unauthorized access to the City of McKinney’s network environment, which was discovered and contained on November 14, 2024. A forensic investigation completed on December 30, 2024 determined that certain files containing personal information may have been exposed. The City notified affected individuals on February 4, 2025 and is offering credit monitoring and fraud assistance services at no charge. The cyberattack was claimed by incransom on 2025-02-15.",
+        "title": "Data Breach Notification",
+        "url": "https://ago.vermont.gov/sites/ago/files/documents/2025-02-04%20City%20of%20McKinney%20Data%20Breach%20Notice%20to%20Consumers.pdf",
+        "added": "2025-06-20"
+    },
+    {
         "date": "2024-10-30",
         "victim": "Parkleigh Enterprises, Inc.",
         "domain": "parkleigh.com",
