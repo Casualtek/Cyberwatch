@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-05-22",
+        "victim": "Northeast Rehabilitation Hospital Network",
+        "domain": "northeastrehab.com",
+        "country": "USA",
+        "summary": "Between May 13 and May 22, 2024, an unauthorized individual accessed NRHN systems and viewed or copied certain personal information. The incident was discovered on May 22, 2024, and a review of impacted information was completed on November 27, 2024. The cyberattack was claimed by hunters on 2024-07-18.",
+        "title": "Data Breach Notification",
+        "url": "https://ago.vermont.gov/sites/ago/files/documents/2025-01-06%20Northeast%20Rehabilitation%20Hospital%20Network%20Data%20Breach%20Notice%20to%20Consumers.pdf",
+        "added": "2025-06-20"
+    },
+    {
         "date": "2024-11-15",
         "victim": "Greenscape Land Design, Inc.",
         "domain": "greenscape.us.com",
