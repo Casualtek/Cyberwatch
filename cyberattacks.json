@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-08-05",
+        "victim": "ShoreMaster LLC",
+        "domain": "shoremaster.com",
+        "country": "USA",
+        "summary": "ShoreMaster LLC experienced a network disruption that led to unauthorized access to certain systems on or around August 5, 2024. The exposed information included individuals’ first and last names along with additional data elements. The cyberattack was claimed by akira on 2024-10-01",
+        "title": "Data Breach Notification",
+        "url": "https://ago.vermont.gov/sites/ago/files/documents/2024-11-26%20ShoreMaster%20Data%20Breach%20Notice%20to%20Consumers.pdf",
+        "added": "2025-06-20"
+    },
+    {
         "date": "2024-07-20",
         "victim": "Rumpke Waste & Recycling",
         "domain": "rumpke.com",
