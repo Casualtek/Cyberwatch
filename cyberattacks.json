@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-03-06",
+        "victim": "Redwood Coast Regional Center",
+        "domain": "redwoodcoastrc.org",
+        "country": "USA",
+        "summary": "On March 6, 2024, Redwood Coast Regional Center experienced a network disruption that allowed an unauthorized individual to acquire certain systems data. A subsequent investigation completed on September 26, 2024 determined that personal information—including names, addresses, dates of birth, medical and insurance details, financial account data, and Social Security numbers—may have been impacted. The cyberattack was claimed by lockbit3 on 2024-03-08.",
+        "title": "Data Breach Notification",
+        "url": "https://ago.vermont.gov/sites/ago/files/documents/2024-11-05%20Redwood%20Coast%20Regional%20Center%20Data%20Breach%20Notice%20to%20Consumers.pdf",
+        "added": "2025-06-20"
+    },
+    {
         "date": "2024-04-26",
         "victim": "Fiskars Group",
         "domain": "fiskarsgroup.com",
