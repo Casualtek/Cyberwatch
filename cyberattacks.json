@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-12-25",
+        "victim": "cityofwesthaven.com",
+        "domain": "cityofwesthaven.com",
+        "country": "USA",
+        "summary": "On December 25, 2024, the City of West Haven detected suspicious activity on its systems that may have exposed personal information, including names and Social Security numbers. The cyberattack was claimed by qilin on 2025-01-11.",
+        "title": "Data Breach Notification",
+        "url": "https://ago.vermont.gov/sites/ago/files/documents/2025-02-12%20City%20of%20West%20Haven%20Data%20Breach%20Notice%20to%20Consumers.pdf",
+        "added": "2025-06-20"
+    },
+    {
         "date": "2024-12-11",
         "victim": "Archie Cochrane Ford",
         "domain": "billingsford.com",
