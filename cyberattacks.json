@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-11-15",
+        "victim": "Greenscape Land Design, Inc.",
+        "domain": "greenscape.us.com",
+        "country": "USA",
+        "summary": "On or around November 14–15, 2024, an unauthorized actor gained access to Greenscape Land Design’s computer systems and potentially acquired files containing individuals’ personal information. Greenscape promptly contained the event, engaged third-party forensic specialists, and completed a review of the relevant files to identify affected individuals. The cyberattack was claimed by ransomhub on 2024-12-10.",
+        "title": "Data Breach Notification",
+        "url": "https://ago.vermont.gov/sites/ago/files/documents/2025-01-09%20Greenscape%20Land%20Design%2C%20Data%20Breach%20Notice%20to%20Consumers.pdf",
+        "added": "2025-06-20"
+    },
+    {
         "date": "2024-07-01",
         "victim": "NewsBank, Inc.",
         "domain": "newsbank.com",
