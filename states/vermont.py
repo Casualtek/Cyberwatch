@@ -71,11 +71,11 @@ class VermontConfig:
                     continue
             
             logger.info(f"Found {len(breaches)} RSS items from {yesterday_str}")
-            return breaches
+            return breaches  # Empty list is valid - means no matching results
             
         except Exception as e:
             logger.error(f"Error parsing RSS feed: {e}")
-            return []
+            return None  # Indicates parsing failure
     
     @staticmethod
     def extract_pdf_link(url, fetch_webpage_func):
@@ -135,7 +135,6 @@ class VermontConfig:
                 # Override with Vermont-specific details where available
                 extracted_data['url'] = link  # Keep the notification page URL as the main URL
                 extracted_data['title'] = title
-                extracted_data['pubdate'] = item['pubdate']
                 
                 logger.info(f"Successfully processed Vermont breach: {title}")
                 return extracted_data
