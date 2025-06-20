@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-07-01",
+        "victim": "NewsBank, Inc.",
+        "domain": "newsbank.com",
+        "country": "USA",
+        "summary": "On or about July 1, 2024, NewsBank, Inc. detected and contained a cybersecurity incident involving unauthorized access to its computer systems between June 20 and July 1, 2024. An unknown actor viewed or downloaded personal information, including names and Social Security numbers. The cyberattack was claimed by rhysida on 2024-08-26.",
+        "title": "Data Breach Notification",
+        "url": "https://ago.vermont.gov/sites/ago/files/documents/2025-01-16%20NewsBank%20Data%20Breach%20Notice%20to%20Consumers.pdf",
+        "added": "2025-06-20"
+    },
+    {
         "date": "2024-03-02",
         "victim": "Stock Development, LLC",
         "domain": "stockdevelopment.com",
