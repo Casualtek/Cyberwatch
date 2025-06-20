@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-03-02",
+        "victim": "Stock Development, LLC",
+        "domain": "stockdevelopment.com",
+        "country": "USA",
+        "summary": "On March 2, 2024, Stock Development discovered that an unauthorized third party had accessed a portion of its network from April 25, 2023, through March 2, 2024. The breach may have exposed personal information—including full names, dates of birth, contact details, government identification numbers, financial account data, and health information—of affected individuals. The cyberattack was claimed by lockbit3 on 2024-03-03.",
+        "title": "Data Breach Notification",
+        "url": "https://ago.vermont.gov/sites/ago/files/documents/2025-01-24%20Stock%20Development%20Data%20Breach%20Notice%20to%20Consumers.pdf",
+        "added": "2025-06-20"
+    },
+    {
         "date": "2024-11-19",
         "victim": "InterCon Construction, Inc.",
         "domain": "intercon-const.com",
