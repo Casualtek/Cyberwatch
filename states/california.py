@@ -30,8 +30,8 @@ class CaliforniaConfig:
         table = soup.find('table', class_='views-table cols-3 table table-hover table-striped')
         
         if not table:
-            logger.error("California breach table not found")
-            return []
+            logger.error("California breach table not found - unable to parse page structure")
+            return None  # Indicates parsing failure
         
         # Find tbody
         tbody = table.find('tbody')
@@ -105,7 +105,7 @@ class CaliforniaConfig:
                 continue
         
         logger.info(f"Found {len(breaches)} notifications reported on {yesterday_str}")
-        return breaches
+        return breaches  # Empty list is valid - means no matching results
     
     @staticmethod
     def extract_pdf_link(notification_url, fetch_webpage_func):
