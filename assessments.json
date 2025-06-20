@@ -1,5 +1,26 @@
 [
     {
+        "victim": "Dishaka",
+        "domain": "dishaka.com",
+        "country": "US",
+        "date": "2025-05-02",
+        "group": "play"
+    },
+    {
+        "victim": "Grafton Technologies",
+        "domain": "gtec.com",
+        "country": "US",
+        "date": "2025-05-12",
+        "group": "play"
+    },
+    {
+        "victim": "Carney Badley Spellman",
+        "domain": "carneylaw.com",
+        "country": "US",
+        "date": "2025-05-15",
+        "group": "play"
+    },
+    {
         "victim": "skirball.org",
         "domain": "skirball.org",
         "country": "US",
