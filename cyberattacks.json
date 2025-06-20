@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-11-02",
+        "victim": "Textiles Coated International",
+        "domain": "textilescoated.com",
+        "country": "USA",
+        "summary": "On November 2, 2024, Textiles Coated, Inc. discovered that an unknown actor had accessed certain systems between November 1 and November 4, 2024, and may have copied files without authorization. By January 9, 2025, they completed a review of impacted files and determined that recipients’ personal information was potentially involved. The cyberattack was claimed by lynx on 2024-12-02.",
+        "title": "Data Breach Notification",
+        "url": "https://ago.vermont.gov/sites/ago/files/documents/2025-02-04%20Textiles%20Coated%20Data%20Breach%20Notice%20to%20Consumers.pdf",
+        "added": "2025-06-20"
+    },
+    {
         "date": "2024-11-14",
         "victim": "City of McKinney",
         "domain": "mckinneytexas.org",
