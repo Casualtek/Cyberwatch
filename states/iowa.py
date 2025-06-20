@@ -35,8 +35,8 @@ class IowaConfig:
         table = soup.find('table')
         
         if not table:
-            logger.error("Iowa breach table not found")
-            return []
+            logger.error("Iowa breach table not found - unable to parse page structure")
+            return None  # Indicates parsing failure
         
         # Find tbody or look for rows directly
         tbody = table.find('tbody')
@@ -108,7 +108,7 @@ class IowaConfig:
                 continue
         
         logger.info(f"Found {len(breaches)} notifications from {yesterday_str}")
-        return breaches
+        return breaches  # Empty list is valid - means no matching results
     
     @staticmethod
     def process_breach(link, fetch_webpage_func):
