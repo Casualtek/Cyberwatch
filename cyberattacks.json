@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-09-14",
+        "victim": "Fitzemeyer & Tocci Associates, Inc.",
+        "domain": "f-t.com",
+        "country": "USA",
+        "summary": "On September 14, 2024, Fitzemeyer & Tocci Associates detected unauthorized access to its systems that occurred between September 5 and September 14, 2024. The breach may have involved names and Social Security numbers of affected individuals. The cyberattack was claimed by abyss on 2024-09-23.",
+        "title": "Data Breach Notification",
+        "url": "https://ago.vermont.gov/sites/ago/files/documents/2024-12-19%20Fitzemeyer%20%26%20Tocci%20Associates%20Data%20Breach%20Notice%20to%20Consumers.pdf",
+        "added": "2025-06-20"
+    },
+    {
         "date": "2024-05-22",
         "victim": "Northeast Rehabilitation Hospital Network",
         "domain": "northeastrehab.com",
