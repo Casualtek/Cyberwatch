@@ -9,7 +9,7 @@ from groq import Groq
 from io import BytesIO
 import domain_discovery
 
-groq_api_key   = os.environ['GROQ_API']
+groq_api_key   = os.environ.get('GROQ_API')
 gpt_model      = 'llama-3.3-70b-versatile'
 
 headers = {
