@@ -1,5 +1,25 @@
 [
     {
+        "date": "2024-07-20",
+        "victim": "Rumpke Waste & Recycling",
+        "domain": "rumpke.com",
+        "country": "USA",
+        "summary": "On October 11, 2024, Rumpke Waste & Recycling discovered that attackers had exploited a compromised user account since July 20, 2024 to access its network and view or remove files containing employees’ personal, health and financial information. The cyberattack was claimed by hunters on 2024-10-11.",
+        "title": "Data Breach Notification",
+        "url": "https://ago.vermont.gov/sites/ago/files/documents/2024-12-10%20Rumpke%20Consolidated%20Companies%20Data%20Breach%20Notice%20to%20Consumers.pdf",
+        "added": "2025-06-20"
+    },
+    {
+        "date": "2024-09-02",
+        "victim": "Rob Levine Law",
+        "domain": "roblevine.com",
+        "country": "USA",
+        "summary": "On September 2, 2024, Rob Levine Law detected unusual activity disrupting access to certain systems and determined that unauthorized actors had acquired files from its network. An investigation completed on December 9, 2024 revealed that the data may have included individuals’ names and Social Security numbers. The firm has secured its network and is offering affected individuals complimentary credit monitoring and identity theft protection services. The cyberattack was claimed by akira on 2024-10-03.",
+        "title": "Data Breach Notification",
+        "url": "https://ago.vermont.gov/sites/ago/files/documents/2024-12-18%20Rob%20Levine%20Law%20Data%20Breach%20Notice%20to%20Consumers.pdf",
+        "added": "2025-06-20"
+    },
+    {
         "date": "2024-09-14",
         "victim": "Fitzemeyer & Tocci Associates, Inc.",
         "domain": "f-t.com",
