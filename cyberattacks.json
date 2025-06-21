@@ -1,5 +1,55 @@
 [
-    {
+      {
+        "date": "2024-08-05",
+        "victim": "McLaren Health Care",
+        "domain": "mclaren.org",
+        "country": "USA",
+        "summary": "McLaren Health Care suffered a cybersecurity attack by an international ransomware group, resulting in unauthorized access to their network between July 17, 2024, and August 3, 2024. The breach may have exposed personal information and protected health information of individuals, including name, Social Security number, driver's license number, medical information, and health insurance information. McLaren is offering identity theft protection services through IDX to affected individuals.",
+        "title": "Data Breach Notification",
+        "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/79a56f34-ffbe-4621-a74c-9b1e49477904.html",
+        "added": "2025-06-21"
+      },
+      {
+        "date": "2024-04-25",
+        "victim": "Bray International, Inc.",
+        "domain": "bray.com",
+        "country": "USA",
+        "summary": "Bray International, Inc. experienced a sophisticated cyber incident between April 17, 2024, and April 25, 2024, resulting in unauthorized access to potentially sensitive information. The breach may have involved name, Social Security number, and driver's license number. Bray is offering 24 months of credit monitoring services to affected individuals.",
+        "title": "Data Breach Notification",
+        "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/5af9745d-dc54-48a2-b49c-e677b95c89f3.html",
+        "added": "2025-06-21"
+      },
+      {
+        "date": "2024-10-01",
+        "victim": "Electronics For Imaging, Inc.",
+        "domain": "efi.com",
+        "country": "USA",
+        "summary": "Electronics For Imaging, Inc. suffered a data breach that occurred between September 17, 2024, and October 1, 2024, resulting in unauthorized access to personal information. The breach involved name, Social Security number, driver's license number, and financial account information. The company is offering complimentary credit monitoring and identity protection services to affected individuals.",
+        "title": "Data Breach Notification",
+        "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/c0d9c44e-f422-4d73-9bac-623de1cbf704.html",
+        "added": "2025-06-21"
+      },
+      {
+        "date": "2024-10-08",
+        "victim": "Stephen New & Associates",
+        "domain": "newlawoffice.com",
+        "country": "USA",
+        "summary": "An unauthorized party acquired a limited number of electronic files from Stephen New & Associates' computer systems, potentially containing personal information. The incident occurred on or about October 8, 2024, and was discovered on or about May 20, 2025. The organization is offering complimentary credit monitoring services to affected individuals.",
+        "title": "Data Breach Notification",
+        "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/80c4ad3c-ca2b-4e54-b6f3-7750fc95ca22.html",
+        "added": "2025-06-21"
+      },
+      {
+        "date": "2025-04-16",
+        "victim": "American Driveline Systems, Inc.",
+        "domain": "aamco.com",
+        "country": "USA",
+        "summary": "American Driveline Systems, Inc. detected unusual activity within its server network, leading to unauthorized access to files between April 11 and April 16, 2025. The breach involved the name and Social Security number and/or driver’s license number of one Maine resident. A complimentary identity monitoring service was offered to the affected individual.",
+        "title": "Data Breach Notification",
+        "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/94420f12-dd5d-4056-9f89-8aa2e02e7b53.html",
+        "added": "2025-06-21"
+      },
+      {
         "date": "2023-11-18",
         "victim": "Blaine County School District",
         "domain": "blaineschools.org",
