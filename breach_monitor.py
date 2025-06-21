@@ -136,7 +136,7 @@ def send_telegram_notification(new_notifications, state_name, telegram_prefix):
         
         # Send JSON data as a document
         json_filename = f"new_notifications_{state_name.lower()}.json"
-        json_content = json.dumps(new_notifications, ensure_ascii=False, indent=2)
+        json_content = json.dumps(new_notifications, ensure_ascii=False, indent=4)
         
         document_url = f"https://api.telegram.org/bot{bot_token}/sendDocument"
         files = {
