@@ -99,7 +99,7 @@ def save_notification_to_file(notification, state_name, filename=None):
         return False
 
 def send_telegram_notification(new_notifications, state_name, telegram_prefix):
-    """Send Telegram notification about new breach notifications"""
+    """Send Telegram notification with JSON data about new breach notifications"""
     try:
         bot_token = os.environ.get('TG_TK')
         chat_id = os.environ.get('TG_CHAT_ID')
@@ -123,8 +123,6 @@ def send_telegram_notification(new_notifications, state_name, telegram_prefix):
                 message += f"   URL: {url}\n"
             message += "\n"
         
-        message += f"All details saved to `new_notification_{state_name.lower()}.json`"
-        
         # Send message via Telegram API
         telegram_url = f"https://api.telegram.org/bot{bot_token}/sendMessage"
         payload = {
@@ -136,7 +134,23 @@ def send_telegram_notification(new_notifications, state_name, telegram_prefix):
         response = requests.post(telegram_url, json=payload, timeout=30)
         response.raise_for_status()
         
-        logger.info("Successfully sent Telegram notification")
+        # Send JSON data as a document
+        json_filename = f"new_notifications_{state_name.lower()}.json"
+        json_content = json.dumps(new_notifications, ensure_ascii=False, indent=2)
+        
+        document_url = f"https://api.telegram.org/bot{bot_token}/sendDocument"
+        files = {
+            'document': (json_filename, json_content.encode('utf-8'), 'application/json')
+        }
+        data = {
+            'chat_id': chat_id,
+            'caption': f"JSON data for {len(new_notifications)} new breach notifications from {state_name.title()}"
+        }
+        
+        doc_response = requests.post(document_url, files=files, data=data, timeout=30)
+        doc_response.raise_for_status()
+        
+        logger.info("Successfully sent Telegram notification with JSON document")
         return True
         
     except Exception as e:
@@ -250,8 +264,6 @@ def process_vermont_rss(state_config):
         if extracted_data:
             logger.info(f"Successfully processed new breach: {title}")
             new_notifications.append(extracted_data)
-            # Save immediately after processing each notification
-            save_notification_to_file(extracted_data, state_config.STATE_NAME)
         else:
             logger.info(f"No data extracted for {title} (likely filtered out or error)")
     
@@ -260,11 +272,11 @@ def process_vermont_rss(state_config):
         logger.info("Sending Telegram notification")
         telegram_prefix = state_config.get_telegram_message_prefix()
         send_telegram_notification(new_notifications, state_config.STATE_NAME, telegram_prefix)
-        logger.info(f"Processing complete. All {len(new_notifications)} notifications have been saved incrementally to new_notification_vermont.json")
+        logger.info(f"Processing complete. All {len(new_notifications)} notifications have been sent via Telegram")
     else:
         logger.info("No new notifications found")
     
-    logger.info(f"{state_config.STATE_NAME} processing complete. Found {new_breaches} new breaches, {len(new_notifications)} saved to file")
+    logger.info(f"{state_config.STATE_NAME} processing complete. Found {new_breaches} new breaches, {len(new_notifications)} sent via Telegram")
     return True
 
 def process_newhampshire_json(state_config):
@@ -322,8 +334,6 @@ def process_newhampshire_json(state_config):
         if extracted_data:
             logger.info(f"Successfully processed new breach: {title}")
             new_notifications.append(extracted_data)
-            # Save immediately after processing each notification
-            save_notification_to_file(extracted_data, state_config.STATE_NAME)
         else:
             logger.info(f"No data extracted for {title} (likely filtered out or error)")
     
@@ -332,11 +342,11 @@ def process_newhampshire_json(state_config):
         logger.info("Sending Telegram notification")
         telegram_prefix = state_config.get_telegram_message_prefix()
         send_telegram_notification(new_notifications, state_config.STATE_NAME, telegram_prefix)
-        logger.info(f"Processing complete. All {len(new_notifications)} notifications have been saved incrementally to new_notification_newhampshire.json")
+        logger.info(f"Processing complete. All {len(new_notifications)} notifications have been sent via Telegram")
     else:
         logger.info("No new notifications found")
     
-    logger.info(f"{state_config.STATE_NAME} processing complete. Found {new_breaches} new breaches, {len(new_notifications)} saved to file")
+    logger.info(f"{state_config.STATE_NAME} processing complete. Found {new_breaches} new breaches, {len(new_notifications)} sent via Telegram")
     return True
 
 def process_html_table_state(state_config, state_name):
@@ -410,8 +420,6 @@ def process_html_table_state(state_config, state_name):
         if extracted_data:
             logger.info(f"Successfully processed new breach: {org_name}")
             new_notifications.append(extracted_data)
-            # Save immediately after processing each notification
-            save_notification_to_file(extracted_data, state_config.STATE_NAME)
         else:
             logger.info(f"No data extracted for {org_name} (likely filtered out or error)")
     
@@ -420,11 +428,11 @@ def process_html_table_state(state_config, state_name):
         logger.info("Sending Telegram notification")
         telegram_prefix = state_config.get_telegram_message_prefix()
         send_telegram_notification(new_notifications, state_config.STATE_NAME, telegram_prefix)
-        logger.info(f"Processing complete. All {len(new_notifications)} notifications have been saved incrementally to new_notification_{state_name.lower()}.json")
+        logger.info(f"Processing complete. All {len(new_notifications)} notifications have been sent via Telegram")
     else:
         logger.info("No new notifications found")
     
-    logger.info(f"{state_config.STATE_NAME} processing complete. Found {new_breaches} new breaches, {len(new_notifications)} saved to file")
+    logger.info(f"{state_config.STATE_NAME} processing complete. Found {new_breaches} new breaches, {len(new_notifications)} sent via Telegram")
     return True
 
 def main():
