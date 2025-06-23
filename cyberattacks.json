@@ -1,5 +1,15 @@
 [
-      {
+    {
+        "date": "2025-06-01",
+        "victim": "Agarwal Packers and Movers Ltd (APML)",
+        "domain": "agarwalpackers.com",
+        "country": "IND",
+        "summary": "Une faille de sécurité majeure chez Agarwal Packers and Movers Ltd a compromis des données personnelles sensibles de clients de haut niveau, y compris des fonctionnaires gouvernementaux. La faille, qui a été découverte le 1er juin, a déclenché des inquiétudes non seulement sur la sécurité des données d'entreprise mais aussi sur les implications potentielles pour la sécurité nationale. La police a enregistré une plainte et une enquête est actuellement en cours. Les données volées pourraient être utilisées pour orchestrer des attaques de phishing, des escroqueries d'usurpation d'identité ou même de la surveillance.",
+        "title": "Agarwal Packers and Movers’ Cyber Leak: FIR Filed as Security Breach Stuns Noida",
+        "url": "https://the420.in/noida-logistics-data-breach-cyber-investigation/",
+        "added": "2025-06-23"
+    },
+    {
         "date": "2024-08-05",
         "victim": "McLaren Health Care",
         "domain": "mclaren.org",
@@ -8,8 +18,8 @@
         "title": "Data Breach Notification",
         "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/79a56f34-ffbe-4621-a74c-9b1e49477904.html",
         "added": "2025-06-21"
-      },
-      {
+    },
+    {
         "date": "2024-04-25",
         "victim": "Bray International, Inc.",
         "domain": "bray.com",
@@ -18,8 +28,8 @@
         "title": "Data Breach Notification",
         "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/5af9745d-dc54-48a2-b49c-e677b95c89f3.html",
         "added": "2025-06-21"
-      },
-      {
+    },
+    {
         "date": "2024-10-01",
         "victim": "Electronics For Imaging, Inc.",
         "domain": "efi.com",
@@ -28,8 +38,8 @@
         "title": "Data Breach Notification",
         "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/c0d9c44e-f422-4d73-9bac-623de1cbf704.html",
         "added": "2025-06-21"
-      },
-      {
+    },
+    {
         "date": "2024-10-08",
         "victim": "Stephen New & Associates",
         "domain": "newlawoffice.com",
@@ -38,8 +48,8 @@
         "title": "Data Breach Notification",
         "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/80c4ad3c-ca2b-4e54-b6f3-7750fc95ca22.html",
         "added": "2025-06-21"
-      },
-      {
+    },
+    {
         "date": "2025-04-16",
         "victim": "American Driveline Systems, Inc.",
         "domain": "aamco.com",
@@ -48,8 +58,8 @@
         "title": "Data Breach Notification",
         "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/94420f12-dd5d-4056-9f89-8aa2e02e7b53.html",
         "added": "2025-06-21"
-      },
-      {
+    },
+    {
         "date": "2023-11-18",
         "victim": "Blaine County School District",
         "domain": "blaineschools.org",
