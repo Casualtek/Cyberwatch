@@ -1,5 +1,15 @@
 [
     {
+        "date": "2025-06-16",
+        "victim": "RADIX",
+        "domain": "radix.ch",
+        "country": "USA",
+        "summary": "RADIX, a Swiss nonprofit active in health promotion, confirmed a cyberattack on 16 June 2025 despite high security measures and professional support. The incident led to data encryption and a detected data leak, though intact backups remain available. RADIX has notified the federal cybersecurity office and investigations into the attack method are ongoing. The cyberattack was claimed by sarcoma on 2025-06-19.",
+        "title": "Data Breach Notification",
+        "url": "https://www.radix.ch/media/jq4f1wnr/informations-radix_20251906-fr.pdf",
+        "added": "2025-06-23"
+    },
+    {
         "date": "2025-06-01",
         "victim": "Agarwal Packers and Movers Ltd (APML)",
         "domain": "agarwalpackers.com",
