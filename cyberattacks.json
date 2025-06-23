@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-11-13",
+        "victim": "Pound Road Medical Center (PRMC)",
+        "domain": "poundroadmc.com.au",
+        "country": "AUS",
+        "summary": "On 13 November 2024, Pound Road Medical Centre (PRMC) was alerted to activity on their systems which indicated a potential cyber incident had occurred. They commenced an urgent investigation into that activity and took immediate action to contain the incident. Unfortunately, the investigations identified that patient data may have been accessed and taken by an unauthorised third party. On 25 February 2025 PRMC became aware of claims that data impacted by the incident had been posted on the dark web.",
+        "title": "Cyber Incident",
+        "url": "https://poundroadmc.com.au/static/uploads/files/022625-prmc-website-notification-w-letterhead-wfjalpigtzwl.docx",
+        "added": "2025-06-23"
+    },
+    {
         "date": "2025-06-16",
         "victim": "RADIX",
         "domain": "radix.ch",
