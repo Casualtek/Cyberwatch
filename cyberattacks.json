@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-10-27",
+        "victim": "Birdair, Inc.",
+        "domain": "birdair.com",
+        "country": "USA",
+        "summary": "Birdair, Inc. experienced a network disruption on October 28, 2024, and discovered unauthorized access to certain files. The investigation revealed that personal information of Maine residents was contained within the affected files. Birdair notified 4 Maine residents of the incident via first-class U.S. mail on June 20, 2025.",
+        "title": "Data Breach Notification",
+        "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/c292c50c-5930-4162-a0ee-76f8072982a4.html",
+        "added": "2025-06-24"
+    },
+    {
         "date": "2024-11-13",
         "victim": "Pound Road Medical Center (PRMC)",
         "domain": "poundroadmc.com.au",
