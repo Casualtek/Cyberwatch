@@ -1,5 +1,19 @@
 [
     {
+        "victim": "Dorado Software",
+        "domain": "doradosoftware.com",
+        "country": "US",
+        "date": "2025-06-16",
+        "group": "incransom"
+    },
+    {
+        "victim": "gouverneur.com",
+        "domain": "gouverneur.com",
+        "country": "CA",
+        "date": "2025-06-11",
+        "group": "lynx"
+    },
+    {
         "victim": "Ecoter",
         "domain": "ecoter.fr",
         "country": "FR",
