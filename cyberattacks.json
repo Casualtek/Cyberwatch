@@ -1,5 +1,25 @@
 [
     {
+        "date": "2025-06-19",
+        "victim": "Bonneville Joint School District 93",
+        "domain": "d93schools.org",
+        "country": "USA",
+        "summary": "Le district scolaire de Bonneville a subi une attaque informatique, ce qui a entraîné la fermeture de son réseau pour des raisons de sécurité. Les programmes d'école d'été sont actuellement perturbés en raison de cette attaque. Aucune donnée n'a été compromise ou perdue lors de l'attaque, grâce à l'intervention rapide de l'équipe de sécurité.",
+        "title": "Network shut down at Bonneville School District 93 following cyberattack - East Idaho News",
+        "url": "https://www.eastidahonews.com/2025/06/network-shut-down-at-bonneville-school-district-93-following-cyberattack/",
+        "added": "2025-06-24"
+    },
+    {
+        "date": "2021-08-31",
+        "victim": "Stefanutti Stocks Holdings",
+        "domain": "stefanuttistocks.com",
+        "country": "ZAF",
+        "summary": "Stefanutti Stocks Holdings a découvert une cyberattaque sur ses systèmes informatiques le 31 août. L'entreprise a engagé des experts externes pour enquêter sur l'incident et a fermé tous ses systèmes informatiques pour remédier à la situation. Les opérations sur les sites ne seront pas affectées, mais certaines fonctions administratives centrales seront temporairement perturbées.",
+        "title": "JSE-listed Stefanutti Stocks hit by cyberattack, engages experts to investigate",
+        "url": "https://thestar.co.za/business-report/companies/2020-09-01-jse-listed-stefanutti-stocks-hit-by-cyberattack-engages-experts-to-investigate/",
+        "added": "2025-06-24"
+    },
+    {
         "date": "2025-03-05",
         "victim": "Shepherd Smith Edwards & Kantas, LLP",
         "domain": "sseklaw.com",
