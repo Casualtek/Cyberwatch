@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-04-10",
+        "victim": "Mainline Health Systems Inc",
+        "domain": "mainline-health.com",
+        "country": "USA",
+        "summary": "Mainline Health Systems, Inc. experienced a security incident on April 10, 2024, which impacted their network. An investigation revealed that certain files containing protected personal information were subject to unauthorized access. The cyberattack was claimed by incransom on 2024-05-04.",
+        "title": "Data Breach Notification",
+        "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/780cf6d5-bc22-4ee0-b46a-1b360475f087.html",
+        "added": "2025-06-24"
+    },
+    {
         "date": "2024-10-27",
         "victim": "Birdair, Inc.",
         "domain": "birdair.com",
