@@ -1,5 +1,12 @@
 [
     {
+        "victim": "Sweet Shop USA",
+        "domain": "sweetshopusa.com",
+        "country": "US",
+        "date": "2025-05-02",
+        "group": "play"
+    },
+    {
         "victim": "Gistic Research",
         "domain": "gisticinc.com",
         "country": "US",
