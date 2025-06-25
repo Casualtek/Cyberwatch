@@ -1,5 +1,15 @@
 [
     {
+        "date": "2025-05-05",
+        "victim": "Liberty Township",
+        "domain": "liberty-township.com",
+        "country": "USA",
+        "summary": "Liberty Township a été victime d'une attaque de ransomware le 5 mai 2025, entraînant une fuite de données de 48 Go, notamment des informations de connexion en texte brut pour de nombreux sites, y compris des portails sécurisés. Les mots de passe n'étaient pas complexes et ont été réutilisés sur plusieurs comptes. La municipalité a changé les mots de passe et travaille avec un fournisseur tiers pour offrir des services de surveillance du crédit et de protection contre la fraude d'identité aux personnes touchées.",
+        "title": "Liberty Township in Ohio has recovered its network after a ransomware attack",
+        "url": "https://databreaches.net/2025/06/24/liberty-township-in-ohio-has-recovered-its-network-after-a-ransomware-attack/",
+        "added": "2025-06-25"
+    },
+    {
         "date": "2024-10-17",
         "victim": "Curium Pharma",
         "domain": "curiumpharma.com",
