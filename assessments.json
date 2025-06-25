@@ -1,5 +1,54 @@
 [
     {
+        "victim": "Just Concrete & Masonry",
+        "domain": "jcmi.com",
+        "country": "US",
+        "date": "2025-05-06",
+        "group": "play"
+    },
+    {
+        "victim": "EIZO Rugged Solutions",
+        "domain": "eizorugged.com",
+        "country": "US",
+        "date": "2025-05-02",
+        "group": "play"
+    },
+    {
+        "victim": "Rochon",
+        "domain": "rochoncorp.com",
+        "country": "US",
+        "date": "2025-05-31",
+        "group": "play"
+    },
+    {
+        "victim": "Rollex",
+        "domain": "rollex.com",
+        "country": "US",
+        "date": "2025-06-08",
+        "group": "play"
+    },
+    {
+        "victim": "S&H Express",
+        "domain": "sandhexpress.com",
+        "country": "US",
+        "date": "2025-06-07",
+        "group": "play"
+    },
+    {
+        "victim": "NPD Products",
+        "domain": "npdproducts.com",
+        "country": "CA",
+        "date": "2025-06-08",
+        "group": "play"
+    },
+    {
+        "victim": "NF Stroth & Associates",
+        "domain": "nfstroth.com",
+        "country": "US",
+        "date": "2025-06-12",
+        "group": "play"
+    },
+    {
         "victim": "Vacation Myrtle Beach",
         "domain": "vacationmyrtlebeach.com",
         "country": "US",
