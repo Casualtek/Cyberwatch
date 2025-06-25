@@ -1,5 +1,15 @@
 [
     {
+        "date": "2025-06-24",
+        "victim": "Prefeitura de Porto Nacional",
+        "domain": "portonacional.to.gov.br",
+        "country": "BRA",
+        "summary": "La Prefeitura de Porto Nacional a été victime d'une attaque par ransomware, ce qui a compromis les systèmes internes et les services numériques. Les hackers n'ont pas réussi à copier les données en raison de leur grande quantité. Les systèmes affectés étaient les archives internes et le système de géomappage de la ville.",
+        "title": "Prefeitura de Porto Nacional sofre ataque hacker com vírus do tipo ransomware, mas dados não foram vazados",
+        "url": "https://soudepalmas.com.br/geral/cotidiano-em-destaque/prefeitura-de-porto-nacional-sofre-ataque-hacker-com-virus-do-tipo-ransomware-mas-dados-nao-foram-vazados",
+        "added": "2025-06-25"
+    },
+    {
         "date": "2025-05-05",
         "victim": "Liberty Township",
         "domain": "liberty-township.com",
