@@ -1,5 +1,15 @@
 [
     {
+        "date": "2025-06-19",
+        "victim": "Glasgow City Council",
+        "domain": "glasgow.gov.uk",
+        "country": "GBR",
+        "summary": "Une attaque cybernétique a touché le conseil municipal de Glasgow, provoquant des perturbations dans les services en ligne et potentiellement entraînant le vol de données client. Les autorités sont en train d'enquêter sur l'incident et les services affectés sont temporairement indisponibles. Les citoyens sont invités à être prudents face aux contacts prétendant provenir du conseil municipal.",
+        "title": "Cyber Incident, June 2025 - Glasgow City Council",
+        "url": "https://glasgow.gov.uk/serviceimpact",
+        "added": "2025-06-25"
+    },
+    {
         "date": "2025-06-24",
         "victim": "Prefeitura de Porto Nacional",
         "domain": "portonacional.to.gov.br",
