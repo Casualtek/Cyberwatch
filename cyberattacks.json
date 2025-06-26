@@ -1,5 +1,15 @@
 [
     {
+        "date": "2025-06-05",
+        "victim": "Media Broadcast Satellite",
+        "domain": "mb-satellite.de",
+        "country": "DEU",
+        "summary": "La Media Broadcast Satellite a été victime d'une attaque de ransomware il y a environ deux semaines et demi, ce qui a entraîné la perturbation de ses opérations. L'entreprise travaille actuellement à la suppression complète des dommages et à la reconstruction de son infrastructure informatique. Les services de communication de l'entreprise devraient être pleinement rétablis dans environ deux semaines.",
+        "title": "Ransomware-Angriff auf Media Broadcast Satellite",
+        "url": "https://www.digitalfernsehen.de/news/technik/tech/ransomware-angriff-auf-media-broadcast-satellite-1148908/",
+        "added": "2025-06-26"
+    },
+    {
         "date": "2024-11-05",
         "victim": "Bluegrass Ingredients, Inc.",
         "domain": "bluegrassingredients.com",
