@@ -1,5 +1,35 @@
 [
     {
+        "date": "2024-11-05",
+        "victim": "Bluegrass Ingredients, Inc.",
+        "domain": "bluegrassingredients.com",
+        "country": "USA",
+        "summary": "Bluegrass Ingredients, Inc. suffered a data breach between November 5th, 2024, and November 10th, 2024, resulting in unauthorized access to certain files containing name and Social Security number of Maine residents. The breach was discovered on November 9th, 2024. The attack has been claimed by Akira on January 06th, 2025.",
+        "title": "Data Breach Notification",
+        "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/b7fc5c52-61ca-4927-8df4-7a32d9534120.html",
+        "added": "2025-06-26"
+    },
+    {
+        "date": "2024-12-20",
+        "victim": "Nth Degree",
+        "domain": "nthdegree.com",
+        "country": "USA",
+        "summary": "An unauthorized party gained access to Nth Degree's network environment, potentially accessing personal information between December 12, 2024, and December 20, 2024. The incident was discovered on May 14, 2025. Nth Degree is offering complimentary credit monitoring services to affected individuals.",
+        "title": "Data Breach Notification",
+        "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/240d41b8-ff29-4277-84a7-96f8934ccdf3.html",
+        "added": "2025-06-26"
+    },
+    {
+        "date": "2025-03-14",
+        "victim": "The Yakima Herald-Republic & The Walla Walla Union-Bulletin",
+        "domain": "yakimaherald.com",
+        "country": "USA",
+        "summary": "The Yakima Herald-Republic & The Walla Walla Union-Bulletin has suffered a data breach, offering free credit monitoring services to affected individuals. The breach has led to the exposure of sensitive information, prompting the company to provide proactive fraud assistance. The services include credit monitoring, identity theft insurance, and fraud remediation.",
+        "title": "Data Breach Notification",
+        "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/84b57bd9-6dbc-47ce-91d1-dfe9f9b69d85.html",
+        "added": "2025-06-26"
+    }
+    {
         "date": "2025-06-19",
         "victim": "Glasgow City Council",
         "domain": "glasgow.gov.uk",
