@@ -1,5 +1,15 @@
 [
     {
+        "date": "2025-06-15",
+        "victim": "Siloking",
+        "domain": "siloking.com",
+        "country": "DEU",
+        "summary": "L'entreprise Siloking a été victime d'une attaque de cybercriminels qui ont utilisé du logiciel de rançon pour crypter les systèmes informatiques. La production est actuellement en fonctionnement d'urgence. Un expert en IT de l'Université de Passau a expliqué les méthodes utilisées par les hackers et a donné des conseils aux entreprises.",
+        "title": "Cyberangriff legt Siloking lahm: Produktion läuft nur im Notbetrieb",
+        "url": "https://www.pnp.de/lokales/landkreis-traunstein/cyberangriff-legt-siloking-lahm-produktion-laeuft-nur-im-notbetrieb-18931292",
+        "added": "2025-06-26"
+    },
+    {
         "date": "2025-06-05",
         "victim": "Media Broadcast Satellite",
         "domain": "mb-satellite.de",
