@@ -1,5 +1,15 @@
 [
     {
+        "date": "2025-06-24",
+        "victim": "City of Green River",
+        "domain": "grwyo.org",
+        "country": "USA",
+        "summary": "La ville de Green River est victime d'une attaque de ransomware qui a touché ses systèmes informatiques, mais il n'y a pas encore de preuve de fuite de données. L'attaque a paralysé les systèmes de la ville, mais les autres organisations locales n'ont pas été affectées. La ville travaille actuellement pour résoudre la situation avec l'aide de la Sweetwater Combined Communications Joint Powers Board. (via eCrime.ch)",
+        "title": "Green River City Computer Systems Crippled by Ransomware - SweetwaterNOW",
+        "url": "https://www.sweetwaternow.com/green-river-city-computer-systems-crippled-by-ransomware/",
+        "added": "2025-06-26"
+    },
+    {
         "date": "2024-05-28",
         "victim": "Estes Forwarding Worldwide",
         "domain": "efwnow.com",
