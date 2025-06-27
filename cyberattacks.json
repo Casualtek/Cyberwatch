@@ -1,5 +1,15 @@
 [
     {
+        "date": "2025-06-19",
+        "victim": "Prestataire de l'agence régionale bruxelloise du stationnement",
+        "domain": "parking.brussels",
+        "country": "BEL",
+        "summary": "Un prestataire de l'agence régionale bruxelloise du stationnement a été victime d'une cyberattaque, et des données de ses usagers ont été volées. Les données subtilisées incluent le nom, prénom, adresse postale, adresse électronique, numéro d'immatriculation du véhicule, numéro de téléphone et numéro de Registre national.",
+        "title": "Un sous-traitant de parking.brussels victime de pirates informatiques",
+        "url": "https://parking.brussels/fr/un-sous-traitant-de-parkingbrussels-victime-de-pirates-informatiques",
+        "added": "2025-06-27"
+    },
+    {
         "date": "2025-06-26",
         "victim": "Hawaiian Airlines",
         "domain": "hawaiianairlines.com",
