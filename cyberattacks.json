@@ -1,5 +1,35 @@
 [
     {
+        "date": "2024-08-14",
+        "victim": "EmCentrix",
+        "domain": "emcentrix.com",
+        "country": "USA",
+        "summary": "EmCentrix experienced a network disruption on August 14, 2024, which led to unauthorized access to certain files. An investigation revealed that some personal information was contained within the potentially affected data. The company has taken steps to enhance security and is offering complimentary identity protection services.",
+        "title": "Data Breach Notification",
+        "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/d13eae07-d8be-44a3-9f96-cb3494df671e.html",
+        "added": "2025-06-27"
+    },
+    {
+        "date": "2024-11-06",
+        "victim": "Gelinas & Ward LLP",
+        "domain": "gelinasward.com",
+        "country": "USA",
+        "summary": "Gelinas & Ward LLP experienced a data breach on November 6, 2024, where unauthorized individuals copied certain files and folders from their network. The affected files contained sensitive information, including names, Social Security numbers, and driver's license numbers, for Maine residents. The breach was discovered on November 6, 2024, and the organization has since taken steps to secure their systems and notify affected individuals.",
+        "title": "Data Breach Notification",
+        "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/42a56e96-8068-477e-922c-9f2814f1d57c.html",
+        "added": "2025-06-27"
+    },
+    {
+        "date": "2025-02-21",
+        "victim": "Mengel, Metzger, Barr & Co., LLP",
+        "domain": "mmbaccounting.com",
+        "country": "USA",
+        "summary": "Mengel, Metzger, Ba rr & Co., LLP suffered a cyberattack on February 21, 2025, which may have impacted personally identifiable information (PII) of individuals and entities. The incident was discovered on May 19, 2025. The organization has not found any evidence of PII misuse.",
+        "title": "Data Breach Notification",
+        "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/d6c73c83-7948-4d55-8c89-6c5ae8071a6f.html",
+        "added": "2025-06-27"
+    },
+    {
         "date": "2025-06-19",
         "victim": "Prestataire de l'agence régionale bruxelloise du stationnement",
         "domain": "parking.brussels",
