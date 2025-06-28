@@ -1,5 +1,15 @@
 [
     {
+        "date": "2025-03-13",
+        "victim": "Union County, Pennsylvania",
+        "domain": "unioncountypa.gov",
+        "country": "USA",
+        "summary": "Union County, Pennsylvania suffered a ransomware attack on March 13, 2025, which resulted in unauthorized access to personal information.",
+        "title": "Data Breach Notification",
+        "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/76dc46b7-9128-4c40-bb72-ce149b55d05c.html",
+        "added": "2025-06-28"
+    },
+    {
         "date": "2024-08-14",
         "victim": "EmCentrix",
         "domain": "emcentrix.com",
