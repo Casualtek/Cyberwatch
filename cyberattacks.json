@@ -1,5 +1,15 @@
 [
     {
+        "date": "2025-03-13",
+        "victim": "Whittaker & Company",
+        "domain": "whittakercpas.com",
+        "country": "USA",
+        "summary": "Whittaker & Company experienced a security incident involving unauthorized access to its computer network, resulting in the theft of personal information. The breach occurred between February 28, 2025, and March 13, 2025. The attack was claimed by Spacebears on March 20th.",
+        "title": "Data Breach Notification",
+        "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/c4fde829-ac61-4480-b347-198491dc9d5f.html",
+        "added": "2025-06-28"
+    },
+    {
         "date": "2025-02-10",
         "victim": "Keystone Pacific Property Management",
         "domain": "keystonepacificpm.com",
