@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-12-27",
+        "victim": "Horizon Healthcare RCM",
+        "domain": "horizonhealthcarercm.com",
+        "country": "USA",
+        "summary": "Horizon Healthcare RCM a subi une attaque de ransomware entre le 25 et le 27 décembre, entraînant la fuite de données sensibles, notamment des informations d'assurance maladie et des numéros de sécurité sociale. L'entreprise a payé la rançon pour que les données soient supprimées, mais il est impossible de savoir si les pirates ont conservé des copies. Les patients sont invités à surveiller leurs comptes et à prendre des mesures pour protéger leurs informations personnelles.",
+        "title": "Horizon Healthcare RCM discloses ransomware attack in December",
+        "url": "https://databreaches.net/2025/06/29/horizon-healthcare-rcm-discloses-ransomware-attack-in-december/",
+        "added": "2025-06-29"
+    },
+    {
         "date": "2025-06-26",
         "victim": "Richard Lander School",
         "domain": "richardlander.co.uk",
