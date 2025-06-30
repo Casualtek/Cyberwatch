@@ -1,5 +1,12 @@
 [
     {
+        "victim": "Prival",
+        "domain": "prival.com",
+        "country": "PA",
+        "date": "2025-02-15",
+        "group": "kraken"
+    },
+    {
         "victim": "Scott & Kraus, LLC",
         "domain": "skcounsel.com",
         "country": "US",
