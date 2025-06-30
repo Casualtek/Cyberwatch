@@ -1,5 +1,12 @@
 [
     {
+        "victim": "Transportes Sanmarti SA",
+        "domain": "sanmarti.es",
+        "country": "ES",
+        "date": "2025-04-03",
+        "group": "kraken"
+    },
+    {
         "victim": "ANUBIS COSMETICS, S.L.",
         "domain": "anubis-cosmetics.com",
         "country": "ES",
