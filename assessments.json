@@ -1,5 +1,12 @@
 [
     {
+        "victim": "mgl.law",
+        "domain": "mgl.law",
+        "country": "US",
+        "date": "2021-11-28",
+        "group": "kraken"
+    },
+    {
         "victim": "SELT Sistemi",
         "domain": "selt-sistemi.com",
         "country": "IT",
