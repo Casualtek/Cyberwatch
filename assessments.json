@@ -1,5 +1,12 @@
 [
     {
+        "victim": "Continental Aerospace Technologies",
+        "domain": "continental.aero",
+        "country": "US",
+        "date": "2025-03-10",
+        "group": "kraken"
+    },
+    {
         "victim": "Transportes Sanmarti SA",
         "domain": "sanmarti.es",
         "country": "ES",
