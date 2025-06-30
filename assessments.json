@@ -1,5 +1,12 @@
 [
     {
+        "victim": "CirculAire / Dectron",
+        "domain": "dectron.com",
+        "country": "CA",
+        "date": "2025-02-25",
+        "group": "kraken"
+    },
+    {
         "victim": "Humac A/S",
         "domain": "humac.dk",
         "country": "DK",
