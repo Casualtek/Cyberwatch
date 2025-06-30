@@ -1,5 +1,12 @@
 [
     {
+        "victim": "Humac A/S",
+        "domain": "humac.dk",
+        "country": "DK",
+        "date": "2025-04-02",
+        "group": "kraken"
+    },
+    {
         "victim": "Prival",
         "domain": "prival.com",
         "country": "PA",
