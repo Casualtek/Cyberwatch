@@ -1,5 +1,15 @@
 [
     {
+        "date": "2025-06-25",
+        "victim": "Pembroke Regional Hospital",
+        "domain": "pembrokeregionalhospital.ca",
+        "country": "CAN",
+        "summary": "Le Pembroke Regional Hospital est actuellement victime d'une incident de cybersécurité, ce qui a entraîné des retards et des annulations de services. L'hôpital a déclenché son plan de réponse aux incidents et a déployé des contre-mesures pour prévenir tout accès non autorisé à son réseau. Les patients concernés sont contactés directement pour les changements d'appointments. (via eCrime.ch)",
+        "title": "Pembroke Regional Hospital experiencing service delays, some cancellations after cybersecurity incident",
+        "url": "https://www.pembrokeobserver.com/news/pembroke-regional-hospital-experiencing-service-delays-some-cancellations-after-cybersecurity-incident",
+        "added": "2025-07-01"
+    },
+    {
         "date": "2025-06-28",
         "victim": "MBC",
         "domain": "mbcbank.com",
