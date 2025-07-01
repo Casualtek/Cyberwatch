@@ -1,5 +1,15 @@
 [
     {
+        "date": "2025-02-05",
+        "victim": "Riverdale Country School, Inc.",
+        "domain": "riverdale.edu",
+        "country": "USA",
+        "summary": "Riverdale Country School, Inc. experienced a sophisticated cyber-attack that may have accessed or taken certain information on February 6, 2025. The information that could have been subject to unauthorized access includes name and Social Security number. The cyberattack was claimed by Qilin on February 21st.",
+        "title": "Data Breach Notification",
+        "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/d254fe62-1a28-4e77-8a3f-d49e76d3e54d.html",
+        "added": "2025-07-01"
+    },
+    {
         "date": "2024-12-01",
         "victim": "Berkot's Super Foods",
         "domain": "berkotfoods.com",
