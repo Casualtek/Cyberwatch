@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-12-01",
+        "victim": "Berkot's Super Foods",
+        "domain": "berkotfoods.com",
+        "country": "USA",
+        "summary": "Berkot's Super Foods experienced a data security incident that may have affected customers' personal information, including names and potentially affected regulated data sets. The incident occurred on November 22, 2024, and was discovered on December 1, 2024. The company is offering complimentary credit monitoring and identity protection services to affected customers.",
+        "title": "Data Breach Notification",
+        "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/84264b1a-c62b-4721-b403-a2cf463613bf.html",
+        "added": "2025-07-01"
+    },
+    {
         "date": "2025-06-25",
         "victim": "Pembroke Regional Hospital",
         "domain": "pembrokeregionalhospital.ca",
