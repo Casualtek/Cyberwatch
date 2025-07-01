@@ -1,5 +1,15 @@
 [
     {
+        "date": "2025-03-25",
+        "victim": "Southwood Financial LLC",
+        "domain": "swfin.com",
+        "country": "USA",
+        "summary": "Southwood Financial LLC experienced a data security incident involving unauthorized access to personal information, including names, Social Security numbers, and addresses. The incident was discovered on March 25, 2025, and affected files were reviewed on May 29, 2025. The company is offering credit monitoring services to affected individuals.",
+        "title": "2025-06-27 Southwood Financial Data Breach Notice to Consumers",
+        "url": "https://ago.vermont.gov/document/2025-06-27-southwood-financial-data-breach-notice-consumers",
+        "added": "2025-07-01"
+    },
+    {
         "date": "2024-11-20",
         "victim": "Robert H Clarkson Insurance Agency LLC",
         "domain": "rhcgroup.com",
