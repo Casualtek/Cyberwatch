@@ -1,6 +1,16 @@
 [
     {
         "date": "2025-06-30",
+        "victim": "Hero España",
+        "domain": "hero.es",
+        "country": "ESP",
+        "summary": "Hero España a subi à une attaque informatique, ce qui a provoqué une perturbation temporaire dans ses opérations en Espagne. L'entreprise a pris des mesures immédiates pour prévenir la propagation de l'attaque et protéger les données. Les opérations de production et de logistique ont été temporairement restreintes, mais des plans de contingence ont été mis en place pour minimiser l'impact sur les clients et les collaborateurs.",
+        "title": "Ataque cibernético impacta la planta de Hero en Alcantarilla, Murcia - Demócrata",
+        "url": "https://www.democrata.es/economia/ataque-cibernetico-impacta-planta-hero-alcantarilla-murcia/",
+        "added": "2025-07-02"
+    },
+    {
+        "date": "2025-06-30",
         "victim": "Prefeitura de Dourados",
         "domain": "dourados.ms.gov.br",
         "country": "BRA",
