@@ -1,5 +1,15 @@
 [
     {
+        "date": "2025-06-30",
+        "victim": "Prefeitura de Dourados",
+        "domain": "dourados.ms.gov.br",
+        "country": "BRA",
+        "summary": "Le site officiel de la Prefeitura de Dourados a été victime d'une attaque de hackers, empêchant l'accès des citoyens à certains services en ligne. Les ingénieurs et techniciens travaillent pour évaluer les dégâts et rétablir la connexion. La préfecture assure que les citoyens ne subiront aucun préjudice et que les délais pour les documents et les informations seront prolongés.",
+        "title": "Incidente cibernético tira do ar portal da Prefeitura de Dourados (MS) - Security Leaders",
+        "url": "https://securityleaders.com.br/incidente-cibernetico-tira-do-ar-portal-da-prefeitura-de-dourados-ms/",
+        "added": "2025-07-02"
+    },
+    {
         "date": "2025-01-22",
         "victim": "Barhite & Holzinger, Inc.",
         "domain": "barhiteandholzinger.com",
