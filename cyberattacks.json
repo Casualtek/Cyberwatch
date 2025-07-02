@@ -1,5 +1,15 @@
 [
     {
+        "date": "2025-07-01",
+        "victim": "Banco Nacional de Crédito",
+        "domain": "bncenlinea.com",
+        "country": "VEN",
+        "summary": "Selon des sources anonymes, un affidé Qilin a conduit une cyberattaque contre la banque BNC, demandant 8 millions de dollars de rançon.",
+        "title": "Anonymous sources confirm #Qilin #ransomware compromises Banco Nacional de Crédito",
+        "url": "https://x.com/_venarix_/status/1940206009487864119",
+        "added": "2025-07-02"
+    },
+    {
         "date": "2025-06-30",
         "victim": "Qantas",
         "domain": "qantas.com",
