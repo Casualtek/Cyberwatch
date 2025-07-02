@@ -1,5 +1,15 @@
 [
     {
+        "date": "2025-06-30",
+        "victim": "Qantas",
+        "domain": "qantas.com",
+        "country": "AUS",
+        "summary": "Qantas a confirmé avoir subi une cyberattaque visant un centre de contact, exposant potentiellement les données personnelles de plusieurs millions de clients. Bien que le système compromis ait été rapidement isolé et que les systèmes principaux de Qantas restent sécurisés, des informations telles que noms, emails, numéros de téléphone, dates de naissance et numéros de fidélité ont pu être consultées. L’entreprise collabore avec les autorités australiennes, renforce sa sécurité, informe les clients concernés et présente ses excuses.",
+        "title": "QANTAS CYBER INCIDENT",
+        "url": "https://www.qantasnewsroom.com.au/media-releases/qantas-cyber-incident/",
+        "added": "2025-07-02"
+    },
+    {
         "date": "2024-06-05",
         "victim": "Daystar Television Network",
         "domain": "daystar.com",
