@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-10-07",
+        "victim": "Idealab",
+        "domain": "idealab.com",
+        "country": "USA",
+        "summary": "Idealab suffered a data security incident involving the unauthorized acquisition of personal information, which was discovered on October 7, 2024. The incident occurred when an unknown actor accessed certain data without authorization on or about October 4, 2024. Idealab confirmed the scope of the impact on June 26, 2025. The attack has been claimed under the Hunters International ransomware brand on Oct. 22nd, 2024.",
+        "title": "Data Breach Notification",
+        "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/379c369a-8e7d-432d-82b0-4b6696d7982f.html",
+        "added": "2025-07-02"
+    },
+    {
         "date": "2025-07-01",
         "victim": "Banco Nacional de Crédito",
         "domain": "bncenlinea.com",
