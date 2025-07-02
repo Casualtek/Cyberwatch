@@ -1,5 +1,15 @@
 [
     {
+        "date": "2025-01-22",
+        "victim": "Barhite & Holzinger, Inc.",
+        "domain": "barhiteandholzinger.com",
+        "country": "USA",
+        "summary": "Unauthorized access to Barhite & Holzinger, Inc.'s network occurred between January 21, 2025, and January 22, 2025, resulting in the viewing and obtaining of files containing personal information. The affected information included names, Social Security numbers, driver's license numbers, and/or financial account numbers. The attack has been claimed under the Akira ransomware brand, on Feb. 21st, 2025.",
+        "title": "Data Breach Notification",
+        "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/22d56501-6c50-4a7a-8eb4-4f00ca8d875c.html",
+        "added": "2025-07-02"
+    },
+    {
         "date": "2024-10-07",
         "victim": "Idealab",
         "domain": "idealab.com",
