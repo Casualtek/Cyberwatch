@@ -1,5 +1,15 @@
 [
     {
+        "date": "2025-07-01",
+        "victim": "C&M Software",
+        "domain": "cmsw.com",
+        "country": "BRA",
+        "summary": "Une attaque cybernétique a visé la société C&M Software, fournisseur de services de technologie pour les institutions financières brésiliennes, affectant les comptes de réserve de certaines institutions. L'attaque a eu lieu lundi et le Banco Central a ordonné à C&M de bloquer l'accès aux institutions financières. Les systèmes critiques de C&M restent intacts et la société coopère avec les autorités pour enquêter sur l'incident.",
+        "title": "Ataque cibernético a provedora de serviços de tecnologia no Brasil afeta contas reserva de algumas instituições financeiras",
+        "url": "https://www.terra.com.br/economia/ataque-cibernetico-a-provedora-de-servicos-de-tecnologia-no-brasil-afeta-contas-reserva-de-algumas-instituicoes-financeiras,e06459321b261e4f48b6ae685740210b2gdam8a6.html",
+        "added": "2025-07-03"
+    },
+    {
         "date": "2025-06-05",
         "victim": "Surmodics, Inc.",
         "domain": "surmodics.com",
