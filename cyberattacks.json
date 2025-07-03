@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-07-01",
+        "victim": "Max Financial Services",
+        "domain": "maxfinancialservices.com",
+        "country": "IND",
+        "summary": "Max Financial Services a signalé une menace cybernétique dans sa filiale Axis Max Life Insurance, où un expéditeur anonyme a signalé un accès non autorisé à certaines données client. L'entreprise a initié une évaluation de la sécurité et une analyse des journaux de données. Une enquête détaillée est également en cours pour déterminer la cause racine de l'incident et prendre des mesures correctives si nécessaire.",
+        "title": "India's Max Financial reports cyber threat at unit",
+        "url": "https://www.reuters.com/world/india/indias-max-financial-reports-cyber-threat-unit-2025-07-02/",
+        "added": "2025-07-03"
+    },
+    {
         "date": "2025-07-01",
         "victim": "C&M Software",
         "domain": "cmsw.com",
