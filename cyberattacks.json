@@ -1,5 +1,15 @@
 [
     {
+        "date": "2025-06-05",
+        "victim": "Surmodics, Inc.",
+        "domain": "surmodics.com",
+        "country": "USA",
+        "summary": "Surmodics, Inc. a signalé une faille de sécurité dans ses systèmes d'information, une attaque par un acteur malveillant a eu lieu le 5 juin 2025, les systèmes critiques ont été restaurés et les données sont en cours de validation, l'entreprise a pris des mesures pour contenir l'incident et a informé les autorités.",
+        "title": "FORM 8-K",
+        "url": "https://www.sec.gov/Archives/edgar/data/924717/000095017025092526/srdx-20250605.htm",
+        "added": "2025-07-03"
+    },
+    {
         "date": "2025-04-29",
         "victim": "North Yarmouth Academy",
         "domain": "nya.org",
