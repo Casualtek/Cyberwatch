@@ -1,5 +1,40 @@
 [
     {
+        "victim": "Merlin Industries",
+        "domain": "merlinindustries.com",
+        "country": "US",
+        "date": "2025-06-22",
+        "group": "play"
+    },
+    {
+        "victim": "Carter Manufacturing",
+        "domain": "carterbearings.com",
+        "country": "US",
+        "date": "2025-06-24",
+        "group": "play"
+    },
+    {
+        "victim": "Emtech Inc",
+        "domain": "em-techinc.com",
+        "country": "US",
+        "date": "2025-06-24",
+        "group": "play"
+    },
+    {
+        "victim": "Islington Golf Club",
+        "domain": "islingtongolfclub.com",
+        "country": "CA",
+        "date": "2025-06-20",
+        "group": "play"
+    },
+    {
+        "victim": "Sunrise Springs Spa Resort",
+        "domain": "ojosparesorts.com",
+        "country": "US",
+        "date": "2025-06-19",
+        "group": "play"
+    },
+    {
         "victim": "Keystone Shipping",
         "domain": "keyship.com",
         "country": "US",
