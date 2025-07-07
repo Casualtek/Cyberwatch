@@ -1,5 +1,15 @@
 [
     {
+        "date": "2025-07-01",
+        "victim": "Hôpital de Nymburk",
+        "domain": "nemnbk.cz",
+        "country": "CZE",
+        "summary": "L'hôpital de Nymburk a subi une cyberattaque massive qui a perturbé ses systèmes informatiques, obligeant le personnel à effectuer des processus numériques manuellement. Les examens radiographiques et CT-scan ont déjà été remis en service, mais le retour à un fonctionnement normal prendra plusieurs jours. Les techniciens informatiques travaillent à la restauration des systèmes pour rétablir un fonctionnement standard dans les prochains jours.",
+        "title": "L’hôpital de Nymburk fortement perturbé par une cyberattaque",
+        "url": "https://francais.radio.cz/lhopital-de-nymburk-fortement-perturbe-par-une-cyberattaque-8855698",
+        "added": "2025-07-07"
+    },
+    {
         "date": "2025-07-03",
         "victim": "Brisbane Entertainment Centre",
         "domain": "brisent.com.au",
