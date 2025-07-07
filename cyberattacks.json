@@ -1,5 +1,15 @@
 [
     {
+        "date": "2025-06-26",
+        "victim": "All Choice Rentals",
+        "domain": "allchoice.ca",
+        "country": "CAN",
+        "summary": "Le 26 juin 2025, All Choice Rentals Ltd. a subi une attaque par ransomware affectant une partie de son réseau interne, rapidement contenue par l'équipe informatique avec l’aide d’experts en cybersécurité. Les systèmes ont été restaurés à partir de sauvegardes sécurisées, et les opérations de location fonctionnent normalement, bien que des données clients puissent avoir été consultées. L’entreprise poursuit son enquête, reste transparente, et contactera les personnes concernées tout en renforçant ses mesures de cybersécurité.",
+        "title": "All Choice Rentals Ltd. Responds to Ransomware Incident",
+        "url": "https://www.facebook.com/allchoicerentals/posts/pfbid02QmiLkzyxKaAju7a9SbRGELFwtM6uEvzBnVdVGhvMXKhtXZ1H9gHSLzip27BG9ds2l",
+        "added": "2025-07-07"
+    },
+    {
         "date": "2025-07-01",
         "victim": "Hôpital de Nymburk",
         "domain": "nemnbk.cz",
