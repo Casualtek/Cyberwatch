@@ -1,5 +1,15 @@
 [
     {
+        "date": "2025-07-04",
+        "victim": "Extend AS",
+        "domain": "extend.no",
+        "country": "NOR",
+        "summary": "Extend AS, fournisseur du système de qualité EQS pour la commune de Drammen, a subi une attaque de données, entraînant la fuite de données non sensibles. L'incident a été signalé à l'autorité de contrôle des données et à la police. Les conséquences pour les employés et les habitants de la commune devraient être minimes.",
+        "title": "Dataangrep mot leverandør",
+        "url": "https://www.drammen.kommune.no/om-kommunen/aktuelt/dataangrep-mot-leverandor/",
+        "added": "2025-07-08"
+    },
+    {
         "date": "2024-06-23",
         "victim": "Bitcoin Depot, Inc.",
         "domain": "www.bitcoindepot.com",
