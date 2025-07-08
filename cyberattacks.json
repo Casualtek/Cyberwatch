@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-06-23",
+        "victim": "Bitcoin Depot, Inc.",
+        "domain": "www.bitcoindepot.com",
+        "country": "USA",
+        "summary": "Bitcoin Depot, Inc. detected unusual activity on its information systems and identified a data security incident that may have impacted some of its customers' personal information. The incident involved customers' names, phone numbers, driver's license numbers, and potentially addresses, dates of birth, and/or email addresses. Bitcoin Depot is cooperating with law enforcement and has taken steps to prevent a reoccurrence.",
+        "title": "Data Breach Notification",
+        "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/57c3f5ca-09ce-411d-b3ec-94d153f4920d.html",
+        "added": "2025-07-08"
+    },
+    {
         "date": "2024-08-08",
         "victim": "Northwestern Community Services Board",
         "domain": "nwcsb.com",
