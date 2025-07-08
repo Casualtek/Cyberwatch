@@ -1,5 +1,15 @@
 [
     {
+        "date": "2025-03-07",
+        "victim": "IES Communications, LLC (COMM)",
+        "domain": "iescomm.com",
+        "country": "USA",
+        "summary": "IES Communications, LLC suffered a cybersecurity incident involving a cyber threat actor attempting to deploy ransomware and gain unauthorized access to files containing personal information. The incident was discovered on March 17, 2025, and an investigation is ongoing to determine the full scope of the incident. No actual or attempted misuse of personal information has been reported.",
+        "title": "Data Breach Notification",
+        "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/4587bc37-1195-40be-a811-bf0b776e422a.html",
+        "added": "2025-07-08"
+    },
+    {
         "date": "2025-07-07",
         "victim": "AzureWave Technologies, Inc.",
         "domain": "azurewave.com",
