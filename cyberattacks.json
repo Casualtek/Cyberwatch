@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-08-08",
+        "victim": "Northwestern Community Services Board",
+        "domain": "nwcsb.com",
+        "country": "USA",
+        "summary": "Northwestern Community Services Board suffered a data breach, prompting the organization to offer credit monitoring services to affected individuals. The breach led to the potential misuse of personal information. Affected individuals are advised to enroll in credit monitoring services and review their credit reports for suspicious activity.",
+        "title": "Data Breach Notification",
+        "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/20276fc8-efca-4643-9a0e-271b060eca60.html",
+        "added": "2025-07-08"
+    },
+    {
         "date": "2025-03-07",
         "victim": "IES Communications, LLC (COMM)",
         "domain": "iescomm.com",
