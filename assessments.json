@@ -1,5 +1,19 @@
 [
     {
+        "victim": "Budget Electric",
+        "domain": "budget-e.com",
+        "country": "US",
+        "date": "2025-06-26",
+        "group": "play"
+    },
+    {
+        "victim": "Associated Packaging",
+        "domain": "associatedpackaging.com",
+        "country": "US",
+        "date": "2025-06-16",
+        "group": "play"
+    },
+    {
         "victim": "JFC Electric",
         "domain": "jfclectric.com",
         "country": "US",
