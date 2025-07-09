@@ -1,5 +1,12 @@
 [
     {
+        "victim": "caredig.co.uk",
+        "domain": "caredig.co.uk",
+        "country": "GB",
+        "date": "2025-05-27",
+        "group": "safepay"
+    },
+    {
         "victim": "LTL",
         "domain": "ltlevante.com",
         "country": "ES",
