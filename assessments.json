@@ -1,8 +1,15 @@
 [
     {
+        "victim": "awo-giessen.org",
+        "domain": "awo-giessen.org",
+        "country": "DE",
+        "date": "2025-04-27",
+        "group": "safepay"
+    },
+    {
         "victim": "codesco.com",
         "domain": "codesco.com",
-        "country": "GB",
+        "country": "DE",
         "date": "2025-01-20",
         "group": "safepay"
     },
