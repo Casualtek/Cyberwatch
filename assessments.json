@@ -1,5 +1,12 @@
 [
     {
+        "victim": "lewis-manning.org.uk",
+        "domain": "lewis-manning.org.uk",
+        "country": "GB",
+        "date": "2025-05-24",
+        "group": "safepay"
+    },
+    {
         "victim": "wmat.nsn.us",
         "domain": "wmat.nsn.us",
         "country": "US",
