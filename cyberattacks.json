@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-12-22",
+        "victim": "HEXPOL Holding Inc.",
+        "domain": "hexpol.com",
+        "country": "USA",
+        "summary": "Le 22 décembre 2024, HEXPOL a détecté un accès non autorisé à son réseau informatique. L'entreprise a immédiatement sécurisé ses systèmes, lancé une enquête avec des experts en cybersécurité, et mené une analyse approfondie des fichiers potentiellement compromis. Le 25 juin 2025, il a été confirmé que certaines informations personnelles avaient été copiées lors de l’incident.",
+        "title": "Data Breach Notification",
+        "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/544819e6-e3d0-4266-a965-a6caaba7af60.html",
+        "added": "2025-07-09"
+    },
+    {
         "date": "2025-07-02",
         "victim": "The Morton Forum",
         "domain": "themortonforum.com",
