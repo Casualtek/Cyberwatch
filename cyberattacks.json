@@ -1,5 +1,35 @@
 [
     {
+        "date": "2025-04-07",
+        "victim": "McLaughlin & Stern, LLP",
+        "domain": "mclaughlinstern.com",
+        "country": "USA",
+        "summary": "McLaughlin & Stern, LLP suffered a data breach where an unknown actor copied and/or downloaded certain data on April 7, 2025. The firm quickly secured its system and conducted a comprehensive review of the data. The breach involved the copying of personal information, including names.",
+        "title": "2025-07-03 McLaughlin Stern Data Breach Notice to Consumers",
+        "url": "https://ago.vermont.gov/document/2025-07-03-mclaughlin-stern-data-breach-notice-consumers",
+        "added": "2025-07-09"
+    },
+    {
+        "date": "2025-05-02",
+        "victim": "Carney Badley Spellman, PS",
+        "domain": "carneybadleyspellman.com",
+        "country": "USA",
+        "summary": "Carney Badley Spellman, PS experienced a data security incident where personal information of certain individuals was potentially accessed without authorization. The incident occurred on May 19, 2025, after suspicious activity was first detected on May 2, 2025. The organization has offered complimentary identity protection services to affected individuals.",
+        "title": "2025-07-03 Carney Badley Spellman Data Breach Notice to Consumers",
+        "url": "https://ago.vermont.gov/document/2025-07-03-carney-badley-spellman-data-breach-notice-consumers",
+        "added": "2025-07-09"
+    },
+    {
+        "date": "2025-03-18",
+        "victim": "Hardman Johnston Global Advisors LLC",
+        "domain": "hardmanjohnstonglobaladvisors.com",
+        "country": "USA",
+        "summary": "Hardman Johnston Global Advisors LLC suffered a data breach where an unauthorized third party accessed certain systems and exfiltrated data, potentially impacting personal information. The incident was discovered on March 18, 2025, and the company has taken measures to contain and investigate the breach. The company is offering credit monitoring and identity theft restoration services to affected individuals.",
+        "title": "2025-07-02 Hardman Johnston Global Advisors Data Breach Notice to Consumers",
+        "url": "https://ago.vermont.gov/document/2025-07-02-hardman-johnston-global-advisors-data-breach-notice-consumers",
+        "added": "2025-07-09"
+    },
+    {
         "date": "2024-12-22",
         "victim": "HEXPOL Holding Inc.",
         "domain": "hexpol.com",
