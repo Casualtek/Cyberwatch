@@ -1,5 +1,12 @@
 [
     {
+        "victim": "codesco.com",
+        "domain": "codesco.com",
+        "country": "GB",
+        "date": "2025-01-20",
+        "group": "safepay"
+    },
+    {
         "victim": "bristolhose.com",
         "domain": "bristolhose.com",
         "country": "GB",
