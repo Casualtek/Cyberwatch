@@ -1,5 +1,12 @@
 [
     {
+        "victim": "MCCN.org",
+        "domain": "mccn.org",
+        "country": "US",
+        "date": "2025-06-06",
+        "group": "safepay"
+    },
+    {
         "victim": "dossenterprises.com",
         "domain": "dossenterprises.com",
         "country": "US",
