@@ -1,5 +1,15 @@
 [
     {
+        "date": "2025-07-08",
+        "victim": "Ameos",
+        "domain": "ameos.eu",
+        "country": "DEU",
+        "summary": "Le groupe hospitalier Ameos a été victime d'une attaque informatique, ce qui a entraîné la fermeture de ses systèmes numériques. Les hôpitaux de Mecklenburg-Vorpommern ont été touchés, avec des perturbations du trafic électronique et des services numériques. Les systèmes sont désormais de nouveau en fonctionnement.",
+        "title": "Hackerangriff auf IT-Systeme an den Ameos-Kliniken",
+        "url": "https://www.ndr.de/nachrichten/mecklenburg-vorpommern/hackerangriff-auf-it-systeme-an-ameos-kliniken,ameoskliniken-100.html",
+        "added": "2025-07-09"
+    },
+    {
         "date": "2025-04-07",
         "victim": "McLaughlin & Stern, LLP",
         "domain": "mclaughlinstern.com",
