@@ -1,8 +1,15 @@
 [
     {
+        "victim": "lafayettefamilyymca.org",
+        "domain": "lafayettefamilyymca.org",
+        "country": "US",
+        "date": "2025-06-17",
+        "group": "safepay"
+    },
+    {
         "victim": "silverdalebc.com",
         "domain": "silverdalebc.com",
-        "country": "CA",
+        "country": "US",
         "date": "2025-05-16",
         "group": "safepay"
     },
