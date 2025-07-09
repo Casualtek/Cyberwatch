@@ -1,5 +1,12 @@
 [
     {
+        "victim": "dossenterprises.com",
+        "domain": "dossenterprises.com",
+        "country": "US",
+        "date": "2025-06-06",
+        "group": "safepay"
+    },
+    {
         "victim": "lafayettefamilyymca.org",
         "domain": "lafayettefamilyymca.org",
         "country": "US",
