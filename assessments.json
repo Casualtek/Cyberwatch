@@ -1,5 +1,12 @@
 [
     {
+        "victim": "wmat.nsn.us",
+        "domain": "wmat.nsn.us",
+        "country": "US",
+        "date": "2025-05-27",
+        "group": "safepay"
+    },
+    {
         "victim": "cascobay.org",
         "domain": "cascobay.org",
         "country": "US",
