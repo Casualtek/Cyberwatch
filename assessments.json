@@ -1,5 +1,12 @@
 [
     {
+        "victim": "cascobay.org",
+        "domain": "cascobay.org",
+        "country": "US",
+        "date": "2025-05-19",
+        "group": "safepay"
+    },
+    {
         "victim": "profile-ind.com",
         "domain": "profile-ind.com",
         "country": "US",
