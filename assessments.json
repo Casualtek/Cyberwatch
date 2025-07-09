@@ -1,5 +1,12 @@
 [
     {
+        "victim": "relucent.com",
+        "domain": "relucent.com",
+        "country": "US",
+        "date": "2025-05-17",
+        "group": "safepay"
+    },
+    {
         "victim": "caredig.co.uk",
         "domain": "caredig.co.uk",
         "country": "GB",
