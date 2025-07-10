@@ -1,5 +1,15 @@
 [
     {
+        "date": "2025-03-07",
+        "victim": "NS Solutions",
+        "domain": "nssol.nipponsteel.com",
+        "country": "JPN",
+        "summary": "Nippon Steel Solutions a été victime d'une attaque informatique, basée sur l'exploitation d'une vulnérabilité 0-day.",
+        "title": "ä¸æ£ã¢ã¯ã»ã¹ã«ããæ å ±æ¼æ´©ã®å¯è½æ§ã«é¢ãããè©«ã³ã¨ãç¥ããï½ãã¬ã¹ã«ã¼ã ï½æ¥éã½ãªã¥ã¼ã·ã§ã³ãº",
+        "url": "https://www.nssol.nipponsteel.com/press/2025/20250708_160000.html",
+        "added": "2025-07-10"
+    },
+    {
         "date": "2025-07-04",
         "victim": "CNFPT",
         "domain": "cnfpt.fr",
