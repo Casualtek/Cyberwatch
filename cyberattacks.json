@@ -1,5 +1,25 @@
 [
     {
+        "date": "2024-12-28",
+        "victim": "Saint Andrew’s School of Boca Raton Inc.",
+        "domain": "saintandrews.net",
+        "country": "USA",
+        "summary": "Saint Andrew’s School of Boca Raton Inc. experienced a security incident that resulted in unauthorized access to personnel records, potentially exposing personal information of current and former employees, their dependents, and/or beneficiaries.",
+        "title": "2025-07-08 Saint Andrew’s School of Baton Raton Data Breach Notice to Consumers",
+        "url": "https://ago.vermont.gov/document/2025-07-08-saint-andrews-school-baton-raton-data-breach-notice-consumers",
+        "added": "2025-07-10"
+    },
+    {
+        "date": "2024-11-22",
+        "victim": "Artivion, Inc.",
+        "domain": "artivion.com",
+        "country": "USA",
+        "summary": "Artivion, Inc. suffered a security incident involving unauthorized access to its network, resulting in the potential exposure of sensitive information for three Maine residents. The incident occurred between November 20 and November 21, 2024. Artivion is offering complimentary credit monitoring and identity protection services to affected individuals.",
+        "title": "Data Breach Notification",
+        "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/e7d941c6-ad5d-4497-a0b2-75e54730e9f5.html",
+        "added": "2025-07-10"
+    },
+    {
         "date": "2025-05-06",
         "victim": "EIZO Rugged Solutions, Inc.",
         "domain": "eizorugged.com",
