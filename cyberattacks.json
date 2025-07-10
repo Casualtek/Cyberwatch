@@ -1,5 +1,15 @@
 [
     {
+        "date": "2025-07-04",
+        "victim": "CNFPT",
+        "domain": "cnfpt.fr",
+        "country": "FRA",
+        "summary": "Le CNFPT a été victime d’une cyberattaque le 4 juillet 2025, visant la plateforme des intervenants et permettant de dérober des documents. La plateforme a été désactivée et une enquête est en cours pour déterminer la nature des données personnelles dérobées. Le CNFPT a contacté les intervenants pour les informer de la situation et a mis en place une cellule et une boîte mail dédiées pour répondre à leurs questions.",
+        "title": "Le CNFPT, victime d’une cyberattaque, mène des investigations sur \"la...",
+        "url": "https://www.aefinfo.fr/depeche/734731-le-cnfpt-victime-d-une-cyberattaque-mene-des-investigations-sur-la-nature-des-donnees-personnelles-derobees",
+        "added": "2025-07-10"
+    },
+    {
         "date": "2025-07-08",
         "victim": "Ameos",
         "domain": "ameos.eu",
