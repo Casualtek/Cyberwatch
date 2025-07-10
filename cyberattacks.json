@@ -1,5 +1,15 @@
 [
     {
+        "date": "2025-05-20",
+        "victim": "Bruckner's Truck & Equipment",
+        "domain": "brucknertruck.com",
+        "country": "USA",
+        "summary": "Bruckner's of Amarillo suffered a data breach due to a brute force attack on their database, which compromised personal information of current and former employees. The breach was discovered on May 21, 2025, and the bad actor's access was eliminated the same day. The compromised information includes names, Social Security Numbers, and other sensitive data. The attack was claimed by Qilin on June 5th.",
+        "title": "Data Breach Notification",
+        "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/2a93b6a1-7f1c-4ed2-969d-189dfeb5b0bb.html",
+        "added": "2025-07-10"
+    },
+    {
         "date": "2025-03-07",
         "victim": "NS Solutions",
         "domain": "nssol.nipponsteel.com",
