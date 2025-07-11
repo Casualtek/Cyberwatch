@@ -1,6 +1,16 @@
 [
     {
         "date": "2025-07-10",
+        "victim": "Wibaie",
+        "domain": "wibaie.fr",
+        "country": "FRA",
+        "summary": "L'entreprise Wibaie à Cholet a subi une cyberattaque dans la nuit du 9 au 10 juillet 2025, ce qui a entraîné l'arrêt total de l'usine. L'entreprise, qui fait partie du Groupe Liébot, travaille avec des experts pour résoudre le problème. Environ 600 salariés sont actuellement immobilisés en raison de cette cyberattaque.",
+        "title": "Une cyberattaque paralyse cette grande entreprise de Maine-et-Loire : l’usine à l’arrêt",
+        "url": "https://www.ouest-france.fr/societe/cyberattaque/une-cyberattaque-paralyse-cette-grande-entreprise-de-maine-et-loire-lusine-a-larret-26bd3bf4-5da1-11f0-a0c4-7d0511e82e11",
+        "added": "2025-07-11"
+    },
+    {
+        "date": "2025-07-10",
         "victim": "Nueva EPS",
         "domain": "nuevaeps.com.co",
         "country": "COL",
