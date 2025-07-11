@@ -1,5 +1,15 @@
 [
     {
+        "date": "2025-06-29",
+        "victim": "Instituto de Salud Pública (ISP)",
+        "domain": "ispch.gob.cl",
+        "country": "CHL",
+        "summary": "Un ataque cibernético au Instituto de Salud Pública a eu lieu, paralysant certaines fonctions clés et réactivant les inquiétudes sur la fragilité technologique de l'État. Les services ont été rétablis, mais l'enquête est toujours en cours pour identifier les responsables. L'incident a eu un impact sur les entreprises privées, notamment en ce qui concerne les processus de réglementation et de commercialisation de produits.",
+        "title": "ATAQUE CIBERNÉTICO AL INSTITUTO DE SALUD PÚBLICA: 12 DÍAS DE PARÁLISIS Y PREOCUPACIÓN POR LA FRAGILIDAD TECNOLÓGICA DEL ESTADO - Vilas Radio",
+        "url": "https://vilasradio.cl/ataque-cibernetico-al-instituto-de-salud-publica-12-dias-de-paralisis-y-preocupacion-por-la-fragilidad-tecnologica-del-estado/",
+        "added": "2025-07-11"
+    },
+    {
         "date": "2025-07-10",
         "victim": "Wibaie",
         "domain": "wibaie.fr",
