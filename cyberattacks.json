@@ -1,5 +1,15 @@
 [
     {
+        "date": "2025-07-11",
+        "victim": "Nottingham Trent University",
+        "domain": "ntu.ac.uk",
+        "country": "GBR",
+        "summary": "Nottingham Trent University a été victime d'une attaque cybernétique qui a touché un petit nombre de serveurs, mais les opérations de l'université ont continué normalement. Les mots de passe de tous les comptes des employés et des étudiants ont été réinitialisés. L'université a travaillé pour atténuer l'impact de l'incident et a remercié sa communauté pour sa réactivité et sa vigilance.",
+        "title": "University hit by cyber attack as it resets everyone's passwords",
+        "url": "https://www.nottinghampost.com/news/nottingham-news/nottingham-trent-university-hit-cyber-10339991",
+        "added": "2025-07-15"
+    },
+    {
         "date": "2025-05-13",
         "victim": "Anne Arundel Dermatology",
         "domain": "aadermatology.com",
