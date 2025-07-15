@@ -1,5 +1,15 @@
 [
     {
+        "date": "2025-07-13",
+        "victim": "Cookeville Regional Medical Center",
+        "domain": "crmchealth.org",
+        "country": "USA",
+        "summary": "Le Cookeville Regional Medical Center a découvert une faille de sécurité dans son réseau, une partie non autorisée a eu accès au réseau de l'hôpital, mais les soins aux patients restent la priorité absolue. L'hôpital continue de fonctionner normalement et les investigations sont en cours. La sécurité des patients est assurée en dépit de la coupure d'internet. (via eCrime.ch)",
+        "title": "CRMC experiencing a network security incident - UCBJ - Upper Cumberland Business Journal",
+        "url": "https://www.ucbjournal.com/crmc-experiencing-a-network-security-incident/",
+        "added": "2025-07-15"
+    },
+    {
         "date": "2025-07-09",
         "victim": "DITTT",
         "domain": "dittt.gouv.nc",
