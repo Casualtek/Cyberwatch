@@ -1,6 +1,16 @@
 [
     {
         "date": "2025-07-13",
+        "victim": "Millcreek Township",
+        "domain": "millcreektownship.com",
+        "country": "USA",
+        "summary": "Le canton de Millcreek a bloqué une attaque informatique survenu le week-end, sans affecter les services. Les fonctionnaires ont détecté et contrecarré la menace, et aucun dommage n'a été causé. Le canton a mis en place des mesures de sécurité supplémentaires pour prévenir de futures menaces.",
+        "title": "Millcreek Township Blocks Weekend Cyberattack, No Services Affected",
+        "url": "https://www.erienewsnow.com/story/52921550/millcreek-township-blocks-weekend-cyberattack-no-services-affected",
+        "added": "2025-07-15"
+    },
+    {
+        "date": "2025-07-13",
         "victim": "Cookeville Regional Medical Center",
         "domain": "crmchealth.org",
         "country": "USA",
