@@ -1,6 +1,16 @@
 [
     {
         "date": "2025-07-13",
+        "victim": "Uni-Asia Group Limited",
+        "domain": "uni-asia.com",
+        "country": "SGN",
+        "summary": "Le groupe Uni-Asia a signalé un incident de cybersécurité au sein d’une de ses entités, dont le serveur informatique a été piraté, empêchant l’accès aux données qu’il contient. Les fonctions informatiques étant externalisées, le groupe collabore actuellement avec son prestataire pour contenir l'incident, évaluer son impact et rétablir l’accès aux données. L’enquête est en cours, et la société communiquera de nouvelles informations en cas d’évolution significative.",
+        "title": "Cybersecurity Incident",
+        "url": "https://uniasia.listedcompany.com/newsroom/20250714_193655_CHJ_MU5LLAOUPRNTL538.1.pdf",
+        "added": "2025-07-15"
+    },
+    {
+        "date": "2025-07-13",
         "victim": "Millcreek Township",
         "domain": "millcreektownship.com",
         "country": "USA",
