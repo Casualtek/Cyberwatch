@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-05-16",
+        "victim": "Dordt University",
+        "domain": "dordt.edu",
+        "country": "USA",
+        "summary": "Dordt University suffered a data security incident due to a sophisticated cybersecurity incident, resulting in unauthorized access to its network and potential exposure of personal information between April 21, 2024, and May 16, 2024. The attack had been claimed by BianLian on June 13th, 2024.",
+        "title": "Data Breach Notification",
+        "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/fbad33e9-bb5e-47d9-a1d6-9356d9ff6e43.html",
+        "added": "2025-07-12"
+    },
+    {
         "date": "2025-06-29",
         "victim": "Instituto de Salud Pública (ISP)",
         "domain": "ispch.gob.cl",
