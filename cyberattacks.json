@@ -1,5 +1,15 @@
 [
     {
+        "date": "2025-07-09",
+        "victim": "DITTT",
+        "domain": "dittt.gouv.nc",
+        "country": "NCL",
+        "summary": "La DITTT a été victime d'une cyberattaque visant les données relatives aux immatriculations et aux permis de conduire. L'ampleur de l'attaque est en cours d'évaluation. Une enquête a été ouverte pour déterminer l'origine exacte de l'attaque et renforcer les dispositifs de sécurité existants.",
+        "title": "Les données de la DITTT visées par une cyberattaque",
+        "url": "https://www.lnc.nc/article/nouvelle-caledonie/les-donnees-de-la-dittt-visees-par-une-cyberattaque",
+        "added": "2025-07-15"
+    },
+    {
         "date": "2025-07-11",
         "victim": "Nottingham Trent University",
         "domain": "ntu.ac.uk",
