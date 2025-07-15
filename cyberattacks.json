@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-09-15",
+        "victim": "Webb Institute",
+        "domain": "webb.edu",
+        "country": "USA",
+        "summary": "Webb Institute suffered a criminal cyberattack that may have accessed personally identifiable information (PII) of certain individuals. The incident occurred on or about September 15, 2024, and was discovered on May 23, 2025. The school is offering complimentary access to Experian IdentityWorks for 6 months to help protect affected individuals.",
+        "title": "Data Breach Notification",
+        "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/1523a138-eee1-435d-8cab-2964c32de79e.html",
+        "added": "2025-07-15"
+    },
+    {
         "date": "2025-02-25",
         "victim": "Genex Services, LLC",
         "domain": "genexservices.com",
