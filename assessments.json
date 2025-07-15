@@ -1,5 +1,12 @@
 [
     {
+        "victim": "nod.ro",
+        "domain": "nod.ro",
+        "country": "RO",
+        "date": "2025-05-29",
+        "group": "safepay"
+    },
+    {
         "victim": "C B King Memorial School(branch)",
         "domain": "cbkingmemorial.com",
         "country": "US",
