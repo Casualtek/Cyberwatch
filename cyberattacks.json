@@ -1,5 +1,15 @@
 [
     {
+        "date": "2025-02-25",
+        "victim": "Genex Services, LLC",
+        "domain": "genexservices.com",
+        "country": "USA",
+        "summary": "Genex Services, LLC experienced a data security incident due to a phishing attack that compromised the laptops of two employees, potentially affecting personal information. The incident was discovered on February 25, 2025. Genex is notifying all individuals whose information was potentially impacted.",
+        "title": "2025-07-10 Genex Services Data Breach Notice to Consumers",
+        "url": "https://ago.vermont.gov/document/2025-07-10-genex-services-data-breach-notice-consumers",
+        "added": "2025-07-12"
+    },
+    {
         "date": "2024-05-16",
         "victim": "Dordt University",
         "domain": "dordt.edu",
