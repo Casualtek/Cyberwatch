@@ -1,5 +1,15 @@
 [
     {
+        "date": "2022-11-28",
+        "victim": "DotHouse Health",
+        "domain": "dothousehealth.org",
+        "country": "USA",
+        "summary": "DotHouse Health experienced a data breach due to suspicious activity on their computer systems, potentially impacting patient information. The breach occurred between October 31, 2022, and November 27, 2022. It was claimed under the Alphv/BlackCat brand on July 26th, 2023.",
+        "title": "2025-07-14 DotHouse Health Data Breach Notice to Consumers",
+        "url": "https://ago.vermont.gov/document/2025-07-14-dothouse-health-data-breach-notice-consumers",
+        "added": "2025-07-16"
+    },
+    {
         "date": "2025-04-10",
         "victim": "Appalachian Regional Commission",
         "domain": "arc.gov",
