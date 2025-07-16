@@ -1,5 +1,15 @@
 [
     {
+        "date": "2025-07-04",
+        "victim": "Air Serbia",
+        "domain": "airserbia.com",
+        "country": "SRB",
+        "summary": "Air Serbia, la compagnie aérienne nationale de Serbie, est victime d'une cyberattaque qui a commencé le 4 juillet et qui a déjà duré 11 jours, entraînant des retards dans la distribution des bulletins de paie du personnel. L'attaque a compromis l'annuaire actif de l'entreprise et pourrait avoir entraîné une faille de sécurité dans les données personnelles. Le personnel de l'entreprise a été invité à coopérer avec l'équipe IT pour résoudre le problème.",
+        "title": "Air Serbia delays staff payslips due to ongoing cyberattack",
+        "url": "https://www.theregister.com/2025/07/16/air_serbia_cyberattack/",
+        "added": "2025-07-16"
+    },
+    {
         "date": "2022-11-28",
         "victim": "DotHouse Health",
         "domain": "dothousehealth.org",
