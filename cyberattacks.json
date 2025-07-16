@@ -1,5 +1,15 @@
 [
     {
+        "date": "2025-01-29",
+        "victim": "American Consumer Credit Counseling, Inc. (âACCCâ)",
+        "domain": "consumercredit.com",
+        "country": "USA",
+        "summary": "Unauthorized access to some of ACCC's systems occurred on January 29, 2025, resulting in the acquisition of personal information, including names and financial account numbers. The breach affected 94 Maine residents. ACCC has taken steps to enhance the security of its computer network.",
+        "title": "Data Breach Notification",
+        "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/eff61f6b-6d9e-470c-847e-5ba4d62f7b8e.html",
+        "added": "2025-07-16"
+    },
+    {
         "date": "2025-02-25",
         "victim": "All Star Recruiting Locums, LLC",
         "domain": "allstarhealthcaresolutions.com",
