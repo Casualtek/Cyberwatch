@@ -1,5 +1,15 @@
 [
     {
+        "date": "2025-04-10",
+        "victim": "Appalachian Regional Commission",
+        "domain": "arc.gov",
+        "country": "USA",
+        "summary": "The Appalachian Regional Commission (ARC) suffered a data security incident involving malware deployment on certain systems, resulting in unauthorized access to personal information. The incident occurred on April 10, 2025, and was discovered on the same date. It was claimed under the Medusa brand on April 27th.",
+        "title": "Data Breach Notification",
+        "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/92432803-595d-4344-adcb-727e9eff6573.html",
+        "added": "2025-07-16"
+    },
+    {
         "date": "2025-05-28",
         "victim": "Belvedere",
         "domain": "cityofbelvedere.org",
