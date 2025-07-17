@@ -1,5 +1,15 @@
 [
     {
+        "date": "2025-06-23",
+        "victim": "United Australia Party",
+        "domain": "unitedaustraliaparty.org.au",
+        "country": "AUS",
+        "summary": "Le parti politique australien United Australia Party a subi une attaque de ransomware le 23 juin 2025, ce qui a entraîné une violation de données potentiellement importante. Le parti n'est pas en mesure de confirmer quelles données ont été compromises, mais il avertit que les informations personnelles de ses membres pourraient avoir été exposées. Le parti a notifié les autorités compétentes et a présenté ses excuses pour l'incident.",
+        "title": "UAP confirms ransomware attack, personal data and email correspondence exposed",
+        "url": "https://www.cyberdaily.au/security/12393-uap-confirms-ransomware-attack-personal-data-and-email-correspondence-exposed",
+        "added": "2025-07-17"
+    },
+    {
         "date": "2025-07-16",
         "victim": "Delfingen",
         "domain": "delfingen.com",
