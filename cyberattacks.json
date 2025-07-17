@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-10-23",
+        "victim": "LaBovick Law Group",
+        "domain": "labovick.com",
+        "country": "USA",
+        "summary": "LaBovick Law Group suffered a ransomware attack, resulting in the exfiltration of client data, including personal information. The attack occurred between October 7, 2024, and October 23, 2024. The law firm paid the ransom on November 12th.",
+        "title": "Data Breach Notification",
+        "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/9cf8bea2-c7d2-4466-884b-f1e6219acca7.html",
+        "added": "2025-07-17"
+    },
+    {
         "date": "2025-07-13",
         "victim": "Seoul Guarantee Insurance (SGI)",
         "domain": "sgi.co.kr",
