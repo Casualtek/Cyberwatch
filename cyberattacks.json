@@ -1,6 +1,16 @@
 [
     {
         "date": "2025-07-18",
+        "victim": "M&L Smarter Solutions AG",
+        "domain": "mlconsult.com",
+        "country": "DEU",
+        "summary": "Vodafone a connu des problèmes de vente en raison d'une attaque informatique sur un fournisseur de services, ce qui a entraîné la perte d'accès à l'outil de vente Vodafone Sales World. Les données de vente ne sont plus accessibles et Vodafone échange désormais des informations avec ses partenaires de vente par e-mail et WhatsApp. L'entreprise a informé les autorités compétentes et n'a pas encore constaté de fuite de données personnelles des clients.",
+        "title": "Vodafone-Vertrieb durch Cyberangriff auf Dienstleister beeinträchtigt",
+        "url": "https://www.borncity.com/blog/2025/07/18/vodafone-vertrieb-durch-cyberangriff-auf-dienstleister-beeintraechtigt/",
+        "added": "2025-07-18"
+    },
+    {
+        "date": "2025-07-18",
         "victim": "Susan B. Allen Memorial Hospital",
         "domain": "sbamh.com",
         "country": "USA",
