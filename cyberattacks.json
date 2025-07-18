@@ -1,5 +1,15 @@
 [
     {
+        "date": "2025-03-02",
+        "victim": "Conterra Ultra Broadband Holdings, Inc. d/b/a Conterra Networks",
+        "domain": "conterra.com",
+        "country": "USA",
+        "summary": "Conterra Networks suffered a data breach due to ransomware encryption of certain servers, potentially exposing sensitive information. The incident occurred between March 2 and March 12, 2025 and was claimed under the RansomHub brand on March 26th.",
+        "title": "Data Breach Notification",
+        "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/fd278b65-cf6a-47d8-89ac-e697fb6bbfc0.html",
+        "added": "2025-07-18"
+    },
+    {
         "date": "2025-07-14",
         "victim": "Novabev Group",
         "domain": "novabev.com",
