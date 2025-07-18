@@ -1,5 +1,25 @@
 [
     {
+        "date": "2025-02-09",
+        "victim": "Diller, Scofidio + Renfro, LLC",
+        "domain": "dsrny.com",
+        "country": "USA",
+        "summary": "Diller Scofidio + Renfro, LLC experienced a data security incident where an unknown actor acquired certain data without authorization on or about February 8, 2025. The incident occurred after a network disruption on February 9, 2025. The company is offering complimentary credit monitoring and identity theft protection services to affected individuals.",
+        "title": "Data Breach Notification",
+        "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/51421607-e3b2-4974-9768-fd938e231f87.html",
+        "added": "2025-07-18"
+    },
+    {
+        "date": "2024-07-04",
+        "victim": "The Alcohol & Drug Testing Service",
+        "domain": "tadts.net",
+        "country": "USA",
+        "summary": "The Alcohol & Drug Testing Service experienced a cybersecurity incident in July 2024 that potentially involved personal information. The incident occurred on July 9, 2024, and an unauthorized actor downloaded some of the company's data. The company has taken steps to strengthen its security and protect affected individuals.",
+        "title": "Data Breach Notification",
+        "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/e987c96e-5f4d-4312-9518-10d9ac360450.html",
+        "added": "2025-07-18"
+    },
+    {
         "date": "2025-03-02",
         "victim": "Conterra Ultra Broadband Holdings, Inc. d/b/a Conterra Networks",
         "domain": "conterra.com",
