@@ -1,6 +1,16 @@
 [
     {
         "date": "2025-07-18",
+        "victim": "Openbaar Ministerie",
+        "domain": "om.nl",
+        "country": "NLD",
+        "summary": "Le Openbaar Ministerie a fermé toutes les connexions internet après une menace de sécurité grave, les hackers ayant probablement exploité une vulnérabilité dans Citrix NetScaler. Les employés ne peuvent plus travailler à distance et les officiers de justice ont dû télécharger leurs documents avant les audiences. La situation est considérée comme grave, avec des preuves que la vulnérabilité a été exploitée.",
+        "title": "OM offline na Citrix-kwetsbaarheid: datalek niet uitgesloten",
+        "url": "https://www.techzine.nl/nieuws/security/567671/om-offline-na-citrix-kwetsbaarheid-datalek-niet-uitgesloten/",
+        "added": "2025-07-18"
+    },
+    {
+        "date": "2025-07-18",
         "victim": "M&L Smarter Solutions AG",
         "domain": "mlconsult.com",
         "country": "DEU",
