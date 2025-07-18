@@ -1,5 +1,15 @@
 [
     {
+        "date": "2025-07-14",
+        "victim": "Novabev Group",
+        "domain": "novabev.com",
+        "country": "RUS",
+        "summary": "Le groupe russe Novabev a été victime d'une cyberattaque sans précédent qui a perturbé temporairement une partie de son infrastructure informatique. Les attaquants ont demandé une rançon, mais l'entreprise a refusé de céder à leurs exigences. Les opérations de l'entreprise, notamment celles de sa filiale WineLab, ont été affectées, mais les données personnelles des clients ne semblent pas avoir été compromises.",
+        "title": "Russia’s Novabev Group hit by cyberattack",
+        "url": "https://www.just-drinks.com/news/novabev-group-hit-by-cyberattack/",
+        "added": "2025-07-18"
+    },
+    {
         "date": "2024-10-23",
         "victim": "LaBovick Law Group",
         "domain": "labovick.com",
