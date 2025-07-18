@@ -1,5 +1,15 @@
 [
     {
+        "date": "2025-07-18",
+        "victim": "Susan B. Allen Memorial Hospital",
+        "domain": "sbamh.com",
+        "country": "USA",
+        "summary": "Un hôpital du Kansas, le Susan B. Allen Memorial Hospital, a détecté une activité anormale dans son réseau, ce qui a entraîné une panne de système. Une équipe de cybersécurité a été appelée pour enquêter et aider à la récupération. Cette attaque potentielle s'inscrit dans une tendance croissante de cyberattaques visant les fournisseurs de soins de santé aux États-Unis.",
+        "title": "Cyberattack suspected at El Dorado hospital, part of growing trend targeting medical systems",
+        "url": "https://www.kwch.com/2025/07/18/cyberattack-suspected-el-dorado-hospital-part-growing-trend-targeting-medical-systems/",
+        "added": "2025-07-18"
+    },
+    {
         "date": "2025-02-09",
         "victim": "Diller, Scofidio + Renfro, LLC",
         "domain": "dsrny.com",
