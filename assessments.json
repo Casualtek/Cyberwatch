@@ -1,5 +1,12 @@
 [
     {
+        "victim": "ashland.k12.ma.us",
+        "domain": "ashland.k12.ma.us",
+        "country": "US",
+        "date": "2025-05-29",
+        "group": "safepay"
+    },
+    {
         "victim": "divgroup.eu",
         "domain": "divgroup.eu",
         "country": "SK",
