@@ -1,5 +1,12 @@
 [
     {
+        "victim": "norpak.com",
+        "domain": "norpak.com",
+        "country": "CA",
+        "date": "2025-06-30",
+        "group": "safepay"
+    },
+    {
         "victim": "ashland.k12.ma.us",
         "domain": "ashland.k12.ma.us",
         "country": "US",
