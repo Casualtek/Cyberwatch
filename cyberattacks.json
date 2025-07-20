@@ -1,5 +1,45 @@
 [
     {
+        "date": "2025-06-23",
+        "victim": "Birdsong Peanuts",
+        "domain": "birdsongpeanuts.com",
+        "country": "USA",
+        "summary": "Birdsong Peanuts suffered a data breach that exposed customers to identity theft and fraud. The breach occurred when customers were offered free credit monitoring services. The breach was discovered on an unknown date, but the notification was sent on 07/15/2025.",
+        "title": "Data Breach Notification",
+        "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/caf3d0da-c0da-4e82-92a0-8c43962790c8.html",
+        "added": "2025-07-19"
+    },
+    {
+        "date": "2024-04-13",
+        "victim": "Safe Fleet Holdings, LLC",
+        "domain": "safefleet.net",
+        "country": "USA",
+        "summary": "Safe Fleet Holdings, LLC experienced a data breach on April 13, 2024, where an unauthorized actor accessed certain systems and accessed or took personal information. The breach included names, addresses, Social Security numbers, and financial account information of Maine residents. Safe Fleet Holdings, LLC notified potentially affected individuals and offered credit monitoring and identity restoration services.",
+        "title": "Data Breach Notification",
+        "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/b7d82113-b9ab-4e33-94a5-b9b4bdddfed8.html",
+        "added": "2025-07-19"
+    },
+    {
+        "date": "2024-08-12",
+        "victim": "St. Lawrence Lewis Board of Cooperative Educational Services",
+        "domain": "sllboces.org",
+        "country": "USA",
+        "summary": "St. Lawrence-Lewis Board of Cooperative Educational Services experienced a data incident which may have affected personal information, including SSN, name, address, DOB, tax identification number, medical information, and financial account information. The incident occurred on or about August 12, 2024. The organization has taken measures to mitigate the potential impact and is offering complimentary credit monitoring services.",
+        "title": "Data Breach Notification",
+        "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/64a4742c-859e-400b-8098-589299a4052c.html",
+        "added": "2025-07-20"
+    },
+    {
+        "date": "2024-09-15",
+        "victim": "Western Montana Mental Health Center",
+        "domain": "wmmhc.org",
+        "country": "USA",
+        "summary": "Western Montana Mental Health Center experienced a network disruption on September 15, 2024, which led to unauthorized access to certain files. The breach involved personal and protected health information of approximately 6 Maine residents. The organization is offering complimentary identity protection services to affected individuals.",
+        "title": "Data Breach Notification",
+        "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/eddb74c4-b969-4fd8-8e71-4b9f003095bd.html",
+        "added": "2025-07-19"
+    },
+    {
         "date": "2025-04-17",
         "victim": "Arbor Associates,Inc.",
         "domain": "arborstaffing.com",
