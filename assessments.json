@@ -1,5 +1,12 @@
 [
     {
+        "victim": "palmasdelixcan.com",
+        "domain": "palmasdelixcan.com",
+        "country": "MX",
+        "date": "2025-06-01",
+        "group": "safepay"
+    },
+    {
         "victim": "accademia.it",
         "domain": "accademia.it",
         "country": "IT",
