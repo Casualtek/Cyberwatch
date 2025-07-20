@@ -1,5 +1,15 @@
 [
     {
+        "date": "2025-04-17",
+        "victim": "Arbor Associates,Inc.",
+        "domain": "arborstaffing.com",
+        "country": "USA",
+        "summary": "Arbor Associates,Inc. suffered a data security incident that may have affected personal or protected health information. The incident occurred between April 15, 2025, and April 17, 2025, when certain files may have been acquired without authorization. The affected information may have included first and last name, contact information, age, biologic sex, date of birth, and medical record number.",
+        "title": "2025-07-17 Arbor Associates Data Breach Notice to Consumers",
+        "url": "https://ago.vermont.gov/document/2025-07-17-arbor-associates-data-breach-notice-consumers",
+        "added": "2025-07-19"
+    },
+    {
         "date": "2025-07-17",
         "victim": "Police de Cordoue",
         "domain": "policiacordoba.gov.ar",
