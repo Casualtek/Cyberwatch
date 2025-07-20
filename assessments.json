@@ -1,5 +1,12 @@
 [
     {
+        "victim": "accademia.it",
+        "domain": "accademia.it",
+        "country": "IT",
+        "date": "2025-05-27",
+        "group": "safepay"
+    },
+    {
         "victim": "Advance Ready Mix",
         "domain": "advancereadymix.com",
         "country": "US",
