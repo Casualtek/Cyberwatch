@@ -1,5 +1,12 @@
 [
     {
+        "victim": "hlb.ie",
+        "domain": "hlb.ie",
+        "country": "IE",
+        "date": "2025-05-31",
+        "group": "safepay"
+    },
+    {
         "victim": "palmasdelixcan.com",
         "domain": "palmasdelixcan.com",
         "country": "MX",
