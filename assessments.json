@@ -1,5 +1,12 @@
 [
     {
+        "victim": "divgroup.eu",
+        "domain": "divgroup.eu",
+        "country": "SK",
+        "date": "2025-06-03",
+        "group": "safepay"
+    },
+    {
         "victim": "hlb.ie",
         "domain": "hlb.ie",
         "country": "IE",
