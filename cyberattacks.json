@@ -1,5 +1,15 @@
 [
     {
+        "date": "2025-07-07",
+        "victim": "La Biennale di Venezia",
+        "domain": "labiennale.org",
+        "country": "ITA",
+        "summary": "La Biennale di Venezia a été victime d'une attaque informatique le 7 juillet 2025, les techniciens ont isolé les systèmes et les autorités ont été informées. Les opérations de ripristino ont permis la réactivation progressive des services. La Biennale fournira des informations aux personnes dont les données personnelles pourraient avoir été compromises.",
+        "title": "Venezia, attacco informatico ai sistemi della Biennale",
+        "url": "https://tg.la7.it/cronaca/venezia-attacco-informatico-sistemi-biennale-18-07-2025-241317",
+        "added": "2025-07-20"
+    },
+    {
         "date": "2025-07-18",
         "victim": "Openbaar Ministerie",
         "domain": "om.nl",
