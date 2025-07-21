@@ -1,5 +1,12 @@
 [
     {
+        "victim": "Coalinga Regional Medical Center",
+        "domain": "crmcmed.org",
+        "country": "US",
+        "date": "2025-06-16",
+        "group": "worldleaks"
+    },
+    {
         "victim": "Genesis Billing Services",
         "domain": "genesisbilling.com",
         "country": "US",
@@ -935,7 +942,7 @@
         "domain": "Agaris.com",
         "country": "BE",
         "date": "2025-05-05",
-        "group": "worldleaks"
+        "group": ""
     },
     {
         "victim": "Dorado Software",
