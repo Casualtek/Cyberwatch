@@ -1,5 +1,15 @@
 [
     {
+        "date": "2025-02-02",
+        "victim": "Massachusetts Municipal Wholesale Electric Company",
+        "domain": "mmwec.org",
+        "country": "USA",
+        "summary": "An unknown, unauthorized actor gained access to MMWEC computer systems and accessed and/or acquired certain files stored on these systems, potentially impacting personal information of individuals. The attack was claimed by BlackSuit early April.",
+        "title": "Data Breach Notification",
+        "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/0f58ee81-301f-4339-99be-5fc7e2e5e5c4.html",
+        "added": "2025-07-22"
+    },
+    {
         "date": "2025-05-21",
         "victim": "The Brien Center for Mental Health and Substance Abuse Services, Inc.",
         "domain": "briencenter.org",
