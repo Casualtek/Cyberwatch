@@ -1,5 +1,15 @@
 [
     {
+        "date": "2025-06-25",
+        "victim": "Humanomed-Kliniken",
+        "domain": "humanomed.at",
+        "country": "AUT",
+        "summary": "Deux cliniques du groupe Humanomed en Autriche, Maria Hilf à Klagenfurt et celle de Villach-Warmbad, ont subi une attaque informatique, les pirates ont pu accéder à leur réseau via une faille dans un logiciel utilisé en radiologie. L'objectif de l'attaque n'est pas encore clair, mais il est possible que des données sensibles de patients aient été compromises. Une enquête est en cours pour déterminer l'ampleur de la violation.",
+        "title": "Patientendaten gestohlen?: Hackerangriff auf zwei Kärntner Kliniken",
+        "url": "https://www.kleinezeitung.at/kaernten/19854015/hackerangriff-auf-zwei-kaerntner-kliniken",
+        "added": "2025-07-22"
+    },
+    {
         "date": "2025-07-20",
         "victim": "Groupe Colabor Inc.",
         "domain": "colabor.com",
