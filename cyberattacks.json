@@ -1,5 +1,15 @@
 [
     {
+        "date": "2025-07-20",
+        "victim": "Groupe Colabor Inc.",
+        "domain": "colabor.com",
+        "country": "CAN",
+        "summary": "Le Groupe Colabor Inc. a identifié un incident de cybersécurité qui a eu un impact sur ses systèmes internes de TI, la société a pris des mesures pour protéger son réseau et ses données. L'enquête est en cours pour comprendre l'étendue et l'impact de l'incident. Les détails sur l'incident, y compris la mesure dans laquelle les données des clients, des fournisseurs ou des employés ont pu avoir été consultées, ne sont pas encore connus.",
+        "title": "Groupe Colabor Inc. annonce faire l’objet d’un incident de cybersécurité",
+        "url": "https://www.globenewswire.com/fr/news-release/2025/07/21/3119097/0/fr/Groupe-Colabor-Inc-annonce-faire-l-objet-d-un-incident-de-cybersécurité.html",
+        "added": "2025-07-22"
+    },
+    {
         "date": "2025-07-22",
         "victim": "Südwestdeutsche Medienholding (SWMH)",
         "domain": "swmh.de",
