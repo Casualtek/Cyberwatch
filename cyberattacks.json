@@ -1,5 +1,15 @@
 [
     {
+        "date": "2025-05-21",
+        "victim": "The Brien Center for Mental Health and Substance Abuse Services, Inc.",
+        "domain": "briencenter.org",
+        "country": "USA",
+        "summary": "The Brien Center experienced a data breach due to unauthorized access to certain systems in their network, potentially resulting in the unauthorized access and acquisition of certain data, including names, dates of birth, addresses, phone numbers, email addresses, client IDs, and clinical diagnostic information.",
+        "title": "2025-07-18 The Brien Center for Mental Health and Substance Abuse Services Data Breach Notice to Consumers",
+        "url": "https://ago.vermont.gov/document/2025-07-18-brien-center-mental-health-and-substance-abuse-services-data-breach-notice-consumers",
+        "added": "2025-07-22"
+    },
+    {
         "date": "2025-06-25",
         "victim": "Humanomed-Kliniken",
         "domain": "humanomed.at",
