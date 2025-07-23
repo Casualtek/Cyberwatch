@@ -1,5 +1,15 @@
 [
     {
+        "date": "2025-07-21",
+        "victim": "Serviço Autônomo de Água e Esgoto de Barretos (SAAEB)",
+        "domain": "saaeb.com.br",
+        "country": "BRA",
+        "summary": "Le SAAEB a subi une tentative d'attaque cybernétique, les systèmes internes sont temporairement hors service, mais les données ont été sauvegardées grâce à la politique de sécurité de l'information. L'équipe technique travaille à la restauration des systèmes. Les services présentiels sont actuellement indisponibles en raison de cette situation.",
+        "title": "SAAE sofre tentativa de ataque cibernético",
+        "url": "https://www.odiarioonline.com.br/saae-sofre-tentativa-de-ataque-cibernetico/",
+        "added": "2025-07-23"
+    },
+    {
         "date": "2025-02-02",
         "victim": "Massachusetts Municipal Wholesale Electric Company",
         "domain": "mmwec.org",
