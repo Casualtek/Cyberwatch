@@ -1,5 +1,25 @@
 [
     {
+        "date": "2025-01-17",
+        "victim": "Prestige Maintenance USA",
+        "domain": "prestigeusa.net",
+        "country": "USA",
+        "summary": "Prestige Maintenance USA experienced a data security incident where unauthorized access to certain personal information occurred. The incident was discovered on January 17, 2025, and the company took immediate action to secure its systems. Approximately one Maine resident's information was potentially affected.",
+        "title": "Data Breach Notification",
+        "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/98dbee3c-4c46-464a-b38f-af89ad185d2a.html",
+        "added": "2025-07-23"
+    },
+    {
+        "date": "2025-06-03",
+        "victim": "Keystone Shipping",
+        "domain": "keyship.com",
+        "country": "USA",
+        "summary": "Unauthorized access to Keystone's computer network occurred on June 3, 2025, resulting in the theft of names and Social Security numbers of four Maine residents. Keystone took measures to secure its network and reported the incident to law enforcement. The attack was claimed by Akira on June 24th.",
+        "title": "Data Breach Notification",
+        "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/c3434c1f-31fd-48bc-bca0-29bacecddb06.html",
+        "added": "2025-07-23"
+    },
+    {
         "date": "2025-05-13",
         "victim": "Upper Dublin Family Dentistry",
         "domain": "udfd.com",
