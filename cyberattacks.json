@@ -1,5 +1,15 @@
 [
     {
+        "date": "2025-04-27",
+        "victim": "Brigham Young University",
+        "domain": "byu.edu",
+        "country": "USA",
+        "summary": "Unauthorized access to certain files on BYU's servers was detected between April 25, 2025, and April 27, 2025, resulting in the exposure of names and Social Security numbers of five Maine residents.",
+        "title": "Data Breach Notification",
+        "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/5640d3c6-3ac7-408b-a7fa-7f6a76d1ad42.html",
+        "added": "2025-07-24"
+    },
+    {
         "date": "2025-07-17",
         "victim": "Instituto de Cardiologia e Transplantes do Distrito Federal (ICTDF)",
         "domain": "ictdf.org.br",
