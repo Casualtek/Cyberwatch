@@ -1,5 +1,25 @@
 [
     {
+        "date": "2025-03-22",
+        "victim": "Forward, The National Databank for Rheumatic Diseases",
+        "domain": "forwarddatabank.org",
+        "country": "USA",
+        "summary": "Forward experienced a data security event in March 2025, resulting in unauthorized access to their network between March 17 and March 22, 2025. The incident may have involved sensitive information, including names, addresses, and Social Security numbers, of Maine residents.",
+        "title": "Data Breach Notification",
+        "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/ddfce055-9b58-4f64-bb43-fc3bf0af3059.html",
+        "added": "2025-07-23"
+    },
+    {
+        "date": "2025-05-21",
+        "victim": "TKC Holdings, Inc.",
+        "domain": "tkcholdings.com",
+        "country": "USA",
+        "summary": "TKC Holdings, Inc. suffered a data breach due to unauthorized third-party access to their network. The breach occurred between May 16, 2025, and May 21, 2025, and involved personal information, including names and breached elements. The company has taken steps to prevent similar incidents and is offering identity theft protection services to affected individuals.",
+        "title": "Data Breach Notification",
+        "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/c9f6644a-c1e8-458b-aa44-ea7fc40f2e0b.html",
+        "added": "2025-07-23"
+    },
+    {
         "date": "2025-04-27",
         "victim": "Brigham Young University",
         "domain": "byu.edu",
