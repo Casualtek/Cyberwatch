@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-06-05",
+        "victim": "Taos County",
+        "domain": "taoscounty.org",
+        "country": "USA",
+        "summary": "Le comté de Taos a subi une attaque de ransomware qui a limité ou cessé ses services administratifs, les responsables du comté travaillent avec des spécialistes en cybersécurité pour restaurer les systèmes affectés. L'attaque a été attribuée au groupe de hackers russes Kairos, qui a volé près de 2 To de données. Le système judiciaire et l'industrie immobilière ont été particulièrement touchés par la perturbation.",
+        "title": "County acknowledges 'sophisticated cyberattack'",
+        "url": "https://www.taosnews.com/public-safety/county-acknowledges-sophisticated-cyberattack/article_1420a2e1-5072-597b-84a0-874e6ed4a628.html",
+        "added": "2025-07-24"
+    },
+    {
         "date": "2025-01-17",
         "victim": "Prestige Maintenance USA",
         "domain": "prestigeusa.net",
