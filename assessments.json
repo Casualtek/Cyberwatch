@@ -1,5 +1,12 @@
 [
     {
+        "victim": "naxis.net",
+        "domain": "naxis.net",
+        "country": "JP",
+        "date": "2025-06-06",
+        "group": "safepay"
+    },
+    {
         "victim": "qtmi.net",
         "domain": "qtmi.net",
         "country": "US",
