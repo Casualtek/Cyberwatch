@@ -1,5 +1,15 @@
 [
     {
+        "date": "2025-05-14",
+        "victim": "Town of North Providence",
+        "domain": "northprovidenceri.gov",
+        "country": "USA",
+        "summary": "An unauthorized third-party accessed TransUnion's network environment, potentially exposing personal information of approximately 1781 Rhode Island residents. The incident occurred on or about May 14, 2025, and was discovered on or about May 14, 2025. The attack was claimed by Medusa on June 1st.",
+        "title": "Data Breach Notification",
+        "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/bbadd348-a631-4500-b7b7-39c45eb0bb92.html",
+        "added": "2025-07-24"
+    },
+    {
         "date": "2024-06-05",
         "victim": "Taos County",
         "domain": "taoscounty.org",
