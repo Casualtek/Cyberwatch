@@ -1,5 +1,12 @@
 [
     {
+        "victim": "rhschool.org",
+        "domain": "rhschool.org",
+        "country": "US",
+        "date": "2025-05-21",
+        "group": "safepay"
+    },
+    {
         "victim": "landwwilson.co.uk",
         "domain": "landwwilson.co.uk",
         "country": "GB",
