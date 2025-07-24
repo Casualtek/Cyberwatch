@@ -1,5 +1,12 @@
 [
     {
+        "victim": "qtmi.net",
+        "domain": "qtmi.net",
+        "country": "US",
+        "date": "2025-05-17",
+        "group": "safepay"
+    },
+    {
         "victim": "horanbarker.com",
         "domain": "horanbarker.com",
         "country": "US",
