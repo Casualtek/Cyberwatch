@@ -1,5 +1,15 @@
 [
     {
+        "date": "2025-04-03",
+        "victim": "National Association for Stock Car Auto Racing",
+        "domain": "nascar.com",
+        "country": "USA",
+        "summary": "Unauthorized access to the network occurred between March 31 and April 3, 2025, resulting in the acquisition of certain files containing personal information. The investigation determined that one or more of the files contained the name and Social Security number of one Maine resident. The attack was claimed by Medusa on April 13th.",
+        "title": "Data Breach Notification",
+        "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/dff3c2fa-cf00-4967-9715-22dbe34996a1.html",
+        "added": "2025-07-25"
+    },
+    {
         "date": "2024-03-19",
         "victim": "Traverse City Area Public Schools",
         "domain": "tcaps.net",
