@@ -1,5 +1,15 @@
 [
     {
+        "date": "2025-04-15",
+        "victim": "McKenzie Memorial Hospital",
+        "domain": "mckenziehealth.org",
+        "country": "USA",
+        "summary": "McKenzie Memorial Hospital suffered a data security incident where an unauthorized actor accessed certain files on their network between April 14, 2025, and April 15, 2025. The incident may have exposed sensitive information, including first and last name, Social Security Number, and financial account information. The hospital has taken steps to address the incident and is offering complimentary credit monitoring and identity protection services.",
+        "title": "Data Breach Notification",
+        "url": "https://mm.nh.gov/files/uploads/doj/remote-docs/mckenzie-memorial-hospital-20250724.pdf",
+        "added": "2025-07-25"
+    },
+    {
         "date": "2025-04-03",
         "victim": "National Association for Stock Car Auto Racing",
         "domain": "nascar.com",
