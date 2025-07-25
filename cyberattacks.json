@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-03-19",
+        "victim": "Traverse City Area Public Schools",
+        "domain": "tcaps.net",
+        "country": "USA",
+        "summary": "An unauthorized party acquired a limited number of electronic files from Traverse City Area Public Schools' computer systems, potentially containing personal information. The incident occurred on or about March 19, 2024, and was claimed by Medusa on April 14th.",
+        "title": "Data Breach Notification",
+        "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/85b25859-32ca-42a9-9d7b-439e49749cca.html",
+        "added": "2025-07-25"
+    },
+    {
         "date": "2025-03-22",
         "victim": "Forward, The National Databank for Rheumatic Diseases",
         "domain": "forwarddatabank.org",
