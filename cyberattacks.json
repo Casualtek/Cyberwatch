@@ -1,5 +1,15 @@
 [
     {
+        "date": "2025-07-23",
+        "victim": "Post",
+        "domain": "post.lu",
+        "country": "LUX",
+        "summary": "Le groupe Post a subi une cyberattaque ciblée qui a affecté l'ensemble de son réseau, causant des perturbations importantes dans le pays. Les analyses forensiques ont permis d'identifier la cause de l'incident, qui a été qualifiée de cyberattaque d'un niveau technique avancé. Aucune donnée n'a été compromise ou exfiltrée, et les techniciens de Post ont mis en place des contre-mesures pour garantir la stabilité et la sécurité des services.",
+        "title": "Post : c’était bien une cyberattaque !",
+        "url": "https://www.lesfrontaliers.lu/societe/post-cetait-bien-une-cyberattaque/",
+        "added": "2025-07-26"
+    },
+    {
         "date": "2025-07-18",
         "victim": "Hampton County Regional Medical Center",
         "domain": "hamptonregionalmc.com",
