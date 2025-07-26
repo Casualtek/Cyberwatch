@@ -1,5 +1,15 @@
 [
     {
+        "date": "2025-05-05",
+        "victim": "Infinite Services",
+        "domain": "infiniteservices.org",
+        "country": "USA",
+        "summary": "Infinite Services a subi une attaque de ransomware le 5 mai 2025, lorsqu'un groupe de menace a pu accéder à l'un de ses serveurs, contenant des informations personnelles de patients et d'employés. L'entreprise a choisi de notifier tous les employés et anciens employés potentielllement affectés, leur offrant des services de surveillance de crédit et une assurance contre le vol d'identité. Aucun groupe de ransomware n'a revendiqué la responsabilité de l'attaque.",
+        "title": "Infinite Services notifying employees and patients of limited ransomware attack",
+        "url": "https://databreaches.net/2025/07/26/infinite-services-notifying-employees-and-patients-of-limited-ransomware-attack/",
+        "added": "2025-07-26"
+    },
+    {
         "date": "2025-07-23",
         "victim": "Post",
         "domain": "post.lu",
