@@ -1,5 +1,15 @@
 [
     {
+        "date": "2025-06-23",
+        "victim": "Mineralogy",
+        "domain": "mineralogy.com.au",
+        "country": "AUS",
+        "summary": "Une faille de sécurité a compromis les informations personnelles des employés et des associés liés aux entités commerciales et politiques de Clive Palmer, notamment Mineralogy et Queensland Nickel Group. La faille, identifiée le 23 juin 2025, impliquait une attaque de ransomware qui a affecté 11 entités associées à Palmer. Les informations sensibles, notamment les adresses e-mail, les numéros de téléphone et les documents confidentiels, ont été exposées.",
+        "title": "Clive Palmer's Entities Hit by Ransomware Attack, Exposing Personal Data",
+        "url": "https://theabj.com.au/2025/07/24/clive-palmer-data-breach-ransomware-attack/",
+        "added": "2025-07-27"
+    },
+    {
         "date": "2025-05-05",
         "victim": "Infinite Services",
         "domain": "infiniteservices.org",
