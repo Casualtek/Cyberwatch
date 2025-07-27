@@ -1,5 +1,12 @@
 [
     {
+        "victim": "salemma.com.py",
+        "domain": "salemma.com.py",
+        "country": "PY",
+        "date": "2025-06-13",
+        "group": "safepay"
+    },
+    {
         "victim": "naxis.net",
         "domain": "naxis.net",
         "country": "JP",
