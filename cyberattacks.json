@@ -1,5 +1,15 @@
 [
     {
+        "date": "2025-04-15",
+        "victim": "Indian Council of Agricultural Research (ICAR)",
+        "domain": "icar.org.in",
+        "country": "IND",
+        "summary": "L'Indian Council of Agricultural Research (ICAR) a subi une faille de sécurité importante en avril, entraînant la perte de données cruciales sur son site web, son serveur de Delhi et un serveur de réplication à Hyderabad. La faille a touché plusieurs domaines opérationnels, notamment les données de recrutement et les projets de recherche. Une commission d'enquête a été mise en place pour investiguer l'incident et proposer des mesures pour prévenir de telles attaques à l'avenir.",
+        "title": "ICAR Suffers Catastrophic Data Breach, Jeopardizing National Agricultural Research",
+        "url": "https://the420.in/icar-data-breach-agricultural-research-compromised/",
+        "added": "2025-07-27"
+    },
+    {
         "date": "2025-06-23",
         "victim": "Mineralogy",
         "domain": "mineralogy.com.au",
