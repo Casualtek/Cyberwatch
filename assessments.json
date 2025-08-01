@@ -1,5 +1,12 @@
 [
     {
+        "victim": "appagroup.com",
+        "domain": "appagroup.com",
+        "country": "DE",
+        "date": "2025-05-19",
+        "group": "safepay"
+    },
+    {
         "victim": "ACEA SpA",
         "domain": "gruppoacea.it",
         "country": "IT",
