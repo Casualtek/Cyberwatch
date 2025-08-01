@@ -1,5 +1,15 @@
 [
     {
+        "date": "2025-02-08",
+        "victim": "Phil Smith Management, Inc. d/b/a Phil Smith Automotive Group",
+        "domain": "philsmithauto.com",
+        "country": "USA",
+        "summary": "Phil Smith Automotive Group experienced a ransomware attack in early February 2025, which may have resulted in unauthorized access to personal information of six Maine residents. The affected information included individuals' name, Social Security number, and driver's license or state-issued identification number. The company is providing two years of complimentary credit protection and monitoring services through Cyberscout.",
+        "title": "Data Breach Notification",
+        "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/1a05044e-dd7f-4bd0-ac1e-110418195305.html",
+        "added": "2025-08-01"
+    },
+    {
         "date": "2025-07-26",
         "victim": "Ville de St. Paul",
         "domain": "stpaul.gov",
