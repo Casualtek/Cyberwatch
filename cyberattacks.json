@@ -1,5 +1,15 @@
 [
     {
+        "date": "2025-03-17",
+        "victim": "Ontario Medical Supply (OMS)",
+        "domain": "oms.ca",
+        "country": "CAN",
+        "summary": "Une faille de sécurité a eu lieu chez Ontario Medical Supply, un fournisseur d'Ontario Health atHome, en mars, mais l'agence n'a informé le public qu'en juin, plus de deux mois après avoir été informée. La faille a pu affecter jusqu'à 200 000 patients. L'agence a été critiquée pour son retard à informer les patients et la commission de la vie privée.",
+        "title": "Ontario health agency informed of cyberattack more than 2 months before telling patients | Globalnews.ca",
+        "url": "https://globalnews.ca/news/11308121/ontario-health-athome-cyberattack-notified/",
+        "added": "2025-08-01"
+    },
+    {
         "date": "2025-07-31",
         "victim": "Muséum national d'Histoire naturelle",
         "domain": "mnhn.fr",
