@@ -1,5 +1,15 @@
 [
     {
+        "date": "2025-07-24",
+        "victim": "Baden-Württembergischer Landesverband für Prävention und Rehabilitation gGmbH (bwlv)",
+        "domain": "bwlv.de",
+        "country": "DEU",
+        "summary": "Le Baden-Württembergischer Landesverband pour Prävention et Rehabilitation a été victime d'une attaque informatique, mais grâce à des mesures de sécurité, les systèmes ont été isolés et la prise en charge des patients n'a pas été affectée. Les auteurs de l'attaque ont pu chiffrer certaines parties de l'infrastructure informatique. Une enquête est en cours pour déterminer les causes de l'attaque et les conséquences potentielles sur les données personnelles. (via eCrime.ch)",
+        "title": "Menschen begleiten. Seit über 100 Jahren.",
+        "url": "https://www.bw-lv.de",
+        "added": "2025-08-01"
+    },
+    {
         "date": "2025-07-25",
         "victim": "Curaçao Tax Office",
         "domain": "belastingdienst.cw",
