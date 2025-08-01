@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-03-19",
+        "victim": "Traverse City Area Public Schools",
+        "domain": "traverscityarea.org",
+        "country": "USA",
+        "summary": "An unauthorized party acquired a limited number of electronic files from Traverse City Area Public Schools' computer systems, potentially containing personal information. The incident occurred on or about March 19, 2024, and was claimed by Medusa on April 14, 2024.",
+        "title": "2025-07-24 Traverse City Area Public Schools Data Breach Notice to Consumers",
+        "url": "https://ago.vermont.gov/document/2025-07-24-traverse-city-area-public-schools-data-breach-notice-consumers",
+        "added": "2025-08-01"
+    },
+    {
         "date": "2025-04-15",
         "victim": "Indian Council of Agricultural Research (ICAR)",
         "domain": "icar.org.in",
