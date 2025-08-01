@@ -1,5 +1,12 @@
 [
     {
+        "victim": "appsnw.com",
+        "domain": "appsnw.com",
+        "country": "US",
+        "date": "2025-05-27",
+        "group": "safepay"
+    },
+    {
         "victim": "appagroup.com",
         "domain": "appagroup.com",
         "country": "DE",
