@@ -1,5 +1,25 @@
 [
     {
+        "date": "2025-07-26",
+        "victim": "Ville de St. Paul",
+        "domain": "stpaul.gov",
+        "country": "USA",
+        "summary": "La ville de St. Paul a déclaré l'état d'urgence locale après une attaque informatique qui a touché ses réseaux Internet, forçant la ville à fermer ses services en ligne. L'enquête est en cours et il n'est pas encore clair qui est derrière l'attaque ou si des données sensibles ont été volées. La ville a pris des mesures pour protéger ses systèmes et a appelé l'aide de l'armée nationale du Minnesota pour assurer la sécurité de ses résidents.",
+        "title": "FBI, Nat’l Guard assist St. Paul as cyber-attackers force shutdown of Internet-based systems",
+        "url": "https://www.twincities.com/2025/07/29/fbi-natl-guard-assist-st-paul-as-cyber-attackers-force-shut-down-of-internet-based-systems/",
+        "added": "2025-08-01"
+    },
+    {
+        "date": "2025-04-28",
+        "victim": "Pike County Prosecutor's Office",
+        "domain": "pikecountyo.com",
+        "country": "USA",
+        "summary": "Pike County Prosecutor's Office suffered a ransomware attack on its third-party IT provider, resulting in unauthorized access to County data and removal of County files. The incident occurred on April 28, 2025, and the County notified federal law enforcement and began an investigation. The affected data included personal information maintained by the County.",
+        "title": "2025-07-24 Pike County, Ohio Data Breach Notice to Consumers",
+        "url": "https://ago.vermont.gov/document/2025-07-24-pike-county-ohio-data-breach-notice-consumers",
+        "added": "2025-08-01"
+    },
+    {
         "date": "2025-07-25",
         "victim": "Orange",
         "domain": "orange.com",
