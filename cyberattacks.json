@@ -1,5 +1,45 @@
 [
     {
+        "date": "2025-01-12",
+        "victim": "Clymene Management Services, LLC",
+        "domain": "clymeneenterprises.com",
+        "country": "USA",
+        "summary": "An unauthorized actor accessed the CMS network between January 9, 2025, and January 12, 2025, and certain information contained within those systems may have been viewed or copied. The information that could have been subject to unauthorized access includes name, financial account information, and Social Security number. CMS is providing access to credit monitoring services for one year, through Experian, to individuals whose personal information was potentially affected by this event.",
+        "title": "Data Breach Notification",
+        "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/09e4b716-89e4-44a8-8c41-094741515267.html",
+        "added": "2025-07-30"
+    },
+    {
+        "date": "2025-01-12",
+        "victim": "DTiQ Technologies, Inc.",
+        "domain": "dtiq.com",
+        "country": "USA",
+        "summary": "DTiQ Technologies, Inc. experienced unauthorized access to a portion of their network between December 31, 2024, and January 12, 2025, resulting in the exposure of customer information. The incident was discovered on January 12, 2025, and the company has since taken steps to investigate and mitigate the breach. Affected individuals have been notified and offered complimentary credit monitoring and identity protection services.",
+        "title": "2025-07-25 DTiQ Technologies Data Breach Notice to Consumers",
+        "url": "https://ago.vermont.gov/document/2025-07-25-dtiq-technologies-data-breach-notice-consumers",
+        "added": "2025-07-29"
+    },
+    {
+        "date": "2024-12-30",
+        "victim": "Central New York Cardiology",
+        "domain": "centralnewyorkcardiology.com",
+        "country": "USA",
+        "summary": "Central New York Cardiology experienced a data breach between December 26, 2024, and December 30, 2024, where an unauthorized individual acquired certain information. The breach was discovered on June 11, 2025, and the organization is providing credit monitoring and identity protection services to affected individuals. The information potentially impacted includes names in combination with other data elements.",
+        "title": "2025-07-28 Central New York Cardiology Data Breach Notice to Consumers",
+        "url": "https://ago.vermont.gov/document/2025-07-28-central-new-york-cardiology-data-breach-notice-consumers",
+        "added": "2025-07-30"
+    },
+    {
+        "date": "2025-02-14",
+        "victim": "Interpool, Inc.",
+        "domain": "interpoolinc.com",
+        "country": "USA",
+        "summary": "Interpool, Inc. suffered a data breach on February 14, 2025, where an unknown cyberactor accessed a limited portion of their computer network and copied files without permission. The breach involved name and other types of personal information. Interpool, Inc. is notifying individuals and providing free resources and guidance, including identity monitoring services.",
+        "title": "2025-07-25 Interpool dba TRAC Intermodal Data Breach Notice to Consumers",
+        "url": "https://ago.vermont.gov/document/2025-07-25-interpool-dba-trac-intermodal-data-breach-notice-consumers",
+        "added": "2025-07-29"
+    },
+    {
         "date": "2025-07-24",
         "victim": "Baden-Württembergischer Landesverband für Prävention und Rehabilitation gGmbH (bwlv)",
         "domain": "bwlv.de",
