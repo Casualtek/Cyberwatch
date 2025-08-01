@@ -1,5 +1,25 @@
 [
     {
+        "date": "2025-07-25",
+        "victim": "Orange",
+        "domain": "orange.com",
+        "country": "FRA",
+        "summary": "Le groupe de télécommunications Orange a été victime d'une cyberattaque, entraînant des perturbations de services pour certains clients entreprises et services grand public en France. Les équipes d'Orange se sont mobilisées pour isoler les services concernés et limiter les impacts. Aucune donnée de clients n'a été exfiltrée selon les investigations préliminaires.",
+        "title": "Le groupe de télécommunications Orange annonce avoir été victime d'une cyberattaque",
+        "url": "https://www.franceinfo.fr/internet/securite-sur-internet/cyberattaques/le-groupe-de-telecommunications-orange-annonce-avoir-ete-victime-d-une-cyberattaque_7404658.html",
+        "added": "2025-08-01"
+    },
+    {
+        "date": "2024-12-11",
+        "victim": "Mid Florida Primary Care, PA",
+        "domain": "mymfpc.com",
+        "country": "USA",
+        "summary": "Mid Florida Primary Care, PA suffered a data breach where unauthorized access and copying of patient information occurred between November 29, 2024, and December 11, 2024. The breach was claimed by BianLian on December 14th, 2024.",
+        "title": "Data Breach Notification",
+        "url": "https://ago.vermont.gov/document/2025-07-29-mid-florida-primary-care-data-breach-notice-consumers",
+        "added": "2025-08-01"
+    },
+    {
         "date": "2024-03-19",
         "victim": "Traverse City Area Public Schools",
         "domain": "traverscityarea.org",
