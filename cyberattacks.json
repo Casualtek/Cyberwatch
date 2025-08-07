@@ -1,5 +1,35 @@
 [
     {
+        "date": "2025-04-12",
+        "victim": "Revinate LLC",
+        "domain": "revinate.com",
+        "country": "USA",
+        "summary": "Revinate LLC suffered a data breach between April 9 and 12, 2025, where an unknown cyber actor accessed a limited portion of their computer network and copied certain files without permission. The breach involved the copying of files containing Social Security numbers. Revinate notified approximately two Maine residents and is providing complimentary identity monitoring services.",
+        "title": "Data Breach Notification",
+        "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/b9924fdd-c331-4359-8f42-2481f422c6a3.html",
+        "added": "2025-07-26"
+    },
+    {
+        "date": "2025-02-12",
+        "victim": "Baillie Lumber Co., L.P.",
+        "domain": "baillie.com",
+        "country": "USA",
+        "summary": "Baillie Lumber Co., L.P. experienced a data breach where an unauthorized actor gained access to certain files within their network from February 6, 2025, to February 12, 2025, potentially copying files containing name and Social Security number information.",
+        "title": "Data Breach Notification",
+        "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/6ebf7179-ebaf-4fc6-8082-72d23e710605.html",
+        "added": "2025-08-01"
+    },
+    {
+        "date": "2024-12-12",
+        "victim": "Huntington Hospitality Financial Corp",
+        "domain": "huntingtonhotelgroup.com",
+        "country": "USA",
+        "summary": "A data security incident occurred at Huntington Hospitality Financial Services Corp, where personal information of certain individuals was potentially accessed without authorization. The incident was discovered on July 18, 2025, after a suspicious event was first learned of on December 12, 2024. The company is offering complimentary credit monitoring and identity theft protection services to affected individuals.",
+        "title": "Data Breach Notification",
+        "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/590aeb4d-6b66-497b-a439-f5b603c21b65.html",
+        "added": "2025-08-01"
+    },
+    {
         "date": "2025-01-12",
         "victim": "Clymene Management Services, LLC",
         "domain": "clymeneenterprises.com",
