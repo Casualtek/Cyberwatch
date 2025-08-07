@@ -1,5 +1,25 @@
 [
     {
+        "date": "2025-07-24",
+        "victim": "Ridgefield Public Schools",
+        "domain": "ridgefield.org",
+        "country": "USA",
+        "summary": "Ridgefield Public Schools a subi une attaque de ransomware, ce qui a entraîné la fermeture de son réseau et une enquête sur les conséquences potentielles pour les données. Les autorités ont été informées et aident à l'enquête. Le district travaille à restaurer ses services de manière sécurisée et méthodique.",
+        "title": "Cyberattack Disrupts Ridgefield Public Schools Network, Investigation Underway",
+        "url": "https://patch.com/connecticut/ridgefield/cyberattack-disrupts-ridgefield-public-schools-network-investigation-underway",
+        "added": "2025-08-07"
+    },
+    {
+        "date": "2025-07-23",
+        "victim": "POST Luxembourg",
+        "domain": "post.lu",
+        "country": "LUX",
+        "summary": "Le gouvernement luxembourgeois a lancé une enquête sur une panne télécom nationale causée par une cyberattaque, qui a duré plus de trois heures et a touché les réseaux mobiles 4G et 5G. La faille de sécurité a été trouvée dans un composant logiciel standard utilisé par POST Luxembourg, l'opérateur télécom étatique. Les autorités ont souligné que l'attaque était conçue pour être perturbatrice, mais n'a pas compromis les systèmes internes ou les données des utilisateurs.",
+        "title": "Luxembourg Probes Cyberattack Behind Telecom Outage, Cites “Exceptionally Sophisticated” Assault - IT Security News",
+        "url": "https://www.itsecuritynews.info/luxembourg-probes-cyberattack-behind-telecom-outage-cites-exceptionally-sophisticated-assault/",
+        "added": "2025-08-07"
+    },
+    {
         "date": "2025-07-31",
         "victim": "Town of Bar Harbor",
         "domain": "barharbormaine.gov",
