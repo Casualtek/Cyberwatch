@@ -1,5 +1,45 @@
 [
     {
+        "date": "2025-04-02",
+        "victim": "PAC Strapping Products, Inc.",
+        "domain": "strapsolutions.com",
+        "country": "USA",
+        "summary": "PAC Strapping Products, Inc. experienced a ransomware incident that may have affected personal information, including names, credit/debit card numbers, and expiration dates. The company has taken measures to prevent a similar incident and is offering free credit monitoring services. The incident occurred on or about April 2, 2025.",
+        "title": "2025-08-05 PAC Strapping Products Data Breach Notice to Consumers",
+        "url": "https://ago.vermont.gov/document/2025-08-05-pac-strapping-products-data-breach-notice-consumers",
+        "added": "2025-08-07"
+    },
+    {
+        "date": "2024-11-25",
+        "victim": "Barrett-Jackson Holdings, LLC",
+        "domain": "barrett-jackson.com",
+        "country": "USA",
+        "summary": "Barrett-Jackson Holdings, LLC suffered a data breach that involved the copying of files from their computer systems, potentially exposing sensitive information such as Social Security numbers, driver's license numbers, and bank account numbers. The breach was discovered on November 25, 2024, and the company is now providing notice to those whose information was found in the relevant files. The company is offering complimentary credit monitoring services to affected individuals.",
+        "title": "2025-07-31 Barrett-Jackson Holdings Data Breach Notice to Consumers",
+        "url": "https://ago.vermont.gov/document/2025-07-31-barrett-jackson-holdings-data-breach-notice-consumers",
+        "added": "2025-08-02"
+    },
+    {
+        "date": "2025-02-01",
+        "victim": "SmartRent Technologies, Inc.",
+        "domain": "smartrent.com",
+        "country": "USA",
+        "summary": "SmartRent Technologies, Inc. suffered a data breach due to a phishing campaign that compromised an accounting firm's internal share drive. The breach may have resulted in unauthorized access to personal information of current and former employees. The incident was discovered on July 8, 2025.",
+        "title": "Data Breach Notification",
+        "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/e4738d80-376e-4a9c-9bc1-9cf588ac5ac2.html",
+        "added": "2025-08-05"
+    },
+    {
+        "date": "2024-12-17",
+        "victim": "Vector Security, Inc.",
+        "domain": "vectorsecurity.com",
+        "country": "USA",
+        "summary": "Vector Security, Inc. suffered a data breach where unauthorized activity was detected in their IT systems, potentially exposing personal information of customers. The breach occurred as early as mid-December 2024, but the company took immediate action to contain the activity and launched an investigation. Customers are being offered credit monitoring services and fraud assistance.",
+        "title": "Data Breach Notification",
+        "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/314ab0f7-d910-44a7-8a3e-a48cccdbd8fd.html",
+        "added": "2025-08-02"
+    },
+    {
         "date": "2025-07-29",
         "victim": "North St. Paul Police Department",
         "domain": "northstpaul.org",
