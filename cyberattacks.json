@@ -1,5 +1,35 @@
 [
     {
+        "date": "2025-04-29",
+        "victim": "Episciences, Inc.",
+        "domain": "epionce.com",
+        "country": "USA",
+        "summary": "Episciences experienced a data breach between April 27, 2025, and April 29, 2025, where an unauthorized actor gained access to certain files within their network, potentially copying files containing name and Social Security Number. The breach was discovered on April 29, 2025, and Episciences notified affected individuals and provided complimentary credit monitoring services. No evidence of fraudulent use of data has been found.",
+        "title": "Data Breach Notification",
+        "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/2144e896-2bd7-4993-8215-370dd872508d.html",
+        "added": "2025-08-07"
+    },
+    {
+        "date": "2025-03-31",
+        "victim": "Nova Recovery LLC d/b/a Nova Recovery Center",
+        "domain": "novarecoveryaustin.com",
+        "country": "USA",
+        "summary": "Nova Recovery Center suffered a data security incident that exposed personal information of its clients, including names, addresses, dates of birth, Social Security numbers, and financial payment information. The incident occurred due to unauthorized access to certain systems hosted on the Nova Recovery network. The organization has taken steps to contain the incident and is offering identity monitoring services to affected clients.",
+        "title": "Data Breach Notification",
+        "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/f541d597-8a94-4dd9-9b3e-ecbd1e29f164.html",
+        "added": "2025-08-06"
+    },
+    {
+        "date": "2024-06-20",
+        "victim": "Lollytogs, Ltd. d/b/a LT Apparel Group (âLT Apparelâ)",
+        "domain": "ltapparel.com",
+        "country": "USA",
+        "summary": "LT Apparel Group experienced a cybersecurity incident involving unauthorized access to their internal systems, resulting in the disclosure of personal information. The incident was discovered on June 20, 2024, and the company has since implemented measures to enhance the security of their systems and data. A complimentary membership of Experian IdentityWorksSM is being offered to affected individuals.",
+        "title": "Data Breach Notification",
+        "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/4d3e12b5-8f2e-48b9-b580-031b04c94cff.html",
+        "added": "2025-07-26"
+    },
+    {
         "date": "2025-02-28",
         "victim": "Karen S. Pouliot CPA, P.A.",
         "domain": "tpacpafirm.com",
