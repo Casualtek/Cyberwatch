@@ -1,5 +1,15 @@
 [
     {
+        "date": "2025-07-31",
+        "victim": "Town of Bar Harbor",
+        "domain": "barharbormaine.gov",
+        "country": "USA",
+        "summary": "La ville de Bar Harbor a subi une attaque de cybersécurité, ce qui a entraîné la fermeture de ses services en ligne pour un avenir prévisible. Les systèmes de la ville ont été déconnectés pour prévenir tout dommage supplémentaire et une enquête est en cours avec l'aide de la société de cybersécurité CrowdStrike. Les employés ont été informés de la violation de données et de la possibilité que des données personnelles aient été compromises.",
+        "title": "Bar Harbor town services remain offline after cybersecurity attack",
+        "url": "https://www.bangordailynews.com/2025/08/01/hancock/hancock-government/bar-harbor-targeted-cybersecurity-attack/",
+        "added": "2025-08-07"
+    },
+    {
         "date": "2025-08-07",
         "victim": "Hans-Böckler-Stiftung",
         "domain": "boeckler.de",
