@@ -1,8 +1,18 @@
 [
     {
+        "date": "2025-08-07",
+        "victim": "Hans-Böckler-Stiftung",
+        "domain": "boeckler.de",
+        "country": "DEU",
+        "summary": "La Hans-Böckler-Stiftung a été victime d'une attaque ciblée et travaille avec des experts externes pour élucider l'affaire, les paiements de bourses ne sont pas affectés. La fondation a isolé et arrêté tous les systèmes informatiques après la découverte de l'attaque. Les experts en forensique informatique analysent actuellement les systèmes affectés pour garantir leur remise en service sécurisée.",
+        "title": "Cyberangriff verschlüsselt Systeme der Hans-Böckler-Stiftung",
+        "url": "https://www.it-daily.net/shortnews/cyberangriff-hans-boeckler-stiftung",
+        "added": "2025-08-07"
+    },
+    {
         "date": "2024-07-28",
         "victim": "Bengal Police",
-        "domain": "westbengal.gov.in",
+        "domain": "wbpolice.gov.in",
         "country": "IND",
         "summary": "La police du Bengale a lancé une enquête après avoir constaté que le centre de données de l'aile des crimes informatiques de l'État a été compromis, les autorités soupçonnent une atteinte intentionnelle de la part de la société privée qui gère le centre de données. Les enquêteurs ont découvert que la société privée avait un accès exclusif au centre de données au moment de l'attaque et que les officiers de police ont été confrontés à des problèmes d'accès au système après que la société a refusé de leur donner le contrôle administratif. L'enquête est en cours et plusieurs officiers ont déjà été interrogés.",
         "title": "State police cyber crime wing faces data breach, cops suspect sabotage | Kolkata News - Times of India",
