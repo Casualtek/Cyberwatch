@@ -1,5 +1,15 @@
 [
     {
+        "date": "2025-08-03",
+        "victim": "South Shore Regional Emergency Communications Center",
+        "domain": "ssrecc.org",
+        "country": "USA",
+        "summary": "Le centre de communications d'urgence régional de South Shore a été visé par une attaque informatique le samedi, les employés ont remarqué des problèmes importants avec leur logiciel de déploiement. Les enquêteurs ont découvert que l'attaque provenait d'un groupe ayant des liens avec la Russie. L'enquête sur l'attaque informatique est toujours en cours avec le département de police de Norwell, la police d'État du Massachusetts et le FBI.",
+        "title": "Emergency communications on South Shore targeted by cyber attack",
+        "url": "https://www.boston.com/news/local-news/2025/08/05/emergency-communications-on-south-shore-targeted-by-cyber-attack/",
+        "added": "2025-08-08"
+    },
+    {
         "date": "2025-08-06",
         "victim": "Centre hospitalier du Gers",
         "domain": "ch-gers.fr",
