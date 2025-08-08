@@ -1,6 +1,16 @@
 [
     {
         "date": "2025-08-06",
+        "victim": "Centre hospitalier du Gers",
+        "domain": "ch-gers.fr",
+        "country": "FRA",
+        "summary": "Le Centre hospitalier du Gers a été victime d'une cyberattaque, possiblement liée à un ransomware, ce qui a entraîné un fonctionnement en mode dégradé de certains logiciels métiers. Une enquête est en cours et aucune donnée ne semble avoir été compromise à ce stade. Les admissions et la prise en charge des patients se poursuivent normalement malgré cet incident.",
+        "title": "Le Centre hospitalier du Gers ciblé par une cyberattaque, une enquête est en cours",
+        "url": "https://www.ladepeche.fr/2025/08/07/le-centre-hospitalier-du-gers-cible-par-une-cyberattaque-une-enquete-est-en-cours-12865493.php",
+        "added": "2025-08-08"
+    },
+    {
+        "date": "2025-08-06",
         "victim": "Pakistan Petroleum Limited (PPL)",
         "domain": "ppl.com.pk",
         "country": "PAK",
