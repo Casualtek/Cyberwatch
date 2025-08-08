@@ -1,5 +1,15 @@
 [
     {
+        "date": "2025-08-05",
+        "victim": "PROGI",
+        "domain": "progi.com",
+        "country": "CAN",
+        "summary": "La plateforme PROGI, utilisée par les assureurs pour envoyer des devis de travail aux ateliers de carrosserie, a été victime d'une cyberattaque au début de la semaine. Les sites PROGI et PROGIPièces sont paralysés depuis lundi. Les compagnies d'assurances Beneva et Desjardins Assurances ont confirmé avoir reçu un avis de leur partenaire au début de la semaine.",
+        "title": "Une plateforme pour les assureurs paralysée depuis le début de la semaine",
+        "url": "https://www.journaldemontreal.com/2025/08/07/une-plateforme-pour-les-assureurs-piratee-depuis-le-debut-de-la-semaine",
+        "added": "2025-08-08"
+    },
+    {
         "date": "2025-04-29",
         "victim": "Episciences, Inc.",
         "domain": "epionce.com",
