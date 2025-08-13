@@ -1,5 +1,15 @@
 [
     {
+        "date": "2025-08-04",
+        "victim": "Infoniqa",
+        "domain": "infoniqa.com",
+        "country": "CHE",
+        "summary": "La plateforme de ressources humaines Infoniqa a subi une attaque informatique, ce qui a conduit à la fermeture de certaines parties de son site. L'entreprise n'a pas encore trouvé de preuves de fuite de données. Les services affectés incluent ONE Start Cloud, myInfoniqa Kundenportal et le Help Center / Ticketsystem.",
+        "title": "HR-Plattform Infoniqa erleidet einen Cyberangriff",
+        "url": "https://www.swisscybersecurity.net/news/2025-08-08/hr-plattform-infoniqa-erleidet-einen-cyberangriff",
+        "added": "2025-08-13"
+    },
+    {
         "date": "2025-08-13",
         "victim": "Hoppegarten",
         "domain": "gemeinde-hoppegarten.de",
