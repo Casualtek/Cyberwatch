@@ -1,6 +1,16 @@
 [
     {
         "date": "2025-08-11",
+        "victim": "Yes24",
+        "domain": "yes24.com",
+        "country": "KOR",
+        "summary": "Yes24, le plus grand détaillant de billets et de livres en ligne de Corée du Sud, a subi une attaque de ransomware qui a mis son site Web et son application mobile hors ligne pendant plusieurs heures. Il s'agit de la deuxième attaque de ce type en moins de deux mois pour l'entreprise. Les services ont été rétablis en utilisant des données de sauvegarde, mais l'attaque a causé des perturbations pour les fans de K-pop qui essayaient d'acheter des billets pour des concerts.",
+        "title": "Second ransomware attack in two months disrupts South Korean ticketing giant",
+        "url": "https://therecord.media/yes24-second-ransomware-attack-kpop-ticketing-affected",
+        "added": "2025-08-13"
+    },
+    {
+        "date": "2025-08-11",
         "victim": "Office of the Attorney General of Pennsylvania",
         "domain": "attorneygeneral.gov",
         "country": "USA",
