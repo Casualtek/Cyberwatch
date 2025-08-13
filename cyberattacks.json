@@ -1,5 +1,15 @@
 [
     {
+        "date": "2025-08-11",
+        "victim": "Office of the Attorney General of Pennsylvania",
+        "domain": "attorneygeneral.gov",
+        "country": "USA",
+        "summary": "Le bureau de l'avocat général de Pennsylvanie a été victime d'une cyberattaque qui a mis hors ligne ses systèmes téléphoniques et de messagerie électronique. Les enquêteurs travaillent pour déterminer la cause de l'incident et restaurer les services. Les procureurs continuent de travailler sur les affaires malgré la cyberattaque.",
+        "title": "Pennsylvania attorney general says cyberattack knocked phone, email systems offline",
+        "url": "https://therecord.media/pennsylvania-attorney-general-office-cyberattack",
+        "added": "2025-08-13"
+    },
+    {
         "date": "2025-08-04",
         "victim": "Infoniqa",
         "domain": "infoniqa.com",
