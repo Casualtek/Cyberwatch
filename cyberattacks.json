@@ -1,5 +1,15 @@
 [
     {
+        "date": "2025-08-08",
+        "victim": "Spartanburg County",
+        "domain": "spartanburgcounty.org",
+        "country": "USA",
+        "summary": "Le comté de Spartanburg a été victime d'une cyberattaque, ce qui a entraîné la perturbation de certains services en ligne. Les responsables du comté ont déclaré que l'attaque avait été contenue et que les services essentiels continuaient de fonctionner normalement. Le comté travaille actuellement à la restauration de ses systèmes et à la rétablisation de l'accès public.",
+        "title": "Spartanburg County hit by cyberattack, some online services disrupted",
+        "url": "https://www.wyff4.com/article/spartanburg-county-cyberattack-services-disrupted/65637950",
+        "added": "2025-08-13"
+    },
+    {
         "date": "2025-07-28",
         "victim": "FranceLink",
         "domain": "francelink.net",
