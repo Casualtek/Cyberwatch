@@ -1,5 +1,15 @@
 [
     {
+        "date": "2025-07-28",
+        "victim": "FranceLink",
+        "domain": "francelink.net",
+        "country": "FRA",
+        "summary": "FranceLink a été victime d'une attaque informatique, ce qui a entraîné la fermeture temporaire de son standard téléphonique et des perturbations dans ses services, notamment la perte de données. L'équipe de FranceLink travaille activement à la récupération des données et à la reconstruction de ses infrastructures. Les clients sont invités à prendre des mesures pour minimiser les impacts, notamment en migrant leurs services de messagerie.",
+        "title": "Cyberattaque",
+        "url": "https://status.francelink.net",
+        "added": "2025-08-13"
+    },
+    {
         "date": "2025-08-03",
         "victim": "South Shore Regional Emergency Communications Center",
         "domain": "ssrecc.org",
