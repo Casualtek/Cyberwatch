@@ -1,5 +1,15 @@
 [
     {
+        "date": "2025-08-11",
+        "victim": "Linedata",
+        "domain": "linedata.com",
+        "country": "FRA",
+        "summary": "Une cyberattaque a visé le fournisseur français de services de gestion de fonds Linedata, ce qui a entraîné la suspension de fonds utilisant Tutman Fund Solutions en tant que directeur corporatif autorisé. L'attaque a eu un impact sur environ 80 fonds. Linedata est une entreprise de technologie, de données et de logiciels cotée à Euronext Paris.",
+        "title": "Cyberattack at French fund administrator Linedata led to fund suspensions",
+        "url": "https://citywire.com/new-model-adviser/news/french-fintech-linedata-hit-with-cyberattack-which-led-to-acd-fund-suspension/a2472078",
+        "added": "2025-08-18"
+    },
+    {
         "date": "2024-08-11",
         "victim": "Clinical Diagnostics",
         "domain": "clinicaldiagnostics.nl",
