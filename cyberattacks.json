@@ -1,5 +1,15 @@
 [
     {
+        "date": "2025-08-12",
+        "victim": "Stock in the Channel",
+        "domain": "stockinthechannel.com",
+        "country": "GBR",
+        "summary": "Stock in the Channel, une entreprise britannique, a subi une attaque de ransomware qui a entraîné la fermeture de son site web. Les attaquants ont exploité une vulnérabilité zero day dans l'une des applications tierces utilisées par l'entreprise. Selon l'entreprise, il n'y a actuellement aucune preuve de violation de données et tous les données critiques ont été récupérées.",
+        "title": "Stock in the Channel pulls website amid cyberattack",
+        "url": "https://www.theregister.com/2025/08/14/stock_in_the_channel_pulls/",
+        "added": "2025-08-18"
+    },
+    {
         "date": "2025-08-07",
         "victim": "Nigeria Customs Service (NCS)",
         "domain": "customs.gov.ng",
