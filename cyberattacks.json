@@ -1,5 +1,15 @@
 [
     {
+        "date": "2025-07-09",
+        "victim": "Daniels Law Group, LLC",
+        "domain": "danielslawgroupllc.com",
+        "country": "USA",
+        "summary": "An unidentified individual or group used illegal methods to gain unauthorized access to Daniels Law Group's file servers, potentially acquiring personal data belonging to clients and their family members. The incident occurred on or before July 1, 2025, and was discovered on July 9, 2025. It was claimed by Qilin on July 21st.",
+        "title": "Data Breach Notification",
+        "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/9087bea4-54f6-4881-af88-cd9bccffe964.html",
+        "added": "2025-08-13"
+    },
+    {
         "date": "2024-12-29",
         "victim": "Manpower of Lansing, MI Inc.",
         "domain": "manpower.com",
