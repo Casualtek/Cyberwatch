@@ -1,5 +1,15 @@
 [
     {
+        "date": "2025-08-16",
+        "victim": "Bragg",
+        "domain": "bragg.group",
+        "country": "USA",
+        "summary": "Bragg a subi une faille de sécurité limitée à son environnement informatique interne, sans impact sur les informations personnelles ni sur ses opérations. L'entreprise prend la situation très au sérieux et demande à ses clients et partenaires de patienter pendant qu'elle tente de remédier à la situation. Cette faille de sécurité fait suite à d'autres incidents de cybersécurité récents dans le secteur des fournisseurs de jeux.",
+        "title": "Bragg Gaming IT systems breached in cyberattack",
+        "url": "https://next.io/news/technology/bragg-gaming-systems-breached-cyberattack/",
+        "added": "2025-08-18"
+    },
+    {
         "date": "2025-08-15",
         "victim": "Compagnie des guides de Chamonix",
         "domain": "chamonix-guides.com",
