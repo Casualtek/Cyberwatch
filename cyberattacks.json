@@ -1,5 +1,75 @@
 [
     {
+        "date": "2025-05-30",
+        "victim": "Christian Brothers Academy",
+        "domain": "cbasyracuse.org",
+        "country": "USA",
+        "summary": "Christian Brothers Academy suffered a cyberattack that may have exposed personal information, including names, addresses, financial information, and identification numbers. The breach occurred through a potential phishing attack, and the attackers may have accessed certain files containing personal information. The attack was claimed by Interlock on June 12th.",
+        "title": "Data Breach Notification",
+        "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/53341237-dbff-4447-8dca-ea388902d580.html",
+        "added": "2025-08-16"
+    },
+    {
+        "date": "2025-04-10",
+        "victim": "Continental Bancorporation",
+        "domain": "cbankus.com",
+        "country": "USA",
+        "summary": "An unauthorized party attempted to gain access to Continental's internal network via a recently published vulnerability associated with CrushFTP server software, potentially accessing personal information of one New Hampshire resident.",
+        "title": "Data Breach Notification",
+        "url": "https://mm.nh.gov/files/uploads/doj/remote-docs/continental-bancorporation-crushftp-20250808.pdf",
+        "added": "2025-08-09"
+    },
+    {
+        "date": "2025-06-24",
+        "victim": "Columbia University",
+        "domain": "columbia.edu",
+        "country": "USA",
+        "summary": "Columbia University experienced a cyber incident where an unauthorized third-party gained access to their network and took certain files from their system. The affected data included names, dates of birth, Social Security numbers, and personal information. The university is offering two years of complimentary credit monitoring and identity restoration services through Kroll.",
+        "title": "2025-08-07 Columbia University Data Breach Notice to Consumers",
+        "url": "https://ago.vermont.gov/document/2025-08-07-columbia-university-data-breach-notice-consumers",
+        "added": "2025-08-09"
+    },
+    {
+        "date": "2024-05-26",
+        "victim": "CEI Vision Partners, LLC",
+        "domain": "eyecare-partners.com",
+        "country": "USA",
+        "summary": "CEI Vision Partners, LLC discovered a data breach after an unknown, unauthorized third party gained temporary access to their computer network between May 24, 2024, and May 27, 2024. The breach may have involved personal information, including names, contact information, dates of birth, Social Security numbers, financial account information, limited clinical information, and/or health plan information. The organization is offering a complimentary one-year membership of Experian IdentityWorksSM Credit 3B to affected individuals.",
+        "title": "2025-08-12 CEI Vision Partners Data Breach Notice to Consumers",
+        "url": "https://ago.vermont.gov/document/2025-08-12-cei-vision-partners-data-breach-notice-consumers",
+        "added": "2025-08-14"
+    },
+    {
+        "date": "2025-07-30",
+        "victim": "Lumitex, Inc.",
+        "domain": "lumitex.com",
+        "country": "USA",
+        "summary": "The breach details are unclear, but it appears to be a complex incident involving multiple entities and potential data exposure. The exact nature and scope of the breach are unknown. Further investigation is required to determine the full extent of the incident.",
+        "title": "Data Breach Notification",
+        "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/680d32fb-881b-4f31-b070-ef9ad8edebff.html",
+        "added": "2025-08-16"
+    },
+    {
+        "date": "2025-02-25",
+        "victim": "The Business Council of New York State, Inc.",
+        "domain": "bcnys.org",
+        "country": "USA",
+        "summary": "An unauthorized party gained access to BCNYS internal systems from February 24, 2025, to February 25, 2025, potentially exposing personal information. The breach was discovered on August 4, 2025. BCNYS is offering complimentary credit monitoring to affected individuals.",
+        "title": "Data Breach Notification",
+        "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/4e0abf3a-7fc1-4257-95e8-c0b1ee1fe216.html",
+        "added": "2025-08-16"
+    },
+    {
+        "date": "2024-12-21",
+        "victim": "CPAP Medical Supplies and Services Inc.",
+        "domain": "cpapmedical.com",
+        "country": "USA",
+        "summary": "CPAP Medical Supplies and Services Inc. experienced a data breach, potentially exposing personal and medical information. The company is offering complimentary credit monitoring and recommends that affected individuals place a fraud alert on their credit files. Additional resources are provided for affected residents in various states.",
+        "title": "Data Breach Notification",
+        "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/f310f5e8-437b-4071-b3d1-fdbd27092b19.html",
+        "added": "2025-08-16"
+    },
+    {
         "date": "2025-05-06",
         "victim": "Optima Tax Relief, LLC",
         "domain": "optimataxrelief.com",
