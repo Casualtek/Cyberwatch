@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-08-11",
+        "victim": "Clinical Diagnostics",
+        "domain": "clinicaldiagnostics.nl",
+        "country": "NLD",
+        "summary": "Le laboratoire Clinical Diagnostics a été victime d'une cyberattaque, entraînant la fuite de données de patients et de professionnels de santé. Cette attaque a des conséquences importantes pour les soins de santé aux Pays-Bas, notamment pour les cabinets de médecins et les services de garde qui travaillent avec le laboratoire. Les organisations concernées ont exprimé leur inquiétude quant à la lenteur de la communication de la part de Clinical Diagnostics.",
+        "title": "Datalek bij laboratorium Clinical Diagnostics treft huisartsenzorg",
+        "url": "https://www.dutchitleaders.nl/news/688050/datalek-bij-laboratorium-clinical-diagnostics-treft-huisartsenzorg",
+        "added": "2025-08-18"
+    },
+    {
         "date": "2025-08-12",
         "victim": "Stock in the Channel",
         "domain": "stockinthechannel.com",
