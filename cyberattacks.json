@@ -1,5 +1,15 @@
 [
     {
+        "date": "2025-05-06",
+        "victim": "Optima Tax Relief, LLC",
+        "domain": "optimataxrelief.com",
+        "country": "USA",
+        "summary": "Optima Tax Relief, LLC suffered a data breach between May 1, 2025, and May 6, 2025, resulting in unauthorized access to certain files containing personal information of five Maine residents. The attack was claimed by Chaos on June 6th.",
+        "title": "Data Breach Notification",
+        "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/6861f67f-29cd-41fe-a612-bfc03b222a37.html",
+        "added": "2025-08-16"
+    },
+    {
         "date": "2025-07-09",
         "victim": "Daniels Law Group, LLC",
         "domain": "danielslawgroupllc.com",
@@ -8,6 +18,26 @@
         "title": "Data Breach Notification",
         "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/9087bea4-54f6-4881-af88-cd9bccffe964.html",
         "added": "2025-08-13"
+    },
+    {
+        "date": "2024-12-09",
+        "victim": "The Mercadien Group, LLC",
+        "domain": "mercadien.com",
+        "country": "USA",
+        "summary": "The Mercadien Group, LLC experienced a data security incident that may have affected personal information, including names, dates of birth, and Social Security numbers. The incident occurred on November 26th, 2024, and was discovered on December 9, 2024. The organization is offering complimentary credit monitoring and fraud assistance services to affected individuals.",
+        "title": "Data Breach Notification",
+        "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/d2b13dca-7087-4fa7-b2e7-ffdde4d72e7a.html",
+        "added": "2025-08-14"
+    },
+    {
+        "date": "2024-12-06",
+        "victim": "Lands' End, Inc.",
+        "domain": "landsend.com",
+        "country": "USA",
+        "summary": "Lands ' End experienced a data security incident where an unauthorized third party accessed a small portion of its corporate network, potentially exposing personal information of current and former employees and their dependents.",
+        "title": "Data Breach Notification",
+        "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/229b18d3-d2b9-4c05-99cd-f12a433fc941.html",
+        "added": "2025-08-14"
     },
     {
         "date": "2024-12-29",
