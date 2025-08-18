@@ -1,5 +1,15 @@
 [
     {
+        "date": "2025-08-12",
+        "victim": "Colt Technology Services",
+        "domain": "colt.net",
+        "country": "GBR",
+        "summary": "La société de télécommunications britannique Colt Technology Services est victime d'une cyberattaque qui a causé une panne de plusieurs jours de certaines de ses opérations. L'attaque a commencé le 12 août et les services tels que Colt Online et la plateforme Voice API sont toujours hors ligne. Les autorités ont été notifiées, mais les détails sur les auteurs de l'attaque ou son type n'ont pas été divulgués.",
+        "title": "Colt Telecom attack claimed by WarLock ransomware, data up for sale",
+        "url": "https://www.bleepingcomputer.com/news/security/colt-telecom-attack-claimed-by-warlock-ransomware-data-up-for-sale/",
+        "added": "2025-08-18"
+    },
+    {
         "date": "2025-08-11",
         "victim": "Yes24",
         "domain": "yes24.com",
