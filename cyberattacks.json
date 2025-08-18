@@ -1,5 +1,55 @@
 [
     {
+        "date": "2024-12-29",
+        "victim": "Manpower of Lansing, MI Inc.",
+        "domain": "manpower.com",
+        "country": "USA",
+        "summary": "Manpower of Lansing MI, Inc. experienced an IT outage that led to unauthorized access to their network between December 29, 2024, and January 12, 2025. The attack was claimed by RansomHub on January 22nd.",
+        "title": "Data Breach Notification",
+        "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/7f78311b-64ff-4436-82b7-187ed0d23685.html",
+        "added": "2025-08-12"
+    },
+    {
+        "date": "2024-10-17",
+        "victim": "Old Dutch Foods, Inc.",
+        "domain": "olddutchfoods.com",
+        "country": "USA",
+        "summary": "Old Dutch Foods, Inc. suffered a data breach between October 16 and October 17, 2024, where unauthorized access occurred and sensitive information may have been copied and taken. The breach involved name, Social Security number, driver's license number, and financial account information. Old Dutch Foods, Inc. is offering complimentary credit monitoring and identity protection services through Experian.",
+        "title": "Data Breach Notification",
+        "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/c0f6b4b4-b4a9-4a04-905d-5b3dcdf14037.html",
+        "added": "2025-08-12"
+    },
+    {
+        "date": "2024-11-20",
+        "victim": "DBM Global Inc.",
+        "domain": "dbmglobal.com",
+        "country": "USA",
+        "summary": "DBM Global, Inc. experienced a data security incident in November 2024, where an unknown actor acquired certain personal information without authorization. The incident was discovered on November 20, 2024, and DBM Global undertook a comprehensive review of the potentially impacted data. The company notified 12 Maine residents and offered complimentary credit monitoring and identity theft protection services.",
+        "title": "Data Breach Notification",
+        "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/21ad31aa-c8fd-4fb0-a560-7a1bb935531a.html",
+        "added": "2025-08-12"
+    },
+    {
+        "date": "2025-07-01",
+        "victim": "Tipton, marler, Garner and Chastain, P.A.",
+        "domain": "cpagroup.com",
+        "country": "USA",
+        "summary": "Tipton, Marler, Garner and Chastain, P.A. suffered a data breach where an unauthorized actor viewed and/or copied a limited number of files containing names and Social Security numbers. The breach occurred on July 1, 2025, and was discovered on July 1, 2025. The incident was investigated, and the affected individuals were notified.",
+        "title": "Data Breach Notification",
+        "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/159fbe3d-16b2-4ff1-bea9-2cd310c6e931.html",
+        "added": "2025-08-12"
+    },
+    {
+        "date": "2025-07-02",
+        "victim": "Harris, Burnett, Arend & Schmiesing CPA",
+        "domain": "hbastax.com",
+        "country": "USA",
+        "summary": "Harris, Burnett, Arend & Schmiesing CPA’s experienced a data breach where an unknown bad actor accessed individual’s information, potentially including names, social security numbers, and financial data.",
+        "title": "Data Breach Notification",
+        "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/8b1df7c6-4eb0-4945-a8f0-8fb03130533c.html",
+        "added": "2025-08-12"
+    },
+    {
         "date": "2025-05-07",
         "victim": "Value Store It Management Inc.",
         "domain": "valuestoreit.com",
