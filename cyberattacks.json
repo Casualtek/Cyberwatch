@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-07-19",
+        "victim": "Dinowitz & Bove CPA",
+        "domain": "dbaccounting.net",
+        "country": "USA",
+        "summary": "Dinowitz & Bove CPA experienced a data security incident that may have affected personally identifiable information. The incident occurred on July 19, 2024, and was discovered on July 8, 2025. The breach involved the potential unauthorized access to names and other information.",
+        "title": "Data Breach Notification",
+        "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/2fb71b27-fbed-4a25-9fdc-ee1e9565394a.html",
+        "added": "2025-08-19"
+    },
+    {
         "date": "2025-08-12",
         "victim": "City of Lubbock",
         "domain": "lubbock.tx.us",
