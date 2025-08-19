@@ -1,5 +1,15 @@
 [
     {
+        "date": "2025-08-12",
+        "victim": "City of Lubbock",
+        "domain": "lubbock.tx.us",
+        "country": "USA",
+        "summary": "La ville de Lubbock a subi deux attaques informatiques cette année, dont une qui a fermé sa présence en ligne. Une attaque antérieure avait créé une fausse fenêtre contextuelle sur le site de paiement des services publics de la ville. Les autorités de la ville ont travaillé pour restaurer les systèmes et ont offert une période de surveillance du crédit gratuite aux personnes touchées.",
+        "title": "Another cyber-attack at city hall: city gave notice to Texas AG, topic added to special meeting of City Council",
+        "url": "https://www.everythinglubbock.com/news/local-news/another-cyber-attack-at-city-hall-city-gave-notice-to-texas-ag-topic-added-to-special-meeting-of-city-council/",
+        "added": "2025-08-19"
+    },
+    {
         "date": "2025-08-08",
         "victim": "Inotiv, Inc.",
         "domain": "inotiv.com",
