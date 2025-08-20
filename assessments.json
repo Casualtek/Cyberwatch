@@ -1,5 +1,12 @@
 [
     {
+        "victim": "mycpaconnection.com",
+        "domain": "mycpaconnection.com",
+        "country": "US",
+        "date": "2025-07-20",
+        "group": "incransom"
+    },
+    {
         "victim": "Howard Financial & Associates",
         "domain": "howardfinancialcorp.com",
         "country": "US",
