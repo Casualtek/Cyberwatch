@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-10-06",
+        "victim": "Ratio Architects LLC.",
+        "domain": "ratiodesign.com",
+        "country": "USA",
+        "summary": "Ratio Architects, LLC suffered a data security incident involving the unauthorized acquisition of personal information, including names and other data elements. The incident occurred on October 6, 2024, and was discovered on May 23, 2025. The company has taken steps to resecure its systems and is providing identity monitoring services to affected individuals.",
+        "title": "Data Breach Notification",
+        "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/5b123e58-3a9f-4c9d-8a85-ab44c7990dc8.html",
+        "added": "2025-08-20"
+    },
+    {
         "date": "2024-07-19",
         "victim": "Dinowitz & Bove CPA",
         "domain": "dbaccounting.net",
