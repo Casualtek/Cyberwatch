@@ -1,5 +1,15 @@
 [
     {
+        "date": "2025-08-14",
+        "victim": "University of St. Thomas",
+        "domain": "stthom.edu",
+        "country": "USA",
+        "summary": "Une tentative de piratage a visé les serveurs de l'Université de St. Thomas, entraînant une interruption des services en ligne, mais aucune donnée n'a été compromise selon l'université. Les équipes de sécurité enquêtent sur l'incident et travaillent à rétablir les services le plus rapidement possible. L'université a pris des mesures de précaution pour protéger les données des étudiants et du personnel.",
+        "title": "Cyber Attack Takes University of St. Thomas, Texas, Offline",
+        "url": "https://www.govtech.com/education/higher-ed/cyber-attack-takes-university-of-st-thomas-texas-offline",
+        "added": "2025-08-20"
+    },
+    {
         "date": "2025-08-17",
         "victim": "Ville de Middletown",
         "domain": "cityofmiddletown.org",
