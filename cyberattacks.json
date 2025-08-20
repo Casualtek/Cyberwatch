@@ -1,5 +1,15 @@
 [
     {
+        "date": "2025-08-17",
+        "victim": "Ville de Middletown",
+        "domain": "cityofmiddletown.org",
+        "country": "USA",
+        "summary": "La ville de Middletown est victime d'une faille de sécurité informatique qui a perturbé de nombreuses fonctions de la ville. Les services en personne sont suspendus au bâtiment de la ville de Middletown, mais les autres départements continuent de fonctionner normalement. La ville fournira des mises à jour supplémentaires sur la situation.",
+        "title": "Middletown issues update after weekend cyberattack",
+        "url": "https://www.wdtn.com/news/local-news/middletown-issues-update-after-weekend-cyberattack/",
+        "added": "2025-08-20"
+    },
+    {
         "date": "2025-08-11",
         "victim": "Welcome Financial Group",
         "domain": "welcomefg.co.kr",
