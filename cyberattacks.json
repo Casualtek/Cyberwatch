@@ -1,5 +1,15 @@
 [
     {
+        "date": "2025-06-29",
+        "victim": "MPOWERHealth",
+        "domain": "mpowerhealth.com",
+        "country": "USA",
+        "summary": "MPOWERHealth a été victime d'une fuite de données de 989,8 Go, comprenant des informations de santé protégées et des données sensibles, qui ont été trouvées intactes et non cryptées dans la corbeille de recyclage. Les données ont été obtenues par WorldLeaks, qui a exigé un paiement en échange de la non-divulgation des données. MPOWERHealth a cessé de répondre après que WorldLeaks ait refusé de négocier le prix.",
+        "title": "MPOWERHealth victim of cyberattack; protected health information involved – DataBreaches.Net",
+        "url": "https://databreaches.net/2025/08/21/mpowerhealth-victim-of-cyberattack-protected-health-information-involved/",
+        "added": "2025-08-21"
+    },
+    {
         "date": "2025-01-20",
         "victim": "Fundamental Administrative Services LLC",
         "domain": "fundltc.com",
