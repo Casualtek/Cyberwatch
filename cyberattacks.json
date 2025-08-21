@@ -1,5 +1,25 @@
 [
     {
+        "date": "2025-01-20",
+        "victim": "Fundamental Administrative Services LLC",
+        "domain": "fundltc.com",
+        "country": "USA",
+        "summary": "Fundamental Administrative Services LLC suffered a data breach after an unauthorized actor copied certain files from their computer network between October 27, 2024, and January 13, 2025. The breach may have affected personal information, including names, Social Security numbers, driver's license or state identification numbers, financial account information, and medical treatment information. The company is offering complimentary access to 12/24 months of credit monitoring through IDX.",
+        "title": "2025-08-15 Fundamental Administrative Services Data Breach Notice to Consumers",
+        "url": "https://ago.vermont.gov/document/2025-08-15-fundamental-administrative-services-data-breach-notice-consumers",
+        "added": "2025-08-21"
+    },
+    {
+        "date": "2023-07-12",
+        "victim": "Premier Health Partners",
+        "domain": "premierhealth.com",
+        "country": "USA",
+        "summary": "Premier Health Partners experienced a data breach where unauthorized parties accessed certain systems between June 7, 2023, and July 12, 2023, potentially exposing sensitive information. The breach may have included names, dates of birth, Social Security numbers, driver's license numbers, and other personal data. Premier Health is offering free credit monitoring services to affected individuals.",
+        "title": "2025-08-18 Premier Health Partners Data Breach Notice to Consumers",
+        "url": "https://ago.vermont.gov/document/2025-08-18-premier-health-partners-data-breach-notice-consumers",
+        "added": "2025-08-21"
+    },
+    {
         "date": "2025-06-24",
         "victim": "Morrow Equipment",
         "domain": "morrowequipment.com",
