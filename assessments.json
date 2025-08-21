@@ -1,5 +1,33 @@
 [
     {
+        "victim": "Hulberg & Associates",
+        "domain": "hulberg.com",
+        "country": "US",
+        "date": "2025-07-02",
+        "group": "play"
+    },
+    {
+        "victim": "Rockrose Development",
+        "domain": "rockrose.com",
+        "country": "US",
+        "date": "2025-07-09",
+        "group": "play"
+    },
+    {
+        "victim": "Morrison Companies",
+        "domain": "morrison-usa.com",
+        "country": "US",
+        "date": "2025-07-13",
+        "group": "play"
+    },
+    {
+        "victim": "IMSSA Manufacturing",
+        "domain": "imssa1.com",
+        "country": "US",
+        "date": "2025-07-12",
+        "group": "play"
+    },
+    {
         "victim": "Ka Logistics",
         "domain": "kalogistics.com",
         "country": "US",
