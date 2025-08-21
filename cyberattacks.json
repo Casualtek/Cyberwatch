@@ -1,5 +1,15 @@
 [
     {
+        "date": "2025-02-26",
+        "victim": "DermCare Management",
+        "domain": "dermcaremgt.com",
+        "country": "USA",
+        "summary": "DermCare Management, une société de gestion de pratiques médicales basée en Floride, a subi une faille de sécurité qui a affecté plusieurs pratiques de dermatologie. Les informations personnelles et médicales de patients ont pu être compromises. L'enquête est toujours en cours pour déterminer l'étendue de la faille de sécurité.",
+        "title": "Dermatology Clinics Affected by Practice Management Company Data Breach",
+        "url": "https://www.hipaajournal.com/dermatology-clinics-practice-management-company-data-breach/",
+        "added": "2025-08-21"
+    },
+    {
         "date": "2025-06-29",
         "victim": "MPOWERHealth",
         "domain": "mpowerhealth.com",
