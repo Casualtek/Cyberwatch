@@ -1,5 +1,75 @@
 [
     {
+        "victim": "Ka Logistics",
+        "domain": "kalogistics.com",
+        "country": "US",
+        "date": "2025-07-14",
+        "group": "play"
+    },
+    {
+        "victim": "Thern",
+        "domain": "thern.com",
+        "country": "US",
+        "date": "2025-07-03",
+        "group": "play"
+    },
+    {
+        "victim": "Phoenix Lighting",
+        "domain": "phoenixlighting.com",
+        "country": "US",
+        "date": "2025-07-30",
+        "group": "play"
+    },
+    {
+        "victim": "Backstage Library Works",
+        "domain": "bslw.com",
+        "country": "US",
+        "date": "2025-07-29",
+        "group": "play"
+    },
+    {
+        "victim": "White Horse Packaging",
+        "domain": "thelatgroup.com",
+        "country": "US",
+        "date": "2025-07-28",
+        "group": "play"
+    },
+    {
+        "victim": "Terillium",
+        "domain": "terillium.com",
+        "country": "US",
+        "date": "2025-07-18",
+        "group": "play"
+    },
+    {
+        "victim": "Jamco Aerospace",
+        "domain": "jamco-aerospace.com",
+        "country": "US",
+        "date": "2025-08-03",
+        "group": "play"
+    },
+    {
+        "victim": "Brad's Bedding Plants",
+        "domain": "bradsbedding.com",
+        "country": "US",
+        "date": "2025-07-30",
+        "group": "play"
+    },
+    {
+        "victim": "The Magni Group",
+        "domain": "magnicoatings.com",
+        "country": "US",
+        "date": "2025-07-25",
+        "group": "play"
+    },
+    {
+        "victim": "NEAS",
+        "domain": "neas.ca",
+        "country": "CA",
+        "date": "2025-08-06",
+        "group": "play"
+    },
+    {
         "victim": "mycpaconnection.com",
         "domain": "mycpaconnection.com",
         "country": "US",
