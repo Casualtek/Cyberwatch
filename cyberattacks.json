@@ -1,5 +1,15 @@
 [
     {
+        "date": "2025-08-16",
+        "victim": "Data I/O Corporation",
+        "domain": "dataio.com",
+        "country": "USA",
+        "summary": "Data I/O Corporation a subi une attaque de ransomware le 16 août 2025, ce qui a temporairement impacté ses opérations, notamment les communications internes et externes, l'expédition et la production manufacturière. L'entreprise travaille à la restauration des systèmes affectés et a engagé des experts en cybersécurité pour soutenir la récupération et mener une enquête approfondie. Les coûts liés à l'incident pourraient avoir un impact significatif sur les résultats d'exploitation et la situation financière de l'entreprise.",
+        "title": "daio_8k.htm",
+        "url": "https://www.sec.gov/Archives/edgar/data/351998/000165495425009925/daio_8k.htm",
+        "added": "2025-08-22"
+    },
+    {
         "date": "2025-08-18",
         "victim": "Département de l'Aude",
         "domain": "aude.fr",
