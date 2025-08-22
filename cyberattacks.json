@@ -1,5 +1,25 @@
 [
     {
+        "date": "2025-03-06",
+        "victim": "Fusion Medical Staffing",
+        "domain": "fusionmedstaff.com",
+        "country": "USA",
+        "summary": "Fusion Medical Staffing experienced a data security incident where unauthorized individuals acquired certain files containing personal information. The affected data included names, dates of birth, Social Security numbers, driver's licenses, and medical information. The organization has taken steps to enhance security and is offering complimentary credit monitoring services.",
+        "title": "2025-08-19 Fusion Medical Staffing Data Breach Notice to Consumers",
+        "url": "https://ago.vermont.gov/document/2025-08-19-fusion-medical-staffing-data-breach-notice-consumers",
+        "added": "2025-08-22"
+    },
+    {
+        "date": "2024-02-27",
+        "victim": "Kuck Baxter Immigration, LLC",
+        "domain": "immigration.net",
+        "country": "USA",
+        "summary": "Kuck Baxter Immigration, LLC suffered a data breach where an unknown third-party gained unauthorized access to their network environment, potentially exposing sensitive information. The breach occurred on February 27, 2024, and was discovered on March 21, 2025. The exposed information includes names, dates of birth, Social Security numbers, and other sensitive data.",
+        "title": "2025-08-19 Kuck Baxter Data Breach Notice to Consumers",
+        "url": "https://ago.vermont.gov/document/2025-08-19-kuck-baxter-data-breach-notice-consumers",
+        "added": "2025-08-22"
+    },
+    {
         "date": "2025-07-02",
         "victim": "First Baptist Church of Hammond",
         "domain": "fbchammond.com",
