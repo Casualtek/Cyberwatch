@@ -1,5 +1,15 @@
 [
     {
+        "date": "2025-07-02",
+        "victim": "First Baptist Church of Hammond",
+        "domain": "fbchammond.com",
+        "country": "USA",
+        "summary": "First Baptist Church of Hammond suffered a data breach after an unknown cyber actor accessed its computer network and copied files containing names and Social Security numbers. The incident occurred between June 29 and July 2, 2025. The was claimed by Rhysida on July 29th.",
+        "title": "Data Breach Notification",
+        "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/505fbd4a-e768-47e5-acc0-2588b5102253.html",
+        "added": "2025-08-22"
+    },
+    {
         "date": "2025-08-16",
         "victim": "Data I/O Corporation",
         "domain": "dataio.com",
