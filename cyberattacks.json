@@ -1,5 +1,15 @@
 [
     {
+        "date": "2025-06-23",
+        "victim": "Netstar",
+        "domain": "netstar.co.za",
+        "country": "ZAF",
+        "summary": "Netstar, une filiale d'Altron, a subi une attaque de ransomware en juin 2023, mais a pu contenir l'incident et restaurer ses opérations. Les hackers ont publié des données en ligne, mais Netstar affirme que les données des clients n'ont pas été compromises. L'entreprise a mis en place des mesures de sécurité supplémentaires pour renforcer sa résilience face aux cybermenaces.",
+        "title": "Netstar data dumped online after it defies ransom demand",
+        "url": "https://www.itweb.co.za/article/netstar-data-dumped-online-after-it-defies-ransom-demand/VgZeyqJlOWo7djX9",
+        "added": "2025-08-22"
+    },
+    {
         "date": "2025-01-06",
         "victim": "Aspire Rural Health System",
         "domain": "aspirerhs.org",
