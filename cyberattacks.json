@@ -1,5 +1,25 @@
 [
     {
+        "date": "2025-01-06",
+        "victim": "Aspire Rural Health System",
+        "domain": "aspirerhs.org",
+        "country": "USA",
+        "summary": "Aspire Rural Health System suffered a data breach after an unauthorized party gained access to their internal network from November 4, 2024, to January 6, 2025. The breach involved the theft of personal information, including full names. The organization is offering complimentary credit monitoring services to affected individuals.",
+        "title": "Data Breach Notification",
+        "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/e1ef4717-50eb-4b3c-9a87-76ba7d955551.html",
+        "added": "2025-08-22"
+    },
+    {
+        "date": "2024-07-15",
+        "victim": "The Computer Merchant",
+        "domain": "itstaffing.com",
+        "country": "USA",
+        "summary": "The Computer Merchant, Ltd. experienced a cyberattack in July 2024, which led to unauthorized access to personal information. The breach was discovered in January 2025, and the company has since offered free identity-theft-protection services to affected individuals. The incident impacted 433 Rhode Island residents.",
+        "title": "Data Breach Notification",
+        "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/df902f75-22ff-4ecd-b6bc-f0c4a445eade.html",
+        "added": "2025-08-22"
+    },
+    {
         "date": "2025-03-06",
         "victim": "Fusion Medical Staffing",
         "domain": "fusionmedstaff.com",
