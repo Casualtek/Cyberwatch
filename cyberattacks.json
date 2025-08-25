@@ -1,5 +1,25 @@
 [
     {
+        "date": "2025-05-27",
+        "victim": "Tungsten Automation Corporation (f/k/a Kofax, Inc.)",
+        "domain": "tungstenautomation.com",
+        "country": "USA",
+        "summary": "Tungsten Automation (formerly Kofax) suffered a data breach, resulting in the exposure of personal information. Experian IdentityWorks is offering a complimentary two-year membership to affected individuals. The breach is believed to have occurred prior to November 28, 2025.",
+        "title": "Data Breach Notification",
+        "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/37b04f5a-9289-4adc-ace3-edb87ebc32b2.html",
+        "added": "2025-08-23"
+    },
+    {
+        "date": "2024-10-11",
+        "victim": "Legacy Treatment Services",
+        "domain": "legacytreatment.org",
+        "country": "USA",
+        "summary": "Legacy Treatment Services, Inc. experienced a cybersecurity incident that impacted connectivity to their network, potentially exposing personal data of those served by both Legacy and Community Treatment Solutions between October 6, 2024, and October 11, 2024. The attack was claimed under the Interlock brand on October 26th.",
+        "title": "Data Breach Notification",
+        "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/c82f893a-b2f7-4c1f-b512-8273bbc51586.html",
+        "added": "2025-08-23"
+    },
+    {
         "date": "2025-08-24",
         "victim": "KNH ENTERPRISE CO., LTD.",
         "domain": "knh-global.com",
