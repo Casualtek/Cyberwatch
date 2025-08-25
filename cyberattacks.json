@@ -1,5 +1,15 @@
 [
     {
+        "date": "2025-08-25",
+        "victim": "Maryland Transit Administration (MTA)",
+        "domain": "mta.maryland.gov",
+        "country": "USA",
+        "summary": "La Maryland Transit Administration (MTA) a subi une faille de sécurité informatique, mais les services de base sont toujours actifs. Les systèmes de planification de la mobilité sont affectés, ce qui rend les nouvelles réservations et les rebookings temporairement indisponibles. Les autorités enquêtent sur l'incident avec l'aide d'experts en cybersécurité et de services de police.",
+        "title": "Cyberattack disrupts MTA systems; core services remain active but mobility scheduling impacted",
+        "url": "https://www.wmar2news.com/news/region/baltimore-city/cyberattack-disrupts-mta-systems-core-services-remain-active-but-mobility-scheduling-impacted",
+        "added": "2025-08-25"
+    },
+    {
         "date": "2025-08-22",
         "victim": "Cajeme",
         "domain": "cajeme.gob.mx",
