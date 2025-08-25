@@ -1,5 +1,15 @@
 [
     {
+        "date": "2025-08-24",
+        "victim": "KNH ENTERPRISE CO., LTD.",
+        "domain": "knh-global.com",
+        "country": "TWN",
+        "summary": "KNH Enterprise a subi une attaque informatique, mais grâce à une intervention rapide, les systèmes affectés sont en cours de restauration et il n'y a pas d'impact significatif sur les opérations. Le Groupe a engagé une entreprise de cybersécurité pour résoudre l'incident et continuera à améliorer la sécurité de son réseau et de son infrastructure informatique.",
+        "title": "Today's Information",
+        "url": "https://emops.twse.com.tw/server-java/t05sr01_1_e?&isNew=Y&seq_no=1&spoke_time=170924&spoke_date=20250824&co_id=9919",
+        "added": "2025-08-25"
+    },
+    {
         "date": "2025-08-25",
         "victim": "Maryland Transit Administration (MTA)",
         "domain": "mta.maryland.gov",
