@@ -1,5 +1,15 @@
 [
     {
+        "date": "2025-08-25",
+        "victim": "Nevada State Offices",
+        "domain": "nv.gov",
+        "country": "USA",
+        "summary": "Les bureaux de l'État du Nevada ont suspendu certains services en personne après un incident de cybersécurité qui a perturbé les systèmes des agences locales. Les services d'urgence et le 911 sont restés pleinement opérationnels, mais la perturbation a privé l'accès à certains sites Web de l'État, portails en ligne et lignes téléphoniques de bureau. Les équipes de sécurité ont détecté l'incident dimanche matin et ont lancé des efforts de récupération.",
+        "title": "Nevada State Offices Halts Services After Cyber Incident",
+        "url": "https://www.govinfosecurity.com/nevada-state-offices-halts-services-after-cyber-incident-a-29290",
+        "added": "2025-08-26"
+    },
+    {
         "date": "2025-08-24",
         "victim": "Elche",
         "domain": "elche.es",
