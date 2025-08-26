@@ -1,5 +1,15 @@
 [
     {
+        "date": "2025-08-19",
+        "victim": "Salesian Pontifical University (UPS)",
+        "domain": "unisal.it",
+        "country": "ITA",
+        "summary": "La Salesian Pontifical University a été victime d'une attaque cybernétique grave le 19 août, rendant son site web et ses services numériques temporairement inaccessibles. Les autorités compétentes et les techniciens de l'université travaillent pour comprendre l'ampleur de l'attaque et assurer la sécurité des infrastructures numériques. Les services en ligne de l'université, y compris l'adresse e-mail institutionnelle, sont actuellement indisponibles.",
+        "title": "No Miracle! The Pontifical Salesian University falls victim to ransomware.",
+        "url": "https://www.redhotcyber.com/en/post/no-miracle-the-pontifical-salesian-university-falls-victim-to-ransomware/",
+        "added": "2025-08-26"
+    },
+    {
         "date": "2025-08-25",
         "victim": "Nevada State Offices",
         "domain": "nv.gov",
