@@ -1,5 +1,15 @@
 [
     {
+        "date": "2025-08-24",
+        "victim": "Miljödata",
+        "domain": "miljodata.se",
+        "country": "SWE",
+        "summary": "Une cyberattaque a visé le système de gestion des ressources humaines de Miljödata, utilisé par 80% des communes suédoises, ce qui pourrait avoir entraîné une fuite de données sensibles. Les communes touchées, dont Karlstad, Skellefteå et Luleå, ont activé des groupes de crise pour gérer la situation. L'autorité de protection des données, IMY, a reçu plus de 70 notifications et enquête sur l'incident.",
+        "title": "Cyberattack mot Miljödata – Skellefteå kommun varnar",
+        "url": "https://www.tv4.se/artikel/LKbcNGU8j9W36DypFcNMo/cyberattack-mot-stort-kommunsystem-kaensliga-uppgfiter-kan-ha-laeckts",
+        "added": "2025-08-26"
+    },
+    {
         "date": "2025-08-19",
         "victim": "Salesian Pontifical University (UPS)",
         "domain": "unisal.it",
