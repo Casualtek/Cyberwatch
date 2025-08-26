@@ -1,5 +1,15 @@
 [
     {
+        "date": "2025-08-16",
+        "victim": "Nissan Motor Co. Ltd.",
+        "domain": "nissan-global.com",
+        "country": "JPN",
+        "summary": "Nissan a subi une faille de sécurité suite à un accès non autorisé à un serveur de sa filiale Creative Box Inc., entraînant la fuite de données sensibles. Les pirates de Qilin ont revendiqué la responsabilité de cette attaque et menacent de rendre publiques les données volées. Une enquête est actuellement en cours pour déterminer l'étendue de la faille de sécurité.",
+        "title": "Nissan confirms design studio data breach claimed by Qilin ransomware",
+        "url": "https://www.bleepingcomputer.com/news/security/nissan-confirms-design-studio-data-breach-claimed-by-qilin-ransomware/",
+        "added": "2025-08-26"
+    },
+    {
         "date": "2025-08-11",
         "victim": "Organisme canadien de réglementation des investissements (OCRI)",
         "domain": "ocri.ca",
