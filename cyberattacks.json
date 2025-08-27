@@ -1,5 +1,15 @@
 [
     {
+        "date": "2025-08-05",
+        "victim": "Ville de Greenville",
+        "domain": "greenville.tx.us",
+        "country": "USA",
+        "summary": "La ville de Greenville a subi une attaque de ransomware le 5 août, affectant l'accès aux dossiers de police et autres. Les services d'urgence 911 ne sont pas touchés, mais certains services en ligne sont actuellement indisponibles. Aucune preuve n'a été trouvée que des informations personnelles ont été compromises.",
+        "title": "Ransomware attack on Greenville affects city services, 911 remains intact",
+        "url": "https://www.keranews.org/news/2025-08-26/ransomware-attack-city-greenville-texas-records",
+        "added": "2025-08-27"
+    },
+    {
         "date": "2025-08-16",
         "victim": "Nissan Motor Co. Ltd.",
         "domain": "nissan-global.com",
