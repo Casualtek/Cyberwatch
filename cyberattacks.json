@@ -1,7 +1,17 @@
 [
     {
+        "date": "2025-08-25",
+        "victim": "West Chester Township",
+        "domain": "westchesteroh.org",
+        "country": "USA",
+        "summary": "La commune de West Chester a été victime d'une faille de sécurité potentielle, un groupe de pirates malveillants a visé son serveur de messagerie électronique central. Il s'agit de la deuxième fois que le même groupe cible la commune en un mois, les autorités n'ont pas trouvé de preuve que des données ont été volées. La commune travaille avec le FBI et des experts en cybersécurité pour enquêter sur l'incident et renforcer ses défenses.",
+        "title": "West Chester notified of potential cybersecurity breach, township officials say",
+        "url": "https://www.wcpo.com/news/local-news/butler-county/west-chester/west-chester-notified-of-potential-cybersecurity-breach-township-officials-say",
+        "added": "2025-08-27"
+    },
+    {
         "date": "2025-08-05",
-        "victim": "Ville de Greenville",
+        "victim": "Greenville, Texas",
         "domain": "greenville.tx.us",
         "country": "USA",
         "summary": "La ville de Greenville a subi une attaque de ransomware le 5 août, affectant l'accès aux dossiers de police et autres. Les services d'urgence 911 ne sont pas touchés, mais certains services en ligne sont actuellement indisponibles. Aucune preuve n'a été trouvée que des informations personnelles ont été compromises.",
