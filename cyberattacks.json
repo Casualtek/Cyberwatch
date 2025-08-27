@@ -1,5 +1,15 @@
 [
     {
+        "date": "2025-04-04",
+        "victim": "Statesman Business Advisors, LLC",
+        "domain": "statesmanbusinessadvisors.com",
+        "country": "USA",
+        "summary": "Statesman Business Advisors, LLC experienced unauthorized access to their network on or about April 4, 2025, potentially exposing certain files containing personal information. An investigation revealed that between March 26, 2025, and April 4, 2025, certain files containing personal information were stored in the impacted systems and may have been subject to unauthorized access or acquisition. The attack was claimed by DragonForce on May 11th.",
+        "title": "2025-08-19 Statesman Business Advisors Data Breach Notice to Consumers",
+        "url": "https://ago.vermont.gov/document/2025-08-19-statesman-business-advisors-data-breach-notice-consumers",
+        "added": "2025-08-27"
+    },
+    {
         "date": "2025-08-25",
         "victim": "West Chester Township",
         "domain": "westchesteroh.org",
