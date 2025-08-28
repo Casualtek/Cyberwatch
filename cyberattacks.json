@@ -1,5 +1,15 @@
 [
     {
+        "date": "2025-08-25",
+        "victim": "Conseil régional de Solsonès",
+        "domain": "elsolsones.cat",
+        "country": "ESP",
+        "summary": "Le Consell Comarcal del Solsonès a subi une attaque informatique qui a encrypté les fichiers du système, l'incident a été détecté et les protocoles de sécurité ont été activés, les autorités enquêtent sur l'origine de l'attaque. Le conseil avertit que des retards sont possibles dans la gestion de certains dossiers administratifs. La présidente a assuré que le conseil maintient son engagement envers la transparence et la protection des données.",
+        "title": "El Consell Comarcal del Solsonès rep un atac informàtic que li encripta els arxius",
+        "url": "https://www.vilaweb.cat/noticies/consell-comarcal-solsones-atac-informatic/",
+        "added": "2025-08-28"
+    },
+    {
         "date": "2025-06-30",
         "victim": "Woodlawn Hospital",
         "domain": "woodlawnhospital.com",
