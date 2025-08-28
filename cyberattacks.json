@@ -1,5 +1,15 @@
 [
     {
+        "date": "2025-08-24",
+        "victim": "Office of the Registrar-General",
+        "domain": "rgd.gov.jm",
+        "country": "JAM",
+        "summary": "L'Office of the Registrar-General a été victime d'une attaque informatique qui a pu compromettre des données sensibles. L'attaque a été détectée le 24 août et les services en ligne de l'agence sont actuellement indisponibles. L'agence a activé son plan de réponse aux incidents et mène une enquête pour déterminer l'ampleur de l'attaque.",
+        "title": "Office of the Registrar-General, formerly RGD, hit by cyber attack",
+        "url": "https://jamaica-gleaner.com/article/news/20250827/office-registrar-general-formerly-rgd-hit-cyber-attack",
+        "added": "2025-08-28"
+    },
+    {
         "date": "2025-02-06",
         "victim": "Capital Tax & Consulting LLC",
         "domain": "capitaltaxmn.com",
