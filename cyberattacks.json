@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-08-04",
+        "victim": "Single Central Record",
+        "domain": "onlinescr.co.uk",
+        "country": "GBR",
+        "summary": "Une attaque informatique a eu lieu contre le fournisseur de logiciels d'Intradev Limited, ce qui a pu compromettre les données personnelles de membres du personnel scolaire, y compris les noms, adresses, numéros de téléphone et numéros de passeport. L'incident a été signalé à l'Office du Commissaire à l'Information et une enquête est en cours. Les écoles utilisant les services de Single Central Record sont invitées à rester vigilantes et à suivre les mises à jour de l'entreprise.",
+        "title": "School staff data potentially 'compromised' in cyber attack",
+        "url": "https://schoolsweek.co.uk/school-staff-scr-personal-data-potentially-compromised-in-intradev-cyber-attack/",
+        "added": "2025-08-28"
+    },
+    {
         "date": "2025-08-24",
         "victim": "Office of the Registrar-General",
         "domain": "rgd.gov.jm",
