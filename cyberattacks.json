@@ -1,8 +1,28 @@
 [
     {
+        "date": "2025-02-06",
+        "victim": "Capital Tax & Consulting LLC",
+        "domain": "capitaltaxmn.com",
+        "country": "USA",
+        "summary": "Capital Tax & Consulting LLC experienced a data incident in February 2025, where unauthorized access to their computer systems may have resulted in the acquisition of personal information. The incident occurred from January 30, 2025, through February 6, 2025. The organization is offering free credit monitoring services to affected individuals.",
+        "title": "Data Breach Notification",
+        "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/9440d870-6d30-4a77-8b84-258179ffb90a.html",
+        "added": "2025-08-27"
+    },
+    {
+        "date": "2024-11-23",
+        "victim": "Beech Acres Parenting Center",
+        "domain": "beechacres.org",
+        "country": "USA",
+        "summary": "Beech Acres Parenting Center experienced a data security incident where unauthorized access to sensitive information occurred. The incident was discovered on November 23, 2024, and affected approximately 2 Maine residents. The potentially affected information includes names, dates of birth, Social Security numbers, driver's license numbers, usernames, passwords, medical information, and health insurance information.",
+        "title": "Data Breach Notification",
+        "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/a0f84584-ecec-4da1-88e3-ce55e0bec72e.html",
+        "added": "2025-08-27"
+    },
+    {
         "date": "2025-04-04",
         "victim": "Statesman Business Advisors, LLC",
-        "domain": "statesmanbusinessadvisors.com",
+        "domain": "statesmanbiz.com",
         "country": "USA",
         "summary": "Statesman Business Advisors, LLC experienced unauthorized access to their network on or about April 4, 2025, potentially exposing certain files containing personal information. An investigation revealed that between March 26, 2025, and April 4, 2025, certain files containing personal information were stored in the impacted systems and may have been subject to unauthorized access or acquisition. The attack was claimed by DragonForce on May 11th.",
         "title": "2025-08-19 Statesman Business Advisors Data Breach Notice to Consumers",
