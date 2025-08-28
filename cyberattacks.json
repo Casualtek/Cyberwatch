@@ -1,5 +1,15 @@
 [
     {
+        "date": "2025-06-30",
+        "victim": "Woodlawn Hospital",
+        "domain": "woodlawnhospital.com",
+        "country": "USA",
+        "summary": "Woodlawn Hospital a subi une violation de données entre le 25 et le 30 juin 2025, des fichiers contenant des informations personnelles et médicales ont été copiés sans autorisation, l'hôpital mène actuellement une enquête pour identifier les personnes touchées et prendra des mesures pour protéger les informations personnelles, les individus peuvent contacter la ligne d'assistance dédiée pour obtenir des informations supplémentaires. (via eCrime.ch)",
+        "title": "Woodlawn Hospital Provides Notice of a Network Data Security Incident - Woodlawn Hospital (Rochester, Indiana - Fulton County)",
+        "url": "https://woodlawnhospital.org/security-incident/",
+        "added": "2025-08-28"
+    },
+    {
         "date": "2025-06-13",
         "victim": "The Hiller Companies LLC",
         "domain": "hillerfire.com",
@@ -30,7 +40,7 @@
         "added": "2025-08-28"
     },
     {
-        "date": "2024-08-04",
+        "date": "2025-08-04",
         "victim": "Single Central Record",
         "domain": "onlinescr.co.uk",
         "country": "GBR",
