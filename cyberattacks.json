@@ -1,5 +1,15 @@
 [
     {
+        "date": "2025-04-21",
+        "victim": "Burke Blue Hutchinson Smith Zimmerman Burke & Masters PA dba Burke Blue",
+        "domain": "burkeblue.com",
+        "country": "USA",
+        "summary": "Burke Blue experienced a data security event on April 21, 2025, where suspicious activity was detected on their network. An investigation revealed that certain files may have been accessed without authorization, potentially exposing personal information of approximately one Maine resident. Burke Blue has no evidence of the misuse or attempted misuse of any accessible information.",
+        "title": "Data Breach Notification",
+        "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/58a6de92-d66b-49c6-a573-4aa32e10d4ab.html",
+        "added": "2025-08-29"
+    },
+    {
         "date": "2025-01-06",
         "victim": "New Horizons Baking",
         "domain": "newhorizonsbaking.com",
