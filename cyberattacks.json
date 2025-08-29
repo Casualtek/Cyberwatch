@@ -1,5 +1,15 @@
 [
     {
+        "date": "2025-01-08",
+        "victim": "Black Hills Regional Eye Institute",
+        "domain": "blackhillseyes.com",
+        "country": "USA",
+        "summary": "Black Hills Regional Eye Institute LLP experienced a data breach where an unauthorized party accessed and acquired protected health information on or around July 30, 2025. The breach occurred after suspicious activity was observed on January 8, 2025. The attack has been claimed by Qilin on January 23.",
+        "title": "Data Breach Notification",
+        "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/3129a464-ce0a-4dc7-baee-2eb1ca83a42f.html",
+        "added": "2025-08-29"
+    },
+    {
         "date": "2025-04-23",
         "victim": "Gorham Sand & Gravel",
         "domain": "gsgravel.com",
