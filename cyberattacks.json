@@ -1,5 +1,15 @@
 [
     {
+        "date": "2025-05-24",
+        "victim": "The Salvation Army, A New York Corporation",
+        "domain": "salvationarmy.org",
+        "country": "USA",
+        "summary": "The Salvation Army experienced a data security incident where an unauthorized third-party accessed their network environment, potentially exposing personal information such as names, social security numbers, and driver's license numbers. The incident occurred on or about May 24, 2025, and was claimed by Chaos on May 27.",
+        "title": "2025-08-27 The Salvation Army Data Breach Notice to Consumers",
+        "url": "https://ago.vermont.gov/document/2025-08-27-salvation-army-data-breach-notice-consumers",
+        "added": "2025-08-29"
+    },
+    {
         "date": "2025-08-12",
         "victim": "Lycoming County",
         "domain": "lyco.org",
