@@ -1,5 +1,15 @@
 [
     {
+        "date": "2025-01-06",
+        "victim": "New Horizons Baking",
+        "domain": "newhorizonsbaking.com",
+        "country": "USA",
+        "summary": "New Horizons Baking Company, LLC, and its subsidiaries suffered a data breach between January 6, 2025, and January 10, 2025, resulting in unauthorized access to certain files containing names and Social Security numbers. The breach was discovered on January 11, 2025, and claimed by Cactus on Frebruary 20.",
+        "title": "Data Breach Notification",
+        "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/c25d7355-f5b6-4438-9d7e-610440d53c6a.html",
+        "added": "2025-08-29"
+    },
+    {
         "date": "2025-07-06",
         "victim": "Prince George County Public Schools",
         "domain": "pgcps.org",
