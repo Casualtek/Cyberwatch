@@ -1,5 +1,15 @@
 [
     {
+        "date": "2025-08-12",
+        "victim": "Lycoming County",
+        "domain": "lyco.org",
+        "country": "USA",
+        "summary": "Le département de la sécurité publique du comté de Lycoming a détecté un logiciel de rançon sur son réseau informatique, ce qui pourrait avoir compromis les données, notamment les numéros de permis de conduire. L'enquête est en cours et les autorités ont sécurisé le réseau. Le comté prend des mesures pour renforcer la sécurité et protéger les informations des citoyens.",
+        "title": "Cyber incident impacts data held by public safety department in Pa. county",
+        "url": "https://www.pennlive.com/news/2025/08/cyber-incident-impacts-data-held-by-public-safety-department-in-pa-county.html",
+        "added": "2025-08-29"
+    },
+    {
         "date": "2025-08-25",
         "victim": "Conseil régional de Solsonès",
         "domain": "elsolsones.cat",
