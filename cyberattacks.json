@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-12-28",
+        "victim": "The Children's Center of Hamden",
+        "domain": "thechildrenscenterofhamden.org",
+        "country": "USA",
+        "summary": "The Children's Center of Hamden, Inc. suffered a data security incident where personal and protected health information may have been acquired without authorization. The incident occurred on December 28, 2024, and was claimed by INC Ransom on February 11, 2025.",
+        "title": "Data Breach Notification",
+        "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/dce291ae-3215-418f-9d5f-fd5018617929.html",
+        "added": "2025-08-29"
+    },
+    {
         "date": "2025-05-24",
         "victim": "The Salvation Army, A New York Corporation",
         "domain": "salvationarmy.org",
