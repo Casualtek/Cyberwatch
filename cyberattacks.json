@@ -1,5 +1,15 @@
 [
     {
+        "date": "2025-07-06",
+        "victim": "Prince George County Public Schools",
+        "domain": "pgcps.org",
+        "country": "USA",
+        "summary": "Prince George County Public Schools suffered a ransomware attack on or around July 6, 2025, which may have exposed employee and dependent personal information, including names, addresses, dates of birth, driver's license numbers, Social Security numbers, and benefits enrollment information. A cyberattack against PGCPS had already been claimed by Rhysida on August 25, 2023.",
+        "title": "Data Breach Notification",
+        "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/1a81abab-ef65-456c-9d7a-53837cdb2464.html",
+        "added": "2025-08-29"
+    },
+    {
         "date": "2025-01-08",
         "victim": "Black Hills Regional Eye Institute",
         "domain": "blackhillseyes.com",
