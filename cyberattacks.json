@@ -1,5 +1,25 @@
 [
     {
+        "date": "2025-04-07",
+        "victim": "Amtech Software",
+        "domain": "amtechsoftware.com",
+        "country": "USA",
+        "summary": "Amtech Software, Inc. experienced a data breach between March 11 and April 7, 2025, where certain files were potentially copied from the network. The breach involved personal information of individuals associated with certain Amtech customers, including name, Social Security number, and date of birth. The attack was claimed by Monti on May 8.",
+        "title": "Data Breach Notification",
+        "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/f1674e27-0f4e-467c-93c9-44786841d1ed.html",
+        "added": "2025-08-30"
+    },
+    {
+        "date": "2025-07-14",
+        "victim": "Util-Assist Inc.",
+        "domain": "utilassist.com",
+        "country": "USA",
+        "summary": "Unauthorized access to Util-Assist's IT system resulted in the exfiltration and compromise of employee data, including personal information. The incident occurred on July 11, 2025, and was discovered on the same date. Util-Assist is offering two years of complimentary credit monitoring and identity theft restoration services to affected employees.",
+        "title": "Data Breach Notification",
+        "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/c192eff0-ce9e-441b-b6bd-10067c307b7f.html",
+        "added": "2025-08-30"
+    },
+    {
         "date": "2025-05-29",
         "victim": "Martin Showers Smith& McDonald",
         "domain": "mssm-law.com",
