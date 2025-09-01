@@ -1,5 +1,15 @@
 [
     {
+        "date": "2025-08-31",
+        "victim": "AWO Karlsruhe-Land",
+        "domain": "awo-ka-land.de",
+        "country": "DEU",
+        "summary": "Une cyberattaque a paralysé les systèmes informatiques de l'AWO Karlsruhe-Land, et les investigations suggèrent que la responsabilité pourrait incomber à un groupe criminel issu du milieu russe. L'AWO Karlsruhe-Land a confirmé que les systèmes étaient hors service. Les autorités enquêtent sur l'incident pour identifier les auteurs.",
+        "title": "Cyberangriff legt IT-Systeme der AWO Karlsruhe-Land lahm",
+        "url": "https://bnn.de/kraichgau/bruchsal/cyberangriff-legt-it-systeme-der-awo-karlsruhe-land-lahm",
+        "added": "2025-09-01"
+    },
+    {
         "date": "2025-08-29",
         "victim": "Ordre des journalistes de Rome et du Lazio",
         "domain": "odg.roma.it",
