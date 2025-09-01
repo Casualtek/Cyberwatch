@@ -1,5 +1,33 @@
 [
     {
+        "victim": "RHI Supply",
+        "domain": "rhisupply.com",
+        "country": "US",
+        "date": "2025-08-04",
+        "group": "play"
+    },
+    {
+        "victim": "CFI Tire Service",
+        "domain": "cfitire.com",
+        "country": "US",
+        "date": "2025-08-04",
+        "group": "play"
+    },
+    {
+        "victim": "Bluewater Yacht Sales",
+        "domain": "bluewateryachtsales.com",
+        "country": "US",
+        "date": "2025-08-07",
+        "group": "play"
+    },
+    {
+        "victim": "Rite Track",
+        "domain": "ritetrack.com",
+        "country": "US",
+        "date": "2025-08-06",
+        "group": "play"
+    },
+    {
         "victim": "ABcom",
         "domain": "abcomllc.com",
         "country": "US",
