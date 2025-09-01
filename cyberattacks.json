@@ -1,5 +1,15 @@
 [
     {
+        "date": "2025-08-26",
+        "victim": "Lotte Card",
+        "domain": "lottecard.co.kr",
+        "country": "KOR",
+        "summary": "Lotte Card a signalé une cyberattaque après avoir détecté des signes de violation dans ses serveurs internes à la fin du mois dernier. L'entreprise a découvert du code malveillant sur l'un de ses serveurs et a ensuite effectué un examen approfondi de ses systèmes. Aucune fuite de données sensibles des clients n'a été confirmée jusqu'à présent.",
+        "title": "Lotte Card reports cyberattack after malware found on internal servers last month",
+        "url": "https://koreajoongangdaily.joins.com/news/2025-09-01/business/industry/Lotte-Card-reports-cyberattack-after-malware-found-on-internal-servers-last-month/2388889",
+        "added": "2025-09-01"
+    },
+    {
         "date": "2025-07-02",
         "victim": "Carter Federal Credit Union",
         "domain": "cartercreditunion.com",
