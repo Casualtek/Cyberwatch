@@ -1,5 +1,15 @@
 [
     {
+        "date": "2025-08-29",
+        "victim": "Ordre des journalistes de Rome et du Lazio",
+        "domain": "odg.roma.it",
+        "country": "ITA",
+        "summary": "L'Ordine dei Giornalisti di Roma e del Lazio a été victime d'une attaque informatique qui pourrait avoir compromis les données personnelles de milliers de professionnels, un collettif de pirates informatiques de l'Est de l'Europe a revendiqué l'attaque et a exigé un ransom, mais l'Ordine refuse de payer. L'attaque a eu lieu entre le 8 et le 28 août et a été découverte à la réouverture de la sede de l'Ordine. Les autorités compétentes ont été informées et une enquête est en cours.",
+        "title": "ODG Lazio, attacco hacker: sottratti dati di migliaia di giornalisti, chiesto un riscatto",
+        "url": "https://www.hdblog.it/sicurezza/articoli/n630138/odg-lazio-segnalato-attacco-hacker/",
+        "added": "2025-09-01"
+    },
+    {
         "date": "2025-08-26",
         "victim": "Lotte Card",
         "domain": "lottecard.co.kr",
