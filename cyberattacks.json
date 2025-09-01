@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-07-01",
+        "victim": "Hôpital privé de la Loire (HPL)",
+        "domain": "hopital-prive-de-la-loire-saint-etienne.ramsaysante.fr",
+        "country": "FRA",
+        "summary": "Les données personnelles de plus de 126 000 patients ont été volées lors d'une cyberattaque sur une clinique privée à Saint-Etienne, les données volées sont presque exclusivement administratives et n'ont eu aucune incidence sur la prise en charge des patients. Le groupe Ramsay Santé a déclaré avoir fait cesser l'intrusion dès que ses services l'ont découverte. Une enquête a été confiée à l'Office anticybercriminalité de la police judiciaire.",
+        "title": "Les données personnelles de plus de 126 000 patients volées lors d'une cyberattaque sur une clinique privée à Saint-Etienne",
+        "url": "https://www.franceinfo.fr/internet/securite-sur-internet/cyberattaques/les-donnees-personnelles-de-plus-de-126-000-patients-volees-lors-d-une-cyberattaque-sur-une-clinique-privee-a-saint-etienne_7370827.html",
+        "added": "2025-09-01"
+    },
+    {
         "date": "2025-08-31",
         "victim": "AWO Karlsruhe-Land",
         "domain": "awo-ka-land.de",
