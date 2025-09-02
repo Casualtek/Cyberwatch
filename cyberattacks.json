@@ -1,5 +1,15 @@
 [
     {
+        "date": "2025-08-29",
+        "victim": "Ville de Poitiers et Grand-Poitiers",
+        "domain": "poitiers.fr",
+        "country": "FRA",
+        "summary": "La ville de Poitiers et Grand-Poitiers ont été victimes d'une importante cyberattaque depuis le 29 août, touchant leurs services informatiques et rendant les services en ligne inaccessibles. La situation est désormais stabilisée, mais le retour à la normale prendra du temps. Les services concernés tentent actuellement de rétablir la situation.",
+        "title": "Les collectivités de Poitiers et Grand-Poitiers victimes d'une importante cyberattaque - ici",
+        "url": "https://www.francebleu.fr/infos/faits-divers-justice/les-collectivites-de-poitiers-et-grand-poitiers-victimes-d-une-importante-cyberattaque-7518733",
+        "added": "2025-09-02"
+    },
+    {
         "date": "2024-07-01",
         "victim": "Hôpital privé de la Loire (HPL)",
         "domain": "hopital-prive-de-la-loire-saint-etienne.ramsaysante.fr",
