@@ -1,5 +1,15 @@
 [
     {
+        "date": "2025-09-01",
+        "victim": "Mecklenburg County Public Schools",
+        "domain": "mcpsweb.org",
+        "country": "USA",
+        "summary": "Mecklenburg County Public Schools est victime d'une faille de sécurité informatique, ce qui a entraîné une interruption de ses infrastructures numériques. L'école a activé ses protocoles de réponse et a fait appel à des experts en cybersécurité pour enquêter sur l'incident. Les enseignants ont été invités à utiliser des méthodes traditionnelles pour les cours en classe en attendant la résolution de la situation.",
+        "title": "MCPS hit with cyber security breach - SoVaNOW: Home of The News & Record and The Mecklenburg Sun",
+        "url": "https://www.sovanow.com/articles/mcps-hit-with-cyber-security-breach/",
+        "added": "2025-09-03"
+    },
+    {
         "date": "2025-06-03",
         "victim": "Lexington & Richland County School District Five",
         "domain": "lexrich5.org",
