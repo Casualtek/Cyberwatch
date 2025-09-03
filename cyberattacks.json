@@ -1,5 +1,25 @@
 [
     {
+        "date": "2025-06-03",
+        "victim": "Lexington & Richland County School District Five",
+        "domain": "lexrich5.org",
+        "country": "USA",
+        "summary": "District Five of Lexington and Richland Counties suffered a data security incident where an external unauthorized individual took some files from their computer network, potentially exposing personal information. The incident occurred on June 3, 2025, and the district is unaware of any misuse of the impacted information. The attack was claimed by Interlock on Jun 24.",
+        "title": "Data Breach Notification",
+        "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/88e67f8a-0f2c-4fd9-a09d-b97a909b9254.html",
+        "added": "2025-09-03"
+    },
+    {
+        "date": "2025-02-23",
+        "victim": "Risk Management Services, LLC",
+        "domain": "rmsla.com",
+        "country": "USA",
+        "summary": "Risk Management Services, L.L.C. suffered a data security incident due to a subcontractor's failure to follow established security protocols. The incident may have involved personal information such as full name, residential address, social security number, date of birth, and medical information. The company has taken steps to contain the breach and prevent future incidents.",
+        "title": "Data Breach Notification",
+        "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/81818e6d-ed0f-45ab-83d7-16f60c9052e0.html",
+        "added": "2025-09-03"
+    },
+    {
         "date": "2025-08-31",
         "victim": "Bridgestone",
         "domain": "bridgestonetire.ca",
