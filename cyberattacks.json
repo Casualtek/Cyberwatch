@@ -1,5 +1,15 @@
 [
     {
+        "date": "2025-09-04",
+        "victim": "Orleans Parish Sheriff's Office",
+        "domain": "opso.us",
+        "country": "USA",
+        "summary": "Le bureau du shérif d'Orleans Parish a été victime d'une cyberattaque par rançongiciel, les employés ont rencontré des difficultés pour accéder à leurs ordinateurs, mais le système informatique de la prison n'a pas été compromis. L'équipe de technologie de l'information du bureau du shérif répond à la cyberattaque. L'incident a été détecté à 8 heures du matin.",
+        "title": "Orleans Parish Sheriff's Office is under a cyberattack. Here's what we know",
+        "url": "https://www.wdsu.com/article/orleans-parish-sheriff-cyberattack/65982528",
+        "added": "2025-09-04"
+    },
+    {
         "date": "2025-08-27",
         "victim": "Centre de services scolaire des Appalaches",
         "domain": "cssa.gouv.qc.ca",
