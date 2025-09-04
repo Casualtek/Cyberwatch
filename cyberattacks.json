@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-12-14",
+        "victim": "Wong Fleming P.C.",
+        "domain": "wongfleming.com",
+        "country": "USA",
+        "summary": "Wong Fleming P.C. suffered a data breach where an unauthorized actor accessed their computer network and potentially copied certain files between December 13, 2024, and December 14, 2024. The breach may have involved the copying of sensitive information, including names and other personal details. The attack was claimed by RansomHub on February 3, 2025.",
+        "title": "2025-08-29 Wong Fleming Data Breach Notice to Consumers",
+        "url": "https://ago.vermont.gov/document/2025-08-29-wong-fleming-data-breach-notice-consumers",
+        "added": "2025-09-04"
+    },
+    {
         "date": "2024-04-12",
         "victim": "Hacienda La Puente Unified School District",
         "domain": "hlpschools.org",
