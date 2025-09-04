@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-04-12",
+        "victim": "Hacienda La Puente Unified School District",
+        "domain": "hlpschools.org",
+        "country": "USA",
+        "summary": "Hacienda La Puente Unified School District experienced a sophisticated ransomware attack that may have involved unauthorized access to certain files from February 9, 2024, to April 12, 2024. The incident was discovered on April 12, 2024, and a comprehensive review process was completed on July 31, 2025. The district is notifying individuals whose information may have been potentially impacted.",
+        "title": "2025-08-29 Hacienda La Puente Unified School District Data Breach Notice to Consumers",
+        "url": "https://ago.vermont.gov/document/2025-08-29-hacienda-la-puente-unified-school-district-data-breach-notice-consumers",
+        "added": "2025-09-04"
+    },
+    {
         "date": "2025-09-04",
         "victim": "Orleans Parish Sheriff's Office",
         "domain": "opso.us",
