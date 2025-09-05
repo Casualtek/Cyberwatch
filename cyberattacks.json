@@ -1,5 +1,15 @@
 [
     {
+        "date": "2025-02-28",
+        "victim": "The LoveSac Company",
+        "domain": "lovesac.com",
+        "country": "USA",
+        "summary": "LoveSac suffered a data breach between February 12, 2025, and March 3, 2025, where an unauthorized actor accessed certain systems and copied files containing name and Social Security number information. Although there is no evidence of identity theft or fraud, LoveSac is offering 24 months of complimentary access to credit monitoring services through Experian. The breach was discovered on or around February 28, 2025. The attack was claimed by RansomHub on March 6.",
+        "title": "Data Breach Notification",
+        "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/151529d0-c371-4158-80ce-8b8fd781bf5c.html",
+        "added": "2025-09-05"
+    },
+    {
         "date": "2024-12-14",
         "victim": "Wong Fleming P.C.",
         "domain": "wongfleming.com",
