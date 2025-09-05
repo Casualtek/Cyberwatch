@@ -1,5 +1,12 @@
 [
     {
+        "victim": "Hölscher Holding",
+        "domain": "hoelscher-holding.de",
+        "country": "DE",
+        "date": "2025-06-24",
+        "group": "akira"
+    },
+    {
         "victim": "Insight PipeContracting",
         "domain": "insightpipe.com",
         "country": "US",
