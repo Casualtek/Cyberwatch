@@ -1,5 +1,15 @@
 [
     {
+        "date": "2025-09-05",
+        "victim": "Agence régionale de santé (ARS) des Hauts-de-France",
+        "domain": "hauts-de-france.ars.sante.fr",
+        "country": "FRA",
+        "summary": "Une cyberattaque a ciblé les hôpitaux publics de la région des Hauts-de-France, concernant les données d'identité des patients, mais pas les données de santé. L'intrusion a été constatée en fin de semaine dernière et des mesures de sécurité renforcées ont été mises en œuvre. L'ARS estime que le principal risque lié à cette cyberattaque concerne les pratiques d'hameçonnage.",
+        "title": "Les hôpitaux des Hauts-de-France victimes d'une cyberattaque contre les serveurs hébergeant les données d’identité de patients",
+        "url": "https://france3-regions.franceinfo.fr/hauts-de-france/nord-0/les-hopitaux-des-hauts-de-france-victimes-d-une-cyberattaque-contre-les-serveurs-hebergeant-les-donnees-d-identite-de-patients-3213338.html",
+        "added": "2025-09-08"
+    },
+    {
         "date": "2025-01-17",
         "victim": "Medical Associates of Brevard, LLC",
         "domain": "mabmd.com",
