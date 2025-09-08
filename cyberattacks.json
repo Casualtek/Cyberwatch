@@ -1,5 +1,15 @@
 [
     {
+        "date": "2025-09-04",
+        "victim": "Loterie Nationale",
+        "domain": "loteriesport.lu",
+        "country": "LUX",
+        "summary": "Un sous-traitant de la Loterie Nationale a été victime d'une attaque informatique, entraînant le vol de données. Les données des clients, telles que les noms, adresses, numéros de téléphone et coordonnées bancaires, ont été volées. La plateforme loteriesport.lu reste accessible et les clients ont été informés.",
+        "title": "Cyber attack: Loterie Nationale reports data breach",
+        "url": "https://today.rtl.lu/news/luxembourg/a/2334234.html",
+        "added": "2025-09-08"
+    },
+    {
         "date": "2025-08-01",
         "victim": "Teamsters Union 25 Health Services & Insurance Plan",
         "domain": "teamsterscare.com",
