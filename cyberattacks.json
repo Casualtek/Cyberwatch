@@ -1,5 +1,25 @@
 [
     {
+        "date": "2025-05-21",
+        "victim": "Sleepy Hollow Country Club",
+        "domain": "sleepyhollowcountryclub.com",
+        "country": "USA",
+        "summary": "Sleepy Hollow Country Club experienced unauthorized access to its IT systems, potentially exposing personal information of three Maine residents. The incident occurred in May 2025, and the club took immediate action to stop the unauthorized access and launched an investigation. The attack has been claimed by Akira on June 3.",
+        "title": "Data Breach Notification",
+        "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/10f64bc9-fe12-496b-ad2b-5517fd8a821c.html",
+        "added": "2025-09-06"
+    },
+    {
+        "date": "2025-03-24",
+        "victim": "OTA Management LLC",
+        "domain": "otallc.com",
+        "country": "USA",
+        "summary": "OTA Management LLC suffered a data breach on March 23, 2025, where an unknown third party gained unauthorized access to their network environment. The incident was discovered on March 24, 2025. The attack had been claimed by Play on April 2.",
+        "title": "Data Breach Notification",
+        "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/3618afb1-3609-402d-9fca-d523180acbff.html",
+        "added": "2025-09-06"
+    },
+    {
         "date": "2025-09-07",
         "victim": "Banco Triângulo S.A.",
         "domain": "tribanco.com.br",
@@ -7,6 +27,16 @@
         "summary": "Le Banco Central a confirmé un attaque cibernétique contre le Banco Triângulo S.A., entraînant une subtração de valeurs financières. L'institution a recommandé un renforcement du contrôle des transactions. C'est le deuxième avertissement en moins de 48 heures après un incident similaire impliquant l'entreprise E2 Pay.",
         "title": "Banco Central confirma ataque cibernético ao Tribanco",
         "url": "https://veronoticias.com/economia/banco-central-confirma-ataque-cibernetico-ao-tribanco/",
+        "added": "2025-09-08"
+    },
+    {
+        "date": "2025-08-31",
+        "victim": "The K Club",
+        "domain": "thekclub.com",
+        "country": "IRE",
+        "summary": "Le resort The K Club a été victime d'une attaque de ransomware, les hackers ont volé des données financières et informatiques qui ont été publiées sur le darknet. Le groupe de hackers, appelé SafePay, a laissé une note de rançon sur les systèmes du club. Le resort a confirmé l'incident et a introduit des mesures de sécurité supplémentaires.",
+        "title": "Cyber Attack Disrupts K Club Systems, Ransom Demanded",
+        "url": "https://www.kfmradio.com/news/localnews/cyber-attack-disrupts-k-club-systems-ransom-demanded/#",
         "added": "2025-09-08"
     },
     {
