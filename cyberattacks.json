@@ -1,12 +1,12 @@
 [
     {
-        "date": "2025-08-31",
-        "victim": "The K Club",
-        "domain": "thekclub.com",
-        "country": "IRL",
-        "summary": "Le resort The K Club a été victime d'une attaque de ransomware, les hackers ont volé des données financières et informatiques qui ont été publiées sur le darknet. Le groupe de hackers, appelé SafePay, a laissé une note de rançon sur les systèmes du club. Le resort a confirmé l'incident et a introduit des mesures de sécurité supplémentaires.",
-        "title": "Cyber Attack Disrupts K Club Systems, Ransom Demanded",
-        "url": "https://www.kfmradio.com/news/localnews/cyber-attack-disrupts-k-club-systems-ransom-demanded/",
+        "date": "2025-09-07",
+        "victim": "Banco Triângulo S.A.",
+        "domain": "tribanco.com.br",
+        "country": "BRA",
+        "summary": "Le Banco Central a confirmé un attaque cibernétique contre le Banco Triângulo S.A., entraînant une subtração de valeurs financières. L'institution a recommandé un renforcement du contrôle des transactions. C'est le deuxième avertissement en moins de 48 heures après un incident similaire impliquant l'entreprise E2 Pay.",
+        "title": "Banco Central confirma ataque cibernético ao Tribanco",
+        "url": "https://veronoticias.com/economia/banco-central-confirma-ataque-cibernetico-ao-tribanco/",
         "added": "2025-09-08"
     },
     {
