@@ -1,5 +1,15 @@
 [
     {
+        "date": "2025-09-08",
+        "victim": "Transart Graphics Co., Ltd.",
+        "domain": "transart.com.tw",
+        "country": "TWN",
+        "summary": "Transart Graphics a subi une attaque de hackers, mais grâce à son système de détection et à l'intervention rapide de son département IT, l'impact a été minimisé et les opérations de l'entreprise n'ont pas été affectées de manière significative. L'entreprise va continuer à renforcer la sécurité de son réseau et de son infrastructure. Les opérations de l'entreprise restent normales sans impact financier ni opérationnel notable.",
+        "title": "Today's Information",
+        "url": "https://emops.twse.com.tw/server-java/t05sr01_1_e?&isNew=Y&seq_no=1&spoke_time=115636&spoke_date=20250908&co_id=8481",
+        "added": "2025-09-09"
+    },
+    {
         "date": "2025-09-05",
         "victim": "Agence régionale de santé (ARS) des Hauts-de-France",
         "domain": "hauts-de-france.ars.sante.fr",
