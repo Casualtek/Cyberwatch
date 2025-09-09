@@ -1,5 +1,12 @@
 [
     {
+        "victim": "eShipGlobal",
+        "domain": "eshipglobal.com",
+        "country": "US",
+        "date": "2025-08-17",
+        "group": "play"
+    },
+    {
         "victim": "The Brown & Hurley Group",
         "domain": "brownandhurley.com.au",
         "country": "AU",
