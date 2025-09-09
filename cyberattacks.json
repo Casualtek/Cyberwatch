@@ -1,5 +1,35 @@
 [
     {
+        "date": "2025-05-06",
+        "victim": "Talisman Civil Consultants",
+        "domain": "talismancivil.com",
+        "country": "USA",
+        "summary": "Talisman Civil Consultants experienced a data breach where an unauthorized party accessed their network, potentially taking personal information. The breach occurred on May 6, 2025. The attack was claimed by Qilin on June 12.",
+        "title": "2025-09-05 Talisman Civil Consultants Data Breach Notice to Consumers",
+        "url": "https://ago.vermont.gov/document/2025-09-05-talisman-civil-consultants-data-breach-notice-consumers",
+        "added": "2025-09-09"
+    },
+    {
+        "date": "2024-12-20",
+        "victim": "Cornwell Quality Tools",
+        "domain": "cornwelltools.com",
+        "country": "USA",
+        "summary": "Cornwell Quality Tools suffered a data breach where an unknown actor gained access to their network and potentially acquired certain files containing personal information. The breach occurred on or around December 12, 2024. The attack was claimed by Cactus on February 4, 2025.",
+        "title": "2025-09-04 Cornwell Quality Tools Data Breach Notice to Consumers",
+        "url": "https://ago.vermont.gov/document/2025-09-04-cornwell-quality-tools-data-breach-notice-consumers",
+        "added": "2025-09-09"
+    },
+    {
+        "date": "2024-06-03",
+        "victim": "Wayne Memorial Hospital",
+        "domain": "wmh.org",
+        "country": "USA",
+        "summary": "Wayne Memorial Hospital suffered a ransomware event, resulting in unauthorized access to personal information. The breach occurred between May 30, 2024, and June 3, 2024. The attack was claimed by Monti on June 30.",
+        "title": "2025-09-07 Wayne Memorial Hospital Data Breach Notice to Consumers",
+        "url": "https://ago.vermont.gov/document/2025-09-07-wayne-memorial-hospital-data-breach-notice-consumers",
+        "added": "2025-09-09"
+    },
+    {
         "date": "2025-06-09",
         "victim": "City of St. Joseph",
         "domain": "stjosephmo.gov",
