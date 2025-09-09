@@ -1,5 +1,12 @@
 [
     {
+        "victim": "GID GmbH",
+        "domain": "gid-it.de",
+        "country": "DE",
+        "date": "2025-07-15",
+        "group": "lynx"
+    },
+    {
         "victim": "The Providence Warwick Convention",
         "domain": "goprovidence.com",
         "country": "US",
