@@ -1,5 +1,12 @@
 [
     {
+        "victim": "ACTi Corporation",
+        "domain": "acti.com",
+        "country": "TW",
+        "date": "2025-02-25",
+        "group": "lynx"
+    },
+    {
         "victim": "Gordon Rees Scully Mansukhani LLP",
         "domain": "grsm.com",
         "country": "US",
