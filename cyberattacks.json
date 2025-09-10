@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-06-22",
+        "victim": "Conference USA",
+        "domain": "conferenceusa.com",
+        "country": "USA",
+        "summary": "Conference USA suffered a data security incident where an unauthorized party gained access to parts of their network, potentially accessing personal information. The incident occurred on June 22, 2024. The attack was claimed by Abyss on June 27, 2024.",
+        "title": "Data Breach Notification",
+        "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/5bab1842-0f41-4494-a44f-b21db5f72a49.html",
+        "added": "2025-09-10"
+    },
+    {
         "date": "2025-05-06",
         "victim": "Talisman Civil Consultants",
         "domain": "talismancivil.com",
