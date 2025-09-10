@@ -1,5 +1,19 @@
 [
     {
+        "victim": "Galaxy Freightline",
+        "domain": "galaxyfreightline.com",
+        "country": "CA",
+        "date": "2025-08-18",
+        "group": "play"
+    },
+    {
+        "victim": "Juggernaut",
+        "domain": "juggernautdesign.com",
+        "country": "US",
+        "date": "2025-08-25",
+        "group": "play"
+    },
+    {
         "victim": "The Scharine Group",
         "domain": "thescharinegroup.com",
         "country": "US",
