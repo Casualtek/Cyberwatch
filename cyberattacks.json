@@ -1,5 +1,15 @@
 [
     {
+        "date": "2025-08-22",
+        "victim": "Blackpool Credit Union",
+        "domain": "blackpoolcu.ie",
+        "country": "IRL",
+        "summary": "La Blackpool Credit Union a été victime d'une attaque informatique, les informations personnelles de ses membres ont été compromises et partagées sur le dark web. Les experts techniques ont été appelés pour mener une enquête forensique et les systèmes ont été rétablis pour éviter toute perte de service. L'institution a confirmé que ses systèmes bancaires principaux n'ont pas été impactés et que les informations de carte de paiement n'ont pas été compromises.",
+        "title": "Blackpool Credit Union suffers cyber attack",
+        "url": "https://www.irishexaminer.com/business/companies/arid-41703071.html",
+        "added": "2025-09-10"
+    },
+    {
         "date": "2025-03-14",
         "victim": "Farmer Brothers Company",
         "domain": "farmerbros.com",
