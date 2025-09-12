@@ -1,5 +1,12 @@
 [
     {
+        "victim": "schliessmeyer.de",
+        "domain": "schliessmeyer.de",
+        "country": "DE",
+        "date": "2025-06-18",
+        "group": "safepay"
+    },
+    {
         "victim": "sandersonmanagement.com",
         "domain": "sandersonmanagement.com",
         "country": "US",
