@@ -1,5 +1,12 @@
 [
     {
+        "victim": "decor-metall.de",
+        "domain": "decor-metall.de",
+        "country": "DE",
+        "date": "2025-08-15",
+        "group": "safepay"
+    },
+    {
         "victim": "Affirm Agency",
         "domain": "affirmagency.com",
         "country": "US",
