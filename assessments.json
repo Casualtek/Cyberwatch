@@ -1,5 +1,12 @@
 [
     {
+        "victim": "umweltprofis.at",
+        "domain": "umweltprofis.at",
+        "country": "AT",
+        "date": "2025-08-01",
+        "group": "safepay"
+    },
+    {
         "victim": "bthcpa.com",
         "domain": "bthcpa.com",
         "country": "US",
