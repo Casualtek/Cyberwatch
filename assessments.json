@@ -1,5 +1,12 @@
 [
     {
+        "victim": "faltner.de",
+        "domain": "faltner.de",
+        "country": "DE",
+        "date": "2025-06-16",
+        "group": "safepay"
+    },
+    {
         "victim": "akd-ekbo.de",
         "domain": "akd-ekbo.de",
         "country": "DE",
