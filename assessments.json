@@ -1,5 +1,12 @@
 [
     {
+        "victim": "jphrs-waghaeusel.de",
+        "domain": "jphrs-waghaeusel.de",
+        "country": "DE",
+        "date": "2025-06-17",
+        "group": "safepay"
+    },
+    {
         "victim": "parksidegroup.co.uk",
         "domain": "parksidegroup.co.uk",
         "country": "GB",
