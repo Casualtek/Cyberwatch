@@ -1,5 +1,12 @@
 [
     {
+        "victim": "camaravalencia.com",
+        "domain": "camaravalencia.com",
+        "country": "ES",
+        "date": "2025-06-30",
+        "group": "safepay"
+    },
+    {
         "victim": "thecelestehotel.com",
         "domain": "thecelestehotel.com",
         "country": "US",
