@@ -1,5 +1,12 @@
 [
     {
+        "victim": "lipcare.de",
+        "domain": "lipcare.de",
+        "country": "DE",
+        "date": "2025-06-20",
+        "group": "safepay"
+    },
+    {
         "victim": "faltner.de",
         "domain": "faltner.de",
         "country": "DE",
