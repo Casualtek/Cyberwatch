@@ -1,5 +1,55 @@
 [
     {
+        "date": "2025-08-05",
+        "victim": "Cliff Viessman, Inc.",
+        "domain": "viessmantrucking.com",
+        "country": "USA",
+        "summary": "Cliff Viessman, Inc. experienced a data security breach on August 5, 2025, where an unauthorized party gained access to certain systems and copied files. The breach may have impacted the security of personal information. The company is providing credit monitoring services and fraud assistance to affected individuals.",
+        "title": "2025-09-10 Cliff Viessman Data Breach Notice to Consumers",
+        "url": "https://ago.vermont.gov/document/2025-09-10-cliff-viessman-data-breach-notice-consumers",
+        "added": "2025-09-12"
+    },
+    {
+        "date": "2024-12-09",
+        "victim": "Blue & Co., LLC",
+        "domain": "blueandco.com",
+        "country": "USA",
+        "summary": "Blue & Co., LLC suffered a data breach after an unauthorized actor accessed one of its servers for less than half an hour on November 7, 2024. The incident was discovered on December 9, 2024, and an investigation revealed that data was copied during the unauthorized access. The breach may have affected some of the company's clients' information.",
+        "title": "2025-09-09 Blue & Co Data Breach Notice to Consumers",
+        "url": "https://ago.vermont.gov/document/2025-09-09-blue-co-data-breach-notice-consumers",
+        "added": "2025-09-11"
+    },
+    {
+        "date": "2024-10-29",
+        "victim": "NPK International Inc.",
+        "domain": "npkce.com",
+        "country": "USA",
+        "summary": "NPK International Inc. suffered a data breach between October 28, 2024, and October 29, 2024, resulting in the unauthorized access of one Maine resident's personal information. The breach was discovered on August 12, 2025, and a notification letter was mailed to the affected individual on September 11, 2025. The attack has been claimed by Worldleaks on July 21, 2025.",
+        "title": "Data Breach Notification",
+        "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/9f8a918a-039e-48c3-af4b-4d342ecfc51b.html",
+        "added": "2025-09-12"
+    },
+    {
+        "date": "2025-03-10",
+        "victim": "Sellmark Corporation",
+        "domain": "sellmark.com",
+        "country": "USA",
+        "summary": "Sellmark Corporation experienced a data security incident involving unauthorized access to its computer network, resulting in the theft of personal information of one Maine resident. The incident was discovered on August 14, 2025, and reported to law enforcement. Sellmark implemented additional security measures to prevent similar incidents in the future.",
+        "title": "Data Breach Notification",
+        "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/25cbb7f0-35d6-4618-8310-e642b98fcbc0.html",
+        "added": "2025-09-12"
+    },
+    {
+        "date": "2023-10-18",
+        "victim": "Fairmont Federal Credit Union",
+        "domain": "fairmontfcu.com",
+        "country": "USA",
+        "summary": "Fairmont Federal Credit Union experienced a data security incident between September 30, 2023, and October 18, 2023, which may have resulted in unauthorized access to personal information. The incident was discovered on January 2-3, 2024, and an investigation was conducted. The credit union is offering complimentary access to Experian IdentityWorks for affected individuals.",
+        "title": "Data Breach Notification",
+        "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/75c92a2c-3791-47c6-84f7-87b34fab952d.html",
+        "added": "2025-09-12"
+    },
+    {
         "date": "2025-08-22",
         "victim": "Blackpool Credit Union",
         "domain": "blackpoolcu.ie",
