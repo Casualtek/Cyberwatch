@@ -1,5 +1,12 @@
 [
     {
+        "victim": "listgrove.com",
+        "domain": "listgrove.com",
+        "country": "GB",
+        "date": "2025-06-30",
+        "group": "safepay"
+    },
+    {
         "victim": "jphrs-waghaeusel.de",
         "domain": "jphrs-waghaeusel.de",
         "country": "DE",
