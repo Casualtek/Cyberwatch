@@ -1,10 +1,30 @@
 [
     {
+        "date": "2025-06-11",
+        "victim": "Hartshorne Plunkard Architecture LLC",
+        "domain": "hparchitecture.com",
+        "country": "USA",
+        "summary": "Hartshorne Plunkard Architecture LLC suffered a data security incident that potentially involved personal information, including names, Social Security numbers, driver's licenses, and financial information. The incident occurred on June 11 and 12, 2025, and was discovered on June 11, 2025. The attack was claimed by Qilin on June 19.",
+        "title": "2025-09-11 Hartshorne Plunkard Architecture Data Breach Notice to Consumers",
+        "url": "https://ago.vermont.gov/document/2025-09-11-hartshorne-plunkard-architecture-data-breach-notice-consumers",
+        "added": "2025-09-13"
+    },
+    {
+        "date": "2025-04-16",
+        "victim": "Peregrine Property Management, LLC and Peregrine Group, LLC",
+        "domain": "peregrinepm.com",
+        "country": "USA",
+        "summary": "Peregrine Property Management, LLC and Peregrine Group, LLC suffered a data security incident that may have involved some of their customers' information. An unauthorized party may have accessed files containing customers' names and other breached elements. The incident was discovered on April 16, 2025.",
+        "title": "2025-09-10 Peregrine Property Management & Peregrine Group Data Breach Notice to Consumers",
+        "url": "https://ago.vermont.gov/document/2025-09-10-peregrine-property-management-peregrine-group-data-breach-notice-consumers",
+        "added": "2025-09-13"
+    },
+    {
         "date": "2025-07-31",
         "victim": "Phoenix Products, LLC",
-        "domain": "phoenixproducts.com",
+        "domain": "phoenixlighting.com",
         "country": "USA",
-        "summary": "Phoenix Products, LLC suffered a sophisticated ransomware attack on July 31, 2025, which may have involved unauthorized access to employee data, including first and last names and Social Security numbers.",
+        "summary": "Phoenix Products, LLC suffered a sophisticated ransomware attack on July 31, 2025, which may have involved unauthorized access to employee data, including first and last names and Social Security numbers. The attack was claimed bay Play on August 4.",
         "title": "2025-09-11 Phoenix Products Data Breach Notice to Consumers",
         "url": "https://ago.vermont.gov/document/2025-09-11-phoenix-products-data-breach-notice-consumers",
         "added": "2025-09-13"
