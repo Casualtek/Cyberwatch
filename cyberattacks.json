@@ -1,5 +1,15 @@
 [
     {
+        "date": "2025-07-31",
+        "victim": "Phoenix Products, LLC",
+        "domain": "phoenixproducts.com",
+        "country": "USA",
+        "summary": "Phoenix Products, LLC suffered a sophisticated ransomware attack on July 31, 2025, which may have involved unauthorized access to employee data, including first and last names and Social Security numbers.",
+        "title": "2025-09-11 Phoenix Products Data Breach Notice to Consumers",
+        "url": "https://ago.vermont.gov/document/2025-09-11-phoenix-products-data-breach-notice-consumers",
+        "added": "2025-09-13"
+    },
+    {
         "date": "2025-09-12",
         "victim": "Town of Waxhaw",
         "domain": "waxhaw.com",
