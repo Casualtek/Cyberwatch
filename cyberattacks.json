@@ -1,6 +1,16 @@
 [
     {
         "date": "2025-09-14",
+        "victim": "South Lyon Community School District",
+        "domain": "slcs.us",
+        "country": "USA",
+        "summary": "Le district scolaire de South Lyon Community a été victime d'une cyberattaque, ce qui a entraîné la fermeture de l'école pour au moins deux jours. Les parents sont inquiets et cherchent des réponses sur la nature de la menace. Les experts en cybersécurité travaillent pour résoudre le problème et rétablir les systèmes de l'école.",
+        "title": "Parents left with questions after South Lyon Community School District closes due to cyberattack",
+        "url": "https://www.clickondetroit.com/news/local/2025/09/16/parents-left-with-questions-after-south-lyon-community-school-district-closes-due-to-cyberattack/",
+        "added": "2025-09-16"
+    },
+    {
+        "date": "2025-09-14",
         "victim": "City of Yellowknife",
         "domain": "yellowknife.ca",
         "country": "CAN",
