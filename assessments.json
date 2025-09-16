@@ -1,5 +1,40 @@
 [
     {
+        "victim": "Anderson Aluminum",
+        "domain": "andersoncompanies.com",
+        "country": "US",
+        "date": "2025-08-19",
+        "group": "play"
+    },
+    {
+        "victim": "JIT Energy Services",
+        "domain": "jitservicesinc.com",
+        "country": "US",
+        "date": "2025-08-29",
+        "group": "play"
+    },
+    {
+        "victim": "Royal Machine & Tool",
+        "domain": "royalworkholding.com",
+        "country": "US",
+        "date": "2025-08-29",
+        "group": "play"
+    },
+    {
+        "victim": "Reliable Roofing",
+        "domain": "reliableroofing.biz",
+        "country": "US",
+        "date": "2025-08-30",
+        "group": "play"
+    },
+    {
+        "victim": "Celtic Engineering",
+        "domain": "celticengineering.com",
+        "country": "US",
+        "date": "2025-08-29",
+        "group": "play"
+    },
+    {
         "victim": "GDZ Computer Services",
         "domain": "gdz.com",
         "country": "US",
