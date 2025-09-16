@@ -1,6 +1,16 @@
 [
     {
         "date": "2025-09-14",
+        "victim": "City of Yellowknife",
+        "domain": "yellowknife.ca",
+        "country": "CAN",
+        "summary": "La ville de Yellowknife a confirmé qu'elle est en train de faire face à une atteinte à la cybersécurité qui a affecté l'accès aux systèmes internes et aux services en ligne de la municipalité. Les premiers signes de problèmes sont apparus samedi, lorsque la ville a indiqué qu'elle avait perdu l'accès à ses courriels et à certains services. La ville travaille actuellement avec des experts en cybersécurité pour comprendre la nature et l'ampleur de l'incident.",
+        "title": "City of Yellowknife facing ‘cybersecurity incident’",
+        "url": "https://cabinradio.ca/258895/news/yellowknife/city-of-yellowknife-facing-cybersecurity-incident/",
+        "added": "2025-09-16"
+    },
+    {
+        "date": "2025-09-14",
         "victim": "VAS AG",
         "domain": "vas.co.at",
         "country": "AUT",
