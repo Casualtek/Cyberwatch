@@ -1,5 +1,55 @@
 [
     {
+        "date": "2025-08-14",
+        "victim": "Orchid Island Golf and Beach Club",
+        "domain": "orchidislandfl.com",
+        "country": "USA",
+        "summary": "Orchid Island Golf and Beach Club suffered a data breach where an unauthorized third party gained access to their network and took certain data files from their server, potentially exposing personal information of employees and previous employees.",
+        "title": "Data Breach Notification",
+        "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/8a8c7390-a39a-4253-b260-fc8c6a60fca7.html",
+        "added": "2025-09-16"
+    },
+    {
+        "date": "2024-04-08",
+        "victim": "Neubert, Pepe & Monteith, P.C.",
+        "domain": "npmlaw.com",
+        "country": "USA",
+        "summary": "Neubert, Pepe & Monteith, PC suffered a data breach on March 1, 2024, where an unauthorized actor may have accessed certain files stored in its systems. The breach was discovered on April 8, 2024, and the firm worked to identify contact information necessary to notify potentially impacted individuals. The information that could have been subject to unauthorized access and/or acquisition includes first and last name, as well as Social Security number and driver's license number.",
+        "title": "Data Breach Notification",
+        "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/e8d83018-1c92-4d71-ab94-2d323829923b.html",
+        "added": "2025-09-16"
+    },
+    {
+        "date": "2024-12-26",
+        "victim": "Trusteed Plans Services Corporation",
+        "domain": "tpscbenefits.com",
+        "country": "USA",
+        "summary": "Trusteed Plans Service Corporation suffered a data security incident where an unauthorized user gained access to personal information, including date of birth, Social Security number, and health information. The incident was discovered on December 26, 2024, and affected four Maine residents. The organization is offering complimentary credit monitoring services to affected individuals.",
+        "title": "Data Breach Notification",
+        "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/a42ecd2f-e44d-4204-8e0d-6892f4d083de.html",
+        "added": "2025-09-16"
+    },
+    {
+        "date": "2025-02-21",
+        "victim": "ENCON Heating & Air Conditioning (\"ECON\")",
+        "domain": "goencon.com",
+        "country": "USA",
+        "summary": "ENCON Heating & Air Conditioning experienced a security incident resulting in unauthorized access to some of their computer systems. The breach occurred between February 21 and February 24, 2025, and affected HR files stored locally on their network. The company has not received any reports of personal information being misused.",
+        "title": "Data Breach Notification",
+        "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/e925b3c5-3c47-418d-926d-af83ddccd5ae.html",
+        "added": "2025-09-16"
+    },
+    {
+        "date": "2025-07-03",
+        "victim": "Miller Construction",
+        "domain": "millerci.com",
+        "country": "USA",
+        "summary": "Miller Construction suffered a data breach where an unauthorized actor accessed certain files on their network, potentially exposing personal information. The breach occurred on or about July 3, 2025, and was discovered on the same date. The company is providing complimentary credit monitoring and identity protection services to affected individuals.",
+        "title": "2025-09-11 Miller Construction Data Breach Notice to Consumers",
+        "url": "https://ago.vermont.gov/document/2025-09-11-miller-construction-data-breach-notice-consumers",
+        "added": "2025-09-16"
+    },
+    {
         "date": "2025-09-14",
         "victim": "South Lyon Community School District",
         "domain": "slcs.us",
