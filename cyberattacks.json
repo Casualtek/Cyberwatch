@@ -1,5 +1,35 @@
 [
     {
+        "date": "2025-02-15",
+        "victim": "Goshen Medical Center",
+        "domain": "goshenmedical.org",
+        "country": "USA",
+        "summary": "Goshen Medical Center suffered a data security incident where certain files may have been accessed or acquired without authorization. The incident involved personal health information, including names, addresses, dates of birth, Social Security numbers, driver's license numbers, and medical record numbers. The attack was claimed by BianLian on March 22.",
+        "title": "Data Breach Notification",
+        "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/e541449a-f3e3-4b69-93ed-c3f527fbc3a3.html",
+        "added": "2025-09-18"
+    },
+    {
+        "date": "2025-04-30",
+        "victim": "Bastyr University",
+        "domain": "bastyr.edu",
+        "country": "USA",
+        "summary": "Bastyr University suffered a data breach between April 23, 2025, and April 30, 2025, where certain files were accessed or taken without authorization. The potentially impacted data contained limited information related to individuals, including name and Social Security Number. Bastyr University is providing credit monitoring services to affected individuals.",
+        "title": "Data Breach Notification",
+        "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/4b329046-e512-4ecc-ace4-d15312b2b157.html",
+        "added": "2025-09-18"
+    },
+    {
+        "date": "2024-11-15",
+        "victim": "GITSIT Solutions, LLC",
+        "domain": "gitsitusa.com",
+        "country": "USA",
+        "summary": "GITSIT Solutions, LLC suffered a data breach where an unknown actor accessed certain computer systems and acquired files containing personal information. The breach occurred on November 14 and 15, 2024. GITSIT notified 16 Maine residents and offered credit monitoring services.",
+        "title": "Data Breach Notification",
+        "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/e5214455-d633-4995-8762-7d18a942f168.html",
+        "added": "2025-09-18"
+    },
+    {
         "date": "2025-09-17",
         "victim": "Chroma ATE Inc.",
         "domain": "chromaate.com",
