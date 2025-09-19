@@ -1,5 +1,40 @@
 [
     {
+        "victim": "General Control Systems",
+        "domain": "generalcontrolsystems.com",
+        "country": "US",
+        "date": "2025-09-07",
+        "group": "play"
+    },
+    {
+        "victim": "Pathfinder",
+        "domain": "pathfinderlld.com",
+        "country": "US",
+        "date": "2025-09-05",
+        "group": "play"
+    },
+    {
+        "victim": "RFI",
+        "domain": "rfiingredients.com",
+        "country": "US",
+        "date": "2025-09-05",
+        "group": "play"
+    },
+    {
+        "victim": "Crestone Group",
+        "domain": "crestone-group.com",
+        "country": "US",
+        "date": "2025-09-05",
+        "group": "play"
+    },
+    {
+        "victim": "Rochester Optical",
+        "domain": "rochesteroptical.com",
+        "country": "US",
+        "date": "2025-08-28",
+        "group": "play"
+    },
+    {
         "victim": "TransCore ITS, LLC",
         "domain": "transcore.com",
         "country": "AE",
