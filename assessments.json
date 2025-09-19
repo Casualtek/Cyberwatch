@@ -1,5 +1,19 @@
 [
     {
+        "victim": "Garrison Architects",
+        "domain": "garrisonarch.com",
+        "country": "US",
+        "date": "2025-09-08",
+        "group": "play"
+    },
+    {
+        "victim": "McCarter Electrical",
+        "domain": "mccarterelectric.com",
+        "country": "US",
+        "date": "2025-09-08",
+        "group": "play"
+    },
+    {
         "victim": "General Control Systems",
         "domain": "generalcontrolsystems.com",
         "country": "US",
