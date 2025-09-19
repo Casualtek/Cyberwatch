@@ -1,5 +1,15 @@
 [
     {
+        "date": "2025-08-07",
+        "victim": "Monterey Mushrooms, LLC",
+        "domain": "montereymushrooms.com",
+        "country": "USA",
+        "summary": "An unauthorized actor accessed files on Monterey Mushrooms' computer servers between August 2, 2025, and August 7, 2025, potentially exposing the name, Social Security number, and driver's license number or passport number of a Maine resident. The attack has been claimed by Payoutkings on September 3, and INC Ransom on September 4.",
+        "title": "Data Breach Notification",
+        "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/2dfaa8c9-037d-4bf8-8310-e68ee6a68779.html",
+        "added": "2025-09-19"
+    },
+    {
         "date": "2025-09-08",
         "victim": "GJ텍",
         "domain": "gjtec.co.kr",
