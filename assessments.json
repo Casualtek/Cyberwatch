@@ -1,9 +1,16 @@
 [
     {
+        "victim": "Seppeler Gruppe",
+        "domain": "seppeler.de",
+        "country": "DE",
+        "date": "2025-05-12",
+        "group": "akira"
+    },
+    {
         "victim": "Zillertal Bier",
         "domain": "zillertal-bier.at",
         "country": "AT",
-        "date": "24-06-04",
+        "date": "2024-06-04",
         "group": "akira"
     },
     {
