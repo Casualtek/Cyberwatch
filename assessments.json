@@ -1,5 +1,40 @@
 [
     {
+        "victim": "TerranearPMC",
+        "domain": "terranearpmc.com",
+        "country": "US",
+        "date": "2025-09-06",
+        "group": "play"
+    },
+    {
+        "victim": "RGR Sportswear",
+        "domain": "rgrgroupe.com",
+        "country": "CA",
+        "date": "2025-09-11",
+        "group": "play"
+    },
+    {
+        "victim": "Lake Book Manufacturing",
+        "domain": "lakebook.com",
+        "country": "US",
+        "date": "2025-09-10",
+        "group": "play"
+    },
+    {
+        "victim": "Eau Palm Beach Resort & Spa",
+        "domain": "eaupalmbeach.com",
+        "country": "US",
+        "date": "2025-09-09",
+        "group": "play"
+    },
+    {
+        "victim": "Energenecs",
+        "domain": "energenecs.com",
+        "country": "US",
+        "date": "2025-09-09",
+        "group": "play"
+    },
+    {
         "victim": "Klampfer Elektroanlagen",
         "domain": "klampfer.at",
         "country": "AT",
