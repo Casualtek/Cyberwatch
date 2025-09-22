@@ -1,5 +1,12 @@
 [
     {
+        "victim": "Ekotrade",
+        "domain": "ekotrade.com.pl",
+        "country": "PL",
+        "date": "2025-08-29",
+        "group": "qilin"
+    },
+    {
         "victim": "Tolerance Masters",
         "domain": "tolerancemasters.com",
         "country": "US",
