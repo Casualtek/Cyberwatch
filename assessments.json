@@ -1,5 +1,12 @@
 [
     {
+        "victim": "Access Financial",
+        "domain": "accessfinancial.com",
+        "country": "CH",
+        "date": "2025-05-27",
+        "group": "akira"
+    },
+    {
         "victim": "Tänzer GmbH",
         "domain": "taenzer-gmbh.de",
         "country": "DE",
