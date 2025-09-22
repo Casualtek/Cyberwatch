@@ -1,5 +1,35 @@
 [
     {
+        "date": "2025-03-31",
+        "victim": "Havco Wood Products LLC",
+        "domain": "havco.com",
+        "country": "USA",
+        "summary": "Havco Wood Products LLC experienced a data breach where an unauthorized third party accessed their computer network for less than 24 hours, potentially acquiring certain files containing personal information. The breach occurred from March 30th, 2025, to March 31st, 2025. The company has taken steps to address the incident and is offering complimentary credit monitoring to affected individuals.",
+        "title": "Data Breach Notification",
+        "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/dce59c5b-e28a-4422-99cd-e1bdb454d4ba.html",
+        "added": "2025-09-20"
+    },
+    {
+        "date": "2024-11-12",
+        "victim": "eCapital Corp.",
+        "domain": "ecapital.com",
+        "country": "USA",
+        "summary": "eCapital suffered a cyber-attack that may have exposed some personal information, including names and other data elements. The attackers likely sought financial gain rather than the information itself. The company has taken steps to prevent a reoccurrence and is offering identity monitoring services to affected individuals.",
+        "title": "Data Breach Notification",
+        "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/e7e918b5-9866-40c6-8977-9325154f5226.html",
+        "added": "2025-09-20"
+    },
+    {
+        "date": "2024-11-12",
+        "victim": "Jewish Federation of Greater Pittsburgh",
+        "domain": "jewishpgh.org",
+        "country": "USA",
+        "summary": "The Jewish Federation of Greater Pittsburgh experienced unauthorized access to their network on or about November 12, 2024. Some files may have been accessed or removed by the unauthorized individual(s) between November 5, 2024, and November 12, 2024. The impacted files may have contained personal information, including names.",
+        "title": "Data Breach Notification",
+        "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/20fbecaa-3ec2-43c8-ae98-cfd146e4237c.html",
+        "added": "2025-09-20"
+    },
+    {
         "date": "2025-09-19",
         "victim": "Collins Aerospace",
         "domain": "collinsaerospace.com",
