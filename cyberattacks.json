@@ -1,5 +1,25 @@
 [
     {
+        "date": "2025-09-21",
+        "victim": "United Group",
+        "domain": "united.group",
+        "country": "BGR",
+        "summary": "United Group a subi une attaque cybernétique visant ses filiales Vivacom et Mainstream Bulgaria en Bulgarie, mais les mesures de confinement ont permis de limiter l'impact. Les services de base de Vivacom, tels que la connectivité mobile et fixe, restent opérationnels. L'entreprise a condamné ces actes criminels et continue d'investir dans la sécurité de ses réseaux.",
+        "title": "United Group Subsidiaries Vivacom & Mainstream Bulgaria Hit by Cyberattack",
+        "url": "https://www.thefastmode.com/technology-solutions/44820-united-group-subsidiaries-vivacom-mainstream-bulgaria-hit-by-cyberattack",
+        "added": "2025-09-24"
+    },
+    {
+        "date": "2025-09-19",
+        "victim": "Circle K (OK便利店)",
+        "domain": "circlek.hk",
+        "country": "HKG",
+        "summary": "Le réseau de Circle K (OK便利店) a été touché par une panne de réseau, ce qui a affecté les systèmes de paiement, les e-mails et les plans de récompense pour les membres, les magasins fonctionnent normalement mais ne acceptent que les paiements en espèces et par Octopus. L'entreprise enquête sur l'incident et prend des mesures pour protéger les données de ses clients, employés et fournisseurs. Les clients sont invités à rester vigilants et à ne pas partager leurs informations sensibles.",
+        "title": "網絡中斷｜OK便利店近日停電子支付 只收現金八達通 不排除遭網絡攻擊 - wepro180",
+        "url": "https://www.wepro180.com/ok便利店不排除遭網絡攻擊/",
+        "added": "2025-09-24"
+    },
+    {
         "date": "2025-09-20",
         "victim": "Boyd Gaming Corporation",
         "domain": "boydgaming.com",
