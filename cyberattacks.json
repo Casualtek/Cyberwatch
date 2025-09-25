@@ -1,5 +1,35 @@
 [
     {
+        "date": "2025-06-26",
+        "victim": "Achen-Gardner Construction",
+        "domain": "achen.com",
+        "country": "USA",
+        "summary": "L'attaque n'a pas été revendiquée, mais l'enseigne Qilin divulgue des données présentées comme issues des systèmes d'Achen-Gardner Construction.",
+        "title": "none",
+        "url": "none",
+        "added": "2025-09-25"
+    },
+    {
+        "date": "2025-06-26",
+        "victim": "Airbus SLC México",
+        "domain": "airbus-slc.com.mx",
+        "country": "MEX",
+        "summary": "L'attaque n'a pas été revendiquée, mais l'enseigne Qilin divulgue des données présentées comme issues des systèmes d'Airbus SLC México.",
+        "title": "none",
+        "url": "none",
+        "added": "2025-09-25"
+    },
+    {
+        "date": "2025-05-15",
+        "victim": "Alten Sakai & Company LLP",
+        "domain": "altensakai.cpa",
+        "country": "USA",
+        "summary": "L'attaque n'a pas été revendiquée, mais l'enseigne Qilin divulgue des données présentées comme issues des systèmes d'Alten Sakai.",
+        "title": "none",
+        "url": "none",
+        "added": "2025-09-25"
+    },
+    {
         "date": "2025-09-21",
         "victim": "United Group",
         "domain": "united.group",
