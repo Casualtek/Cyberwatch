@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-12-07",
+        "victim": "Tekni-Plex, Inc.",
+        "domain": "tekni-plex.com",
+        "country": "USA",
+        "summary": "Tekni-Plex, Inc. suffered a data breach between October 25, 2024, and December 7, 2024, where an unauthorized actor accessed their network and accessed or copied certain files without authorization. The attack was claimed by Ransomhub on December 13.",
+        "title": "Data Breach Notification",
+        "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/eca02689-62c4-4a59-9e9f-242da5b5874f.html",
+        "added": "2025-09-25"
+    },
+    {
         "date": "2024-12-19",
         "victim": "Gaylord Specialty Healthcare",
         "domain": "gaylord.org",
