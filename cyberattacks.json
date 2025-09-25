@@ -1,5 +1,15 @@
 [
     {
+        "date": "2025-08-31",
+        "victim": "Inovie Labosud",
+        "domain": "inovie.fr",
+        "country": "FRA",
+        "summary": "Le groupe de biologie médicale Inovie Labosud a été victime d’une cyberattaque début août, entraînant l’exfiltration de données personnelles et médicales de plusieurs millions de patients. Les données concernées sont de nature administrative et médicale, mais aucun mot de passe ou coordonnée bancaire n’a été compromis. Le groupe a déposé plainte et pris des mesures pour circonscrire l’incident.",
+        "title": "Hérault : le laboratoire médical Inovie Labosud frappé par une cyberattaque - Hérault Tribune",
+        "url": "https://www.herault-tribune.com/articles/herault-le-laboratoire-medical-inovie-labosud-frappe-par-une-cyberattaque/",
+        "added": "2025-09-25"
+    },
+    {
         "date": "2025-09-20",
         "victim": "KWG",
         "domain": "kwg-senftenberg.de",
