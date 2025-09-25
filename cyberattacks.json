@@ -1,5 +1,35 @@
 [
     {
+        "date": "2025-09-23",
+        "victim": "Okuma Europe GmbH",
+        "domain": "okuma.eu",
+        "country": "DEU",
+        "summary": "Okuma Europe GmbH, une filiale d'Okuma Corporation, a subi une attaque de ransomware, ce qui a entraîné une infection de son serveur et un risque possible d'exfiltration de données personnelles et d'informations confidentielles. L'entreprise travaille actuellement avec des experts externes pour enquêter sur la faille de sécurité et récupérer le système affecté. L'incident a été signalé à la police et aux autorités gouvernementales allemandes. (via eCrime.ch)",
+        "title": "NEWSROOM 2025",
+        "url": "https://www.okuma.co.jp/english/news/2025/250925.php",
+        "added": "2025-09-25"
+    },
+    {
+        "date": "2025-05-01",
+        "victim": "Garson Brothers Asset Management, LLC",
+        "domain": "garsonbrothers.com",
+        "country": "USA",
+        "summary": "Garson Brothers Asset Management, LLC suffered a data security incident where an unknown actor gained access to their network and potentially acquired certain files. The incident involved personal information for one Maine resident, including name and Social Security number. The organization has notified the affected individual and provided them with steps to protect their personal information.",
+        "title": "Data Breach Notification",
+        "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/d1d6864c-a214-4d96-9515-b87c737296af.html",
+        "added": "2025-09-25"
+    },
+    {
+        "date": "2025-06-05",
+        "victim": "First National Bank of Clarksdale",
+        "domain": "fnbclarksdale.com",
+        "country": "USA",
+        "summary": "Unauthorized actor accessed the bank's computer network between June 4, 2025, and June 5, 2025, and obtained certain files containing sensitive customer information. The bank identified one or more files containing the name, Social Security number, and/or financial account number of a Maine resident on September 8, 2025. The bank notified the affected individual on September 24, 2025.",
+        "title": "Data Breach Notification",
+        "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/b98c077e-2080-4323-a547-a825a1f22749.html",
+        "added": "2025-09-25"
+    },
+    {
         "date": "2024-12-07",
         "victim": "Tekni-Plex, Inc.",
         "domain": "tekni-plex.com",
