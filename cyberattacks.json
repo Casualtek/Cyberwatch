@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-12-19",
+        "victim": "Gaylord Specialty Healthcare",
+        "domain": "gaylord.org",
+        "country": "USA",
+        "summary": "Gaylord Specialty Healthcare experienced a cybersecurity incident that impacted connectivity to their network, potentially exposing personal data between December 16, 2024, and December 19, 2024. The attack was claimed by Safepay on January 22, 2025.",
+        "title": "Data Breach Notification",
+        "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/2e786885-9812-4314-a1e4-341bdf8a82eb.html",
+        "added": "2025-09-25"
+    },
+    {
         "date": "2025-05-18",
         "victim": "Union County, Ohio",
         "domain": "unioncountyohio.gov",
