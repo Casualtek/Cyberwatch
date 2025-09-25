@@ -1,5 +1,68 @@
 [
     {
+        "victim": "alpresor.se",
+        "domain": "alpresor.se",
+        "country": "SE",
+        "date": "2025-07-14",
+        "group": "qilin"
+    },
+    {
+        "victim": "Accu Reference Medical Lab",
+        "domain": "accureference.com",
+        "country": "US",
+        "date": "2025-06-11",
+        "group": "qilin"
+    },
+    {
+        "victim": "Agrofair",
+        "domain": "agrofair.nl",
+        "country": "NL",
+        "date": "2025-07-29",
+        "group": "qilin"
+    },
+    {
+        "victim": "Habitat for Humanity of Greater Sioux Falls, Inc.",
+        "domain": "siouxfallshabitat.org",
+        "country": "US",
+        "date": "2025-05-09",
+        "group": "qilin"
+    },
+    {
+        "victim": "www.bestop.com",
+        "domain": "bestop.com",
+        "country": "US",
+        "date": "2025-05-10",
+        "group": "qilin"
+    },
+    {
+        "victim": "FLOE International",
+        "domain": "floeintl.com",
+        "country": "US",
+        "date": "2025-05-30",
+        "group": "qilin"
+    },
+    {
+        "victim": "1sthealthinc.com",
+        "domain": "1sthealthinc.com",
+        "country": "US",
+        "date": "2025-04-12",
+        "group": "qilin"
+    },
+    {
+        "victim": "Alert Medical Alarms",
+        "domain": "alertmedicalalarms.com",
+        "country": "US",
+        "date": "2025-05-31",
+        "group": "qilin"
+    },
+    {
+        "victim": "Nexa",
+        "domain": "nexa.bb",
+        "country": "BB",
+        "date": "2025-06-22",
+        "group": "qilin"
+    },
+    {
         "victim": "ECM Consultants",
         "domain": "ecmconsultants.com",
         "country": "US",
