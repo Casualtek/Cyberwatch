@@ -1,6 +1,16 @@
 [
     {
         "date": "2025-09-24",
+        "victim": "Burrillville School Department",
+        "domain": "bsd-ri.net",
+        "country": "USA",
+        "summary": "Le département scolaire de Burrillville enquête sur une cyberattaque visant le lycée de Burrillville, mais aucune information sur les Chromebooks des élèves ou du personnel n'a été compromise. L'équipe informatique a pris des mesures pour arrêter l'attaque et les opérations scolaires se déroulent normalement. L'enquête se poursuit pour déterminer la cause de l'attaque.",
+        "title": "Burrillville schools confirm cyberattack on high school",
+        "url": "https://turnto10.com/news/local/burrillville-schools-confirm-cyberattack-on-high-school-sept-25-2025",
+        "added": "2025-09-26"
+    },
+    {
+        "date": "2025-09-24",
         "victim": "Refresco",
         "domain": "refresco.de",
         "country": "DEU",
