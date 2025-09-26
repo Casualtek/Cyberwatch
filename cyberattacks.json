@@ -1,5 +1,15 @@
 [
     {
+        "date": "2025-09-11",
+        "victim": "Elmar",
+        "domain": "elmar.aw",
+        "country": "ABW",
+        "summary": "Le fournisseur d'électricité Elmar a été victime d'une attaque par ransomware, mais a réussi à résoudre le problème sans interruption de la fourniture d'électricité. L'attaque a eu lieu le 11 septembre et les systèmes ont été rétablis en quelques jours. Elmar travaille avec des experts en cybersécurité pour renforcer sa protection et informe ses clients et la communauté de l'incident.",
+        "title": "Arubaanse bedrijf Elmar bevestigt cyberaanval",
+        "url": "https://antilliaansdagblad.com/nieuws-menu/aruba/31756-arubaanse-bedrijf-elmar-bevestigt-cyberaanval",
+        "added": "2025-09-26"
+    },
+    {
         "date": "2025-09-24",
         "victim": "Burrillville School Department",
         "domain": "bsd-ri.net",
