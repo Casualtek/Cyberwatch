@@ -1,5 +1,12 @@
 [
     {
+        "victim": "Adval Tech",
+        "domain": "advaltech.com",
+        "country": "CH",
+        "date": "2025-02-20",
+        "group": "lynx"
+    },
+    {
         "victim": "alpresor.se",
         "domain": "alpresor.se",
         "country": "SE",
