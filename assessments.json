@@ -1,5 +1,47 @@
 [
     {
+        "victim": "APG",
+        "domain": "apgsolutions.com",
+        "country": "US",
+        "date": "20245-09-12",
+        "group": "play"
+    },
+    {
+        "victim": "Roth & Scholl",
+        "domain": "rothandscholl.com",
+        "country": "US",
+        "date": "20245-09-10",
+        "group": "play"
+    },
+    {
+        "victim": "New England Waterproofing",
+        "domain": "livedry.com",
+        "country": "US",
+        "date": "20245-09-14",
+        "group": "play"
+    },
+    {
+        "victim": "Combined Services HVAC",
+        "domain": "combinedserviceshvac.com",
+        "country": "US",
+        "date": "20245-09-12",
+        "group": "play"
+    },
+    {
+        "victim": "Hilldun",
+        "domain": "hilldun.com",
+        "country": "US",
+        "date": "20245-09-08",
+        "group": "play"
+    },
+    {
+        "victim": "Ronco Safety",
+        "domain": "roncosafety.com",
+        "country": "CA",
+        "date": "20245-09-06",
+        "group": "play"
+    },
+    {
         "victim": "Clutch Industries",
         "domain": "clutchindustries.com",
         "country": "AU",
