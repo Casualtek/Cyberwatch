@@ -1,5 +1,12 @@
 [
     {
+        "victim": "scottschiff.com",
+        "domain": "scottschiff.com",
+        "country": "US",
+        "date": "2025-08-05",
+        "group": "safepay"
+    },
+    {
         "victim": "mdneal.com",
         "domain": "mdneal.com",
         "country": "US",
