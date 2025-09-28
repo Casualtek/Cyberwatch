@@ -1,5 +1,12 @@
 [
     {
+        "victim": "M8 Group",
+        "domain": "m8retail.com",
+        "country": "GB",
+        "date": "2025-08-10",
+        "group": "ransomhouse"
+    },
+    {
         "victim": "scottschiff.com",
         "domain": "scottschiff.com",
         "country": "US",
