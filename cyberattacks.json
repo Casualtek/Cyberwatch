@@ -1,5 +1,15 @@
 [
     {
+        "date": "2025-05-06",
+        "victim": "Airbus Public Safety and Security",
+        "domain": "airbus-slc.com.mx",
+        "country": "MEX",
+        "summary": "La division Public Safety and Security d'Airbus au Mexique a été victime d'une cyberattaque avec rançongiciel début mai, mais aucune rançon n'a été payée. L'incident a été maîtrisé grâce à la mobilisation des équipes de sécurité et aucun système utilisé par les clients n'a été affecté. L'incident fait l'objet d'une enquête judiciaire au Mexique.",
+        "title": "Mexique : Airbus Public Safety and Security victime de ransomware début mai | LeMagIT",
+        "url": "https://www.lemagit.fr/actualites/366632099/Mexique-Airbus-Public-Safety-and-Security-victime-de-ransomware-debut-mai",
+        "added": "2025-09-29"
+    },
+    {
         "date": "2025-09-27",
         "victim": "Comune di Forio",
         "domain": "forio.na.it",
@@ -155,16 +165,6 @@
         "domain": "achen.com",
         "country": "USA",
         "summary": "L'attaque n'a pas été revendiquée, mais l'enseigne Qilin divulgue des données présentées comme issues des systèmes d'Achen-Gardner Construction.",
-        "title": "none",
-        "url": "none",
-        "added": "2025-09-25"
-    },
-    {
-        "date": "2025-06-26",
-        "victim": "Airbus SLC México",
-        "domain": "airbus-slc.com.mx",
-        "country": "MEX",
-        "summary": "L'attaque n'a pas été revendiquée, mais l'enseigne Qilin divulgue des données présentées comme issues des systèmes d'Airbus SLC México.",
         "title": "none",
         "url": "none",
         "added": "2025-09-25"
