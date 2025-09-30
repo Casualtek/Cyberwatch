@@ -1,5 +1,68 @@
 [
     {
+        "victim": "DLCOSMETICS O.E.",
+        "domain": "cosmetics.gr",
+        "country": "GR",
+        "date": "2025-08-06",
+        "group": "ransomhouse"
+    },
+    {
+        "victim": "Greater Pittsburgh Orthopaedic Associates",
+        "domain": "gpoa.com",
+        "country": "US",
+        "date": "2025-08-10",
+        "group": "ransomhouse"
+    },
+    {
+        "victim": "Maxell Asia",
+        "domain": "maxell.com.hk",
+        "country": "HK",
+        "date": "2025-07-21",
+        "group": "ransomhouse"
+    },
+    {
+        "victim": "EUC Sjlland",
+        "domain": "eucsj.dk",
+        "country": "DK",
+        "date": "2025-04-19",
+        "group": "ransomhouse"
+    },
+    {
+        "victim": "Vinda Group",
+        "domain": "vinda.com",
+        "country": "HK",
+        "date": "2025-05-16",
+        "group": "ransomhouse"
+    },
+    {
+        "victim": "Tri State Electric",
+        "domain": "tseltd.com",
+        "country": "US",
+        "date": "2025-04-21",
+        "group": "ransomhouse"
+    },
+    {
+        "victim": "Triple Jump",
+        "domain": "triple-jump.com",
+        "country": "RS",
+        "date": "2025-04-10",
+        "group": "ransomhouse"
+    },
+    {
+        "victim": "Commune de Jemeppe-sur-Sambre",
+        "domain": "jemeppe-sur-sambre.be",
+        "country": "BE",
+        "date": "2025-04-21",
+        "group": "ransomhouse"
+    },
+    {
+        "victim": "OeTTINGER Brauerei",
+        "domain": "oettinger-bier.de",
+        "country": "DE",
+        "date": "2025-04-19",
+        "group": "ransomhouse"
+    },
+    {
         "victim": "Thomas Safran & Associates",
         "domain": "tsahousing.com",
         "country": "US",
