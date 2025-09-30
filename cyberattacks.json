@@ -1,5 +1,25 @@
 [
     {
+        "date": "2025-08-22",
+        "victim": "Georgetown Brewing Company",
+        "domain": "georgetownbeer.com",
+        "country": "USA",
+        "summary": "A data security event resulted in unauthorized access to personal identifying information, including names and driver's license numbers. The incident occurred on August 22, 2025, and was discovered on the same day. There is no evidence of misuse of the information.",
+        "title": "2025-09-26 Georgetown Brewing Company Data Breach Notice to Consumers",
+        "url": "https://ago.vermont.gov/document/2025-09-26-georgetown-brewing-company-data-breach-notice-consumers",
+        "added": "2025-09-30"
+    },
+    {
+        "date": "2024-08-25",
+        "victim": "RiteCheck Cashing Inc.",
+        "domain": "ritecheck.com",
+        "country": "USA",
+        "summary": "RiteCheck Cashing Inc. suffered a data security incident where an unauthorized user accessed their system, potentially exposing customer information. The incident occurred on August 25th, 2024, and was discovered on June 23rd, 2025. The affected information includes date of birth, social security number, and other personal identifiable information.",
+        "title": "2025-09-26 RiteCheck Cashing Data Breach Notice to Consumers",
+        "url": "https://ago.vermont.gov/document/2025-09-26-ritecheck-cashing-data-breach-notice-consumers",
+        "added": "2025-09-30"
+    },
+    {
         "date": "2025-09-29",
         "victim": "DeKalb county government",
         "domain": "co.dekalb.in.us",
@@ -7252,7 +7272,7 @@
     {
         "date": "2025-04-22",
         "victim": "Oettinger",
-        "domain": "oettinger1731.de",
+        "domain": "oettinger-bier.de",
         "country": "DEU",
         "summary": "La brasserie traditionnelle allemande Oettinger a été victime d'une attaque de hackers, mais la production et la logistique ne sont pas affectées. Les détails de l'attaque ne sont pas encore connus, mais l'entreprise travaille à la restauration des systèmes touchés. Les fans de la bière peuvent être rassurés, car la production continue sans interruption.",
         "title": "\"Oettinger\" im Visier von Hackern: Cyberangriff auf Traditionsbrauerei",
@@ -7262,7 +7282,7 @@
     {
         "date": "2025-04-25",
         "victim": "MTN Group",
-        "domain": "mtn.com",
+        "domain": "mtn.co.za",
         "country": "ZAF",
         "summary": "MTN Group a confirmé avoir été victime d'une attaque de cybersécurité, mais a insisté sur le fait que ses systèmes principaux, y compris son réseau et ses plateformes de services financiers, n'ont pas été compromis. L'entreprise a activé ses protocoles de réponse à la cybersécurité et a informé les autorités compétentes. Les opérations de MTN au Nigéria n'ont pas été affectées par l'incident.",
         "title": "JUST-IN: MTN Confirms Cyber Attack, Says Core Systems Unaffected",
