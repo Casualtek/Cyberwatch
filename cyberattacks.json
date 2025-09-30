@@ -1,5 +1,15 @@
 [
     {
+        "date": "2025-09-26",
+        "victim": "MPDV Mikrolab GmbH",
+        "domain": "mpdv.com",
+        "country": "DEU",
+        "summary": "Le spécialiste en logiciels MPDV Mikrolab GmbH a été victime d'une attaque informatique, mais grâce à une intervention rapide, aucun dommage n'a été causé et les données des clients sont sécurisées. Les autorités ont été informées et les traces sécurisées ont été transmises pour une enquête plus approfondie. L'entreprise a déclaré que les processus internes fonctionnent à nouveau normalement depuis le début de la semaine.",
+        "title": "Diedesheim: Cyberangriff auf MPDV",
+        "url": "https://www.rnz.de/region/neckartal-odenwald_artikel,-Diedesheim-Cyberangriff-auf-MPDV-_arid,1665007.html",
+        "added": "2025-09-30"
+    },
+    {
         "date": "2025-09-25",
         "victim": "Direction générale des impôts et domaines (Dgid)",
         "domain": "dgid.sn",
