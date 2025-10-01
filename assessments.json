@@ -1,5 +1,19 @@
 [
     {
+        "victim": "dcinvestors.com",
+        "domain": "dcinvestors.com",
+        "country": "US",
+        "date": "2025-05-15",
+        "group": "qilin"
+    },
+    {
+        "victim": "Eagle Excavation",
+        "domain": "eaglexinc.com",
+        "country": "US",
+        "date": "2025-09-09",
+        "group": "qilin"
+    },
+    {
         "victim": "csrepair.com",
         "domain": "csrepair.com",
         "country": "US",
