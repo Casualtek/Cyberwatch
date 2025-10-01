@@ -1,5 +1,45 @@
 [
     {
+        "date": "2025-08-04",
+        "victim": "Bricotech",
+        "domain": "esd-bricotech.fr",
+        "country": "FRA",
+        "summary": "L'attaque n'a pas été revendiquée, mais l'enseigne Qilin divulgue des données présentées comme issues des systèmes de Bricotech.",
+        "title": "none",
+        "url": "none",
+        "added": "2025-10-01"
+    },
+    {
+        "date": "2025-06-28",
+        "victim": "Consorzio di Bonifica Adige Po",
+        "domain": "adigepo.it",
+        "country": "ITA",
+        "summary": "L'attaque n'a pas été revendiquée, mais l'enseigne Qilin divulgue des données présentées comme issues des systèmes de Consorzio di Bonifica Adige Po.",
+        "title": "none",
+        "url": "none",
+        "added": "2025-10-01"
+    },
+    {
+        "date": "2025-07-29",
+        "victim": "Connex Credit Union",
+        "domain": "connexcu.org",
+        "country": "USA",
+        "summary": "L'attaque n'a pas été revendiquée, mais l'enseigne Qilin divulgue des données présentées comme issues des systèmes de Connex Credit Union.",
+        "title": "none",
+        "url": "none",
+        "added": "2025-10-01"
+    },
+    {
+        "date": "2025-05-19",
+        "victim": "Eaton Babb & Smith",
+        "domain": "ebs-cpa.com",
+        "country": "USA",
+        "summary": "L'attaque n'a pas été revendiquée, mais l'enseigne Qilin divulgue des données présentées comme issues des systèmes d'Eaton Babb & Smith",
+        "title": "none",
+        "url": "none",
+        "added": "2025-10-01"
+    },
+    {
         "date": "2025-09-20",
         "victim": "Jenz",
         "domain": "jenz.de",
