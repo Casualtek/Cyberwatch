@@ -1,5 +1,15 @@
 [
     {
+        "date": "2025-08-19",
+        "victim": "Motility Software Solutions",
+        "domain": "motilitysoftwaresolutions.com",
+        "country": "USA",
+        "summary": "Motility Software Solutions suffered a data security incident where an unauthorized actor deployed malware that encrypted a portion of their systems, potentially exposing customers' personal data.",
+        "title": "Data Breach Notification",
+        "url": "https://agportal-s3bucket.s3.amazonaws.com/databreach/BreachA34789.pdf",
+        "added": "2025-10-01"
+    },
+    {
         "date": "2025-09-29",
         "victim": "LG Balakrishnan & Bros Ltd",
         "domain": "lgb.co.in",
