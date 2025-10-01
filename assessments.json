@@ -1,5 +1,40 @@
 [
     {
+        "victim": "shgcpa.com",
+        "domain": "shgcpa.com",
+        "country": "US",
+        "date": "2025-04-07",
+        "group": "lynx"
+    },
+    {
+        "victim": "southernagllc.com",
+        "domain": "southernagllc.com",
+        "country": "US",
+        "date": "2025-04-15",
+        "group": "lynx"
+    },
+    {
+        "victim": "Inside One",
+        "domain": "insideone.cloud",
+        "country": "CL",
+        "date": "2025-07-08",
+        "group": "lynx"
+    },
+    {
+        "victim": "TOC",
+        "domain": "toclogistics.com",
+        "country": "US",
+        "date": "2024-11-15",
+        "group": "lynx"
+    },
+    {
+        "victim": "Textiles Coated International",
+        "domain": "textilescoated.com",
+        "country": "US",
+        "date": "2024-11-04",
+        "group": "lynx"
+    },
+    {
         "victim": "Celluphone",
         "domain": "celluphone.com",
         "country": "US",
