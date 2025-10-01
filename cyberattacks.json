@@ -1,5 +1,15 @@
 [
     {
+        "date": "2025-09-27",
+        "victim": "Al-Babtain Power and Telecommunications Co.",
+        "domain": "albabtain-egypt.com",
+        "country": "SAU",
+        "summary": "Al-Babtain Power and Telecommunications Co. a annoncé que son équipe de cybersécurité a détecté une tentative de violation de la sécurité sur un serveur appartenant à l'une de ses filiales en Égypte, mais l'incident n'a eu aucun impact sur les données ou les opérations de l'entreprise. La société a immédiatement mis en œuvre ses protocoles et mesures de sécurité approuvés sur tous les serveurs de la société mère et de ses filiales. Le serveur visé était un serveur de base de données de sauvegarde non principal.",
+        "title": "Al-Babtain: Cyberattack targets subsidiary in Egypt; no impact on Saudi operations",
+        "url": "https://www.argaam.com/en/article/articledetail/id/1846766",
+        "added": "2025-10-01"
+    },
+    {
         "date": "2025-09-22",
         "victim": "TENRYU AMERICA, INC.",
         "domain": "tenryu-saw.com",
