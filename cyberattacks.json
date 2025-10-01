@@ -1,5 +1,15 @@
 [
     {
+        "date": "2025-09-22",
+        "victim": "TENRYU AMERICA, INC.",
+        "domain": "tenryu-saw.com",
+        "country": "USA",
+        "summary": "Le fabricant de outils de coupe TENRYU AMERICA, INC. a été victime d'une attaque de ransomware, ce qui a entraîné la cryptage de données sur son serveur. L'entreprise a isolé le serveur et travaille avec des experts en sécurité pour résoudre le problème. Aucune fuite de données de clients ou de partenaires n'a été confirmée pour le moment. (via eCrime.ch)",
+        "title": "老舗切削工具メーカーにランサムウェア サーバー暗号化被害",
+        "url": "https://cybersecurity-info.com/news/tenryu-saw-manufacturing-ransomware-damage/",
+        "added": "2025-10-01"
+    },
+    {
         "date": "2025-08-19",
         "victim": "Motility Software Solutions",
         "domain": "motilitysoftwaresolutions.com",
