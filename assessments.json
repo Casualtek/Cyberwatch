@@ -1,5 +1,12 @@
 [
     {
+        "victim": "www.balkankalip.com",
+        "domain": "balkankalip.com",
+        "country": "TR",
+        "date": "2025-07-08",
+        "group": "qilin"
+    },
+    {
         "victim": "Astro Industries Inc.",
         "domain": "astro-ind.com",
         "country": "US",
