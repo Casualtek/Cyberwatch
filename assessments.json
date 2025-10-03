@@ -1,5 +1,12 @@
 [
     {
+        "victim": "GWP Engineering Limited",
+        "domain": "gwpengineering.com",
+        "country": "HK",
+        "date": "2025-08-23",
+        "group": "ransomhouse"
+    },
+    {
         "victim": "BALNEARIO DE MONDARIZ",
         "domain": "balneariomondariz.es",
         "country": "ES",
@@ -137,13 +144,6 @@
         "domain": "legendseniorliving.com",
         "country": "US",
         "date": "2025-07-29",
-        "group": "worldleaks"
-    },
-    {
-        "victim": "L3Harris Technologies",
-        "domain": "l3harris.com",
-        "country": "US",
-        "date": "2025-04-28",
         "group": "worldleaks"
     },
     {
