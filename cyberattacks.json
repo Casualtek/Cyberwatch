@@ -1,5 +1,15 @@
 [
     {
+        "date": "2025-09-24",
+        "victim": "Bugnard SA",
+        "domain": "bugnard.ch",
+        "country": "CHE",
+        "summary": "La PME vaudoise Bugnard SA a été victime d'une attaque par ransomware détectée le 24 septembre, l'entreprise reste à l'arrêt et l'hypothèse d'un paiement est envisagée. Les serveurs ainsi que le site internet ont été immédiatement mis hors ligne à titre de précaution. Le montant de la rançon initialement exigée par les cybercriminels s'élèverait à 450'000 dollars.",
+        "title": "La PME vaudoise Bugnard SA victime d’un ransomware",
+        "url": "https://www.ictjournal.ch/news/2025-10-03/la-pme-vaudoise-bugnard-sa-victime-dun-ransomware",
+        "added": "2025-10-03"
+    },
+    {
         "date": "2025-09-18",
         "victim": "Patrick Kunz",
         "domain": "patrickkunzmdl.de",
