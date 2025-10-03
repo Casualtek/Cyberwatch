@@ -1,5 +1,15 @@
 [
     {
+        "date": "2025-10-02",
+        "victim": "Shamir Medical Center",
+        "domain": "shamir.org",
+        "country": "ISR",
+        "summary": "Le centre médical a été victime d'une attaque informatique impliquant Qilin. Les opérations ont continué normalement, mais les experts examinent si des données sensibles ont été compromises. Le centre médical Shamir a été touché, mais aucune information n'a été divulguée sur les conséquences de l'attaque. Les experts sont en train d'examiner l'incident pour déterminer si des données de patients ont été compromises.",
+        "title": "Attempted cyber attack leaves Israeli patient data at risk | The Jerusalem Post",
+        "url": "https://www.jpost.com/health-and-wellness/article-869266",
+        "added": "2025-10-03"
+    },
+    {
         "date": "2025-10-03",
         "victim": "Ville de Fumel",
         "domain": "mairiedefumel.fr",
