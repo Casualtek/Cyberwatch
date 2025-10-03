@@ -1,5 +1,12 @@
 [
     {
+        "victim": "Plainview Volunteer Fire Department",
+        "domain": "plainviewfd.org",
+        "country": "US",
+        "date": "2025-08-10",
+        "group": "ransomhouse"
+    },
+    {
         "victim": "Weber Flavors",
         "domain": "weberflavors.com",
         "country": "US",
