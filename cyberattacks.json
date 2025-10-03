@@ -1,5 +1,25 @@
 [
     {
+        "date": "2024-08-19",
+        "victim": "DelBello Donnellan Weingarten Wise & Wiederkehr, LLP",
+        "domain": "ddw-law.com",
+        "country": "USA",
+        "summary": "DelBello Donnellan Weingarten Wise & Wiederkehr, LLP experienced a data security incident where unauthorized parties may have acquired personal information, including names, Social Security numbers, and payment card numbers. The incident was discovered on August 19, 2024, and the firm notified affected individuals on September 11, 2025. The firm is offering complimentary credit monitoring and identity protection services to affected individuals.",
+        "title": "2025-10-01 DelBello Donnellan Weingarten Wise & Wiederkehr Data Breach Notice to Consumers",
+        "url": "https://ago.vermont.gov/document/2025-10-01-delbello-donnellan-weingarten-wise-wiederkehr-data-breach-notice-consumers",
+        "added": "2025-10-03"
+    },
+    {
+        "date": "2024-05-08",
+        "victim": "Glenwood Management",
+        "domain": "glenwoodnyc.com",
+        "country": "USA",
+        "summary": "Glenwood Management suffered a cyber-attack that may have exposed personal information. The attackers likely targeted the company for financial gain. A cyberattack against Glenwood Management was claimed by Dan0n on May 8, 2024.",
+        "title": "Data Breach Notification",
+        "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/38e34dc2-5f41-4cd5-b68d-864a98dd84e4.html",
+        "added": "2025-10-03"
+    },
+    {
         "date": "2025-09-24",
         "victim": "Bugnard SA",
         "domain": "bugnard.ch",
