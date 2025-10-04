@@ -1,5 +1,15 @@
 [
     {
+        "date": "2025-08-15",
+        "victim": "Moore & Van Allen PLLC",
+        "domain": "mvalaw.com",
+        "country": "USA",
+        "summary": "An unauthorized actor accessed Moore & Van Allen PLLC's systems for approximately twenty minutes on August 15, 2025, and acquired copies of certain files containing the name and Social Security number of four Maine residents. The attack was claimed by Silentransomgroup on September 3.",
+        "title": "Data Breach Notification",
+        "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/57e9a813-c3a0-4e3e-aec4-03f9848bd51a.html",
+        "added": "2025-10-04"
+    },
+    {
         "date": "2025-10-03",
         "victim": "Administration nationale de l'éducation publique",
         "domain": "anep.edu.uy",
