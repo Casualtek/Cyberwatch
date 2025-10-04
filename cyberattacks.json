@@ -1,6 +1,16 @@
 [
     {
         "date": "2025-10-03",
+        "victim": "Administration nationale de l'éducation publique",
+        "domain": "anep.edu.uy",
+        "country": "URY",
+        "summary": "Un incidente de ciberseguridad a affecté la plateforme GURI, qui restera hors service pendant les prochaines heures. L'incident est actuellement en cours d'investigation. Les détails de l'incident seront communiqués dès que possible.",
+        "title": "Incidente de ciberseguridad que afecta a plataforma GURI",
+        "url": "https://www.anep.edu.uy/incidente-de-ciberseguridad-que-afecta-plataforma-guri",
+        "added": "2025-10-04"
+    },
+    {
+        "date": "2025-10-03",
         "victim": "Affärsverken",
         "domain": "affarsverken.se",
         "country": "SWE",
