@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-11-17",
+        "victim": "Brightstar Global Solutions Corporation",
+        "domain": "brightstarlottery.com",
+        "country": "USA",
+        "summary": "An unauthorized third party gained access to certain internal corporate systems, potentially exposing personal information. The incident was discovered on November 17, 2024. The affected systems were resecured, and an investigation was conducted to determine the extent of the breach.",
+        "title": "Data Breach Notification",
+        "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/551c73d5-f1f0-4328-ba76-5afd6345fa1a.html",
+        "added": "2025-10-04"
+    },
+    {
         "date": "2024-12-17",
         "victim": "Fort Wayne Medical Education Program",
         "domain": "fwmep.edu",
