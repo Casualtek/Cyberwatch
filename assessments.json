@@ -1,5 +1,19 @@
 [
     {
+        "victim": "Alltruck Bodies",
+        "domain": "alltruckbodies.com.au",
+        "country": "AU",
+        "date": "2024-04-12",
+        "group": "play"
+    },
+    {
+        "victim": "Messe C",
+        "domain": "messec.dk",
+        "country": "DK",
+        "date": "2024-09-21",
+        "group": "play"
+    },
+    {
         "victim": "Amelia Overhead Doors",
         "domain": "ameliadoor.com",
         "country": "US",
