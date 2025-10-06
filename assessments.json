@@ -1,5 +1,110 @@
 [
     {
+        "victim": "TELACU College",
+        "domain": "telacu.com",
+        "country": "US",
+        "date": "2025-07-18",
+        "group": "sinobi"
+    },
+    {
+        "victim": "Immaculate Heart of Mary",
+        "domain": "theimmaculateheartofmary.com",
+        "country": "US",
+        "date": "2025-09-28",
+        "group": "sinobi"
+    },
+    {
+        "victim": "Hygrade Components",
+        "domain": "hygradecomponents.com",
+        "country": "US",
+        "date": "2025-06-15",
+        "group": "sinobi"
+    },
+    {
+        "victim": "The DM Burr Group",
+        "domain": "dmburr.com",
+        "country": "US",
+        "date": "2025-08-04",
+        "group": "sinobi"
+    },
+    {
+        "victim": "Calsoft Systems",
+        "domain": "calsoftsystems.com",
+        "country": "US",
+        "date": "2025-08-07",
+        "group": "sinobi"
+    },
+    {
+        "victim": "Dorrell Fabrics",
+        "domain": "dorrellfabrics.com",
+        "country": "GB",
+        "date": "2025-06-15",
+        "group": "sinobi"
+    },
+    {
+        "victim": "Advanced Security Systems",
+        "domain": "advancedsecuritysystems.com",
+        "country": "US",
+        "date": "2025-07-15",
+        "group": "sinobi"
+    },
+    {
+        "victim": "Queens Center For Change",
+        "domain": "qcfc.org",
+        "country": "US",
+        "date": "2025-06-15",
+        "group": "sinobi"
+    },
+    {
+        "victim": "Dyson Corp.",
+        "domain": "dyson.com",
+        "country": "GB",
+        "date": "2025-07-15",
+        "group": "sinobi"
+    },
+    {
+        "victim": "Horizon Hydraulics",
+        "domain": "horizonhydraulics.com",
+        "country": "US",
+        "date": "2025-07-31",
+        "group": "sinobi"
+    },
+    {
+        "victim": "Harmony Electronics Corp",
+        "domain": "hele.com.tw",
+        "country": "TW",
+        "date": "2025-07-15",
+        "group": "sinobi"
+    },
+    {
+        "victim": "Watsonville Community Hospital",
+        "domain": "watsonvillehospital.org",
+        "country": "US",
+        "date": "2025-08-07",
+        "group": "sinobi"
+    },
+    {
+        "victim": "Eagan Insurance",
+        "domain": "eaganins.com",
+        "country": "US",
+        "date": "2025-06-15",
+        "group": "sinobi"
+    },
+    {
+        "victim": "PK Contracting",
+        "domain": "pkcontracting.com",
+        "country": "US",
+        "date": "2025-06-20",
+        "group": "sinobi"
+    },
+    {
+        "victim": "American Association on Health and Disability",
+        "domain": "aahd.us",
+        "country": "US",
+        "date": "2025-09-13",
+        "group": "sinobi"
+    },
+    {
         "victim": "Alltruck Bodies",
         "domain": "alltruckbodies.com.au",
         "country": "AU",
