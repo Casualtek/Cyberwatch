@@ -1,5 +1,15 @@
 [
     {
+        "date": "2025-09-22",
+        "victim": "Healthy Living",
+        "domain": "healthylivingmarket.com",
+        "country": "USA",
+        "summary": "Healthy Living suffered a ransomware attack on 9/22/2025, potentially accessing files containing personally identifiable information. The organization has seen no evidence of misuse, but is notifying staff in an abundance of caution. Staff are advised to monitor their credit reports and account statements for suspicious activity.",
+        "title": "2025-10-03 Road To Hana dba Healthy Living Data Breach Notice to Consumers",
+        "url": "https://ago.vermont.gov/document/2025-10-03-road-hana-dba-healthy-living-data-breach-notice-consumers",
+        "added": "2025-10-07"
+    },
+    {
         "date": "2025-10-07",
         "victim": "Prince Housing & Development Corp.",
         "domain": "prince.com.tw",
@@ -51,7 +61,7 @@
     },
     {
         "date": "2025-08-15",
-        "victim": "Moore & Van Allen PLLC",
+        "victim": "Moore & Van Allen",
         "domain": "mvalaw.com",
         "country": "USA",
         "summary": "An unauthorized actor accessed Moore & Van Allen PLLC's systems for approximately twenty minutes on August 15, 2025, and acquired copies of certain files containing the name and Social Security number of four Maine residents. The attack was claimed by Silentransomgroup on September 3.",
