@@ -1,5 +1,26 @@
 [
     {
+        "victim": "Waterborne Environmental",
+        "domain": "waterborne-env.com",
+        "country": "US",
+        "date": "2025-09-18",
+        "group": "play"
+    },
+    {
+        "victim": "pay4freight.com",
+        "domain": "pay4freight.com",
+        "country": "US",
+        "date": "2025-03-26",
+        "group": "lynx"
+    },
+    {
+        "victim": "Longue Vue Club",
+        "domain": "longuevueclub.com",
+        "country": "US",
+        "date": "2025-01-31",
+        "group": "lynx"
+    },
+    {
         "victim": "armourhome.co.uk",
         "domain": "armourhome.co.uk",
         "country": "GB",
