@@ -1,5 +1,12 @@
 [
     {
+        "victim": "Tranter (tcn.local)",
+        "domain": "tranter.com",
+        "country": "SE",
+        "date": "2024-08-16",
+        "group": "lynx"
+    },
+    {
         "victim": "Bobcat Central",
         "domain": "bobcatcentral.com",
         "country": "US",
