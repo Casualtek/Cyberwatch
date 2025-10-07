@@ -1,5 +1,15 @@
 [
     {
+        "date": "2025-09-13",
+        "victim": "Sorgenia",
+        "domain": "sorgenia.it",
+        "country": "ITA",
+        "summary": "Un attaque hacker a visé un fournisseur de Sorgenia, entraînant la fuite de données personnelles de certains clients, notamment ceux ayant un contrat de service à tarifs graduels pour les micro-entreprises. L'attaque a eu lieu le 13 septembre 2025 et Sorgenia a informé le Garante de la protection des données personnelles dans les délais prévus par le GDPR. Les communications supplémentaires aux personnes concernées sont en cours d'envoi.",
+        "title": "Sorgenia, attacco hacker: la società conferma l’accesso illecito. Ecco la tipologia di clienti colpita",
+        "url": "https://www.dday.it/redazione/54779/sorgenia-attacco-hacker-la-societa-conferma-laccesso-illecito-ecco-la-tipologia-di-clienti-colpita",
+        "added": "2025-10-07"
+    },
+    {
         "date": "2025-02-01",
         "victim": "Rogers Mechanical Contractors, LLC",
         "domain": "rmciga.com",
