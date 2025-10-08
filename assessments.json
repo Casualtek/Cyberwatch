@@ -1,5 +1,26 @@
 [
     {
+        "victim": "Horecamaterialen De Meester NV",
+        "domain": "demeesternv.be",
+        "country": "BE",
+        "date": "2025-04-14",
+        "group": "worldleaks"
+    },
+    {
+        "victim": "Four Quarters",
+        "domain": "fourquartersinc.com",
+        "country": "US",
+        "date": "2025-06-06",
+        "group": "worldleaks"
+    },
+    {
+        "victim": "Dynamic Netsoft",
+        "domain": "dnetsoft.com",
+        "country": "IN",
+        "date": "2025-05-17",
+        "group": "worldleaks"
+    },
+    {
         "victim": "Dr. Falk Pharma",
         "domain": "drfalkpharma.com",
         "country": "DE",
