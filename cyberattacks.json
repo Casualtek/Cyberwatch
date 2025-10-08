@@ -1,5 +1,15 @@
 [
     {
+        "date": "2025-10-07",
+        "victim": "Bristol Broadcasting",
+        "domain": "bristolbroadcasting.com",
+        "country": "USA",
+        "summary": "Bristol Broadcasting a signalé des problèmes techniques après la mention d'un ransomware à l'antenne, les émissions en ligne de certaines stations étant affectées. Les causes de l'incident sont encore en cours d'évaluation. Les émissions en direct ont continué, mais les flux en ligne ont été interrompus.",
+        "title": "Charleston W.Va. radio disruption after 'ransomware'",
+        "url": "https://dysruptionhub.com/charleston-wv-radio-disruption-ransomware/",
+        "added": "2025-10-08"
+    },
+    {
         "date": "2025-10-06",
         "victim": "Stadt Hohen Neuendorf",
         "domain": "hohen-neuendorf.de",
