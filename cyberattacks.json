@@ -1,5 +1,15 @@
 [
     {
+        "date": "2025-09-16",
+        "victim": "Chester County Library System",
+        "domain": "ccls.org",
+        "country": "USA",
+        "summary": "Le système de bibliothèque du comté de Chester en Pennsylvanie a subi une panne de plusieurs jours en raison d'une attaque de ransomware, affectant les 18 succursales et perturbant les services publics. Les services de téléphone et d'internet ont été rétablis le 25 septembre, mais des problèmes d'e-mail persistaient dans certains sites. Les services ont été pleinement rétablis le 6 octobre.",
+        "title": "Chester County libraries restore after outage",
+        "url": "https://dysruptionhub.com/chester-county-libraries-ransomware-outage/",
+        "added": "2025-10-08"
+    },
+    {
         "date": "2025-10-07",
         "victim": "Bristol Broadcasting",
         "domain": "bristolbroadcasting.com",
