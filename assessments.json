@@ -1,5 +1,40 @@
 [
     {
+        "victim": "goodcents.com",
+        "domain": "customfoodsinc.com",
+        "country": "US",
+        "date": "2025-06-17",
+        "group": "qilin"
+    },
+    {
+        "victim": "jtekt.eu",
+        "domain": "jtekt.eu",
+        "country": "FR",
+        "date": "2025-07-21",
+        "group": "qilin"
+    },
+    {
+        "victim": "ancc.org",
+        "domain": "ancc.org",
+        "country": "US",
+        "date": "2025-03-15",
+        "group": "qilin"
+    },
+    {
+        "victim": "apderm.com",
+        "domain": "apderm.com",
+        "country": "US",
+        "date": "2025-07-13",
+        "group": "qilin"
+    },
+    {
+        "victim": "foiegrasespinet",
+        "domain": "foiegrasespinet.com",
+        "country": "FR",
+        "date": "2025-05-23",
+        "group": "qilin"
+    },
+    {
         "victim": "Zeus Tecnología",
         "domain": "zeustecnologia.com",
         "country": "CO",
