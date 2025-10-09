@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-09-12",
+        "victim": "Kantsu Co., Ltd.",
+        "domain": "kantsu.com",
+        "country": "JPN",
+        "summary": "La société de logistique japonaise Kantsu a subi une attaque par ransomware qui a paralysé ses opérations, mais grâce à une réponse rapide et à la collaboration avec des experts en sécurité, elle a pu se remettre de l'attaque et rétablir ses activités. L'entreprise a appris l'importance de la préparation et de la planification pour faire face à de telles attaques. La société a également décidé de jeter tous ses anciens systèmes et de construire de nouveaux pour éviter tout risque de réinfection.",
+        "title": "The ultimate business resiliency test: Inside Kantsu’s ransomware response",
+        "url": "https://www.csoonline.com/article/4069236/corporate-executives-exposed-to-cyber-attacks-talk-about-the-pitfalls-of-response-measures.html",
+        "added": "2025-10-09"
+    },
+    {
         "date": "2025-10-02",
         "victim": "Moscow School District",
         "domain": "msd281.org",
