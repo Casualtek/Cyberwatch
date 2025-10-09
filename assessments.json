@@ -1,5 +1,12 @@
 [
     {
+        "victim": "gudeco.de",
+        "domain": "gudeco.de",
+        "country": "DE",
+        "date": "2025-06-13",
+        "group": "qilin"
+    },
+    {
         "victim": "goodcents.com",
         "domain": "customfoodsinc.com",
         "country": "US",
