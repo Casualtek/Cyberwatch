@@ -1,5 +1,47 @@
 [
     {
+        "victim": "RattanIndia Power",
+        "domain": "rattanindia.com",
+        "country": "IN",
+        "date": "2025-06-09",
+        "group": "worldleaks"
+    },
+    {
+        "victim": "Pyramid Global Hospitality",
+        "domain": "pyramidglobal.com",
+        "country": "US",
+        "date": "2025-08-13",
+        "group": "worldleaks"
+    },
+    {
+        "victim": "Prosegur",
+        "domain": "prosegur.com.sg",
+        "country": "SG",
+        "date": "2025-07-18",
+        "group": "worldleaks"
+    },
+    {
+        "victim": "Primoris",
+        "domain": "primoris-lab.com",
+        "country": "BE",
+        "date": "2025-07-08",
+        "group": "worldleaks"
+    },
+    {
+        "victim": "Prime Beverage Group",
+        "domain": "primebev.com",
+        "country": "US",
+        "date": "2025-06-15",
+        "group": "worldleaks"
+    },
+    {
+        "victim": "Plane Business Kayan Aero",
+        "domain": "kayan.aero",
+        "country": "TK",
+        "date": "2025-05-30",
+        "group": "worldleaks"
+    },
+    {
         "victim": "Paul Rossi Law Offices",
         "domain": "paulrossilaw.com",
         "country": "US",
