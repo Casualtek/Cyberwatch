@@ -1,5 +1,15 @@
 [
     {
+        "date": "2025-10-10",
+        "victim": "Lycées de la région des Hauts-de-France",
+        "domain": "hautsdefrance.fr",
+        "country": "FRA",
+        "summary": "Une attaque de rançongiciel impliquant l'enseigne Qilin a touché près de 80% des lycées publics de la région des Hauts-de-France, mais les cours continuent malgré la suspension temporaire de l'accès à Internet. Les équipes techniques travaillent à contenir l'attaque et à sécuriser les infrastructures. Une cellule de crise a été mise en place pour coordonner la réponse à l'incident.",
+        "title": "Près de 80 % des lycées des Hauts-de-France touchés par une cyberattaque",
+        "url": "https://www.horizonactu.fr/actualite-45201-pres-de-80-des-lycees-des-hauts-de-france-touches-par-une-cyberattaque",
+        "added": "2025-10-10"
+    },
+    {
         "date": "2025-07-09",
         "victim": "Coos County Family Health Services",
         "domain": "coosfamilyhealth.org",
