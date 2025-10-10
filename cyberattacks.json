@@ -1,5 +1,35 @@
 [
     {
+        "date": "2025-07-09",
+        "victim": "Coos County Family Health Services",
+        "domain": "coosfamilyhealth.org",
+        "country": "USA",
+        "summary": "The attack was claimed by Runsomewares on August 13.",
+        "title": "Data Breach Notification",
+        "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/8a78e41b-2bf3-4afc-b10a-5079c8849885.html",
+        "added": "2025-10-10"
+    },
+    {
+        "date": "2025-09-15",
+        "victim": "Legacy5 Corporate Services, LLC",
+        "domain": "legacy5.com",
+        "country": "USA",
+        "summary": "A security incident occurred involving unauthorized access to a limited portion of the companies' network, resulting in potential exposure of personal data, including names, Social Security numbers, and financial account information.",
+        "title": "Data Breach Notification",
+        "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/2479471b-bb6b-4f2f-b41f-94740c0fcc3b.html",
+        "added": "2025-10-10"
+    },
+    {
+        "date": "2025-01-14",
+        "victim": "Ellis Early Learning, Inc.",
+        "domain": "ellisearlylearning.org",
+        "country": "USA",
+        "summary": "Ellis Early Learning, Inc experienced a network disruption that led to unauthorized access to certain information stored on their network between January 10, 2025 to January 14, 2025. The affected information includes first and last name, in combination with other data. The incident was discovered on January 14, 2025.",
+        "title": "Data Breach Notification",
+        "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/b4c86435-437a-4b12-b514-f4e791bf164a.html",
+        "added": "2025-10-10"
+    },
+    {
         "date": "2025-02-28",
         "victim": "Montgomery Little & Soran, PC",
         "domain": "montgomerylittle.com",
