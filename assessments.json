@@ -1,5 +1,12 @@
 [
     {
+        "victim": "slusarski.com",
+        "domain": "slusarski.com",
+        "country": "US",
+        "date": "2025-08-14",
+        "group": "safepay"
+    },
+    {
         "victim": "Dataforth",
         "domain": "dataforth.com",
         "country": "US",
