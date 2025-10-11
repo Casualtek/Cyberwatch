@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-09-23",
+        "victim": "The City of Michigan City",
+        "domain": "michigancityin.gov",
+        "country": "USA",
+        "summary": "La ville de Michigan City a confirmé que la perturbation de son réseau en septembre était due à un incident de ransomware qui a affecté une partie de ses données et a impacté l'accès en ligne et téléphonique des employés municipaux. La ville se concentre sur la restauration sécurisée de ses systèmes et la poursuite des opérations critiques. Une enquête forensique est toujours en cours pour déterminer l'ampleur et l'impact de l'incident.",
+        "title": "City of Michigan City confirms network disruption was ransomware incident",
+        "url": "https://wimsradio.com/2025/10/11/update-on-michigan-city-network-disruption/",
+        "added": "2025-10-11"
+    },
+    {
         "date": "2025-10-09",
         "victim": "Ville de Sugar Land",
         "domain": "sugarlandtx.gov",
