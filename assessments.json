@@ -1,5 +1,12 @@
 [
     {
+        "victim": "NSK Group ROTA",
+        "domain": "nskgroup.com.tr",
+        "country": "TR",
+        "date": "2024-09-20",
+        "group": "lynx"
+    },
+    {
         "victim": "Financoop",
         "domain": "financoop.net",
         "country": "CL",
