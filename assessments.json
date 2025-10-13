@@ -1,5 +1,12 @@
 [
     {
+        "victim": "AMICO",
+        "domain": "amicio.fr",
+        "country": "FR",
+        "date": "2025-03-07",
+        "group": "lynx"
+    },
+    {
         "victim": "fstlogistics.com",
         "domain": "fstlogistics.com",
         "country": "US",
