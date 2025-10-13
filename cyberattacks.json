@@ -1,5 +1,15 @@
 [
     {
+        "date": "2025-10-11",
+        "victim": "Kearney Public Schools",
+        "domain": "kearneypublicschools.org",
+        "country": "USA",
+        "summary": "Kearney Public Schools a été victime d'une attaque de cybersécurité qui a compromis son réseau technologique, les écoles resteront ouvertes mais les téléphones et les emails ne seront pas opérationnels jusqu'à la restauration du réseau. Les systèmes basés sur le cloud, y compris les informations sur les étudiants, n'ont pas été violés. L'école espère retrouver une fonctionnalité normale d'ici mardi.",
+        "title": "Kearney Public Schools hit by a cybersecurity attack",
+        "url": "https://www.ksnblocal4.com/2025/10/12/kearney-public-schools-hit-by-cybersecurity-attack/",
+        "added": "2025-10-13"
+    },
+    {
         "date": "2024-09-23",
         "victim": "The City of Michigan City",
         "domain": "michigancityin.gov",
