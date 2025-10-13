@@ -1,5 +1,12 @@
 [
     {
+        "victim": "Cruz Marine (cruz.local)",
+        "domain": "cruzmarine.com",
+        "country": "US",
+        "date": "2024-08-20",
+        "group": "lynx"
+    },
+    {
         "victim": "Mark Thomas",
         "domain": "markthomas.com",
         "country": "US",
