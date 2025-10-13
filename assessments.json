@@ -1,5 +1,12 @@
 [
     {
+        "victim": "Conad",
+        "domain": "conad.it",
+        "country": "IT",
+        "date": "2024-11-18",
+        "group": "lynx"
+    },
+    {
         "victim": "AMICO",
         "domain": "amicio.fr",
         "country": "FR",
