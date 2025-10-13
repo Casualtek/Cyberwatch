@@ -1,5 +1,12 @@
 [
     {
+        "victim": "Mark Thomas",
+        "domain": "markthomas.com",
+        "country": "US",
+        "date": "2024-10-15",
+        "group": "lynx"
+    },
+    {
         "victim": "Conad",
         "domain": "conad.it",
         "country": "IT",
