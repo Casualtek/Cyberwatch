@@ -1,5 +1,35 @@
 [
     {
+        "date": "2025-01-27",
+        "victim": "SimonMed Imaging",
+        "domain": "simonmed.com",
+        "country": "USA",
+        "summary": "SimonMed Imaging experienced a data incident that may have impacted personal information, with unauthorized access to files containing names and other data elements between January 21, 2025, and February 5, 2025. The attack was claimed by Medusa on February 10.",
+        "title": "Data Breach Notification",
+        "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/db44458c-e230-4f17-88b4-0513fc890cc6.html",
+        "added": "2025-10-11"
+    },
+    {
+        "date": "2025-04-13",
+        "victim": "Chalmers Insurance Group",
+        "domain": "chalmersinsurancegroup.com",
+        "country": "USA",
+        "summary": "Chalmers Insurance Group suffered a data security incident where personal information for 98 Maine residents may have been involved. The incident occurred between April 8, 2025, and April 10, 2025, when certain files may have been acquired without authorization. Chalmers has taken measures to enhance security and provide identity monitoring services to affected individuals.",
+        "title": "Data Breach Notification",
+        "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/b7011e1e-1009-4276-a6d5-0f8943e4247c.html",
+        "added": "2025-10-11"
+    },
+    {
+        "date": "2025-04-06",
+        "victim": "Action Property Management, Inc.",
+        "domain": "actionlife.com",
+        "country": "USA",
+        "summary": "Action Property Management, Inc. experienced unauthorized access to their network between March 8, 2025, and April 6, 2025, potentially exposing personal information. The breach was discovered on September 10, 2025. The company is offering complimentary credit monitoring and other precautionary measures to affected individuals.",
+        "title": "Data Breach Notification",
+        "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/4bdaadf8-f8d1-46a4-a407-0f2d65b2b8bd.html",
+        "added": "2025-10-11"
+    },
+    {
         "date": "2025-03-13",
         "victim": "Goosehead Insurance Agency, LLC",
         "domain": "goosehead.com",
