@@ -1,5 +1,12 @@
 [
     {
+        "victim": "teampostop.net",
+        "domain": "teampostop.net",
+        "country": "US",
+        "date": "2026-06-19",
+        "group": "incransom"
+    },
+    {
         "victim": "SERGAS Group",
         "domain": "sergasgroup.com",
         "country": "AE",
