@@ -1,9 +1,16 @@
 [
     {
+        "victim": "callhci.com",
+        "domain": "callhci.com",
+        "country": "US",
+        "date": "2025-08-29",
+        "group": "incransom"
+    },
+    {
         "victim": "csaas.com",
         "domain": "csaas.com",
         "country": "US",
-        "date": "2026-06-12",
+        "date": "2025-06-12",
         "group": "incransom"
     },
     {
