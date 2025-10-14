@@ -1,5 +1,12 @@
 [
     {
+        "victim": "CBL-SRL",
+        "domain": "cbl-srl.it",
+        "country": "IT",
+        "date": "2025-08-26",
+        "group": "incransom"
+    },
+    {
         "victim": "cphcorp.com",
         "domain": "cphcorp.com",
         "country": "US",
