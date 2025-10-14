@@ -1,5 +1,12 @@
 [
     {
+        "victim": "Ben-Mor Inc.",
+        "domain": "ben-mor.com",
+        "country": "CA",
+        "date": "2025-08-19",
+        "group": "lynx"
+    },
+    {
         "victim": "Bizcom Electronics",
         "domain": "bizcom-us.com",
         "country": "US",
