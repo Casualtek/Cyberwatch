@@ -1,5 +1,12 @@
 [
     {
+        "victim": "HTC_Högtryckscenter_Sweden",
+        "domain": "htcab.com",
+        "country": "SE",
+        "date": "2025-06-09",
+        "group": "incransom"
+    },
+    {
         "victim": "BDO Perú",
         "domain": "bdo.com.pe",
         "country": "PE",
