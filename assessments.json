@@ -1,5 +1,12 @@
 [
     {
+        "victim": "TAK Communications, Inc",
+        "domain": "takbroadband.com",
+        "country": "US",
+        "date": "2025-08-08",
+        "group": "incransom"
+    },
+    {
         "victim": "CBL-SRL",
         "domain": "cbl-srl.it",
         "country": "IT",
