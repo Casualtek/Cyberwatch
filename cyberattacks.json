@@ -1,5 +1,15 @@
 [
     {
+        "date": "2025-08-11",
+        "victim": "Wellborn & Company, LLC",
+        "domain": "wellborncpa.com",
+        "country": "USA",
+        "summary": "Wellborn & Company, LLC experienced a ransomware event on August 11, 2025, which resulted in unauthorized access to certain data. The affected data may include names and other types of information. The company is providing complimentary identity monitoring services to affected individuals.",
+        "title": "2025-10-10 Wellborn & Company Data Breach Notice to Consumers",
+        "url": "https://ago.vermont.gov/document/2025-10-10-wellborn-company-data-breach-notice-consumers",
+        "added": "2025-10-14"
+    },
+    {
         "date": "2025-10-12",
         "victim": "Omrin",
         "domain": "omrin.nl",
