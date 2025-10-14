@@ -1,5 +1,12 @@
 [
     {
+        "victim": "k12albemarle.org",
+        "domain": "k12albemarle.org",
+        "country": "US",
+        "date": "2025-06-10",
+        "group": "incransom"
+    },
+    {
         "victim": "EUROFILM ΜΑΝΤΖΑΡΗΣ Α.Ε",
         "domain": "mantzaris-film.com",
         "country": "GR",
