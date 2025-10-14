@@ -1,5 +1,12 @@
 [
     {
+        "victim": "CPK Interior",
+        "domain": "cpkip.com",
+        "country": "CA",
+        "date": "2025-08-21",
+        "group": "incransom"
+    },
+    {
         "victim": "TAK Communications, Inc",
         "domain": "takbroadband.com",
         "country": "US",
