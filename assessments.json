@@ -1,5 +1,12 @@
 [
     {
+        "victim": "haaker.com",
+        "domain": "haaker.com",
+        "country": "US",
+        "date": "2025-08-04",
+        "group": "qilin"
+    },
+    {
         "victim": "Valtorta",
         "domain": "valtortagru.com",
         "country": "IT",
