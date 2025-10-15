@@ -1,5 +1,15 @@
 [
     {
+        "date": "2025-09-28",
+        "victim": "Municipalité d'Elne",
+        "domain": "ville-elne.fr",
+        "country": "FRA",
+        "summary": "La ville d'Elne a été victime d'une cyberattaque menée par le groupe de hackers russophones Qilin Ransomware, qui exige une rançon sans avoir diffusé de données dérobées. Cette attaque s'inscrit dans une série d'offensives contre des cibles françaises, notamment les lycées de la région Hauts-de-France. Les experts en cybersécurité attribuent ces attaques à des groupes opérant depuis la Russie ou des pays de l'ancien bloc soviétique.",
+        "title": "Cyberattaque : des hackers russes s’en prennent à la ville d’Elne, dans les Pyrénées-Orientales",
+        "url": "https://www.latribune.fr/article/regions/occitanie/40562423394374/cyberattaque-des-hackers-russes-s-en-prennent-a-la-ville-d-elne-dans-les-pyrenees-orientales",
+        "added": "2025-10-15"
+    },
+    {
         "date": "2025-08-18",
         "victim": "Apex Bulk Commodities",
         "domain": "apexbulk.com",
