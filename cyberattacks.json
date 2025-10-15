@@ -1,13 +1,23 @@
 [
     {
-        "date": "2025-08-04",
+        "date": "2025-06-20",
+        "victim": "Sly Fox Brewing",
+        "domain": "slyfoxbeer.com",
+        "country": "USA",
+        "summary": "L'attaque n'a pas été revendiquée, mais l'enseigne Qilin divulgue des données présentées comme issues des systèmes de Sly Fox.",
+        "title": "none",
+        "url": "none",
+        "added": "2025-10-15"
+    },
+    {
+        "date": "2025-08-28",
         "victim": "Ashe",
         "domain": "ashe.com.co",
         "country": "COL",
         "summary": "L'attaque n'a pas été revendiquée, mais l'enseigne Qilin divulgue des données présentées comme issues des systèmes d'Ashe.",
         "title": "none",
         "url": "none",
-        "added": "2025-08-28"
+        "added": "2025-10-15"
     },
     {
         "date": "2025-10-15",
