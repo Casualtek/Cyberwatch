@@ -1,5 +1,12 @@
 [
     {
+        "victim": "heilbronn.de",
+        "domain": "heilbronn.de",
+        "country": "DE",
+        "date": "2025-04-06",
+        "group": "safepay"
+    },
+    {
         "victim": "Accelerated",
         "domain": "acceleratedusa.net",
         "country": "US",
