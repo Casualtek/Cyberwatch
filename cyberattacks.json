@@ -1,5 +1,15 @@
 [
     {
+        "date": "2025-01-14",
+        "victim": "The Branch Group, Inc.",
+        "domain": "branchgroup.com",
+        "country": "USA",
+        "summary": "The Branch Group, Inc. experienced a data security incident where an unauthorized third-party attempted to access their network environment, potentially exposing personal information of employees. The incident was claimed by Cactus on February 24.",
+        "title": "Data Breach Notification",
+        "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/431002be-ffe0-48ae-9479-71c41fb9eb3a.html",
+        "added": "2025-10-16"
+    },
+    {
         "date": "2025-06-13",
         "victim": "Dairy Farmers of America",
         "domain": "dfamilk.com",
