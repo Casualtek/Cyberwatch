@@ -1,5 +1,152 @@
 [
     {
+        "victim": "hillsidelibrary.org",
+        "domain": "hillsidelibrary.org",
+        "country": "US",
+        "date": "2025-0",
+        "group": "incransom"
+    },
+    {
+        "victim": "Rivers Academy West London",
+        "domain": "rivers-aspirations.org",
+        "country": "GB",
+        "date": "2025-05-11",
+        "group": "incransom"
+    },
+    {
+        "victim": "tiergesundheitszentrum-koenigslutter.de",
+        "domain": "tiergesundheitszentrum-koenigslutter.de",
+        "country": "DE",
+        "date": "2025-06-03",
+        "group": "incransom"
+    },
+    {
+        "victim": "piercecountylibrary.org",
+        "domain": "piercecountylibrary.org",
+        "country": "US",
+        "date": "2025-04-18",
+        "group": "incransom"
+    },
+    {
+        "victim": "alereon.com",
+        "domain": "alereon.com",
+        "country": "US",
+        "date": "2025-05-31",
+        "group": "incransom"
+    },
+    {
+        "victim": "iscamen",
+        "domain": "iscamen.com.ar",
+        "country": "AR",
+        "date": "2025-04-07",
+        "group": "incransom"
+    },
+    {
+        "victim": "Commission scolaire des Appalaches",
+        "domain": "csappalaches.qc.ca",
+        "country": "CA",
+        "date": "2025-08-27",
+        "group": "incransom"
+    },
+    {
+        "victim": "Quadrangle Imaging Center",
+        "domain": "quadrangleimaging.com",
+        "country": "PR",
+        "date": "2025-08-14",
+        "group": "incransom"
+    },
+    {
+        "victim": "C B King Memorial School(branch)",
+        "domain": "cbkingmemorial.com",
+        "country": "US",
+        "date": "2025-06-13",
+        "group": "incransom"
+    },
+    {
+        "victim": "Universal Group For Engineering and Consulting",
+        "domain": "ug-maalem.com",
+        "country": "PS",
+        "date": "2025-07-14",
+        "group": "incransom"
+    },
+    {
+        "victim": "Sandhill View County School_UK",
+        "domain": "sandhillview.com",
+        "country": "GB",
+        "date": "2025-06-09",
+        "group": "incransom"
+    },
+    {
+        "victim": "neues-leben.de",
+        "domain": "neues-leben.de",
+        "country": "DE",
+        "date": "2025-06-12",
+        "group": "incransom"
+    },
+    {
+        "victim": "Töller",
+        "domain": "toeller.be",
+        "country": "BE",
+        "date": "2025-07-07",
+        "group": "incransom"
+    },
+    {
+        "victim": "deliastamales.com",
+        "domain": "deliastamales.com",
+        "country": "US",
+        "date": "2025-06-25",
+        "group": "incransom"
+    },
+    {
+        "victim": "scaffoldsolutions.com",
+        "domain": "scaffoldsolutions.com",
+        "country": "US",
+        "date": "2025-06-06",
+        "group": "incransom"
+    },
+    {
+        "victim": "Vitec",
+        "domain": "vitec.nodomain",
+        "country": "US",
+        "date": "2025-06-19",
+        "group": "incransom"
+    },
+    {
+        "victim": "Majestic",
+        "domain": "majestic.nodomain",
+        "country": "US",
+        "date": "2025-07-04",
+        "group": "incransom"
+    },
+    {
+        "victim": "wvpca.org",
+        "domain": "wvpca.org",
+        "country": "US",
+        "date": "2025-05-15",
+        "group": "incransom"
+    },
+    {
+        "victim": "mysfa.org",
+        "domain": "mysfa.org",
+        "country": "US",
+        "date": "2025-03-13",
+        "group": "incransom"
+    },
+    {
+        "victim": "nboat.com",
+        "domain": "nboat.com",
+        "country": "US",
+        "date": "2025-07-20",
+        "group": "incransom"
+    },
+    {
+        "victim": "grupogid.com",
+        "domain": "grupogid.com",
+        "country": "US",
+        "date": "2025-06-06",
+        "group": "incransom"
+    },
+    {
         "victim": "Legal & Contingency",
         "domain": "legal-contingency.co.uk",
         "country": "GB",
