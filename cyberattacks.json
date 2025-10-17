@@ -1,5 +1,15 @@
 [
     {
+        "date": "2025-10-16",
+        "victim": "Verisure",
+        "domain": "verisure.com",
+        "country": "SWE",
+        "summary": "Le groupe suédois Verisure a été victime d'une attaque informatique, les détails de l'incident sont encore en cours d'investigation. L'entreprise a indiqué que des données liées à son service Alert Alarm avaient été compromises. Les autorités suédoises ont ouvert une enquête pour utpressning et grovt dataintrång.",
+        "title": "Hackerattack mot larmföretaget Verisure – utsätts för utpressning",
+        "url": "https://www.svt.se/nyheter/inrikes/larmforetaget-verisure-utsatt-for-hackerattack-utsatts-for-utpressning",
+        "added": "2025-10-17"
+    },
+    {
         "date": "2025-10-09",
         "victim": "Fraschetti S.p.A.",
         "domain": "fraschetti.it",
