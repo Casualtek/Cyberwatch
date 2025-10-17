@@ -1,5 +1,15 @@
 [
     {
+        "date": "2025-10-09",
+        "victim": "Fraschetti S.p.A.",
+        "domain": "fraschetti.it",
+        "country": "ITA",
+        "summary": "Fraschetti S.p.A. a subi un attaque informatique grave, ce qui a provoqué le blocage total de ses systèmes informatiques et la suspension de ses activités. L'entreprise collabore avec les autorités pour identifier l'origine et les modalités de l'attaque. Un team d'experts de la cybersécurité travaille pour sécuriser l'infrastructure et rétablir progressivement la pleine opérationnalité.",
+        "title": "Attacco informatico ai sistemi di Fraschetti | Ferrutensil",
+        "url": "https://www.ferrutensil.com/attacco-informatico-ai-sistemi-di-fraschetti/",
+        "added": "2025-10-17"
+    },
+    {
         "date": "2025-10-16",
         "victim": "MuniOS",
         "domain": "munios.com",
