@@ -1,6 +1,16 @@
 [
     {
         "date": "2025-10-19",
+        "victim": "Nickelhütte Aue GmbH",
+        "domain": "nha-aue.de",
+        "country": "DEU",
+        "summary": "La Nickelhütte Aue GmbH a été victime d'une attaque informatique qui a partiellement paralysé ses systèmes IT. L'entreprise travaille avec des experts pour résoudre le problème. Les clients, les partenaires et les employés sont invités à faire preuve de compréhension et de patience.",
+        "title": "Cyberangriff legt Firma im Erzgebirge lahm: Hackerangriff auf IT System",
+        "url": "https://www.blick.de/erzgebirge/cyberangriff-legt-firma-im-erzgebirge-lahm-hackerangriff-auf-it-system-artikel13998265",
+        "added": "2025-10-20"
+    },
+    {
+        "date": "2025-10-19",
         "victim": "ASKUL",
         "domain": "askul.co.jp",
         "country": "JPN",
