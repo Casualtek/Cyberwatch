@@ -1,5 +1,15 @@
 [
     {
+        "date": "2025-07-09",
+        "victim": "PeopleGuru Holdings, Inc.",
+        "domain": "peopleguru.com",
+        "country": "USA",
+        "summary": "PeopleGuru suffered a data breach in which an unauthorized third party gained access to certain systems within its network, potentially exposing sensitive information including names, Social Security numbers, financial account information, and driver's license numbers.",
+        "title": "Data Breach Notification",
+        "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/23093267-7780-43c2-ba3c-0e2638277902.html",
+        "added": "2025-10-17"
+    },
+    {
         "date": "2025-09-21",
         "victim": "R3 Government Solutions, LLC",
         "domain": "r3consulting.com",
