@@ -1,5 +1,15 @@
 [
     {
+        "date": "2025-10-19",
+        "victim": "Centre hospitalier intercommunal de Haute-Comté",
+        "domain": "chi-hautecomte.fr",
+        "country": "FRA",
+        "summary": "Le Centre hospitalier intercommunal de Haute-Comté à Pontarlier a été victime d'une cyberattaque de type cryptolocker, ce qui a conduit à l'arrêt total de son système informatique. Les soins sont assurés, mais les lignes téléphoniques ne doivent pas être surchargées. Les forces de l'ordre et les services de sécurité travaillent ensemble pour analyser l'ampleur de l'attaque et sécuriser les infrastructures.",
+        "title": "L'hôpital de Pontarlier victime d'une cyberattaque, son système informatique totalement à l'arrêt - ici",
+        "url": "https://www.francebleu.fr/infos/faits-divers-justice/l-hopital-de-pontarlier-victime-d-une-cyberattaque-son-systeme-informatique-totalement-a-l-arret-4381700",
+        "added": "2025-10-20"
+    },
+    {
         "date": "2025-10-16",
         "victim": "Verisure",
         "domain": "verisure.com",
