@@ -1,5 +1,15 @@
 [
     {
+        "date": "2025-09-21",
+        "victim": "R3 Government Solutions, LLC",
+        "domain": "r3consulting.com",
+        "country": "USA",
+        "summary": "R3 Government Solutions, LLC experienced a data security incident that may have impacted some of their employees' personal information. The incident occurred on September 21, 2025, and was claimed by Devman on September 29.",
+        "title": "Data Breach Notification",
+        "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/0922afbe-feb2-4f5b-82c9-a535e33c520c.html",
+        "added": "2025-10-18"
+    },
+    {
         "date": "2025-10-17",
         "victim": "La Vergne",
         "domain": "lavergnetn.gov",
