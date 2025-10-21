@@ -1,5 +1,15 @@
 [
     {
+        "date": "2025-10-201",
+        "victim": "Gemeindeverwaltung Untereisesheim",
+        "domain": "untereisesheim.de",
+        "country": "DEU",
+        "summary": "La commune d'Untereisesheim a été victime d'une attaque informatique qui a crypté les contenus de son serveur, affectant ainsi l'ensemble de son infrastructure informatique. La commune travaille à minimiser les impacts sur les citoyens et à restaurer ses systèmes informatiques. Le Landeskriminalamt et l'agence de cybersécurité du Bade-Wurtemberg collaborent avec la commune pour résoudre ce problème.",
+        "title": "Cyber-Angriff legt Gemeindeverwaltung lahm",
+        "url": "https://www.nokzeit.de/2025/10/20/cyberangriff-legt-gemeindeverwaltung-lahm/",
+        "added": "2025-10-21"
+    },
+    {
         "date": "2025-10-19",
         "victim": "Nickelhütte Aue GmbH",
         "domain": "nha-aue.de",
