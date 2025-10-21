@@ -1,5 +1,26 @@
 [
     {
+        "victim": "Cellucap Manufacturing",
+        "domain": "cellucap.com",
+        "country": "US",
+        "date": "2025-10-12",
+        "group": "play"
+    },
+    {
+        "victim": "Legacy Manufacturing",
+        "domain": "legacymfg.com",
+        "country": "US",
+        "date": "2025-10-11",
+        "group": "play"
+    },
+    {
+        "victim": "Cottage",
+        "domain": "cottagecorp.com",
+        "country": "US",
+        "date": "2025-10-14",
+        "group": "play"
+    },
+    {
         "victim": "Koch & White Heating & Cooling",
         "domain": "koch-white.com",
         "country": "US",
