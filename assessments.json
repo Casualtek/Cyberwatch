@@ -1,5 +1,12 @@
 [
     {
+        "victim": "ZEF",
+        "domain": "zef.de",
+        "country": "DE",
+        "date": "2025-08-01",
+        "group": "qilin"
+    },
+    {
         "victim": "XCAssociates",
         "domain": "xcassociates.com",
         "country": "US",
