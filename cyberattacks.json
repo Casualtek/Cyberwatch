@@ -1,5 +1,15 @@
 [
     {
+        "date": "2025-05-15",
+        "victim": "Patron Insurance Services",
+        "domain": "patroninsurance.com",
+        "country": "USA",
+        "summary": "Patron Insurance Services a subi une violation de données en mai 2025, lorsqu'un groupe de ransomware a accédé à des informations sensibles sur ses clients. L'attaque a été revendiquée par Akira, le 12 juin.",
+        "title": "Patron Insurance Data Breach Lawsuit Investigation",
+        "url": "https://www.claimdepot.com/investigations/patron-insurance-data-breach-2025",
+        "added": "2025-10-22"
+    },
+    {
         "date": "2025-10-20",
         "victim": "Gemeindeverwaltung Untereisesheim",
         "domain": "untereisesheim.de",
