@@ -1,5 +1,12 @@
 [
     {
+        "victim": "www.afmco.jo",
+        "domain": "afmco.jo",
+        "country": "JO",
+        "date": "2025-07-02",
+        "group": "qilin"
+    },
+    {
         "victim": "wilsonappliance.com",
         "domain": "wilsonappliance.com",
         "country": "US",
