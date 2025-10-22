@@ -1,5 +1,25 @@
 [
     {
+        "date": "2025-05-20",
+        "victim": "DALB",
+        "domain": "dalb.com",
+        "country": "USA",
+        "summary": "DALB, Inc. experienced a data security incident where certain files may have been accessed or acquired without authorization on May 20, 2025. The incident involved personal information including names, Social Security numbers, passport numbers, medical information, and health insurance policy numbers. The company has taken steps to enhance security and provide complimentary services to affected individuals.",
+        "title": "Data Breach Notification",
+        "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/6cbd569e-0a0c-4767-a026-bae9e0e37cd4.html",
+        "added": "2025-10-22"
+    },
+    {
+        "date": "2025-09-09",
+        "victim": "Abhe & Svoboda",
+        "domain": "abheonline.com",
+        "country": "USA",
+        "summary": "Abhe & Svoboda, Inc. suffered a data breach resulting in the unauthorized acquisition of personal information of one resident of Maine. The impacted information included the individuals' name and Social Security number. Abhe & Svoboda is offering twelve months of credit monitoring and proactive fraud assistance services through TransUnion.",
+        "title": "Data Breach Notification",
+        "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/42031b0e-d9de-4b94-b042-91b391a2b0e7.html",
+        "added": "2025-10-22"
+    },
+    {
         "date": "2025-05-15",
         "victim": "Patron Insurance Services",
         "domain": "patroninsurance.com",
