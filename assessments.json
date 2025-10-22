@@ -1,5 +1,12 @@
 [
     {
+        "victim": "www.officepro.cl",
+        "domain": "officepro.cl",
+        "country": "CL",
+        "date": "2025-08-28",
+        "group": "qilin"
+    },
+    {
         "victim": "ZEF",
         "domain": "zef.de",
         "country": "DE",
