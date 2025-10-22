@@ -1,5 +1,55 @@
 [
     {
+        "date": "2025-07-21",
+        "victim": "Modernizing Medicine, Inc. (“ModMed”)",
+        "domain": "modmed.com",
+        "country": "USA",
+        "summary": "On July 21, 2025, ModMed became aware of potential unauthorized activity in certain computer servers, which ModMed subsequently determined involved servers containing limited data from some of our podiatry customers. We immediately took steps to prevent any further unauthorized activity and began an investigation, including engaging a leading forensic firm. We also contacted law enforcement. Based on our review, we learned on July 29, 2025, that an unauthorized third party was able to see and take copies of some information in the podiatry computer servers between July 9, 2025, and July 10, 2025.",
+        "title": "2025-10-17 Modernizing Medicine Data Breach Notice to Consumers",
+        "url": "https://ago.vermont.gov/document/2025-10-17-modernizing-medicine-data-breach-notice-consumers",
+        "added": "2025-10-21"
+    },
+    {
+        "date": "2025-03-01",
+        "victim": "Wiggin and Dana LLP",
+        "domain": "wiggin.com",
+        "country": "USA",
+        "summary": "Wiggin and Dana LLP experienced a data breach where an unauthorized actor gained access to an employee's workstation and accessed/copied certain files between February 28, 2025, and March 1, 2025. The breach involved the potential exposure of the victim's name and other information. There is no evidence of actual or attempted fraud or identity theft.",
+        "title": "2025-10-14 Wiggin & Dana Data Breach Notice to Consumers",
+        "url": "https://ago.vermont.gov/document/2025-10-14-wiggin-dana-data-breach-notice-consumers",
+        "added": "2025-10-21"
+    },
+    {
+        "date": "2024-10-31",
+        "victim": "Maatuka Al-Heeti Emkes LLC",
+        "domain": "maelaw.net",
+        "country": "USA",
+        "summary": "Maatuka Al-Heeti Emkes LLC experienced a network disruption that led to unauthorized access to certain information stored on their network. The incident occurred on October 31, 2024, and affected information included first and last names in combination with other data. The organization has taken steps to address the incident and is offering complimentary credit monitoring and identity protection services.",
+        "title": "Data Breach Notification",
+        "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/d9c3b367-823a-4fef-bc1a-905d4a640de6.html",
+        "added": "2025-10-21"
+    },
+    {
+        "date": "2025-06-10",
+        "victim": "Worcester Regional Retirement System",
+        "domain": "wrrboard.org",
+        "country": "USA",
+        "summary": "The Worcester Regional Retirement System experienced a network disruption on June 10, 2025, which led to a data security incident involving the unauthorized access and acquisition of certain information. The incident affected approximately 150 Maine residents. The system has taken steps to enhance security and is offering complimentary identity protection services to affected individuals.",
+        "title": "Data Breach Notification",
+        "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/1fb275e4-dd21-4a2b-a4ab-d4a631732a65.html",
+        "added": "2025-10-21"
+    },
+    {
+        "date": "2025-03-11",
+        "victim": "Brox Industries, Inc.",
+        "domain": "broxindustries.com",
+        "country": "USA",
+        "summary": "Brox Industries, Inc. experienced unauthorized access to their network, potentially exposing personal information between February 28, 2025, and March 11, 2025. An investigation revealed that an unauthorized actor may have accessed and/or acquired certain files containing personal information. The company is offering complimentary identity monitoring services to affected individuals.",
+        "title": "Data Breach Notification",
+        "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/1c2364ad-b116-4550-bbfa-30af19e99d27.html",
+        "added": "2025-10-21"
+    },
+    {
         "date": "2025-05-20",
         "victim": "DALB",
         "domain": "dalb.com",
