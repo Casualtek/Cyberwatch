@@ -1,5 +1,12 @@
 [
     {
+        "victim": "ucisd.net",
+        "domain": "ucisd.net",
+        "country": "US",
+        "date": "2025-09-12",
+        "group": "qilin"
+    },
+    {
         "victim": "upstartpower.com",
         "domain": "upstartpower.com",
         "country": "US",
