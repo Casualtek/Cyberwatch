@@ -1,5 +1,15 @@
 [
     {
+        "date": "2025-10-22",
+        "victim": "Stadtwerke Clausthal-Zellerfeld",
+        "domain": "stadtwerke-clausthal.de",
+        "country": "DEU",
+        "summary": "Un hackerangriff a visé les Stadtwerke Clausthal-Zellerfeld, provoquant une panne de leurs systèmes de communication. Les téléphones et les adresses e-mail ne fonctionnent plus, ce qui a des conséquences pour la population locale. Les Stadtwerke Clausthal-Zellerfeld sont actuellement hors service en raison de cette attaque.",
+        "title": "Hackerangriff legt Stadtwerke in Clausthal-Zellerfeld lahm",
+        "url": "https://www.goslarsche.de/lokales/stadtwerke-clausthal-hackerangriff-694919.html",
+        "added": "2025-10-23"
+    },
+    {
         "date": "2025-09-23",
         "victim": "Turf Valley Resort",
         "domain": "turfvalley.com",
