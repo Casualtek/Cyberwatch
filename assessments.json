@@ -1,5 +1,33 @@
 [
     {
+        "victim": "Bohlsen Restaurant Group",
+        "domain": "brgoup.biz",
+        "country": "US",
+        "date": "2025-09-09",
+        "group": "sinobi"
+    },
+    {
+        "victim": "Desert Plastering",
+        "domain": "desertplastering.com",
+        "country": "US",
+        "date": "2025-08-21",
+        "group": "sinobi"
+    },
+    {
+        "victim": "JB Brown & Sons",
+        "domain": "jbbrown.com",
+        "country": "US",
+        "date": "2025-08-14",
+        "group": "sinobi"
+    },
+    {
+        "victim": "Osland Financial Group",
+        "domain": "oslandfinancialgroup.com",
+        "country": "US",
+        "date": "2025-08-19",
+        "group": "sinobi"
+    },
+    {
         "victim": "Right at Home Care",
         "domain": "rightathomecare.com",
         "country": "US",
