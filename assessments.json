@@ -1,5 +1,12 @@
 [
     {
+        "victim": "cityofmiddletown.org",
+        "domain": "cityofmiddletown.org",
+        "country": "US",
+        "date": "2025-08-17",
+        "group": "safepay"
+    },
+    {
         "victim": "wilsonatllaw.com",
         "domain": "wilsonatllaw.com",
         "country": "US",
