@@ -1,5 +1,19 @@
 [
     {
+        "victim": "wilsonatllaw.com",
+        "domain": "wilsonatllaw.com",
+        "country": "US",
+        "date": "2025-08-04",
+        "group": "safepay"
+    },
+    {
+        "victim": "waverlychildcare.org",
+        "domain": "waverlychildcare.org",
+        "country": "US",
+        "date": "2025-08-08",
+        "group": "safepay"
+    },
+    {
         "victim": "MPM Imports",
         "domain": "mpmimports.com.cy",
         "country": "CY",
