@@ -1,5 +1,19 @@
 [
     {
+        "victim": "oiwky.com",
+        "domain": "oiwky.com",
+        "country": "US",
+        "date": "2025-07-14",
+        "group": "safepay"
+    },
+    {
+        "victim": "universityacademy.org",
+        "domain": "universityacademy.org",
+        "country": "US",
+        "date": "2025-05-01",
+        "group": "safepay"
+    },
+    {
         "victim": "Myer Auto",
         "domain": "myersag.com",
         "country": "US",
