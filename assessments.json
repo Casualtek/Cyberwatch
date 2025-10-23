@@ -1,5 +1,12 @@
 [
     {
+        "victim": "United Lube Oil",
+        "domain": "u-lube.com",
+        "country": "SA",
+        "date": "2025-09-10",
+        "group": "ransomhouse"
+    },
+    {
         "victim": "oiwky.com",
         "domain": "oiwky.com",
         "country": "US",
