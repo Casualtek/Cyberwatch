@@ -1,5 +1,40 @@
 [
     {
+        "victim": "Right at Home Care",
+        "domain": "rightathomecare.com",
+        "country": "US",
+        "date": "2025-09-02",
+        "group": "sinobi"
+    },
+    {
+        "victim": "Bignault & Carter",
+        "domain": "bignaultandcarter.com",
+        "country": "US",
+        "date": "2025-08-06",
+        "group": "sinobi"
+    },
+    {
+        "victim": "Mediate Management",
+        "domain": "mediatemanagement.com",
+        "country": "US",
+        "date": "2025-07-29",
+        "group": "sinobi"
+    },
+    {
+        "victim": "Mutual Screw & Supply",
+        "domain": "mutualscrew.com",
+        "country": "US",
+        "date": "2025-03-24",
+        "group": "sinobi"
+    },
+    {
+        "victim": "Burger & Brown Engineering",
+        "domain": "burger-brown.com",
+        "country": "US",
+        "date": "2025-06-26",
+        "group": "sinobi"
+    },
+    {
         "victim": "waverlychildcare.org",
         "domain": "waverlychildcare.org",
         "country": "US",
