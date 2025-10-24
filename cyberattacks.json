@@ -1,5 +1,15 @@
 [
     {
+        "date": "2025-05-17",
+        "victim": "Envision Financial",
+        "domain": "financialtransparencyllc.com",
+        "country": "USA",
+        "summary": "A data security event occurred between May 17 and May 22, 2025, where an unauthorized third party accessed two systems belonging to Financial Transparency. Although there is no indication that the information was acquired or misused, the incident involved personal information including names and data elements. The organization has taken steps to remediate the issue and is offering identity monitoring services to affected individuals.",
+        "title": "Data Breach Notification",
+        "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/9a2ea6f1-981e-4f14-b151-4585064933d8.html",
+        "added": "2025-10-24"
+    },
+    {
         "date": "2025-09-19",
         "victim": "Catawba County government",
         "domain": "catawbacountync.gov",
