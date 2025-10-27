@@ -1,5 +1,15 @@
 [
     {
+        "date": "2025-09-03",
+        "victim": "Ever Care Corporation d/b/a Right at Home",
+        "domain": "rightathomecare.com",
+        "country": "USA",
+        "summary": "Ever Care Corporation d/b/a Right at Home experienced a data security event involving unauthorized access to certain files, potentially impacting employee personal information. The incident was discovered on September 3, 2025, and was claimed by Sinobi on October 8.",
+        "title": "Data Breach Notification",
+        "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/364b91f9-2090-4b40-9952-3cbeb6098ad4.html",
+        "added": "2025-10-25"
+    },
+    {
         "date": "2025-06-18",
         "victim": "Schmitz Ready Mix",
         "domain": "schmitzmix.com",
