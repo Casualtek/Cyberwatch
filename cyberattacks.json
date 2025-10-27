@@ -1,5 +1,45 @@
 [
     {
+        "date": "2025-10-24",
+        "victim": "City of Mentor",
+        "domain": "cityofmentor.com",
+        "country": "USA",
+        "summary": "La ville de Mentor a subi une attaque informatique, ce qui a entraîné la mise hors ligne de ses serveurs pour protéger ses données. Les lignes téléphoniques pour les demandes de renseignements et les fins administratives générales devraient être à nouveau opérationnelles. La ville a indiqué qu'il n'y a aucune indication que des informations privées aient été divulguées ou compromises.",
+        "title": "City of Mentor takes servers down after experiencing cyberattack",
+        "url": "https://www.news5cleveland.com/news/local-news/city-of-mentor-takes-servers-down-after-experiencing-cyberattack",
+        "added": "2025-10-27"
+    },
+    {
+        "date": "2025-04-14",
+        "victim": "Southeastern Food Supplies",
+        "domain": "sefoodsupplies.com",
+        "country": "USA",
+        "summary": "L'attaque n'a pas été revendiquée, mais l'enseigne Qilin divulgue des données présentées comme issues des systèmes de Southeastern Food Supplies.",
+        "title": "none",
+        "url": "none",
+        "added": "2025-10-23"
+    },
+    {
+        "date": "2025-06-12",
+        "victim": "Steeplechase Tool & Die",
+        "domain": "steeplechasetool.com",
+        "country": "USA",
+        "summary": "L'attaque n'a pas été revendiquée, mais l'enseigne Qilin divulgue des données présentées comme issues des systèmes de Steeplechase Tool & Die.",
+        "title": "none",
+        "url": "none",
+        "added": "2025-10-23"
+    },
+    {
+        "date": "2025-10-23",
+        "victim": "Jennings O'Donovan",
+        "domain": "jodireland.com",
+        "country": "IRL",
+        "summary": "Une attaque informatique a touché Jennings O'Donovan, une entreprise qui travaille sur un programme d'aide aux personnes dont les maisons sont endommagées en République d'Irlande. Les données personnelles, y compris les adresses et les coordonnées, pourraient avoir été compromises. L'entreprise a pris des mesures pour isoler et investiguer l'incident.",
+        "title": "Defective block grant scheme firm hit by cyber attack",
+        "url": "https://www.bbc.com/news/articles/c986g2qll62o",
+        "added": "2025-10-27"
+    },
+    {
         "date": "2025-10-23",
         "victim": "TOPCO SCIENTIFIC CO.,LTD.",
         "domain": "topco-global.com",
