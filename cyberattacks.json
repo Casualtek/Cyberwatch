@@ -1,6 +1,16 @@
 [
     {
         "date": "2025-10-24",
+        "victim": "Svenska kraftnät",
+        "domain": "svk.se",
+        "country": "SWE",
+        "summary": "Svenska kraftnät a confirmé avoir subi une attaque informatique, mais aucune indication n'a été trouvée que le système électrique a été affecté. Les autorités compétentes ont été impliquées pour enquêter sur l'incident, revendiqué par Everest. Svenska kraftnät est responsable de l'exploitation du réseau principal et du fonctionnement du système électrique en cas de crise, de guerre ou de perturbations graves.",
+        "title": "Svenska kraftnät bekräftar att en it-attack skett",
+        "url": "https://omni.se/svenska-kraftnat-utreder-cyberattack-msb-inkopplat/a/4B60ae",
+        "added": "2025-10-27"
+    },
+    {
+        "date": "2025-10-24",
         "victim": "City of Mentor",
         "domain": "cityofmentor.com",
         "country": "USA",
