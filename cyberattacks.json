@@ -1,5 +1,15 @@
 [
     {
+        "date": "2025-10-28",
+        "victim": "Merkle",
+        "domain": "merkle.com",
+        "country": "JPN",
+        "summary": "Dentsu a subi une attaque informatique, entraînant la fuite de données sensibles de son réseau Merkle, notamment des informations sur les clients, les fournisseurs et les employés actuels et anciens. L'entreprise a engagé des entreprises spécialisées dans la réponse aux incidents de cybersécurité et a informé les autorités. Les systèmes de Dentsu sont désormais de nouveau en ligne et l'entreprise offre des services de surveillance de l'identité aux employés affectés.",
+        "title": "Merkle data hit as Dentsu is rocked by 'security incident' - DecisionMarketing",
+        "url": "https://www.decisionmarketing.co.uk/top-story/merkle-data-hit-as-dentsu-is-rocked-by-security-incident",
+        "added": "2025-10-28"
+    },
+    {
         "date": "2025-09-03",
         "victim": "Ever Care Corporation d/b/a Right at Home",
         "domain": "rightathomecare.com",
