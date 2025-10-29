@@ -1,5 +1,35 @@
 [
     {
+        "date": "2025-06-17",
+        "victim": "Manassas Park City Schools",
+        "domain": "mpark.net",
+        "country": "PRY",
+        "summary": "L'attaque n'a pas été revendiquée, mais l'enseigne Qilin divulgue des données présentées comme issues des systèmes des Manassas Park City Schools.",
+        "title": "none",
+        "url": "none",
+        "added": "2025-10-29"
+    },
+    {
+        "date": "2025-10-28",
+        "victim": "Family Health West Hospital",
+        "domain": "fhw.org",
+        "country": "USA",
+        "summary": "Family Health West Hospital a été victime d'une cyberattaque, mais les soins aux patients n'ont pas été impactés grâce à des opérations manuelles. L'hôpital a isolé ses systèmes pour une analyse forensique et les fera vérifier par des experts en cybersécurité avant de les remettre en ligne. L'incident est considéré comme un cas isolé et n'a pas affecté les autres hôpitaux de Mesa County.",
+        "title": "Family Health West hit by cyberattack",
+        "url": "https://www.gjsentinel.com/news/western_colorado/family-health-west-hit-by-cyberattack/article_013997d1-f7a0-4acb-90fa-024b03255a43.html",
+        "added": "2025-10-29"
+    },
+    {
+        "date": "2025-09-07",
+        "victim": "Property Tax Consultants, LLC",
+        "domain": "propertytaxconsulting.com",
+        "country": "PRY",
+        "summary": "L'attaque n'a pas été revendiquée, mais l'enseigne Qilin divulgue des données présentées comme issues des systèmes de Property Tax Consultants, LLC.",
+        "title": "none",
+        "url": "none",
+        "added": "2025-10-27"
+    },
+    {
         "date": "2025-09-16",
         "victim": "Form Energy",
         "domain": "formenergy.com",
