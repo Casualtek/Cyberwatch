@@ -1,5 +1,15 @@
 [
     {
+        "date": "2025-09-16",
+        "victim": "Form Energy",
+        "domain": "formenergy.com",
+        "country": "USA",
+        "summary": "Form Energy a subi une faille de sécurité qui a exposé des informations personnelles sensibles de ses employés actuels et anciens, y compris des noms, adresses, dates de naissance et numéros de sécurité sociale. L'entreprise a détecté l'attaque le 16 septembre 2025 et a commencé à notifier les personnes touchées par la poste le 22 octobre 2025. Form Energy propose désormais une adhésion gratuite de 24 mois à Experian IdentityWorks pour les employés actuels et anciens touchés.",
+        "title": "Form Energy, Inc. Data Breach Affects 622 in MA",
+        "url": "https://www.claimdepot.com/data-breach/form-energy-2025",
+        "added": "2025-10-29"
+    },
+    {
         "date": "2025-10-17",
         "victim": "ReadyTech Holdings Limited",
         "domain": "readytech.io",
