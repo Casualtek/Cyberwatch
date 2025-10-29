@@ -1,5 +1,12 @@
 [
     {
+        "victim": "CyberData",
+        "domain": "cyberdata.net",
+        "country": "US",
+        "date": "2025-08-29",
+        "group": "akira"
+    },
+    {
         "victim": "Harbor Diesel & Equipment",
         "domain": "gohdi.com",
         "country": "US",
