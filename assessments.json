@@ -1,5 +1,33 @@
 [
     {
+        "victim": "Askul",
+        "domain": "askup.co.jp",
+        "country": "JP",
+        "date": "2025-10-19",
+        "group": "ransomhouse"
+    },
+    {
+        "victim": "OCI International Holdings",
+        "domain": "oci-intl.com",
+        "country": "HK",
+        "date": "2025-10-15",
+        "group": "ransomhouse"
+    },
+    {
+        "victim": "Kurogane Kasei Co.",
+        "domain": "kuroganekasei.com",
+        "country": "JP",
+        "date": "2025-10-10",
+        "group": "ransomhouse"
+    },
+    {
+        "victim": "S Food Co., Ltd.",
+        "domain": "s-food.co.kr",
+        "country": "KP",
+        "date": "2025-10-09",
+        "group": "ransomhouse"
+    },
+    {
         "victim": "Microf",
         "domain": "microf.com",
         "country": "US",
