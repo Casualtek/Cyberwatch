@@ -1,5 +1,25 @@
 [
     {
+        "date": "2025-01-27",
+        "victim": "Roger Keith and Sons Insurance Agency",
+        "domain": "rogerkeith.com",
+        "country": "USA",
+        "summary": "An unauthorized party gained access to an employee email account and the Roger Keith network environment via a remote desktop tool following a phishing attack, potentially exposing full names. Such an attack was claimed by Silent Ransom Group (SRG) on May 6.",
+        "title": "Data Breach Notification",
+        "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/257c0455-c5f2-4635-85dd-5333b78c47b6.html",
+        "added": "2025-10-30"
+    },
+    {
+        "date": "2025-08-07",
+        "victim": "OB-GYN Associates",
+        "domain": "ob-gynassoc.com",
+        "country": "USA",
+        "summary": "OB-GYN Associates experienced a data security incident where an unauthorized third-party accessed their network environment, potentially exposing personal information of patients. The incident occurred on or about August 7, 2025, and was detected on the same date. An investigation was completed on September 29, 2025.",
+        "title": "Data Breach Notification",
+        "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/6d545e2f-080f-4047-b84f-731fa04d3ae4.html",
+        "added": "2025-10-30"
+    },
+    {
         "date": "2025-06-17",
         "victim": "Manassas Park City Schools",
         "domain": "mpark.net",
