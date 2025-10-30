@@ -1,5 +1,12 @@
 [
     {
+        "victim": "PDC www.cobranzasbeta.com.co",
+        "domain": "cobranzasbeta.com.co",
+        "country": "CO",
+        "date": "2025-07-02",
+        "group": "qilin"
+    },
+    {
         "victim": "Beta Dyne",
         "domain": "betadynepower.com",
         "country": "US",
