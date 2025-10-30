@@ -1,5 +1,15 @@
 [
     {
+        "date": "2025-10-12",
+        "victim": "MedImpact",
+        "domain": "medimpact.com",
+        "country": "USA",
+        "summary": "MedImpact a récemment identifié un logiciel de rançon sur certains de ses systèmes, ce qui a entraîné une interruption de service. L'entreprise a pris des mesures pour contenir et atténuer l'incident, et elle travaille actuellement à la restauration des systèmes touchés. Les réclamations de pharmacie pour tous les clients sont désormais traitées.",
+        "title": "MedImpact Statement Regarding Cybersecurity Incident",
+        "url": "https://www.medimpact.com/clients/resources/press-releases/medimpact-statement",
+        "added": "2025-10-30"
+    },
+    {
         "date": "2025-09-26",
         "victim": "Bagnoles",
         "domain": "bagnoles.nl",
