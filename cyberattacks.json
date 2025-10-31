@@ -1,5 +1,15 @@
 [
     {
+        "date": "2025-03-02",
+        "victim": "Berkeley Research Group, LLC",
+        "domain": "berkeleyresearchgroup.com",
+        "country": "USA",
+        "summary": "Berkley Research Group, LLC experienced a data incident on March 2, 2025, involving unauthorized access to their systems, resulting in the potential exposure of personal information. The incident occurred between February 28, 2025, and March 2, 2025. The company is offering free identity monitoring services to affected individuals.",
+        "title": "Data Breach Notification",
+        "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/d2de9b86-1c81-476a-a1c8-ee4f6a4a35a8.html",
+        "added": "2025-10-31"
+    },
+    {
         "date": "2025-10-26",
         "victim": "move XM",
         "domain": "movexm.com",
