@@ -1,5 +1,15 @@
 [
     {
+        "date": "2025-10-26",
+        "victim": "move XM",
+        "domain": "movexm.com",
+        "country": "DEU",
+        "summary": "Le fournisseur de services move XM a été victime d'une attaque cybernétique réussie le 26 octobre 2025, ce qui a entraîné la fermeture temporaire de son portail CEM pour les concessionnaires VW et Audi. L'entreprise a pris des mesures pour isoler et désactiver la plateforme, et travaille avec des experts en forensique informatique et des autorités pour analyser et sécuriser son infrastructure. Il n'y a actuellement aucune preuve que des données personnelles aient été compromises.",
+        "title": "Cyberangriff auf move XM; Dienstleister für alle VW- / Audi-Händler - Teil 2",
+        "url": "https://www.borncity.com/blog/2025/10/31/cyberangriff-auf-move-xm-dienstleister-fuer-alle-vw-audi-haendler/",
+        "added": "2025-10-31"
+    },
+    {
         "date": "2025-10-05",
         "victim": "Dislog",
         "domain": "dislogroup.com",
