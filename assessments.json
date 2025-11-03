@@ -1,5 +1,12 @@
 [
     {
+        "victim": "Victorian Chemical",
+        "domain": "vicchem.com",
+        "country": "AU",
+        "date": "2025-10-23",
+        "group": "ransomhouse"
+    },
+    {
         "victim": "Partitio",
         "domain": "partitio.com",
         "country": "FR",
