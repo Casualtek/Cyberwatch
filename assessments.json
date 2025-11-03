@@ -1,5 +1,26 @@
 [
     {
+        "victim": "Lidera Network",
+        "domain": "lidera.com",
+        "country": "ES",
+        "date": "2025-10-15",
+        "group": "worldleaks"
+    },
+    {
+        "victim": "Mandom Corporation",
+        "domain": "mandom.co.jp",
+        "country": "JP",
+        "date": "2025-08-21",
+        "group": "worldleaks"
+    },
+    {
+        "victim": "Heritage Communities",
+        "domain": "heritage-communities.com",
+        "country": "US",
+        "date": "2025-09-04",
+        "group": "worldleaks"
+    },
+    {
         "victim": "Centers Laboratory",
         "domain": "centerslab.com",
         "country": "US",
