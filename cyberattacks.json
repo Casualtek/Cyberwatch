@@ -1,5 +1,15 @@
 [
     {
+        "date": "2025-11-02",
+        "victim": "Ruag LLC",
+        "domain": "ruag.com",
+        "country": "CHE",
+        "summary": "La société Ruag LLC, filiale américaine de Ruag, a été victime d'une attaque de ransomware, mais l'incident est isolé et n'affecte pas les systèmes ou les données en Suisse. L'attaque a été attribuée à un groupe international agissant à l'échelle mondiale. Les mesures de sécurité appropriées ont été prises pour faire face à l'incident.",
+        "title": "Ransomware-Angriff auf Ruag LLC: Schweizer Tochtergesellschaft bleibt unberührt",
+        "url": "https://www.20min.ch/story/ruag-llc-tochtergesellschaft-der-ruag-von-cyberangriff-betroffen-103445810",
+        "added": "2025-11-04"
+    },
+    {
         "date": "2025-08-15",
         "victim": "Bio3g",
         "domain": "bio3g.com",
