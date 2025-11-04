@@ -1,5 +1,12 @@
 [
     {
+        "victim": "halbarstainless.com",
+        "domain": "halbarstainless.com",
+        "country": "CA",
+        "date": "2025-09-05",
+        "group": "safepay"
+    },
+    {
         "victim": "osdcourtks.org",
         "domain": "osdcourtks.org",
         "country": "US",
