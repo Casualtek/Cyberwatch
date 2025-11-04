@@ -1,5 +1,12 @@
 [
     {
+        "victim": "browneco.com",
+        "domain": "browneco.com",
+        "country": "US",
+        "date": "2025-08-14",
+        "group": "safepay"
+    },
+    {
         "victim": "healthandvitalitycenter.com",
         "domain": "healthandvitalitycenter.com",
         "country": "US",
