@@ -1,5 +1,15 @@
 [
     {
+        "date": "2025-11-05",
+        "victim": "Medizinische Versorgungszentrum Nordoberpfalz",
+        "domain": "mvz-weiden.de",
+        "country": "DEU",
+        "summary": "Le Medizinische Versorgungszentrum Nordoberpfalz a subi une attaque informatique, ce qui a conduit à la fermeture temporaire de deux de ses sites à Tirschenreuth et Kemnath. Les cliniques ne sont pas affectées et le site de Weiden continue de fonctionner. Les systèmes ont été déconnectés en raison de la découverte d'un logiciel malveillant.",
+        "title": "Cyberangriff legt MVZ in Tirschenreuth und Kemnath lahm | OberpfalzECHO",
+        "url": "https://www.oberpfalzecho.de/beitrag/cyberangriff-legt-mvz-in-tirschenreuth-und-kemnath-lahm",
+        "added": "2025-11-06"
+    },
+    {
         "date": "2025-11-03",
         "victim": "Dillon County",
         "domain": "dilloncountysc.org",
