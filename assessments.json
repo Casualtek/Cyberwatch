@@ -1,5 +1,33 @@
 [
     {
+        "victim": "Professional's Choice Sports",
+        "domain": "profchoice.com",
+        "country": "US",
+        "date": "2025-10-24",
+        "group": "play"
+    },
+    {
+        "victim": "Encore Repair Services",
+        "domain": "encorerepair.com",
+        "country": "US",
+        "date": "2025-10-24",
+        "group": "play"
+    },
+    {
+        "victim": "Tavo Packaging Inc",
+        "domain": "tavopackaging.com",
+        "country": "US",
+        "date": "2025-10-23",
+        "group": "play"
+    },
+    {
+        "victim": "Wright Tool",
+        "domain": "wrighttool.com",
+        "country": "US",
+        "date": "2025-10-21",
+        "group": "play"
+    },
+    {
         "victim": "BCR Recouvrement",
         "domain": "bcr-recouvrement.com",
         "country": "FR",
