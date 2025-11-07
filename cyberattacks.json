@@ -1,6 +1,16 @@
 [
     {
         "date": "2025-11-06",
+        "victim": "Ludwigshafen",
+        "domain": "ludwigshafen.de",
+        "country": "DEU",
+        "summary": "Le réseau de la ville de Ludwigshafen a été victime d'une attaque de hackers, ce qui a entraîné une panne généralisée. Les détails de l'incident ne sont pas encore connus, mais il s'agit potentiellement du deuxième cas d'attaque de ce type dans la région après celle qui a touché la Kreisverwaltung il y a trois ans. Une conférence de presse est prévue pour fournir plus d'informations.",
+        "title": "Hackerangriff legt Netzwerk der Stadtverwaltung Ludwigshafen lahm",
+        "url": "https://www.mannheimer-morgen.de/orte/ludwigshafen_artikel,-ludwigshafen-hackerangriff-legt-netzwerk-der-stadtverwaltung-ludwigshafen-lahm-_arid,2339209.html",
+        "added": "2025-11-07"
+    },
+    {
+        "date": "2025-11-06",
         "victim": "RTV Noord",
         "domain": "rtvnoord.nl",
         "country": "NLD",
