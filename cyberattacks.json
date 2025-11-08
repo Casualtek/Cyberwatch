@@ -1,9 +1,59 @@
 [
     {
         "date": "2025-11-05",
+        "victim": "Prefeitura de Cuiabá",
+        "domain": "cuiaba.mt.gov.br",
+        "country": "BRA",
+        "summary": "La Prefeitura de Cuiabá a été victime d'une attaque cibernetique contre son système de gestion de données, mais l'équipe de technologie de l'information a pu contenir l'attaque rapidement. Les services de santé continuent de fonctionner normalement et la préfecture travaille à restaurer l'environnement numérique. La préfecture a adopté des mesures pour assurer la sécurité des données et la continuité des services.",
+        "title": "Secretaria de Saúde de Cuiabá sofre ataque cibernético - CenárioMT",
+        "url": "https://www.cenariomt.com.br/mato-grosso/secretaria-de-saude-de-cuiaba-sofre-ataque-cibernetico/",
+        "added": "2025-11-08"
+    },
+    {
+        "date": "2025-09-08",
+        "victim": "Bentley, Bratcher & Associates",
+        "domain": "bentleyassoc.com",
+        "country": "USA",
+        "summary": "Bentley, Bratcher & Associates experienced a network security incident on September 8, 2025, which may have exposed personal information. An unauthorized third party may have accessed certain individuals' personal information, including first and last name. The firm is offering free credit monitoring services to affected individuals.",
+        "title": "2025-11-06 Bentley, Bratcher & Associates Data Breach Notice to Consumers",
+        "url": "https://ago.vermont.gov/document/2025-11-06-bentley-bratcher-associates-data-breach-notice-consumers",
+        "added": "2025-11-08"
+    },
+    {
+        "date": "2025-08-01",
+        "victim": "Central Boiler, Inc.",
+        "domain": "centralboiler.com",
+        "country": "USA",
+        "summary": "Central Boiler, Inc. experienced a sophisticated cyber-attack on August 1, 2025, which may have involved unauthorized access to customer data. The company is notifying potentially affected parties in an abundance of caution. The breach may have exposed customer names in combination with other impacted data elements.",
+        "title": "2025-11-05 Central Boiler Companies Data Breach Notice to Consumers",
+        "url": "https://ago.vermont.gov/document/2025-11-05-central-boiler-companies-data-breach-notice-consumers",
+        "added": "2025-11-08"
+    },
+    {
+        "date": "2025-02-20",
+        "victim": "LGAA LLC",
+        "domain": "leavitt.com",
+        "country": "USA",
+        "summary": "LGAA LLC suffered a data breach on February 20, 2025, where an unknown cyber actor accessed a limited portion of their computer network and may have copied files without permission. The breach involved the names and driver's license or state identification numbers and credit or debit card numbers of approximately three Maine residents. LGAA LLC has taken steps to remove the data from their network and is providing identity monitoring services to affected individuals.",
+        "title": "Data Breach Notification",
+        "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/8ab245e1-36ff-47ac-a5a1-d7f6a60d8a4a.html",
+        "added": "2025-11-08"
+    },
+    {
+        "date": "2025-07-21",
+        "victim": "Opus Card Systems, Inc.",
+        "domain": "opuscardsystems.com",
+        "country": "USA",
+        "summary": "Opus Card Systems, Inc. has experienced a data incident, resulting in potential unauthorized access to personal information. The company is offering monitoring services to affected individuals. The incident is not currently known to have resulted in any fraud.",
+        "title": "Data Breach Notification",
+        "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/6eb95afe-b6b2-4aa1-a2ef-c0e48c8022b0.html",
+        "added": "2025-11-08"
+    },
+    {
+        "date": "2025-11-05",
         "victim": "Habib Bank AG Zurich",
         "domain": "habibbank.com",
-        "country": "PAK",
+        "country": "CHE",
         "summary": "Le 7 novembre, Habib Bank AG Zurich a dit avoir subi un accès non autorisé à son réseau d'entreprise, mais ses services bancaires restent opérationnels. L'équipe de la banque travaille avec des experts en cybersécurité pour évaluer et atténuer l'impact de l'incident. Les autorités réglementaires ont été informées et des mesures supplémentaires ont été prises pour protéger les informations des clients. Une cyberattaque contre la banque a été revendiquée sous la bannière de Qilin le 5 novembre.",
         "title": "Important Notice - Habib Bank AG Zurich",
         "url": "https://habibbank.com/important-notice/",
