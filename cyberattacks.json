@@ -1,5 +1,15 @@
 [
     {
+        "date": "2025-11-05",
+        "victim": "Habib Bank AG Zurich",
+        "domain": "habibbank.com",
+        "country": "PAK",
+        "summary": "Le 7 novembre, Habib Bank AG Zurich a dit avoir subi un accès non autorisé à son réseau d'entreprise, mais ses services bancaires restent opérationnels. L'équipe de la banque travaille avec des experts en cybersécurité pour évaluer et atténuer l'impact de l'incident. Les autorités réglementaires ont été informées et des mesures supplémentaires ont été prises pour protéger les informations des clients. Une cyberattaque contre la banque a été revendiquée sous la bannière de Qilin le 5 novembre.",
+        "title": "Important Notice - Habib Bank AG Zurich",
+        "url": "https://habibbank.com/important-notice/",
+        "added": "2025-11-08"
+    },
+    {
         "date": "2025-11-04",
         "victim": "Grande paroisse Saint-Luc de Düren",
         "domain": "st-lukas.org",
