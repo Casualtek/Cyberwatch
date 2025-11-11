@@ -1,5 +1,15 @@
 [
     {
+        "date": "2025-08-05",
+        "victim": "KLA Instruments",
+        "domain": "kla.com",
+        "country": "USA",
+        "summary": "KLA Instruments detected an unauthorized party gained access to certain corporate systems, resulting in the exposure of personal information. A cyberattack against KLA Instruments was claimed by Meow on August 8, 2024.",
+        "title": "2025-11-07 KLA Corporation dba KLA Instruments - Filmetrics Data Breach Notice to Consumers",
+        "url": "https://ago.vermont.gov/document/2025-11-07-kla-corporation-dba-kla-instruments-filmetrics-data-breach-notice-consumers",
+        "added": "2025-11-11"
+    },
+    {
         "date": "2025-01-17",
         "victim": "Wakefield & Associates, LLC",
         "domain": "wakeassoc.com",
