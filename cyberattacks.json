@@ -1,5 +1,15 @@
 [
     {
+        "date": "2025-11-09",
+        "victim": "Radio Nordseewelle",
+        "domain": "radio-nordseewelle.de",
+        "country": "DEU",
+        "summary": "Radio Nordseewelle a été victime d'une attaque de piratage informatique qui a endommagé une grande partie de son infrastructure technique, mais le service a pu être rétabli grâce à l'engagement de l'équipe et à l'aide de partenaires régionaux. Les enquêtes techniques ont révélé qu'il s'agissait d'une attaque ciblée et professionnelle. Le service a été rétabli et les systèmes ont été réaménagés pour améliorer la sécurité.",
+        "title": "Hackerangriff legt Radio Nordseewelle lahm",
+        "url": "https://www.radioszene.de/207744/radio-nordseewelle-hackerangriff.html",
+        "added": "2025-11-11"
+    },
+    {
         "date": "2024-11-09",
         "victim": "Manassas City Public Schools",
         "domain": "mcpsva.org",
