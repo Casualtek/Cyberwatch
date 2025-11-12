@@ -1,5 +1,15 @@
 [
     {
+        "date": "2025-08-28",
+        "victim": "Country Club Enterprises, LLC dba C2 Vehicles",
+        "domain": "c2vehicles.com",
+        "country": "USA",
+        "summary": "C2 Vehicles experienced a network disruption, resulting in unauthorized access to certain files containing personal information. The affected data may have included names, Social Security numbers, and driver's license numbers. There is no evidence of misuse or attempted misuse of the impacted information.",
+        "title": "Data Breach Notification",
+        "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/8f27d719-0dbf-4fa7-a03b-2cb94542220b.html",
+        "added": "2025-11-12"
+    },
+    {
         "date": "2025-08-05",
         "victim": "KLA Instruments",
         "domain": "kla.com",
