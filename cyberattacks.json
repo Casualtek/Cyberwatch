@@ -1,5 +1,15 @@
 [
     {
+        "date": "2025-11-10",
+        "victim": "Weda",
+        "domain": "weda.fr",
+        "country": "FRA",
+        "summary": "Une cyberattaque d’ampleur a eu lieu en Normandie, faisant craindre une fuite de données médicales sensibles. Les détails de l'attaque ne sont pas précisés en raison de la limitation de l'accès à l'article. L'attaque a suscité des inquiétudes quant à la sécurité des données médicales.",
+        "title": "En Normandie, une cyberattaque d’ampleur fait craindre une fuite de données médicales sensibles",
+        "url": "https://www.paris-normandie.fr/id673706/article/2025-11-12/en-normandie-une-cyberattaque-dampleur-fait-craindre-une-fuite-de-donnees",
+        "added": "2025-11-12"
+    },
+    {
         "date": "2025-06-07",
         "victim": "DealMed Medical Supplies",
         "domain": "dealmed.com",
