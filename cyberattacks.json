@@ -1,5 +1,15 @@
 [
     {
+        "date": "2025-09-07",
+        "victim": "Development Services Group, Inc.",
+        "domain": "dsgonline.com",
+        "country": "USA",
+        "summary": "Development Services Group, Inc. suffered a data breach resulting in the unauthorized acquisition of personal information of six residents of Maine, including their names and Social Security numbers. The breach occurred on September 7, 2025, and was discovered on the same day. A cyberattack against Development Services Group, Inc. was claimed by Qilin on October 6.",
+        "title": "Data Breach Notification",
+        "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/3389d131-aa9d-415f-a90a-a5b6ddfd8f43.html",
+        "added": "2025-11-13"
+    },
+    {
         "date": "2024-10-23",
         "victim": "American Associated Pharmacies",
         "domain": "rxaap.com",
