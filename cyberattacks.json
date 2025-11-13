@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-10-23",
+        "victim": "American Associated Pharmacies",
+        "domain": "rxaap.com",
+        "country": "USA",
+        "summary": "American Associated Pharmacies experienced a ransomware incident in October 2024, which may have involved the unauthorized actor downloading some of their data, including personal information. A cyberattack against American Associated Pharmacies was claimed by Embargo on November 13, 2024.",
+        "title": "Data Breach Notification",
+        "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/c4ea1237-432a-4d8d-bb3c-5ae70d44b107.html",
+        "added": "2025-11-13"
+    },
+    {
         "date": "2025-03-24",
         "victim": "LaBella Associates",
         "domain": "labellaassociates.com",
