@@ -1,5 +1,54 @@
 [
     {
+        "victim": "Vennerhus Weine AG",
+        "domain": "vennerhus.ch",
+        "country": "CH",
+        "date": "2025-10-20",
+        "group": "ransomhouse"
+    },
+    {
+        "victim": "MARCK Industries",
+        "domain": "marck.net",
+        "country": "US",
+        "date": "2025-10-23",
+        "group": "ransomhouse"
+    },
+    {
+        "victim": "Polidano Group",
+        "domain": "polidano-group.com",
+        "country": "MT",
+        "date": "2025-10-30",
+        "group": "ransomhouse"
+    },
+    {
+        "victim": "Octomeca Oy",
+        "domain": "octomeca.fi",
+        "country": "FI",
+        "date": "2025-11-05",
+        "group": "ransomhouse"
+    },
+    {
+        "victim": "Public Safety Mutual Benefit Fund",
+        "domain": "psmbfi.com.ph",
+        "country": "PH",
+        "date": "2025-11-04",
+        "group": "ransomhouse"
+    },
+    {
+        "victim": "Fulgar S.p.A.",
+        "domain": "fulgar.com",
+        "country": "IT",
+        "date": "2025-10-31",
+        "group": "ransomhouse"
+    },
+    {
+        "victim": "Soleol",
+        "domain": "soleol.ch",
+        "country": "CH",
+        "date": "2025-10-09",
+        "group": "ransomhouse"
+    },
+    {
         "victim": "PIGGLY WIGGLY ALABAMA DISTRIBUTING",
         "domain": "pwadc.net",
         "country": "US",
