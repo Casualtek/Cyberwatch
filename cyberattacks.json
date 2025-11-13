@@ -1,5 +1,15 @@
 [
     {
+        "date": "2025-11-08",
+        "victim": "Fiscalía General del Estado de Guanajuato",
+        "domain": "pgj-gto.gob.mx",
+        "country": "MEX",
+        "summary": "La Fiscalía General del Estado de Guanajuato a été victime d'une attaque de ransomware attribuée au groupe de hackers Tekir APT, qui a compromis ses systèmes informatiques et exposé des informations confidentielles. Les attaquants ont exigé un paiement en échange de la non-divulgation des données volées. L'institution a confirmé l'incident et a pris des mesures pour contenir les dégâts.",
+        "title": "Fiscalía de Guanajuato sufre ciberataque: vulneran expedientes y datos confidenciales en 250 GB robados por hackers",
+        "url": "https://www.infobae.com/mexico/2025/11/11/fiscalia-de-guanajuato-sufre-ciberataque-vulneran-expedientes-y-datos-confidenciales-en-250-gb-robados-por-hackers/",
+        "added": "2025-11-13"
+    },
+    {
         "date": "2025-10-13",
         "victim": "Jetobra, Inc.",
         "domain": "hoffmanauto.com",
