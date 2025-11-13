@@ -1,5 +1,15 @@
 [
     {
+        "date": "2025-03-24",
+        "victim": "LaBella Associates",
+        "domain": "labellaassociates.com",
+        "country": "USA",
+        "summary": "LaBella Associates notified customers of a data breach that occurred on or around March 24, 2025, where an unauthorized third party may have accessed personal information. A cyberattack against LaBella was claimed by Rhysida on April 28.",
+        "title": "Data Breach Notification",
+        "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/6c69171f-faa8-4eac-befb-5fe15ce9a409.html",
+        "added": "2025-11-13"
+    },
+    {
         "date": "2023-12-28",
         "victim": "Alpha Omega Winery",
         "domain": "aowinery.com",
