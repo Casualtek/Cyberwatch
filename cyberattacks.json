@@ -1,5 +1,15 @@
 [
     {
+        "date": "2023-12-28",
+        "victim": "Alpha Omega Winery",
+        "domain": "aowinery.com",
+        "country": "USA",
+        "summary": "Alpha Omega Winery a subi une attaque de ransomware le 28 décembre 2023, ce qui a pu entraîner la fuite de données personnelles de ses clients et employés. Les informations personnelles compromises pourraient inclure des noms, des dates de naissance, des numéros de sécurité sociale et des informations médicales. La winerie a offert deux ans de surveillance et de restauration de rapports de crédit gratuits aux personnes affectées.",
+        "title": "Almost two years later, Alpha Omega Winery notifies those affected by a data breach. – DataBreaches.Net",
+        "url": "https://databreaches.net/2025/11/12/almost-two-years-later-alpha-omega-winery-notifies-those-affected-by-a-data-breach/",
+        "added": "2025-11-13"
+    },
+    {
         "date": "2025-11-12",
         "victim": "Prefeitura Municipal de Cabedelo",
         "domain": "cabedelo.pb.gov.br",
