@@ -1,5 +1,15 @@
 [
     {
+        "date": "2025-11-07",
+        "victim": "woom GmbH",
+        "domain": "woom.com",
+        "country": "AUT",
+        "summary": "La société woom GmbH a été victime d'une attaque cybernétique le 7 novembre 2025, mais a pu rapidement réagir et limiter les dégâts avec l'aide d'un expert en cybersécurité. Les informations des clients pourraient avoir été compromises, mais pas les données sensibles. L'entreprise continue d'investir dans les normes de sécurité les plus modernes pour protéger ses systèmes et données.",
+        "title": "Cyberangriff bei woom",
+        "url": "https://www.presseportal.de/pm/136027/6158820",
+        "added": "2025-11-14"
+    },
+    {
         "date": "2025-09-06",
         "victim": "NFI North",
         "domain": "nfinorth.com",
