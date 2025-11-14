@@ -1,5 +1,15 @@
 [
     {
+        "date": "2025-11-07",
+        "victim": "Checkout.com",
+        "domain": "checkout.com",
+        "country": "GBR",
+        "summary": "Checkout.com a été ciblée par une tentative d'extorsion criminelle, les attaquants ont accédé à un système de stockage de fichiers cloud tiers hérité, mais le traitement des paiements en direct n'a pas été impacté. Aucun fonds de marchand ni numéro de carte n'a été accédé. L'entreprise fait don du montant du ransom à des universités pour financer la recherche sur la cybercriminalité.",
+        "title": "Protecting our Merchants: Standing up to Extortion",
+        "url": "https://www.checkout.com/blog/protecting-our-merchants-standing-up-to-extortion",
+        "added": "2025-11-14"
+    },
+    {
         "date": "2025-11-12",
         "victim": "Sunafil",
         "domain": "sunafil.gob.pe",
