@@ -1,5 +1,15 @@
 [
     {
+        "date": "2025-10-27",
+        "victim": "Poltronesofà",
+        "domain": "poltronesofa.com",
+        "country": "ITA",
+        "summary": "Des personnes non autorisées ont compromis les serveurs du groupe Poltronesofà entraînant le chiffrement des fichiers qui y étaient stockés et l’indisponibilité des machines virtuelles hébergées.",
+        "title": "Notification conformément à l'article 34 du RGPD",
+        "url": "https://www.poltronesofa.com/",
+        "added": "2025-11-15"
+    },
+    {
         "date": "2025-11-10",
         "victim": "Arabella",
         "domain": "radioarabella.de",
