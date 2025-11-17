@@ -1,5 +1,15 @@
 [
     {
+        "date": "2025-08-09",
+        "victim": "Pennsylvania Office of the Attorney General",
+        "domain": "attorneygeneral.gov",
+        "country": "USA",
+        "summary": "Le Pennsylvania Office of the Attorney General a signalé une faille de sécurité des données en août 2025, qui a pu donner accès non autorisé à des informations personnelles. Les données concernées pourraient inclure des noms, des numéros de sécurité sociale et des informations médicales. L'office a mis en place un centre d'appel pour répondre aux questions et aux préoccupations liées à cet incident.",
+        "title": "Media Notice: Pennsylvania Office of Attorney General Provides Notice of Data Incident",
+        "url": "https://www.prnewswire.com/news-releases/media-notice-pennsylvania-office-of-attorney-general-provides-notice-of-data-incident-302615934.html",
+        "added": "2025-11-17"
+    },
+    {
         "date": "2025-11-13",
         "victim": "Eurofiber France",
         "domain": "eurofiber.fr",
