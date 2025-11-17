@@ -1,5 +1,15 @@
 [
     {
+        "date": "2025-11-13",
+        "victim": "Eurofiber France",
+        "domain": "eurofiber.fr",
+        "country": "FRA",
+        "summary": "Eurofiber France a subi une attaque de cybersécurité le 13 novembre 2025, entraînant l'exfiltration de données liées à ses plateformes de gestion de tickets et de portail client. Les services sont restés opérationnels et les informations sensibles ne sont pas concernées. L'entreprise a pris des mesures pour renforcer la sécurité et accompagner les clients affectés.",
+        "title": "Incident de cybersécurité chez Eurofiber France",
+        "url": "https://www.eurofiber.com/fr-fr/actualites/incident-de-cybersecurite-chez-eurofiber-france",
+        "added": "2025-11-17"
+    },
+    {
         "date": "2025-11-14",
         "victim": "Living Room Theaters",
         "domain": "livingroomtheaters.com",
