@@ -1,5 +1,15 @@
 [
     {
+        "date": "2025-11-10",
+        "victim": "Lake Superior State University",
+        "domain": "lssu.edu",
+        "country": "USA",
+        "summary": "Lake Superior State University est touchée par une attaque de ransomware qui a commencé autour du 10 novembre, affectant certains ordinateurs et serveurs du campus. L'université travaille avec des partenaires de sécurité et des forces de l'ordre pour restaurer les fichiers en toute sécurité. Les étudiants ont signalé des impacts variables sur les cours en raison de la fermeture des systèmes de laboratoire. (via DisruptionHub)",
+        "title": "Ransomware disrupts Lake Superior State University in Michigan",
+        "url": "https://dysruptionhub.com/lssu-ransomware-michigan/",
+        "added": "2025-11-17"
+    },
+    {
         "date": "2025-10-27",
         "victim": "Poltronesofà",
         "domain": "poltronesofa.com",
