@@ -1,5 +1,45 @@
 [
     {
+        "date": "2024-02-18",
+        "victim": "Tocqueville Asset Management",
+        "domain": "tocqueville.com",
+        "country": "USA",
+        "summary": "Tocqueville Asset Management suffered a data breach, resulting in the potential misuse of personal information. The breach affected 27 Rhode Island residents. The organization has taken steps to remediate the incident and provide credit monitoring services to affected individuals.",
+        "title": "2025-11-13 Tocqueville Asset Management Data Breach Notice to Consumers",
+        "url": "https://ago.vermont.gov/document/2025-11-13-tocqueville-asset-management-data-breach-notice-consumers",
+        "added": "2025-11-18"
+    },
+    {
+        "date": "2025-06-26",
+        "victim": "Greer Commission of Public Works",
+        "domain": "greercpw.com",
+        "country": "USA",
+        "summary": "Greer CPW suffered a data breach where an unauthorized individual copied certain information from their network environment. The breach occurred on June 19, 2025, and was discovered on June 26, 2025. The potentially impacted information included personal and sensitive data.",
+        "title": "2025-11-14 Greer Commission of Public Works Data Breach Notice to Consumers",
+        "url": "https://ago.vermont.gov/document/2025-11-14-greer-commission-public-works-data-breach-notice-consumers",
+        "added": "2025-11-18"
+    },
+    {
+        "date": "2025-07-04",
+        "victim": "Consero Global LLC",
+        "domain": "conseroglobal.com",
+        "country": "USA",
+        "summary": "Consero Global LLC suffered a data breach, providing its customers with complimentary credit monitoring services and identity protection. The breach led to the offer of free services, including credit monitoring, dark web monitoring, and identity theft insurance. Customers were required to enroll within 90 days to receive the services.",
+        "title": "2025-11-15 Consero Global Solutions Data Breach Notice to Consumers",
+        "url": "https://ago.vermont.gov/document/2025-11-15-consero-global-solutions-data-breach-notice-consumers",
+        "added": "2025-11-18"
+    },
+    {
+        "date": "2025-07-02",
+        "victim": "Window to the World Communications Inc.",
+        "domain": "wttw-wfmt.com",
+        "country": "USA",
+        "summary": "Window to the World Communications Inc. suffered a data breach where an unauthorized third party accessed certain systems and exfiltrated data. The breach was discovered on July 2, 2025, and the company has taken measures to contain the incident. The investigation has not identified any fraudulent use of personal information as a result of this incident.",
+        "title": "2025-11-17 Window to the World Communications Data Breach Notice to Consumers",
+        "url": "https://ago.vermont.gov/document/2025-11-17-window-world-communications-data-breach-notice-consumers",
+        "added": "2025-11-18"
+    },
+    {
         "date": "2024-12-09",
         "victim": "Drivestream",
         "domain": "drivestream.com",
