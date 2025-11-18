@@ -1,5 +1,12 @@
 [
     {
+        "victim": "Vardeco",
+        "domain": "vardeco.com",
+        "country": "CH",
+        "date": "2025-08-13",
+        "group": "akira"
+    },
+    {
         "victim": "LandWorks",
         "domain": "landworks-inc.com",
         "country": "US",
