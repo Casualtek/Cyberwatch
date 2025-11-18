@@ -1,5 +1,15 @@
 [
     {
+        "date": "2025-11-16",
+        "victim": "Stadtwerke Detmold",
+        "domain": "stadtwerke-detmold.de",
+        "country": "DEU",
+        "summary": "Les systèmes informatiques de la société de services publics Stadtwerke Detmold ont été victimes d'une cyberattaque, entraînant une panne complète de leurs services en ligne et de leurs communications téléphoniques et par e-mail. La société assure que les services de base tels que l'eau, l'électricité, le gaz et la chaleur sont toujours disponibles. Les autorités enquêtent actuellement sur l'incident pour déterminer si des données client ont été compromises.",
+        "title": "Stadtwerke Detmold von Hackerangriff betroffen",
+        "url": "https://www.csoonline.com/article/4091972/stadtwerke-detmold-von-hackerangriff-betroffen.html",
+        "added": "2025-11-18"
+    },
+    {
         "date": "2024-02-18",
         "victim": "Tocqueville Asset Management",
         "domain": "tocqueville.com",
