@@ -1,5 +1,15 @@
 [
     {
+        "date": "2025-10-10",
+        "victim": "Kelly Legal",
+        "domain": "kellylegal.com.au",
+        "country": "AUS",
+        "summary": "Les hackers du groupe INC Ransom ont revendiqué avoir volé plus de 400 gigaoctets d'informations de Kelly Legal, dont des fichiers RH, après un incident de piratage en octobre. Les hackers ont publié une fuite sur leur site darknet le 13 novembre, décrivant l'entreprise et ses revenus estimés. Kelly Legal a confirmé avoir été victime d'un incident de piratage sur sa page Facebook le 10 octobre.",
+        "title": "Exclusive: Qld law firm listed by INC Ransom hacking group",
+        "url": "https://www.cyberdaily.au/security/12910-exclusive-queensland-law-firm-listed-by-inc-ransom-hacking-group",
+        "added": "2025-11-18"
+    },
+    {
         "date": "2025-08-09",
         "victim": "Pennsylvania Office of the Attorney General",
         "domain": "attorneygeneral.gov",
