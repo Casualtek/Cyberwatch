@@ -1,5 +1,15 @@
 [
     {
+        "date": "2025-04-10",
+        "victim": "Murphy, Pearson, Bradley & Feeney, APC",
+        "domain": "mpbf.com",
+        "country": "USA",
+        "summary": "A data security incident occurred on MPBF's network, potentially exposing personal information of certain individuals. The incident was discovered on April 10, 2025, and MPBF has no evidence of the misuse of any potentially impacted information. A cyberattack against MPBF was claimed by Akira on May 22.",
+        "title": "Data Breach Notification",
+        "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/2f5a70e9-23f3-4901-bbbe-162434e795e1.html",
+        "added": "2025-11-19"
+    },
+    {
         "date": "2025-11-16",
         "victim": "Rainbow Communications",
         "domain": "rainbowtel.net",
