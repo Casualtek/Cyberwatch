@@ -1,5 +1,12 @@
 [
     {
+        "victim": "Ronald A/S",
+        "domain": "ronald.dk",
+        "country": "DK",
+        "date": "2025-09-01",
+        "group": "akira"
+    },
+    {
         "victim": "Displayit",
         "domain": "displayitinc.com",
         "country": "US",
