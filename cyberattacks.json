@@ -1,6 +1,16 @@
 [
     {
         "date": "2025-11-16",
+        "victim": "Rainbow Communications",
+        "domain": "rainbowtel.net",
+        "country": "USA",
+        "summary": "Rainbow Communications, un fournisseur de services de télécommunications, a subi un événement de cybersécurité qui a perturbé ses services de téléphone et de PBX dans le nord-est du Kansas. L'entreprise travaille à restaurer les services et a mis en place une ligne d'assistance temporaire pour les clients. Les causes de l'incident et les détails sur les données compromises ne sont pas encore connus.",
+        "title": "Kansas telecom cyber event disrupts Rainbow phone lines",
+        "url": "https://dysruptionhub.com/kansas-telecom-cyber-event-disrupts-rainbow-phone-lines/",
+        "added": "2025-11-19"
+    },
+    {
+        "date": "2025-11-16",
         "victim": "Stadtwerke Detmold",
         "domain": "stadtwerke-detmold.de",
         "country": "DEU",
