@@ -1,5 +1,25 @@
 [
     {
+        "date": "2025-08-09",
+        "victim": "Plainview Volunteer Fire Department",
+        "domain": "plainviewfd.org",
+        "country": "USA",
+        "summary": "Plainview Volunteer Fire Department suffered a data security incident on or about August 9, 2025. The investigation found suspicious activity within their network environment. A cyberattack against the Plainview Volunteer Fire Department was claimed by RansomHouse on October 1st.",
+        "title": "2025-11-14 Plainview Volunteer Fire Department Data Breach Notice to Consumers",
+        "url": "https://ago.vermont.gov/document/2025-11-14-plainview-volunteer-fire-department-data-breach-notice-consumers",
+        "added": "2025-11-19"
+    },
+    {
+        "date": "2025-04-10",
+        "victim": "NAHGA Claims Services",
+        "domain": "nahgaclaimservices.com",
+        "country": "USA",
+        "summary": "NAHGA Claims Services experienced a data security incident involving unauthorized access to their network systems, potentially affecting personal information between April 8, 2025, and April 11, 2025. An investigation determined that certain files may have been acquired without authorization. The affected information may have included names and other data elements.",
+        "title": "2025-11-17 NAHGA Claims Services Data Breach Notice to Consumers",
+        "url": "https://ago.vermont.gov/document/2025-11-17-nahga-claims-services-data-breach-notice-consumers",
+        "added": "2025-11-19"
+    },
+    {
         "date": "2025-04-10",
         "victim": "Murphy, Pearson, Bradley & Feeney, APC",
         "domain": "mpbf.com",
