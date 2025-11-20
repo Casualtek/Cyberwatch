@@ -1,5 +1,15 @@
 [
     {
+        "date": "2025-04-15",
+        "victim": "Pillsbury Winthrop Shaw Pitman LLP",
+        "domain": "pillsburylaw.com",
+        "country": "USA",
+        "summary": "Pillsbury Winthrop Shaw Pitman LLP a fait état d'une cyberattaque sophistiquée ayant entraîné l'accès non autorisé à des informations personnelles et financières sensibles. La faille a été découverte après une analyse approfondie plus tard dans l'année. Les personnes touchées ont reçu des lettres de notification et ont été proposées des services de surveillance de crédit et de protection contre le vol d'identité.",
+        "title": "Pillsbury Winthrop Shaw Pitman LLP Data Breach",
+        "url": "https://www.emeryreddy.com/blog/data-breach/pillsbury-winthrop-shaw-pitman-llp-data-breach",
+        "added": "2025-11-20"
+    },
+    {
         "date": "2025-11-18",
         "victim": "太興集團",
         "domain": "taihing.com",
