@@ -1,5 +1,15 @@
 [
     {
+        "date": "2025-01-31",
+        "victim": "WEL Companies, Inc.",
+        "domain": "welcompanies.com",
+        "country": "USA",
+        "summary": "WEL Companies, Inc. experienced a data security incident where certain data stored on its network may have been accessed or acquired without authorization. The incident occurred on January 31, 2025, and affected personal information of 515 Maine residents. An attack against WEL Companies was claimed by RansomHub on February 25.",
+        "title": "Data Breach Notification",
+        "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/f88bb0ee-a9ad-47eb-92d8-7e0a47984cd6.html",
+        "added": "2025-11-20"
+    },
+    {
         "date": "2025-05-26",
         "victim": "Telcom Insurance Group",
         "domain": "telcominsgrp.com",
