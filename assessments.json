@@ -1,5 +1,12 @@
 [
     {
+        "victim": "Makro",
+        "domain": "makro.co.th",
+        "country": "TH",
+        "date": "2025-10-17",
+        "group": "ransomhouse"
+    },
+    {
         "victim": "Valley Plains Equipment",
         "domain": "valleyplainsequipment.com",
         "country": "US",
