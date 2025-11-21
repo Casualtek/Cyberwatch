@@ -1,6 +1,16 @@
 [
     {
         "date": "2025-11-20",
+        "victim": "Cleveland County Sheriff's Office",
+        "domain": "cso-ok.us",
+        "country": "USA",
+        "summary": "Le bureau du shérif du comté de Cleveland en Oklahoma a été victime d'une attaque de ransomware qui a touché certaines parties de son système informatique interne, mais n'a pas perturbé les services de sécurité publique. Les responsables ont indiqué que les services de sécurité publique n'ont pas été interrompus et que les députés continuent de répondre aux appels. L'incident est toujours en cours d'investigation et les responsables partageront des mises à jour lorsque plus d'informations seront disponibles.",
+        "title": "Oklahoma's Cleveland County Sheriff's Office hit by ransomware",
+        "url": "https://dysruptionhub.com/cleveland-county-sheriff-ransomware-okla/",
+        "added": "2025-11-21"
+    },
+    {
+        "date": "2025-11-20",
         "victim": "Attleboro",
         "domain": "cityofattleboro.us",
         "country": "USA",
