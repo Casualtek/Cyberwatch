@@ -1,5 +1,15 @@
 [
     {
+        "date": "2025-08-26",
+        "victim": "Cool Wind Ventilation",
+        "domain": "coolwind.biz",
+        "country": "USA",
+        "summary": "Cool Wind Ventilation Corp. experienced a network security incident in which an unauthorized third-party accessed their network environment, potentially exposing personal information. A cyberattack against Cool Wind Ventilation was claimed by Play on September 9.",
+        "title": "Data Breach Notification",
+        "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/039e4b57-7329-4cb6-80d5-8f81786aaf22.html",
+        "added": "2025-11-21"
+    },
+    {
         "date": "2025-05-03",
         "victim": "Fowler Elementary School District 45",
         "domain": "fowlersd45.org",
