@@ -1,5 +1,26 @@
 [
     {
+        "victim": "Alexander Bürkle",
+        "domain": "alexander-buerkle.de",
+        "country": "DE",
+        "date": "2025-08-29",
+        "group": "akira"
+    },
+    {
+        "victim": "Markowitz Ringel Trusty & Hartog",
+        "domain": "mrthlaw.com",
+        "country": "US",
+        "date": "2025-08-07",
+        "group": "akira"
+    },
+    {
+        "victim": "Makro",
+        "domain": "makro.co.th",
+        "country": "TH",
+        "date": "2025-10-17",
+        "group": "ransomhouse"
+    },
+    {
         "victim": "Makro",
         "domain": "makro.co.th",
         "country": "TH",
