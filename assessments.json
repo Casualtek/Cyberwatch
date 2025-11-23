@@ -1,5 +1,33 @@
 [
     {
+        "victim": "Highmark Companies",
+        "domain": "highmarkcos.com",
+        "country": "US",
+        "date": "2025-11-11",
+        "group": "play"
+    },
+    {
+        "victim": "Artesian Insurance",
+        "domain": "artesianinsurance.ca",
+        "country": "CA",
+        "date": "2025-11-13",
+        "group": "play"
+    },
+    {
+        "victim": "One Source Associates",
+        "domain": "onesa.com",
+        "country": "US",
+        "date": "2025-11-13",
+        "group": "play"
+    },
+    {
+        "victim": "N C Machinery",
+        "domain": "ncmachinery.com",
+        "country": "US",
+        "date": "2025-11-10",
+        "group": "play"
+    },
+    {
         "victim": "Alexander Bürkle",
         "domain": "alexander-buerkle.de",
         "country": "DE",
