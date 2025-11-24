@@ -1,5 +1,15 @@
 [
     {
+        "date": "2025-11-24",
+        "victim": "Hochschule Mainz",
+        "domain": "hs-mainz.de",
+        "country": "DEU",
+        "summary": "La Hochschule Mainz a été victime d'une attaque cybernétique, ce qui a entraîné la fermeture de la plupart de ses systèmes informatiques pour des raisons de sécurité. Les cours en présentiel se poursuivent, mais la durée de la perturbation n'est pas encore connue. Un groupe de crise a été mis en place pour maintenir les étudiants et les employés informés.",
+        "title": "Cyberangriff legt IT-Systeme der Hochschule Mainz lahm",
+        "url": "https://www.allgemeine-zeitung.de/lokales/mainz/stadt-mainz/cyberangriff-legt-it-systeme-der-hochschule-mainz-lahm-5188406",
+        "added": "2025-11-24"
+    },
+    {
         "date": "2025-11-19",
         "victim": "Universidad Autónoma de Campeche",
         "domain": "uacam.mx",
