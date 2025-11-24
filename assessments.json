@@ -1,5 +1,40 @@
 [
     {
+        "victim": "Barbizon Lighting Company",
+        "domain": "barbizon.com",
+        "country": "US",
+        "date": "2025-08-28",
+        "group": "akira"
+    },
+    {
+        "victim": "Roseburrough Tool",
+        "domain": "roseburroughtools.com",
+        "country": "US",
+        "date": "2025-08-23",
+        "group": "akira"
+    },
+    {
+        "victim": "Mqd",
+        "domain": "mqd.de",
+        "country": "DE",
+        "date": "2025-10-31",
+        "group": "akira"
+    },
+    {
+        "victim": "McKay Empire",
+        "domain": "mckayempire.com",
+        "country": "US",
+        "date": "2025-10-10",
+        "group": "akira"
+    },
+    {
+        "victim": "Victor Insulators.",
+        "domain": "victorinsulators.com",
+        "country": "US",
+        "date": "2025-08-26",
+        "group": "akira"
+    },
+    {
         "victim": "Priester Aviation",
         "domain": "priesterav.com",
         "country": "US",
