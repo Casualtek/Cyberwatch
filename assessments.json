@@ -1,5 +1,12 @@
 [
     {
+        "victim": "Hydroscand",
+        "domain": "hydroscand-machine.com",
+        "country": "SE",
+        "date": "2025-10-30",
+        "group": "akira"
+    },
+    {
         "victim": "Highmark Companies",
         "domain": "highmarkcos.com",
         "country": "US",
