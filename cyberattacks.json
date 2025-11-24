@@ -1,5 +1,15 @@
 [
     {
+        "date": "2025-11-12",
+        "victim": "SitusAMC",
+        "domain": "situsamc.com",
+        "country": "USA",
+        "summary": "SitusAMC a subi une faille de sécurité le 12 novembre 2025, entraînant la compromission de certaines informations de ses systèmes, notamment des données comptables et des accords juridiques de certains de ses clients. L'incident est maintenant contenu et les services de l'entreprise sont pleinement opérationnels. Une enquête est en cours pour déterminer l'étendue de l'impact.",
+        "title": "Data Breach",
+        "url": "https://www.situsamc.com/databreach",
+        "added": "2025-11-24"
+    },
+    {
         "date": "2025-11-21",
         "victim": "Milwaukee Police Department",
         "domain": "milwaukee.gov",
