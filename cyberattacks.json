@@ -1,5 +1,15 @@
 [
     {
+        "date": "2025-11-01",
+        "victim": "OnSolve",
+        "domain": "onsolve.com",
+        "country": "USA",
+        "summary": "Un cyberattaque a désactivé le système d'alerte d'urgence Code Red de OnSolve dans la région de St. Louis, laissant les villes et les comtés incapables d'envoyer des avertissements de tornade et d'autres alertes d'urgence aux résidents. Le système est principalement utilisé pour envoyer des avertissements de tornade et d'orage directement aux téléphones des gens. La société qui exploite le système Code Red travaille sur un nouveau système de notification pour remplacer l'ancien.",
+        "title": "Cyberattack disables Code Red emergency alert system across St. Louis region",
+        "url": "https://www.firstalert4.com/2025/11/22/cyberattack-disables-code-red-emergency-alert-system-across-st-louis-region/",
+        "added": "2025-11-24"
+    },
+    {
         "date": "2025-11-19",
         "victim": "EMRI Green Health Services",
         "domain": "emri.in",
