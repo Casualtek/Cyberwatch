@@ -1,5 +1,15 @@
 [
     {
+        "date": "2025-11-19",
+        "victim": "Universidad Autónoma de Campeche",
+        "domain": "uacam.mx",
+        "country": "MEX",
+        "summary": "Le système institutionnel de l'Universidad Autónoma de Campeche est hors service depuis le mercredi, ce qui a suscité des inquiétudes au sein de la communauté étudiante en raison de la possibilité d'une faille de sécurité qui aurait exposé les données personnelles de milliers d'étudiants. Les autorités universitaires ont attribué la panne à des travaux de maintenance, mais des sources internes suggèrent qu'il s'agit d'une attaque cybernétique ayant causé des dommages importants. Le rétablissement du système prendra du temps en raison du niveau de dommage.",
+        "title": "SISTEMA DE LA UAC QUEDA INUTILIZADO TRAS PRESUNTO ATAQUE CIBERNÉTICO - Tribuna Campeche",
+        "url": "https://tribunacampeche.com/22/sistema-de-la-uac-queda-inutilizado-tras-presunto-ataque-cibernetico/729326/",
+        "added": "2025-11-24"
+    },
+    {
         "date": "2025-11-12",
         "victim": "SitusAMC",
         "domain": "situsamc.com",
