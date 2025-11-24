@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-10-30",
+        "victim": "Carlsbad Municipal Schools",
+        "domain": "carlsbadschools.net",
+        "country": "USA",
+        "summary": "Carlsbad Municipal Schools a subi une attaque informatique le 30 octobre, ce qui a perturbé les téléphones et l'internet avant une restauration progressive en début novembre. Les parents ont exprimé leur frustration face au manque de transparence de la part du district scolaire. Les causes de la perturbation et les conséquences sur les données personnelles restent inconnues.",
+        "title": "Carlsbad, N.M., schools hit by cyber incident in late Oct.",
+        "url": "https://dysruptionhub.com/carlsbad-nm-schools-cyber-incident/",
+        "added": "2025-11-24"
+    },
+    {
         "date": "2025-11-01",
         "victim": "OnSolve",
         "domain": "onsolve.com",
