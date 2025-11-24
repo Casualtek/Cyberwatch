@@ -1,5 +1,15 @@
 [
     {
+        "date": "2025-11-21",
+        "victim": "Milwaukee Police Department",
+        "domain": "milwaukee.gov",
+        "country": "USA",
+        "summary": "Le département de police de Milwaukee a subi un incident cybernétique qui a touché l'unité High Intensity Drug Trafficking Areas, une source a indiqué à la presse locale, marquant le dernier d'une décennie de problèmes de cybersécurité pour l'agence. L'incident a affecté les systèmes de l'unité, mais il n'est pas clair si du ransomware est impliqué ou si des données ont été volées. Le département de police de Milwaukee a déjà été la cible d'attaques cybernétiques par le passé, notamment en 2014 et 2015.",
+        "title": "Milwaukee police drug unit hit by cyber incident",
+        "url": "https://dysruptionhub.com/milwaukee-police-cyber-incident-2025/",
+        "added": "2025-11-24"
+    },
+    {
         "date": "2024-10-30",
         "victim": "Carlsbad Municipal Schools",
         "domain": "carlsbadschools.net",
