@@ -1,5 +1,26 @@
 [
     {
+        "victim": "Swedish Arts Council",
+        "domain": "kulturradet.se",
+        "country": "SE",
+        "date": "2025-10-31",
+        "group": "ransomhub"
+    },
+    {
+        "victim": "Fucerep",
+        "domain": "fucerep.com.uy",
+        "country": "UY",
+        "date": "2025-10-14",
+        "group": "ransomhub"
+    },
+    {
+        "victim": "Hall Estill",
+        "domain": "hallestill.com",
+        "country": "US",
+        "date": "2025-06-18",
+        "group": "SilentRansomGroup"
+    },
+    {
         "victim": "Confie",
         "domain": "confie.com",
         "country": "US",
