@@ -1,6 +1,16 @@
 [
     {
         "date": "2025-11-24",
+        "victim": "Win Win Precision Technology Co., Ltd",
+        "domain": "winning.com.tw",
+        "country": "TWN",
+        "summary": "Win Win Precision Technology a subi une attaque de hackers qui ont infiltré une partie de ses serveurs, entraînant une interruption temporaire du système. L'entreprise a activé ses mécanismes de défense et de récupération, et a engagé des experts pour aider à l'enquête et à la remédiation. L'incident n'a pas eu d'impact significatif sur les opérations de l'entreprise.",
+        "title": "Today's Information",
+        "url": "https://emops.twse.com.tw/server-java/t05sr01_1_e?&isNew=Y&seq_no=1&spoke_time=171755&spoke_date=20251124&co_id=4949",
+        "added": "2025-11-25"
+    },
+    {
+        "date": "2025-11-24",
         "victim": "Hochschule Mainz",
         "domain": "hs-mainz.de",
         "country": "DEU",
