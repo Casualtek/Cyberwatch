@@ -1,5 +1,15 @@
 [
     {
+        "date": "2025-05-22",
+        "victim": "Davies, McFarland & Carroll",
+        "domain": "dmcpc.com",
+        "country": "USA",
+        "summary": "Davies, McFarland & Carroll experienced a data security incident where an unauthorized party obtained access to their internal network, potentially exposing certain files containing personal information between May 19, 2025, and May 22, 2025. A cyberattack against Davies, McFarland & Carroll was claimed by Lynx on June 5.",
+        "title": "Data Breach Notification",
+        "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/adab4e5e-168b-46e6-a4ed-5c6b84361810.html",
+        "added": "2025-11-25"
+    },
+    {
         "date": "2025-07-28",
         "victim": "Ahtna, Inc.",
         "domain": "ahtna.com",
