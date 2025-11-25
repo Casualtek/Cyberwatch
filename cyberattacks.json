@@ -1,5 +1,25 @@
 [
     {
+        "date": "2025-07-28",
+        "victim": "Echo",
+        "domain": "echonewyork.com",
+        "country": "USA",
+        "summary": "The Echo Design Group, Inc. suffered a data breach between July 25, 2025, and July 28, 2025, resulting in unauthorized access to human resources and accounting documents. The breach was discovered on July 28, 2025. A cyberattack against Echo was claimed by Akira on August 27.",
+        "title": "2025-11-21 The Echo Design Group Data Breach Notice to Consumers",
+        "url": "https://ago.vermont.gov/document/2025-11-21-echo-design-group-data-breach-notice-consumers",
+        "added": "2025-11-25"
+    },
+    {
+        "date": "2025-08-01",
+        "victim": "Harbor",
+        "domain": "harbor.org",
+        "country": "USA",
+        "summary": "Harbor suffered a data breach between July 25, 2025, and August 1, 2025, resulting in unauthorized access to sensitive information. The breach may have involved personal data such as names, addresses, dates of birth, Social Security numbers, and medical information. Harbor is providing credit monitoring services to affected individuals.",
+        "title": "Data Breach Notification",
+        "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/44f9f1db-7a31-452c-8a6e-5651aa35d979.html",
+        "added": "2025-10-25"
+    },
+    {
         "date": "2025-05-22",
         "victim": "Davies, McFarland & Carroll",
         "domain": "dmcpc.com",
