@@ -1,5 +1,15 @@
 [
     {
+        "date": "2025-11-23",
+        "victim": "Jackson County Public Schools",
+        "domain": "jcpsnc.org",
+        "country": "USA",
+        "summary": "Les écoles publiques du comté de Jackson ont été fermées mardi en raison d'une cyberattaque qui a désactivé les systèmes technologiques critiques, mais aucune donnée d'étudiant ou de personnel n'a été compromise. L'attaque a été qualifiée de réflexion DDoS et les responsables pensent que le comté n'était pas la cible principale. Les écoles devraient rouvrir lundi une fois que tous les systèmes seront pleinement restaurés.",
+        "title": "No data breach detected after cyberattack forced Jackson County schools to close Tuesday",
+        "url": "https://wlos.com/news/local/no-data-breach-detected-accessed-district-technology-system-cyberattack-forced-jackson-county-public-schools-close-tuesday-november-25-weekend-it-team-network-errors",
+        "added": "2025-11-26"
+    },
+    {
         "date": "2025-11-24",
         "victim": "Milano Ristorazione",
         "domain": "milanoristorazione.it",
