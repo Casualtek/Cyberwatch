@@ -1,5 +1,15 @@
 [
     {
+        "date": "2025-11-19",
+        "victim": "Istituto comprensivo di Cavaglià",
+        "domain": "istitutocomprensivo-cavaglia.edu.it",
+        "country": "ITA",
+        "summary": "Un groupe de hackers a tenté d'attaquer l'istituto comprensivo de Cavaglià, mais l'attaque a été découverte à temps grâce à l'intervention de la société Sosmu, spécialisée dans la cybersécurité, et les données de l'école ont été sauvegardées. L'attaque avait été programmée pour la journée de vendredi et avait été annoncée sur le dark web. Les responsables de l'attaque sont encore inconnus, mais la direction de l'école a signalé l'incident à la police postale et des télécommunications.",
+        "title": "Clamoroso attacco degli hacker alla scuola di Cavaglià",
+        "url": "https://laprovinciadibiella.it/basso-biellese/clamoroso-attacco-degli-hacker-alla-scuola-di-cavaglia/",
+        "added": "2025-11-26"
+    },
+    {
         "date": "2025-11-23",
         "victim": "Jackson County Public Schools",
         "domain": "jcpsnc.org",
