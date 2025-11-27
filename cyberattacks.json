@@ -1,5 +1,15 @@
 [
     {
+        "date": "2025-11-23",
+        "victim": "Urbana, Ohio",
+        "domain": "urbanaohio.com",
+        "country": "USA",
+        "summary": "La ville d'Urbana dans l'Ohio a subi une attaque informatique le 23 novembre, qui a perturbé plusieurs systèmes informatiques municipaux, mais les services de police, d'incendie, de travaux publics, de justice et de réponse d'urgence continuent de fonctionner. Les autorités ont indiqué qu'il n'y a actuellement aucune preuve que des informations sensibles aient été divulguées et que les informations des résidents n'ont pas été compromises. L'enquête est toujours en cours.",
+        "title": "Urbana, Ohio says cyberattack disrupted city systems",
+        "url": "https://dysruptionhub.com/urbana-ohio-cyberattack-city-systems/",
+        "added": "2025-11-27"
+    },
+    {
         "date": "2025-11-19",
         "victim": "Istituto comprensivo di Cavaglià",
         "domain": "istitutocomprensivo-cavaglia.edu.it",
@@ -7,16 +17,6 @@
         "summary": "Un groupe de hackers a tenté d'attaquer l'istituto comprensivo de Cavaglià, mais l'attaque a été découverte à temps grâce à l'intervention de la société Sosmu, spécialisée dans la cybersécurité, et les données de l'école ont été sauvegardées. L'attaque avait été programmée pour la journée de vendredi et avait été annoncée sur le dark web. Les responsables de l'attaque sont encore inconnus, mais la direction de l'école a signalé l'incident à la police postale et des télécommunications.",
         "title": "Clamoroso attacco degli hacker alla scuola di Cavaglià",
         "url": "https://laprovinciadibiella.it/basso-biellese/clamoroso-attacco-degli-hacker-alla-scuola-di-cavaglia/",
-        "added": "2025-11-26"
-    },
-    {
-        "date": "2025-11-23",
-        "victim": "Jackson County Public Schools",
-        "domain": "jcpsnc.org",
-        "country": "USA",
-        "summary": "Les écoles publiques du comté de Jackson ont été fermées mardi en raison d'une cyberattaque qui a désactivé les systèmes technologiques critiques, mais aucune donnée d'étudiant ou de personnel n'a été compromise. L'attaque a été qualifiée de réflexion DDoS et les responsables pensent que le comté n'était pas la cible principale. Les écoles devraient rouvrir lundi une fois que tous les systèmes seront pleinement restaurés.",
-        "title": "No data breach detected after cyberattack forced Jackson County schools to close Tuesday",
-        "url": "https://wlos.com/news/local/no-data-breach-detected-accessed-district-technology-system-cyberattack-forced-jackson-county-public-schools-close-tuesday-november-25-weekend-it-team-network-errors",
         "added": "2025-11-26"
     },
     {
