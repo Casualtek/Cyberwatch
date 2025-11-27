@@ -1,5 +1,15 @@
 [
     {
+        "date": "2025-11-25",
+        "victim": "YAC GARTER CO., LTD.",
+        "domain": "garter.co.jp",
+        "country": "JPN",
+        "summary": "Y.A.C. Holdings Co., Ltd. annonce qu’une filiale consolidée, YAC GARTER CO., LTD., a subi une attaque par ransomware sur ses serveurs internes à la suite d’un accès non autorisé détecté le 25 novembre 2025. Les serveurs touchés ont été isolés, une enquête technique détaillée est en cours avec des experts externes, et aucune fuite de données personnelles, clients ou informations confidentielles n’a été confirmée à ce stade. La société estime que l’impact de cet incident sur ses résultats consolidés pour l’exercice 2025 sera limité, tout en s’engageant à communiquer rapidement toute évolution nécessitant une nouvelle information.",
+        "title": "Notice of Ransomware Incident at Consolidated Subsidiary",
+        "url": "https://www.yac.co.jp/en/ir/news/auto_20251126509739/pdfFile.pdf",
+        "added": "2025-11-27"
+    },
+    {
         "date": "2025-11-23",
         "victim": "Urbana, Ohio",
         "domain": "urbanaohio.com",
