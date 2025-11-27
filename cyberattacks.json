@@ -1,5 +1,15 @@
 [
     {
+        "date": "2025-07-21",
+        "victim": "JASCO Applied Sciences",
+        "domain": "jasco.com",
+        "country": "CAN",
+        "summary": "JASCO Applied Sciences suffered a data breach after an unauthorized party gained access to their network, resulting in the acquisition of personal information. The breach was discovered on July 21, 2025, and around October 20, it was established that that some personal information had been acquired. A cyberattack against JASCO Applied Sciences was claimed by Rhysida on October 7.",
+        "title": "Data Breach Notification",
+        "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/ef689f23-295d-483a-9e46-01d349345bf2.html",
+        "added": "2025-11-27"
+    },
+    {
         "date": "2025-05-26",
         "victim": "Tami J. Dunham, CPA",
         "domain": "tdunhamcpa.com",
