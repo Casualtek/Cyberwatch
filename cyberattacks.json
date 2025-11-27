@@ -1,5 +1,45 @@
 [
     {
+        "date": "2025-08-31",
+        "victim": "BARTEK",
+        "domain": "bartek.ca",
+        "country": "CAN",
+        "summary": "BARTEK experienced a cyber security incident where a third party compromised some of their data, potentially affecting personal information including names, social security numbers, and earning statements. A cyberattack against Bartek was claimed by INC Ransom on September 2.",
+        "title": "2025-11-25 Barktek Ingredients Data Breach Notice to Consumers",
+        "url": "https://ago.vermont.gov/document/2025-11-25-barktek-ingredients-data-breach-notice-consumers",
+        "added": "2025-11-27"
+    },
+    {
+        "date": "2025-09-09",
+        "victim": "Trailer Transit",
+        "domain": "trailertransit.com",
+        "country": "USA",
+        "summary": "Trailer Transit suffered a data breach in September 2025, where unauthorized parties accessed internal systems and stole personal information. The breach was discovered on November 21, 2025, and affected personal data including names, dates of birth, addresses, email addresses, phone numbers, and social security numbers. Trailer Transit has implemented additional security measures and is offering free credit monitoring services to affected individuals.",
+        "title": "2025-11-25 Trailer Transit Data Breach Notice to Consumers",
+        "url": "https://ago.vermont.gov/document/2025-11-25-trailer-transit-data-breach-notice-consumers",
+        "added": "2025-11-27"
+    },
+    {
+        "date": "2025-09-28",
+        "victim": "Conway-Phillips Holding, LLC dba Phillips Tank & Structure",
+        "domain": "phillipstank.com",
+        "country": "USA",
+        "summary": "Le 28 septembre 2025, une activité potentiellement suspecte a été détectée sur une partie limitée du réseau informatique. Une enquête avec des spécialistes externes a été immédiatement lancée. Elle a révélé que certains fichiers avaient pu être consultés sans autorisation entre le 26 et le 28 septembre 2025. Les fichiers concernés ont ensuite été examinés pour identifier les informations qu’ils contenaient et les personnes touchées.",
+        "title": "2025-11-24 Conway-Phillips Holding, LLC dba Phillips Tank & Structure Data Breach Notice to Consumers",
+        "url": "https://ago.vermont.gov/document/2025-11-24-conway-phillips-holding-llc-dba-phillips-tank-structure-data-breach-notice-consumers",
+        "added": "2025-11-27"
+    },
+    {
+        "date": "2025-08-14",
+        "victim": "Marquis Software Solutions",
+        "domain": "gomarquis.com",
+        "country": "USA",
+        "summary": "Marquis Software Solutions experienced a data security incident where an unauthorized third party accessed their network and may have accessed and acquired certain files. The incident was limited to Marquis' environment, and the company has no evidence of the misuse of personal information. The company is offering complimentary credit monitoring to affected individuals.",
+        "title": "Data Breach Notification",
+        "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/8d079ab1-8c27-4b0c-abca-1bc24ece2b21.html",
+        "added": "2025-11-27"
+    },
+    {
         "date": "2025-07-21",
         "victim": "JASCO Applied Sciences",
         "domain": "jasco.com",
