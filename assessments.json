@@ -1,5 +1,19 @@
 [
     {
+        "victim": "farmerbros.com",
+        "domain": "farmerbros.com",
+        "country": "US",
+        "date": "2025-02-25",
+        "group": "chaos"
+    },
+    {
+        "victim": "goosehead.com",
+        "domain": "goosehead.com",
+        "country": "US",
+        "date": "2025-03-15",
+        "group": "chaos"
+    },
+    {
         "victim": "www.msssolutions.com",
         "domain": "msssolutions.com",
         "country": "US",
