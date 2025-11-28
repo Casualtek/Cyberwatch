@@ -1,5 +1,15 @@
 [
     {
+        "date": "2025-11-10",
+        "victim": "Golf Manor",
+        "domain": "golfmanoroh.gov",
+        "country": "USA",
+        "summary": "La ville de Golf Manor, dans l'Ohio, a été victime d'une attaque de ransomware qui a chiffré son réseau informatique et ses sauvegardes. Les autorités n'ont pas encore approuvé le paiement d'une rançon et attendent des conseils d'experts. L'incident a eu lieu récemment, mais la date exacte n'a pas été communiquée.",
+        "title": "Ransomware breach hits village of Golf Manor, Ohio",
+        "url": "https://dysruptionhub.com/golf-manor-ohio-ransomware-breach/",
+        "added": "2025-11-28"
+    },
+    {
         "date": "2025-08-31",
         "victim": "BARTEK",
         "domain": "bartek.ca",
