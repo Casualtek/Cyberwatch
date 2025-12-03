@@ -1,5 +1,15 @@
 [
     {
+        "date": "2025-10-15",
+        "victim": "Rochester Philharmonic Orchestra",
+        "domain": "rpo.org",
+        "country": "USA",
+        "summary": "Le Rochester Philharmonic Orchestra a subi une attaque informatique en octobre, mais les opérations normales ont repris après la résolution des problèmes de réseau. Les données de transactions des donateurs et des spectateurs n'ont pas été affectées, mais l'enquête se poursuit pour déterminer si d'autres données sensibles ont été touchées. L'orchestre a mis en place des mesures de sécurité pour limiter l'impact de l'incident, qui a été revendiqué le 25 novembre par Akira.",
+        "title": "Rochester Philharmonic Orchestra: Normal operations resumed after cyber attack",
+        "url": "https://13wham.com/news/local/rochester-philharmonic-orchestra-normal-operations-resumed-after-cyber-attack",
+        "added": "2025-12-03"
+    },
+    {
         "date": "2025-11-28",
         "victim": "Truenorth Corporation",
         "domain": "truenorthcorporation.com",
