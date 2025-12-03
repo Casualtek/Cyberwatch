@@ -1,5 +1,15 @@
 [
     {
+        "date": "2025-12-02",
+        "victim": "Ministerstvo hospodárstva SR",
+        "domain": "gov.sk",
+        "country": "SVK",
+        "summary": "La ministre Samuel Migaľ a annoncé que l'unité gouvernementale de cybersécurité CSIRT intervient au ministère de l'économie de la République slovaque en raison d'une attaque contre les serveurs. Les détails ne peuvent pas être divulgués pour ne pas compromettre l'enquête. L'unité CSIRT est une équipe de réponse aux incidents de sécurité informatique créée pour résoudre les incidents de sécurité informatique en Slovaquie.",
+        "title": "Poplach na ministerstve! Migaľ potvrdil kybernetický útok",
+        "url": "https://koktejl.azet.sk/clanok/YLgOVSc/poplach-na-ministerstve-migal-potvrdil-kyberneticky-utok/",
+        "added": "2025-12-03"
+    },
+    {
         "date": "2025-11-30",
         "victim": "GS-facket",
         "domain": "gsfacket.se",
