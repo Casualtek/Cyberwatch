@@ -1,5 +1,15 @@
 [
     {
+        "date": "2025-11-28",
+        "victim": "NCFE",
+        "domain": "ncfe.org.uk",
+        "country": "GBR",
+        "summary": "L'organisation NCFE a subi une attaque de cybersécurité, ce qui a entraîné une interruption de ses systèmes et de ses services. Les équipes de NCFE travaillent pour résoudre le problème et rétablir les services dès que possible. Les évaluations et les résultats sont affectés, mais les équipes de NCFE s'efforcent de minimiser les retards et les inconvénients.",
+        "title": "What can we help you find?",
+        "url": "https://www.ncfe.org.uk/servicecontinuity/",
+        "added": "2025-12-03"
+    },
+    {
         "date": "2025-12-02",
         "victim": "Ministerstvo hospodárstva SR",
         "domain": "gov.sk",
