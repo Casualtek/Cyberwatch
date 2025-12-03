@@ -1,10 +1,20 @@
 [
     {
         "date": "2025-11-28",
+        "victim": "Truenorth Corporation",
+        "domain": "truenorthcorporation.com",
+        "country": "PRI",
+        "summary": "Truenorth Corporation, une entreprise qui fournit des services de technologie à 14 agences gouvernementales, a subi une attaque cybernétique pendant la semaine de l'Action de Gracias, affectant le Département de l'Éducation, l'Administration des assurances de santé et la Corporation du fonds d'assurance de l'État. L'attaque n'a pas eu de conséquences majeures et les pirates n'ont pas pu accéder aux bases de données des agences affectées. Les services de l'entreprise de technologie PRITS ont aidé à stopper l'attaque.",
+        "title": "Tres agencias afectadas por ataque cibernético en semana de Acción de Gracias",
+        "url": "https://www.primerahora.com/noticias/gobierno-politica/notas/tres-agencias-afectadas-por-ataque-cibernetico-en-semana-de-accion-de-gracias/",
+        "added": "2025-12-03"
+    },
+    {
+        "date": "2025-11-28",
         "victim": "NCFE",
         "domain": "ncfe.org.uk",
         "country": "GBR",
-        "summary": "L'organisation NCFE a subi une attaque de cybersécurité, ce qui a entraîné une interruption de ses systèmes et de ses services. Les équipes de NCFE travaillent pour résoudre le problème et rétablir les services dès que possible. Les évaluations et les résultats sont affectés, mais les équipes de NCFE s'efforcent de minimiser les retards et les inconvénients.",
+        "summary": "L'organisation NCFE a subi une attaque de cybersécurité, ce qui a entraîné une interruption de ses systèmes et de ses services. Les équipes de NCFE travaillent pour résoudre le problème et rétablir les services dès que possible. Les évaluations et les résultats sont affectés, mais les équipes de NCFE s'efforcent de minimiser les retards et les inconvénients. (via eCrime.ch)",
         "title": "What can we help you find?",
         "url": "https://www.ncfe.org.uk/servicecontinuity/",
         "added": "2025-12-03"
