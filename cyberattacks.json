@@ -1,6 +1,16 @@
 [
     {
-        "date": "2025-12-04",
+        "date": "2025-07-30",
+        "victim": "Catholic Charities of the Diocese of Albany",
+        "domain": "ccrcda.org",
+        "country": "USA",
+        "summary": "Catholic Charities of the Diocese of Albany suffered a data breach due to unauthorized access to their network between March 29, 2025, and July 31, 2025. The breach may have involved names and other personal data. A cyberattack against the Catholic Charities of the Diocese of Albany was claimed by Pear on September 14.",
+        "title": "2025-11-26 Catholic Charities of the Diocese of Albany Data Breach Notice to Consumers",
+        "url": "https://ago.vermont.gov/document/2025-11-26-catholic-charities-diocese-albany-data-breach-notice-consumers",
+        "added": "2025-12-04"
+    },
+    {
+        "date": "2025-12-02",
         "victim": "Dealerholding Van Mossel",
         "domain": "vanmossel.nl",
         "country": "NLD",
