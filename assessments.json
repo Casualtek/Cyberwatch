@@ -1,5 +1,68 @@
 [
     {
+        "victim": "Manesa",
+        "domain": "manesa.com",
+        "country": "MX",
+        "date": "2025-07-25",
+        "group": "incransom"
+    },
+    {
+        "victim": "Netstar_South_Africa",
+        "domain": "netstar.co.za",
+        "country": "ZA",
+        "date": "2025-07-01",
+        "group": "incransom"
+    },
+    {
+        "victim": "Benedict Industries",
+        "domain": "benedict.com.au",
+        "country": "AU",
+        "date": "2025-08-29",
+        "group": "incransom"
+    },
+    {
+        "victim": "lindenlaw.com",
+        "domain": "lindenlaw.com",
+        "country": "US",
+        "date": "2025-08-13",
+        "group": "incransom"
+    },
+    {
+        "victim": "Sementes Jotabasso",
+        "domain": "jotabasso.com.br",
+        "country": "BR",
+        "date": "2025-06-15",
+        "group": "incransom"
+    },
+    {
+        "victim": "omegabiotek.com",
+        "domain": "omegabiotek.com",
+        "country": "US",
+        "date": "2025-08-01",
+        "group": "incransom"
+    },
+    {
+        "victim": "alpha-steuer.de",
+        "domain": "alpha-steuer.de",
+        "country": "DE",
+        "date": "2025-03-31",
+        "group": "incransom"
+    },
+    {
+        "victim": "arkansasprimarycare.com",
+        "domain": "arkansasprimarycare.com",
+        "country": "US",
+        "date": "2025-03-21",
+        "group": "incransom"
+    },
+    {
+        "victim": "Jordan Drug",
+        "domain": "jordandrug.com",
+        "country": "US",
+        "date": "2025-05-16",
+        "group": "incransom"
+    },
+    {
         "victim": "Aluf Plastics",
         "domain": "alufplastics.com",
         "country": "US",
