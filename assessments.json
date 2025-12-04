@@ -1,5 +1,12 @@
 [
     {
+        "victim": "Astrofein",
+        "domain": "astrofein.com",
+        "country": "DE",
+        "date": "2025-11-07",
+        "group": "ransomhouse"
+    },
+    {
         "victim": "Applied Energy Systems",
         "domain": "appliedenergysystems.com",
         "country": "US",
