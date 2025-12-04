@@ -1,5 +1,25 @@
 [
     {
+        "date": "2025-09-21",
+        "victim": "Waterborne Environmental, Inc.",
+        "domain": "waterborne-env.com",
+        "country": "USA",
+        "summary": "Waterborne Environmental, Inc. suffered a ransomware attack on September 21, 2025, which may have exposed personal information of its customers, including names, dates of birth, addresses, driver's license numbers, Social Security numbers, passport numbers, and benefits information. An attack against Waterborne Environmental was claimed by Play on October 3.",
+        "title": "2025-11-26 Waterborne Environmental Data Breach Notice to Consumers",
+        "url": "https://ago.vermont.gov/document/2025-11-26-waterborne-environmental-data-breach-notice-consumers",
+        "added": "2025-12-04"
+    },
+    {
+        "date": "2025-07-22",
+        "victim": "Gap International, Inc.",
+        "domain": "gapinternational.com",
+        "country": "USA",
+        "summary": "Gap International, Inc. experienced a network disruption on July 22, 2025, which led to unauthorized access to certain files containing personal information. The affected data included names, Social Security numbers, driver's license or state ID numbers, medical information, and health insurance information. The company has taken steps to enhance security and provide credit monitoring services to affected individuals.",
+        "title": "2025-11-28 Gap International Data Breach Notice to Consumers",
+        "url": "https://ago.vermont.gov/document/2025-11-28-gap-international-data-breach-notice-consumers",
+        "added": "2025-12-04"
+    },
+    {
         "date": "2025-07-30",
         "victim": "Catholic Charities of the Diocese of Albany",
         "domain": "ccrcda.org",
