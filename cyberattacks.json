@@ -1,5 +1,15 @@
 [
     {
+        "date": "2025-11-23",
+        "victim": "Gepa",
+        "domain": "gepa.de",
+        "country": "DEU",
+        "summary": "Fin novembre, l’entreprise de commerce équitable GEPA à Wuppertal a subi une cyberattaque de type ransomware qui a paralysé son entrepôt, ses livraisons et ses réseaux locaux, chiffrant des données et provoquant un quasi-arrêt d’une semaine en pleine saison de Noël. L'entreprise indique que l’attaque était motivée par l’extorsion. Elle refusé de céder et a presque rétabli la logistique à pleine capacité. Mais elle doit rattraper cinq jours ouvrés perdus, ce qui est particulièrement difficile pour des produits sensibles au temps comme les calendriers de l’Avent.",
+        "title": "Forbidden",
+        "url": "https://taz.de/Cyberangriff-auf-Gepa/",
+        "added": "2025-12-04"
+    },
+    {
         "date": "2025-09-19",
         "victim": "Dermatology Associates of Concord",
         "domain": "totalskinhealth.com",
