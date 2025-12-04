@@ -1,5 +1,15 @@
 [
     {
+        "date": "2025-08-26",
+        "victim": "Blytheco, Inc.",
+        "domain": "blytheco.com",
+        "country": "USA",
+        "summary": "Blytheco, Inc. experienced a network security incident where an unauthorized third-party accessed their network environment, potentially exposing personal information. The incident occurred on or about August 26, 2025, and a data file of potentially impacted individuals was finalized on November 7, 2025. An attack against Blytheco was claimed by Qilin on September 3.",
+        "title": "Data Breach Notification",
+        "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/2bbea054-30bb-4243-a4d3-4fdc2c78fbc7.html",
+        "added": "2025-12-04"
+    },
+    {
         "date": "2025-09-21",
         "victim": "Waterborne Environmental, Inc.",
         "domain": "waterborne-env.com",
