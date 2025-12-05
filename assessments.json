@@ -1,5 +1,12 @@
 [
     {
+        "victim": "EnQuest",
+        "domain": "enquest.com",
+        "country": "GB",
+        "date": "2025-10-21",
+        "group": "tridentlocker"
+    },
+    {
         "victim": "calmec",
         "domain": "calmec.com",
         "country": "US",
