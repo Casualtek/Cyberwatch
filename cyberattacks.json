@@ -1,5 +1,15 @@
 [
     {
+        "date": "2025-09-04",
+        "victim": "Barr and Barr",
+        "domain": "barrandbarr.com",
+        "country": "USA",
+        "summary": "Barr & Barr suffered a data breach where unknown actors accessed their computer network on September 4, 2025, and copied files containing personal information of 62 Maine residents. A cyberattack against Barr & Barr was claimed by Akira on October 10.",
+        "title": "Data Breach Notification",
+        "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/03ea62a4-21c1-46ee-bb2c-0fec4fdd2f6e.html",
+        "added": "2025-12-05"
+    },
+    {
         "date": "2025-11-23",
         "victim": "Gepa",
         "domain": "gepa.de",
@@ -8860,16 +8870,6 @@
         "added": "2025-05-13"
     },
     {
-        "date": "2025-02-19",
-        "victim": "Raymond Ltd",
-        "domain": "raymond.in",
-        "country": "IND",
-        "summary": "Raymond Ltd a signalé un incident de cybersécurité qui a affecté certains de ses actifs informatiques, mais n'a pas impacté ses systèmes et opérations principaux. L'incident n'a pas non plus affecté les opérations des clients et des magasins. L'entreprise a pris des mesures pour atténuer l'impact de l'incident et mène une enquête pour déterminer les causes.",
-        "title": "Raymond reports cyber security incident, IT assets affected - The Economic Times",
-        "url": "https://economictimes.indiatimes.com/tech/technology/raymond-reports-cyber-security-incident-affecting-some-of-its-it-assets/articleshow/118382291.cms",
-        "added": "2025-05-12"
-    },
-    {
         "date": "2025-05-05",
         "victim": "Global Crossing Airlines Group Inc.",
         "domain": "globalxair.com",
@@ -10988,16 +10988,6 @@
         "title": "Cyberangriff auf Spar: Bestellungen und Kartenzahlung lahmgelegt - Blick",
         "url": "https://www.blick.ch/wirtschaft/kartenzahlungen-funktionieren-nicht-lieferprobleme-drohen-cyberangriff-legt-spar-filialen-lahm-id20682194.html",
         "added": "2025-03-15"
-    },
-    {
-        "date": "2023-02-19",
-        "victim": "Raymond Limited",
-        "domain": "raymond.in",
-        "country": "IND",
-        "summary": "Le groupe textile et d'habillement Raymond Limited a été victime d'une cyberattaque le 19 février, mais a réussi à isoler les systèmes affectés pour éviter tout dysfonctionnement de ses opérations commerciales. Les équipes de sécurité de l'entreprise et les autorités indiennes enquêtent sur l'incident pour déterminer les points d'entrée, la durée et les risques d'exposition de données. La société a notifié les régulateurs et les investisseurs conformément aux réglementations de cybersécurité indiennes.",
-        "title": "Cyber Attack at Raymond: IT Teams, Authorities Probe Massive Breach - The420.in",
-        "url": "https://www.the420.in/cyber-attack-at-raymond-it-teams-authorities-probe-massive-breach/",
-        "added": "2025-03-14"
     },
     {
         "date": "2025-03-11",
