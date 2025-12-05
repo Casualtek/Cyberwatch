@@ -1,5 +1,61 @@
 [
     {
+        "victim": "eakas.com",
+        "domain": "eakas.com",
+        "country": "US",
+        "date": "2025-10-13",
+        "group": "incransom"
+    },
+    {
+        "victim": "bridge-housing-corp",
+        "domain": "bridgehousing.com",
+        "country": "US",
+        "date": "2025-09-23",
+        "group": "incransom"
+    },
+    {
+        "victim": "KohaFoods Hawaii",
+        "domain": "kohafoods.com",
+        "country": "US",
+        "date": "2025-09-17",
+        "group": "incransom"
+    },
+    {
+        "victim": "Grupo Via Argentina",
+        "domain": "grupovia.com",
+        "country": "AR",
+        "date": "2025-09-05",
+        "group": "incransom"
+    },
+    {
+        "victim": "galileo.it",
+        "domain": "galileo.it",
+        "country": "IT",
+        "date": "2025-09-12",
+        "group": "incransom"
+    },
+    {
+        "victim": "Znojma Czechia",
+        "domain": "znojmo.cz",
+        "country": "CZ",
+        "date": "2025-09-22",
+        "group": "incransom"
+    },
+    {
+        "victim": "Chapter 13 Texas",
+        "domain": "planoch13.com",
+        "country": "US",
+        "date": "2025-08-29",
+        "group": "incransom"
+    },
+    {
+        "victim": "Community Unit School District 201",
+        "domain": "cusd201-org",
+        "country": "US",
+        "date": "2025-10-08",
+        "group": "incransom"
+    },
+    {
         "victim": "South Island Public Service District",
         "domain": "sipsd.com",
         "country": "US",
