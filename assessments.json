@@ -1,5 +1,12 @@
 [
     {
+        "victim": "asiawba",
+        "domain": "asiawba.com",
+        "country": "KR",
+        "date": "2025-11-05",
+        "group": "tridentlocker"
+    },
+    {
         "victim": "Tom Duffy Company",
         "domain": "tomduffy.com",
         "country": "US",
