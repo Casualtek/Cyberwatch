@@ -1,5 +1,12 @@
 [
     {
+        "victim": "IQS",
+        "domain": "iqs.com",
+        "country": "US",
+        "date": "2025-11-13",
+        "group": "tridentlocker"
+    },
+    {
         "victim": "LMG Holdings",
         "domain": "lmgholdings.com",
         "country": "US",
