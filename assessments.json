@@ -1,5 +1,12 @@
 [
     {
+        "victim": "Sentinel Systems",
+        "domain": "sentinelsystems.com",
+        "country": "US",
+        "date": "2024-12-06",
+        "group": "lynx"
+    },
+    {
         "victim": "Xepa Soul",
         "domain": "xepasp.com",
         "country": "SG",
