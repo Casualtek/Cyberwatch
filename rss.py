@@ -6,16 +6,16 @@ import base64
 import functools
 import re
 import hashlib
-import openai
 import os
 import time
 import uuid
 from feedgen.feed import FeedGenerator
 from datetime import datetime
+from openai import OpenAI
 
 # Constants
 openai.api_key = os.environ['OPENAI_API_KEY']
-gpt_model      = 'gpt-4o'
+gpt_model      = 'gpt-5.1'
 ATRANS_API_KEY = os.environ['ATRANS_API_KEY']
 SEEN_ITEMS_FILE = './seen_items.txt'
 
@@ -135,21 +135,24 @@ def mark_item_seen(item_hash):
         file.write(item_hash + '\n')
 
 def ask_chatgpt(news_title):
+    client = OpenAI()
     today  = datetime.now()
     messages = [
-        {'role': 'system', 'content': 'Tu es un journaliste technique, spécialisé dans l\'informatique professionnelle, et en particulier la cybersécurité. L’une de tes missions consiste à produire une revue de presse des cyberattaques rapportées à travers le monde, dans les médias. Tu dois évaluer des titres d’articles et dire si, selon toi, le titre suggère que l’article parle vraisemblement d’une véritable cyberattaque (qu’elle soit avérée ou soupçonnée) ou pas, et surtout pas une statistique, un produit, ni une étude de marché. Pour chaque titre évalué, tu ne peux répondre que par “likely”, “unlikely”, “no”. Date d’aujourd’hui: '+today.strftime('%Y-%m-%d')+'.'},
+        {'role': 'system', 'content': 'Tu es un journaliste technique, spécialisé dans l\'informatique professionnelle, et en particulier la cybersécurité. Ta mission consiste à produire une revue de presse des cyberattaques rapportées à travers le monde, dans les médias. Tu dois évaluer des titres d’articles et dire si, selon toi, le titre suggère que l’article parle vraisemblement d’une véritable cyberattaque (qu’elle soit avérée ou soupçonnée) ou pas, et surtout pas une statistique, un produit, ni une étude de marché. Pour chaque titre évalué, tu ne peux répondre que par “likely”, “unlikely”, “no”. Date d’aujourd’hui: '+today.strftime('%Y-%m-%d')+'.'},
         {'role': 'user', 'content': news_title}
     ]
 
-    completion = openai.chat.completions.create(
+    reasoning={
+        'effort': 'low'
+    }
+    response = client.responses.create(
         model=gpt_model,
-        messages=messages,
-        max_tokens=5,
-        n=1,
-        temperature=0.1,
+        reasoning=reasoning,
+        input=messages,
+        max_output_tokens=1,
     )
     time.sleep(2)
-    assessment = completion.choices[0].message.content
+    assessment = response.output_text
     
     return assessment
 
