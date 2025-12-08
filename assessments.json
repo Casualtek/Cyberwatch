@@ -1,5 +1,33 @@
 [
     {
+        "victim": "salamanderresort.com",
+        "domain": "salamanderresort.com",
+        "country": "US",
+        "date": "2025-07-10",
+        "group": "lynx"
+    },
+    {
+        "victim": "Autoschade Pippel",
+        "domain": "autoschadepippel.com",
+        "country": "NL",
+        "date": "2025-01-13",
+        "group": "lynx"
+    },
+    {
+        "victim": "Jacobs & Thompson",
+        "domain": "jacobsandthompson.com",
+        "country": "CA",
+        "date": "2024-12-20",
+        "group": "lynx"
+    },
+    {
+        "victim": "Model Die & Mold",
+        "domain": "modeldie.com",
+        "country": "US",
+        "date": "2024-10-04",
+        "group": "lynx"
+    },
+    {
         "victim": "Sally B Gold",
         "domain": "sallybgoldlaw.com",
         "country": "US",
