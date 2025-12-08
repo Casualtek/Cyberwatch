@@ -14,7 +14,7 @@ from datetime import datetime
 from openai import OpenAI
 
 # Constants
-openai.api_key = os.environ['OPENAI_API_KEY']
+#openai.api_key = os.environ['OPENAI_API_KEY']
 gpt_model      = 'gpt-5.1'
 ATRANS_API_KEY = os.environ['ATRANS_API_KEY']
 SEEN_ITEMS_FILE = './seen_items.txt'
