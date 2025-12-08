@@ -1,5 +1,40 @@
 [
     {
+        "victim": "Maruichi Leavitt Pipe & Tube",
+        "domain": "maruichileavitt.com",
+        "country": "US",
+        "date": "2025-04-04",
+        "group": "lynx"
+    },
+    {
+        "victim": "Nash Brothers Construction (nashdom.local)",
+        "domain": "nashbrothers.com",
+        "country": "US",
+        "date": "2024-12-10",
+        "group": "lynx"
+    },
+    {
+        "victim": "Confartigianato Imprese",
+        "domain": "confartigianato.it",
+        "country": "IT",
+        "date": "2025-07-03",
+        "group": "lynx"
+    },
+    {
+        "victim": "LifeMine",
+        "domain": "lifeminetx.com",
+        "country": "US",
+        "date": "2024-09-16",
+        "group": "lynx"
+    },
+    {
+        "victim": "Miller Boskus Lack Architects (ad.mbl-arch.com)",
+        "domain": "mbl-arch.com",
+        "country": "US",
+        "date": "2024-07-18",
+        "group": "lynx"
+    },
+    {
         "victim": "Hamton AB",
         "domain": "hamtonprofil.se",
         "country": "SE",
