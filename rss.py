@@ -148,8 +148,7 @@ def ask_chatgpt(news_title):
     response = client.responses.create(
         model=gpt_model,
         reasoning=reasoning,
-        input=messages,
-        max_output_tokens=1,
+        input=messages
     )
     time.sleep(2)
     assessment = response.output_text
