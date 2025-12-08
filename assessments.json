@@ -1,5 +1,19 @@
 [
     {
+        "victim": "Tech NH",
+        "domain": "technh.com",
+        "country": "US",
+        "date": "2025-01-17",
+        "group": "lynx"
+    },
+    {
+        "victim": "abfe",
+        "domain": "abfe.com.sg",
+        "country": "SG",
+        "date": "2025-05-23",
+        "group": "lynx"
+    },
+    {
         "victim": "Sentinel Systems",
         "domain": "sentinelsystems.com",
         "country": "US",
