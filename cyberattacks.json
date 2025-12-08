@@ -1,5 +1,65 @@
 [
     {
+        "date": "2025-12-04",
+        "victim": "PES Energize",
+        "domain": "pesenergize.com",
+        "country": "USA",
+        "summary": "PES Energize, une entreprise de services publics à Pulaski, dans le Tennessee, a subi une attaque de cybersécurité qui a désactivé les téléphones et les systèmes informatiques. L'entreprise travaille avec des agences fédérales pour résoudre le problème. Les clients sont invités à utiliser des canaux de secours pour signaler les pannes et effectuer des paiements.",
+        "title": "Cyber incident knocks out PES Energize phones in Pulaski, Tenn.",
+        "url": "https://dysruptionhub.com/pes-energize-cyber-incident-tennessee/",
+        "added": "2025-12-08"
+    },
+    {
+        "date": "2025-10-27",
+        "victim": "Fargo Park District",
+        "domain": "fargoparks.com",
+        "country": "USA",
+        "summary": "Le Fargo Park District a subi une faille de sécurité en octobre, qui a perturbé les téléphones, les emails et les systèmes internes, et une enquête est toujours en cours pour déterminer l'étendue de l'incident. Les résidents n'ont été informés que des semaines plus tard, et il est encore unclear si des données ont été exposées. Le district travaille avec des experts pour comprendre l'ampleur de l'incident et les résidents qui ont interagi avec le district à la fin octobre sont invités à surveiller leurs comptes bancaires et à être prudents avec les emails ou les appels non sollicités.",
+        "title": "https://dysruptionhub.com/fargo-park-district-cyber-breach-north-dakota/",
+        "url": "https://dysruptionhub.com/fargo-park-district-cyber-breach-north-dakota/",
+        "added": "2025-12-08"
+    },
+    {
+        "date": "2025-11-19",
+        "victim": "Leavenworth, Kansas",
+        "domain": "leavenworthks.gov",
+        "country": "USA",
+        "summary": "La ville de Leavenworth au Kansas a subi une cyberattaque le 19 novembre, qui a perturbé les systèmes de facturation, de permis et d'embauche, mais les services d'urgence ne sont pas affectés. Les fonctionnaires travaillent pour résoudre les problèmes et ont mis en place des solutions temporaires pour les services publics. L'enquête se poursuit pour déterminer l'ampleur de l'attaque et les conséquences potentielles sur la sécurité des données.",
+        "title": "Leavenworth, Kansas cyberattack disrupts city services",
+        "url": "https://dysruptionhub.com/leavenworth-kansas-cyberattack-city-services/",
+        "added": "2025-12-08"
+    },
+    {
+        "date": "2025-12-06",
+        "victim": "YEM CHIO CO., LTD.",
+        "domain": "ycgroup.tw",
+        "country": "TWN",
+        "summary": "Yem Chio a été victime d'une attaque de ransomware le 6 décembre 2025, mais aucune impact sur ses opérations n'a été constaté, les systèmes d'information sont en cours de restauration. La société renforce ses mécanismes de protection et continuera à surveiller de près son réseau et son infrastructure d'information. Aucune perte ou impact n'est actuellement prévu.",
+        "title": "Today's Information",
+        "url": "https://emops.twse.com.tw/server-java/t05sr01_1_e?&isNew=Y&seq_no=1&spoke_time=150054&spoke_date=20251208&co_id=4306",
+        "added": "2025-12-08"
+    },
+    {
+        "date": "2025-07-02",
+        "victim": "DePaoli Mosaic Company",
+        "domain": "depaolimosaic.com",
+        "country": "USA",
+        "summary": "DePaoli Mosaic Company suffered a data breach on July 2, 2025, where personal information, including names, addresses, driver's licenses, and Social Security numbers, may have been exposed. The company is offering complimentary credit monitoring services to affected individuals. No evidence of fraudulent misuse of information has been reported.",
+        "title": "Data Breach Notification",
+        "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/2be33924-0ba2-4c87-8634-9d5b61e6f8ad.html",
+        "added": "2025-12-06"
+    },
+    {
+        "date": "2025-07-22",
+        "victim": "HealthcareInteractive, Inc.",
+        "domain": "hciactive.com",
+        "country": "USA",
+        "summary": "HealthcareInteractive, Inc. suffered a security incident where an unauthorized actor copied certain files from their computer network between July 8, 2025, and July 12, 2025. The incident was discovered on or about July 22, 2025. The company is offering complimentary access to credit monitoring services.",
+        "title": "2025-12-02 Healthcare Interactive Data Breach Notice to Consumers",
+        "url": "https://ago.vermont.gov/document/2025-12-02-healthcare-interactive-data-breach-notice-consumers",
+        "added": "2025-12-06"
+    },
+    {
         "date": "2025-09-04",
         "victim": "Barr and Barr",
         "domain": "barrandbarr.com",
