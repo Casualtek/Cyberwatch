@@ -1,5 +1,19 @@
 [
     {
+        "victim": "Mintzer Sarowitz Zeris Ledva & Meyers",
+        "domain": "defensecounsel.com",
+        "country": "US",
+        "date": "2025-11-13",
+        "group": "SilentRansomGroup"
+    },
+    {
+        "victim": "Fish & Richardson Overview Metrics",
+        "domain": "fr.com",
+        "country": "US",
+        "date": "2025-11-12",
+        "group": "SilentRansomGroup"
+    },
+    {
         "victim": "asiawba",
         "domain": "asiawba.com",
         "country": "KR",
