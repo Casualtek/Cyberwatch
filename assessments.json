@@ -1,5 +1,12 @@
 [
     {
+        "victim": "Hamton AB",
+        "domain": "hamtonprofil.se",
+        "country": "SE",
+        "date": "2025-01-22",
+        "group": "lynx"
+    },
+    {
         "victim": "SCM GROUP",
         "domain": "scmgroup.com",
         "country": "IT",
