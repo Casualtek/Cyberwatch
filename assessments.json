@@ -1,5 +1,12 @@
 [
     {
+        "victim": "mmc.de",
+        "domain": "mmc.de",
+        "country": "DE",
+        "date": "2025-11-18",
+        "group": "safepay"
+    },
+    {
         "victim": "Acetificio Andrea Milano",
         "domain": "acetomilano.it",
         "country": "IT",
