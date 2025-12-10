@@ -1,5 +1,12 @@
 [
     {
+        "victim": "frisquet",
+        "domain": "frisquet.com",
+        "country": "FR",
+        "date": "2025-09-12",
+        "group": "qilin"
+    },
+    {
         "victim": "Méduane Habitat",
         "domain": "meduane-habitat.fr",
         "country": "FR",
