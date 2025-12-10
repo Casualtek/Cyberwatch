@@ -1,5 +1,12 @@
 [
     {
+        "victim": "IES Synergy",
+        "domain": "ies-synergy.com",
+        "country": "FR",
+        "date": "2025-05-14",
+        "group": "qilin"
+    },
+    {
         "victim": "mmc.de",
         "domain": "mmc.de",
         "country": "DE",
