@@ -1,5 +1,15 @@
 [
     {
+        "date": "2025-12-08",
+        "victim": "Ehpad de la Résidence du parc",
+        "domain": "ehpad-residenceparc.nodomain",
+        "country": "FRA",
+        "summary": "L'Ehpad de la Résidence du parc à Champdeniers-Saint-Denis a été victime d'une cyberattaque par rançongiciel, entraînant le chiffrement de certains fichiers et une potentielle exfiltration de données personnelles. La direction a activé son plan de gestion de crise pour protéger les résidents et leurs données. Les familles ont été alertées des risques d'usurpations d'identité et une cellule d'information a été mise en place.",
+        "title": "Des fichiers informatiques rendus illisibles : une maison de retraite des Deux-Sèvres victime d’une cyberattaque par « rançongiciel »",
+        "url": "https://www.lanouvellerepublique.fr/deux-sevres/commune/champdeniers-saint-denis/le-chiffrement-de-certains-fichiers-une-maison-de-retraite-des-deux-sevres-victime-d-une-cyberattaque-par-rancongiciel-1765374244",
+        "added": "2025-12-10"
+    },
+    {
         "date": "2025-11-15",
         "victim": "Vereinigte Stadtwerke GmbH",
         "domain": "vereinigte-stadtwerke.de",
