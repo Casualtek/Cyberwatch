@@ -1,5 +1,12 @@
 [
     {
+        "victim": "BCR Recouvrement",
+        "domain": "bcr-recouvrement.com",
+        "country": "FR",
+        "date": "2025-09-04",
+        "group": "qilin"
+    },
+    {
         "victim": "frisquet",
         "domain": "frisquet.com",
         "country": "FR",
