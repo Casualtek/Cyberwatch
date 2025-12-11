@@ -1,5 +1,15 @@
 [
     {
+        "date": "2025-06-29",
+        "victim": "Hertz Farm Management",
+        "domain": "hertz.ag",
+        "country": "USA",
+        "summary": "Hertz Farm Management, Inc. experienced a disruption to its company network on June 29, 2025, resulting in unauthorized access to sensitive personal information. A cyberattack against Hertz Farm Management was claimed by Akira on July 29.",
+        "title": "Data Breach Notification",
+        "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/28ce91a7-f6ed-4a8b-b22f-c91400a5404f.html",
+        "added": "2025-12-10"
+    },
+    {
         "date": "2025-08-19",
         "victim": "Volume Transportation, Inc.",
         "domain": "volinc.com",
