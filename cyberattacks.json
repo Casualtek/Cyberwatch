@@ -1,5 +1,15 @@
 [
     {
+        "date": "2025-03-24",
+        "victim": "OTA Management LLC",
+        "domain": "otallc.com",
+        "country": "USA",
+        "summary": "OTA Management LLC was the victim of an unknown third party gaining unauthorized access to the OTA network environment on March 23, 2025. OTA discovered the incident on March 24, 2025 and immediately severed the unauthorized activity. A cyberattack against OTA Management was claimed by Play on April 2.",
+        "title": "Data Breach Notification",
+        "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/e022ff4a-e161-4705-be1f-220b46103167.html",
+        "added": "2025-12-11"
+    },
+    {
         "date": "2025-01-30",
         "victim": "Shields Facilities Maintenance, LLC.",
         "domain": "shieldsfm.com",
