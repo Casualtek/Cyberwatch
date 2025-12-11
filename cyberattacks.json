@@ -1,5 +1,15 @@
 [
     {
+        "date": "2025-08-19",
+        "victim": "Volume Transportation, Inc.",
+        "domain": "volinc.com",
+        "country": "USA",
+        "summary": "Volume Transportation, Inc. experienced a network disruption on August 19, 2025, which led to unauthorized access to certain files. A cyberattack against Volume Transportation was claimed by Qilin on September 15.",
+        "title": "Data Breach Notification",
+        "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/aec695d9-b5cf-431b-a6e7-c4b60b7cc321.html",
+        "added": "2025-12-09"
+    },
+    {
         "date": "2025-11-20",
         "victim": "Socius",
         "domain": "socius.de",
