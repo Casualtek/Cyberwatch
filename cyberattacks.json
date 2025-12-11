@@ -1,5 +1,25 @@
 [
     {
+        "date": "2025-05-17",
+        "victim": "CNHI, LLC",
+        "domain": "cnhi.com",
+        "country": "USA",
+        "summary": "CNHI, LLC experienced a data security incident involving unauthorized access to their computer network, resulting in the theft of files containing personal information. The incident occurred between April 27, 2025, and May 17, 2025. A cyberattack against CHNI was claimed by Play on May 21.",
+        "title": "2025-12-08 CNHI Data Breach Notice to Consumers",
+        "url": "https://ago.vermont.gov/document/2025-12-08-cnhi-data-breach-notice-consumers",
+        "added": "2025-12-10"
+    },
+    {
+        "date": "2025-10-23",
+        "victim": "Wheels Up Partners LLC",
+        "domain": "wheelsup.com",
+        "country": "USA",
+        "summary": "Wheels Up detected an unauthorized actor gained access to and copied certain files from its information technology systems, potentially exposing name and Social Security numbers. The incident occurred on October 20, 2025, and was discovered on October 23, 2025. Wheels Up is providing credit monitoring services to affected individuals.",
+        "title": "Data Breach Notification",
+        "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/c82c216a-395a-4481-bf60-7d00953fb5bb.html",
+        "added": "2025-12-10"
+    },
+    {
         "date": "2025-06-29",
         "victim": "Hertz Farm Management",
         "domain": "hertz.ag",
