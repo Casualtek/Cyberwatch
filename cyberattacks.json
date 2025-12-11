@@ -1,5 +1,15 @@
 [
     {
+        "date": "2025-11-20",
+        "victim": "Socius",
+        "domain": "socius.de",
+        "country": "DEU",
+        "summary": "Le Kita-Betreiber berlinois Socius a été victime d'une attaque par ransomware le 20 novembre, au cours de laquelle 1% de ses données ont été copiées. L'entreprise gère six crèches à Berlin et prend soin de 3000 enfants et adolescents. Les conséquences de l'attaque sont encore inconnues.",
+        "title": "Sechs Kitas betroffen: Cyberangriff auf Berliner Kita-Betreiber „Socius“ - Tagesspiegel Checkpoint",
+        "url": "https://checkpoint.tagesspiegel.de/langmeldung/38mr3Nt74x7jjUnU4PoOGq",
+        "added": "2025-12-11"
+    },
+    {
         "date": "2025-12-08",
         "victim": "Ehpad de la Résidence du parc",
         "domain": "ehpad-residenceparc.nodomain",
