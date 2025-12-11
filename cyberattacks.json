@@ -1,5 +1,15 @@
 [
     {
+        "date": "2025-12-11",
+        "victim": "Flexium Interconnect",
+        "domain": "flexium.com.tw",
+        "country": "TWN",
+        "summary": "Flexium Interconnect a subi une attaque informatique, mais grâce à ses mécanismes de défense, aucune fuite de données personnelles ou d'informations confidentielles n'a été constatée, et l'impact sur ses opérations est minime. La société continue de surveiller la situation et de renforcer la sécurité de son réseau et de ses systèmes d'information. Les détails sur le domaine et le pays d'origine de la société ne sont pas fournis.",
+        "title": "Today's Information",
+        "url": "https://emops.twse.com.tw/server-java/t05sr01_1_e?&isNew=Y&seq_no=1&spoke_time=140034&spoke_date=20251211&co_id=6269",
+        "added": "2025-12-11"
+    },
+    {
         "date": "2025-03-24",
         "victim": "OTA Management LLC",
         "domain": "otallc.com",
