@@ -1,5 +1,15 @@
 [
     {
+        "date": "2025-12-10",
+        "victim": "Instituto Nacional des Routes (Invías)",
+        "domain": "invias.gov.co",
+        "country": "COL",
+        "summary": "L'Instituto Nacional de Vías (Invías) en Colombie a subi un grave ataque cibernétique, ce qui a entraîné une perte d'internet pendant près de 48 heures. L'entité a déposé une plainte auprès de la Fiscalía General de la Nación. Cet incident s'ajoute à d'autres attaques que l'entité a subies ces dernières semaines, notamment un attentat sur la route nationale Los Llanos - Tarazá le 19 novembre.",
+        "title": "Grave ataque cibernético en Invías",
+        "url": "https://www.elpais.com.co/colombia/invias-sufre-grave-ataque-cibernetico-van-cerca-de-48-horas-sin-internet-1110.html",
+        "added": "2025-12-12"
+    },
+    {
         "date": "2025-12-07",
         "victim": "Centre de formation pour l'audition et la vue de Mils",
         "domain": "zentrum-mils.tsn.at",
