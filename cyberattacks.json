@@ -1,5 +1,15 @@
 [
     {
+        "date": "2025-12-07",
+        "victim": "Centre de formation pour l'audition et la vue de Mils",
+        "domain": "zentrum-mils.tsn.at",
+        "country": "DEU",
+        "summary": "Un système informatique d'une institution publique a été victime d'une attaque, mais les données sensibles n'ont pas été compromises, et les systèmes ont été restaurés grâce à des sauvegardes. Les personnes potentiellement affectées ont été informées, et des mesures de sécurité supplémentaires ont été prises pour prévenir de futures attaques. Les opérations de l'institution n'ont pas été significativement affectées.",
+        "title": "Cyberattacke auf Bildungseinrichtung in Mils",
+        "url": "https://tirol.orf.at/stories/3333714/",
+        "added": "2025-12-12"
+    },
+    {
         "date": "2025-12-11",
         "victim": "Flexium Interconnect",
         "domain": "flexium.com.tw",
