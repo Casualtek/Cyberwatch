@@ -1,5 +1,15 @@
 [
     {
+        "date": "2025-12-12",
+        "victim": "IDEAL Gruppe",
+        "domain": "ideal-versicherung.de",
+        "country": "DEU",
+        "summary": "La société IDEAL Gruppe a subi une attaque informatique, ce qui a nécessité la déconnexion de ses systèmes, y compris ceux de la société Ahorn Gruppe. Les systèmes de l'entreprise sont actuellement hors ligne, mais les filiales restent ouvertes et accessibles par téléphone. L'équipe de sécurité informatique travaille à analyser l'incident et à restaurer les systèmes.",
+        "title": "IT-Störung bei der Ahorn Gruppe: Keine E-Mail-Erreichbarkeit",
+        "url": "https://www.ahorn-gruppe.de/news-und-events/newsdetail/it-stoerung-bei-der-ahorn-gruppe-keine-e-mail-erreichbarkeit",
+        "added": "2025-12-15"
+    },
+    {
         "date": "2025-09-28",
         "victim": "Brevard Skin and Cancer Center",
         "domain": "brevardskin.com",
