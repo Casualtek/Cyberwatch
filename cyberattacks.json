@@ -1,5 +1,45 @@
 [
     {
+        "date": "2025-09-23",
+        "victim": "Lumena Financial Strategies",
+        "domain": "lumenafinancial.com",
+        "country": "USA",
+        "summary": "Lumena Financial Strategies suffered a data breach after a threat actor accessed their computer systems using ransomware. The breach occurred on September 23, 2025, and potentially exposed client information including names, dates of birth, home addresses, social security numbers, banking information, and account numbers. Lumena has implemented new technical safeguards and is offering identity theft protection services to affected clients.",
+        "title": "Data Breach Notification",
+        "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/3012e3d9-528c-419c-8b1f-08ac240ec498.html",
+        "added": "2025-12-13"
+    },
+    {
+        "date": "2025-09-24",
+        "victim": "Boise Co-Op",
+        "domain": "boise.coop",
+        "country": "USA",
+        "summary": "Boise Co-Op experienced a network disruption on September 24, 2025, which led to unauthorized access to certain files containing personal information. The breach may have included names and Social Security numbers. Boise Co-Op is offering complimentary identity protection services to affected individuals.",
+        "title": "2025-12-10 Boise Consumer Cooperative Data Breach Notice to Consumers",
+        "url": "https://ago.vermont.gov/document/2025-12-10-boise-consumer-cooperative-data-breach-notice-consumers",
+        "added": "2025-12-13"
+    },
+    {
+        "date": "2025-02-18",
+        "victim": "William Doyle Galleries, Inc.",
+        "domain": "doyle.com",
+        "country": "USA",
+        "summary": "William Doyle Galleries, Inc. suffered a data breach where an unauthorized actor copied certain files from their computer network between October 24, 2024, and February 18, 2025. The breach potentially impacted customers' personal information, including names in combination with other breached elements. The company is offering complimentary credit monitoring and identity restoration services to affected individuals.",
+        "title": "2025-12-09 William Doyle Galleries Data Breach Notice to Consumers",
+        "url": "https://ago.vermont.gov/document/2025-12-09-william-doyle-galleries-data-breach-notice-consumers",
+        "added": "2025-12-13"
+    },
+    {
+        "date": "2025-07-04",
+        "victim": "Rockrose Development L.L.C.",
+        "domain": "rockrose.com",
+        "country": "USA",
+        "summary": "Rockrose Development L.L.C. suffered a data breach where unauthorized individuals accessed their systems and may have acquired confidential information. The breach may have included personally identifiable information such as names, Social Security numbers, and bank account information. A cyberattack against Rockrose was claimed by Play on July 14.",
+        "title": "Data Breach Notification",
+        "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/0e9b1638-ed34-411f-b9d4-5f29a1163313.html",
+        "added": "2025-12-13"
+    },
+    {
         "date": "2025-11-27",
         "victim": "Dextra Rechtsschutz AG",
         "domain": "dextra.ch",
