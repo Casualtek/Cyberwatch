@@ -1,5 +1,15 @@
 [
     {
+        "date": "2025-12-12",
+        "victim": "West Pierce Fire & Rescue",
+        "domain": "westpierce.org",
+        "country": "USA",
+        "summary": "West Pierce Fire & Rescue a subi une atteinte à la sécurité de ses systèmes d'information, ce qui a perturbé ses systèmes internes, mais les services d'urgence et le système 911 restent opérationnels. L'agence travaille avec le FBI et des experts pour analyser les systèmes et restaurer l'accès. Les détails de l'incident, y compris le type d'attaque et les données compromises, n'ont pas été divulgués.",
+        "title": "Cyber incident disrupts Washington's West Pierce Fire & Rescue",
+        "url": "https://dysruptionhub.com/west-pierce-fire-cyber-incident-wa/",
+        "added": "2025-12-15"
+    },
+    {
         "date": "2024-12-04",
         "victim": "United Keetoowah Band of Cherokee Indians",
         "domain": "ukb-nsn.gov",
