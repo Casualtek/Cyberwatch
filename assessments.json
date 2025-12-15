@@ -1,5 +1,12 @@
 [
     {
+        "victim": "Diaz Gill Medicina Laboratorial S.A.",
+        "domain": "diazgill.com.py",
+        "country": "PY",
+        "date": "2025-11-26",
+        "group": "ransomhouse"
+    },
+    {
         "victim": "MetroWest Community FCU",
         "domain": "mwcfcu.com",
         "country": "US",
