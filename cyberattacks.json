@@ -1,5 +1,15 @@
 [
     {
+        "date": "2025-11-27",
+        "victim": "Dextra Rechtsschutz AG",
+        "domain": "dextra.ch",
+        "country": "CHE",
+        "summary": "La Dextra Rechtsschutz AG a informé de la résolution d'une faille de sécurité ayant affecté 15 clients, les causes ont été identifiées et les processus ont été mis à jour pour assurer la sécurité des données. L'entreprise a contacté tous les clients touchés et a présenté ses excuses pour l'incident. Les systèmes informatiques de l'entreprise sont désormais entièrement sécurisés.",
+        "title": "Wichtiger Kundenhinweis - Dextra Rechtsschutz",
+        "url": "https://dextra.ch/blog/datenvorfall",
+        "added": "2025-12-15"
+    },
+    {
         "date": "2025-12-12",
         "victim": "West Pierce Fire & Rescue",
         "domain": "westpierce.org",
