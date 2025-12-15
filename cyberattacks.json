@@ -1,5 +1,15 @@
 [
     {
+        "date": "2025-12-12",
+        "victim": "Deschutes County Public Library",
+        "domain": "deschuteslibrary.org",
+        "country": "USA",
+        "summary": "La bibliothèque du comté de Deschutes a subi une cyberattaque qui a fermé toutes ses succursales. L'attaque a probablement visé des serveurs contenant des matériaux de relations publiques. La bibliothèque travaille avec une entreprise de cybersécurité pour enquêter sur l'incident.",
+        "title": "Deschutes County Library closed through Sunday following cyberattack",
+        "url": "https://www.opb.org/article/2025/12/12/cyberattack-deschutes-county-library-closed-temporarily/",
+        "added": "2025-12-15"
+    },
+    {
         "date": "2025-12-10",
         "victim": "Instituto Nacional des Routes (Invías)",
         "domain": "invias.gov.co",
