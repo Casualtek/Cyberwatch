@@ -1,5 +1,15 @@
 [
     {
+        "date": "2025-12-14",
+        "victim": "PDVSA",
+        "domain": "pdvsa.com",
+        "country": "VEN",
+        "summary": "La compagnie pétrolière nationale vénézuélienne PDVSA affirme avoir été la cible d’une cyberattaque qu’elle attribue aux États-Unis et à des complices internes, tout en assurant que ses opérations n’ont pas été affectées. Des sources anonymes indiquent cependant que des systèmes restent hors service et que des livraisons de cargaisons de pétrole ont été perturbées, contredisant la version officielle.",
+        "title": "Venezuela's PDVSA says operations unaffected by cyber attack, blames U.S.",
+        "url": "https://www.reuters.com/world/americas/venezuelas-pdvsa-says-operations-unaffected-by-cyber-attack-blames-us-2025-12-15/",
+        "added": "2025-12-15"
+    },
+    {
         "date": "2025-09-23",
         "victim": "Lumena Financial Strategies",
         "domain": "lumenafinancial.com",
