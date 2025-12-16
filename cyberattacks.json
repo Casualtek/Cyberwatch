@@ -1,5 +1,15 @@
 [
     {
+        "date": "2025-08-19",
+        "victim": "Fieldtex Products, Inc.",
+        "domain": "fieldtex.com",
+        "country": "USA",
+        "summary": "Fieldtex Products, Inc. a signalé une faille de sécurité dans ses systèmes informatiques, ce qui a pu compromettre des informations de santé protégées, notamment des noms de patients, des adresses et des numéros d'identification d'assurance. L'entreprise a pris des mesures pour sécuriser son réseau et offre des services de surveillance de crédit gratuits aux personnes potentiellement affectées. L'attaque a été revendiquée par Akira le 6 novembre.",
+        "title": "Notification of Data Security Incident – Fieldtex Products Inc.",
+        "url": "https://fieldtex.com/notification-of-data-security-incident/",
+        "added": "2025-12-16"
+    },
+    {
         "date": "2025-12-14",
         "victim": "PDVSA",
         "domain": "pdvsa.com",
