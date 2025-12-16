@@ -1,5 +1,15 @@
 [
     {
+        "date": "2025-05-15",
+        "victim": "Tufton Capital Management",
+        "domain": "tuftoncapital.com",
+        "country": "USA",
+        "summary": "Tufton Capital Management suffered a data breach after an unauthorized third party accessed a portion of their computer network from May 15, 2025, to May 16, 2025. The impacted files contained personal information, which may include names. A cyberattack against Tufton Capital Management was claimed by Akira on June 16.",
+        "title": "Data Breach Notification",
+        "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/233d11bb-f713-4eb5-a8e0-195c6e7e78ee.html",
+        "added": "2025-12-16"
+    },
+    {
         "date": "2025-12-10",
         "victim": "Laurentius-Apotheke",
         "domain": "laurentius-apotheke-moenchengladbach.de",
