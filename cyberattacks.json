@@ -1,5 +1,15 @@
 [
     {
+        "date": "2025-12-15",
+        "victim": "DAINICHI COLOR VIETNAM CO., LTD.",
+        "domain": "daicolor.co.jp",
+        "country": "VNM",
+        "summary": "Le 15 décembre 2025, une attaque par rançongiciel a chiffré des fichiers sur des serveurs et PC de la filiale. Les systèmes concernés ont été immédiatement isolés pour éviter toute propagation, et des équipes informatiques sont mobilisées pour le rétablissement. Une éventuelle fuite de données est en cours d’évaluation. (via eCrime.ch)",
+        "title": "Notice Concerning Ransomware Incident at Consolidated Subsidiary",
+        "url": "https://contents.xj-storage.jp/xcontents/AS03610/7f5e397c/2a50/4566/8091/b7cc4da65c66/20251217114618493s.pdf",
+        "added": "2025-12-17"
+    },
+    {
         "date": "2025-12-16",
         "victim": "Office of the Ombudsman",
         "domain": "ombudsman.ie",
