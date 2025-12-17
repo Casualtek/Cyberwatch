@@ -1,5 +1,15 @@
 [
     {
+        "date": "2025-12-16",
+        "victim": "Office of the Ombudsman",
+        "domain": "ombudsman.ie",
+        "country": "IRL",
+        "summary": "Le bureau de l'Ombudsman a subi une attaque de ransomware, les systèmes ont été désactivés pour minimiser les dommages. Une enquête forensique est en cours avec l'aide du Centre national de cybersécurité et des spécialistes externes. Le bureau travaille à rétablir les services en toute sécurité et à protéger les données des utilisateurs.",
+        "title": "Ombudsman’s office confirms it has suffered ransomware cyberattack",
+        "url": "https://www.independent.ie/irish-news/ombudsmans-office-confirms-it-has-suffered-ransomware-cyberattack/a586049366.html",
+        "added": "2025-12-17"
+    },
+    {
         "date": "2025-12-17",
         "victim": "Secretaría de Hacienda del Gobierno de Sonora",
         "domain": "sonora.gob.mx",
