@@ -1,5 +1,15 @@
 [
     {
+        "date": "2025-12-17",
+        "victim": "Servicio Nacional de Geología y Minería (Sernageomin)",
+        "domain": "sernageomin.cl",
+        "country": "CHL",
+        "summary": "Le Servicio Nacional de Geología y Minería (Sernageomin) a été victime d'une attaque informatique, ce qui a provoqué une interruption temporaire de son portail institutionnel et de ses plateformes internes. Les protocoles d'urgence ont été activés pour protéger les opérations critiques et garantir la continuité des services essentiels. Les équipes de Sernageomin travaillent pour rétablir l'opérativité des systèmes et mettre en œuvre des mesures de cybersécurité supplémentaires.",
+        "title": "Sernageomin entrega antecedentes sobre ataque cibernético a sus servidores - Mch",
+        "url": "https://www.mch.cl/negocios-industria/sernageomin-entrega-antecedentes-sobre-ataque-cibernetico-a-sus-servidores/",
+        "added": "2025-12-18"
+    },
+    {
         "date": "2025-12-14",
         "victim": "DXS International plc",
         "domain": "dxs-systems.co.uk",
