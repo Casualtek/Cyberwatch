@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-11-15",
+        "victim": "Ungava Tulattavik Health Center",
+        "domain": "tulattavik.com",
+        "country": "CAN",
+        "summary": "Le centre de santé Ungava Tulattavik a été victime d'une cyberattaque qui a compromis des informations sensibles sur les patients et les employés. Les autorités ont bloqué l'attaque dès sa détection et une enquête est en cours. Le centre a mis en place des mesures pour sécuriser les systèmes et soutenir les personnes touchées.",
+        "title": "Nunavik health centre targeted by cyberattack",
+        "url": "https://nunatsiaq.com/stories/article/nunavik-health-centre-targeted-by-cyberattack/",
+        "added": "2025-12-18"
+    },
+    {
         "date": "2025-08-21",
         "victim": "CES Group Engineers, LLP",
         "domain": "ces-group.net",
