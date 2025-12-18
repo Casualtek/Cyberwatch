@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-11-11",
+        "victim": "Eckerd Youth Alternatives Inc. dba Eckerd Connects",
+        "domain": "eckerd.org",
+        "country": "USA",
+        "summary": "Eckerd Connects experienced a cybersecurity incident involving unauthorized access to their network, potentially exposing personal information between November 3, 2024, and November 11, 2024. The incident was discovered on November 11, 2024, and an investigation was conducted. Complimentary identity monitoring services are being offered to affected individuals.",
+        "title": "Data Breach Notification",
+        "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/3feda70c-fe80-491e-accf-4857d5d95918.html",
+        "added": "2025-12-18"
+    },
+    {
         "date": "2025-11-30",
         "victim": "Pit River Health Service",
         "domain": "pitriverhealthservice.org",
