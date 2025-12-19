@@ -1,5 +1,15 @@
 [
     {
+        "date": "2025-12-18",
+        "victim": "Commission scolaire Eastern Townships",
+        "domain": "etsb.qc.ca",
+        "country": "CAN",
+        "summary": "La commission scolaire Eastern Townships a détecté une attaque informatique visant ses serveurs, mais ses bases de données ne semblent pas avoir été affectées. Les équipements à l’origine de l’attaque ont été identifiés et mis hors fonction. Les services informatiques ne seront pas disponibles le lendemain et le retour à la normale pourrait nécessiter plusieurs jours.",
+        "title": "La commission scolaire Eastern Townships victime d’une cyberattaque",
+        "url": "https://www.lavoixdelest.ca/actualites/actualites-locales/2025/12/18/la-commission-scolaire-eastern-townships-victime-dune-cyberattaque-GMFVG2YBOVAVVGJN2OKX5EPCYQ/",
+        "added": "2025-12-19"
+    },
+    {
         "date": "2025-12-11",
         "victim": "São João da Ponte",
         "domain": "saojoaodaponte.mg.gov.br",
