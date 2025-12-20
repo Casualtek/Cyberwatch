@@ -1,6 +1,16 @@
 [
     {
-        "date": "2024-11-26",
+        "date": "2025-10-20",
+        "victim": "Mitchell County Department of Social Services",
+        "domain": "mitchellcountync.gov",
+        "country": "USA",
+        "summary": "Le comté de Mitchell en Caroline du Nord a subi une attaque de ransomware en octobre, entraînant un accès non autorisé et le vol de données de santé du Département des services sociaux. Le comté a signalé des interruptions de téléphone et d'e-mail pendant cette période, les qualifiant de problèmes techniques. Les attaquants ont volé des données, notamment des informations de santé protégées, entre le 16 et le 20 octobre.",
+        "title": "Mitchell County, North Carolina, ransomware attack tied to days of phone, email outages",
+        "url": "https://dysruptionhub.com/mitchell-county-nc-ransomware-dss-phi/",
+        "added": "2025-12-20"
+    },
+    {
+        "date": "2025-11-26",
         "victim": "Clarksville Independent School District",
         "domain": "clarksvilleisd.net",
         "country": "USA",
