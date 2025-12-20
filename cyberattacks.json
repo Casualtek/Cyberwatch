@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-11-26",
+        "victim": "Clarksville Independent School District",
+        "domain": "clarksvilleisd.net",
+        "country": "USA",
+        "summary": "Le district scolaire indépendant de Clarksville au Texas a signalé une panne informatique et de réseau à l'échelle du district le 26 novembre, et a averti qu'il pourrait falloir des jours pour la résoudre. Des semaines plus tard, un groupe de ransomware a publié une revendication concernant le district que les responsables n'ont pas confirmée. Le district a déclaré que le centre de services éducatifs de la région 8 l'aidait et qu'il ne s'attendait pas à ce que le problème soit résolu avant le retour des étudiants la semaine suivante.",
+        "title": "Clarksville school district in Texas reports outage; ransomware claim unverified",
+        "url": "https://dysruptionhub.com/clarksville-isd-outage-ransomware-texas/",
+        "added": "2025-12-20"
+    },
+    {
         "date": "2025-10-21",
         "victim": "McIntosh Laboratory, Inc.",
         "domain": "mcintoshlabs.com",
