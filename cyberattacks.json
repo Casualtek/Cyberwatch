@@ -1,5 +1,15 @@
 [
     {
+        "date": "2025-12-21",
+        "victim": "Supreme Electronics Co., Ltd.",
+        "domain": "supreme.com.tw",
+        "country": "TWN",
+        "summary": "La société a subi une attaque informatique, mais aucune fuite de données n'a été détectée et l'incident n'a pas d'impact significatif sur les opérations. La société a pris des mesures de sécurité pour atténuer les risques et continuera à surveiller la situation. Les systèmes d'information de la société ont été visés par des hackers externes.",
+        "title": "Today's Information",
+        "url": "https://emops.twse.com.tw/server-java/t05sr01_1_e?&isNew=Y&seq_no=1&spoke_time=171054&spoke_date=20251221&co_id=8112",
+        "added": "2025-12-22"
+    },
+    {
         "date": "2025-10-20",
         "victim": "Mitchell County Department of Social Services",
         "domain": "mitchellcountync.gov",
