@@ -1,5 +1,33 @@
 [
     {
+        "victim": "Allure Home Creation",
+        "domain": "allurehome.com",
+        "country": "US",
+        "date": "2025-12-08",
+        "group": "play"
+    },
+    {
+        "victim": "Fairgrove Oil",
+        "domain": "fairgroveoil.com",
+        "country": "US",
+        "date": "2025-11-25",
+        "group": "play"
+    },
+    {
+        "victim": "Maypay Farms Inc",
+        "domain": "maypayfarms.com",
+        "country": "US",
+        "date": "2025-11-18",
+        "group": "play"
+    },
+    {
+        "victim": "Southern Specialty & Supply",
+        "domain": "southernspecialtysupply.com",
+        "country": "US",
+        "date": "2025-11-21",
+        "group": "play"
+    },
+    {
         "victim": "Business Integra",
         "domain": "businessintegra.com",
         "country": "US",
