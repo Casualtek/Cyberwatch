@@ -1,5 +1,15 @@
 [
     {
+        "date": "2025-12-23",
+        "victim": "Nanyang Industries Co., Ltd.",
+        "domain": "sanyang.com.tw",
+        "country": "CHN",
+        "summary": "Nanyang Industries Co., Ltd. a subi une attaque informatique, mais a activé ses mécanismes de défense et de récupération, et la situation est sous contrôle. L'entreprise a signalé l'incident à la police et renforce actuellement son infrastructure de sécurité. L'attaque n'a pas eu d'impact significatif sur les opérations de l'entreprise.",
+        "title": "Today's Information",
+        "url": "https://emops.twse.com.tw/server-java/t05sr01_1_e?&isNew=Y&seq_no=1&spoke_time=193724&spoke_date=20251223&co_id=2206",
+        "added": "2025-12-23"
+    },
+    {
         "date": "2025-02-27",
         "victim": "Scott & Kraus, LLC",
         "domain": "skcounsel.com",
