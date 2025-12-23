@@ -1,5 +1,25 @@
 [
     {
+        "date": "2025-08-01",
+        "victim": "Bucks County Opportunity Council, INC.",
+        "domain": "bcoc.org",
+        "country": "USA",
+        "summary": "Unauthorized access to Bucks County Opportunity Council's computer network occurred in August 2025, resulting in potential unauthorized access to personal information including names and Social Security numbers. A cyberattack against Bucks County Opportunity Council was claimed by MoneyMessage on August 4.",
+        "title": "Data Breach Notification",
+        "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/81ecaec5-e975-4476-b993-6dab764de8bc.html",
+        "added": "2025-12-23"
+    },
+    {
+        "date": "2024-12-19",
+        "victim": "Baker University",
+        "domain": "bakeru.edu",
+        "country": "USA",
+        "summary": "Baker University suffered a data breach in December 2024, resulting in unauthorized access and/or acquisition of certain files and folders within their network. The breach may have impacted sensitive information, including names and other personal data. The university is offering complimentary credit monitoring services to affected individuals.",
+        "title": "2025-12-19 Baker University Data Breach Notice to Consumers",
+        "url": "https://ago.vermont.gov/document/2025-12-19-baker-university-data-breach-notice-consumers",
+        "added": "2025-12-23"
+    },
+    {
         "date": "2025-12-06",
         "victim": "Eanes Independent School District",
         "domain": "eanesisd.net",
