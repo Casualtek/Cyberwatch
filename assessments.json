@@ -1,5 +1,12 @@
 [
     {
+        "victim": "FloorHeat",
+        "domain": "floor-heat.com",
+        "country": "US",
+        "date": "2025-11-12",
+        "group": "akira"
+    },
+    {
         "victim": "RPI Roofing",
         "domain": "rpiroof.com",
         "country": "US",
