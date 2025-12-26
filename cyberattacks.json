@@ -1,6 +1,16 @@
 [
     {
         "date": "2025-12-22",
+        "victim": "Ville de Lens",
+        "domain": "villedelens.fr",
+        "country": "FRA",
+        "summary": "La Ville de Lens a subi une cyberattaque qui affecte le fonctionnement de ses services municipaux, mais tous les services restent accessibles aux horaires d'ouverture habituels. La municipalité a mis en place des mesures de sécurité et de protection des données et invite les usagers à ne contacter le numéro de contact qu'en cas d'urgence. La situation est en cours de diagnostic et la municipalité communiquera sur son évolution via ses réseaux sociaux.",
+        "title": "La ville de Lens touchée par une cyberattaque : une plainte déposée",
+        "url": "https://actu.fr/hauts-de-france/lens_62498/la-ville-de-lens-touchee-par-une-cyberattaque-une-plainte-deposee_63624565.html",
+        "added": "2025-12-26"
+    },
+    {
+        "date": "2025-12-22",
         "victim": "Fiorucci",
         "domain": "fioruccifoods.com",
         "country": "ITA",
