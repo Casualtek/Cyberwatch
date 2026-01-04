@@ -105,10 +105,10 @@ def main():
     print(date_claim)
 
     tweet = '📆 la #cyberattaque revendiquée le '+date_claim+' ('+story['group']+') contre '+flag.flag(country)+' '+story['victim']+' ('+story['domain']+')'+' semble survenue ~'+date_tweet+' 🧐'
-    post_to_twitter(tweet)
     post_to_telegram(tweet)
     post_to_mastodon(tweet)
     post_to_bluesky(tweet)
+    post_to_twitter(tweet)
     
 #    discord_msg = flag.flag(countryISO[country])+' '+story['victim']+' a été victime d\'une cyberattaque autour du '+date_tweet+'.\n👉 '+story['url']
 #    post_to_discord(webhook_url, discord_msg)
