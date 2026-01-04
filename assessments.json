@@ -1,5 +1,26 @@
 [
     {
+        "victim": "Esquire Brands",
+        "domain": "esquirebrands.com",
+        "country": "US",
+        "date": "2025-12-15",
+        "group": "play"
+    },
+    {
+        "victim": "JZ Russell Industries",
+        "domain": "jzrussellind.com",
+        "country": "US",
+        "date": "2025-12-26",
+        "group": "play"
+    },
+    {
+        "victim": "MP Filtri",
+        "domain": "mpfiltricanada.com",
+        "country": "CA",
+        "date": "2025-12-26",
+        "group": "play"
+    },
+    {
         "victim": "Soapy Joe's Car Wash",
         "domain": "soapyjoescarwash.com",
         "country": "US",
