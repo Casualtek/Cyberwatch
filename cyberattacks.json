@@ -1,5 +1,15 @@
 [
     {
+        "date": "2025-12-15",
+        "victim": "Snyderville Basin Water Reclamation District",
+        "domain": "sbwrd.org",
+        "country": "USA",
+        "summary": "Le district de Snyderville Basin Water Reclamation a été victime d'une attaque cybernétique internationale, probablement originaire de Chine, qui a compromis son serveur ArcGIS, mais les défenses de sécurité ont isolé l'attaque et récupéré les fichiers chiffrés. Le district a signalé l'attaque au FBI et à l'agence de cybersécurité, et travaille avec des fournisseurs de logiciels pour améliorer sa sécurité. Les autorités fédérales mènent des tests de pénétration pour renforcer la sécurité du district.",
+        "title": "Reclamation District says it fended off an international cyber attack - Park Record",
+        "url": "https://www.parkrecord.com/2025/12/26/reclamation-district-says-it-fended-off-an-international-cyber-attack/",
+        "added": "2026-01-05"
+    },
+    {
         "date": "2025-12-30",
         "victim": "Manage My Health",
         "domain": "managemyhealth.co.nz",
