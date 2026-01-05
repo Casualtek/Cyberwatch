@@ -1,5 +1,15 @@
 [
     {
+        "date": "2026-01-03",
+        "victim": "Constantia Pharmacy",
+        "domain": "constantiapharmacy.co.za",
+        "country": "ZAF",
+        "summary": "Un hacker a sauvé une pharmacie de Cape Town d'une attaque de ransomware en découvrant un serveur vulnérable et en alertant la société de gestion de la pharmacie, ProPharm, qui a pris des mesures pour sauver les données de la pharmacie. L'attaque a été attribuée au groupe Want_to_cry, qui utilise des attaques de force brute pour compromettre les serveurs avec des mots de passe faibles. La pharmacie a été informée à temps et les données ont été sauvegardées, évitant ainsi une interruption coûteuse due à l'attaque de ransomware.",
+        "title": "Hacker rescues South African pharmacy from cyber attack",
+        "url": "https://mybroadband.co.za/news/security/623956-hacker-rescues-south-african-pharmacy-from-cyber-attack.html",
+        "added": "2026-01-05"
+    },
+    {
         "date": "2025-12-31",
         "victim": "Aurora College",
         "domain": "auroracollege.nt.ca",
