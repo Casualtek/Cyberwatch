@@ -1,5 +1,17 @@
 [
     {
+        "date": "2025-12-25",
+        "victim": "Leduc County",
+        "domain": "leduc-county.com",
+        "country": "CAN",
+        "summary": "Le comté de Leduc a été la cible d’une cyberattaque délibérée de type rançongiciel, détectée le 25 décembre, qui a entraîné la désactivation de plusieurs systèmes informatiques.
+Certains services, dont les courriels, les portails de permis et les formulaires en ligne, sont indisponibles, tandis qu’une enquête médico-légale est en cours avec l’appui de la GRC et d’experts en cybersécurité.
+Selon les autorités, l’attaque a été rapidement contenue, l’impact sur les données serait minime et le comté travaille à rétablir ses opérations sans pouvoir encore préciser de calendrier.",
+        "title": "Leduc County target of Christmas Day cybersecurity attack",
+        "url": "https://www.ctvnews.ca/edmonton/article/leduc-county-target-of-christmas-day-cybersecurity-attack/",
+        "added": "2026-01-05"
+    },
+    {
         "date": "2025-12-15",
         "victim": "Snyderville Basin Water Reclamation District",
         "domain": "sbwrd.org",
