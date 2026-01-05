@@ -1,5 +1,15 @@
 [
     {
+        "date": "2025-12-30",
+        "victim": "Manage My Health",
+        "domain": "managemyhealth.co.nz",
+        "country": "NZL",
+        "summary": "Des hackers ont attaqué le portail de santé Manage My Health le 30 décembre, accédant aux données médicales personnelles de 120 000 personnes et exigeant une rançon de 60 000 $ US. Initialement fixée au 15 janvier, la date limite de paiement a été réduite à 48 heures, et des fichiers très sensibles ont déjà commencé à être publiés sur le dark web. Utilisé par 1,8 million de Néo-Zélandais, le portail a recommandé à ses utilisateurs de réinitialiser leurs mots de passe ou d’activer l’authentification à deux facteurs, tandis que l’entreprise coopère avec la police et engage des actions légales.",
+        "title": "Hackers drastically shorten deadline for Manage My Health to pay ransom",
+        "url": "https://www.stuff.co.nz/nz-news/360920634/hackers-drastically-shorten-deadline-manage-my-health-pay-ransom",
+        "added": "2026-01-05"
+    },
+    {
         "date": "2025-12-27",
         "victim": "Prefeitura de Serra Talhada",
         "domain": "serratalhada.pe.gov.br",
