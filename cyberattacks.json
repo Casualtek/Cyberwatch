@@ -1,5 +1,15 @@
 [
     {
+        "date": "2025-12-31",
+        "victim": "Aurora College",
+        "domain": "auroracollege.nt.ca",
+        "country": "CAN",
+        "summary": "Aurora College a suspendu les cours pour au moins une semaine après une attaque informatique pendant les vacances. Les classes en personne et en ligne sont suspendues pour la semaine du 5 au 9 janvier. Le collège travaille à la remédiation et à la récupération de ses systèmes.",
+        "title": "Aurora College suspends classes over cyber attack",
+        "url": "https://cabinradio.ca/273959/news/education/aurora-college-suspends-classes-over-cyber-attack/",
+        "added": "2026-01-05"
+    },
+    {
         "date": "2025-12-26",
         "victim": "Oltenia Energy Complex",
         "domain": "ceoltenia.ro",
