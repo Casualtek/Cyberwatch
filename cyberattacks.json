@@ -1,5 +1,15 @@
 [
     {
+        "date": "2025-12-26",
+        "victim": "Oltenia Energy Complex",
+        "domain": "ceoltenia.ro",
+        "country": "ROU",
+        "summary": "L'Oltenia Energy Complex, le plus grand producteur d'énergie au charbon de Roumanie, a subi une attaque de ransomware qui a perturbé ses systèmes informatiques. L'attaque a eu lieu le 26 décembre 2025 et a entraîné l'encryption de documents et la perturbation de systèmes clés. Les opérations de l'entreprise ont été partiellement affectées, mais l'approvisionnement énergétique national est resté sécurisé.",
+        "title": "Romania’s Oltenia Energy Complex suffers major ransomware attack",
+        "url": "https://securityaffairs.com/186290/cyber-crime/romanias-oltenia-energy-complex-suffers-major-ransomware-attack.html",
+        "added": "2026-01-05"
+    },
+    {
         "date": "2025-12-20",
         "victim": "Lepido Rocco",
         "domain": "lepidorocco.it",
