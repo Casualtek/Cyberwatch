@@ -1,5 +1,15 @@
 [
     {
+        "date": "2025-08-11",
+        "victim": "BTU International",
+        "domain": "btu.com",
+        "country": "USA",
+        "summary": "BTU International experienced a ransomware attack in August 2025, resulting in unauthorized access to its IT systems and potential exposure of personal information. The affected information may have included individuals' names, Social Security numbers, and financial account numbers. BTU is providing complimentary credit protection and monitoring services to potentially affected individuals.",
+        "title": "Data Breach Notification",
+        "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/577bc65b-57fc-4b25-9f34-a636f45f3e33.html",
+        "added": "2025-12-27"
+    },
+    {
         "date": "2025-12-25",
         "victim": "Leduc County",
         "domain": "leduc-county.com",
