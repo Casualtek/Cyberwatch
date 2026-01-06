@@ -1,5 +1,25 @@
 [
     {
+        "date": "2025-12-29",
+        "victim": "L'Épi du Rouergue",
+        "domain": "epidurouergue.fr",
+        "country": "FRA",
+        "summary": "L'Épi du Rouergue a été victime d'une cyberattaque qui a paralysé ses moyens de communication externes, mais l'entreprise assure le maintien de son activité de production et la continuité du fonctionnement de ses magasins. La situation est exceptionnelle et une cellule de crise a été mise en place pour coordonner les efforts. L'entreprise basée à Lioujas est une importante boulangerie industrielle aveyronnaise.",
+        "title": "Cyberattaque à L’Épi du Rouergue : l’entreprise aveyronnaise perturbée mais ses magasins restent ouverts",
+        "url": "https://www.leprogresstaffricain.fr/actualite-14607-cyberattaque-a-l-epi-du-rouergue-l-entreprise-aveyronnaise-perturbee-mais-ses-magasins-restent-ouverts",
+        "added": "2026-01-06"
+    },
+    {
+        "date": "2023-12-30",
+        "victim": "Sedgwick Government Solutions Inc.",
+        "domain": "sedgwickgovernment.com",
+        "country": "USA",
+        "summary": "Sedgwick a confirmé qu'une cyberattaque a touché l'une de ses filiales, Sedgwick Government Solutions Inc., après que le groupe de ransomware TridentLocker a revendiqué le vol de données sensibles. L'attaque a eu lieu le 30 décembre et a touché un système de transfert de fichiers isolé. L'entreprise a isolé les systèmes, employé des experts en cybersécurité et informé les autorités et les parties prenantes.",
+        "title": "Sedgwick confirms cyberattack on subsidiary after TridentLocker claims data theft - SiliconANGLE",
+        "url": "https://siliconangle.com/2026/01/05/sedgwick-confirms-cyberattack-subsidiary-tridentlocker-claims-data-theft/",
+        "added": "2026-01-06"
+    },
+    {
         "date": "2025-12-25",
         "victim": "Leduc County",
         "domain": "leduc-county.com",
