@@ -1,5 +1,15 @@
 [
     {
+        "date": "2025-10-17",
+        "victim": "Medical Center, LLP",
+        "domain": "dublinmedicalcenter.com",
+        "country": "USA",
+        "summary": "Medical Center, LLP suffered a data breach after an unauthorized third party gained access to a portion of their computer network, potentially exposing protected health information of patients. The breach was detected on October 17, 2025, and the organization has since worked to secure their systems and notify impacted individuals. An attack was claimed by Paar on November 22.",
+        "title": "2026-01-02 Medical Center, LLP Data Breach Notice to Consumers",
+        "url": "https://ago.vermont.gov/document/2026-01-02-medical-center-llp-data-breach-notice-consumers",
+        "added": "2026-01-06"
+    },
+    {
         "date": "2025-12-29",
         "victim": "L'Épi du Rouergue",
         "domain": "epidurouergue.fr",
