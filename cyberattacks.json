@@ -1,5 +1,35 @@
 [
     {
+        "date": "2025-05-31",
+        "victim": "Artemis Healthcare, Inc.",
+        "domain": "arianadx.com",
+        "country": "USA",
+        "summary": "Artemis Healthcare, Inc. suffered a ransomware attack between May 5, 2025, and May 31, 2025, resulting in unauthorized access to their network. The breach may have involved sensitive information, including names and other data elements. An attack was claimed by Crypto24 on July 16.",
+        "title": "2025-12-23 Artemis Healthcare Data Breach Notice to Consumers",
+        "url": "https://ago.vermont.gov/document/2025-12-23-artemis-healthcare-data-breach-notice-consumers",
+        "added": "2025-12-30"
+    },
+    {
+        "date": "2025-04-28",
+        "victim": "Foley & Lardner LLP",
+        "domain": "foley.com",
+        "country": "USA",
+        "summary": "Foley & Lardner LLP experienced a data security incident involving potential unauthorized access to certain data, resulting in the exposure of personal information. The incident occurred on April 28, 2025, and was discovered on December 18, 2025. The affected information included names and other personal data elements.",
+        "title": "2025-12-23 Foley & Lardner Data Breach Notice to Consumers",
+        "url": "https://ago.vermont.gov/document/2025-12-23-foley-lardner-data-breach-notice-consumers",
+        "added": "2025-12-30"
+    },
+    {
+        "date": "2025-09-11",
+        "victim": "Sasserath & Co.",
+        "domain": "sasscpas.com",
+        "country": "USA",
+        "summary": "Sasserath & Co. experienced a data security incident where unauthorized access to a single workstation resulted in access to a small number of draft tax returns, exposing personal information of affected individuals.",
+        "title": "2025-12-30 Sasserath & Co Data Breach Notice to Consumers",
+        "url": "https://ago.vermont.gov/document/2025-12-30-sasserath-co-data-breach-notice-consumers",
+        "added": "2026-01-06"
+    },
+    {
         "date": "2024-08-09",
         "victim": "Chesapeake Bay Maritime Museum, Inc.",
         "domain": "cbmm.org",
