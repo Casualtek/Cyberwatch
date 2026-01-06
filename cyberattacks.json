@@ -1,5 +1,15 @@
 [
     {
+        "date": "2025-12-25",
+        "victim": "Leduc County",
+        "domain": "leduc-county.com",
+        "country": "CAN",
+        "summary": "Le comté de Leduc a été la cible d’une cyberattaque délibérée de type rançongiciel, détectée le 25 décembre, qui a entraîné la désactivation de plusieurs systèmes informatiques. Certains services, dont les courriels, les portails de permis et les formulaires en ligne, sont indisponibles, tandis qu’une enquête médico-légale est en cours avec l’appui de la GRC et d’experts en cybersécurité. Selon les autorités, l’attaque a été rapidement contenue, l’impact sur les données serait minime et le comté travaille à rétablir ses opérations sans pouvoir encore préciser de calendrier.",
+        "title": "Leduc County target of Christmas Day cybersecurity attack",
+        "url": "https://www.ctvnews.ca/edmonton/article/leduc-county-target-of-christmas-day-cybersecurity-attack/",
+        "added": "2026-01-05"
+    },
+    {
         "date": "2025-08-11",
         "victim": "BTU International",
         "domain": "btu.com",
@@ -8,18 +18,6 @@
         "title": "Data Breach Notification",
         "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/577bc65b-57fc-4b25-9f34-a636f45f3e33.html",
         "added": "2025-12-27"
-    },
-    {
-        "date": "2025-12-25",
-        "victim": "Leduc County",
-        "domain": "leduc-county.com",
-        "country": "CAN",
-        "summary": "Le comté de Leduc a été la cible d’une cyberattaque délibérée de type rançongiciel, détectée le 25 décembre, qui a entraîné la désactivation de plusieurs systèmes informatiques.
-Certains services, dont les courriels, les portails de permis et les formulaires en ligne, sont indisponibles, tandis qu’une enquête médico-légale est en cours avec l’appui de la GRC et d’experts en cybersécurité.
-Selon les autorités, l’attaque a été rapidement contenue, l’impact sur les données serait minime et le comté travaille à rétablir ses opérations sans pouvoir encore préciser de calendrier.",
-        "title": "Leduc County target of Christmas Day cybersecurity attack",
-        "url": "https://www.ctvnews.ca/edmonton/article/leduc-county-target-of-christmas-day-cybersecurity-attack/",
-        "added": "2026-01-05"
     },
     {
         "date": "2025-12-15",
