@@ -1,5 +1,55 @@
 [
     {
+        "date": "2025-11-07",
+        "victim": "Mercadien PC Certified Public Accountants",
+        "domain": "mercadien.com",
+        "country": "USA",
+        "summary": "The breach details are unclear, but it appears to be a data breach involving multiple entities and domains. The exact nature and scope of the breach are unknown. Further investigation is required to determine the extent of the breach.",
+        "title": "Data Breach Notification",
+        "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/4d8d003f-1b63-4f61-8564-32582d217590.html",
+        "added": "2026-01-01"
+    },
+    {
+        "date": "2025-05-24",
+        "victim": "Apro, LLC d/b/a United Pacific (Apro)",
+        "domain": "unitedpacific.com",
+        "country": "USA",
+        "summary": "Apro suffered a data breach where an unauthorized third-party accessed certain Apro systems from May 23, 2025 to May 24, 2025, obtaining certain files containing personal information. The breach was discovered on December 18, 2025. Apro is offering complimentary Experian IdentityWorks memberships to affected individuals.",
+        "title": "Data Breach Notification",
+        "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/c6a3f003-9238-4c70-9fb8-f25d655ee495.html",
+        "added": "2025-12-30"
+    },
+    {
+        "date": "2025-03-18",
+        "victim": "CoMark Equity Alliance",
+        "domain": "ceagrain.com",
+        "country": "USA",
+        "summary": "CoMark Equity Alliance suffered a security incident where unauthorized access to their network occurred on or around March 18, 2025, potentially exposing full names and Social Security numbers. The incident was discovered on December 17, 2025, after a comprehensive investigation. The company is offering complimentary credit monitoring and identity theft protection services to affected individuals.",
+        "title": "Data Breach Notification",
+        "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/d3bb6273-a7a5-4f52-b0cf-bb8942012720.html",
+        "added": "2025-12-28"
+    },
+    {
+        "date": "2025-10-14",
+        "victim": "Ellafi Federal Credit Union",
+        "domain": "ellafifcu.org",
+        "country": "USA",
+        "summary": "Ellafi Federal Credit Union experienced a network disruption on October 14, 2025, which may have involved unauthorized access to personal information. An investigation revealed that certain files may have been accessed and/or acquired without authorization. The affected data included names, Social Security numbers, and credit/debit card numbers.",
+        "title": "2025-12-27 Ellafi Federal Credit Union Data Breach Notice to Consumers",
+        "url": "https://ago.vermont.gov/document/2025-12-27-ellafi-federal-credit-union-data-breach-notice-consumers",
+        "added": "2025-12-30"
+    },
+    {
+        "date": "2024-09-26",
+        "victim": "Barton Gilman LLP",
+        "domain": "bglaw.com",
+        "country": "USA",
+        "summary": "Barton Gilman LLP suffered a data breach where personal information of a limited number of individuals was removed from their network due to unauthorized access between September 13, 2024, and September 26, 2024. The types of information involved include names and other personal data. The breach occurred between September 13, 2024, and September 26, 2024.",
+        "title": "2025-12-23 Barton Gilman Data Breach Notice to Consumers",
+        "url": "https://ago.vermont.gov/document/2025-12-23-barton-gilman-data-breach-notice-consumers",
+        "added": "2025-12-30"
+    },
+    {
         "date": "2025-08-11",
         "victim": "Washington Prime Group Holdings L.P.",
         "domain": "wpgus.com",
