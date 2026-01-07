@@ -1,5 +1,15 @@
 [
     {
+        "date": "2025-12-25",
+        "victim": "Oakland Community School District 5",
+        "domain": "oakland5.org",
+        "country": "USA",
+        "summary": "Le district scolaire d'Oakland Community School District 5 dans l'Illinois a subi une cyberattaque pendant les vacances, mais a réussi à contenir l'attaque et à restaurer les systèmes sans payer de rançon. L'attaque n'a pas eu d'impact sur les étudiants ou le personnel, mais le district n'a pas précisé si des services auraient été affectés si l'attaque avait eu lieu pendant les classes. Le district a indiqué qu'il ne croyait pas que des données sensibles sur les étudiants aient été affectées.",
+        "title": "Oakland, Illinois school district says systems restored after cyberattack",
+        "url": "https://dysruptionhub.com/oakland-cusd5-cyberattack-illinois/",
+        "added": "2026-01-07"
+    },
+    {
         "date": "2025-10-13",
         "victim": "Designs For Vision, Inc.",
         "domain": "designsforvision.com",
