@@ -1,5 +1,138 @@
 [
     {
+        "victim": "incolease.com",
+        "domain": "incolease.com",
+        "country": "US",
+        "date": "2025-09-30",
+        "group": "lockbit5"
+    },
+    {
+        "victim": "firstrateak.com",
+        "domain": "firstrateak.com",
+        "country": "US",
+        "date": "2025-10-10",
+        "group": "lockbit5"
+    },
+    {
+        "victim": "felixvet.com",
+        "domain": "felixvet.com",
+        "country": "BG",
+        "date": "2025-10-30",
+        "group": "lockbit5"
+    },
+    {
+        "victim": "comune.balmuccia.vc.it",
+        "domain": "comune.balmuccia.vc.it",
+        "country": "IT",
+        "date": "2025-09-19",
+        "group": "lockbit5"
+    },
+    {
+        "victim": "elundini.gov.za",
+        "domain": "elundini.gov.za",
+        "country": "ZA",
+        "date": "2025-10-04",
+        "group": "lockbit5"
+    },
+    {
+        "victim": "chmsbc.org.br",
+        "domain": "chmsbc.org.br",
+        "country": "BR",
+        "date": "2025-08-14",
+        "group": "lockbit5"
+    },
+    {
+        "victim": "iscot.it",
+        "domain": "iscot.it",
+        "country": "IT",
+        "date": "2025-10-27",
+        "group": "lockbit5"
+    },
+    {
+        "victim": "four-points.marriott.com",
+        "domain": "four-points.marriott.com",
+        "country": "US",
+        "date": "2025-09-21",
+        "group": "lockbit5"
+    },
+    {
+        "victim": "pilgrimpackaging.com",
+        "domain": "pilgrimpackaging.com",
+        "country": "US",
+        "date": "2025-08-12",
+        "group": "lockbit5"
+    },
+    {
+        "victim": "tracsa.com.mx",
+        "domain": "tracsa.com.mx",
+        "country": "MX",
+        "date": "2025-10-18",
+        "group": "lockbit5"
+    },
+    {
+        "victim": "cadopt.com",
+        "domain": "cadopt.com",
+        "country": "IN",
+        "date": "2025-11-05",
+        "group": "lockbit5"
+    },
+    {
+        "victim": "kap.co.th",
+        "domain": "kap.co.th",
+        "country": "TH",
+        "date": "2025-11-10",
+        "group": "lockbit5"
+    },
+    {
+        "victim": "berjaya-air.com",
+        "domain": "berjaya-air.com",
+        "country": "MY",
+        "date": "2025-09-17",
+        "group": "lockbit5"
+    },
+    {
+        "victim": "rjwalker.com",
+        "domain": "rjwalker.com",
+        "country": "US",
+        "date": "2025-09-18",
+        "group": "lockbit5"
+    },
+    {
+        "victim": "insightchicago.com",
+        "domain": "insightchicago.com",
+        "country": "US",
+        "date": "2025-09-02",
+        "group": "lockbit5"
+    },
+    {
+        "victim": "jvdbassoc.com",
+        "domain": "jvdbassoc.com",
+        "country": "US",
+        "date": "2025-11-24",
+        "group": "lockbit5"
+    },
+    {
+        "victim": "axxel.biz",
+        "domain": "axxel.biz",
+        "country": "SG",
+        "date": "2025-12-04",
+        "group": "lockbit5"
+    },
+    {
+        "victim": "maasa.com.ar",
+        "domain": "maasa.com.ar",
+        "country": "AR",
+        "date": "2025-11-06",
+        "group": "lockbit5"
+    },
+    {
+        "victim": "clarindahealth.com",
+        "domain": "clarindahealth.com",
+        "country": "US",
+        "date": "2025-10-08",
+        "group": "lockbit5"
+    },
+    {
         "victim": "Shands Elbert",
         "domain": "shandselbert.com",
         "country": "US",
