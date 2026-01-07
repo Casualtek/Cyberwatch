@@ -1,5 +1,25 @@
 [
     {
+        "date": "2025-10-13",
+        "victim": "Designs For Vision, Inc.",
+        "domain": "designsforvision.com",
+        "country": "USA",
+        "summary": "Designs For Vision, Inc. experienced a data breach between October 11, 2025, and October 13, 2025, resulting in unauthorized access to certain computer systems and the theft of files. The breach involved the theft of personal data, including names and other data elements. A cyberattack was claimed by Akira on November 3.",
+        "title": "2026-01-05 Designs For Vision Data Breach Notice to Consumers",
+        "url": "https://ago.vermont.gov/document/2026-01-05-designs-vision-data-breach-notice-consumers",
+        "added": "2026-01-07"
+    },
+    {
+        "date": "2026-01-01",
+        "victim": "Prosura",
+        "domain": "vroomvroomvroom.com.au",
+        "country": "AUS",
+        "summary": "L'assureur Prosura a subi une faille de sécurité, avec des données personnelles compromises en raison d'un accès non autorisé à certaines parties de ses systèmes. Les clients de l'assureur ont reçu des emails d'un « acteur menaçant » qui a exigé que l'entreprise contacte pour résoudre le problème. Prosura a indiqué que les détails de carte de crédit n'ont pas été compromis et que les polices restent inchangées.",
+        "title": "Victims of car excess insurance hack worried about data security",
+        "url": "https://www.abc.net.au/news/2026-01-07/car-excess-insurer-prosura-hit-by-cyber-breach-customer-data/106204198",
+        "added": "2026-01-07"
+    },
+    {
         "date": "2025-12-19",
         "victim": "Evergreen Printing Co.",
         "domain": "egpp.com",
