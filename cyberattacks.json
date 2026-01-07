@@ -1,5 +1,15 @@
 [
     {
+        "date": "2025-12-19",
+        "victim": "Evergreen Printing Co.",
+        "domain": "egpp.com",
+        "country": "USA",
+        "summary": "Une attaque de ransomware a touché Evergreen Printing Co., affectant les systèmes d'impression et de gestion des abonnements de plusieurs publications, dont The Retrospect. L'attaque a eu lieu le 19 décembre et a perturbé les opérations de presse, les listes de messagerie et les communications de l'entreprise. Evergreen travaille avec des experts pour résoudre l'incident et n'a pas encore fourni de calendrier de restauration.",
+        "title": "Ransomware at New Jersey printer disrupts newspaper mailings",
+        "url": "https://dysruptionhub.com/evergreen-printing-ransomware-new-jersey/",
+        "added": "2026-01-07"
+    },
+    {
         "date": "2025-11-15",
         "victim": "Regis Resources",
         "domain": "regisresources.com.au",
