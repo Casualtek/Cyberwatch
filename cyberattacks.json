@@ -1,5 +1,25 @@
 [
     {
+        "date": "2025-04-21",
+        "victim": "Brett Robinson Vacation Rental",
+        "domain": "brett-robinson.com",
+        "country": "USA",
+        "summary": "On or about April 21, 2025, Brett Robinson experienced a data security incident. A cyberattack was claimed by Worldleaks on June 14.",
+        "title": "Data Breach Notification",
+        "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/8ea28854-a8cb-4104-ba5c-5eaf3b414097.html",
+        "added": "2026-01-08"
+    },
+    {
+        "date": "2025-09-19",
+        "victim": "Johnson, Webbert, & Beard, LLP",
+        "domain": "johnsonwebbert.com",
+        "country": "USA",
+        "summary": "Unauthorized access to Johnson, Webbert, & Beard, LLP's network occurred between September 15, 2025, and September 19, 2025, potentially exposing personal information. The incident was discovered on September 19, 2025, and an investigation was conducted. The organization is offering complimentary identity protection services to affected individuals.",
+        "title": "Data Breach Notification",
+        "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/2849eb54-b409-450a-9c3c-64030c5278e6.html",
+        "added": "2026-01-08"
+    },
+    {
         "date": "2026-01-06",
         "victim": "Metro Pet/Manheim Pike Veterinary Hospital",
         "domain": "familyvet.net",
