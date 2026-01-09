@@ -1,5 +1,25 @@
 [
     {
+        "date": "2025-12-31",
+        "victim": "Universidad Nacional Autónoma de México (UNAM)",
+        "domain": "unam.mx",
+        "country": "MEX",
+        "summary": "L'Universidad Nacional Autónoma de México a détecté et contenu une cyberattaque visant cinq de ses systèmes informatiques pendant la période de vacances d'hiver. L'institution a confirmé l'activation de protocoles de sécurité et l'absence de fuite de données suite à l'incident. La détection rapide et la mise en œuvre de mesures de sécurité ont permis d'isoler les actifs compromis et de prévenir la propagation de la vulnérabilité.",
+        "title": "UNAM Contains Cyberattack, Confirms No Data Breach",
+        "url": "https://mexicobusiness.news/cybersecurity/news/unam-contains-cyberattack-confirms-no-data-breach",
+        "added": "2026-01-09"
+    },
+    {
+        "date": "2025-12-04",
+        "victim": "Garten Services, Inc.",
+        "domain": "garten.org",
+        "country": "USA",
+        "summary": "Garten Services, Inc. experienced a data security incident in August 2025, where some personal information may have been accessed or acquired without authorization. The incident was discovered on December 4, 2025. The affected data included various personal information elements.",
+        "title": "2026-01-05 Garten Services Dara Breach Notice to Consumers",
+        "url": "https://ago.vermont.gov/document/2026-01-05-garten-services-dara-breach-notice-consumers",
+        "added": "2026-01-09"
+    },
+    {
         "date": "2025-04-21",
         "victim": "Brett Robinson Vacation Rental",
         "domain": "brett-robinson.com",
