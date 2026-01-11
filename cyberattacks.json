@@ -1,5 +1,25 @@
 [
     {
+        "date": "2025-12-105",
+        "victim": "SmartCOP",
+        "domain": "smartcop.com",
+        "country": "USA",
+        "summary": "La ville de Midway a subi une faille de sécurité impliquant le système SmartCOP de son département de police, ce qui soulève des inquiétudes quant à la sécurité des dossiers publics et des documents sensibles. Les responsables de la ville ont confirmé que le système SmartCOP a été piraté et que des rançongiciels sont impliqués, ce qui pourrait avoir un impact sur les documents et les dossiers publics. Les résidents ont signalé des difficultés pour accéder aux dossiers publics demandés, ce qui a incité les responsables de la ville à en informer certains membres de la communauté par courriel.",
+        "title": "City of Midway confirms ransomware breach involving police records system",
+        "url": "https://www.wtxl.com/news/local-news/city-of-midway-confirms-ransomware-breach-involving-police-records-system",
+        "added": "2026-01-11"
+    },
+    {
+        "date": "2026-01-09",
+        "victim": "Fundação Estadual do Meio Ambiente e Recursos Hídricos (Femarh)",
+        "domain": "femarh.rr.gov.br",
+        "country": "BRA",
+        "summary": "La Fundação Estadual do Meio Ambiente e Recursos Hídricos a été victime d'une attaque cibernétique, les systèmes numériques ont été touchés, mais des mesures de sécurité ont été prises pour protéger les informations. L'équipe technique a identifié l'attaque et a pris des mesures pour garantir la continuité des services. La fondation a déposé une plainte auprès de la police civile de Roraima.",
+        "title": "Ataque cibernético atinge sistemas da Femarh",
+        "url": "https://www.folhabv.com.br/cotidiano/ataque-cibernetico-atinge-sistemas-da-femarh/",
+        "added": "2026-01-11"
+    },
+    {
         "date": "2025-06-15",
         "victim": "City of Inman",
         "domain": "cityofinman.org",
