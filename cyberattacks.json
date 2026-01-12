@@ -1,6 +1,16 @@
 [
     {
-        "date": "2025-12-105",
+        "date": "2025-12-15",
+        "victim": "Copec",
+        "domain": "empresascopec.cl",
+        "country": "CHL",
+        "summary": "Copec a réussi à contenir un attaque cibernétique de la part d'un groupe de hackers internationaux, sans que les données des clients soient compromises. L'entreprise a activé ses protocoles de sécurité et a renforcé ses mesures de protection pour éviter que la situation se répète. L'incident de ciberseguridad a été détecté il y a quelques semaines et a été contenu sans affecter l'opération de l'entreprise.",
+        "title": "Copec logró frenar ataque cibernético de grupo de hackers internacionales: empresa asegura que datos de clientes no se vieron comprometidos | The Clinic",
+        "url": "https://www.theclinic.cl/2026/01/09/copec-logro-frenar-ataque-cibernetico-de-grupo-de-hackers-internacionales-empresa-asegura-que-datos-de-clientes-no-se-vieron-comprometidos/",
+        "added": "2026-01-11"
+    },
+    {
+        "date": "2025-12-05",
         "victim": "SmartCOP",
         "domain": "smartcop.com",
         "country": "USA",
