@@ -1,5 +1,15 @@
 [
     {
+        "date": "2026-01-11",
+        "victim": "Kyowon Group",
+        "domain": "kyowon.co.kr",
+        "country": "KOR",
+        "summary": "Le groupe Kyowon a fermé son réseau interne après avoir détecté une attaque de ransomware présumée, il enquête actuellement sur les conséquences de cette attaque. Plusieurs sites web exploités par les filiales de Kyowon Group sont actuellement indisponibles. L'entreprise a signalé la faille de sécurité suspectée à l'agence coréenne de sécurité internet et aux autorités compétentes.",
+        "title": "Kyowon Group shuts down internal network after suspected ransomware attack",
+        "url": "https://koreajoongangdaily.joins.com/news/2026-01-12/business/tech/Kyowon-Group-shuts-down-internal-network-after-suspected-ransomware-attack/2498111",
+        "added": "2026-01-12"
+    },
+    {
         "date": "2025-10-10",
         "victim": "Stoss Landscape Urbanism",
         "domain": "stoss.net",
