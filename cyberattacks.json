@@ -1,5 +1,15 @@
 [
     {
+        "date": "2026-01-10",
+        "victim": "Taiwan Fire & Marine Insurance Co., Ltd.",
+        "domain": "tfmi.com.tw",
+        "country": "TWN",
+        "summary": "Une entreprise a subi une attaque anormale sur son réseau, mais a réussi à bloquer l'attaque grâce à ses mécanismes de défense et d'investigation de cybersécurité, sans impact significatif sur ses finances ou opérations. L'entreprise continuera à surveiller la situation et à renforcer la gestion de son réseau et de ses infrastructures d'information. L'attaque n'a pas eu d'impact significatif sur l'entreprise.",
+        "title": "Today's Information",
+        "url": "https://emops.twse.com.tw/server-java/t05sr01_1_e?&isNew=Y&seq_no=1&spoke_time=170527&spoke_date=20260110&co_id=2832",
+        "added": "2026-01-12"
+    },
+    {
         "date": "2025-12-15",
         "victim": "Copec",
         "domain": "empresascopec.cl",
