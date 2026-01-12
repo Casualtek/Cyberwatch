@@ -1,5 +1,35 @@
 [
     {
+        "date": "2025-10-10",
+        "victim": "Stoss Landscape Urbanism",
+        "domain": "stoss.net",
+        "country": "USA",
+        "summary": "An unauthorized third party gained access to Stoss Landscape Urbanism's network on September 14, 2025, and took certain files, potentially exposing personal information. A cyberattack was claimed by Akira on November 19.",
+        "title": "Data Breach Notification",
+        "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/f5eb5538-d3ae-47c1-8857-ffa3fb2f180e.html",
+        "added": "2026-01-10"
+    },
+    {
+        "date": "2025-10-24",
+        "victim": "Clackamas Community College",
+        "domain": "clackamas.edu",
+        "country": "USA",
+        "summary": "Clackamas Community College experienced a data breach where an unauthorized third party accessed a small number of systems and acquired files containing personal information. The breach occurred on October 24, 2025, and the college has taken steps to address the incident and prevent future occurrences. Affected individuals are being offered a one-year membership of credit monitoring and identity theft protection services.",
+        "title": "2026-01-08 Clackamas Community College Data Breach Notice to Consumers",
+        "url": "https://ago.vermont.gov/document/2026-01-08-clackamas-community-college-data-breach-notice-consumers",
+        "added": "2026-01-10"
+    },
+    {
+        "date": "2025-08-19",
+        "victim": "Cohen & Sprung Associates, LLC",
+        "domain": "cohenandassociates.com",
+        "country": "USA",
+        "summary": "Cohen & Sprung Associates, LLC experienced a network disruption on August 19, 2025, which led to unauthorized access to certain files. The investigation found that the files contained sensitive information such as Social Security numbers, driver's license numbers, and financial account information. The organization has offered credit monitoring services to affected individuals.",
+        "title": "2026-01-06 Cohen & Sprung Associates Data Breach Notice to Consumers",
+        "url": "https://ago.vermont.gov/document/2026-01-06-cohen-sprung-associates-data-breach-notice-consumers",
+        "added": "2026-01-10"
+    },
+    {
         "date": "2026-01-10",
         "victim": "Taiwan Fire & Marine Insurance Co., Ltd.",
         "domain": "tfmi.com.tw",
