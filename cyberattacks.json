@@ -1,5 +1,15 @@
 [
     {
+        "date": "2025-11-09",
+        "victim": "Devereux Foundation",
+        "domain": "devereux.org",
+        "country": "USA",
+        "summary": "La Devereux Foundation a détecté une activité suspecte dans ses systèmes électroniques le 9 novembre 2025, ce qui pourrait avoir un impact sur la confidentialité des informations relatives à certaines personnes, notamment des employés, des clients, des donateurs, des payeurs et des partenaires commerciaux.",
+        "title": "NOTICE OF DATA EVENT",
+        "url": "https://www.devereux.org/site/SPageServer/?pagename=data_notice_2025",
+        "added": "2026-01-13"
+    },
+    {
         "date": "2026-01-11",
         "victim": "Communauté d’agglomération Hénin-Carvin",
         "domain": "agglo-henincarvin.fr",
