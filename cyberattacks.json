@@ -1,5 +1,15 @@
 [
     {
+        "date": "2026-01-11",
+        "victim": "Stadt Halle",
+        "domain": "halle.de",
+        "country": "DEU",
+        "summary": "La ville de Halle a été victime d'une attaque informatique qui a déclenché les sirènes d'alerte, provoquant la panique parmi les habitants. Les autorités ont confirmé qu'il s'agissait d'un cyberattaque et ont ouvert une enquête pour identifier les responsables.",
+        "title": "Sirenen-Terror in Halle: Hacker lösen Amok-Alarm aus und versetzen Stadt in Angst – Polizei ermittelt",
+        "url": "https://dubisthalle.de/sirenen-alarm-in-halle-saale-wir-gehen-derzeit-von-cyberangriff-aus-stadt-zieht-polizei-hinzu/",
+        "added": "2026-01-13"
+    },
+    {
         "date": "2025-08-31",
         "victim": "University of Hawaiʻi Cancer Center",
         "domain": "hawaii.edu",
