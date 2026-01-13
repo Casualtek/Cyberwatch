@@ -1,6 +1,16 @@
 [
     {
         "date": "2026-01-13",
+        "victim": "Mairie de la Hague",
+        "domain": "lahague.fr",
+        "country": "FRA",
+        "summary": "La mairie de la Hague a été victime d'un incident informatique majeur le 13 janvier 2026. Les détails de l'incident ne sont pas précisés en raison d'un accès restreint à l'article. L'incident a été constaté par la commune le même jour.",
+        "title": "La Hague. La mairie est victime d'une intrusion dans son système informatique",
+        "url": "https://www.lamanchelibre.fr/actualite-1208396-la-hague-la-mairie-est-victime-d-une-intrusion-dans-son-systeme-informatique",
+        "added": "2026-01-13"
+    },
+    {
+        "date": "2026-01-13",
         "victim": "AZ Monica",
         "domain": "azmonica.be",
         "country": "BEL",
