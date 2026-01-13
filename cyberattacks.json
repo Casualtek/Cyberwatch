@@ -1,5 +1,15 @@
 [
     {
+        "date": "2025-08-31",
+        "victim": "University of Hawaiʻi Cancer Center",
+        "domain": "hawaii.edu",
+        "country": "USA",
+        "summary": "Des numéros de sécurité sociale et d'autres informations personnelles de participants à une étude du Centre du cancer de l'Université de Hawaï ont été exposés à des hackers informatiques en août, mais quatre mois plus tard, l'UH n'avait pas encore informé les personnes touchées que leurs données avaient été volées. L'UH a décidé de payer les hackers pour protéger les informations sensibles des participants. L'université travaille maintenant à compiler les noms et les adresses pour informer les participants à l'étude qui pourraient avoir été touchés.",
+        "title": "Hackers Accessed University of Hawaii Cancer Center Patient Data; They Weren’t Immediately Notified",
+        "url": "https://www.securityweek.com/hackers-accessed-university-of-hawaii-cancer-center-patient-data-they-werent-immediately-notified/",
+        "added": "2026-01-13"
+    },
+    {
         "date": "2026-01-11",
         "victim": "Kyowon Group",
         "domain": "kyowon.co.kr",
