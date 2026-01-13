@@ -1,5 +1,15 @@
 [
     {
+        "date": "2026-01-13",
+        "victim": "AZ Monica",
+        "domain": "azmonica.be",
+        "country": "BEL",
+        "summary": "Le réseau informatique de l'hôpital AZ Monica est actuellement hors service, ce qui pourrait être dû à une attaque de hacking, mais cela n'a pas encore été confirmé. Les soins non urgents sont reportés pour le moment. L'hôpital continue de fournir des soins urgents et prend soin des patients qui y sont actuellement hospitalisés.",
+        "title": "Computernetwerk AZ Monica in Antwerpen plat na mogelijke cyberaanval: \"Niet-dringende zorg uitgesteld\" | VRT NWS: nieuws",
+        "url": "https://www.vrt.be/vrtnws/nl/2026/01/13/netwerk-az-monica-ziekenhuizen-ligt-plat-niet-dringende-zorg-vo/",
+        "added": "2026-01-13"
+    },
+    {
         "date": "2025-11-09",
         "victim": "Devereux Foundation",
         "domain": "devereux.org",
