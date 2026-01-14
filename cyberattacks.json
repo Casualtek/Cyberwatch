@@ -1,5 +1,15 @@
 [
     {
+        "date": "2026-01-07",
+        "victim": "Anchorage Police Department",
+        "domain": "anchoragepolice.com",
+        "country": "USA",
+        "summary": "La police d'Anchorage a fermé certains serveurs et a coupé l'accès des fournisseurs après avoir appris qu'un fournisseur de services tiers utilisé lors d'une mise à niveau logicielle avait été victime d'une incident de cybersécurité. Aucune preuve de compromission des systèmes de la police ou d'acquisition de données n'a été trouvée. La police continue de surveiller ses systèmes pour minimiser les risques.",
+        "title": "Anchorage police shut down servers after cyber incident, Alaska",
+        "url": "https://dysruptionhub.com/anchorage-police-cyber-incident-alaska/",
+        "added": "2026-01-14"
+    },
+    {
         "date": "2026-01-13",
         "victim": "Mairie de la Hague",
         "domain": "lahague.fr",
