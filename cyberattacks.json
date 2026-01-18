@@ -1,5 +1,15 @@
 [
     {
+        "date": "2025-11-22",
+        "victim": "Jeffrey W Krol & Associates",
+        "domain": "jwkrol.com",
+        "country": "USA",
+        "summary": "Jeffrey W. Krol and Associates, LTD. suffered a cyber security incident resulting in unauthorized access to client files. The breach involved personal information such as name, address, email address, date of birth, phone numbers, social security numbers, and/or banking information. A cyberattack was claimed by Sinobi on December 7.",
+        "title": "Data Breach Notification",
+        "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/c8d90fe1-7835-42c6-8400-e2d58b0779d9.html",
+        "added": "2026-01-14"
+    },
+    {
         "date": "2025-12-08",
         "victim": "Posillico",
         "domain": "posillicoinc.com",
