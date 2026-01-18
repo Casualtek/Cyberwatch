@@ -1,5 +1,65 @@
 [
     {
+        "date": "2025-12-08",
+        "victim": "Posillico",
+        "domain": "posillicoinc.com",
+        "country": "USA",
+        "summary": "Posillico, Inc. experienced a network disruption on December 8, 2025, and discovered that certain files were potentially accessed or acquired without authorization. The investigation found that personal information belonging to certain Maine residents was contained within the affected files. A cyberattack was claimed by Akira on January 06, 2026.",
+        "title": "Data Breach Notification",	
+        "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/6c9cb417-f8f3-4e1e-9876-4484ed54f66d.html",
+        "added": "2026-01-14"
+    },
+    {
+        "date": "2024-12-23",
+        "victim": "Monroe University",
+        "domain": "monroeu.edu",
+        "country": "USA",
+        "summary": "An unauthorized third party gained access to Monroe University's computer systems between December 9, 2024, and December 23, 2024, and acquired copies of some files on their network. The incident involved some personal information, including names, coupled with data elements. Monroe University is taking steps to reduce the risk of this type of incident occurring in the future.",
+        "title": "Data Breach Notification",
+        "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/738c45be-9db1-40dd-9c00-7fbb52f3c1d7.html",
+        "added": "2026-01-14"
+    },
+    {
+        "date": "2025-07-30",
+        "victim": "VF Wealth Management Inc.",
+        "domain": "vfwealthmgmt.com",
+        "country": "USA",
+        "summary": "An unauthorized person gained access to and copied information from VFWM's network on July 30, 2025, resulting in the exposure of personal information of two Maryland residents. The breach was discovered on July 30, 2025, but the impacted data was not validated and enriched until January 5, 2026. VFWM notified the affected individuals on January 14, 2026.",
+        "title": "Data Breach Notification",
+        "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/7d576517-a4c2-4602-a637-9a03536ecbf1.html",
+        "added": "2026-01-15"
+    },
+    {
+        "date": "2025-09-12",
+        "victim": "Goodwin Partners, LLP",
+        "domain": "goodwinptnrs.com",
+        "country": "USA",
+        "summary": "An unauthorized party gained access to the Goodwin network environment from August 28, 2025, to September 12, 2025, potentially accessing a limited amount of personal information, including full names.",
+        "title": "Data Breach Notification",
+        "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/d03e9630-c27c-4e8a-a661-32cbeda46e5e.html",
+        "added": "2026-01-16"
+    },
+    {
+        "date": "2025-10-17",
+        "victim": "Daniel H Cook Associates Inc.",
+        "domain": "dhcook.com",
+        "country": "USA",
+        "summary": "Daniel H. Cook Associates, Inc. experienced a network disruption on October 17, 2025, which led to a data security incident. The incident may have involved the unauthorized access and/or acquisition of certain files containing personal information. DHCA is offering affected individuals complimentary identity protection services through IDX.",
+        "title": "Data Breach Notification",
+        "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/877ffa05-de26-4cee-b8ba-bee1810fb744.html",
+        "added": "2026-01-18"
+    },
+    {
+        "date": "2025-10-23",
+        "victim": "Fried, Frank, Harris, Shriver & Jacobson LLP",
+        "domain": "friedfrank.com",
+        "country": "USA",
+        "summary": "A shared network drive at Fried, Frank, Harris, Shriver & Jacobson LLP was compromised by an unauthorized third party, resulting in the copying of files containing personal information of J.P. Morgan clients. The compromised files included names and one or more of the following: account numbers, Social Security numbers, passport numbers, and/or other government ID numbers. J.P. Morgan's systems were not compromised and remain secure.",
+        "title": "Data Breach Notification",
+        "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/59095697-884f-4a1b-9c40-55649102d7bf.html",
+        "added": "2026-01-13"
+    },
+    {
         "date": "2025-05-18",
         "victim": "William C. Smith and Company",
         "domain": "wcsmith.com",
