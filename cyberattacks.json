@@ -1,5 +1,35 @@
 [
     {
+        "date": "2025-07-29",
+        "victim": "Avosina Healthcare Solutions",
+        "domain": "avosinamed.com",
+        "country": "USA",
+        "summary": "Avosina Healthcare Solutions experienced a data breach on July 29, 2025, where an unknown third party accessed and compromised certain data within their systems. The impacted information may have included names, addresses, medical information, and health insurance information. A cyberattack was claimed by Qilin on August 7.",
+        "title": "2026-01-09 Avosina Healthcare Solutions Data Breach Notice to Consumers",
+        "url": "https://ago.vermont.gov/document/2026-01-09-avosina-healthcare-solutions-data-breach-notice-consumers",
+        "added": "2026-01-15"
+    },
+    {
+        "date": "2024-12-23",
+        "victim": "Monroe University",
+        "domain": "monroeu.edu",
+        "country": "USA",
+        "summary": "An unauthorized third party gained access to certain Monroe University computer systems between December 9, 2024, and December 23, 2024, and acquired copies of some files on their network. The incident involved some personal information, but there is no evidence that it has been used for identity theft or fraud. Monroe University is taking steps to reduce the risk of similar incidents occurring in the future.",
+        "title": "2026-01-13 Monroe University Data Breach Notice to Consumers",
+        "url": "https://ago.vermont.gov/document/2026-01-13-monroe-university-data-breach-notice-consumers",
+        "added": "2026-01-15"
+    },
+    {
+        "date": "2025-11-10",
+        "victim": "Med Atlantic, Inc.",
+        "domain": "medatlanticgroup.com",
+        "country": "USA",
+        "summary": "Med Atlantic, Inc. experienced a data security incident that could have involved personal information processed by human resources, including names, dates of birth, Social Security numbers, and employment information. The incident occurred on November 10, 2025, and was remediated immediately. The organization has taken measures to strengthen its data security and provide complimentary identity monitoring services to affected individuals.",
+        "title": "2026-01-09 Med Atlantic Data Breach Notice to Consumers",
+        "url": "https://ago.vermont.gov/document/2026-01-09-med-atlantic-data-breach-notice-consumers",
+        "added": "2026-01-13"
+    },
+    {
         "date": "2026-01-07",
         "victim": "Kreisklinik Roth",
         "domain": "kreisklinik-roth.de",
