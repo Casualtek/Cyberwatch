@@ -1,5 +1,35 @@
 [
     {
+        "date": "2025-01-13",
+        "victim": "Harvard Pilgrim Health Care",
+        "domain": "point32health.com",
+        "country": "USA",
+        "summary": "Conduent Business Services LLC experienced a cyber incident that impacted a limited portion of their network, resulting in unauthorized access to some files associated with Point32 Health. The incident occurred from October 21, 2024, to January 13, 2025. The affected files contained personal information, including names.",
+        "title": "Data Breach Notification",
+        "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/5f74a06f-8508-4e48-822b-98057fadd093.html",
+        "added": "2026-01-15"
+    },
+    {
+        "date": "2025-04-08",
+        "victim": "Independence Advocates of Maine",
+        "domain": "iamsupports.org",
+        "country": "USA",
+        "summary": "Independence Advocates of Maine suffered a data-security event in April 2025, where an unauthorized third party may have accessed personal information. The affected information includes names, dates of birth, government identification numbers, financial account details, and health information. The organization is offering free credit monitoring services and a complimentary 1-year membership to Experian's IdentityWorks.",
+        "title": "Data Breach Notification",
+        "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/6ebf2eab-a5be-4938-a27d-9cc8bb6122e5.html",
+        "added": "2026-01-14"
+    },
+    {
+        "date": "2025-07-30",
+        "victim": "H&H Color Lab, Inc.",
+        "domain": "hhcolorlab.com",
+        "country": "USA",
+        "summary": "H&H Color Lab suffered a data breach on July 30, 2025, where an unauthorized third party gained access to a portion of their computer network and accessed or acquired some of the files on their network. The impacted files potentially contained personal information of individuals, including their full name, data elements. H&H Color Lab worked with third-party experts to address the event and further secure their systems to protect the affected individuals.",
+        "title": "Data Breach Notification",
+        "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/fbdf7ead-7c53-4077-9396-de3f325a8ac2.html",
+        "added": "2026-01-14"
+    },
+    {
         "date": "2025-11-22",
         "victim": "Jeffrey W Krol & Associates",
         "domain": "jwkrol.com",
