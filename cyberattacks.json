@@ -1,5 +1,35 @@
 [
     {
+        "date": "2025-05-18",
+        "victim": "William C. Smith and Company",
+        "domain": "wcsmith.com",
+        "country": "USA",
+        "summary": "An unknown actor gained access to certain systems for a small window of time between May 5, 2025, and May 18, 2025, and took some files. WC Smith then undertook a thorough review of the impacted and potentially impacted files to determine what information may have been impacted, to whom it relates, and to identify correct address information for the individuals. A cyberattack was claimed by Interlock on June 6.",
+        "title": "2026-01-12 William C. Smith and Company Data Breach Notice to Consumers",
+        "url": "https://ago.vermont.gov/document/2026-01-12-william-c-smith-and-company-data-breach-notice-consumers",
+        "added": "2026-01-14"
+    },
+    {
+        "date": "2025-03-08",
+        "victim": "Florence County Commission on Alcohol & Drug Abuse - dba Circle Park Behavioral Health Services",
+        "domain": "circlepark.com",
+        "country": "USA",
+        "summary": "Circle Park experienced a data security incident that may have involved personal information, including names, addresses, and personal health information. The incident occurred on March 8, 2025, and was discovered on the same day. The investigation revealed that an unknown actor accessed and acquired sensitive data without authorization.",
+        "title": "2026-01-14 Florence County Commission on Alcohol & Drug Abuse dba Circle Park Behavioral Health Services Data  Breach Notice to Consumers",
+        "url": "https://ago.vermont.gov/document/2026-01-14-florence-county-commission-alcohol-drug-abuse-dba-circle-park-behavioral-health-services",
+        "added": "2026-01-16"
+    },
+    {
+        "date": "2025-08-16",
+        "victim": "Gym Management Services, Inc.",
+        "domain": "gyminsight.com",
+        "country": "USA",
+        "summary": "Gym Management Services, Inc. suffered a data breach, resulting in unauthorized access to sensitive information. The company is offering free credit monitoring and identity protection services to affected individuals. The breach has been remediated, and the company is taking steps to prevent future incidents.",
+        "title": "2026-01-12 Gym Management Service Data Breach Notice to Consumers",
+        "url": "https://ago.vermont.gov/document/2026-01-12-gym-management-service-data-breach-notice-consumers",
+        "added": "2026-01-16"
+    },
+    {
         "date": "2025-07-29",
         "victim": "Avosina Healthcare Solutions",
         "domain": "avosinamed.com",
