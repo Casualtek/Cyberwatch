@@ -1,5 +1,15 @@
 [
     {
+        "date": "2025-12-11",
+        "victim": "Adriatic Port Authority",
+        "domain": "ancona.it",
+        "country": "ITA",
+        "summary": "L'Autorità di Sistema portuale del mare Adriatico centrale a été victime d'une attaque informatique le 11 décembre 2025, mais seulement 2% des informations ont été compromises. L'ente a pris des mesures pour protéger les données et a notifié les autorités compétentes. Les activités de l'AdSp ont continué normalement malgré l'attaque. Elle a été revendiquée le 14 janvier 2026 par Anubis.",
+        "title": "Cyber attacco all'AdSp di Ancona - Messaggero Marittimo",
+        "url": "https://www.messaggeromarittimo.it/cyber-attacco-alladsp-di-ancona/",
+        "added": "2026-01-19"
+    },
+    {
         "date": "2026-01-18",
         "victim": "Y.C.C. PARTS MFG. CO., LTD.",
         "domain": "yccco.com.tw",
