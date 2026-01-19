@@ -1,5 +1,15 @@
 [
     {
+        "date": "2026-01-13",
+        "victim": "Conceptnet GmbH",
+        "domain": "conceptnet.de",
+        "country": "DEU",
+        "summary": "Les sites web de Rewag, Stadtwerk, Jahnstadion et SSV Jahn sont actuellement inaccessibles ou ne sont accessibles que de manière limitée en raison d'une attaque de ransomware contre leur fournisseur de services externes, Conceptnet GmbH. L'attaque a été détectée et signalée aux autorités compétentes, et les équipes travaillent à la réparation des défaillances. La réouverture complète des systèmes n'est pas encore prévisible.",
+        "title": "Cyber-Attacke: Betroffenes Regensburger Unternehmen nimmt Stellung",
+        "url": "https://www.mittelbayerische.de/lokales/stadt-regensburg/cyber-attacke-betroffenes-regensburger-unternehmen-nimmt-stellung-20331400",
+        "added": "2026-01-19"
+    },
+    {
         "date": "2025-12-11",
         "victim": "Adriatic Port Authority",
         "domain": "ancona.it",
