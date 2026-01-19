@@ -1,5 +1,15 @@
 [
     {
+        "date": "2026-01-18",
+        "victim": "Y.C.C. PARTS MFG. CO., LTD.",
+        "domain": "yccco.com.tw",
+        "country": "TWN",
+        "summary": "YCC Parts a subi une attaque de hackers qui ont infiltré une partie de ses serveurs et crypté des données, entraînant une interruption temporaire du système. L'entreprise a activé ses mécanismes de défense et de récupération de la cybersécurité et a engagé des entreprises et des experts externes pour aider à l'enquête et à la remédiation. L'incident n'a pas eu d'impact significatif sur les opérations, la sécurité de l'information ou les données personnelles de l'entreprise.",
+        "title": "Today's Information",
+        "url": "https://emops.twse.com.tw/server-java/t05sr01_1_e?&isNew=Y&seq_no=1&spoke_time=181351&spoke_date=20260118&co_id=1339",
+        "added": "2026-01-19"
+    },
+    {
         "date": "2025-01-13",
         "victim": "Harvard Pilgrim Health Care",
         "domain": "point32health.com",
@@ -45,7 +55,7 @@
         "domain": "posillicoinc.com",
         "country": "USA",
         "summary": "Posillico, Inc. experienced a network disruption on December 8, 2025, and discovered that certain files were potentially accessed or acquired without authorization. The investigation found that personal information belonging to certain Maine residents was contained within the affected files. A cyberattack was claimed by Akira on January 06, 2026.",
-        "title": "Data Breach Notification",	
+        "title": "Data Breach Notification",
         "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/6c9cb417-f8f3-4e1e-9876-4484ed54f66d.html",
         "added": "2026-01-14"
     },
