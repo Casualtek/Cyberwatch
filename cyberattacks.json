@@ -1,5 +1,15 @@
 [
     {
+        "date": "2026-01-20",
+        "victim": "Landtag",
+        "domain": "landtag.sachsen-anhalt.de",
+        "country": "DEU",
+        "summary": "Une sirène a diffusé des avertissements sans autorisation à Querfurt, ce qui a déclenché une enquête du LKA et des demandes de renforcement de la cybersécurité au Landtag. Il s'agit du deuxième incident de ce type après un événement similaire à Halle. Les autorités estiment que les deux cas sont distincts.",
+        "title": "Falscher Sirenenalarm in Querfurt: LKA untersucht möglichen Cyberangriff",
+        "url": "https://www.mz.de/lokal/merseburg/sirene-alarm-lka-cyberangriff-4184205",
+        "added": "2026-01-20"
+    },
+    {
         "date": "2026-01-18",
         "victim": "Inverclyde Council",
         "domain": "inverclyde.gov.uk",
