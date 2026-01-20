@@ -1,5 +1,15 @@
 [
     {
+        "date": "2026-01-18",
+        "victim": "Inverclyde Council",
+        "domain": "inverclyde.gov.uk",
+        "country": "GBR",
+        "summary": "Le conseil d'Inverclyde a subi des incidents de cybersécurité, notamment la compromission d'un compte utilisateur éducatif. Les écoles et les établissements pour la petite enfance ont été temporairement déconnectés pour enquêter sur l'incident. Les transports scolaires et les repas ne sont pas affectés.",
+        "title": "Cyber incidents",
+        "url": "https://www.inverclyde.gov.uk/news/2026/jan/cyber-incidents",
+        "added": "2026-01-20"
+    },
+    {
         "date": "2026-01-13",
         "victim": "Conceptnet GmbH",
         "domain": "conceptnet.de",
