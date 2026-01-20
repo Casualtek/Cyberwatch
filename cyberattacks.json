@@ -1,5 +1,15 @@
 [
     {
+        "date": "2026-01-15",
+        "victim": "Beniel",
+        "domain": "beniel.es",
+        "country": "ESP",
+        "summary": "La mairie de Beniel, dans la région de Murcie, a subi une faille de sécurité informatique, ce qui a conduit à la fermeture de ses systèmes internes comme mesure de précaution. Les autorités enquêtent sur l'incident, qui pourrait être lié à des hackers russes. Les résidents sont invités à faire preuve de prudence face aux emails, appels ou demandes de renseignements suspects.",
+        "title": "Russian hackers among possible suspects in Beniel Town Hall cyberattack",
+        "url": "https://murciatoday.com/russian-hackers-among-possible-suspects-in-beniel-town-hall-cyberattack_1000257123-a.html",
+        "added": "2026-01-20"
+    },
+    {
         "date": "2026-01-20",
         "victim": "Landtag",
         "domain": "landtag.sachsen-anhalt.de",
