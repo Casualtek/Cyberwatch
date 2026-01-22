@@ -1,5 +1,15 @@
 [
     {
+        "date": "2025-06-06",
+        "victim": "National Boat Owners Association",
+        "domain": "nboat.com",
+        "country": "USA",
+        "summary": "NBOA's network was breached by the INC Ransomware organization between mid-May and early June 2025, potentially exposing personally identifiable information. The breach was discovered on June 6, 2025. A cyberattack was claimed by INC Ransom on July 22.",
+        "title": "Data Breach Notification",
+        "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/bf3eddfd-ec1a-473f-b09f-726ccbf9668c.html",
+        "added": "2026-01-22"
+    },
+    {
         "date": "2025-12-08",
         "victim": "Chatham Asset Management, LLC",
         "domain": "chathamasset.com",
