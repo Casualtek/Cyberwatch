@@ -1,6 +1,16 @@
 [
     {
         "date": "2026-01-21",
+        "victim": "Verkehrsgesellschaft Main-Tauber (VGMT)",
+        "domain": "vgmt.de",
+        "country": "DEU",
+        "summary": "La Verkehrsgesellschaft Main-Tauber (VGMT) et sa Mobilitätszentrale ont été victimes d'une attaque informatique avec un logiciel malveillant. L'attaque a visé la gestion de la mobilité et les opérations de la société. Les détails de l'attaque ne sont pas encore connus.",
+        "title": "Pressemitteilungen",
+        "url": "https://www.main-tauber-kreis.de/Landratsamt/Aktuelles/Pressemitteilungen/VGMT-und-Mobilitätszentrale-von-Cyberangriff-betroffen.php",
+        "added": "2026-01-22"
+    },
+    {
+        "date": "2026-01-21",
         "victim": "Blijdorp",
         "domain": "blijdorp.be",
         "country": "BEL",
