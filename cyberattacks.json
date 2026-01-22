@@ -1,5 +1,25 @@
 [
     {
+        "date": "2025-12-08",
+        "victim": "Chatham Asset Management, LLC",
+        "domain": "chathamasset.com",
+        "country": "USA",
+        "summary": "Chatham Asset Management, LLC detected a compromise to its network environment, potentially impacting personal information. The breach occurred on December 8, 2025, and the organization has taken measures to secure and remediate the issue. A cyberattack was claimed by Worldleaks on December 23.",
+        "title": "2026-01-20 Chatham Asset Management Data Breach Notice to Consumers",
+        "url": "https://ago.vermont.gov/document/2026-01-20-chatham-asset-management-data-breach-notice-consumers",
+        "added": "2026-01-22"
+    },
+    {
+        "date": "2025-05-30",
+        "victim": "Civil Service Employees Association Inc.",
+        "domain": "cseany.org",
+        "country": "USA",
+        "summary": "Civil Service Employees Association Inc. experienced a cybersecurity incident involving unauthorized access to their systems between May 3, 2025, and May 31, 2025, resulting in the theft of files containing personal information, including names and Social Security numbers.",
+        "title": "2026-01-20 Civil Service Employees Association, Inc., Local 1000, AFSCME, AFL-CIO Data Breach Notice to Consumers",
+        "url": "https://ago.vermont.gov/document/2026-01-20-civil-service-employees-association-inc-local-1000-afscme-afl-cio-data-breach-notice",
+        "added": "2026-01-22"
+    },
+    {
         "date": "2026-01-20",
         "victim": "Institut der Wirtschaftsprüfer (IDW) ",
         "domain": "idw.de",
