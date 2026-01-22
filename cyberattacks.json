@@ -1,6 +1,16 @@
 [
     {
         "date": "2026-01-20",
+        "victim": "Institut der Wirtschaftsprüfer (IDW) ",
+        "domain": "idw.de",
+        "country": "DEU",
+        "summary": "L'Institut des experts-comptables (IDW) a été victime d'une grave cyberattaque. Des données commerciales et personnelles pourraient être tombées entre les mains de criminels.",
+        "title": "Cyberangriff auf das IDW - FINANCE",
+        "url": "https://www.finance-magazin.de/banking-berater/wirtschaftspruefer/cyberangriff-auf-idw-daten-von-wirtschaftspruefern-und-partnern-abgeflossen-234940/",
+        "added": "2026-01-22"
+    },
+    {
+        "date": "2026-01-20",
         "victim": "Leinerstift",
         "domain": "leinerstift.de",
         "country": "DEU",
