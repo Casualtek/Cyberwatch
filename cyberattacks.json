@@ -1,5 +1,15 @@
 [
     {
+        "date": "2026-01-21",
+        "victim": "Blijdorp",
+        "domain": "blijdorp.be",
+        "country": "BEL",
+        "summary": "Blijdorp a été victime d'une attaque cybernétique le 21 janvier, mais l'impact a été limité grâce à une détection rapide et à la désactivation des serveurs locaux. Les applications cloud fonctionnent normalement et les dossiers des clients peuvent être suivis sans problème. L'équipe IT de Blijdorp travaille avec un expert en cybersécurité pour analyser la situation et rétablir les opérations le plus rapidement possible.",
+        "title": "Blijdorp getroffen door cyberattack, geen hinder voor cliënten",
+        "url": "https://www.nieuwsblad.be/regio/oost-vlaanderen/denderregio/dendermonde/blijdorp-getroffen-door-cyberattack-geen-hinder-voor-clienten/125675899.html",
+        "added": "2026-01-22"
+    },
+    {
         "date": "2026-01-22",
         "victim": "Staatlichen Kunstsammlungen Dresden",
         "domain": "skd.museum",
