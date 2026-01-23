@@ -1,5 +1,15 @@
 [
     {
+        "date": "2026-01-15",
+        "victim": "Heinsberger Stadtverwaltung",
+        "domain": "heinsberg.de",
+        "country": "DEU",
+        "summary": "La ville de Heinsberg a été victime d'une attaque informatique, ce qui a rendu les services de la ville indisponibles. Les numéros de téléphone et les adresses e-mail de l'administration sont actuellement inaccessibles. L'enquête a été ouverte par la Zentral- und Ansprechstelle Cybercrime.",
+        "title": "Hackerangriff legt Heinsberger Stadtverwaltung lahm",
+        "url": "https://www.aachener-zeitung.de/region-nrw/hackerangriff-legt-heinsberger-stadtverwaltung-lahm/124334660.html",
+        "added": "2026-01-23"
+    },
+    {
         "date": "2026-01-21",
         "victim": "Verkehrsgesellschaft Main-Tauber (VGMT)",
         "domain": "vgmt.de",
