@@ -1,5 +1,15 @@
 [
     {
+        "date": "2026-01-22",
+        "victim": "Winona County",
+        "domain": "winonacounty.gov",
+        "country": "USA",
+        "summary": "Le comté de Winona a été victime d'une attaque de ransomware, affectant les réseaux informatiques et les systèmes téléphoniques. Les communications d'urgence, y compris le 911, sont toujours opérationnelles. Le comté travaille avec des experts en cybersécurité pour résoudre le problème.",
+        "title": "Winona County suffers ransomware attack",
+        "url": "https://www.winonapost.com/news/winona-county-suffers-ransomware-attack-affecting-networks-phones/article_688c540b-f8bc-47fc-9b31-62a507ba9a06.html",
+        "added": "2026-01-25"
+    },
+    {
         "date": "2026-01-15",
         "victim": "Heinsberger Stadtverwaltung",
         "domain": "heinsberg.de",
