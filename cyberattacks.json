@@ -1,5 +1,15 @@
 [
     {
+        "date": "2026-01-07",
+        "victim": "Harte-Bavendamm",
+        "domain": "harte-bavendamm.de",
+        "country": "DEU",
+        "summary": "La société Harte-Bavendamm a été victime d'une attaque de ransomware, les données internes ont été chiffrées par le logiciel Qilin, l'entreprise travaille avec des experts en sécurité pour déterminer l'ampleur du vol de données et restaurer les systèmes. L'attaque a eu lieu le 7 janvier 2026, mais a été rendue publique après que le groupe Qilin a listé la société sur son site de fuite. La société suit les conseils des autorités de sécurité et ne paie pas de rançon.",
+        "title": "Harte-Bavendamm: Ransomware-Angriff trifft renommierte Kanzlei",
+        "url": "https://www.ad-hoc-news.de/boerse/news/ueberblick/harte-bavendamm-ransomware-angriff-trifft-renommierte-kanzlei/68517396",
+        "added": "2026-01-25"
+    },
+    {
         "date": "2026-01-22",
         "victim": "Winona County",
         "domain": "winonacounty.gov",
