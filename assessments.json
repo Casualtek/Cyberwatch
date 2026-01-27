@@ -1,5 +1,19 @@
 [
     {
+        "victim": "Casting House",
+        "domain": "castinghouse.com",
+        "country": "US",
+        "date": "2025-09-02",
+        "group": "akira"
+    },
+    {
+        "victim": "Modern Display",
+        "domain": "moderndisplay.com",
+        "country": "US",
+        "date": "2025-09-19",
+        "group": "akira"
+    },
+    {
         "victim": "Bergeson",
         "domain": "be-law.com",
         "country": "US",
