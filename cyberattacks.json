@@ -1,5 +1,15 @@
 [
     {
+        "date": "2026-01-11",
+        "victim": "Langley Twigg Law",
+        "domain": "langleytwigg.co.nz",
+        "country": "NZL",
+        "summary": "Langley Twigg a subi une attaque informatique qui a entraîné la fuite de données, l'entreprise a pris des mesures pour contenir l'incident et travaille avec des experts pour identifier les informations compromises. Les clients sont invités à être vigilants et à vérifier leurs comptes bancaires et cartes de crédit. Une cyberattaque a été revendiquée par Anubis le 25 janvier.",
+        "title": "Cyber security incident at Langley Twigg",
+        "url": "https://www.langleytwigg.co.nz/cyber-security-incident-at-langley-twigg",
+        "added": "2026-01-27"
+    },
+    {
         "date": "2025-12-12",
         "victim": "Itasca Consulting Group",
         "domain": "itascacg.com",
