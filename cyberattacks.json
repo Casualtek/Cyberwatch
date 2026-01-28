@@ -1,5 +1,15 @@
 [
     {
+        "date": "2025-08-17",
+        "victim": "Melwood, Inc.",
+        "domain": "melwood.com",
+        "country": "USA",
+        "summary": "Melwood, Inc. suffered a data breach between August 9 and 17, 2025, where an unknown cyber actor accessed a portion of their computer network and copied files without permission. The breach involved the copying of files containing names and other personal information. A cyberattack was claimed by Sinobi on September 8.",
+        "title": "2026-01-26  Melwood Data Breach Notice to Consumers",
+        "url": "https://ago.vermont.gov/document/2026-01-26-melwood-data-breach-notice-consumers",
+        "added": "2026-01-28"
+    },
+    {
         "date": "2026-01-25",
         "victim": "Gady",
         "domain": "gady.at",
