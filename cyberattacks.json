@@ -1,5 +1,15 @@
 [
     {
+        "date": "2026-01-24",
+        "victim": "Sociedad Hipotecaria Federal",
+        "domain": "shf.gob.mx",
+        "country": "MEX",
+        "summary": "La Sociedad Hipotecaria Federal a été victime d'une attaque de ransomware, ce qui a entraîné la suspension de ses processus et la possible fuite d'informations sensibles. Les bases de données et les informations de l'organisation sont actuellement cryptées. Le président du Clúster de Tecnologías de la Información de Guanajuato estime que le paiement du rançon pourrait coûter entre 100 et 300 millions de pesos.",
+        "title": "Ataque cibernético a la Sociedad Hipotecaria Federal paraliza trámites de avalúos",
+        "url": "https://www.am.com.mx/economia/2026/01/27/ataque-cibernetico-a-la-sociedad-hipotecaria-federal-paraliza-tramites-de-avaluos-1737793.html",
+        "added": "2026-01-28"
+    },
+    {
         "date": "2026-01-26",
         "victim": "Sanxenxo",
         "domain": "sanxenxo.es",
