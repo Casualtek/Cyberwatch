@@ -1,5 +1,40 @@
 [
     {
+        "victim": "CE Electronics",
+        "domain": "ceelectronics.com",
+        "country": "US",
+        "date": "2026-01-09",
+        "group": "play"
+    },
+    {
+        "victim": "Midway Windows and Doors",
+        "domain": "midwaywindows.com",
+        "country": "US",
+        "date": "2026-01-13",
+        "group": "play"
+    },
+    {
+        "victim": "California Tax Data",
+        "domain": "californiataxdata.com",
+        "country": "US",
+        "date": "2026-01-17",
+        "group": "play"
+    },
+    {
+        "victim": "TREC Group",
+        "domain": "trecgroup.com",
+        "country": "US",
+        "date": "2026-01-15",
+        "group": "play"
+    },
+    {
+        "victim": "Encore Roofing",
+        "domain": "encoreroofing.com",
+        "country": "US",
+        "date": "2026-01-14",
+        "group": "play"
+    },
+    {
         "victim": "Charles Rutenberg Realty",
         "domain": "charlesrutenberginc.com",
         "country": "US",
