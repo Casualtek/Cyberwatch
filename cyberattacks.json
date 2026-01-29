@@ -1,5 +1,15 @@
 [
     {
+        "date": "2025-11-21",
+        "victim": "MACT Health Board",
+        "domain": "macthealth.org",
+        "country": "USA",
+        "summary": "Le conseil de santé MACT affirme son engagement à protéger la confidentialité des informations et informe qu’un incident informatique a entraîné un accès non autorisé à certains fichiers entre le 12 et le 20 novembre 2025. Dès la découverte de l’incident, MACT a sécurisé ses systèmes, mené une enquête avec des experts externes et alerté les autorités compétentes. Une cyberattaque a été revendiquée par Rhysida le 29 janvier 2026.",
+        "title": "Notice of Data Privacy Incident",
+        "url": "https://static1.squarespace.com/static/681a3d1730e6d15b8dab6cc2/t/6973b0056b0e6e23ca6ebfd4/1769189381629/MACT_Notice_of_Data_Privacy_Incident.pdf",
+        "added": "2026-01-29"
+    },
+    {
         "date": "2026-01-24",
         "victim": "Sociedad Hipotecaria Federal",
         "domain": "shf.gob.mx",
