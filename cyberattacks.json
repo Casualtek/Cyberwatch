@@ -1,5 +1,15 @@
 [
     {
+        "date": "2026-01-23",
+        "victim": "Technische Universität (TU) Wien",
+        "domain": "tuwien.at",
+        "country": "AUT",
+        "summary": "La Technische Universität (TU) Wien a subi une faille de sécurité dans son réseau informatique, entraînant la compromission de comptes et un accès potentiel à des données sensibles. Les systèmes informatiques de l'université sont actuellement limités et les employés ainsi que les étudiants doivent réinitialiser leurs mots de passe pour des raisons de sécurité. L'université a informé l'autorité de protection des données et les investigations sont en cours avec l'aide d'une entreprise spécialisée en cybersécurité.",
+        "title": "„Sicherheitsvorfall“: Cyberangriff auf Wiener Uni",
+        "url": "https://www.krone.at/4031198",
+        "added": "2026-01-30"
+    },
+    {
         "date": "2025-11-21",
         "victim": "MACT Health Board",
         "domain": "macthealth.org",
