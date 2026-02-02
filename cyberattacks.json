@@ -1,5 +1,15 @@
 [
     {
+        "date": "2026-02-01",
+        "victim": "Università La Sapienza",
+        "domain": "uniroma1.it",
+        "country": "ITA",
+        "summary": "Le site de l'Università La Sapienza est actuellement inaccessible en raison d'un problème technique, qui pourrait être lié à une attaque informatique, les raisons exactes de cette interruption sont encore inconnues, mais il est possible qu'un attaque ait compromis ou désactivé temporairement les serveurs de l'université.",
+        "title": "La Sapienza, sospetto attacco hacker: sito e sistemi interni bloccati",
+        "url": "https://roma.repubblica.it/cronaca/2026/02/02/news/sapienza_sospetto_attacco_hacker_sito_sistemi_interni_bloccati-425133317/",
+        "added": "2026-02-02"
+    },
+    {
         "date": "2026-01-29",
         "victim": "New Britain City Hall",
         "domain": "newbritainct.gov",
