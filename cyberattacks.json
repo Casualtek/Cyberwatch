@@ -1,6 +1,16 @@
 [
     {
         "date": "2026-02-01",
+        "victim": "OLV Pulhof",
+        "domain": "pulhof.be",
+        "country": "BEL",
+        "summary": "L'école OLV Pulhof a été victime d'une cyberattaque, les pirates informatiques menacent de chantage les parents d'élèves en leur proposant de sécuriser les données de leurs enfants contre paiement. L'école a déposé plainte et mis en place un nouvel environnement réseau. Les cours n'ont subi aucune perturbation.",
+        "title": "Une école victime d’une cyberattaque : des parents d’élèves menacés de chantage",
+        "url": "https://www.lesoir.be/725744/article/2026-01-30/une-ecole-victime-dune-cyberattaque-des-parents-deleves-menaces-de-chantage",
+        "added": "2026-02-02"
+    },
+    {
+        "date": "2026-02-01",
         "victim": "Università La Sapienza",
         "domain": "uniroma1.it",
         "country": "ITA",
