@@ -1,5 +1,15 @@
 [
     {
+        "date": "2025-09-23",
+        "victim": "Insightin Health",
+        "domain": "insightinhealth.com",
+        "country": "USA",
+        "summary": "InsightinHealth, Inc. suffered a data breach after an unauthorized actor gained access to their network by exploiting a previously unknown vulnerability in a third-party application. The breach occurred between September 17, 2025, and September 23, 2025, and may have impacted certain files stored on Insightin's servers. An attack was claimed by Medusa on October 4.",
+        "title": "2026-01-28 Insightin Health Data Breach Notice to Consumers",
+        "url": "https://ago.vermont.gov/document/2026-01-28-insightin-health-data-breach-notice-consumers",
+        "added": "2026-01-30"
+    },
+    {
         "date": "2026-02-02",
         "victim": "WIESON TECHNOLOGIES CO., LTD.",
         "domain": "wieson.com",
