@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-11-19",
+        "victim": "Alpine Ear Nose & Throat",
+        "domain": "alpineent.com",
+        "country": "USA",
+        "summary": "Alpine Ear, Nose, & Throat, P.C. suffered a data breach that may have exposed personal information of 65,648 individuals, including Demographic Information, Date of Birth, Medical Information, Health Insurance Information, and Financial Account Information. The breach occurred when an unauthorized actor accessed the organization's systems on November 19, 2024. An attack was claimed by BianLian on December 1, 2024.",
+        "title": "Data Breach Notification",
+        "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/20cb3fde-af2f-4f1f-a4fb-56e85d56f6aa.html",
+        "added": "2026-01-31"
+    },
+    {
         "date": "2025-08-14",
         "victim": "Michigan Sugar",
         "domain": "michigansugar.com",
