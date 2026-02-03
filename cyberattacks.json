@@ -1,5 +1,65 @@
 [
     {
+        "date": "2025-08-14",
+        "victim": "Michigan Sugar",
+        "domain": "michigansugar.com",
+        "country": "USA",
+        "summary": "Michigan Sugar Company suffered a data breach on August 14, 2025, where an unauthorized third party gained access to certain systems in its network, potentially resulting in the unauthorized access and acquisition of personal information. An attack was claimed by Akira on September 5.",
+        "title": "Data Breach Notification",
+        "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/044131fe-1fa4-416e-bbd8-904dc12a7e5b.html",
+        "added": "2026-01-31"
+    },
+    {
+        "date": "2025-11-12",
+        "victim": "Thornton Plumbing and Heating Inc.",
+        "domain": "floor-heat.com",
+        "country": "USA",
+        "summary": "Thornton Plumbing and Heating Inc. experienced a data breach on November 12, 2025, where unauthorized access to their network resulted in the theft of personal information. The breach was discovered on November 20, 2025, and the company took immediate action to secure their systems. The affected information included names and other data elements.",
+        "title": "2026-01-30 Thornton Plumbing and Heating Data Breach Notice to Consumers",
+        "url": "https://ago.vermont.gov/document/2026-01-30-thornton-plumbing-and-heating-data-breach-notice-consumers",
+        "added": "2026-02-03"
+    },
+    {
+        "date": "2025-09-18",
+        "victim": "First Atlantic Capital",
+        "domain": "firstatlanticcapital.com",
+        "country": "USA",
+        "summary": "On September 18, 2025, First Atlantic  Capital experienced a disruption in their computer network. Some files were accessed without permission.",
+        "title": "2026-01-30 First Atlantic Capital Data Breach Notice to Consumers",
+        "url": "https://ago.vermont.gov/document/2026-01-30-first-atlantic-capital-data-breach-notice-consumers",
+        "added": "2026-02-03"
+    },
+    {
+        "date": "2025-11-11",
+        "victim": "GS Engineering",
+        "domain": "gsengineering.com",
+        "country": "USA",
+        "summary": "GS Engineering experienced a data breach between October 27, 2025, and November 11, 2025, resulting in unauthorized access to their network and the copying of certain files containing personal information. The breach was discovered on November 11, 2025. Affected individuals are being offered credit monitoring and identity restoration assistance services.",
+        "title": "2026-01-29 GS Engineering Data Breach Notice to Consumers",
+        "url": "https://ago.vermont.gov/document/2026-01-29-gs-engineering-data-breach-notice-consumers",
+        "added": "2026-01-31"
+    },
+    {
+        "date": "2025-11-26",
+        "victim": "Office Peeps Inc.",
+        "domain": "officepeeps.com",
+        "country": "USA",
+        "summary": "Office Peeps Inc. suffered a data breach on November 26, 2025, where an unauthorized actor accessed and acquired some data from their network. The breach involved personal information, including first and last names, in combination with other data elements. The company is offering complimentary identity monitoring services to affected individuals.",
+        "title": "2026-01-29 Office Peeps Data Breach Notice to Consumers",
+        "url": "https://ago.vermont.gov/document/2026-01-29-office-peeps-data-breach-notice-consumers",
+        "added": "2026-01-31"
+    },
+    {
+        "date": "2025-03-13",
+        "victim": "Trocaire College",
+        "domain": "trocaire.edu",
+        "country": "USA",
+        "summary": "Trocaire College experienced a data security incident where certain files may have been acquired without authorization between March 12, 2025, and March 13, 2025. The investigation determined that some personal information was contained within the potentially affected data. An attack was claimed by INC Ransom on April 15.",
+        "title": "2026-01-28 Trocaire College Data Breach Notice to Consumers",
+        "url": "https://ago.vermont.gov/document/2026-01-28-trocaire-college-data-breach-notice-consumers",
+        "added": "2026-01-30"
+    },
+    {
         "date": "2025-09-23",
         "victim": "Insightin Health",
         "domain": "insightinhealth.com",
@@ -14741,8 +14801,8 @@
     },
     {
         "date": "2025-01-05",
-        "victim": "South Portland Public Schools",
-        "domain": "spsdme.org",
+        "victim": "Portland Public Schools",
+        "domain": "portlandschools.org",
         "country": "USA",
         "summary": "Deux districts scolaires du Maine ont été victimes de problèmes de cybersécurité au cours du week-end, obligeant l'un d'eux à déconnecter son réseau internet pour protéger les données des étudiants. L'attaque a été détectée par un service de surveillance de la sécurité qui a alerté les responsables de l'école. Les enquêtes sont en cours pour déterminer l'origine et les intentions des attaquants.",
         "title": "Cybersecurity issues impact 2 Maine public school districts",
