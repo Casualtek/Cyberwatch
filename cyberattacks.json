@@ -1,5 +1,15 @@
 [
     {
+        "date": "2026-02-02",
+        "victim": "WIESON TECHNOLOGIES CO., LTD.",
+        "domain": "wieson.com",
+        "country": "TWN",
+        "summary": "Wieson a reçu une alerte concernant des anomalies dans son système d'information, mais aucune donnée n'a été perdue ou divulguée, et l'impact financier et opérationnel est considéré comme négligeable. La société a activé des mesures de sécurité et renforcé sa défense. L'incident n'a pas eu d'impact significatif sur les finances ou les opérations de l'entreprise.",
+        "title": "Today's Information",
+        "url": "https://emops.twse.com.tw/server-java/t05sr01_1_e?&isNew=Y&seq_no=1&spoke_time=173653&spoke_date=20260202&co_id=6272",
+        "added": "2026-02-03"
+    },
+    {
         "date": "2026-02-01",
         "victim": "OLV Pulhof",
         "domain": "pulhof.be",
