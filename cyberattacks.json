@@ -1,5 +1,15 @@
 [
     {
+        "date": "2026-02-02",
+        "victim": "Werkstatt Bremen",
+        "domain": "martinshof-bremen.de",
+        "country": "DEU",
+        "summary": "Un hacker a lancé une attaque massive contre l'entreprise municipale Werkstatt Bremen, ce qui a affecté les ordinateurs et les laptops, ainsi que le travail de la police de Brême. L'attaque a été confirmée par le ministère de l'Intérieur, mais les détails sur l'ampleur et les conséquences sont encore inconnus. L'entreprise Werkstatt Bremen est un établissement municipal qui s'occupe de la réhabilitation professionnelle des personnes handicapées et emploie environ 2 100 personnes.",
+        "title": "Hacker greifen städtischen Betrieb \"Werkstatt Bremen\" massiv an - buten un binnen",
+        "url": "https://www.butenunbinnen.de/nachrichten/cyberangriff-polizei-werkstatt-bremen-100.html",
+        "added": "2026-02-04"
+    },
+    {
         "date": "2023-09-20",
         "victim": "Powerhouse Retail Services",
         "domain": "powerhousenow.com",
