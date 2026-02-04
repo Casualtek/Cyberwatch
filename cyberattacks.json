@@ -1,5 +1,15 @@
 [
     {
+        "date": "2023-09-20",
+        "victim": "Powerhouse Retail Services",
+        "domain": "powerhousenow.com",
+        "country": "USA",
+        "summary": "An unauthorized individual gained access to Powerhouse's network and may have viewed a limited amount of data, potentially including names and other breached elements. A cyberattack was claimed by NoEscape on September 26, 2023.",
+        "title": "Data Breach Notification",
+        "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/6fd7501f-5bfa-475e-825d-e4dd46387026.html",
+        "added": "2026-02-04"
+    },
+    {
         "date": "2026-02-04",
         "victim": "Gozo Channel",
         "domain": "gozochannel.com",
