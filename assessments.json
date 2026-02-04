@@ -1,5 +1,26 @@
 [
     {
+        "victim": "ESSPL",
+        "domain": "esspl.com",
+        "country": "IN",
+        "date": "2025-11-12",
+        "group": "ransomhouse"
+    },
+    {
+        "victim": "Assolim",
+        "domain": "assolim.com",
+        "country": "ES",
+        "date": "2025-11-13",
+        "group": "ransomhouse"
+    },
+    {
+        "victim": "LawSoft",
+        "domain": "lawsoft-inc.com",
+        "country": "US",
+        "date": "2025-12-01",
+        "group": "ransomhouse"
+    },
+    {
         "victim": "Routten & Laster Law",
         "domain": "routtenlasterlaw.com",
         "country": "US",
