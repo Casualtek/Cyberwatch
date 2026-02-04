@@ -1,5 +1,15 @@
 [
     {
+        "date": "2026-02-04",
+        "victim": "Gozo Channel",
+        "domain": "gozochannel.com",
+        "country": "MLT",
+        "summary": "La société Gozo Channel a été victime d'une attaque cybernétique qui a perturbé ses systèmes informatiques internes, mais les opérations de ferry n'ont pas été affectées. Les équipes techniques travaillent à rétablir les systèmes administratifs touchés et à assurer le retour à une pleine capacité opérationnelle. L'incident a été contenu rapidement grâce à l'infrastructure informatique et aux mesures de contingence établies.",
+        "title": "Gozo Channel hit by cyber attack, ferry operations not affected",
+        "url": "https://www.maltatoday.com.mt/news/national/139556/gozo_channel_hit_by_cyber_attack_ferry_operations_not_affected",
+        "added": "2026-02-04"
+    },
+    {
         "date": "2026-01-29",
         "victim": "Lakelands Public Health",
         "domain": "lakelandsph.ca",
