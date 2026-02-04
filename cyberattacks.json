@@ -1,5 +1,15 @@
 [
     {
+        "date": "2026-02-03",
+        "victim": "POWERTECH INDUSTRIAL CO., LTD.",
+        "domain": "powertechsemi.com",
+        "country": "TWN",
+        "summary": "Powertech Industrial a subi une cyberattaque, mais celle-ci n'a pas eu d'impact significatif sur ses opérations. Les mécanismes de défense et de récupération ont été activés et des experts externes ont été engagés pour aider à l'enquête et à la remédiation. L'entreprise continue d'améliorer la sécurité de son réseau et de son infrastructure d'information.",
+        "title": "Today's Information",
+        "url": "https://emops.twse.com.tw/server-java/t05sr01_1_e?&isNew=Y&seq_no=1&spoke_time=164117&spoke_date=20260203&co_id=3296",
+        "added": "2026-02-04"
+    },
+    {
         "date": "2026-01-23",
         "victim": "Hochschule Emden-Leer",
         "domain": "hs-emden-leer.de",
