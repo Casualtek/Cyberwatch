@@ -1,5 +1,15 @@
 [
     {
+        "date": "2025-08-29",
+        "victim": "Barnhart",
+        "domain": "barnhartinc.com",
+        "country": "USA",
+        "summary": "Barnhart Group, Inc. experienced a network disruption that led to unauthorized access to certain information stored on their network between August 27, 2025, and August 29, 2025. A cyberattack was claimed by Akira on November 14.",
+        "title": "Data Breach Notification",
+        "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/81a69456-0618-4878-a74f-47ab848d9b5b.html",
+        "added": "2026-02-05"
+    },
+    {
         "date": "2025-12-04",
         "victim": "Hunneman",
         "domain": "hunnemanre.com",
