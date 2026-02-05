@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-01-29",
+        "victim": "CloudCone",
+        "domain": "cloudcone.com",
+        "country": "USA",
+        "summary": "CloudCone, un fournisseur d'hébergement cloud, a subi une faille de sécurité qui a touché une partie limitée de son infrastructure d'hébergement à Los Angeles, entraînant des problèmes de connectivité et des messages de rançon pour certains utilisateurs. L'entreprise a isolé les serveurs affectés et a identifié des signes de modification non autorisée au niveau du système sur les machines virtuelles touchées. Les utilisateurs ont signalé des messages de rançon avec des demandes de paiement, mais l'entreprise n'a pas confirmé si les données des clients avaient été compromises.",
+        "title": "CloudCone outage in Los Angeles linked to ransom messages and disk damage",
+        "url": "https://dysruptionhub.com/cloudcone-security-incident-california/",
+        "added": "2026-02-05"
+    },
+    {
         "date": "2026-02-02",
         "victim": "Sst Chioggia",
         "domain": "sstchioggia.it",
