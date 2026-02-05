@@ -1,6 +1,16 @@
 [
     {
         "date": "2026-02-02",
+        "victim": "Sst Chioggia",
+        "domain": "sstchioggia.it",
+        "country": "ITA",
+        "summary": "Un attaque informatico a visé les systèmes numériques de Sst Chioggia, avec des impacts potentiels sur certaines activités et services gérés par la société. Les autorités compétentes ont été informées et une enquête est en cours. Le Comune de Chioggia suit de près l'évolution de la situation pour garantir la protection de l'intérêt public et la continuité des services essentiels.",
+        "title": "Attacco informatico ai sistemi di Sst",
+        "url": "https://www.chioggianotizie.it/cronaca/2026/02/04/news/attacco-informatico-ai-sistemi-di-sst-387842/",
+        "added": "2026-02-05"
+    },
+    {
+        "date": "2026-02-02",
         "victim": "Werkstatt Bremen",
         "domain": "martinshof-bremen.de",
         "country": "DEU",
