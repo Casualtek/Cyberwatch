@@ -1,5 +1,15 @@
 [
     {
+        "date": "2026-02-03",
+        "victim": "Conpet",
+        "domain": "conpet.ro",
+        "country": "ROU",
+        "summary": "Conpet, l'opérateur national de pipelines pétroliers de la Roumanie, a subi une cyberattaque qui a perturbé ses systèmes d'entreprise et mis hors ligne son site Web. L'incident n'a pas affecté les opérations de l'entreprise, mais a touché son infrastructure informatique et son site Web. Conpet enquête sur l'incident avec l'aide des autorités nationales de cybersécurité.",
+        "title": "Romanian oil pipeline operator Conpet discloses cyberattack",
+        "url": "https://www.bleepingcomputer.com/news/security/romanian-oil-pipeline-operator-conpet-discloses-cyberattack-qilin-ransomware/",
+        "added": "2026-02-06"
+    },
+    {
         "date": "2026-02-05",
         "victim": "Tulare City School District",
         "domain": "tcsdk8.org",
