@@ -1,5 +1,15 @@
 [
     {
+        "date": "2026-01-14",
+        "victim": "Beacon Mutual",
+        "domain": "beaconmutual.com",
+        "country": "USA",
+        "summary": "Beacon Mutual, un assureur de compensation pour les travailleurs basé à Warwick, Rhode Island, a restauré ses services le 20 janvier après avoir détecté une activité suspecte et avoir déconnecté certains systèmes pour contenir la menace. L'incident a été lié à un groupe de ransomware appelé Incransom. L'entreprise travaille avec des experts en cybersécurité pour déterminer l'étendue de l'incident.",
+        "title": "Beacon Mutual restores systems after ransomware attack in Rhode Island",
+        "url": "https://dysruptionhub.com/beacon-mutual-ransomware-rhode-island/",
+        "added": "2026-02-06"
+    },
+    {
         "date": "2025-08-29",
         "victim": "Barnhart",
         "domain": "barnhartinc.com",
