@@ -1,5 +1,15 @@
 [
     {
+        "date": "2026-02-06",
+        "victim": "BridgePay Network Solutions",
+        "domain": "bridgepaynetwork.com",
+        "country": "USA",
+        "summary": "BridgePay Network Solutions, un fournisseur de passerelles de paiement et de solutions basé aux États-Unis, a subi une attaque de ransomware qui a mis hors ligne des systèmes clés, provoquant une panne généralisée affectant de multiples services. L'incident a commencé le vendredi 6 février et s'est rapidement propagé à l'échelle nationale. Les premières conclusions des enquêtes forensiques indiquent que aucune donnée de carte de paiement n'a été compromise.",
+        "title": "Payments platform BridgePay confirms ransomware attack behind outage",
+        "url": "https://www.bleepingcomputer.com/news/security/payments-platform-bridgepay-confirms-ransomware-attack-behind-outage/",
+        "added": "2026-02-09"
+    },
+    {
         "date": "2026-02-03",
         "victim": "Conpet",
         "domain": "conpet.ro",
