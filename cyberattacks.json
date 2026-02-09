@@ -1,5 +1,15 @@
 [
     {
+        "date": "2026-02-03",
+        "victim": "Ministerio de Ciencia, Innovación y Universidades",
+        "domain": "ciencia.gob.es",
+        "country": "ESP",
+        "summary": "Le Ministère de la Science, de l'Innovation et des Universités a fermé partiellement son siège électronique en raison d'une incidence technique. Tous les actes administratifs en cours sont suspendus, mais les droits et intérêts légitimes des personnes concernées sont préservés. Les délais pour les différentes procédures sont prolongés jusqu'à la résolution complète de l'incident. (via eCrime.ch)",
+        "title": "Notices",
+        "url": "https://www.ciencia.gob.es/en/InfoGeneralPortal/Avisos/cierre_temporal_sede_electronica.html",
+        "added": "2026-02-09"
+    },
+    {
         "date": "2026-02-06",
         "victim": "BridgePay Network Solutions",
         "domain": "bridgepaynetwork.com",
