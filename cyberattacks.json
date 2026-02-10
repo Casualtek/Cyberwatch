@@ -1,5 +1,15 @@
 [
     {
+        "date": "2026-01-26",
+        "victim": "Ardene",
+        "domain": "ardene.com",
+        "country": "CAN",
+        "summary": "Le détaillant canadien de mode Ardene a annoncé qu'il faisait face à une cyberattaque, ce qui a entraîné des retards d'expédition et des problèmes avec son programme de fidélité. L'entreprise a pris des mesures pour contenir l'incident et sécuriser son environnement. L'enquête se poursuit et aucune donnée client n'a été compromise pour le moment.",
+        "title": "Ardene dealing with ‘cyber incident’",
+        "url": "https://www.cp24.com/news/canada/2026/02/10/canadian-fashion-retailer-ardene-working-to-restore-services-following-cyber-incident/",
+        "added": "2026-02-10"
+    },
+    {
         "date": "2026-02-08",
         "victim": "Asten Santé",
         "domain": "astensante.com",
