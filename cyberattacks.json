@@ -1,5 +1,15 @@
 [
     {
+        "date": "2026-01-09",
+        "victim": "Di Giacomo srl",
+        "domain": "digiacomosrl.eu",
+        "country": "ITA",
+        "summary": "L'entreprise Di Giacomo srl, une lavanderie industrielle italienne, a été victime d'une attaque hacker au début de l'année, ce qui a entraîné une perte de données sensibles et une réduction de l'activité administrative. Les employés sont actuellement confrontés à des retards de paiement de salaire en raison de l'absence de données et de registres numériques. L'attaque pourrait être liée à un ransomware, mais aucune information officielle n'a été communiquée à ce sujet.",
+        "title": "Napoli, attacco informatico alla Di Giacomo srl: sistemi in tilt e dati inaccessibili",
+        "url": "https://www.cronachedellacampania.it/2026/02/attacco-informatico-di-giacomo-sistemi-dati-inaccessibili/",
+        "added": "2026-02-11"
+    },
+    {
         "date": "2026-01-26",
         "victim": "Ardene",
         "domain": "ardene.com",
