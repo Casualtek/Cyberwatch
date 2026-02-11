@@ -1,5 +1,15 @@
 [
     {
+        "date": "2022-07-15",
+        "victim": "G.I.E. Vignerons du Sud-Ouest",
+        "domain": "vignobles-sudouest.fr",
+        "country": "FRA",
+        "summary": "Une coopérative agricole a été victime d'une cyberattaque en juillet 2022, plusieurs de ses machines ont été infectées par un logiciel malveillant. Le procès de l'auteur présumé de ces attaques, Ilia D., s'ouvre le 11 février devant la 13e chambre correctionnelle du tribunal judiciaire de Paris. Les attaques de rançongiciel sont de plus en plus fréquentes et difficiles à remonter.",
+        "title": "A Paris, la cybercriminalité ordinaire au procès d’un couple accusé d’attaques par rançongiciel",
+        "url": "https://www.lemonde.fr/pixels/article/2026/02/11/a-paris-la-cybercriminalite-ordinaire-au-proces-d-un-couple-accuse-d-attaques-par-rancongiciel_6666255_4408996.html",
+        "added": "2026-02-11"
+    },
+    {
         "date": "2026-02-09",
         "victim": "Nosate",
         "domain": "comune.nosate.mi.it",
