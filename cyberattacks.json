@@ -1,5 +1,25 @@
 [
     {
+        "date": "2025-10-21",
+        "victim": "Cottage Hospital",
+        "domain": "cottagehospital.org",
+        "country": "USA",
+        "summary": "Cottage Hospital suffered a data breach where an unauthorized party accessed their computer network and stole employee and physician information, including names, Social Security numbers, driver's license numbers, and bank account information. A cyberattack was claimed by Qilin on December 3, 2025.",
+        "title": "2026-02-06 Cottage Hospital Data Breach Notice to Consumers",
+        "url": "https://ago.vermont.gov/document/2026-02-06-cottage-hospital-data-breach-notice-consumers",
+        "added": "2026-02-10"
+    },
+    {
+        "date": "2025-08-05",
+        "victim": "New Jersey Compensation Rating & Inspection Bureau",
+        "domain": "njcrib.org",
+        "country": "USA",
+        "summary": "NJCRIB experienced a data breach between July 8, 2025, and August 5, 2025, where an outside threat actor accessed their computer systems and copied administrative files without authorization. The breach may have exposed personal information, including names and contact details. NJCRIB is offering credit monitoring and identity restoration assistance services to affected individuals.",
+        "title": "2026-02-04 Compensation Rating & Inspection Bureau Data Breach Notice to Consumers",
+        "url": "https://ago.vermont.gov/document/2026-02-04-compensation-rating-inspection-bureau-data-breach-notice-consumers",
+        "added": "2026-02-10"
+    },
+    {
         "date": "2024-03-19",
         "victim": "Sermo",
         "domain": "sermo.com",
