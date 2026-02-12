@@ -1,5 +1,15 @@
 [
     {
+        "date": "2025-07-07",
+        "victim": "City of Peabody, MA",
+        "domain": "peabody.ma.us",
+        "country": "USA",
+        "summary": "An unauthorized actor gained access to certain Peabody systems between June 13, 2025, and July 8, 2025, and copied certain data stored in those locations. The information included names and other data. A cyberattack was claimed by Interlock on July 18.",
+        "title": "2026-02-09 City of Peabody Data Breach Notice to Consumers",
+        "url": "https://ago.vermont.gov/document/2026-02-09-city-peabody-data-breach-notice-consumers",
+        "added": "2026-02-11"
+    },
+    {
         "date": "2024-09-30",
         "victim": "Tuggle Duggins P.A.",
         "domain": "tuggleduggins.com",
