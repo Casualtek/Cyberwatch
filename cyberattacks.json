@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-09-30",
+        "victim": "Tuggle Duggins P.A.",
+        "domain": "tuggleduggins.com",
+        "country": "USA",
+        "summary": "Tuggle Duggins P.A. experienced a data breach in October 2024, where unauthorized access occurred, and sensitive information was copied from their network. The breach affected clients' names, health-related information, and Social Security numbers. An attack was claimed by Black Basta on October 24, 2024.",
+        "title": "Data Breach Notification",
+        "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/0bc65e65-1c76-40b2-a692-b13bcc459a47.html",
+        "added": "2026-02-07"
+    },
+    {
         "date": "2022-07-15",
         "victim": "G.I.E. Vignerons du Sud-Ouest",
         "domain": "vignobles-sudouest.fr",
