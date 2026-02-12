@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-03-19",
+        "victim": "Sermo",
+        "domain": "sermo.com",
+        "country": "USA",
+        "summary": "Sermo experienced a data security incident involving a ransomware event with the group Black Basta claiming responsibility. Unauthorized access to and acquisition of information from Sermo’s network environment took place between March 19, 2024, and April 10, 2024. The incident resulted in the exposure of personal information, including Social Security numbers of five Maine residents.",
+        "title": "Data Breach Notification",
+        "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/b2392c26-fd7b-437c-b13d-eef3668b5aec.html",
+        "added": "2026-02-10"
+    },
+    {
         "date": "2025-07-07",
         "victim": "City of Peabody, MA",
         "domain": "peabody.ma.us",
