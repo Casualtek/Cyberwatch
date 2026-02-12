@@ -1,5 +1,65 @@
 [
     {
+        "date": "2024-05-23",
+        "victim": "UA Sprinkler Fitters Local 669 Joint Apprenticeship and Training Committee",
+        "domain": "sprinklerfitters669.org",
+        "country": "USA",
+        "summary": "The JATC suffered a cybersecurity attack that impacted its computer network, resulting in unauthorized access to sensitive information, including names, Social Security numbers, and driver's license numbers. The incident occurred between May 17, 2024, and May 23, 2024. The JATC has taken steps to secure its network and provide credit monitoring services to affected individuals.",
+        "title": "Data Breach Notification",
+        "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/ee0b5706-2621-4be6-9835-f1a09a7b24cb.html",
+        "added": "2026-02-07"
+    },
+    {
+        "date": "2025-02-01",
+        "victim": "The Gladney Center for Adoption",
+        "domain": "adoptionsbygladney.com",
+        "country": "USA",
+        "summary": "The potentially impacted files contained sensitive information, but the organization does not believe it included more sensitive information. Identity monitoring services are being offered to affected individuals. The services include credit monitoring, fraud consultation, and identity theft restoration.",
+        "title": "Data Breach Notification",
+        "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/4fe222ad-0992-483c-954f-70c10623831a.html",
+        "added": "2026-02-07"
+    },
+    {
+        "date": "2025-03-02",
+        "victim": "Counseling Center of Wayne and Holmes Counties",
+        "domain": "ccwhc.org",
+        "country": "USA",
+        "summary": "The Counseling Center suffered a data breach, resulting in unauthorized access to personal information. The breach was discovered on December 9, 2025, and affected individuals were notified. The organization is recommending that affected individuals remain vigilant and monitor their credit reports for unauthorized activity.",
+        "title": "Data Breach Notification",
+        "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/4c461eec-6961-42db-958f-d073889ec7a5.html",
+        "added": "2026-02-10"
+    },
+    {
+        "date": "2025-08-18",
+        "victim": "North Atlantic States Carpenters Benefit Funds",
+        "domain": "carpentersfund.org",
+        "country": "USA",
+        "summary": "The North Atlantic States Carpenters Benefit Funds experienced a data breach on August 18, 2025, where an unauthorized actor accessed and/or acquired certain files on the systems of the CT office. The breach involved name, Social Security number, and financial account information. No funds were taken, and participants' benefits and account balances are fully intact.",
+        "title": "Data Breach Notification",
+        "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/84a9bd2e-7375-4608-a250-97440290b016.html",
+        "added": "2026-02-12"
+    },
+    {
+        "date": "2025-08-13",
+        "victim": "The Institute for Human Resources and Services Inc.",
+        "domain": "ihrser.com",
+        "country": "USA",
+        "summary": "The Institute for Human Resources and Services Inc. suffered a data breach between August 13, 2025, and August 14, 2025, where an unknown actor gained access to certain systems and potentially accessed or took personal information. The information impacted includes name, Social Security number, and driver's license number. IHRS is providing access to credit monitoring services for twelve months to affected individuals.",
+        "title": "Data Breach Notification",
+        "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/71697961-6085-4ab7-803f-aee11d4a40df.html",
+        "added": "2026-02-12"
+    },
+    {
+        "date": "2025-08-11",
+        "victim": "Manhattan Theatre Club",
+        "domain": "manhattantheatreclub.com",
+        "country": "USA",
+        "summary": "Manhattan Theater Club experienced a data security incident that may have involved personal information. The incident occurred on August 11, 2025, when an unknown actor accessed and acquired certain personal information without authorization. MTC has no evidence of any actual or suspected misuse of information involved in this incident.",
+        "title": "Data Breach Notification",
+        "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/ac552441-d6fa-46d7-bdef-0537ed7397e0.html",
+        "added": "2026-02-12"
+    },
+    {
         "date": "2025-10-21",
         "victim": "Cottage Hospital",
         "domain": "cottagehospital.org",
