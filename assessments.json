@@ -1,5 +1,33 @@
 [
     {
+        "victim": "KaiserAir",
+        "domain": "kaiserair.com",
+        "country": "US",
+        "date": "2026-01-28",
+        "group": "play"
+    },
+    {
+        "victim": "RAL Companies",
+        "domain": "ralcompanies.com",
+        "country": "US",
+        "date": "2026-01-30",
+        "group": "play"
+    },
+    {
+        "victim": "Bloom's Bus Lines",
+        "domain": "bloombus.com",
+        "country": "US",
+        "date": "2026-01-30",
+        "group": "play"
+    },
+    {
+        "victim": "Ilderton Contracting",
+        "domain": "ildertoncontracting.com",
+        "country": "US",
+        "date": "2026-02-02",
+        "group": "play"
+    },
+    {
         "victim": "CBH Homes",
         "domain": "cbhhomes.com",
         "country": "US",
