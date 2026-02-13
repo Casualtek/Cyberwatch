@@ -1,5 +1,15 @@
 [
     {
+        "date": "2026-02-07",
+        "victim": "Odido",
+        "domain": "odido.nl",
+        "country": "NLD",
+        "summary": "Odido a été victime d'une cyberattaque, les données personnelles de ses clients ont été compromises, mais les mots de passe, les détails d'appel et les factures ne sont pas affectés, l'entreprise prend des mesures pour limiter l'impact et soutenir ses clients.",
+        "title": "Informatiepagina cyberincident | Odido",
+        "url": "https://www.odido.nl/veiligheid",
+        "added": "2026-02-13"
+    },
+    {
         "date": "2026-02-11",
         "victim": "State College Borough",
         "domain": "statecollegepa.us",
