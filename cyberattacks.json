@@ -1,5 +1,15 @@
 [
     {
+        "date": "2025-07-08",
+        "victim": "York City",
+        "domain": "yorkcity.org",
+        "country": "USA",
+        "summary": "La ville de York a subi une cyberattaque l'été dernier, ce qui a entraîné une interruption de ses systèmes informatiques et a nécessité un paiement de rançon de 500 000 dollars. L'attaque a commencé le 8 juillet et a pris le contrôle de l'infrastructure informatique de la ville. Le montant payé représente environ la moitié de la demande initiale des hackers.",
+        "title": "York City cyberattack prompted $500K ransom payout, former mayor says",
+        "url": "https://www.ydr.com/story/news/local/2026/02/13/york-city-cyberattack-led-to-500k-ransom-payout-former-mayor-says/88644911007/",
+        "added": "2026-02-15"
+    },
+    {
         "date": "2026-02-09",
         "victim": "V.I. Economic Development Authority",
         "domain": "usvieda.org",
