@@ -1,5 +1,15 @@
 [
     {
+        "date": "2026-01-12",
+        "victim": "Land and Agricultural Development Bank of South Africa",
+        "domain": "landbank.co.za",
+        "country": "ZAF",
+        "summary": "La Land and Agricultural Development Bank of South Africa a subi une faille de sécurité informatique causée par un tiers non autorisé qui a déployé un rançongiciel, ce qui a entraîné une interruption temporaire de certains systèmes internes. La banque a pris des mesures de précaution pour protéger ses opérations et ses informations, mais elle n'a pas confirmé ou infirmé les rapports selon lesquels des cybercriminels auraient exigé une rançon de 50 millions de rands. Les enquêtes sont toujours en cours.",
+        "title": "Land Bank declines to confirm R50m ransom claim as cyber investigation continues",
+        "url": "https://persfin.co.za/companies/2026-02-15-land-bank-declines-to-confirm-r50m-ransom-claim-as-cyber-investigation-continues/",
+        "added": "2026-02-15"
+    },
+    {
         "date": "2026-01-20",
         "victim": "Tulsa Airports Improvement Trust (TAIT)",
         "domain": "flytulsa.com",
