@@ -1,5 +1,15 @@
 [
     {
+        "date": "2026-01-20",
+        "victim": "Tulsa Airports Improvement Trust (TAIT)",
+        "domain": "flytulsa.com",
+        "country": "USA",
+        "summary": "Le Tulsa Airports Improvement Trust a subi une faille de sécurité, une partie de ses fichiers ont été accessibles à une tierce partie non autorisée du 17 au 20 janvier. Les informations personnelles de certaines personnes ont été compromises, mais l'aéroport a pris des mesures pour sécuriser son réseau et contenir l'incident. L'enquête est toujours en cours, mais l'aéroport est confiant dans la sécurité de ses systèmes informatiques.",
+        "title": "Tulsa Airports issues notice of data security incident",
+        "url": "https://www.pryorinfopub.com/news/state/tulsa-airports-issues-notice-of-data-security-incident/article_179c1954-1774-555b-97f9-844012c3e10e.html",
+        "added": "2026-02-15"
+    },
+    {
         "date": "2025-07-08",
         "victim": "York City",
         "domain": "yorkcity.org",
