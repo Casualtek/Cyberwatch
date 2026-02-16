@@ -1,5 +1,15 @@
 [
     {
+        "date": "2026-02-15",
+        "victim": "CHOC FM",
+        "domain": "chocfm.com",
+        "country": "CAN",
+        "summary": "Une cyberattaque paralyse la station CHOC FM à Portneuf, les systèmes informatiques sont inutilisables et la diffusion sur les ondes est interrompue. Il s'agit d'une attaque par rançongiciel, selon la Sûreté du Québec, qui a ouvert une enquête. La station a perdu l'accès à ses fichiers audio et ses systèmes informatiques internes.",
+        "title": "Une cyberattaque paralyse la station CHOC FM dans Portneuf",
+        "url": "https://ici.radio-canada.ca/nouvelle/2229291/choc-fm-cyberattaque-radio-station",
+        "added": "2026-02-16"
+    },
+    {
         "date": "2025-02-13",
         "victim": "Terra Holdings, LLC",
         "domain": "terra-holdingsllc.com",
