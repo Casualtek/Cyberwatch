@@ -1,5 +1,15 @@
 [
     {
+        "date": "2026-02-13",
+        "victim": "ワシントンホテル株式会社",
+        "domain": "washingtonhotel.co.jp",
+        "country": "JPN",
+        "summary": "Le groupe hôtelier japonais ワシントンホテル株式会社 a subi une attaque de ransomware le 13 février 2026, entraînant une violation de données et des perturbations dans certaines de ses opérations. L'entreprise a mis en place un centre de crise et travaille avec des experts externes pour contenir l'attaque et rétablir ses systèmes. Les détails de l'incident sont encore en cours d'investigation.",
+        "title": "ランサムウェア感染被害のお知らせ | 【公式】ワシントンホテル株式会社",
+        "url": "https://www.washingtonhotel.co.jp/corporation/news/197/",
+        "added": "2026-02-17"
+    },
+    {
         "date": "2026-02-16",
         "victim": "Centre de services scolaire du Fer",
         "domain": "csdufer.qc.ca",
