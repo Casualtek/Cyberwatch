@@ -1,5 +1,15 @@
 [
     {
+        "date": "2026-02-01",
+        "victim": "L'Ordre des experts-comptables de Bretagne",
+        "domain": "bretagne.experts-comptables.fr",
+        "country": "FRA",
+        "summary": "L'Ordre des experts-comptables de Bretagne a été victime d'une cyberattaque d'envergure début février, les hackers ont dérobé des données de secrétariat mais pas de données appartenant aux clients. La structure a confirmé l'information via un communiqué et a déposé plainte au tribunal de Rennes. L'Ordre collabore avec les autorités pour faire la lumière sur cette cyberattaque.",
+        "title": "L’Ordre des experts-comptables de Bretagne a été victime d’une « cyberattaque majeure » et confirme « une fuite de données »",
+        "url": "https://www.letelegramme.fr/bretagne/lordre-des-experts-comptables-de-bretagne-a-ete-victime-dune-cyberattaque-majeure-et-confirme-une-fuite-de-donnees-6985852.php",
+        "added": "2026-02-18"
+    },
+    {
         "date": "2026-02-13",
         "victim": "Livingston HealthCare",
         "domain": "livingstonhealthcare.org",
