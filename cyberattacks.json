@@ -1,6 +1,16 @@
 [
     {
         "date": "2026-02-16",
+        "victim": "Franz Sales Haus",
+        "domain": "franz-sales-haus.de",
+        "country": "DEU",
+        "summary": "Le Franz Sales Haus à Essen a été victime d'une cyberattaque, les hackers ont tenté d'attaquer le système informatique de l'établissement, mais l'attaque a été stoppée grâce à l'intervention de l'équipe IT et d'une société de sécurité externe. Les autorités ont ouvert une enquête pour sabotage informatique. L'établissement a assuré que la sécurité et la prise en charge de ses clients n'ont pas été affectées.",
+        "title": "Franz Sales Haus in Essen wird Opfer von Hackerangriff",
+        "url": "https://www.radioessen.de/artikel/franz-sales-haus-in-essen-wird-opfer-von-hackerangriff-2577441",
+        "added": "2026-02-19"
+    },
+    {
+        "date": "2026-02-16",
         "victim": "Landkreis Kassel",
         "domain": "landkreiskassel.de",
         "country": "DEU",
