@@ -1,5 +1,15 @@
 [
     {
+        "date": "2026-02-15",
+        "victim": "Advantest",
+        "domain": "advantest.com",
+        "country": "JPN",
+        "summary": "Advantest Corporation a confirmé qu'elle répond à un incident de cybersécurité qui a pu affecter des parties de son réseau interne. L'incident a été détecté le 15 février et les systèmes affectés ont été isolés. Les enquêteurs travaillent pour déterminer la portée de l'incident et les systèmes compromis.",
+        "title": "Advantest Cyberattack Under Ransomware Investigation",
+        "url": "https://thecyberexpress.com/advantest-cyberattack-ransomware-investigation/",
+        "added": "2026-02-19"
+    },
+    {
         "date": "2025-12-08",
         "victim": "Cheyenne and Arapaho Tribes of Oklahoma",
         "domain": "cheyenneandarapaho-nsn.gov",
