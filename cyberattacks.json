@@ -1,5 +1,15 @@
 [
     {
+        "date": "2026-01-19",
+        "victim": "Stadt Heinsberg",
+        "domain": "heinsberg.de",
+        "country": "DEU",
+        "summary": "La ville de Heinsberg est victime d'une panne de téléphone et d'internet depuis plusieurs jours, une cyberattaque n'est pas exclue. Les principaux services de la ville sont difficilement accessibles et les demandes en ligne ne peuvent pas être traitées. La durée de la panne est actuellement inconnue.",
+        "title": "Eine technische Störung sorgt für Ausfälle von Telefon und Internet bei der Stadt Heinsberg",
+        "url": "https://www1.wdr.de/nachrichten/rheinland/mutmasslicher-cyberangriff-heinsberg-100.html",
+        "added": "2026-02-20"
+    },
+    {
         "date": "2026-02-17",
         "victim": "Ville de Meriden",
         "domain": "cityofmeriden.org/",
