@@ -1,5 +1,15 @@
 [
     {
+        "date": "2026-02-17",
+        "victim": "Ville de Meriden",
+        "domain": "cityofmeriden.org/",
+        "country": "USA",
+        "summary": "La ville de Meriden, dans le Connecticut, a déconnecté ses services internet et son Wi-Fi public après avoir signalé une tentative de perturbation de son service internet. Les services d'urgence n'ont pas été affectés, mais certaines opérations non essentielles pourraient être limitées pendant que les systèmes restent hors ligne. La ville n'a pas précisé si l'incident était une cyberattaque ou l'a attribué à un groupe.",
+        "title": "Meriden, Connecticut shuts down city internet services after disruption attempt",
+        "url": "https://dysruptionhub.com/meriden-internet-shutdown-connecticut/",
+        "added": "2026-02-20"
+    },
+    {
         "date": "2026-02-19",
         "victim": "University of Mississippi Medical Center",
         "domain": "umc.edu",
