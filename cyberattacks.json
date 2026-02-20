@@ -1,5 +1,15 @@
 [
     {
+        "date": "2026-02-19",
+        "victim": "University of Mississippi Medical Center",
+        "domain": "umc.edu",
+        "country": "USA",
+        "summary": "L'University of Mississippi Medical Center a confirmé avoir subi une cyberattaque, ce qui a entraîné la fermeture de ses cliniques et l'annulation de chirurgies. Les systèmes informatiques de l'hôpital, y compris les dossiers médicaux électroniques, sont actuellement hors service. Les autorités, dont le FBI, sont impliquées dans l'enquête sur cette attaque.",
+        "title": "UMMC confirms cyberattack, closing clinics and canceling surgeries",
+        "url": "https://www.wlbt.com/2026/02/19/sources-say-ummc-suffers-cyber-attack/",
+        "added": "2026-02-20"
+    },
+    {
         "date": "2026-02-16",
         "victim": "Franz Sales Haus",
         "domain": "franz-sales-haus.de",
