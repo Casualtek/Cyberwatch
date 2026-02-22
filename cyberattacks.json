@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-02-12",
+        "victim": "Câmara da Guarda",
+        "domain": "mun-guarda.pt",
+        "country": "PRT",
+        "summary": "La Câmara da Guarda a subi à un incident cibernétique complexe le 12 février, ce qui a condamné ses services en ligne et son site Internet. L'attaque a eu lieu le même jour où la police judiciaire a effectué des perquisitions dans la commune pour recueillir des preuves dans le cadre d'une enquête. Les services de la commune sont toujours indisponibles, mais la sécurité des données personnelles des citoyens est assurée.",
+        "title": "Câmara da Guarda há uma semana com vários serviços bloqueados após \"incidente cibernético complexo\"",
+        "url": "https://cnnportugal.iol.pt/camara-da-guarda/ataque-informatico/camara-da-guarda-ha-uma-semana-com-varios-servicos-bloqueados-apos-incidente-cibernetico-complexo/20260220/6998d02bd34e6a48f446cb32",
+        "added": "2026-02-22"
+    },
+    {
         "date": "2026-01-19",
         "victim": "Stadt Heinsberg",
         "domain": "heinsberg.de",
