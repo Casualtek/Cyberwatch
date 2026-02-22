@@ -1,5 +1,15 @@
 [
     {
+        "date": "2026-02-20",
+        "victim": "Universidade Federal de Sergipe",
+        "domain": "ufs.br",
+        "country": "BRA",
+        "summary": "La Universidade Federal de Sergipe a subi un attaque cibernétique visant les ordinateurs équipés de Windows, les équipes techniques ont pris des mesures de sécurité et analysent l'incident. Les systèmes SIG et d'autres services fonctionnent normalement, mais les utilisateurs sont invités à garder les ordinateurs Windows éteints. L'université assure que les données et services sont protégés et que des mesures sont prises pour prévenir de futurs incidents.",
+        "title": "UFS identifica ataque cibernético; sistemas acadêmicos seguem funcionando - O que é notícia em Sergipe",
+        "url": "https://infonet.com.br/noticias/educacao/ufs-identifica-ataque-cibernetico-sistemas-academicos-seguem-funcionando/",
+        "added": "2026-02-22"
+    },
+    {
         "date": "2024-02-12",
         "victim": "Câmara da Guarda",
         "domain": "mun-guarda.pt",
