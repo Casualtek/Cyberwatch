@@ -1,5 +1,15 @@
 [
     {
+        "date": "2026-02-20",
+        "victim": "Hazeldenes",
+        "domain": "hazeldenes.com.au",
+        "country": "AUS",
+        "summary": "Une attaque cybernétique a touché l'usine de traitement de viande de poulet Hazeldenes, provoquant une pénurie de poulet dans les pubs et les boucheries de l'État. L'entreprise travaille avec des enquêteurs en cybersécurité pour identifier la cause de l'attaque. Les entreprises cherchent désormais d'autres fournisseurs de viande de poulet pour éviter que les clients ne soient affectés.",
+        "title": "Pub left without 'parmas' as cyber attack targets chicken processor",
+        "url": "https://www.abc.net.au/news/2026-02-23/cyber-attack-takes-major-chicken-processor-hazeldenes-offline/106376184",
+        "added": "2026-02-24"
+    },
+    {
         "date": "2026-02-17",
         "victim": "The Grand Hotel Taipei",
         "domain": "grand-hotel.org",
