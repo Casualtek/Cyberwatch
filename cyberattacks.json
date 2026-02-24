@@ -1,5 +1,45 @@
 [
     {
+        "date": "2025-01-22",
+        "victim": "City of Carthage, Texas",
+        "domain": "carthagetexas.us",
+        "country": "USA",
+        "summary": "The City of Carthage, Texas suffered a security incident involving unauthorized access to their network, potentially exposing personal information. The incident occurred on or about December 17, 2024, and was discovered on January 22, 2026. A cyberattack was claimed by Rhysida on January 28.",
+        "title": "Data Breach Notification",
+        "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/0a8d5d97-0452-489c-b04f-cbd04a392aa6.html",
+        "added": "2026-02-24"
+    },
+    {
+        "date": "2025-05-09",
+        "victim": "The Texas Access to Justice Foundation",
+        "domain": "teajf.org",
+        "country": "USA",
+        "summary": "The Texas Access to Justice Foundation suffered a data breach between May 6, 2025, and May 9, 2025, resulting in unauthorized access to certain files containing personal information. The breach was discovered on May 9, 2025, and affected approximately one Maine resident. The compromised information included names and Social Security numbers.",
+        "title": "Data Breach Notification",
+        "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/c09c0c77-28f6-4240-a006-acf1b0f61ca7.html",
+        "added": "2026-02-21"
+    },
+    {
+        "date": "2025-12-10",
+        "victim": "ICM Properties, Inc.",
+        "domain": "icmproperties.com",
+        "country": "USA",
+        "summary": "ICM Properties, Inc. suffered a data security incident that may have resulted in unauthorized access to some individuals' personal information. The incident occurred between December 9, 2025, and December 10, 2025. ICM Properties has taken steps to enhance the security of its systems and data to reduce the risk of similar incidents.",
+        "title": "Data Breach Notification",
+        "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/129fa84f-566e-45ad-bae2-dfe8b1c3bfb3.html",
+        "added": "2026-02-19"
+    },
+    {
+        "date": "2025-11-23",
+        "victim": "Fort Scott Community College",
+        "domain": "fortscott.edu",
+        "country": "USA",
+        "summary": "Fort Scott Community College suffered a data security incident on November 23, 2025, where an unauthorized party accessed their network and potentially accessed certain files. The incident may have compromised personal information including Social Security Number, Financial Account Information, and Name. The college has taken steps to secure and remediate the impacted systems and is offering free credit monitoring and identity theft protection services to affected individuals.",
+        "title": "Data Breach Notification",
+        "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/66b99794-dd97-4e41-8f4a-44923d0c1e1e.html",
+        "added": "2026-02-24"
+    },
+    {
         "date": "2025-05-22",
         "victim": "Academic Urology & Urogynecology of Arizona",
         "domain": "academic-urology.com",
