@@ -1,5 +1,15 @@
 [
     {
+        "date": "2026-02-23",
+        "victim": "Svealandstrafiken",
+        "domain": "svealandstrafiken.se",
+        "country": "SWE",
+        "summary": "Svealandstrafiken a subi une attaque informatique majeure, causant de grandes perturbations dans ses activités. L'attaque a eu lieu lundi et a affecté les opérations de l'entreprise. Les détails de l'attaque ne sont pas encore connus.",
+        "title": "Cyberattack mot bussbolag",
+        "url": "https://www.fagersta-posten.se/vastmanland/cyberattack-mot-bussbolag/",
+        "added": "2026-02-24"
+    },
+    {
         "date": "2026-02-16",
         "victim": "Cocoa",
         "domain": "cocoafl.gov",
