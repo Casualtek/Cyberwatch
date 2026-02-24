@@ -1,5 +1,40 @@
 [
     {
+        "victim": "Paisley Products of Canada",
+        "domain": "paisley.ca",
+        "country": "CA",
+        "date": "2026-02-13",
+        "group": "play"
+    },
+    {
+        "victim": "Kirbor Homes",
+        "domain": "kirbor.com",
+        "country": "US",
+        "date": "2026-02-14",
+        "group": "play"
+    },
+    {
+        "victim": "Tropic Tool & Mold",
+        "domain": "tropictoolandmold.com",
+        "country": "US",
+        "date": "2026-02-10",
+        "group": "play"
+    },
+    {
+        "victim": "Oklahoma Auto Exchange",
+        "domain": "okaex.com",
+        "country": "US",
+        "date": "2026-02-10",
+        "group": "play"
+    },
+    {
+        "victim": "Auto Auction of New England",
+        "domain": "aane.com",
+        "country": "US",
+        "date": "2026-02-10",
+        "group": "play"
+    },
+    {
         "victim": "Art Guild",
         "domain": "artguildinc.com",
         "country": "US",
