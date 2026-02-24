@@ -1,5 +1,12 @@
 [
     {
+        "victim": "Ocean Fish",
+        "domain": "oceanfish.ro",
+        "country": "RO",
+        "date": "2026-01-07",
+        "group": "akira"
+    },
+    {
         "victim": "Electro-Tech",
         "domain": "accutest-labs.com",
         "country": "US",
