@@ -1,5 +1,15 @@
 [
     {
+        "date": "2026-02-16",
+        "victim": "Cocoa",
+        "domain": "cocoafl.gov",
+        "country": "USA",
+        "summary": "La ville de Cocoa, en Floride, a subi une attaque de ransomware qui a perturbé certains systèmes informatiques, limitant ainsi certains services. Les autorités ont déclaré l'état d'urgence et travaillent avec des partenaires pour rétablir les systèmes. Les opérations d'urgence et de dispatch restent opérationnelles.",
+        "title": "Cocoa, Florida faces possible ransomware hit as city IT systems falter",
+        "url": "https://dysruptionhub.com/cocoa-fl-incransom-claim-it-outage/",
+        "added": "2026-02-24"
+    },
+    {
         "date": "2026-02-20",
         "victim": "Hazeldenes",
         "domain": "hazeldenes.com.au",
