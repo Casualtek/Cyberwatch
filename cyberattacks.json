@@ -1,5 +1,25 @@
 [
     {
+        "date": "2025-12-22",
+        "victim": "Alpine Lumber Company",
+        "domain": "alpinelumber.com",
+        "country": "USA",
+        "summary": "Alpine Lumber Company suffered a data security incident involving ransomware, resulting in unauthorized access to employee and dependent information, including names, addresses, Social Security numbers, and health insurance information.",
+        "title": "2026-02-18 Alpine Lumber Company Data Breach Notice to Consumers",
+        "url": "https://ago.vermont.gov/document/2026-02-18-alpine-lumber-company-data-breach-notice-consumers",
+        "added": "2026-02-20"
+    },
+    {
+        "date": "2025-08-11",
+        "victim": "TAKBroadband, LLC",
+        "domain": "takkbroadband.com",
+        "country": "USA",
+        "summary": "TAKBroadband, LLC experienced a security incident where an unauthorized third party accessed certain systems and acquired files containing personal information between August 2, 2025, and August 12, 2025. The affected files contained names and other personal information. The incident was discovered on August 11, 2025.",
+        "title": "2026-02-20 TAK Broadband Data Breach Notice to Consumers",
+        "url": "https://ago.vermont.gov/document/2026-02-20-tak-broadband-data-breach-notice-consumers",
+        "added": "2026-02-21"
+    },
+    {
         "date": "2026-02-23",
         "victim": "Svealandstrafiken",
         "domain": "svealandstrafiken.se",
