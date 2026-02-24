@@ -1,5 +1,25 @@
 [
     {
+        "date": "2025-08-10",
+        "victim": "Greater Pittsburgh Orthopedic Associates Inc.",
+        "domain": "gpoa.com",
+        "country": "USA",
+        "summary": "Greater Pittsburgh Orthopedic Associates Inc. experienced a data security incident involving unauthorized access to their computer network, potentially affecting personal or health information. The incident occurred on August 10, 2025, and the organization has taken measures to secure their environment and prevent similar incidents. A cyberattack was claimed by Ransomhouse on August 20.",
+        "title": "2026-02-20 Greater Pittsburgh Orthopedic Associates Data Breach Notice to Consumers",
+        "url": "https://ago.vermont.gov/document/2026-02-20-greater-pittsburgh-orthopedic-associates-data-breach-notice-consumers",
+        "added": "2026-02-24"
+    },
+    {
+        "date": "2025-12-16",
+        "victim": "The Center for Advanced Eye Care",
+        "domain": "centerforeyes.com",
+        "country": "USA",
+        "summary": "The Center for Advanced Eye Care suffered a data security incident where unauthorized access to protected health information occurred. The incident was discovered on December 16, 2025, and the affected individuals were notified on February 19, 2026. The breach may have resulted in the unauthorized access to personal information.",
+        "title": "2026-02-20 The Center for Advanced Eye Data Breach Notice to Consumers",
+        "url": "https://ago.vermont.gov/document/2026-02-20-center-advanced-eye-data-breach-notice-consumers",
+        "added": "2026-02-24"
+    },
+    {
         "date": "2025-12-02",
         "victim": "CSA Tax & Advisory",
         "domain": "csataxadvisory.com",
