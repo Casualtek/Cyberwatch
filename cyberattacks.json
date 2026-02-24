@@ -1,5 +1,25 @@
 [
     {
+        "date": "2025-12-02",
+        "victim": "CSA Tax & Advisory",
+        "domain": "csataxadvisory.com",
+        "country": "USA",
+        "summary": "H&N Tax, Inc. dba CSA Tax experienced a network disruption on December 2, 2025, which led to unauthorized access to certain information stored on their network. The potentially affected data may have included first and last names, in combination with Social Security numbers. A cyberattack was claimed by Lynx on December 26.",
+        "title": "2026-02-20 H&N Tax Data Breach Notice to Consumers",
+        "url": "https://ago.vermont.gov/document/2026-02-20-hn-tax-data-breach-notice-consumers",
+        "added": "2026-02-24"
+    },
+    {
+        "date": "2026-02-01",
+        "victim": "Beacon Pointe Advisors, LLC",
+        "domain": "beaconpointe.com",
+        "country": "USA",
+        "summary": "Beacon Pointe Advisors, LLC suffered a data breach due to unauthorized access to their IT network, resulting in potential exposure of client information. The breach occurred between January 30, 2026, and February 1, 2026. The company has taken steps to secure the network and is offering complimentary identity monitoring services to affected clients.",
+        "title": "2026-02-20 Beacon Pointe Advisors Data Breach Notice to Consumers",
+        "url": "https://ago.vermont.gov/document/2026-02-20-beacon-pointe-advisors-data-breach-notice-consumers",
+        "added": "2026-02-24"
+    },
+    {
         "date": "2025-08-27",
         "victim": "Saint Mary’s Home of Erie",
         "domain": "stmaryshome.org",
