@@ -1,5 +1,15 @@
 [
     {
+        "date": "2026-02-14",
+        "victim": "UFP Technologies",
+        "domain": "ufpt.com",
+        "country": "USA",
+        "summary": "UFP Technologies, un fabricant de dispositifs médicaux, a subi une attaque de ransomware qui a entraîné le vol de fichiers et la perturbation de certains systèmes informatiques. L'incident a été détecté le 14 février et a eu un impact sur les systèmes de facturation et de création d'étiquettes de livraison. L'entreprise a mis en œuvre des plans de contingence et des systèmes de sauvegarde pour atténuer les effets de l'incident.",
+        "title": "Medical Device Maker UFP Technologies Hit by Cyberattack",
+        "url": "https://www.securityweek.com/medical-device-maker-ufp-technologies-hit-by-cyberattack/",
+        "added": "2026-02-25"
+    },
+    {
         "date": "2026-02-24",
         "victim": "BDH-Kliniken",
         "domain": "bdh-reha.de",
