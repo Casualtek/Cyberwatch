@@ -1,5 +1,15 @@
 [
     {
+        "date": "2026-02-25",
+        "victim": "Stadtverwaltung Konstanz",
+        "domain": "konstanz.de",
+        "country": "DEU",
+        "summary": "La ville de Constance a subi une attaque informatique visant un programme de gestion de systèmes mobiles, mais les opérations administratives ne sont pas affectées et seules les données de quelques employés sont touchées. Les données des citoyens, des clients et des partenaires commerciaux ne sont pas affectées selon l'état actuel des connaissances. La situation est surveillée de manière continue.",
+        "title": "IT-Sicherheitsvorfall bei der Stadtverwaltung Konstanz",
+        "url": "https://www.konstanz.de/service/presse/pressemitteilungen/it-sicherheitsvorfall+bei+der+stadtverwaltung+konstanz",
+        "added": "2026-02-27"
+    },
+    {
         "date": "2026-01-31",
         "victim": "Musashi Kosugi Hospital",
         "domain": "nms.ac.jp",
