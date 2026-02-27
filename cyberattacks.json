@@ -1,5 +1,15 @@
 [
     {
+        "date": "2026-01-31",
+        "victim": "Musashi Kosugi Hospital",
+        "domain": "nms.ac.jp",
+        "country": "JPN",
+        "summary": "L'hôpital de l'université médicale du Japon a subi une attaque informatique, entraînant la fuite de données personnelles de 13 000 patients et de 1 700 employés. Les informations compromises incluent des noms, des adresses, des numéros de téléphone et des dates de naissance. Les attaquants ont exigé une rançon de 150 milliards de yens.",
+        "title": "日本一醫院遭網絡攻擊 約13萬患者信息被洩露 - 香港文匯網",
+        "url": "https://www.wenweipo.com/a/202602/27/AP69a1a4ffe4b04d7d56d5801d.html",
+        "added": "2026-02-27"
+    },
+    {
         "date": "2026-02-26",
         "victim": "Centre des technologies de l’information de l’État (CTIE)",
         "domain": "gouvernement.lu",
