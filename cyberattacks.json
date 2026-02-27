@@ -1,5 +1,15 @@
 [
     {
+        "date": "2026-02-26",
+        "victim": "Centre des technologies de l’information de l’État (CTIE)",
+        "domain": "gouvernement.lu",
+        "country": "LUX",
+        "summary": "Un logiciel malveillant a été détecté sur le système gérant les appareils mobiles du CTIE, l'accès aux services internes de l'État via les appareils mobiles est indisponible, mais les services restent accessibles via ordinateur.",
+        "title": "Un logiciel malveillant perturbe l’accès mobile aux services de l’État",
+        "url": "https://www.virgule.lu/luxembourg/un-logiciel-malveillant-perturbe-lacces-mobile-aux-services-de-letat/137687385.html",
+        "added": "2026-02-27"
+    },
+    {
         "date": "2026-02-24",
         "victim": "CHS Villach",
         "domain": "chs-villach.at",
