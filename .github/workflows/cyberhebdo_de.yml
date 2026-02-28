@@ -22,7 +22,7 @@ jobs:
           pip3 install deepl
       - name: Generate HTML Digest
         env:
-          OPENAI_API_KEY: ${{ secrets.OPENAI_API }}
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
           DEEPL_API_KEY: ${{ secrets.DEEPL_API }}
         run: |
           python3 review-week-de.py cyberattacks.json
