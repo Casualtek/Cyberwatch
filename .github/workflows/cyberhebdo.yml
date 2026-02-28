@@ -21,7 +21,7 @@ jobs:
           pip3 install -r requirements.txt
       - name: Generate HTML Digest
         env:
-          OPENAI_API_KEY: ${{ secrets.OPENAI_API }}
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
         run: |
           python3 review-week.py cyberattacks.json
       - uses: stefanzweifel/git-auto-commit-action@v4
