@@ -1,5 +1,15 @@
 [
     {
+        "date": "2026-02-19",
+        "victim": "Fundação Getúlio Vargas",
+        "domain": "fgv.br",
+        "country": "BRA",
+        "summary": "La Fundação Getúlio Vargas a été victime d'une attaque de sequestro de données par le groupe Dragonforce, avec 1,52 To de données compromises, dont des informations personnelles sensibles. L'attaque a eu lieu après un incident de cybersécurité similaire en février. Le groupe Dragonforce exige un rançon en échange de la non-divulgation des données.",
+        "title": "Fundação Getúlio Vargas sofre vazamento de 1,52 TB em suposto ataque de ransomware",
+        "url": "https://www.tecmundo.com.br/seguranca/411228-fgv-sofre-vazamento-de-152-tb-em-suposto-ataque-cibernetico-do-grupo-dragonforce.htm",
+        "added": "2026-03-02"
+    },
+    {
         "date": "2026-02-27",
         "victim": "Marktgemeinde Langenzersdorf",
         "domain": "langenzersdorf.gv.at",
