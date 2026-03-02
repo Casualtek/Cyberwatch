@@ -1,5 +1,15 @@
 [
     {
+        "date": "2026-02-27",
+        "victim": "Marktgemeinde Langenzersdorf",
+        "domain": "langenzersdorf.gv.at",
+        "country": "AUT",
+        "summary": "La Marktgemeinde Langenzersdorf a été victime d'une attaque informatique le 27 février 2026, ce qui a rendu son réseau interne indisponible et a suspendu les activités de l'hôtel de ville. Les experts en sécurité travaillent à la restauration du système et la commune demande aux citoyens d'éviter les demandes par e-mail pour le moment. La vie quotidienne de la population et les infrastructures critiques ne sont pas affectées par cette attaque.",
+        "title": "Cyber-Angriff legt große Gemeinde in NÖ lahm | Heute.at",
+        "url": "https://www.heute.at/s/cyber-angriff-legt-grosse-gemeinde-in-noe-lahm-120166017",
+        "added": "2026-03-02"
+    },
+    {
         "date": "2026-01-30",
         "victim": "Denmark School District",
         "domain": "denmark.k12.wi.us",
