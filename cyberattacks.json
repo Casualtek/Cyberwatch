@@ -1,5 +1,15 @@
 [
     {
+        "date": "2026-01-30",
+        "victim": "Denmark School District",
+        "domain": "denmark.k12.wi.us",
+        "country": "USA",
+        "summary": "Le district scolaire de Denmark au Wisconsin a subi une interruption de son accès à Internet pendant cinq jours en raison d'un incident cybernétique. Les enseignants et les étudiants ont dû recourir à des méthodes de travail basées sur le papier. L'incident a été attribué à une attaque cybernétique, mais les détails sur les systèmes affectés et les données compromises n'ont pas été divulgués.",
+        "title": "Denmark schools in Wisconsin hit by weeklong outage",
+        "url": "https://dysruptionhub.com/denmark-schools-outage-wisconsin/",
+        "added": "2026-03-02"
+    },
+    {
         "date": "2025-12-15",
         "victim": "Autohaus Pichel GmbH Chemnitz",
         "domain": "ford-chemnitz.de",
