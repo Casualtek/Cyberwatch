@@ -1,5 +1,15 @@
 [
     {
+        "date": "2026-03-02",
+        "victim": "Alcorn School District",
+        "domain": "alcornschools.org",
+        "country": "USA",
+        "summary": "Le district scolaire d'Alcorn au Mississippi a fermé son réseau informatique en raison d'une activité suspecte, ce qui pourrait affecter les tests des étudiants cette semaine. Le district a détecté une activité suspecte sur ses réseaux et les a temporairement désactivés par précaution. Les causes de la perturbation n'ont pas été précisées, mais le district travaille à rétablir les systèmes.",
+        "title": "Mississippi Alcorn School District disables network",
+        "url": "https://dysruptionhub.com/alcorn-school-district-network-shutdown-ms/",
+        "added": "2026-03-03"
+    },
+    {
         "date": "2026-02-19",
         "victim": "Fundação Getúlio Vargas",
         "domain": "fgv.br",
