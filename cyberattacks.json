@@ -1,5 +1,15 @@
 [
     {
+        "date": "2026-01-21",
+        "victim": "Cloud Imperium Games (CIG)",
+        "domain": "cloudimperiumgames.com",
+        "country": "USA",
+        "summary": "Le 21 janvier 2026, CIG a subi une attaque ciblant certains systèmes de sauvegarde avec accès limité à des données personnelles. Les ingénieurs d'une entrée et accès illégal entre la sécurité des données affectées, y compris des coordonnées de contact, mais aucune information financière ou mot de passe n'a été compromise. Bien qu'une surveillance continue soit en cours et que ce déploiement, il n'y a aucune indication que des données aient été publiées publiquement ou modifiées.",
+        "title": "Website Notice",
+        "url": "https://robertsspaceindustries.com/en/Website-Notice",
+        "added": "2026-03-04"
+    },
+    {
         "date": "2026-03-02",
         "victim": "Alcorn School District",
         "domain": "alcornschools.org",
