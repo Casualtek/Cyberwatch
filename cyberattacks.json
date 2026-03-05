@@ -1,6 +1,16 @@
 [
     {
         "date": "2026-03-04",
+        "victim": "Passaic County",
+        "domain": "choosenj.com",
+        "country": "USA",
+        "summary": "Une attaque cybernétique par malware a perturbé les systèmes informatiques et les lignes téléphoniques du comté de Passaic dans le New Jersey. Les autorités collaborent avec les agences fédérales et étatiques pour contenir l'incident et identifier sa cause. Des municipalités voisines ont également signalé des problèmes similaires récemment, sans que des détails spécifiques sur les systèmes ciblés ne soient encore disponibles.",
+        "title": "Cyber Attack Takes Down NJ County’s Phones, IT Systems",
+        "url": "https://patch.com/new-jersey/wayne/cyber-attack-targets-north-jersey-county-s-phones-it-systems",
+        "added": "2026-03-05"
+    },
+    {
+        "date": "2026-03-04",
         "victim": "Ohio County Schools",
         "domain": "ohio.k12.wv.us",
         "country": "USA",
