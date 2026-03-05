@@ -1,5 +1,15 @@
 [
     {
+        "date": "2026-02-26",
+        "victim": "Peak Software Systems",
+        "domain": "peaksoftware.com",
+        "country": "USA",
+        "summary": "Une cyberattaque a perturbé la plateforme Sportsman de Peak Software Systems, entraînant des interruptions de service pour les inscriptions et paiements dans plusieurs villes américaines. L'entreprise a collaboré avec des experts en cybersécurité et des forces de l'ordre pour récupérer les clés de déchiffrement et restaurer les systèmes à partir du 1er mars. Cet incident s'inscrit dans une tendance plus large où des failles chez les fournisseurs de logiciels publics affectent les services civiques quotidiens.",
+        "title": "Utah vendor Peak Software Systems incident disrupts Sportsman recreation signups",
+        "url": "https://dysruptionhub.com/peak-software-sportsman-outage-utah/",
+        "added": "2026-03-05"
+    },
+    {
         "date": "2026-03-04",
         "victim": "Passaic County",
         "domain": "choosenj.com",
