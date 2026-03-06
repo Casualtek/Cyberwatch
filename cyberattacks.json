@@ -1,5 +1,15 @@
 [
     {
+        "date": "2025-08-22",
+        "victim": "KCI Telecommunications",
+        "domain": "kcitelecom.com",
+        "country": "USA",
+        "summary": "KCI Telecommunications suffered a data breach on August 22, 2025, where an unknown actor accessed certain files containing names and Social Security numbers. The breach was discovered on August 22, 2025, and KCI took steps to secure its systems and launched an investigation. A cyberattack was claimed by Akira on September 19.",
+        "title": "Data Breach Notification",
+        "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/0ea8c430-7b48-4949-92e4-d2dd0ab0259d.html",
+        "added": "2026-02-26"
+    },
+    {
         "date": "2025-05-22",
         "victim": "Academic Urology & Urogynecology of Arizona",
         "domain": "academic-urology.com",
