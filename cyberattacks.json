@@ -1,5 +1,15 @@
 [
     {
+        "date": "2025-12-20",
+        "victim": "Warren County Sheriff's Office",
+        "domain": "warrencountykysheriff.com",
+        "country": "USA",
+        "summary": "Le bureau du shérif du comté de Warren a détecté une activité suspecte sur son réseau informatique le 20 décembre 2025, déclenchant une enquête pour une cyberattaque. Des criminels cybernétiques ont accédé au réseau de l'office, copié et supprimé certaines données, affectant les employés et leurs familles. Une cyberattaque contre le bureau du shérif avait été revendiquée par RansomHouse le 23 janvier.",
+        "title": "WCSO investigating cyber attack on its computer network",
+        "url": "https://www.wbko.com/2026/03/05/wcso-investigate-cyber-attack/",
+        "added": "2026-03-06"
+    },
+    {
         "date": "2026-02-20",
         "victim": "Comune di Battipaglia",
         "domain": "battipaglia.sa.it",
