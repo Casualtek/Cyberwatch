@@ -1,5 +1,55 @@
 [
     {
+        "date": "2025-12-10",
+        "victim": "The Lewis Bear Company",
+        "domain": "lewisbearcompany.com",
+        "country": "USA",
+        "summary": "The Lewis Bear Company suffered a data breach, prompting the company to notify customers to review their account statements and credit reports for suspicious activity. Customers are advised to contact the company or law enforcement if they detect any fraudulent activity. A cyberattack was claimed by Akira on January 5.",
+        "title": "Data Breach Notification",
+        "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/cc5cfef7-8eda-492e-9a93-292026a891da.html",
+        "added": "2026-02-26"
+    },
+    {
+        "date": "2025-05-11",
+        "victim": "Cyrus D. Mehta & Partners PLLC",
+        "domain": "cyrusmehta.com",
+        "country": "USA",
+        "summary": "Cyrus D. Mehta & Partners PLLC suffered a data breach where an unauthorized third party accessed certain systems and removed data. The breach may have involved address, demographic information, date of birth, Social Security number, passport or other government identification, and other identifiers. The organization has taken steps to prevent further access and is offering credit monitoring services to affected individuals.",
+        "title": "2026-02-23 Cyrus D. Mehta & Partners Data Breach Notice to Consumers",
+        "url": "https://ago.vermont.gov/document/2026-02-23-cyrus-d-mehta-partners-data-breach-notice-consumers",
+        "added": "2026-02-25"
+    },
+    {
+        "date": "2025-09-11",
+        "victim": "Data Systems Analysts, Inc.",
+        "domain": "dsainc.com",
+        "country": "USA",
+        "summary": "Data Systems Analysts, Inc. suffered a data breach, prompting the company to offer credit monitoring services to affected individuals. The breach led to an offer of 12 months of free credit monitoring services from Experian. The company is not aware of anyone experiencing fraud as a result of the incident.",
+        "title": "Data Breach Notification",
+        "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/9381c2f2-0aa0-482d-aaaf-7a128ef25575.html",
+        "added": "2026-02-25"
+    },
+    {
+        "date": "2025-03-30",
+        "victim": "Hennessy Advisors, Inc.",
+        "domain": "hennessyadvisors.com",
+        "country": "USA",
+        "summary": "Hennessy Advisors, Inc. experienced a data security incident that may have affected personal information of investors. The incident occurred when suspicious activity was discovered on March 30, 2025, and it was later confirmed that personal information had been accessed and released without authorization in December 2025. The affected information may have included names, addresses, and other personal details.",
+        "title": "Data Breach Notification",
+        "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/e7c69f03-e6e0-474a-b6e0-b9f26b728951.html",
+        "added": "2026-02-25"
+    },
+    {
+        "date": "2026-01-21",
+        "victim": "Brown Advisory LLC",
+        "domain": "brownadvisory.com",
+        "country": "USA",
+        "summary": "On January 21st 2026, Brown Advisory discovered a security incident involving unauthorized access by a recognized threat actor to certain of their systems. Upon learning of the issue, they engaged leading cybersecurity experts and, with their assistance, have been conducting an investigation into the matter. The investigation indicated that an unauthorized threat actor accessed certain personal data through a limited number of applications for a limited period of time.",
+        "title": "Data Breach Notification",
+        "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/aac37c55-b974-4522-80ce-317967214217.html",
+        "added": "2026-03-04"
+    },
+    {
         "date": "2025-12-20",
         "victim": "Warren County Sheriff's Office",
         "domain": "warrencountykysheriff.com",
