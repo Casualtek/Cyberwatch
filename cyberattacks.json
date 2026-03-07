@@ -1,5 +1,15 @@
 [
     {
+        "date": "2026-03-02",
+        "victim": "Vivaticket",
+        "domain": "tickeasy.com",
+        "country": "FRA",
+        "summary": "Le Centre des monuments nationaux a été victime d'une cyberattaque par rançongiciel le 2 mars 2026, affectant son prestataire de billetterie en ligne. Aucune exfiltration de données bancaires n'a été constatée, mais certaines informations clients comme les adresses e-mail et les mots de passe chiffrés ont pu être exposées. L'incident est suivi par la CNIL, l'ANSSI et le ministère de la Culture.",
+        "title": "Le Centre des monuments nationaux victime d’une cyberattaque par rançongiciel, \"les données bancaires ne sont pas concernées\"",
+        "url": "https://www.franceinfo.fr/internet/securite-sur-internet/le-centre-des-monuments-nationaux-victime-d-une-cyberattaque-par-rancongiciel-les-donnees-bancaires-ne-sont-pas-concernees_7851950.html",
+        "added": "2026-03-07"
+    },
+    {
         "date": "2026-03-06",
         "victim": "DIAN",
         "domain": "dian.gov.co",
