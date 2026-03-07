@@ -1,6 +1,16 @@
 [
     {
         "date": "2026-03-06",
+        "victim": "DIAN",
+        "domain": "dian.gov.co",
+        "country": "COL",
+        "summary": "La Direction des impôts et des douanes nationales (DIAN) a confirmé un ataque cibernétique externe qui a affecté son système de prise de rendez-vous en ligne. L'incident, associé à une tentative d'extorsion, a conduit à la suspension temporaire de la plateforme et à une enquête formelle auprès des autorités judiciaires et de protection des données. La DIAN assure que les informations fiscales et les identifiants des utilisateurs restent protégés, tandis que les services fiscaux continuent de fonctionner normalement via des points de contact physiques.",
+        "title": "Ataque cibernético a la DIAN obliga a suspender sistema de citas y abre investigación por extorsión - Revista C-Level",
+        "url": "https://revistaclevel.com/ataque-cibernetico-la-dian-obliga-suspender-sistema-de-citas-y-abre-investigacion-por-extorsion",
+        "added": "2026-03-07"
+    },
+    {
+        "date": "2026-03-06",
         "victim": "Caribbean Medical Center",
         "domain": "caribbeanmedicalcenter.com",
         "country": "PRI",
