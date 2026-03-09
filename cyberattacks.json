@@ -1,5 +1,15 @@
 [
     {
+        "date": "2026-03-09",
+        "victim": "Community College of Beaver County",
+        "domain": "ccbc.edu",
+        "country": "USA",
+        "summary": "Le Community College of Beaver County a subi une attaque de cryptolocker, ce qui a conduit à la fermeture de ses ressources technologiques pour limiter les dégâts. L'incident a eu lieu pendant les vacances de printemps, ce qui a limité les perturbations immédiates pour les classes. L'établissement n'a pas encore communiqué publiquement sur les systèmes affectés ou la durée des interruptions.",
+        "title": "Community College of Beaver County locks down systems after cyberattack in Pennsylvania",
+        "url": "https://dysruptionhub.com/ccbc-cyberattack-it-lockdown-pa/",
+        "added": "2026-03-09"
+    },
+    {
         "date": "2025-03-17",
         "victim": "Ontario Medical Supply (OMS)",
         "domain": "oms.ca",
