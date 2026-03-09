@@ -1,5 +1,15 @@
 [
     {
+        "date": "2026-03-08",
+        "victim": "Independent Public Regional Hospital Szczecin",
+        "domain": "spwsz.szczecin.pl",
+        "country": "POL",
+        "summary": "hôpital public régional indépendant a été victime d'une cyberattaque samedi soir. Le système informatique a été infecté et certaines données ont été chiffrées par les criminels, bloquant l'accès à celles-ci. L'établissement a été contraint de basculer vers des opérations manuelles sur papier. Les procédures médicales et administratives prennent plus de temps que d'habitude, bien que la vie et la santé des patients ne soient pas en danger.",
+        "title": "Cyberattack sees Polish hospital revert to ‘paper-based’ system",
+        "url": "https://tvpworld.com/91986106/hospital-in-western-poland-hit-by-cyberattack",
+        "added": "2026-03-09"
+    },
+    {
         "date": "2026-03-05",
         "victim": "Middlesex-London Health Unit",
         "domain": "healthunit.com",
