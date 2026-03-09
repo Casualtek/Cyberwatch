@@ -1,5 +1,15 @@
 [
     {
+        "date": "2025-03-17",
+        "victim": "Ontario Medical Supply (OMS)",
+        "domain": "oms.ca",
+        "country": "CAN",
+        "summary": "Un fournisseur de matériel médical, Ontario Medical Supply (OMS), a été victime d'une attaque par ransomware en mars 2025, compromettant les données de près de 200 000 patients. Bien que l'Ontario Health atHome ait initialement gardé le secret sur la nature exacte de l'incident, des documents obtenus ont révélé qu'il s'agissait d'un ransomware et non simplement d'une cyberattaque générique. Cette révélation tardive a suscité des critiques concernant le manque de transparence du gouvernement provincial envers les patients affectés.",
+        "title": "Ontario health agency vendor suffered major ransomware attack in 2025 | Globalnews.ca",
+        "url": "https://globalnews.ca/news/11720041/ontario-health-athome-ransomware/",
+        "added": "2026-03-09"
+    },
+    {
         "date": "2026-03-08",
         "victim": "Independent Public Regional Hospital Szczecin",
         "domain": "spwsz.szczecin.pl",
