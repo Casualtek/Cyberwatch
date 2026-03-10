@@ -1,5 +1,15 @@
 [
     {
+        "date": "2026-02-26",
+        "victim": "Wagon Mound Public Schools",
+        "domain": "wm.k12.nm.us",
+        "country": "USA",
+        "summary": "Le district scolaire Wagon Mound Public Schools, situé au Nouveau-Mexique, a dû déconnecter son réseau et ses ordinateurs après que le superintendant a signalé une infection virale affectant l'ensemble du système. Bien que le district n'ait pas confirmé publiquement la nature de l'incident, une liste de suivi de la rançongiciel attribue la responsabilité de l'attaque au groupe Interlock, qui aurait volé environ 80 Go de données. Cette cyberattaque s'inscrit dans une série de perturbations similaires touchant d'autres districts scolaires du Nouveau-Mexique au cours des dernières années.",
+        "title": "Wagon Mound schools in New Mexico shut network after virus",
+        "url": "https://dysruptionhub.com/wagon-mound-schools-virus-new-mexico/",
+        "added": "2026-03-10"
+    },
+    {
         "date": "2026-03-09",
         "victim": "Community College of Beaver County",
         "domain": "ccbc.edu",
