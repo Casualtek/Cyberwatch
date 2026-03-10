@@ -1,5 +1,15 @@
 [
     {
+        "date": "2026-03-04",
+        "victim": "Lehigh Carbon Community College",
+        "domain": "lccc.edu",
+        "country": "USA",
+        "summary": "Lehigh Carbon Community College a fermé tous ses sites et déplacé ses cours en ligne à partir du 4 mars suite à une perturbation informatique majeure qui n'était toujours pas résolue le 9 mars. Bien que l'établissement n'ait pas confirmé publiquement une cyberattaque, l'obligation de réinitialiser les mots de passe et la disponibilité partielle des services suggèrent une tentative de confinement de réseau. Cette incident s'inscrit dans une série de perturbations cybernétiques touchant le secteur de l'éducation en Pennsylvanie au cours des dernières années.",
+        "title": "Lehigh Carbon Community College outage in Pennsylvania points to likely cyber incident",
+        "url": "https://dysruptionhub.com/lccc-outage-likely-cyber-pennsylvania/",
+        "added": "2026-03-10"
+    },
+    {
         "date": "2026-02-26",
         "victim": "Wagon Mound Public Schools",
         "domain": "wm.k12.nm.us",
