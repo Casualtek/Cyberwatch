@@ -1,5 +1,55 @@
 [
     {
+        "date": "2025-09-24",
+        "victim": "Evolve Mortgage Services",
+        "domain": "evolvemortgageservices.com",
+        "country": "USA",
+        "summary": "Evolve Mortgage Services, LLC suffered a data breach, providing complimentary credit monitoring and identity protection services to affected individuals. The breach occurred due to an incident, and the company is taking steps to protect customer information. A cyberattack was claimed by INC Ransom on october 30.",
+        "title": "Data Breach Notification",
+        "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/2125231e-1105-4d5c-97cf-10d357b30a89.html",
+        "added": "2026-03-10"
+    },
+    {
+        "date": "2025-11-04",
+        "victim": "Sellers Publishing, Inc.",
+        "domain": "sellerspublishing.com",
+        "country": "USA",
+        "summary": "Sellers Publishing, Inc. experienced a data security incident where an unauthorized user potentially accessed certain systems, potentially impacting personal information of employees and contractors. The incident was discovered on November 4, 2025, and an investigation concluded on December 3, 2025. The breach may have involved names and Social Security numbers.",
+        "title": "Data Breach Notification",
+        "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/a14e0fca-0983-429b-806d-3aec483aa591.html",
+        "added": "2026-03-11"
+    },
+    {
+        "date": "2026-01-07",
+        "victim": "Riddle & Butts, LLP",
+        "domain": "riddlebutts.com",
+        "country": "USA",
+        "summary": "Riddle Butts suffered a data breach between December 30, 2025, and January 7, 2026, resulting in unauthorized access to certain files containing personal information. The breach was discovered on January 7, 2026. Riddle Butts has taken steps to enhance its security protocols and is providing credit monitoring services to affected individuals.",
+        "title": "Data Breach Notification",
+        "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/4ef9d2e4-7ded-4352-b03c-155aa107eb0e.html",
+        "added": "2026-03-11"
+    },
+    {
+        "date": "2025-02-25",
+        "victim": "Sprouse Shrader Smith PLLC",
+        "domain": "sprouselaw.com",
+        "country": "USA",
+        "summary": "Sprouse Shrader Smith PLLC experienced a data security incident where suspicious activity was detected on their network, potentially exposing personal information. An investigation found that documents containing personal information may have been copied from their network. The incident was discovered on February 25, 2025.",
+        "title": "Data Breach Notification",
+        "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/d2eecdb4-aae0-45a4-8fbc-e6e270d13370.html",
+        "added": "2026-03-11"
+    },
+    {
+        "date": "2025-04-28",
+        "victim": "UFCW Local 342",
+        "domain": "local342update.com",
+        "country": "USA",
+        "summary": "UFCW Local 342 suffered a data breach that exposed personal information of its members. The breach was discovered in 2023, and the organization is offering complimentary credit monitoring services to affected individuals. The breach is believed to have occurred due to unauthorized access to the organization's systems.",
+        "title": "Data Breach Notification",
+        "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/6992f41f-ffce-4aa9-8576-5050111a8388.html",
+        "added": "2026-03-10"
+    },
+    {
         "date": "2026-02-04",
         "victim": "De Gruyter Brill",
         "domain": "degruyterbrill.com",
