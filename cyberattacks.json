@@ -1,5 +1,15 @@
 [
     {
+        "date": "2026-03-10",
+        "victim": "Stryker",
+        "domain": "stryker.com",
+        "country": "IE",
+        "summary": "Un groupe de hackers soutenu par l'Iran, identifié comme Handala, est soupçonné d'être à l'origine d'une cyberattaque sophistiquée paralysant les opérations mondiales de la société américaine de technologie médicale Stryker. Cette attaque, survenue la nuit dernière, a entraîné la fermeture de tous les systèmes informatiques de l'entreprise, affectant ses sites en Europe, en Asie et aux États-Unis, et obligeant le retrait des données sur les appareils de ses 4 000 employés à Cork. Bien que la cause racine ne soit pas encore confirmée, l'incident a provoqué un arrêt total des activités de la société, qui emploie plus de 56 000 personnes dans 61 pays.",
+        "title": "Stryker cyber attack: Thousands of Irish unable to work as hackers cripple global systems",
+        "url": "https://www.irishmirror.ie/news/irish-news/stryker-cyber-attack-thousands-irish-36850017.amp",
+        "added": "2026-03-11"
+    },
+    {
         "date": "2026-03-04",
         "victim": "Lehigh Carbon Community College",
         "domain": "lccc.edu",
