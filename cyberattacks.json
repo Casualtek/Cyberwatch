@@ -1,5 +1,15 @@
 [
     {
+        "date": "2026-03-07",
+        "victim": "ELECQ",
+        "domain": "elecq.com",
+        "country": "CHN",
+        "summary": "Le fabricant chinois de bornes de recharge pour véhicules électriques, ELECQ, a confirmé qu'une attaque par ransomware a compromis ses systèmes cloud AWS le 7 mars 2026, entraînant le vol de données personnelles clients. Bien que l'entreprise ait affirmé que les données financières n'ont pas été touchées et que les appareils de recharge restent sécurisés, les informations compromises incluent les noms, adresses et coordonnées de contact des utilisateurs. ELECQ a engagé une réponse d'incident, notifié les régulateurs européens et recommandé aux clients de surveiller les tentatives de hameçonnage et de changer leurs mots de passe.",
+        "title": "Crims hit EV charger firm ELECQ, steal customer contact data",
+        "url": "https://www.theregister.com/2026/03/09/ransomware_crooks_hit_ev_charger/",
+        "added": "2026-03-12"
+    },
+    {
         "date": "2026-03-11",
         "victim": "Rusk County",
         "domain": "ruskcounty.org",
