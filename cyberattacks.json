@@ -1,5 +1,15 @@
 [
     {
+        "date": "2026-03-12",
+        "victim": "Stadt Herne",
+        "domain": "herne.de",
+        "country": "DEU",
+        "summary": "La ville de Herne a décidé de désactiver préventivement certaines de ses systèmes informatiques, ce qui a entraîné des restrictions au service aux citoyens. Bien que l'article évoque la possibilité d'une cyberattaque, aucune confirmation définitive n'est encore apportée sur l'origine de l'incident. La suite des opérations et les mesures de rétablissement sont actuellement en cours d'analyse.",
+        "title": "Cyberangriff? Stadt Herne schaltet IT-Systeme ab – Bürgerservice eingeschränkt",
+        "url": "https://www.waz.de/lokales/herne-wanne-eickel/article411437410/cyberangriff-stadt-herne-schaltet-it-systeme-ab-buergerservice-eingeschraenkt.html",
+        "added": "2026-03-12"
+    },
+    {
         "date": "2025-09-24",
         "victim": "Evolve Mortgage Services",
         "domain": "evolvemortgageservices.com",
