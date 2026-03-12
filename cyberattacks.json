@@ -1,5 +1,15 @@
 [
     {
+        "date": "2026-03-11",
+        "victim": "Rusk County",
+        "domain": "ruskcounty.org",
+        "country": "USA",
+        "summary": "Rusk County, dans le nord-ouest du Wisconsin, a annoncé le 11 mars 2026 qu'il enquêtait sur une cyberattaque affectant son réseau et a engagé des experts en forensique pour évaluer l'incident et restaurer les opérations. Bien que le site public et les pages de paiement en ligne restent accessibles via des tiers, les autorités n'ont pas encore identifié les systèmes touchés ni confirmé si des données personnelles ont été compromises. Cette enquête survient alors que le domaine du comté figurait déjà sur une liste de victimes potentielles du groupe de rançongiciels Lynx en décembre 2025, bien que le lien entre les deux événements ne soit pas confirmé.",
+        "title": "Rusk County, Wisconsin investigates cybersecurity incident",
+        "url": "https://dysruptionhub.com/rusk-county-cyber-incident-wisconsin/",
+        "added": "2026-03-12"
+    },
+    {
         "date": "2026-03-12",
         "victim": "Stadt Herne",
         "domain": "herne.de",
