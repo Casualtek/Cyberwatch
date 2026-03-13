@@ -1,5 +1,15 @@
 [
     {
+        "date": "2026-03-12",
+        "victim": "Hanover County Public Schools",
+        "domain": "hcps.us",
+        "country": "USA",
+        "summary": "Hanover County Public Schools (HCPS) a signalé une interruption des services Internet et de plusieurs systèmes internes suite à une possible incident de cybersécurité. Bien que les Chromebooks des élèves ne semblent pas directement touchés, l'école a décidé de les désactiver temporairement par mesure de précaution et assure que l'enseignement continuera sans technologie pour au moins une semaine. Les autorités compétentes et des experts en cybersécurité ont été engagés pour investiguer et résoudre la situation, sans que de nouvelles informations détaillées ne soient disponibles pour le moment.",
+        "title": "Technology Update: March 2026",
+        "url": "https://www.hcps.us/events/what_s_new/technology_update__march_2026",
+        "added": "2026-03-13"
+    },
+    {
         "date": "2026-03-07",
         "victim": "ELECQ",
         "domain": "elecq.com",
