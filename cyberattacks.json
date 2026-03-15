@@ -1,5 +1,15 @@
 [
     {
+        "date": "2026-03-14",
+        "victim": "DeKalb County Sheriff's Department and Jail",
+        "domain": "dekalbsheriff.org",
+        "country": "USA",
+        "summary": "On March 14, 2026, the DeKalb County Sheriff's Department and Jail in Georgia reported that their main computer server was compromised by a ransomware virus. The breach affected critical systems including email and booking software, but authorities successfully recovered the booking data with help from their vendor. Sheriff Patrick Ray confirmed that law enforcement agencies including the FBI and TBI are assisting with the investigation, noting this incident may be linked to broader foreign cyber attacks targeting law enforcement agencies nationwide.",
+        "title": "Sheriff’s Department and Jail’s Main Computer Server Hacked – WJLE Radio",
+        "url": "https://www.wjle.com/sheriffs-department-and-jails-main-computers-hacked/",
+        "added": "2026-03-15"
+    },
+    {
         "date": "2026-03-12",
         "victim": "Hanover County Public Schools",
         "domain": "hcps.us",
