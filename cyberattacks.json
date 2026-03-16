@@ -1,5 +1,15 @@
 [
     {
+        "date": "2026-03-14",
+        "victim": "Gemeente Epe",
+        "domain": "epe.nl",
+        "country": "NLD",
+        "summary": "On March 14, 2026, Gemeente Epe announced a significant data breach involving approximately 800 gigabytes of data. The attack was executed by professionals using ClickFix phishing to access internal work drives containing sensitive citizen information. Officials have secured the systems and are investigating the full scope of the leak while advising residents to remain vigilant against potential misuse.",
+        "title": "Update datalek gemeente Epe",
+        "url": "https://www.epe.nl/update-datalek-gemeente-epe",
+        "added": "2026-03-16"
+    },
+    {
         "date": "2026-03-13",
         "victim": "Jean Co.,Ltd",
         "domain": "jean.com.tw",
