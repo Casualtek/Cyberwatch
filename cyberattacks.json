@@ -1,5 +1,15 @@
 [
     {
+        "date": "2026-03-06",
+        "victim": "Belhaven University",
+        "domain": "belhaven.edu",
+        "country": "USA",
+        "summary": "Belhaven University a été victime d'une cyberattaque le vendredi 6 mars, ce qui l'a contraint à suspendre l'accès à certaines parties de son réseau interne. L'université a engagé des spécialistes en cybersécurité et collaboré avec les forces de l'ordre pour enquêter et récupérer ses systèmes affectés. Au mercredi 18 mars, certains services restent temporairement indisponibles alors que la restauration progresse.",
+        "title": "Belhaven University subject of cyberattack",
+        "url": "https://www.wlbt.com/2026/03/18/belhaven-university-subject-cyberattack/",
+        "added": "2026-03-18"
+    },
+    {
         "date": "2026-03-14",
         "victim": "Gemeinde Matten",
         "domain": "matten.ch",
