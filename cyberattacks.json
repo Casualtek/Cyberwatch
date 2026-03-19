@@ -1,5 +1,95 @@
 [
     {
+        "date": "2025-12-19",
+        "victim": "Chapter 13 Trustee Office of Rod Danielson",
+        "domain": "rodan13.com",
+        "country": "USA",
+        "summary": "A data breach occurred, potentially exposing personal information. The breach was discovered in 2026, and the organization is taking steps to protect affected individuals. Identity protection services are being offered to those impacted. A cyberattack was claimed by INC Ransom on January 12, 2026.",
+        "title": "Data Breach Notification",
+        "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/943aa634-bf66-42d0-a5ee-549a66c84da3.html",
+        "added": "2026-03-17"
+    },
+    {
+        "date": "2025-09-04",
+        "victim": "Charlottesville Settlement Company",
+        "domain": "charlottesvillesettlementco.com",
+        "country": "USA",
+        "summary": "Charlottesville Settlement Company experienced a data security incident where an unknown actor gained unauthorized access to their network on September 2, 2025, potentially accessing and acquiring certain files containing personal information. The incident was discovered on September 4, 2025, and a comprehensive review was conducted to determine the affected information. The company is offering complimentary credit monitoring and identity theft protection services to affected individuals.",
+        "title": "Data Breach Notification",
+        "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/073e2a3e-ca04-4c49-8ebe-d42f736a2632.html",
+        "added": "2026-03-19"
+    },
+    {
+        "date": "2025-03-04",
+        "victim": "Harper Executive Group, Inc.",
+        "domain": "harpergroup.com",
+        "country": "USA",
+        "summary": "Harper Executive Group experienced a network disruption that led to unauthorized access or acquisition of certain information within their systems. The incident occurred on or around March 3, 2025, and was discovered on January 14, 2026. The affected information may have included first and last names in combination with other data.",
+        "title": "Data Breach Notification",
+        "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/f57233c4-6369-45ae-8b6d-569574bcfabc.html",
+        "added": "2026-03-19"
+    },
+    {
+        "date": "2026-01-29",
+        "victim": "Neil I. Sidi, C.P.A.",
+        "domain": "nsidicpa.com",
+        "country": "USA",
+        "summary": "The breach notification does not specify a data breach incident. Instead, it provides information on how residents of various states can obtain a free copy of their credit report and take steps to prevent identity theft.",
+        "title": "Data Breach Notification",
+        "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/0361bd2e-0343-45ca-893c-4bdaf1102281.html",
+        "added": "2026-03-18"
+    },
+    {
+        "date": "2025-11-19",
+        "victim": "Elray Manufacturing Company",
+        "domain": "elraymanufacturing.com",
+        "country": "USA",
+        "summary": "Elray Manufacturing Company suffered a data security incident where an unknown actor gained access to their network and potentially acquired certain files containing personal information. The information involved includes names and Social Security numbers. Elray is offering complimentary credit monitoring and identity theft protection services.",
+        "title": "Data Breach Notification",
+        "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/e1d2215a-37f2-4cd5-b209-aebca23e840b.html",
+        "added": "2026-03-17"
+    },
+    {
+        "date": "2026-01-06",
+        "victim": "Grayback Forestry, Inc.",
+        "domain": "graybackforestry.com",
+        "country": "USA",
+        "summary": "Grayback Forestry, Inc. experienced a data breach where an unauthorized actor accessed certain system files between January 5, 2026, and January 6, 2026, potentially affecting individual names.",
+        "title": "2026-03-13 Grayback Forestry Data Breach Notice to Consumers",
+        "url": "https://ago.vermont.gov/document/2026-03-13-grayback-forestry-data-breach-notice-consumers",
+        "added": "2026-03-17"
+    },
+    {
+        "date": "2025-12-04",
+        "victim": "Nacca & Capizzi, LLP",
+        "domain": "naccacpas.com",
+        "country": "USA",
+        "summary": "An unauthorized individual accessed the network without authorization between November 26 and December 4, 2025, and took copies of certain files. The files may have contained names along with Social Security numbers and/or driver’s license numbers. The incident was discovered on February 4, 2026.",
+        "title": "2026-02-25 Nacca & Capizzi Data Breach Notice to Consumers",
+        "url": "https://ago.vermont.gov/document/2026-02-25-nacca-capizzi-data-breach-notice-consumers",
+        "added": "2026-03-12"
+    },
+    {
+        "date": "2025-09-18",
+        "victim": "Jeff Anderson & Associates PA",
+        "domain": "andersonadvocates.com",
+        "country": "USA",
+        "summary": "Jeff Anderson & Associates PA suffered a data breach in September 2025, where an unauthorized party gained access to parts of their computer environment and copied certain data. The breach impacted thousands of organizations that rely on the same firewall protection technology. The firm has offered complimentary credit monitoring services for 24 months through Experian.",
+        "title": "2026-02-26 Jeff Anderson & Associates Data Breach Notice to Consumers",
+        "url": "https://ago.vermont.gov/document/2026-02-26-jeff-anderson-associates-data-breach-notice-consumers",
+        "added": "2026-03-12"
+    },
+    {
+        "date": "2025-11-13",
+        "victim": "Doctor Alliance",
+        "domain": "doctoralliance.com",
+        "country": "USA",
+        "summary": "Doctor Alliance experienced a network disruption and unauthorized access to files containing personal health information between October 31, 2025, and November 17, 2025. The affected data included names, addresses, dates of birth, Medicare numbers, medical records, and other health information. A cyberattack was claimed by Kazu on November 11, 2025.",
+        "title": "Data Breach Notification",
+        "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/19fe8eed-d3d2-4cb8-ba57-d99492f81ad1.html",
+        "added": "2026-03-13"
+    },
+    {
         "date": "2025-12-25",
         "victim": "OSI Systems, Inc.",
         "domain": "osi-systems.com",
