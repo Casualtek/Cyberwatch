@@ -1,5 +1,15 @@
 [
     {
+        "date": "2026-03-06",
+        "victim": "Namibia Airports Company",
+        "domain": "airports.com.na",
+        "country": "NAM",
+        "summary": "La Namibia Airports Company (NAC) a confirmé la détection d'une cyberattaque le 6 mars 2026 ayant entraîné un accès non autorisé à ses infrastructures réseau et comptes administratifs. Bien que les services aient été rétablis avec une perturbation opérationnelle limitée et qu'aucune fuite de données ne soit avérée, des investigations sont toujours en cours pour évaluer l'étendue complète de l'incident. Une cyberattaque a été revendiquée par INC Ransom le 19 mars.",
+        "title": "CYBERSECURITY INCIDENT AT NAC",
+        "url": "https://www.airports.com.na/news/169/CYBERSECURITY-INCIDENT-AT-NAC/",
+        "added": "2026-03-19"
+    },
+    {
         "date": "2026-03-15",
         "victim": "Lucas County",
         "domain": "lucas.oh.us",
