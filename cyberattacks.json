@@ -1,5 +1,65 @@
 [
     {
+        "date": "2026-02-25",
+        "victim": "Nelson Worldwide, LLC",
+        "domain": "nelsonworldwide.com",
+        "country": "USA",
+        "summary": "Nelson Worldwide experienced unauthorized access to their network on February 18, 2026, resulting in the potential exposure of personal information. An investigation determined that the impacted files contained full names. A cyberattack was claimed by Chaos on March 6.",
+        "title": "2026-03-11 Nelson Worldwide Data Breach Notice to Consumers",
+        "url": "https://ago.vermont.gov/document/2026-03-11-nelson-worldwide-data-breach-notice-consumers",
+        "added": "2026-03-17"
+    },
+    {
+        "date": "2025-08-08",
+        "victim": "FuturHealth, Inc.",
+        "domain": "futurhealth.com",
+        "country": "USA",
+        "summary": "FuturHealth, Inc. suffered a data breach where an unauthorized actor viewed and copied certain files stored within their network between August 8, 2025, and August 14, 2025. The breach involved the names and other types of personal information of some individuals. FuturHealth is offering complimentary credit monitoring and identity restoration services to affected individuals.",
+        "title": "2026-02-25 FuturHealth Data Breach Notice to Consumers",
+        "url": "https://ago.vermont.gov/document/2026-02-25-futurhealth-data-breach-notice-consumers",
+        "added": "2026-03-12"
+    },
+    {
+        "date": "2025-07-25",
+        "victim": "Philadelphia Corporation for Aging",
+        "domain": "pcacares.org",
+        "country": "USA",
+        "summary": "Philadelphia Corporation for Aging experienced a technology issue that may have impacted some personal information, with unauthorized access to data occurring between July 10, 2025, and July 25, 2025. PCA is not aware of any actual or attempted misuse of the information. The organization is providing free credit monitoring services to affected individuals.",
+        "title": "2026-03-13 Philadelphia Corporation for Aging Data Breach Notice to Consumers",
+        "url": "https://ago.vermont.gov/document/2026-03-13-philadelphia-corporation-aging-data-breach-notice-consumers",
+        "added": "2026-03-17"
+    },
+    {
+        "date": "2025-10-26",
+        "victim": "Jacobson Adler, LLC",
+        "domain": "jadcpas.com",
+        "country": "USA",
+        "summary": "Jacobson Adler, LLC suffered a data breach between October 12, 2025, and October 26, 2025, resulting in unauthorized access to its network and potential exposure of personal information. The breach may have impacted names, Social Security numbers, and financial account information. The company is offering complimentary credit monitoring services to affected individuals.",
+        "title": "2026-03-12 Jacobson Adler Data Breach Notice to Consumers",
+        "url": "https://ago.vermont.gov/document/2026-03-12-jacobson-adler-data-breach-notice-consumers",
+        "added": "2026-03-17"
+    },
+    {
+        "date": "2025-12-18",
+        "victim": "Earthbound Holding, LLC",
+        "domain": "earthboundholdings.com",
+        "country": "USA",
+        "summary": "Earthbound Holding, LLC experienced a data security incident on December 18, 2025, which may have involved personal information, including names and Social Security numbers. The incident was discovered on December 18, 2025, and the company took steps to secure the network and investigate. The breach may have included names in combination with Social Security numbers.",
+        "title": "2026-03-12 Earthbound Holding Data Breach Notice to Consumers",
+        "url": "https://ago.vermont.gov/document/2026-03-12-earthbound-holding-data-breach-notice-consumers",
+        "added": "2026-03-17"
+    },
+    {
+        "date": "2026-01-23",
+        "victim": "Navia Benefit Solutions, Inc.",
+        "domain": "naviabenefits.com",
+        "country": "USA",
+        "summary": "Navia Benefit Solutions, Inc. suffered a data breach where an unauthorized actor accessed and potentially acquired certain information between December 22, 2025, and January 15, 2026. The information that could have been impacted includes name, date of birth, Social Security number, phone number, and email address. Navia is providing access to credit monitoring services for 12 months to affected individuals.",
+        "title": "Data Breach Notification",
+        "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/584caa6c-4397-49c0-89a5-dbc0dbea0948.html",
+        "added": "2026-03-19"
+    },
+    {
         "date": "2025-12-19",
         "victim": "Chapter 13 Trustee Office of Rod Danielson",
         "domain": "rodan13.com",
