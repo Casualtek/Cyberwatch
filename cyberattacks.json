@@ -1,5 +1,15 @@
 [
     {
+        "date": "2025-12-25",
+        "victim": "OSI Systems, Inc.",
+        "domain": "osi-systems.com",
+        "country": "USA",
+        "summary": "OSI Systems, Inc. suffered a data breach where certain files within their network were potentially accessed without authorization, resulting in unauthorized access to personal information including name and Social Security number. A cyberattack was claimed by INC Ransom on December 30, 2025.",
+        "title": "Data Breach Notification",
+        "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/94553a0a-8a51-4d4d-97ac-db087c8661d3.html",
+        "added": "2026-03-12"
+    },
+    {
         "date": "2025-09-02",
         "victim": "MedPeds Associates of Sarasota",
         "domain": "medpedsdocs.com",
