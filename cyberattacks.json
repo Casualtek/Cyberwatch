@@ -1,5 +1,15 @@
 [
     {
+        "date": "2026-03-14",
+        "victim": "Intoxalock",
+        "domain": "intoxalock.com",
+        "country": "USA",
+        "summary": "Des serveurs d'Intoxalock sont hors ligne depuis le 14 mars suite à une cyberattaque, empêchant les clients de calibrer leurs dispositifs interlock. L'entreprise offre une extension de dix jours pour la recalibration et couvre les frais de remorquage directs liés à cette interruption. Bien que les appareils fonctionnent toujours, certains États comme l'Arkansas, le Massachusetts, le Michigan et Washington ne sont pas couverts par l'extension immédiate.",
+        "title": "Cyberattack Disrupts Intoxalock Services - ceoutlook.com",
+        "url": "https://www.ceoutlook.com/2026/03/18/cyberattack-disrupts-intoxalock-services/",
+        "added": "2026-03-19"
+    },
+    {
         "date": "2026-03-06",
         "victim": "Belhaven University",
         "domain": "belhaven.edu",
