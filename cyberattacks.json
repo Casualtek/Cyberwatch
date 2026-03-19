@@ -1,5 +1,15 @@
 [
     {
+        "date": "2025-09-02",
+        "victim": "MedPeds Associates of Sarasota",
+        "domain": "medpedsdocs.com",
+        "country": "USA",
+        "summary": "MEDPEDS experienced a data breach on September 2, 2025, where an unknown person or entity gained access to their computer system, encrypted data, and viewed patient information. The breach involved name, date of birth, home address, phone number, and patient medical records. A cyberattack was claimed by Beast on September 16.",
+        "title": "Data Breach Notification",
+        "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/43a9ee92-af3a-4421-b653-ab550d8a2120.html",
+        "added": "2026-03-17"
+    },
+    {
         "date": "2025-10-17",
         "victim": "Durvet, Inc.",
         "domain": "durvet.com",
