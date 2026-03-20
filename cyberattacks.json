@@ -1,5 +1,15 @@
 [
     {
+        "date": "2026-03-20",
+        "victim": "Los Angeles County Metropolitan Transportation Authority",
+        "domain": "metro.net",
+        "country": "USA",
+        "summary": "Le Los Angeles Metro a restreint l'accès à ses systèmes informatiques internes après avoir détecté une activité non autorisée, ce qui a perturbé certaines informations aux voyageurs et les options de rechargement de cartes TAP. Bien que les trains et les bus aient continué d'opérer normalement, l'agence a averti les usagers de recharger leurs cartes via des bornes physiques en attendant la résolution du problème. Aucune organisation n'a revendiqué la responsabilité de cet incident, bien que le site ransomware.live ait listé la ville de Los Angeles comme cible du groupe « Worldleaks » le 20 mars 2026.",
+        "title": "Los Angeles Metro limits internal system access after unauthorized activity",
+        "url": "https://dysruptionhub.com/la-metro-unauthorized-activity-california/",
+        "added": "2026-03-20"
+    },
+    {
         "date": "2026-03-19",
         "victim": "Foster City",
         "domain": "fostercity.org",
