@@ -1,6 +1,16 @@
 [
     {
         "date": "2026-03-17",
+        "victim": "Westport Fuel Systems",
+        "domain": "wfsinc.com",
+        "country": "CAN",
+        "summary": "Westport Fuel Systems a signalé le 17 mars 2026 l'accès non autorisé à certaines parties de son réseau, affectant des applications informatiques internes et des informations commerciales. Bien que les systèmes de production soient restés intacts et que les opérations commerciales n'aient pas été perturbées, la société a retardé le dépôt de ses états financiers annuels au-delà de la date limite réglementaire du 31 mars 2026 pour mener des vérifications supplémentaires. Cette cyberattaque a conduit à une notation neutre de l'action par l'IA de TipRanks, soulignant des performances financières faibles malgré une résilience opérationnelle.",
+        "title": "Westport Fuel Systems Discloses Cyberattack and Warns of Delay to 2025 Annual Results - TipRanks.com",
+        "url": "https://www.tipranks.com/news/company-announcements/westport-fuel-systems-discloses-cyberattack-and-warns-of-delay-to-2025-annual-results",
+        "added": "2026-03-20"
+    },
+    {
+        "date": "2026-03-17",
         "victim": "Mutuelle Familiale",
         "domain": "mutuelle-familiale.fr",
         "country": "FRA",
