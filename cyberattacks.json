@@ -1,5 +1,15 @@
 [
     {
+        "date": "2026-02-26",
+        "victim": "Sportsman Software",
+        "domain": "sportsmancloud.com",
+        "country": "USA",
+        "summary": "Le service des parcs et des loisirs de Moorhead a annoncé un arrêt de système causé par une cyberattaque sur son logiciel Sportsman Software. Bien que des images et documents aient été accessibles, aucune donnée de carte de crédit n'a été compromise et les mesures de sécurité semblent avoir protégé les bases de données personnelles. Une enquête est toujours en cours pour confirmer l'absence de compromission des données clients et employeurs.",
+        "title": "Cyberattack hits Moorhead Parks and Rec system",
+        "url": "https://www.inforum.com/news/moorhead/cyberattack-hits-moorhead-parks-and-rec-system",
+        "added": "2026-03-21"
+    },
+    {
         "date": "2026-03-17",
         "victim": "Westport Fuel Systems",
         "domain": "wfsinc.com",
