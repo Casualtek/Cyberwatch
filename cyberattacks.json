@@ -1,5 +1,35 @@
 [
     {
+        "date": "2026-01-22",
+        "victim": "Segue Manufacturing Services LLC",
+        "domain": "segue-mfg.com",
+        "country": "USA",
+        "summary": "On January 22, 2026, Segue became aware of a cybersecurity incident that impacted certain systems in its environment. Segue promptly launched an investigation and engaged a leading cyber firm to assist with assessing the nature and scope of the incident. A cyberattack was claimed by Qilin on February 12.",
+        "title": "Data Breach Notification",
+        "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/3b8a2ed3-e380-4ee6-a0d5-ee5b9a7d7a6d.html",
+        "added": "2026-03-21"
+    },
+    {
+        "date": "2025-12-06",
+        "victim": "Wound Technology Network, Inc.",
+        "domain": "woundtech.net",
+        "country": "USA",
+        "summary": "Wound Technology Network, Inc. suffered a data breach where an unauthorized individual copied certain information between December 6, 2025, and December 9, 2025. The potentially impacted information varied by individual and included what was viewed or copied without authorization. Woundtech is providing affected individuals with access to Single Bureau Credit Monitoring/Single Bureau Credit Report/Single Bureau Credit Score services at no charge.",
+        "title": "2026-03-16 Wound Technology Network Data Breach Notice to Consumers",
+        "url": "https://ago.vermont.gov/document/2026-03-16-wound-technology-network-data-breach-notice-consumers",
+        "added": "2026-03-21"
+    },
+    {
+        "date": "2025-11-18",
+        "victim": "Kaplan North America, LLC",
+        "domain": "kaplan.com",
+        "country": "USA",
+        "summary": "Kaplan North America, LLC experienced an IT security incident involving unauthorized access to their computer network, resulting in the theft of files containing sensitive information, including names, Social Security numbers, and driver's license numbers.",
+        "title": "2026-03-17 Kaplan North America Data Breach Notice to Consumers",
+        "url": "https://ago.vermont.gov/document/2026-03-17-kaplan-north-america-data-breach-notice-consumers",
+        "added": "2026-03-21"
+    },
+    {
         "date": "2025-04-24",
         "victim": "Gearhiser, Peters, Elliott & Cannon, PLLC",
         "domain": "gearhiserpeters.com",
