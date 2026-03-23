@@ -1,5 +1,15 @@
 [
     {
+        "date": "2025-04-24",
+        "victim": "Gearhiser, Peters, Elliott & Cannon, PLLC",
+        "domain": "gearhiserpeters.com",
+        "country": "USA",
+        "summary": "An unauthorized third party accessed certain GPEC systems on April 22, 2025, and may have accessed and copied certain files within those systems. The investigation determined that the affected files may have contained personal information, including names and other sensitive data. The breach was contained on April 24, 2025. A cyberattack was claimed by Lynx on May 17, 2025.",
+        "title": "2026-03-16 Gearhiser, Peters, Elliott & Cannon Data Breach Notice to Consumers",
+        "url": "https://ago.vermont.gov/document/2026-03-16-gearhiser-peters-elliott-cannon-data-breach-notice-consumers",
+        "added": "2026-03-21"
+    },
+    {
         "date": "2026-03-19",
         "victim": "San Felipe-Del Rio Consolidated Independent School District",
         "domain": "sfdr-cisd.org",
