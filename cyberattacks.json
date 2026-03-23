@@ -1,13 +1,13 @@
 [
     {
-        "date": "2026-02-26",
-        "victim": "Sportsman Software",
-        "domain": "sportsmancloud.com",
+        "date": "2026-03-19",
+        "victim": "San Felipe-Del Rio Consolidated Independent School District",
+        "domain": "sfdr-cisd.org",
         "country": "USA",
-        "summary": "Le service des parcs et des loisirs de Moorhead a annoncé un arrêt de système causé par une cyberattaque sur son logiciel Sportsman Software. Bien que des images et documents aient été accessibles, aucune donnée de carte de crédit n'a été compromise et les mesures de sécurité semblent avoir protégé les bases de données personnelles. Une enquête est toujours en cours pour confirmer l'absence de compromission des données clients et employeurs.",
-        "title": "Cyberattack hits Moorhead Parks and Rec system",
-        "url": "https://www.inforum.com/news/moorhead/cyberattack-hits-moorhead-parks-and-rec-system",
-        "added": "2026-03-21"
+        "summary": "Le district scolaire de San Felipe-Del Rio au Texas a signalé une panne généralisée de ses systèmes internes, incluant l'internet et le téléphone, suite à une activité suspecte détectée le 18 mars. Bien que le service téléphonique ait été rétabli rapidement et que les écoles soient restées ouvertes, le district a indiqué que la restauration complète des services internes était en cours sous surveillance. Aucune information publique ne confirme l'implication d'un ransomware ou d'un vol de données, et le district n'a pas identifié de responsable de l'incident.",
+        "title": "San Felipe-Del Rio school district in Texas works to restore in-network systems following cyber incident",
+        "url": "https://dysruptionhub.com/san-felipe-del-rio-cisd-network-outage-tx/",
+        "added": "2026-03-23"
     },
     {
         "date": "2026-03-17",
