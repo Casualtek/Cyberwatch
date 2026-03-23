@@ -1,5 +1,15 @@
 [
     {
+        "date": "2026-03-20",
+        "victim": "Heritage Financial Corporation",
+        "domain": "hf-wa.com",
+        "country": "USA",
+        "summary": "Heritage Financial Corporation a révélé le 20 mars 2026 avoir détecté le 2 février 2026 une cyberattaque visant un serveur de partage de fichiers interne, entraînant l'exfiltration de données potentiellement personnelles. Bien que l'entreprise ait activé son plan de réponse, isolé le système affecté et notifié les autorités, elle précise que ses opérations commerciales et les comptes clients n'ont pas été impactés. L'incident est actuellement sous évaluation et aucune incidence matérielle sur les conditions financières de l'entreprise n'a été déterminée à ce stade.",
+        "title": "HERITAGE FINANCIAL CORP /WA/ Cybersecurity Incident Details - Board Cybersecurity",
+        "url": "https://www.board-cybersecurity.com/incidents/tracker/heritage-financial-cybersecurity-incident-8066881b#8-k-filed-on-2026-03-20",
+        "added": "2026-03-23"
+    },
+    {
         "date": "2025-04-28",
         "victim": "UFCW Local 342",
         "domain": "local342update.com",
