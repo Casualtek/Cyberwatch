@@ -1,5 +1,15 @@
 [
     {
+        "date": "2026-03-11",
+        "victim": "Trio-Tech International",
+        "domain": "triotech.com",
+        "country": "USA",
+        "summary": "Trio-Tech International, une société californienne spécialisée dans les tests de semi-conducteurs, a signalé à la SEC qu'une attaque par ransomware avait été découverte le 11 mars 2026 au sein de sa filiale singapourienne. Bien que l'incident ait initialement été jugé non significatif, il a été requalifié d'événement de cybersécurité matériel après une escalade le 18 mars 2026, entraînant le cryptage de fichiers et la divulgation non autorisée de données. La société a déconnecté son réseau et engagé des experts en cybersécurité pour tenter de restaurer les systèmes, tandis que l'ampleur exacte des pertes financières et des données compromises reste incertaine.",
+        "title": "California-based semiconductor testing company reports ransomware attack to SEC",
+        "url": "https://therecord.media/ransomware-trio-tech-semiconductor-sec",
+        "added": "2026-03-23"
+    },
+    {
         "date": "2026-03-20",
         "victim": "Heritage Financial Corporation",
         "domain": "hf-wa.com",
