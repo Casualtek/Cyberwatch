@@ -1,5 +1,15 @@
 [
     {
+        "date": "2026-01-30",
+        "victim": "Chapel Hill Presbyterian Church",
+        "domain": "chapelhillpc.org",
+        "country": "USA",
+        "summary": "Chapel Hill Presbyterian Church experienced a data security incident that may have involved personal information. The incident occurred on January 30, 2026, and the church confirmed that personal information was involved on February 26, 2026. The church has no evidence of any actual or suspected misuse of information.",
+        "title": "Data Breach Notification",
+        "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/b23ae0cc-a990-42e9-a9c6-1e384d105f91.html",
+        "added": "2026-03-24"
+    },
+    {
         "date": "2026-03-23",
         "victim": "Test Rite International Co., Ltd.",
         "domain": "testritegroup.com",
