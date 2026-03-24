@@ -1,5 +1,15 @@
 [
     {
+        "date": "2026-03-19",
+        "victim": "Ministère des Finances",
+        "domain": "rijksoverheid.nl",
+        "country": "NLD",
+        "summary": "Le ministère des Finances a signalé un accès non autorisé à ses systèmes de processus principaux le 19 mars, bien que l'étendue exacte de la compromission reste inconnue. L'accès des pirates a été bloqué le 23 mars, ce qui a affecté certains employés, mais les services aux citoyens de la Direction des impôts et de la Douane n'ont pas été perturbés. Cet incident s'inscrit dans une série de cyberattaques récentes touchant plusieurs départements gouvernementaux néerlandais au cours des derniers mois.",
+        "title": "Weinig duidelijkheid over hack op ministerie van Financiën",
+        "url": "https://www.techzine.nl/nieuws/security/576397/weinig-duidelijkheid-over-hack-op-ministerie-van-financien/",
+        "added": "2026-03-24"
+    },
+    {
         "date": "2026-02-09",
         "victim": "Uniwersytet Warszawski",
         "domain": "uw.edu.pl",
