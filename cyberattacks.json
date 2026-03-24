@@ -1,5 +1,15 @@
 [
     {
+        "date": "2026-03-23",
+        "victim": "Test Rite International Co., Ltd.",
+        "domain": "testritegroup.com",
+        "country": "TWN",
+        "summary": "Une filiale étrangère de Test Rite a subi une attaque réseau externe sur ses équipements d'information le 23 mars 2026. Les services informatiques ont immédiatement isolé les systèmes et engagé des experts en cybersécurité pour investiguer et remédier à l'incident. Bien que les opérations actuelles restent normales, l'entreprise prévoit de renforcer son architecture de sécurité réseau pour prévenir de futures menaces.",
+        "title": "Today's Information",
+        "url": "https://emops.twse.com.tw/server-java/t05sr01_1_e?&isNew=Y&seq_no=1&spoke_time=210350&spoke_date=20260323&co_id=2908",
+        "added": "2026-03-24"
+    },
+    {
         "date": "2026-03-18",
         "victim": "Town of Clayton",
         "domain": "townofclaytonnc.org",
