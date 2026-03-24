@@ -1,5 +1,15 @@
 [
     {
+        "date": "2026-03-18",
+        "victim": "Town of Clayton",
+        "domain": "townofclaytonnc.org",
+        "country": "USA",
+        "summary": "La ville de Clayton, en Caroline du Nord, a détecté une activité suspecte sur son réseau le 18 mars 2026 et a pris la précaution de mettre le système hors ligne pour contenir la menace. Bien que l'enquête soit toujours en cours, les autorités ont confirmé qu'il ne s'agissait pas d'une cyberattaque majeure et qu'aucune donnée sensible n'a été compromise. Les services de la ville fonctionnent normalement, bien que certaines activités soient temporairement limitées pendant le rétablissement sécurisé des systèmes.",
+        "title": "Johnston County town thwarts cyber attack",
+        "url": "https://www.sfntoday.com/2026/03/23/johnston-county-town-thwarts-cyber-attack/",
+        "added": "2026-03-24"
+    },
+    {
         "date": "2026-03-11",
         "victim": "Trio-Tech International",
         "domain": "triotech.com",
