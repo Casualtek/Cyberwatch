@@ -1,5 +1,15 @@
 [
     {
+        "date": "2026-02-09",
+        "victim": "Uniwersytet Warszawski",
+        "domain": "uw.edu.pl",
+        "country": "POL",
+        "summary": "Uniwersytet Warszawski potwierdził obecność złośliwego oprogramowania typu ransomware w swojej infrastrukturze IT, które zostało zidentyfikowane w styczniu 2026 roku. Wicepremier Krzysztof Gawkowski oraz rzeczniczka uczelni dr Anna Modzelewska zaznaczyli, że dotychczasowe ustalenia nie wskazują na nieuprawniony dostęp do danych osobowych studentów czy pracowników. W związku z incydentem uczelnia zgłosiła zdarzenie do służb państwowych, w tym do CERT Polska i policji, a także podjęła działania mające na celu ograniczenie skutków ataku i usunięcie zagrożenia.",
+        "title": "Gawkowski: zidentyfikowano atak hakerski na część infrastruktury IT Uniwersytetu Warszawskiego",
+        "url": "https://naukawpolsce.pl/aktualnosci/news%2C111749%2Cgawkowski-zidentyfikowano-atak-hakerski-na-czesc-infrastruktury-it",
+        "added": "2026-03-24"
+    },
+    {
         "date": "2025-12-07",
         "victim": "Quatrro Business Support Services, Inc.",
         "domain": "quatrrobss.com",
