@@ -1,5 +1,35 @@
 [
     {
+        "date": "2025-12-07",
+        "victim": "Quatrro Business Support Services, Inc.",
+        "domain": "quatrrobss.com",
+        "country": "USA",
+        "summary": "Quatrro Business Support Services, Inc. experienced a security incident where unauthorized access occurred to certain files from November 11-19, 2025. The investigation revealed that the files contained personal information of two Maine residents. Quatrro is offering complimentary credit monitoring and identity protection services to the affected individuals.",
+        "title": "Data Breach Notification",
+        "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/43b9a8d2-e27a-4afd-aa01-5663e2d02a4d.html",
+        "added": "2026-03-24"
+    },
+    {
+        "date": "2025-11-29",
+        "victim": "Mutual of America Life Insurance Co.",
+        "domain": "mutualofamerica.com",
+        "country": "USA",
+        "summary": "Mutual of America Life Insurance Company suffered a data breach between November 14, 2025, and November 29, 2025, resulting in unauthorized access to certain files containing name and Social Security number. The company has taken steps to investigate and respond to the incident, including providing credit monitoring services to affected individuals. Written notice was provided to two Maine residents on March 23, 2026.",
+        "title": "Data Breach Notification",
+        "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/dff707b6-928a-407d-ac5b-039c8547bb16.html",
+        "added": "2026-03-24"
+    },
+    {
+        "date": "2025-11-21",
+        "victim": "DHJJ, Ltd.",
+        "domain": "dhjj.com",
+        "country": "USA",
+        "summary": "DHJJ, Ltd. suffered a data security incident involving personal information, including names, addresses, dates of birth, and Social Security numbers. The incident occurred on November 21, 2025, and was discovered on February 13, 2026. Affected individuals were notified on March 19, 2026.",
+        "title": "Data Breach Notification",
+        "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/f8032569-51bb-4a43-9f7e-72318de53506.html",
+        "added": "2026-03-24"
+    },
+    {
         "date": "2026-01-30",
         "victim": "Chapel Hill Presbyterian Church",
         "domain": "chapelhillpc.org",
