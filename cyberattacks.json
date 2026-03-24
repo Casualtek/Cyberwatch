@@ -1,5 +1,15 @@
 [
     {
+        "date": "2026-03-14",
+        "victim": "SATS ASA",
+        "domain": "satsgroup.com",
+        "country": "NOR",
+        "summary": "SATS ASA a identifié des signes d'accès non autorisé à une partie de son environnement informatique et mène actuellement une enquête sur cet incident cybernétique. Bien que la société ait initialement considéré l'incident du 14 mars comme limité, des indications récentes suggèrent une portée plus étendue, bien qu'aucune preuve ne confirme pour l'instant l'exposition de données membres. Des experts en cybersécurité externes ont été engagés pour aider à l'enquête et les autorités compétentes ont été informées.",
+        "title": "Investor News - SATS Group",
+        "url": "https://satsgroup.com/investor-news/sats-asa-cyber-incident/",
+        "added": "2026-03-24"
+    },
+    {
         "date": "2026-03-19",
         "victim": "Ministère des Finances",
         "domain": "rijksoverheid.nl",
