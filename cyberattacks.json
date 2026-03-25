@@ -1,5 +1,15 @@
 [
     {
+        "date": "2026-02-25",
+        "victim": "INP Schweiz AG",
+        "domain": "inp-e.ch",
+        "country": "CHE",
+        "summary": "La nuit du 25 au 26 février 2026, l'entreprise INP Schweiz a été victime d'une cyberattaque qui a conduit à la coupure préventive de ses systèmes. Bien que des données aient été volées, l'entreprise a confirmé que les informations sensibles n'ont pas été compromises et que les opérations ont été pleinement rétablies deux jours plus tard. Akira a revendiqué l'attaque le 20 mars.",
+        "title": "Cyberangriff auf INP Schweiz",
+        "url": "https://www.inside-it.ch/cyberangriff-auf-inp-schweiz-20260325",
+        "added": "2026-03-25"
+    },
+    {
         "date": "2026-03-12",
         "victim": "Duffy's Sports Grill",
         "domain": "duffys.com",
