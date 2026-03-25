@@ -1,5 +1,15 @@
 [
     {
+        "date": "2026-03-23",
+        "victim": "Departamento de Transportación y Obras Públicas (DTOP)",
+        "domain": "dtop.pr.gov",
+        "country": "PRI",
+        "summary": "Le service PRITS du gouvernement de Porto Rico a identifié et neutralisé une cyberattaque visant l'infrastructure du Département des transports et des travaux publics (DTOP) le 23 mars 2026. Les systèmes de sécurité ont permis de couper préventivement les réseaux affectés, empêchant toute fuite de données personnelles des citoyens. En conséquence, les services des centres de services aux conducteurs sont temporairement suspendus et les rendez-vous seront reprogrammés.",
+        "title": "PRITS activa protocolo de respuesta tras detectar intento de ataque cibernético en sistemas del DTOP - WIPR",
+        "url": "https://wipr.pr/prits-activa-protocolo-de-respuesta-tras-detectar-intento-de-ataque-cibernetico-en-sistemas-del-dtop/",
+        "added": "2026-03-25"
+    },
+    {
         "date": "2026-03-24",
         "victim": "Winmate Inc.",
         "domain": "winmate.com",
