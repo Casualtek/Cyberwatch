@@ -1,5 +1,15 @@
 [
     {
+        "date": "2026-03-25",
+        "victim": "Autoridad Portuaria de Vigo",
+        "domain": "apvigo.es",
+        "country": "ESP",
+        "summary": "Le port de Vigo a subi un cyberattaque de type ransomware le 25 mars 2026, entraînant l'isolement de ses systèmes informatiques et l'arrêt temporaire des services numériques de gestion des marchandises. Bien que l'équipe technique ait neutralisé la menace, la restauration complète des serveurs est retardée par des mesures de sécurité préventives, obligeant les utilisateurs à recourir à des méthodes manuelles comme les registres papier. L'activité physique du port reste opérationnelle, mais une analyse forensique est en cours pour déterminer les causes de l'incident et les responsabilités.",
+        "title": "El Puerto de Vigo sufre un ciberataque y ve afectado el tráfico de mercancías",
+        "url": "https://www.lavozdegalicia.es/noticia/somosmar/2026/03/24/puerto-vigo-sufre-ciberataque-afecta-trafico-mercancias/00031774365104751290252.htm",
+        "added": "2026-03-25"
+    },
+    {
         "date": "2026-03-24",
         "victim": "Azienda Ospedaliera Papardo",
         "domain": "aopapardo.it",
