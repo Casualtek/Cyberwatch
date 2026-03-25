@@ -1,5 +1,15 @@
 [
     {
+        "date": "2026-03-12",
+        "victim": "Duffy's Sports Grill",
+        "domain": "duffys.com",
+        "country": "USA",
+        "summary": "La chaîne de restaurants américaine Duffy's Sports Grill a subi des perturbations majeures de ses systèmes de paiement et de son programme de fidélité en mars 2026, un incident lié à une attaque présumée du ransomware Qilin. Bien que la société n'ait pas confirmé publiquement la nature de l'attaque, des rapports locaux indiquent que plusieurs établissements ont dû traiter les transactions manuellement et que l'accès aux points de fidélité a été affecté pendant plusieurs jours. Cette cyberattaque s'inscrit dans une tendance plus large touchant le secteur de la restauration, soulignant les risques persistants pour les données clients et la continuité des opérations.",
+        "title": "Florida Duffy’s Sports Grill outage hits card payments, rewards",
+        "url": "https://dysruptionhub.com/duffys-outage-payments-florida/",
+        "added": "2026-03-25"
+    },
+    {
         "date": "2026-03-23",
         "victim": "Departamento de Transportación y Obras Públicas (DTOP)",
         "domain": "dtop.pr.gov",
