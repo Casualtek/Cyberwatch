@@ -1,5 +1,15 @@
 [
     {
+        "date": "2026-03-24",
+        "victim": "Winmate Inc.",
+        "domain": "winmate.com",
+        "country": "TWN",
+        "summary": "Le 24 mars 2026, une organisation de pirates a accédé illégalement à certaines données hébergées sur une plateforme cloud tierce et envoyé des messages menaçants. L'entreprise a immédiatement activé ses mécanismes de réponse aux incidents, bloqué les accès anormaux et renforcé l'authentification multifacteur, confirmant qu'aucune information sensible ou système critique n'a été compromise. Bien qu'une fuite de données mineure ait eu lieu, l'impact sur les opérations de l'entreprise et la confidentialité des clients est jugé non significatif.",
+        "title": "Today's Information",
+        "url": "https://emops.twse.com.tw/server-java/t05sr01_1_e?&isNew=Y&seq_no=1&spoke_time=174626&spoke_date=20260324&co_id=3416",
+        "added": "2026-03-25"
+    },
+    {
         "date": "2026-03-14",
         "victim": "SATS ASA",
         "domain": "satsgroup.com",
