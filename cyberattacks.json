@@ -1,5 +1,15 @@
 [
     {
+        "date": "2026-03-26",
+        "victim": "Die Linke",
+        "domain": "die-linke.de",
+        "country": "DEU",
+        "summary": "La formation politique allemande « Die Linke » a signalé un incident de cybersécurité impliquant un ransomware attribué au groupe hacker russe Qilin, obligeant la partie à mettre son infrastructure hors ligne le jeudi. Bien que la partie ait porté plainte et soit en contact avec les autorités, les données des membres n'ont pas été compromises et l'étendue des données internes touchées reste à déterminer. Cet événement s'inscrit dans une série d'attaques ciblant des partis politiques allemands, la CDU ayant également été victime d'une cyberattaque en mai 2024.",
+        "title": "Qilin: Linkspartei meldet russischen Ransomware-Angriff",
+        "url": "https://www.heise.de/news/Qilin-Linkspartei-meldet-russischen-Ransomware-Angriff-11227181.html",
+        "added": "2026-03-27"
+    },
+    {
         "date": "2026-03-22",
         "victim": "St Anne's Catholic School",
         "domain": "st-annes.uk.com",
