@@ -1,5 +1,15 @@
 [
     {
+        "date": "2026-03-22",
+        "victim": "St Anne's Catholic School",
+        "domain": "st-annes.uk.com",
+        "country": "GBR",
+        "summary": "St Anne's Catholic School in Southampton was forced to close for four days following a ransomware attack on its IT systems that threatened to delete files. The school reported the incident to the Information Commissioner's Office and the National Cyber Security Centre, confirming that no data has been compromised so far. The institution is expected to reopen on Friday after taking immediate measures to contain the spread of the malware.",
+        "title": "St Anne's School in Southampton closed after cyber attack",
+        "url": "https://www.bbc.com/news/articles/cm2r9m12e17o",
+        "added": "2026-03-27"
+    },
+    {
         "date": "2026-03-25",
         "victim": "City of Martinsville",
         "domain": "martinsville-va.gov",
