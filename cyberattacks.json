@@ -1,5 +1,15 @@
 [
     {
+        "date": "2026-03-26",
+        "victim": "Goodwill of Greater Grand Rapids",
+        "domain": "goodwillgr.org",
+        "country": "USA",
+        "summary": "Goodwill of Greater Grand Rapids a subi une cyberattaque qui a mis hors ligne une partie de son environnement réseau, obligeant ses 18 magasins à fonctionner uniquement au comptoir. L'organisation a confirmé ne pas stocker de données de cartes de crédit et travaille avec les autorités pour évaluer l'étendue des dégâts et rétablir ses systèmes. Bien que les autres organisations Goodwill ne soient pas affectées, aucune estimation de délai de résolution n'est actuellement disponible.",
+        "title": "Cyberattack takes Goodwill of Greater Grand Rapids stores offline",
+        "url": "https://wwmt.com/news/local/cyberattack-goodwill-greater-grand-rapids-offline-cash-only-network-investigation-data-point-sale-kent-county-western-michigan",
+        "added": "2026-03-27"
+    },
+    {
         "date": "2026-03-27",
         "victim": "Omax Autos Limited",
         "domain": "omaxauto.com",
