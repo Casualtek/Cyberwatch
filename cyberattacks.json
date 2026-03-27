@@ -1,5 +1,15 @@
 [
     {
+        "date": "2026-03-11",
+        "victim": "AMHC",
+        "domain": "amhc.org",
+        "country": "USA",
+        "summary": "L'organisation de santé comportementale AMHC, basée dans le Maine, a été listée comme victime par le groupe de ransomware Qilin sur son site de fuite de données. Bien que l'organisation ait confirmé une perturbation de son réseau et l'enquête en cours, elle n'a pas précisé la date exacte de l'attaque ni confirmé le vol de données. L'AMHC faisait toutefois part de problèmes informatiques le 12 mars, sur Facebook.",
+        "title": "Maine Mental Health Agency Targeted in Russian Cyber Attack",
+        "url": "https://www.govtech.com/security/maine-mental-health-agency-targeted-in-russian-cyber-attack",
+        "added": "2026-03-27"
+    },
+    {
         "date": "2026-03-26",
         "victim": "Die Linke",
         "domain": "die-linke.de",
