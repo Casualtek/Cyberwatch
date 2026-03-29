@@ -1,5 +1,15 @@
 [
     {
+        "date": "2026-03-27",
+        "victim": "Colebrook",
+        "domain": "colebrooknh.org",
+        "country": "USA",
+        "summary": "Les autorités de Colebrook ont suspendu les connexions aux systèmes de l'État du New Hampshire après qu'un compte email de la ville a été compromis, perturbant l'accès aux services essentiels tels que les élections et le DMV. Bien que les fonctions de registre et d'élections aient été rétablies d'ici le 27 mars, l'accès aux services du DMV et de la police était toujours en attente de restauration. Les responsables n'ont pas confirmé la nature exacte de l'attaque ni l'ampleur des données compromises, mais ont agi pour isoler la menace et éviter sa propagation.",
+        "title": "Colebrook, New Hampshire cyber incident disrupts town services",
+        "url": "https://dysruptionhub.com/colebrook-cyber-incident-new-hampshire/",
+        "added": "2026-03-29"
+    },
+    {
         "date": "2026-03-21",
         "victim": "Jackson County Sheriff's Office",
         "domain": "jacksoncountysheriffin.org",
