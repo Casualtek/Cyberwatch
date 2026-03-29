@@ -1,5 +1,15 @@
 [
     {
+        "date": "2026-03-16",
+        "victim": "CareCloud, Inc.",
+        "domain": "carecloud.com",
+        "country": "USA",
+        "summary": "CareCloud, Inc. a signalé un incident de cybersécurité survenu le 16 mars 2026, qui a provoqué une interruption temporaire du réseau affectant un environnement de dossiers médicaux électroniques sur six. Bien que l'incident ait été contenu et que tous les systèmes aient été restaurés le jour même, la société enquête sur la nature et l'étendue de l'accès potentiel de données sensibles par un tiers non autorisé. L'entreprise a engagé des experts en cybersécurité et informé les autorités, estimant que l'incident n'aura pas d'impact matériel sur ses opérations financières, bien que la sensibilité des données concernées rende l'événement significatif.",
+        "title": "CareCloud, Inc. Cybersecurity Incident Details - Board Cybersecurity",
+        "url": "https://www.board-cybersecurity.com/incidents/tracker/carecloud-cybersecurity-incident-b2e7eba5#8-k-filed-on-2026-03-27",
+        "added": "2026-03-29"
+    },
+    {
         "date": "2026-03-27",
         "victim": "Colebrook",
         "domain": "colebrooknh.org",
