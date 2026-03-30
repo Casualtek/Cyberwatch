@@ -1,5 +1,15 @@
 [
     {
+        "date": "2026-03-27",
+        "victim": "Cota Co., Ltd.",
+        "domain": "cota.co.jp",
+        "country": "JPN",
+        "summary": "Cota Co., Ltd. a fait état d'une panne de son SI survenue le 27 mars 2026 à la suite d'une cyberattaque. Une enquête a été engagée avec des experts externes afin de déterminer l'étendue des répercussions, notamment en ce qui concerne le vol de données personnelles et de données clients. L'entreprise assure prendre les mesures nécessaires pour rétablir le système dans les plus brefs délais. Des consultations avec les autorités compétentes ont par ailleurs été engagées.",
+        "title": "Avis concernant une panne du système due à une cyberattaque (1er communiqué)",
+        "url": "https://ssl4.eir-parts.net/doc/4923/tdnet/2782863/00.pdf",
+        "added": "2026-03-30"
+    },
+    {
         "date": "2026-03-16",
         "victim": "CareCloud, Inc.",
         "domain": "carecloud.com",
