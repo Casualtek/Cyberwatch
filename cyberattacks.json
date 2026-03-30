@@ -1,5 +1,15 @@
 [
     {
+        "date": "2025-11-11",
+        "victim": "Office Peeps",
+        "domain": "officepeeps.com",
+        "country": "USA",
+        "summary": "Le 29 janvier 2026, Office Peeps a annoncé qu'un acteur non autorisé avait accédé à des fichiers contenant des informations personnelles de consommateurs entre le 27 octobre et le 11 novembre 2025. L'entreprise a informé les autorités du Vermont et a offert des services de surveillance d'identité gratuits via Kroll aux personnes affectées. Une cyberattaque a été revendiquée par Akira le 30 mars 2026.",
+        "title": "Office Peeps Data Breach Affects Subscriber Privacy",
+        "url": "https://www.dapeer.com/databreaches/office-peeps",
+        "added": "2026-03-30"
+    },
+    {
         "date": "2025-09-21",
         "victim": "TriMed, Inc.",
         "domain": "trimedortho.com",
