@@ -1,5 +1,35 @@
 [
     {
+        "date": "2025-09-21",
+        "victim": "TriMed, Inc.",
+        "domain": "trimedortho.com",
+        "country": "USA",
+        "summary": "TriMed, Inc. suffered a cybersecurity incident between September 13, 2025, and September 21, 2025, which may have involved personal information of individuals who received surgically implanted hardware. The incident was detected on March 27, 2026. A cyberattack was claimed by Lynx on October 2.",
+        "title": "Data Breach Notification",
+        "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/6fe86133-f326-439e-8396-18f75e5cc96d.html",
+        "added": "2026-03-28"
+    },
+    {
+        "date": "2024-04-08",
+        "victim": "Woodfords Family Services",
+        "domain": "woodfords.org",
+        "country": "USA",
+        "summary": "Woodfords Family Services suffered a data breach due to a ransomware event caused by the actor group Medusa, resulting in the unauthorized access of personal identifiable information of 7,770 residents of Maine. The breach occurred on April 8, 2024, and was discovered on the same day. The affected information included names, Social Security numbers, driver's license numbers, financial account information, medical diagnostic and treatment information, and health insurance information.",
+        "title": "Data Breach Notification",
+        "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/857ab65e-ee4e-4de5-a021-a48b2ef72c3e.html",
+        "added": "2026-03-28"
+    },
+    {
+        "date": "2025-09-05",
+        "victim": "Advantage Gold",
+        "domain": "advantagegold.com",
+        "country": "USA",
+        "summary": "Advantage Gold suffered a data breach due to a vulnerability in third-party firewall software, allowing unauthorized access to personal information. The breach exposed names, addresses, contact information, limited SSNs, and custodian account numbers. The company is offering complimentary access to Experian IdentityWorks for 24 months.",
+        "title": "Data Breach Notification",
+        "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/bf4ffd34-5d3e-4655-8703-c564a47bb932.html",
+        "added": "2026-03-30"
+    },
+    {
         "date": "2026-03-29",
         "victim": "Nan Liu Enterprise Co., Ltd.",
         "domain": "nanliugroup.com",
