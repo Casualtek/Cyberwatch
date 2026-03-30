@@ -1,5 +1,15 @@
 [
     {
+        "date": "2025-08-19",
+        "victim": "Shwapno",
+        "domain": "shwapno.com",
+        "country": "BGD",
+        "summary": "Shwapno, une chaîne de supermarchés, a déposé une plainte le 28 mars 2026 concernant une cyberattaque survenue sept mois plus tôt, suite au piratage de sa base de données clients. L'attaque, orchestrée par des groupes criminels internationaux comme Qilin et LockBit 5.0, a débuté par des e-mails d'hameçonnage avant qu'un ransomne ne verrouille les systèmes de la société mère ACI Logistics le 19 août 2025. Bien que les équipes techniques aient isolé les systèmes, plus de 410 Go de données sensibles incluant des informations bancaires et clients ont été divulgués sur le web sombre le 17 mars 2026.",
+        "title": "Shwapno files GD 7 months after cyberattack",
+        "url": "https://www.thedailystar.net/news/crime-justice/news/shwapno-files-gd-7-months-after-cyberattack-4138891",
+        "added": "2026-03-30"
+    },
+    {
         "date": "2025-08-04",
         "victim": "Bellflower Unified School District",
         "domain": "busd.k12.ca.us",
