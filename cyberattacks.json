@@ -1,5 +1,15 @@
 [
     {
+        "date": "2025-08-04",
+        "victim": "Bellflower Unified School District",
+        "domain": "busd.k12.ca.us",
+        "country": "USA",
+        "summary": "Bellflower Unified School District a signalé un incident de sécurité réseau en août 2025, entraînant des pannes temporaires de téléphone et d'Internet sur ses campus. Bien que le district ait confirmé que les données sensibles n'avaient pas été compromises et que les opérations étaient revenues à la normale, des allégations non confirmées de la part du groupe de rançongiciel Rhysida ont émergé plus tard. Cet événement a suscité peu d'attention médiatique indépendante, laissant les mises à jour publiques du district comme principale source d'information.",
+        "title": "August cyber incident at Bellflower schools in California went largely uncovered",
+        "url": "https://dysruptionhub.com/bellflower-california-cyber-incident/",
+        "added": "2026-03-30"
+    },
+    {
         "date": "2026-03-27",
         "victim": "Cota Co., Ltd.",
         "domain": "cota.co.jp",
