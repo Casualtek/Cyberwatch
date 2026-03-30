@@ -1,5 +1,15 @@
 [
     {
+        "date": "2026-02-08",
+        "victim": "Stats SA",
+        "domain": "statssa.gov.za",
+        "country": "ZAF",
+        "summary": "L'agence de statistiques sud-africaine, Stats SA, a confirmé une fuite de données affectant son système de ressources humaines, suite à une cyberattaque attribuée au groupe criminel XP95. Les pirates ont volé 453 362 fichiers et exigent une rançon de 100 000 dollars avant la date limite du 20 avril 2026, sous peine de publier l'ensemble de l'archive sur internet. Stats SA a indiqué qu'elle notifiera le régulateur de l'information et participera à la réponse gouvernementale plus large face à ces failles de cybersécurité.",
+        "title": "Stats SA hit by cyberattack, hackers demand ransom over stolen data | The Citizen",
+        "url": "https://www.citizen.co.za/lifestyle/technology/stats-sa-hit-cyberattack-hackers-demand-ransom-stolen-data/",
+        "added": "2026-03-30"
+    },
+    {
         "date": "2025-08-19",
         "victim": "Shwapno",
         "domain": "shwapno.com",
