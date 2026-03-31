@@ -1,5 +1,15 @@
 [
     {
+        "date": "2026-03-23",
+        "victim": "Netalia Srl",
+        "domain": "netalia.it",
+        "country": "ITA",
+        "summary": "L'attaque par ransomware orchestrée par le groupe Qilin contre la société Netalia Srl a paralysé les systèmes de paiement des amendes de la police municipale de Gênes. La municipalité a réagi en prolongeant les délais de paiement et en accordant une remise de 30 % afin d'éviter toute inégalité de traitement, tandis que les autorités enquêtent sur cette possible extorsion numérique. Les premières vérifications sesemblent exclure une fuite de données, mais le chiffrement des archives administratives pose un risque économique immédiat pour la ville.",
+        "title": "Genova, a rischio le multe pagate al comune a causa di un attacco hacker",
+        "url": "https://telenord.it/genova-a-rischio-le-multe-pagate-al-comune-a-causa-di-un-attacco-hacker-102354",
+        "added": "2026-03-31"
+    },
+    {
         "date": "2025-11-11",
         "victim": "Office Peeps",
         "domain": "officepeeps.com",
