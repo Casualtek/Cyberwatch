@@ -1,5 +1,15 @@
 [
     {
+        "date": "2026-03-29",
+        "victim": "Häpo-Reifencenter",
+        "domain": "haepo.ch",
+        "country": "CHE",
+        "summary": "Le dimanche 29 mars 2026, le groupe de pirates informatiques Pay2Key, lié à l'Iran, a chiffré et paralysé le système informatique de l'entreprise Häpo-Reifencenter, située à Winterthour, à l'aide d'un ransomware. Bien que l'entreprise disposât de sauvegardes, celles-ci ont également été détruites, ce qui entraîne un préjudice quotidien de plusieurs dizaines de milliers de francs et une perte des données comptables actuelles. Häpo a informé la police et alerté son assureur, tandis que la direction n'envisage pour l'instant pas de payer la rançon exigée.",
+        "title": "Cyberangriff in Winterthur: Hacker legen HÃ¤po-Reifencenter lahm",
+        "url": "https://www.tagesanzeiger.ch/cyberangriff-in-winterthur-hacker-legen-haepo-reifencenter-lahm-229421108182",
+        "added": "2026-03-31"
+    },
+    {
         "date": "2026-03-31",
         "victim": "Charité",
         "domain": "charite.de",
