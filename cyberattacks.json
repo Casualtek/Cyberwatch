@@ -1,5 +1,15 @@
 [
     {
+        "date": "2026-03-31",
+        "victim": "Charité",
+        "domain": "charite.de",
+        "country": "DEU",
+        "summary": "Un dysfonctionnement technique au sein d'un centre de données de la Charité à Berlin a entraîné une panne informatique affectant trois sites hospitaliers, empêchant la Feuerwehr d'accéder aux cliniques Virchow, Mitte et Steglitz. Bien que la fourniture de soins aux patients reste stable, les services d'urgence ont temporairement désactivé les entrées des urgences centrales par mesure de sécurité, tout en excluant toute hypothèse de cyberattaque. La Charité travaille activement à la résolution de ce problème technique, qui survient dans un contexte de vigilance accrue face aux risques de cybersécurité pour les institutions publiques berlinoises.",
+        "title": "IT‑Ausfall an der Berliner Charité: Feuerwehr kann drei Klinikstandorte nicht anfahren",
+        "url": "https://www.tagesspiegel.de/berlin/itausfall-an-der-berliner-charite-feuerwehr-kann-drei-klinikstandorte-nicht-anfahren-15421749.html",
+        "added": "2026-03-31"
+    },
+    {
         "date": "2026-03-20",
         "victim": "Fernheizwerk Neukölln",
         "domain": "fhw-neukoelln.de",
