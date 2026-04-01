@@ -1,5 +1,15 @@
 [
     {
+        "date": "2026-03-28",
+        "victim": "HASBRO, INC.",
+        "domain": "hasbro.com",
+        "country": "USA",
+        "summary": "Hasbro, Inc. a révélé le 1er avril 2026 avoir détecté un accès non autorisé à son réseau le 28 mars 2026. L'entreprise a activé ses protocoles de réponse aux incidents, isolé certains systèmes et engagé une enquête avec l'aide d'experts en cybersécurité. Bien que les opérations commerciales soient maintenues grâce à des plans de continuité, des délais sont possibles pendant la résolution de la situation.",
+        "title": "HASBRO, INC. Cybersecurity Incident Details - Board Cybersecurity",
+        "url": "https://www.board-cybersecurity.com/incidents/tracker/hasbro-cybersecurity-incident-c3438674#8-k-filed-on-2026-04-01",
+        "added": "2026-04-01"
+    },
+    {
         "date": "2026-03-29",
         "victim": "Häpo-Reifencenter",
         "domain": "haepo.ch",
