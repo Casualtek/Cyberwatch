@@ -1,5 +1,35 @@
 [
     {
+        "date": "2025-11-14",
+        "victim": "Mister Guns",
+        "domain": "misterguns.com",
+        "country": "USA",
+        "summary": "Mister Guns suffered a data breach that affected residents of various states, including Rhode Island. The breach led to identity theft and other crimes against the affected individuals. A cyberattack was claimed by Securotrop on November 22.",
+        "title": "Data Breach Notification",
+        "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/4ebd0ffb-8a38-459c-bf0d-930880dd1284.html",
+        "added": "2026-04-02"
+    },
+    {
+        "date": "2026-02-13",
+        "victim": "New Hampshire Historical Society",
+        "domain": "nhhistory.org",
+        "country": "USA",
+        "summary": "Around February 13, the NHHS discovered unusual activity in its network environment. The investigation, concluded on March 9, revealed that some information might have been copied by an unauthorized individual.",
+        "title": "Data Breach Notification",
+        "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/d74f91eb-99bb-4c57-977c-969ce2987eeb.html",
+        "added": "2026-04-02"
+    },
+    {
+        "date": "2026-02-04",
+        "victim": "Master Millwork, LLC",
+        "domain": "mastermillwork.com",
+        "country": "USA",
+        "summary": "Master Millwork, LLC experienced a data security incident between February 1, 2026, and February 5, 2026, resulting in unauthorized access to certain information. The types of information potentially affected include names, Social Security numbers, driver's license/state ID numbers, and financial account information. Master Millwork has taken steps to protect affected individuals, including offering complimentary credit monitoring and identity protection services.",
+        "title": "Data Breach Notification",
+        "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/96b5a796-105d-4a3b-9e27-b56e1bd9905d.html",
+        "added": "2026-04-02"
+    },
+    {
         "date": "2026-04-01",
         "victim": "Gem Terminal Industry Co., Ltd.",
         "domain": "gem.com.tw",
