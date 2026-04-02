@@ -1,5 +1,25 @@
 [
     {
+        "date": "2026-03-30",
+        "victim": "North Attleboro schools",
+        "domain": "naschools.net",
+        "country": "USA",
+        "summary": "Selon le superintendant John Antonucci, les écoles de North Attleboro sont confrontées à un incident de cybersécurité impliquant des activités non autorisées sur le réseau. Leur nature n'a pas été précisée.",
+        "title": "North Attleboro schools hit by suspected cyberattack",
+        "url": "https://www.thesunchronicle.com/news/local_news/north-attleboro-schools-hit-by-suspected-cyberattack/article_be4c41b0-57ef-4516-9234-b03a45b08d29.html",
+        "added": "2026-04-02"
+    },
+    {
+        "date": "2026-03-31",
+        "victim": "Patriot Regional Emergency Communications Center",
+        "domain": "pepperell.ma.us",
+        "country": "USA",
+        "summary": "Un cyberattaque survenue le 31 mars 2026 a perturbé les lignes téléphoniques non prioritaires et commerciales du centre de communication régional Patriot (PRECC) et des services de sécurité publique de plusieurs municipalités du Massachusetts. Bien que le système d'urgence 911 soit resté opérationnel et qu'aucune fuite de données personnelles n'ait été confirmée, les autorités ont engagé des experts en cybersécurité et des partenaires fédéraux pour contenir l'incident et rétablir les services. Les villes de Pepperell, Dunstable, Townsend et Groton ont demandé aux citoyens d'utiliser un numéro de téléphone alternatif pour les lignes non prioritaires en attendant la résolution de la crise.",
+        "title": "Patriot Regional Emergency Communications Center in Pepperell hit by cyberattack, affecting multiple towns",
+        "url": "https://www.sentinelandenterprise.com/2026/04/01/patriot-regional-emergency-communications-center-in-pepperell-hit-by-cyberattack-affecting-multiple-towns/",
+        "added": "2026-04-02"
+    },
+    {
         "date": "2026-03-14",
         "victim": "Minot Water Treatment Plant",
         "domain": "minotnd.gov",
