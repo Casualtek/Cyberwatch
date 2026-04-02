@@ -1,5 +1,15 @@
 [
     {
+        "date": "2026-04-01",
+        "victim": "Gem Terminal Industry Co., Ltd.",
+        "domain": "gem.com.tw",
+        "country": "TWN",
+        "summary": "Certains systèmes informatiques des filiales de Gem Terminal Industry, notamment Suzhou Gem Opto-Electronics Terminal Co., Ltd et Vietnam Gem Electronic and Metal Co., Ltd, ont été victimes d'une cyberattaque le 1er avril 2026. L'équipe de sécurité a immédiatement activé des mesures de défense et de récupération, tandis que des experts externes ont été engagés pour assister dans l'investigation. Bien que les systèmes soient actuellement restaurés par phases, l'incident n'a pas d'impact matériel sur les opérations de l'entreprise selon l'évaluation actuelle.",
+        "title": "Today's Information",
+        "url": "https://emops.twse.com.tw/server-java/t05sr01_1_e?&isNew=Y&seq_no=1&spoke_time=165538&spoke_date=20260401&co_id=2460",
+        "added": "2026-04-02"
+    },
+    {
         "date": "2026-03-30",
         "victim": "North Attleboro schools",
         "domain": "naschools.net",
