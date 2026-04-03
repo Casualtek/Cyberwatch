@@ -1,5 +1,15 @@
 [
     {
+        "date": "2026-02-12",
+        "victim": "Five States Energy",
+        "domain": "fivestates.com",
+        "country": "USA",
+        "summary": "Five States Energy Company, L.L.C. detected a compromise of its network that could have impacted personal information, including names, bank account numbers, contact information, and Social Security numbers. The breach occurred on February 12, 2026, and the company has taken measures to secure and remediate the compromise. A cyberattack was claimed by Dragonforce on February 19.",
+        "title": "Data Breach Notification",
+        "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/6787d585-07ff-44d9-ad99-347e0f9b6073.html",
+        "added": "2026-04-03"
+    },
+    {
         "date": "2025-01-29",
         "victim": "Teamsters Local 175",
         "domain": "teamsters175.org",
