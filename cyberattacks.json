@@ -1,5 +1,15 @@
 [
     {
+        "date": "2025-01-29",
+        "victim": "Teamsters Local 175",
+        "domain": "teamsters175.org",
+        "country": "USA",
+        "summary": "Teamsters Local 175 suffered a data breach where an unauthorized third party may have accessed personal information, including names, Social Security numbers, and commercial driver's license information. The breach occurred due to unauthorized activity within the organization's computer systems. A cyberattack was claimed by INC Ransom on February 22.",
+        "title": "Data Breach Notification",
+        "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/f98b68b1-17b0-4ec2-9005-fe4f1df33efe.html",
+        "added": "2026-04-03"
+    },
+    {
         "date": "2026-03-20",
         "victim": "IntraCare",
         "domain": "intracare.co.nz",
