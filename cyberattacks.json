@@ -1,5 +1,15 @@
 [
     {
+        "date": "2026-04-02",
+        "victim": "Education Authority",
+        "domain": "eani.org.uk",
+        "country": "GBR",
+        "summary": "Un système informatique utilisé par les écoles d'Irlande du Nord a été ciblé par une cyberattaque, obligeant l'Autorité de l'Éducation (EA) à effectuer une réinitialisation des mots de passe pour tous les utilisateurs. Cette mesure de sécurité a entraîné la déconnexion de tous les établissements et élèves, privant ainsi les étudiants d'accès aux ressources pédagogiques essentielles en pleine période de révision avant les examens. Bien que l'EA ait engagé une enquête et présenté ses excuses, elle n'a pas encore confirmé si des données personnelles ont été compromises.",
+        "title": "C2K: School IT system targeted in a cyber attack ahead of exam season",
+        "url": "https://www.bbc.com/news/articles/cnv8mn91drlo",
+        "added": "2026-04-03"
+    },
+    {
         "date": "2026-02-12",
         "victim": "Five States Energy",
         "domain": "fivestates.com",
