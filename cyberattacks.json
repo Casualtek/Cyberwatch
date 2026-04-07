@@ -1,5 +1,15 @@
 [
     {
+        "date": "2026-03-30",
+        "victim": "Fountain",
+        "domain": "fountain.eu",
+        "country": "BEL",
+        "summary": "L'entreprise belge cotée en Bourse Fountain, spécialisée dans les services liés au café en entreprises, a confirmé avoir subi une cyberattaque de type ransomware impliquant un accès non autorisé et l'extraction de données. Bien que l'entreprise ait déposé une plainte pénale le 31 mars et poursuive ses investigations pour évaluer l'étendue des données compromises, elle ne s'attend pas à des conséquences financières significatives à ce stade. Une cyberattaque a été revendiquée par Dragonforce le 1er avril.",
+        "title": "Une grande entreprise belge cotée en Bourse victime d’une cyberattaque",
+        "url": "https://www.lesoir.be/738882/article/2026-04-03/une-grande-entreprise-belge-cotee-en-bourse-victime-dune-cyberattaque",
+        "added": "2026-04-07"
+    },
+    {
         "date": "2026-04-02",
         "victim": "Education Authority",
         "domain": "eani.org.uk",
