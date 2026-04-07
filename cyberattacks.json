@@ -1,5 +1,15 @@
 [
     {
+        "date": "2026-04-01",
+        "victim": "Gritman Medical Center",
+        "domain": "gritman.org",
+        "country": "USA",
+        "summary": "Le Gritman Medical Center a commencé à rouvrir ses cliniques à Moscou, en Idaho, le vendredi suite à un incident de cybersécurité survenu le mercredi qui a perturbé les soins ambulatoires. Bien que l'hôpital et les services d'urgence soient restés ouverts, plusieurs cliniques spécialisées ont dû être fermées temporairement en attendant le rétablissement des systèmes électroniques. Les enquêteurs ont confirmé qu'aucune donnée patient n'avait été compromise, bien que la nature exacte de l'incident et son origine restent à déterminer.",
+        "title": "Moscow, Idaho, clinics reopen after Gritman cyber incident",
+        "url": "https://dysruptionhub.com/gritman-cyber-incident-idaho/",
+        "added": "2026-04-07"
+    },
+    {
         "date": "2024-12-22",
         "victim": "Graebel Companies, Inc.",
         "domain": "graebel.com",
