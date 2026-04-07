@@ -1,5 +1,15 @@
 [
     {
+        "date": "2025-08-05",
+        "victim": "CI Engineering",
+        "domain": "cieng.com",
+        "country": "USA",
+        "summary": "Chemical & Industrial Engineering suffered a data breach in August 2025, where an unauthorized third party gained access to their computer network from June to August 2025. The impacted files contained personal information, including names, addresses, and other data elements. A cyberattack was claimed by Cicada3301 on September 4.",
+        "title": "Data Breach Notification",
+        "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/d9d4e6f9-fc44-4e4b-bff7-e002301f336e.html",
+        "added": "2026-04-06"
+    },
+    {
         "date": "2026-04-06",
         "victim": "Signature Healthcare",
         "domain": "signature-healthcare.org",
