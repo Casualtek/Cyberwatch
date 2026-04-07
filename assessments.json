@@ -1,6 +1,34 @@
 [
     {
-        "victim": "Whiskey & Co., Inc. ",
+        "victim": "CCC Kei To Secondary School",
+        "domain": "ccckeito.edu.hk",
+        "country": "HK",
+        "date": "2026-04-04",
+        "group": "krybit"
+    },
+    {
+        "victim": "Kramer Nutzfahrzeug Service Center GmbH",
+        "domain": "kramer-nsc.at",
+        "country": "AT",
+        "date": "2026-03-30",
+        "group": "krybit"
+    },
+    {
+        "victim": "Livingstone Kolobeng College",
+        "domain": "lkc.ac.bw",
+        "country": "BW",
+        "date": "2026-04-03",
+        "group": "krybit"
+    },
+    {
+        "victim": "BJ Grupo",
+        "domain": "bjgrupo.com.br",
+        "country": "BR",
+        "date": "2026-03-31",
+        "group": "krybit"
+    },
+    {
+        "victim": "Whiskey & Co., Inc.",
         "domain": "whiskey.co.jp",
         "country": "JP",
         "date": "2026-03-31",
