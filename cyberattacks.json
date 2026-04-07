@@ -1,5 +1,15 @@
 [
     {
+        "date": "2026-04-06",
+        "victim": "Signature Healthcare",
+        "domain": "signature-healthcare.org",
+        "country": "USA",
+        "summary": "Signature Healthcare et l'hôpital de Brockton ont confirmé un incident de cybersécurité perturbant certains systèmes informatiques, entraînant la diversion du trafic des ambulances et l'annulation des services d'infusion de chimiothérapie pour le 6 avril. Bien que les services d'urgence et les interventions chirurgicales programmées continuent, les pharmacies de détail ont été fermées et les patients ont signalé des délais importants et un stress accru lors de leurs visites. L'établissement a activé des procédures de fonctionnement hors ligne et travaille avec des partenaires externes pour enquêter et rétablir les opérations dans les plus brefs délais.",
+        "title": "Brockton hospital hit by cybersecurity incident, services affected",
+        "url": "https://www.wcvb.com/article/brockton-hospital-services-affected-by-cyber-incident/70944847",
+        "added": "2026-04-07"
+    },
+    {
         "date": "2026-03-30",
         "victim": "Fountain",
         "domain": "fountain.eu",
