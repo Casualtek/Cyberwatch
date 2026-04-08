@@ -1,6 +1,16 @@
 [
     {
         "date": "2026-04-07",
+        "victim": "ChipSoft",
+        "domain": "chipsoft.nl",
+        "country": "NLD",
+        "summary": "Un grave cyberattaque ciblant ChipSoft, fournisseur majeur de dossiers médicaux électroniques aux Pays-Bas, a conduit onze onze hôpitaux à déconnecter leurs portails par précaution. Bien que le type exact de l'attaque ne soit pas officiellement confirmé par l'entreprise, des rapports internes suggèrent fortement l'utilisation de ransomware, avec un risque potentiel de vol de données patients. Cette incident, qui touche environ trois quarts des hôpitaux néerlandais, suscite des craintes majeures concernant l'impact sur la continuité des soins et la sécurité des informations de santé.",
+        "title": "Aanval op ChipSoft heeft grote impact op zorginstellingen - Computable.nl",
+        "url": "https://www.computable.nl/2026/04/08/aanval-op-chipsoft-heeft-grote-impact-op-zorginstellingen/",
+        "added": "2026-04-08"
+    },
+    {
+        "date": "2026-04-07",
         "victim": "NAFCO",
         "domain": "nafco.com.tw",
         "country": "TWN",
