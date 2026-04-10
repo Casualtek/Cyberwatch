@@ -1,5 +1,15 @@
 [
     {
+        "date": "2026-03-23",
+        "victim": "Alamo Heights Independent School District",
+        "domain": "ahisd.net",
+        "country": "USA",
+        "summary": "Le district scolaire Alamo Heights Independent School District fait face à une cyberattaque par rançongiciel suite à des problèmes de connectivité signalés le 23 mars. Les responsables du district ont refusé de fournir des détails supplémentaires en raison d'une enquête active menée avec l'aide du FBI. Cet incident s'inscrit dans une tendance croissante de cyberattaques ciblant les systèmes éducatifs, incitant les autorités texanes à renforcer le financement de la cybersécurité.",
+        "title": "Alamo Heights ISD won't say whether it paid ransom after malware attack",
+        "url": "https://www.expressnews.com/news/education/article/alamo-heights-isd-cyberattack-ransom-22191675.php",
+        "added": "2026-04-10"
+    },
+    {
         "date": "2025-07-20",
         "victim": "Baltimore Medical System Inc.",
         "domain": "bmsi.org",
