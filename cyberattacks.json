@@ -1,5 +1,15 @@
 [
     {
+        "date": "2026-02-25",
+        "victim": "SDI Management LLC",
+        "domain": "shaftdrillers.com",
+        "country": "USA",
+        "summary": "SDI Management LLC detected a network compromise that could have impacted personal information, including names, dates of birth, Social Security numbers, and driver's licenses. The breach occurred on February 25, 2026, and the organization has taken measures to secure and remediate the compromise. Free credit monitoring services are being offered to affected individuals.",
+        "title": "Data Breach Notification",
+        "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/0f2ce718-1713-4678-98e3-4b4e43475cd6.html",
+        "added": "2026-04-10"
+    },
+    {
         "date": "2026-03-23",
         "victim": "Alamo Heights Independent School District",
         "domain": "ahisd.net",
