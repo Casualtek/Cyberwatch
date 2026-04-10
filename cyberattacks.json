@@ -1,5 +1,15 @@
 [
     {
+        "date": "2026-04-09",
+        "victim": "Saver",
+        "domain": "saver.nl",
+        "country": "NLD",
+        "summary": "L'entreprise de gestion des déchets Saver a été victime d'une cyberattaque dans la nuit du 9 avril, entraînant la mise hors ligne de certains de ses systèmes. Bien que la collecte des déchets se poursuive, l'entreprise subit des restrictions de service, notamment une impossibilité de répondre par téléphone et un accès limité à certaines données. Un groupe de crise a été constitué pour enquêter sur l'ampleur de l'incident en collaboration avec une société de cybersécurité.",
+        "title": "Afvalverwerker Saver getroffen door cyberaanval",
+        "url": "https://www.internetbode.nl/bergen-op-zoom/472401/afvalverwerker-saver-getroffen-door-cyberaanval",
+        "added": "2026-04-10"
+    },
+    {
         "date": "2026-04-03",
         "victim": "Chevin Fleet Solutions",
         "domain": "chevinfleet.com",
