@@ -1,6 +1,16 @@
 [
     {
         "date": "2026-04-12",
+        "victim": "Straumann",
+        "domain": "straumann.com",
+        "country": "CHE",
+        "summary": "L'entreprise Straumann a déclaré qu'un ancien système utilisé pour des processus de contrôle interne entre 2021 et 2024 a subi une exposition de documents internes. Des experts en cybersécurité ont été mobilisés pour isoler l'incident et les autorités compétentes ont été informées de la situation. L'organisation précise que ses activités commerciales ainsi que les systèmes clients n'ont subi aucun impact.",
+        "title": "Straumann meldet Cyberangriff auf Altsystem - Geschäftsbetrieb nicht betroffen",
+        "url": "https://www.cash.ch/news/top-news/straumann-meldet-cyberangriff-auf-altsystem-geschaftsbetrieb-nicht-betroffen-927241",
+        "added": "2026-04-13"
+    },
+    {
+        "date": "2026-04-12",
         "victim": "Spring Lake Park Schools",
         "domain": "springlakeparkschools.org",
         "country": "USA",
