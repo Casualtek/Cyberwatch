@@ -1,5 +1,15 @@
 [
     {
+        "date": "2025-07-27",
+        "victim": "Legend Senior Living, LLC",
+        "domain": "legendseniorliving.com",
+        "country": "USA",
+        "summary": "Legend Senior Living, LLC suffered a data breach between July 27, 2025, and August 15, 2025, resulting in unauthorized access to certain systems and potential copying/viewing of files. The breach may have exposed personal information including names, Social Security numbers, driver's license numbers, and financial account information. Legend is providing affected individuals with credit monitoring services and guidance on protecting against identity theft.",
+        "title": "Data Breach Notification",
+        "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/9d8565da-6f40-48a3-9d2b-4e160357e230.html",
+        "added": "2026-04-11"
+    },
+    {
         "date": "2026-04-10",
         "victim": "Healthdaq",
         "domain": "healthdaq.com",
