@@ -1,5 +1,15 @@
 [
     {
+        "date": "2026-03-24",
+        "victim": "NYK Group",
+        "domain": "nyk.com",
+        "country": "JPN",
+        "summary": "Le groupe NYK a annoncé avoir été victime d'un accès non autorisé à son système d'approvisionnement en carburant maritime le 24 mars 2026. L'incident a entraîné l'exfiltration de données personnelles concernant des employés du groupe ainsi que des partenaires commerciaux, incluant des noms et des coordonnées. L'entreprise a isolé le système concerné, informé les autorités japonaises et déclaré l'affaire à la police sans qu'aucun dommage financier ou chiffrement n'ait été constaté pour le moment.",
+        "title": "Notice Regarding Personal Information Breach | NYK Line",
+        "url": "https://www.nyk.com/english/news/2026/20260409_01.html",
+        "added": "2026-04-13"
+    },
+    {
         "date": "2026-04-12",
         "victim": "Straumann",
         "domain": "straumann.com",
