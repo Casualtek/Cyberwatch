@@ -1,5 +1,15 @@
 [
     {
+        "date": "2026-04-11",
+        "victim": "Rockstar Games",
+        "domain": "rockstargames.com",
+        "country": "USA",
+        "summary": "Le groupe de hackers ShinyHunters a revendiqué avoir compromis les serveurs cloud de Rockstar Games via une faille chez le prestataire Anodot. L'entreprise a confirmé qu'une quantité limitée d'informations non matérielles a été accédée, tout en affirmant que cet incident n'impacte ni ses joueurs ni son organisation. Les pirates exigent le paiement d'une rançon numérique avant le 14 avril 2026 sous peine de divulguer des données d'entreprise sensibles.",
+        "title": "GTA 6 Developer Rockstar Reportedly Hacked, Data Being Ransomed",
+        "url": "https://kotaku.com/rockstar-games-reportedly-hacked-massive-data-leak-ransom-gta-6-shinyhunters-2000686858",
+        "added": "2026-04-13"
+    },
+    {
         "date": "2025-12-08",
         "victim": "Windward Life Care",
         "domain": "windwardlifecare.com",
