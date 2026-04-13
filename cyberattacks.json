@@ -1,10 +1,30 @@
 [
     {
+        "date": "2025-12-08",
+        "victim": "Windward Life Care",
+        "domain": "windwardlifecare.com",
+        "country": "USA",
+        "summary": "Windward Life Care suffered a data breach where an unauthorized individual viewed or copied sensitive information. The breach occurred on or about December 8, 2025. A cyberattack was claimed by Sinobi on January 5, 2026.",
+        "title": "Data Breach Notification",
+        "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/1502ed39-ff0b-4391-898b-cff2e5fe1b3a.html",
+        "added": "2026-04-11"
+    },
+    {
+        "date": "2026-02-26",
+        "victim": "David Evans Enterprises, Inc.",
+        "domain": "deainc.com",
+        "country": "USA",
+        "summary": "David Evans Enterprises, Inc.  suffered a data breach, providing free credit monitoring services to affected individuals. The breach led to the exposure of sensitive information, prompting the company to offer proactive fraud assistance. Affected individuals can enroll in credit monitoring services through a dedicated website.",
+        "title": "Data Breach Notification",
+        "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/14ba0ff3-73b2-4ee0-8de0-b6f5608ba761.html",
+        "added": "2026-04-11"
+    },
+    {
         "date": "2025-07-27",
         "victim": "Legend Senior Living, LLC",
         "domain": "legendseniorliving.com",
         "country": "USA",
-        "summary": "Legend Senior Living, LLC suffered a data breach between July 27, 2025, and August 15, 2025, resulting in unauthorized access to certain systems and potential copying/viewing of files. The breach may have exposed personal information including names, Social Security numbers, driver's license numbers, and financial account information. Legend is providing affected individuals with credit monitoring services and guidance on protecting against identity theft.",
+        "summary": "Legend Senior Living, LLC suffered a data breach between July 27, 2025, and August 15, 2025, resulting in unauthorized access to certain systems and potential copying/viewing of files. The breach may have exposed personal information including names, Social Security numbers, driver's license numbers, and financial account information. A cyberattack was claimed by Worldleaks on September 18.",
         "title": "Data Breach Notification",
         "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/9d8565da-6f40-48a3-9d2b-4e160357e230.html",
         "added": "2026-04-11"
