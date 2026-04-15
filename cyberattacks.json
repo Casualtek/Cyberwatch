@@ -1,13 +1,13 @@
 [
     {
-        "date": "2026-03-31",
-        "victim": "Agglomération de Compiègne",
-        "domain": "agglo-compiegne.fr",
-        "country": "FRA",
-        "summary": "L'agglomération de Compiègne a été la cible d'une cyberattaque dont l'impact sur les données est actuellement étudié. L'article traite des interrogations soulevées par cet incident informatique au sein de la collectivité. Le contenu détaillé reste réservé aux abonnés du journal.",
-        "title": "L’agglomération de Compiègne touchée par une cyberattaque : quid des données ?",
-        "url": "https://www.courrier-picard.fr/id710912/article/2026-04-13/compiegne-lagglomeration-touchee-par-une-cyberattaque",
-        "added": "2026-04-14"
+        "date": "2026-04-09",
+        "victim": "Athénée Royal d'Izel",
+        "domain": "arizel.be",
+        "country": "BEL",
+        "summary": "Le réseau local de l'Athénée Royal d'Izel a subi une cyberattaque avec chiffrement de données le jeudi 9 avril au matin. L'incident a ciblé la plateforme École en ligne, mais l'intervention rapide du service de maintenance a permis d'éviter tout vol de données personnelles. Le rétablissement complet des services est prévu pour la semaine prochaine grâce à l'utilisation de sauvegardes de la Fédération Wallonie-Bruxelles.",
+        "title": "L'Athénée Royal d'Izel victime d'un piratage informatique",
+        "url": "https://www.tvlux.be/actu/info/l-athenee-royal-d-izel-victime-d-un-piratage-informatique_51271",
+        "added": "2026-04-15"
     },
     {
         "date": "2026-04-11",
