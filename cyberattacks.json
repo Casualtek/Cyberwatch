@@ -1,5 +1,15 @@
 [
     {
+        "date": "2026-04-12",
+        "victim": "Autovista",
+        "domain": "autovista.com",
+        "country": "DEU",
+        "summary": "L'entreprise Autovista subit actuellement une cyberattaque par ransomware affectant certains de ses systèmes en Europe et en Australie. Des experts externes ont été mobilisés pour mener une enquête approfondie et contenir l'incident, qui perturbe notamment l'accès aux courriels de certains employés. La priorité est accordée à la restauration sécurisée des applications impactées, bien qu'aucun calendrier précis n'ait encore été établi.",
+        "title": "Autovista Applications - JD Power Autovista",
+        "url": "https://autovista.com/service-update-1/",
+        "added": "2026-04-15"
+    },
+    {
         "date": "2026-04-09",
         "victim": "Athénée Royal d'Izel",
         "domain": "arizel.be",
