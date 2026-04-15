@@ -1,5 +1,15 @@
 [
     {
+        "date": "2026-04-13",
+        "victim": "Dialogue Logique",
+        "domain": "dlnet.ch",
+        "country": "CHE",
+        "summary": "L'ESN Dialogue Logique a subi une cyberattaque d'envergure le 13 avril 2026, entraînant l'isolement immédiat de ses infrastructures datacenter pour protéger les données. Les équipes techniques et des experts en cybersécurité collaborent avec les autorités fédérales et la police cantonale pour analyser l'intrusion et neutraliser la menace. Le rétablissement progressif des services est ralenti par des contrôles de sécurité rigoureux visant à garantir un environnement sain après l'attaque.",
+        "title": "AlpesCloud Status",
+        "url": "https://status.dlnet.ch",
+        "added": "2026-04-15"
+    },
+    {
         "date": "2026-03-09",
         "victim": "Laboratoire national de santé du Guatemala",
         "domain": "lns.gob.gt",
