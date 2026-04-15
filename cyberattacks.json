@@ -1,5 +1,15 @@
 [
     {
+        "date": "2026-03-09",
+        "victim": "Laboratoire national de santé du Guatemala",
+        "domain": "lns.gob.gt",
+        "country": "GTM",
+        "summary": "Le Ministère de la Santé publique et de l'Assistance sociale a confirmé avoir subi une cyberattaque par ransomware affectant les fichiers internes du Laboratoire national de santé. Parallèlement, la Direction du contrôle des armes et des munitions (Digecam) a été victime d'un piratage ayant entraîné le vol de documents et de certificats de port d'armes. Ces incidents soulignent l'urgence de faire adopter la loi sur la cybersécurité au Congrès pour renforcer les sanctions contre la cybercriminalité.",
+        "title": "Salud confirma ataque cibernético en Laboratorio Nacional, pero asegura que fue contenido sin que datos sensibles fueran robados",
+        "url": "https://lahora.gt/nacionales/kjordan/2026/04/14/salud-confirma-ataque-cibernetico-en-laboratorio-nacional-pero-asegura-que-fue-contenido-sin-que-datos-sensibles-fuera-robados/",
+        "added": "2026-04-15"
+    },
+    {
         "date": "2026-04-12",
         "victim": "Autovista",
         "domain": "autovista.com",
