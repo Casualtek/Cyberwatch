@@ -1,5 +1,15 @@
 [
     {
+        "date": "2026-04-09",
+        "victim": "SRA",
+        "domain": "sra.nl",
+        "country": "NLD",
+        "summary": "L'organisation SRA a été victime d'une cyberattaque ciblant des serveurs de fichiers inactifs contenant des données historiques de la période 2023-2025. L'incident, détecté le 9 avril 2026, n'a pas affecté les opérations quotidiennes mais a entraîné un risque de consultation non autorisée de certaines données. Des mesures d'urgence ont été prises, incluant l'intervention d'experts forensiques et le signalement de l'affaire à l'Autorité des données personnelles.",
+        "title": "SRA getroffen door een cyberaanval - 2026 - Nieuws - SRA",
+        "url": "https://www.sra.nl/nieuwsoverzicht/2026/sra-getroffen-door-een-cyberaanval",
+        "added": "2026-04-16"
+    },
+    {
         "date": "2026-04-13",
         "victim": "Dialogue Logique",
         "domain": "dlnet.ch",
