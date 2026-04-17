@@ -1,5 +1,45 @@
 [
     {
+        "date": "2025-12-08",
+        "victim": "Phoenix Art Museum",
+        "domain": "phxart.org",
+        "country": "USA",
+        "summary": "Unauthorized access to certain systems within the network occurred on December 3, 2025, resulting in the exposure of personal information of two Maine residents. The incident was discovered on December 8, 2025, and an investigation was launched. A cyberattack was claimed by Rhysida on February 12, 2026.",
+        "title": "Data Breach Notification",
+        "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/31b603d4-f520-4425-8191-9dfebbf47b16.html",
+        "added": "2026-04-16"
+    },
+    {
+        "date": "2025-12-11",
+        "victim": "Retail Therapy LLC",
+        "domain": "frugalfannies.com",
+        "country": "USA",
+        "summary": "Retail Therapy LLC suffered a data breach between November 20, 2025, and December 11, 2025, where an unauthorized third party gained access to certain systems within its network, potentially exposing sensitive information.",
+        "title": "Data Breach Notification",
+        "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/46406160-48ee-467c-9751-aaabcea6615a.html",
+        "added": "2026-04-15"
+    },
+    {
+        "date": "2026-03-12",
+        "victim": "Nicholas H. Safford & Co., Inc.",
+        "domain": "saffords.com",
+        "country": "USA",
+        "summary": "Nicholas H. Safford & Co., Inc. experienced a security incident where unauthorized access occurred between January 30, 2026, and March 12, 2026. The incident may have exposed personal information, including names, dates of birth, social security numbers, and account numbers. The company has taken steps to secure its systems and is offering identity monitoring services to affected individuals.",
+        "title": "2026-04-10 Nicholas H. Safford & Co., Inc. - Data Breach Notice to Consumers",
+        "url": "https://ago.vermont.gov/document/2026-04-10-nicholas-h-safford-co-inc-data-breach-notice-consumers",
+        "added": "2026-04-15"
+    },
+    {
+        "date": "2026-03-06",
+        "victim": "Adrian Jules",
+        "domain": "adrianjulesltd.com",
+        "country": "USA",
+        "summary": "An unauthorized actor accessed certain information stored within Adrian Jules systems between March 4, 2026, and March 6, 2026, including the name, Social Security number, and/or financial account number of one Vermont resident. A cyberattack was claimed by Akira on April 7.",
+        "title": "20226-04-08 Adrian Jules LTD - Data Breach Notice to Consumers",
+        "url": "https://ago.vermont.gov/document/20226-04-08-adrian-jules-ltd-data-breach-notice-consumers",
+        "added": "2026-04-15"
+    },
+    {
         "date": "2025-08-07",
         "victim": "Bank3",
         "domain": "bank3.com",
