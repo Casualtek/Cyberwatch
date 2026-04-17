@@ -1,5 +1,54 @@
 [
     {
+        "victim": "Town of Blacksburg",
+        "domain": "blacksburg.gov",
+        "country": "US",
+        "date": "2025-11-25",
+        "group": "worldleaks"
+    },
+    {
+        "victim": "LTS Group",
+        "domain": "ltsgroup.tech",
+        "country": "JP",
+        "date": "2025-10-27",
+        "group": "worldleaks"
+    },
+    {
+        "victim": "Ellison Educational Equipment, Inc",
+        "domain": "ellisoneducation.com",
+        "country": "US",
+        "date": "2025-10-01",
+        "group": "worldleaks"
+    },
+    {
+        "victim": "Roose Ressler & Green Co",
+        "domain": "rooselaw.com",
+        "country": "US",
+        "date": "2025-10-17",
+        "group": "worldleaks"
+    },
+    {
+        "victim": "Jefferson Enterprises, LLC",
+        "domain": "jeffersonenterprise.com",
+        "country": "US",
+        "date": "2025-09-03",
+        "group": "worldleaks"
+    },
+    {
+        "victim": "Platinum Healthcare Staffing",
+        "domain": "platinumhealthcarestaffing.com",
+        "country": "US",
+        "date": "2025-08-30",
+        "group": "worldleaks"
+    },
+    {
+        "victim": "L3Harris Technologies",
+        "domain": "l3harris.com",
+        "country": "US",
+        "date": "2025-04-28",
+        "group": "worldleaks"
+    },
+    {
         "victim": "Pearce Services",
         "domain": "pearce-services.com",
         "country": "US",
