@@ -1,5 +1,15 @@
 [
     {
+        "date": "2026-04-14",
+        "victim": "Corporate Affairs Commission (CAC)",
+        "domain": "cac.gov.ng",
+        "country": "NGA",
+        "summary": "La Commission des affaires corporatives du Nigeria a confirmé avoir subi une cyberattaque impliquant un accès non autorisé à certaines parties de ses systèmes d'information. L'agence a activé ses protocoles de réponse et collabore avec les autorités technologiques nationales pour évaluer l'étendue exacte de l'incident. En attendant les conclusions de l'enquête, il est conseillé aux utilisateurs de surveiller leurs dossiers et de mettre à jour leurs identifiants de connexion.",
+        "title": "CAC confirms cyber incident after unauthorised system access",
+        "url": "https://akwaibomtimes.ng/cac-confirms-cyber-incident-unauthorised-system-access/",
+        "added": "2026-04-17"
+    },
+    {
         "date": "2026-04-16",
         "victim": "Fusion Superplex",
         "domain": "fusionsuperplex.com",
