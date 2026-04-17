@@ -1,5 +1,15 @@
 [
     {
+        "date": "2025-08-07",
+        "victim": "Bank3",
+        "domain": "bank3.com",
+        "country": "USA",
+        "summary": "Bank3 suffered a data breach between July 25, 2025, and August 7, 2025, resulting in unauthorized access to sensitive information. The breach affected various types of data, including names, Social Security numbers, driver's licenses, financial account information, and payment card information. A cyberattack was claimed by Qilin on October 13, 2025.",
+        "title": "Data Breach Notification",
+        "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/d075c0d0-ef2e-4509-84e1-b89117782a9a.html",
+        "added": "2026-04-16"
+    },
+    {
         "date": "2025-12-25",
         "victim": "Mullinax Ford of Central Florida",
         "domain": "mullinaxford.com",
