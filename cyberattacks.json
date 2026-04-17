@@ -1,5 +1,25 @@
 [
     {
+        "date": "2025-08-08",
+        "victim": "Markowitz Ringel Trusty & Hartog",
+        "domain": "mrthlaw.com",
+        "country": "USA",
+        "summary": "An unauthorized actor accessed or acquired certain data on August 8, 2025, which included name and Social Security number. The incident was discovered on August 8, 2025, and the organization is notifying affected individuals. A cyberattack was claimed by Akira on September 22, 2025.",
+        "title": "Data Breach Notification",
+        "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/8073dd95-87ba-4af8-ac13-743fbd5c158e.html",
+        "added": "2026-04-17"
+    },
+    {
+        "date": "2026-04-15",
+        "victim": "Clinton County",
+        "domain": "clintoncounty-ia.gov",
+        "country": "USA",
+        "summary": "Le comté de Clinton, dans l'Iowa, a dû mettre une partie de son réseau hors ligne suite à la détection d'une tentative d'intrusion cybernétique. Bien que la cause initiale soit restée incertaine, une analyse médico-légale a confirmé qu'une menace avait été identifiée et contenue précocement grâce aux protocoles de sécurité. Les services essentiels ont été testés et rétablis après la mise en place de mesures de surveillance renforcées.",
+        "title": "Clinton County, Iowa restores systems after attempted cyber intrusion",
+        "url": "https://dysruptionhub.com/clinton-county-possible-cyber-incident/",
+        "added": "2026-04-17"
+    },
+    {
         "date": "2026-04-14",
         "victim": "Corporate Affairs Commission (CAC)",
         "domain": "cac.gov.ng",
