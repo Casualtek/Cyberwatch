@@ -1,5 +1,12 @@
 [
     {
+        "victim": "CONCEPTNET",
+        "domain": "conceptnet.de",
+        "country": "DE",
+        "date": "2026-01-12",
+        "group": "akira"
+    },
+    {
         "victim": "Serap",
         "domain": "groupeserap.com",
         "country": "FR",
