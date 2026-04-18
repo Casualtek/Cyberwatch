@@ -1,5 +1,12 @@
 [
     {
+        "victim": "INP Schweiz",
+        "domain": "inp-e.ch",
+        "country": "CH",
+        "date": "2026-02-25",
+        "group": "akira"
+    },
+    {
         "victim": "Icat Food SpA",
         "domain": "icatfood.it",
         "country": "IT",
