@@ -1,5 +1,15 @@
 [
     {
+        "date": "2026-04-17",
+        "victim": "City of Tallahassee",
+        "domain": "talgov.com",
+        "country": "USA",
+        "summary": "La ville de Tallahassee a été la cible d'une cyberattaque ciblant une partie de son environnement technologique le 17 avril. En réponse, les autorités ont déconnecté certains systèmes et mis le site web hors ligne pour contenir la menace. Selon les responsables municipaux, aucun impact opérationnel majeur n'est à signaler et aucune donnée n'a été compromise lors de cet incident.",
+        "title": "Cyberattack targets city of Tallahassee; official says no data compromised",
+        "url": "https://eu.tallahassee.com/story/news/local/2026/04/17/tallahassee-city-website-down-after-cyberattack/89664260007/",
+        "added": "2026-04-19"
+    },
+    {
         "date": "2025-12-08",
         "victim": "Phoenix Art Museum",
         "domain": "phxart.org",
