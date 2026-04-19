@@ -1,5 +1,15 @@
 [
     {
+        "date": "2026-04-16",
+        "victim": "Hsinchu Logistics",
+        "domain": "hct.com.tw",
+        "country": "TWN",
+        "summary": "L'entreprise Hsinchu Logistics a subi une attaque par ransomware le jeudi 16 avril, entraînant l'arrêt de ses systèmes informatiques et de son site web. Bien qu'une restauration partielle ait été opérée le vendredi suivant, l'organisation a alerté ses clients contre d'éventuelles tentatives de phishing. Cet incident s'inscrit dans un contexte global de vulnérabilités critiques touchant des logiciels comme Microsoft Defender et Fortinet.",
+        "title": "Hsinchu Logistics: Cyberangriff legt Logistikriesen lahm - BornCity",
+        "url": "https://borncity.com/news/hsinchu-logistics-cyberangriff-legt-logistikriesen-lahm/",
+        "added": "2026-04-19"
+    },
+    {
         "date": "2026-04-17",
         "victim": "City of Tallahassee",
         "domain": "talgov.com",
