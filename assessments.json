@@ -1,5 +1,12 @@
 [
     {
+        "victim": "BHS Bau",
+        "domain": "bhs-dresden.de",
+        "country": "DE",
+        "date": "2026-03-18",
+        "group": "akira"
+    },
+    {
         "victim": "Swagelok",
         "domain": "nsfst.co.jp",
         "country": "JP",
