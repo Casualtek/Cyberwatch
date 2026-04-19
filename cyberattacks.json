@@ -1,6 +1,16 @@
 [
     {
         "date": "2026-04-16",
+        "victim": "Temse",
+        "domain": "temse.be",
+        "country": "BEL",
+        "summary": "L'administration communale de Temse a désactivé préventivement ses systèmes informatiques suite à la détection d'irrégularités suggérant une cyberattaque. En collaboration avec le Centre pour la cybersécurité Belgique, la commune limite ses services administratifs jusqu'au mercredi 22 avril. Une enquête est actuellement en cours pour déterminer l'ampleur et la nature exacte de cet incident informatique.",
+        "title": "Une commune désactive ses systèmes informatiques après une cyberattaque",
+        "url": "https://www.lesoir.be/741730/article/2026-04-19/une-commune-desactive-ses-systemes-informatiques-apres-une-cyberattaque",
+        "added": "2026-04-19"
+    },
+    {
+        "date": "2026-04-16",
         "victim": "Hsinchu Logistics",
         "domain": "hct.com.tw",
         "country": "TWN",
