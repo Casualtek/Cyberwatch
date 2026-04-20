@@ -1,5 +1,15 @@
 [
     {
+        "date": "2026-04-20",
+        "victim": "Well Shin Technology Co., Ltd.",
+        "domain": "wellshin.tom.tw",
+        "country": "TWN",
+        "summary": "Well Shin a détecté une cyberattaque ciblant ses systèmes d'information le 20 avril 2026. Les protocoles de sécurité et de récupération ont été immédiatement activés pour protéger les infrastructures. À ce stade, aucune fuite de données personnelles ou impact matériel sur les opérations n'a été constaté.",
+        "title": "Today's Information",
+        "url": "https://emops.twse.com.tw/server-java/t05sr01_1_e?&isNew=Y&seq_no=1&spoke_time=162252&spoke_date=20260420&co_id=3501",
+        "added": "2026-04-20"
+    },
+    {
         "date": "2026-04-19",
         "victim": "Vercel",
         "domain": "vercel.com",
