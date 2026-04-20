@@ -1,5 +1,15 @@
 [
     {
+        "date": "2026-04-19",
+        "victim": "Vercel",
+        "domain": "vercel.com",
+        "country": "USA",
+        "summary": "L'entreprise Vercel a déclaré avoir subi un incident de sécurité impliquant un accès non autorisé à certains de ses systèmes internes. L'attaque a été initiée via la compromission d'un outil tiers, Context.ai, utilisé par un employé, permettant ainsi l'accès à certaines variables d'environnement non marquées comme sensibles. L'attaque a été revendiquée par ShinyHunters.",
+        "title": "Vercel April 2026 security incident | Vercel Knowledge Base",
+        "url": "https://vercel.com/kb/bulletin/vercel-april-2026-security-incident",
+        "added": "2026-04-20"
+    },
+    {
         "date": "2026-04-16",
         "victim": "Temse",
         "domain": "temse.be",
