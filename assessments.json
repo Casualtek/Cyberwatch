@@ -1,5 +1,12 @@
 [
     {
+        "victim": "ripleyacademy.org",
+        "domain": "ripleyacademy.org",
+        "country": "US",
+        "date": "2025-10-22",
+        "group": "incransom"
+    },
+    {
         "victim": "arbd.com",
         "domain": "arbd.com",
         "country": "US",
