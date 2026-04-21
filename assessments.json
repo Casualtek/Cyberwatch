@@ -1,5 +1,12 @@
 [
     {
+        "victim": "arbd.com",
+        "domain": "arbd.com",
+        "country": "US",
+        "date": "2026-03-06",
+        "group": "incransom"
+    },
+    {
         "victim": "primepak.com",
         "domain": "primepak.com",
         "country": "US",
