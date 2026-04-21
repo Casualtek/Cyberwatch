@@ -1,5 +1,12 @@
 [
     {
+        "victim": "adifse.com.ar",
+        "domain": "adifse.com.ar",
+        "country": "AR",
+        "date": "2026-01-09",
+        "group": "safepay"
+    },
+    {
         "victim": "academyhealth.org",
         "domain": "academyhealth.org",
         "country": "US",
