@@ -1,5 +1,12 @@
 [
     {
+        "victim": "ipu.co.il",
+        "domain": "ipu.co.il",
+        "country": "IL",
+        "date": "2025-12-29",
+        "group": "safepay"
+    },
+    {
         "victim": "gsglobalresources.com",
         "domain": "gsglobalresources.com",
         "country": "US",
