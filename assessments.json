@@ -1,5 +1,12 @@
 [
     {
+        "victim": "superiordrywall.com",
+        "domain": "superiordrywall.com",
+        "country": "US",
+        "date": "2026-01-11",
+        "group": "safepay"
+    },
+    {
         "victim": "atadler.com.sg",
         "domain": "atadler.com.sg",
         "country": "SG",
