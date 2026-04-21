@@ -1,5 +1,12 @@
 [
     {
+        "victim": "rehmann.de",
+        "domain": "rehmann.de",
+        "country": "DE",
+        "date": "2025-11-10",
+        "group": "safepay"
+    },
+    {
         "victim": "mactavishco.ca",
         "domain": "mactavishco.ca",
         "country": "CA",
