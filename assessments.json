@@ -1,5 +1,12 @@
 [
     {
+        "victim": "lke-group.com",
+        "domain": "lke-group.com",
+        "country": "DE",
+        "date": "2026-02-04",
+        "group": "incransom"
+    },
+    {
         "victim": "sandiegowarroom.com",
         "domain": "sandiegowarroom.com",
         "country": "US",
