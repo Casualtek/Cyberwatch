@@ -1,5 +1,12 @@
 [
     {
+        "victim": "cityofsignalhill.org",
+        "domain": "cityofsignalhill.org",
+        "country": "US",
+        "date": "2026-11-28",
+        "group": "incransom"
+    },
+    {
         "victim": "wafergrind.com",
         "domain": "wafergrind.com",
         "country": "US",
