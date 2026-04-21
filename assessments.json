@@ -1,5 +1,12 @@
 [
     {
+        "victim": "frazercenter.org",
+        "domain": "frazercenter.org",
+        "country": "US",
+        "date": "2026-03-02",
+        "group": "incransom"
+    },
+    {
         "victim": "ttmet.co.th",
         "domain": "ttmet.co.th",
         "country": "TH",
