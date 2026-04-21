@@ -1,5 +1,12 @@
 [
     {
+        "victim": "morgancountyga.gov",
+        "domain": "morgancountyga.gov",
+        "country": "US",
+        "date": "2026-03-28",
+        "group": "incransom"
+    },
+    {
         "victim": "saturnmachine.net",
         "domain": "saturnmachine.net",
         "country": "US",
