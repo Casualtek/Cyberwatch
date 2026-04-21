@@ -1,5 +1,12 @@
 [
     {
+        "victim": "academyhealth.org",
+        "domain": "academyhealth.org",
+        "country": "US",
+        "date": "2026-03-16",
+        "group": "safepay"
+    },
+    {
         "victim": "dynamichomerepair.com",
         "domain": "dynamichomerepair.com",
         "country": "US",
