@@ -1,5 +1,12 @@
 [
     {
+        "victim": "La Rioja Alta",
+        "domain": "lariojaalta.com",
+        "country": "ES",
+        "date": "2026-01-30",
+        "group": "lynx"
+    },
+    {
         "victim": "cwwcontractors.com",
         "domain": "cwwcontractors.com",
         "country": "US",
