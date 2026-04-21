@@ -1,5 +1,12 @@
 [
     {
+        "victim": "bgcsnv.org",
+        "domain": "bgcsnv.org",
+        "country": "US",
+        "date": "2026-04-02",
+        "group": "incransom"
+    },
+    {
         "victim": "rosemontexpo.com",
         "domain": "rosemontexpo.com",
         "country": "US",
