@@ -1,5 +1,26 @@
 [
     {
+        "victim": "firstcambodia.com.kh",
+        "domain": "firstcambodia.com.kh",
+        "country": "KH",
+        "date": "2026-01-24",
+        "group": "safepay"
+    },
+    {
+        "victim": "cheeky.com.ar",
+        "domain": "cheeky.com.ar",
+        "country": "AR",
+        "date": "2026-02-05",
+        "group": "safepay"
+    },
+    {
+        "victim": "favellefavco.com",
+        "domain": "favellefavco.com",
+        "country": "AU",
+        "date": "2026-02-24",
+        "group": "safepay"
+    },
+    {
         "victim": "teccart.qc.ca",
         "domain": "teccart.qc.ca",
         "country": "CA",
