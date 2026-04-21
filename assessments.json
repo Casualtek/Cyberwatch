@@ -1,5 +1,19 @@
 [
     {
+        "victim": "hohmartin.org",
+        "domain": "hohmartin.org",
+        "country": "US",
+        "date": "2025-11-09",
+        "group": "incransom"
+    },
+    {
+        "victim": "Main Electric Supply Co.",
+        "domain": "mainelectricsupply.com",
+        "country": "US",
+        "date": "2025-07-22",
+        "group": "sinobi"
+    },
+    {
         "victim": "Main Electric Supply Co.",
         "domain": "mainelectricsupply.com",
         "country": "US",
