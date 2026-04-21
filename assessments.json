@@ -1,5 +1,12 @@
 [
     {
+        "victim": "atadler.com.sg",
+        "domain": "atadler.com.sg",
+        "country": "SG",
+        "date": "2026-01-13",
+        "group": "safepay"
+    },
+    {
         "victim": "ripobec.com",
         "domain": "ripobec.com",
         "country": "CA",
