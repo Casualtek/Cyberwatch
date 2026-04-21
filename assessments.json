@@ -1,5 +1,12 @@
 [
     {
+        "victim": "denmark.k12.wi.us",
+        "domain": "denmark.k12.wi.us",
+        "country": "US",
+        "date": "2026-01-29",
+        "group": "incransom"
+    },
+    {
         "victim": "moultriesheriff.com",
         "domain": "moultriesheriff.com",
         "country": "US",
