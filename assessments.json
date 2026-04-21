@@ -1,5 +1,12 @@
 [
     {
+        "victim": "sbws.org.sg",
+        "domain": "sbws.org.sg",
+        "country": "SG",
+        "date": "2025-11-28",
+        "group": "safepay"
+    },
+    {
         "victim": "pellcityschools.net",
         "domain": "pellcityschools.net",
         "country": "US",
