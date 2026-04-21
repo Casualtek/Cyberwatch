@@ -1,5 +1,12 @@
 [
     {
+        "victim": "teccart.qc.ca",
+        "domain": "teccart.qc.ca",
+        "country": "CA",
+        "date": "2025-11-29",
+        "group": "safepay"
+    },
+    {
         "victim": "feldmanandlopez.com",
         "domain": "feldmanandlopez.com",
         "country": "US",
