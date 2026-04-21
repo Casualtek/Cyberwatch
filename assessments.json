@@ -1,5 +1,12 @@
 [
     {
+        "victim": "avrind.com",
+        "domain": "avrind.com",
+        "country": "IL",
+        "date": "2026-10-04",
+        "group": "incransom"
+    },
+    {
         "victim": "csi-ri.com",
         "domain": "csi-ri.com",
         "country": "US",
