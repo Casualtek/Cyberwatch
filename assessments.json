@@ -1,5 +1,12 @@
 [
     {
+        "victim": "rlc.es",
+        "domain": "rlc.es",
+        "country": "ES",
+        "date": "2026-01-14",
+        "group": "safepay"
+    },
+    {
         "victim": "Design To Print",
         "domain": "designtoprint.com",
         "country": "US",
