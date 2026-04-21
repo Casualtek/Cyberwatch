@@ -1,5 +1,12 @@
 [
     {
+        "victim": "onsolve.com",
+        "domain": "onsolve.com",
+        "country": "US",
+        "date": "2025-11-10",
+        "group": "incransom"
+    },
+    {
         "victim": "irpea.it",
         "domain": "irpea.it",
         "country": "IT",
