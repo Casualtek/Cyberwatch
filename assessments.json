@@ -1,5 +1,12 @@
 [
     {
+        "victim": "Central Jersey Medical Center",
+        "domain": "cjmc.us",
+        "country": "US",
+        "date": "2025-08-17",
+        "group": "sinobi"
+    },
+    {
         "victim": "Judson Center",
         "domain": "judsoncenter.org",
         "country": "US",
