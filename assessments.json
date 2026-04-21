@@ -1,5 +1,12 @@
 [
     {
+        "victim": "mactavishco.ca",
+        "domain": "mactavishco.ca",
+        "country": "CA",
+        "date": "2025-11-19",
+        "group": "safepay"
+    },
+    {
         "victim": "sbws.org.sg",
         "domain": "sbws.org.sg",
         "country": "SG",
