@@ -1,5 +1,12 @@
 [
     {
+        "victim": "lampus.com",
+        "domain": "lampus.com",
+        "country": "US",
+        "date": "2025-10-30",
+        "group": "safepay"
+    },
+    {
         "victim": "hmpccpa.com",
         "domain": "hmpccpa.com",
         "country": "US",
