@@ -1,5 +1,12 @@
 [
     {
+        "victim": "abfall-kreis-kassel.de",
+        "domain": "abfall-kreis-kassel.de",
+        "country": "DE",
+        "date": "2026-02-16",
+        "group": "safepay"
+    },
+    {
         "victim": "Select Tool",
         "domain": "selecttool.com",
         "country": "CA",
