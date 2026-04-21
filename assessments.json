@@ -1,5 +1,12 @@
 [
     {
+        "victim": "ripobec.com",
+        "domain": "ripobec.com",
+        "country": "CA",
+        "date": "2026-02-02",
+        "group": "safepay"
+    },
+    {
         "victim": "abfall-kreis-kassel.de",
         "domain": "abfall-kreis-kassel.de",
         "country": "DE",
