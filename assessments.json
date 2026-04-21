@@ -1,5 +1,12 @@
 [
     {
+        "victim": "Keylogistics Chile",
+        "domain": "keylogistics.cl",
+        "country": "CL",
+        "date": "2026-02-11",
+        "group": "lynx"
+    },
+    {
         "victim": "Kivells",
         "domain": "kivells.com",
         "country": "GB",
