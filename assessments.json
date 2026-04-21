@@ -1,5 +1,12 @@
 [
     {
+        "victim": "pau.at",
+        "domain": "pau.at",
+        "country": "AT",
+        "date": "2025-12-21",
+        "group": "safepay"
+    },
+    {
         "victim": "superiordrywall.com",
         "domain": "superiordrywall.com",
         "country": "US",
