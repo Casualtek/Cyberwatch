@@ -1,5 +1,12 @@
 [
     {
+        "victim": "Trionex",
+        "domain": "trionex.qc.ca",
+        "country": "CA",
+        "date": "2025-03-03",
+        "group": "akira"
+    },
+    {
         "victim": "DesignSourceCT",
         "domain": "designsourcect.com",
         "country": "US",
