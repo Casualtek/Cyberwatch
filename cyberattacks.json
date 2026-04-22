@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-08-20",
+        "victim": "Universal Pure",
+        "domain": "universalpure.com",
+        "country": "USA",
+        "summary": "Universal Pure suffered a data breach between July 10, 2024, and August 20, 2024, resulting in unauthorized access to certain computer systems and potential exposure of personal information. The breach was discovered on August 20, 2024. A cyberattack was claimed by Play on August 29, 2024.",
+        "title": "Data Breach Notification",
+        "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/a15ad03a-1638-4a3e-bbf4-f094f3fbb211.html",
+        "added": "2026-04-22"
+    },
+    {
         "date": "2025-10-20",
         "victim": "Basin Harbor",
         "domain": "basinharbor.com",
