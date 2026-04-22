@@ -1,5 +1,15 @@
 [
     {
+        "date": "2026-04-21",
+        "victim": "Nara City Hospital",
+        "domain": "nara-jadecom.jp",
+        "country": "JPN",
+        "summary": "L'hôpital municipal de Nara a suspendu ses services d'urgence et ses consultations externes suite à une cyberattaque présumée. L'incident, détecté le 21 avril par des dispositifs de surveillance réseau, a rendu inutilisables plusieurs systèmes informatiques, dont les dossiers médicaux électroniques. Les autorités locales collaborent actuellement avec la police pour analyser l'historique des données afin d'identifier l'origine de l'attaque.",
+        "title": "病院にサイバー攻撃か 外来と救急停止 奈良（ANNニュース）",
+        "url": "https://www.nagoyatv.com/news/1000/syakai.html?id=000500459",
+        "added": "2026-04-22"
+    },
+    {
         "date": "2026-04-20",
         "victim": "Mile Bluff Medical Center",
         "domain": "milebluff.com",
