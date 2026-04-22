@@ -1,10 +1,60 @@
 [
     {
+        "date": "2025-10-20",
+        "victim": "Basin Harbor",
+        "domain": "basinharbor.com",
+        "country": "USA",
+        "summary": "Basin Harbor Resort suffered a ransomware attack on October 20, 2025, resulting in unauthorized access to personal information. The incident involved the names and Social Security numbers of 21 Maine residents. A cyberattack was claimed by Akira on November 14.",
+        "title": "Data Breach Notification",
+        "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/d3a6a1b1-aa0a-4b73-b733-1d35ce0fc888.html",
+        "added": "2026-04-22"
+    },
+    {
+        "date": "2025-03-18",
+        "victim": "Thornton Township",
+        "domain": "thorntontownship.com",
+        "country": "USA",
+        "summary": "Thornton Township experienced a data security incident where an unknown actor potentially acquired certain files from their network between March 10 to March 18, 2025. The investigation revealed that some personal information was contained within the potentially affected data. The township is offering complimentary credit monitoring and identity theft protection services to affected individuals.",
+        "title": "Data Breach Notification",
+        "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/b6fcf3a9-ae08-4378-9fb1-b7b1111427ad.html",
+        "added": "2026-04-21"
+    },
+    {
+        "date": "2025-10-21",
+        "victim": "Hallisey & D'Agostino, LLP",
+        "domain": "hdllpcpa.com",
+        "country": "USA",
+        "summary": "Hallisey & D'Agostino, LLP experienced a data security incident where an unknown actor gained unauthorized access to their network between September 28, 2025, and October 22, 2025, potentially acquiring personal information. The incident was discovered on October 21, 2025. The firm is offering complimentary identity theft protection services to affected individuals.",
+        "title": "Data Breach Notification",
+        "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/385fc975-ad5f-4530-82f8-93777baa83ed.html",
+        "added": "2026-04-18"
+    },
+    {
+        "date": "2025-04-03",
+        "victim": "Rev Up Brands, LLC dba Revolution Dancewear",
+        "domain": "revolutiondancewear.com",
+        "country": "USA",
+        "summary": "Revolution Dancewear experienced a data security incident where an unauthorized party accessed internal systems from March 16, 2025, to April 3, 2025, potentially impacting personal information. The company is offering complimentary credit monitoring and identity restoration services. No reports of identity fraud or theft have been made.",
+        "title": "Data Breach Notification",
+        "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/59d1d607-17b8-4533-b7c3-e47c15bf8343.html",
+        "added": "2026-04-18"
+    },
+    {
+        "date": "2025-08-07",
+        "victim": "Passco Companies, LLC",
+        "domain": "passco.com",
+        "country": "USA",
+        "summary": "Passco Companies, LLC suffered a data breach on August 7, 2025, where limited information was taken from its environment. The affected information includes name and Social Security number of certain individuals. Passco is providing access to credit monitoring services for 12 months to affected individuals.",
+        "title": "Data Breach Notification",
+        "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/bd53318c-62f6-4145-90a1-b960bd7ba83d.html",
+        "added": "2026-04-18"
+    },
+    {
         "date": "2025-01-25",
         "victim": "Georgia Heritage Financial Credit Union",
         "domain": "gaheritagefcu.org",
         "country": "USA",
-        "summary": "T-Mobile suffered a data breach that exposed sensitive customer information, including Social Security numbers and driver's license numbers. The breach was caused by a malicious third-party actor who gained access to T-Mobile's systems. A cyberattack was claimed by Ransomhub on February 4, 2025.",
+        "summary": "Georgia Heritage Financial Credit Union suffered a data breach that exposed sensitive customer information, including Social Security numbers and driver's license numbers. The breach was caused by a malicious third-party actor who gained access to Georgia Heritage Financial Credit Union's systems. A cyberattack was claimed by Ransomhub on February 4, 2025.",
         "title": "Data Breach Notification",
         "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/7e34d55f-e53c-43cf-b51e-cc62332f2abd.html",
         "added": "2026-04-18"
