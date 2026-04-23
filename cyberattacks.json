@@ -1,5 +1,15 @@
 [
     {
+        "date": "2025-10-28",
+        "victim": "Yau Yat Chuen Garden City Club",
+        "domain": "yycclub.org",
+        "country": "HKG",
+        "summary": "Une enquête de la Commission de la protection de la vie privée a révélé que le club privé Yau Yat Chuen Garden City Club n'a pas pris les mesures nécessaires pour protéger les données de plus de 9 000 personnes lors d'une cyberattaque par rançongiciel. Les failles de sécurité identifiées incluent l'utilisation de logiciels obsolètes, un manque d'authentification et une conservation excessive des données de membres anciens. En réponse à l'avis d'exécution, le club a entrepris de renforcer ses protocoles de cybersécurité et de mettre à jour ses politiques de rétention des données.",
+        "title": "Over 9,000 affected in ransomware attack on club - RTHK",
+        "url": "https://news.rthk.hk/rthk/en/component/k2/1852161-20260423.htm",
+        "added": "2026-04-23"
+    },
+    {
         "date": "2026-02-10",
         "victim": "Auto Auction of New England",
         "domain": "aane.com",
