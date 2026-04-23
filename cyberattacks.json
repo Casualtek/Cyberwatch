@@ -1,5 +1,35 @@
 [
     {
+        "date": "2026-02-10",
+        "victim": "Auto Auction of New England",
+        "domain": "aane.com",
+        "country": "USA",
+        "summary": "AANE a détecté une activité inhabituelle dans son environnement numérique autour du 10 février 2026. Après enquête, l’organisation a conclu que certaines informations avaient pu être copiées par une personne non autorisée. Elle a ensuite examiné l’ensemble des données pour identifier quelles informations sensibles ou personnelles avaient pu être touchées et à qui elles pouvaient appartenir. Cet examen a été terminé le 15 avril 2026. Une cyberattaque a été revendiquée par Play le 19 février.",
+        "title": "Data Breach Notification",
+        "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/1e7d743d-69e0-4c66-a848-80441b89e879.html",
+        "added": "2026-04-23"
+    },
+    {
+        "date": "2025-10-09",
+        "victim": "Law Offices of Alan M. Cohen & Associates LLC (\"AMC\")",
+        "domain": "collections-law.com",
+        "country": "USA",
+        "summary": "A data breach occurred at Law Offices of Alan M. Cohen & Associates LLC between October 1 and October 9, 2025, where an unauthorized individual may have viewed and copied sensitive information. The incident was discovered on October 9, 2025, and the organization is providing credit monitoring services to affected individuals. The breach involved 180 individuals in Rhode Island.",
+        "title": "Data Breach Notification",
+        "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/bdbef0ad-7ee7-42ad-a956-97892ae6e232.html",
+        "added": "2026-04-23"
+    },
+    {
+        "date": "2025-01-26",
+        "victim": "Laurel Eye Clinic",
+        "domain": "laureleye.com",
+        "country": "USA",
+        "summary": "Laurel Eye Clinic suffered a data breach in January 2025, where an unauthorized user obtained certain files. The breach may have exposed financial account numbers and names of 22 Maine residents. The clinic is offering complimentary credit monitoring services to affected individuals.",
+        "title": "Data Breach Notification",
+        "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/73d0db90-0bf4-4fa6-b551-3d73482368ea.html",
+        "added": "2026-04-23"
+    },
+    {
         "date": "2026-02-18",
         "victim": "Orange, Virginia",
         "domain": "townoforangeva.gov",
