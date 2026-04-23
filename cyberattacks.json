@@ -1,5 +1,15 @@
 [
     {
+        "date": "2026-02-18",
+        "victim": "Orange, Virginia",
+        "domain": "townoforangeva.gov",
+        "country": "USA",
+        "summary": "La ville d'Orange, en Virginie, a subi une panne technologique majeure en février qui a entraîné la fermeture de plusieurs bureaux municipaux pendant trois jours. Environ deux semaines plus tard, le groupe de ransomware LockBit a répertorié le domaine de la ville sur son site de fuites, sans que l'administration n'ait officiellement confirmé un cyberattaquant. Bien que la chronologie soit cohérente avec une attaque par rançongiciel, les autorités locales n'ont pas encore clarifié si la panne était liée à une compromission de données.",
+        "title": "Orange, Virginia outage preceded LockBit claim",
+        "url": "https://dysruptionhub.com/orange-va-outage-lockbit-post/",
+        "added": "2026-04-23"
+    },
+    {
         "date": "2024-08-20",
         "victim": "Universal Pure",
         "domain": "universalpure.com",
