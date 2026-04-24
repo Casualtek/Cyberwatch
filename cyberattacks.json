@@ -1,5 +1,15 @@
 [
     {
+        "date": "2026-04-13",
+        "victim": "Itron, Inc.",
+        "domain": "itron.com",
+        "country": "USA",
+        "summary": "Le 13 avril 2026, Itron, Inc. a été notifiée d'un accès non autorisé à certains de ses systèmes par un tiers malveillant. L'entreprise a immédiatement activé son plan de réponse en cybersécurité, menant une enquête et informant les autorités compétentes. Bien que l'incident ait été contenu sans impact matériel sur ses opérations, Itron évalue actuellement les obligations réglementaires potentielles.",
+        "title": "8-K",
+        "url": "https://www.sec.gov/Archives/edgar/data/780571/000119312526175249/d125229d8k.htm",
+        "added": "2026-04-24"
+    },
+    {
         "date": "2026-02-11",
         "victim": "Sagent Pharmaceuticals",
         "domain": "sagentpharma.com",
