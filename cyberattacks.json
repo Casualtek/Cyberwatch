@@ -1,5 +1,15 @@
 [
     {
+        "date": "2026-02-11",
+        "victim": "Sagent Pharmaceuticals",
+        "domain": "sagentpharma.com",
+        "country": "USA",
+        "summary": "Sagent Pharmaceuticals experienced unauthorized access to their network on or around February 11, 2026, potentially exposing personal information including Social Security numbers, driver's license numbers, bank account information, and health insurance policy information. A cyberattack was claimed by Worldleaks on March 8.",
+        "title": "Data Breach Notification",
+        "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/d39f4455-1236-43fd-8ab9-fed81121fef7.html",
+        "added": "2026-04-24"
+    },
+    {
         "date": "2025-10-28",
         "victim": "Yau Yat Chuen Garden City Club",
         "domain": "yycclub.org",
