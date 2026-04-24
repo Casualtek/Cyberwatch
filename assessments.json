@@ -1,5 +1,19 @@
 [
     {
+        "victim": "Ecofit",
+        "domain": "ecofit.com",
+        "country": "FR",
+        "date": "2026-02-11",
+        "group": "akira"
+    },
+    {
+        "victim": "GeoMechanics Technologies",
+        "domain": "geo-echanics.com",
+        "country": "US",
+        "date": "2025-12-04",
+        "group": "akira"
+    },
+    {
         "victim": "alupco.com",
         "domain": "alupco.com",
         "country": "SA",
