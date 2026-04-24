@@ -1,5 +1,12 @@
 [
     {
+        "victim": "alupco.com",
+        "domain": "alupco.com",
+        "country": "SA",
+        "date": "2026-04-13",
+        "group": "incransom"
+    },
+    {
         "victim": "bclawoffices.com",
         "domain": "bclawoffices.com",
         "country": "US",
