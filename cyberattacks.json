@@ -1,5 +1,15 @@
 [
     {
+        "date": "2024-02-25",
+        "victim": "Suffolk",
+        "domain": "suffolkva.us",
+        "country": "USA",
+        "summary": "La ville de Suffolk a été victime d'une cyberattaque, signalée par la Cybersecurity and Infrastructure Security Agency le 25 février, où un acteur malveillant a pu potentiellement exfiltrer des données de son réseau. L'enquête, toujours en cours, a révélé que l'attaquant tentait d'utiliser un rançongiciel avant que la menace ne soit détectée et bloquée. Bien qu'aucune donnée spécifique n'ait été confirmée, il est possible que des informations personnelles identifiables aient été consultées.",
+        "title": "City of Suffolk victim of cybersecurity attack",
+        "url": "https://www.pilotonline.com/2026/04/24/city-of-suffolk-victim-of-cybersecurity-attack/",
+        "added": "2026-04-25"
+    },
+    {
         "date": "2026-04-13",
         "victim": "Itron, Inc.",
         "domain": "itron.com",
