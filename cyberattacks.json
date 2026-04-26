@@ -1,5 +1,25 @@
 [
     {
+        "date": "2025-11-05",
+        "victim": "Columbia Medical Practice",
+        "domain": "cmpractice.com",
+        "country": "USA",
+        "summary": "An unknown cyber actor accessed a portion of Columbia Medical Practice's computer network and installed a computer virus to lock files on computer systems, copying files that included names and Social Security numbers. The breach was discovered on November 5, 2025. A cyberattack was claimed by Qilin on November 25.",
+        "title": "Data Breach Notification",
+        "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/78eb57c4-a3d1-4ab8-95de-385f536c0e3c.html",
+        "added": "2026-04-25"
+    },
+    {
+        "date": "2025-11-29",
+        "victim": "Florida Physician Specialists",
+        "domain": "floridaphysicians.com",
+        "country": "USA",
+        "summary": "Florida Physician Specialists experienced unauthorized access to their network between November 27, 2025, and November 29, 2025, potentially exposing personal information.",
+        "title": "Data Breach Notification",
+        "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/f69c9266-6168-4e29-9bd2-1ee0920d57f3.html",
+        "added": "2026-04-26"
+    },
+    {
         "date": "2026-04-20",
         "victim": "ADT",
         "domain": "adt.com",
