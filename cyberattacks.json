@@ -1,5 +1,15 @@
 [
     {
+        "date": "2026-04-20",
+        "victim": "ADT",
+        "domain": "adt.com",
+        "country": "USA",
+        "summary": "L'entreprise de sécurité ADT a confirmé une violation de données suite à des menaces d'extorsion du groupe ShinyHunters, après avoir détecté un accès non autorisé le 20 avril.",
+        "title": "ADT confirms data breach after ShinyHunters leak threat",
+        "url": "https://www.bleepingcomputer.com/news/security/adt-confirms-data-breach-after-shinyhunters-leak-threat/",
+        "added": "2026-04-26"
+    },
+    {
         "date": "2024-02-25",
         "victim": "Suffolk",
         "domain": "suffolkva.us",
