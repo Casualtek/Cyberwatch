@@ -13,7 +13,7 @@ import extract_pdf
 logger = logging.getLogger(__name__)
 
 class NewHampshireConfig:
-    API_URL = "https://www.doj.nh.gov/content/api/documents?q=%40field_document_category%7C%3D%7C2146%40field_document_purpose%7CCONTAINS%7C5996&textsearch=&sort=field_date_posted%7Cdesc%7CALLOW_NULLS&iterate_nodes=true&filter_mode=INCLUSIVE&type=document&page=1&size=25"
+    API_URL = "https://www.doj.nh.gov/content/api/documents?iterate_nodes=true&q=%40field_document_category%7C%3D%7C2146&textsearch=&sort=field_date_posted%7Cdesc%7CALLOW_NULLS&filter_mode=inclusive&type=document&page=1&size=25"
     BASE_URL = "https://www.doj.nh.gov"
     STATE_NAME = "New Hampshire"
     
