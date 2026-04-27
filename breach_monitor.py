@@ -39,20 +39,25 @@ def fetch_webpage(url):
         return None
 
 def load_cyberattacks_json():
-    """Load the local cyberattacks.json file"""
+    """Load the local cyberattacks.json file.
+    
+    Returns an empty list if the file does not exist (first run).
+    Raises an exception if the file is corrupt or unreadable to prevent
+    false positives where all breaches would appear as new.
+    """
+    if not os.path.exists(CYBERATTACKS_JSON_FILE):
+        logger.warning(f"Local {CYBERATTACKS_JSON_FILE} not found, returning empty list")
+        return []
+    
     try:
-        if not os.path.exists(CYBERATTACKS_JSON_FILE):
-            logger.warning(f"Local {CYBERATTACKS_JSON_FILE} not found, returning empty list")
-            return []
-            
         with open(CYBERATTACKS_JSON_FILE, 'r', encoding='utf-8') as f:
             return json.load(f)
     except json.JSONDecodeError as e:
-        logger.error(f"Error parsing {CYBERATTACKS_JSON_FILE}: {e}")
-        return []
+        logger.critical(f"CRITICAL: {CYBERATTACKS_JSON_FILE} is corrupt and cannot be parsed: {e}")
+        raise
     except Exception as e:
-        logger.error(f"Error loading {CYBERATTACKS_JSON_FILE}: {e}")
-        return []
+        logger.critical(f"CRITICAL: Cannot read {CYBERATTACKS_JSON_FILE}: {e}")
+        raise
 
 def check_existing_urls(cyberattacks_data, notification_url):
     """Check if notification URL already exists in cyberattacks.json"""
@@ -65,9 +70,16 @@ def check_existing_urls(cyberattacks_data, notification_url):
                 return True
     return False
 
-def save_notification_to_file(notification, state_name, filename=None):
-    """Save a single notification to JSON file, appending to existing data"""
+def save_notification_to_file(notifications, state_name, filename=None):
+    """Save one or more notifications to JSON file, appending to existing data.
+    
+    Accepts a single dict or a list of dicts.
+    """
     try:
+        # Normalize to list
+        if isinstance(notifications, dict):
+            notifications = [notifications]
+        
         # Generate state-specific filename if not provided
         if filename is None:
             filename = f'new_notification_{state_name.lower()}.json'
@@ -84,8 +96,8 @@ def save_notification_to_file(notification, state_name, filename=None):
                 logger.warning(f"Error reading existing {filename}, starting fresh: {e}")
                 existing_notifications = []
         
-        # Append new notification
-        existing_notifications.append(notification)
+        # Append new notifications
+        existing_notifications.extend(notifications)
         
         # Save updated list
         with open(filename, 'w', encoding='utf-8') as f:
@@ -133,24 +145,28 @@ def send_telegram_notification(new_notifications, state_name, telegram_prefix):
         
         response = requests.post(telegram_url, json=payload, timeout=30)
         response.raise_for_status()
+        logger.info("Telegram text message sent successfully")
         
         # Send JSON data as a document
         json_filename = f"new_notifications_{state_name.lower()}.json"
         json_content = json.dumps(new_notifications, ensure_ascii=False, indent=4)
         
         document_url = f"https://api.telegram.org/bot{bot_token}/sendDocument"
-        files = {
-            'document': (json_filename, json_content.encode('utf-8'), 'application/json')
-        }
-        data = {
-            'chat_id': chat_id,
-            'caption': f"JSON data for {len(new_notifications)} new breach notifications from {state_name.title()}"
-        }
+        try:
+            files = {
+                'document': (json_filename, json_content.encode('utf-8'), 'application/json')
+            }
+            data = {
+                'chat_id': chat_id,
+                'caption': f"JSON data for {len(new_notifications)} new breach notifications from {state_name.title()}"
+            }
+            
+            doc_response = requests.post(document_url, files=files, data=data, timeout=30)
+            doc_response.raise_for_status()
+            logger.info("Telegram JSON document sent successfully")
+        except Exception as e:
+            logger.warning(f"Telegram text message was sent but document upload failed: {e}")
         
-        doc_response = requests.post(document_url, files=files, data=data, timeout=30)
-        doc_response.raise_for_status()
-        
-        logger.info("Successfully sent Telegram notification with JSON document")
         return True
         
     except Exception as e:
@@ -259,20 +275,27 @@ def process_vermont_rss(state_config):
         new_breaches += 1
         
         logger.info(f"Processing link: {link}")
-        # Use state-specific processing
-        extracted_data = state_config.process_breach(item, fetch_webpage)
-        if extracted_data:
-            logger.info(f"Successfully processed new breach: {title}")
-            new_notifications.append(extracted_data)
-        else:
-            logger.info(f"No data extracted for {title} (likely filtered out or error)")
+        try:
+            extracted_data = state_config.process_breach(item, fetch_webpage)
+            if extracted_data:
+                logger.info(f"Successfully processed new breach: {title}")
+                new_notifications.append(extracted_data)
+            else:
+                logger.info(f"No data extracted for {title} (likely filtered out or error)")
+        except Exception as e:
+            logger.error(f"Error processing breach '{title}': {e}", exc_info=True)
     
-    # Send Telegram notification if there are new notifications
+    # Save and send notifications if there are new ones
     if new_notifications:
+        logger.info(f"Saving {len(new_notifications)} new notifications locally")
+        save_notification_to_file(new_notifications, state_config.STATE_NAME)
+        
         logger.info("Sending Telegram notification")
         telegram_prefix = state_config.get_telegram_message_prefix()
-        send_telegram_notification(new_notifications, state_config.STATE_NAME, telegram_prefix)
-        logger.info(f"Processing complete. All {len(new_notifications)} notifications have been sent via Telegram")
+        if send_telegram_notification(new_notifications, state_config.STATE_NAME, telegram_prefix):
+            logger.info(f"Processing complete. All {len(new_notifications)} notifications have been sent via Telegram")
+        else:
+            logger.warning("Telegram notification failed, but notifications were saved locally")
     else:
         logger.info("No new notifications found")
     
@@ -329,20 +352,27 @@ def process_newhampshire_json(state_config):
         new_breaches += 1
         
         logger.info(f"Processing PDF: {pdf_url}")
-        # Use state-specific processing
-        extracted_data = state_config.process_breach(item, fetch_webpage)
-        if extracted_data:
-            logger.info(f"Successfully processed new breach: {title}")
-            new_notifications.append(extracted_data)
-        else:
-            logger.info(f"No data extracted for {title} (likely filtered out or error)")
+        try:
+            extracted_data = state_config.process_breach(item, fetch_webpage)
+            if extracted_data:
+                logger.info(f"Successfully processed new breach: {title}")
+                new_notifications.append(extracted_data)
+            else:
+                logger.info(f"No data extracted for {title} (likely filtered out or error)")
+        except Exception as e:
+            logger.error(f"Error processing breach '{title}': {e}", exc_info=True)
     
-    # Send Telegram notification if there are new notifications
+    # Save and send notifications if there are new ones
     if new_notifications:
+        logger.info(f"Saving {len(new_notifications)} new notifications locally")
+        save_notification_to_file(new_notifications, state_config.STATE_NAME)
+        
         logger.info("Sending Telegram notification")
         telegram_prefix = state_config.get_telegram_message_prefix()
-        send_telegram_notification(new_notifications, state_config.STATE_NAME, telegram_prefix)
-        logger.info(f"Processing complete. All {len(new_notifications)} notifications have been sent via Telegram")
+        if send_telegram_notification(new_notifications, state_config.STATE_NAME, telegram_prefix):
+            logger.info(f"Processing complete. All {len(new_notifications)} notifications have been sent via Telegram")
+        else:
+            logger.warning("Telegram notification failed, but notifications were saved locally")
     else:
         logger.info("No new notifications found")
     
@@ -415,20 +445,27 @@ def process_html_table_state(state_config, state_name):
         new_breaches += 1
         
         logger.info(f"Processing link: {full_url}")
-        # Use state-specific processing
-        extracted_data = state_config.process_breach(full_url, fetch_webpage)
-        if extracted_data:
-            logger.info(f"Successfully processed new breach: {org_name}")
-            new_notifications.append(extracted_data)
-        else:
-            logger.info(f"No data extracted for {org_name} (likely filtered out or error)")
+        try:
+            extracted_data = state_config.process_breach(full_url, fetch_webpage)
+            if extracted_data:
+                logger.info(f"Successfully processed new breach: {org_name}")
+                new_notifications.append(extracted_data)
+            else:
+                logger.info(f"No data extracted for {org_name} (likely filtered out or error)")
+        except Exception as e:
+            logger.error(f"Error processing breach '{org_name}': {e}", exc_info=True)
     
-    # Send Telegram notification if there are new notifications
+    # Save and send notifications if there are new ones
     if new_notifications:
+        logger.info(f"Saving {len(new_notifications)} new notifications locally")
+        save_notification_to_file(new_notifications, state_config.STATE_NAME)
+        
         logger.info("Sending Telegram notification")
         telegram_prefix = state_config.get_telegram_message_prefix()
-        send_telegram_notification(new_notifications, state_config.STATE_NAME, telegram_prefix)
-        logger.info(f"Processing complete. All {len(new_notifications)} notifications have been sent via Telegram")
+        if send_telegram_notification(new_notifications, state_config.STATE_NAME, telegram_prefix):
+            logger.info(f"Processing complete. All {len(new_notifications)} notifications have been sent via Telegram")
+        else:
+            logger.warning("Telegram notification failed, but notifications were saved locally")
     else:
         logger.info("No new notifications found")
     
