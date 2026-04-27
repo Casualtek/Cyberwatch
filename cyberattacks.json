@@ -1,5 +1,15 @@
 [
     {
+        "date": "2026-04-26",
+        "victim": "Murata Manufacturing Co.",
+        "domain": "murata.com",
+        "country": "JPN",
+        "summary": "Murata Manufacturing Co. a annoncé avoir subi un accès non autorisé à son environnement informatique, bien que ses opérations courantes ne soient pas affectées. Environ 73 000 dossiers d'employés et 15 000 dossiers de clients ou partenaires ont pu être compromis, incluant des données personnelles et professionnelles. La société travaille avec les autorités et des experts en cybersécurité pour surveiller les risques et renforcer ses mesures de sécurité.",
+        "title": "Murata Details Data Exposure but Says Operations Unaffected After Cyberattack - TipRanks.com",
+        "url": "https://www.tipranks.com/news/company-announcements/murata-details-data-exposure-but-says-operations-unaffected-after-cyberattack",
+        "added": "2026-04-27"
+    },
+    {
         "date": "2026-04-13",
         "victim": "Harrison County",
         "domain": "harrisoncountywv.com",
