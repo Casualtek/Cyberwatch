@@ -1,5 +1,15 @@
 [
     {
+        "date": "2026-04-24",
+        "victim": "Medtronic plc",
+        "domain": "medtronic.com",
+        "country": "USA",
+        "summary": "Medtronic plc a annoncé qu'un tiers non autorisé avait accédé à des données de certains de ses systèmes informatiques le 24 avril 2026. L'entreprise a immédiatement pris des mesures pour contenir l'incident et a engagé des experts externes pour mener son enquête. À ce stade, Medtronic n'a identifié aucun impact sur ses produits, la sécurité des patients ou ses opérations financières, et ne prévoit pas d'impact matériel sur son activité.",
+        "title": null,
+        "url": "https://app.quotemedia.com/data/downloadFiling?webmasterId=101533&ref=319979674&type=HTML&symbol=MDT&cdn=83dd8d0bda390cc08b7e0796ad099fb8&companyName=Medtronic+plc.&formType=8-K&dateFiled=2026-04-27",
+        "added": "2026-04-27"
+    },
+    {
         "date": "2026-04-26",
         "victim": "Generation Development Group (GDG)",
         "domain": "genlife.com.au",
