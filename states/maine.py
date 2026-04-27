@@ -152,7 +152,7 @@ class MaineConfig:
                 
             # Check if breach description matches the filter criteria
             breach_description = details.get('breach_description', '')
-            if breach_description != 'External system breach (hacking)':
+            if breach_description.lower() != 'external system breach (hacking)':
                 logger.info(f"Skipping notification - breach description is '{breach_description}', not 'External system breach (hacking)'")
                 return None
                 
