@@ -26,9 +26,9 @@ class IowaConfig:
         """Parse the Iowa breach notification table"""
         soup = BeautifulSoup(html_content, 'html.parser')
         
-        # Calculate yesterday's date (day before execution) in M-DD-YYYY format
+        # Calculate yesterday's date (day before execution) in M-DD-YYYY format (no leading zeros)
         yesterday = datetime.now() - timedelta(days=1)
-        yesterday_str = yesterday.strftime('%-m-%-d-%Y')  # Remove leading zeros
+        yesterday_str = f"{yesterday.month}-{yesterday.day}-{yesterday.year}"
         logger.info(f"Filtering notifications for date: {yesterday_str}")
         
         # Find the table (there should be only one)
