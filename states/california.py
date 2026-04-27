@@ -91,6 +91,7 @@ class CaliforniaConfig:
                 
                 if org_name and reported_date_text and full_link:
                     breaches.append({
+                        'date': reported_date_text,
                         'organization': org_name,
                         'breach_dates': breach_dates,
                         'reported_date': reported_date_text,
