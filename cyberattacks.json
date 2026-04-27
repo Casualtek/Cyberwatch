@@ -1,6 +1,16 @@
 [
     {
         "date": "2026-04-26",
+        "victim": "Generation Development Group (GDG)",
+        "domain": "genlife.com.au",
+        "country": "AUS",
+        "summary": "Generation Development Group (GDG) a informé ses actionnaires d'un incident de cybersécurité contenu affectant sa filiale, Generation Life, suite à un accès non autorisé via un fournisseur tiers. L'entreprise a rapidement détecté et maîtrisé l'incident, sans preuve d'impact sur les systèmes principaux ou de transactions frauduleuses. GDG a notifié plusieurs organismes australiens, y compris APRA et l'ACSC, tout en menant une enquête approfondie sur la nature de cette activité.",
+        "title": "Generation Life suffers cyber incident - Money Management",
+        "url": "https://www.moneymanagement.com.au/generation-life-suffers-cyber-incident/",
+        "added": "2026-04-27"
+    },
+    {
+        "date": "2026-04-26",
         "victim": "Murata Manufacturing Co.",
         "domain": "murata.com",
         "country": "JPN",
