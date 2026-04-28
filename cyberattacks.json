@@ -1,5 +1,15 @@
 [
     {
+        "date": "2026-04-17",
+        "victim": "Pricon Microelectronics, Inc.",
+        "domain": "picron.com.ph",
+        "country": "PHL",
+        "summary": "Yamaichi Electronics Co., Ltd., l'un des principaux fabricants de composants électroniques, a annoncé le 22 avril 2026 qu'une attaque par ransomware avait touché certains serveurs de sa filiale philippine, Pricon Microelectronics, Inc. À l'heure actuelle, la société travaille en collaboration avec des experts externes afin de sécuriser les systèmes affectés et de procéder à leur restauration. L'impact de cet incident sur ses résultats financiers fait actuellement l'objet d'une analyse approfondie, et la société a indiqué qu'elle communiquerait sans délai toute information supplémentaire dès qu'elle serait disponible.",
+        "title": "山一電機、海外子会社でランサムウェアの被害|セキュリティニュースのセキュリティ対策Lab",
+        "url": "https://rocket-boys.co.jp/security-measures-lab/yamaichi-electronics-overseas-subsidiary-ransomware/",
+        "added": "2026-04-28"
+    },
+    {
         "date": "2024-04-07",
         "victim": "株式会社マムクリエイト",
         "domain": "m-create.com",
