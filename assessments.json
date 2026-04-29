@@ -1,5 +1,12 @@
 [
     {
+        "victim": "fraper.com",
+        "domain": "fraper.com",
+        "country": "ES",
+        "date": "2026-04-03",
+        "group": "krybit"
+    },
+    {
         "victim": "bisonfamilymedical.com",
         "domain": "bisonfamilymedical.com",
         "country": "US",
