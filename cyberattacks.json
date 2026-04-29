@@ -1,5 +1,15 @@
 [
     {
+        "date": "2025-05-02",
+        "victim": "Sandhills Medical Foundation",
+        "domain": "sandhillsmedical.org",
+        "country": "USA",
+        "summary": "Sandhills Medical Foundation, Inc. suffered a ransomware attack on May 8, 2025, resulting in unauthorized access to patient personal information. The incident may have involved social security numbers, driver licenses, dates of birth, government-issued identification, passports, and personal health information. A cyberattack was claimed by INC Ransom on June 3.",
+        "title": "Data Breach Notification",
+        "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/e36cacd3-3e26-4bed-be5b-45965f2326cb.html",
+        "added": "2026-04-29"
+    },
+    {
         "date": "2026-01-19",
         "victim": "JC Resorts",
         "domain": "jcresorts.com",
