@@ -1,5 +1,15 @@
 [
     {
+        "date": "2026-04-28",
+        "victim": "Cherry Health",
+        "domain": "cherryhealth.org",
+        "country": "USA",
+        "summary": "Cherry Health, un prestataire de soins de santé basé à Grand Rapids, Michigan, traverse actuellement une panne technologique généralisée affectant son système téléphonique, soulevant des soupçons d'incident de cybersécurité. Bien que les cliniques restent ouvertes pour les rendez-vous planifiés, l'organisation n'a pas confirmé publiquement si des données de patients ont été compromises. Cette perturbation survient après un incident de rançongiciel signalé fin 2023, et l'entreprise n'a pas précisé la cause actuelle de la panne.",
+        "title": "Cherry Health outage in Michigan investigated as possible cyberattack",
+        "url": "https://dysruptionhub.com/cherry-health-cyberattack-michigan/",
+        "added": "2026-04-28"
+    },
+    {
         "date": "2026-04-17",
         "victim": "Pricon Microelectronics, Inc.",
         "domain": "picron.com.ph",
