@@ -1,5 +1,12 @@
 [
     {
+        "victim": "rhode-hv.de",
+        "domain": "rhode-hv.de",
+        "country": "DE",
+        "date": "2026-04-16",
+        "group": "krybit"
+    },
+    {
         "victim": "putzbaer.berlin",
         "domain": "putzbaer.berlin",
         "country": "DE",
