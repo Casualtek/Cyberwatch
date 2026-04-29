@@ -1,5 +1,12 @@
 [
     {
+        "victim": "conrepsa.ro",
+        "domain": "conrepsa.ro",
+        "country": "RO",
+        "date": "2026-04-10",
+        "group": "krybit"
+    },
+    {
         "victim": "megasurf.co.za",
         "domain": "megasurf.co.za",
         "country": "ZA",
