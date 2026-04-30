@@ -1,6 +1,16 @@
 [
     {
         "added": "2026-04-30",
+        "country": "AUT",
+        "date": "2026-04-29",
+        "domain": "hakip-bruck.at",
+        "summary": "Le centre scolaire B3 à Bruck an der Mur a été victime d'une cyberattaque, entraînant des tentatives de rançongiciel. Les attaquants exigent une somme d'argent sous peine de divulguer des données sensibles. La direction éducative du Styrie refuse catégoriquement toute négociation avec les pirates.",
+        "title": "Hackerangriff an Schulzentrum: Erpresser fordern Lösegeld",
+        "url": "https://www.kleinezeitung.at/artikel/21216118/hackerangriff-an-steirischem-schulzentrum-auf-erpressung-gehen-wir-ein",
+        "victim": "steirische Bildungsdirektion"
+    },
+    {
+        "added": "2026-04-30",
         "country": "USA",
         "date": "2026-04-17",
         "domain": "adamscountyms.net",
