@@ -1,6 +1,16 @@
 [
     {
         "date": "2026-04-21",
+        "victim": "Clinique Ambroise-Paré",
+        "domain": "clinique-beuvry.fr",
+        "country": "FRA",
+        "summary": "La clinique Ambroise-Paré, située à Beuvry, a subi une cyberattaque le 21 avril. Cette attaque a affecté des systèmes d'information cruciaux de l'établissement, y compris le logiciel de gestion des dossiers patients et son réseau informatique. L'impact précis sur l'établissement, en place depuis 2002, reste à déterminer selon les informations disponibles.",
+        "title": "Une cyberattaque contre la clinique Ambroise-Paré à Beuvry",
+        "url": "https://www.lavoixdunord.fr/1699060/article/2026-04-30/une-cyberattaque-contre-la-clinique-ambroise-pare-beuvry",
+        "added": "2026-04-30"
+    },
+    {
+        "date": "2026-04-21",
         "victim": "B&G Foundation",
         "domain": "bgf.or.jp",
         "country": "JPN",
