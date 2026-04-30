@@ -1,5 +1,15 @@
 [
     {
+        "added": "2026-04-30",
+        "country": "USA",
+        "date": "2026-04-17",
+        "domain": "adamscountyms.net",
+        "summary": "Les bureaux du comté d'Adams ont été paralysés pendant plus d'une semaine suite à une attaque par rançongiciel, empêchant toute activité en ligne et la collecte de paiements. Pour rétablir les services, une refonte complète du système informatique a été commandée pour un coût dépassant 250 000 dollars. Le FBI enquête sur cette intrusion, qui a exploité une vulnérabilité dans un ordinateur fonctionnant sous Windows 7 obsolète.",
+        "title": "Cyber attack shuts down Adams County servers; Week-long restoration ef...",
+        "url": "https://www.natchezdemocrat.com/news/cyber-attack-shuts-down-adams-county-servers-week-long-restoration-effort-continues-45c565af",
+        "victim": "Adams County"
+    },
+    {
         "date": "2026-04-28",
         "victim": "Rural Municipality of Gimli",
         "domain": "gimli.ca",
