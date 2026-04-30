@@ -1,5 +1,15 @@
 [
     {
+        "date": "2026-04-21",
+        "victim": "B&G Foundation",
+        "domain": "bgf.or.jp",
+        "country": "JPN",
+        "summary": "La Fondation B&G, organisme d'intérêt public, a annoncé le 27 avril 2026 que ses serveurs avaient été victimes d'une attaque de logiciels malveillants, provoquant une panne du système. À l'heure actuelle, aucune fuite de données personnelles ou d'informations confidentielles vers l'extérieur n'a été constatée, mais la fondation accorde la priorité absolue à l'identification des causes et à la remise en état du système. La fondation soutient 453 centres maritimes B&G à travers le pays et détient des informations concernant un large éventail de collectivités locales et de responsables d'établissements.",
+        "title": "公益財団法人B&G財団、サーバーへのマルウェア攻撃によるシステム障害|セキュリティニュースのセキュリティ対策Lab",
+        "url": "https://rocket-boys.co.jp/security-measures-lab/bg-foundation-server-malware-attack-system-failure/",
+        "added": "2026-04-30"
+    },
+    {
         "date": "2026-04-08",
         "victim": "City of Ardmore",
         "domain": "ardmorecity.org",
