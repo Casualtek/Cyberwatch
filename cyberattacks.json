@@ -1,5 +1,15 @@
 [
     {
+        "date": "2026-05-01",
+        "victim": "Instructure",
+        "domain": "instructure.com",
+        "country": "USA",
+        "summary": "Instructure, développeur de la plateforme Canvas, a annoncé avoir subi un incident de cybersécurité et mène actuellement une enquête avec l'aide d'experts externes. L'entreprise s'engage à maintenir la transparence tout en travaillant rapidement pour minimiser l'impact de cette attaque perpétrée par un acteur malveillant. Des services, dont Canvas Data 2 et Canvas Beta, sont actuellement en maintenance depuis le 1er mai, bien que le lien avec l'incident ne soit pas confirmé.",
+        "title": "Edu tech firm Instructure discloses cyber incident, probes impact",
+        "url": "https://www.bleepingcomputer.com/news/security/edu-tech-firm-instructure-discloses-cyber-incident-probes-impact/",
+        "added": "2026-05-04"
+    },
+    {
         "date": "2026-04-29",
         "victim": "Columbia Surgical Partners",
         "domain": "columbiasurgicalpartners.com",
