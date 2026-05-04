@@ -1,5 +1,15 @@
 [
     {
+        "date": "2025-09-20",
+        "victim": "Hematology Oncology Consultants",
+        "domain": "hocpc.com",
+        "country": "USA",
+        "summary": "Hematology Oncology Consultants, une clinique médicale spécialisée en oncologie et maladies du sang, a subi une violation de données suite à une attaque par rançongiciel. Cette cyberattaque, dont la responsabilité a été revendiquée par le groupe Rhysida, a exposé des informations sensibles telles que des noms, des numéros de sécurité sociale et des dossiers médicaux. L'organisation a pris des mesures pour sécuriser son environnement numérique après avoir découvert la compromission des données en février 2026.",
+        "title": "Hematology Oncology Consultants Data Breach: Social Security Numbers Compromised",
+        "url": "https://www.claimdepot.com/data-breach/hematology-oncology-consultants-2026",
+        "added": "2026-05-04"
+    },
+    {
         "date": "2026-01-15",
         "victim": "McKay",
         "domain": "mckay.co.nz",
