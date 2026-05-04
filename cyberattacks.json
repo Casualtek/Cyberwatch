@@ -1,6 +1,16 @@
 [
     {
         "date": "2026-05-01",
+        "victim": "Hochschule Emden/Leer",
+        "domain": "hs-emden-leer.de",
+        "country": "DEU",
+        "summary": "La Hochschule Emden/Leer a été victime d'une nouvelle cyberattaque le 1er mai 2026, qui a entraîné l'arrêt préventif des services informatiques centraux et la perturbation du site web. Bien que les systèmes aient été rapidement contenus sans perte de données rapportée, le fonctionnement des cours se poursuit en présentiel. L'établissement a mis en place un point d'information pour les étudiants et travaille à une restauration progressive des services.",
+        "title": "Hochschule Emden/Leer schaltet nach Cyberangriff zentrale IT-Dienste ab",
+        "url": "https://www.noz.de/lokales/rheiderland/regional/artikel/cyberangriff-auf-hochschule-emdenleer-it-teils-offline-50594356",
+        "added": "2026-05-04"
+    },
+    {
+        "date": "2026-05-01",
         "victim": "Instructure",
         "domain": "instructure.com",
         "country": "USA",
