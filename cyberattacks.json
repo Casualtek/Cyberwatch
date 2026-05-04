@@ -1,5 +1,15 @@
 [
     {
+        "date": "2026-01-15",
+        "victim": "McKay",
+        "domain": "mckay.co.nz",
+        "country": "NZL",
+        "summary": "La société McKay, un important entrepreneur électrique basé à Whangarei en Nouvelle-Zélande, a confirmé avoir été victime d'un accès non autorisé à un seul appareil en janvier suite à une menace de rançongiciel du groupe Mnt6. Bien que le groupe ait listé l'incident, McKay a obtenu une injonction de la Haute Cour d'Auckland limitant toute divulgation des données affectées. L'entreprise a assuré que ses systèmes informatiques ont continué de fonctionner en toute sécurité et qu'elle travaille avec des spécialistes pour renforcer sa cybersécurité.",
+        "title": "Exclusive: Kiwi electrical contractor confirms cyber attack",
+        "url": "https://www.cyberdaily.au/security/13537-exclusive-kiwi-electrical-contractor-confirms-cyber-attack",
+        "added": "2026-05-04"
+    },
+    {
         "date": "2026-05-01",
         "victim": "Hochschule Emden/Leer",
         "domain": "hs-emden-leer.de",
