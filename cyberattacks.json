@@ -1,5 +1,15 @@
 [
     {
+        "date": "2026-05-04",
+        "victim": "ALS Limited",
+        "domain": "alsglobal.com",
+        "country": "AUS",
+        "summary": "ALS Limited a révélé avoir détecté une activité cybernétique malveillante impliquant un accès non autorisé à certains de ses systèmes informatiques, provoquant une perturbation temporaire de certaines opérations. L'entreprise a mis en place des mesures de confinement et de remédiation, tout en informant le Centre australien pour la cybersécurité. ALS travaille actuellement à déterminer l'étendue de la violation et ses impacts potentiels sur les données des clients.",
+        "title": "ALS reports cyber incident but restores most operations - TipRanks.com",
+        "url": "https://www.tipranks.com/news/company-announcements/als-reports-cyber-incident-but-restores-most-operations",
+        "added": "2026-05-05"
+    },
+    {
         "date": "2025-12-04",
         "victim": "Goodwin University, Inc.",
         "domain": "goodwin.edu",
