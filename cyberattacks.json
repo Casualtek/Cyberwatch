@@ -1,5 +1,15 @@
 [
     {
+        "date": "2026-05-04",
+        "victim": "San Diego Community College District",
+        "domain": "sdccd.edu",
+        "country": "USA",
+        "summary": "Le District des Collèges Communautaires de San Diego est actuellement confronté à une cyberattaque majeure débutée samedi, entraînant la mise hors ligne de certains services numériques tels que l'e-mail et les plateformes d'inscription. Bien que tous les campus restent ouverts et la majorité des cours se poursuivent, certaines opérations annexes sont affectées. Le district assure que malgré l'incident, aucune donnée n'a été compromise et maintient la communication avec les étudiants via diverses plateformes.",
+        "title": "San Diego Community College District fighting major cyberattack",
+        "url": "https://www.sandiegouniontribune.com/2026/05/04/san-diego-community-college-district-fighting-major-cyber-attack/",
+        "added": "2026-05-05"
+    },
+    {
         "date": "2025-09-20",
         "victim": "Hematology Oncology Consultants",
         "domain": "hocpc.com",
