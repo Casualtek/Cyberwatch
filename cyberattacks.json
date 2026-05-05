@@ -1,5 +1,15 @@
 [
     {
+        "date": "2026-04-06",
+        "victim": "Standard-Examiner",
+        "domain": "standard.net",
+        "country": "USA",
+        "summary": "Le journal local Standard-Examiner, basé à Ogden, Utah, a signalé des difficultés de production importantes qui ont perturbé l'impression et la livraison de son édition papier en avril. Bien qu'un groupe de ransomware, Qilin, ait listé le journal le 2 mai, la publication n'a pas confirmé publiquement un incident de rançongiciel ou un lien avec les problèmes d'impression précédents. Les autorités locales ont indiqué que, malgré la perturbation de l'impression, les lecteurs pouvaient accéder à l'édition numérique.",
+        "title": "Standard-Examiner Utah printing delays followed by Qilin ransomware claim",
+        "url": "https://dysruptionhub.com/standard-examiner-utah-qilin-claim/",
+        "added": "2026-05-05"
+    },
+    {
         "date": "2026-05-04",
         "victim": "ALS Limited",
         "domain": "alsglobal.com",
