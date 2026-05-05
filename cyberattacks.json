@@ -1,5 +1,15 @@
 [
     {
+        "date": "2026-02-27",
+        "victim": "Standard Bank",
+        "domain": "standardbank.com",
+        "country": "ZAF",
+        "summary": "Une cyberattaque menée par l'acteur malveillant Rootboy a entraîné l'exfiltration de 1,2 téraoctet de données internes de Standard Bank entre fin février et mars 2026. Bien que la banque ait assuré que ses systèmes transactionnels restaient sécurisés, des données personnelles sensibles de plus de 154 millions de clients ont été compromises. Standard Bank communique avec les clients affectés et procède au remplacement préventif des cartes, tout en coopérant avec les autorités réglementaires.",
+        "title": "Standard Bank is discovering the extent of the cyberattack in the daily data dumps",
+        "url": "https://www.dailymaverick.co.za/article/2026-04-17-standard-bank-is-discovering-the-extent-of-the-cyberattack-in-the-daily-data-dumps/",
+        "added": "2026-05-05"
+    },
+    {
         "date": "2026-04-30",
         "victim": "4SELLERS",
         "domain": "4sellers.de",
