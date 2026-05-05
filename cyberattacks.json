@@ -1,5 +1,15 @@
 [
     {
+        "date": "2025-04-30",
+        "victim": "Réseau de radiologie romand (Groupe 3R)",
+        "domain": "groupe3r.ch",
+        "country": "CHE",
+        "summary": "Le Réseau de radiologie romand a subi une nouvelle cyberattaque le 30 avril 2025, entraînant le report ou la délocalisation de certains examens. Bien qu'aucune fuite de données ne soit confirmée pour cet incident, l'organisation a déjà été victime d'un vol de données en 2025. Le groupe assure que tous ses centres restent ouverts et travaille à rétablir une capacité de prise en charge sécurisée.",
+        "title": "Nouvelle cyberattaque contre des centres de radiologie romands",
+        "url": "https://www.24heures.ch/cyberattaque-le-groupe-3r-de-radiologie-a-nouveau-pirate-897127876847",
+        "added": "2026-05-05"
+    },
+    {
         "date": "2026-05-03",
         "victim": "Ville de Quiberon",
         "domain": "quiberon.fr",
