@@ -1,5 +1,35 @@
 [
     {
+        "date": "2025-12-04",
+        "victim": "Goodwin University, Inc.",
+        "domain": "goodwin.edu",
+        "country": "USA",
+        "summary": "Goodwin University experienced a network disruption that may have exposed personal information, including names, Social Security numbers, and driver's license numbers. An investigation revealed that certain files may have been acquired without authorization. A cyberattack was claimed by Qilin on December 28.",
+        "title": "Data Breach Notification",
+        "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/b142911a-e01e-4f84-9201-b50750e4f418.html",
+        "added": "2026-05-05"
+    },
+    {
+        "date": "2026-02-23",
+        "victim": "Art Jetter & Company",
+        "domain": "jetter.com",
+        "country": "USA",
+        "summary": "Art Jetter & Company discovered suspicious activity on their legacy Financial Brokerage server, which led to an unauthorized access and potential data breach. The breach occurred between February 21-23, 2026, and may have involved personal information of affected individuals. The company has taken steps to secure the server and is offering complimentary credit monitoring and identity monitoring services.",
+        "title": "Data Breach Notification",
+        "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/b41bdadd-6bdd-445d-bde4-f98ecb314b07.html",
+        "added": "2026-05-05"
+    },
+    {
+        "date": "2026-02-19",
+        "victim": "ACME Truck Line, Inc.",
+        "domain": "acmetruck.com",
+        "country": "USA",
+        "summary": "ACME Truck Line, Inc. suffered a data breach due to an unauthorized third-party gaining access to their computer systems. The breach occurred on February 19, 2026, and may have exposed personal information including names, Social Security numbers, and financial account information. ACME is offering free credit monitoring and identity protection services to affected individuals.",
+        "title": "Data Breach Notification",
+        "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/c6a4d822-b96d-4c64-aa8e-197cb3b77ae8.html",
+        "added": "2026-05-02"
+    },
+    {
         "date": "2026-04-15",
         "victim": "Evans Composites, Inc",
         "domain": "evanscomposites.com",
