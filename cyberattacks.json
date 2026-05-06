@@ -1,5 +1,15 @@
 [
     {
+        "date": "2025-11-24",
+        "victim": "D'Ambrosio Dodge Inc.",
+        "domain": "jeffdambrosio.com",
+        "country": "USA",
+        "summary": "D'Ambrosio Dodge suffered a data security incident that may have involved customer and employee personal information, including names, addresses, and other data elements. The incident occurred on November 24, 2025, and was discovered on January 21, 2026. A cyberattack was claimed by Qilin on December 12.",
+        "title": "Data Breach Notification",
+        "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/db1cb413-5b6f-4e14-8b29-df5f214ee59c.html",
+        "added": "2026-05-06"
+    },
+    {
         "date": "2025-04-30",
         "victim": "Réseau de radiologie romand (Groupe 3R)",
         "domain": "groupe3r.ch",
