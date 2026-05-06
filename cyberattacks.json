@@ -1,5 +1,25 @@
 [
     {
+        "date": "2025-10-23",
+        "victim": "Empire Express",
+        "domain": "empireexpress.com",
+        "country": "USA",
+        "summary": "Empire Express learned of a cyberattack on October 23, 2025. They immediately commenced a prompt and thorough investigation. As part of the investigation, they have been working very closely with external cybersecurty protessionals experienced in handling these types of incidents. They discovered on or about April 13, 2026, that certain files containing PII may have been subject to unauthorized acquisition between June 27, 2025, and October 23, 2025. A cyberattack was claimed by Dragonforce on Feb. 13, 2026.",
+        "title": "Data Breach Notification",
+        "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/e09bcf1c-0681-4cd7-b06d-36eb562c8468.html",
+        "added": "2026-05-06"
+    },
+    {
+        "date": "2025-09-02",
+        "victim": "Diamond Chemical Co, LLC",
+        "domain": "diamondchemical.com",
+        "country": "USA",
+        "summary": "Diamond Chemical Co, LLC suffered a data breach where an unauthorized actor accessed certain systems between July 26, 2025, and September 2, 2025, and copied some files without permission. The breach involved name and Social Security Number information. Diamond Chemical is providing credit monitoring services for 12 months to affected individuals.",
+        "title": "Data Breach Notification",
+        "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/aeaff3dd-331f-4833-8830-f13ccdd99e3b.html",
+        "added": "2026-05-06"
+    },
+    {
         "date": "2025-11-24",
         "victim": "D'Ambrosio Dodge Inc.",
         "domain": "jeffdambrosio.com",
