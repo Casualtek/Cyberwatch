@@ -1,5 +1,15 @@
 [
     {
+        "date": "2025-10-20",
+        "victim": "Hy LaBonne & Sons, Inc.",
+        "domain": "labonnes.com",
+        "country": "USA",
+        "summary": "LaBonne's Markets suffered a data breach on October 20, 2025, where unauthorized access to a subset of their network occurred, resulting in the access or download of certain files without authorization. The impacted information may include names and other personal data. A cyberattack was claimed by Play on October 26, 2025.",
+        "title": "Data Breach Notification",
+        "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/09db7d0d-4847-4b8a-b55b-74cf0b5dc4c0.html",
+        "added": "2026-05-06"
+    },
+    {
         "date": "2025-10-23",
         "victim": "Empire Express",
         "domain": "empireexpress.com",
