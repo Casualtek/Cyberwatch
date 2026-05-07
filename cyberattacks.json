@@ -1,5 +1,15 @@
 [
     {
+        "date": "2026-05-06",
+        "victim": "Ayuntamiento de Valdemoro",
+        "domain": "valdemoro.es",
+        "country": "ESP",
+        "summary": "Une incidence réseau, potentiellement due à une cyberattaque, a affecté les serveurs de l'Ayuntamiento de Valdemoro, empêchant actuellement la réalisation de démarches et consultations municipales en ligne. La municipalité a notifié l'incident au Centro Criptológico Nacional et travaille à la résolution du problème après avoir déconnecté les serveurs par mesure préventive. Les autorités conseillent aux citoyens de rester vigilants face aux tentatives de fraude et de changer leurs mots de passe en prévision d'un possible accès à des données personnelles.",
+        "title": "Un posible ciberataque afecta a los servidores del Ayuntamiento de Valdemoro e impide realizar trámites",
+        "url": "https://alcabodelacalle.es/en-portada/un-posible-ciberataque-afecta-a-los-servidores-del-ayuntamiento-de-valdemoro-e-impide-realizar-tramites/",
+        "added": "2026-05-07"
+    },
+    {
         "date": "2026-04-10",
         "victim": "株式会社ホテルオークラ福岡",
         "domain": "hotelokura.co.jp",
