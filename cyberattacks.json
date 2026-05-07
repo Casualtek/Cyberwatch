@@ -1,5 +1,15 @@
 [
     {
+        "date": "2026-03-16",
+        "victim": "Omikenshi Co., Ltd.",
+        "domain": "omikenshi.co.jp",
+        "country": "JPN",
+        "summary": "La société Omikenji a publié un communiqué faisant le point sur la panne informatique survenue le 16 mars à la suite d'un accès non autorisé. L'enquête a révélé qu'une intrusion via un VPN et un chiffrement par ransomware avaient eu lieu, et qu'une partie des données de certains serveurs avait été transmise. La société a indiqué que les données personnelles de ses clients n'étaient pas concernées et a annoncé le report de la publication de ses résultats financiers.",
+        "title": "オーミケンシへのサイバー攻撃、基幹システムの停止で決算手続きに遅延 | ScanNetSecurity",
+        "url": "https://scan.netsecurity.ne.jp/article/2026/05/07/55204.html",
+        "added": "2026-05-07"
+    },
+    {
         "date": "2026-03-10",
         "victim": "株式会社ナンブ",
         "domain": "ipros.com",
