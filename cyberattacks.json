@@ -1,5 +1,15 @@
 [
     {
+        "date": "2026-03-10",
+        "victim": "株式会社ナンブ",
+        "domain": "ipros.com",
+        "country": "JPN",
+        "summary": "Le 13 avril, la société Nambu a annoncé une possible fuite de données personnelles suite à un accès non autorisé sur le serveur de sa société sous-traitante, Higashiyama Sangyo Co., Ltd. Cet incident, survenu le 10 mars, a impliqué une attaque par rançongiciel ayant potentiellement compromis les noms, adresses et numéros de téléphone de certains clients utilisant le service de location d'aides médicales. Nambu est en train de contacter individuellement les clients concernés et mène une enquête, tandis qu'Higashiyama Sangyo prévoit de publier ses résultats finaux début mai 2026.",
+        "title": "東山産業にランサムウェア攻撃、事態重く受けとめ委託先セキュリティ管理体制の再評価ほかの再発防止策 | ScanNetSecurity",
+        "url": "https://scan.netsecurity.ne.jp/article/2026/05/07/55197.html",
+        "added": "2026-05-07"
+    },
+    {
         "date": "2026-03-09",
         "victim": "日本テレネット株式会社",
         "domain": "nippon-tele.net",
