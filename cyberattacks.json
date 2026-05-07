@@ -1,5 +1,15 @@
 [
     {
+        "date": "2026-01-09",
+        "victim": "Horizon Media",
+        "domain": "horizonmedia.com",
+        "country": "USA",
+        "summary": "Horizon Media suffered a data breach on January 9, 2026, due to a sophisticated social engineering event. An unauthorized actor gained access to a limited portion of its systems and copied certain files. A cyberattack was claimed by Chaos on February 9.",
+        "title": "Data Breach Notification",
+        "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/f5a77f3f-51ef-4375-a3fb-d15e8e119321.html",
+        "added": "2026-05-07"
+    },
+    {
         "date": "2026-05-07",
         "victim": "Cyber Power Systems, Inc.",
         "domain": "cyberpower.com",
