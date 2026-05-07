@@ -1,5 +1,15 @@
 [
     {
+        "date": "2026-03-09",
+        "victim": "日本テレネット株式会社",
+        "domain": "nippon-tele.net",
+        "country": "JPN",
+        "summary": "Le 17 mars, la société japonaise Nippon Telenet a annoncé qu'un dysfonctionnement de son système était dû à une cyberattaque par rançongiciel survenu le 9 mars. Il est possible que des informations de clients et des données personnelles d'employés aient été compromises, bien qu'aucune fuite externe n'ait été confirmée à ce jour. L'entreprise a isolé son réseau et travaille avec des experts externes pour évaluer les dommages, identifier la cause et rétablir ses opérations.",
+        "title": "日本テレネットにランサムウェア型サイバー攻撃、サーバのファイルの一部が暗号化 | ScanNetSecurity",
+        "url": "https://scan.netsecurity.ne.jp/article/2026/05/07/55202.html",
+        "added": "2026-05-07"
+    },
+    {
         "date": "2026-05-06",
         "victim": "Ayuntamiento de Valdemoro",
         "domain": "valdemoro.es",
