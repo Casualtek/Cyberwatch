@@ -1,5 +1,15 @@
 [
     {
+        "date": "2026-04-10",
+        "victim": "株式会社ホテルオークラ福岡",
+        "domain": "hotelokura.co.jp",
+        "country": "JPN",
+        "summary": "Le 10 avril, le Hotel Okura Fukuoka a annoncé avoir été victime d'une attaque par rançongiciel ciblant les informations de ses employés. L'incident est survenu suite à un accès non autorisé à un serveur hébergé dans le cloud, utilisé pour les fonctions RH. Les données potentiellement compromises concernent 9 501 employés depuis janvier 2011, incluant des informations personnelles sensibles.",
+        "title": "ホテルオークラ福岡が人事関係業務を行うサーバにランサムウェア攻撃、システムニシツウがクラウドシステム上に構築 | ScanNetSecurity",
+        "url": "https://scan.netsecurity.ne.jp/article/2026/05/07/55205.html",
+        "added": "2026-05-07"
+    },
+    {
         "date": "2025-10-20",
         "victim": "Hy LaBonne & Sons, Inc.",
         "domain": "labonnes.com",
