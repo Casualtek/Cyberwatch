@@ -1,5 +1,15 @@
 [
     {
+        "date": "2026-05-07",
+        "victim": "Cyber Power Systems, Inc.",
+        "domain": "cyberpower.com",
+        "country": "TWN",
+        "summary": "L'unité de sécurité informatique de Cyber Power Systems a détecté que des hackers non identifiés avaient accédé sans autorisation à ses serveurs et chiffré certaines données. L'organisation a immédiatement activé ses mécanismes de défense, fait appel à des experts externes pour l'investigation et la remédiation. L'incident n'est pas jugé avoir d'impact matériel sur les finances ou les opérations de l'entreprise.",
+        "title": "Today's Information",
+        "url": "https://emops.twse.com.tw/server-java/t05sr01_1_e?&isNew=Y&seq_no=1&spoke_time=160511&spoke_date=20260507&co_id=3617",
+        "added": "2026-05-07"
+    },
+    {
         "date": "2026-03-16",
         "victim": "Omikenshi Co., Ltd.",
         "domain": "omikenshi.co.jp",
