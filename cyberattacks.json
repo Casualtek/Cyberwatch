@@ -1,5 +1,15 @@
 [
     {
+        "date": "2026-03-25",
+        "victim": "第一工業株式会社",
+        "domain": "dks-web.co.jp",
+        "country": "JPN",
+        "summary": "La société Dai-ichi Kogyo a publié un deuxième rapport concernant une cyberattaque survenue le 25 mars, suite à une première annonce faite le 16 avril. Les premières investigations indiquent que l'attaquant a probablement pénétré via un dispositif VPN situé dans le centre de données de l'entreprise. Bien que des systèmes critiques aient été affectés, aucune preuve de fuite de données personnelles ou clients vers l'extérieur n'a été confirmée à ce stade.",
+        "title": "第一工業にサイバー攻撃、一部のサーバでシステム障害が発生 | ScanNetSecurity",
+        "url": "https://scan.netsecurity.ne.jp/article/2026/05/08/55220.html",
+        "added": "2026-05-08"
+    },
+    {
         "date": "2026-01-09",
         "victim": "Horizon Media",
         "domain": "horizonmedia.com",
