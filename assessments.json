@@ -1,5 +1,82 @@
 [
     {
+        "victim": "Sehlmann Fensterbau",
+        "domain": "sehlmann.de",
+        "country": "DE",
+        "date": "2025-11-22",
+        "group": "akira"
+    },
+    {
+        "victim": "WEDGE",
+        "domain": "wedgegroup.com",
+        "country": "US",
+        "date": "2025-09-25",
+        "group": "akira"
+    },
+    {
+        "victim": "Nadel Architects",
+        "domain": "nadelarc",
+        "country": "US",
+        "date": "2025-11-14",
+        "group": "akira"
+    },
+    {
+        "victim": "AGI Group",
+        "domain": "agigrouponline.com",
+        "country": "US",
+        "date": "2025-10-14",
+        "group": "akira"
+    },
+    {
+        "victim": "Builtrite",
+        "domain": "builtrite.com",
+        "country": "US",
+        "date": "2025-12-01",
+        "group": "akira"
+    },
+    {
+        "victim": "American Vintage Home",
+        "domain": "americanvintagehome.com",
+        "country": "US",
+        "date": "2026-02-03",
+        "group": "akira"
+    },
+    {
+        "victim": "Clinical Registry Solutions",
+        "domain": "clinicalregistrysolutions.com",
+        "country": "US",
+        "date": "2026-04-09",
+        "group": "akira"
+    },
+    {
+        "victim": "Moorman Harting",
+        "domain": "moormanahrting.com",
+        "country": "US",
+        "date": "2026-04-15",
+        "group": "akira"
+    },
+    {
+        "victim": "Punch & Associates Investment Management",
+        "domain": "punchinvest.com",
+        "country": "US",
+        "date": "2026-04-03",
+        "group": "akira"
+    },
+    {
+        "victim": "ABI and Ideal Tape",
+        "domain": "abitape.com",
+        "country": "US",
+        "date": "2026-04-20",
+        "group": "akira"
+    },
+    {
+        "victim": "Pipestone",
+        "domain": "pipestone.com",
+        "country": "US",
+        "date": "2026-04-09",
+        "group": "akira"
+    },
+    {
         "victim": "CPK Interior",
         "domain": "cpkinterior.com",
         "country": "CA",
