@@ -1,5 +1,12 @@
 [
     {
+        "victim": "egnyte.com",
+        "domain": "egnyte.com",
+        "country": "PL",
+        "date": "2026-04-27",
+        "group": "incransom"
+    },
+    {
         "victim": "bootstransport.ca",
         "domain": "bootstransport.ca",
         "country": "CA",
