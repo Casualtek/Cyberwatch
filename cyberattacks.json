@@ -1,5 +1,15 @@
 [
     {
+        "date": "2026-04-17",
+        "victim": "松山市営住宅管理センター (Anabuki Housing Service)",
+        "domain": "matsuyama-shijyu.com",
+        "country": "JPN",
+        "summary": "Le centre de gestion des logements municipaux de Matsuyama a annoncé le 17 avril une fuite de données concernant les résidents suite à une attaque par rançongiciel. L'incident a été détecté le 3 février sur les serveurs de la société gestionnaire, Anabuki Housing Service. Au total, 7 237 dossiers de résidents ont été compromis, incluant des informations personnelles telles que noms et dates de naissance.",
+        "title": "穴吹ハウジングサービスへのランサムウェア攻撃、松山市営住宅入居者の個人情報が漏えい | ScanNetSecurity",
+        "url": "https://scan.netsecurity.ne.jp/article/2026/05/08/55212.html",
+        "added": "2026-05-08"
+    },
+    {
         "date": "2026-04-10",
         "victim": "新エフエイコム株式会社",
         "domain": "s-facom.jp",
