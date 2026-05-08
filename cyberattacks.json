@@ -1,5 +1,15 @@
 [
     {
+        "date": "2026-02-24",
+        "victim": "F-One Co., Ltd.",
+        "domain": "f-one.co.jp",
+        "country": "JPN",
+        "summary": "La société Sato a annoncé le 16 avril qu'une attaque par rançongiciel avait affecté l'un de ses sous-traitants, la société F1 Corporation. Cette attaque a potentiellement entraîné une fuite de données personnelles concernant des clients ayant commandé des costumes. Les investigations ont révélé que les informations de 109 personnes et celles de 131 autres clients ont pu être compromises entre 2016 et 2025.",
+        "title": "エフワンにランサムウェア攻撃、スーツ購入顧客の情報が漏えいした可能性 | ScanNetSecurity",
+        "url": "https://scan.netsecurity.ne.jp/article/2026/05/08/55215.html",
+        "added": "2026-05-08"
+    },
+    {
         "date": "2026-04-17",
         "victim": "松山市営住宅管理センター (Anabuki Housing Service)",
         "domain": "matsuyama-shijyu.com",
