@@ -1,5 +1,15 @@
 [
     {
+        "date": "2026-04-17",
+        "victim": "株式会社メディカ出版基礎教育営業課",
+        "domain": "medica.co.jp",
+        "country": "JPN",
+        "summary": "Le 17 avril, la société Medica Publishing a annoncé avoir été victime d'une attaque par rançongiciel, dont l'origine a été identifiée comme une intrusion tierce survenue au début de mars. Il a été confirmé qu'une partie des informations personnelles détenues par la société et ses filiales pourrait avoir été divulguée à l'extérieur. Bien que les plateformes d'apprentissage spécifiques soient sécurisées et séparées du système attaqué, l'entreprise travaille à renforcer sa sécurité pour prévenir de futures incidents.",
+        "title": "メディカ出版へのランサムウェア攻撃、別システムで構築されたサービスの安全性を確認 | ScanNetSecurity",
+        "url": "https://scan.netsecurity.ne.jp/article/2026/05/08/55216.html",
+        "added": "2026-05-08"
+    },
+    {
         "date": "2025-05-15",
         "victim": "54 Below Inc.",
         "domain": "54below.org",
