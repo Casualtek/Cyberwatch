@@ -1,5 +1,12 @@
 [
     {
+        "victim": "autorisk.org",
+        "domain": "autorisk.org",
+        "country": "US",
+        "date": "2026-05-01",
+        "group": "incransom"
+    },
+    {
         "victim": "earthsystems.com.au",
         "domain": "earthsystems.com.au",
         "country": "AU",
