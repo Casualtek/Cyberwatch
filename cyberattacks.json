@@ -1,5 +1,15 @@
 [
     {
+        "date": "2026-04-10",
+        "victim": "新エフエイコム株式会社",
+        "domain": "s-facom.jp",
+        "country": "JPN",
+        "summary": "Le 14 avril, la société Shin-Facom a annoncé une panne de système suite à un accès non autorisé par des tiers. Cet incident est survenu au début de la matinée du 10 avril, impliquant une infection par rançongiciel. L'entreprise a isolé son réseau interne pour contenir l'impact et est actuellement en cours de restauration et d'enquête, tout en vérifiant si des données personnelles ou clients ont été divulguées.",
+        "title": "新エフエイコムにランサムウェア攻撃、個人情報外部流出について調査中 | ScanNetSecurity",
+        "url": "https://scan.netsecurity.ne.jp/article/2026/05/08/55211.html",
+        "added": "2026-05-08"
+    },
+    {
         "date": "2026-03-25",
         "victim": "第一工業株式会社",
         "domain": "dks-web.co.jp",
