@@ -105,7 +105,7 @@ def main():
     post_to_bluesky(post,story['url'])
 
     tweet = flag.flag(countryISO[country])+' '+story['victim']+' ('+story['domain']+')'+' victime d\'une #cyberattaque autour du '+date_tweet+'.\n⏭️ https://t.ly/t23z2\n👉 '+story['url']+' cc @ransomwaremap @cyber_etc'
-    post_to_twitter(tweet)
+#    post_to_twitter(tweet)
 
 if __name__ == '__main__':
     main()
