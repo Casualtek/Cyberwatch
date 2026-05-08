@@ -1,5 +1,12 @@
 [
     {
+        "victim": "bootstransport.ca",
+        "domain": "bootstransport.ca",
+        "country": "CA",
+        "date": "2026-03-07",
+        "group": "safepay"
+    },
+    {
         "victim": "Farella Braun + Martel LLP Information",
         "domain": "fbm.com",
         "country": "US",
