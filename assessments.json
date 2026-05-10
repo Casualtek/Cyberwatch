@@ -1,5 +1,12 @@
 [
     {
+        "victim": "hpk.hamburg",
+        "domain": "hpk.hamburg",
+        "country": "DE",
+        "date": "2026-04-26",
+        "group": "safepay"
+    },
+    {
         "victim": "Wills Point Chevrolet",
         "domain": "willspointchevrolet.com",
         "country": "US",
