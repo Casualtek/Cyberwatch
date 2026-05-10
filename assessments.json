@@ -1,5 +1,12 @@
 [
     {
+        "victim": "energyaction.com.au",
+        "domain": "energyaction.com.au",
+        "country": "AU",
+        "date": "2026-04-13",
+        "group": "safepay"
+    },
+    {
         "victim": "hpk.hamburg",
         "domain": "hpk.hamburg",
         "country": "DE",
