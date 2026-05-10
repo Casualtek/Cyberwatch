@@ -1,5 +1,15 @@
 [
     {
+        "date": "2026-05-06",
+        "victim": "Scope Systems",
+        "domain": "scopesystems.com.au",
+        "country": "AUS",
+        "summary": "Plusieurs entreprises minières australiennes sont en difficulté suite à une cyberattaque majeure ciblant un fournisseur de logiciels du secteur, exigeant une rançon. Parmi les entreprises potentiellement affectées figurent Northern Star Resources et Evolution Mining, deux des plus grands mineurs d'or du pays. Ces sociétés tentent actuellement de rétablir l'accès à leurs systèmes technologiques essentiels.",
+        "title": "Miners’ data targeted as hackers hold software provider to ransom",
+        "url": "https://www.afr.com/technology/miners-data-targeted-as-hackers-hold-software-provider-to-ransom-20260508-p5zv16",
+        "added": "2026-05-10"
+    },
+    {
         "date": "2026-05-04",
         "victim": "West Pharmaceutical",
         "domain": "westpharma.com",
