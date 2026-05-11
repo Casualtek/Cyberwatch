@@ -1,5 +1,15 @@
 [
     {
+        "date": "2026-05-01",
+        "victim": "JR Tokai Takashimaya",
+        "domain": "jr-takashimaya.co.jp",
+        "country": "JPN",
+        "summary": "La société JR Tokai Takashimaya a annoncé le 1er mai 2026 qu'elle soupçonnait un accès non autorisé à son serveur de candidature pour les emplois à temps partiel ainsi qu'une infection par un rançongiciel. À la suite de cette attaque, les noms, coordonnées et coordonnées bancaires de 1 338 employés à temps partiel ayant signé un contrat depuis mars 2021 pourraient avoir été divulgués. La société poursuit actuellement son enquête en collaboration avec des organismes spécialisés externes et a suspendu l'enregistrement de nouvelles candidatures pour des postes à temps partiel.",
+        "title": "ジェイアール東海高島屋、アルバイト応募サーバーへの不正アクセスとランサムウェアの感染疑い-個人情報漏洩の恐れ|セキュリティニュースのセキュリティ対策Lab",
+        "url": "https://rocket-boys.co.jp/security-measures-lab/jr-tokai-takashimaya-ransomware-applicant-data/",
+        "added": "2026-05-11"
+    },
+    {
         "date": "2026-05-11",
         "victim": "FROCH ENTERPRISE CO., LTD.",
         "domain": "frosh.com",
