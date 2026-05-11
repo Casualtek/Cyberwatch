@@ -1,5 +1,15 @@
 [
     {
+        "date": "2026-05-07",
+        "victim": "Heberger",
+        "domain": "heberger.com",
+        "country": "DEU",
+        "summary": "L'entreprise de construction Heberger, basée à Schifferstadt, a été victime d'une cyberattaque la semaine dernière. L'incident, confirmé par une porte-parole de l'entreprise, aurait eu lieu le jeudi 7 mai tôt le matin. Malgré des normes élevées en matière de sécurité informatique, l'entreprise a été touchée par cette intrusion.",
+        "title": "Cyberangriff auf Baufirma Heberger - Schifferstadt",
+        "url": "https://www.rheinpfalz.de/lokal/ludwigshafen_artikel,-cyberangriff-auf-baufirma-heberger-_arid,5889199.html",
+        "added": "2026-05-11"
+    },
+    {
         "date": "2026-05-10",
         "victim": "Direction générale de la Comptabilité publique et du Trésor",
         "domain": "sentresor.org",
