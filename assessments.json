@@ -1,5 +1,12 @@
 [
     {
+        "victim": "id-s.de",
+        "domain": "id-s.de",
+        "country": "DE",
+        "date": "2026-04-02",
+        "group": "safepay"
+    },
+    {
         "victim": "childplace.org",
         "domain": "childplace.org",
         "country": "US",
