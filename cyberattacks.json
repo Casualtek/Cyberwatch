@@ -1,5 +1,15 @@
 [
     {
+        "date": "2026-03-24",
+        "victim": "New  Congol  LLC  dba  New  Congoleum",
+        "domain": "congoleum.com",
+        "country": "USA",
+        "summary": "New Congol LLC dba New Congoleum suffered a data security incident that may have involved personal information, including names and Social Security numbers. The incident was discovered on March 24, 2026. A cyberattack was claimed by DragonForce on April 2.",
+        "title": "Data Breach Notification",
+        "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/c510df7a-5d42-4167-a426-d66d43815faf.html",
+        "added": "2026-05-09"
+    },
+    {
         "date": "2026-04-22",
         "victim": "Seidensha Electronics Co., Ltd.",
         "domain": "sdnsha.com",
@@ -7,6 +17,16 @@
         "summary": "Seidensha Electronics a annoncé le 7 mai 2026 qu'elle menait actuellement une enquête sur une panne informatique survenue le 22 avril 2026 en dehors des heures de travail, y compris sur la possibilité d'une cyberattaque. La société a immédiatement pris des mesures pour empêcher l'aggravation des dommages, notamment en coupant son réseau, et vérifie actuellement si des données, y compris des informations à caractère personnel, ont été affectées. Cet incident, qui a pris pour cible cette entreprise fournisseur de grands fabricants, met en évidence les risques liés aux attaques visant la chaîne d'approvisionnement dans le secteur manufacturier.",
         "title": "精電舎電子工業でサイバー攻撃で一時的なシステム障害|セキュリティニュースのセキュリティ対策Lab",
         "url": "https://rocket-boys.co.jp/security-measures-lab/seidensha-system-failure-suspected-cyberattack/",
+        "added": "2026-05-11"
+    },
+    {
+        "date": "2026-05-04",
+        "victim": "ALS Ltd",
+        "domain": "alsglobal.com",
+        "country": "AUS",
+        "summary": "ALS Ltd a récemment subi un incident de cybersécurité qui a temporairement perturbé certaines de ses opérations mondiales en raison d'un accès non autorisé à des systèmes informatiques. Bien que la plupart des services aient été rétablis, l'incident soulève des questions sur la résilience opérationnelle et son impact financier potentiel. L'entreprise a engagé des experts externes pour contenir la brèche et renforcer ses défenses, tout en évaluant l'étendue complète des conséquences.",
+        "title": "ALS Ltd stock (AU000000ALQ6): Cyber incident weighs on operations and sentiment",
+        "url": "https://www.ad-hoc-news.de/boerse/news/ueberblick/als-ltd-stock-au000000alq6-cyber-incident-weighs-on-operations-and/69299694",
         "added": "2026-05-11"
     },
     {
