@@ -1,5 +1,15 @@
 [
     {
+        "date": "2026-04-28",
+        "victim": "Marutake Co., Ltd.",
+        "domain": "kk-marutake.co.jp",
+        "country": "JPN",
+        "summary": "La société Marutake Co., Ltd., grossiste en produits pharmaceutiques, a publié un troisième communiqué concernant la panne informatique causée par une attaque par ransomware résultant d'un accès non autorisé. Bien que certaines activités soient encore perturbées, l'approvisionnement en médicaments dans les régions de Niigata, Tohoku et Kanto se poursuit grâce à des solutions de remplacement. La société estime que le rétablissement complet des systèmes prendra plusieurs jours et n'a, à ce stade, constaté aucune fuite de données personnelles vers l'extérieur.",
+        "title": "マルタケ（医薬品卸）にランサムウェアによるサイバー攻撃、医療機関に影響 個人情報漏洩の可能性は調査中|セキュリティニュースのセキュリティ対策Lab",
+        "url": "https://rocket-boys.co.jp/security-measures-lab/marutake-ransomware-medical-impact-leak-probe/",
+        "added": "2026-05-11"
+    },
+    {
         "date": "2025-12-03",
         "victim": "Phoenix Art Museum",
         "domain": "phxart.org",
