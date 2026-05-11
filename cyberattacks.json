@@ -1,5 +1,15 @@
 [
     {
+        "date": "2025-12-03",
+        "victim": "Phoenix Art Museum",
+        "domain": "phxart.org",
+        "country": "USA",
+        "summary": "Le musée Phoenix, le plus grand du sud-ouest des États-Unis, a subi une attaque par rançongiciel de la part du groupe 'Rhysida', entraînant la fuite de données personnelles incluant des noms et numéros de sécurité sociale. L'accès non autorisé a débuté le 3 décembre 2025, affectant huit personnes réparties entre Maine et Massachusetts. Le musée a officiellement notifié les autorités le 15 avril 2026 et offre aux victimes un suivi de crédit d'un an.",
+        "title": "피닉스 미술관 데이터 유출 사태: 랜섬웨어 그룹 공격으로 사회보장번호 노출, 8명 피해",
+        "url": "https://www.youthassembly.kr/news/950059",
+        "added": "2026-05-11"
+    },
+    {
         "date": "2026-05-09",
         "victim": "Unoaerre",
         "domain": "unoaerre.it",
