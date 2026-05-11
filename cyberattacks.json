@@ -1,5 +1,15 @@
 [
     {
+        "date": "2026-05-01",
+        "victim": "Foxconn",
+        "domain": "foxconn.com",
+        "country": "USA",
+        "summary": "Des problèmes techniques affectant ses systèmes informatiques, Foxconn a dû fermer temporairement son site de Mount Pleasant au Wisconsin après une panne réseau prolongée. Les employés ont été renvoyés et les opérations de production ont été perturbées, soulevant des questions potentielles sur un incident de cybersécurité. Une cyberattaque a été revendiquée le 11 mai par Nitrogen.",
+        "title": "Foxconn Wisconsin production halt raises cyber questions",
+        "url": "https://dysruptionhub.com/foxconn-wisconsin-cyber-outage/",
+        "added": "2026-05-11"
+    },
+    {
         "date": "2026-04-24",
         "victim": "Fitjar kommune",
         "domain": "fitjar.kommune.no",
