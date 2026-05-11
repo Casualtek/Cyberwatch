@@ -1,5 +1,15 @@
 [
     {
+        "date": "2026-05-10",
+        "victim": "Notin",
+        "domain": "notin.es",
+        "country": "ESP",
+        "summary": "Le fournisseur de services informatiques Notin.es a été victime d'une nouvelle attaque par rançongiciel, cette fois menée par le groupe Crypto24 utilisant le ransomware de Lockbit 5.0. Cette cyberattaque a affecté au moins quinze offices notariaux en Espagne, entraînant l'interruption de leurs services et de leur messagerie électronique.",
+        "title": "El proveedor de TI de notarías Notin, víctima de un nuevo ataque de ransomware cinco meses después",
+        "url": "https://www.escudodigital.com/ciberseguridad/notin-proveeedor-ti-notarias-ataque-ransomware.html",
+        "added": "2026-05-11"
+    },
+    {
         "date": "2026-05-07",
         "victim": "Heberger",
         "domain": "heberger.com",
