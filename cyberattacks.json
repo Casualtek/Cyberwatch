@@ -1,5 +1,45 @@
 [
     {
+        "date": "2025-09-20",
+        "victim": "Lautrec, Ltd.",
+        "domain": "lautrec.com",
+        "country": "USA",
+        "summary": "Lautrec, Ltd. suffered a data breach on September 20, 2025, where certain files within their network were accessed and copied without authorization. The breach involved the exposure of personal information, including names and Social Security numbers. A cyberattack was claimed by Akira on October 7.",
+        "title": "Data Breach Notification",
+        "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/6e4f02cc-3786-42af-9f3a-6c2322303c8f.html",
+        "added": "2026-05-09"
+    },
+    {
+        "date": "2025-12-03",
+        "victim": "Miller Insurance Protection Team",
+        "domain": "miller-insurance.com",
+        "country": "USA",
+        "summary": "Kroll suffered an identity theft incident, resulting in the potential misuse of customer information. The company is offering complimentary identity monitoring services to affected individuals. Customers are advised to place a fraud alert and consider a security freeze on their credit files.",
+        "title": "Data Breach Notification",
+        "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/e11706cf-a1f3-4b74-8f98-255e11f1b55c.html",
+        "added": "2026-05-10"
+    },
+    {
+        "date": "2025-10-06",
+        "victim": "Charlie Condon Law Firm, LLC",
+        "domain": "charliecondon.com",
+        "country": "USA",
+        "summary": "The law firm notified customers of a potential data breach, recommending they review account statements and credit reports, and consider placing a fraud alert or security freeze on their credit file.",
+        "title": "Data Breach Notification",
+        "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/cb30e956-3ad6-435a-986f-a076a803e64f.html",
+        "added": "2026-05-10"
+    },
+    {
+        "date": "2025-11-29",
+        "victim": "Blue Enterprises, Inc. dba Hogan Transports, Inc.",
+        "domain": "hogan1.com",
+        "country": "USA",
+        "summary": "Blue Enterprises, Inc. dba Hogan Transports, Inc. experienced a data breach between October 25, 2025, and November 29, 2025, resulting in unauthorized access to certain files containing sensitive information. The breach was discovered on November 29, 2025, and affected approximately 24 Rhode Island residents. Hogan is offering complimentary credit monitoring services to affected individuals.",
+        "title": "Data Breach Notification",
+        "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/57833759-5012-4cf7-94a4-bc112c4a4c81.html",
+        "added": "2026-05-09"
+    },
+    {
         "date": "2026-03-24",
         "victim": "New  Congol  LLC  dba  New  Congoleum",
         "domain": "congoleum.com",
