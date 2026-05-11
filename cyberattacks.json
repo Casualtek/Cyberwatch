@@ -1,5 +1,15 @@
 [
     {
+        "date": "2026-04-22",
+        "victim": "Seidensha Electronics Co., Ltd.",
+        "domain": "sdnsha.com",
+        "country": "JPN",
+        "summary": "Seidensha Electronics a annoncé le 7 mai 2026 qu'elle menait actuellement une enquête sur une panne informatique survenue le 22 avril 2026 en dehors des heures de travail, y compris sur la possibilité d'une cyberattaque. La société a immédiatement pris des mesures pour empêcher l'aggravation des dommages, notamment en coupant son réseau, et vérifie actuellement si des données, y compris des informations à caractère personnel, ont été affectées. Cet incident, qui a pris pour cible cette entreprise fournisseur de grands fabricants, met en évidence les risques liés aux attaques visant la chaîne d'approvisionnement dans le secteur manufacturier.",
+        "title": "精電舎電子工業でサイバー攻撃で一時的なシステム障害|セキュリティニュースのセキュリティ対策Lab",
+        "url": "https://rocket-boys.co.jp/security-measures-lab/seidensha-system-failure-suspected-cyberattack/",
+        "added": "2026-05-11"
+    },
+    {
         "date": "2026-04-28",
         "victim": "Marutake Co., Ltd.",
         "domain": "kk-marutake.co.jp",
