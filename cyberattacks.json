@@ -1,5 +1,15 @@
 [
     {
+        "date": "2026-05-11",
+        "victim": "FROCH ENTERPRISE CO., LTD.",
+        "domain": "frosh.com",
+        "country": "TWN",
+        "summary": "Des tentatives de connexion et des cyberattaques ont été détectées sur les réseaux internes du siège social de Froch. Les mécanismes de défense ont été immédiatement activés pour prévenir tout impact sur la sécurité des systèmes d'information. L'évaluation actuelle indique qu'aucune fuite de données personnelles ou confidentielles n'a eu lieu, et aucune conséquence opérationnelle majeure n'est anticipée.",
+        "title": "Today's Information",
+        "url": "https://emops.twse.com.tw/server-java/t05sr01_1_e?&isNew=Y&seq_no=1&spoke_time=161340&spoke_date=20260511&co_id=2030",
+        "added": "2026-05-11"
+    },
+    {
         "date": "2025-09-20",
         "victim": "Lautrec, Ltd.",
         "domain": "lautrec.com",
