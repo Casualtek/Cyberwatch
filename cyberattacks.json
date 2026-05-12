@@ -1,5 +1,15 @@
 [
     {
+        "date": "2026-04-18",
+        "victim": "Ahmed Al-Kadi Private Hospital",
+        "domain": "ahmedalkadi.com",
+        "country": "ZAF",
+        "summary": "L'Hôpital Privé Ahmed Al-Kadi de Durban a confirmé avoir été victime d'une attaque par rançongiciel, suite à un accès non autorisé à ses systèmes informatiques le 18 avril. Bien que les soins aux patients n'aient pas été impactés, l'établissement a alerté le public et les autorités concernant cette intrusion. L'hôpital enquête actuellement pour déterminer l'étendue de la compromission des données, tout en conseillant aux patients d'être vigilants face aux tentatives de fraude.",
+        "title": "Durban hospital targeted in ransomware incident",
+        "url": "https://independentonsaturday.co.za/2026-05-12-durban-hospital-targeted-in-ransomware-incident/",
+        "added": "2026-05-12"
+    },
+    {
         "date": "2026-05-10",
         "victim": "Notin",
         "domain": "notin.es",
