@@ -1,5 +1,12 @@
 [
     {
+        "victim": "meridenct.gov",
+        "domain": "meridenct.gov",
+        "country": "US",
+        "date": "2026-02-18",
+        "group": "incransom"
+    },
+    {
         "victim": "Peninsular Electric Distributors",
         "domain": "peninsularelectric.com",
         "country": "US",
