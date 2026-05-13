@@ -1,5 +1,15 @@
 [
     {
+        "date": "2026-03-26",
+        "victim": "株式会社ホクヨー",
+        "domain": "hokuyo2006.co.jp",
+        "country": "JPN",
+        "summary": "La société Hokuyo a annoncé qu'une panne informatique due à une infection par un rançongiciel s'était produite le 26 mars 2026. Bien que l'entreprise affirme avoir achevé la restauration de ses systèmes et que ses activités ne soient pas perturbées, elle mène actuellement une enquête avec des experts externes afin de déterminer s'il y a eu fuite de données personnelles. Les parties concernées doivent suivre de près l'évolution de la gestion de cet incident, notamment l'identification de la voie d'intrusion après la restauration et l'utilisation abusive des identifiants.",
+        "title": "ホクヨーがランサムウェア 感染によるシステム障害を公表、復旧は完了も個人情報流出は調査中|セキュリティニュースのセキュリティ対策Lab",
+        "url": "https://rocket-boys.co.jp/security-measures-lab/hokuyo-ransomware-recovery-data-leak-investigation/",
+        "added": "2026-05-13"
+    },
+    {
         "date": "2026-01-20",
         "victim": "Lamb-Star Engineering, LLC",
         "domain": "lamb-star.com",
