@@ -1,5 +1,15 @@
 [
     {
+        "date": "2026-05-04",
+        "victim": "Accretech America Inc.",
+        "domain": "accretech.com",
+        "country": "USA",
+        "summary": "La société japonaise Tokyo Seimitsu a annoncé un incident de cybersécurité survenu le 4 mai au sein de sa filiale américaine, Accretech America Inc. (ACCT America). Suite à la détection d'une attaque par rançongiciel, l'entreprise a mis en place des mesures de confinement et suspendu l'utilisation de ses systèmes. Des investigations sont menées en collaboration avec des experts externes pour déterminer la cause et l'étendue des dégâts, sans impact rapporté sur le groupe principal.",
+        "title": "東京精密の米国グループ会社にランサムウェア攻撃 | ScanNetSecurity",
+        "url": "https://scan.netsecurity.ne.jp/article/2026/05/14/55262.html",
+        "added": "2026-05-14"
+    },
+    {
         "date": "2025-09-16",
         "victim": "Fine Line Woodworking",
         "domain": "finelinewoodworking.com",
