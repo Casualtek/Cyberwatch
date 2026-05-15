@@ -1,5 +1,15 @@
 [
     {
+        "date": "2026-04-13",
+        "victim": "IFAGE",
+        "domain": "ifage.ch",
+        "country": "CHE",
+        "summary": "La Fondation pour la formation des adultes à Genève (IFAGE) a subi une cyberattaque en avril, qui a compromis les données usuelles de ses collaborateurs et anciens employés. Bien que l'attaque ait été détectée le 13 avril, aucun système pédagogique ni donnée d'étudiants n'a été affecté. L'investigation est toujours en cours, mais l'institution a pu maintenir son activité et recommande une vigilance accrue aux personnes concernées.",
+        "title": "La Fondation IFAGE à Genève victime d'une cyberattaque",
+        "url": "https://www.lemanbleu.ch/Scripts/Index.aspx?id=522689",
+        "added": "2026-05-15"
+    },
+    {
         "date": "2026-05-13",
         "victim": "Murray County",
         "domain": "murraycountyga.org",
