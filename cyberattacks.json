@@ -1,5 +1,15 @@
 [
     {
+        "date": "2026-04-18",
+        "victim": "Goodstone Group",
+        "domain": "goodstone.com.au",
+        "country": "AUS",
+        "summary": "Le groupe de ransomware CMD Organization a ciblé le fournisseur d'hôtellerie Goodstone Group, basé en Tasmanie, et a divulgué des documents compromettant des données sensibles telles que des scans de passeports d'employés. L'entreprise a confirmé avoir été victime d'une cyberattaque le 18 avril 2026 et est en train de collaborer avec les autorités compétentes. Les données volées sont actuellement mises en vente sur le dark web pour une somme estimée à un million de dollars.",
+        "title": "Exclusive: Tassie hospitality group confirms CMD Organization ransomware attack",
+        "url": "https://www.cyberdaily.au/security/13605-exclusive-tassie-hospitality-group-confirms-cmd-organization-ransomware-attack",
+        "added": "2026-05-15"
+    },
+    {
         "date": "2026-04-03",
         "victim": "FORREC Ltd.",
         "domain": "forrec.com",
