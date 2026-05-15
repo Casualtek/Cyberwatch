@@ -1,5 +1,15 @@
 [
     {
+        "date": "2026-04-24",
+        "victim": "East Inc.",
+        "domain": "east-inc.jp",
+        "country": "JPN",
+        "summary": "East Inc. a confirmé avoir subi un accès non autorisé à son réseau interne par des tiers le 24 avril. Bien qu'aucune fuite d'informations vers l'extérieur n'ait été confirmée à ce stade, l'entreprise a immédiatement pris des mesures et signalé l'incident aux autorités compétentes. Des enquêtes sont actuellement menées par des agences de sécurité externes pour déterminer l'étendue de l'impact et renforcer la sécurité informatique.",
+        "title": "None",
+        "url": "https://en.east-inc.jp/info/2026/05/0019435/",
+        "added": "2026-05-15"
+    },
+    {
         "date": "2026-05-12",
         "victim": "株式会社オリエンタルダイヤモンド",
         "domain": "orientaldiamond.jp",
