@@ -113,7 +113,7 @@ def main(json_file):
         date = datetime.strptime(item['date'], '%Y-%m-%d').strftime('%d.%m.%Y')
         html_list += f'<p>{date}, <b>{item["victim"]} ({item["country"]}).</b>{translate_text(item["summary"])}. <a href="{item["url"]}">Quelle</a>.</p>\n'
     html += html_list
-    html += '<i>Presseschau, teilweise mit Claude (Anthropic) erstellt und von der Redaktion geprüft. <a href="https://www.lemagit.fr/actualites/365535799/Cyberhebdo-LeMagIT-met-lIA-au-service-de-linformation-de-ses-lecteurs">Cyberhebdo</a> wurde von unseren französischen Kollegen von LeMagIT entwickelt.</i>'
+    html += '<i>Presseschau, teilweise mit Claude (Anthropic) und Gemma 4 erstellt und von der Redaktion geprüft. <a href="https://www.lemagit.fr/actualites/365535799/Cyberhebdo-LeMagIT-met-lIA-au-service-de-linformation-de-ses-lecteurs">Cyberhebdo</a> wurde von unseren französischen Kollegen von LeMagIT entwickelt.</i>'
     html += '</body>\n</html>'
     
     with open(f'./cyberhebdo/{now.strftime("%Y-%m-%d")}-de.html', 'w') as html_file:
