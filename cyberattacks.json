@@ -1,5 +1,15 @@
 [
     {
+        "date": "2026-05-12",
+        "victim": "株式会社オリエンタルダイヤモンド",
+        "domain": "orientaldiamond.jp",
+        "country": "JPN",
+        "summary": "La société Oriental Diamond a annoncé avoir été victime, le 4 mai 2026, d'une cyberattaque par ransomware perpétrée par un tiers, qui a entraîné le chiffrement des données de ses serveurs internes et un risque de fuite de données à caractère personnel. La société a immédiatement isolé ses serveurs du réseau, a signalé l'incident à la police et à la Commission de protection des données personnelles, et a engagé une enquête ainsi que des travaux de restauration confiés à des experts externes. Elle a déclaré qu'elle s'efforcerait désormais de prévenir toute récidive et de rétablir la confiance en mettant en place des mesures telles que la suspension de l'utilisation du VPN et le renforcement des procédures d'authentification.",
+        "title": "お知らせ | Orientaldiamond",
+        "url": "https://www.orientaldiamond.jp/お知らせ",
+        "added": "2026-05-15"
+    },
+    {
         "date": "2026-04-13",
         "victim": "IFAGE",
         "domain": "ifage.ch",
