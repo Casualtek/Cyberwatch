@@ -1,5 +1,15 @@
 [
     {
+        "date": "2026-04-03",
+        "victim": "FORREC Ltd.",
+        "domain": "forrec.com",
+        "country": "JPN",
+        "summary": "Sansei Technologies a publié le rapport final concernant la cyberattaque subie le 3 avril 2026 par sa filiale étrangère FORREC Ltd. L'enquête menée par des experts externes n'a révélé aucune fuite de données personnelles ou d'informations clients, et les mesures de sécurité ont été mises en place sur l'équipement réseau par lequel l'intrusion a eu lieu. La société précise que l'impact sur les activités de FORREC a été minime et qu'il n'y a eu aucune répercussion sur l'ensemble du groupe.",
+        "title": "三精テクノロジーズ海外子会社へのサイバー攻撃は情報漏えい確認されず|セキュリティニュースのセキュリティ対策Lab",
+        "url": "https://rocket-boys.co.jp/security-measures-lab/sansei-technologies-cyberattack-no-data-leak/",
+        "added": "2026-05-15"
+    },
+    {
         "date": "2026-04-02",
         "victim": "Tokyo Paving Industry Co., Ltd.",
         "domain": "tokyohoso.co.jp",
