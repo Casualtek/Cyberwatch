@@ -1,5 +1,15 @@
 [
     {
+        "date": "2025-08-23",
+        "victim": "Extant Aerospace",
+        "domain": "extantaerospace.com",
+        "country": "USA",
+        "summary": "Extant Aerospace suffered a data breach due to ransomware activity affecting its network environment, potentially exposing personal information of current and former employees and other individuals. The breach occurred on or around August 23, 2025, and was discovered on April 13, 2026. The affected information includes names, addresses, dates of birth, and Social Security numbers.",
+        "title": "Data Breach Notification",
+        "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/442f9192-d1a8-433e-b123-cea004f464a9.html",
+        "added": "2026-05-14"
+    },
+    {
         "date": "2026-04-18",
         "victim": "Goodstone Group",
         "domain": "goodstone.com.au",
