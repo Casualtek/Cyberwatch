@@ -1,5 +1,12 @@
 [
     {
+        "victim": "datenlotsen.de",
+        "domain": "datenlotsen.de",
+        "country": "DE",
+        "date": "2025-10-15",
+        "group": "incransom"
+    },
+    {
         "victim": "Rainbow Technology",
         "domain": "rainbowtech.net",
         "country": "US",
