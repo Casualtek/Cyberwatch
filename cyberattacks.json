@@ -1,5 +1,15 @@
 [
     {
+        "date": "2025-05-16",
+        "victim": "3i Infotech Limited",
+        "domain": "3i-infotech.com",
+        "country": "IND",
+        "summary": "Une cyberattaque suspectée de type ransomware a été détectée sur l'infrastructure informatique de l'ESN le 16 mai 2026. Afin d'identifier la cause première de cet incident, l'entreprise a fait appel à une firme d'experts indépendante et a également prévenu CERT-in. Selon les premières évaluations, cet incident n'a eu aucun impact sur la continuité ou le fonctionnement matériel des activités métiers.",
+        "title": "None",
+        "url": "https://nsearchives.nseindia.com/corporate/3IINFOTECHLTD_18052026155404_Disclosure.pdf",
+        "added": "2026-05-18"
+    },
+    {
         "date": "2025-06-16",
         "victim": "Vacation Myrtle Beach",
         "domain": "vacationmyrtlebeach.com",
