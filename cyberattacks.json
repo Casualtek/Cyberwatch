@@ -1,5 +1,57 @@
 [
     {
+        "date": "2025-06-16",
+        "victim": "Vacation Myrtle Beach",
+        "domain": "vacationmyrtlebeach.com",
+        "country": "USA",
+        "summary": "VMB experienced a data security incident where certain personal information may have been acquired without authorization. The incident occurred on June 16, 2025, and VMB notified affected individuals on May 15, 2026. A cyberattack was claimed by Play on June 19, 2025.",
+        "title": "Data Breach Notification",
+        "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/22bff34a-24aa-4aa0-95a4-b56bbe5fcc72.html",
+        "added": "2026-05-16"
+    },
+    {
+        "date": "2026-01-07",
+        "victim": "Hank's Furniture, Inc.",
+        "domain": "hanksfurniture.com",
+        "country": "USA",
+        "summary": "Hank's Furniture, Inc. detected unauthorized activity on certain systems within its network on January 7, 2026. The investigation determined that certain information on Hank's Furniture's systems may have been viewed or copied without authorization. The information that could have been subject to unauthorized access includes name, Social Security number, driver's license or state identification number, and financial account information.",
+        "title": "Data Breach Notification",
+        "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/1c71d933-1b54-4e79-8f69-941bc890bf8f.html",
+        "added": "2026-05-16"
+    },
+    {
+        "date": "2025-07-10",
+        "victim": "US Tiger Securities Inc.",
+        "domain": "itigerup.com",
+        "country": "USA",
+        "summary": "US Tiger Securities Inc. experienced a data security incident involving the unauthorized access to some of its customers' personal information. The incident occurred between July 8, 2025, and July 9, 2025, when an unauthorized third party copied files from the company's virtual back-office environment. The company has implemented additional safeguards and is offering a complimentary 24-month subscription to Experian IdentityWorks to affected customers.",
+        "title": "Data Breach Notification",
+        "url": "https://oag.ca.gov/ecrime/databreach/reports/sb24-623464",
+        "added": "2026-05-16",
+        "pdf_url": "https://oag.ca.gov/system/files/USTiger_Individual%20Letter%20Sample.pdf"
+    },
+    {
+        "date": "2024-07-09",
+        "victim": "The Phia Group, LLC",
+        "domain": "phiagroup.com",
+        "country": "USA",
+        "summary": "The Phia Group, LLC experienced a data security incident that may have affected the privacy of personal information, including names and other data elements, between July 8, 2024, and July 9, 2024. The incident was discovered on July 9, 2024, and an investigation was conducted to determine the nature and scope of the issue. No evidence of fraudulent misuse was found.",
+        "title": "Data Breach Notification",
+        "url": "https://oag.ca.gov/ecrime/databreach/reports/sb24-623392",
+        "added": "2026-05-16",
+        "pdf_url": "https://oag.ca.gov/system/files/ELN-24024%20Phia%20Group%20KNN%20Imp%20Ind%20Ad%20CM%20r4prf.pdf"
+    },
+    {
+        "date": "2025-02-13",
+        "victim": "Terra Holdings, LLC",
+        "domain": "terraholdings.com",
+        "country": "USA",
+        "summary": "Terra Holdings, LLC suffered a data breach where unauthorized access to files containing names and Social Security numbers occurred between February 11, 2025, and February 13, 2025. The breach was discovered on February 13, 2025, but the affected individuals were not notified until May 8, 2026. Terra Holdings is offering complimentary credit monitoring and identity restoration services to affected individuals.",
+        "title": "Data Breach Notification",
+        "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/a7e9818f-31e7-4e19-bbe1-57a1c08fb5b6.html",
+        "added": "2026-05-16"
+    },
+    {
         "date": "2026-05-16",
         "victim": "Chanhassen Dinner Theatres",
         "domain": "chanhassendt.com",
