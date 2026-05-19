@@ -1,8 +1,8 @@
 name: Monthly Report
 
 on:
-  schedule:
-    - cron: '0 14 1 * *'
+#  schedule:
+#    - cron: '0 14 1 * *'
   workflow_dispatch:
 
 # to consider: the use of action jobs to breakout each task
