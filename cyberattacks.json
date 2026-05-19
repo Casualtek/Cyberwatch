@@ -1,5 +1,15 @@
 [
     {
+        "date": "2026-05-02",
+        "victim": "CKC Network",
+        "domain": "ckc.co.jp",
+        "country": "JPN",
+        "summary": "Le système de gestion des demandes d'informations, utilisé conjointement par CKC Network et Gakusan, a été victime d'une cyberattaque par ransomware. Bien qu'aucune fuite de données ou transfert externe n'ait été confirmé, il existe une possibilité que des informations personnelles comme le nom, la classe, le contenu de la demande, le numéro de téléphone et l'adresse e-mail de l'enfant aient fuité. Toutes les informations de paiement, telles que le numéro de carte bancaire ou du compte, n'ont pas été concernées. Les services affectés incluent Nabi, Meirin, Kojo, Eishin et Gakusei. Les deux entreprises sont en cours d'enquête externe pour déterminer la cause et l'étendue exacte de l'impact.",
+        "title": "教育事業のCKCネットワークと学参でランサムウェアの被害、個人情報漏えいの可能性を否定できず|セキュリティニュースのセキュリティ対策Lab",
+        "url": "https://rocket-boys.co.jp/security-measures-lab/ckc-network-gakusan-ransomware-data-leak-risk/",
+        "added": "2026-05-19"
+    },
+    {
         "date": "2026-05-16",
         "victim": "HDFC Asset Management Company",
         "domain": "hdfcfund.com",
