@@ -1,5 +1,12 @@
 [
     {
+        "victim": "bomuhospital.org",
+        "domain": "bomuhospital.org",
+        "country": "KE",
+        "date": "2026-04-30",
+        "group": "krybit"
+    },
+    {
         "victim": "zsiclife.co.zm",
         "domain": "zsiclife.co.zm",
         "country": "ZM",
