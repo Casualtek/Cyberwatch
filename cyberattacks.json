@@ -1,5 +1,15 @@
 [
     {
+        "date": "2026-05-04",
+        "victim": "Arbeitsgemeinschaft Wirtschaftlichkeitsprüfung Niedersachsen (Arwini)",
+        "domain": "arwini.de",
+        "country": "DEU",
+        "summary": "Le Verein \"Arbeitsgemeinschaft Wirtschaftlichkeitsprüfung Niedersachsen\" (Arwini), qui gère des données sensibles pour le système de santé en Basse-Saxe, a été victime d'une cyberattaque. Des données personnelles et particulièrement sensibles de jusqu'à 80 000 assurés pourraient être compromises, incluant des données de contact, de santé et de facturation. L'incident a été découvert début mai et les systèmes ont été immédiatement arrêtés. Les autorités (Landeskriminalamt et autorité de protection des données) ont été informées, mais l'étendue exacte du vol de données reste inconnue. L'attaque a été revendiquée par Kairos le 11 mai.",
+        "title": "Hackerangriff: Sensible Gesundheitsdaten von Zehntausenden betroffen?",
+        "url": "https://www.ndr.de/nachrichten/niedersachsen/hackerangriff-daten-von-zehntausenden-versicherten-betroffen,hackerangriff-132.html",
+        "added": "2026-05-19"
+    },
+    {
         "date": "2026-05-02",
         "victim": "CKC Network",
         "domain": "ckc.co.jp",
