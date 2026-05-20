@@ -1,6 +1,16 @@
 [
     {
         "date": "2026-05-19",
+        "victim": "GitHub",
+        "domain": "github.com",
+        "country": "USA",
+        "summary": "Le 20 mai, GitHub a publié les résultats de son enquête sur une intrusion dans ses référentiels internes, résultant d'une attaque menée à l'aide d'une extension malveillante de Visual Studio Code (VS Code). Cette attaque a visé les appareils d'un employé la veille, et GitHub a pris des mesures pour supprimer la version malveillante de l'extension et isoler les terminaux affectés. L'enquête a révélé qu'environ 3 800 dépôts avaient été piratés, ce qui correspond à l'ampleur avancée par l'attaquant, le groupe TeamPCP. Afin d'atténuer les risques de sécurité, GitHub a procédé à une rotation des clés de sécurité importantes à partir du 19 mai et prévoit de poursuivre l'analyse des journaux système et la surveillance à l'avenir.",
+        "title": "GitHub, 3,800개 내부 저장소 도난 사건 조사 착수 (GITHUB, VS Code, 악성 확장 프로그램, 사이버 공격)",
+        "url": "https://www.minsimnews.com/news/articleView.html?idxno=50678",
+        "added": "2026-05-20"
+    },
+    {
+        "date": "2026-05-19",
         "victim": "Delano Public Schools",
         "domain": "delano.k12.mn.us",
         "country": "USA",
