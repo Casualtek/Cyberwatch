@@ -1,5 +1,15 @@
 [
     {
+        "date": "2026-05-19",
+        "victim": "Delano Public Schools",
+        "domain": "delano.k12.mn.us",
+        "country": "USA",
+        "summary": "Les classes ont été annulées à Delano, Minnesota, mercredi suite à un incident cyber. Le district scolaire a indiqué que l'incident s'était produit lundi soir et que l'internet a été coupé immédiatement après la compromission du réseau. Le district n'a pas confirmé s'il s'agissait d'une attaque, mais des experts travaillent à identifier et à résoudre le problème.",
+        "title": "Delano schools closed Wednesday due to \"cyber incident,\" district says",
+        "url": "https://www.cbsnews.com/minnesota/news/delano-schools-closed-cyber-incident/",
+        "added": "2026-05-20"
+    },
+    {
         "date": "2026-03-19",
         "victim": "Ampex Data Systems Corp.",
         "domain": "ampex.com",
