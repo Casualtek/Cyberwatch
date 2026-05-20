@@ -1,5 +1,15 @@
 [
     {
+        "date": "2026-05-20",
+        "victim": "Kent Industrial",
+        "domain": "kentind.com",
+        "country": "TWN",
+        "summary": "Les réseaux internes du siège social du groupe Kent Industrial ont été la cible de tentatives de connexion et d'attaques informatiques. Le groupe a immédiatement activé les mécanismes de défense. Aucune fuite d'informations personnelles ou confidentielles n'a été constatée, et l'incident n'a pas eu d'impact significatif sur les opérations. Des améliorations seront apportées à l'architecture de sécurité du réseau.",
+        "title": "Today's Information",
+        "url": "https://emops.twse.com.tw/server-java/t05sr01_1_e?&isNew=Y&seq_no=1&spoke_time=173646&spoke_date=20260520&co_id=6606",
+        "added": "2026-05-20"
+    },
+    {
         "date": "2026-05-19",
         "victim": "GitHub",
         "domain": "github.com",
