@@ -1,5 +1,16 @@
 [
     {
+        "date": "2026-04-16",
+        "victim": "Frost Bank",
+        "domain": "frostbank.com",
+        "country": "USA",
+        "summary": "Sefas Innovation, Inc. suffered a data breach, affecting some data belonging to Frost Bank. A cyberattack against Frost Back was claimed by Everest on April 20.",
+        "title": "Data Breach Notification",
+        "url": "https://oag.ca.gov/ecrime/databreach/reports/sb24-623688",
+        "added": "2026-05-21",
+        "pdf_url": "https://oag.ca.gov/system/files/Template%20Individual%20Notice%20-%20CA.pdf"
+    },
+    {
         "date": "2026-02-10",
         "victim": "Parker Lipman LLP",
         "domain": "parkerlipman.com",
