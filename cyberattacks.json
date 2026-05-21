@@ -1,5 +1,15 @@
 [
     {
+        "date": "2026-05-19",
+        "victim": "Rhomberg Bau Gruppe",
+        "domain": "rhomberg.com",
+        "country": "AUT",
+        "summary": "Des parties de la groupe Rhomberg-Bau ont été victimes d'une cyberattaque où des inconnus ont pénétré le réseau de l'entreprise et ont exfiltré des données. L'entreprise a coupé complètement certaines de ses systèmes (finances, calculs de projet) pour prévenir de nouveaux attaques. Les travaux sur les chantiers et la branche ferroviaire n'ont pas été affectés. La société a déposé une plainte et signalé l'incident à l'autorité de protection des données.",
+        "title": "Cyber-Angriff: Rhomberg Bau wird erpresst",
+        "url": "https://vorarlberg.orf.at/stories/3355275/",
+        "added": "2026-05-21"
+    },
+    {
         "date": "2026-04-14",
         "victim": "Unimed",
         "domain": "unimed.de",
