@@ -1,5 +1,15 @@
 [
     {
+        "date": "2025-11-13",
+        "victim": "Morningstar Properties, LLC",
+        "domain": "mstarproperties.com",
+        "country": "USA",
+        "summary": "MorningstarProperties, LLC suffered a data breach where an unauthorized actor accessed certain systems from November 12 to November 13, 2025, potentially viewing and/or obtaining certain information. The incident was discovered on November 13, 2025. A cyberattack was claimed by Akira on December 18.",
+        "title": "Data Breach Notification",
+        "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/5e833074-32e3-48c5-b689-be03ea71c967.html",
+        "added": "2026-05-20"
+    },
+    {
         "date": "2026-05-15",
         "victim": "Kintetsu World Express (KWE)",
         "domain": "kwe.com",
