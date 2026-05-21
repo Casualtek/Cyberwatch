@@ -1,5 +1,15 @@
 [
     {
+        "date": "2026-05-15",
+        "victim": "Kintetsu World Express (KWE)",
+        "domain": "kwe.com",
+        "country": "SGP",
+        "summary": "Kintetsu Express a publié un communiqué faisant le point sur la panne informatique survenue aux petites heures du 15 mai 2026 chez KWE-Kintetsu World Express (S) Pte Ltd., une société du groupe, à la suite d'un accès non autorisé par un tiers. Après l'intrusion, les systèmes concernés ont été mis hors service et isolés, puis remis en service après vérification de leur sécurité. Les opérations qui avaient été affectées ont été rétablies normalement. À l'heure actuelle, aucun impact n'a été constaté sur les opérations en dehors de Singapour ni sur les systèmes opérationnels critiques. La société a mis en place un centre de crise et prend les mesures nécessaires conformément à son plan de continuité des activités (PCA).",
+        "title": "近鉄エクスプレスのシンガポール子会社で発生した不正アクセス、関連システムを再開し影響業務は通常復旧|セキュリティニュースのセキュリティ対策Lab",
+        "url": "https://rocket-boys.co.jp/security-measures-lab/kwe-singapore-cyberattack-operations-restored/",
+        "added": "2026-05-21"
+    },
+    {
         "date": "2026-04-19",
         "victim": "Nostrum Co., Ltd.",
         "domain": "nostrum.co.jp",
