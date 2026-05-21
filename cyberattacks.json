@@ -1,5 +1,15 @@
 [
     {
+        "date": "2026-04-19",
+        "victim": "Nostrum Co., Ltd.",
+        "domain": "nostrum.co.jp",
+        "country": "JPN",
+        "summary": "Nostrum a été victime d'une attaque par rançongiciel (ransomware) sur ses serveurs, survenue le 8 mai. L'attaque a pénétré le réseau via VPN le 19 avril vers 5h du matin, chiffrant les données des serveurs internes et rendant ces derniers inopérants, ce qui a également interrompu son service de soutien à l'apprentissage. L'entreprise a signalé l'incident à la police et à l'Autorité de protection des informations personnelles, fait appel à une société externe pour surveiller un site de fuite (leak site), et a mené des investigations et des réparations avec des experts en sécurité. Ils reconstruisent également le système sur une nouvelle infrastructure pour un redémarrage rapide des services. L'attaque a été revendiquée le 27 avril par The Gentlemen.",
+        "title": "ノストラムにランサムウェア攻撃、学習支援サービスも停止 | ScanNetSecurity",
+        "url": "https://scan.netsecurity.ne.jp/article/2026/05/21/55323.html",
+        "added": "2026-05-21"
+    },
+    {
         "date": "2026-05-19",
         "victim": "Kinsmen Foundation",
         "domain": "telemiracle.com",
