@@ -1,5 +1,15 @@
 [
     {
+        "date": "2026-05-21",
+        "victim": "Government of the Northern Mariana Islands (CNMI)",
+        "domain": "cnmi.gov",
+        "country": "MNI",
+        "summary": "Une cyberattaque a affecté certains comptes de messagerie gouvernementaux aux îles Mariannes du Nord (CNMI), entraînant une perte d'accès pour certains utilisateurs et potentiellement ralentissant le travail gouvernemental. L'Office of Information Technology (OIT) a lancé des protocoles de sécurité pour restaurer la fonctionnalité. Les autorités n'ont pas confirmé de rançongiciel, de vol de données ou de demande de rançon.",
+        "title": "Northern Mariana Islands government email accounts hit by cyberattack",
+        "url": "https://dysruptionhub.com/cnmi-email-cyberattack/",
+        "added": "2026-05-21"
+    },
+    {
         "date": "2026-04-09",
         "victim": "Lumexa Imaging",
         "domain": "lumexaimaging.com",
