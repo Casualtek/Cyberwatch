@@ -1,5 +1,15 @@
 [
     {
+        "date": "2026-04-05",
+        "victim": "Hongsu Technology",
+        "domain": "gptc.com.tw",
+        "country": "TWN",
+        "summary": "La société de fabrication d'équipements de semi-conducteurs, Hongsu, a été victime d'une attaque par virus de rançongiciel sur son système d'information en avril. L'incident a entraîné une perte estimée à environ 22 millions de NTD, principalement due à la mise au rebut et à la réparation des infrastructures matérielles et logicielles affectées, ainsi qu'aux coûts liés à l'intervention d'équipes externes pour la récupération des données. Bien que l'attaque n'ait pas eu d'impact majeur sur les activités principales comme la production ou les échanges, aucune fuite de secrets commerciaux ou d'informations importantes n'a été détectée. Hongsu prévoit de renforcer ses mécanismes de sécurité.",
+        "title": "台積電供應鏈CoWoS設備廠「遭勒索病毒攻擊」 弘塑估損失2200萬 | ETtoday財經雲 | ETtoday新聞雲",
+        "url": "https://finance.ettoday.net/news/3169957",
+        "added": "2026-05-21"
+    },
+    {
         "date": "2026-04-16",
         "victim": "Frost Bank",
         "domain": "frostbank.com",
