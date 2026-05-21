@@ -1,5 +1,45 @@
 [
     {
+        "date": "2026-02-10",
+        "victim": "Parker Lipman LLP",
+        "domain": "parkerlipman.com",
+        "country": "USA",
+        "summary": "Parker Lipman LLP suffered a data breach, resulting in potential misuse of personal information. Affected individuals are advised to monitor their financial accounts and credit reports for suspicious activity. The organization has set up a dedicated response line to assist with questions and concerns. A cyberattack was claimed by INC Ransom on March 5.",
+        "title": "Data Breach Notification",
+        "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/c019f8c4-b665-415f-bee0-ff6815411595.html",
+        "added": "2026-05-21"
+    },
+    {
+        "date": "2025-12-19",
+        "victim": "United Medical Systems (DE), Inc.",
+        "domain": "ums-usa.com",
+        "country": "USA",
+        "summary": "United Medical Systems (DE), Inc. suffered a data breach, providing complimentary access to identity monitoring services from Kroll. The breach affected multiple states, including Maryland, New Mexico, New York, North Carolina, Rhode Island, and Washington, D.C. Affected individuals can enroll in monitoring services and take steps to protect their personal information.",
+        "title": "Data Breach Notification",
+        "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/c16b50a2-f6e8-4ac3-a6de-28f489f9be36.html",
+        "added": "2026-05-21"
+    },
+    {
+        "date": "2025-07-27",
+        "victim": "Modjarrad & Associates, PC d/b/a MAS Law",
+        "domain": "maslaw.com",
+        "country": "USA",
+        "summary": "MAS Law experienced a data breach between July 13, 2025, and July 28, 2025, where an unauthorized party accessed sensitive personal information. The breach was discovered on July 27, 2025, and affected certain individuals, including those who received this notification. The organization has taken steps to secure its systems and is offering identity monitoring services to affected individuals.",
+        "title": "Data Breach Notification",
+        "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/95e5e9d0-6d2a-4a01-86bb-0a81bfeaab8c.html",
+        "added": "2026-05-21"
+    },
+    {
+        "date": "2025-06-16",
+        "victim": "Bomco, Inc.",
+        "domain": "bomco.com",
+        "country": "USA",
+        "summary": "Bomco, Inc. experienced a data breach between June 14, 2025, and June 16, 2025, where an unauthorized actor accessed certain files in its network, potentially copying them. The breach may have exposed names, Social Security numbers, and financial account information. Bomco is providing credit monitoring services to affected individuals.",
+        "title": "Data Breach Notification",
+        "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/5918521e-0575-4ebb-9c43-5b04e28dfe17.html",
+        "added": "2026-05-20"
+    },
+    {
         "date": "2025-11-13",
         "victim": "Morningstar Properties, LLC",
         "domain": "mstarproperties.com",
