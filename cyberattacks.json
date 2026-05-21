@@ -1,5 +1,15 @@
 [
     {
+        "date": "2026-04-09",
+        "victim": "Lumexa Imaging",
+        "domain": "lumexaimaging.com",
+        "country": "USA",
+        "summary": "Un cyberattaque a exposé des données de santé sensibles de patients de Lumexa Imaging via un prestataire externe pour des tâches administratives. Les données volées incluent des informations personnelles, financières et cliniques (y compris des numéros de sécurité sociale). Des actions en justice collectives sont envisagées par plusieurs cabinets d'avocats, se concentrant sur les violations potentielles du HIPAA et des lois sur la protection des consommateurs. Lumexa a commencé à informer les personnes concernées et offre des services de surveillance de crédit. Le management estime que l'incident n'affectera pas significativement les prévisions financières.",
+        "title": "Lumexa Imaging: Millionen Patientendaten nach Hackerangriff gestohlen",
+        "url": "https://borncity.com/news/lumexa-imaging-millionen-patientendaten-nach-hackerangriff-gestohlen/",
+        "added": "2026-05-21"
+    },
+    {
         "date": "2026-04-05",
         "victim": "Hongsu Technology",
         "domain": "gptc.com.tw",
