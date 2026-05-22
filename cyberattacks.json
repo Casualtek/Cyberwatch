@@ -1,5 +1,15 @@
 [
     {
+        "date": "2026-05-17",
+        "victim": "Hospital Clínic de Barcelona",
+        "domain": "clinicbarcelona.org",
+        "country": "ESP",
+        "summary": "Un hôpital espagnol (l'Hospital Clínic de Barcelone) a été victime d'une cyberattaque perpétrée par le groupe criminel RansomHouse, qui a exigé 4,5 millions de dollars pour ne pas divulguer les données des patients. Le gouvernement régional de Catalogne a averti qu'il ne paierait pas, ce qui entraîne un « risque élevé » de fuite de données. Les cybercriminels pratiquent une double extorsion. Bien que l'hôpital n'ait perdu aucune donnée selon l'Agence de cybersécurité de Catalogne, les attaquants ont eu accès à quatre téraoctets d'informations. La police mettra en place une « cyberpatrouille » pour éviter les fuites et arrêter les responsables.",
+        "title": "Unos piratas informáticos exigen 4.5 millones a un hospital en España",
+        "url": "https://noticiassin.com/unos-piratas-informaticos-exigen-4-5-millones-a-un-hospital-en-espana/",
+        "added": "2026-05-22"
+    },
+    {
         "date": "2026-04-05",
         "victim": "Belgrade School District",
         "domain": "bsd44.org",
