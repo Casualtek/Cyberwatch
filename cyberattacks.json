@@ -1,5 +1,15 @@
 [
     {
+        "date": "2025-10-21",
+        "victim": "Enessance Holdings Co., Ltd",
+        "domain": "enessance.co.jp",
+        "country": "JPN",
+        "summary": "La société Enessance Holdings Co., Ltd. et les sociétés de son groupe ont subi une panne informatique le 21 octobre 2025 et ont été victimes d'une attaque par ransomware. Une enquête menée par des experts externes a confirmé que les données de certains serveurs et terminaux avaient été chiffrées et que ces informations avaient été publiées sur le dark web. Il semblerait que l'intrusion se soit produite via une connexion Internet. Environ 365 000 dossiers clients (noms, adresses, numéros de téléphone, adresses e-mail, etc.) et environ 2 000 dossiers concernant des employés du groupe auraient été divulgués. La société a contacté individuellement les clients concernés et procède actuellement à une révision de son dispositif de sécurité ainsi qu'à une formation approfondie de ses employés. Une cyberattaque avait été revendiquée par Qilin le 29 octobre 2025.",
+        "title": "エネサンスホールディングスへのランサムウェア攻撃、約 36.5 万件の顧客情報が漏えいした可能性 | ScanNetSecurity",
+        "url": "https://scan.netsecurity.ne.jp/article/2026/05/22/55331.html",
+        "added": "2026-05-22"
+    },
+    {
         "date": "2026-03-26",
         "victim": "Hokuyo Co., Ltd.",
         "domain": "hokuyo-aut.jp",
