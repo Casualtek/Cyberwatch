@@ -1,5 +1,15 @@
 [
     {
+        "date": "2026-03-26",
+        "victim": "Hokuyo Co., Ltd.",
+        "domain": "hokuyo-aut.jp",
+        "country": "JPN",
+        "summary": "La société Hokuyo a annoncé un incident de défaillance système dû à une infection par rançongiciel. L'incident initial a eu lieu le 26 mars, mais la restauration du système est maintenant terminée et les opérations ne sont plus affectées. La société enquête actuellement avec des experts externes concernant la fuite d'informations personnelles.",
+        "title": "ホクヨーにランサムウェア攻撃、システム障害発生するも現在は復旧 | ScanNetSecurity",
+        "url": "https://scan.netsecurity.ne.jp/article/2026/05/22/55332.html",
+        "added": "2026-05-22"
+    },
+    {
         "date": "2026-05-19",
         "victim": "Rhomberg Bau Gruppe",
         "domain": "rhomberg.com",
