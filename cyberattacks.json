@@ -1,5 +1,15 @@
 [
     {
+        "date": "2026-04-05",
+        "victim": "Belgrade School District",
+        "domain": "bsd44.org",
+        "country": "USA",
+        "summary": "Le Belgrade School District a été victime d'une attaque par logiciel malveillant (malware) début avril, perturbant les fonctions scolaires. Bien que le malware ait été retiré, la restauration des systèmes se poursuivra jusqu'en juin pour évaluer l'impact sur les données personnelles. Le district n'a pas confirmé de rançongiciel, de demande de rançon ou d'acteur de menace. Une revue n'a pas trouvé d'accès non autorisé à Infinite Campus, mais l'examen des autres systèmes est en cours.",
+        "title": "Belgrade, Montana, schools restoring systems after malware disruption",
+        "url": "https://dysruptionhub.com/belgrade-montana-school-malware/",
+        "added": "2026-05-22"
+    },
+    {
         "date": "2025-10-21",
         "victim": "Enessance Holdings Co., Ltd",
         "domain": "enessance.co.jp",
