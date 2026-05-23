@@ -1,6 +1,17 @@
 [
     {
         "date": "2026-05-22",
+        "victim": "Contagem",
+        "domain": "contagem.mg.gov.br",
+        "country": "BRA",
+        "summary": "Un cyberattaque a touché les systèmes de la Mairie de Contagem (Région Métropolitaine de Belo Horizonte) le vendredi 22. Bien que l'administration ait affirmé que les données sont préservées et qu'il n'y a pas eu de fuite, des sources indiquent que les comptes de messagerie institutionnels d'employés du premier échelon, y compris le maire Ricardo Faria, auraient été compromis. La municipalité a restreint temporairement les accès pour garantir l'intégrité du système.",
+        "description": "",
+        "title": "Prefeitura de Contagem sofre ataque cibernético",
+        "url": "https://ofator.com.br/informacao/prefeitura-de-contagem-sofre-ataque-cibernetico/",
+        "added": "2026-05-23"
+    },
+    {
+        "date": "2026-05-22",
         "victim": "Eyguières",
         "domain": "eyguieres.org",
         "country": "FRA",
