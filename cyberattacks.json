@@ -1,5 +1,16 @@
 [
     {
+        "date": "2026-05-22",
+        "victim": "Eyguières",
+        "domain": "eyguieres.org",
+        "country": "FRA",
+        "summary": "La mairie d'Eyguières, une petite commune des Alpilles, a été victime d'une cyberattaque depuis le vendredi 22 mai. L'attaque, menée par le groupe de ransomware nommé 'Qilin', vise à paralyser le système électronique et menace les données communales et personnelles des habitants. Les gendarmes sont en charge de l'enquête, mais l'identification des auteurs est compliquée en raison de l'utilisation de logiciels d'anonymisation.",
+        "description": "",
+        "title": "Eyguières. La mairie du village cible d’une cyberattaque",
+        "url": "https://www.ledauphine.com/faits-divers-justice/2026/05/22/la-mairie-du-village-cible-d-une-cyberattaque",
+        "added": "2026-05-23"
+    },
+    {
         "date": "2026-05-17",
         "victim": "Hospital Clínic de Barcelona",
         "domain": "clinicbarcelona.org",
