@@ -1,5 +1,16 @@
 [
     {
+        "date": "2026-05-09",
+        "victim": "Matsuzawa Shoten",
+        "domain": "musenet.co.jp",
+        "country": "JPN",
+        "summary": "La société Matsuzawa Shoten a présenté ses excuses à ses partenaires commerciaux pour les désagréments causés par la panne de son système de gestion des commandes, survenue le 9 mai à la suite d'un accès non autorisé et d'une infection par un rançongiciel. Les travaux de restauration du système de commande sont actuellement en cours, et il est prévu de reprendre progressivement, dès la semaine prochaine, les commandes par les moyens habituels (e-mail, etc.). Toutefois, en ce qui concerne YMEH, la réparation du système EDI devant prendre un certain temps, nous demandons pour l'instant de passer les commandes par des moyens provisoires, à savoir par fax ou par e-mail. En ce qui concerne le traitement des commandes des détaillants, le remplacement du serveur a été achevé le 12 mai et les expéditions ont repris. Cependant, les services « Rakufu Navi » et « Chumon-kun » étant en attente de réparation, les commandes sont actuellement traitées par e-mail. De plus, les expéditions auront lieu les samedi 16 et dimanche 17 mai, mais aucune réponse ne sera donnée aux demandes par téléphone. Les dernières informations seront mises à jour régulièrement.",
+        "description": "",
+        "title": "【お取引先出版社様へ】弊社受発注システム障害（ランサムウェア感染）に関する進捗状況のご報告 （５月１５日１６時時点）",
+        "url": "https://www.corp.musenet.co.jp/pages/23?detail=1&b_id=106&r_id=30#block106",
+        "added": "2026-05-24"
+    },
+    {
         "date": "2026-05-22",
         "victim": "Contagem",
         "domain": "contagem.mg.gov.br",
