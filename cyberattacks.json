@@ -1,5 +1,16 @@
 [
     {
+        "date": "2026-03-11",
+        "victim": "Candeal Co., Ltd. ",
+        "domain": "candeal.co.jp",
+        "country": "JPN",
+        "summary": "La société Candeal a publié son rapport final concernant les dommages subis suite à une attaque par rançongiciel. Bien qu'une infection par rançongiciel ait été détectée le 11 mars sur certains serveurs, aucune trace de fuite de données personnelles vers l'extérieur n'a été trouvée jusqu'à présent. Cependant, il est difficile d'exclure la possibilité qu'une tierce partie ait consulté temporairement ces informations. Environ 41 995 informations personnelles (noms, adresses, coordonnées, etc.) de clients, partenaires commerciaux, employés et anciens employés sont potentiellement concernées. L'entreprise assure que ses opérations se déroulent normalement et que l'impact sur ses résultats est minime.",
+        "description": "",
+        "title": "キャンディルデザインにランサムウェア攻撃、業績への影響は軽微 | ScanNetSecurity",
+        "url": "https://scan.netsecurity.ne.jp/article/2026/05/25/55341.html",
+        "added": "2026-05-25"
+    },
+    {
         "date": "2026-05-25",
         "victim": "Ficha Inc.",
         "domain": "ficha.jp",
