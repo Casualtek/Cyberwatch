@@ -1,5 +1,16 @@
 [
     {
+        "date": "2026-05-25",
+        "victim": "Ficha Inc.",
+        "domain": "ficha.jp",
+        "country": "JPN",
+        "summary": "La société Ficha a publié son rapport final concernant les dommages causés par un rançongiciel sur ses serveurs, signalés initialement le 13 mai et le 12 février. L'incident a été découvert le 9 février, impliquant le chiffrement de fichiers sur des serveurs internes. Les investigations ont révélé que 32 serveurs avaient été touchés, dont 13 infectés par le rançongiciel. L'attaquant a transféré des fichiers agrégés vers un stockage cloud (OneDrive) et copié 144 dépôts GitHub depuis le serveur GitHub de l'entreprise. Bien que les traces des fichiers externes ne soient pas identifiables individuellement, des informations potentiellement volées ont été publiées sur plusieurs sites de services généraux, y compris des liens vers des données et des liens vers le stockage externe visibles par des navigateurs web. L'entreprise a renforcé ses mesures de sécurité, notamment en renouvelant son infrastructure de connexion externe, en introduisant l'authentification multi-facteurs, en renforçant la séparation réseau, en améliorant la gestion des droits d'accès et en déployant des solutions EDR et un centre d'opérations de sécurité externe (SOC).",
+        "description": "",
+        "title": "フィーチャへのランサムウェア攻撃、ファイル転送ツールを用いて攻撃者管理の OneDrive に送信 | ScanNetSecurity",
+        "url": "https://scan.netsecurity.ne.jp/article/2026/05/25/55340.html",
+        "added": "2026-05-25"
+    },
+    {
         "date": "2026-05-19",
         "victim": "Scottsboro Police Department",
         "domain": "scottsboropd.org",
