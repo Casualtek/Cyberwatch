@@ -1,5 +1,15 @@
 [
     {
+        "date": "2026-05-19",
+        "victim": "Scottsboro Police Department",
+        "domain": "scottsboropd.org",
+        "country": "USA",
+        "summary": "La police de Scottsboro a stoppé rapidement une tentative d'attaque de cybersécurité contre ses serveurs avant que des données ne soient accédées ou prises. Aucune perturbation des services publics n'a été signalée. La police n'a trouvé aucune preuve que des informations identifiantes, photos, vidéos ou rapports sensibles aient été exportés ou compromis. La police n'a pas confirmé de rançongiciel, de logiciel malveillant, d'acteur de menace, de demande de rançon ou de vol de données.",
+        "title": "Scottsboro Police in Alabama say server attack stopped",
+        "url": "https://dysruptionhub.com/scottsboro-police-server-attack/",
+        "added": "2026-05-25"
+    },
+    {
         "date": "2026-05-16",
         "victim": "Universitat de València",
         "domain": "uv.es",
