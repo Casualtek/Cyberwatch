@@ -1,5 +1,16 @@
 [
     {
+        "date": "2023-03-03",
+        "victim": "SP ZOZ Szpital Specjalistyczny MSWiA w Złocieńcu (Centre de Santé Psychique de Drawsko Pomorskie)",
+        "domain": "szpitalkansk.pl",
+        "country": "POL",
+        "summary": "Le 3 mars 2023, un incident de cyberattaque par ransomware a affecté le Centre de Santé Psychique de Drawsko Pomorskie (dans l'hôpital spécialisé MSWiA de Złocieńcu). L'attaque a entraîné le chiffrement de fichiers et la perte d'accès aux données archivées des patients et des employés. Bien qu'aucune preuve n'ait été trouvée pour confirmer l'exfiltration de données personnelles, un risque élevé de vol existe. Des mesures ont été prises, y compris l'arrêt du serveur infecté. L'hôpital a notifié l'autorité de protection des données (UODO) et a informé les parties prenantes des risques potentiels, notamment le risque d'utilisation abusive des données.",
+        "description": "",
+        "title": "Aktualizacja z dnia 05.05.2026 roku - SP ZOZ Szpital Specjalistyczny MSWiA w Złocieńcu - Portal Gov.pl",
+        "url": "https://www.gov.pl/web/spzoz-mswia-zlocieniec/aktualizacja-z-dnia-05052026-roku",
+        "added": "2026-05-25"
+    },
+    {
         "date": "2026-03-11",
         "victim": "Candeal Co., Ltd. ",
         "domain": "candeal.co.jp",
