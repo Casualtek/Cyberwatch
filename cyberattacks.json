@@ -1,5 +1,15 @@
 [
     {
+        "date": "2026-05-16",
+        "victim": "Universitat de València",
+        "domain": "uv.es",
+        "country": "ESP",
+        "summary": "Le groupe de ransomware NOVA a piraté les systèmes de l'Université de Valence, dérobant 300 Go de données. Bien que les pirates aient affirmé détenir des informations sur le personnel et les étudiants, l'université a précisé que seul le serveur d'un chercheur principal avait été touché, et que seules ses données personnelles (photographies) avaient été volées. Les données compromises étaient principalement d'anciennes vidéos d'opérations chirurgicales. L'université n'a pas l'intention de payer la rançon et a déjà pris des mesures de protection.",
+        "title": "La Universitat de València confirma haber sufrido un ciberataque",
+        "url": "https://www.escudodigital.com/ciberseguridad/la-universitat-de-valencia-confirma-haber-sufrido-un-ciberataque.html",
+        "added": "2026-05-25"
+    },
+    {
         "date": "2026-05-09",
         "victim": "Matsuzawa Shoten",
         "domain": "musenet.co.jp",
