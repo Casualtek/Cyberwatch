@@ -1,5 +1,16 @@
 [
     {
+        "date": "2026-05-24",
+        "victim": "Comté de Chelan",
+        "domain": "chelan.wa.us",
+        "country": "USA",
+        "summary": "Les systèmes réseau du comté de Chelan ont été piratés par un logiciel malveillant (malware) durant le week-end. Le comté a coupé son réseau, ses ordinateurs et son système téléphonique dans tous les départements par mesure de précaution. L'étendue exacte des dommages et la compromission de données personnelles sont encore inconnues.",
+        "description": "",
+        "title": "Cyberattack cripples Chelan County government network systems over holiday weekend - MyNorthwest.com",
+        "url": "https://mynorthwest.com/local/cyberattack-chelan-county-malware/4241645",
+        "added": "2026-05-25"
+    },
+    {
         "date": "2023-03-03",
         "victim": "SP ZOZ Szpital Specjalistyczny MSWiA w Złocieńcu (Centre de Santé Psychique de Drawsko Pomorskie)",
         "domain": "szpitalkansk.pl",
