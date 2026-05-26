@@ -1,5 +1,16 @@
 [
     {
+        "date": "2026-05-24",
+        "victim": "Teamplus (EVERY8D)",
+        "domain": "teamplus.tech",
+        "country": "TWN",
+        "summary": "La plateforme EVERY8D, appartenant à l'entreprise interactive communications Teamplus, a été victime d'une attaque par logiciel de rançon entraînant une paralysie de ses services. Cette plateforme, qui gère plus d'un milliard de messages mensuels, est une infrastructure critique pour les systèmes d'authentification bancaire et les notifications gouvernementales. Suite à l'incident, le centre F-ISAC a émis une alerte de sécurité de niveau trois, et l'entreprise a engagé des experts pour une analyse numérique tout en renforçant ses dispositifs de sécurité.",
+        "description": "",
+        "title": "快訊／EVERY8D簡訊遭駭資料暗網賣？ 公司聲明！ | 三立iNEWS | 三立新聞網 SETN.COM",
+        "url": "https://inews.setn.com/news/1844715",
+        "added": "2026-05-26"
+    },
+    {
         "date": "2026-05-06",
         "victim": "Kawai USA",
         "domain": "kawaius.com",
