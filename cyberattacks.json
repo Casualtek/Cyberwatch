@@ -1,5 +1,16 @@
 [
     {
+        "date": "2025-11-26",
+        "victim": "Shin-Nihon Kentei Kyokai",
+        "domain": "shinken.or.jp",
+        "country": "JPN",
+        "summary": "L'association Shin-Nihon Kentei Kyokai a publié les résultats d'une enquête suite à une cyberattaque survenue le 26 novembre 2025. L'attaque a entraîné une panne système et des perturbations des opérations. Les investigations ont révélé que les serveurs de l'association ont été chiffrés par une attaque externe, avec exécution d'outils de transfert de fichiers, suggérant une fuite potentielle de données. La cause présumée implique l'exploitation d'une vulnérabilité du matériel réseau pour pénétrer le réseau, l'utilisation d'un compte administrateur pour accéder au réseau interne et la collecte d'informations de configuration. Des informations personnelles (noms, adresses, numéros de téléphone, adresses e-mail) concernant environ 30 000 personnes liées aux affaires, ainsi que des données d'employés et de candidats, ont été potentiellement compromises. L'association a détruit le serveur affecté, reconstruit son réseau et est en train de renforcer ses mesures de sécurité.",
+        "description": "",
+        "title": "暗号化とファイル転送ツール実行の痕跡 ～ 新日本検定協会へのサイバー攻撃 調査結果 | ScanNetSecurity",
+        "url": "https://scan.netsecurity.ne.jp/article/2026/05/26/55346.html",
+        "added": "2026-05-26"
+    },
+    {
         "date": "2026-05-24",
         "victim": "Comté de Chelan",
         "domain": "chelan.wa.us",
