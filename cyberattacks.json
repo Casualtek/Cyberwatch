@@ -1,5 +1,16 @@
 [
     {
+        "date": "2026-05-06",
+        "victim": "Kawai USA",
+        "domain": "kawaius.com",
+        "country": "USA",
+        "summary": "La société Kawai, filiale américaine de Kawai Gakki Seisakusho, a confirmé la possibilité d'un accès non autorisé le 6 mai 2026. Suite à la détection, la connexion réseau a été immédiatement coupée et les services ont été rétablis, et des mesures de sécurité supplémentaires ont été mises en place. Bien qu'aucune fuite de données n'ait été confirmée à ce stade, l'entreprise poursuit une enquête sur cet incident.",
+        "description": "",
+        "title": "当社米国子会社における不正アクセスの可能性について",
+        "url": "https://www.kawai.co.jp/news/20260522/",
+        "added": "2026-05-26"
+    },
+    {
         "date": "2025-11-26",
         "victim": "Shin-Nihon Kentei Kyokai",
         "domain": "shinken.or.jp",
