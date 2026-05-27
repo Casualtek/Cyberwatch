@@ -1,5 +1,16 @@
 [
     {
+        "date": "2026-05-11",
+        "victim": "Casalp",
+        "domain": "casalp.it",
+        "country": "ITA",
+        "summary": "La société Casalp, gestionnaire de logements sociaux, a été victime d'une attaque par ransomware le 11 mai. Cet incident a rendu le système informatique de l'organisme temporairement inutilisable et a exposé les données sensibles de 20 000 résidents à des risques. Les informations potentiellement compromises incluent des données personnelles, bancaires et médicales, et l'autorité de protection des données a été alertée.",
+        "description": "",
+        "title": "Livorno, attacco hacker a Casalp: tremano 20mila inquilini – «A rischio i dati sensibili»",
+        "url": "https://www.iltirreno.it/livorno/cronaca/2026/05/27/news/livorno-attacco-hacker-a-casalp-tremano-20mila-inquilini-1.100875017",
+        "added": "2026-05-27"
+    },
+    {
         "date": "2026-03-15",
         "victim": "Nandrin",
         "domain": "nandrin.be",
