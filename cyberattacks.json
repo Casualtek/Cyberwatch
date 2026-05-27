@@ -1,5 +1,16 @@
 [
     {
+        "date": "2026-03-15",
+        "victim": "Nandrin",
+        "domain": "nandrin.be",
+        "country": "BEL",
+        "summary": "L'administration communale de Nandrin a été victime d'une cyberattaque de type ransomware en mars dernier. Cette attaque a touché une partie de son infrastructure informatique. Il est signalé que certaines données personnelles de citoyens pourraient avoir été rendues accessibles aux auteurs de l'incident.",
+        "description": "",
+        "title": "Cyberattaque à Nandrin : « On a renforcé les mesures de sécurité informatique »",
+        "url": "https://www.sudinfo.be/id1154758/article/2026-05-27/cyberattaque-nandrin-renforce-les-mesures-de-securite-informatique",
+        "added": "2026-05-27"
+    },
+    {
         "date": "2026-05-24",
         "victim": "Teamplus (EVERY8D)",
         "domain": "teamplus.tech",
