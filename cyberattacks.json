@@ -1,5 +1,16 @@
 [
     {
+        "date": "2026-04-18",
+        "victim": "Wohnungsgenossenschaft Neukölln eG",
+        "domain": "gwneukoelln.de",
+        "country": "DEU",
+        "summary": "Le 18 avril 2026, le système informatique de la WG Neukölln a été visé par une cyberattaque par rançongiciel au cours de laquelle des données ont été chiffrées et copiées, notamment des documents relatifs à ses membres et partenaires commerciaux, les attaquants menaçant de les publier. Cette intrusion a réussi en dépit de mesures de sécurité exhaustives déjà en place, telles que l'authentification multifacteur, des pare-feux et la protection assurée par des spécialistes externes. L'attaque a été revendiquée par DragonForce le 27 mai.",
+        "description": "",
+        "title": "Ransomware Vorfall",
+        "url": "https://www.gwneukoelln.de/files/19DBB434D2F/Ransomware%20Vorfall.pdf",
+        "added": "2026-05-28"
+    },
+    {
         "date": "2026-05-11",
         "victim": "Casalp",
         "domain": "casalp.it",
