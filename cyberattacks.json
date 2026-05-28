@@ -1,5 +1,16 @@
 [
     {
+        "date": "2026-04-14",
+        "victim": "Carnival Corporation",
+        "domain": "carnivalcorp.com",
+        "country": "USA",
+        "summary": "Carnival Corporation, opérateur mondial de lignes de croisière, a confirmé une violation de données attribuée au groupe de cybercriminels ShinyHunters. L'incident a été initié après que des acteurs de la menace aient utilisé une attaque par ingénierie sociale pour accéder aux systèmes informatiques de l'entreprise. Les données compromises incluent des informations personnelles telles que les noms, dates de naissance, adresses e-mail, et détails du programme de fidélité.",
+        "description": "",
+        "title": "Carnival Cruise confirms data breach affecting nearly 6 million people",
+        "url": "https://www.bleepingcomputer.com/news/security/carnival-cruise-confirms-data-breach-affecting-nearly-6-million-people/",
+        "added": "2026-05-28"
+    },
+    {
         "date": "2025-09-10",
         "victim": "MPB Property LLC",
         "domain": "mpbrealty.net",
