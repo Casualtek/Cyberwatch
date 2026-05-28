@@ -1,5 +1,35 @@
 [
     {
+        "date": "2025-08-12",
+        "victim": "University of St. Thomas- Houston",
+        "domain": "stthom.edu",
+        "country": "USA",
+        "summary": "A cyberattack was claimed by INC Ransom on September 3, 2025.",
+        "title": "Data Breach Notification",
+        "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/4536ec23-4bdc-4c7d-81aa-eff55a69428a.html",
+        "added": "2026-05-27"
+    },
+    {
+        "date": "2025-11-22",
+        "victim": "Interstate Management Company, LLC",
+        "domain": "aimbridgehospitality.com",
+        "country": "USA",
+        "summary": "Interstate Management Company, LLC confirmed that personal information may have been accessed or taken from certain hotel systems between November 19, 2025, and November 22, 2025. The information that could have been subject to unauthorized access includes name, Social Security number, and financial account information. The company is providing access to credit monitoring services for one year, through IDX, to individuals whose personal information was potentially affected by this incident.",
+        "title": "Data Breach Notification",
+        "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/fcbafb44-97d6-4512-8177-8d2528648275.html",
+        "added": "2026-05-27"
+    },
+    {
+        "date": "2026-02-24",
+        "victim": "City of Suffolk, VA",
+        "domain": "suffolkva.us",
+        "country": "USA",
+        "summary": "A cyberattack was claimed by Cloak on the same day.",
+        "title": "Data Breach Notification",
+        "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/d517d5ee-5cac-4248-843b-8a14b9074f57.html",
+        "added": "2026-05-27"
+    },
+    {
         "date": "2025-03-21",
         "victim": "National Center for Construction Education and Research Ltd.",
         "domain": "nccer.org",
