@@ -1,5 +1,16 @@
 [
     {
+        "date": "2026-05-27",
+        "victim": "Serpa",
+        "domain": "cm-serpa.pt",
+        "country": "PRT",
+        "summary": "La municipalité de Serpa a été victime d'une attaque externe ciblant son infrastructure informatique. L'incident a été immédiatement signalé aux autorités compétentes, y compris le Centre National de Cybersécurité. Bien que le système soit jugé sécurisé, les services municipaux continuent de fonctionner avec des contraintes, notamment l'absence de communications fixes et mobiles.",
+        "description": "",
+        "title": "Autarquia de Serpa alvo de ataque informático | Rádio Voz da Planície - 104.5FM - Beja",
+        "url": "https://www.vozdaplanicie.pt/index.php/noticias/camara-municipal-de-serpa-alvo-de-ataque-informatico",
+        "added": "2026-05-28"
+    },
+    {
         "date": "2026-04-14",
         "victim": "Carnival Corporation",
         "domain": "carnivalcorp.com",
