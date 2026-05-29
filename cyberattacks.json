@@ -1,5 +1,16 @@
 [
     {
+        "date": "2026-04-01",
+        "victim": "Charter Communications",
+        "domain": "charter.com",
+        "country": "USA",
+        "summary": "Charter Communications, un géant des télécommunications américain, a confirmé avoir subi une violation de données suite à une menace d'extorsion du groupe ShinyHunters. Les attaquants ont affirmé avoir accédé aux données via une attaque de phishing vocal (vishing) le 1er avril, exportant des millions de dossiers clients depuis Salesforce. Bien que les attaquants aient revendiqué le vol de 40 millions de dossiers contenant des informations personnelles et CPNI, l'entreprise a déclaré qu'aucune information personnelle sensible n'avait été exfiltrée.",
+        "description": "",
+        "title": "Charter confirms data breach after ShinyHunters extortion threat",
+        "url": "https://www.bleepingcomputer.com/news/security/charter-confirms-data-breach-after-shinyhunters-extortion-threat/",
+        "added": "2026-05-29"
+    },
+    {
         "date": "2025-05-22",
         "victim": "Portraitbox GmbH",
         "domain": "portraitbox.com",
