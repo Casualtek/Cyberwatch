@@ -1,5 +1,16 @@
 [
     {
+        "date": "2025-05-22",
+        "victim": "Portraitbox GmbH",
+        "domain": "portraitbox.com",
+        "country": "DEU",
+        "summary": "Un Portraitbox a été victime d'une cyberattaque, vraisemblablement de type ransomware. Des milliers de photos de l'enfance provenant d'écoles et de crèches dans le Land de Basse-Saxe pourraient avoir été volées. En plus des images, des données clients pourraient être affectées, et la justice enquête sur cet incident.",
+        "description": "",
+        "title": "Haben Hacker Tausende Kinderfotos gestohlen? Staatsanwaltschaft ermittelt",
+        "url": "https://www.ndr.de/nachrichten/niedersachsen/hackerangriff-tausende-kinderfotos-moeglicherweise-gestohlen,kinderfotos-100.html",
+        "added": "2026-05-29"
+    },
+    {
         "date": "2026-05-27",
         "victim": "Serpa",
         "domain": "cm-serpa.pt",
