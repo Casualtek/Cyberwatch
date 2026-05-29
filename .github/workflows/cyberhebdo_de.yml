@@ -1,8 +1,6 @@
 name: Cyberhebdo (DE)
 
 on:
-  schedule:
-    - cron: '0 8 * * 5'
   workflow_dispatch:
 
 # to consider: the use of action jobs to breakout each task
