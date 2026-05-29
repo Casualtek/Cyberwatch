@@ -1,5 +1,16 @@
 [
     {
+        "date": "2026-05-28",
+        "victim": "Landeszentrale für politische Bildung",
+        "domain": "lpb.rlp.de",
+        "country": "DEU",
+        "summary": "La Landeszentrale für politische Bildung a été victime d'une cyberattaque, selon ses propres déclarations. L'institution a dû isoler ses sites web ainsi que ceux de ses mémoriaux, les rendant actuellement inaccessibles. L'établissement est en train de vérifier si des données d'abonnés et de clients ont pu être exfiltrées suite à cet incident.",
+        "description": "",
+        "title": "Landeszentrale und Gedenkstätten komplett offline - Cyberangriff",
+        "url": "https://www.rheinpfalz.de/lokal/pfalz-ticker_artikel,-landeszentrale-und-gedenkstätten-komplett-offline-_arid,5894846.html",
+        "added": "2026-05-29"
+    },
+    {
         "date": "2026-04-01",
         "victim": "Charter Communications",
         "domain": "charter.com",
