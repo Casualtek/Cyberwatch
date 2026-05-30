@@ -1,5 +1,26 @@
 [
     {
+        "date": "2026-02-18",
+        "victim": "Texollini, Inc.",
+        "domain": "texollini.com",
+        "country": "USA",
+        "summary": "Texollini, Inc. suffered a data breach due to unauthorized access to their environment from February 16, 2026, to February 18, 2026. The breach resulted in the exposure of sensitive information, including full names, Social Security numbers, driver's license numbers, U.S. Alien Registration numbers, and financial account information. A cyberattack was claimed by Akira on March 18.",
+        "title": "Data Breach Notification",
+        "url": "https://oag.ca.gov/ecrime/databreach/reports/sb24-624138",
+        "added": "2026-05-30",
+        "pdf_url": "https://oag.ca.gov/system/files/Texollini%2C%20Inc.%20-%20Notice%20of%20Data%20Breach%20-%20CA_0.pdf"
+    },
+    {
+        "date": "2026-01-27",
+        "victim": "Joyal Capital Management, LLC",
+        "domain": "joycapmgt.com",
+        "country": "USA",
+        "summary": "Joyal Capital Management suffered a data breach that exposed sensitive customer information, including Social Security numbers and driver's license numbers. The breach was caused by a hacker who gained access to the company's systems through a third-party vendor. The incident was discovered in January 2026.",
+        "title": "Data Breach Notification",
+        "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/7f757642-8c12-4236-9ea2-1c8a941485ba.html",
+        "added": "2026-05-30"
+    },
+    {
         "date": "2025-02-24",
         "victim": "Industrial Acceptance Corporation",
         "domain": "iaccredit.com",
