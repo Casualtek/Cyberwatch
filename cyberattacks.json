@@ -1,5 +1,26 @@
 [
     {
+        "date": "2025-07-08",
+        "victim": "La Perouse, LLC",
+        "domain": "laperouse.us",
+        "country": "USA",
+        "summary": "La Perouse, LLC suffered a data breach due to unauthorized access to one of their third-party billing platforms, resulting in the potential exposure of patient billing information. The breach occurred in July 2025, and the company became aware of it on July 8, 2025. A cyberattack was claimed by Everest a month later.",
+        "title": "Data Breach Notification",
+        "url": "https://oag.ca.gov/ecrime/databreach/reports/sb24-624047",
+        "added": "2026-05-29",
+        "pdf_url": "https://oag.ca.gov/system/files/La%20Perouse%20-%20Sample%20Notice%20Letter.pdf"
+    },
+    {
+        "date": "2025-10-13",
+        "victim": "Blue Teal Holdings, LLC",
+        "domain": "bluetealholdings.com",
+        "country": "USA",
+        "summary": "Blue Teal Holdings, LLC experienced unauthorized access to certain systems, resulting in the potential exposure of protected personal information. The incident occurred through current or previous relationships with Blue Teal Holdings' affiliates, subsidiaries, and other entities. The company is offering complimentary credit monitoring services to affected individuals.",
+        "title": "Data Breach Notification",
+        "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/ef9fb7bc-7d26-48bf-9395-5d9a8a062187.html",
+        "added": "2026-05-29"
+    },
+    {
         "date": "2025-09-29",
         "victim": "Charles P. Elliott, P.C.",
         "domain": "elliotttaxservice.com",
