@@ -1,5 +1,37 @@
 [
     {
+        "date": "2025-02-24",
+        "victim": "Industrial Acceptance Corporation",
+        "domain": "iaccredit.com",
+        "country": "USA",
+        "summary": "Industrial Acceptance Corporation suffered a ransomware event resulting in the unauthorized acquisition of personal information concerning 226 residents of Maine. The incident occurred on February 24, 2025, and was discovered on the same date. The affected information included individuals' names, Social Security numbers, and/or driver's license numbers. A cyberattack was claimed by Akira on March 12, 2025.",
+        "title": "Data Breach Notification",
+        "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/c2a95af1-d639-45ab-ab0d-8dbefca3f72a.html",
+        "added": "2026-05-30"
+    },
+    {
+        "date": "2026-03-07",
+        "victim": "Harbor Developmental Disabilities Foundation",
+        "domain": "harborrc.org",
+        "country": "USA",
+        "summary": "Harbor Developmental Disabilities Foundation experienced a data breach where an unauthorized individual accessed certain information on March 6 and 7, 2026. The potentially impacted information varied by individual and included personal data. The organization is providing credit monitoring services to affected individuals.",
+        "title": "Data Breach Notification",
+        "url": "https://oag.ca.gov/ecrime/databreach/reports/sb24-624044",
+        "added": "2026-05-29",
+        "pdf_url": "https://oag.ca.gov/system/files/Adult%20Notification%20Letter%20-%20HRC%20-%20Wave%202_Redacted.pdf"
+    },
+    {
+        "date": "2025-03-10",
+        "victim": "Johnson-Peltier Electric, Inc.",
+        "domain": "johnson-peltier.com",
+        "country": "USA",
+        "summary": "An unauthorized actor gained access to Johnson-Peltier's computer network and potentially copied a limited number of files containing personal information, including names, Social Security numbers, and financial account information.",
+        "title": "Data Breach Notification",
+        "url": "https://oag.ca.gov/ecrime/databreach/reports/sb24-624043",
+        "added": "2026-05-29",
+        "pdf_url": "https://oag.ca.gov/system/files/Johnson-Peltier%20Electric%2C%20Inc.%20-%20Notice%20of%20Data%20Event%20-%20CA_0.pdf"
+    },
+    {
         "date": "2025-07-08",
         "victim": "La Perouse, LLC",
         "domain": "laperouse.us",
