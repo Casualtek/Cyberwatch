@@ -1,5 +1,27 @@
 [
     {
+        "date": "2025-12-16",
+        "victim": "IMA Diligence Services",
+        "domain": "imadil.com",
+        "country": "USA",
+        "summary": "IMA Diligence Services, LLC suffered a data breach due to unauthorized access to a legacy server managed by a third-party. The incident occurred between December 8, 2025, and December 16, 2025, and potentially impacted 1464 Rhode Island residents. A cyberattack was claimed by Genesis on January 27, 2026.",
+        "title": "Data Breach Notification",
+        "url": "https://oag.ca.gov/ecrime/databreach/reports/sb24-624137",
+        "added": "2026-05-30",
+        "pdf_url": "https://oag.ca.gov/system/files/IMA%20Diligence%20Services%2C%20LLC%20-%20Notice%20of%20Data%20Event%20-%20CA_0.pdf"
+    },
+    {
+        "date": "2026-03-03",
+        "victim": "RXNT",
+        "domain": "rxnt.com",
+        "country": "USA",
+        "summary": "RXNT suffered a cybersecurity incident where an unauthorized actor obtained certain data stored on their system, including names, dates of birth, and Social Security numbers, between March 1, 2026, and March 3, 2026. The incident was discovered on March 3, 2026. RXNT notified affected customers on May 1, 2026.",
+        "title": "Data Breach Notification",
+        "url": "https://oag.ca.gov/ecrime/databreach/reports/sb24-624113",
+        "added": "2026-05-30",
+        "pdf_url": "https://oag.ca.gov/system/files/RXNT%20-%20California%20Notification.pdf"
+    },
+    {
         "date": "2026-02-18",
         "victim": "Texollini, Inc.",
         "domain": "texollini.com",
