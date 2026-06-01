@@ -1,5 +1,16 @@
 [
     {
+        "date": "2026-05-15",
+        "victim": "Weil, Gotshal & Manges LLP",
+        "domain": "weil.com",
+        "country": "USA",
+        "summary": "Le cabinet d'avocats américain Weil a payé entre 18 et 20 millions de dollars à un groupe d'extorsion cybernétique, Silent Ransom Group. Ce paiement visait à empêcher la publication de données clients volées, qui avaient été téléchargées sur un site de stockage cloud externe. Le cabinet a confirmé avoir activé ses protocoles de réponse aux incidents et a notifié les autorités après la découverte de l'incident.",
+        "description": "",
+        "title": "Weil reportedly paid up to $20m after hackers stole client files",
+        "url": "https://www.nonbillable.co.uk/news/weil-reportedly-paid-up-to-20m-after-hackers-stole-client-files-luna-moth",
+        "added": "2026-06-01"
+    },
+    {
         "date": "2026-05-24",
         "victim": "Glasgow School of Art",
         "domain": "gsa.ac.uk",
