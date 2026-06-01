@@ -1,5 +1,16 @@
 [
     {
+        "date": "2026-05-24",
+        "victim": "Glasgow School of Art",
+        "domain": "gsa.ac.uk",
+        "country": "GBR",
+        "summary": "L'école d'art de Glasgow (GSA) a subi une perturbation informatique affectant ses étudiants et son personnel. Les utilisateurs ont été bloqués de leurs courriels et services en ligne. Bien que l'école ait qualifié cela de « perturbation informatique temporaire », ses employés ont été contraints de se présenter en personne pour le changement de leurs mots de passe.",
+        "description": "",
+        "title": "Glasgow School of Art hacked, or was it?",
+        "url": "https://www.glasgowbell.co.uk/glasgow-school-of-art-hack-cyber-attack-lyons-daniels/",
+        "added": "2026-06-01"
+    },
+    {
         "date": "2025-12-16",
         "victim": "IMA Diligence Services",
         "domain": "imadil.com",
