@@ -1,5 +1,16 @@
 [
     {
+        "date": "2026-06-02",
+        "victim": "LUMAX INTERNATIONAL CORP., LTD.",
+        "domain": "elumax.com",
+        "country": "TWN",
+        "summary": "Une cyberattaque a affecté les systèmes d'information de Lumax International. Les évaluations actuelles indiquent qu'il n'y a eu aucun impact matériel sur les opérations de ce distributeur spécialisé et aucune fuite de données personnelles ou confidentielles n'a été découverte. L'entreprise a activé ses mécanismes de défense et procède actuellement à la restauration des systèmes à l'aide de sauvegardes.",
+        "description": "",
+        "title": "Today's Information",
+        "url": "https://emops.twse.com.tw/server-java/t05sr01_1_e?&isNew=Y&seq_no=1&spoke_time=74158&spoke_date=20260602&co_id=6192",
+        "added": "2026-06-02"
+    },
+    {
         "date": "2026-05-15",
         "victim": "Weil, Gotshal & Manges LLP",
         "domain": "weil.com",
