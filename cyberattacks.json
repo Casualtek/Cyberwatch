@@ -1,5 +1,16 @@
 [
     {
+        "date": "2026-04-30",
+        "victim": "National Federation of Subpostmasters",
+        "domain": "nfsp.org.uk",
+        "country": "GBR",
+        "summary": "La Fédération Nationale des Sous-postes (NFSP) a été victime d'une cyberattaque par rançongiciel en avril. Cette attaque a été rendue possible par l'exploitation d'une vulnérabilité dans le logiciel de son fournisseur d'hébergement web, cPanel. Bien que l'incident ait provoqué des problèmes techniques entraînant la suspension des échanges d'e-mails, la NFSP a confirmé qu'aucune donnée n'a été perdue.",
+        "description": "",
+        "title": "Subpostmaster federation hit by ransomware attack | Computer Weekly",
+        "url": "https://www.computerweekly.com/news/366643958/Subpostmaster-federation-hit-by-ransomware-attack",
+        "added": "2026-06-03"
+    },
+    {
         "date": "2026-06-01",
         "victim": "Ville de Thorold",
         "domain": "thorold.ca",
