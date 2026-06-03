@@ -1,5 +1,16 @@
 [
     {
+        "date": "2026-06-01",
+        "victim": "Ville de Thorold",
+        "domain": "thorold.ca",
+        "country": "CAN",
+        "summary": "La ville de Thorold est en cours d'enquête suite à un incident de cybersécurité survenu lundi. Cet incident a affecté certains systèmes du réseau municipal, et la ville évalue actuellement sa nature et son étendue. Les autorités municipales examinent également si des informations personnelles ou confidentielles ont été compromises.",
+        "description": "",
+        "title": "Probe into cyber incident ongoing, City of Thorold official says",
+        "url": "https://www.pelhamtoday.ca/local-news/probe-into-cyber-incident-ongoing-city-of-thorold-official-says-12364097",
+        "added": "2026-06-03"
+    },
+    {
         "date": "2026-06-02",
         "victim": "LUMAX INTERNATIONAL CORP., LTD.",
         "domain": "elumax.com",
