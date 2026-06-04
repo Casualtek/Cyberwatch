@@ -1,5 +1,16 @@
 [
     {
+        "date": "2026-05-31",
+        "victim": "Bowman Parks & Recreation",
+        "domain": "bowmannd.com",
+        "country": "USA",
+        "summary": "Les fichiers de Bowman Parks & Recreation ont été chiffrés lors d'une cyberattaque, mais la date de l'attaque et son impact public restent inconnus. L'attaque a affecté l'accès du département des parcs aux fichiers internes, y compris les sauvegardes sur clés USB. Bien qu'un message de l'attaquant ait été reçu, les fichiers ont été déchiffrés après l'intervention d'un expert. Il n'a pas été confirmé que des données aient été exfiltrées ni que des services publics aient été perturbés. L'incident a conduit le conseil municipal à examiner des options de cybersécurité.",
+        "description": "",
+        "title": "Bowman, North Dakota parks files encrypted in cyberattack",
+        "url": "https://dysruptionhub.com/bowman-parks-cyberattack/",
+        "added": "2026-06-04"
+    },
+    {
         "date": "2025-12-21",
         "victim": "Singing River Health System",
         "domain": "singingriverhealthsystem.com",
