@@ -1,5 +1,16 @@
 [
     {
+        "date": "2026-05-11",
+        "victim": "Mountain Park",
+        "domain": "mtnparkok.org",
+        "country": "USA",
+        "summary": "La ville de Mountain Park, Oklahoma, a subi une violation de sécurité qui a affecté son réseau de mairie. L'accès non autorisé aux systèmes municipaux a été identifié le 11 mai. Bien que les systèmes administratifs aient été affectés, les services publics et les données des résidents n'ont pas été perturbés. La ville a sollicité l'aide du Bureau d'enquête de l'État de l'Oklahoma (OSBI) pour enquêter sur l'incident, qui est examiné en vertu de la Loi sur les crimes informatiques de l'Oklahoma.",
+        "description": "",
+        "title": "Mountain Park, Oklahoma, says breach hit Town Hall system",
+        "url": "https://dysruptionhub.com/mountain-park-ok-town-hall-breach/",
+        "added": "2026-06-04"
+    },
+    {
         "date": "2026-04-30",
         "victim": "National Federation of Subpostmasters",
         "domain": "nfsp.org.uk",
