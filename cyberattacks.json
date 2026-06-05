@@ -1,5 +1,25 @@
 [
     {
+        "date": "2026-03-17",
+        "victim": "Pride Solvent & Chemical Co.",
+        "domain": "pridesol.com",
+        "country": "USA",
+        "summary": "The Company discovered on or about March 17, 2026, that it had suffered a cybersecurity attack on its on-premises servers believed to have occurred between March 13 and March 17, 2026. Immediately upon discovery, the Company retained outside counsel and engaged an independent forensic expert to investigate the breach. Although the investigation is ongoing and the full extent of any data compromise has not yet been confirmed, the Company is notifying affected individuals now in order to comply with applicable state data breach notification laws. A cyberattack was claimed by Dragonforce on March 26.",
+        "title": "Data Breach Notification",
+        "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/06a8caa6-d737-4c9b-9bb5-9630cc34457c.html",
+        "added": "2026-06-05"
+    },
+    {
+        "date": "2026-03-12",
+        "victim": "Othon, Inc.",
+        "domain": "othon.com",
+        "country": "USA",
+        "summary": "Othon, Inc. suffered a data breach where certain files within its network were accessed and/or downloaded without authorization, potentially exposing name, Social Security Number, driver’s license number, and/or financial account information.",
+        "title": "Data Breach Notification",
+        "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/79ce4477-f821-4984-89d3-913897fe1548.html",
+        "added": "2026-06-05"
+    },
+    {
         "date": "2026-03-20",
         "victim": "Community Connections",
         "domain": "communityconnections.org",
