@@ -1,5 +1,16 @@
 [
     {
+        "date": "2025-12-16",
+        "victim": "IMA Diligence Services",
+        "domain": "imadiligence.com",
+        "country": "USA",
+        "summary": "Le conseiller financier américain IMA Diligence Services a confirmé avoir été victime d'une cyberattaque par le groupe de ransomware Genesis. L'incident, découvert à la mi-décembre 2025, a permis aux attaquants d'accéder à un serveur hébergé par un prestataire externe et d'exfiltrer environ 700 Go de données sensibles. Plus de 525 000 personnes sont concernées, avec des informations compromises incluant des noms, adresses, numéros de sécurité sociale, données bancaires et rapports médicaux.",
+        "description": "",
+        "title": "IMA Diligence Services meldet Datenleck bei 525.000 Menschen",
+        "url": "https://www.it-daily.net/shortnews/ima-diligence-services-datenleck",
+        "added": "2026-06-05"
+    },
+    {
         "date": "2025-02-13",
         "victim": "Bell Ambulance",
         "domain": "264bell.com",
