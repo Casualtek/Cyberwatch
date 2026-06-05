@@ -1,5 +1,25 @@
 [
     {
+        "date": "2025-06-19",
+        "victim": "CGP&H, LLC",
+        "domain": "cgph.com",
+        "country": "USA",
+        "summary": "CGP&H, LLC suffered a data breach where an unknown actor gained access to certain parts of its network between June 19, and June 20, 2025, and may have accessed or acquired certain files. The breach may have exposed name and Social Security number/Individual Taxpayer Identification Number. A cyberattack was claimed by Play on June 27, 2025.",
+        "title": "Data Breach Notification",
+        "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/db4c93eb-e2e6-46f4-93fc-27d5fc52fc50.html",
+        "added": "2026-06-02"
+    },
+    {
+        "date": "2026-02-23",
+        "victim": "Strategic Education Inc.",
+        "domain": "strategiceducation.com",
+        "country": "USA",
+        "summary": "Unauthorized access to Strategic Education Inc.'s computer network resulted in the theft of sensitive information, including Social Security numbers, driver's license numbers, and passport numbers, for 2,673 Maine residents.",
+        "title": "Data Breach Notification",
+        "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/d36baa51-5e64-4551-8238-b5384c6eb0cf.html",
+        "added": "2026-06-02"
+    },
+    {
         "date": "2026-05-29",
         "victim": "Belimed",
         "domain": "belimed.com",
