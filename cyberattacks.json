@@ -1,5 +1,16 @@
 [
     {
+        "date": "2026-06-04",
+        "victim": "Karl Auto Group",
+        "domain": "karlchevrolet.com",
+        "country": "USA",
+        "summary": "Karl Auto Group, un détaillant automobile majeur de l'Iowa, a été victime d'une cyberattaque en avril qui a perturbé ses téléphones et ordinateurs. L'incident, dont l'accès non autorisé aux systèmes a eu lieu avant le 27 mars, pourrait avoir exposé des données sensibles de clients et d'employés, incluant des numéros de sécurité sociale, des informations financières et des numéros de passeport. Bien que l'entreprise n'ait pas qualifié l'incident de rançongiciel, un groupe nommé RansomHouse a affirmé que les systèmes de Karl Chevrolet avaient été chiffrés le 3 avril.",
+        "description": "",
+        "title": "Karl Auto Group cyberattack disrupts Iowa dealerships",
+        "url": "https://dysruptionhub.com/karl-auto-group-iowa-cyberattack/",
+        "added": "2026-06-05"
+    },
+    {
         "date": "2026-04-15",
         "victim": "Powys County Council",
         "domain": "powys.gov.uk",
