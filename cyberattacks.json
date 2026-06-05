@@ -1,5 +1,16 @@
 [
     {
+        "date": "2025-02-13",
+        "victim": "Bell Ambulance",
+        "domain": "264bell.com",
+        "country": "USA",
+        "summary": "Le plus grand fournisseur de services d'ambulance en Wisconsin, Bell Ambulance, a confirmé avoir été victime d'une cyberattaque par ransomware attribuée au groupe Medusa. L'attaque a entraî successit le vol de données sensibles de plus de 235 000 personnes, incluant des numéros de sécurité sociale, des numéros de permis de conduire, des comptes financiers, des informations médicales et des informations sur l'assurance santé. L'entreprise a découvert l'attaque en février 2025 et a commencé à notifierer les victimes en avril 2025. Le groupe Medusa a réclamé une rançon de 400 000 dollars pour les 219 Go de données volées.",
+        "description": "",
+        "title": "235,000 affected by cyberattack on largest ambulance provider in Wisconsin",
+        "url": "https://therecord.media/235000-affected-cyberattack-ambulance-provider",
+        "added": "2026-06-05"
+    },
+    {
         "date": "2026-03-17",
         "victim": "Pride Solvent & Chemical Co.",
         "domain": "pridesol.com",
