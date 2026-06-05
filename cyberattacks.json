@@ -1,5 +1,16 @@
 [
     {
+        "date": "2026-05-14",
+        "victim": "Krum Public Library",
+        "domain": "krumlibrary.org",
+        "country": "USA",
+        "summary": "La Krum Public Library, située au Texas, a été victime d'une attaque par ransomware sophistiquée le 14 mai 2026. L'incident a entraîné une interruption temporaire de l'accès aux ordinateurs, de l'impression et du Wi-Fi, ainsi qu'une limitation du service de prêt. Bien que les attaquants aient exigé une rançon et menacé de publier des données, la bibliothèque a confirmé que ses sauvegardes ont permis d'éviter une perte de données critiques. Une enquête forensique est en cours pour déterminer si des informations personnelles sensibles ont été affectées, mais les autorités ont indiqué qu'aucun numéro de sécurité sociale ou information financière personnelle n'a été touché. Les autorités fédérales, y compris le FBI, ont été informées.",
+        "description": "",
+        "title": "Krum, Texas, library says ransomware disrupted computers",
+        "url": "https://dysruptionhub.com/krum-library-ransomware-wifi/",
+        "added": "2026-06-05"
+    },
+    {
         "date": "2026-06-04",
         "victim": "Karl Auto Group",
         "domain": "karlchevrolet.com",
