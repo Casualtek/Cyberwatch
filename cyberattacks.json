@@ -1,5 +1,16 @@
 [
     {
+        "date": "2026-04-15",
+        "victim": "Powys County Council",
+        "domain": "powys.gov.uk",
+        "country": "GBR",
+        "summary": "Un incident de cybersécurité a affecté une école du Powys County Council, entraînant l'accès à des données personnelles de pupils, de personnel et d'autres personnes. L'incident a été identifié en avril 2026 et rapidement contenu. Une enquête est en cours avec l'aide d'experts en cybersécurité. Le conseil n'a pas encore identifié l'école ni le type de données compromises, mais il assure que les écoles restent ouvertes et que les mesures sont prises pour protéger les individus affectés.",
+        "description": "",
+        "title": "Pupils, staff, and other data accessed in school cyber attack",
+        "url": "https://www.mynewtown.co.uk/viewernews/ArticleId/23918",
+        "added": "2026-06-05"
+    },
+    {
         "date": "2026-05-31",
         "victim": "Bowman Parks & Recreation",
         "domain": "bowmannd.com",
