@@ -1,5 +1,25 @@
 [
     {
+        "date": "2025-05-28",
+        "victim": "Waveny Lifecare Network",
+        "domain": "waveny.org",
+        "country": "USA",
+        "summary": "Waveny LifeCare Network suffered a data breach on May 28, 2025, where unauthorized access occurred to certain information. The breach was discovered on May 28, 2025, and a thorough investigation was conducted. The affected information included last name in combination with other information. A cyberattack was claimed by Qilin on June 12, 2025.",
+        "title": "Data Breach Notification",
+        "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/44f23a9f-0c63-4b19-a98b-f83e7491e0aa.html",
+        "added": "2026-06-03"
+    },
+    {
+        "date": "2026-03-19",
+        "victim": "RCI Internet Services, Inc.",
+        "domain": "rcihospitality.com",
+        "country": "USA",
+        "summary": "RCI Internet Services, Inc. suffered a data breach where unauthorized access and acquisition of files occurred on March 19, 2026, potentially exposing personal information. The breach was discovered on March 23, 2026, and an investigation was conducted. The affected information may have included first and last names, Social Security numbers, driver's license numbers, and passport numbers.",
+        "title": "Data Breach Notification",
+        "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/f77cf12d-ecb8-44d2-9c23-98dc0a60ca68.html",
+        "added": "2026-06-03"
+    },
+    {
         "date": "2025-06-19",
         "victim": "CGP&H, LLC",
         "domain": "cgph.com",
