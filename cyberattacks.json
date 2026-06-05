@@ -1,5 +1,15 @@
 [
     {
+        "date": "2025-12-15",
+        "victim": "Clarinda Regional Health Center",
+        "domain": "clarindahealth.com",
+        "country": "USA",
+        "summary": "Clarinda Regional Health Center discovered suspicious activity within its network environment on December 15, 2025, and determined that certain files may have been acquired without authorization in or around October 2025. The investigation revealed that personal information, including first and last name, as well as Social Security number, was involved. A cyberattack was claimed by LockBit on December 19, 2025.",
+        "title": "Data Breach Notification",
+        "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/48305a42-d02d-4d6e-bfe3-4ae21ef7d206.html",
+        "added": "2026-06-04"
+    },
+    {
         "date": "2025-05-28",
         "victim": "Waveny Lifecare Network",
         "domain": "waveny.org",
