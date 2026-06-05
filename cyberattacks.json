@@ -1,5 +1,16 @@
 [
     {
+        "date": "2026-05-29",
+        "victim": "Belimed",
+        "domain": "belimed.com",
+        "country": "CHE",
+        "summary": "Le conglomérat de technologie médicale Belimed a été victime d'une cyberattaque. Un groupe de hackers criminels a réussi à pénétrer des zones spécifiques des systèmes informatiques de Belimed Infection Control et à copier des données d'entreprise. Cependant, l'activité commerciale des clients n'a pas été affectée et aucune cryptage n'a eu lieu.",
+        "description": "",
+        "title": "Belimed ist Opfer eines Cyberangriffs",
+        "url": "https://www.inside-it.ch/belimed-ist-opfer-eines-cyberangriffs-20260603",
+        "added": "2026-06-05"
+    },
+    {
         "date": "2026-05-14",
         "victim": "Krum Public Library",
         "domain": "krumlibrary.org",
