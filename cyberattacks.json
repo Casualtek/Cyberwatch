@@ -1,5 +1,15 @@
 [
     {
+        "date": "2026-03-20",
+        "victim": "Community Connections",
+        "domain": "communityconnections.org",
+        "country": "USA",
+        "summary": "Community Connections suffered a data breach that exposed sensitive information, including full names, addresses, dates of birth, social security numbers, medical information, health insurance information, and financial information. The breach occurred between March 18, 2026, and March 20, 2026. A cyberattack was claimed by INC Ransom on April 4.",
+        "title": "Data Breach Notification",
+        "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/cb7caccd-df41-49cb-8a41-69b507e79782.html",
+        "added": "2026-06-05"
+    },
+    {
         "date": "2025-12-15",
         "victim": "Clarinda Regional Health Center",
         "domain": "clarindahealth.com",
