@@ -1,5 +1,16 @@
 [
     {
+        "date": "2026-06-01",
+        "victim": "Chandrapur Cancer Care Foundation (Cancer Hospital)",
+        "domain": "chandrapurcancercare.org",
+        "country": "IND",
+        "summary": "La fondation Chandrapur Cancer Care (hôpital de cancérologie) a été la cible d'une cyberattaque par ransomware. Les pirates ont chiffré l'intégralité de la base de données de l'établissement, incluant les dossiers des patients et les informations administratives. Ils réclament une rançon d'environ 1,23456 Bitcoin (soit environ 75 lakh de roupies) pour fournir la clé de déchiffrement. L'incident a gravement perturbé les opérations quotidiennes et la gestion des patients.",
+        "description": "",
+        "title": "Chandrapur Cancer Hospital Hit by Ransomware Attack, Hackers Demand Rs 75 Lakh - The Live Nagpur",
+        "url": "https://thelivenagpur.com/2026/06/06/chandrapur-cancer-hospital-hit-by-ransomware-attack-hackers-demand-rs-75-lakh/",
+        "added": "2026-06-06"
+    },
+    {
         "date": "2025-12-16",
         "victim": "IMA Diligence Services",
         "domain": "imadiligence.com",
