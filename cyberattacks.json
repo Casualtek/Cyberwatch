@@ -1,5 +1,46 @@
 [
     {
+        "date": "2026-02-17",
+        "victim": "Plaza Home Mortgage, Inc.",
+        "domain": "plazahomemortgage.com",
+        "country": "USA",
+        "summary": "Plaza Home Mortgage, Inc. experienced a security incident involving unauthorized access to an employee's computer, potentially exposing personal information. The incident occurred on or around February 17, 2026. A cyberattack was claimed by Silent Ransom Group 10 days later.",
+        "title": "Data Breach Notification",
+        "url": "https://agportal-s3bucket.s3.amazonaws.com/databreach/BreachA41235.pdf",
+        "added": "2026-06-06"
+    },
+    {
+        "date": "2025-12-26",
+        "victim": "Gay & Lesbian Community Services Center of Orange County, Inc.",
+        "domain": "lgbtqcenteroc.org",
+        "country": "USA",
+        "summary": "The organization suffered a data breach that impacted 481 Rhode Island residents, and the affected individuals are advised to take measures to protect their personal information, including enrolling in complimentary credit monitoring, obtaining a free credit report, and placing a fraud alert or security freeze on their credit files.",
+        "title": "Data Breach Notification",
+        "url": "https://oag.ca.gov/ecrime/databreach/reports/sb24-624395",
+        "added": "2026-06-06",
+        "pdf_url": "https://oag.ca.gov/system/files/GLCC_L1_Adult_CM_38117178v1_Final%2838387305.1%29_Redacted_38388980v1.pdf"
+    },
+    {
+        "date": "2025-02-12",
+        "victim": "Lansing Community College",
+        "domain": "lcc.edu",
+        "country": "USA",
+        "summary": "Lansing Community College experienced a data breach due to unauthorized access to its systems, potentially exposing personal information of students and staff. The breach occurred on February 12, 2025, and was discovered on February 18, 2025. The college is offering 24 months of complimentary credit monitoring and identity protection services to affected individuals.",
+        "title": "Data Breach Notification",
+        "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/1d026f2f-25f5-4ff8-b64e-dd5d0a974cf0.html",
+        "added": "2026-06-06"
+    },
+    {
+        "date": "2025-09-09",
+        "victim": "Tarter Krinsky & Drogin LLP",
+        "domain": "tarterkrinsky.com",
+        "country": "USA",
+        "summary": "Tarter Krinsky & Drogin LLP suffered a data breach between July 9, 2025, and September 9, 2025, resulting in unauthorized access to certain servers and potential exposure of sensitive information. The breach was discovered on September 10, 2025. The firm is offering credit monitoring services to affected individuals.",
+        "title": "Data Breach Notification",
+        "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/e91814b2-5fe9-42b4-a0bf-23ca3c652c0b.html",
+        "added": "2026-06-06"
+    },
+    {
         "date": "2026-06-01",
         "victim": "Chandrapur Cancer Care Foundation (Cancer Hospital)",
         "domain": "chandrapurcancercare.org",
