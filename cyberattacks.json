@@ -1,5 +1,16 @@
 [
     {
+        "date": "2026-06-07",
+        "victim": "Evanston Township High School District 202",
+        "domain": "eths202.org",
+        "country": "USA",
+        "summary": "Le district scolaire Evanston Township High School 202 a été victime d'une attaque par ransomware le 7 juin 2026, perturbant les systèmes du district, les services internet et l'infrastructure informatique. En conséquence, l'école est fermée les 8 et 9 juin 2026, et toutes les activités prévues sur le campus sont annulées. Le district a activé ses procédures de réponse aux incidents, fait appel à des experts en cybersécurité et en droit, et coopère avec le FBI pour déterminer l'étendue des données compromises et restaurer les systèmes.",
+        "description": "",
+        "title": "Cybersecurity Incident - Evanston Township High School District 202",
+        "url": "https://www.eths202.org/about/cybersecurity-incident",
+        "added": "2026-06-08"
+    },
+    {
         "date": "2026-02-17",
         "victim": "Plaza Home Mortgage, Inc.",
         "domain": "plazahomemortgage.com",
