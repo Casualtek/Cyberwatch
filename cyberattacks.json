@@ -1,5 +1,16 @@
 [
     {
+        "date": "2026-06-02",
+        "victim": "Au Vieux Campeur",
+        "domain": "auvieuxcampeur.fr",
+        "country": "FRA",
+        "summary": "Le Vieux Campeur a été victime d'une cyberattaque d'ampleur le 2 juin 2026, mais ses équipes techniques, épaulées par des experts en cyberdéfense, ont immédiatement mis en œuvre des mesures de confinement et de sécurisation pour en limiter l'impact et rétablir ses services. L'incident a été déclaré aux autorités compétentes et à la CNIL conformément au RGPD, une plainte a été déposée, et les investigations en cours laissent à ce stade penser que les données clients, hébergées dans un environnement externalisé sécurisé, n'ont pas été compromises, l'entreprise ne collectant par ailleurs aucune donnée bancaire ou financière sensible. ",
+        "description": "",
+        "title": "Communiqué officiel cyberattaque",
+        "url": "https://www.auvieuxcampeur.fr/communique-officiel-cyberattaque",
+        "added": "2026-06-09"
+    },
+    {
         "date": "2026-06-08",
         "victim": "AVBOB Funeral Services",
         "domain": "avbob.co.za",
