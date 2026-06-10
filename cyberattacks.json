@@ -1,6 +1,17 @@
 [
     {
         "date": "2026-06-10",
+        "victim": "Onslow County Schools",
+        "domain": "onslow.k12.nc.us",
+        "country": "USA",
+        "summary": "Le district scolaire d'Onslow County, en Caroline du Nord, subit une panne généralisée de téléphone et d'internet affectant 43 établissements et plus de 28 000 élèves. L'incident a perturbé les examens de fin de cours et les diffusions en direct des cérémonies de remise des diplômes. Bien que le district qualifie l'événement de « problème technique » sans fournir de délai de rétablissement, l'ampleur de la panne soulève des interrogations sur une possible cyberattaque, bien qu'aucune confirmation officielle n'ait été faite à ce jour.",
+        "description": "",
+        "title": "Possible cyber incident disrupts Onslow County Schools phones and internet in North Carolina",
+        "url": "https://dysruptionhub.com/onslow-schools-outage-north-carolina/",
+        "added": "2026-06-10"
+    },
+    {
+        "date": "2026-06-10",
         "victim": "Great Marlow School",
         "domain": "gms.bucks.sch.uk",
         "country": "GBR",
