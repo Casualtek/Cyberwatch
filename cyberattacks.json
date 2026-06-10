@@ -1,5 +1,16 @@
 [
     {
+        "date": "2026-03-15",
+        "victim": "Rajagiri Hospital",
+        "domain": "rajagirihospital.com",
+        "country": "IND",
+        "summary": "Un hôpital privé majeur dans le district d'Ernakulam a été victime d'une cyberattaque massive ayant entraîné l'exfiltration de plus de 800 Go de données médicales. Les données, incluant des dossiers de patients, des détails de traitements et des comptes rendus de réunions, ont été mises en vente sur le dark web. L'attaque est attribuée au groupe cybercriminel international 'The Gentlemen', qui a émergé en 2025. Bien que l'hôpital ait initialement nié toute exfiltration de données, une vérification des journaux a confirmé la brèche. L'attaque aurait débuté par un e-mail de ransomware. L'établissement a fait appel à une entreprise de cybersécurité internationale mais n'a pas déposé de plainte officielle auprès de la police.",
+        "description": "",
+        "title": "Hackers target Ernakulam hospital, steal 800GB data",
+        "url": "https://www.newindianexpress.com/states/kerala/2026/Jun/10/hackers-target-ernakulam-hospital-steal-800gb-data",
+        "added": "2026-06-10"
+    },
+    {
         "date": "2026-06-08",
         "victim": "Reynella East College",
         "domain": "reynellaec.sa.edu.au",
