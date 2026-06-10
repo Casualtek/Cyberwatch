@@ -1,5 +1,16 @@
 [
     {
+        "date": "2026-06-09",
+        "victim": "Central Bank of Libya (CBL)",
+        "domain": "cbl.gov.ly",
+        "country": "LBY",
+        "summary": "La Banque Centrale de Libye (CBL) a annoncé avoir été la cible d'une cyberattaque touchant certains de ses systèmes et services techniques. Les équipes de cybersécurité ont détecté l'incident immédiatement et ont isolé les systèmes affectés pour limiter l'impact. Bien que des analyses forensiques soient en cours avec l'aide d'experts internationaux, la banque précise qu'il n'y a aucune indication confirmée que les comptes ou les données des clients ont été compromis. Les services essentiels, tels que les cartes bancaires et la plateforme LYPAY, continuent de fonctionner normalement.",
+        "description": "",
+        "title": "CBL: Cyberattack contained, investigations ongoing with no signs of impact on customer accounts",
+        "url": "https://libyaobserver.ly/news/cbl-cyberattack-contained-investigations-ongoing-no-signs-impact-customer-accounts",
+        "added": "2026-06-10"
+    },
+    {
         "date": "2026-06-10",
         "victim": "Mackay Sugar",
         "domain": "mkysugar.com.au",
