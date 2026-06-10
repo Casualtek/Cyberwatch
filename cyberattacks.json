@@ -1,5 +1,16 @@
 [
     {
+        "date": "2026-06-10",
+        "victim": "Great Marlow School",
+        "domain": "gms.bucks.sch.uk",
+        "country": "GBR",
+        "summary": "L'école Great Marlow, située dans le Buckinghamshire, a dû fermer ses portes à la plupart des élèves ce mercredi 10 juin suite à une suspicion de cyberattaque. Un logiciel malveillant a affecté une partie des systèmes informatiques de l'établissement, entraînant des restrictions d'accès au réseau. Seuls les élèves des classes de seconde et de terminale sont autorisés à se rendre sur place pour leurs examens externes. L'école collabore avec le ministère de l'Éducation et le National Cyber Security Centre (NCSC) pour évaluer la situation avec des experts en cybersécurité.",
+        "description": "",
+        "title": "Buckinghamshire school closed after cyber attack",
+        "url": "https://www.hellorayo.co.uk/greatest-hits/beds-bucks-herts/news/cyber-attack-closes-buckinghamshire-great-marlow-school",
+        "added": "2026-06-10"
+    },
+    {
         "date": "2026-06-08",
         "victim": "New York City Public Schools",
         "domain": "schools.nyc.gov",
