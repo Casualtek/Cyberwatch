@@ -1,5 +1,16 @@
 [
     {
+        "date": "2026-06-08",
+        "victim": "New York City Public Schools",
+        "domain": "schools.nyc.gov",
+        "country": "USA",
+        "summary": "Le district scolaire de New York (New York City Public Schools) enquête sur deux incidents de cybersécurité distincts. Le premier concerne un logiciel malveillant détecté sur des ordinateurs d'un laboratoire partagé dans un campus de Manhattan, qui a été immédiatement supprimé. Le second concerne une cyberattaque nationale ayant touché la plateforme d'apprentissage Canvas le 1er mai, perturbant l'accès aux examens et aux notes dans sept écoles du district. Le district collabore avec la police et le NYC Cyber Command pour identifier les sources des attaques et renforcer la sécurité, tandis que l'accès aux données sensibles des élèves et du personnel reste à déterminer.",
+        "description": "",
+        "title": "NYC schools hit by second cyber incident",
+        "url": "https://tribune.net.ph/amp/story/2026/06/09/nyc-schools-hit-by-second-cyber-incident",
+        "added": "2026-06-10"
+    },
+    {
         "date": "2026-03-15",
         "victim": "Rajagiri Hospital",
         "domain": "rajagirihospital.com",
