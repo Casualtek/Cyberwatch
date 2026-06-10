@@ -1,5 +1,16 @@
 [
     {
+        "date": "2026-06-10",
+        "victim": "Mackay Sugar",
+        "domain": "mkysugar.com.au",
+        "country": "AUS",
+        "summary": "Un incident de cybersécurité a provoqué l'arrêt de la production de sucre dans deux usines de la région de Mackay, dans le Queensland (Australie). L'attaque a interrompu le broyage de la canne à sucre ainsi que le transport ferroviaire, obligeant les agriculteurs à suspendre la récolte. L'entreprise Mackay Sugar, deuxième producteur de sucre brut du pays, travaille actuellement à la récupération des systèmes tout en privilégiant la sécurité du personnel et la continuité des activités. Aucune précision sur la durée de l'interruption n'a été communiquée.",
+        "description": "",
+        "title": "Cyber security incident shuts down north Queensland sugar mills",
+        "url": "https://www.abc.net.au/news/2026-06-10/cyber-attack-shuts-down-north-queensland-sugar-mills/106780304",
+        "added": "2026-06-10"
+    },
+    {
         "date": "2026-06-02",
         "victim": "Au Vieux Campeur",
         "domain": "auvieuxcampeur.fr",
