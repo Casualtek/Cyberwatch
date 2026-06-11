@@ -1,5 +1,12 @@
 [
   {
+    "victim": "steelworksinc.ca",
+    "domain": "steelworksinc.ca",
+    "country": "CA",
+    "date": "2025-11-29",
+    "group": "incransom"
+  },
+  {
     "victim": "Ma Pak Leung Company Limited",
     "domain": "mapakleung.com",
     "country": "HK",
