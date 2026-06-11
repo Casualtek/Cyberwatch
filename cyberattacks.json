@@ -1,5 +1,16 @@
 [
     {
+        "date": "2026-06-07",
+        "victim": "Toulouse Football Club",
+        "domain": "toulousefc.com",
+        "country": "FRA",
+        "summary": "Le Toulouse Football Club a été informé par l'un de ses prestataires d'un incident de sécurité affectant une infrastructure de sauvegarde de données. Le club a immédiatement activé ses protocoles de crise, sécurisé ses systèmes et a notifié la CNIL ainsi que les autorités compétentes. Bien qu'aucune donnée sensible n'ait été touchée et qu'aucune utilisation frauduleuse n'ait été constatée à ce jour, le club appelle à la vigilance face aux tentatives de phishing et d'usurpation d'identité.",
+        "description": "",
+        "title": "Incident de sécurité informatique - Toulouse FC",
+        "url": "https://www.toulousefc.com/play/blog/2026/06/incident-de-securite-informatique",
+        "added": "2026-06-11"
+    },
+    {
         "date": "2026-06-09",
         "victim": "Agence d'accréditation des soins de santé",
         "domain": "vaspvt.lrv.lt",
