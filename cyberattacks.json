@@ -1,5 +1,16 @@
 [
     {
+        "date": "2026-06-09",
+        "victim": "University of Nottingham",
+        "domain": "nottingham.ac.uk",
+        "country": "GBR",
+        "summary": "L'Université de Nottingham a été victime d'une cyberattaque majeure attribuée au groupe de cybercriminels ShinyHunters. L'incident a permis aux pirates d'accéder à une quantité importante de données dans le système de dossiers des étudiants (plateforme Campus Solutions), incluant des informations personnelles, des historiques éducatifs et des données financières (tels que les numéros de sécurité nationale). L'université a dû mettre le système hors ligne pour mener une enquête forensique, ce qui a perturbé la correction des examens. L'établissement a informé les autorités compétentes (Action Fraud et ICO) et a conseillé aux étudiants de rester vigilants face aux communications suspectes et de changer leurs mots de passe.",
+        "description": "",
+        "title": "Cyber gangs access students' personal data at UK red brick university",
+        "url": "https://www.mirror.co.uk/news/uk-news/nottingham-university-cyber-attack-update-37276386",
+        "added": "2026-06-11"
+    },
+    {
         "date": "2026-06-07",
         "victim": "Toulouse Football Club",
         "domain": "toulousefc.com",
