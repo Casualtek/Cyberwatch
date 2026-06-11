@@ -1,5 +1,16 @@
 [
     {
+        "date": "2026-06-09",
+        "victim": "Agence d'accréditation des soins de santé",
+        "domain": "vaspvt.lrv.lt",
+        "country": "LTU",
+        "summary": "Le responsable du Centre national de cybersécurité de Lituanie (NKVC), Antanas Aleknavičius, a déclaré que les institutions du pays ne font pas face à une cyberattaque coordonnée, malgré deux incidents majeurs récents. Le dernier incident a entraîné la fuite de 62 000 dossiers contenant des données personnelles de médecins de l'Agence d'accréditation des soins de santé de l'État. Un incident précédent le mois dernier avait déjà vu la fuite des données immobilières de plus de 600 000 personnes. Le procureur général a ouvert une enquête préliminaire sur ces accès non autorisés aux systèmes d'information.",
+        "description": "",
+        "title": "No sign of coordinated attack, Lithuanian authorities say after another cyber incident",
+        "url": "https://www.lrt.lt/en/news-in-english/19/2956259/no-sign-of-coordinated-attack-lithuanian-authorities-say-after-another-cyber-incident",
+        "added": "2026-06-11"
+    },
+    {
         "date": "2026-06-10",
         "victim": "Onslow County Schools",
         "domain": "onslow.k12.nc.us",
