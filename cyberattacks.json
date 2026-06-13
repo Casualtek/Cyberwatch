@@ -1,5 +1,16 @@
 [
     {
+        "date": "2026-06-06",
+        "victim": "MagaluPay",
+        "domain": "magalupay.com.br",
+        "country": "BRA",
+        "summary": "MagaluPay, une institution de paiement réglementée, a été victime d'une cyberattaque qui a empêché ses clients d'effectuer des transactions financières. Bien que l'entreprise ait confirmé l'incident et assuré que les données personnelles n'ont pas été compromises, les services de paiement via Pix ont été temporairement suspendus par mesure de sécurité. L'attaque a entraîné des difficultés pour les utilisateurs à payer des factures et à accéder au support client. Cet événement s'inscrit dans une tendance croissante de fraudes et d'attaques cibernées dans le système financier brésilien.",
+        "description": "",
+        "title": "MagaluPay sofre ataque cibernético e deixa clientes impossibilitados de acessar seus recursos financeiros por dias, gerando frustração e reclamações em massa.",
+        "url": "https://reportermaceio.com.br/magalupay-sofre-ataque-cibernetico-e-deixa-clientes-impossibilitados-de-acessar-seus-recursos-financeiros-por-dias-gerando-frustracao-e-reclamacoes-em-massa/",
+        "added": "2026-06-13"
+    },
+    {
         "date": "2026-06-11",
         "victim": "Kredietbank Limburg",
         "domain": "kredietbanklimburg.nl",
