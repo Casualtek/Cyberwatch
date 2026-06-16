@@ -1,5 +1,37 @@
 [
     {
+        "date": "2025-07-22",
+        "victim": "Bellflower Unified School District",
+        "domain": "busd.k12.ca.us",
+        "country": "USA",
+        "summary": "Bellflower Unified School District suffered a data breach where an unauthorized third party may have accessed personal information, including names and other breached elements, due to unauthorized activity within its computer systems. The incident was discovered on April 15, 2026, and the district has taken steps to address the incident and protect personal information. A cyberattack was claimed by Rhysida on October 28.",
+        "title": "Data Breach Notification",
+        "url": "https://oag.ca.gov/ecrime/databreach/reports/sb24-624831",
+        "added": "2026-06-13",
+        "pdf_url": "https://oag.ca.gov/system/files/Bellflower%20Notice%20Template.pdf"
+    },
+    {
+        "date": "2026-04-30",
+        "victim": "Landstar System Holdings, Inc.",
+        "domain": "landstar.com",
+        "country": "USA",
+        "summary": "Landstar System Holdings, Inc. suffered a data breach between April 29, 2026, and April 30, 2026, where an unauthorized actor accessed certain applications and storage locations within a limited scope of Landstar's environment and may have accessed or acquired some data from those systems. The information that could have been impacted includes name and driver's license number. Landstar is providing access to credit monitoring services for twelve months to affected individuals.",
+        "title": "Data Breach Notification",
+        "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/6709a51f-4865-4b2d-9ec2-9c8d9e679d79.html",
+        "added": "2026-06-12"
+    },
+    {
+        "date": "2026-04-09",
+        "victim": "Clinical Registry Solutions",
+        "domain": "clinicalregistrysolutions.com",
+        "country": "USA",
+        "summary": "Clinical Registry Solutions experienced a data security incident involving unauthorized access to its network, resulting in the acquisition of patient information. The incident occurred on April 9, 2026, and the affected information included names, medical record numbers, and procedure dates. No evidence of misuse has been reported.",
+        "title": "Data Breach Notification",
+        "url": "https://oag.ca.gov/ecrime/databreach/reports/sb24-624728",
+        "added": "2026-06-12",
+        "pdf_url": "https://oag.ca.gov/system/files/CRS%20-%20Sample%20Notice.pdf"
+    },
+    {
         "date": "2025-04-13",
         "victim": "Marsicovetere & Levine Law Group, P.C.",
         "domain": "rivercitylawyers.com",
