@@ -1,5 +1,16 @@
 [
     {
+        "date": "2026-06-03",
+        "victim": "Kittson County",
+        "domain": "kcmn.us",
+        "country": "USA",
+        "summary": "Le comté de Kittson, dans le Minnesota, subit des perturbations majeures de ses services de permis de conduire et de véhicules motorisés suite à un incident cyber affectant son réseau de services d'urgence. En mesure de précaution, l'agence informatique de l'État (MNIT) a bloqué l'accès du comté aux services de l'État. Bien que les services d'urgence restent opérationnels et que le réseau DMV ne semble pas directement compromis, une publication sur le site de fuite NightSpire suggère une possible exfiltration de données, bien que le comté n'ait pas confirmé de demande de rançon ou de vol de données à ce jour.",
+        "description": "",
+        "title": "Kittson County, Minnesota, DMV services halted after cyber report",
+        "url": "https://dysruptionhub.com/kittson-county-dmv-cyber-report/",
+        "added": "2026-06-16"
+    },
+    {
         "date": "2026-06-10",
         "victim": "Spartanburg County",
         "domain": "spartanburgcounty.gov",
