@@ -1,5 +1,16 @@
 [
     {
+        "date": "2026-06-10",
+        "victim": "Spartanburg County",
+        "domain": "spartanburgcounty.gov",
+        "country": "USA",
+        "summary": "Le comté de Spartanburg, en Caroline du Sud, subit une panne de réseau et d'internet de plusieurs jours débutée le 10 juin 2026. Bien que la cause exacte reste inconnue, la Division de la loi de Caroline du Sud (SLED) assiste le comté, ce qui suggère un incident de cybersécurité suspecté. Certains services publics et communications internes sont perturbés, notamment au bureau du shérif, mais les bureaux restent ouverts. Il s'agit du troisième incident de cybersécurité pour le comté en moins de trois ans.",
+        "description": "",
+        "title": "Spartanburg County, South Carolina outage draws cyber response",
+        "url": "https://dysruptionhub.com/spartanburg-county-cyber-outage/",
+        "added": "2026-06-16"
+    },
+    {
         "date": "2026-05-06",
         "victim": "IT Curves",
         "domain": "itcurves.ai",
