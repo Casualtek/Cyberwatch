@@ -1,5 +1,16 @@
 [
     {
+        "date": "2026-05-06",
+        "victim": "IT Curves",
+        "domain": "itcurves.ai",
+        "country": "USA",
+        "summary": "Une cyberattaque présumée a touché IT Curves, un fournisseur de logiciels de transport basé dans le Maryland, entraînant des perturbations dans les confirmations de trajets de paratransit, notamment pour le comté d'Allegany. Le groupe Ababil of Minab a revendiqué avoir compromis 20 machines critiques, supprimé 20 To de données et exfiltré 2 To de données sensibles. Bien que le lien entre IT Curves et l'incident ne soit pas officiellement confirmé par la société ou le comté, des preuves suggèrent qu'IT Curves est le fournisseur concerné. L'attaque s'inscrit dans une campagne plus large ciblant les infrastructures de transport, potentiellement liée à des acteurs liés à l'Iran.",
+        "description": "",
+        "title": "IT Curves in Maryland faces cyberattack claim after paratransit scheduling disruption",
+        "url": "https://dysruptionhub.com/it-curves-paratransit-cyberattack-claim/",
+        "added": "2026-06-16"
+    },
+    {
         "date": "2026-06-08",
         "victim": "iRhythm Holdings",
         "domain": "irhythmtech.com",
