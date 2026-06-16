@@ -1,5 +1,16 @@
 [
     {
+        "date": "2026-06-02",
+        "victim": "Katun Corporation",
+        "domain": "katun.com",
+        "country": "TWN",
+        "summary": "Le réseau informatique de Katun Corporation a fait l'objet d'un accès non autorisé le 2 juin 2026. L'entreprise a immédiatement isolé les systèmes et engagé des experts en cybersécurité externes pour l'enquête. L'incident a entraîné une suspension temporaire des expéditions, qui ont progressivement repris. Katun Corporation s'engage à renforcer ses contrôles de sécurité.",
+        "description": "",
+        "title": "Today's Information",
+        "url": "https://emops.twse.com.tw/server-java/t05sr01_1_e?&isNew=Y&seq_no=1&spoke_time=162856&spoke_date=20260616&co_id=6128",
+        "added": "2026-06-16"
+    },
+    {
         "date": "2026-06-07",
         "victim": "Novo Nordisk",
         "domain": "novonordisk.com",
