@@ -1,5 +1,35 @@
 [
     {
+        "date": "2025-04-13",
+        "victim": "Marsicovetere & Levine Law Group, P.C.",
+        "domain": "rivercitylawyers.com",
+        "country": "USA",
+        "summary": "Marsicovetere & Levine Law Group, P.C. experienced a data breach, resulting in the potential misuse of personal information. The organization has taken steps to safeguard personal information and has established a response line for affected individuals. Affected individuals are advised to enroll in credit monitoring services and place a fraud alert on their credit files. A cyberattack was claimed by Akira on May 1, 2025.",
+        "title": "Data Breach Notification",
+        "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/99303cd3-72cf-49d6-8cf5-a2462c13b44b.html",
+        "added": "2026-06-12"
+    },
+    {
+        "date": "2026-03-06",
+        "victim": "OEConnection LLC",
+        "domain": "oeconnection.com",
+        "country": "USA",
+        "summary": "OEConnection LLC experienced a data breach where an unauthorized party accessed certain servers and viewed files containing personal information, including names and Social Security numbers, between March 5-6, 2026. The breach was discovered on March 6, 2026, and affected one Maine resident. The company is providing complimentary access to credit monitoring services and identity restoration support to affected individuals.",
+        "title": "Data Breach Notification",
+        "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/ef5e92aa-e914-4882-8e70-b7dce63088d7.html",
+        "added": "2026-06-09"
+    },
+    {
+        "date": "2025-05-18",
+        "victim": "Casino, LLC dba Larry Flynt's Lucky Lady Casino",
+        "domain": "luckyladyla.com",
+        "country": "USA",
+        "summary": "Unauthorized actor gained access to certain systems and servers within the Casino network between May 14, 2025, and May 18, 2025, and removed certain information stored within. The information that could have been subject to unauthorized access may vary by individual but includes name, driver's license or state ID, and Social Security number. Casino, LLC promptly took steps to contain the activity and launched an investigation.",
+        "title": "Data Breach Notification",
+        "url": "https://www.maine.gov/agviewer/content/ag/985235c7-cb95-4be2-8792-a1252b4f8318/c7f6dc32-55eb-4479-a43f-3ae646599f97.html",
+        "added": "2026-06-11"
+    },
+    {
         "date": "2026-06-02",
         "victim": "Katun Corporation",
         "domain": "katun.com",
