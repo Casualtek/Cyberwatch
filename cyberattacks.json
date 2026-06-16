@@ -1,5 +1,16 @@
 [
     {
+        "date": "2026-06-08",
+        "victim": "iRhythm Holdings",
+        "domain": "irhythmtech.com",
+        "country": "USA",
+        "summary": "iRhythm Holdings a révélé un incident de cybersécurité impliquant un accès non autorisé à des données. L'activité non autorisée a été identifiée le 8 juin, et la société a lancé une enquête avec des experts externes. Bien qu'une demande de rançon ait été reçue le 9 juin, iRhythm a confirmé que l'incident n'a eu aucun impact sur la sécurité des patients, les systèmes de dispositifs médicaux, les opérations de fabrication ou les systèmes de rapport financier. Les données affectées proviennent d'applications d'affaires hébergées par des tiers et ont été obtenues par ingénierie sociale.",
+        "description": "",
+        "title": "iRhythm discloses cyber incident, says no impact on device systems, patient safety",
+        "url": "https://health.economictimes.indiatimes.com/news/medical-devices/irhythm-discloses-cyber-incident-says-no-impact-on-device-systems-patient-safety/131757082",
+        "added": "2026-06-16"
+    },
+    {
         "date": "2026-06-06",
         "victim": "MagaluPay",
         "domain": "magalupay.com.br",
