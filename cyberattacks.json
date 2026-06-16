@@ -1,5 +1,16 @@
 [
     {
+        "date": "2026-06-12",
+        "victim": "Kee Wah Bakery (奇華餅家)",
+        "domain": "keewah.com",
+        "country": "TWN",
+        "summary": "La pâtisserie Kee Wah (奇華餅家) a été victime d'une cyberattaque par ransomware ayant perturbé son système réseau interne le vendredi 12 juin 2026. Bien que l'entreprise n'ait pas encore pu confirmer si des données ont été exfiltrées, elle a pris des mesures préventives en contactant les personnes potentiellement touchées (employés, partenaires commerciaux, clients en ligne et membres du programme de fidélité). Les informations de paiement et de carte de crédit ne sont pas affectées, et les magasins physiques restent opérationnels. L'entreprise a signalé l'incident au commissariat de police et au bureau du commissaire à la protection de la vie privée.",
+        "description": "",
+        "title": "奇華餅家網絡系統遭惡意勒索軟件攻擊 已即時進行阻截行動籲提高警覺 | am730",
+        "url": "https://www.am730.com.hk/本地/1036495/奇華餅家網絡系統遭惡意勒索軟件攻擊-已即時進行阻截行動籲提高警覺",
+        "added": "2026-06-16"
+    },
+    {
         "date": "2025-07-22",
         "victim": "Bellflower Unified School District",
         "domain": "busd.k12.ca.us",
