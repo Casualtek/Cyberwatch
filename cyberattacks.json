@@ -1,5 +1,16 @@
 [
     {
+        "date": "2026-06-07",
+        "victim": "Novo Nordisk",
+        "domain": "novonordisk.com",
+        "country": "DNK",
+        "summary": "Le géant pharmaceutique Novo Nordisk a été victime d'une cyberattaque majeure revendiquée par le groupe FulcrumSec. L'intrusion a duré environ deux mois et demi, débutant par l'exploitation d'un jeton d'accès GitHub exposé. Des données \"pseudo-anonymisées\" (sans noms directs) de 11 500 participants à des essais cliniques ont été volées, ainsi que des coordonnées personnelles de professionnels de santé, et de la propriété intellectuelle: FulcrumSec dit avoir exfiltré 1,3 To de données, incluant des secrets sur des médicaments (comme l'Amycretin), 41 000 structures moléculaires et 32 modèles d'IA privés. Novo Nordisk a refusé de payer la rançon de 25 millions de dollars demandée.",
+        "description": "",
+        "title": "databreaches.net",
+        "url": "https://databreaches.net/2026/06/15/scoop-fulcrumsec-leaks-novo-nordisk-data-after-25m-demand-goes-unpaid/",
+        "added": "2026-06-16"
+    },
+    {
         "date": "2026-06-03",
         "victim": "Kittson County",
         "domain": "kcmn.us",
