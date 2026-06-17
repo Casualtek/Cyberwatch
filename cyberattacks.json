@@ -3,7 +3,7 @@
         "date": "2026-06-01",
         "victim": "D&M (filiale de REXT Holdings)",
         "domain": "dmsupporter.jp",
-        "country": "JAP",
+        "country": "JPN",
         "summary": "La société D&M, filiale de REXT Holdings (groupe RIZAP), a été victime d'une cyberattaque par ransomware via un accès non autorisé à travers un appareil VPN. L'attaque a infecté un serveur de partage de fichiers contenant des données FAX sous forme PDF, potentiellement exposant les informations personnelles (nom, adresse, numéro de téléphone) de 633 clients et partenaires commerciaux. Les données concernent une période d'environ deux ans, de août 2024 à juin 2026. Aucune information financière n'a été compromise à ce stade.",
         "description": "",
         "title": "REXT Holdings連結子会社D&MがVPN経由のランサムウェアで個人情報流出の恐れ|セキュリティニュースのセキュリティ対策Lab",
