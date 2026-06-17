@@ -1,5 +1,12 @@
 [
   {
+    "victim": "Promepla",
+    "domain": "promepla.com",
+    "country": "AR",
+    "date": "2026-06-08",
+    "group": "ransomhouse"
+  },
+  {
     "victim": "SMPC Architects",
     "domain": "smpcarch.com",
     "country": "US",
