@@ -1,5 +1,16 @@
 [
     {
+        "date": "2026-06-05",
+        "victim": "Lewis Brisbois",
+        "domain": "lewisbrisbois.com",
+        "country": "USA",
+        "summary": "Le cabinet d'avocats Lewis Brisbois a ordonné à ses employés travaillant à distance ou en hybride de travailler depuis les bureaux ou d'utiliser des ordinateurs fournis par l'entreprise après une cyberattaque. Cette attaque a conduit le cabinet à bloquer l'accès externe aux réseaux internes. L'attaque a commencé au moins le 5 juin, lorsque le directeur de la sécurité informatique averti les employés que des attaquants appelaient des travailleurs en se faisant passer pour le personnel informatique interne. Les tactiques utilisées correspondent à un avertissement récent du FBI concernant le groupe Silent Ransom Group, bien que Lewis Brisbois n'ait pas encore attribué publiquement l'incident à ce groupe.",
+        "description": "",
+        "title": "Lewis Brisbois limits remote work after cyberattack",
+        "url": "https://dysruptionhub.com/lewis-brisbois-cyberattack/",
+        "added": "2026-06-17"
+    },
+    {
         "date": "2026-06-16",
         "victim": "Norsk Tjenestemannslag (NTL)",
         "domain": "ntl.no",
