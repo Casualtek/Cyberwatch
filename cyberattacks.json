@@ -1,5 +1,16 @@
 [
     {
+        "date": "2026-06-15",
+        "victim": "Ciudad Real",
+        "domain": "ciudadreal.es",
+        "country": "ESP",
+        "summary": "L'Ajuntament de Ciudad Real a annoncé un incident de cybersécurité affectant la plateforme de gestion de la Zone à Émissions Réduites. La plateforme a été temporairement suspendue pour permettre l'investigation de l'incident. L'Ajuntament a modifié les mots de passe des utilisateurs et limité certaines fonctionnalités en tant que mesures préventives. Ils promettent de fournir plus d'informations détaillées une fois l'enquête terminée.",
+        "description": "",
+        "title": "Ciudad Real: La plataforma de la ZBE queda suspendida por un incidente de ciberseguridad",
+        "url": "https://www.latribunadeciudadreal.es/noticia/z9383abd4-faed-4267-99d5b10acb863a90/202606/ciudad-real-suspende-la-plataforma-de-la-zbe-por-ciberataque",
+        "added": "2026-06-17"
+    },
+    {
         "date": "2026-06-01",
         "victim": "D&M (filiale de REXT Holdings)",
         "domain": "dmsupporter.jp",
