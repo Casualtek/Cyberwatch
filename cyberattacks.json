@@ -1,5 +1,16 @@
 [
     {
+        "date": "2026-06-16",
+        "victim": "Norsk Tjenestemannslag (NTL)",
+        "domain": "ntl.no",
+        "country": "NOR",
+        "summary": "Norsk Tjenestemannslag (NTL) a été victime d'une cyberattaque par ransomware le 16 juin, ciblant ses systèmes informatiques centraux. Les attaquants auraient eu accès à des données sensibles et personnelles, y compris potentiellement des numéros de sécurité sociale et des numéros de compte bancaire. L'organisation, qui compte plus de 59 000 membres et fait partie des plus grands syndicats du pays, travaille à la restauration de ses systèmes.",
+        "description": "",
+        "title": "LO-forbund rammet av løsepengevirus: Medlemsdata kan være på avveie",
+        "url": "https://inyheter.no/17/06/2026/lo-forbund-rammet-av-losepengevirus-medlemsdata-kan-vaere-pa-avveie/",
+        "added": "2026-06-17"
+    },
+    {
         "date": "2026-06-15",
         "victim": "Ciudad Real",
         "domain": "ciudadreal.es",
