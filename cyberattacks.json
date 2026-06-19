@@ -1,5 +1,16 @@
 [
     {
+        "date": "2026-06-17",
+        "victim": "Mount Royal University",
+        "domain": "mtroyal.ca",
+        "country": "CAN",
+        "summary": "Mount Royal University a été victime d'une cyberattaque qui a perturbé ses systèmes le mercredi. L'attaque a rendu indisponible le site web principal de l'université ainsi que divers services en ligne, y compris MyMRU et l'accès internet sur le campus. L'université a engagé des experts en cybersécurité externes pour mener une enquête qui est encore à ses débuts. Aucune donnée personnelle n'a été confirmée comme ayant été compromise.",
+        "description": "",
+        "title": "Mount Royal University responding to cyber attack, website down | CBC News",
+        "url": "https://www.cbc.ca/news/canada/calgary/mount-royal-university-cyber-incident-9.7240991",
+        "added": "2026-06-19"
+    },
+    {
         "date": "2026-06-11",
         "victim": "Prince George County",
         "domain": "princegeorgecountyva.gov",
