@@ -1,5 +1,16 @@
 [
     {
+        "date": "2026-06-18",
+        "victim": "Oranienburg",
+        "domain": "oranienburg.de",
+        "country": "DEU",
+        "summary": "La ville d'Oranienburg a temporairement désactivé son réseau administratif en réponse à une cyberattaque détectée par des experts en informatique. Cette mesure préventive a été prise suite à une alerte du Cert Brandenburg. La compromission effective du réseau n'a pas été établie. Les services administratifs sont restreints et les résidents doivent contacter la mairie par téléphone.",
+        "description": "",
+        "title": "Stadt schaltet Verwaltungsnetz wegen Cyberangriff ab",
+        "url": "https://www.mz.de/panorama/stadt-schaltet-verwaltungsnetz-wegen-cyberangriff-ab-4270095",
+        "added": "2026-06-19"
+    },
+    {
         "date": "2026-06-17",
         "victim": "Mount Royal University",
         "domain": "mtroyal.ca",
