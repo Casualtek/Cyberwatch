@@ -1,5 +1,16 @@
 [
     {
+        "date": "2026-06-13",
+        "victim": "One Medical Seniors",
+        "domain": "onemedical.com",
+        "country": "USA",
+        "summary": "Une fuite de données chez One Medical Seniors, un fournisseur de soins de santé pour les seniors, a été découverte. L'incident, survenu entre le 8 et le 11 juin 2026, a affecté des patients dans plusieurs villes américaines. Un groupe de ransomware nommé ShinyHunters a revendiqué l'attaque, affirmant que 8,8 To de données avaient été compromis. La fuite concernait un système de stockage de fichiers tiers utilisé pour l'archivage des données, sans impacter le système de dossiers médicaux électroniques principal.",
+        "description": "",
+        "title": "One Medical Data Breach Lawsuit Investigation",
+        "url": "https://www.claimdepot.com/investigations/one-medical-data-breach-2026",
+        "added": "2026-06-22"
+    },
+    {
         "date": "2026-06-21",
         "victim": "Hôpital de l'Université de Dokuz Eylül (DEÜ)",
         "domain": "hastane.deu.edu.tr",
