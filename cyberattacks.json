@@ -1,5 +1,16 @@
 [
     {
+        "date": "2026-03-26",
+        "victim": "Daikyo Nishikawa (filiale indonésienne)",
+        "domain": "daikyonishikawa.co.jp",
+        "country": "JPN",
+        "summary": "La société Daikyo Nishikawa, fabricant de pièces en résine pour l'automobile, a annoncé le 19 juin 2026 une cyberattaque ayant affecté sa filiale indonésienne. Bien qu'une anomalie ait été détectée le 26 mars 2026 et que l'entreprise ait initialement jugé que la production n'était pas affectée, il a été récemment confirmé le 17 juin 2026 que des données stockées dans le système avaient été transmises à l'extérieur. Une cyberattaque contre Daikyo Nishikawa a été revendiquée par LockBit5 le 20 juin 2026.",
+        "description": "",
+        "title": "マツダ系最大手樹脂部品メーカー、ダイキョーニシカワのインドネシア子会社で不正アクセス|セキュリティニュースのセキュリティ対策Lab",
+        "url": "https://rocket-boys.co.jp/security-measures-lab/daikyo-nishikawa-indonesia-unauthorized-access/",
+        "added": "2026-06-22"
+    },
+    {
         "date": "2026-05-25",
         "victim": "Kyushu University Hospital",
         "domain": "hosp.kyushu-u.ac.jp",
