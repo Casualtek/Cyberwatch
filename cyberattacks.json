@@ -1,5 +1,16 @@
 [
     {
+        "date": "2026-06-12",
+        "victim": "Seoul Agriculture, Fisheries and Food Corporation",
+        "domain": "garak.co.kr",
+        "country": "KOR",
+        "summary": "Un serveur d'une société de marché de gros au marché de Gangseo, à Séoul, a été infecté par une attaque par rançongiciel. L'incident a provoqué la paralysie temporaire du système d'enchères et des opérations de règlement. Bien que les opérations essentielles aient été rétablies, le service de consultation des informations de transaction est resté instable jusqu'au 22 juin. Les autorités ont utilisé des données de sauvegarde pour construire un nouveau serveur et ont bloqué immédiatement le réseau pour prévenir une propagation. Les experts soulignent que ces attaques sont de plus en plus sophistiquées grâce à l'IA et recommandent une enquête approfondie pour protéger les données des agriculteurs.",
+        "description": "",
+        "title": "[단독] 도매시장법인도 해킹 공격 받았다…농민 출하정보 보안 ‘비상’",
+        "url": "https://www.nongmin.com/article/20260622500443",
+        "added": "2026-06-22"
+    },
+    {
         "date": "2026-06-15",
         "victim": "Cour des comptes du Sénégal",
         "domain": "courdescomptes.sn",
