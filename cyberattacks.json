@@ -1,5 +1,16 @@
 [
     {
+        "date": "2026-05-25",
+        "victim": "Kyushu University Hospital",
+        "domain": "hosp.kyushu-u.ac.jp",
+        "country": "JPN",
+        "summary": "Le Kyushu University Hospital (Fukuoka) a annoncé qu'un terminal de gestion de laboratoire a été victime d'une cyberattaque, entraînant potentiellement la fuite des noms de 43 patients et de vidéos chirurgicales. L'incident a commencé par un accès non autorisé le 25 mai, suivi d'une infection par un rançongiciel. Le personnel a isolé le terminal et collabore avec la police pour déterminer la cause. Les patients potentiellement affectés ont été contactés individuellement par l'hôpital.",
+        "description": "",
+        "title": "患者の手術動画流出か 九州大病院、サイバー攻撃：山陽新聞デジタル｜さんデジ",
+        "url": "https://www.sanyonews.jp/article/1935977",
+        "added": "2026-06-22"
+    },
+    {
         "date": "2026-06-12",
         "victim": "Seoul Agriculture, Fisheries and Food Corporation",
         "domain": "garak.co.kr",
