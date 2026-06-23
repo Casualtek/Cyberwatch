@@ -1,13 +1,13 @@
 [
     {
-        "date": "2026-06-22",
-        "victim": "NIDEC CHAUN-CHOUNG TECHNOLOGY CORPORATION",
-        "domain": "nidec.com",
-        "country": "TWN",
-        "summary": "Une attaque par ransomware a été détectée par Nidec le 22 juin 2026, affectant certains de ses serveurs et provoquant le dysfonctionnement de systèmes d'information, y compris le système ERP. L'équipe de cybersécurité a immédiatement activé des mécanismes de défense et mis en place une isolation réseau. Les systèmes affectés sont en cours de restauration progressive, et l'étendue de l'impact sur les opérations et les finances de l'entreprise est toujours en cours d'évaluation.",
+        "date": "2026-06-18",
+        "victim": "Cedro Têxtil",
+        "domain": "cedro.com.br",
+        "country": "BRA",
+        "summary": "Cedro Têxtil a été victime d'un incident de cybersécurité qui a affecté ses infrastructures informatiques et perturbé le fonctionnement de ses systèmes d'entreprise. L'entreprise a mobilisé des experts pour maîtriser la situation et s'efforce actuellement de rétablir ses activités en toute sécurité. Les activités sont suspendues depuis le 18 juin et l'entreprise n'a pas encore identifié l'auteur de l'attaque.",
         "description": "",
-        "title": "Today's Information",
-        "url": "https://emops.twse.com.tw/server-java/t05sr01_1_e?&isNew=Y&seq_no=1&spoke_time=191212&spoke_date=20260622&co_id=6230",
+        "title": "Ataque cibernético paralisa fábrica da Cedro em Sete Lagoas",
+        "url": "https://www.setedias.com.br/ataque-cibernetico-paralisa-fabrica-da-cedro-em-sete-lagoas/",
         "added": "2026-06-23"
     },
     {
