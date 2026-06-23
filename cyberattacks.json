@@ -1,6 +1,28 @@
 [
     {
         "date": "2026-06-22",
+        "victim": "NIDEC CHAUN-CHOUNG TECHNOLOGY CORPORATION",
+        "domain": "nidec.com",
+        "country": "TWN",
+        "summary": "Une attaque par ransomware a été détectée par Nidec le 22 juin 2026, affectant certains de ses serveurs et provoquant le dysfonctionnement de systèmes d'information, y compris le système ERP. L'équipe de cybersécurité a immédiatement activé des mécanismes de défense et mis en place une isolation réseau. Les systèmes affectés sont en cours de restauration progressive, et l'étendue de l'impact sur les opérations et les finances de l'entreprise est toujours en cours d'évaluation.",
+        "description": "",
+        "title": "Today's Information",
+        "url": "https://emops.twse.com.tw/server-java/t05sr01_1_e?&isNew=Y&seq_no=1&spoke_time=191212&spoke_date=20260622&co_id=6230",
+        "added": "2026-06-23"
+    },
+    {
+        "date": "2026-06-22",
+        "victim": "NIDEC CHAUN-CHOUNG TECHNOLOGY CORPORATION",
+        "domain": "nidec.com",
+        "country": "TWN",
+        "summary": "Une attaque par ransomware a été détectée par Nidec le 22 juin 2026, affectant certains de ses serveurs et provoquant le dysfonctionnement de systèmes d'information, y compris le système ERP. L'équipe de cybersécurité a immédiatement activé des mécanismes de défense et mis en place une isolation réseau. Les systèmes affectés sont en cours de restauration progressive, et l'étendue de l'impact sur les opérations et les finances de l'entreprise est toujours en cours d'évaluation.",
+        "description": "",
+        "title": "Today's Information",
+        "url": "https://emops.twse.com.tw/server-java/t05sr01_1_e?&isNew=Y&seq_no=1&spoke_time=191212&spoke_date=20260622&co_id=6230",
+        "added": "2026-06-23"
+    },
+    {
+        "date": "2026-06-22",
         "victim": "Yifa Precision Machinery Co., Ltd.",
         "domain": "efctw.com",
         "country": "TWN",
