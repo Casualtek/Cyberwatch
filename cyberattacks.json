@@ -1,5 +1,16 @@
 [
     {
+        "date": "2026-06-23",
+        "victim": "Nowa Ruda",
+        "domain": "nowaruda.pl",
+        "country": "POL",
+        "summary": "L'administration municipale de Nowa Ruda a été victime d'une cyberattaque par ransomware le 23 juin 2026. Cette attaque a chiffré des données sur les serveurs et les ordinateurs des employés, entraînant une situation de crise. Bien que des mesures immédiates aient été prises pour isoler les serveurs, il est possible que des données personnelles sensibles aient été compromises. Les catégories de données potentiellement affectées incluent le nom, le prénom, l'adresse, la date et le lieu de naissance, le numéro PESEL, le numéro de pièce d'identité, le numéro de téléphone, l'adresse e-mail et les prénoms des parents. Les autorités compétentes, y compris le CSIRT NASK et la Police, ont été informées.",
+        "description": "",
+        "title": "Uwaga. Atak cybernetyczny w Urzędzie Miejskim w Nowej Rudzie",
+        "url": "https://klodzko24.eu/wiadomosci/uwaga-atak-cybernetyczny-w-urzedzie-miejskim-w-nowej-rudzie/QERlbEmnuRQShWvTP1TB",
+        "added": "2026-06-24"
+    },
+    {
         "date": "2026-06-10",
         "victim": "Centre pour l'Europe de l'Est et les Études Internationales (Zois)",
         "domain": "zois-berlin.de",
