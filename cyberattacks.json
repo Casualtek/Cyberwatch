@@ -1,5 +1,16 @@
 [
     {
+        "date": "2026-06-10",
+        "victim": "Centre pour l'Europe de l'Est et les Études Internationales (Zois)",
+        "domain": "zois-berlin.de",
+        "country": "DEU",
+        "summary": "Le Centre pour l'Europe de l'Est et les Études Internationales (Zois) à Berlin a subi une cyberattaque qui a permis aux hackers d'accéder à ses serveurs de fichiers. Le centre a informé les personnes dont les données sont affectées par e-mail et a signalé l'incident aux autorités de sécurité. Il est possible que des données de compte aient été exfiltrées. L'attaque a été découverte le 10 juin.",
+        "description": "",
+        "title": "Cyberangriff an Osteuropa-Zentrum in Berlin: Auch Kontodaten könnten abgeflossen sein",
+        "url": "https://www.tagesspiegel.de/wissen/cyberangriff-an-osteuropa-zentrum-in-berlin-auch-kontodaten-konnten-abgeflossen-sein-15749813.html",
+        "added": "2026-06-24"
+    },
+    {
         "date": "2025-07-20",
         "victim": "Agrolab's",
         "domain": "agrolabs.fr",
