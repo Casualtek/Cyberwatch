@@ -1,5 +1,16 @@
 [
     {
+        "date": "2026-06-25",
+        "victim": "Latvijas Valsts meži (LVM)",
+        "domain": "lvm.lv",
+        "country": "LV",
+        "summary": "Suite à un cyberincident, Latvijas Valsts meži (LVM) a désactivé et rendus inaccessibles ses systèmes informatiques externes (LVM GEO, le service cartographique et l’application de chasse « Mednis ») ainsi que plusieurs systèmes internes assurant les échanges avec ses fournisseurs et clients, pour des raisons de sécurité. L’équipe informatique de LVM collabore avec Cert.lv et les autorités de sécurité nationales pour gérer les conséquences de l’incident, tandis que la police nationale a ouvert une enquête pour déterminer les circonstances et identifier l’auteur de l’attaque.",
+        "description": "",
+        "title": "Noticis kiberuzbrukums Latvijas Valsts mežiem; drošības apsvērumu dēļ slēgts LVM GEO, karšu sistēma un \"Mednis\" [papildināts]",
+        "url": "https://nra.lv/latvija/524154-kiberuzbrukums-latvijas-valsts-meziem.htm",
+        "added": "2026-06-25"
+    },
+    {
         "date": "2026-06-05",
         "victim": "Bernkastel-Kues GmbH",
         "domain": "bernkastel.de",
