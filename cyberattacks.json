@@ -1,5 +1,16 @@
 [
     {
+        "date": "2026-06-22",
+        "victim": "Faith Group",
+        "domain": "faith-gr.co.jp",
+        "country": "JPN",
+        "summary": "La société Faith Group a annoncé qu'elle était victime d'un dysfonctionnement de son système, potentiellement causé par une attaque par rançongiciel résultant d'un accès non autorisé externe. Le groupe de cosmétiques travaille actuellement avec des organismes spécialisés pour identifier la cause, évaluer l'étendue des dégâts et procéder à la restauration. Les impacts sur les informations personnelles et commerciales sont toujours en cours d'investigation. Faith Group a également mis en garde ses clients et partenaires contre les tentatives de phishing et les communications frauduleuses se faisant passer pour l'entreprise.",
+        "description": "",
+        "title": "フェースグループでシステム障害、ランサムウェア 被害の恐れ-個人情報・取引情報への影響を調査中|セキュリティニュースのセキュリティ対策Lab",
+        "url": "https://rocket-boys.co.jp/security-measures-lab/faith-group-ransomware-system-failure-2026/",
+        "added": "2026-06-25"
+    },
+    {
         "date": "2026-06-24",
         "victim": "Parc National des Lacs de Plitvice",
         "domain": "np-plitvicka-jezera.hr",
