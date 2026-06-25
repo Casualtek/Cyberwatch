@@ -1,5 +1,16 @@
 [
     {
+        "date": "2026-06-10",
+        "victim": "Klang",
+        "domain": "mbdk.gov.my",
+        "country": "MYS",
+        "summary": "Le réseau du centre de services publics de la mairie de Klang (MPK) a été infecté par un « nouveau virus » il y a deux semaines, entraînant l'interruption des services en ligne. La municipalité a rapidement fermé les accès pour contenir l'attaque ; aucune perte de données n'a été signalée et les services sont progressivement rétablis. Le maire a annoncé une révision complète des systèmes informatiques pour moderniser la sécurité.",
+        "description": "",
+        "title": "kl.chinapress.com.my",
+        "url": "https://kl.chinapress.com.my/20260625/病毒袭网络登入系统-市厅线上支付系统逐步恢复/",
+        "added": "2026-06-25"
+    },
+    {
         "date": "2026-06-25",
         "victim": "Latvijas Valsts meži (LVM)",
         "domain": "lvm.lv",
