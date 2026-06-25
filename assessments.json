@@ -1,5 +1,12 @@
 [
   {
+    "victim": "brebeuf.org",
+    "domain": "brebeuf.org",
+    "country": "US",
+    "date": "2025-08-03",
+    "group": "qilin"
+  },
+  {
     "victim": "Spohn + Burkhardt GmbH & Co KG",
     "domain": "spobu.com",
     "country": "DE",
