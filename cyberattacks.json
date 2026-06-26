@@ -1,5 +1,16 @@
 [
     {
+        "date": "2026-06-25",
+        "victim": "Ukrposhta",
+        "domain": "ukrposhta.ua",
+        "country": "UKR",
+        "summary": "The national postal operator, Ukrposhta, reported that its mobile application experienced temporary disruptions following a cyberattack on its IT systems. The attack, which occurred during the night of June 24th/25th, caused instability and operational failures in the digital services. Ukrposhta confirmed the incident and stated that specialists are actively working to restore full and stable functionality to the platform. The company apologized to users for the inconvenience caused by the attack, which was described as an 'enemy' or 'Russian' attack by multiple sources.",
+        "description": "",
+        "title": "Через російську кібератаку застосунок Укрпошти працює зі збоями",
+        "url": "https://gwaramedia.com/cherez-rosijsku-kiberataku-zastosunok-ukrposhti-praczyu%D1%94-zi-zboyami/",
+        "added": "2026-06-26"
+    },
+    {
         "date": "2025-12-26",
         "victim": "Ville de Milton",
         "domain": "miltonfl.org",
