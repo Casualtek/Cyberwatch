@@ -1,5 +1,16 @@
 [
     {
+        "date": "2026-06-24",
+        "victim": "Ufagormolzavod",
+        "domain": "ufamol.ru",
+        "country": "RUS",
+        "summary": "Ufagormolzavod, a dairy producer in Ufa, Russia, suffered a major cyberattack that disrupted its logistics and accounting systems. Although the core milk production line remained operational, the company was forced to transition critical functions, such as document processing and shipping, to manual operations. The incident prompted the mobilization of all staff to mitigate the consequences of the intrusion and restore normal operations, with specialists currently working to resolve the issues. The attack is believed to be linked to open RDP access to the factory's equipment in some reports.",
+        "description": "",
+        "title": "Â«ÐÐ¾Ð±Ð¸Ð»Ð¸Ð·Ð¾Ð²Ð°Ð»Ð¸ Ð²ÐµÑÑ ÐºÐ¾Ð»Ð»ÐµÐºÑÐ¸Ð²Â»: Â«Ð£ÑÐ°Ð³Ð¾ÑÐ¼Ð¾Ð»Ð·Ð°Ð²Ð¾Ð´Â» Ð¿ÐµÑÐµÐ²ÐµÐ»Ð¸ Ð² Â«ÑÑÑÐ½Ð¾Ð¹ ÑÐµÐ¶Ð¸Ð¼Â» Ð¸Ð·-Ð·Ð° ÐºÐ¸Ð±ÐµÑÐ°ÑÐ°ÐºÐ¸",
+        "url": "https://ufa1.ru/text/business/2026/06/24/76495708/",
+        "added": "2026-06-26"
+    },
+    {
         "date": "2026-06-25",
         "victim": "Ukrposhta",
         "domain": "ukrposhta.ua",
