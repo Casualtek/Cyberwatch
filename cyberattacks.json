@@ -1,5 +1,16 @@
 [
     {
+        "date": "2026-05-24",
+        "victim": "Tata Electronics",
+        "domain": "tataelectronics.com",
+        "country": "IND",
+        "summary": "Tata Electronics, a major electronics manufacturer and supplier to Apple and Tesla in India, confirmed it suffered a major cybersecurity incident. A ransomware group, identified as World Leaks, claimed to have stolen and leaked over 630 GB of confidential data, including technical specifications and internal documents. The leaked data reportedly includes sensitive information on unreleased products, such as the iPhone 18 Pro and A20 Pro chip details. Apple has reportedly begun investigating the scope of the breach, highlighting the risks to global supply chains.",
+        "description": "",
+        "title": "Indiens Tata Electronics von Cyberangriff betroffen, bei dem angeblich Geschäftsgeheimnisse von Apple und Tesla offengelegt wurden",
+        "url": "https://de.tradingview.com/news/reuters.com,2026:newsml_L8N42U1FL:0/",
+        "added": "2026-06-26"
+    },
+    {
         "date": "2026-06-19",
         "victim": "River Financial Corporation",
         "domain": "river.com",
