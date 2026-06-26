@@ -1,5 +1,27 @@
 [
     {
+        "date": "2026-06-19",
+        "victim": "River Financial Corporation",
+        "domain": "river.com",
+        "country": "USA",
+        "summary": "River Financial Corporation a signalé un incident de cybersécurité majeur. Un acteur malveillant non autorisé a accédé au réseau de l'entreprise, y compris River Bank & Trust, aux alentours du 16 juin 2026. L'entreprise a identifié l'activité le 19 juin 2026 et a confirmé le déploiement de ransomware sur certaines parties de son environnement de serveurs. River a pris des mesures de confinement immédiates et mène actuellement une enquête avec une firme forensique externe pour déterminer l'étendue de l'incident et si des informations personnelles identifiables ont été compromises. L'entreprise n'a pas encore déterminé l'impact complet de l'incident sur ses opérations ou sa situation financière.",
+        "description": "",
+        "title": "8-K",
+        "url": "https://www.sec.gov/Archives/edgar/data/1641601/000119312526282946/ck0001641601-20260619.htm",
+        "added": "2026-06-26"
+    },
+    {
+        "date": "2026-06-20",
+        "victim": "Defesa Civil Nacional",
+        "domain": "defesacivil.pa.gov.br",
+        "country": "BRA",
+        "summary": "A massive cyberattack compromised Brazil's national emergency alert system, Defesa Civil Alerta, causing millions of citizens across multiple states to receive false, extreme emergency notifications. The alerts, which were broadcast via Cell Broadcast technology, contained alarming messages, including the word 'misanthropia' and references to an alien invasion. Authorities, including the Federal Police, have launched an investigation into the intrusion, which led to the temporary shutdown of the system to prevent further panic and misinformation. The incident occurred during the early morning hours of June 20, 2026, and involved the compromise of accounts belonging to the Civil Defense of Pará, among others.",
+        "description": "",
+        "title": "Defesa Civil Nacional desativa plataforma após alerta falso de invasão",
+        "url": "https://www.portaltela.com/noticias/ultimas-noticias/2026/06/20/defesa-civil-nacional-desativa-plataforma-apos-alerta-falso-de-invasao/",
+        "added": "2026-06-26"
+    },
+    {
         "date": "2024-02-12",
         "victim": "Hôpitaux roumains",
         "domain": "rsc.ro",
