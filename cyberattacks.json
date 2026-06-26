@@ -1,5 +1,16 @@
 [
     {
+        "date": "2026-06-16",
+        "victim": "Capital Development Authority (CDA)",
+        "domain": "cda.gov.pk",
+        "country": "PAK",
+        "summary": "Le système de facturation de la Capital Development Authority (CDA) d'Islamabad, couvrant les charges de propriété, de conservancy et d'eau, a été victime d'une cyberattaque. Les pirates ont exigé une rançon en Bitcoin après avoir compromis la plateforme. Bien que des données liées aux charges de propriété aient été compromises et menacées de publication sur le dark web, la CDA a nié l'absence de sauvegardes, affirmant que les données de secours étaient sécurisées et que les efforts de récupération étaient en cours pour rétablir le service.",
+        "description": "",
+        "title": "CDA billing system hit by cyberattack in Islamabad - Pakistan Today",
+        "url": "https://www.pakistantoday.com.pk/2026/06/19/cyberattack-disrupts-cda-billing-system-hackers-demand-bitcoin-ransom",
+        "added": "2026-06-26"
+    },
+    {
         "date": "2026-05-24",
         "victim": "Tata Electronics",
         "domain": "tataelectronics.com",
