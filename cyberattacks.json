@@ -1,5 +1,16 @@
 [
     {
+        "date": "2024-02-12",
+        "victim": "Hôpitaux roumains",
+        "domain": "rsc.ro",
+        "country": "ROU",
+        "summary": "Des dizaines d'hôpitaux roumains ont été affectés par une cyberattaque de ransomware, utilisant le logiciel médical Hippocrates. Les attaquants, utilisant la souche BackMyData, ont chiffré les fichiers et exigé une rançon en bitcoin. Face à l'attaque, les autorités ont ordonné la déconnexion d'une centaine d'hôpitaux, forçant le personnel médical à revenir à des méthodes papier. Après quatre jours de perturbation, les experts en cybersécurité ont réussi à stopper les hackers. Bien que la plupart des hôpitaux aient été rétablis en cinq jours, certains ont subi des pertes de données. La décision nationale a été prise de ne pas payer la rançon.",
+        "description": "",
+        "title": "How 100 Romanian hospitals switched to pen and paper to defeat a national cyber-attack",
+        "url": "http://www.bbc.co.uk/news/articles/c4gyk756mzlo",
+        "added": "2026-06-26"
+    },
+    {
         "date": "2026-06-24",
         "victim": "Ufagormolzavod",
         "domain": "ufamol.ru",
