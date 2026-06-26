@@ -1,5 +1,16 @@
 [
     {
+        "date": "2025-12-26",
+        "victim": "Ville de Milton",
+        "domain": "miltonfl.org",
+        "country": "USA",
+        "summary": "La ville de Milton, en Floride, a signalé une cyberattaque présumée par rançongiciel en 2025. L'incident, détecté le 26 décembre 2025, a été géré en coordination avec les forces de l'ordre et des experts en cybersécurité. La ville affirme que ses informations sont restées sécurisées et qu'aucune donnée n'a été copiée ou divulguée. Une telle cyberattaque a été revendiquée par l'enseigne Lynx le 5 janvier 2026, sans qu'aucune divulgation ne s'en suive à date.",
+        "description": "",
+        "title": "Milton says city data stayed secure after suspected ransomware attack in 2025",
+        "url": "https://weartv.com/news/local/milton-says-city-data-stayed-secure-after-suspected-ransomware-attack-in-2025",
+        "added": "2026-06-26"
+    },
+    {
         "date": "2026-06-17",
         "victim": "Pricon Microelectronics",
         "domain": "pricon.com.ph",
