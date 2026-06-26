@@ -1,5 +1,16 @@
 [
     {
+        "date": "2026-06-17",
+        "victim": "Pricon Microelectronics",
+        "domain": "pricon.com.ph",
+        "country": "PHL",
+        "summary": "Yamai Electric Co., Ltd., une entreprise cotée à la bourse de Tokyo, a publié un rapport final concernant l'incident de ransomware sur sa filiale philippine, Pricon Microelectronics, Inc. L'attaque, détectée le 17 avril, a affecté certains serveurs. Bien que des données aient été perdues sur certains terminaux, la reprise a été effectuée grâce aux sauvegardes, et l'activité n'a pas été gravement perturbée. Les investigations n'ont pas révélé de fuite de données externes, même si des informations personnelles de clients, de partenaires et d'employés étaient stockées sur les systèmes affectés. La filiale a terminé la restauration le 29 avril et tous les systèmes fonctionnent désormais normalement. Yamai Electric a mis en place plusieurs mesures de prévention des récidives, telles que l'introduction de l'EDR et le renforcement de la gestion des accès. L'attaque a été revendiquée par l'enseigne LockBit5 le 29 avril.",
+        "description": "",
+        "title": "山一電機 フィリピン子会社にランサムウェア攻撃、ログの暗号化と削除が行われ初期侵入経路の完全な特定に至らず | ScanNetSecurity",
+        "url": "https://scan.netsecurity.ne.jp/article/2026/06/26/55583.html",
+        "added": "2026-06-26"
+    },
+    {
         "date": "2026-06-10",
         "victim": "Klang",
         "domain": "mbdk.gov.my",
