@@ -1,5 +1,16 @@
 [
     {
+        "date": "2026-06-12",
+        "victim": "Asismed",
+        "domain": "asismed.com.py",
+        "country": "PAR",
+        "summary": "Plusieurs sanatoriums privés (Migone, Británico, Las Lomas et Santa Clara) et l'entreprise de médecine prépayée Asismed, tous liés au groupe Harrison, ont été victimes d'une cyberattaque de grande ampleur. Les cybercriminels ont utilisé un ransomware pour bloquer l'accès aux données, exigeant une rançon. L'incident, survenu il y a environ deux semaines, a gravement perturbé les services de santé, y compris la prise de rendez-vous et l'accès aux dossiers médicaux électroniques, obligeant le personnel à recourir à des procédures manuelles.",
+        "description": "",
+        "title": "Ciberataque paraliza sistemas de importantes sanatorios privados y obliga a operar de forma manual",
+        "url": "https://elnacional.com.py/politica/ciberataque-paraliza-sistemas-importantes-sanatorios-privados-obliga-operar-forma-manual-n108107",
+        "added": "2026-06-27"
+    },
+    {
         "date": "2026-06-11",
         "victim": "National Association of Insurance Commissioners (NAIC)",
         "domain": "naic.org",
