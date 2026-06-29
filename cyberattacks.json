@@ -1,5 +1,16 @@
 [
     {
+        "date": "2026-06-14",
+        "victim": "POKKA PTE. LTD.",
+        "domain": "pokka.co",
+        "country": "SGP",
+        "summary": "Sapporo Holdings Corporation a annoncé qu'elle avait détecté des accès non autorisés à deux de ses filiales étrangères, POKKA PTE. LTD. et SLEEMAN BREWERIES LTD. Ces accès ont été détectés suite à des journaux de communication suspects. Les deux filiales ont isolé les systèmes concernés et mènent une enquête avec l'aide d'experts externes. À ce jour, l'impact sur les activités nationales de la société n'a pas été confirmé, et il n'y a pas de lien de causalité établi entre les accès non autorisés des deux filiales.",
+        "description": "",
+        "title": "サッポロホールディングスの海外2社に不正アクセス | ScanNetSecurity",
+        "url": "https://scan.netsecurity.ne.jp/article/2026/06/29/55590.html",
+        "added": "2026-06-29"
+    },
+    {
         "date": "2026-06-28",
         "victim": "Prefeitura da Barra dos Coqueiros",
         "domain": "barradoscoqueiros.se.gov.br",
