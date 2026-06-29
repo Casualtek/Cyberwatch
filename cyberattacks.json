@@ -1,5 +1,16 @@
 [
     {
+        "date": "2026-06-23",
+        "victim": "AYA Bank",
+        "domain": "ayabank.com",
+        "country": "MMR",
+        "summary": "AYA Bank in Myanmar reported a cyber attack targeting its digital infrastructure. The attack specifically affected an outdated application portal, leading to the alleged leakage of some customer information. The bank confirmed that its core banking systems, including the AYA Pay wallet and card payment systems, remained unaffected. The attack was attributed to a hacker group calling itself 'Lapsus$'.",
+        "description": "",
+        "title": "ããã£ã³ãã¼ãï¼¡ï¼¹ï¼¡éã«ãµã¤ãã¼æ»æãåºå¹¹ç³»ã¯å½±é¿ãªãï¼»éèï¼½ | ãããã¬ï¼ãã©ã¹",
+        "url": "https://www.chiba-tv.com/plus/detail/2026061795611",
+        "added": "2026-06-29"
+    },
+    {
         "date": "2026-06-17",
         "victim": "SLEEMAN BREWERIES LTD.",
         "domain": "sleemanbreweries.ca",
