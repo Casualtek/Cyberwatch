@@ -1,5 +1,27 @@
 [
     {
+        "date": "2024-11-03",
+        "victim": "Jones Mayer",
+        "domain": "jones-mayer.com",
+        "country": "USA",
+        "summary": "Jones Mayer suffered a data breach between August 22, 2024, and November 7, 2024, where an unauthorized actor accessed certain systems and copied files. The breach may have impacted personal information related to individuals, including names and other sensitive data. A cyberattack was claimed by Hunters International on November 23, 2024.",
+        "title": "Data Breach Notification",
+        "url": "https://oag.ca.gov/ecrime/databreach/reports/sb24-625089",
+        "added": "2026-06-19",
+        "pdf_url": "https://oag.ca.gov/system/files/Jones%20Mayer%20-%20Notice%20of%20Data%20Event%20-%20CA_0.pdf"
+    },
+    {
+        "date": "2026-01-22",
+        "victim": "Xsolis",
+        "domain": "xsolis.com",
+        "country": "USA",
+        "summary": "Xsolis a découvert le 22 janvier 2026 une intrusion résultant d'une attaque de phishing ciblée et a immédiatement interrompu l'incident, contenu la menace et supprimé l'accès non autorisé. L'entreprise a engagé des experts externes en cybersécurité et alerté les forces de l'ordre, et aucune activité non autorisée n'a depuis été détectée, pas plus qu'il n'existe de preuve d'une mauvaise utilisation des données impactées.",
+        "title": "Data Breach Notification",
+        "url": "https://oag.ca.gov/ecrime/databreach/reports/sb24-625166",
+        "added": "2026-06-20",
+        "pdf_url": "https://oag.ca.gov/system/files/Xsolis_CA_Individual%20Notification%20Exemplar%20%2806.19.26%29.pdf"
+    },
+    {
         "date": "2026-06-23",
         "victim": "AYA Bank",
         "domain": "ayabank.com",
