@@ -1,5 +1,16 @@
 [
     {
+        "date": "2026-06-28",
+        "victim": "Prefeitura da Barra dos Coqueiros",
+        "domain": "barradoscoqueiros.se.gov.br",
+        "country": "BRA",
+        "summary": "La municipalité de Barra dos Coqueiros a identifié une tentative d'attaque cybernétique contre les serveurs de technologie de l'administration municipale. Les équipes responsables ont pris toutes les mesures techniques nécessaires pour maintenir la situation sous contrôle et préserver le fonctionnement des systèmes. Étant donné que l'incident implique des systèmes publics et des données sensibles, la gestion municipale a immédiatement alerté la Police Civile et la Police Fédérale pour les procédures d'enquête.",
+        "description": "",
+        "title": "Prefeitura da Barra dos Coqueiros reforça segurança dos sistemas após identificar tentativa de ataque cibernético e aciona forças policiais",
+        "url": "https://www.barradoscoqueiros.se.gov.br/noticias/prefeitura-da-barra-dos-coqueiros-reforça-segurança-dos-sistemas-após-identificar-tentativa",
+        "added": "2026-06-29"
+    },
+    {
         "date": "2026-02-02",
         "victim": "Ministère de la Transition Écologique (Espagne)",
         "domain": "miteco.gob.es",
