@@ -1,5 +1,15 @@
 [
     {
+        "date": "2026-03-30",
+        "victim": "Kootenai County",
+        "domain": "kcgov.us",
+        "country": "USA",
+        "summary": "Le comté a détecté et traité une attaque par rançongiciel sur son réseau le 30 mars 2026, mobilisant immédiatement ses conseillers juridiques et une firme nationale de cybersécurité pour en limiter l'impact, restaurer ses systèmes et mener l'enquête, tout en notifiant les forces de l'ordre fédérales. Dans le cadre de cette enquête, une société tierce a analysé les données affectées et, le 22 juin 2026, le comté a déterminé que des informations personnelles avaient fait l'objet d'une acquisition non autorisée au sens de la loi de l'Idaho. Le comté va donc notifier par écrit les personnes concernées et leur proposer, le cas échéant, un service gratuit de surveillance du crédit.",
+        "title": "Data Breach Notification",
+        "url": "https://www.ag.idaho.gov/content/uploads/2026/06/2026.06.23-Kootenai-County.pdf",
+        "added": "2026-06-24"
+    },
+    {
         "date": "2024-11-03",
         "victim": "Jones Mayer",
         "domain": "jones-mayer.com",
