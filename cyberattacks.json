@@ -1,5 +1,16 @@
 [
     {
+        "date": "2026-02-18",
+        "victim": "Northern Technologies International Corp.",
+        "domain": "ntic.com",
+        "country": "USA",
+        "summary": "Northern Technologies International Corp. (NTIC), une société de produits chimiques basée dans le Minnesota, a subi une violation de données suite à une attaque par ransomware. L'incident s'est produit entre le 13 et le 18 février 2026. Le groupe de ransomware Chaos a revendiqué l'attaque le 26 février 2026, affirmant avoir obtenu 400 Go de données. NTIC a confirmé le 5 juin 2026 que les informations compromises incluaient les noms complets, les numéros de sécurité sociale et les permis de conduire. La société a commencé à informer les personnes affectées le 26 juin 2026 et offre des services de surveillance de crédit gratuits aux personnes dont le numéro de sécurité sociale a été compromis.",
+        "description": "",
+        "title": "NTIC Data Breach: Social Security Numbers Exposed",
+        "url": "https://www.claimdepot.com/data-breach/northern-technologies-international-corporation-2026",
+        "added": "2026-06-29"
+    },
+    {
         "date": "2026-03-30",
         "victim": "Kootenai County",
         "domain": "kcgov.us",
