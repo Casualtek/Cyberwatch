@@ -1,5 +1,16 @@
 [
     {
+        "date": "2026-06-29",
+        "victim": "District of Columbia Housing Authority",
+        "domain": "dchousing.org",
+        "country": "USA",
+        "summary": "L'Autorité du logement du District de Columbia (DCHA) a signalé un incident de cybersécurité qui a perturbé l'accès à son site web et à ses courriels. Bien que les bureaux et le service client par téléphone soient restés opérationnels, l'incident a potentiellement affecté les résidents, les propriétaires et les demandeurs qui dépendent des systèmes en ligne. L'incident a été confirmé par le bureau du conseiller du D.C., Robert White, mais DCHA n'a pas confirmé publiquement si un rançongiciel était impliqué ou si une demande de rançon avait été faite.",
+        "description": "",
+        "title": "District of Columbia Housing Authority cyber incident disrupts website, email access",
+        "url": "https://dysruptionhub.com/dc-housing-authority-cyber-incident/",
+        "added": "2026-06-30"
+    },
+    {
         "date": "2025-12-11",
         "victim": "FLEXium Interconnect, Inc.",
         "domain": "flexium.com.tw",
