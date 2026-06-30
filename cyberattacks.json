@@ -1,5 +1,16 @@
 [
     {
+        "date": "2026-06-16",
+        "victim": "Université de Musashino",
+        "domain": "musashino-u.ac.jp",
+        "country": "JPN",
+        "summary": "Les systèmes internes de l'Université de Musashino ont été infectés par un rançongiciel. L'incident a été détecté le 16 juin, mais à la date d'aujourd'hui (30 juin), aucune demande de rançon n'a été faite et aucune fuite de données n'a été confirmée. Cependant, l'enseigne de rançongiciel Qilin a revendiqué l'attaque.",
+        "description": "",
+        "title": "【独自】武蔵野大学がランサムウェアに感染 サイバー攻撃か 授業に影響なし（TBS NEWS DIG Powered by JNN） - Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/articles/b0145f49f1ef54b6f780bb805957b6493b20a674",
+        "added": "2026-06-30"
+    },
+    {
         "date": "2026-06-27",
         "victim": "Bannari Amman Sugars Limited",
         "domain": "bannari.com",
