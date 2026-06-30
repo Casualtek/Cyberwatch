@@ -1,5 +1,16 @@
 [
     {
+        "date": "2026-06-28",
+        "victim": "Gemeinschaftsstadtwerke Kamen",
+        "domain": "gsw-kamen.de",
+        "country": "DEU",
+        "summary": "Les services publics communaux (GSW) de Kamen, près de Dortmund, ont été victime d'une cyberattaque le 28 juin. Suite à cet incident, certains services internes et le portail client (y compris l'application) sont devenus indisponibles, bien que l'approvisionnement en énergie et en eau soit toujours assuré. Le Landeskriminalamt (LKA) mène une enquête approfondie, en collaboration avec des experts externes, pour déterminer l'étendue des dégâts et la nature de l'attaque.",
+        "description": "",
+        "title": "Cyberangriff auf Energieversorger: Landeskriminalamt ermittelt – „Kunden haben Fragen“",
+        "url": "https://www.wa.de/lokales/bergkamen/cyberangriff-auf-energieversorger-landeskriminalamt-ermittelt-94374543.html",
+        "added": "2026-06-30"
+    },
+    {
         "date": "2026-06-16",
         "victim": "Université de Musashino",
         "domain": "musashino-u.ac.jp",
