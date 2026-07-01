@@ -1,5 +1,16 @@
 [
     {
+        "date": "2026-06-24",
+        "victim": "Indra Group",
+        "domain": "indracompany.com",
+        "country": "ESP",
+        "summary": "Indra a affirmé avoir garanti la sécurité et la continuité de ses services après qu'une de ses filiales a été visée par une cyberattaque par rançongiciel, son équipe CSIRT ayant immédiatement activé les protocoles internes d'analyse et de vérification des environnements potentiellement compromis. L'entreprise a souligné que la propagation du risque au reste du groupe a été écartée et que ses opérations se sont maintenues normalement à tout moment, l'incident s'étant révélé minimal et limité à un environnement non critique, faisant l'objet de mesures de confinement, d'éradication et de récupération. Indra poursuit une enquête exhaustive pour établir l'origine de l'attaque et continue de renforcer ses contrôles et procédures de cybersécurité afin d'assurer la protection de ses systèmes et la continuité de ses services.",
+        "description": "",
+        "title": "403 ERROR",
+        "url": "https://www.democrata.es/en/economy/indra-ensures-the-continuity-of-its-services-after-a-ransomware-cyberattack-on-a-subsidiary/",
+        "added": "2026-07-01"
+    },
+    {
         "date": "2026-04-30",
         "victim": "Beausoleil",
         "domain": "villedebeausoleil.fr",
