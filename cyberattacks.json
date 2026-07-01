@@ -1,5 +1,16 @@
 [
     {
+        "date": "2026-06-30",
+        "victim": "Flexi Parking",
+        "domain": "flexi-parking.com",
+        "country": "MYS",
+        "summary": "Le système Flexi Parking, utilisé par 64 autorités locales à travers le pays, a été victime d'une cyberattaque. L'incident, qui a été signalé la veille, a affecté les données de transaction et les systèmes associés. En conséquence, les autorités locales ont été instruites de suspendre l'émission des contraventions de stationnement pendant les travaux de restauration.",
+        "description": "",
+        "title": "Selangor confirms Flexi Parking cyberattack, suspends parking summons during outage",
+        "url": "https://www.malaymail.com/news/malaysia/2026/07/01/selangor-confirms-flexi-parking-cyberattack-suspends-parking-summons-during-outage/225930",
+        "added": "2026-07-01"
+    },
+    {
         "date": "2026-06-28",
         "victim": "Gemeinschaftsstadtwerke Kamen",
         "domain": "gsw-kamen.de",
