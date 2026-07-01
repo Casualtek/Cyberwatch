@@ -1,5 +1,12 @@
 [
   {
+    "victim": "hellmold-plank.de",
+    "domain": "hellmold-plank.de",
+    "country": "DE",
+    "date": "2026-06-20",
+    "group": "safepay"
+  },
+  {
     "victim": "Leo International",
     "domain": "leointernational.com",
     "country": "US",
