@@ -1,5 +1,16 @@
 [
     {
+        "date": "2024-11-28",
+        "victim": "North Los Angeles County Regional Center",
+        "domain": "nlarc.org",
+        "country": "USA",
+        "summary": "North Los Angeles County Regional Center experienced a data incident in November 2024, involving unauthorized access to personal information, but no identity theft or fraud was reported. A cyberattack was claimed by Medusa on December 15, 2024.",
+        "title": "Data Breach Notification",
+        "url": "https://oag.ca.gov/ecrime/databreach/reports/sb24-625748",
+        "added": "2026-07-01",
+        "pdf_url": "https://oag.ca.gov/system/files/NLACRC%20Adult%20Notice%20Ltr.pdf"
+    },
+    {
         "date": "2026-06-30",
         "victim": "Flexi Parking",
         "domain": "flexi-parking.com",
