@@ -1,5 +1,16 @@
 [
     {
+        "date": "2026-05-28",
+        "victim": "Nacogdoches County",
+        "domain": "nacogdochesco.gov",
+        "country": "USA",
+        "summary": "Le comté de Nacogdoches, au Texas, a été victime d'une attaque par hameçonnage (phishing) qui a perturbé l'accès aux fiches de paie en ligne. L'incident, survenu le 28 mai, a affecté un nombre limité d'anciens employés du bureau du shérif. Bien que les services d'urgence, les finances du comté et les opérations du shérif soient restés opérationnels, l'accès public à certaines informations du shérif était limité en raison de la transition vers un nouveau site web. Le comté n'a pas précisé si des données ont été consultées ou volées.",
+        "description": "",
+        "title": "Nacogdoches County, Texas, phishing attack disrupts payroll access",
+        "url": "https://dysruptionhub.com/nacogdoches-county-phishing-payroll/",
+        "added": "2026-07-01"
+    },
+    {
         "date": "2026-06-10",
         "victim": "PChome / Pi Wallet",
         "domain": "pchome.com.tw",
