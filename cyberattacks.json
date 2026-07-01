@@ -1,5 +1,16 @@
 [
     {
+        "date": "2026-06-10",
+        "victim": "PChome / Pi Wallet",
+        "domain": "pchome.com.tw",
+        "country": "TWN",
+        "summary": "The third-party payment service Pi Wallet, operated by PChome, was targeted by the ransomware group Settra. Settra claimed to have infiltrated the system on June 10th, exfiltrating 102GB of data, including sensitive personal information for 3.5 million users. The leaked data reportedly encompasses user records, transaction history, employee HR files, and nine years of operational records. Authorities have initiated administrative checks to investigate the data breach and ensure compliance with personal data protection laws. PChome's main corporate systems were initially reported to be unaffected by the attack, according to the company's response.",
+        "description": "",
+        "title": "母公司喊安、子公司爆外洩？PChome 與比比昂面臨暗網威脅與個資外流的雙重考驗",
+        "url": "https://cyberq.tw/2026/06/30/nethome-group-is-caught-in-a-double/",
+        "added": "2026-07-01"
+    },
+    {
         "date": "2024-11-28",
         "victim": "North Los Angeles County Regional Center",
         "domain": "nlarc.org",
