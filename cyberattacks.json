@@ -1,5 +1,16 @@
 [
     {
+        "date": "2026-04-30",
+        "victim": "Beausoleil",
+        "domain": "villedebeausoleil.fr",
+        "country": "FRA",
+        "summary": "La mairie de Beausoleil a confirmé avoir été victime d'une cyberattaque fin avril 2026, causée par une faiblesse de son pare-feu. Bien que des perturbations aient affecté certains services municipaux (état civil, guichet unique, médiathèque) entre le 1er mai et le 9 mai, la municipalité affirme qu'aucune donnée n'a été extraite et que l'incident n'a eu aucune conséquence grave. La ville a depuis renforcé sa sécurité en résolvant la faiblesse du réseau wifi interne et en mettant en place un double contrôle d'identification.",
+        "description": "",
+        "title": "La mairie de Beausoleil victime d’une cyberattaque ? « Un avertissement sans frais » répond la municipalité",
+        "url": "https://www.nicematin.com/faits-divers/la-mairie-de-beausoleil-victime-d-une-cyberattaque-un-avertissement-sans-frais-repond-la-municipalite-10686768",
+        "added": "2026-07-01"
+    },
+    {
         "date": "2026-05-28",
         "victim": "Nacogdoches County",
         "domain": "nacogdochesco.gov",
