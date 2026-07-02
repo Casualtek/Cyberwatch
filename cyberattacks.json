@@ -1,5 +1,16 @@
 [
     {
+        "date": "2026-06-30",
+        "victim": "Furtwangen",
+        "domain": "furtwangen.de",
+        "country": "DEU",
+        "summary": "La municipalité de Furtwangen a été victime d'une cyberattaque, découverte le 30 juin. Bien que les services soient actuellement perturbés et que les bureaux soient fermés, la ville a confirmé qu'il n'y a pas eu d'accès aux registres ni aux données de signalement des citoyens. La ville travaille en collaboration avec l'agence de cybersécurité du Bade-Wurtemberg et la police criminelle pour enquêter sur l'incident. Les autorités locales ont mis en place une ligne d'assistance téléphonique pour les citoyens.",
+        "description": "",
+        "title": "Cyber-Angriff legt die Stadtverwaltung Furtwangen lahm – das sind die Folgen",
+        "url": "https://www.suedkurier.de/schwarzwald/cyber-angriff-auf-die-stadtverwaltung-furtwangen-114629086",
+        "added": "2026-07-02"
+    },
+    {
         "date": "2026-07-02",
         "victim": "Laster Tech Co., Ltd.",
         "domain": "lastertech.com",
