@@ -1,5 +1,16 @@
 [
     {
+        "date": "2026-04-29",
+        "victim": "Park Dental Research",
+        "domain": "parkdentalresearch.com",
+        "country": "USA",
+        "summary": "Le fabricant d'implants dentaires Park Dental Research Corporation a été victime d'une cyberattaque par ransomware, entraînant une fuite de données sensibles. L'attaque a eu lieu aux alentours du 29 avril. Le groupe de hackers INTERLOCK a revendiqué la responsabilité de la brèche le 11 mai, affirmant avoir obtenu 260 gigaoctets de données. Les informations exposées incluent des noms, des numéros de sécurité sociale, des dates de naissance, des adresses, des permis de conduire, des informations de passeport et des données financières.",
+        "description": "",
+        "title": "Dental implant manufacturer hit with ransomware attack - Becker’s Dental Review - DSO + Dental News",
+        "url": "https://www.beckersdental.com/supply-chain/dental-implant-manufacturer-hit-with-ransomware-attack/",
+        "added": "2026-07-02"
+    },
+    {
         "date": "2026-06-25",
         "victim": "Atlas Elektronik (TKMS)",
         "domain": "tkmsgroup.com",
