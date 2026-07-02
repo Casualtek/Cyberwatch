@@ -1,5 +1,16 @@
 [
     {
+        "date": "2026-06-25",
+        "victim": "Atlas Elektronik (TKMS)",
+        "domain": "tkmsgroup.com",
+        "country": "DEU",
+        "summary": "Atlas Elektronik, une filiale de TKMS (ThyssenKrupp Marine Systems), un géant de la défense allemand, a été victime d'une cyberattaque. L'attaque a ciblé la succursale nord-américaine de l'entreprise, qui gère des projets pour l'armée américaine. Bien que l'entreprise ait confirmé que les données militaires sensibles n'ont pas été compromises, des documents administratifs généraux et des listes de fichiers ont été exposés sur le darknet. L'attaque est attribuée au groupe de ransomware russe 'The Gentleman', qui est considéré comme une menace hybride croissante. Les autorités allemandes ont averti que la région de Brême est une cible prioritaire pour les menaces hybrides.",
+        "description": "",
+        "title": "Mutmaßlich russische Hacker attackieren Bremer Rüstungsfirma - buten un binnen",
+        "url": "https://www.butenunbinnen.de/nachrichten/tkms-hacker-bremen-100.html",
+        "added": "2026-07-02"
+    },
+    {
         "date": "2026-06-30",
         "victim": "Abans Financial Services",
         "domain": "abans.co.in",
