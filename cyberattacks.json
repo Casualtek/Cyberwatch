@@ -1,5 +1,16 @@
 [
     {
+        "date": "2026-07-01",
+        "victim": "Gogolook Co., Ltd.",
+        "domain": "gogolook.com",
+        "country": "TWN",
+        "summary": "Gogolook, éditeur de solutions SaaS de prévention de la fraude et de services de gestion des risques, a détecté un incident de cybersécurité impliquant des tentatives d'accès non autorisées à son environnement de serveur de test. L'équipe de cybersécurité a activé des mécanismes de défense et est en cours d'enquête avec des partenaires externes. L'enquête actuelle indique qu'aucune donnée personnelle des membres ni information confidentielle interne n'a été consultée. L'entreprise prévoit de renforcer ses mesures de protection pour assurer la sécurité des données.",
+        "description": "",
+        "title": "Today's Information",
+        "url": "https://emops.twse.com.tw/server-java/t05sr01_1_e?&isNew=Y&seq_no=1&spoke_time=193811&spoke_date=20260701&co_id=6902",
+        "added": "2026-07-02"
+    },
+    {
         "date": "2026-06-29",
         "victim": "León de Los Aldama",
         "domain": "leon.gob.mx",
