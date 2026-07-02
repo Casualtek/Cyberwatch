@@ -1,5 +1,16 @@
 [
     {
+        "date": "2026-07-02",
+        "victim": "Laster Tech Co., Ltd.",
+        "domain": "lastertech.com",
+        "country": "TWN",
+        "summary": "Laster Tech a été victime d'une cyberattaque ciblant ses systèmes d'information. Suite à la détection de l'attaque, ce fabricant de composants pour éclairages à LED a immédiatement activé ses mécanismes de défense et fait appel à des experts externes. Les systèmes concernés ont pu reprendre leurs opérations normales de manière progressive. L'évaluation préliminaire indique que l'impact sur les opérations de l'entreprise ne sera pas significatif. L'entreprise prévoit de corriger les vulnérabilités de sécurité et d'améliorer continuellement ses contrôles de sécurité.",
+        "description": "",
+        "title": "Today's Information",
+        "url": "https://emops.twse.com.tw/server-java/t05sr01_1_e?&isNew=Y&seq_no=1&spoke_time=161748&spoke_date=20260702&co_id=3346",
+        "added": "2026-07-02"
+    },
+    {
         "date": "2026-07-01",
         "victim": "Gogolook Co., Ltd.",
         "domain": "gogolook.com",
