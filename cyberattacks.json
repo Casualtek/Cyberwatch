@@ -1,5 +1,16 @@
 [
     {
+        "date": "2026-03-23",
+        "victim": "Shun Hing Group",
+        "domain": "shunhinggroup.com",
+        "country": "HKG",
+        "summary": "Le groupe Shun Hing, un distributeur d'appareils de premier plan à Hong Kong, a été victime d'une cyberattaque qui a compromis les informations personnelles de plus de 1 million de personnes. L'Office du Commissaire à la protection des données a lancé une enquête après avoir reçu un rapport de violation de données de la part de l'entreprise. Les données affectées incluent les noms, adresses et adresses e-mail des clients, ainsi que des informations sensibles (numéros de carte d'identité, détails bancaires et salaires) pour environ 1 000 employés. Une cyberattaque avait été revendiquée par LockBit 5.0 le 14 avril.",
+        "description": "",
+        "title": "Cyberattack on Hong Kong’s Shun Hing Group affects data of 1 million people",
+        "url": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3359218/cyberattack-hong-kongs-shun-hing-group-affects-data-1-million-people",
+        "added": "2026-07-03"
+    },
+    {
         "date": "2026-06-08",
         "victim": "Gendai Butsudan",
         "domain": "gendaibutudan.com",
