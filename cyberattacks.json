@@ -1,5 +1,16 @@
 [
     {
+        "date": "2026-06-08",
+        "victim": "Gendai Butsudan",
+        "domain": "gendaibutudan.com",
+        "country": "JPN",
+        "summary": "La société Gendai Butsudan a annoncé qu'une fuite potentielle de données personnelles, suite à un accès non autorisé, avait été découverte le 8 juin. L'entreprise a pris des mesures pour bloquer l'accès externe au réseau concerné et mène une enquête approfondie avec des experts externes. Elle a confirmé que les données potentiellement compromises n'incluaient pas d'informations financières susceptibles de causer un préjudice matériel (comme les informations de carte de crédit).",
+        "description": "",
+        "title": "現代仏壇に不正アクセス、親会社である株式会社はせがわが保有する個人情報には影響無し | ScanNetSecurity",
+        "url": "https://scan.netsecurity.ne.jp/article/2026/07/03/55630.html",
+        "added": "2026-07-03"
+    },
+    {
         "date": "2026-06-23",
         "victim": "Akron Public Schools",
         "domain": "akronschools.com",
