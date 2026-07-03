@@ -1,5 +1,16 @@
 [
     {
+        "date": "2026-06-08",
+        "victim": "Navient Corporation",
+        "domain": "navient.com",
+        "country": "USA",
+        "summary": "Navient Corporation, une entreprise américaine de services de prêts étudiants, a subi un incident de cybersécurité où le cabinet d'avocats tiers qui lui fournit des services a été victime d'une attaque par rançongiciel. Cette attaque a entraîné la fuite de données personnelles de prêteurs, incluant leur nom, date de naissance, adresse et numéro de sécurité sociale (SSN). Navient a immédiatement lancé une enquête avec l'aide d'experts externes et a notifié les parties concernées et les autorités réglementaires. L'entreprise a précisé que l'incident était limité au système du cabinet d'avocats et qu'aucune preuve d'accès non autorisé à ses propres systèmes n'a été trouvée, n'entraînant aucune interruption des services.",
+        "description": "",
+        "title": "내비언트, 협력 법률사무소 랜섬웨어 공격으로 고객 정보 유출... \"자체 시스템 영향 없어\"",
+        "url": "https://www.datatooza.com/article/202607030526063758cd1e79274c_80",
+        "added": "2026-07-03"
+    },
+    {
         "date": "2026-03-23",
         "victim": "Shun Hing Group",
         "domain": "shunhinggroup.com",
