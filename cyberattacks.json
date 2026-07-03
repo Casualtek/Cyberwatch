@@ -1,5 +1,16 @@
 [
     {
+        "date": "2026-06-23",
+        "victim": "Akron Public Schools",
+        "domain": "akronschools.com",
+        "country": "USA",
+        "summary": "Akron Public Schools a confirmé qu'une panne de réseau récente, qui a perturbé les activités de l'école d'été, était due à un « incident cybernétique ». L'incident a été détecté et contenu par l'équipe de sécurité informatique du district le 2 juillet, suite à un événement survenu le 23 juin, entraînant la fermeture de tous les bâtiments et l'annulation des activités d'école d'été le 24 juin. Le district travaille actuellement avec des experts externes pour déterminer la nature et l'étendue de l'incident.",
+        "description": "",
+        "title": "Akron Public Schools investigating scope of cyber incident",
+        "url": "https://www.beaconjournal.com/story/news/education/2026/07/02/akron-schools-says-cyber-incident-led-to-summer-school-cancellations/90788783007/",
+        "added": "2026-07-03"
+    },
+    {
         "date": "2026-06-30",
         "victim": "Furtwangen",
         "domain": "furtwangen.de",
