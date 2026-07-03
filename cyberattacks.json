@@ -1,5 +1,16 @@
 [
     {
+        "date": "2026-06-30",
+        "victim": "Olpha",
+        "domain": "olpha.eu",
+        "country": "LVN",
+        "summary": "Cert.lv a découvert qu'un même cyberattaquant ayant ciblé Latvijas valsts meži (LVM) avait également accédé au serveur du fabricant de médicaments Olpha. Bien que les deux incidents ne soient pas techniquement liés, Cert.lv a confirmé un accès non autorisé à au moins un système d'information d'Olpha (un serveur), sans chiffrement des données. De plus, des journaux de preuves ont été supprimés. Olpha a contenu les dégâts, mais l'analyse se poursuit. Cert.lv signale que des groupes étrangers motivés financièrement par le ransomware restent actifs dans le cyberespace letton et publie des indicateurs d'attaque pour aider les organisations à se protéger.",
+        "description": "",
+        "title": "Хакеры добрались до производителя лекарств Olpha: что известно",
+        "url": "https://rus.jauns.lv/article/novosti/717161-xakery-dobralis-do-proizvoditelia-lekarstv-olpha-cto-izvestno",
+        "added": "2026-07-03"
+    },
+    {
         "date": "2026-06-24",
         "victim": "GSP Crop Science Ltd.",
         "domain": "gspcrop.in",
