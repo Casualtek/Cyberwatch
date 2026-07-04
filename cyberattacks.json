@@ -1,5 +1,16 @@
 [
     {
+        "date": "2026-07-03",
+        "victim": "Acosol",
+        "domain": "acosol.es",
+        "country": "ESP",
+        "summary": "Acosol, la entreprise publique des eaux, a subi une cyberattaque qui a affecté la disponibilité des informations et pourrait avoir compromis les données personnelles de ses clients. L'entreprise a mis en place des protocoles de sécurité et a alerté ses abonnés pour qu'ils soient particulièrement vigilants face aux communications suspectes, car les données compromises incluent des informations de contact, des DNI (cartes d'identité), des informations contractuelles et potentiellement des moyens de paiement.",
+        "description": "",
+        "title": "Acosol sufre un ciberataque y recomienda a sus clientes 'extremar la atención'",
+        "url": "https://www.laopiniondemalaga.es/malaga/2026/07/03/acosol-sufre-ciberataque-recomienda-clientes-132098235.html",
+        "added": "2026-07-04"
+    },
+    {
         "date": "2026-07-02",
         "victim": "Centre hospitalier de Chaumont",
         "domain": "ch-chaumont.fr",
