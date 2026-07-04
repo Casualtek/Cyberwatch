@@ -1,5 +1,16 @@
 [
     {
+        "date": "2026-07-02",
+        "victim": "Centre hospitalier de Chaumont",
+        "domain": "ch-chaumont.fr",
+        "country": "FRA",
+        "summary": "Le centre hospitalier de Chaumont a été victime d'une cyberattaque, découverte après la détection d'anomalies sur son système d'information. L'établissement a immédiatement mobilisé ses équipes techniques et des partenaires externes, y compris le CHU Dijon Bourgogne, le GHT et l'ARS, pour contenir l'incident et assurer la continuité des soins. L'attaque a été endiguée, et l'accueil des patients est maintenu, bien que le centre reste fortement mobilisé pour le suivi de la situation.",
+        "description": "",
+        "title": "Le centre hospitalier de Chaumont victime d'une cyberattaque",
+        "url": "https://www.magnumlaradio.com/le-centre-hospitalier-de-chaumont-victime-d-une-cyberattaque",
+        "added": "2026-07-04"
+    },
+    {
         "date": "2026-06-30",
         "victim": "Olpha",
         "domain": "olpha.eu",
