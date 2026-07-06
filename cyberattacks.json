@@ -1,5 +1,16 @@
 [
     {
+        "date": "2026-06-08",
+        "victim": "Acworth",
+        "domain": "acworth-ga.gov",
+        "country": "USA",
+        "summary": "La ville d'Acworth a été victime d'une cyberattaque contre certains de ses systèmes informatiques le 8 juin 2026. Les services municipaux continuent de fonctionner normalement et aucune opération quotidienne n'a été affectée selon les autorités. Les forces de l'ordre ont été informées et mènent une enquête sur l'incident.",
+        "description": "",
+        "title": "Acworth reports cyberattack on city computer systems",
+        "url": "https://www.mdjonline.com/news/local/acworth-reports-cyberattack-on-city-computer-systems/article_551f7dbc-c4e3-4c39-8030-97b00631ba79.html",
+        "added": "2026-07-06"
+    },
+    {
         "date": "2026-07-02",
         "victim": "Spedidam",
         "domain": "spedidam.fr",
