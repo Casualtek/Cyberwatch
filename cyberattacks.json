@@ -1,5 +1,16 @@
 [
     {
+        "date": "2026-07-02",
+        "victim": "Spedidam",
+        "domain": "spedidam.fr",
+        "country": "FRA",
+        "summary": "Spedidam a été victime d'une cyberattaque de type ransomware visant son système d'information. L'entreprise a déposé plainte et informé la CNIL et l'ANSSI. Bien qu'aucune exfiltration de données personnelles ne soit confirmée à ce stade, des investigations sont en cours pour évaluer les conséquences de l'incident. Le nouvel espace Artiste n'est pas impacté et son lancement est maintenu. L'attaque a été revendiquée par \"The Gentlemen\" le 6 juillet.",
+        "description": "",
+        "title": "Point d’information – Incident de sécurité informatique",
+        "url": "https://www.spedidam.fr/presse/incident-de-securite-informatique/?fbclid=IwY2xjawS4jRBleHRuA2FlbQIxMABzcnRjBmFwcF9pZBAyMjIwMzkxNzg4MjAwODkyAAEejCOcVJick3n9hfb_wzxrCYNh0dFN9c2oqDLb1CB9vTOuZj7wz2KjgiMbsfE_aem_40VHFRzEOHT66_rrPtrlgQ",
+        "added": "2026-07-06"
+    },
+    {
         "date": "2026-06-26",
         "victim": "Comté de Delaware",
         "domain": "delcopa.gov",
