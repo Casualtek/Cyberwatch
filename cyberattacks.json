@@ -1,5 +1,16 @@
 [
     {
+        "date": "2026-06-26",
+        "victim": "Comté de Delaware",
+        "domain": "delcopa.gov",
+        "country": "USA",
+        "summary": "Le comté de Delaware, en Pennsylvanie, a été victime d'une activité non autorisée et de tentatives d'intrusion qui ont perturbé ses services publics, ses serveurs et ses lignes téléphoniques à partir du 26 juin 2026. Après avoir initialement qualifié l'incident de panne de réseau, le comté a confirmé qu'il s'agissait d'une intrusion. Bien que les services aient été rétablis, le comté travaille toujours avec des spécialistes en cybersécurité pour confirmer la sécurité du réseau. L'incident fait suite à un précédent incident de rançongiciel en 2021.",
+        "description": "",
+        "title": "Delaware County, Pennsylvania investigates network intrusion after outage",
+        "url": "https://dysruptionhub.com/delaware-county-pa-outage-cyber-questions/",
+        "added": "2026-07-06"
+    },
+    {
         "date": "2026-07-05",
         "victim": "Comté de Pennington",
         "domain": "pennington.sd.us",
