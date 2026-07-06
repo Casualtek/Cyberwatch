@@ -1,6 +1,11 @@
 name: Notify New Reports
 
 on:
+  push:
+    branches:
+        - main
+    paths:
+      - 'cyberattacks.json'
   workflow_dispatch:
 
 permissions: write-all
