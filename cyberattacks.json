@@ -1,5 +1,16 @@
 [
     {
+        "date": "2026-05-14",
+        "victim": "Nihon Shisan Souken",
+        "domain": "nssg.co.jp",
+        "country": "JPN",
+        "summary": "La société Nihon Shisan Souken, une filiale de Aoyama Zaisan Network, a publié un deuxième rapport concernant une cyberattaque par rançongiciel survenue le 14 mai. L'attaque, détectée le 9 mai, a entraîné le chiffrement des fichiers sur les serveurs de la société et de sa filiale, Daito Fudosan Co., Ltd., ainsi que la possible exfiltration des données stockées. Bien qu'aucun incident de fuite de données n'ait été confirmé à ce stade, l'entreprise mène une enquête approfondie avec des experts externes. Elle a repris ses activités après avoir vérifié la sécurité des systèmes et collabore avec des avocats externes, la Commission de protection des informations personnelles, la Direction financière de Kanto et le Ministère du Transport de Terre, en plus de consulter la police. L'entreprise a également annoncé l'introduction de l'EDR pour renforcer sa sécurité.",
+        "description": "",
+        "title": "日本資産総研へランサムウェア攻撃、専門家調査で安全性を確認 | ScanNetSecurity",
+        "url": "https://scan.netsecurity.ne.jp/article/2026/07/06/55639.html",
+        "added": "2026-07-06"
+    },
+    {
         "date": "2026-07-03",
         "victim": "Université d'Alicante",
         "domain": "ua.es",
