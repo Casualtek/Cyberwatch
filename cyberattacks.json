@@ -1,5 +1,16 @@
 [
     {
+        "date": "2026-06-22",
+        "victim": "Wise County Sheriff’s Office",
+        "domain": "wise.tx.us",
+        "country": "USA",
+        "summary": "Le Bureau du Shérif du comté de Wise, au Texas, a été victime de cyberattaques qui ont perturbé ses systèmes d'enregistrement et l'ont contraint à suspendre les délais de publication des documents publics. Les systèmes ont été touchés à deux reprises, empêchant le personnel d'accéder aux dossiers ou d'imprimer les demandes d'information publique. Les demandes enregistrées ont été perdues et devront être reconstruites à partir de fichiers d'e-mails. Bien que la période de suspension ait pris fin, il n'est pas précisé si les systèmes ont été restaurés.",
+        "description": "",
+        "title": "Wise County Sheriff’s Office hack disrupts Texas records access",
+        "url": "https://dysruptionhub.com/wise-county-sheriff-texas-hack/",
+        "added": "2026-07-06"
+    },
+    {
         "date": "2026-06-08",
         "victim": "Acworth",
         "domain": "acworth-ga.gov",
