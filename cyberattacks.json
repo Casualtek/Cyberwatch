@@ -1,6 +1,17 @@
 [
     {
         "date": "2026-07-03",
+        "victim": "Université d'Alicante",
+        "domain": "ua.es",
+        "country": "ESP",
+        "summary": "L'Université d'Alicante a été victime d'un grave tentative de cyberattaque qui a partiellement paralysé plusieurs de ses systèmes internes, notamment des outils du campus virtuel. Bien que le 'malware' ait pénétré certains serveurs secondaires, les équipes de sécurité ont réussi à stopper l'attaque. L'université confirme qu'aucune information sensible (données personnelles, économiques ou académiques) n'a été filtrée et que les systèmes nucléaires n'ont pas été affectés. Les services suspendus sont en cours de restauration pour garantir la sécurité.",
+        "description": "",
+        "title": "La Universidad de Alicante sufre el mayor intento de ciberataque de su historia | TodoAlicante",
+        "url": "https://www.todoalicante.es/educacion/ciberataque-paraliza-universidad-alicante-20260706084007-nt.html",
+        "added": "2026-07-06"
+    },
+    {
+        "date": "2026-07-03",
         "victim": "Acosol",
         "domain": "acosol.es",
         "country": "ESP",
