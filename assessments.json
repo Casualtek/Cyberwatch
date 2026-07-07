@@ -1,5 +1,12 @@
 [
   {
+    "victim": "caritas-koblenz.de",
+    "domain": "caritas-koblenz.de",
+    "country": "DE",
+    "date": "2026-06-15",
+    "group": "safepay"
+  },
+  {
     "victim": "oakparkmi.gov",
     "domain": "oakparkmi.gov",
     "country": "US",
