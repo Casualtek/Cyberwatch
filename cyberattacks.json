@@ -1,5 +1,16 @@
 [
     {
+        "date": "2026-04-20",
+        "victim": "Kubota USA",
+        "domain": "kubotausa.com",
+        "country": "USA",
+        "summary": "Kubota USA a notifié un incident de sécurité concernant les dossiers des employés. Les informations potentiellement compromises incluent le numéro de sécurité sociale, la date de naissance, le numéro d'identification fiscale, les informations de compte financier pour le dépôt direct, les informations de carte de paiement et les informations d'inscription aux avantages sociaux. Pour les personnes à charge, les informations incluent le nom, le numéro de sécurité sociale et les informations d'inscription aux avantages sociaux.",
+        "description": "",
+        "title": "Notice of Security Incident",
+        "url": "https://www.kubotausa.com/notice-of-security-incident",
+        "added": "2026-07-07"
+    },
+    {
         "date": "2026-03-08",
         "victim": "Autohaus-Gruppe Heister",
         "domain": "heistergruppe.de",
