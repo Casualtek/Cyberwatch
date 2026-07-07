@@ -1,5 +1,16 @@
 [
     {
+        "date": "2026-03-08",
+        "victim": "Autohaus-Gruppe Heister",
+        "domain": "heistergruppe.de",
+        "country": "DEU",
+        "summary": "L'Autohaus-Gruppe Heister a été victime d'une cyberattaque qui a paralysé ses opérations (e-mails, PC, téléphonie, gestion des données clients, etc.). Grâce à un filet de sécurité mis en place par Telenetwork de Trier, l'entreprise a pu être sauvée et son système a été redémarré. L'attaque a été revendiquée par Qilin le 10 avril.",
+        "description": "",
+        "title": "Cyberattacke im Autohaus: Hacker legen Heister lahm: Wie Telenetwork aus Trier das System neu startet",
+        "url": "https://www.volksfreund.de/region/rheinland-pfalz/trier-auto-heister-gruppe-lahmgelegt-it-rettung-von-telenetwork_aid-150866277",
+        "added": "2026-07-07"
+    },
+    {
         "date": "2026-07-03",
         "victim": "Aéroport de Hahn",
         "domain": "hahn-airport.de",
