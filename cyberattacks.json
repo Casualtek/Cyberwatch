@@ -1,6 +1,17 @@
 [
     {
         "date": "2026-07-03",
+        "victim": "Jacksonville",
+        "domain": "jacksonvilletx.org",
+        "country": "USA",
+        "summary": "La ville de Jacksonville, au Texas, a dû mettre hors ligne certains de ses services après avoir détecté une activité réseau suspecte le 3 juillet. Des spécialistes en cybersécurité ont été engagés pour enquêter sur l'incident. La ville a pris des mesures de précaution et a renforcé la surveillance de son réseau, mais n'a pas précisé quels systèmes étaient affectés, si des services publics (paiements, permis, etc.) étaient touchés, ou si des données personnelles avaient été consultées.",
+        "description": "",
+        "title": "Jacksonville, Texas, keeps some city systems offline after cyber incident",
+        "url": "https://dysruptionhub.com/jacksonville-texas-cyber-incident/",
+        "added": "2026-07-07"
+    },
+    {
+        "date": "2026-07-03",
         "victim": "Tirupati Fincorp Ltd",
         "domain": "tirupatifincorp.in",
         "country": "IND",
