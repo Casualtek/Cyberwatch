@@ -1,6 +1,17 @@
 [
     {
         "date": "2026-07-03",
+        "victim": "Aéroport de Hahn",
+        "domain": "hahn-airport.de",
+        "country": "DEU",
+        "summary": "Un incident de sécurité a eu lieu à l'aéroport de Hahn. Bien que l'attaque soit en cours d'investigation, l'aéroport a confirmé que le trafic aérien a continué sans restriction. Une cyberattaque a été revendiquée par l'enseigne Safepay le 6 juillet.",
+        "description": "",
+        "title": "Cyberattacke auf Airport: Flughafen Hahn wird zum Ziel eines Hackerangriffs – Behörden prüfen den Vorfall",
+        "url": "https://www.volksfreund.de/region/rheinland-pfalz/hackerangriff-auf-flughafen-hahn-betrieb-laeuft-weiter_aid-151045669",
+        "added": "2026-07-07"
+    },
+    {
+        "date": "2026-07-03",
         "victim": "Jacksonville",
         "domain": "jacksonvilletx.org",
         "country": "USA",
