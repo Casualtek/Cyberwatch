@@ -1,5 +1,16 @@
 [
     {
+        "date": "2026-06-22",
+        "victim": "Aéroport d'Ercan",
+        "domain": "ercanhavalimani.aero",
+        "country": "TUR",
+        "summary": "Une personne a été arrêtée suite à l'installation d'un logiciel malveillant sur le serveur principal de l'Aéroport d'Ercan. Selon le communiqué de la police, il a été découvert que l'accès à distance au système d'exploitation du serveur principal de l'Aéroport d'Ercan avait été établi le 22 juin, et que le logiciel malveillant avait été installé dans le but de supprimer des données ultérieurement.",
+        "description": "",
+        "title": "Ercan Havalimanı'na Siber Saldırı Girişimi... Zanlı Tutuklandı",
+        "url": "https://www.kibrismanset.com/ercan-havalimanina-siber-saldiri-girisimi-zanli-tutuklandi",
+        "added": "2026-07-08"
+    },
+    {
         "date": "2026-06-23",
         "victim": "Meitetsu Kyosho Co., Ltd.",
         "domain": "mkyosho.co.jp",
