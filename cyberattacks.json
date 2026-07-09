@@ -1,5 +1,16 @@
 [
     {
+        "date": "2026-07-05",
+        "victim": "Police du Kerala",
+        "domain": "keralapolice.gov.in",
+        "country": "IND",
+        "summary": "Une enquête a été lancée suite au dysfonctionnement d'une application interne liée au site web de la Police du Kerala, qui gère les fichiers internes. Les autorités soupçonnent une cyberattaque, bien que la police ait affirmé qu'aucune fuite de données n'a eu lieu. L'application est hors service depuis quatre jours, affectant la circulation des fichiers internes, mais le site public reste opérationnel.",
+        "description": "",
+        "title": "Cyber attack suspected as Kerala Police internal file system goes offline",
+        "url": "https://theprint.in/india/cyber-attack-suspected-as-kerala-police-internal-file-system-goes-offline/2981566/",
+        "added": "2026-07-09"
+    },
+    {
         "date": "2026-03-28",
         "victim": "ZEGO",
         "domain": "zego-tvz.com",
