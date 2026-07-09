@@ -1,5 +1,16 @@
 [
     {
+        "date": "2026-05-07",
+        "victim": "Champaign-Urbana Public Health District",
+        "domain": "c-uphd.org",
+        "country": "USA",
+        "summary": "Le District de Santé Public de Champaign-Urbana a détecté une activité suspecte sur son réseau informatique début mai. Une personne non autorisée a copié des fichiers, potentiellement contenant des informations personnelles des résidents, telles que des numéros de sécurité sociale, des informations financières, des noms, des adresses, des dates de naissance, des informations de traitement et d'assurance maladie. Une cyberattaque a été revendiquée par INC Ransom le 1er juin.",
+        "description": "",
+        "title": "Illinois Health Department Reveals a ‘Data Security Event’",
+        "url": "https://www.govtech.com/security/illinois-health-department-reveals-a-data-security-event",
+        "added": "2026-07-09"
+    },
+    {
         "date": "2026-03-17",
         "victim": "AssuranceAmerica",
         "domain": "assuranceamerica.com",
