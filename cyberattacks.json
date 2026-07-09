@@ -1,5 +1,16 @@
 [
     {
+        "date": "2026-07-06",
+        "victim": "Phibee Telecom",
+        "domain": "phibee.net",
+        "country": "FRA",
+        "summary": "La Communauté de Communes Pays du Mont-Blanc (CCPMB) a été la victime indirecte d'une cyberattaque de grande ampleur touchant son opérateur internet, Phibee Telecom. Cet incident a entraîné l'indisponibilité de son site web, de ses adresses e-mail et de ses services téléphoniques. Phibee fait état de la suppression malveillante des configurations de systèmes télécoms ainsi que de sauvegardes, mais précise qu'aucun rançongiciel n'a été utilisé.",
+        "description": "",
+        "title": "Pays du Mont-Blanc, la CCPMB touchée par une cyberattaque",
+        "url": "https://infinity-area.com/article/pays-du-mont-blanc-la-ccpmb-touchee-par-une-cyberattaque",
+        "added": "2026-07-09"
+    },
+    {
         "date": "2026-07-05",
         "victim": "Police du Kerala",
         "domain": "keralapolice.gov.in",
