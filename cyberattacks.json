@@ -1,5 +1,16 @@
 [
     {
+        "date": "2026-03-17",
+        "victim": "AssuranceAmerica",
+        "domain": "assuranceamerica.com",
+        "country": "USA",
+        "summary": "L'assureur américain AssuranceAmerica a confirmé une violation de données affectant 6,9 millions de personnes. Cette fuite, qui est la plus importante de l'année 2026 concernant les numéros de permis de conduire américains, a été découverte par l'entreprise le 17 mars. Les pirates ont volé des noms, des coordonnées, des numéros de permis de conduire, des informations sur les polices d'assurance et les comptes des clients. L'entreprise a indiqué que les pirates avaient ciblé l'un de ses employés et a désactivé les identifiants compromis. Les notifications aux clients sont prévues pour le 10 juillet.",
+        "description": "",
+        "title": "Another massive data breach exposed millions of driver's license numbers | TechCrunch",
+        "url": "https://techcrunch.com/2026/07/08/another-massive-data-breach-exposed-millions-of-drivers-license-numbers/",
+        "added": "2026-07-09"
+    },
+    {
         "date": "2026-07-06",
         "victim": "Phibee Telecom",
         "domain": "phibee.net",
