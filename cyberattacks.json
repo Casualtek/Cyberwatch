@@ -1,5 +1,16 @@
 [
     {
+        "date": "2026-07-07",
+        "victim": "Winkler",
+        "domain": "winkler.ca",
+        "country": "CAN",
+        "summary": "La ville de Winkler, au Manitoba, a été touchée par un incident de cybersécurité le mardi matin. Les systèmes de protection ont détecté l'incident, obligeant les autorités à isoler les systèmes affectés et à mettre hors ligne certains services municipaux par précaution. Les systèmes téléphoniques et de paiement sont actuellement indisponibles. La ville a engagé des experts externes et la police a été informée. Pour l'instant, il n'est pas connu si des informations personnelles ont été compromises.",
+        "description": "",
+        "title": "City of Winkler hit by cyberattack",
+        "url": "https://www.winnipegfreepress.com/breakingnews/2026/07/09/city-of-winkler-hit-by-cyberattack",
+        "added": "2026-07-10"
+    },
+    {
         "date": "2026-03-02",
         "victim": "Seed Planning",
         "domain": "seedplanning.co.jp",
