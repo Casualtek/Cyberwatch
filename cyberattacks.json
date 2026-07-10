@@ -1,5 +1,16 @@
 [
     {
+        "date": "2026-03-02",
+        "victim": "Seed Planning",
+        "domain": "seedplanning.co.jp",
+        "country": "JPN",
+        "summary": "La société Seed Planning a publié les résultats de son enquête concernant l'accès non autorisé à son système, signalé initialement le 6 mars. L'intrusion a commencé par l'exploitation d'une vulnérabilité PHP sur un serveur d'application web exposé depuis juin 2024, permettant ensuite l'infiltration du réseau interne à partir de février 2026. L'attaquant a obtenu des droits d'administrateur de domaine, ce qui a conduit à l'installation et à l'exécution d'un rançongiciel sur certains systèmes. Il existe une possibilité de fuite de documents de réunion internes (incluant des informations de gestion et des données personnelles des employés) depuis le serveur d'application web. Les serveurs AD ont été compromis, entraînant la fuite d'informations sur les domaines, les hôtes et les comptes. Cependant, l'entreprise a conclu que les informations personnelles des clients n'ont pas été divulguées, car aucun transfert de fichiers n'a été détecté sur les serveurs de fichiers ou les PC. En réponse, Seed Planning a abandonné le serveur d'application web concerné et a reconstruit l'intégralité de son réseau d'entreprise avec de nouvelles mesures de sécurité, incluant l'authentification multi-facteurs et une surveillance renforcée. L'entreprise s'engage également à renforcer sa gouvernance de sécurité et à former l'ensemble de ses employés.",
+        "description": "",
+        "title": "シード・プランニングにランサムウェア攻撃、顧客から預かった個人情報は流出していないと判断 | ScanNetSecurity",
+        "url": "https://scan.netsecurity.ne.jp/article/2026/07/10/55678.html",
+        "added": "2026-07-10"
+    },
+    {
         "date": "2026-06-20",
         "victim": "Todd, Hamaker & Johnson, LLP",
         "domain": "cpaonpoint.com",
