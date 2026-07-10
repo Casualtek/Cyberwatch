@@ -1,5 +1,16 @@
 [
     {
+        "date": "2026-04-15",
+        "victim": "Université du Saarland",
+        "domain": "uni-saarland.de",
+        "country": "DEU",
+        "summary": "Environ 40 000 enregistrements de données d'étudiants de l'Université du Saarlandes auraient été volés lors d'une cyberattaque. La justice soupçonne un jeune homme du district régional de Saarbrücken d'avoir accédé sans autorisation à une plateforme d'apprentissage à la mi-avril, en exploitant une vulnérabilité logicielle. Il aurait ensuite exigé une rançon de quatre chiffres en cryptomonnaie pour ne pas publier les données.",
+        "description": "",
+        "title": "Cyberangriff in Saarbrücken: Uni soll erpresst worden sein",
+        "url": "https://www.wochenblatt-reporter.de/saarland/c-blaulicht/cyberangriff-in-saarbruecken-uni-soll-erpresst-worden-sein_a822557",
+        "added": "2026-07-10"
+    },
+    {
         "date": "2026-07-07",
         "victim": "Winkler",
         "domain": "winkler.ca",
