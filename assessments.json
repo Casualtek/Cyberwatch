@@ -1,5 +1,12 @@
 [
   {
+    "victim": "weinwurm.cc",
+    "domain": "weinwurm.cc",
+    "country": "AT",
+    "date": "2026-05-15",
+    "group": "lockbit5"
+  },
+  {
     "victim": "Bonacio",
     "domain": "bonacio.com",
     "country": "US",
