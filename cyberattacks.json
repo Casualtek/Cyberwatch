@@ -1,5 +1,16 @@
 [
     {
+        "date": "2026-07-09",
+        "victim": "Comté de Covasna",
+        "domain": "http://prefecturacovasna.ro",
+        "country": "ROU",
+        "summary": "Les sites web des municipalités de Baraolt et de Ghidfalău sont hors service depuis plusieurs jours après avoir été la cible d'une cyberattaque. Les autorités locales travaillent avec des entreprises de maintenance pour rétablir les plateformes. Le maire de Baraolt a annoncé qu'il demanderait le soutien du Directionat Național de Securitate Cibernetică. Le maire de Ghidfalău a précisé qu'aucune donnée sensible n'est stockée sur la plateforme. Les autorités espèrent que les services en ligne seront rétablis rapidement.",
+        "description": "",
+        "title": "Atac cibernetic asupra site-urilor primăriilor din Baraolt și Ghidfalău - Radio Romania Targu Mures",
+        "url": "https://www.radiomures.ro/stiri/atac-cibernetic-asupra-site-urilor-primariilor-din-baraolt-si-ghidfalau.html",
+        "added": "2026-07-11"
+    },
+    {
         "date": "2026-07-08",
         "victim": "Ville de Carros",
         "domain": "ville-carros.fr",
