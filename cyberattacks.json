@@ -1,5 +1,16 @@
 [
     {
+        "date": "2026-07-08",
+        "victim": "Ville de Carros",
+        "domain": "ville-carros.fr",
+        "country": "FRA",
+        "summary": "La Ville de Carros a confirmé être victime d'une cyberattaque qui a rendu son site internet municipal indisponible. Les équipes techniques travaillent au rétablissement des services, mais la nature exacte de l'attaque et l'existence d'une fuite de données n'ont pas été confirmées. Les démarches administratives peuvent se poursuivre via l'accueil de la mairie.",
+        "description": "",
+        "title": "La Ville de Carros confirme une cyberattaque ayant rendu son site internet indisponible",
+        "url": "https://frenchbreaches.com/alertes/la-ville-de-carros-mrf0dto099t20otrozs",
+        "added": "2026-07-11"
+    },
+    {
         "date": "2026-04-15",
         "victim": "Université du Saarland",
         "domain": "uni-saarland.de",
