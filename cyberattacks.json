@@ -1,5 +1,16 @@
 [
     {
+        "date": "2025-01-11",
+        "victim": "Iwate Asahi Television",
+        "domain": "iat.co.jp",
+        "country": "JPN",
+        "summary": "La société Iwate Asahi Television a annoncé le 22 janvier avoir été victime d'une attaque par rançongiciel. L'incident a été détecté le matin du 11 janvier lorsqu'un employé a signalé un dysfonctionnement du système interne, révélant par la suite que les noms de fichiers sur le serveur avaient été modifiés.",
+        "description": "",
+        "title": "放送への影響無し ～ 岩手朝日テレビにランサムウェア攻撃 | ScanNetSecurity",
+        "url": "https://s.netsecurity.ne.jp/article/2025/02/04/52266.html?pickup_list_click1=true",
+        "added": "2026-07-13"
+    },
+    {
         "date": "2026-07-09",
         "victim": "Comté de Covasna",
         "domain": "http://prefecturacovasna.ro",
