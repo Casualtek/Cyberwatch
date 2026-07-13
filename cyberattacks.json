@@ -1,5 +1,16 @@
 [
     {
+        "date": "2025-08-14",
+        "victim": "Centers Laboratory",
+        "domain": "centerslab.com",
+        "country": "USA",
+        "summary": "Centers Laboratory, une entreprise de diagnostic de santé basée dans le New Jersey, a informé le gouvernement américain d'une violation de données découverte il y a près d'un an. L'intrusion, qui a eu lieu entre le 9 et le 14 août 2025, a permis aux acteurs de la menace d'exfiltrer des informations personnelles et de santé protégées de plus de 540 000 individus. Le groupe de cybercriminels WorldLeaks a revendiqué cette attaque le 6 octobre suivant.",
+        "description": "",
+        "title": "Centers Laboratory Data Breach Affects 540,000 Individuals",
+        "url": "https://www.securityweek.com/centers-laboratory-data-breach-affects-540000-individuals/amp/",
+        "added": "2026-07-13"
+    },
+    {
         "date": "2025-01-11",
         "victim": "Iwate Asahi Television",
         "domain": "iat.co.jp",
