@@ -1,5 +1,16 @@
 [
     {
+        "date": "2025-01-16",
+        "victim": "Marlboro-Chesterfield Pathology",
+        "domain": "mcpathology.com",
+        "country": "USA",
+        "summary": "Marlboro-Chesterfield Pathology, une entreprise de services de pathologie basée en Caroline du Nord, a conclu un règlement d'une action collective suite à une cyberattaque par ransomware survenue en janvier 2025. L'attaque, attribuée au groupe SafePay, a compromis les données de 235 911 individus, incluant des informations de santé protégées, des noms, des dates de naissance et des numéros de sécurité sociale. Le règlement, finalisé le 21 novembre 2025, offre aux membres de la classe un remboursement allant jusqu'à 1 000 $, un paiement en espèces alternatif de 10 $ pour les victimes de vol de numéro de sécurité sociale, et un an de services de surveillance de crédit.",
+        "description": "",
+        "title": "Marlboro-Chesterfield Pathology Agrees to Settle Lawsuit Over 2025 Ransomware Attack",
+        "url": "https://www.hipaajournal.com/marlboro-chesterfield-pathology-data-breach-settlement/",
+        "added": "2026-07-13"
+    },
+    {
         "date": "2026-06-22",
         "victim": "Flughafen Hahn",
         "domain": "hahn-airport.de",
