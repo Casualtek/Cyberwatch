@@ -1,5 +1,12 @@
 [
   {
+    "victim": "ponce-benzo.com",
+    "domain": "ponce-benzo.com",
+    "country": "PR",
+    "date": "2026-03-28",
+    "group": "lockbit5"
+  },
+  {
     "victim": "RISE Architecture",
     "domain": "risearchitecture.com",
     "country": "US",
