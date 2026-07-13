@@ -1,5 +1,16 @@
 [
     {
+        "date": "2026-06-22",
+        "victim": "Flughafen Hahn",
+        "domain": "hahn-airport.de",
+        "country": "DEU",
+        "summary": "L'aéroport de Hahn a été victime d'une cyberattaque de ransomware menée par un groupe criminel mondial. L'attaque, survenue le 22 juin, visait l'infrastructure informatique de l'aéroport. Les exploitants de l'aéroport ont confirmé qu'il s'agissait d'un incident de sécurité, mais qu'il n'a eu aucune incidence sur le fonctionnement des vols.",
+        "description": "",
+        "title": "Attacke auf IT des Flughafens: Cyberangriff auf Hahn: Steckt „SafePay“-Bande dahinter? - Rheinland-Pfalz - Rhein-Zeitung",
+        "url": "https://www.rhein-zeitung.de/rheinland-pfalz/cyberangriff-auf-hahn-steckt-safepay-bande-dahinter_arid-4140266.html",
+        "added": "2026-07-13"
+    },
+    {
         "date": "2026-07-08",
         "victim": "Pushpanjali Hospital Research Center Private Limited et Pushpanjali Group",
         "domain": "pushpanjalihospital.com",
