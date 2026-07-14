@@ -1,5 +1,16 @@
 [
     {
+        "date": "2026-07-11",
+        "victim": "Nihon Kotsu",
+        "domain": "nihonkotsu.co.jp",
+        "country": "JPN",
+        "summary": "La société japonaise Nihon Kotsu, l'un des plus grands opérateurs de taxis du Japon, a confirmé avoir subi un accès non autorisé à ses systèmes internes et une infection par un logiciel malveillant. L'incident, découvert le 11 juillet, a conduit à l'isolement immédiat des systèmes affectés (tels que la réservation de taxis par téléphone, la gestion des réservations de location de voitures et certains systèmes internes). Bien que les services de réservation via l'application mobile 'GO' et les prises en charge traditionnelles restent opérationnels pour le public, l'entreprise enquête avec des experts en cybersécurité. À ce jour, aucune fuite de données client n'a été détectée, mais elle s'engage à informer les clients si des données personnelles sont compromises.",
+        "description": "",
+        "title": "日本最大計程車業者遭網路攻擊，電話派車與預約系統暫時停擺",
+        "url": "https://www.ithome.com.tw/news/177301",
+        "added": "2026-07-14"
+    },
+    {
         "date": "2025-01-16",
         "victim": "Marlboro-Chesterfield Pathology",
         "domain": "mcpathology.com",
