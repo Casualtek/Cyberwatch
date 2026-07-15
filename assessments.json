@@ -1,5 +1,12 @@
 [
   {
+    "victim": "merlo.de",
+    "domain": "merlo.de",
+    "country": "DE",
+    "date": "2026-04-16",
+    "group": "lockbit5"
+  },
+  {
     "victim": "heinrichs-logistic.de",
     "domain": "heinrichs-logistic.de",
     "country": "DE",
