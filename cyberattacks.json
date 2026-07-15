@@ -1,6 +1,17 @@
 [
     {
         "date": "2026-07-02",
+        "victim": "Superior Tribunal Militar (STM)",
+        "domain": "stm.jus.br",
+        "country": "BRA",
+        "summary": "Le Tribunal Militaire Supérieur (STM) a identifié un incident de cybersécurité sur son portail électronique le 2 juillet. Suite à cet incident, la Cour a retiré la page en ligne pour procéder à l'analyse et à la récupération des systèmes. Les équipes techniques ont isolé les environnements affectés et ont commencé les mesures nécessaires pour rétablir les services en toute sécurité, en collaboration avec les autorités compétentes brésiliennes.",
+        "description": "",
+        "title": "Superior Tribunal Militar confirma incidente cibernético e tira portal do ar",
+        "url": "https://revistaoeste.com/politica/stm-confirma-incidente-cibernetico-e-tira-portal-do-ar/",
+        "added": "2026-07-15"
+    },
+    {
+        "date": "2026-07-02",
         "victim": "Network Japan (Network Hikoshi Center)",
         "domain": "nw-jpn.com",
         "country": "JPN",
