@@ -1,5 +1,16 @@
 [
     {
+        "date": "2026-07-13",
+        "victim": "Nichirei",
+        "domain": "nichireifoods.co.jp",
+        "country": "JPN",
+        "summary": "Une cyberattaque par accès non autorisé chez Nichirei, découverte le 13 juillet 2026, a provoqué une panne de système. L'impact de cette panne de logistique a eu des répercussions en cascade sur environ 5 000 entreprises clientes, notamment des chaînes de restauration rapide (KFC), des grands détaillants (Aeon) et des chaînes de sushi (Kura Sushi). KFC a confirmé que les retards de livraison de matières premières étaient dus à la panne de Nichirei Log Group. Aeon a signalé des ruptures de stock de produits surgelés en raison de cet incident. Kura Sushi a également confirmé que les retards de livraison de produits de sushi et de produits surgelés étaient liés à l'accès non autorisé chez Nichirei. Nichirei n'a pas confirmé l'exfiltration de données personnelles à ce stade.",
+        "description": "",
+        "title": "ニチレイへの不正アクセスによるサイバー攻撃がケンタッキー・イオン・くら寿司に影響-食材配送の遅延や欠品が拡大|セキュリティニュースのセキュリティ対策Lab",
+        "url": "https://rocket-boys.co.jp/security-measures-lab/nichirei-cyberattack-food-supply-chain-disruption/",
+        "added": "2026-07-15"
+    },
+    {
         "date": "2026-07-09",
         "victim": "Loyalist College",
         "domain": "loyalistcollege.com",
