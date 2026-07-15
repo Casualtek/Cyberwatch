@@ -1,5 +1,16 @@
 [
     {
+        "date": "2026-07-02",
+        "victim": "Network Japan (Network Hikoshi Center)",
+        "domain": "nw-jpn.com",
+        "country": "JPN",
+        "summary": "La société Network Japan (Network Hikoshi Center), spécialisée dans les déménagements, a annoncé qu'une cyberattaque par rançongiciel avait eu lieu le 2 juillet 2026, entraînant la perte potentielle ou la fuite des informations personnelles de ses clients. Les attaquants ont accédé au système de gestion des clients, supprimé la base de données, puis ont exigé une rançon en cryptomonnaie pour sa restauration. Bien qu'aucune fuite ou utilisation frauduleuse ne soit confirmée à ce jour, l'entreprise ne peut exclure le risque de fuite de données. L'incident a affecté les données des clients ayant fait des devis, des demandes ou des contacts entre mars 2025 et mai 2026. L'entreprise a signalé l'incident à la Commission de protection des informations personnelles le 8 juillet 2026 et a contacté la police.",
+        "description": "",
+        "title": "ネットワーク引越センター、ランサムウェア被害で情報の滅失・漏えいの恐れ-データベース削除後に暗号資産を要求|セキュリティニュースのセキュリティ対策Lab",
+        "url": "https://rocket-boys.co.jp/security-measures-lab/network-hikkoshi-db-deletion-extortion/",
+        "added": "2026-07-15"
+    },
+    {
         "date": "2026-07-13",
         "victim": "Hachioji Gakuen",
         "domain": "hachioji.ed.jp",
