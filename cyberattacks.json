@@ -1,6 +1,17 @@
 [
     {
         "date": "2026-07-13",
+        "victim": "Hachioji Gakuen",
+        "domain": "hachioji.ed.jp",
+        "country": "JPN",
+        "summary": "L'établissement scolaire Hachioji Gakuen a annoncé le 13 juillet 2026 avoir subi une cyberattaque par accès non autorisé et par rançongiciel sur certains de ses serveurs. L'établissement a mis en place un comité de crise et travaille avec la police de Hachioji, des experts externes et des avocats pour déterminer la cause, évaluer les dommages et procéder à la restauration. En raison de ces mesures, l'adresse e-mail de contact principale de l'établissement est actuellement hors service. Les autorités n'ont pas encore confirmé si des données ont été exfiltrées.",
+        "description": "",
+        "title": "八王子学園、ランサムウェアによるサイバー攻撃を公表-代表メールアドレスが不通に、警察・外部専門家と連携し調査|セキュリティニュースのセキュリティ対策Lab",
+        "url": "https://rocket-boys.co.jp/security-measures-lab/hachioji-gakuen-ransomware-cyberattack/",
+        "added": "2026-07-15"
+    },
+    {
+        "date": "2026-07-13",
         "victim": "Nichirei",
         "domain": "nichireifoods.co.jp",
         "country": "JPN",
