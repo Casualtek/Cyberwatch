@@ -1,5 +1,16 @@
 [
     {
+        "date": "2026-06-16",
+        "victim": "Enseco GmbH",
+        "domain": "enseco.de",
+        "country": "DEU",
+        "summary": "Les clients des Hamburger Energienetze sont alertés suite à une cyberattaque sur l'un de leurs prestataires, Enseco GmbH. L'attaque, survenue il y a environ un mois, a permis aux attaquants d'accéder et de télécharger certaines données clients. Les données potentiellement compromises incluent les noms, les adresses, les numéros de compteur électrique, les photos de compteurs et les dates de rendez-vous, ainsi que les coordonnées. Les données sensibles et les coordonnées bancaires ne seraient pas affectées. Les Hamburger Energienetze ont confirmé que leurs propres systèmes n'étaient pas touchés et ont mis en place des mesures de sécurité, tout en recommandant aux clients de rester vigilants face aux tentatives de phishing.",
+        "description": "",
+        "title": "(+) Cyberangriff: Was Hamburger Energienetz-Kunden jetzt wissen müssen",
+        "url": "https://www.mopo.de/hamburg/hamburger-energienetze-betroffen-kundendaten-bei-cyberangriff-gestohlen/4886082",
+        "added": "2026-07-16"
+    },
+    {
         "date": "2026-07-16",
         "victim": "Ministère des Investissements et des Projets Européens (MIPE)",
         "domain": "mfe.gov.ro",
