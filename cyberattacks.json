@@ -1,5 +1,16 @@
 [
     {
+        "date": "2025-11-27",
+        "victim": "Greenbaum Rowe Smith and Davis",
+        "domain": "greenbaumlaw.com",
+        "country": "USA",
+        "summary": "Le cabinet d'avocats Greenbaum Rowe Smith and Davis a subi un accès non autorisé à ses systèmes, ce qui a potentiellement exposé les informations de santé protégées de 12 801 personnes provenant d'au moins trois hôpitaux et systèmes de santé. L'incident a été découvert le 27 novembre 2025. Le cabinet a notifié les autorités et les patients concernés, et a mis en place des services de protection contre le vol d'identité.",
+        "description": "",
+        "title": "New Jersey Cyber Attack May Have Exposed Patient Data",
+        "url": "https://www.govtech.com/security/new-jersey-cyber-attack-may-have-exposed-patient-data",
+        "added": "2026-07-16"
+    },
+    {
         "date": "2026-05-25",
         "victim": "Reliance Group",
         "domain": "reliancegroupindia.com",
