@@ -1,5 +1,12 @@
 [
   {
+    "victim": "aditusbr.com",
+    "domain": "aditusbr.com",
+    "country": "BR",
+    "date": "2026-01-02",
+    "group": "lockbit5"
+  },
+  {
     "victim": "gob.mx",
     "domain": "gob.mx",
     "country": "MX",
