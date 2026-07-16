@@ -1,5 +1,12 @@
 [
   {
+    "victim": "senai.br",
+    "domain": "senai.br",
+    "country": "BR",
+    "date": "2026-03-09",
+    "group": "lockbit5"
+  },
+  {
     "victim": "luetz-binder.de",
     "domain": "luetz-binder.de",
     "country": "DE",
