@@ -1,5 +1,12 @@
 [
   {
+    "victim": "gob.mx",
+    "domain": "gob.mx",
+    "country": "MX",
+    "date": "2025-12-31",
+    "group": "lockbit5"
+  },
+  {
     "victim": "frandent.it",
     "domain": "frandent.it",
     "country": "IT",
