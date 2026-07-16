@@ -1,5 +1,16 @@
 [
     {
+        "date": "2026-07-16",
+        "victim": "Ministère des Investissements et des Projets Européens (MIPE)",
+        "domain": "mfe.gov.ro",
+        "country": "ROU",
+        "summary": "Le Ministère des Investissements et des Projets Européens (MIPE) en Roumanie a été la cible d'un incident de cybersécurité. Initialement, des rumeurs suggéraient que la base de données des projets PNRR avait été effacée, mais les mises à jour officielles ont clarifié que ce n'était pas le cas. L'incident concerne spécifiquement l'application 'Achiziții Beneficiari Privați' (Acquisitions Bénéficiaires Privés), qui n'est actuellement pas accessible. Le MIPE a alerté les autorités compétentes (SRI, STS, DNSC) et travaille avec elles pour analyser l'incident et rétablir le fonctionnement de l'application. L'identité des attaquants et l'étendue exacte de l'impact sur les systèmes de gestion des fonds européens restent inconnus.",
+        "description": "",
+        "title": "Alertă la MIPE - Atac cibernetic de amploare, bază de date ștearsă (surse) / UPDATE",
+        "url": "https://www.stiripesurse.ro/atac-cibernetic-de-amploare-la-ministerul-investitiilor-si-proiectelor-europene-surse-baza-de-date-pnrr-a-fost-stearsa_3904004",
+        "added": "2026-07-16"
+    },
+    {
         "date": "2026-06-24",
         "victim": "American Color Imaging",
         "domain": "acilab.com",
