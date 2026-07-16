@@ -1,5 +1,16 @@
 [
     {
+        "date": "2026-07-14",
+        "victim": "TruStage",
+        "domain": "trustage.com",
+        "country": "USA",
+        "summary": "TruStage, une société basée à Madison, Wisconsin, a dû mettre hors ligne son réseau suite à un incident de cybersécurité. Cette interruption a affecté certains services d'assurance offerts par des coopératives de crédit partenaires, notamment les réclamations d'assurance pour la protection des actifs garantis et la réparation mécanique. L'entreprise a engagé des experts externes pour contenir et enquêter sur l'incident, mais n'a pas encore précisé la cause de la compromission, l'étendue de l'impact ou si des données ont été compromises.",
+        "description": "",
+        "title": "Wisconsin-based TruStage shuts down network after cybersecurity incident",
+        "url": "https://dysruptionhub.com/trustage-cyber-incident-claims-outage/",
+        "added": "2026-07-16"
+    },
+    {
         "date": "2026-06-23",
         "victim": "Partnered Health",
         "domain": "partneredhealth.com.au",
