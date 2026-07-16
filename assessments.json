@@ -1,5 +1,12 @@
 [
   {
+    "victim": "wilhelmsen.com",
+    "domain": "wilhelmsen.com",
+    "country": "NO",
+    "date": "2026-02-18",
+    "group": "lockbit5"
+  },
+  {
     "victim": "davila.cl",
     "domain": "davila.cl",
     "country": "CL",
