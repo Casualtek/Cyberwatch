@@ -1,5 +1,16 @@
 [
     {
+        "date": "2026-06-24",
+        "victim": "American Color Imaging",
+        "domain": "acilab.com",
+        "country": "USA",
+        "summary": "ACI et Background Town subissent une panne temporaire de leurs systèmes. Bien que les commandes puissent toujours être passées, la communication peut être retardée. Les utilisateurs s'inquiètent de l'impact de cette panne sur le traitement des commandes et la fonctionnalité du site, notamment pour la création de comptes et la consultation de fichiers. Une cyberattaque a été revendiquée par Settra le 16 juillet.",
+        "description": "",
+        "title": "American Color Imaging",
+        "url": "https://www.facebook.com/acilab/posts/pfbid02uPNXRMtg3gpNj8RcZLCwJ8JR3hKW2zrN6Asok9F5Cv6Sz31bJLxU5JG9fDKfQfthl",
+        "added": "2026-07-16"
+    },
+    {
         "date": "2026-07-11",
         "victim": "Solid Advance Co., Ltd.",
         "domain": "solid-adv.co.jp",
