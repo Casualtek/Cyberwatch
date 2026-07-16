@@ -1,5 +1,16 @@
 [
     {
+        "date": "2026-07-09",
+        "victim": "Greene County",
+        "domain": "greenecountyga.gov",
+        "country": "USA",
+        "summary": "Le comté de Greene, en Géorgie, a dû mettre hors ligne son réseau gouvernemental après avoir découvert un incident de cybersécurité le 9 juillet. Cet incident a perturbé le traitement des paiements et les services des bureaux fiscaux, judiciaires et administratifs. Les spécialistes en cybersécurité sont en train de reconstruire les systèmes. Les autorités ont indiqué qu'aucune preuve de consultation ou de suppression d'informations n'avait été trouvée, et que le système de communication 911 n'était pas affecté.",
+        "description": "",
+        "title": "Greene County, Georgia, cybersecurity incident disrupts county services",
+        "url": "https://dysruptionhub.com/greene-county-georgia-network-outage/",
+        "added": "2026-07-16"
+    },
+    {
         "date": "2025-11-27",
         "victim": "Greenbaum Rowe Smith and Davis",
         "domain": "greenbaumlaw.com",
