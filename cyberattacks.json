@@ -1,5 +1,16 @@
 [
     {
+        "date": "2026-06-23",
+        "victim": "Partnered Health",
+        "domain": "partneredhealth.com.au",
+        "country": "AUS",
+        "summary": "Partnered Health a été informée le 23 juin 2026 qu'un acteur malveillant avait accédé à certaines de ses données. L'enquête a confirmé que des informations personnelles, y compris des données de santé, ont été consultées dans plusieurs cliniques du réseau. L'entreprise a signalé l'incident aux autorités australiennes compétentes et a mis en place un site web dédié pour informer les patients. Les données potentiellement affectées incluent le nom, la date de naissance, l'adresse, les coordonnées, les numéros de sécurité sociale (Medicare), et des détails médicaux (notes de consultation, résultats de pathologie).",
+        "description": "",
+        "title": "Partnered Health - Recent Cyber Incident - Partnered Health",
+        "url": "https://partneredhealth.com.au/partnered-health-recent-cyber-incident/",
+        "added": "2026-07-16"
+    },
+    {
         "date": "2026-07-09",
         "victim": "Greene County",
         "domain": "greenecountyga.gov",
