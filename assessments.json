@@ -1,5 +1,12 @@
 [
   {
+    "victim": "gov.krd",
+    "domain": "gov.krd",
+    "country": "IQ",
+    "date": "2026-02-28",
+    "group": "lockbit5"
+  },
+  {
     "victim": "montaury.com.br",
     "domain": "montaury.com.br",
     "country": "BR",
