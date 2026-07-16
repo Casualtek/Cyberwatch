@@ -1,5 +1,12 @@
 [
   {
+    "victim": "hanover-ma.gov",
+    "domain": "hanover-ma.gov",
+    "country": "US",
+    "date": "2026-01-21",
+    "group": "lockbit5"
+  },
+  {
     "victim": "aeromedsocaustralasia.org",
     "domain": "aeromedsocaustralasia.org",
     "country": "AU",
