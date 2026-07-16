@@ -1,5 +1,12 @@
 [
   {
+    "victim": "associated.org",
+    "domain": "associated.org",
+    "country": "US",
+    "date": "2026-01-27",
+    "group": "lockbit5"
+  },
+  {
     "victim": "wilhelmsen.com",
     "domain": "wilhelmsen.com",
     "country": "NO",
