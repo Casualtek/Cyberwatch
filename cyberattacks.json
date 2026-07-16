@@ -1,5 +1,16 @@
 [
     {
+        "date": "2026-04-17",
+        "victim": "Pricon Microelectronics, Inc.",
+        "domain": "pricon.com.ph",
+        "country": "PHL",
+        "summary": "Yamai Electric Co., Ltd., une entreprise cotée à la bourse de Tokyo, a publié son rapport final concernant l'incident de rançongiciel survenu dans sa filiale philippine, Pricon Microelectronics, Inc. L'attaque a été détectée le 17 avril sur certains serveurs, et l'entreprise a travaillé avec des experts externes pour protéger, restaurer les systèmes affectés et enquêter sur la cause.",
+        "description": "",
+        "title": "山一電機 フィリピン子会社にランサムウェア攻撃、ログの暗号化と削除が行われ初期侵入経路の完全な特定に至らず | ScanNetSecurity",
+        "url": "https://scan.netsecurity.ne.jp/article/2026/06/26/55583.html",
+        "added": "2026-07-16"
+    },
+    {
         "date": "2026-06-16",
         "victim": "Enseco GmbH",
         "domain": "enseco.de",
