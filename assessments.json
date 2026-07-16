@@ -1,5 +1,12 @@
 [
   {
+    "victim": "moa.gov.eg",
+    "domain": "moa.gov.eg",
+    "country": "EG",
+    "date": "2026-01-20",
+    "group": "lockbit5"
+  },
+  {
     "victim": "associated.org",
     "domain": "associated.org",
     "country": "US",
