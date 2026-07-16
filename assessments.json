@@ -1,5 +1,12 @@
 [
   {
+    "victim": "carseo.de",
+    "domain": "carseo.de",
+    "country": "DE",
+    "date": "2025-04-12",
+    "group": "lockbit5"
+  },
+  {
     "victim": "bwk-berlin.de",
     "domain": "bwk-berlin.de",
     "country": "DE",
