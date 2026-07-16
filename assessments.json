@@ -1,5 +1,12 @@
 [
   {
+    "victim": "esopdirect.com",
+    "domain": "esopdirect.com",
+    "country": "IN",
+    "date": "2025-10-25",
+    "group": "lockbit5"
+  },
+  {
     "victim": "hanover-ma.gov",
     "domain": "hanover-ma.gov",
     "country": "US",
