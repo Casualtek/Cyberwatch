@@ -1,5 +1,12 @@
 [
   {
+    "victim": "fortishealthcare.com",
+    "domain": "fortishealthcare.com",
+    "country": "IN",
+    "date": "2025-09-17",
+    "group": "lockbit5"
+  },
+  {
     "victim": "mtspokanepediatrics.com",
     "domain": "mtspokanepediatrics.com",
     "country": "US",
