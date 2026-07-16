@@ -1,5 +1,16 @@
 [
     {
+        "date": "2026-07-11",
+        "victim": "Solid Advance Co., Ltd.",
+        "domain": "solid-adv.co.jp",
+        "country": "JPN",
+        "summary": "Solid Advance Co., Ltd. a détecté une infection par un logiciel malveillant sur certains de ses systèmes internes suite à un accès non autorisé depuis l'extérieur. En réponse, l'entreprise a mis en place des mesures d'urgence, notamment la coupure du réseau, ce qui a entraîné la suspension de certains services de systèmes d'entreprise hébergés sur le cloud externe. Bien qu'aucune victime n'ait été identifiée parmi les clients utilisant le package AllGather CRM, l'entreprise enquête sur la possibilité d'une fuite de données. Elle a également annoncé qu'elle signalerait rapidement l'incident à la Commission de protection des informations personnelles, conformément à la loi. Une cyberattaque a été revendiquée par Ailock le 15 juillet.",
+        "description": "",
+        "title": "当社システムへの不正アクセスの疑いに関するお知らせ",
+        "url": "https://www.solid-adv.co.jp/20260716-01/",
+        "added": "2026-07-16"
+    },
+    {
         "date": "2026-05-08",
         "victim": "WilmerHale",
         "domain": "wilmerhale.com",
