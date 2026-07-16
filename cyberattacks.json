@@ -1,5 +1,16 @@
 [
     {
+        "date": "2026-05-25",
+        "victim": "Reliance Group",
+        "domain": "reliancegroupindia.com",
+        "country": "IND",
+        "summary": "Un groupe de ransomware, World Leaks, a publié des fichiers sensibles liés à la centrale nucléaire de Kudankulam sur le dark web. Cette violation de données, impliquant le groupe Reliance, soulève des inquiétudes quant à la sécurité de l'installation et met en lumière la vulnérabilité croissante de l'Inde face aux cybermenaces. Les autorités indiennes enquêtent sur l'incident, qui a également impliqué le fournisseur de services tiers Yotta.",
+        "description": "",
+        "title": "Ransomware Storm: Reliance Group Data Breach at India's Largest Nuclear Plant | Law-Order",
+        "url": "https://www.devdiscourse.com/article/law-order/3950543-ransomware-storm-reliance-group-data-breach-at-indias-largest-nuclear-plant",
+        "added": "2026-07-16"
+    },
+    {
         "date": "2026-07-14",
         "victim": "ANCPI",
         "domain": "ancpi.ro",
