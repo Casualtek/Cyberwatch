@@ -1,5 +1,12 @@
 [
   {
+    "victim": "luetz-binder.de",
+    "domain": "luetz-binder.de",
+    "country": "DE",
+    "date": "2026-01-02",
+    "group": "lockbit5"
+  },
+  {
     "victim": "gov.krd",
     "domain": "gov.krd",
     "country": "IQ",
