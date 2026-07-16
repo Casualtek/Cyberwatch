@@ -1,5 +1,19 @@
 [
   {
+    "victim": "montaury.com.br",
+    "domain": "montaury.com.br",
+    "country": "BR",
+    "date": "2025-09-12",
+    "group": "lockbit5"
+  },
+  {
+    "victim": "gas.mercedes-benz.com.eg",
+    "domain": "mercedes-benz.com.eg",
+    "country": "EG",
+    "date": "2026-03-18",
+    "group": "lockbit5"
+  },
+  {
     "victim": "abuhatim.com",
     "domain": "abuhatim.com",
     "country": "OM",
