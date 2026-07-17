@@ -1,5 +1,12 @@
 [
   {
+    "victim": "audiconcontadores.com.br",
+    "domain": "audiconcontadores.com.br",
+    "country": "BR",
+    "date": "2026-01-22",
+    "group": "lockbit5"
+  },
+  {
     "victim": "cognitivehealthit.com",
     "domain": "cognitivehealthit.com",
     "country": "US",
