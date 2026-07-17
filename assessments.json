@@ -1,5 +1,12 @@
 [
   {
+    "victim": "hotel-bourse.com",
+    "domain": "hotel-bourse.com",
+    "country": "FR",
+    "date": "2026-06-10",
+    "group": "lockbit5"
+  },
+  {
     "victim": "comtri.de",
     "domain": "comtri.de",
     "country": "DE",
