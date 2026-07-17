@@ -1,5 +1,12 @@
 [
   {
+    "victim": "jean.com.tw",
+    "domain": "jean.com.tw",
+    "country": "TW",
+    "date": "2026-03-15",
+    "group": "lockbit5"
+  },
+  {
     "victim": "fiepe.org.br",
     "domain": "fiepe.org.br",
     "country": "BR",
