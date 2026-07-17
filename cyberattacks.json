@@ -1,5 +1,16 @@
 [
     {
+        "date": "2026-07-16",
+        "victim": "Abbott",
+        "domain": "abbott.com",
+        "country": "USA",
+        "summary": "Abbott enquête sur un incident de cybersécurité impliquant un accès non autorisé à un nombre limité de systèmes internes de sa division Cancer Diagnostics. L'incident n'affecte pas les opérations commerciales, la disponibilité des produits, la fabrication ou les laboratoires, et n'a pas d'impact sur les autres activités ou sites d'Abbott.",
+        "description": "",
+        "title": "Abbott statement on cyber incident in Cancer Diagnostics business | Abbott Newsroom",
+        "url": "https://www.abbott.com/en-us/corpnewsroom/diagnostics-testing/abbott-statement-on-cyber-incident-in-cancer-diagnostics-business",
+        "added": "2026-07-17"
+    },
+    {
         "date": "2026-07-06",
         "victim": "Aida Engineering,Ltd.",
         "domain": "aida.co.jp",
