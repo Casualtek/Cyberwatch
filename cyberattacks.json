@@ -1,5 +1,16 @@
 [
     {
+        "date": "2026-07-09",
+        "victim": "Stiftung Wagerenhof",
+        "domain": "wagerenhof.ch",
+        "country": "CHE",
+        "summary": "La Fondation Wagerenhof, une institution pour personnes handicapées à Uster, a été victime d'une cyberattaque par ransomware. L'attaque, qui a eu lieu le 9 juillet, a bloqué l'accès à ses systèmes informatiques et chiffré des données. Bien que la fondation refuse de payer la rançon, elle anticipe un risque de fuite de données, dont l'étendue est encore inconnue. Les services de télécommunication et les e-mails sont actuellement interrompus, mais la fondation assure que la sécurité et les soins des résidents n'ont pas été menacés.",
+        "description": "",
+        "title": "Cyberangriff in Uster: Hacker verschlÃ¼sseln Daten der Stiftung Wagerenhof und fordern LÃ¶segeld",
+        "url": "https://www.tagesanzeiger.ch/ransomware-angriff-stiftung-wagerenhof-in-uster-gehackt-841429476353",
+        "added": "2026-07-17"
+    },
+    {
         "date": "2026-07-16",
         "victim": "Abbott",
         "domain": "abbott.com",
