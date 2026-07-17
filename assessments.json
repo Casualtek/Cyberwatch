@@ -1,5 +1,12 @@
 [
   {
+    "victim": "jshotels.com",
+    "domain": "jshotels.com",
+    "country": "JO",
+    "date": "2026-06-15",
+    "group": "lockbit5"
+  },
+  {
     "victim": "hotel-bourse.com",
     "domain": "hotel-bourse.com",
     "country": "FR",
