@@ -1,5 +1,12 @@
 [
   {
+    "victim": "fastindustria.com.br",
+    "domain": "fastindustria.com.br",
+    "country": "BR",
+    "date": "2026-01-30",
+    "group": "lockbit5"
+  },
+  {
     "victim": "emp.id",
     "domain": "emp.id",
     "country": "ID",
