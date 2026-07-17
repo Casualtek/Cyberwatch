@@ -1,5 +1,12 @@
 [
   {
+    "victim": "emp.id",
+    "domain": "emp.id",
+    "country": "ID",
+    "date": "2026-02-26",
+    "group": "lockbit5"
+  },
+  {
     "victim": "elematic.com",
     "domain": "elematic.com",
     "country": "FI",
