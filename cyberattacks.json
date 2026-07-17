@@ -1,5 +1,16 @@
 [
     {
+        "date": "2026-07-16",
+        "victim": "Fairlife",
+        "domain": "fairlife.com",
+        "country": "USA",
+        "summary": "La filiale Fairlife de Coca-Cola a suspendu sa production aux États-Unis suite à une cyberattaque qui a affecté plusieurs lignes de production et la chaîne d'approvisionnement. L'incident a entraîné un arrêt partiel des opérations, mais les équipes techniques ont rapidement isolé l'infrastructure affectée et mis en place des processus de production de secours. Bien que l'attaque n'ait pas touché toute la capacité, elle a perturbé l'approvisionnement dans certaines régions. L'enquête est en cours, et l'entreprise s'engage à renforcer ses mesures de cybersécurité pour rétablir la production complète dans les jours ou semaines à venir.",
+        "description": "",
+        "title": "可口可乐宣布Fairlife因网络攻击暂停美国生产",
+        "url": "https://mezha.net/ch/bukvy/80ae676d_coca-cola_halts_fairlife/",
+        "added": "2026-07-17"
+    },
+    {
         "date": "2026-04-17",
         "victim": "Pricon Microelectronics, Inc.",
         "domain": "pricon.com.ph",
