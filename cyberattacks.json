@@ -1,5 +1,16 @@
 [
     {
+        "date": "2026-05-08",
+        "victim": "Roth Industries",
+        "domain": "roth-industries.com",
+        "country": "DEU",
+        "summary": "Les systèmes informatiques de la Roth Group, situés sur des sites allemands, ont été la cible d'une cyberattaque le 8 mai 2026, entraînant le chiffrement de leurs serveurs. Le système ERP de base SAP n'a pas été affecté. Suite à l'incident, des mesures techniques et organisationnelles ont été mises en place, et des experts externes ont été consultés. Les systèmes et canaux de communication sont désormais opérationnels, et les autorités compétentes ont été informées. La Roth Group recommande aux utilisateurs de faire preuve d'une vigilance accrue face aux communications suspectes, notamment concernant les demandes de paiement ou les changements de coordonnées bancaires.",
+        "description": "",
+        "title": "Information zum Cyberangriff auf die Roth Industries",
+        "url": "https://www.roth-industries.com/info-cyberangriff",
+        "added": "2026-07-17"
+    },
+    {
         "date": "2026-07-16",
         "victim": "Fairlife",
         "domain": "fairlife.com",
