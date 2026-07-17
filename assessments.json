@@ -1,5 +1,12 @@
 [
   {
+    "victim": "bankbsi.co.id",
+    "domain": "bankbsi.co.id",
+    "country": "ID",
+    "date": "2023-05-08",
+    "group": "lockbit3"
+  },
+  {
     "victim": "jobberswarehouse.com",
     "domain": "jobberswarehouse.com",
     "country": "US",
