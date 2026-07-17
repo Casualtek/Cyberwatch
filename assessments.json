@@ -1,5 +1,12 @@
 [
   {
+    "victim": "cti-bat.fr",
+    "domain": "cti-bat.fr",
+    "country": "FR",
+    "date": "2026-02-24",
+    "group": "lockbit5"
+  },
+  {
     "victim": "crystal-d.com",
     "domain": "crystal-d.com",
     "country": "DE",
