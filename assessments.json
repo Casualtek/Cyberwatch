@@ -1,5 +1,12 @@
 [
   {
+    "victim": "defcon5italy.com",
+    "domain": "defcon5italy.com",
+    "country": "IT",
+    "date": "2026-03-25",
+    "group": "lockbit5"
+  },
+  {
     "victim": "de.yangming.com",
     "domain": "de.yangming.com",
     "country": "DE",
