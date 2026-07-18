@@ -1,5 +1,40 @@
 [
   {
+    "victim": "limpebras.com.br",
+    "domain": "limpebras.com.br",
+    "country": "BR",
+    "date": "2026-01-11",
+    "group": "lockbit5"
+  },
+  {
+    "victim": "lfval.net",
+    "domain": "lfval.net",
+    "country": "FR",
+    "date": "2025-05-08",
+    "group": "lockbit5"
+  },
+  {
+    "victim": "laval-virtual.com",
+    "domain": "laval-virtual.com",
+    "country": "FR",
+    "date": "2025-05-09",
+    "group": "lockbit5"
+  },
+  {
+    "victim": "lasevillanita.com",
+    "domain": "lasevillanita.com",
+    "country": "CO",
+    "date": "2026-01-26",
+    "group": "lockbit5"
+  },
+  {
+    "victim": "landsteiner.net",
+    "domain": "landsteiner.net",
+    "country": "MX",
+    "date": "2026-02-18",
+    "group": "lockbit5"
+  },
+  {
     "victim": "kraslice.cz",
     "domain": "kraslice.cz",
     "country": "CZ",
@@ -1612,7 +1647,7 @@
   {
     "victim": "lasevillanita.com",
     "domain": "lasevillanita.com",
-    "country": "ES",
+    "country": "CO",
     "date": "2026-05-18",
     "group": "krybit"
   },
