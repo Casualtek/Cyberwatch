@@ -1,5 +1,12 @@
 [
   {
+    "victim": "wessels.group",
+    "domain": "wessels.group",
+    "country": "DE",
+    "date": "2026-05-07",
+    "group": "lockbit5"
+  },
+  {
     "victim": "vp-brands.com",
     "domain": "vp-brands.com",
     "country": "BG",
