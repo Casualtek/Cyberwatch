@@ -1,5 +1,75 @@
 [
   {
+    "victim": "kraslice.cz",
+    "domain": "kraslice.cz",
+    "country": "CZ",
+    "date": "2025-05-07",
+    "group": "lockbit5"
+  },
+  {
+    "victim": "kenta.com.br",
+    "domain": "kenta.com.br",
+    "country": "BR",
+    "date": "2026-01-30",
+    "group": "lockbit5"
+  },
+  {
+    "victim": "jefar.be",
+    "domain": "jefar.be",
+    "country": "BE",
+    "date": "2025-05-06",
+    "group": "lockbit5"
+  },
+  {
+    "victim": "index-precast.com",
+    "domain": "index-precast.com",
+    "country": "IT",
+    "date": "2026-03-04",
+    "group": "lockbit5"
+  },
+  {
+    "victim": "index-precast.com",
+    "domain": "index-precast.com",
+    "country": "IT",
+    "date": "2026-02-25",
+    "group": "lockbit5"
+  },
+  {
+    "victim": "ikron.org",
+    "domain": "ikron.org",
+    "country": "US",
+    "date": "2026-02-24",
+    "group": "lockbit5"
+  },
+  {
+    "victim": "gursoygrup.com.tr",
+    "domain": "gursoygrup.com.tr",
+    "country": "TR",
+    "date": "2026-03-27",
+    "group": "lockbit5"
+  },
+  {
+    "victim": "guarnera.com.br",
+    "domain": "guarnera.com.br",
+    "country": "BR",
+    "date": "2026-01-31",
+    "group": "lockbit5"
+  },
+  {
+    "victim": "gruposelpe.com.br",
+    "domain": "gruposelpe.com.br",
+    "country": "BR",
+    "date": "2026-01-30",
+    "group": "lockbit5"
+  },
+  {
+    "victim": "grupoferrosider.com.br",
+    "domain": "grupoferrosider.com.br",
+    "country": "BR",
+    "date": "2026-01-23",
+    "group": "lockbit5"
+  },
+  {
     "victim": "greyhighschool.com",
     "domain": "greyhighschool.com",
     "country": "US",
