@@ -1,5 +1,16 @@
 [
     {
+        "date": "2026-07-17",
+        "victim": "Ecopetrol",
+        "domain": "ecopetrol.com.co",
+        "country": "COL",
+        "summary": "Ecopetrol a été victime d'un incident de cybersécurité, incluant un accès non autorisé à son infrastructure numérique. Des acteurs externes ont volé des données de près de 3 300 comptes d'utilisateurs et ont ensuite exigé une rançon pour éviter leur divulgation (extorsion). Les attaquants ont également tenté d'exécuter une attaque par ransomware, mais celle-ci a été bloquée par les contrôles de cybersécurité du groupe. L'incident a affecté environ 15 sociétés du Groupe Ecopetrol.",
+        "description": "",
+        "title": "Ecopetrol confirma ciberataque con robo de datos y extorsión a la compañía",
+        "url": "https://www.valoraanalitik.com/ecopetrol-reconoce-ataque-cibernetico-datos-de-usuarios-y-15-companias-del-grupo-impactadas/",
+        "added": "2026-07-18"
+    },
+    {
         "date": "2026-07-09",
         "victim": "Stiftung Wagerenhof",
         "domain": "wagerenhof.ch",
