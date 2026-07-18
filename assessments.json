@@ -1,5 +1,33 @@
 [
   {
+    "victim": "tecnicarobertorocca.edu.ar",
+    "domain": "tecnicarobertorocca.edu.ar",
+    "country": "AR",
+    "date": "2025-05-08",
+    "group": "lockbit5"
+  },
+  {
+    "victim": "technicare.com.br",
+    "domain": "technicare.com.br",
+    "country": "BR",
+    "date": "2025-05-10",
+    "group": "lockbit5"
+  },
+  {
+    "victim": "tealca.com",
+    "domain": "tealca.com",
+    "country": "VE",
+    "date": "2025-05-08",
+    "group": "lockbit5"
+  },
+  {
+    "victim": "tanufwater.com",
+    "domain": "tanufwater.com",
+    "country": "OM",
+    "date": "2026-02-28",
+    "group": "lockbit5"
+  },
+  {
     "victim": "surfishtrade.com",
     "domain": "surfishtrade.com",
     "country": "PE",
