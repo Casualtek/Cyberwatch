@@ -1,5 +1,12 @@
 [
   {
+    "victim": "mediaservicemaastricht.nl",
+    "domain": "mediaservicemaastricht.nl",
+    "country": "NL",
+    "date": "2026-06-23",
+    "group": "lockbit5"
+  },
+  {
     "victim": "mc2engineers.com",
     "domain": "mc2engineers.com",
     "country": "US",
