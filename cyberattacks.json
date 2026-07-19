@@ -1,5 +1,16 @@
 [
     {
+        "date": "2026-07-13",
+        "victim": "Cedar Crest College",
+        "domain": "cedarcrest.edu",
+        "country": "USA",
+        "summary": "Le Cedar Crest College, situé à Allentown, en Pennsylvanie, enquête sur un incident de cybersécurité qui a perturbé ses applications et ses systèmes de partage de fichiers. L'incident a été détecté le 13 juillet 2026. Bien que le groupe de ransomware NightSpire ait revendiqué la responsabilité de l'attaque le 14 juillet, le collège n'a pas attribué l'incident à ce groupe. L'attaque a affecté les applications du campus, les lecteurs réseau et les systèmes de partage de fichiers basés sur le cloud (y compris OneDrive). Le collège travaille avec des experts externes et les forces de l'ordre pour restaurer les services et a mis en garde la communauté contre les tentatives de phishing.",
+        "description": "",
+        "title": "Cedar Crest College cyber incident disrupts campus systems in Pennsylvania",
+        "url": "https://dysruptionhub.com/cedar-crest-college-pa-cyber-incident/",
+        "added": "2026-07-19"
+    },
+    {
         "date": "2026-07-17",
         "victim": "Arcus",
         "domain": "arcus.lu",
