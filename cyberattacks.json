@@ -1,5 +1,16 @@
 [
     {
+        "date": "2026-07-17",
+        "victim": "Arcus",
+        "domain": "arcus.lu",
+        "country": "LUX",
+        "summary": "L'organisation sociale Arcus a été victime d'une cyberattaque. Suite à la découverte de l'incident, les serveurs ont été immédiatement coupés et l'infrastructure informatique isolée pour contenir les dégâts. Les autorités compétentes, y compris la CNPD et la police criminelle, ont été informées. Arcus travaille à la restauration progressive des systèmes, mais la nature exacte de l'attaque et l'étendue des données potentiellement compromises ne sont pas encore connues.",
+        "description": "",
+        "title": "Cyberangriff auf Betreuungseinrichtung Arcus",
+        "url": "https://www.wort.lu/luxemburg/stadaland/cyberangriff-auf-betreuungseinrichtung-arcus/158897529.html",
+        "added": "2026-07-19"
+    },
+    {
         "date": "2026-07-16",
         "victim": "Rectron",
         "domain": "rectron.co.za",
