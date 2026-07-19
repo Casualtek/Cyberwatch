@@ -1,5 +1,16 @@
 [
     {
+        "date": "2026-07-15",
+        "victim": "Milford",
+        "domain": "milford.nh.gov",
+        "country": "USA",
+        "summary": "La municipalité de Milford, dans le New Hampshire, a été confrontée à un incident de cybersécurité qui a provoqué des perturbations majeures des services municipaux, incluant les télécommunications, l'accès à Internet, la facturation de l'eau et les services du greffier. Les problèmes opérationnels ont commencé le 15 juillet, et la ville a lié la panne à un problème de cybersécurité le 16 juillet. Bien que la ville ait mentionné une activité non autorisée, elle n'a pas précisé le type d'attaque (ransomware, malware, etc.) ni si des données ont été volées. Des documents révèlent qu'un résident et professionnel de la cybersécurité avait averti la ville près de deux mois auparavant qu'un système de stockage Synology était exposé directement à Internet.",
+        "description": "",
+        "title": "Cyber incident disrupts Milford, New Hampshire, services",
+        "url": "https://dysruptionhub.com/cyber-incident-disrupts-milford-new-hampshire-services/",
+        "added": "2026-07-19"
+    },
+    {
         "date": "2026-07-13",
         "victim": "Cedar Crest College",
         "domain": "cedarcrest.edu",
