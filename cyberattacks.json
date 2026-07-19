@@ -1,5 +1,16 @@
 [
     {
+        "date": "2026-07-16",
+        "victim": "Ville de Wriezen",
+        "domain": "wriezen.de",
+        "country": "DEU",
+        "summary": "La municipalité de Wriezen a été victime d'une cyberattaque par ransomware, comme l'a confirmé le maire Karsten Ilm. L'incident, survenu il y a quelques jours, a conduit à la mise hors ligne préventive des systèmes informatiques pour limiter les dégâts. L'activité administrative est actuellement limitée, et la date de résolution du problème n'est pas encore connue.",
+        "description": "",
+        "title": "Wriezener Stadtverwaltung ist Opfer von Cyberangriff",
+        "url": "https://www.rbb24.de/panorama/beitrag/2026/07/cyberangriff-auf-stadtverwaltung-wriezen.html",
+        "added": "2026-07-19"
+    },
+    {
         "date": "2026-07-06",
         "victim": "Metro Mondego",
         "domain": "metromondego.pt",
