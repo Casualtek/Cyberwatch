@@ -1,5 +1,16 @@
 [
     {
+        "date": "2026-06-08",
+        "victim": "Conseil municipal d'Alexandrie",
+        "domain": "alexandria.gr",
+        "country": "GR",
+        "summary": "Le Conseil municipal d'Alexandrie a confirmé avoir détecté un incident de sécurité informatique lié à une attaque par ransomware le 8 juin 2026. Le Conseil a immédiatement activé son plan de réponse, informé les autorités compétentes (y compris l'Autorité de protection des données) et lancé une enquête technique. L'enquête est toujours en cours, et il n'est pas encore possible de déterminer avec précision si et quelles catégories de données personnelles ont été affectées. Les citoyens sont invités à rester vigilants face aux tentatives de phishing.",
+        "description": "",
+        "title": "alexandriamou.gr - Ενημέρωση για περιστατικό ασφάλειας πληροφοριακών συστημάτων του Δήμου Αλεξάνδρειας",
+        "url": "https://www.alexandriamou.gr/ta-en-dimo-en-oiko/enimerosi-gia-peristatiko-asfaleias-plhroforiakon-systhmaton-tou-dhmou-alexandreias.html",
+        "added": "2026-07-19"
+    },
+    {
         "date": "2026-07-15",
         "victim": "Eurohold Bulgaria AD",
         "domain": "eurohold.bg",
