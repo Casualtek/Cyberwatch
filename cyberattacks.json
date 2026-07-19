@@ -1,5 +1,16 @@
 [
     {
+        "date": "2026-07-15",
+        "victim": "Eurohold Bulgaria AD",
+        "domain": "eurohold.bg",
+        "country": "BGR",
+        "summary": "Les sociétés Eurohold Bulgaria AD et ZD Euroins AD ont annoncé avoir repoussé une cyberattaque massive dont l'objectif était le vol de données et l'extorsion. L'incident, survenu la semaine dernière, a occasionné quelques perturbations techniques temporaires, rendant le portail en ligne de l'assureur indisponible pendant un court moment. L'entreprise affirme que l'intégrité de ses données a été maintenue et qu'elle refuse de céder aux pressions des attaquants. La GDBOP et d'autres autorités compétentes ont été sollicitées pour gérer la situation.",
+        "description": "",
+        "title": "Еврохолд и Евроинс спряха масирана хакерска атака",
+        "url": "https://paragraf.bg/evrohold-i-evroins-spryaha-masirana-hakerska-ataka-sreshtu-svoyata-dejnost/",
+        "added": "2026-07-19"
+    },
+    {
         "date": "2026-07-16",
         "victim": "Ville de Wriezen",
         "domain": "wriezen.de",
