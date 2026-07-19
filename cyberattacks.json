@@ -1,5 +1,16 @@
 [
     {
+        "date": "2026-07-16",
+        "victim": "Rectron",
+        "domain": "rectron.co.za",
+        "country": "ZAF",
+        "summary": "Rectron, l'un des quatre plus grands distributeurs technologiques d'Afrique du Sud, a subi une panne de réseau majeure ayant entraîné la fermeture de tous ses bureaux (notamment à Johannesburg, Le Cap et Durban). Bien que l'entreprise ait officiellement évoqué une « perturbation technique inattendue » sans confirmer ni infirmer explicitement la nature de l'incident, des sources proches du dossier affirment qu'il s'agirait d'une cyberattaque. Rectron a fait appel à des experts en cybersécurité pour enquêter sur l'origine de la panne.",
+        "description": "",
+        "title": "mybroadband.co.za",
+        "url": "https://mybroadband.co.za/news/security/658697-one-of-south-africas-largest-technology-distributors-suffers-crippling-network-outage-allegedly-due-to-cyberattack.html",
+        "added": "2026-07-19"
+    },
+    {
         "date": "2026-06-08",
         "victim": "Conseil municipal d'Alexandrie",
         "domain": "alexandria.gr",
