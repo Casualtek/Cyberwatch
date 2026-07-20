@@ -1,5 +1,16 @@
 [
     {
+        "date": "2026-07-20",
+        "victim": "Primăria Municipiului Brașov",
+        "domain": "brasovcity.ro",
+        "country": "ROU",
+        "summary": "Le site de la Direction Fiscale de la Mairie de Brașov est indisponible suite à une cyberattaque par malware de type cheval de Troie. Les autorités ont déconnecté temporairement le serveur pour limiter les dégâts et protéger l'infrastructure informatique. Les équipes techniques travaillent à identifier les causes de l'attaque et à rétablir les services en toute sécurité. Aucune information n'a été fournie à ce jour concernant l'origine de l'attaque ou une compromission des données.",
+        "description": "",
+        "title": "Nou atac cibernetic asupra unei instituții publice: site-ul Direcției Fiscale Brașov, scos temporar din funcțiune",
+        "url": "https://www.mediafax.ro/social/nou-atac-cibernetic-asupra-unei-institutii-publice-site-ul-directiei-fiscale-brasov-scos-temporar-din-functiune-23775477",
+        "added": "2026-07-20"
+    },
+    {
         "date": "2026-07-15",
         "victim": "Lecos GmbH",
         "domain": "lecos.de",
