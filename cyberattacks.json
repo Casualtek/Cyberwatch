@@ -1,5 +1,16 @@
 [
     {
+        "date": "2026-07-15",
+        "victim": "Lecos GmbH",
+        "domain": "lecos.de",
+        "country": "DEU",
+        "summary": "L'entreprise de services informatiques 'Lecos', prestataire de la ville de Leipzig, a été victime d'une cyberattaque. L'attaque a permis aux pirates de voler des données de contact et des répertoires techniques de plusieurs entités municipales, telles que l'administration municipale, l'opéra et le théâtre. L'incident a été détecté et stoppé à temps, évitant une panne des systèmes. Les données des citoyens et des employés n'ont pas été affectées.",
+        "description": "",
+        "title": "Cyberangriff auf städtische Einrichtungen in Leipzig: Hacker erbeuten interne Daten",
+        "url": "https://www.tag24.de/leipzig/crime/cyberangriff-auf-staedtische-einrichtungen-in-leipzig-hacker-erbeuten-interne-daten-3517541",
+        "added": "2026-07-20"
+    },
+    {
         "date": "2026-07-08",
         "victim": "Five Foxes Co., LTD.",
         "domain": "fivefoxes.co.jp",
