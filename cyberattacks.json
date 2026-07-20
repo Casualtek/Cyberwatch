@@ -1,5 +1,16 @@
 [
     {
+        "date": "2026-07-19",
+        "victim": "CCDR Algarve",
+        "domain": "ccdr-alg.pt",
+        "country": "PRT",
+        "summary": "La CCDR Algarve a été victime d'une cyberattaque durant le week-end (nuit de samedi à dimanche). Suite à la détection d'un accès externe non autorisé, l'organisation a activé ses protocoles internes. Certains services, notamment les communications et l'accès au courrier électronique institutionnel, sont temporairement indisponibles. Les autorités compétentes et des équipes techniques travaillent à la restauration des services.",
+        "description": "",
+        "title": "Ataque informático à CCDR Algarve",
+        "url": "https://sapo.pt/artigo/ataque-informatico-a-ccdr-algarve-6a5e52e51c5549f5dbb2d9ad",
+        "added": "2026-07-20"
+    },
+    {
         "date": "2026-07-20",
         "victim": "Primăria Municipiului Brașov",
         "domain": "brasovcity.ro",
