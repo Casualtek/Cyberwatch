@@ -1,5 +1,16 @@
 [
     {
+        "date": "2026-07-19",
+        "victim": "Craneware",
+        "domain": "craneware.com",
+        "country": "GBR",
+        "summary": "La société de technologie de la santé britannique, Craneware, a confirmé avoir été victime d'une cyberattaque ayant entraîné le vol de données de clients et d'employés. Basée à Édimbourg, l'entreprise fournit des logiciels au secteur de la santé américain. Bien qu'un volume important de noms de fichiers ait été exfiltré, l'entreprise estime que la majeure partie des données est non sensible ou réglementaire. L'incident a été contenu sans perturber les services clients, et Craneware a notifié l'ICO au Royaume-Uni et le FBI aux États-Unis.",
+        "description": "",
+        "title": "UK health tech firm admits customer data stolen in cyber attack",
+        "url": "https://www.independent.co.uk/news/health/edinburgh-aim-ico-marks-scotland-b3017949.html",
+        "added": "2026-07-20"
+    },
+    {
         "date": "2026-07-17",
         "victim": "Song Shang Electronics Co., Ltd",
         "domain": "song-shang.com.tw",
