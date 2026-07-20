@@ -1,5 +1,16 @@
 [
     {
+        "date": "2026-07-17",
+        "victim": "Song Shang Electronics Co., Ltd",
+        "domain": "song-shang.com.tw",
+        "country": "TWN",
+        "summary": "La société Song Shang Electronics, fabricant de circuits imprimés (PCB) et de composants magnétiques, a annoncé avoir subi une cyberattaque sur une partie de ses systèmes d'information. L'incident a été détecté le 17 juillet et les équipes informatiques ont immédiatement activé les mécanismes de défense et de récupération. Matsushin a confirmé que les systèmes affectés ont été rétablis et que, selon leur évaluation préliminaire, l'impact sur les opérations de l'entreprise n'est pas majeur.",
+        "description": "",
+        "title": "松上電子部分資訊系統遭駭",
+        "url": "https://www.ithome.com.tw/news/177446",
+        "added": "2026-07-20"
+    },
+    {
         "date": "2026-07-10",
         "victim": "NonSoloContro",
         "domain": "nonsolocontro.it",
