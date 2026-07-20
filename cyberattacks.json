@@ -1,5 +1,16 @@
 [
     {
+        "date": "2026-07-08",
+        "victim": "Five Foxes Co., LTD.",
+        "domain": "fivefoxes.co.jp",
+        "country": "JPN",
+        "summary": "Five Foesx a annoncé que certains de ses serveurs de siège social ont potentiellement été infectés par un rançongiciel. L'incident a été détecté lors d'une enquête de sécurité le 8 juillet 2026. Pour contenir la propagation, l'entreprise a immédiatement arrêté ses serveurs, ses fonctions Internet et e-mail. L'étendue des dégâts, y compris la fuite potentielle de données clients, est toujours en cours d'enquête. L'entreprise a mis en place un centre de crise, a notifié la Commission de protection des informations personnelles et a sollicité l'aide d'organismes externes et de la police. Les magasins physiques et la boutique en ligne continuent de fonctionner normalement, car cette dernière est gérée par un système séparé.",
+        "description": "",
+        "title": "ファイブフォックス、本社サーバーの一部でランサムウェア 感染の可能性 店舗とオンラインストアは通常営業|セキュリティニュースのセキュリティ対策Lab",
+        "url": "https://rocket-boys.co.jp/security-measures-lab/five-foxes-headquarters-server-compromise/",
+        "added": "2026-07-20"
+    },
+    {
         "date": "2026-07-19",
         "victim": "Craneware",
         "domain": "craneware.com",
