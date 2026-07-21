@@ -1,5 +1,16 @@
 [
     {
+        "date": "2025-09-15",
+        "victim": "Banco Hipotecario del Uruguay (BHU)",
+        "domain": "bhu.net",
+        "country": "URU",
+        "summary": "Le Banco Hipotecario du Uruguay (BHU) a été victime d'une cyberattaque survenue en septembre 2025. L'incident a nécessité des dépenses estimées à 12 millions de dollars pour la remédiation et la reconstruction des systèmes. Le BHU a confirmé n'avoir payé aucun rançon et que l'information des clients n'a pas été compromise. Les attaquants, Crypto24, avaient menacé de publier plus de 700 gigaoctets de données, incluant des identifiants d'employés et des contrats fournisseurs.",
+        "description": "",
+        "title": "Tras ciberataque, BHU gastó $ 12 millones en “remediación” y “reconstrucción de sistemas”; no se pagó “ningún rescate”",
+        "url": "https://www.elpais.com.uy/informacion/politica/tras-ciberataque-bhu-gasto-12-millones-en-remediacion-y-reconstruccion-de-sistemas-no-se-pago-ningun-rescate",
+        "added": "2026-07-21"
+    },
+    {
         "date": "2026-07-19",
         "victim": "CCDR Algarve",
         "domain": "ccdr-alg.pt",
