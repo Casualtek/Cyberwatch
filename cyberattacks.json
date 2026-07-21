@@ -1,5 +1,16 @@
 [
     {
+        "date": "2026-06-29",
+        "victim": "Higuchi Shokai",
+        "domain": "higuchi-inc.co.jp",
+        "country": "JPN",
+        "summary": "La société Higuchi Shokai a annoncé qu'un accès non autorisé à son système, qui a été identifié comme une possible fuite de données due à une infection par rançongiciel, avait eu lieu. Les informations divulguées comprennent les données financières d'une filiale et les informations de base (nom, adresse, coordonnées) des clients de cette filiale. Stormous a revendiqué une cyberattaque le 28 juin.",
+        "description": "",
+        "title": "樋口商会子会社の会計情報漏えい、取引先から「ランサムウェア感染に起因するとみられる情報漏えいの可能性がある」旨の連絡 | ScanNetSecurity",
+        "url": "https://scan.netsecurity.ne.jp/article/2026/07/21/55739.html",
+        "added": "2026-07-21"
+    },
+    {
         "date": "2025-09-15",
         "victim": "Banco Hipotecario del Uruguay (BHU)",
         "domain": "bhu.net",
