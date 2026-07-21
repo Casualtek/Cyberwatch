@@ -1,5 +1,27 @@
 [
     {
+        "date": "2026-07-15",
+        "victim": "Stadler Rail",
+        "domain": "stadlerrail.com",
+        "country": "CHE",
+        "summary": "Stadler Rail a été victime d'une cyberattaque où des criminels ont accédé à une plateforme d'échange de données avec un fournisseur. L'entreprise a confirmé que ses systèmes informatiques n'étaient pas affectés et qu'aucune donnée sensible ou personnelle n'a été volée. L'incident, survenu à la mi-juillet 2026, a été attribué au groupe Everest, qui a exigé une rançon de dix millions de francs suisses, mais celle-ci n'a pas été payée. Une plainte a été déposée.",
+        "description": "",
+        "title": "Cyberangriff auf Thurgauer Zugbauer Stadler Rail",
+        "url": "https://www.watson.ch/wirtschaft/thurgau/911864095-cyberattacke-auf-stadler-rail-im-thurgau",
+        "added": "2026-07-21"
+    },
+    {
+        "date": "2026-07-20",
+        "victim": "SHUN ON ELECTRONIC CO., LTD.",
+        "domain": "soe-ele.com",
+        "country": "TWN",
+        "summary": "Shun On Electronic a confirmé avoir subi une attaque par chiffrement après avoir reçu un rapport d'anomalie. L'unité de sécurité de l'information a immédiatement activé son mécanisme de réponse et mené des tests et des mesures de protection. Les systèmes d'information internes et le site web officiel fonctionnent normalement et n'ont pas été substantiellement affectés. L'entreprise s'engage à renforcer les contrôles de sécurité de son réseau et de son infrastructure.",
+        "description": "",
+        "title": "Today's Information",
+        "url": "https://emops.twse.com.tw/server-java/t05sr01_1_e?&isNew=Y&seq_no=2&spoke_time=200142&spoke_date=20260720&co_id=6283",
+        "added": "2026-07-21"
+    },
+    {
         "date": "2026-07-09",
         "victim": "Kaneko",
         "domain": "kaneko-corp.co.jp",
