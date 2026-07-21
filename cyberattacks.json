@@ -1,5 +1,16 @@
 [
     {
+        "date": "2026-07-09",
+        "victim": "Kaneko",
+        "domain": "kaneko-corp.co.jp",
+        "country": "JPN",
+        "summary": "La société Kaneko a annoncé avoir été victime d'une infection par rançongiciel sur certains de ses serveurs. L'accès non autorisé a été détecté le 9 juillet 2026. La société a immédiatement isolé son réseau externe et a mis en place un comité de crise. Bien que l'accès non autorisé aux données opérationnelles stockées sur les serveurs ait été confirmé, la société enquête actuellement pour déterminer si des informations ont été divulguées à l'extérieur. Les serveurs affectés ont été arrêtés. Une cyberattaque a été revendiquée le 16 juillet par \"The Gentlemen\".",
+        "description": "",
+        "title": "金子農機、一部サーバーがランサムウェア感染 業務データへの不正アクセスを確認|セキュリティニュースのセキュリティ対策Lab",
+        "url": "https://rocket-boys.co.jp/security-measures-lab/kanekokk-server-breach-isolated-incident/",
+        "added": "2026-07-21"
+    },
+    {
         "date": "2026-06-29",
         "victim": "Higuchi Shokai",
         "domain": "higuchi-inc.co.jp",
