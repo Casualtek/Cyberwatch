@@ -1,5 +1,16 @@
 [
     {
+        "date": "2026-07-15",
+        "victim": "webhot.dk",
+        "domain": "webhot.dk",
+        "country": "DNK",
+        "summary": "L'hébergeur danois a communiqué sur un incident de sécurité ayant entraîné le blocage de tous ses systèmes le 15 juillet 2026. Une enquête a été lancée le jour même, et il a été déterminé que la restauration normale n'était pas possible, nécessitant une reconstruction complète. Le système de messagerie a été rétabli le 17 juillet 2026, mais tous les e-mails reçus avant cette date ont été perdus. Les utilisateurs sont invités à suivre des procédures spécifiques pour récupérer leurs comptes.",
+        "description": "",
+        "title": "Alvorligt ransomware-angreb",
+        "url": "https://webhot.dk",
+        "added": "2026-07-22"
+    },
+    {
         "date": "2026-07-21",
         "victim": "Asamblea Legislativa",
         "domain": "asamblea.go.cr",
