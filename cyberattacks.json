@@ -1,5 +1,16 @@
 [
     {
+        "date": "2026-07-20",
+        "victim": "Sumner County Schools",
+        "domain": "sumnerschools.org",
+        "country": "USA",
+        "summary": "Les écoles du comté de Sumner, dans le Tennessee, ont retardé le début des cours de six jours après avoir découvert un accès non autorisé à leur réseau. Le district, qui dessert environ 31 000 élèves, a informé les autorités locales et fédérales ainsi que le Département de l'Éducation du Tennessee et a engagé des spécialistes forensiques. L'incident a été découvert le 20 juillet, et les autorités enquêtent toujours sur la nature exacte de la compromission.",
+        "description": "",
+        "title": "Sumner County Schools delays opening after network breach in Tennessee",
+        "url": "https://dysruptionhub.com/sumner-schools-network-breach-delay/",
+        "added": "2026-07-22"
+    },
+    {
         "date": "2026-07-15",
         "victim": "Stadler Rail",
         "domain": "stadlerrail.com",
