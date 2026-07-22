@@ -1,5 +1,16 @@
 [
     {
+        "date": "2026-07-03",
+        "victim": "Ville de Drancy",
+        "domain": "drancy.fr",
+        "country": "FRA",
+        "summary": "La Ville de Drancy a été victime d'une cyberattaque par rançongiciel (ransomware), entraînant un dysfonctionnement de ses systèmes municipaux. L'attaque a été détectée le 3 juillet 2026. La ville a refusé de payer la rançon et travaille actuellement avec l'ANSSI pour reconstruire les systèmes à partir de sauvegardes saines. Le maire a averti les habitants que des fuites de données personnelles sont probables, et que les services publics sont actuellement dégradés et ralentis.",
+        "description": "",
+        "title": "Une rançon en bitcoins : Drancy visée par une cyberattaque, les données personnelles des habitants menacées ?",
+        "url": "https://actu.fr/ile-de-france/drancy_93029/une-rancon-en-bitcoins-drancy-visee-par-une-cyberattaque-les-donnees-personnelles-des-habitants-menacees_64569472.html",
+        "added": "2026-07-22"
+    },
+    {
         "date": "2026-07-15",
         "victim": "webhot.dk",
         "domain": "webhot.dk",
