@@ -1,5 +1,16 @@
 [
     {
+        "date": "2026-07-14",
+        "victim": "Five Below",
+        "domain": "fivebelow.com",
+        "country": "USA",
+        "summary": "Five Below a signalé un incident de cybersécurité isolé impliquant l'ordinateur d'un employé. Le 14 juillet 2026, un acteur malveillant a utilisé l'ingénierie sociale pour obtenir un accès non autorisé et exfiltrer des fichiers de cet appareil. L'entreprise affirme que l'incident est contenu à cet ordinateur, sans accès aux informations d'identification personnelles (PII) ni à d'autres systèmes, et ne prévoit pas d'impact matériel sur ses opérations.",
+        "description": "",
+        "title": "Five Below (NASDAQ: FIVE) reports isolated employee cyber breach",
+        "url": "https://www.stocktitan.net/sec-filings/FIVE/8-k-five-below-inc-reports-material-event-df49b8dc9fe6.html",
+        "added": "2026-07-23"
+    },
+    {
         "date": "2026-06-29",
         "victim": "Association Japonaise des Personnages Locaux",
         "domain": "gotouchi-chara.jp",
