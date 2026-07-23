@@ -1,5 +1,16 @@
 [
     {
+        "date": "2026-06-29",
+        "victim": "Association Japonaise des Personnages Locaux",
+        "domain": "gotouchi-chara.jp",
+        "country": "JPN",
+        "summary": "L'Association Japonaise des Personnages Locaux a annoncé qu'il y avait un risque de fuite de données de contact de personnages suite à une infection par ransomware sur son NAS.",
+        "description": "",
+        "title": "一般社団法人日本ご当地キャラクター協会の NAS がランサムウェア感染 1枚目の写真・画像 | ScanNetSecurity",
+        "url": "https://s.netsecurity.ne.jp/article/img/2026/07/23/55763/53718.html",
+        "added": "2026-07-23"
+    },
+    {
         "date": "2026-07-19",
         "victim": "Get Nice Holdings",
         "domain": "getnice.com.hk",
