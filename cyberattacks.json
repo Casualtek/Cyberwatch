@@ -1,5 +1,16 @@
 [
     {
+        "date": "2026-07-19",
+        "victim": "IJsstadion Thialf",
+        "domain": "thialf.nl",
+        "country": "NLD",
+        "summary": "L'IJsstadion Thialf, un important stade de patinage et lieu d'événements situé à Heerenveen, a récemment été la cible d'une cyberattaque par ransomware. L'attaque a été attribuée au groupe malveillant « The Gentlemen ». Les attaquants ont exigé le paiement d’une rançon en échange de la non-publication sur le dark web de documents internes, d’informations sur les employés et de contrats financiers volés. Malgré cette attaque, l’IJsstadion Thialf a indiqué que son impact avait été minime, les enquêtes informatiques ayant confirmé que les processus opérationnels et les données n’avaient pas été affectés ni mis en danger.",
+        "description": "",
+        "title": "DPG Media Privacy Gate",
+        "url": "https://www.bndestem.nl/binnenland/ijsstadion-thialf-geraakt-door-cyberaanval-criminelen-eisen-losgeld-om-lek-te-voorkomen~a753008ec/",
+        "added": "2026-07-24"
+    },
+    {
         "date": "2026-07-22",
         "victim": "Brinks Home",
         "domain": "brinkshome.com",
