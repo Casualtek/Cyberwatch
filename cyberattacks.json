@@ -1,5 +1,16 @@
 [
     {
+        "date": "2026-07-22",
+        "victim": "Brinks Home",
+        "domain": "brinkshome.com",
+        "country": "USA",
+        "summary": "Brinks Home a signalé une cyberattaque ayant permis de s'infiltrer dans ses systèmes informatiques et a fait état d'un chantage implicite, les pirates menaçant de divulguer les informations dérobées. L'entreprise a mis en œuvre ses plans d'intervention et mené une enquête informatique, qui n'a toutefois pas permis de confirmer aucune compromission. Les clients ont été invités à faire preuve de vigilance.",
+        "description": "",
+        "title": "Client Challenge",
+        "url": "https://www.dallasnews.com/business/local-companies/article/dallas-security-company-brinks-home-hit-22357355.php",
+        "added": "2026-07-24"
+    },
+    {
         "date": "2026-07-21",
         "victim": "Zoner",
         "domain": "zoner.fi",
