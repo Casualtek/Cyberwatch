@@ -1,5 +1,12 @@
 [
   {
+    "victim": "timetex.de",
+    "domain": "timetex.de",
+    "country": "DE",
+    "date": "2026-06-07",
+    "group": "safepay"
+  },
+  {
     "victim": "cenesco.de",
     "domain": "cenesco.de",
     "country": "DE",
