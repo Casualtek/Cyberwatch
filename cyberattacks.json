@@ -1,5 +1,16 @@
 [
     {
+        "date": "2026-06-09",
+        "victim": "Université de Konan",
+        "domain": "konan-u.ac.jp",
+        "country": "JPN",
+        "summary": "La Université de Konan a annoncé avoir été victime d'une cyberattaque par rançongiciel (ransomware) qui a affecté son serveur de gestion administratif (Active Directory) et une partie de son serveur de fichiers pour le personnel administratif. L'incident a été détecté le 9 juin 2026 et confirmé comme une attaque par rançongiciel le 26 juin 2026. Les activités éducatives et de recherche, ainsi que le portail étudiant, n'ont pas été affectés. À ce jour, aucune fuite de données personnelles ou confidentielles n'a été confirmée. L'université a isolé les serveurs concernés et est en train de reconstruire le serveur de gestion pour renforcer la sécurité.",
+        "description": "",
+        "title": "高野山大学、ADサーバーと事務職員用ファイルサーバーがランサムウェア感染 情報流出は現時点で未確認|セキュリティニュースのセキュリティ対策Lab",
+        "url": "https://rocket-boys.co.jp/security-measures-lab/koyasan-university-ransomware-ad-server/",
+        "added": "2026-07-24"
+    },
+    {
         "date": "2026-07-16",
         "victim": "Mülheim",
         "domain": "muelheim.de",
