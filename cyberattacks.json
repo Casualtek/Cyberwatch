@@ -1,5 +1,16 @@
 [
     {
+        "date": "2026-07-21",
+        "victim": "Zoner",
+        "domain": "zoner.fi",
+        "country": "FIN",
+        "summary": "Le fournisseur de services web finlandais Zoner a été victime d'une violation de sécurité sur ses serveurs. L'incident, découvert mardi, a entraîné des problèmes de fonctionnement pour environ 1800 de ses 58000 clients, affectant des sites web et des boîtes e-mail. Des pirates informatiques ont accédé aux serveurs, modifiant les mots de passe des comptes d'hébergement et ajoutant des comptes de messagerie non autorisés. Les serveurs concernés ont été mis hors ligne et la restauration des sauvegardes est en cours. Zoner n'a pas trouvé de signes de copie massive ou de perte de données chez ses clients.",
+        "description": "",
+        "title": "VerkkohyÃ¶kkÃ¤ys: LÃ¤hes 2 000 suomalaissivua ja sÃ¤hkÃ¶postia jumissa",
+        "url": "https://www.iltalehti.fi/digiuutiset/a/5f2d67ec-8f0c-44d6-8eb2-9be3bc97ca18",
+        "added": "2026-07-24"
+    },
+    {
         "date": "2026-06-09",
         "victim": "Université de Konan",
         "domain": "konan-u.ac.jp",
