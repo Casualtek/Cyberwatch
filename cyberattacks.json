@@ -1,5 +1,16 @@
 [
     {
+        "date": "2026-07-16",
+        "victim": "Mülheim",
+        "domain": "muelheim.de",
+        "country": "DEU",
+        "summary": "La municipalité de Mülheim a été victime d'une cyberattaque. L'incident a affecté le système d'information du conseil municipal Allris, le rendant indisponible pendant environ une demi-heure. L'attaque a exploité une vulnérabilité dans un logiciel d'accès à distance largement utilisé, que la ville utilisait pour le télétravail et la maintenance à distance. Les experts informatiques de la ville ont réagi rapidement, bloquant l'accès et sécurisant le système. La municipalité a affirmé qu'aucune donnée n'a été exfiltrée, car le système affecté ne stocke ni données de citoyens ni de personnel. L'incident du système Allris était techniquement isolé de l'attaque de sécurité.",
+        "description": "",
+        "title": "Mülheim: UPDATE zu Hackerangriff auf Stadtverwaltung",
+        "url": "https://www.radiomuelheim.de/artikel/muelheim-update-zu-hackerangriff-auf-stadtverwaltung-2705900",
+        "added": "2026-07-24"
+    },
+    {
         "date": "2025-11-26",
         "victim": "Northwest Iowa Community College",
         "domain": "nwicc.edu",
