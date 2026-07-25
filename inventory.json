@@ -25401,7 +25401,7 @@
         ]
     },
     {
-        "victim": "Ministerio de Salud de la Nación argentina",
+        "victim": "Ejército Argentino",
         "domain": "argentina.gob.ar",
         "country": "AR",
         "timeline": [
@@ -25409,6 +25409,11 @@
                 "date": "2025-10-12",
                 "type": "claimed",
                 "group": "nova"
+            },
+            {
+                "date": "2026-07-24",
+                "type": "claimed",
+                "group": "qilin"
             }
         ]
     },
@@ -30970,6 +30975,18 @@
         ]
     },
     {
+        "victim": "ausproof.com.au",
+        "domain": "ausproof.com.au",
+        "country": "AU",
+        "timeline": [
+            {
+                "date": "2026-07-24",
+                "type": "claimed",
+                "group": "m3rx"
+            }
+        ]
+    },
+    {
         "victim": "aussenwelten.ch",
         "domain": "aussenwelten.ch",
         "country": "CH",
@@ -31144,6 +31161,18 @@
                 "date": "2023-09-22",
                 "type": "claimed",
                 "group": "monti"
+            }
+        ]
+    },
+    {
+        "victim": "autismuslink.ch",
+        "domain": "autismuslink.ch",
+        "country": "CH",
+        "timeline": [
+            {
+                "date": "2026-07-24",
+                "type": "claimed",
+                "group": "incransom"
             }
         ]
     },
@@ -35520,6 +35549,18 @@
         ]
     },
     {
+        "victim": "Bank of Baroda bigest indian bank bankofbaroda.bank.in",
+        "domain": "bankofbaroda.bank.in",
+        "country": "IN",
+        "timeline": [
+            {
+                "date": "2026-05-12",
+                "type": "claimed",
+                "group": "Triple X"
+            }
+        ]
+    },
+    {
         "victim": "Bankofceylon.co.uk",
         "domain": "bankofceylon.co.uk",
         "country": "UK",
@@ -38478,6 +38519,11 @@
                 "date": "2026-06-30",
                 "type": "claimed",
                 "group": "genesis"
+            },
+            {
+                "date": "2026-07-24",
+                "type": "claimed",
+                "group": "insomnia"
             }
         ]
     },
@@ -80483,6 +80529,18 @@
         ]
     },
     {
+        "victim": "Center Of Information Technologies In Finance Public Institution",
+        "domain": "ctif.gov.md",
+        "country": "MD",
+        "timeline": [
+            {
+                "date": "2026-07-24",
+                "type": "claimed",
+                "group": "nova"
+            }
+        ]
+    },
+    {
         "victim": "Compagnia Trasporti Integrati S.R.L",
         "domain": "ctilog.it",
         "country": "IT",
@@ -89155,6 +89213,18 @@
                 "date": "2026-07-01",
                 "type": "claimed",
                 "group": "BrainCipher"
+            }
+        ]
+    },
+    {
+        "victim": "Digital Edge",
+        "domain": "digitaledge.net",
+        "country": "US",
+        "timeline": [
+            {
+                "date": "2026-07-24",
+                "type": "claimed",
+                "group": "nova"
             }
         ]
     },
@@ -101503,6 +101573,18 @@
                 "date": "2023-03-24",
                 "type": "claimed",
                 "group": "clop"
+            }
+        ]
+    },
+    {
+        "victim": "Emerge2 Digital",
+        "domain": "emerge2.com",
+        "country": "CA",
+        "timeline": [
+            {
+                "date": "2026-07-24",
+                "type": "claimed",
+                "group": "akira"
             }
         ]
     },
@@ -128712,6 +128794,18 @@
         ]
     },
     {
+        "victim": "GOP",
+        "domain": "gopltd.com",
+        "country": "GB",
+        "timeline": [
+            {
+                "date": "2026-07-24",
+                "type": "claimed",
+                "group": "qilin"
+            }
+        ]
+    },
+    {
         "victim": "National Presto Industries, Inc.",
         "domain": "gopresto.com",
         "country": "US",
@@ -134853,6 +134947,18 @@
                 "date": "2025-12-02",
                 "type": "claimed",
                 "group": "sinobi"
+            }
+        ]
+    },
+    {
+        "victim": "gvsurgicalarts.com",
+        "domain": "gvsurgicalarts.com",
+        "country": "US",
+        "timeline": [
+            {
+                "date": "2026-07-24",
+                "type": "claimed",
+                "group": "safepay"
             }
         ]
     },
@@ -142173,6 +142279,18 @@
                 "date": "2025-02-01",
                 "type": "claimed",
                 "group": "8base"
+            }
+        ]
+    },
+    {
+        "victim": "Highline Community College",
+        "domain": "highline.edu",
+        "country": "US",
+        "timeline": [
+            {
+                "date": "2026-07-24",
+                "type": "claimed",
+                "group": "qilin"
             }
         ]
     },
@@ -149908,6 +150026,18 @@
             {
                 "date": "2024-07-31",
                 "type": "reported"
+            }
+        ]
+    },
+    {
+        "victim": "ID engineering",
+        "domain": "id-engineering.com",
+        "country": "ID",
+        "timeline": [
+            {
+                "date": "2026-07-24",
+                "type": "claimed",
+                "group": "dragonforce"
             }
         ]
     },
@@ -167141,6 +167271,18 @@
                 "date": "2024-11-16",
                 "type": "assessed",
                 "group": "lynx"
+            }
+        ]
+    },
+    {
+        "victim": "Kean University",
+        "domain": "kean.edu",
+        "country": "US",
+        "timeline": [
+            {
+                "date": "2026-07-24",
+                "type": "claimed",
+                "group": "qilin"
             }
         ]
     },
@@ -197410,6 +197552,18 @@
                 "date": "2025-06-17",
                 "type": "claimed",
                 "group": "dragonforce"
+            }
+        ]
+    },
+    {
+        "victim": "Metropolitan Construction Systems",
+        "domain": "metropolitanroof.com",
+        "country": "US",
+        "timeline": [
+            {
+                "date": "2026-07-20",
+                "type": "claimed",
+                "group": "pear"
             }
         ]
     },
@@ -284805,8 +284959,13 @@
     {
         "victim": "Stryker",
         "domain": "stryker.com",
-        "country": "",
+        "country": "US",
         "timeline": [
+            {
+                "date": "2026-07-24",
+                "type": "claimed",
+                "group": "qilin"
+            },
             {
                 "date": "2026-03-11",
                 "type": "discovered",
@@ -297466,6 +297625,17 @@
                 "date": "2026-07-23",
                 "type": "claimed",
                 "group": "thegentlemen"
+            },
+            {
+                "date": "2026-07-24",
+                "type": "discovered",
+                "summary": "L'IJsstadion Thialf, un important stade de patinage et lieu d'événements situé à Heerenveen, a récemment été la cible d'une cyberattaque par ransomware. L'attaque a été attribuée au groupe malveillant « The Gentlemen ». Les attaquants ont exigé le paiement d’une rançon en échange de la non-publication sur le dark web de documents internes, d’informations sur les employés et de contrats financiers volés. Malgré cette attaque, l’IJsstadion Thialf a indiqué que son impact avait été minime, les enquêtes informatiques ayant confirmé que les processus opérationnels et les données n’avaient pas été affectés ni mis en danger.",
+                "title": "DPG Media Privacy Gate",
+                "url": "https://www.bndestem.nl/binnenland/ijsstadion-thialf-geraakt-door-cyberaanval-criminelen-eisen-losgeld-om-lek-te-voorkomen~a753008ec/"
+            },
+            {
+                "date": "2026-07-19",
+                "type": "reported"
             }
         ]
     },
@@ -311215,6 +311385,18 @@
                 "date": "2025-07-08",
                 "type": "claimed",
                 "group": "direwolf"
+            }
+        ]
+    },
+    {
+        "victim": "upland.k12.ca.us",
+        "domain": "upland.k12.ca.us",
+        "country": "US",
+        "timeline": [
+            {
+                "date": "2026-07-24",
+                "type": "claimed",
+                "group": "safepay"
             }
         ]
     },
@@ -333083,6 +333265,18 @@
                 "date": "2024-11-14",
                 "type": "claimed",
                 "group": "meow"
+            }
+        ]
+    },
+    {
+        "victim": "Zynex",
+        "domain": "zynex.ch",
+        "country": "CH",
+        "timeline": [
+            {
+                "date": "2026-07-24",
+                "type": "claimed",
+                "group": "Booba Project"
             }
         ]
     },
