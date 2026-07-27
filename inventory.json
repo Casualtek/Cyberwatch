@@ -269480,7 +269480,7 @@
         ]
     },
     {
-        "victim": "Disney Family",
+        "victim": "Shamrock Holdings Inc.",
         "domain": "shamrock.com",
         "country": "US",
         "timeline": [
@@ -269493,6 +269493,11 @@
                 "date": "2026-07-23",
                 "type": "claimed",
                 "group": "thegentlemen"
+            },
+            {
+                "date": "2026-06-26",
+                "type": "assessed",
+                "group": "thegentlement"
             }
         ]
     },
