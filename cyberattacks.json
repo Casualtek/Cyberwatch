@@ -1,5 +1,16 @@
 [
     {
+        "date": "2026-07-01",
+        "victim": "Université Daejin",
+        "domain": "daejin.ac.kr",
+        "country": "KOR",
+        "summary": "L'université Daejin a détecté une activité d'accès anormale via une adresse IP externe sur ses systèmes internes le 1er juillet. Après avoir mis en place un système d'urgence, l'université a bloqué l'accès suspect en moins de 30 minutes et a immédiatement signalé l'incident aux autorités compétentes (Ministère de l'Éducation, Commission de protection des informations personnelles, KISA). L'université a ensuite confirmé que des informations personnelles avaient été incluses dans des fichiers volés. Elle a pris des mesures de suivi, notamment en informant individuellement les personnes concernées et en mettant en place un système de vérification en ligne, tout en s'engageant à réexaminer entièrement ses systèmes de traitement des données et ses mécanismes de sécurité.",
+        "description": "",
+        "title": "대진대, 사이버 공격 대응체계 가동…추가 피해 방지·정밀조사",
+        "url": "https://www.kyeonggi.com/article/20260725580034",
+        "added": "2026-07-27"
+    },
+    {
         "date": "2026-07-25",
         "victim": "Primo Caredent Group",
         "domain": "primocaredentgroup.it",
