@@ -5322,6 +5322,18 @@
         ]
     },
     {
+        "victim": "T****r",
+        "domain": "T****r.nodomain",
+        "country": "US",
+        "timeline": [
+            {
+                "date": "2026-07-25",
+                "type": "claimed",
+                "group": "payoutsking"
+            }
+        ]
+    },
+    {
         "victim": "T*** Defense",
         "domain": "T***Defense.nodomain",
         "country": "",
@@ -6688,6 +6700,18 @@
                 "date": "2026-06-19",
                 "type": "claimed",
                 "group": "krybit"
+            }
+        ]
+    },
+    {
+        "victim": "A&A Safety",
+        "domain": "aasafetyinc.com",
+        "country": "US",
+        "timeline": [
+            {
+                "date": "2026-07-25",
+                "type": "claimed",
+                "group": "bravox"
             }
         ]
     },
@@ -11609,6 +11633,18 @@
         ]
     },
     {
+        "victim": "Advantage Sintered Metals",
+        "domain": "advantagesintered.com",
+        "country": "US",
+        "timeline": [
+            {
+                "date": "2026-07-25",
+                "type": "claimed",
+                "group": "securotrop"
+            }
+        ]
+    },
+    {
         "victim": "Advantest",
         "domain": "advantest.com",
         "country": "JP",
@@ -11719,6 +11755,18 @@
                 "date": "2026-05-08",
                 "type": "claimed",
                 "group": "qilin"
+            }
+        ]
+    },
+    {
+        "victim": "Advanced Marketing",
+        "domain": "advmkt.com.mx",
+        "country": "MX",
+        "timeline": [
+            {
+                "date": "2026-07-25",
+                "type": "claimed",
+                "group": "thegentlemen"
             }
         ]
     },
@@ -42971,6 +43019,18 @@
         ]
     },
     {
+        "victim": "BioResearch",
+        "domain": "bioresearch.pl",
+        "country": "PL",
+        "timeline": [
+            {
+                "date": "2026-07-25",
+                "type": "claimed",
+                "group": "Deadlock"
+            }
+        ]
+    },
+    {
         "victim": "biosonicsinc.com",
         "domain": "biosonicsinc.com",
         "country": "",
@@ -56366,6 +56426,18 @@
                 "date": "2024-08-06",
                 "type": "claimed",
                 "group": "alphalocker"
+            }
+        ]
+    },
+    {
+        "victim": "Carrier AB",
+        "domain": "carrier.se",
+        "country": "SE",
+        "timeline": [
+            {
+                "date": "2026-07-25",
+                "type": "claimed",
+                "group": "Deadlock"
             }
         ]
     },
@@ -75186,6 +75258,18 @@
         "timeline": [
             {
                 "date": "2026-01-30",
+                "type": "claimed",
+                "group": "qilin"
+            }
+        ]
+    },
+    {
+        "victim": "The Myers Y Cooper",
+        "domain": "cooper-co.com",
+        "country": "US",
+        "timeline": [
+            {
+                "date": "2026-07-25",
                 "type": "claimed",
                 "group": "qilin"
             }
@@ -102651,6 +102735,18 @@
                 "date": "2024-08-01",
                 "type": "claimed",
                 "group": "hunters"
+            }
+        ]
+    },
+    {
+        "victim": "Enedo Power",
+        "domain": "enedopower.com",
+        "country": "FI",
+        "timeline": [
+            {
+                "date": "2026-07-25",
+                "type": "claimed",
+                "group": "Deadlock"
             }
         ]
     },
@@ -133081,6 +133177,18 @@
         ]
     },
     {
+        "victim": "Relesa",
+        "domain": "gruporelesa.com",
+        "country": "AR",
+        "timeline": [
+            {
+                "date": "2026-07-25",
+                "type": "claimed",
+                "group": "Deadlock"
+            }
+        ]
+    },
+    {
         "victim": "Grupo Riquelme",
         "domain": "gruporiquelme.com",
         "country": "PY",
@@ -134646,12 +134754,17 @@
     {
         "victim": "Guntert & Zimmerman",
         "domain": "guntert.com",
-        "country": "US",
+        "country": "CH",
         "timeline": [
             {
                 "date": "2023-11-14",
                 "type": "claimed",
                 "group": "play"
+            },
+            {
+                "date": "2026-07-25",
+                "type": "claimed",
+                "group": "qilin"
             }
         ]
     },
@@ -134705,6 +134818,18 @@
                 "date": "2025-09-02",
                 "type": "assessed",
                 "group": "akira"
+            }
+        ]
+    },
+    {
+        "victim": "GURR Abdichtungstechnik GmbH",
+        "domain": "gurr-abdichtungstechnik.de",
+        "country": "DE",
+        "timeline": [
+            {
+                "date": "2026-07-25",
+                "type": "claimed",
+                "group": "qilin"
             }
         ]
     },
@@ -142085,6 +142210,11 @@
         "domain": "hidromek.com",
         "country": "TR",
         "timeline": [
+            {
+                "date": "2026-06-30",
+                "type": "claimed",
+                "group": "Deadlock"
+            },
             {
                 "date": "2026-06-30",
                 "type": "assessed",
@@ -164488,14 +164618,19 @@
         ]
     },
     {
-        "victim": "jubileejobs.org",
+        "victim": "Jubilee Jobs",
         "domain": "jubileejobs.org",
-        "country": "US",
+        "country": "NG",
         "timeline": [
             {
                 "date": "2025-07-07",
                 "type": "claimed",
                 "group": "incransom"
+            },
+            {
+                "date": "2026-07-25",
+                "type": "claimed",
+                "group": "qilin"
             },
             {
                 "date": "2025-06-02",
@@ -167750,6 +167885,18 @@
         "timeline": []
     },
     {
+        "victim": "KEMEK",
+        "domain": "kemek.eu",
+        "country": "EE",
+        "timeline": [
+            {
+                "date": "2026-07-25",
+                "type": "claimed",
+                "group": "Deadlock"
+            }
+        ]
+    },
+    {
         "victim": "Sistem Informasi Pengelolaan Keuangan Daerah (SIPKD)",
         "domain": "kemendagri.go.id",
         "country": "ID",
@@ -167917,6 +168064,18 @@
                 "date": "2025-07-09",
                 "type": "assessed",
                 "group": "qilin"
+            }
+        ]
+    },
+    {
+        "victim": "KeNHA",
+        "domain": "kenha.co.ke",
+        "country": "KE",
+        "timeline": [
+            {
+                "date": "2026-07-25",
+                "type": "claimed",
+                "group": "Deadlock"
             }
         ]
     },
@@ -205939,6 +206098,18 @@
         ]
     },
     {
+        "victim": "msgas.com.br",
+        "domain": "msgas.com.br",
+        "country": "BR",
+        "timeline": [
+            {
+                "date": "2026-07-25",
+                "type": "claimed",
+                "group": "blackwater"
+            }
+        ]
+    },
+    {
         "victim": "Madison Square Garden Sports Corp.",
         "domain": "msgsports.com",
         "country": "US",
@@ -218186,10 +218357,15 @@
         ]
     },
     {
-        "victim": "Parc National des Lacs de Plitvice",
+        "victim": "Plitvička Jezera Nacionalni Park",
         "domain": "np-plitvicka-jezera.hr",
         "country": "HR",
         "timeline": [
+            {
+                "date": "2026-07-25",
+                "type": "claimed",
+                "group": "qilin"
+            },
             {
                 "date": "2026-06-25",
                 "type": "discovered",
@@ -241695,6 +241871,18 @@
         ]
     },
     {
+        "victim": "Principle Diagnostics Laboratory",
+        "domain": "principlediagnostics.com",
+        "country": "IN",
+        "timeline": [
+            {
+                "date": "2026-07-25",
+                "type": "claimed",
+                "group": "qilin"
+            }
+        ]
+    },
+    {
         "victim": "Prinsotel",
         "domain": "prinsotel.com",
         "country": "ES",
@@ -263306,6 +263494,18 @@
         ]
     },
     {
+        "victim": "Schaad, Balass, Menzl and Partner AG",
+        "domain": "sbmp.ch",
+        "country": "CH",
+        "timeline": [
+            {
+                "date": "2026-07-25",
+                "type": "claimed",
+                "group": "Deadlock"
+            }
+        ]
+    },
+    {
         "victim": "Sbs-Berlin",
         "domain": "sbs-berlin.de",
         "country": "DE",
@@ -273334,6 +273534,18 @@
                 "date": "2026-04-13",
                 "type": "claimed",
                 "group": "dragonforce"
+            }
+        ]
+    },
+    {
+        "victim": "SistNet",
+        "domain": "sistnet.it",
+        "country": "IT",
+        "timeline": [
+            {
+                "date": "2026-07-25",
+                "type": "claimed",
+                "group": "nova"
             }
         ]
     },
@@ -299736,6 +299948,18 @@
         ]
     },
     {
+        "victim": "Thermalex Inc",
+        "domain": "tmxinc.com",
+        "country": "US",
+        "timeline": [
+            {
+                "date": "2026-07-25",
+                "type": "claimed",
+                "group": "kairos"
+            }
+        ]
+    },
+    {
         "victim": "tni.mil.id",
         "domain": "tni.mil.id",
         "country": "ID",
@@ -300964,6 +301188,18 @@
                 "date": "2026-05-26",
                 "type": "claimed",
                 "group": "akira"
+            }
+        ]
+    },
+    {
+        "victim": "CNA",
+        "domain": "toscanacentro.cna.it",
+        "country": "IT",
+        "timeline": [
+            {
+                "date": "2026-07-25",
+                "type": "claimed",
+                "group": "Deadlock"
             }
         ]
     },
@@ -317169,6 +317405,18 @@
         ]
     },
     {
+        "victim": "Vinilon",
+        "domain": "vinilon.com",
+        "country": "CL",
+        "timeline": [
+            {
+                "date": "2026-07-25",
+                "type": "claimed",
+                "group": "Deadlock"
+            }
+        ]
+    },
+    {
         "victim": "Rafael Viñoly Architects",
         "domain": "vinoly.com",
         "country": "US",
@@ -331024,6 +331272,18 @@
                 "date": "2025-05-14",
                 "type": "assessed",
                 "group": "akira"
+            }
+        ]
+    },
+    {
+        "victim": "Yourway Transportation",
+        "domain": "yourwayinc.com",
+        "country": "US",
+        "timeline": [
+            {
+                "date": "2026-07-25",
+                "type": "claimed",
+                "group": "moneymessage"
             }
         ]
     },
