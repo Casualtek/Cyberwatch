@@ -1,5 +1,16 @@
 [
     {
+        "date": "2026-07-26",
+        "victim": "AnMed",
+        "domain": "anmed.com",
+        "country": "USA",
+        "summary": "Le système hospitalier AnMed, situé dans l'Upstate et le Nord-Est de la Géorgie, est confronté à une perturbation de cybersécurité impliquant un malware qui a provoqué une panne de téléphone et d'internet. L'organisation a confirmé que des autorités étatiques et fédérales ainsi que des spécialistes en cybersécurité tiers sont mobilisés pour rétablir les systèmes. En raison de l'incident, les bureaux d'AnMed Medical Group et les services d'imagerie seront fermés le lundi 27 juillet, bien que les centres de soins urgents et les services de laboratoire restent ouverts.",
+        "description": "",
+        "title": "Potential cyberattack brings major hospital system's phones and internet down",
+        "url": "https://www.wyff4.com/article/cyber-attack-major-hospital-systems-phones-internet-down-sc/73265168",
+        "added": "2026-07-27"
+    },
+    {
         "date": "2026-07-01",
         "victim": "Université Daejin",
         "domain": "daejin.ac.kr",
