@@ -1,5 +1,16 @@
 [
     {
+        "date": "2026-07-24",
+        "victim": "OCS",
+        "domain": "ocsfamilylinkservice.ocs.co.jp",
+        "country": "JPN",
+        "summary": "OCS, société du groupe ANA, a annoncé que son site de commerce électronique pour résidents à l'étranger, OCS FAMILY LINK SERVICE, avait été victime d'une cyberattaque. Le 24 juillet 2026, l'entreprise a confirmé qu'un accès externe non autorisé avait eu lieu sur ses serveurs, et qu'une partie des données personnelles et des informations pourrait avoir été divulguée. OCS a immédiatement coupé le système et les réseaux associés pour contenir les dégâts et mène une enquête en collaboration avec les autorités. Les détails sur les informations compromises, le nombre de victimes et la cause de l'intrusion restent inconnus.",
+        "description": "",
+        "title": "OCS FAMILY LINK SERVICEへのシステム障害はサイバー攻撃が原因、個人情報流出の恐れ|セキュリティニュースのセキュリティ対策Lab",
+        "url": "https://rocket-boys.co.jp/security-measures-lab/ocs-family-link-cyberattack-data-leak/",
+        "added": "2026-07-28"
+    },
+    {
         "date": "2026-07-13",
         "victim": "Verspieren",
         "domain": "verspieren.com",
