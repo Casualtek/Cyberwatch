@@ -1,5 +1,16 @@
 [
     {
+        "date": "2026-04-23",
+        "victim": "Ernst & Young",
+        "domain": "ey.com",
+        "country": "USA",
+        "summary": "Le groupe d'extorsion ShinyHunters a revendiqué la responsabilité d'une violation de données chez Ernst & Young (EY), affirmant avoir obtenu des identifiants via une attaque de la chaîne d'approvisionnement. EY avait initialement révélé une brèche où un système de tickets de support tiers, contenant potentiellement des informations fiscales de clients, a été compromis. L'accès de l'attaquant a eu lieu entre le 28 mars et le 12 avril. ShinyHunters a menacé de publier les données volées si EY ne les contacte pas avant le 31 juillet 2026. Les attaquants affirment que les identifiants volés ont permis de compromettre les environnements Jira, GitHub et Azure d'EY.",
+        "description": "",
+        "title": "Ernst & Young data breach claimed by ShinyHunters extortion gang",
+        "url": "https://www.bleepingcomputer.com/news/security/ernst-and-young-data-breach-claimed-by-shinyhunters-extortion-gang/",
+        "added": "2026-07-28"
+    },
+    {
         "date": "2026-07-28",
         "victim": "CubePilot",
         "domain": "cubepilot.org",
