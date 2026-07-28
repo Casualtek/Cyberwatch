@@ -1,6 +1,17 @@
 [
     {
         "date": "2026-07-27",
+        "victim": "Newton County Schools",
+        "domain": "newtoncountyschools.org",
+        "country": "USA",
+        "summary": "Les Newton County Schools, situés en Géorgie, ont mis hors ligne leurs systèmes informatiques suite à la découverte d'une activité réseau non autorisée, juste avant la rentrée scolaire. Le district a fait appel à des spécialistes en cybersécurité pour enquêter et restaurer les opérations. Les autorités n'ont pas encore confirmé la nature de l'incident (ransomware, malware), ni si des données personnelles ont été compromises.",
+        "description": "",
+        "title": "Newton County Schools in Georgia takes systems offline after cyber incident",
+        "url": "https://dysruptionhub.com/newton-schools-georgia-cyber-incident/",
+        "added": "2026-07-28"
+    },
+    {
+        "date": "2026-07-27",
         "victim": "Braham",
         "domain": "brahammn.gov",
         "country": "USA",
