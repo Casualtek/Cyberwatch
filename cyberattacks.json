@@ -1,5 +1,16 @@
 [
     {
+        "date": "2026-07-20",
+        "victim": "ZTN Süd",
+        "domain": "ztn-sued.de",
+        "country": "DEU",
+        "summary": "Le Zweckverband Tierische Nebenprodukte Süd (ZTN Süd) de Warthausen a été victime d'une cyberattaque. L'incident a été découvert le 20 juillet après que plusieurs systèmes de serveurs aient été mis hors service par un logiciel de chiffrement. Le Verband travaille actuellement avec des experts externes et les autorités compétentes pour déterminer si des données personnelles ont été compromises, bien qu'aucune preuve de fuite de données ne soit disponible à ce jour. Le Verband a mis les systèmes affectés hors ligne et recommande une vigilance accrue à ses parties prenantes.",
+        "description": "",
+        "title": "Cyberangriff auf ZTN Süd in Warthausen – Ermittlungen laufen",
+        "url": "https://www.wochenblatt-news.de/region-biberach/biberach/cyberangriff-auf-ztn-sued-in-warthausen-ermittlungen-laufen/",
+        "added": "2026-07-28"
+    },
+    {
         "date": "2026-07-27",
         "victim": "LM Mobilidade",
         "domain": "lmmobilidade.com.br",
