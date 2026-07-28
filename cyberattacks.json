@@ -1,5 +1,16 @@
 [
     {
+        "date": "2026-07-28",
+        "victim": "Unitel",
+        "domain": "unitel.ao",
+        "country": "AGO",
+        "summary": "Unitel, un opérateur de télécommunications angolais, a été victime d'une cyberattaque ciblant son infrastructure technologique. L'incident, survenu le 28 juillet, a provoqué des perturbations généralisées des services de voix, de données mobiles et d'accès à Internet à travers le pays. L'opérateur a mobilisé ses équipes de cybersécurité pour minimiser l'impact, mais les services restent conditionnés. Unitel n'a pas encore révélé l'origine ni la nature de l'attaque.",
+        "description": "",
+        "title": "Ataque cibernético deixa clientes da Unitel sem voz, dados móveis e Internet em todo o país",
+        "url": "https://www.angola24horas.com/sociedade/item/34774-ataque-cibernetico-deixa-clientes-da-unitel-sem-voz-dados-moveis-e-internet-em-todo-o-pais",
+        "added": "2026-07-28"
+    },
+    {
         "date": "2026-07-27",
         "victim": "Newton County Schools",
         "domain": "newtoncountyschools.org",
