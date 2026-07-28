@@ -1,5 +1,16 @@
 [
     {
+        "date": "2026-07-28",
+        "victim": "CubePilot",
+        "domain": "cubepilot.org",
+        "country": "AUS",
+        "summary": "CubePilot, une entreprise australienne fournissant du matériel et des logiciels embarqués pour l'industrie des systèmes non habités civils, a signalé à ses clients qu'un incident de sécurité affectait certains de ses systèmes. En précaution, le portail ERP a été mis hors ligne. L'entreprise enquête sur l'incident en collaboration avec les autorités australiennes, mais n'a pas encore communiqué de détails supplémentaires ni identifié d'acteur de menace.",
+        "description": "",
+        "title": "Aussie UAS supplier warns of suspected cyber attack",
+        "url": "https://australianaviation.com.au/2026/07/aussie-uas-supplier-warns-of-cyber-attack/",
+        "added": "2026-07-28"
+    },
+    {
         "date": "2026-07-24",
         "victim": "OCS",
         "domain": "ocsfamilylinkservice.ocs.co.jp",
