@@ -1,5 +1,16 @@
 [
     {
+        "date": "2025-09-26",
+        "victim": "Medical Computer Business Services (MCBS)",
+        "domain": "mcbs.com",
+        "country": "USA",
+        "summary": "Medical Computer Business Services (MCBS), une société de facturation médicale, a révélé une violation de son réseau survenue entre le 22 et le 26 septembre 2025. L'attaque, revendiquée le groupe de ransomware PEAR le 30 septembre, a exposé les informations sensibles de plus de 1,2 million de personnes. Les données potentiellement compromises incluent le nom complet, l'adresse physique, le numéro de sécurité sociale, la date de naissance, des informations médicales détaillées, ainsi que des données RH et opérationnelles. MCBS exhorte les personnes concernées à prendre des mesures de sécurité, comme placer une alerte de fraude.",
+        "description": "",
+        "title": "Data breach at medical billing firm MCBS affects 1.26 million people",
+        "url": "https://www.bleepingcomputer.com/news/security/data-breach-at-medical-billing-firm-mcbs-affects-126-million-people/",
+        "added": "2026-07-28"
+    },
+    {
         "date": "2026-07-28",
         "victim": "Unitel",
         "domain": "unitel.ao",
