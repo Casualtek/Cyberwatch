@@ -1,5 +1,16 @@
 [
     {
+        "date": "2026-04-09",
+        "victim": "Vilhelmina et Dorotea",
+        "domain": "vilhelmina.se",
+        "country": "SWE",
+        "summary": "Les municipalités de Vilhelmina et Dorotea, dans la région de Västerbotten, ont été touchées par des attaques par rançongiciel le 9 avril 2026. Ces attaques ont forcé les conseils municipaux à activer des protocoles de crise et à revenir à des opérations basées sur papier. Dorotea est passée en mode d'urgence, tandis que Vilhelmina a confirmé faire partie d'une attaque informatique plus vaste affectant plusieurs conseils suédois. Les services municipaux ont été gravement perturbés, notamment les services sociaux, bien que les municipalités aient maintenu des communications internes et des services essentiels. Une attaque a été revendiquée par INC Ransom le 24 avril.",
+        "description": "",
+        "title": "Vilhelmina and Dorotea Municipalities Hit by Ransomware Attack Amid Regional Wave - eBuilder Security",
+        "url": "https://ebuildersecurity.se/en/cyber-news/vilhelmina-and-dorotea-municipalities-hit-by-ransomware-attack-amid-regional-wave/",
+        "added": "2026-07-28"
+    },
+    {
         "date": "2026-04-23",
         "victim": "Ernst & Young",
         "domain": "ey.com",
