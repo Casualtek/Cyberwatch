@@ -1,5 +1,16 @@
 [
     {
+        "date": "2026-07-25",
+        "victim": "Krefeld Pinguine",
+        "domain": "krefeld-pinguine.de",
+        "country": "DEU",
+        "summary": "Le club de hockey sur glace de Krefeld, les Krefeld Pinguine, a été victime d'une attaque par logiciel malveillant sur son site internet dans la nuit du 25 au 26 juillet. Le club a mis son site hors ligne pour prévenir d'autres dommages et garantir la sécurité des visiteurs. Les Pinguine travaillent activement à l'analyse et à une solution sécurisée, mais aucune information n'a été communiquée concernant une éventuelle exfiltration de données.",
+        "description": "",
+        "title": "Webseite vorerst abgeschaltet: Krefeld Pinguine werden Opfer eines Cyberangriffs",
+        "url": "https://rp-online.de/nrw/staedte/krefeld/krefeld-pinguine-werden-opfer-eines-cyberangriffs_aid-152093095",
+        "added": "2026-07-28"
+    },
+    {
         "date": "2026-02-13",
         "victim": "Eyemart Express, LLC",
         "domain": "eyemartexpress.com",
