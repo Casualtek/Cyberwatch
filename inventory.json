@@ -280947,6 +280947,11 @@
                 "date": "2026-07-26",
                 "type": "claimed",
                 "group": "Global Secret Group"
+            },
+            {
+                "date": "2026-07-17",
+                "type": "assessed",
+                "group": "Global Secret Group"
             }
         ]
     },
