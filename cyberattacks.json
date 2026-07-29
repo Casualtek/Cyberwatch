@@ -1,5 +1,16 @@
 [
     {
+        "date": "2026-07-23",
+        "victim": "Université de l'Ouest \"Vasile Goldiș\" (UVVG)",
+        "domain": "uvvg.ro",
+        "country": "ROU",
+        "summary": "L'infrastructure informatique de l'Université de l'Ouest \"Vasile Goldiș\" (UVVG) d'Arad a été affectée par une cyberattaque. La direction de l'université a confirmé l'incident et a informé les autorités compétentes (DNSC, ANSPDCP, DIICOT). Bien que l'université n'ait pas confirmé officiellement, des informations suggèrent que le groupe de hackers Qilin, un ransomware connu pour ses attaques agressives, serait derrière cette brèche de sécurité.",
+        "description": "",
+        "title": "Atac cibernetic la UVVG Arad: infrastructura IT a universității, compromisă. Ce grupare de hackeri ar fi în spatele breșei de securitate",
+        "url": "https://specialarad.ro/atac-cibernetic-uvvg-arad-hackeri-qilin/",
+        "added": "2026-07-29"
+    },
+    {
         "date": "2026-07-28",
         "victim": "Hiwin S.r.l.",
         "domain": "hiwin.it",
