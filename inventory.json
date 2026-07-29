@@ -178001,9 +178001,9 @@
         ]
     },
     {
-        "victim": "lasevillanita.com",
+        "victim": "La Sevillanita",
         "domain": "lasevillanita.com",
-        "country": "CO",
+        "country": "AR",
         "timeline": [
             {
                 "date": "2026-02-23",
@@ -178019,6 +178019,11 @@
                 "date": "2026-01-26",
                 "type": "assessed",
                 "group": "lockbit5"
+            },
+            {
+                "date": "2026-04-11",
+                "type": "assessed",
+                "group": "Global Secret Group"
             },
             {
                 "date": "2026-05-18",
