@@ -2030,6 +2030,18 @@
         ]
     },
     {
+        "victim": "Accesso",
+        "domain": "Accesso.Com",
+        "country": "GB",
+        "timeline": [
+            {
+                "date": "2026-07-28",
+                "type": "claimed",
+                "group": "coinbasecartel"
+            }
+        ]
+    },
+    {
         "victim": "Accident Injury Solicitors",
         "domain": "AccidentInjurySolicitors.nodomain",
         "country": "GB",
@@ -12788,6 +12800,18 @@
         ]
     },
     {
+        "victim": "Affinia Healthcare",
+        "domain": "affiniahealthcare.org",
+        "country": "US",
+        "timeline": [
+            {
+                "date": "2026-07-28",
+                "type": "claimed",
+                "group": "termite"
+            }
+        ]
+    },
+    {
         "victim": "Affinity Designs",
         "domain": "affinitydesignsllc.com",
         "country": "US",
@@ -14079,6 +14103,18 @@
                 "date": "2025-06-05",
                 "type": "claimed",
                 "group": "gunra"
+            }
+        ]
+    },
+    {
+        "victim": "AHENK lab",
+        "domain": "ahenklab.com.tr",
+        "country": "TR",
+        "timeline": [
+            {
+                "date": "2026-07-28",
+                "type": "claimed",
+                "group": "Deadlock"
             }
         ]
     },
@@ -44244,6 +44280,18 @@
         ]
     },
     {
+        "victim": "B-K Tool & Design",
+        "domain": "bktool.com",
+        "country": "US",
+        "timeline": [
+            {
+                "date": "2026-07-28",
+                "type": "claimed",
+                "group": "cmdorganization"
+            }
+        ]
+    },
+    {
         "victim": "British Library",
         "domain": "bl.uk",
         "country": "UK",
@@ -51169,6 +51217,18 @@
                 "date": "2024-05-01",
                 "type": "claimed",
                 "group": "incransom"
+            }
+        ]
+    },
+    {
+        "victim": "Buck Knives",
+        "domain": "buckknives.com",
+        "country": "US",
+        "timeline": [
+            {
+                "date": "2026-07-28",
+                "type": "claimed",
+                "group": "thegentlemen"
             }
         ]
     },
@@ -86784,6 +86844,18 @@
         ]
     },
     {
+        "victim": "Della Casa Group AG",
+        "domain": "dellacasa.group",
+        "country": "CH",
+        "timeline": [
+            {
+                "date": "2026-07-28",
+                "type": "claimed",
+                "group": "incransom"
+            }
+        ]
+    },
+    {
         "victim": "Delmar International",
         "domain": "delmarcargo.com",
         "country": "CA",
@@ -89377,6 +89449,18 @@
                 "date": "2023-05-21",
                 "type": "claimed",
                 "group": "lockbit3"
+            }
+        ]
+    },
+    {
+        "victim": "DIATER",
+        "domain": "diater.com",
+        "country": "ES",
+        "timeline": [
+            {
+                "date": "2026-07-28",
+                "type": "claimed",
+                "group": "Deadlock"
             }
         ]
     },
@@ -95283,6 +95367,18 @@
         ]
     },
     {
+        "victim": "DUCON",
+        "domain": "ducon.com.co",
+        "country": "CO",
+        "timeline": [
+            {
+                "date": "2026-07-28",
+                "type": "claimed",
+                "group": "incransom"
+            }
+        ]
+    },
+    {
         "victim": "duconind.com",
         "domain": "duconind.com",
         "country": "AE",
@@ -98345,6 +98441,18 @@
                 "date": "2024-03-18",
                 "type": "claimed",
                 "group": "cactus"
+            }
+        ]
+    },
+    {
+        "victim": "https://eclmn.com/",
+        "domain": "eclmn.com",
+        "country": "US",
+        "timeline": [
+            {
+                "date": "2026-07-28",
+                "type": "claimed",
+                "group": "incransom"
             }
         ]
     },
@@ -118269,6 +118377,18 @@
         ]
     },
     {
+        "victim": "foundationstofreedom.org",
+        "domain": "foundationstofreedom.org",
+        "country": "US",
+        "timeline": [
+            {
+                "date": "2026-07-28",
+                "type": "claimed",
+                "group": "incransom"
+            }
+        ]
+    },
+    {
         "victim": "Fountain",
         "domain": "fountain.eu",
         "country": "BE",
@@ -131279,6 +131399,18 @@
         ]
     },
     {
+        "victim": "Gran valle negocios",
+        "domain": "granvallenegocios.com.ar",
+        "country": "AR",
+        "timeline": [
+            {
+                "date": "2026-07-28",
+                "type": "claimed",
+                "group": "qilin"
+            }
+        ]
+    },
+    {
         "victim": "Granville Inn",
         "domain": "granvilleinn.com",
         "country": "US",
@@ -131805,6 +131937,29 @@
                 "date": "2023-06-30",
                 "type": "assessed",
                 "group": "akira"
+            }
+        ]
+    },
+    {
+        "victim": "greenecountyga.gov",
+        "domain": "greenecountyga.gov",
+        "country": "US",
+        "timeline": [
+            {
+                "date": "2026-07-28",
+                "type": "claimed",
+                "group": "incransom"
+            },
+            {
+                "date": "2026-07-16",
+                "type": "discovered",
+                "summary": "Le comté de Greene, en Géorgie, a dû mettre hors ligne son réseau gouvernemental après avoir découvert un incident de cybersécurité le 9 juillet. Cet incident a perturbé le traitement des paiements et les services des bureaux fiscaux, judiciaires et administratifs. Les spécialistes en cybersécurité sont en train de reconstruire les systèmes. Les autorités ont indiqué qu'aucune preuve de consultation ou de suppression d'informations n'avait été trouvée, et que le système de communication 911 n'était pas affecté.",
+                "title": "Greene County, Georgia, cybersecurity incident disrupts county services",
+                "url": "https://dysruptionhub.com/greene-county-georgia-network-outage/"
+            },
+            {
+                "date": "2026-07-09",
+                "type": "reported"
             }
         ]
     },
@@ -144793,6 +144948,18 @@
                 "date": "2025-02-19",
                 "type": "claimed",
                 "group": "fog"
+            }
+        ]
+    },
+    {
+        "victim": "Hoc",
+        "domain": "hocltd.com",
+        "country": "GB",
+        "timeline": [
+            {
+                "date": "2026-07-28",
+                "type": "claimed",
+                "group": "qilin"
             }
         ]
     },
@@ -160238,12 +160405,17 @@
     {
         "victim": "Incredible Technologies",
         "domain": "itsgames.com",
-        "country": "",
+        "country": "US",
         "timeline": [
             {
                 "date": "2023-04-10",
                 "type": "claimed",
                 "group": "dunghill"
+            },
+            {
+                "date": "2026-07-28",
+                "type": "claimed",
+                "group": "Booba Project"
             }
         ]
     },
@@ -173574,6 +173746,18 @@
                 "date": "2023-09-14",
                 "type": "claimed",
                 "group": "werewolves"
+            }
+        ]
+    },
+    {
+        "victim": "Franz Krause artworksgroup",
+        "domain": "krause-management.com",
+        "country": "DE",
+        "timeline": [
+            {
+                "date": "2026-07-28",
+                "type": "claimed",
+                "group": "akira"
             }
         ]
     },
@@ -202051,6 +202235,18 @@
         ]
     },
     {
+        "victim": "minigrip.com.mx",
+        "domain": "minigrip.com.mx",
+        "country": "MX",
+        "timeline": [
+            {
+                "date": "2026-07-28",
+                "type": "claimed",
+                "group": "incransom"
+            }
+        ]
+    },
+    {
         "victim": "minneapolisparks.org",
         "domain": "minneapolisparks.org",
         "country": "US",
@@ -222880,6 +223076,11 @@
                 "date": "2026-07-26",
                 "type": "claimed",
                 "group": "Global Secret Group"
+            },
+            {
+                "date": "2026-07-09",
+                "type": "assessed",
+                "group": "Global Secret Group"
             }
         ]
     },
@@ -223335,6 +223536,18 @@
                 "date": "2026-02-10",
                 "type": "assessed",
                 "group": "play"
+            }
+        ]
+    },
+    {
+        "victim": "Oklahoma Manufacturing Alliance",
+        "domain": "okalliance.com",
+        "country": "US",
+        "timeline": [
+            {
+                "date": "2026-07-28",
+                "type": "claimed",
+                "group": "Booba Project"
             }
         ]
     },
@@ -230920,6 +231133,18 @@
                 "date": "2025-02-03",
                 "type": "claimed",
                 "group": "qilin"
+            }
+        ]
+    },
+    {
+        "victim": "Pasello",
+        "domain": "pasello.com",
+        "country": "IT",
+        "timeline": [
+            {
+                "date": "2026-07-28",
+                "type": "claimed",
+                "group": "Deadlock"
             }
         ]
     },
@@ -242006,6 +242231,18 @@
                 "date": "2025-03-09",
                 "type": "claimed",
                 "group": "qilin"
+            }
+        ]
+    },
+    {
+        "victim": "Prelys Courtage",
+        "domain": "prelys-courtage.com",
+        "country": "FR",
+        "timeline": [
+            {
+                "date": "2026-07-28",
+                "type": "claimed",
+                "group": "anubis"
             }
         ]
     },
@@ -281110,6 +281347,18 @@
         ]
     },
     {
+        "victim": "Speed Group",
+        "domain": "speedgroupe.com",
+        "country": "FR",
+        "timeline": [
+            {
+                "date": "2026-07-28",
+                "type": "claimed",
+                "group": "blacknevas"
+            }
+        ]
+    },
+    {
         "victim": "Speed Inter Transport",
         "domain": "speedintertransport.com",
         "country": "TH",
@@ -291917,6 +292166,18 @@
         ]
     },
     {
+        "victim": "Takis srl",
+        "domain": "takisbiotech.com",
+        "country": "IT",
+        "timeline": [
+            {
+                "date": "2026-07-28",
+                "type": "claimed",
+                "group": "Deadlock"
+            }
+        ]
+    },
+    {
         "victim": "TAKBroadband, LLC",
         "domain": "takkbroadband.com",
         "country": "US",
@@ -297815,6 +298076,18 @@
                 "date": "2026-02-10",
                 "type": "claimed",
                 "group": "incransom"
+            }
+        ]
+    },
+    {
+        "victim": "thecranewaregroup.com",
+        "domain": "thecranewaregroup.com",
+        "country": "GB",
+        "timeline": [
+            {
+                "date": "2026-07-28",
+                "type": "claimed",
+                "group": "chaos"
             }
         ]
     },
