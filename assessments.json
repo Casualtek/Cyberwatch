@@ -1,5 +1,12 @@
 [
   {
+    "victim": "OFS",
+    "domain": "ofs.com",
+    "country": "US",
+    "date": "2026-07-09",
+    "group": "Global Secret Group"
+  },
+  {
     "victim": "Novum Energy",
     "domain": "novumenergy.com",
     "country": "US",
