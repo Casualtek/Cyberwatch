@@ -1,5 +1,12 @@
 [
   {
+    "victim": "gvsurgicalarts.com",
+    "domain": "gvsurgicalarts.com",
+    "country": "US",
+    "date": "2026-07-15",
+    "group": "safepay"
+  },
+  {
     "victim": "Ecopetrol",
     "domain": "ecopetrol.com.co",
     "country": "CO",
@@ -1792,7 +1799,7 @@
     "group": "safepay"
   },
   {
-    "victim": "eaglecrestlife.org",
+    "victim": "Eagle Crest Communities",
     "domain": "eaglecrestlife.org",
     "country": "US",
     "date": "2026-06-13",
