@@ -1,5 +1,12 @@
 [
   {
+    "victim": "La Sevillanita",
+    "domain": "lasevillanita.com",
+    "country": "AR",
+    "date": "2026-04-11",
+    "group": "Global Secret Group"
+  },
+  {
     "victim": "Chappell Supply & Equipment",
     "domain": "chappellsupply.com",
     "country": "US",
@@ -497,9 +504,9 @@
     "group": "lockbit5"
   },
   {
-    "victim": "lasevillanita.com",
+    "victim": "La Sevillanita",
     "domain": "lasevillanita.com",
-    "country": "CO",
+    "country": "AR",
     "date": "2026-01-26",
     "group": "lockbit5"
   },
@@ -2121,9 +2128,9 @@
     "group": "akira"
   },
   {
-    "victim": "lasevillanita.com",
+    "victim": "La Sevillanita",
     "domain": "lasevillanita.com",
-    "country": "CO",
+    "country": "AR",
     "date": "2026-05-18",
     "group": "krybit"
   },
