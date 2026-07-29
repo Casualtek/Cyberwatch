@@ -1,5 +1,16 @@
 [
     {
+        "date": "2026-07-29",
+        "victim": "Administrația Națională a Penitenciarelor (ANP)",
+        "domain": "anp.gov.ro",
+        "country": "ROU",
+        "summary": "L'administration pénitentiaire de roumaine (ANP) a été victime d'une cyberattaque de type ransomware le 29 juillet 2026. L'équipe informatique de l'ANP a contacté immédiatement le Bureau National de Sécurité Cybernétique (DNSC), qui est intervenu rapidement pour limiter l'impact en isolant physiquement tous les équipements. Des spécialistes de l'ANP et du DNSC travaillent actuellement à la remédiation et à l'enquête, et une plainte sera déposée auprès de la DIICOT dans la journée. Plusieurs services de l'ANP, tels que IMS Web, Infokiosk, la téléphonie pour les personnes privées de liberté, le portail de planification des visites, les connexions VPN et le site web, sont temporairement arrêtés. Des alternatives seront identifiées rapidement pour maintenir le lien entre les personnes privées de liberté et leurs familles. Les transferts de détenus sont actuellement stoppés, mais les situations exceptionnelles seront gérées si nécessaire.",
+        "description": "",
+        "title": "Comunicat de presă - Administrația Națională a Penitenciarelor",
+        "url": "https://agerpres.ro/comunicate/2026/07/29/comunicat-de-presa---administratia-nationala-a-penitenciarelor--1580261",
+        "added": "2026-07-29"
+    },
+    {
         "date": "2026-07-24",
         "victim": "Orisha",
         "domain": "orisha.com",
