@@ -1,5 +1,16 @@
 [
     {
+        "date": "2026-07-24",
+        "victim": "Orisha",
+        "domain": "orisha.com",
+        "country": "FRA",
+        "summary": "La Mutuelle Familiale a été affectée par un incident de cybersécurité touchant l'infrastructure de son prestataire informatique, Orisha. Cette perturbation a entraîné l'interruption temporaire de plusieurs services de gestion, tels que l'accès à l'espace personnel, le traitement des remboursements et la gestion du tiers payant complexe. Le tiers payant simple reste fonctionnel. Aucune exfiltration de données n'a été confirmée à ce stade, et le rétablissement est prévu dans les jours à venir.",
+        "description": "",
+        "title": "Point d'information concernant l'accessibilité de nos services",
+        "url": "https://www.mutuelle-familiale.fr/actualites/information-accessibilite-services",
+        "added": "2026-07-29"
+    },
+    {
         "date": "2026-07-23",
         "victim": "Université de l'Ouest \"Vasile Goldiș\" (UVVG)",
         "domain": "uvvg.ro",
