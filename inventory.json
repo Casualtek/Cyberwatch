@@ -111118,6 +111118,11 @@
                 "date": "2026-07-26",
                 "type": "claimed",
                 "group": "Global Secret Group"
+            },
+            {
+                "date": "2026-03-20",
+                "type": "assessed",
+                "group": "Global Secret Group"
             }
         ]
     },
@@ -204835,6 +204840,17 @@
             },
             {
                 "date": "2024-11-18",
+                "type": "reported"
+            },
+            {
+                "date": "2026-07-29",
+                "type": "discovered",
+                "summary": "L'arrondissement d'Anjou a été victime d'une cyberattaque qui a affecté ses services à la population, notamment les services de téléphonie. L'intrusion a eu lieu jeudi, et des mesures ont été prises pour limiter les impacts. Une firme spécialisée a été mandatée pour enquêter sur l'origine de l'attaque, et une plainte a été déposée auprès du SPVM. Les démarches administratives ont été temporairement relocalisées.",
+                "title": "À Anjou, les services perturbés par une cyberattaque",
+                "url": "https://journalmetro.com/local/anjou/3223656/cyberattaque-a-anjou-une-intrusion-informatique-perturbe-les-services-de-l-arron/"
+            },
+            {
+                "date": "2026-07-22",
                 "type": "reported"
             }
         ]
@@ -314567,6 +314583,17 @@
                 "date": "2026-07-26",
                 "type": "claimed",
                 "group": "qilin"
+            },
+            {
+                "date": "2026-07-29",
+                "type": "discovered",
+                "summary": "L'infrastructure informatique de l'Université de l'Ouest \"Vasile Goldiș\" (UVVG) d'Arad a été affectée par une cyberattaque. La direction de l'université a confirmé l'incident et a informé les autorités compétentes (DNSC, ANSPDCP, DIICOT). Bien que l'université n'ait pas confirmé officiellement, des informations suggèrent que le groupe de hackers Qilin, un ransomware connu pour ses attaques agressives, serait derrière cette brèche de sécurité.",
+                "title": "Atac cibernetic la UVVG Arad: infrastructura IT a universității, compromisă. Ce grupare de hackeri ar fi în spatele breșei de securitate",
+                "url": "https://specialarad.ro/atac-cibernetic-uvvg-arad-hackeri-qilin/"
+            },
+            {
+                "date": "2026-07-23",
+                "type": "reported"
             }
         ]
     },
