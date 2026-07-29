@@ -1,5 +1,16 @@
 [
     {
+        "date": "2022-09-19",
+        "victim": "Six Fook Securities (Hong Kong) Limited",
+        "domain": "lff.com.hk",
+        "country": "HKG",
+        "summary": "La Commission des valeurs mobilières de Hong Kong (SFC) a blâmé et sanctionné Six Fook Securities (ou Luk Fook Securities) pour des lacunes importantes dans ses mesures de cybersécurité. L'incident, une attaque par ransomware survenue en septembre 2022, a causé des perturbations majeures aux infrastructures informatiques de la société. L'enquête de la SFC a révélé des manquements systémiques, tels que l'absence de protection par pare-feu, l'utilisation de systèmes d'exploitation obsolètes, une mauvaise gestion des mots de passe et un manque de surveillance des accès à distance. En conséquence, Six Fook Securities a été condamnée à une amende de 2,1 millions de dollars de Hong Kong.",
+        "description": "",
+        "title": "系统“挂了”三周！六福证券领罚单",
+        "url": "https://m.sohu.com/a/1055892570_120988576?scm=10001.325_13-325_13.0.0-0-0-0-0.5_1334",
+        "added": "2026-07-29"
+    },
+    {
         "date": "2026-07-28",
         "victim": "Mairie de Šumperk",
         "domain": "sumperk.cz",
