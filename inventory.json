@@ -274861,6 +274861,18 @@
         ]
     },
     {
+        "victim": "Sinop Energia",
+        "domain": "sinopenergia.com.br",
+        "country": "BR",
+        "timeline": [
+            {
+                "date": "2026-07-15",
+                "type": "assessed",
+                "group": "Global Secret Group"
+            }
+        ]
+    },
+    {
         "victim": "Sinotech Group Taiwan",
         "domain": "sinotech.org.tw",
         "country": "VN",
