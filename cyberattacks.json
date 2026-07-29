@@ -1,5 +1,16 @@
 [
     {
+        "date": "2026-07-22",
+        "victim": "Arrondissement d'Anjou",
+        "domain": "montreal.ca",
+        "country": "CAN",
+        "summary": "L'arrondissement d'Anjou a été victime d'une cyberattaque qui a affecté ses services à la population, notamment les services de téléphonie. L'intrusion a eu lieu jeudi, et des mesures ont été prises pour limiter les impacts. Une firme spécialisée a été mandatée pour enquêter sur l'origine de l'attaque, et une plainte a été déposée auprès du SPVM. Les démarches administratives ont été temporairement relocalisées.",
+        "description": "",
+        "title": "À Anjou, les services perturbés par une cyberattaque",
+        "url": "https://journalmetro.com/local/anjou/3223656/cyberattaque-a-anjou-une-intrusion-informatique-perturbe-les-services-de-l-arron/",
+        "added": "2026-07-29"
+    },
+    {
         "date": "2026-07-26",
         "victim": "o2switch",
         "domain": "o2switch.fr",
