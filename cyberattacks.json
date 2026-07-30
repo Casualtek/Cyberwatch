@@ -1,5 +1,16 @@
 [
     {
+        "date": "2026-07-15",
+        "victim": "Döbeln",
+        "domain": "doebeln.de",
+        "country": "DEU",
+        "summary": "La ville de Döbeln a été victime d'une cyberattaque sur son infrastructure de serveurs le 15 juillet 2026. La ville a mis son site Internet hors ligne par mesure de précaution et il est resté inaccessible pendant plus d'une semaine. Les autres systèmes informatiques de l'administration n'ont pas été affectés, et les failles de sécurité ont été corrigées.",
+        "description": "",
+        "title": "Stadtverwaltung Döbeln",
+        "url": "https://kommunaler-notbetrieb.de/2026/07/23/stadtverwaltung-doebeln/",
+        "added": "2026-07-30"
+    },
+    {
         "date": "2026-06-02",
         "victim": "Neuwoges",
         "domain": "neuwoges.de",
