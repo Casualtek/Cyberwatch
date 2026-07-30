@@ -1,5 +1,16 @@
 [
     {
+        "date": "2026-06-02",
+        "victim": "Neuwoges",
+        "domain": "neuwoges.de",
+        "country": "DEU",
+        "summary": "La société de logement communale de Neubrandenburg (Neuwoges) et ses filiales ont été touchées par une cyberattaque, entraînant la coupure de ses systèmes informatiques centraux. L'incident, survenu le 2 juin, a rendu l'entreprise et plusieurs de ses filiales, y compris une maison de soins et un refuge pour animaux, partiellement inaccessibles. Une cyberattaque a été revendiquée le 18 juin par INC Ransom.",
+        "description": "",
+        "title": "Cyber-Schock: Hacker legen Neuwoges lahm – Mieter, Pflegeheim und Tierheim betroffen",
+        "url": "https://www.nordkurier.de/regional/neubrandenburg/cyber-schock-hacker-legen-wohnungsunternehmen-lahm-mieter-pflegeheim-und-tierheim-betroffen-4623454",
+        "added": "2026-07-30"
+    },
+    {
         "date": "2026-07-05",
         "victim": "MSGás",
         "domain": "msgas.com.br",
