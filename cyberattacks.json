@@ -1,6 +1,17 @@
 [
     {
         "date": "2026-07-29",
+        "victim": "Universidade de Aveiro",
+        "domain": "ua.pt",
+        "country": "PRT",
+        "summary": "L'Université de Aveiro (UA) a détecté un accès non autorisé à ses systèmes d'information, entraînant l'exposition de données personnelles et institutionnelles. Le recteur a informé la communauté académique de cet incident et a demandé à tous les membres de changer leurs mots de passe, tout en recommandant des pratiques de sécurité renforcées. L'institution est en train d'évaluer l'étendue de la fuite et prend des mesures pour atténuer les dommages.",
+        "description": "",
+        "title": "UA foi alvo de ataque informático que “expôs dados pessoais e institucionais”",
+        "url": "https://radioria.pt/noticias/universidade/ua-foi-alvo-de-ataque-informatico-que-expos-dados-pessoais-e-institucionais",
+        "added": "2026-07-30"
+    },
+    {
+        "date": "2026-07-29",
         "victim": "Administrația Națională a Penitenciarelor (ANP)",
         "domain": "anp.gov.ro",
         "country": "ROU",
