@@ -432,6 +432,18 @@
         ]
     },
     {
+        "victim": "****.com.pa",
+        "domain": "****.com.pa.nodomain",
+        "country": "PA",
+        "timeline": [
+            {
+                "date": "2026-07-26",
+                "type": "claimed",
+                "group": "Section9"
+            }
+        ]
+    },
+    {
         "victim": "****.fr",
         "domain": "****.fr.nodomain",
         "country": "FR",
@@ -6371,6 +6383,18 @@
                 "date": "2023-03-02",
                 "type": "claimed",
                 "group": "8base"
+            }
+        ]
+    },
+    {
+        "victim": "Tong Kong E & E Sdn Bhd (95907X)",
+        "domain": "a.me",
+        "country": "MY",
+        "timeline": [
+            {
+                "date": "2026-07-24",
+                "type": "claimed",
+                "group": "Black X"
             }
         ]
     },
@@ -48677,6 +48701,18 @@
             {
                 "date": "2026-02-01",
                 "type": "reported"
+            }
+        ]
+    },
+    {
+        "victim": "Bretford Manufacturing",
+        "domain": "bretford.com",
+        "country": "US",
+        "timeline": [
+            {
+                "date": "2026-07-29",
+                "type": "claimed",
+                "group": "aurora"
             }
         ]
     },
@@ -138849,6 +138885,18 @@
         ]
     },
     {
+        "victim": "harwal.net",
+        "domain": "harwal.net",
+        "country": "AE",
+        "timeline": [
+            {
+                "date": "2026-07-29",
+                "type": "claimed",
+                "group": "incransom"
+            }
+        ]
+    },
+    {
         "victim": "harwoodlloyd.com",
         "domain": "harwoodlloyd.com",
         "country": "",
@@ -207438,6 +207486,17 @@
                 "date": "2026-07-25",
                 "type": "claimed",
                 "group": "blackwater"
+            },
+            {
+                "date": "2026-07-30",
+                "type": "discovered",
+                "summary": "La MSGás, compagnie de gaz de l'État de Mato Grosso do Sul, a notifié ses clients d'un incident de cybersécurité. Un attaque par ransomware a potentiellement exposé des données personnelles telles que le nom, le CPF et l'adresse. La compagnie a pris des mesures pour isoler les systèmes, révoquer les accès et a notifié l'ANPD (Autorité Nationale de Protection des Données). Elle recommande aux clients de rester vigilants face aux fraudes et aux tentatives d'ingénierie sociale. L'attaque a été revendiquée le 25 juillet par Blackwater.",
+                "title": "Ataque hacker pode ter exposto CPF e endereço de clientes da MSGás",
+                "url": "https://www.campograndenews.com.br/direto-das-ruas/ataque-hacker-pode-ter-exposto-cpf-e-endereco-de-clientes-da-msgas"
+            },
+            {
+                "date": "2026-07-05",
+                "type": "reported"
             }
         ]
     },
@@ -214181,6 +214240,17 @@
                 "date": "2026-06-18",
                 "type": "claimed",
                 "group": "incransom"
+            },
+            {
+                "date": "2026-07-30",
+                "type": "discovered",
+                "summary": "La société de logement communale de Neubrandenburg (Neuwoges) et ses filiales ont été touchées par une cyberattaque, entraînant la coupure de ses systèmes informatiques centraux. L'incident, survenu le 2 juin, a rendu l'entreprise et plusieurs de ses filiales, y compris une maison de soins et un refuge pour animaux, partiellement inaccessibles. Une cyberattaque a été revendiquée le 18 juin par INC Ransom.",
+                "title": "Cyber-Schock: Hacker legen Neuwoges lahm – Mieter, Pflegeheim und Tierheim betroffen",
+                "url": "https://www.nordkurier.de/regional/neubrandenburg/cyber-schock-hacker-legen-wohnungsunternehmen-lahm-mieter-pflegeheim-und-tierheim-betroffen-4623454"
+            },
+            {
+                "date": "2026-06-02",
+                "type": "reported"
             }
         ]
     },
@@ -218870,6 +218940,18 @@
                 "date": "2023-06-05",
                 "type": "claimed",
                 "group": "alphv"
+            }
+        ]
+    },
+    {
+        "victim": "Northwood Country Club",
+        "domain": "northwoodcountryclub.org",
+        "country": "US",
+        "timeline": [
+            {
+                "date": "2026-07-29",
+                "type": "claimed",
+                "group": "akira"
             }
         ]
     },
@@ -262846,6 +262928,18 @@
         ]
     },
     {
+        "victim": "sanaa hospital",
+        "domain": "sanaahospital.nodomain",
+        "country": "YE",
+        "timeline": [
+            {
+                "date": "2026-07-15",
+                "type": "claimed",
+                "group": "Black X"
+            }
+        ]
+    },
+    {
         "victim": "sanatoriodelta.com",
         "domain": "sanatoriodelta.com",
         "country": "CO",
@@ -276334,6 +276428,18 @@
         ]
     },
     {
+        "victim": "Sky Solutions",
+        "domain": "skysolutions.com.pa",
+        "country": "PA",
+        "timeline": [
+            {
+                "date": "2026-06-25",
+                "type": "claimed",
+                "group": "insomnia"
+            }
+        ]
+    },
+    {
         "victim": "skystar.it",
         "domain": "skystar.it",
         "country": "IT",
@@ -284897,6 +285003,18 @@
         "timeline": [
             {
                 "date": "2026-06-02",
+                "type": "claimed",
+                "group": "spacebears"
+            }
+        ]
+    },
+    {
+        "victim": "StellarRAD Systems",
+        "domain": "stellarrad.com",
+        "country": "US",
+        "timeline": [
+            {
+                "date": "2026-07-29",
                 "type": "claimed",
                 "group": "spacebears"
             }
@@ -324766,6 +324884,18 @@
                 "date": "2025-05-01",
                 "type": "claimed",
                 "group": "medusa"
+            }
+        ]
+    },
+    {
+        "victim": "Weilhotel",
+        "domain": "weilhotel.com",
+        "country": "MY",
+        "timeline": [
+            {
+                "date": "2026-07-29",
+                "type": "claimed",
+                "group": "gunra"
             }
         ]
     },
