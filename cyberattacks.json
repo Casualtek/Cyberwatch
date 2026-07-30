@@ -1,5 +1,16 @@
 [
     {
+        "date": "2026-07-05",
+        "victim": "MSGás",
+        "domain": "msgas.com.br",
+        "country": "BRA",
+        "summary": "La MSGás, compagnie de gaz de l'État de Mato Grosso do Sul, a notifié ses clients d'un incident de cybersécurité. Un attaque par ransomware a potentiellement exposé des données personnelles telles que le nom, le CPF et l'adresse. La compagnie a pris des mesures pour isoler les systèmes, révoquer les accès et a notifié l'ANPD (Autorité Nationale de Protection des Données). Elle recommande aux clients de rester vigilants face aux fraudes et aux tentatives d'ingénierie sociale. L'attaque a été revendiquée le 25 juillet par Blackwater.",
+        "description": "",
+        "title": "Ataque hacker pode ter exposto CPF e endereço de clientes da MSGás",
+        "url": "https://www.campograndenews.com.br/direto-das-ruas/ataque-hacker-pode-ter-exposto-cpf-e-endereco-de-clientes-da-msgas",
+        "added": "2026-07-30"
+    },
+    {
         "date": "2026-07-29",
         "victim": "Universidade de Aveiro",
         "domain": "ua.pt",
