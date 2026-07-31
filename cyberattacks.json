@@ -1,5 +1,16 @@
 [
     {
+        "date": "2026-07-17",
+        "victim": "Borough Council of King's Lynn and West Norfolk",
+        "domain": "west-norfolk.gov.uk",
+        "country": "GBR",
+        "summary": "Le conseil municipal de King's Lynn and West Norfolk a subi une cyberattaque le 17 juillet, alors que le personnel comptait les votes pour une élection locale. Bien que l'incident ait affecté temporairement les services du conseil, les enquêtes n'ont révélé aucune preuve que des données aient été consultées ou volées. L'attaque a été signalée au National Cyber Security Centre (NCSC) et a été rapidement contenue. L'incident n'a pas entravé le décompte électoral.",
+        "description": "",
+        "title": "West Norfolk Council suffered cyber attack on PCC election day",
+        "url": "https://www.bbc.com/news/articles/c4gk85ey55yo",
+        "added": "2026-07-31"
+    },
+    {
         "date": "2026-06-23",
         "victim": "Analog Devices",
         "domain": "analog.com",
