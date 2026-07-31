@@ -1,5 +1,16 @@
 [
     {
+        "date": "2026-06-23",
+        "victim": "Analog Devices",
+        "domain": "analog.com",
+        "country": "USA",
+        "summary": "Le fabricant de semi-conducteurs Analog Devices a signalé une cyberattaque. Une enquête a révélé que des attaquants ont accédé sans autorisation à certains systèmes de l'entreprise et ont volé des fichiers à partir du 23 juin. L'entreprise a également mentionné un incident de sécurité séparé, signalé le 26 juillet, impliquant potentiellement le groupe de rançongiclage ExfilSquad, qui prétend avoir volé 570 000 enregistrements de données. Analog Devices n'a pas encore précisé la nature des informations compromises, mais estime que l'incident n'aura pas d'impact majeur sur ses opérations.",
+        "description": "",
+        "title": "Nach Hackerangriff: Analog Devices meldet Datenschutzverletzung",
+        "url": "https://www.it-daily.net/shortnews/hackerangriff-analog-devices",
+        "added": "2026-07-31"
+    },
+    {
         "date": "2026-07-15",
         "victim": "Döbeln",
         "domain": "doebeln.de",
