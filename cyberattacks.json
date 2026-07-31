@@ -1,5 +1,16 @@
 [
     {
+        "date": "2026-07-24",
+        "victim": "Oceanside Unified School District",
+        "domain": "oside.us",
+        "country": "USA",
+        "summary": "Le District Scolaire Unifié d'Oceanside (OUSD) a été victime d'une grave cyberattaque. L'incident a été découvert le 24 juillet et les systèmes informatiques, y compris le courriel, Internet et les systèmes clés, sont restés hors ligne pendant que les spécialistes en cybersécurité enquêtaient. L'attaque, qui a potentiellement affecté les données de l'un des plus grands employeurs de la ville, a été signalée au FBI. La restauration complète des services pourrait prendre jusqu'à deux semaines, et l'attaque a également soulevé des préoccupations concernant les informations potentiellement compromises sur le personnel militaire présent dans trois des écoles du district.",
+        "description": "",
+        "title": "Cyberattack targets Oceanside Unified",
+        "url": "https://ncpipeline.substack.com/p/cyberattack-targets-oceanside-unified",
+        "added": "2026-07-31"
+    },
+    {
         "date": "2026-07-15",
         "victim": "Advanced Procurement for Universities and Colleges (APUC)",
         "domain": "apuc-scot.ac.uk",
