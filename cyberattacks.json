@@ -1,5 +1,16 @@
 [
     {
+        "date": "2026-07-31",
+        "victim": "Rapid City",
+        "domain": "rcgov.org",
+        "country": "USA",
+        "summary": "Rapid City, South Dakota, a été victime d'une tentative d'intrusion cybernétique sur une station de relevage des eaux usées le 31 juillet, alors que les systèmes d'eau et d'eaux usées sont restés sûrs. L'incident survient dans le contexte d'un avertissement national concernant les attaques sur les contrôleurs industriels connectés à Internet utilisés par les services aquatiques. La ville travaille avec les agences fédérales. Séparément, le gouvernement du comté de Pennington a signalé un incident de cybersécurité plus tôt en juillet, qui avait temporairement affecté les paiements en ligne et le traitement des permis de construire, mais sans signe de compromission des systèmes.",
+        "description": "",
+        "title": "Rapid City, South Dakota, reports cyber incident at wastewater lift station",
+        "url": "https://dysruptionhub.com/rapid-city-wastewater-cyber-incident/",
+        "added": "2026-07-31"
+    },
+    {
         "date": "2026-07-24",
         "victim": "Oceanside Unified School District",
         "domain": "oside.us",
