@@ -1,5 +1,16 @@
 [
     {
+        "date": "2026-07-31",
+        "victim": "Oldelval",
+        "domain": "oldelval.com",
+        "country": "ARG",
+        "summary": "Oldelval, la société qui exploite le principal réseau de pipelines d'Argentine, a signalé un incident de cybersécurité affectant ses systèmes administratifs. Cet incident s'est produit alors que la société était en pleine expansion. Malgré l'impact, Oldelval a assuré que l'opération de transport de pétrole brut n'a pas été perturbée. L'incident souligne la vulnérabilité croissante des infrastructures énergétiques critiques face aux cyberattaques.",
+        "description": "",
+        "title": "Alerta en Vaca Muerta por ciberataque que puso a prueba la seguridad del mayor oleoducto del país",
+        "url": "https://www.iprofesional.com/negocios/461285-alerta-vaca-muerta-por-ciberataque-puso-a-prueba-seguridad-mayor-oleoducto-argentina",
+        "added": "2026-08-01"
+    },
+    {
         "date": "2026-06-19",
         "victim": "Badisches Landesmuseum",
         "domain": "landesmuseum.de",
