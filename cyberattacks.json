@@ -1,6 +1,17 @@
 [
     {
         "date": "2026-07-31",
+        "victim": "Université Masaryk",
+        "domain": "muni.cz",
+        "country": "CZE",
+        "summary": "L'Université Masaryk a été victime d'un incident de cybersécurité ayant affecté une partie de son infrastructure informatique. L'incident est géré depuis sa découverte par des experts en collaboration avec la police et l'agence NÚKIB. Les opérations normales de l'université, ainsi que les services aux étudiants et la recherche, n'ont subi aucun impact.",
+        "description": "",
+        "title": "Ještě zbývá jeden krok",
+        "url": "https://www.irozhlas.cz/zpravy-domov/kyberneticky-utok-na-masarykovu-univerzitu-vysoka-skola-v-brne-zjistuje-dopady-a_2607311423_zko",
+        "added": "2026-08-01"
+    },
+    {
+        "date": "2026-07-31",
         "victim": "Oldelval",
         "domain": "oldelval.com",
         "country": "ARG",
