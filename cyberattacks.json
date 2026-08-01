@@ -1,5 +1,16 @@
 [
     {
+        "date": "2026-06-19",
+        "victim": "Badisches Landesmuseum",
+        "domain": "landesmuseum.de",
+        "country": "DEU",
+        "summary": "Le Badische Landesmuseum de Karlsruhe a été victime d'une cyberattaque dont les conséquences ont été découvertes le 19 juin 2026. L'attaque a entraîné le vol de données (professionnelles et personnelles) de membres du personnel, de partenaires et de visiteurs. Pour endiguer le dommage, l'infrastructure informatique a été immédiatement mise hors service. Le musée a déposé plainte et collabore avec les autorités compétentes pour gérer la crise et restaurer les systèmes.",
+        "description": "",
+        "title": "Cyberangriff auf das Badische Landesmuseum in Karlsruhe",
+        "url": "https://www.swr.de/swraktuell/baden-wuerttemberg/karlsruhe/cyber-angriff-badisches-landesmuseum-karlsruhe-100.html",
+        "added": "2026-08-01"
+    },
+    {
         "date": "2026-07-31",
         "victim": "Rapid City",
         "domain": "rcgov.org",
