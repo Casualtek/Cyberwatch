@@ -1,6 +1,17 @@
 [
     {
         "date": "2026-07-31",
+        "victim": "Amgen",
+        "domain": "amgen.com",
+        "country": "USA",
+        "summary": "Amgen, une société pharmaceutique basée en Californie, a confirmé avoir subi une violation de données. Des acteurs malveillants ont volé des données corporatives et des informations de patients stockées dans divers systèmes cloud gérés par des fournisseurs tiers. L'activité non autorisée a été détectée en juillet 2026. L'entreprise enquête toujours sur l'étendue exacte des données compromises, y compris les informations de santé protégées des patients et les données de propriété intellectuelle.",
+        "description": "",
+        "title": "Amgen says cloud data breach exposed patient health, proprietary info",
+        "url": "https://www.bleepingcomputer.com/news/security/amgen-says-cloud-data-breach-exposed-patient-health-proprietary-info/",
+        "added": "2026-08-01"
+    },
+    {
+        "date": "2026-07-31",
         "victim": "Université Masaryk",
         "domain": "muni.cz",
         "country": "CZE",
