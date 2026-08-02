@@ -54815,6 +54815,18 @@
         ]
     },
     {
+        "victim": "Cambridge Management",
+        "domain": "cambridgemgmt.net",
+        "country": "US",
+        "timeline": [
+            {
+                "date": "2026-08-01",
+                "type": "claimed",
+                "group": "play"
+            }
+        ]
+    },
+    {
         "victim": "CAMRIDGEPORT",
         "domain": "cambridgeport.com",
         "country": "US",
@@ -60939,6 +60951,18 @@
         ]
     },
     {
+        "victim": "CEN and Cenelec",
+        "domain": "cencenelec.eu",
+        "country": "BE",
+        "timeline": [
+            {
+                "date": "2026-08-01",
+                "type": "claimed",
+                "group": "coinbasecartel"
+            }
+        ]
+    },
+    {
         "victim": "Cencora Inc",
         "domain": "cencora.com",
         "country": "US",
@@ -61733,6 +61757,18 @@
         ]
     },
     {
+        "victim": "Ceragres",
+        "domain": "ceragres.ca",
+        "country": "CA",
+        "timeline": [
+            {
+                "date": "2026-08-01",
+                "type": "claimed",
+                "group": "qilin"
+            }
+        ]
+    },
+    {
         "victim": "CERALP",
         "domain": "ceralp.fr",
         "country": "FR",
@@ -62287,6 +62323,18 @@
                 "date": "2023-07-17",
                 "type": "claimed",
                 "group": "clop"
+            }
+        ]
+    },
+    {
+        "victim": "Commercial Furniture Interiors",
+        "domain": "cfioffice.com",
+        "country": "US",
+        "timeline": [
+            {
+                "date": "2026-08-01",
+                "type": "claimed",
+                "group": "qilin"
             }
         ]
     },
@@ -90139,6 +90187,18 @@
                 "date": "2024-11-25",
                 "type": "claimed",
                 "group": "ransomhub"
+            }
+        ]
+    },
+    {
+        "victim": "Dienst Pack Systems",
+        "domain": "dienst-packsystems.de",
+        "country": "DE",
+        "timeline": [
+            {
+                "date": "2026-08-01",
+                "type": "claimed",
+                "group": "qilin"
             }
         ]
     },
@@ -194134,6 +194194,18 @@
         ]
     },
     {
+        "victim": "M. B. Kahn Construction Co.",
+        "domain": "mbkahn.com",
+        "country": "US",
+        "timeline": [
+            {
+                "date": "2026-08-01",
+                "type": "claimed",
+                "group": "coinbasecartel"
+            }
+        ]
+    },
+    {
         "victim": "Miller Boskus Lack Architects",
         "domain": "mbl-arch.com",
         "country": "US",
@@ -202763,6 +202835,18 @@
         ]
     },
     {
+        "victim": "MIM Fertility",
+        "domain": "mimfertility.ai",
+        "country": "GB",
+        "timeline": [
+            {
+                "date": "2026-08-01",
+                "type": "claimed",
+                "group": "coinbasecartel"
+            }
+        ]
+    },
+    {
         "victim": "www.mims.com",
         "domain": "mims.com",
         "country": "SN",
@@ -208586,6 +208670,18 @@
                 "date": "2024-12-23",
                 "type": "assessed",
                 "group": "incransom"
+            }
+        ]
+    },
+    {
+        "victim": "MTCO (Mahmoud Altaheni & Partners Trading Co)",
+        "domain": "mtest.com.sa",
+        "country": "SA",
+        "timeline": [
+            {
+                "date": "2026-08-01",
+                "type": "claimed",
+                "group": "Gammax"
             }
         ]
     },
@@ -240440,6 +240536,18 @@
         ]
     },
     {
+        "victim": "Pointe Property Group",
+        "domain": "pointecre.com",
+        "country": "US",
+        "timeline": [
+            {
+                "date": "2026-08-01",
+                "type": "claimed",
+                "group": "qilin"
+            }
+        ]
+    },
+    {
         "victim": "Point Four EPoS Solutions",
         "domain": "pointfour.co.uk",
         "country": "GB",
@@ -246494,7 +246602,7 @@
         ]
     },
     {
-        "victim": "Philippine Savings Bank (Metrobank Group)",
+        "victim": "Philippine Savings Bank",
         "domain": "psbank.com.ph",
         "country": "PH",
         "timeline": [
@@ -246502,6 +246610,11 @@
                 "date": "2026-01-28",
                 "type": "claimed",
                 "group": "qilin"
+            },
+            {
+                "date": "2026-08-01",
+                "type": "claimed",
+                "group": "thegentlemen"
             }
         ]
     },
@@ -248763,12 +248876,17 @@
     {
         "victim": "quantinuum.com",
         "domain": "quantinuum.com",
-        "country": "",
+        "country": "US",
         "timeline": [
             {
                 "date": "2023-09-04",
                 "type": "claimed",
                 "group": "ransomed"
+            },
+            {
+                "date": "2026-08-01",
+                "type": "claimed",
+                "group": "incransom"
             }
         ]
     },
@@ -265456,6 +265574,18 @@
         ]
     },
     {
+        "victim": "The Saturday Evening Post",
+        "domain": "saturdayeveningpost.com",
+        "country": "US",
+        "timeline": [
+            {
+                "date": "2026-08-01",
+                "type": "claimed",
+                "group": "qilin"
+            }
+        ]
+    },
+    {
         "victim": "Saturn Industries",
         "domain": "saturnind.com",
         "country": "CA",
@@ -267346,6 +267476,18 @@
                 "date": "2023-03-11",
                 "type": "claimed",
                 "group": "lockbit3"
+            }
+        ]
+    },
+    {
+        "victim": "Schreiner Trockenbau GmbH",
+        "domain": "schreiner-trockenbau.at",
+        "country": "AT",
+        "timeline": [
+            {
+                "date": "2026-08-01",
+                "type": "claimed",
+                "group": "qilin"
             }
         ]
     },
@@ -274863,6 +275005,18 @@
                 "date": "2026-06-15",
                 "type": "claimed",
                 "group": "thegentlemen"
+            }
+        ]
+    },
+    {
+        "victim": "Sigma Plastics Group",
+        "domain": "sigmaplasticsgroup.com",
+        "country": "US",
+        "timeline": [
+            {
+                "date": "2026-08-01",
+                "type": "claimed",
+                "group": "play"
             }
         ]
     },
@@ -299160,6 +299314,18 @@
         ]
     },
     {
+        "victim": "The Butcher Brothers",
+        "domain": "thebutcherbrotherscorp.com",
+        "country": "US",
+        "timeline": [
+            {
+                "date": "2026-08-01",
+                "type": "claimed",
+                "group": "play"
+            }
+        ]
+    },
+    {
         "victim": "The Catered Affair",
         "domain": "thecateredaffair.com",
         "country": "US",
@@ -311658,6 +311824,17 @@
             {
                 "date": "2024-10-03",
                 "type": "reported"
+            },
+            {
+                "date": "2026-08-02",
+                "type": "discovered",
+                "summary": "Le samedi, les sites web de 10 départements de l'état d'Uttarakhand, dont le Fonds de secours du chef du gouvernement (CM Relief Fund), ont été victimes d'une attaque par logiciel malveillant (malware). L'attaque a forcé la fermeture des sites. Après plusieurs heures d'efforts, l'ITDA a réussi à rétablir le service en utilisant les sauvegardes. Bien que l'attaque ait été détectée et gérée, le site du Fonds de secours du chef du gouvernement n'était toujours pas opérationnel au moment de la rédaction de l'article. L'attaque pourrait être liée à un logiciel malveillant russe, mais cela n'est pas confirmé.",
+                "title": "Dehradun News: सीएम रिलीफ फंड समेत 10 विभागों की वेबसाइट पर हुआ साइबर हमला",
+                "url": "https://www.amarujala.com/amp/dehradun/cyberattack-on-websites-of-10-departments-including-the-cm-relief-fund-dehradun-news-c-5-hld1006-1032278-2026-08-02"
+            },
+            {
+                "date": "2026-08-01",
+                "type": "reported"
             }
         ]
     },
@@ -318795,6 +318972,18 @@
                 "date": "2026-01-11",
                 "type": "claimed",
                 "group": "sinobi"
+            }
+        ]
+    },
+    {
+        "victim": "Vernon & Waldrep",
+        "domain": "vernonwaldrep.com",
+        "country": "US",
+        "timeline": [
+            {
+                "date": "2026-08-01",
+                "type": "claimed",
+                "group": "Global Secret Group"
             }
         ]
     },
@@ -333347,6 +333536,18 @@
                 "date": "2026-01-27",
                 "type": "assessed",
                 "group": "lockbit5"
+            }
+        ]
+    },
+    {
+        "victim": "Xs Cad",
+        "domain": "xscad.com",
+        "country": "GB",
+        "timeline": [
+            {
+                "date": "2026-08-01",
+                "type": "claimed",
+                "group": "coinbasecartel"
             }
         ]
     },
