@@ -1,5 +1,16 @@
 [
     {
+        "date": "2026-08-01",
+        "victim": "Uttarakhand",
+        "domain": "uk.gov.in",
+        "country": "IND",
+        "summary": "Le samedi, les sites web de 10 départements de l'état d'Uttarakhand, dont le Fonds de secours du chef du gouvernement (CM Relief Fund), ont été victimes d'une attaque par logiciel malveillant (malware). L'attaque a forcé la fermeture des sites. Après plusieurs heures d'efforts, l'ITDA a réussi à rétablir le service en utilisant les sauvegardes. Bien que l'attaque ait été détectée et gérée, le site du Fonds de secours du chef du gouvernement n'était toujours pas opérationnel au moment de la rédaction de l'article. L'attaque pourrait être liée à un logiciel malveillant russe, mais cela n'est pas confirmé.",
+        "description": "",
+        "title": "Dehradun News: सीएम रिलीफ फंड समेत 10 विभागों की वेबसाइट पर हुआ साइबर हमला",
+        "url": "https://www.amarujala.com/amp/dehradun/cyberattack-on-websites-of-10-departments-including-the-cm-relief-fund-dehradun-news-c-5-hld1006-1032278-2026-08-02",
+        "added": "2026-08-02"
+    },
+    {
         "date": "2026-07-30",
         "victim": "Southeastern Oklahoma State University",
         "domain": "se.edu",
