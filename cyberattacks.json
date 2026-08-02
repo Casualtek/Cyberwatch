@@ -1,6 +1,17 @@
 [
     {
         "date": "2026-08-01",
+        "victim": "Metro de Panamá",
+        "domain": "elmetrodepanama.com",
+        "country": "PAN",
+        "summary": "Le Metro de Panamá a confirmé la détection d'un incident de cybersécurité dans une partie de son infrastructure technologique. L'institution a activé ses protocoles de réponse pour contenir les éventuelles affectations et mène une enquête technique pour déterminer l'étendue de l'incident.",
+        "description": "",
+        "title": "Alerta en el Metro de Panamá por ataque cibernético",
+        "url": "https://elsiglo.com.pa/panama/nacionales/alerta-en-el-metro-de-panama-por-ataque-cibernetico-MH24543348",
+        "added": "2026-08-02"
+    },
+    {
+        "date": "2026-08-01",
         "victim": "Uttarakhand",
         "domain": "uk.gov.in",
         "country": "IND",
