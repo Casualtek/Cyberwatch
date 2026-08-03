@@ -1,5 +1,16 @@
 [
     {
+        "date": "2026-07-28",
+        "victim": "Accesso Technology Group",
+        "domain": "accesso.com",
+        "country": "GBR",
+        "summary": "Accesso Technology Group a confirmé avoir récemment subi un incident de sécurité informatique impliquant un accès non autorisé temporaire à une section limitée de ses systèmes internes. L'entreprise a précisé que cet événement n'a pas entraîné de pannes de système ni de perturbations significatives de ses opérations ou services clients. L'incident a été rapidement contenu et l'entreprise a activé ses procédures de réponse à incident cybernétique, engageant des spécialistes externes. Aucune activité suspecte n'a été détectée depuis l'incident.",
+        "description": "",
+        "title": "Accesso Confirms Cyber Incident Was Contained with Minimal Business Disruption",
+        "url": "https://uk.finance.yahoo.com/news/accesso-confirms-cyber-incident-contained-065621710.html",
+        "added": "2026-08-03"
+    },
+    {
         "date": "2026-03-11",
         "victim": "Marutaka Kogyo",
         "domain": "marutaka-kogyo.co.jp",
