@@ -1,5 +1,16 @@
 [
     {
+        "date": "2026-03-15",
+        "victim": "Sage Water Resources (SWR)",
+        "domain": "sagenergypartners.com",
+        "country": "USA",
+        "summary": "Sage Water Resources (SWR) a, fournisseur d'infrastructures et de gestion de l'eau appartenant à la tribu amérindienne, a détecté une activité non autorisée sur son système PLC le 15 mars 2026. Une analyse forensique a confirmé qu'il s'agissait d'une manipulation logique malveillante opérée par un acteur étatique avancé. Grâce à la vigilance de ses équipes, l'incident a été atténué avant de causer des dommages physiques ou environnementaux. SWR a depuis renforcé considérablement sa sécurité réseau, passant d'une configuration héritée à une configuration PLC/VPN de pointe.",
+        "description": "",
+        "title": "SAGE ENERGY PARTNERS WHOLLY OWNED SUBSIDIARY SAGE WATER RESOURCES ANNOUNCES SUCCESSFUL RECOVERY AND ENHANCED CYBERSECURITY HARDENING OF UINTA BASIN INFRASTRUCTURE FOLLOWING TARGETED GEOPOLITICAL CYBER INCIDENT | The AI Journal",
+        "url": "https://aijourn.com/sage-energy-partners-wholly-owned-subsidiary-sage-water-resources-announces-successful-recovery-and-enhanced-cybersecurity-hardening-of-uinta-basin-infrastructure-following-targeted-geopolitical-cyber/",
+        "added": "2026-08-03"
+    },
+    {
         "date": "2026-03-04",
         "victim": "Passaic County",
         "domain": "passaiccountynj.org",
