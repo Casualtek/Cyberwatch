@@ -3733,6 +3733,18 @@
         ]
     },
     {
+        "victim": "INTERTRUST AUSTRALIA PTY LTD",
+        "domain": "INTERTRUSTAUSTRALIAPTYLTD.nodomain",
+        "country": "AU",
+        "timeline": [
+            {
+                "date": "2026-08-02",
+                "type": "claimed",
+                "group": "qilin"
+            }
+        ]
+    },
+    {
         "victim": "IPPBX ",
         "domain": "IPPBX.nodomain",
         "country": "US",
@@ -16604,6 +16616,18 @@
         ]
     },
     {
+        "victim": "Alcon Inc.",
+        "domain": "alcon.com",
+        "country": "CH",
+        "timeline": [
+            {
+                "date": "2026-08-02",
+                "type": "claimed",
+                "group": "shinyhunters"
+            }
+        ]
+    },
+    {
         "victim": "Granja Alconca CA",
         "domain": "alconca.com.ve",
         "country": "VE",
@@ -29048,6 +29072,18 @@
                 "date": "2025-09-27",
                 "type": "claimed",
                 "group": "dragonforce"
+            }
+        ]
+    },
+    {
+        "victim": "Asset Flooring Group Australia",
+        "domain": "assetflooring.com.au",
+        "country": "AU",
+        "timeline": [
+            {
+                "date": "2026-08-02",
+                "type": "claimed",
+                "group": "qilin"
             }
         ]
     },
@@ -52732,6 +52768,18 @@
                 "date": "2023-09-27",
                 "type": "claimed",
                 "group": "dispossessor"
+            }
+        ]
+    },
+    {
+        "victim": "www.buzztrading104.co.za",
+        "domain": "buzztrading104.co.za",
+        "country": "ZA",
+        "timeline": [
+            {
+                "date": "2026-08-02",
+                "type": "claimed",
+                "group": "krybit"
             }
         ]
     },
@@ -78067,6 +78115,18 @@
         ]
     },
     {
+        "victim": "countrymotors.com.mx",
+        "domain": "countrymotors.com.mx",
+        "country": "MX",
+        "timeline": [
+            {
+                "date": "2026-08-02",
+                "type": "claimed",
+                "group": "krybit"
+            }
+        ]
+    },
+    {
         "victim": "countryvillahealth.com",
         "domain": "countryvillahealth.com",
         "country": "US",
@@ -85766,6 +85826,18 @@
                 "date": "2026-07-31",
                 "type": "claimed",
                 "group": "qilin"
+            }
+        ]
+    },
+    {
+        "victim": "www.dcpartner.co.za",
+        "domain": "dcpartner.co.za",
+        "country": "ZA",
+        "timeline": [
+            {
+                "date": "2026-08-02",
+                "type": "claimed",
+                "group": "krybit"
             }
         ]
     },
@@ -94498,6 +94570,29 @@
         "timeline": []
     },
     {
+        "victim": "Mairie de Drancy",
+        "domain": "drancy.fr",
+        "country": "FR",
+        "timeline": [
+            {
+                "date": "2026-08-02",
+                "type": "claimed",
+                "group": "qilin"
+            },
+            {
+                "date": "2026-07-22",
+                "type": "discovered",
+                "summary": "La Ville de Drancy a été victime d'une cyberattaque par rançongiciel (ransomware), entraînant un dysfonctionnement de ses systèmes municipaux. L'attaque a été détectée le 3 juillet 2026. La ville a refusé de payer la rançon et travaille actuellement avec l'ANSSI pour reconstruire les systèmes à partir de sauvegardes saines. Le maire a averti les habitants que des fuites de données personnelles sont probables, et que les services publics sont actuellement dégradés et ralentis.",
+                "title": "Une rançon en bitcoins : Drancy visée par une cyberattaque, les données personnelles des habitants menacées ?",
+                "url": "https://actu.fr/ile-de-france/drancy_93029/une-rancon-en-bitcoins-drancy-visee-par-une-cyberattaque-les-donnees-personnelles-des-habitants-menacees_64569472.html"
+            },
+            {
+                "date": "2026-07-03",
+                "type": "reported"
+            }
+        ]
+    },
+    {
         "victim": "Draneas Huglin Dooley LLC",
         "domain": "draneaslaw.com",
         "country": "US",
@@ -98733,6 +98828,18 @@
                 "date": "2026-07-06",
                 "type": "claimed",
                 "group": "thegentlemen"
+            }
+        ]
+    },
+    {
+        "victim": "ecfa.org",
+        "domain": "ecfa.org",
+        "country": "US",
+        "timeline": [
+            {
+                "date": "2026-08-02",
+                "type": "claimed",
+                "group": "incransom"
             }
         ]
     },
@@ -103829,6 +103936,18 @@
                 "date": "2023-09-26",
                 "type": "claimed",
                 "group": "losttrust"
+            }
+        ]
+    },
+    {
+        "victim": "Encore Enterprises, Inc.",
+        "domain": "encore.bz",
+        "country": "US",
+        "timeline": [
+            {
+                "date": "2026-08-02",
+                "type": "claimed",
+                "group": "CRPxO"
             }
         ]
     },
@@ -187185,6 +187304,18 @@
         ]
     },
     {
+        "victim": "Lumenis Ltd.",
+        "domain": "lumenis.com",
+        "country": "IL",
+        "timeline": [
+            {
+                "date": "2026-08-02",
+                "type": "claimed",
+                "group": "shinyhunters"
+            }
+        ]
+    },
+    {
         "victim": "Lumexa Imaging",
         "domain": "lumexaimaging.com",
         "country": "US",
@@ -206945,6 +207076,18 @@
         ]
     },
     {
+        "victim": "Moses & Singer",
+        "domain": "mosessinger.com",
+        "country": "US",
+        "timeline": [
+            {
+                "date": "2026-08-02",
+                "type": "claimed",
+                "group": "SilentRansomGroup"
+            }
+        ]
+    },
+    {
         "victim": "Murnane & O'Shea",
         "domain": "mosgroup.ie",
         "country": "IE",
@@ -217012,6 +217155,18 @@
                 "date": "2023-06-22",
                 "type": "claimed",
                 "group": "alphv"
+            }
+        ]
+    },
+    {
+        "victim": "nigeria.asa-international.com",
+        "domain": "nigeria.asa-international.com",
+        "country": "NG",
+        "timeline": [
+            {
+                "date": "2026-08-02",
+                "type": "claimed",
+                "group": "krybit"
             }
         ]
     },
@@ -245401,6 +245556,18 @@
         ]
     },
     {
+        "victim": "www.prohealth.sg",
+        "domain": "prohealth.sg",
+        "country": "SG",
+        "timeline": [
+            {
+                "date": "2026-08-02",
+                "type": "claimed",
+                "group": "krybit"
+            }
+        ]
+    },
+    {
         "victim": "project1631.com",
         "domain": "project1631.com",
         "country": "ES",
@@ -249068,6 +249235,18 @@
                 "date": "2024-08-15",
                 "type": "assessed",
                 "group": "ransomhub"
+            }
+        ]
+    },
+    {
+        "victim": "Questel SAS",
+        "domain": "questel.com",
+        "country": "FR",
+        "timeline": [
+            {
+                "date": "2026-08-02",
+                "type": "claimed",
+                "group": "shinyhunters"
             }
         ]
     },
@@ -320473,6 +320652,18 @@
         ]
     },
     {
+        "victim": "www.ville-rinxent.fr",
+        "domain": "ville-rinxent.fr",
+        "country": "FR",
+        "timeline": [
+            {
+                "date": "2026-08-02",
+                "type": "claimed",
+                "group": "krybit"
+            }
+        ]
+    },
+    {
         "victim": "La ville du Robert",
         "domain": "ville-robert.fr",
         "country": "MQ",
@@ -330148,6 +330339,18 @@
                 "date": "2024-12-15",
                 "type": "assessed",
                 "group": "lynx"
+            }
+        ]
+    },
+    {
+        "victim": "Wire Products",
+        "domain": "wireproducts.us",
+        "country": "US",
+        "timeline": [
+            {
+                "date": "2026-08-02",
+                "type": "claimed",
+                "group": "qilin"
             }
         ]
     },
