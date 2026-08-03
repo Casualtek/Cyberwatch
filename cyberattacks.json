@@ -1,5 +1,16 @@
 [
     {
+        "date": "2026-07-23",
+        "victim": "Municipalité de Saint-Noël",
+        "domain": "st-noel.com",
+        "country": "CAN",
+        "summary": "La station d’eau potable de la municipalité de Saint-Noël a été victime d'une cyberattaque russe le 23 juillet. L'attaque, qui visait les infrastructures essentielles canadiennes, a été détectée par un employé municipal. Grâce à l'intervention rapide et en collaboration avec la MRC de La Matapédia, le système a été rétabli. La municipalité confirme que la santé et la sécurité du public n'ont pas été compromises et que le fonctionnement est revenu à la normale.",
+        "description": "",
+        "title": "La station d'eau potable de Saint-Noël fut prise d'assaut par une cyberattaque russe - Ma Gaspésie",
+        "url": "https://magaspesie.ca/2026/07/31/la-station-deau-potable-de-saint-noel-fut-ciblee-par-une-cyberattaque-russe/",
+        "added": "2026-08-03"
+    },
+    {
         "date": "2026-08-02",
         "victim": "Magyar Államkincstár",
         "domain": "allamkincstar.gov.hu",
