@@ -1,5 +1,16 @@
 [
     {
+        "date": "2026-03-11",
+        "victim": "Marutaka Kogyo",
+        "domain": "marutaka-kogyo.co.jp",
+        "country": "JPN",
+        "summary": "La société Marutaka Kogyo a annoncé qu'à la suite d'une attaque par ransomware survenue le 11 mars 2026, des pirates avaient pénétré dans son réseau interne via un équipement VPN et attaqué plusieurs serveurs. Les pirates ont créé un compte administrateur non autorisé, chiffré les données stockées sur les serveurs et supprimé une partie des journaux système. L'enquête informatique légale a révélé qu'au moins 1,5 Go de données auraient pu faire l'objet d'une fuite. Les informations concernées comprennent les noms des entreprises clientes, les noms des interlocuteurs, les adresses, les numéros de téléphone, les adresses e-mail ainsi que l'historique des commandes et des livraisons. Toutefois, à ce stade, aucun fait attestant d'un vol effectif de données à caractère personnel ni d'une utilisation frauduleuse n'a été confirmé.",
+        "description": "",
+        "title": "丸高興業にランサムウェアによるサイバー攻撃、VPN経由で侵入し1.5GBの情報漏えいのおそれ|セキュリティニュースのセキュリティ対策Lab",
+        "url": "https://rocket-boys.co.jp/security-measures-lab/marutaka-kogyo-vpn-ransomware-attack-information-leak/",
+        "added": "2026-08-03"
+    },
+    {
         "date": "2026-07-23",
         "victim": "Municipalité de Saint-Noël",
         "domain": "st-noel.com",
