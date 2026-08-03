@@ -1,5 +1,16 @@
 [
     {
+        "date": "2026-08-02",
+        "victim": "Magyar Államkincstár",
+        "domain": "allamkincstar.gov.hu",
+        "country": "HUN",
+        "summary": "Le Magyar Államkincstár (Trésor d'État hongrois) a été victime d'une cyberattaque ciblant le réseau informatique de son service agricole et de développement rural (Nemzeti Kifizető Ügynökség). L'incident a été détecté et les serveurs infectés ont été isolés. Les autorités compétentes, dont le Centre National de Cybersécurité, mènent une enquête. Bien que l'attaque provienne de serveurs russes, aucune perte de données n'est actuellement confirmée, et les données des clients gérés par le Trésor n'ont pas été touchées. Cependant, les postes de travail des utilisateurs internes ont été compromis.",
+        "description": "",
+        "title": "Orosz hackereket sejtenek a Magyar Államkincstár szervereit ért támadás mögött",
+        "url": "https://444.hu/2026/08/02/orosz-hackereket-sejtenek-a-magyar-allamkincstar-szervereit-ert-tamadas-mogott",
+        "added": "2026-08-03"
+    },
+    {
         "date": "2026-08-01",
         "victim": "Metro de Panamá",
         "domain": "elmetrodepanama.com",
