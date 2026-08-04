@@ -1,6 +1,17 @@
 [
     {
         "date": "2026-08-03",
+        "victim": "PharmaEssentia Corp.",
+        "domain": "pharmaessentia.com",
+        "country": "TWN",
+        "summary": "La société PharmaEssentia et sa filiale Panco Healthcare Co., Ltd. ont été victimes d'une cyberattaque ayant touché certains de leurs systèmes d'information. Selon les premières évaluations de l'entreprise, cet incident n'a pas d'impact significatif sur ses opérations. Pour y remédier, la société a activé ses mécanismes de défense, fait appel à des experts externes en cybersécurité et informé les autorités compétentes.",
+        "description": "",
+        "title": "Today's Information",
+        "url": "https://emops.twse.com.tw/server-java/t05sr01_1_e?&isNew=Y&seq_no=1&spoke_time=224246&spoke_date=20260803&co_id=6446",
+        "added": "2026-08-04"
+    },
+    {
+        "date": "2026-08-03",
         "victim": "Ministerio de Justicia y del Derecho",
         "domain": "minjusticia.gov.co",
         "country": "COL",
