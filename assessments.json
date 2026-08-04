@@ -1,5 +1,12 @@
 [
   {
+    "victim": "Belasco Electric",
+    "domain": "belascoelectric.com",
+    "country": "US",
+    "date": "2026-07-24",
+    "group": "akira"
+  },
+  {
     "victim": "Louisiana Coalition Against | Domestic Violence",
     "domain": "lcadv.org",
     "country": "US",
@@ -12544,7 +12551,7 @@
     "group": "lockbit3"
   },
   {
-    "victim": "L3Harris Technologies",
+    "victim": "L3HARRIS",
     "domain": "l3harris.com",
     "country": "US",
     "date": "2025-04-28",
@@ -16459,7 +16466,7 @@
   {
     "victim": "World Wide Fittings",
     "domain": "worldwidefittings.com",
-    "country": "US",
+    "country": "GB",
     "date": "2025-01-26",
     "group": "qilin"
   },
@@ -28343,9 +28350,9 @@
     "group": "akira"
   },
   {
-    "victim": "crbgroup.com",
+    "victim": "CRB group",
     "domain": "crbgroup.com",
-    "country": "US",
+    "country": "BR",
     "date": "2023-12-24",
     "group": "lockbit3"
   },
