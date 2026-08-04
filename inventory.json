@@ -103199,6 +103199,11 @@
                 "date": "2026-07-24",
                 "type": "claimed",
                 "group": "akira"
+            },
+            {
+                "date": "2026-07-01",
+                "type": "assessed",
+                "group": "akira"
             }
         ]
     },
