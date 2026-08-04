@@ -1,5 +1,16 @@
 [
     {
+        "date": "2026-07-28",
+        "victim": "BIT",
+        "domain": "bit.admin.ch",
+        "country": "CHE",
+        "summary": "Le BIT (Bundesamt für Informatik und Telekommunikation) a confirmé qu'un cyberattaque avait eu lieu sur ses serveurs SharePoint. L'accès pour les personnes externes au gouvernement fédéral a été bloqué. Environ 200 comptes ont été compromis. Bien qu'aucune fuite de données ne soit actuellement suspectée, des analyses sont en cours, et les serveurs sont mis à niveau préventivement.",
+        "description": "",
+        "title": "Cyberangriff auf Sharepoint-Server des Bundesamts für Informatik",
+        "url": "https://www.bluewin.ch/de/news/cyberangriff-auf-sharepoint-server-des-bundesamts-fuer-informatik-li.3551816",
+        "added": "2026-08-04"
+    },
+    {
         "date": "2026-08-03",
         "victim": "PharmaEssentia Corp.",
         "domain": "pharmaessentia.com",
