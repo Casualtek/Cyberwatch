@@ -1,5 +1,16 @@
 [
     {
+        "date": "2026-07-21",
+        "victim": "PaKK-MED",
+        "domain": "pakkmed.pl",
+        "country": "POL",
+        "summary": "La PaKK-MED, une association de centres de soins primaires, a été victime d'une attaque par ransomware qui a touché ses systèmes informatiques. L'incident est survenu le 21 juillet 2026. Bien que l'attaque ait entraîné un risque potentiel de fuite de données personnelles (noms, numéros PESEL, données de santé, etc.) concernant les patients et le personnel, la PaKK-MED a mis en place des procédures d'urgence, notamment le passage au fonctionnement papier, pour assurer la continuité des soins. L'établissement a signalé l'incident à l'autorité compétente et au procureur.",
+        "description": "",
+        "title": "Atak hakerski na sieć polskich placówek zdrowotnych. Wydano komunikat",
+        "url": "https://cyberdefence24.pl/cyberbezpieczenstwo/cyberataki/atak-hakerski-na-siec-polskich-placowek-zdrowotnych-wydano-komunikat",
+        "added": "2026-08-04"
+    },
+    {
         "date": "2022-01-13",
         "victim": "Medizin Campus Bodensee",
         "domain": "medizin-campus-bodensee.de",
