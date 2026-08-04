@@ -1,5 +1,16 @@
 [
     {
+        "date": "2026-06-07",
+        "victim": "Retelit",
+        "domain": "retelit.it",
+        "country": "ITA",
+        "summary": "Retelit, un important opérateur italien de télécommunications et de services cloud, a été victime d'une grave cyberattaque perpétrée par le groupe criminel Qilin. L'attaque a compromis les serveurs et permis le vol d'au moins 300 gigaoctets de documents internes, notamment des passeports et des informations sensibles sur les clients (parmi lesquels Leonardo et 193 administrations publiques). Cet incident, probablement découvert en juin, n’a pas été rendu public jusqu’à la récente divulgation par Qilin, qui a commencé à publier les données le 11 juillet 2026.",
+        "description": "",
+        "title": "Retelit, operatore cloud e di telecomunicazioni, ha subito un attacco informatico. E non lo dice",
+        "url": "https://irpimedia.irpi.eu/retelit-operatore-cloud-e-telecomunicazioni-attacco-informatico/",
+        "added": "2026-08-04"
+    },
+    {
         "date": "2026-07-28",
         "victim": "BIT",
         "domain": "bit.admin.ch",
