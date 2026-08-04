@@ -40008,6 +40008,11 @@
                 "date": "2026-08-03",
                 "type": "claimed",
                 "group": "akira"
+            },
+            {
+                "date": "2026-07-24",
+                "type": "assessed",
+                "group": "akira"
             }
         ]
     },
@@ -94146,6 +94151,17 @@
                 "date": "2026-07-03",
                 "type": "claimed",
                 "group": "settra"
+            },
+            {
+                "date": "2026-08-04",
+                "type": "discovered",
+                "summary": "Downies, un fournisseur australien spécialisé dans les pièces de collection, est victime d'une attaque par rançongiciel et d'une tentative d'extorsion par le groupe cybercriminel Settra. L'incident a été détecté le lundi 6 juillet 2026. Downies enquête sur l'accès non autorisé à ses données et travaille avec les autorités australiennes compétentes, y compris le renseignement et la police. Le groupe Settra continue de faire pression sur Downies en divulguant des informations dans le dark web.",
+                "title": "Exclusive: Downies Collectables continues to respond to ransomware incident",
+                "url": "https://www.cyberdaily.au/security/13996-exclusive-downies-collectibles-continues-to-respond-to-ransomware-incident"
+            },
+            {
+                "date": "2026-07-06",
+                "type": "reported"
             }
         ]
     },
@@ -254783,6 +254799,17 @@
                 "date": "2026-07-11",
                 "type": "claimed",
                 "group": "qilin"
+            },
+            {
+                "date": "2026-08-04",
+                "type": "discovered",
+                "summary": "Retelit, un important opérateur italien de télécommunications et de services cloud, a été victime d'une grave cyberattaque perpétrée par le groupe criminel Qilin. L'attaque a compromis les serveurs et permis le vol d'au moins 300 gigaoctets de documents internes, notamment des passeports et des informations sensibles sur les clients (parmi lesquels Leonardo et 193 administrations publiques). Cet incident, probablement découvert en juin, n’a pas été rendu public jusqu’à la récente divulgation par Qilin, qui a commencé à publier les données le 11 juillet 2026.",
+                "title": "Retelit, operatore cloud e di telecomunicazioni, ha subito un attacco informatico. E non lo dice",
+                "url": "https://irpimedia.irpi.eu/retelit-operatore-cloud-e-telecomunicazioni-attacco-informatico/"
+            },
+            {
+                "date": "2026-06-07",
+                "type": "reported"
             }
         ]
     },
