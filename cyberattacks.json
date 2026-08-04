@@ -1,5 +1,16 @@
 [
     {
+        "date": "2026-07-06",
+        "victim": "Downies",
+        "domain": "downies.com",
+        "country": "AUS",
+        "summary": "Downies, un fournisseur australien spécialisé dans les pièces de collection, est victime d'une attaque par rançongiciel et d'une tentative d'extorsion par le groupe cybercriminel Settra. L'incident a été détecté le lundi 6 juillet 2026. Downies enquête sur l'accès non autorisé à ses données et travaille avec les autorités australiennes compétentes, y compris le renseignement et la police. Le groupe Settra continue de faire pression sur Downies en divulguant des informations dans le dark web.",
+        "description": "",
+        "title": "Exclusive: Downies Collectables continues to respond to ransomware incident",
+        "url": "https://www.cyberdaily.au/security/13996-exclusive-downies-collectibles-continues-to-respond-to-ransomware-incident",
+        "added": "2026-08-04"
+    },
+    {
         "date": "2026-06-07",
         "victim": "Retelit",
         "domain": "retelit.it",
