@@ -1,5 +1,16 @@
 [
     {
+        "date": "2026-08-03",
+        "victim": "Ministerio de Justicia y del Derecho",
+        "domain": "minjusticia.gov.co",
+        "country": "COL",
+        "summary": "Le Ministère de la Justice et du Droit a été victime d'une cyberattaque par rançongiciel (ransomware) qui a compromis une partie de son infrastructure technologique et affecté la disponibilité de certains de ses services. La ministre en charge, Cielo Rusinque, a indiqué que les protocoles de cybersécurité et de confinement ont été immédiatement activés. Elle a appelé les autorités compétentes à mener rapidement les enquêtes pour identifier les responsables. Le Ministère travaille en collaboration avec le Ministère des TIC et les autorités pour contenir l'incident, récupérer les systèmes et rétablir progressivement les services.",
+        "description": "",
+        "title": "El Ministerio de Justicia fue víctima de un ciberataque por medio de ransomware | AsuntosLegales.co",
+        "url": "https://www.asuntoslegales.com.co/actualidad/el-ministerio-de-justicia-fue-victima-de-un-ataque-cibernetico-por-medio-de-un-ransomware-4450087",
+        "added": "2026-08-04"
+    },
+    {
         "date": "2026-07-21",
         "victim": "PaKK-MED",
         "domain": "pakkmed.pl",
