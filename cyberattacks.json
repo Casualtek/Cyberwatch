@@ -1,5 +1,16 @@
 [
     {
+        "date": "2026-07-30",
+        "victim": "Registre des bénéficiaires effectifs (VwbP) du Liechtenstein",
+        "domain": "llv.li",
+        "country": "LIE",
+        "summary": "Le registre des bénéficiaires effectifs (VwbP) du Liechtenstein a été victime d'une cyberattaque majeure. Des hackers ont téléchargé les données de près de 31 000 entités. L'attaque a eu lieu dans la nuit du 30 juillet. Les données volées comprennent le nom, le prénom, la date de naissance, le pays de résidence et la nationalité des personnes concernées, mais pas les données bancaires ou les soldes de compte. Les autorités ont indiqué qu'il n'y avait pas de demandes de rançon et que les données n'étaient pas encore en vente sur le Darknet.",
+        "description": "",
+        "title": "Cyberangriff auf Liechtenstein liefert klare Fakten und laesst viele Fragen offen",
+        "url": "https://brudiland.li/cyberangriff-auf-liechtenstein-liefert-klare-fakten-und-laesst-viele-fragen-offen/",
+        "added": "2026-08-04"
+    },
+    {
         "date": "2026-07-06",
         "victim": "Downies",
         "domain": "downies.com",
