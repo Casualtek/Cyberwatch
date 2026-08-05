@@ -1,5 +1,16 @@
 [
     {
+        "date": "2026-08-03",
+        "victim": "Águas de Portugal",
+        "domain": "adp.pt",
+        "country": "PRT",
+        "summary": "Le groupe Águas de Portugal, qui gère le cycle urbain de l'eau au Portugal continental, a été victime d'une cyberattaque de haute complexité. L'attaque a commencé le vendredi précédent et a entraîné des perturbations temporaires dans les processus administratifs et les canaux de contact avec les clients. Le groupe assure que l'approvisionnement et la qualité de l'eau n'ont pas été affectés. Les autorités, dont la Police Judiciaire, sont impliquées dans l'enquête. L'incident est également comparé à des attaques récentes aux États-Unis et au Portugal (Université de Aveiro, Metro Mondego, CCDR Algarve).",
+        "description": "",
+        "title": "Águas de Portugal alvo de ciberataque de “elevada complexidade” - Renascença",
+        "url": "https://rr.pt/noticia/amp/pais/2026/08/04/aguas-de-portugal-alvo-de-ciberataque-de-elevada-complexidade/480625/",
+        "added": "2026-08-05"
+    },
+    {
         "date": "2026-07-29",
         "victim": "Beacon CRM",
         "domain": "beaconcrm.org",
