@@ -1,5 +1,16 @@
 [
     {
+        "date": "2026-07-27",
+        "victim": "Columbus Water Works",
+        "domain": "cwwga.org",
+        "country": "USA",
+        "summary": "Columbus Water Works a été victime d'une cyberattaque le 27 juillet qui a affecté une partie de ses systèmes de surveillance automatisés. Bien que les opérateurs aient dû passer immédiatement au contrôle manuel, l'approvisionnement en eau et la qualité de l'eau potable n'ont pas été interrompus ni affectés. L'incident est actuellement sous enquête du FBI et des autorités fédérales, mais aucun acteur malveillant n'a été identifié, et aucun vol de données ou rançon n'a été confirmé.",
+        "description": "",
+        "title": "Cyberattack contained at Columbus Water Works in Georgia",
+        "url": "https://dysruptionhub.com/columbus-water-works-georgia-cyberattack/",
+        "added": "2026-08-05"
+    },
+    {
         "date": "2026-08-02",
         "victim": "Chambre des salariés (CSL)",
         "domain": "csl.lu",
