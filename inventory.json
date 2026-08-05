@@ -299868,6 +299868,11 @@
                 "date": "2026-08-01",
                 "type": "claimed",
                 "group": "play"
+            },
+            {
+                "date": "2026-07-27",
+                "type": "assessed",
+                "group": "play"
             }
         ]
     },
