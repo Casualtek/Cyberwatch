@@ -1,5 +1,16 @@
 [
     {
+        "date": "2026-08-05",
+        "victim": "Jochu Technology Co., Ltd.",
+        "domain": "jochu.com",
+        "country": "TWN",
+        "summary": "Le 5 août 2026, la société Jochu et ses filiales (Suzhou Jochu, Xiamen JOCHU et VIETNAM JOCHU) ont détecté un accès non autorisé par des pirates, entraînant une interruption temporaire de leurs systèmes. L'entreprise a immédiatement activé ses protocoles de réponse et fait appel à des experts externes pour mener l'enquête ; les systèmes affectés sont actuellement en cours de restauration à partir de sauvegardes, après vérification de leur sécurité. Selon l'évaluation préliminaire, cet incident n'a pas eu d'impact matériel significatif sur les activités de la société.",
+        "description": "",
+        "title": "Today's Information",
+        "url": "https://emops.twse.com.tw/server-java/t05sr01_1_e?&isNew=Y&seq_no=1&spoke_time=165152&spoke_date=20260805&co_id=3543",
+        "added": "2026-08-05"
+    },
+    {
         "date": "2026-07-25",
         "victim": "Zenith Bank",
         "domain": "zenithbank.com",
