@@ -1,5 +1,16 @@
 [
     {
+        "date": "2026-05-15",
+        "victim": "Sodick",
+        "domain": "sodick.com",
+        "country": "JPN",
+        "summary": "Sodick a publié un rapport final concernant un incident de cybersécurité survenu en mai 2026, impliquant un accès non autorisé à l'un de ses serveurs. Bien qu'aucune fuite de données ou dommage secondaire n'ait été confirmé, l'entreprise traite certaines données comme potentiellement compromises et notifie les partenaires commerciaux et les employés concernés. L'intrusion exploitait une vulnérabilité dans l'équipement réseau. L'incident n'a pas eu d'impact matériel sur les performances commerciales de Sodick.",
+        "description": "",
+        "title": "Sodick Reports No Data Leakage After Cyberattack, Tightens Security - TipRanks.com",
+        "url": "https://www.tipranks.com/news/company-announcements/sodick-reports-no-data-leakage-after-cyberattack-tightens-security",
+        "added": "2026-08-05"
+    },
+    {
         "date": "2026-08-02",
         "victim": "Techventures Bank S.A.",
         "domain": "techventures.bank",
