@@ -700,13 +700,6 @@
     "group": "lockbit5"
   },
   {
-    "victim": "index-precast.com",
-    "domain": "index-precast.com",
-    "country": "IT",
-    "date": "2026-02-25",
-    "group": "lockbit5"
-  },
-  {
     "victim": "ikron.org",
     "domain": "ikron.org",
     "country": "US",
@@ -1967,13 +1960,6 @@
     "group": "krybit"
   },
   {
-    "victim": "Shocco Springs",
-    "domain": "shocco.org",
-    "country": "US",
-    "date": "2026-05-02",
-    "group": "qilin"
-  },
-  {
     "victim": "Refinery Hotel",
     "domain": "refineryhotelnewyork.com",
     "country": "US",
@@ -2861,13 +2847,6 @@
     "country": "US",
     "date": "2026-04-17",
     "group": "incransom"
-  },
-  {
-    "victim": "SMTA Sherwood Mutual Telephone Association",
-    "domain": "smta.cc",
-    "country": "US",
-    "date": "2026-04-16",
-    "group": "worldleaks"
   },
   {
     "victim": "rhode-hv.de",
@@ -6566,13 +6545,6 @@
     "group": "play"
   },
   {
-    "victim": "healthandvitalitycenter.com",
-    "domain": "healthandvitalitycenter.com",
-    "country": "US",
-    "date": "2025-10-09",
-    "group": "safepay"
-  },
-  {
     "victim": "G & H Distributing",
     "domain": "ghdistributing.com",
     "country": "US",
@@ -7966,13 +7938,6 @@
     "group": "akira"
   },
   {
-    "victim": "Confie",
-    "domain": "confie.com",
-    "country": "US",
-    "date": "2025-08-29",
-    "group": "SilentRansomGroup"
-  },
-  {
     "victim": "Celtic Engineering",
     "domain": "celticengineering.com",
     "country": "US",
@@ -8729,13 +8694,6 @@
     "group": "play"
   },
   {
-    "victim": "Spohn + Burkhardt GmbH & Co KG",
-    "domain": "spobu.com",
-    "country": "DE",
-    "date": "2025-08-09",
-    "group": "qilin"
-  },
-  {
     "victim": "Sanderson Management",
     "domain": "sandersonmanagement.com",
     "country": "US",
@@ -8762,13 +8720,6 @@
     "country": "US",
     "date": "2025-08-08",
     "group": "incransom"
-  },
-  {
-    "victim": "Sanderson Management",
-    "domain": "sandersonmanagement.com",
-    "country": "US",
-    "date": "2025-08-08",
-    "group": "safepay"
   },
   {
     "victim": "mdneal.com",
@@ -9357,13 +9308,6 @@
     "country": "US",
     "date": "2025-07-18",
     "group": "sinobi"
-  },
-  {
-    "victim": "sotaconstruction.com",
-    "domain": "sotaconstruction.com",
-    "country": "US",
-    "date": "2025-07-18",
-    "group": "qilin"
   },
   {
     "victim": "Sneg Proprete",
@@ -10633,13 +10577,6 @@
     "group": "akira"
   },
   {
-    "victim": "C B King Memorial School(branch)",
-    "domain": "cbkingmemorial.com",
-    "country": "US",
-    "date": "2025-06-13",
-    "group": "incransom"
-  },
-  {
     "victim": "Thomas Bennett & Hunter",
     "domain": "tbhconcrete.com",
     "country": "US",
@@ -10722,13 +10659,6 @@
     "country": "CA",
     "date": "2025-06-11",
     "group": "lynx"
-  },
-  {
-    "victim": "fiestafranchise.com",
-    "domain": "fiestafranchise.com",
-    "country": "US",
-    "date": "2025-06-11",
-    "group": "qilin"
   },
   {
     "victim": "Crompton Lamps, UK",
@@ -11499,13 +11429,6 @@
     "country": "RS",
     "date": "2025-05-23",
     "group": "worldleaks"
-  },
-  {
-    "victim": "foiegrasespinet",
-    "domain": "foiegrasespinet.com",
-    "country": "FR",
-    "date": "2025-05-23",
-    "group": "qilin"
   },
   {
     "victim": "Custom Food Ingredients",
@@ -14126,13 +14049,6 @@
     "group": "play"
   },
   {
-    "victim": "franklin nursing home",
-    "domain": "franklincare.com",
-    "country": "US",
-    "date": "2025-03-20",
-    "group": "incransom"
-  },
-  {
     "victim": "BlueHive",
     "domain": "blue-hive.com",
     "country": "US",
@@ -15127,13 +15043,6 @@
     "group": "threeam"
   },
   {
-    "victim": "Harrells",
-    "domain": "harrells.com",
-    "country": "US",
-    "date": "2025-02-21",
-    "group": "lynx"
-  },
-  {
     "victim": "Primary Flow Signal",
     "domain": "primaryflowsignal.com",
     "country": "US",
@@ -15228,7 +15137,7 @@
     "victim": "Texollini",
     "domain": "texollini.com",
     "country": "US",
-    "date": "2025-02-18",
+    "date": "2026-02-18",
     "group": "akira"
   },
   {
@@ -15778,13 +15687,6 @@
     "group": "ransomhub"
   },
   {
-    "victim": "RFA Decor",
-    "domain": "rfadecor.com",
-    "country": "US",
-    "date": "2025-02-07",
-    "group": "akira"
-  },
-  {
     "victim": "MW Mechanical Inc.",
     "domain": "mwmechanicalinc.com",
     "country": "US",
@@ -16240,25 +16142,11 @@
     "group": "play"
   },
   {
-    "victim": "Shinn Fu Company of America",
-    "domain": "shinnfuamerica.com",
-    "country": "US",
-    "date": "2025-01-31",
-    "group": "play"
-  },
-  {
     "victim": "Niemi LaPorte & Dowle Appraisals",
     "domain": "nldappraisals.com",
     "country": "CA",
     "date": "2025-01-31",
     "group": "qilin"
-  },
-  {
-    "victim": "Monroe Transportation Services Inc",
-    "domain": "monroe-trans.com",
-    "country": "US",
-    "date": "2025-01-31",
-    "group": "play"
   },
   {
     "victim": "Mega Metals",
@@ -16315,13 +16203,6 @@
     "country": "CL",
     "date": "2025-01-31",
     "group": "ransomhub"
-  },
-  {
-    "victim": "Baltimore Country Club",
-    "domain": "bcc1898.com",
-    "country": "US",
-    "date": "2025-01-31",
-    "group": "play"
   },
   {
     "victim": "Zamzow's",
@@ -16448,13 +16329,6 @@
     "country": "US",
     "date": "2025-01-29",
     "group": "medusa"
-  },
-  {
-    "victim": "Neaton Auto Products Manufacturing",
-    "domain": "neaton.com",
-    "country": "US",
-    "date": "2025-01-29",
-    "group": "play"
   },
   {
     "victim": "Machu Picchu Foods",
@@ -16772,13 +16646,6 @@
     "group": "cactus"
   },
   {
-    "victim": "Sheridan Nurseries",
-    "domain": "sheridannurseries.com",
-    "country": "CA",
-    "date": "2025-01-21",
-    "group": "play"
-  },
-  {
     "victim": "Prime Trust Financial",
     "domain": "primetrustfinancial.com",
     "country": "US",
@@ -16791,13 +16658,6 @@
     "country": "US",
     "date": "2025-01-21",
     "group": "cactus"
-  },
-  {
-    "victim": "Mid-State Machine & Fabricating Corp",
-    "domain": "midstateindustrialcorp.com",
-    "country": "US",
-    "date": "2025-01-21",
-    "group": "play"
   },
   {
     "victim": "Ondunova",
@@ -16819,13 +16679,6 @@
     "country": "US",
     "date": "2025-01-21",
     "group": "akira"
-  },
-  {
-    "victim": "The Hill Brush",
-    "domain": "hillbrush.com",
-    "country": "US",
-    "date": "2025-01-20",
-    "group": "play"
   },
   {
     "victim": "DPC Development",
@@ -16898,13 +16751,6 @@
     "group": "lynx"
   },
   {
-    "victim": "Woodway USA",
-    "domain": "woodway.com",
-    "country": "US",
-    "date": "2025-01-17",
-    "group": "play"
-  },
-  {
     "victim": "VSS Transportation Group",
     "domain": "vsstransportationgroup.com",
     "country": "US",
@@ -16931,13 +16777,6 @@
     "country": "IT",
     "date": "2025-01-17",
     "group": "lockbit3"
-  },
-  {
-    "victim": "Cold Storage Manufacturing",
-    "domain": "coldstoragemfg.com",
-    "country": "US",
-    "date": "2025-01-17",
-    "group": "play"
   },
   {
     "victim": "SportAdmin",
@@ -17052,20 +16891,6 @@
     "group": "threeam"
   },
   {
-    "victim": "Hydronic & Steam Equipment",
-    "domain": "hydstm.com",
-    "country": "US",
-    "date": "2025-01-15",
-    "group": "play"
-  },
-  {
-    "victim": "Daniel Island Club",
-    "domain": "danielislandclub.com",
-    "country": "US",
-    "date": "2025-01-15",
-    "group": "play"
-  },
-  {
     "victim": "Bogin, Munns & Munns",
     "domain": "boginmunns.com",
     "country": "US",
@@ -17113,13 +16938,6 @@
     "country": "FR",
     "date": "2025-01-14",
     "group": "safepay"
-  },
-  {
-    "victim": "KWS",
-    "domain": "kwsmfg.com",
-    "country": "US",
-    "date": "2025-01-14",
-    "group": "play"
   },
   {
     "victim": "kinseysinc.com",
@@ -17223,13 +17041,6 @@
     "victim": "Worldnet",
     "domain": "worldnetpr.com",
     "country": "PR",
-    "date": "2025-01-10",
-    "group": "akira"
-  },
-  {
-    "victim": "Menway",
-    "domain": "menway.com",
-    "country": "FR",
     "date": "2025-01-10",
     "group": "akira"
   },
@@ -17582,13 +17393,6 @@
     "country": "US",
     "date": "2024-12-24",
     "group": "lynx"
-  },
-  {
-    "victim": "Fastighetsservice AB",
-    "domain": "ff-fastighetsservice.se",
-    "country": "SE",
-    "date": "2024-12-24",
-    "group": "play"
   },
   {
     "victim": "AK Constructors, Inc.",
@@ -18006,13 +17810,6 @@
   {
     "victim": "Pinno Construction",
     "domain": "rapinno.com",
-    "country": "US",
-    "date": "2024-12-13",
-    "group": "akira"
-  },
-  {
-    "victim": "Northern Lights Electric",
-    "domain": "northernlightselectric.com",
     "country": "US",
     "date": "2024-12-13",
     "group": "akira"
@@ -18613,13 +18410,6 @@
     "group": "blackbasta"
   },
   {
-    "victim": "DPC Development",
-    "domain": "dpccompanies.com",
-    "country": "US",
-    "date": "2024-11-27",
-    "group": "play"
-  },
-  {
     "victim": "Marlow",
     "domain": "cityofmarlow.com",
     "country": "US",
@@ -18914,13 +18704,6 @@
     "group": "ransomhub"
   },
   {
-    "victim": "Equity & Advisory",
-    "domain": "equityadvisory.com.au",
-    "country": "AU",
-    "date": "2024-11-19",
-    "group": "lynx"
-  },
-  {
     "victim": "AFD",
     "domain": "afd-inc.com",
     "country": "US",
@@ -18954,13 +18737,6 @@
     "country": "CA",
     "date": "2024-11-18",
     "group": "safepay"
-  },
-  {
-    "victim": "Interior Specialty Construction, Inc.",
-    "domain": "iscinc93.com",
-    "country": "US",
-    "date": "2024-11-18",
-    "group": "ransomhub"
   },
   {
     "victim": "Conad",
@@ -19369,13 +19145,6 @@
     "group": "akira"
   },
   {
-    "victim": "Hydronic & Steam Equipment",
-    "domain": "hydstm.com",
-    "country": "US",
-    "date": "2024-11-07",
-    "group": "play"
-  },
-  {
     "victim": "Henderson Stamping & Production",
     "domain": "hendersonstamping.com",
     "country": "US",
@@ -19486,13 +19255,6 @@
     "country": "US",
     "date": "2024-11-02",
     "group": "safepay"
-  },
-  {
-    "victim": "Textile Coated International (TCI)",
-    "domain": "textilescoated.com",
-    "country": "US",
-    "date": "2024-11-02",
-    "group": "lynx"
   },
   {
     "victim": "Strategic Materials",
@@ -20389,13 +20151,6 @@
     "country": "IN",
     "date": "2024-10-16",
     "group": "ransomhub"
-  },
-  {
-    "victim": "Eagle Industries",
-    "domain": "eagleindinc.com",
-    "country": "US",
-    "date": "2024-10-16",
-    "group": "play"
   },
   {
     "victim": "Davis Brothers Inc.",
@@ -21462,13 +21217,6 @@
     "group": "play"
   },
   {
-    "victim": "The Law Offices of Jed Silverman",
-    "domain": "jedsilverman.com",
-    "country": "US",
-    "date": "2024-09-24",
-    "group": "qilin"
-  },
-  {
     "victim": "GenPro, Inc.",
     "domain": "genproinc.com",
     "country": "US",
@@ -22470,13 +22218,6 @@
     "group": "blacksuit"
   },
   {
-    "victim": "Cardiology of Virginia",
-    "domain": "cardiovirginia.com",
-    "country": "US",
-    "date": "2024-08-28",
-    "group": "ransomhub"
-  },
-  {
     "victim": "Bennett Currie",
     "domain": "bennettcurrie.co.nz",
     "country": "NZ",
@@ -22867,13 +22608,6 @@
     "country": "US",
     "date": "2024-08-18",
     "group": "cicada3301"
-  },
-  {
-    "victim": "Smoker's Choice",
-    "domain": "smokerschoiceusa.com",
-    "country": "US",
-    "date": "2024-08-17",
-    "group": "play"
   },
   {
     "victim": "Christen Sanitär",
@@ -24661,13 +24395,6 @@
     "group": "play"
   },
   {
-    "victim": "RRCA Accounts Management",
-    "domain": "rrcaaccounts.com",
-    "country": "US",
-    "date": "2024-06-06",
-    "group": "play"
-  },
-  {
     "victim": "Posi+",
     "domain": "posiplus.com",
     "country": "CA",
@@ -24829,13 +24556,6 @@
     "group": "play"
   },
   {
-    "victim": "ProMotion Holdings",
-    "domain": "promotionholdings.com",
-    "country": "US",
-    "date": "2024-05-28",
-    "group": "play"
-  },
-  {
     "victim": "Modplan",
     "domain": "modplan.co.uk",
     "country": "GB",
@@ -24939,13 +24659,6 @@
     "country": "US",
     "date": "2024-05-24",
     "group": "underground"
-  },
-  {
-    "victim": "Innerspec Technologies",
-    "domain": "innerspec.com",
-    "country": "US",
-    "date": "2024-05-23",
-    "group": "play"
   },
   {
     "victim": "Eagle Materials",
@@ -26166,13 +25879,6 @@
     "group": "lockbit3"
   },
   {
-    "victim": "The Weinstein Firm",
-    "domain": "weinsteinwin.com",
-    "country": "US",
-    "date": "2024-04-07",
-    "group": "qilin"
-  },
-  {
     "victim": "Dopravní podnik Karlovy Vary, a. s.",
     "domain": "dpkv.cz",
     "country": "CZ",
@@ -26649,13 +26355,6 @@
     "group": "lockbit3"
   },
   {
-    "victim": "Dr Charles A Evans",
-    "domain": "charlesevansmd.com",
-    "country": "US",
-    "date": "2024-03-18",
-    "group": "qilin"
-  },
-  {
     "victim": "Best Transportation",
     "domain": "besttrans.com",
     "country": "US",
@@ -26850,13 +26549,6 @@
     "country": "US",
     "date": "2024-03-12",
     "group": "blackbasta"
-  },
-  {
-    "victim": "Stainless Foundry & Engineering, LLC.",
-    "domain": "stainlessfoundry.com",
-    "country": "US",
-    "date": "2024-03-11",
-    "group": "play"
   },
   {
     "victim": "DRM Arby's",
@@ -27991,13 +27683,6 @@
     "country": "EG",
     "date": "2024-01-31",
     "group": "lockbit3"
-  },
-  {
-    "victim": "Onclusive",
-    "domain": "onclusive.com",
-    "country": "GB",
-    "date": "2024-01-30",
-    "group": "play"
   },
   {
     "victim": "leonardssyrups.com",
