@@ -1,5 +1,16 @@
 [
     {
+        "date": "2026-07-25",
+        "victim": "Zenith Bank",
+        "domain": "zenithbank.com",
+        "country": "NGA",
+        "summary": "Zenith Bank a confirmé avoir été victime d'une cyberattaque qui a permis aux attaquants d'accéder à une quantité limitée d'informations client, notamment des adresses e-mail et des numéros de téléphone. La banque a assuré que les fonds et les comptes des clients sont restés en sécurité et que les systèmes bancaires n'ont pas été compromis. Le groupe ExfilSquad a récemment revendiqué un vol de données attribuées à la banque Zenith.",
+        "description": "",
+        "title": "Zenith Bank breaks silence after hackers access customers' personal data",
+        "url": "https://www.legit.ng/business-economy/industry/1723195-zenith-bank-confirms-cyberattack-hackers-access-customer-data-issues-urgent-security-warning/",
+        "added": "2026-08-05"
+    },
+    {
         "date": "2026-07-27",
         "victim": "Columbus Water Works",
         "domain": "cwwga.org",
