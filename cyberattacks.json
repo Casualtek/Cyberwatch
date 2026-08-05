@@ -1,5 +1,16 @@
 [
     {
+        "date": "2026-08-02",
+        "victim": "Techventures Bank S.A.",
+        "domain": "techventures.bank",
+        "country": "ROU",
+        "summary": "Le DNSC (Directoratul Național de Securitate Cibernetică) a fourni son assistance à Techventures Bank S.A. après qu'elle ait signalé une cyberattaque par ransomware. L'incident a été notifié le 2 août 2026. Les autorités collaborent avec la banque pour limiter les effets de l'attaque et enquêter sur l'incident. Aucune information concernant l'impact, les systèmes affectés ou la compromission des données clients n'a été rendue publique à ce stade.",
+        "description": "",
+        "title": "DNSC oferă asistență Techventures Bank după un atac cibernetic de tip ransomware - Financial Intelligence",
+        "url": "https://financialintelligence.ro/dnsc-ofera-asistenta-techventures-bank-dupa-un-atac-cibernetic-de-tip-ransomware/",
+        "added": "2026-08-05"
+    },
+    {
         "date": "2026-07-30",
         "victim": "Registre des bénéficiaires effectifs (VwbP) du Liechtenstein",
         "domain": "llv.li",
