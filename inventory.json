@@ -38723,11 +38723,6 @@
                 "group": "play"
             },
             {
-                "date": "2025-01-31",
-                "type": "assessed",
-                "group": "play"
-            },
-            {
                 "date": "2025-02-01",
                 "type": "assessed",
                 "group": "play"
@@ -56448,11 +56443,6 @@
                 "group": "ransomhub"
             },
             {
-                "date": "2024-08-28",
-                "type": "assessed",
-                "group": "ransomhub"
-            },
-            {
                 "date": "2024-08-29",
                 "type": "assessed",
                 "group": "ransomhub"
@@ -59041,11 +59031,6 @@
         "domain": "cbkingmemorial.com",
         "country": "US",
         "timeline": [
-            {
-                "date": "2025-06-13",
-                "type": "assessed",
-                "group": "incransom"
-            },
             {
                 "date": "2025-06-28",
                 "type": "assessed",
@@ -63505,11 +63490,6 @@
             {
                 "date": "2024-05-03",
                 "type": "claimed",
-                "group": "qilin"
-            },
-            {
-                "date": "2024-03-18",
-                "type": "assessed",
                 "group": "qilin"
             },
             {
@@ -71998,11 +71978,6 @@
                 "group": "play"
             },
             {
-                "date": "2025-01-17",
-                "type": "assessed",
-                "group": "play"
-            },
-            {
                 "date": "2025-01-28",
                 "type": "assessed",
                 "group": "play"
@@ -74997,11 +74972,6 @@
             {
                 "date": "2025-10-10",
                 "type": "claimed",
-                "group": "SilentRansomGroup"
-            },
-            {
-                "date": "2025-08-29",
-                "type": "assessed",
                 "group": "SilentRansomGroup"
             },
             {
@@ -84385,11 +84355,6 @@
             {
                 "date": "2025-02-03",
                 "type": "claimed",
-                "group": "play"
-            },
-            {
-                "date": "2025-01-15",
-                "type": "assessed",
                 "group": "play"
             },
             {
@@ -94298,11 +94263,6 @@
                 "group": "play"
             },
             {
-                "date": "2024-11-27",
-                "type": "assessed",
-                "group": "play"
-            },
-            {
                 "date": "2025-01-20",
                 "type": "assessed",
                 "group": "play"
@@ -97594,11 +97554,6 @@
             {
                 "date": "2024-10-24",
                 "type": "claimed",
-                "group": "play"
-            },
-            {
-                "date": "2024-10-16",
-                "type": "assessed",
                 "group": "play"
             },
             {
@@ -106256,11 +106211,6 @@
                 "group": "lynx"
             },
             {
-                "date": "2024-11-19",
-                "type": "assessed",
-                "group": "lynx"
-            },
-            {
                 "date": "2024-11-20",
                 "type": "assessed",
                 "group": "lynx"
@@ -114066,11 +114016,6 @@
                 "group": "play"
             },
             {
-                "date": "2024-12-24",
-                "type": "assessed",
-                "group": "play"
-            },
-            {
                 "date": "2025-01-24",
                 "type": "assessed",
                 "group": "play"
@@ -114845,11 +114790,6 @@
             {
                 "date": "2025-06-19",
                 "type": "claimed",
-                "group": "qilin"
-            },
-            {
-                "date": "2025-06-11",
-                "type": "assessed",
                 "group": "qilin"
             },
             {
@@ -117837,11 +117777,6 @@
                 "group": "qilin"
             },
             {
-                "date": "2025-05-23",
-                "type": "assessed",
-                "group": "qilin"
-            },
-            {
                 "date": "2025-05-30",
                 "type": "assessed",
                 "group": "qilin"
@@ -119894,11 +119829,6 @@
         "domain": "franklincare.com",
         "country": "US",
         "timeline": [
-            {
-                "date": "2025-03-20",
-                "type": "assessed",
-                "group": "incransom"
-            },
             {
                 "date": "2025-04-10",
                 "type": "assessed",
@@ -139269,11 +139199,6 @@
                 "group": "lynx"
             },
             {
-                "date": "2025-02-21",
-                "type": "assessed",
-                "group": "lynx"
-            },
-            {
                 "date": "2025-02-22",
                 "type": "assessed",
                 "group": "lynx"
@@ -141264,11 +141189,6 @@
             {
                 "date": "2025-10-19",
                 "type": "claimed",
-                "group": "safepay"
-            },
-            {
-                "date": "2025-10-09",
-                "type": "assessed",
                 "group": "safepay"
             },
             {
@@ -144519,11 +144439,6 @@
             {
                 "date": "2025-02-03",
                 "type": "claimed",
-                "group": "play"
-            },
-            {
-                "date": "2025-01-20",
-                "type": "assessed",
                 "group": "play"
             },
             {
@@ -150433,16 +150348,6 @@
                 "group": "play"
             },
             {
-                "date": "2024-11-07",
-                "type": "assessed",
-                "group": "play"
-            },
-            {
-                "date": "2025-01-15",
-                "type": "assessed",
-                "group": "play"
-            },
-            {
                 "date": "2025-02-05",
                 "type": "assessed",
                 "group": "play"
@@ -155029,11 +154934,6 @@
                 "group": "lockbit5"
             },
             {
-                "date": "2026-02-25",
-                "type": "assessed",
-                "group": "lockbit5"
-            },
-            {
                 "date": "2026-03-04",
                 "type": "assessed",
                 "group": "lockbit5"
@@ -156377,11 +156277,6 @@
             {
                 "date": "2024-07-04",
                 "type": "claimed",
-                "group": "play"
-            },
-            {
-                "date": "2024-05-23",
-                "type": "assessed",
                 "group": "play"
             },
             {
@@ -159988,11 +159883,6 @@
             {
                 "date": "2024-12-03",
                 "type": "claimed",
-                "group": "ransomhub"
-            },
-            {
-                "date": "2024-11-18",
-                "type": "assessed",
                 "group": "ransomhub"
             },
             {
@@ -163675,11 +163565,6 @@
             {
                 "date": "2024-11-03",
                 "type": "claimed",
-                "group": "qilin"
-            },
-            {
-                "date": "2024-09-24",
-                "type": "assessed",
                 "group": "qilin"
             },
             {
@@ -176317,11 +176202,6 @@
             {
                 "date": "2025-02-03",
                 "type": "claimed",
-                "group": "play"
-            },
-            {
-                "date": "2025-01-14",
-                "type": "assessed",
                 "group": "play"
             },
             {
@@ -198515,11 +198395,6 @@
                 "group": "akira"
             },
             {
-                "date": "2025-01-10",
-                "type": "assessed",
-                "group": "akira"
-            },
-            {
                 "date": "2025-01-11",
                 "type": "assessed",
                 "group": "akira"
@@ -201892,11 +201767,6 @@
             {
                 "date": "2025-02-05",
                 "type": "claimed",
-                "group": "play"
-            },
-            {
-                "date": "2025-01-21",
-                "type": "assessed",
                 "group": "play"
             },
             {
@@ -205916,11 +205786,6 @@
             {
                 "date": "2025-02-11",
                 "type": "claimed",
-                "group": "play"
-            },
-            {
-                "date": "2025-01-31",
-                "type": "assessed",
                 "group": "play"
             },
             {
@@ -214101,11 +213966,6 @@
                 "group": "play"
             },
             {
-                "date": "2025-01-29",
-                "type": "assessed",
-                "group": "play"
-            },
-            {
                 "date": "2025-01-30",
                 "type": "assessed",
                 "group": "play"
@@ -219749,11 +219609,6 @@
             {
                 "date": "2025-01-09",
                 "type": "claimed",
-                "group": "akira"
-            },
-            {
-                "date": "2024-12-13",
-                "type": "assessed",
                 "group": "akira"
             },
             {
@@ -226186,11 +226041,6 @@
             {
                 "date": "2024-02-06",
                 "type": "reported"
-            },
-            {
-                "date": "2024-01-30",
-                "type": "assessed",
-                "group": "play"
             },
             {
                 "date": "2024-01-31",
@@ -246223,11 +246073,6 @@
                 "group": "play"
             },
             {
-                "date": "2024-05-28",
-                "type": "assessed",
-                "group": "play"
-            },
-            {
                 "date": "2024-06-12",
                 "type": "assessed",
                 "group": "play"
@@ -255287,11 +255132,6 @@
                 "group": "akira"
             },
             {
-                "date": "2025-02-07",
-                "type": "assessed",
-                "group": "akira"
-            },
-            {
                 "date": "2025-02-08",
                 "type": "assessed",
                 "group": "akira"
@@ -260769,11 +260609,6 @@
                 "group": "play"
             },
             {
-                "date": "2024-06-06",
-                "type": "assessed",
-                "group": "play"
-            },
-            {
                 "date": "2024-06-07",
                 "type": "assessed",
                 "group": "play"
@@ -264701,11 +264536,6 @@
             {
                 "date": "2025-08-30",
                 "type": "claimed",
-                "group": "safepay"
-            },
-            {
-                "date": "2025-08-08",
-                "type": "assessed",
                 "group": "safepay"
             },
             {
@@ -272961,12 +272791,12 @@
             {
                 "date": "2026-06-26",
                 "type": "assessed",
-                "group": "thegentlemen"
+                "group": "thegentlement"
             },
             {
                 "date": "2026-06-26",
                 "type": "assessed",
-                "group": "thegentlement"
+                "group": "thegentlemen"
             }
         ]
     },
@@ -273477,11 +273307,6 @@
                 "group": "play"
             },
             {
-                "date": "2025-01-21",
-                "type": "assessed",
-                "group": "play"
-            },
-            {
                 "date": "2025-01-23",
                 "type": "assessed",
                 "group": "play"
@@ -273893,11 +273718,6 @@
                 "group": "play"
             },
             {
-                "date": "2025-01-31",
-                "type": "assessed",
-                "group": "play"
-            },
-            {
                 "date": "2025-02-01",
                 "type": "assessed",
                 "group": "play"
@@ -274037,11 +273857,6 @@
             {
                 "date": "2026-05-27",
                 "type": "claimed",
-                "group": "qilin"
-            },
-            {
-                "date": "2026-05-02",
-                "type": "assessed",
                 "group": "qilin"
             },
             {
@@ -279460,11 +279275,6 @@
                 "group": "play"
             },
             {
-                "date": "2024-08-17",
-                "type": "assessed",
-                "group": "play"
-            },
-            {
                 "date": "2026-03-19",
                 "type": "assessed",
                 "group": "play"
@@ -279602,11 +279412,6 @@
             {
                 "date": "2026-04-30",
                 "type": "claimed",
-                "group": "worldleaks"
-            },
-            {
-                "date": "2026-04-16",
-                "type": "assessed",
                 "group": "worldleaks"
             },
             {
@@ -281659,11 +281464,6 @@
                 "group": "qilin"
             },
             {
-                "date": "2025-07-18",
-                "type": "assessed",
-                "group": "qilin"
-            },
-            {
                 "date": "2025-08-04",
                 "type": "assessed",
                 "group": "qilin"
@@ -283700,11 +283500,6 @@
                 "group": "qilin"
             },
             {
-                "date": "2025-08-09",
-                "type": "assessed",
-                "group": "qilin"
-            },
-            {
                 "date": "2025-08-10",
                 "type": "assessed",
                 "group": "qilin"
@@ -285486,11 +285281,6 @@
             {
                 "date": "2024-05-03",
                 "type": "claimed",
-                "group": "play"
-            },
-            {
-                "date": "2024-03-11",
-                "type": "assessed",
                 "group": "play"
             },
             {
@@ -299006,7 +298796,7 @@
                 "type": "reported"
             },
             {
-                "date": "2025-02-18",
+                "date": "2026-02-18",
                 "type": "assessed",
                 "group": "akira"
             }
@@ -299044,11 +298834,6 @@
             {
                 "date": "2024-11-02",
                 "type": "reported"
-            },
-            {
-                "date": "2024-11-02",
-                "type": "assessed",
-                "group": "lynx"
             },
             {
                 "date": "2024-11-04",
@@ -326795,11 +326580,6 @@
                 "group": "qilin"
             },
             {
-                "date": "2024-04-07",
-                "type": "assessed",
-                "group": "qilin"
-            },
-            {
                 "date": "2024-05-01",
                 "type": "assessed",
                 "group": "qilin"
@@ -332082,11 +331862,6 @@
             {
                 "date": "2025-02-03",
                 "type": "claimed",
-                "group": "play"
-            },
-            {
-                "date": "2025-01-17",
-                "type": "assessed",
                 "group": "play"
             },
             {
