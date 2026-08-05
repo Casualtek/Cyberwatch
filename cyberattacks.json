@@ -1,5 +1,16 @@
 [
     {
+        "date": "2026-08-04",
+        "victim": "The AME Group",
+        "domain": "theamegroup.com",
+        "country": "USA",
+        "summary": "La Vincennes Community School Corporation a dû fermer temporairement ses serveurs et les services de téléphone et internet de tous les bâtiments scolaires suite à une attaque par ransomware affectant son fournisseur technologique, AME, qui était lui-même victime d'une attaque impliquant l'un de ses clients.",
+        "description": "",
+        "title": "Vincennes Community School Corporation Shuts Down Servers Due to Concerns Over Technology Provider Ransomware Attack",
+        "url": "https://www.wwbl.com/2026/08/04/vincennes-community-school-corporation-shuts-down-servers-due-to-concerns-over-technology-provider-ransomware-attack/",
+        "added": "2026-08-05"
+    },
+    {
         "date": "2026-05-15",
         "victim": "Sodick",
         "domain": "sodick.com",
