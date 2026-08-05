@@ -1,5 +1,16 @@
 [
     {
+        "date": "2026-07-29",
+        "victim": "Beacon CRM",
+        "domain": "beaconcrm.org",
+        "country": "GBR",
+        "summary": "Beacon CRM, une plateforme de gestion de données utilisée par diverses organisations culturelles, a été victime d'une cyberattaque impliquant un accès non autorisé temporaire à ses systèmes. L'incident, découvert le 29 juillet, a entraîné la copie potentielle de sauvegardes de bases de données. Les organisations clientes, telles que Chiswick House and Gardens Trust et English National Ballet (ENB), ont été affectées. Les données potentiellement compromises incluent noms, coordonnées, détails de dons et contacts professionnels. Bien qu'il n'y ait pas de preuve actuelle d'une utilisation abusive ou d'une fuite publique, les organisations clientes sont mises en garde contre les tentatives de phishing ou les sollicitations frauduleuses.",
+        "description": "",
+        "title": "Scores of cultural organisations affected by possible data breach after cyber attack - Arts Professional",
+        "url": "https://www.artsprofessional.co.uk/news/breaking-scores-of-cultural-organisations-affected-by-possible-data-breach-after-cyber-attack",
+        "added": "2026-08-05"
+    },
+    {
         "date": "2026-08-04",
         "victim": "The AME Group",
         "domain": "theamegroup.com",
