@@ -1,5 +1,16 @@
 [
     {
+        "date": "2026-08-02",
+        "victim": "Chambre des salariés (CSL)",
+        "domain": "csl.lu",
+        "country": "LUX",
+        "summary": "La Chambre des salariés (CSL) a confirmé avoir été victime d'une attaque informatique impliquant un accès non autorisé à certains de ses serveurs. L'incident est actuellement contenu, mais des investigations approfondies sont en cours pour déterminer l'origine, la période, l'étendue et les conséquences de cette attaque. La CSL met en garde ses utilisateurs contre les tentatives d'usurpation d'identité (phishing) visant à obtenir des informations confidentielles, des identifiants ou des coordonnées bancaires.",
+        "description": "",
+        "title": "La CSL victime d’une cyberattaque",
+        "url": "https://lequotidien.lu/luxembourg/la-csl-victime-dune-cyberattaque/",
+        "added": "2026-08-05"
+    },
+    {
         "date": "2026-08-03",
         "victim": "Águas de Portugal",
         "domain": "adp.pt",
