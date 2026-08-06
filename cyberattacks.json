@@ -1,5 +1,16 @@
 [
     {
+        "date": "2025-05-29",
+        "victim": "Madera Community Hospital",
+        "domain": "maderahospital.org",
+        "country": "USA",
+        "summary": "Madera Community Hospital, un prestataire de soins de santé basé en Californie, a signalé un incident de sécurité des données survenu en mai 2025. Une partie tierce a accédé au réseau de l'hôpital pendant deux jours. Bien qu'une première enquête n'ait pas identifié de fichiers enlevés, l'hôpital a ensuite estimé qu'un tiers avait acquis des fichiers provenant d'une partie de son réseau. Au total, au moins 150 810 individus ont été affectés. Les données compromises incluent les noms, dates de naissance, coordonnées, identifiants de connexion, numéros de sécurité sociale, détails financiers, informations médicales limitées et informations biométriques. Le groupe derrière l'attaque aurait retiré sa demande d'extorsion après avoir appris que la cible était un hôpital.",
+        "description": "",
+        "title": "Hospital cyber attack exposed 150,000 records; attackers reportedly withdrew extortion demand",
+        "url": "https://www.teiss.co.uk/news/hospital-cyber-attack-exposed-150000-records-attackers-reportedly-withdrew-extortion-demand-17934",
+        "added": "2026-08-06"
+    },
+    {
         "date": "2026-08-05",
         "victim": "Municipalité de Sithonie",
         "domain": "dimossithonias.gr",
