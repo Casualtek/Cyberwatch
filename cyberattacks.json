@@ -1,5 +1,16 @@
 [
     {
+        "date": "2026-08-05",
+        "victim": "HostDZire",
+        "domain": "hostdzire.com",
+        "country": "IND",
+        "summary": "HostDZire a été victime d'une attaque par ransomware ayant affecté plusieurs nœuds de virtualisation VMware ESXi. L'incident, survenu vers 02:00 UTC, a entraîné le chiffrement des disques virtuels et la perte totale des données sur les nœuds affectés. Les services VMware basés en Inde, aux Pays-Bas et aux États-Unis ont été touchés. L'attaque est présumée être due à une vulnérabilité récemment divulguée de VMware. L'entreprise est en phase de reconstruction complète de l'infrastructure et de déploiement des services de remplacement, mais les données perdues ne peuvent pas être récupérées sans sauvegarde externe. Les services KVM et Leaseweb VPS n'ont pas été affectés.",
+        "description": "",
+        "title": "Critical Service Incident – Ransomware Attack on VMware Infrastructure ( Updated On 4 AM IST | 10:43 PM UTC )",
+        "url": "https://hostdzire.com/billing/index.php?rp=/announcements/48/Critical-Service-Incident--Ransomware-Attack-on-VMware-Infrastructure.html",
+        "added": "2026-08-06"
+    },
+    {
         "date": "2026-02-26",
         "victim": "UTHGRA",
         "domain": "uthgra.org.ar",
