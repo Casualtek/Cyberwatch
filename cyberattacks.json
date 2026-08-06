@@ -1,5 +1,16 @@
 [
     {
+        "date": "2026-06-15",
+        "victim": "Société d’énergie et d’eau du Gabon (SEEG)",
+        "domain": "seeg.ga",
+        "country": "GAB",
+        "summary": "La SEEG, Société d’énergie et d’eau du Gabon, a été victime d’un « acte de sabotage » informatique majeur. L'attaque, survenue dans la nuit du 14 au 15 juin 2026, a provoqué l'effondrement de près de 95 % de ses infrastructures et systèmes informatiques. Après près de deux mois de crise, la SEEG affirme avoir progressivement restauré ses principaux services numériques et avoir renforcé sa sécurité. Les auteurs de l'attaque restent non identifiés.",
+        "description": "",
+        "title": "Cybersécurité : la SEEG révèle avoir perdu près de 95 % de ses infrastructures informatiques",
+        "url": "https://gabonmediatime.com/cybersecurite-la-seeg-revele-avoir-perdu-pres-de-95-de-ses-infrastructures-informatiques/",
+        "added": "2026-08-06"
+    },
+    {
         "date": "2026-08-04",
         "victim": "North Carolina Ports",
         "domain": "ncports.com",
