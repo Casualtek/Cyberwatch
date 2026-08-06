@@ -1,5 +1,16 @@
 [
     {
+        "date": "2026-08-05",
+        "victim": "Caravan.kz",
+        "domain": "caravan.kz",
+        "country": "KAZ",
+        "summary": "Caravan.kz a été victime d'une cyberattaque par rançongiciel. Les attaquants, qui se présentaient comme le groupe Black Field, ont exigé une rançon, menaçant de publier des données corporatives ou personnelles copiées ou falsifiées. L'équipe technique a travaillé sans relâche pour contenir l'attaque et restaurer le service. Les autorités compétentes du Kazakhstan ont été informées et collaborent au dossier.",
+        "description": "",
+        "title": "Caravan.kz подвергся кибератаке: редакция публикует официальное заявление",
+        "url": "https://www.caravan.kz/amp/news/caravan-kz-podvergsja-kiberatake-redakcija-publikuet-oficialnoe-zajavlenie/",
+        "added": "2026-08-06"
+    },
+    {
         "date": "2026-07-04",
         "victim": "CEVA Logistics",
         "domain": "cevalogistics.com",
