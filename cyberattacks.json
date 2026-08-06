@@ -1,5 +1,16 @@
 [
     {
+        "date": "2026-08-05",
+        "victim": "Municipalité de Sithonie",
+        "domain": "dimossithonias.gr",
+        "country": "GR",
+        "summary": "La municipalité de Sithonie, en Grèce, ont été frappés par une attaque par ransomware. Cette cyberattaque a touché simultanément l'administration centrale et la gestion des ports et abris pour bateaux de la région. L'enquête a été confiée à la Direction du crime électronique de la police hellénique et l'Autorité de protection des données personnelles a été informée. À ce stade, la nature des données interceptées reste inconnue et des incertitudes subsistent quant à l'existence de copies de sauvegarde fonctionnelles pour rétablir les systèmes.",
+        "description": "",
+        "title": "Access Blocked",
+        "url": "https://www.secnews.gr/en/725557/ransomware-sithonia-dimos-limeniko-tameio/",
+        "added": "2026-08-06"
+    },
+    {
         "date": "2026-06-15",
         "victim": "Société d’énergie et d’eau du Gabon (SEEG)",
         "domain": "seeg.ga",
