@@ -1,6 +1,28 @@
 [
     {
         "date": "2026-08-05",
+        "victim": "Administration cantonale des Grisons",
+        "domain": "gr.ch",
+        "country": "CHE",
+        "summary": "Les serveurs SharePoint de l'administration cantonale des Grisons ont été victimes d'une cyberattaque. Bien qu'une première analyse n'indique pas de perte de données ou de comptes compromis, l'attaque est probablement due à l'exploitation de vulnérabilités logicielles de Microsoft SharePoint. L'autorité cantonale procède à un étranglement du site web pour appliquer une mise à jour de sécurité. L'incident est similaire à un incident survenu mardi aux serveurs de la Confédération, où environ 200 comptes ont été compromis.",
+        "description": "",
+        "title": "Ciberattacco a un server del Canton Grigioni",
+        "url": "https://www.bluewin.ch/it/attualita/svizzera/ciberattacco-a-un-server-del-canton-grigioni-li.3553333",
+        "added": "2026-08-06"
+    },
+    {
+        "date": "2025-08-03",
+        "victim": "DeVaughn James LLC",
+        "domain": "devaughnjames.com",
+        "country": "USA",
+        "summary": "Un cabinet d'avocats du Kansas a intenté un procès contre son assureur cybernétique, Palomar Excess & Surplus Insurance Co., après qu'une attaque par ransomware ait paralysé ses opérations pendant cinq jours ouvrables. Le cabinet, DeVaughn James LLC, réclamait plus de 75 000 $ en dommages et intérêts pour le refus de paiement de la réclamation. L'attaque par ransomware aurait infecté les systèmes informatiques le 3 août 2025.",
+        "description": "",
+        "title": "Kansas Law Firm Sues Insurer Palomar Seeking Ransomware Coverage",
+        "url": "https://news.bloomberglaw.com/insurance/kansas-law-firm-sues-insurer-palomar-seeking-ransomware-coverage",
+        "added": "2026-08-06"
+    },
+    {
+        "date": "2026-08-05",
         "victim": "Caravan.kz",
         "domain": "caravan.kz",
         "country": "KAZ",
