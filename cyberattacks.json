@@ -1,5 +1,16 @@
 [
     {
+        "date": "2026-08-04",
+        "victim": "North Carolina Ports",
+        "domain": "ncports.com",
+        "country": "USA",
+        "summary": "Les Ports de Caroline du Nord ont été victimes d'une cyberattaque qui a perturbé les opérations de leurs trois installations portuaires. L'incident, survenu le mardi soir, a nécessité l'activation du plan de contingence en cybersécurité et le passage à un traitement manuel des portes. L'attaque est désormais contenue, mais aucun calendrier pour la restauration complète des systèmes n'a été fourni. L'identité de l'acteur externe ou du groupe responsable n'a pas été divulguée, et il n'y a pas eu indication de compromission de données sensibles.",
+        "description": "",
+        "title": "Cyberattack disrupts operations at NC Ports in Wilmington, Morehead City and Charlotte",
+        "url": "https://www.wect.com/2026/08/05/cyberattack-disrupts-operations-nc-ports-wilmington-morehead-city-charlotte/",
+        "added": "2026-08-06"
+    },
+    {
         "date": "2026-08-05",
         "victim": "Administration cantonale des Grisons",
         "domain": "gr.ch",
