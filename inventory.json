@@ -170193,6 +170193,17 @@
                 "date": "2026-07-31",
                 "type": "claimed",
                 "group": "thegentlemen"
+            },
+            {
+                "date": "2026-08-06",
+                "type": "discovered",
+                "summary": "La tribu indienne de Kenaitze a été victime d'un incident de cybersécurité qui a perturbé ses systèmes téléphoniques, par courriel et informatiques depuis plus d'une semaine. L'incident, lié à une attaque par rançongiciel attribuée au groupe se nommant TheGentlemen, a entraîné la limitation des services publics. La tribu n'a pas confirmé l'attaque par rançongiciel, le vol de données ou une demande de rançon, mais elle a utilisé des lignes téléphoniques temporaires pour maintenir les services essentiels.",
+                "title": "Cybersecurity incident limits Kenaitze Indian Tribe services in Alaska",
+                "url": "https://dysruptionhub.com/kenaitze-alaska-cyber-incident/"
+            },
+            {
+                "date": "2026-07-27",
+                "type": "reported"
             }
         ]
     },
