@@ -1,5 +1,16 @@
 [
     {
+        "date": "2026-08-06",
+        "victim": "Washburn County",
+        "domain": "washburncounty.org",
+        "country": "USA",
+        "summary": "Le gouvernement du comté de Washburn est actuellement victime d'une cyberattaque, obligeant les autorités à mettre hors ligne tous les systèmes du comté. Les services d'urgence 911 restent opérationnels.",
+        "description": "",
+        "title": "Washburn County experiencing cyber attack",
+        "url": "https://www.wqow.com/news/washburn-county-experiencing-cyber-attack/article_c084b4be-7812-49a1-9827-2df604120965.html",
+        "added": "2026-08-07"
+    },
+    {
         "date": "2026-08-05",
         "victim": "Universidad Autónoma de San Luis Potosí (UASLP)",
         "domain": "uaslp.mx",
