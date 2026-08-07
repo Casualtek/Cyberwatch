@@ -1,5 +1,16 @@
 [
     {
+        "date": "2026-08-05",
+        "victim": "Universidad Autónoma de San Luis Potosí (UASLP)",
+        "domain": "uaslp.mx",
+        "country": "MEX",
+        "summary": "L'Universidad Autónoma de San Luis Potosí (UASLP) a été victime d'un incident de cybersécurité qui a affecté plusieurs de ses systèmes universitaires, notamment la Caja Virtual. Cet incident, survenu le mercredi, a mis temporairement hors service cette plateforme. En conséquence, l'institution a annoncé l'extension de la date limite pour les paiements d'inscription et de réinscription, mais n'a fourni aucun détail supplémentaire sur la nature de l'attaque ou les systèmes touchés.",
+        "description": "",
+        "title": "agosto 7, 2026 | San Luis Potosí, SLP",
+        "url": "https://periodicoelmomento.com/ciberataque-afecta-caja-virtual-de-la-uaslp/",
+        "added": "2026-08-07"
+    },
+    {
         "date": "2026-07-27",
         "victim": "Kenaitze Indian Tribe",
         "domain": "kenaitze.org",
