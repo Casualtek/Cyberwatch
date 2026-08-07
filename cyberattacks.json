@@ -1,5 +1,16 @@
 [
     {
+        "date": "2026-08-01",
+        "victim": "Biosynex",
+        "domain": "biosynex.com",
+        "country": "FRA",
+        "summary": "Biosynex, un spécialiste alsacien du diagnostic médical, a confirmé avoir subi une intrusion informatique au début du mois d'août. Bien que l'attaque ait été détectée et circonscrite, les vérifications indiquent que les données personnelles touchées se limitent aux informations professionnelles (coordonnées et documents d'activité). L'entreprise a notifié l'incident aux autorités compétentes, dont la CNIL, et a déposé plainte.",
+        "description": "",
+        "title": "Biosynex victime d'une cyberattaque, l'activité opérationnelle préservée",
+        "url": "https://www.boursorama.com/bourse/actualites-amp/biosynex-victime-d-une-cyberattaque-l-activite-operationnelle-preservee-46e8e2c038e42424a5389e8e83734189",
+        "added": "2026-08-07"
+    },
+    {
         "date": "2026-08-06",
         "victim": "Washburn County",
         "domain": "washburncounty.org",
