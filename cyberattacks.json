@@ -1,6 +1,39 @@
 [
     {
         "date": "2026-08-01",
+        "victim": "Levi Strauss",
+        "domain": "levistrauss.com",
+        "country": "USA",
+        "summary": "Levi Strauss a divulgué un incident de cybersécurité récent où un tiers non autorisé a accédé aux systèmes de l'entreprise grâce à une attaque d'ingénierie sociale ciblant trois employés. Bien que l'incident n'ait pas perturbé les opérations commerciales, les premières conclusions indiquent qu'une certaine information corporative a été consultée et extraite. L'attaque s'inscrit dans une tendance plus large de cyberattaques ciblant des entreprises américaines, dont Levi Strauss.",
+        "description": "",
+        "title": "Levi Strauss hit by cyberattack amid wave of breaches - Egyptian Gazette",
+        "url": "https://egyptian-gazette.com/technology/levi-strauss-hit-by-cyberattack-amid-wave-of-breaches/",
+        "added": "2026-08-07"
+    },
+    {
+        "date": "2026-07-16",
+        "victim": "Verbandsgemeinde Rhein-Nahe",
+        "domain": "vgrn.de",
+        "country": "DEU",
+        "summary": "La Verbandsgemeinde Rhein-Nahe est actuellement affectée par une cyberattaque qui limite ses services publics, sa gestion financière et la communication par e-mail. L'attaque, découverte le 16 juillet, est attribuée à une tentative de rançongiciel (ransomware) visant à extorquer une rançon. Les autorités locales affirment que l'attaque est externe et qu'elle n'est pas due à une erreur utilisateur ou à une attaque par phishing. Les spécialistes ont détecté des tentatives d'accès provenant de Russie et d'autres pays européens. La municipalité est en train de restaurer ses systèmes, mais cela prendra plusieurs jours, et les coûts de réponse sont estimés à plusieurs dizaines de milliers d'euros.",
+        "description": "",
+        "title": "Cyberangriff in Rhein-Nahe: Bürgerdienste eingeschränkt",
+        "url": "https://www.wochenblatt-reporter.de/c-ratgeber/cyberangriff-in-rhein-nahe-buergerdienste-eingeschraenkt_a846282",
+        "added": "2026-08-07"
+    },
+    {
+        "date": "2026-08-06",
+        "victim": "Frey Wille",
+        "domain": "freywille.com",
+        "country": "AUT",
+        "summary": "Le détaillant de bijoux Frey Wille a été victime d'une cyberattaque au début du mois d'août. Des données commerciales et personnelles des clients ont été compromises, incluant les coordonnées, les données contractuelles, de communication et de facturation. L'entreprise a fait appel à des spécialistes en cybersécurité et en informatique légale, et les autorités compétentes ainsi que la police ont été informées. L'entreprise travaille à informer individuellement les personnes et entreprises touchées, y compris les anciens employés, et conseille aux personnes potentiellement affectées de rester vigilantes face aux tentatives de phishing.",
+        "description": "",
+        "title": "Cyberangriff auf Schmuckhändler Frey Wille",
+        "url": "https://kurier.at/wirtschaft/frey-wille-cyberangriff-auf-schmuckhaendler/403180440",
+        "added": "2026-08-07"
+    },
+    {
+        "date": "2026-08-01",
         "victim": "Biosynex",
         "domain": "biosynex.com",
         "country": "FRA",
