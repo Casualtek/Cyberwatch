@@ -15980,6 +15980,18 @@
         ]
     },
     {
+        "victim": "Akuur Law Firm",
+        "domain": "akugurlaw.com",
+        "country": "TR",
+        "timeline": [
+            {
+                "date": "2026-08-06",
+                "type": "claimed",
+                "group": "qilin"
+            }
+        ]
+    },
+    {
         "victim": "Akumin",
         "domain": "akumin.com",
         "country": "",
@@ -17661,6 +17673,18 @@
                 "date": "2023-03-23",
                 "type": "claimed",
                 "group": "clop"
+            }
+        ]
+    },
+    {
+        "victim": "ALIZE (alize-sud.fr)",
+        "domain": "alize-sud.fr",
+        "country": "FR",
+        "timeline": [
+            {
+                "date": "2026-08-06",
+                "type": "claimed",
+                "group": "qilin"
             }
         ]
     },
@@ -21912,6 +21936,18 @@
                 "date": "2025-05-23",
                 "type": "assessed",
                 "group": "akira"
+            }
+        ]
+    },
+    {
+        "victim": "AmSpec",
+        "domain": "amspecgroup.com",
+        "country": "US",
+        "timeline": [
+            {
+                "date": "2026-08-06",
+                "type": "claimed",
+                "group": "qilin"
             }
         ]
     },
@@ -37657,6 +37693,18 @@
         ]
     },
     {
+        "victim": "Basic Grain Products",
+        "domain": "basicgrain.ca",
+        "country": "CA",
+        "timeline": [
+            {
+                "date": "2026-08-06",
+                "type": "claimed",
+                "group": "akira"
+            }
+        ]
+    },
+    {
         "victim": "Basilio Advogados",
         "domain": "basilioadvogados.com.br",
         "country": "BR",
@@ -39523,6 +39571,18 @@
             {
                 "date": "2026-01-14",
                 "type": "reported"
+            }
+        ]
+    },
+    {
+        "victim": "City of Beacon",
+        "domain": "beaconny.gov",
+        "country": "US",
+        "timeline": [
+            {
+                "date": "2026-07-23",
+                "type": "claimed",
+                "group": "ransomhouse"
             }
         ]
     },
@@ -45368,6 +45428,18 @@
                 "date": "2025-03-13",
                 "type": "assessed",
                 "group": "safepay"
+            }
+        ]
+    },
+    {
+        "victim": "Bloom Financials",
+        "domain": "bloomfinancials.com",
+        "country": "GB",
+        "timeline": [
+            {
+                "date": "2026-08-04",
+                "type": "claimed",
+                "group": "qilin"
             }
         ]
     },
@@ -53802,6 +53874,18 @@
                 "date": "2026-02-27",
                 "type": "assessed",
                 "group": "play"
+            }
+        ]
+    },
+    {
+        "victim": "RS Automation Co., Ltd.",
+        "domain": "cable-peeler.com",
+        "country": "CN",
+        "timeline": [
+            {
+                "date": "2026-08-06",
+                "type": "claimed",
+                "group": "Barracuda"
             }
         ]
     },
@@ -69573,6 +69657,18 @@
         ]
     },
     {
+        "victim": "clubonecasino.com",
+        "domain": "clubonecasino.com",
+        "country": "US",
+        "timeline": [
+            {
+                "date": "2026-08-06",
+                "type": "claimed",
+                "group": "threeam"
+            }
+        ]
+    },
+    {
         "victim": "Woodside",
         "domain": "clubwoodside.com",
         "country": "US",
@@ -81106,6 +81202,18 @@
                 "date": "2023-11-21",
                 "type": "claimed",
                 "group": "hunters"
+            }
+        ]
+    },
+    {
+        "victim": "Crystal Pharmatech",
+        "domain": "crystalpharmatech.com",
+        "country": "US",
+        "timeline": [
+            {
+                "date": "2026-08-06",
+                "type": "claimed",
+                "group": "qilin"
             }
         ]
     },
@@ -100295,6 +100403,18 @@
         ]
     },
     {
+        "victim": "EduSpa",
+        "domain": "eduspa.com",
+        "country": "US",
+        "timeline": [
+            {
+                "date": "2026-08-05",
+                "type": "claimed",
+                "group": "dragonforce"
+            }
+        ]
+    },
+    {
         "victim": "Edward Beiner",
         "domain": "edwardbeiner.com",
         "country": "US",
@@ -112936,6 +113056,18 @@
         ]
     },
     {
+        "victim": "First Baptist Church of Belleview",
+        "domain": "fbcbelleview.org",
+        "country": "US",
+        "timeline": [
+            {
+                "date": "2026-08-06",
+                "type": "claimed",
+                "group": "Orova"
+            }
+        ]
+    },
+    {
         "victim": "First Baptist Church of Hammond",
         "domain": "fbchammond.com",
         "country": "US",
@@ -124929,6 +125061,18 @@
         ]
     },
     {
+        "victim": "GCATS Investments",
+        "domain": "gcatstx.com",
+        "country": "US",
+        "timeline": [
+            {
+                "date": "2026-08-06",
+                "type": "claimed",
+                "group": "play"
+            }
+        ]
+    },
+    {
         "victim": "Guan Chong Berhad",
         "domain": "gcbcocoa.com",
         "country": "MY",
@@ -125700,6 +125844,18 @@
                 "date": "2024-11-23",
                 "type": "claimed",
                 "group": "raworld"
+            }
+        ]
+    },
+    {
+        "victim": "Gemstone UK",
+        "domain": "gemstoneuk.com",
+        "country": "US",
+        "timeline": [
+            {
+                "date": "2026-08-06",
+                "type": "claimed",
+                "group": "Orova"
             }
         ]
     },
@@ -144985,6 +145141,18 @@
         ]
     },
     {
+        "victim": "Hilliard's Air Conditioning & Heating Inc",
+        "domain": "hilliardsairandheat.com",
+        "country": "US",
+        "timeline": [
+            {
+                "date": "2026-08-06",
+                "type": "claimed",
+                "group": "Orova"
+            }
+        ]
+    },
+    {
         "victim": "Hill International",
         "domain": "hillintl.com",
         "country": "",
@@ -147310,6 +147478,18 @@
                 "date": "2023-09-26",
                 "type": "claimed",
                 "group": "losttrust"
+            }
+        ]
+    },
+    {
+        "victim": "Hope's Windows",
+        "domain": "hopeswindows.com",
+        "country": "US",
+        "timeline": [
+            {
+                "date": "2026-08-06",
+                "type": "claimed",
+                "group": "cry0"
             }
         ]
     },
@@ -162784,6 +162964,18 @@
         ]
     },
     {
+        "victim": "Jakle & Alexander",
+        "domain": "jaklelaw.com",
+        "country": "US",
+        "timeline": [
+            {
+                "date": "2026-08-06",
+                "type": "claimed",
+                "group": "qilin"
+            }
+        ]
+    },
+    {
         "victim": "jakn.com",
         "domain": "jakn.com",
         "country": "US",
@@ -164407,6 +164599,18 @@
                 "date": "2025-06-02",
                 "type": "claimed",
                 "group": "kairos"
+            }
+        ]
+    },
+    {
+        "victim": "www.jerryleigh.com",
+        "domain": "jerryleigh.com",
+        "country": "US",
+        "timeline": [
+            {
+                "date": "2026-08-06",
+                "type": "claimed",
+                "group": "lynx"
             }
         ]
     },
@@ -166956,6 +167160,18 @@
                 "date": "2025-03-31",
                 "type": "claimed",
                 "group": "dragonforce"
+            }
+        ]
+    },
+    {
+        "victim": "J&T Bank and Trust",
+        "domain": "jtbanktrust.com",
+        "country": "US",
+        "timeline": [
+            {
+                "date": "2026-08-06",
+                "type": "claimed",
+                "group": "qilin"
             }
         ]
     },
@@ -172281,6 +172497,18 @@
                 "date": "2025-11-26",
                 "type": "claimed",
                 "group": "direwolf"
+            }
+        ]
+    },
+    {
+        "victim": "King International LLC",
+        "domain": "kingsinternational.us",
+        "country": "US",
+        "timeline": [
+            {
+                "date": "2026-08-06",
+                "type": "claimed",
+                "group": "Gammax"
             }
         ]
     },
@@ -190116,6 +190344,18 @@
         ]
     },
     {
+        "victim": "Magnolia Dental",
+        "domain": "magnoliadentalclinic.com",
+        "country": "US",
+        "timeline": [
+            {
+                "date": "2026-08-06",
+                "type": "claimed",
+                "group": "Orova"
+            }
+        ]
+    },
+    {
         "victim": "Magnolia Manor (magnoliamanor.com)",
         "domain": "magnoliamanor.com",
         "country": "US",
@@ -191955,6 +192195,18 @@
                 "date": "2025-01-27",
                 "type": "claimed",
                 "group": "dragonforce"
+            }
+        ]
+    },
+    {
+        "victim": "David King Architect",
+        "domain": "mapquest.com",
+        "country": "US",
+        "timeline": [
+            {
+                "date": "2026-08-06",
+                "type": "claimed",
+                "group": "Orova"
             }
         ]
     },
@@ -196392,6 +196644,23 @@
                 "date": "2024-01-23",
                 "type": "assessed",
                 "group": "play"
+            }
+        ]
+    },
+    {
+        "victim": "City of McMinnville OR",
+        "domain": "mcminnvilleoregon.gov",
+        "country": "US",
+        "timeline": [
+            {
+                "date": "2026-07-16",
+                "type": "claimed",
+                "group": "ransomhouse"
+            },
+            {
+                "date": "2026-08-03",
+                "type": "claimed",
+                "group": "ransomhouse"
             }
         ]
     },
@@ -201850,6 +202119,18 @@
         ]
     },
     {
+        "victim": "Micro-Comm Inc.",
+        "domain": "micro-comm.com",
+        "country": "US",
+        "timeline": [
+            {
+                "date": "2026-08-05",
+                "type": "claimed",
+                "group": "Barracuda"
+            }
+        ]
+    },
+    {
         "victim": "MicroPrecision",
         "domain": "micro-precision.com",
         "country": "US",
@@ -204509,6 +204790,18 @@
                 "date": "2025-11-26",
                 "type": "claimed",
                 "group": "direwolf"
+            }
+        ]
+    },
+    {
+        "victim": "MITC AG",
+        "domain": "mitc.ch",
+        "country": "CH",
+        "timeline": [
+            {
+                "date": "2026-08-06",
+                "type": "claimed",
+                "group": "bravox"
             }
         ]
     },
@@ -211871,6 +212164,18 @@
                 "date": "2023-05-02",
                 "type": "claimed",
                 "group": "clop"
+            }
+        ]
+    },
+    {
+        "victim": "St Theresa Catholic Church",
+        "domain": "mystcc.org",
+        "country": "US",
+        "timeline": [
+            {
+                "date": "2026-08-06",
+                "type": "claimed",
+                "group": "Orova"
             }
         ]
     },
@@ -223600,6 +223905,18 @@
                 "date": "2024-11-01",
                 "type": "assessed",
                 "group": "ransomhub"
+            }
+        ]
+    },
+    {
+        "victim": "Namyang Industrial Co., Ltd. \\ NAMYANG NEXMO",
+        "domain": "nynexmo.com",
+        "country": "KR",
+        "timeline": [
+            {
+                "date": "2026-08-05",
+                "type": "claimed",
+                "group": "Barracuda"
             }
         ]
     },
@@ -237729,6 +238046,18 @@
         ]
     },
     {
+        "victim": "Pharma Test Apparatebau AG",
+        "domain": "pharma.test.de",
+        "country": "CH",
+        "timeline": [
+            {
+                "date": "2026-08-06",
+                "type": "claimed",
+                "group": "akira"
+            }
+        ]
+    },
+    {
         "victim": "Pharmacare",
         "domain": "pharmacareservices.com",
         "country": "",
@@ -240663,6 +240992,18 @@
         ]
     },
     {
+        "victim": "Platinum Group",
+        "domain": "platinum-grp.com",
+        "country": "US",
+        "timeline": [
+            {
+                "date": "2026-08-06",
+                "type": "claimed",
+                "group": "play"
+            }
+        ]
+    },
+    {
         "victim": "Platinum Collision",
         "domain": "platinumcollision.com",
         "country": "US",
@@ -243526,6 +243867,18 @@
         ]
     },
     {
+        "victim": "Park Place Behavioral Health Care",
+        "domain": "ppbh.org",
+        "country": "US",
+        "timeline": [
+            {
+                "date": "2026-06-25",
+                "type": "claimed",
+                "group": "insomnia"
+            }
+        ]
+    },
+    {
         "victim": "PPC Mechanical Seals",
         "domain": "ppcmechanicalseals.com",
         "country": "US",
@@ -245200,6 +245553,18 @@
             {
                 "date": "2024-08-24",
                 "type": "reported"
+            }
+        ]
+    },
+    {
+        "victim": "Primary Eye Care",
+        "domain": "primaryeyecareneworleans.com",
+        "country": "US",
+        "timeline": [
+            {
+                "date": "2026-08-05",
+                "type": "claimed",
+                "group": "dragonforce"
             }
         ]
     },
@@ -256853,6 +257218,18 @@
                 "date": "2023-05-05",
                 "type": "claimed",
                 "group": "rancoz"
+            }
+        ]
+    },
+    {
+        "victim": "Woodside Ranch",
+        "domain": "ricewoodside.com",
+        "country": "US",
+        "timeline": [
+            {
+                "date": "2026-08-06",
+                "type": "claimed",
+                "group": "Orova"
             }
         ]
     },
@@ -276381,6 +276758,18 @@
         ]
     },
     {
+        "victim": "Signature Services",
+        "domain": "signatureservices.net",
+        "country": "US",
+        "timeline": [
+            {
+                "date": "2026-08-06",
+                "type": "claimed",
+                "group": "play"
+            }
+        ]
+    },
+    {
         "victim": "Signazon_USA",
         "domain": "signazon.com",
         "country": "US",
@@ -278863,6 +279252,18 @@
                 "date": "2024-02-12",
                 "type": "assessed",
                 "group": "play"
+            }
+        ]
+    },
+    {
+        "victim": "Ferrell \\ Skyline Implants & Periodontics \\ Dr. Scott Ferguson",
+        "domain": "skylineperio.com",
+        "country": "",
+        "timeline": [
+            {
+                "date": "2026-08-05",
+                "type": "claimed",
+                "group": "Barracuda"
             }
         ]
     },
@@ -288733,6 +289134,18 @@
         ]
     },
     {
+        "victim": "Stonecrest POA",
+        "domain": "stonecrestranchpoa.com",
+        "country": "US",
+        "timeline": [
+            {
+                "date": "2026-08-06",
+                "type": "claimed",
+                "group": "Orova"
+            }
+        ]
+    },
+    {
         "victim": "Stone Fox Ventures",
         "domain": "stonefoxventures.com",
         "country": "",
@@ -288789,6 +289202,18 @@
                 "date": "2023-03-21",
                 "type": "claimed",
                 "group": "abyss"
+            }
+        ]
+    },
+    {
+        "victim": "Stoneybrook West Master Association, Inc",
+        "domain": "stoneybrookwest.sites.townsq.io",
+        "country": "US",
+        "timeline": [
+            {
+                "date": "2026-08-06",
+                "type": "claimed",
+                "group": "Orova"
             }
         ]
     },
@@ -295041,6 +295466,18 @@
         ]
     },
     {
+        "victim": "www.talbotdes.org",
+        "domain": "talbotdes.org",
+        "country": "GB",
+        "timeline": [
+            {
+                "date": "2026-08-06",
+                "type": "claimed",
+                "group": "lynx"
+            }
+        ]
+    },
+    {
         "victim": "TALENTUM Temporal SAS",
         "domain": "talentum.com.co",
         "country": "CO",
@@ -297749,6 +298186,29 @@
                 "date": "2026-06-15",
                 "type": "claimed",
                 "group": "spacebears"
+            }
+        ]
+    },
+    {
+        "victim": "TECHVENTURES BANK S.A.",
+        "domain": "techventures.bank",
+        "country": "PA",
+        "timeline": [
+            {
+                "date": "2026-08-03",
+                "type": "claimed",
+                "group": "ransomhouse"
+            },
+            {
+                "date": "2026-08-05",
+                "type": "discovered",
+                "summary": "Le DNSC (Directoratul Național de Securitate Cibernetică) a fourni son assistance à Techventures Bank S.A. après qu'elle ait signalé une cyberattaque par ransomware. L'incident a été notifié le 2 août 2026. Les autorités collaborent avec la banque pour limiter les effets de l'attaque et enquêter sur l'incident. Aucune information concernant l'impact, les systèmes affectés ou la compromission des données clients n'a été rendue publique à ce stade.",
+                "title": "DNSC oferă asistență Techventures Bank după un atac cibernetic de tip ransomware - Financial Intelligence",
+                "url": "https://financialintelligence.ro/dnsc-ofera-asistenta-techventures-bank-dupa-un-atac-cibernetic-de-tip-ransomware/"
+            },
+            {
+                "date": "2026-08-02",
+                "type": "reported"
             }
         ]
     },
@@ -320824,6 +321284,18 @@
                 "date": "2025-11-30",
                 "type": "claimed",
                 "group": "qilin"
+            }
+        ]
+    },
+    {
+        "victim": "Country Oaks Veterinary Clinic",
+        "domain": "vetstopets.com",
+        "country": "US",
+        "timeline": [
+            {
+                "date": "2026-08-06",
+                "type": "claimed",
+                "group": "Orova"
             }
         ]
     },
