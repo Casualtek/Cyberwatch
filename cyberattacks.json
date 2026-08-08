@@ -1,5 +1,16 @@
 [
     {
+        "date": "2026-08-05",
+        "victim": "City of Coweta",
+        "domain": "cityofcoweta-ok.gov",
+        "country": "USA",
+        "summary": "La ville de Coweta, au Oklahoma, est actuellement confrontée à une attaque par ransomware. L'incident a débuté le mercredi 5 août et a affecté tous les ordinateurs, fichiers et services informatisés de la ville, bien que le site web et le portail de facturation tiers n'aient pas été touchés. Les services d'urgence (Police et Pompiers) utilisant des serveurs externes sont toujours opérationnels. Les systèmes de la ville sont actuellement hors service, mais une sauvegarde existe pour permettre la restauration des données une fois l'attaque maîtrisée.",
+        "description": "",
+        "title": "City of Coweta hit with system-wide ransomware attack, has backup - DataBreaches.Net",
+        "url": "https://databreaches.net/2026/08/07/city-of-coweta-hit-with-system-wide-ransomware-attack-has-backup/",
+        "added": "2026-08-08"
+    },
+    {
         "date": "2026-08-01",
         "victim": "Levi Strauss",
         "domain": "levistrauss.com",
