@@ -1,5 +1,16 @@
 [
     {
+        "date": "2026-08-03",
+        "victim": "Sawyer Savings Bank",
+        "domain": "sawyersavings.bank",
+        "country": "USA",
+        "summary": "La Sawyer Savings Bank a dû fermer ses succursales de New York suite à une perturbation réseau liée à un incident de sécurité des données impliquant une vulnérabilité chez un de ses fournisseurs. L'incident a commencé le lundi 3 août, et bien que les services bancaires numériques (guichets automatiques, banque en ligne) soient restés opérationnels, la banque a indiqué qu'aucune preuve n'avait été trouvée jusqu'à présent concernant l'atteinte aux comptes clients. L'enquête sur la nature et l'étendue de l'incident est toujours en cours.",
+        "description": "",
+        "title": "Sawyer Savings Bank of New York keeps branches closed amid possible data security incident",
+        "url": "https://dysruptionhub.com/sawyer-savings-bank-security-incident-ny/",
+        "added": "2026-08-09"
+    },
+    {
         "date": "2026-07-15",
         "victim": "Oklahoma Manufacturing Alliance",
         "domain": "okalliance.com",
