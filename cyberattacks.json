@@ -1,5 +1,16 @@
 [
     {
+        "date": "2026-07-15",
+        "victim": "Oklahoma Manufacturing Alliance",
+        "domain": "okalliance.com",
+        "country": "USA",
+        "summary": "L'Oklahoma Manufacturing Alliance (OMA) a détecté une activité de ransomware le 15 juillet, ciblant deux ordinateurs employés et affectant une partie limitée de son réseau local. Le groupe de ransomware, connu sous le nom de Booba Project, a affirmé avoir pénétré les systèmes et obtenu 10 gigaoctets de données, menaçant de les publier en échange d'une rançon. L'OMA affirme que ses dossiers clients n'ont pas été compromis, car ils sont maintenus sur un système séparé. L'incident a été rapidement isolé et les systèmes restaurés via un réseau sécurisé.",
+        "description": "",
+        "title": "Oklahoma Manufacturing Alliance targeted in ransomware attack",
+        "url": "https://www.news9.com/oklahoma-city-news/oklahoma-manufacturing-alliance-targeted-in-ransomware-attack",
+        "added": "2026-08-09"
+    },
+    {
         "date": "2026-08-06",
         "victim": "Woodhaven Lakes",
         "domain": "woodhavenassociation.com",
