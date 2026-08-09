@@ -1,5 +1,16 @@
 [
     {
+        "date": "2026-08-08",
+        "victim": "Suisun City",
+        "domain": "suisun.com",
+        "country": "USA",
+        "summary": "Les autorités de la ville de Suisun ont déclaré l'état d'urgence le samedi 8 août après qu'une cyberattaque ait mis hors service la ligne de répartition des urgences et d'autres systèmes clés. L'infection par un logiciel malveillant est survenue vendredi vers 5h45, forçant la ville à fermer son réseau informatique. Les opérations de sécurité publique critiques, y compris le routage des appels 911 et les lignes de répartition des pompiers et de la police, ont été interrompues. Les équipes de répartition de Suisun ont dû déménager dans un centre de répartition d'urgence du comté de Solano. Une enquête fédérale est en cours avec le FBI et le Département de la Sécurité intérieure.",
+        "description": "",
+        "title": "City of Suisun declares local emergency after cyberattack downs 911 dispatch system",
+        "url": "https://fox40.com/suisun-city/city-of-suisun-local-emergency-cybersecurity-threat/",
+        "added": "2026-08-09"
+    },
+    {
         "date": "2026-08-07",
         "victim": "Ville de Mitchell",
         "domain": "cityofmitchellsd.gov",
