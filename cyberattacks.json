@@ -1,5 +1,16 @@
 [
     {
+        "date": "2026-08-06",
+        "victim": "Woodhaven Lakes",
+        "domain": "woodhavenassociation.com",
+        "country": "USA",
+        "summary": "Woodhaven Lakes a réussi à contenir et à stopper une attaque par ransomware qui chiffrait les fichiers sur ses systèmes locaux. L'attaque était limitée aux fichiers Microsoft Office et aux documents stockés localement, sans atteinte à la base de données des propriétaires. La société est en cours de remédiation et de restauration des services, mais le rétablissement complet prend du temps.",
+        "description": "",
+        "title": "Woodhaven Lakes victim of ransomware attack Thursday",
+        "url": "https://www.starvedrock.media/wlpo/woodhaven-lakes-victim-of-ransomware-attack-thursday/article_7a63c7bf-3865-4f1d-a12e-dc433bbd6de6.html",
+        "added": "2026-08-09"
+    },
+    {
         "date": "2026-08-08",
         "victim": "Suisun City",
         "domain": "suisun.com",
