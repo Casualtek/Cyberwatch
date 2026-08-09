@@ -1,4 +1,9 @@
 # Cyberwatch
+
+<!-- hy-mt2-i18n:start -->
+| **English** | [中文](./README_zh-CN.md) | [日本語](./README_ja.md) | [Español](./README_es.md) |
+<!-- hy-mt2-i18n:end -->
+
 Keeping track of cyberattacks
 
 This project consists in a few Python scripts that help monitor news to discover mentions of cyberattacks in the media around the globe. 
