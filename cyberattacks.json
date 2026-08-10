@@ -1,5 +1,16 @@
 [
     {
+        "date": "2025-12-18",
+        "victim": "Aesto, LLC",
+        "domain": "aestohealth.com",
+        "country": "USA",
+        "summary": "La société Aesto, LLC a été victime d'un incident de sécurité réseau qui a affecté une partie limitée de son infrastructure Amazon Web Services, exposant potentiellement des informations de santé protégées. L'incident s'est produit entre le 2 décembre 2025 et le 18 décembre 2025. Aesto ne dispose d'aucun élément indiquant que ces informations aient fait l'objet d'une utilisation abusive.",
+        "description": "",
+        "title": "Submitted Breach Notification Sample",
+        "url": "https://oag.ca.gov/ecrime/databreach/reports/sb24-627513",
+        "added": "2026-08-10"
+    },
+    {
         "date": "2025-12-11",
         "victim": "CTS Journey Holdings, LLC (DBA Corporate Travel Service)",
         "domain": "ctscentral.net",
