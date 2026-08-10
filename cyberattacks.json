@@ -1,5 +1,16 @@
 [
     {
+        "date": "2026-03-02",
+        "victim": "BAYADA Home Health Care, Inc.",
+        "domain": "bayada.com",
+        "country": "USA",
+        "summary": "BAYADA Home Health Care, Inc. a été victime d'une violation de données après qu'un individu non autorisé a accédé à certains systèmes et copié des données entre le 18 février et le 2 mars 2026. Cette violation a donné lieu à la copie d'informations personnelles, notamment des noms, ainsi que d'autres éléments de données. BAYADA propose des services de surveillance du crédit aux personnes concernées.",
+        "description": "",
+        "title": "",
+        "url": "https://oag.ca.gov/system/files/Bayada%20-%20Sample%20Notice.pdf",
+        "added": "2026-08-10"
+    },
+    {
         "date": "2026-02-12",
         "victim": "ZenPatient, Inc.",
         "domain": "zenpatient.com",
