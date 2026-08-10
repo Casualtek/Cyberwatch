@@ -2635,6 +2635,18 @@
         ]
     },
     {
+        "victim": "CLLS Co Ltd",
+        "domain": "CLLS.com.sg",
+        "country": "SG",
+        "timeline": [
+            {
+                "date": "2026-08-08",
+                "type": "claimed",
+                "group": "qilin"
+            }
+        ]
+    },
+    {
         "victim": "CONTRAQI",
         "domain": "CONTRAQI.nodomain",
         "country": "MX",
@@ -4669,6 +4681,18 @@
                 "date": "2024-05-28",
                 "type": "claimed",
                 "group": "akira"
+            }
+        ]
+    },
+    {
+        "victim": "Omnicell",
+        "domain": "Omnicell.Com",
+        "country": "US",
+        "timeline": [
+            {
+                "date": "2026-07-22",
+                "type": "claimed",
+                "group": "everest"
             }
         ]
     },
@@ -68614,6 +68638,18 @@
         ]
     },
     {
+        "victim": "Clausing",
+        "domain": "clausing-tiefbau.com",
+        "country": "DE",
+        "timeline": [
+            {
+                "date": "2026-08-08",
+                "type": "claimed",
+                "group": "qilin"
+            }
+        ]
+    },
+    {
         "victim": "Clawson Honda",
         "domain": "clawsonhonda.com",
         "country": "US",
@@ -84306,6 +84342,18 @@
                 "date": "2025-08-12",
                 "type": "assessed",
                 "group": "akira"
+            }
+        ]
+    },
+    {
+        "victim": "Daily Trust",
+        "domain": "dailytrust.com",
+        "country": "NG",
+        "timeline": [
+            {
+                "date": "2026-08-08",
+                "type": "claimed",
+                "group": "Panzer"
             }
         ]
     },
@@ -155484,6 +155532,18 @@
         ]
     },
     {
+        "victim": "Impact Centre Chrétien",
+        "domain": "impactcentrechretien.com",
+        "country": "FR",
+        "timeline": [
+            {
+                "date": "2026-08-08",
+                "type": "claimed",
+                "group": "qilin"
+            }
+        ]
+    },
+    {
         "victim": "Internal Medicine and Pediatrics of Cullman",
         "domain": "impcullman.com",
         "country": "US",
@@ -157037,12 +157097,17 @@
     {
         "victim": "Ingersoll Rand",
         "domain": "ingersollrand.com",
-        "country": "",
+        "country": "US",
         "timeline": [
             {
                 "date": "2023-07-11",
                 "type": "claimed",
                 "group": "stormous"
+            },
+            {
+                "date": "2026-07-22",
+                "type": "claimed",
+                "group": "everest"
             }
         ]
     },
@@ -187394,6 +187459,18 @@
                 "date": "2024-04-16",
                 "type": "claimed",
                 "group": "akira"
+            }
+        ]
+    },
+    {
+        "victim": "Louisville Bar Association",
+        "domain": "loubar.org",
+        "country": "US",
+        "timeline": [
+            {
+                "date": "2026-08-08",
+                "type": "claimed",
+                "group": "incransom"
             }
         ]
     },
@@ -268464,6 +268541,29 @@
         ]
     },
     {
+        "victim": "Sawyer Savings Bank",
+        "domain": "sawyersavings.bank",
+        "country": "US",
+        "timeline": [
+            {
+                "date": "2026-08-07",
+                "type": "claimed",
+                "group": "Storm"
+            },
+            {
+                "date": "2026-08-09",
+                "type": "discovered",
+                "summary": "La Sawyer Savings Bank a dû fermer ses succursales de New York suite à une perturbation réseau liée à un incident de sécurité des données impliquant une vulnérabilité chez un de ses fournisseurs. L'incident a commencé le lundi 3 août, et bien que les services bancaires numériques (guichets automatiques, banque en ligne) soient restés opérationnels, la banque a indiqué qu'aucune preuve n'avait été trouvée jusqu'à présent concernant l'atteinte aux comptes clients. L'enquête sur la nature et l'étendue de l'incident est toujours en cours.",
+                "title": "Sawyer Savings Bank of New York keeps branches closed amid possible data security incident",
+                "url": "https://dysruptionhub.com/sawyer-savings-bank-security-incident-ny/"
+            },
+            {
+                "date": "2026-08-03",
+                "type": "reported"
+            }
+        ]
+    },
+    {
         "victim": "Sax LLP",
         "domain": "saxadvisorygroup.com",
         "country": "US",
@@ -314406,6 +314506,18 @@
                 "date": "2026-05-14",
                 "type": "claimed",
                 "group": "shadowbyt3$"
+            }
+        ]
+    },
+    {
+        "victim": "United Group of Companies",
+        "domain": "ugoc.com",
+        "country": "US",
+        "timeline": [
+            {
+                "date": "2026-08-07",
+                "type": "claimed",
+                "group": "Storm"
             }
         ]
     },
