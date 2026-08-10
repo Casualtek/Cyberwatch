@@ -1,5 +1,16 @@
 [
     {
+        "date": "2026-07-27",
+        "victim": "Newcastle University",
+        "domain": "ncl.ac.uk",
+        "country": "GBR",
+        "summary": "Newcastle University a été victime d'un accès non autorisé à des données personnelles. L'incident, découvert le lundi 27 juillet 2026, était dû à un problème de configuration dans un système d'admission. Les informations compromises sont limitées aux coordonnées (noms, adresses, adresses e-mail et numéros de téléphone). L'université a corrigé la vulnérabilité et a signalé l'incident à l'ICO.",
+        "description": "",
+        "title": "Statement on unauthorised data access",
+        "url": "https://www.ncl.ac.uk/press/articles/latest/2026/07/statementonpotentialunauthoriseddataaccess/",
+        "added": "2026-08-10"
+    },
+    {
         "date": "2026-08-03",
         "victim": "Comté de Beaver",
         "domain": "beavercountypa.gov",
