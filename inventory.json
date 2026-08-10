@@ -2179,6 +2179,18 @@
         ]
     },
     {
+        "victim": "Ali** **********",
+        "domain": "Ali************.nodomain",
+        "country": "",
+        "timeline": [
+            {
+                "date": "2026-08-07",
+                "type": "claimed",
+                "group": "shinyhunters"
+            }
+        ]
+    },
+    {
         "victim": "Amherstburg Family Health",
         "domain": "AmherstburgFamilyHealth.nodomain",
         "country": "CA",
@@ -3573,6 +3585,18 @@
                 "date": "2026-06-23",
                 "type": "claimed",
                 "group": "Icarus"
+            }
+        ]
+    },
+    {
+        "victim": "Harplast SRL",
+        "domain": "HARPLAST.ro",
+        "country": "RO",
+        "timeline": [
+            {
+                "date": "2026-08-09",
+                "type": "claimed",
+                "group": "qilin"
             }
         ]
     },
@@ -75975,6 +75999,18 @@
         ]
     },
     {
+        "victim": "Constellation HomeBuilder Systems",
+        "domain": "constellationhb.com",
+        "country": "US",
+        "timeline": [
+            {
+                "date": "2026-08-09",
+                "type": "claimed",
+                "group": "unsafe"
+            }
+        ]
+    },
+    {
         "victim": "Consolidated Sterilizer Systems",
         "domain": "consteril.com",
         "country": "US",
@@ -80742,6 +80778,18 @@
                 "date": "2023-09-27",
                 "type": "claimed",
                 "group": "werewolves"
+            }
+        ]
+    },
+    {
+        "victim": "Chun Tai Sing Chemical Industry",
+        "domain": "crocoil.com",
+        "country": "HK",
+        "timeline": [
+            {
+                "date": "2026-08-09",
+                "type": "claimed",
+                "group": "qilin"
             }
         ]
     },
@@ -100229,6 +100277,18 @@
         ]
     },
     {
+        "victim": "Energetic Development Corp",
+        "domain": "edccorp.com.tw",
+        "country": "TW",
+        "timeline": [
+            {
+                "date": "2026-08-09",
+                "type": "claimed",
+                "group": "qilin"
+            }
+        ]
+    },
+    {
         "victim": "Empresa Distribuidora de Electricidad del Este, Revenue $6336M",
         "domain": "edeeste.com.do",
         "country": "DO",
@@ -100810,6 +100870,18 @@
                 "date": "2026-03-07",
                 "type": "claimed",
                 "group": "AiLock"
+            }
+        ]
+    },
+    {
+        "victim": "East Field Corporation",
+        "domain": "efc-tono.com",
+        "country": "JP",
+        "timeline": [
+            {
+                "date": "2026-08-09",
+                "type": "claimed",
+                "group": "qilin"
             }
         ]
     },
@@ -135450,6 +135522,18 @@
         ]
     },
     {
+        "victim": "Grupo Diestra",
+        "domain": "grupodiestra.com",
+        "country": "PE",
+        "timeline": [
+            {
+                "date": "2026-08-09",
+                "type": "claimed",
+                "group": "qilin"
+            }
+        ]
+    },
+    {
         "victim": "Grupo DIRIA",
         "domain": "grupodiria.com",
         "country": "CR",
@@ -143231,6 +143315,18 @@
                 "date": "2026-06-03",
                 "type": "claimed",
                 "group": "lockbit5"
+            }
+        ]
+    },
+    {
+        "victim": "Rilpa Enterprises",
+        "domain": "helis.com",
+        "country": "CA",
+        "timeline": [
+            {
+                "date": "2026-08-09",
+                "type": "claimed",
+                "group": "play"
             }
         ]
     },
@@ -188543,6 +188639,18 @@
         ]
     },
     {
+        "victim": "Lucidmotors",
+        "domain": "lucidmotors.com",
+        "country": "US",
+        "timeline": [
+            {
+                "date": "2026-08-04",
+                "type": "claimed",
+                "group": "Sovcali"
+            }
+        ]
+    },
+    {
         "victim": "Lucky Look",
         "domain": "lucky-look-media.de",
         "country": "DE",
@@ -192944,6 +193052,18 @@
                 "date": "2025-03-30",
                 "type": "claimed",
                 "group": "safepay"
+            }
+        ]
+    },
+    {
+        "victim": "Marconi Industrial Services",
+        "domain": "marconi-spa.com",
+        "country": "IT",
+        "timeline": [
+            {
+                "date": "2026-08-09",
+                "type": "claimed",
+                "group": "play"
             }
         ]
     },
@@ -203554,6 +203674,18 @@
                 "date": "2026-02-17",
                 "type": "claimed",
                 "group": "qilin"
+            }
+        ]
+    },
+    {
+        "victim": "MIE Solutions",
+        "domain": "mie-solutions.com",
+        "country": "GB",
+        "timeline": [
+            {
+                "date": "2026-08-09",
+                "type": "claimed",
+                "group": "play"
             }
         ]
     },
@@ -219590,6 +219722,18 @@
         ]
     },
     {
+        "victim": "Naval Interior Team",
+        "domain": "nit.fi",
+        "country": "FI",
+        "timeline": [
+            {
+                "date": "2026-08-09",
+                "type": "claimed",
+                "group": "qilin"
+            }
+        ]
+    },
+    {
         "victim": "NITEK International LLC",
         "domain": "nitek.net",
         "country": "US",
@@ -232815,6 +232959,18 @@
         ]
     },
     {
+        "victim": "Panda Logistics Taichung Branch",
+        "domain": "pandalog.com",
+        "country": "TW",
+        "timeline": [
+            {
+                "date": "2026-08-09",
+                "type": "claimed",
+                "group": "qilin"
+            }
+        ]
+    },
+    {
         "victim": "Panda Group, Inc.",
         "domain": "pandarg.com",
         "country": "US",
@@ -239372,6 +239528,18 @@
         ]
     },
     {
+        "victim": "Phithan Phanich",
+        "domain": "phithan-usedcar.com",
+        "country": "TH",
+        "timeline": [
+            {
+                "date": "2026-08-09",
+                "type": "claimed",
+                "group": "qilin"
+            }
+        ]
+    },
+    {
         "victim": "phitoformulas.com.br",
         "domain": "phitoformulas.com.br",
         "country": "BR",
@@ -242286,6 +242454,18 @@
                 "date": "2025-01-14",
                 "type": "assessed",
                 "group": "play"
+            }
+        ]
+    },
+    {
+        "victim": "pm-energy Die Solarexperten",
+        "domain": "pm-energy.de",
+        "country": "DE",
+        "timeline": [
+            {
+                "date": "2026-08-09",
+                "type": "claimed",
+                "group": "qilin"
             }
         ]
     },
@@ -246097,6 +246277,18 @@
             {
                 "date": "2025-09-30",
                 "type": "assessed",
+                "group": "qilin"
+            }
+        ]
+    },
+    {
+        "victim": "Price Shoes",
+        "domain": "priceshoes.com",
+        "country": "MX",
+        "timeline": [
+            {
+                "date": "2026-08-09",
+                "type": "claimed",
                 "group": "qilin"
             }
         ]
@@ -276880,6 +277072,18 @@
         ]
     },
     {
+        "victim": "Siam Oil Product",
+        "domain": "siamoil.co.th",
+        "country": "TH",
+        "timeline": [
+            {
+                "date": "2026-08-09",
+                "type": "claimed",
+                "group": "Panzer"
+            }
+        ]
+    },
+    {
         "victim": "siampremier.co.th",
         "domain": "siampremier.co.th",
         "country": "TH",
@@ -278781,6 +278985,11 @@
                 "date": "2026-07-05",
                 "type": "claimed",
                 "group": "genesis"
+            },
+            {
+                "date": "2026-08-09",
+                "type": "claimed",
+                "group": "qilin"
             }
         ]
     },
@@ -291336,6 +291545,18 @@
                 "date": "2026-03-30",
                 "type": "claimed",
                 "group": "coinbasecartel"
+            }
+        ]
+    },
+    {
+        "victim": "studiotibaldi.it",
+        "domain": "studiotibaldi.it",
+        "country": "IT",
+        "timeline": [
+            {
+                "date": "2026-08-09",
+                "type": "claimed",
+                "group": "krybit"
             }
         ]
     },
@@ -314806,6 +315027,18 @@
         ]
     },
     {
+        "victim": "Université Libre de Bruxelles",
+        "domain": "ulb.be",
+        "country": "BE",
+        "timeline": [
+            {
+                "date": "2026-08-09",
+                "type": "claimed",
+                "group": "qilin"
+            }
+        ]
+    },
+    {
         "victim": "U.L. COLEMAN COMPANIES",
         "domain": "ulcoleman.com",
         "country": "",
@@ -318699,6 +318932,18 @@
         "timeline": [
             {
                 "date": "2025-12-24",
+                "type": "claimed",
+                "group": "qilin"
+            }
+        ]
+    },
+    {
+        "victim": "Service d'usinage 9002",
+        "domain": "usinage9002.com",
+        "country": "CA",
+        "timeline": [
+            {
+                "date": "2026-08-09",
                 "type": "claimed",
                 "group": "qilin"
             }
