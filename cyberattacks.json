@@ -1,5 +1,16 @@
 [
     {
+        "date": "2025-10-19",
+        "victim": "Unlimited Technology Systems",
+        "domain": "unlimitedsystems.com",
+        "country": "USA",
+        "summary": "Unlimited Technology Systems, un fournisseur de logiciels de gestion des soins de santé basé dans le centre de Montgomery (Ohio), a subi une violation de données majeure. L'accès non autorisé à leur datacenter métier a eu lieu entre le 5 et le 10 octobre 2025, affectant potentiellement 3 803 750 individus. Les données compromises incluent les noms, adresses, numéros de sécurité sociale, informations sur l'assurance maladie, diagnostics médicaux et documents scannés (incluant permis de conduire). La violation a été découverte le 19 octobre 2025. La société a offert 24 mois de surveillance de crédit gratuite aux personnes affectées.",
+        "description": "",
+        "title": "Unlimited Technology Systems Data Breach Exposes 3.8 Million Healthcare Patients' Information – 2025 Incident Analysis",
+        "url": "https://www.rescana.com/post/unlimited-technology-systems-data-breach-exposes-3-8-million-healthcare-patients-information-2025-incident-analysis",
+        "added": "2026-08-10"
+    },
+    {
         "date": "2ß26-08-04",
         "victim": "Foresee Pharmaceuticals",
         "domain": "foreseepharma.com",
