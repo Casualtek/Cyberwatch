@@ -1,5 +1,16 @@
 [
     {
+        "date": "2026-02-25",
+        "victim": "Robert Arshagouni",
+        "domain": "arshagouni.nodomain",
+        "country": "USA",
+        "summary": "Arshagouni a été victime d'une violation de données entre janvier et février 2026, au cours de laquelle une personne non autorisée a pu accéder de manière intermittente à certains systèmes et aux informations qui y étaient stockées. Les données potentiellement concernées comprenaient des noms et des numéros de Sécurité sociale. La violation a été découverte en janvier et février 2026, mais l'enquête s'est achevée vers le 14 mai 2026.",
+        "description": "",
+        "title": "Submitted Breach Notification Sample",
+        "url": "https://oag.ca.gov/ecrime/databreach/reports/sb24-627743",
+        "added": "2026-08-10"
+    },
+    {
         "date": "2026-04-29",
         "victim": "Cushman & Wakefield",
         "domain": "cushmanwakefield.com",
