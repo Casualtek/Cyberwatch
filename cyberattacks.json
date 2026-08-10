@@ -1,5 +1,16 @@
 [
     {
+        "date": "2026-02-12",
+        "victim": "ZenPatient, Inc.",
+        "domain": "zenpatient.com",
+        "country": "USA",
+        "summary": "ZenPatient, Inc. a été victime d'une fuite de données au cours de laquelle un individu non autorisé a accédé à certaines données ou les a copiées entre le 5 décembre 2025 et le 12 février 2026. Les données concernées comprenaient des noms et d'autres éléments d'information. La société propose un accès gratuit à Experian IdentityWorks pendant 12 mois.",
+        "description": "",
+        "title": "",
+        "url": "https://oag.ca.gov/system/files/ZenPatient%20-%20Sample%20Notice.pdf",
+        "added": "2026-08-10"
+    },
+    {
         "date": "2026-08-07",
         "victim": "Coryell County",
         "domain": "coryellcounty.org",
