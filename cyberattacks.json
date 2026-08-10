@@ -1,5 +1,16 @@
 [
     {
+        "date": "2026-08-01",
+        "victim": "Ville de Gagny",
+        "domain": "gagny.fr",
+        "country": "FRA",
+        "summary": "La Ville de Gagny a subi une cyberattaque ayant affecté une partie de son système d’information. Des personnes non autorisées ont pu accéder à certaines données personnelles des administrés, notamment nom, prénom, adresse, coordonnées téléphoniques et électroniques, ainsi que des informations administratives. Bien qu'aucun usage frauduleux n'ait été constaté à ce jour, la Ville a notifié la violation à la CNIL et invite les habitants à rester vigilants face aux tentatives d'hameçonnage et d'usurpation d'identité.",
+        "description": "",
+        "title": "Information relative à un incident de cybersécurité - Ville de Gagny",
+        "url": "https://www.gagny.fr/actualite/information-relative-a-un-incident-de-cybersecurite/",
+        "added": "2026-08-10"
+    },
+    {
         "date": "2025-10-19",
         "victim": "Unlimited Technology Systems",
         "domain": "unlimitedsystems.com",
