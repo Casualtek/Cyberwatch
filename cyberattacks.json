@@ -1,5 +1,16 @@
 [
     {
+        "date": "2026-08-03",
+        "victim": "Comté de Beaver",
+        "domain": "beavercountypa.gov",
+        "country": "USA",
+        "summary": "Les commissaires du comté de Beaver ont payé les pirates informatiques ce mois-ci avec des fonds publics pour reprendre le contrôle des systèmes du comté, une pratique qui serait illégale selon un projet de loi en cours à Harrisburg. L'article initial a été publié le 4 août, et la publication actuelle date du 9 août.",
+        "description": "",
+        "title": "Our Senator Sponsored A Ransomware Ban - Then Our County Paid One - BeaverCountian.com",
+        "url": "https://beavercountian.com/content/state-federal/our-senator-sponsored-a-ransomware-ban-then-our-county-paid-one",
+        "added": "2026-08-10"
+    },
+    {
         "date": "2026-08-08",
         "victim": "Digitide Solutions",
         "domain": "digitide.com",
@@ -33,7 +44,7 @@
         "added": "2026-08-10"
     },
     {
-        "date": "2ß26-08-04",
+        "date": "2026-08-04",
         "victim": "Foresee Pharmaceuticals",
         "domain": "foreseepharma.com",
         "country": "TWN",
