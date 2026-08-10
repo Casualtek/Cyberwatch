@@ -1,5 +1,16 @@
 [
     {
+        "date": "2026-04-29",
+        "victim": "Cushman & Wakefield",
+        "domain": "cushmanwakefield.com",
+        "country": "USA",
+        "summary": "Cushman&Wakefield a été victime d'une violation de données le 29 avril 2026, au cours de laquelle un tiers non autorisé a accédé à certains fichiers contenant des données à caractère personnel et les a exfiltrés. Cette violation pourrait avoir donné lieu à un accès non autorisé au nom de la victime et à d'autres données à caractère personnel. Rien n'indique que ces informations personnelles aient été consultées ou utilisées à mauvais escient. Une cyberattaque a été revendiquée par Qilin le 4 mai 2026.",
+        "description": "",
+        "title": "",
+        "url": "https://oag.ca.gov/system/files/Sample%20Notification%20Letter_10_0.pdf",
+        "added": "2026-08-10"
+    },
+    {
         "date": "2026-03-02",
         "victim": "BAYADA Home Health Care, Inc.",
         "domain": "bayada.com",
