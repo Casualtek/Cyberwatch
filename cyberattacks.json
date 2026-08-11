@@ -1,6 +1,17 @@
 [
     {
         "date": "2026-08-10",
+        "victim": "Simian",
+        "domain": "simian.nl",
+        "country": "NLD",
+        "summary": "Simian, une entreprise basée à Groningen spécialisée dans l'impression à bas prix, a averti ses clients aux Pays-Bas et en Belgique qu'une cyberattaque a potentiellement entraîné le vol de leurs données personnelles. Les attaquants auraient pu accéder aux adresses e-mail et aux mots de passe hachés stockés dans les fichiers clients. Simian a indiqué que l'incident impliquait un fournisseur de services externe et qu'il avait signalé la violation à l'autorité de protection des données néerlandaise (AP) et à la police. Une petite partie des clients aurait également vu leurs coordonnées bancaires interceptées, mais l'entreprise n'a pas précisé le nombre exact de personnes affectées.",
+        "description": "",
+        "title": "Hackers access Dutch credit card data in latest cyberattack - DutchNews.nl",
+        "url": "https://www.dutchnews.nl/2026/08/hackers-access-dutch-credit-card-data-in-latest-cyberattack/",
+        "added": "2026-08-11"
+    },
+    {
+        "date": "2026-08-10",
         "victim": "Arbeiterkammer Oberösterreich",
         "domain": "ooe.arbeiterkammer.at",
         "country": "AUT",
