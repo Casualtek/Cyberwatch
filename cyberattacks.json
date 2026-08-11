@@ -1,5 +1,16 @@
 [
     {
+        "date": "2026-08-05",
+        "victim": "Stiftung Brandenburgische Gedenkstätten",
+        "domain": "stiftung-bg.de",
+        "country": "DEU",
+        "summary": "Le 5 août, la Fondation des mémoriaux du Brandebourg a été victime d'une attaque par ransomware, paralysant l'intégralité de son système informatique. L'incident affecte sept sites, dont les mémoriaux de Sachsenhausen et de Ravensbrück, ainsi que le bureau central. L'organisation redoute une exfiltration de données (informations administratives, données de partenaires et de visiteurs) et a alerté ses contacts sur un risque accru de phishing et de fraudes aux factures. Pour contenir l'attaque, tous les systèmes ont été immédiatement déconnectés du réseau. L'accès physique aux mémoriaux reste toutefois possible et n'est pas impacté par cette panne informatique.",
+        "description": "",
+        "title": "Access Denied",
+        "url": "https://www.stern.de/gesellschaft/regional/berlin-brandenburg/cyberkriminalitaet--cyberangriff-legt-it-system-der-gedenkstaetten-lahm-38090688.html",
+        "added": "2026-08-11"
+    },
+    {
         "date": "2026-08-09",
         "victim": "Bonifatius GmbH",
         "domain": "bonifatius-gmbh.de",
