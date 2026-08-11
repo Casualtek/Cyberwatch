@@ -238959,6 +238959,18 @@
     },
     {
         "victim": "Pharma Test Apparatebau AG",
+        "domain": "pharma-test.de",
+        "country": "DE",
+        "timeline": [
+            {
+                "date": "2026-07-20",
+                "type": "assessed",
+                "group": "akira"
+            }
+        ]
+    },
+    {
+        "victim": "Pharma Test Apparatebau AG",
         "domain": "pharma.test.de",
         "country": "CH",
         "timeline": [
