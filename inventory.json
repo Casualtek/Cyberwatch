@@ -297733,6 +297733,11 @@
             {
                 "date": "2025-10-07",
                 "type": "reported"
+            },
+            {
+                "date": "2025-10-07",
+                "type": "assessed",
+                "group": "akira"
             }
         ]
     },
