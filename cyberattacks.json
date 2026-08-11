@@ -1,5 +1,16 @@
 [
     {
+        "date": "2025-09-05",
+        "victim": "USA DeBusk LLC",
+        "domain": "usadebusk.com",
+        "country": "USA",
+        "summary": "USA DeBusk, un fournisseur de services industriels dans le secteur pétrolier et énergétique, a subi une attaque par ransomware. L'attaque, attribuée au groupe Embargo, a eu lieu aux alentours du 5 septembre 2025. Le groupe a obtenu 2 Téraoctets de données sensibles, incluant contrats, dossiers clients, données personnelles des employés et rapports d'incidents. Les types d'informations exposées sont variés mais comprennent noms, coordonnées, dates de naissance, numéros d'identification gouvernementaux, données financières, identifiants, mots de passe, informations médicales et détails d'assurance maladie. L'entreprise a signalé la violation au Procureur général de Californie le 10 août 2026 et offre deux ans de surveillance gratuite de l'identité aux personnes affectées.",
+        "description": "",
+        "title": "USA DeBusk Data Breach: PHI and PII Exposed",
+        "url": "https://www.claimdepot.com/data-breach/debusk-services-2026",
+        "added": "2026-08-11"
+    },
+    {
         "date": "2026-08-09",
         "victim": "LexisNexis",
         "domain": "lexisnexis.com",
