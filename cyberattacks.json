@@ -1,5 +1,16 @@
 [
     {
+        "date": "2025-11-11",
+        "victim": "Boston Health Care for the Homeless",
+        "domain": "bhchp.org",
+        "country": "USA",
+        "summary": "Boston Health Care for the Homeless a rendu publique une violation de données qui a touché 184 914 résidents du Massachusetts, 553 du Texas et 169 du Vermont. L'organisation a découvert la perturbation de son réseau le 11 novembre 2025. L'enquête, menée jusqu'au 8 juin 2026, a confirmé que des informations personnelles sensibles, incluant les numéros de sécurité sociale, les informations financières et les dossiers de santé, avaient été consultées par une partie non autorisée.",
+        "description": "",
+        "title": "BHCHP Data Breach Compromised SSNs and Medical Records",
+        "url": "https://www.claimdepot.com/data-breach/boston-healthcare-for-the-homeless-program-2026",
+        "added": "2026-08-11"
+    },
+    {
         "date": "2025-09-05",
         "victim": "USA DeBusk LLC",
         "domain": "usadebusk.com",
