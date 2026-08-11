@@ -1,5 +1,16 @@
 [
     {
+        "date": "2026-08-09",
+        "victim": "LexisNexis",
+        "domain": "lexisnexis.com",
+        "country": "USA",
+        "summary": "LexisNexis a a dû mettre hors ligne ses services Diligence, Metabase API et Newsdesk suite à une activité inhabituelle détectée sur des serveurs gérés par un fournisseur tiers. L'entreprise enquête sur l'incident avec l'aide d'un cabinet de cybersécurité forensique et est en train de reconstruire les systèmes affectés dans un nouvel environnement avant de les remettre en ligne. LexisNexis a également précisé que ses services ne sont pas liés au service cloud Metabase ou à la vulnérabilité SQL injection mentionnée récemment.",
+        "description": "",
+        "title": "LexisNexis shuts down services after suspicious activity on servers",
+        "url": "https://www.bleepingcomputer.com/news/security/lexisnexis-shuts-down-services-after-suspicious-activity-on-servers/",
+        "added": "2026-08-11"
+    },
+    {
         "date": "2026-08-10",
         "victim": "Simian",
         "domain": "simian.nl",
