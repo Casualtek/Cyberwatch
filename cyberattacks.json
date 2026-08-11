@@ -1,6 +1,17 @@
 [
     {
         "date": "2026-08-10",
+        "victim": "Arbeiterkammer Oberösterreich",
+        "domain": "ooe.arbeiterkammer.at",
+        "country": "AUT",
+        "summary": "L'Arbeiterkammer Oberösterreich a été victime d'une cyberattaque le lundi matin, entraînant des pannes de ses serveurs de messagerie et de son système téléphonique. Bien que les systèmes aient été partiellement restaurés, l'accès aux services reste limité. Les autorités n'ont pas encore identifié l'attaquant et affirment qu'aucune donnée n'a été volée. Les membres sont invités à faire preuve de patience.",
+        "description": "",
+        "title": "Cyber-Crime in Oberösterreich: Hackerangriff legt Systeme der Arbeiterkammer OÖ lahm",
+        "url": "https://www.meinbezirk.at/oberoesterreich/c-wirtschaft/hackerangriff-legt-systeme-der-arbeiterkammer-ooe-lahm_a8841763",
+        "added": "2026-08-11"
+    },
+    {
+        "date": "2026-08-10",
         "victim": "Health Sciences Centre",
         "domain": "hsc.mb.ca",
         "country": "CAN",
