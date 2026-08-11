@@ -1,5 +1,16 @@
 [
     {
+        "date": "2026-08-10",
+        "victim": "Health Sciences Centre",
+        "domain": "hsc.mb.ca",
+        "country": "CAN",
+        "summary": "Le Health Sciences Centre de Winnipeg a été touché par une cyberattaque par ransomware affectant les systèmes de maintenance de certains bâtiments, notamment l'accès par les portes, le chauffage, la ventilation et la climatisation. Bien que les soins aux patients et les opérations cliniques ne soient pas affectés, l'incident a nécessité une enquête pour déterminer l'étendue de l'attaque. L'incident survient deux ans après qu'un vérificateur général du Manitoba ait averti l'établissement de la nécessité d'améliorer sa cybersécurité.",
+        "description": "",
+        "title": "Ransomware attack on Health Sciences Centre affects doors, ventilation and air-conditioning",
+        "url": "https://ca.news.yahoo.com/ransomware-attack-health-sciences-centre-224238098.html",
+        "added": "2026-08-11"
+    },
+    {
         "date": "2026-07-27",
         "victim": "Newcastle University",
         "domain": "ncl.ac.uk",
