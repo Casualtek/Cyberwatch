@@ -1,5 +1,19 @@
 [
   {
+    "victim": "Moorman Harting",
+    "domain": "moormanharting.com",
+    "country": "US",
+    "date": "2026-04-15",
+    "group": "akira"
+  },
+  {
+    "victim": "MN Health Insurance Network",
+    "domain": "mnhealthnetwork.com",
+    "country": "US",
+    "date": "2026-03-17",
+    "group": "akira"
+  },
+  {
     "victim": "The Butcher Brothers",
     "domain": "thebutcherbrotherscorp.com",
     "country": "US",
@@ -301,7 +315,7 @@
     "group": "lockbit5"
   },
   {
-    "victim": "vitexpharma.com",
+    "victim": "Vitex Pharmaceuticals",
     "domain": "vitexpharma.com",
     "country": "AU",
     "date": "2026-03-29",
@@ -4333,7 +4347,7 @@
     "group": "incransom"
   },
   {
-    "victim": "American Vintage Home",
+    "victim": "American Vintage Home, Briggs Plumbing Products, Genco Manufacturing, American Vintage Hom...",
     "domain": "americanvintagehome.com",
     "country": "US",
     "date": "2026-02-03",
@@ -5518,7 +5532,7 @@
   {
     "victim": "Ruhrpumpen",
     "domain": "ruhrpumpen.com",
-    "country": "US",
+    "country": "DE",
     "date": "2025-11-13",
     "group": "akira"
   },
@@ -10510,7 +10524,7 @@
     "victim": "DKN Hotels",
     "domain": "dknhotels.com",
     "country": "US",
-    "date": "2025-06-14",
+    "date": "2026-03-16",
     "group": "akira"
   },
   {
@@ -12665,7 +12679,7 @@
   {
     "victim": "ferretornillos.com",
     "domain": "ferretornillos.com",
-    "country": "ES",
+    "country": "MX",
     "date": "2025-04-25",
     "group": "J"
   },
@@ -24164,9 +24178,9 @@
     "group": "play"
   },
   {
-    "victim": "Electronic Maintenance Associates, Inc.",
+    "victim": "emanic.net",
     "domain": "emanic.net",
-    "country": "US",
+    "country": "DE",
     "date": "2024-06-14",
     "group": "lockbit3"
   },
@@ -25249,7 +25263,7 @@
     "group": "blacksuit"
   },
   {
-    "victim": "Hetero",
+    "victim": "hetero.com",
     "domain": "hetero.com",
     "country": "IN",
     "date": "2024-05-02",
@@ -27701,7 +27715,7 @@
   {
     "victim": "sitrack.com",
     "domain": "sitrack.com",
-    "country": "AR",
+    "country": "DE",
     "date": "2024-01-29",
     "group": "lockbit3"
   },
@@ -27825,7 +27839,7 @@
     "group": "play"
   },
   {
-    "victim": "Kioti",
+    "victim": "kioti.com",
     "domain": "kioti.com",
     "country": "US",
     "date": "2024-01-23",
@@ -28252,7 +28266,7 @@
     "group": "blackbasta"
   },
   {
-    "victim": "Shri Lakshmi Agro Foods Private Limited",
+    "victim": "udhaiyamdhall.com",
     "domain": "udhaiyamdhall.com",
     "country": "IN",
     "date": "2023-12-14",
@@ -29575,7 +29589,7 @@
     "group": "akira"
   },
   {
-    "victim": "Ipsen Logistics",
+    "victim": "ipsenlogistics.com",
     "domain": "ipsenlogistics.com",
     "country": "MA",
     "date": "2023-06-15",
@@ -29799,7 +29813,7 @@
     "group": "lockbit3"
   },
   {
-    "victim": "HP Hood",
+    "victim": "hphood.com",
     "domain": "hphood.com",
     "country": "US",
     "date": "2022-03-14",
@@ -29813,16 +29827,16 @@
     "group": "lockbit3"
   },
   {
-    "victim": "Bridgestone Americas",
+    "victim": "bridgestoneamericas.com",
     "domain": "bridgestoneamericas.com",
     "country": "US",
     "date": "2022-02-27",
     "group": "lockbit3"
   },
   {
-    "victim": "Hunton group",
+    "victim": "huntongroup.com",
     "domain": "huntongroup.com",
-    "country": "US",
+    "country": "GB",
     "date": "2022-02-21",
     "group": "lockbit3"
   },
@@ -29834,7 +29848,7 @@
     "group": "lockbit3"
   },
   {
-    "victim": "Albany Bank",
+    "victim": "albanybank.com",
     "domain": "albanybank.com",
     "country": "US",
     "date": "2022-02-05",
