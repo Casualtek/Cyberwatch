@@ -1,5 +1,16 @@
 [
     {
+        "date": "2026-08-09",
+        "victim": "Rext",
+        "domain": "rext.jp",
+        "country": "JPN",
+        "summary": "Le 9 août 2026, la société REXT, prestataire pour le service « APORITO » de l'entreprise RIZAP, a été victime d'une attaque par ransomware. L'intrusion a provoqué des pannes sur une partie du réseau interne de REXT, entraînant une limitation de certains services d'APORITO. RIZAP collabore actuellement avec REXT pour déterminer l'étendue des dommages et identifier la cause précise de l'incident.",
+        "description": "",
+        "title": "当社「APORITO」事業におけるシステム障害および一部店舗のサービス停止について｜RIZAP株式会社",
+        "url": "https://rizap.co.jp/news/7D0KEiFZ",
+        "added": "2026-08-12"
+    },
+    {
         "date": "2026-08-11",
         "victim": "Ágape Consultoria",
         "domain": "agapeconsultoria.com.br",
