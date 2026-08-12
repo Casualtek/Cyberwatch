@@ -1,5 +1,16 @@
 [
     {
+        "date": "2026-08-10",
+        "victim": "Corte de Constitucionalidad",
+        "domain": "cc.gob.gt",
+        "country": "GTM",
+        "summary": "La Cour constitutionnelle (CC) a confirmé avoir subi une intrusion dans son réseau le 10 août. Bien que les protocoles de sécurité aient été activés et que des sauvegardes complètes soient disponibles, cette attaque a entraîné des perturbations temporaires dans la disponibilité de certains services informatiques. La Cour a engagé des poursuites judiciaires afin d'enquêter sur l'origine de cette attaque.",
+        "description": "",
+        "title": "Confirman ataque cibernético contra la Corte de Constitucionalidad",
+        "url": "https://emisorasunidas.com/nacional/2026/08/11/ataque-cibernetico-corte-de-constitucionalidad/",
+        "added": "2026-08-12"
+    },
+    {
         "date": "2026-08-06",
         "victim": "Shopping Cidade",
         "domain": "shoppingcidade.com.br",
