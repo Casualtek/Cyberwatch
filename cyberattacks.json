@@ -1,5 +1,16 @@
 [
     {
+        "date": "2026-07-15",
+        "victim": "Fusuyama Denshi Co., Ltd.",
+        "domain": "fusodentsu.co.jp",
+        "country": "JPN",
+        "summary": "Fusuyama Denshi Co., Ltd. a annoncé avoir détecté un accès non autorisé à son service de stockage cloud le 15 juillet. Cet accès concernait un dossier partagé utilisé pour le partage d'informations avec des parties externes et impliquait potentiellement des informations personnelles, ce qui a conduit l'entreprise à signaler l'incident à la Commission de protection des informations personnelles.",
+        "description": "",
+        "title": "扶桑電通が社外関係者との情報共有に利用していた共有フォルダに不正アクセス | ScanNetSecurity",
+        "url": "https://scan.netsecurity.ne.jp/article/2026/08/12/55909.html",
+        "added": "2026-08-12"
+    },
+    {
         "date": "2026-08-11",
         "victim": "CH BIOTECH R&D CO., LTD.",
         "domain": "chbio.com",
