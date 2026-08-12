@@ -1,5 +1,16 @@
 [
     {
+        "date": "2026-08-11",
+        "victim": "Ágape Consultoria",
+        "domain": "agapeconsultoria.com.br",
+        "country": "BRA",
+        "summary": "Vingt organisations municipales du capixaba (État du Espírito Santo) ont été touchées par une cyberattaque visant leurs portails publics. L'attaque, attribuée au groupe hacker BLCKORDER, a entraîné une indisponibilité des services en ligne. Les autorités locales et l'entreprise prestataire de services, Ágape Consultoria, ont indiqué que l'infrastructure critique (bases de données, systèmes de gestion) est restée préservée. L'accès aux systèmes aurait été facilité par des failles dans la gestion des identifiants ou par des vulnérabilités liées à d'anciens collaborateurs de l'entreprise prestataire. Le groupe BLCKORDER a revendiqué l'attaque, utilisant le manifeste pour critiquer le gouvernement et le stockage des données des citoyens, et a également suggéré une exfiltration de données, bien que l'étendue de cette dernière ne soit pas encore confirmée.",
+        "description": "",
+        "title": "Prefeitura e Câmara de Vila Pavão são afetadas por ataque hacker que derrubou portais no ES",
+        "url": "https://vilanoticias.com/prefeitura-e-camara-de-vila-pavao-sao-afetadas-por-ataque-hacker-que-derrubou-portais-no-es/",
+        "added": "2026-08-12"
+    },
+    {
         "date": "2026-08-10",
         "victim": "MyDr",
         "domain": "mydr.pl",
