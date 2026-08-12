@@ -11973,6 +11973,18 @@
         ]
     },
     {
+        "victim": "advancedtaxsolutions.com",
+        "domain": "advancedtaxsolutions.com",
+        "country": "US",
+        "timeline": [
+            {
+                "date": "2026-07-16",
+                "type": "claimed",
+                "group": "settra"
+            }
+        ]
+    },
+    {
         "victim": "Advance Press",
         "domain": "advancepress.com.au",
         "country": "AU",
@@ -23122,6 +23134,18 @@
         ]
     },
     {
+        "victim": "AngMar Companies",
+        "domain": "angmarcompanies.com",
+        "country": "",
+        "timeline": [
+            {
+                "date": "2026-08-11",
+                "type": "claimed",
+                "group": "interlock"
+            }
+        ]
+    },
+    {
         "victim": "Angotti & Reilly",
         "domain": "angotti-reilly.com",
         "country": "US",
@@ -25001,6 +25025,18 @@
                 "date": "2026-02-26",
                 "type": "claimed",
                 "group": "incransom"
+            }
+        ]
+    },
+    {
+        "victim": "www.apsanet.com.ar",
+        "domain": "apsanet.com.ar",
+        "country": "AR",
+        "timeline": [
+            {
+                "date": "2026-08-11",
+                "type": "claimed",
+                "group": "krybit"
             }
         ]
     },
@@ -32446,6 +32482,18 @@
         ]
     },
     {
+        "victim": "G.M.A. GRANDI MARCHE AUTOMOBILI - S.R.L",
+        "domain": "autogma.it",
+        "country": "IT",
+        "timeline": [
+            {
+                "date": "2026-08-11",
+                "type": "claimed",
+                "group": "qilin"
+            }
+        ]
+    },
+    {
         "victim": "Autohaus Ebert GmbH",
         "domain": "autohaus-ebert.de",
         "country": "",
@@ -38563,6 +38611,18 @@
         ]
     },
     {
+        "victim": "Baya Technologies",
+        "domain": "baya-zicon.com",
+        "country": "IL",
+        "timeline": [
+            {
+                "date": "2026-08-11",
+                "type": "claimed",
+                "group": "payload"
+            }
+        ]
+    },
+    {
         "victim": "Bayanat",
         "domain": "bayanat.ae",
         "country": "AE",
@@ -38899,6 +38959,18 @@
                 "date": "2025-02-10",
                 "type": "claimed",
                 "group": "ransomhub"
+            }
+        ]
+    },
+    {
+        "victim": "B&B Hydraulik",
+        "domain": "bb-hydraulik.de",
+        "country": "DE",
+        "timeline": [
+            {
+                "date": "2026-08-11",
+                "type": "claimed",
+                "group": "payload"
             }
         ]
     },
@@ -71246,6 +71318,18 @@
         ]
     },
     {
+        "victim": "Ganzhou Xinye Craft Co., Ltd.",
+        "domain": "cnverify.com",
+        "country": "HK",
+        "timeline": [
+            {
+                "date": "2026-08-11",
+                "type": "claimed",
+                "group": "Orova"
+            }
+        ]
+    },
+    {
         "victim": "Grange Packing Solutions",
         "domain": "co-pack.co.uk",
         "country": "",
@@ -81275,6 +81359,18 @@
                 "date": "2023-04-09",
                 "type": "claimed",
                 "group": "blackbyte"
+            }
+        ]
+    },
+    {
+        "victim": "Crown Group",
+        "domain": "crowngroup.com.pk",
+        "country": "PK",
+        "timeline": [
+            {
+                "date": "2026-08-11",
+                "type": "claimed",
+                "group": "qilin"
             }
         ]
     },
@@ -116800,6 +116896,18 @@
         ]
     },
     {
+        "victim": "firstdigital.com",
+        "domain": "firstdigital.com",
+        "country": "US",
+        "timeline": [
+            {
+                "date": "2026-07-07",
+                "type": "claimed",
+                "group": "settra"
+            }
+        ]
+    },
+    {
         "victim": "First Financial Security",
         "domain": "firstfinancialsecurity.com",
         "country": "",
@@ -118268,6 +118376,18 @@
                 "date": "2023-10-23",
                 "type": "claimed",
                 "group": "noescape"
+            }
+        ]
+    },
+    {
+        "victim": "flowco-inc.com",
+        "domain": "flowco-inc.com",
+        "country": "US",
+        "timeline": [
+            {
+                "date": "2026-06-30",
+                "type": "claimed",
+                "group": "settra"
             }
         ]
     },
@@ -121683,6 +121803,29 @@
                 "date": "2024-10-25",
                 "type": "claimed",
                 "group": "qilin"
+            }
+        ]
+    },
+    {
+        "victim": "FREYWILLE",
+        "domain": "freywille.com",
+        "country": "AT",
+        "timeline": [
+            {
+                "date": "2026-08-11",
+                "type": "claimed",
+                "group": "aurora"
+            },
+            {
+                "date": "2026-08-07",
+                "type": "discovered",
+                "summary": "Le détaillant de bijoux Frey Wille a été victime d'une cyberattaque au début du mois d'août. Des données commerciales et personnelles des clients ont été compromises, incluant les coordonnées, les données contractuelles, de communication et de facturation. L'entreprise a fait appel à des spécialistes en cybersécurité et en informatique légale, et les autorités compétentes ainsi que la police ont été informées. L'entreprise travaille à informer individuellement les personnes et entreprises touchées, y compris les anciens employés, et conseille aux personnes potentiellement affectées de rester vigilantes face aux tentatives de phishing.",
+                "title": "Cyberangriff auf Schmuckhändler Frey Wille",
+                "url": "https://kurier.at/wirtschaft/frey-wille-cyberangriff-auf-schmuckhaendler/403180440"
+            },
+            {
+                "date": "2026-08-06",
+                "type": "reported"
             }
         ]
     },
@@ -159493,12 +159636,17 @@
         ]
     },
     {
-        "victim": "Interim HealthCare (Oklahoma and Tulsa)",
+        "victim": "Interim HealthCare",
         "domain": "interimhealthcare.com",
         "country": "US",
         "timeline": [
             {
                 "date": "2026-08-10",
+                "type": "claimed",
+                "group": "genesis"
+            },
+            {
+                "date": "2026-08-11",
                 "type": "claimed",
                 "group": "genesis"
             }
@@ -173068,6 +173216,18 @@
         ]
     },
     {
+        "victim": "www.kilpi-koskinen.fi",
+        "domain": "kilpi-koskinen.fi",
+        "country": "FI",
+        "timeline": [
+            {
+                "date": "2026-08-11",
+                "type": "claimed",
+                "group": "krybit"
+            }
+        ]
+    },
+    {
         "victim": "Kimber Manufacturing",
         "domain": "kimberamerica.com",
         "country": "US",
@@ -182335,6 +182495,18 @@
                 "date": "2025-12-11",
                 "type": "claimed",
                 "group": "kazu"
+            }
+        ]
+    },
+    {
+        "victim": "Leafwell",
+        "domain": "leafwell.com",
+        "country": "US",
+        "timeline": [
+            {
+                "date": "2026-08-11",
+                "type": "claimed",
+                "group": "direwolf"
             }
         ]
     },
@@ -227465,6 +227637,18 @@
         ]
     },
     {
+        "victim": "oligo.de",
+        "domain": "oligo.de",
+        "country": "DE",
+        "timeline": [
+            {
+                "date": "2026-07-20",
+                "type": "claimed",
+                "group": "settra"
+            }
+        ]
+    },
+    {
         "victim": "olipes.com",
         "domain": "olipes.com",
         "country": "ES",
@@ -244926,6 +245110,18 @@
         ]
     },
     {
+        "victim": "powdr.com",
+        "domain": "powdr.com",
+        "country": "US",
+        "timeline": [
+            {
+                "date": "2026-07-13",
+                "type": "claimed",
+                "group": "settra"
+            }
+        ]
+    },
+    {
         "victim": "Powell Electronics",
         "domain": "powell.com",
         "country": "US",
@@ -248223,6 +248419,18 @@
         ]
     },
     {
+        "victim": "profinrg.nl",
+        "domain": "profinrg.nl",
+        "country": "NL",
+        "timeline": [
+            {
+                "date": "2026-07-21",
+                "type": "claimed",
+                "group": "settra"
+            }
+        ]
+    },
+    {
         "victim": "Profitbase",
         "domain": "profitbase.com",
         "country": "NO",
@@ -251447,6 +251655,18 @@
                 "date": "2024-02-27",
                 "type": "assessed",
                 "group": "cactus"
+            }
+        ]
+    },
+    {
+        "victim": "QPC Global",
+        "domain": "qpcglobal.com",
+        "country": "GB",
+        "timeline": [
+            {
+                "date": "2026-08-10",
+                "type": "claimed",
+                "group": "dragonforce"
             }
         ]
     },
@@ -274474,6 +274694,18 @@
         ]
     },
     {
+        "victim": "Service Evaluation Concepts",
+        "domain": "serviceevaluation.com",
+        "country": "US",
+        "timeline": [
+            {
+                "date": "2026-08-11",
+                "type": "claimed",
+                "group": "qilin"
+            }
+        ]
+    },
+    {
         "victim": "ServiceMaster Clean services",
         "domain": "servicemasterclean.com",
         "country": "US",
@@ -292151,6 +292383,18 @@
         ]
     },
     {
+        "victim": "Stücheli Architekten",
+        "domain": "stuecheli.ch",
+        "country": "CH",
+        "timeline": [
+            {
+                "date": "2026-08-11",
+                "type": "claimed",
+                "group": "payload"
+            }
+        ]
+    },
+    {
         "victim": "Stürmer Maschinen",
         "domain": "stuermer-maschinen.de",
         "country": "DE",
@@ -307370,6 +307614,18 @@
         ]
     },
     {
+        "victim": "tommer construction",
+        "domain": "tommerconstruction.com",
+        "country": "US",
+        "timeline": [
+            {
+                "date": "2026-08-11",
+                "type": "claimed",
+                "group": "qilin"
+            }
+        ]
+    },
+    {
         "victim": "Tommotek",
         "domain": "tommotek.com",
         "country": "FI",
@@ -319202,6 +319458,17 @@
                 "date": "2025-09-20",
                 "type": "claimed",
                 "group": "embargo"
+            },
+            {
+                "date": "2026-08-11",
+                "type": "discovered",
+                "summary": "USA DeBusk, un fournisseur de services industriels dans le secteur pétrolier et énergétique, a subi une attaque par ransomware. L'attaque, attribuée au groupe Embargo, a eu lieu aux alentours du 5 septembre 2025. Le groupe a obtenu 2 Téraoctets de données sensibles, incluant contrats, dossiers clients, données personnelles des employés et rapports d'incidents. Les types d'informations exposées sont variés mais comprennent noms, coordonnées, dates de naissance, numéros d'identification gouvernementaux, données financières, identifiants, mots de passe, informations médicales et détails d'assurance maladie. L'entreprise a signalé la violation au Procureur général de Californie le 10 août 2026 et offre deux ans de surveillance gratuite de l'identité aux personnes affectées.",
+                "title": "USA DeBusk Data Breach: PHI and PII Exposed",
+                "url": "https://www.claimdepot.com/data-breach/debusk-services-2026"
+            },
+            {
+                "date": "2025-09-05",
+                "type": "reported"
             }
         ]
     },
@@ -337413,6 +337680,18 @@
                 "date": "2023-05-10",
                 "type": "assessed",
                 "group": "play"
+            }
+        ]
+    },
+    {
+        "victim": "Xpress Tech",
+        "domain": "xpress.tech",
+        "country": "CY",
+        "timeline": [
+            {
+                "date": "2026-08-11",
+                "type": "claimed",
+                "group": "Panzer"
             }
         ]
     },
