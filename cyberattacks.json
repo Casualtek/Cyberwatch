@@ -1,5 +1,16 @@
 [
     {
+        "date": "2025-12-19",
+        "victim": "GigWorks",
+        "domain": "gig.co.jp",
+        "country": "JPN",
+        "summary": "La société GigWorks a publié son troisième rapport concernant l'accès non autorisé à ses serveurs, constaté le 19 décembre 2025, sur la base d'une enquête informatique menée par un cabinet d'expertise externe. L'enquête n'a révélé aucune trace de transfert de fichiers contenant des données à caractère personnel vers l'extérieur ; toutefois, la société indique qu'elle ne peut pas exclure totalement la possibilité que l'attaquant ait pu consulter visuellement, même brièvement, des données à caractère personnel – notamment des noms, adresses, informations salariales et fiscales, ainsi que des coordonnées bancaires – sur le serveur hébergeant la « base de données des demandes de déduction pour personnes à charge ». Par mesure de précaution, la société a annoncé qu'elle contacterait progressivement les personnes susceptibles d'être concernées.",
+        "description": "",
+        "title": "ギグワークスがサーバ不正アクセスの第3報を公表、扶養控除申請データベースの個人情報漏洩の可能性を否定できず|セキュリティニュースのセキュリティ対策Lab",
+        "url": "https://rocket-boys.co.jp/security-measures-lab/gig-works-unauthorized-access-database-data-leak/",
+        "added": "2026-08-12"
+    },
+    {
         "date": "2026-08-10",
         "victim": "Corte de Constitucionalidad",
         "domain": "cc.gob.gt",
