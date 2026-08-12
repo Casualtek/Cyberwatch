@@ -1,5 +1,16 @@
 [
     {
+        "date": "2026-08-10",
+        "victim": "MyDr",
+        "domain": "mydr.pl",
+        "country": "POL",
+        "summary": "MyDr enquête sur un incident de données concernant une partie de ses systèmes. L'entreprise a activé ses procédures de réponse aux incidents et collabore avec des experts externes, des autorités compétentes et des conseillers juridiques pour élucider la situation.",
+        "description": "",
+        "title": "Incydent MyDr",
+        "url": "https://pro.mydr.pl/portal-info",
+        "added": "2026-08-12"
+    },
+    {
         "date": "2025-12-19",
         "victim": "GigWorks",
         "domain": "gig.co.jp",
