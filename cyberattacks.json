@@ -1,5 +1,16 @@
 [
     {
+        "date": "2026-08-06",
+        "victim": "Shopping Cidade",
+        "domain": "shoppingcidade.com.br",
+        "country": "BRA",
+        "summary": "Le Shopping Cidade, un centre commercial de la capitale mineira, a été victime d'une cyberattaque qui a entraîné le chiffrement et l'indisponibilité temporaire de ses systèmes. L'incident, découvert le 6 août, est caractéristique d'une attaque par ransomware. Bien que l'administration affirme que les systèmes ont été restaurés et qu'aucune utilisation abusive de données personnelles n'a été identifiée, l'établissement recommande une extrême prudence aux personnes concernées concernant les tentatives d'hameçonnage.",
+        "description": "",
+        "title": "Shopping de BH sofre ataque virtual e tem dados pessoais comprometidos",
+        "url": "https://diariodocomercio.com.br/geral/shopping-de-belo-horizonte-confirma-invasao-de-servidores-com-informacoes-pessoais-criticas/",
+        "added": "2026-08-12"
+    },
+    {
         "date": "2026-07-15",
         "victim": "Fusuyama Denshi Co., Ltd.",
         "domain": "fusodentsu.co.jp",
