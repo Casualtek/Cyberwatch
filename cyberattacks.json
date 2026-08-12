@@ -1,5 +1,16 @@
 [
     {
+        "date": "2026-01-26",
+        "victim": "Centre Hospitalier Universitaire de Jeonnam",
+        "domain": "cnuh.com",
+        "country": "KOR",
+        "summary": "Le Centre Hospitalier Universitaire de Jeonnam a été victime d'une cyberattaque par ransomware. L'attaque, survenue le matin précédent, a empêché la diffusion des résultats des examens par imagerie (IRM) à distance, obligeant le personnel médical à se rendre physiquement au service de radiologie. L'incident a été résolu le même jour par la restauration du système informatique. Il est à noter qu'aucun dommage lié à la fuite des données personnelles des patients ou aux opérations chirurgicales n'a été constaté.",
+        "description": "",
+        "title": "전남대병원 랜섬웨어 공격받아 영상검사 차질...전산망 긴급 복구 완료",
+        "url": "https://news.ikbc.co.kr/article/view/kbc202601270025",
+        "added": "2026-08-12"
+    },
+    {
         "date": "2026-08-09",
         "victim": "Rext",
         "domain": "rext.jp",
