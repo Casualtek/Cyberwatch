@@ -1,5 +1,16 @@
 [
     {
+        "date": "2026-08-11",
+        "victim": "CH BIOTECH R&D CO., LTD.",
+        "domain": "chbio.com",
+        "country": "TWN",
+        "summary": "Le 11 août 2026, la CH Biotech a subi une cyberattaque ayant touché une partie de ses systèmes d'information. Selon les premières évaluations, l'incident n'a pas d'impact significatif sur les opérations de l'entreprise. Pour y répondre, la société a activé ses mécanismes de défense, engagé des cabinets d'experts externes et a prévu d'informer les autorités compétentes conformément à la réglementation.",
+        "description": "",
+        "title": "Today's Information",
+        "url": "https://emops.twse.com.tw/server-java/t05sr01_1_e?&isNew=Y&seq_no=1&spoke_time=153824&spoke_date=20260811&co_id=6534",
+        "added": "2026-08-12"
+    },
+    {
         "date": "2026-08-05",
         "victim": "Stiftung Brandenburgische Gedenkstätten",
         "domain": "stiftung-bg.de",
