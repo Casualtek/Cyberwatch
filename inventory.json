@@ -196428,6 +196428,11 @@
                 "date": "2026-08-07",
                 "type": "claimed",
                 "group": "SilentRansomGroup"
+            },
+            {
+                "date": "2026-08-03",
+                "type": "assessed",
+                "group": "SilentRansomGroup"
             }
         ]
     },
