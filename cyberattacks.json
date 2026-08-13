@@ -1,5 +1,16 @@
 [
     {
+        "date": "2026-08-06",
+        "victim": "Nick Scali",
+        "domain": "nickscali.com.au",
+        "country": "AUS",
+        "summary": "Nick Scali a dû mettre certains de ses systèmes hors ligne suite à une cyberattaque survenue au milieu de la semaine dernière. Bien que l'entreprise ait initialement déclaré n'avoir aucune preuve d'accès non autorisé aux données clients, les autorités australiennes ont indiqué que les cybercriminels avaient obtenu certains détails clients, notamment les adresses de livraison, et avaient envoyé une demande de rançon.",
+        "description": "",
+        "title": "Nick Scali systems offline after cyberattack",
+        "url": "https://www.capitalbrief.com/briefing/nick-scali-systems-offline-after-cyberattack-582ee65a-96b3-4992-a702-fb1f54c3d1d5/",
+        "added": "2026-08-13"
+    },
+    {
         "date": "2026-08-03",
         "victim": "PharmaEssentia",
         "domain": "pharmaessentia-esg.com",
