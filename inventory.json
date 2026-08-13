@@ -298135,6 +298135,18 @@
         ]
     },
     {
+        "victim": "Basic Grain Products",
+        "domain": "tastemorr.com",
+        "country": "US",
+        "timeline": [
+            {
+                "date": "2026-07-22",
+                "type": "assessed",
+                "group": "akira"
+            }
+        ]
+    },
+    {
         "victim": "T A Supply",
         "domain": "tasupply.com",
         "country": "",
