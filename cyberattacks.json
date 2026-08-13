@@ -1,5 +1,16 @@
 [
     {
+        "date": "2026-08-08",
+        "victim": "Berlin Brandenburgische Wohnungsbaugenossenschaft",
+        "domain": "bbwbg.de",
+        "country": "DEU",
+        "summary": "La Berlin Brandenburgische Wohnungsbaugenossenschaft a été victime d'une cyberattaque. Des acteurs non autorisés ont pu accéder temporairement à certaines parties de ses systèmes informatiques, qui ont été compromis. Une enquête est en cours pour déterminer si des données sensibles des locataires ont été consultées ou copiées, mais à ce stade, il n'y a pas eu accès aux données personnelles des locataires. L'identité des attaquants reste inconnue.",
+        "description": "",
+        "title": "Cyberangriff bei Wohnungsbaugenossenschaft: Sensible Mieter-Daten im Visier?",
+        "url": "https://www.morgenpost.de/berlin/article412850366/cyberangriff-bei-wohnungsbaugenossenschaft-sensible-mieter-daten-im-visier.html",
+        "added": "2026-08-13"
+    },
+    {
         "date": "2026-08-11",
         "victim": "Darlington County",
         "domain": "darcosc.com",
