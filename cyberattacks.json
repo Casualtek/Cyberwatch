@@ -1,5 +1,16 @@
 [
     {
+        "date": "2025-08-05",
+        "victim": "EOPPEP",
+        "domain": "eoppep.gr",
+        "country": "GRC",
+        "summary": "Le 5 août 2026, l'EOPPEP (l'Organisme national grec de certification des qualifications et d'orientation professionnelle) a été victime d'une attaque par ransomware. L'incident a paralysé les systèmes d'information et les services électroniques de l'organisme pendant huit jours, et ce, jusqu'à l'annonce officielle du 12 août. Cette attaque s'inscrit dans une série d'offensives ciblant les institutions publiques grecques, et présente des caractéristiques suggérant l'implication d'acteurs étatiques.",
+        "description": "",
+        "title": "Access Blocked",
+        "url": "https://www.secnews.gr/726335/eoppep-ransomware-epithesi-5-augoustou-2026/",
+        "added": "2026-08-13"
+    },
+    {
         "date": "2026-08-06",
         "victim": "Nick Scali",
         "domain": "nickscali.com.au",
