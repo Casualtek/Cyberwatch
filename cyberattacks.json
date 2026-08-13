@@ -1,5 +1,27 @@
 [
     {
+        "date": "2026-08-11",
+        "victim": "Darlington County",
+        "domain": "darcosc.com",
+        "country": "USA",
+        "summary": "Le comté de Darlington, en Caroline du Sud, a dû isoler certains de ses systèmes informatiques suite à un incident de cybersécurité qui a perturbé les téléphones et certains services gouvernementaux. Les services d'urgence (911) sont restés opérationnels. L'incident est survenu mercredi, et les autorités locales ont fait appel à des spécialistes externes et aux forces de l'ordre pour gérer la situation. Le comté n'a pas encore précisé l'étendue complète de l'attaque, si un rançongiciel est impliqué ou si des données ont été compromises.",
+        "description": "",
+        "title": "Darlington County, South Carolina, takes systems offline after cybersecurity incident",
+        "url": "https://dysruptionhub.com/darlington-county-cyber-phones/",
+        "added": "2026-08-13"
+    },
+    {
+        "date": "2026-07-21",
+        "victim": "Bain thermal de Bad Staffelstein",
+        "domain": "obermaintherme.de",
+        "country": "DEU",
+        "summary": "Un bain thermal populaire à Bad Staffelstein a été ciblé par des hackers.",
+        "description": "",
+        "title": "Cyberangriff auf Obermain Therme in Bad Staffelstein",
+        "url": "https://www.fraenkischertag.de/lokales/lichtenfels/wirtschaft/cyberangriff-auf-webseite-der-obermain-therme-bad-staffelstein-art-575585",
+        "added": "2026-08-13"
+    },
+    {
         "date": "2025-08-05",
         "victim": "EOPPEP",
         "domain": "eoppep.gr",
