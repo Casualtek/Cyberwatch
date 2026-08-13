@@ -1,5 +1,16 @@
 [
     {
+        "date": "2026-08-03",
+        "victim": "PharmaEssentia",
+        "domain": "pharmaessentia-esg.com",
+        "country": "TWN",
+        "summary": "PharmaEssentia a été victime d'une fuite de données suite à une cyberattaque. L'attaque, survenue le 3 août, a exposé des informations telles que les noms et adresses e-mail des employés de l'entreprise. PharmaEssentia a confirmé que les informations confidentielles étaient chiffrées et qu'aucun dommage opérationnel majeur n'a été constaté. L'entreprise a également mis en garde contre les tentatives d'usurpation d'identité utilisant son nom pour diffuser de fausses informations.",
+        "description": "",
+        "title": "藥華藥遭駭客網路攻擊！ 公司發聲明：機密已加密無外流",
+        "url": "https://tw.news.yahoo.com/%E8%97%A5%E8%8F%AF%E8%97%A5%E9%81%AD%E9%A7%AD%E5%AE%A2%E7%B6%B2%E8%B7%AF%E6%94%BB%E6%93%8A-%E5%85%AC%E5%8F%B8%E7%99%BC%E8%81%B2%E6%98%8E-%E6%A9%9F%E5%AF%86%E5%B7%B2%E5%8A%A0%E5%AF%86%E7%84%A1%E5%A4%96%E6%B5%81-043500443.html",
+        "added": "2026-08-13"
+    },
+    {
         "date": "2026-01-26",
         "victim": "Centre Hospitalier Universitaire de Jeonnam",
         "domain": "cnuh.com",
