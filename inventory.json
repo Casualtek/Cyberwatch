@@ -209746,6 +209746,11 @@
                 "date": "2026-08-02",
                 "type": "claimed",
                 "group": "SilentRansomGroup"
+            },
+            {
+                "date": "2026-07-28",
+                "type": "assessed",
+                "group": "SilentRansomGroup"
             }
         ]
     },
