@@ -152366,11 +152366,16 @@
     {
         "victim": "i4 Solutions",
         "domain": "i4.net",
-        "country": "",
+        "country": "US",
         "timeline": [
             {
                 "date": "2026-08-10",
                 "type": "claimed",
+                "group": "akira"
+            },
+            {
+                "date": "2026-07-29",
+                "type": "assessed",
                 "group": "akira"
             }
         ]
