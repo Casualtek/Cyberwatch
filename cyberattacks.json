@@ -1,5 +1,16 @@
 [
     {
+        "date": "2026-08-09",
+        "victim": "CSDD",
+        "domain": "csdd.lv",
+        "country": "LVA",
+        "summary": "La Direction de la Sécurité Routière (CSDD) a été victime d'une cyberattaque complexe et ciblée survenue le week-end. Les attaquants sont parvenus à pénétrer partiellement le système informatique de la CSDD et à obtenir des données historiques de paiement contenant des informations personnelles des clients. Les données divulguées peuvent inclure noms, prénoms, codes personnels, adresses, numéros d'immatriculation des véhicules, ainsi que les détails des paiements. Bien que les noms d'utilisateur et mots de passe ne soient pas compromis, la CSDD et CERT.LV ont arrêté l'attaque et sont en cours d'enquête. Les autorités appellent le public à la prudence face aux tentatives de fraude en ligne.",
+        "description": "",
+        "title": "В результате кибератаки на CSDD произошла утечка данных - жителей предупреждают о возможном мошенничестве",
+        "url": "https://rus.jauns.lv/article/novosti/723692-v-rezultate-kiberataki-na-csdd-proizosla-utecka-dannyx-zitelei-preduprezdaiut-o-vozmoznom-mosennicestve",
+        "added": "2026-08-13"
+    },
+    {
         "date": "2026-08-08",
         "victim": "Berlin Brandenburgische Wohnungsbaugenossenschaft",
         "domain": "bbwbg.de",
