@@ -1,5 +1,16 @@
 [
     {
+        "date": "2026-07-02",
+        "victim": "Cook Medical",
+        "domain": "cookmedical.com",
+        "country": "USA",
+        "summary": "Cook Medical a confirmé avoir été victime d'un incident de cybersécurité en juillet 2026, où un employé a involontairement donné accès à certains systèmes de l'entreprise à une partie externe. Bien que l'incident ait impliqué des informations de contact clients (États-Unis et Canada), des enregistrements de communication et des fichiers internes, Cook Medical affirme qu'aucune donnée sensible ou protégée n'a été accédée et que les opérations se déroulent normalement.",
+        "description": "",
+        "title": "Cook Medical discloses cyber incident stemming from a scam",
+        "url": "https://www.medtechdive.com/news/cook-medical-discloses-cyber-incident-stemming-from-a-scam/827847/",
+        "added": "2026-08-14"
+    },
+    {
         "date": "2026-08-11",
         "victim": "Brazosport College",
         "domain": "brazosport.edu",
