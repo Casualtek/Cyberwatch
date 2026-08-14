@@ -55597,6 +55597,18 @@
         ]
     },
     {
+        "victim": "cambrialawfirm.com",
+        "domain": "cambrialawfirm.com",
+        "country": "CA",
+        "timeline": [
+            {
+                "date": "2026-08-13",
+                "type": "claimed",
+                "group": "incransom"
+            }
+        ]
+    },
+    {
         "victim": "Cambridge University Press & Assessment",
         "domain": "cambridge.org",
         "country": "GB",
@@ -63315,6 +63327,11 @@
         "domain": "cfsupplyinc.com",
         "country": "US",
         "timeline": [
+            {
+                "date": "2026-08-13",
+                "type": "claimed",
+                "group": "akira"
+            },
             {
                 "date": "2026-07-30",
                 "type": "assessed",
@@ -74999,6 +75016,18 @@
         ]
     },
     {
+        "victim": "clgroup",
+        "domain": "compunnel.com",
+        "country": "US",
+        "timeline": [
+            {
+                "date": "2026-08-12",
+                "type": "claimed",
+                "group": "incransom"
+            }
+        ]
+    },
+    {
         "victim": "Computan ",
         "domain": "computan.com",
         "country": "CA",
@@ -84853,6 +84882,18 @@
         ]
     },
     {
+        "victim": "DAISEN",
+        "domain": "daisen.co.jp",
+        "country": "JP",
+        "timeline": [
+            {
+                "date": "2026-08-13",
+                "type": "claimed",
+                "group": "AiLock"
+            }
+        ]
+    },
+    {
         "victim": "daispa.it",
         "domain": "daispa.it",
         "country": "IT",
@@ -85351,6 +85392,18 @@
                 "date": "2023-03-09",
                 "type": "claimed",
                 "group": "alphv"
+            }
+        ]
+    },
+    {
+        "victim": "D & J Beverage Service",
+        "domain": "dandjbeverage.com",
+        "country": "US",
+        "timeline": [
+            {
+                "date": "2026-08-13",
+                "type": "claimed",
+                "group": "qilin"
             }
         ]
     },
@@ -99055,6 +99108,18 @@
                 "date": "2024-10-09",
                 "type": "claimed",
                 "group": "sarcoma"
+            }
+        ]
+    },
+    {
+        "victim": "eas****",
+        "domain": "eas****.nodomain",
+        "country": "",
+        "timeline": [
+            {
+                "date": "2026-08-13",
+                "type": "claimed",
+                "group": "nightspire"
             }
         ]
     },
@@ -125855,6 +125920,18 @@
         ]
     },
     {
+        "victim": "GB Group S.A",
+        "domain": "gbgroup.com",
+        "country": "PL",
+        "timeline": [
+            {
+                "date": "2026-08-11",
+                "type": "claimed",
+                "group": "dragonforce"
+            }
+        ]
+    },
+    {
         "victim": "gbhs.org",
         "domain": "gbhs.org",
         "country": "US",
@@ -146651,6 +146728,18 @@
                 "date": "2023-09-22",
                 "type": "claimed",
                 "group": "rhysida"
+            }
+        ]
+    },
+    {
+        "victim": "Hitachi High-Tech",
+        "domain": "hitachi-hightech.com",
+        "country": "JP",
+        "timeline": [
+            {
+                "date": "2026-08-13",
+                "type": "claimed",
+                "group": "coinbasecartel"
             }
         ]
     },
@@ -232791,6 +232880,18 @@
         ]
     },
     {
+        "victim": "https://pacific-construction.com/",
+        "domain": "pacific-construction.com",
+        "country": "GB",
+        "timeline": [
+            {
+                "date": "2026-08-13",
+                "type": "claimed",
+                "group": "incransom"
+            }
+        ]
+    },
+    {
         "victim": "pacifica.co.uk",
         "domain": "pacifica.co.uk",
         "country": "UK",
@@ -244677,6 +244778,18 @@
                 "date": "2025-09-01",
                 "type": "assessed",
                 "group": "akira"
+            }
+        ]
+    },
+    {
+        "victim": "Portable Intelligence Inc www.portable-intelligence.com serviced by an IT company Computer...",
+        "domain": "portable-intelligence.com",
+        "country": "US",
+        "timeline": [
+            {
+                "date": "2026-08-13",
+                "type": "claimed",
+                "group": "blacknevas"
             }
         ]
     },
@@ -257296,6 +257409,18 @@
         ]
     },
     {
+        "victim": "Reminger",
+        "domain": "reminger.com",
+        "country": "DE",
+        "timeline": [
+            {
+                "date": "2026-08-13",
+                "type": "claimed",
+                "group": "SilentRansomGroup"
+            }
+        ]
+    },
+    {
         "victim": "Remitano - Cryptocurrency Exchange",
         "domain": "remitano.com",
         "country": "SC",
@@ -266274,6 +266399,18 @@
                 "date": "2023-07-06",
                 "type": "claimed",
                 "group": "play"
+            }
+        ]
+    },
+    {
+        "victim": "Safeware",
+        "domain": "safewareinc.com",
+        "country": "US",
+        "timeline": [
+            {
+                "date": "2026-08-13",
+                "type": "claimed",
+                "group": "thegentlemen"
             }
         ]
     },
@@ -278110,6 +278247,18 @@
                 "date": "2024-05-27",
                 "type": "claimed",
                 "group": "ransomhub"
+            }
+        ]
+    },
+    {
+        "victim": "SIA Medical Centre",
+        "domain": "siamed.com.au",
+        "country": "AU",
+        "timeline": [
+            {
+                "date": "2026-08-13",
+                "type": "claimed",
+                "group": "rhysida"
             }
         ]
     },
@@ -338527,6 +338676,18 @@
         ]
     },
     {
+        "victim": "Yaomasa",
+        "domain": "yaomasa.com",
+        "country": "JP",
+        "timeline": [
+            {
+                "date": "2026-08-13",
+                "type": "claimed",
+                "group": "AiLock"
+            }
+        ]
+    },
+    {
         "victim": "yaomazi.com",
         "domain": "yaomazi.com",
         "country": "CN",
@@ -340189,6 +340350,18 @@
                 "date": "2025-01-27",
                 "type": "claimed",
                 "group": "babuk2"
+            }
+        ]
+    },
+    {
+        "victim": "Zara Investment Holding",
+        "domain": "zaraholding.com",
+        "country": "JO",
+        "timeline": [
+            {
+                "date": "2026-08-13",
+                "type": "claimed",
+                "group": "payload"
             }
         ]
     },
