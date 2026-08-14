@@ -63311,6 +63311,18 @@
         ]
     },
     {
+        "victim": "CF Supply",
+        "domain": "cfsupplyinc.com",
+        "country": "US",
+        "timeline": [
+            {
+                "date": "2026-07-30",
+                "type": "assessed",
+                "group": "akira"
+            }
+        ]
+    },
+    {
         "victim": "CFTC Métallurgie",
         "domain": "cftc-metallurgie.com",
         "country": "FR",
