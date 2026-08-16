@@ -1,5 +1,16 @@
 [
     {
+        "date": "2026-08-09",
+        "victim": "Itaguaí Construções Navais (ICN)",
+        "domain": "icnavais.com",
+        "country": "BRA",
+        "summary": "L'Itaguaí Construções Navais (ICN) a été victime d'une cyberattaque par ransomware qui a touché ses systèmes informatiques, y compris les serveurs de messagerie, les systèmes de fichiers et les bases de données. L'attaque a été détectée le dimanche soir (9) et a entraîné la cryptographie des données. L'entreprise a isolé immédiatement l'environnement pour contenir le malware. Au moment de la publication de l'article (le 14), l'ICN était toujours sans accès à ses systèmes, et l'étendue de l'attaque, notamment si des données avaient été extraites, n'a pas été précisée par l'entreprise.",
+        "description": "",
+        "title": "Ataque cibernético paralisa sistemas da ICN em Itaguaí - Jornal Atual | Jornalismo Regional com Credibilidade desde 2001",
+        "url": "https://jornalatual.com.br/ataque-cibernetico-icn/",
+        "added": "2026-08-16"
+    },
+    {
         "date": "2026-08-13",
         "victim": "Plymouth County Correctional Facility",
         "domain": "pcsdma.org",
