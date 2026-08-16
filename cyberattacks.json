@@ -1,5 +1,27 @@
 [
     {
+        "date": "2026-08-13",
+        "victim": "Plymouth County Correctional Facility",
+        "domain": "pcsdma.org",
+        "country": "USA",
+        "summary": "Le système informatique de la Plymouth County Correctional Facility a été compromis suite à l'intrusion d'un cyberattaquant dans les serveurs de la prison. L'incident, détecté jeudi matin, a entraîné la mise hors service du système informatique et la suspension des visites physiques des détenus. Les autorités (police de l'État, FBI et Département de la Sécurité intérieure) enquêtent sur cette violation. Bien que le directeur ait affirmé qu'il n'y avait pas eu de risque pour la sécurité physique, les employés ont été invités à rester vigilants concernant les informations personnelles.",
+        "description": "",
+        "title": "Jail visits suspended after cyber attack - Plymouth Independent",
+        "url": "https://www.plymouthindependent.org/jail-visits-suspended-after-cyber-attack/",
+        "added": "2026-08-16"
+    },
+    {
+        "date": "2026-08-12",
+        "victim": "Medi Face",
+        "domain": "medi-face.co.jp",
+        "country": "JPN",
+        "summary": "L'entreprise Medi Face a été la cible d'une attaque sophistiquée et planifiée sur quatre mois, visant à détourner l'autorité de son domaine médical pour rediriger les utilisateurs vers des sites de jeux d'argent illégaux. Les attaquants ont utilisé des techniques de dissimulation avancées, notamment le « geo-cloaking », pour masquer l'intrusion et échapper à la détection des experts. Grâce à une analyse forensique, Medi Face a localisé le cerveau de l'opération à Tokyo et a publié les détails techniques sur GitHub pour protéger les autres établissements de santé.",
+        "description": "",
+        "title": "403 ERROR",
+        "url": "http://www.excite.co.jp/news/article/Prtimes_2026-08-14-80422-17/",
+        "added": "2026-08-14"
+    },
+    {
         "date": "2026-07-02",
         "victim": "Cook Medical",
         "domain": "cookmedical.com",
