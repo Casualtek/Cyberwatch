@@ -6119,6 +6119,18 @@
         ]
     },
     {
+        "victim": "Twal Family IT Lab",
+        "domain": "TwalFamilyITLab.nodomain",
+        "country": "CA",
+        "timeline": [
+            {
+                "date": "2026-08-16",
+                "type": "claimed",
+                "group": "medusalocker"
+            }
+        ]
+    },
+    {
         "victim": "UMSA",
         "domain": "UMSA.nodomain",
         "country": "",
@@ -10658,6 +10670,18 @@
         ]
     },
     {
+        "victim": "actua.fr",
+        "domain": "actua.fr",
+        "country": "FR",
+        "timeline": [
+            {
+                "date": "2026-08-16",
+                "type": "claimed",
+                "group": "lockbit5"
+            }
+        ]
+    },
+    {
         "victim": "ACU - The Automobile Club of Uruguay",
         "domain": "acu.com.uy",
         "country": "UY",
@@ -13814,6 +13838,18 @@
         ]
     },
     {
+        "victim": "Arnall Golden Gregory",
+        "domain": "agg.com",
+        "country": "US",
+        "timeline": [
+            {
+                "date": "2026-08-16",
+                "type": "claimed",
+                "group": "qilin"
+            }
+        ]
+    },
+    {
         "victim": "Agganis Driving School",
         "domain": "agganis.com",
         "country": "US",
@@ -14162,6 +14198,18 @@
         ]
     },
     {
+        "victim": "agricolagalbusera.it",
+        "domain": "agricolagalbusera.it",
+        "country": "IT",
+        "timeline": [
+            {
+                "date": "2026-08-16",
+                "type": "claimed",
+                "group": "lockbit5"
+            }
+        ]
+    },
+    {
         "victim": "FR Ministry of Agriculture",
         "domain": "agriculture.gouv.fr",
         "country": "FR",
@@ -14451,6 +14499,18 @@
                 "date": "2025-05-26",
                 "type": "claimed",
                 "group": "gunra"
+            }
+        ]
+    },
+    {
+        "victim": "AGUNSA",
+        "domain": "agunsa.com",
+        "country": "CL",
+        "timeline": [
+            {
+                "date": "2026-08-16",
+                "type": "claimed",
+                "group": "qilin"
             }
         ]
     },
@@ -15348,6 +15408,18 @@
                 "date": "2025-07-29",
                 "type": "claimed",
                 "group": "shinyhunters"
+            }
+        ]
+    },
+    {
+        "victim": "airoyal.biz",
+        "domain": "airoyal.com",
+        "country": "US",
+        "timeline": [
+            {
+                "date": "2026-07-21",
+                "type": "claimed",
+                "group": "settra"
             }
         ]
     },
@@ -18979,6 +19051,18 @@
                 "date": "2024-08-26",
                 "type": "claimed",
                 "group": "meow"
+            }
+        ]
+    },
+    {
+        "victim": "All Parts Dry Cleaning",
+        "domain": "allpartsdrycleaning.co.uk",
+        "country": "GB",
+        "timeline": [
+            {
+                "date": "2026-08-16",
+                "type": "claimed",
+                "group": "medusalocker"
             }
         ]
     },
@@ -28309,6 +28393,18 @@
                 "date": "2026-01-23",
                 "type": "claimed",
                 "group": "akira"
+            }
+        ]
+    },
+    {
+        "victim": "ASCII Group",
+        "domain": "asciigroup.com",
+        "country": "JP",
+        "timeline": [
+            {
+                "date": "2026-08-16",
+                "type": "claimed",
+                "group": "qilin"
             }
         ]
     },
@@ -43913,6 +44009,18 @@
         ]
     },
     {
+        "victim": "Bija Industrie",
+        "domain": "bija-industrie.com",
+        "country": "FR",
+        "timeline": [
+            {
+                "date": "2026-08-16",
+                "type": "claimed",
+                "group": "medusalocker"
+            }
+        ]
+    },
+    {
         "victim": "Bikesportz Imports",
         "domain": "bikesportz.com.au",
         "country": "AU",
@@ -47986,6 +48094,18 @@
         ]
     },
     {
+        "victim": "BONJOUR GROUP",
+        "domain": "bonjourgroup.net",
+        "country": "IN",
+        "timeline": [
+            {
+                "date": "2026-07-09",
+                "type": "claimed",
+                "group": "majinahanashi"
+            }
+        ]
+    },
+    {
         "victim": "bonta-viva.it",
         "domain": "bonta-viva.it",
         "country": "IT",
@@ -48354,6 +48474,18 @@
                 "date": "2025-06-02",
                 "type": "claimed",
                 "group": "nightspire"
+            }
+        ]
+    },
+    {
+        "victim": "Botek",
+        "domain": "botek.de",
+        "country": "DE",
+        "timeline": [
+            {
+                "date": "2026-08-16",
+                "type": "claimed",
+                "group": "qilin"
             }
         ]
     },
@@ -72503,6 +72635,18 @@
         ]
     },
     {
+        "victim": "Coface",
+        "domain": "coface.it",
+        "country": "IT",
+        "timeline": [
+            {
+                "date": "2026-08-16",
+                "type": "claimed",
+                "group": "qilin"
+            }
+        ]
+    },
+    {
         "victim": "cofaco.com",
         "domain": "cofaco.com",
         "country": "CO",
@@ -89109,6 +89253,18 @@
         ]
     },
     {
+        "victim": "DELTA WAYS",
+        "domain": "deltaways.de",
+        "country": "DE",
+        "timeline": [
+            {
+                "date": "2026-08-15",
+                "type": "claimed",
+                "group": "qilin"
+            }
+        ]
+    },
+    {
         "victim": "deltron.com",
         "domain": "deltron.com",
         "country": "US",
@@ -90068,6 +90224,18 @@
                 "date": "2023-12-20",
                 "type": "claimed",
                 "group": "lockbit3"
+            }
+        ]
+    },
+    {
+        "victim": "Desatera Sdn Bhd",
+        "domain": "desatera.com.my",
+        "country": "MY",
+        "timeline": [
+            {
+                "date": "2026-08-16",
+                "type": "claimed",
+                "group": "qilin"
             }
         ]
     },
@@ -95342,6 +95510,18 @@
         ]
     },
     {
+        "victim": "Double H Equipment",
+        "domain": "doublehequip.com",
+        "country": "US",
+        "timeline": [
+            {
+                "date": "2026-08-16",
+                "type": "claimed",
+                "group": "qilin"
+            }
+        ]
+    },
+    {
         "victim": "Double House",
         "domain": "doublehorse.in",
         "country": "IN",
@@ -97970,6 +98150,18 @@
         ]
     },
     {
+        "victim": "dupouy-associes.fr",
+        "domain": "dupouy-associes.fr",
+        "country": "FR",
+        "timeline": [
+            {
+                "date": "2026-08-16",
+                "type": "claimed",
+                "group": "lockbit5"
+            }
+        ]
+    },
+    {
         "victim": "Duque Saldarriaga",
         "domain": "duquesaldarriaga.com",
         "country": "CO",
@@ -99921,6 +100113,18 @@
                 "date": "2025-09-09",
                 "type": "assessed",
                 "group": "play"
+            }
+        ]
+    },
+    {
+        "victim": "WEBA Meubelen",
+        "domain": "eba.be",
+        "country": "BE",
+        "timeline": [
+            {
+                "date": "2026-08-16",
+                "type": "claimed",
+                "group": "qilin"
             }
         ]
     },
@@ -124925,6 +125129,18 @@
                 "date": "2026-03-20",
                 "type": "claimed",
                 "group": "qilin"
+            }
+        ]
+    },
+    {
+        "victim": "galmack.com.ec",
+        "domain": "galmack.com.ec",
+        "country": "EC",
+        "timeline": [
+            {
+                "date": "2026-07-21",
+                "type": "claimed",
+                "group": "settra"
             }
         ]
     },
@@ -154743,6 +154959,18 @@
         ]
     },
     {
+        "victim": "Idex Group",
+        "domain": "idex-group.com",
+        "country": "DE",
+        "timeline": [
+            {
+                "date": "2026-08-16",
+                "type": "claimed",
+                "group": "medusalocker"
+            }
+        ]
+    },
+    {
         "victim": "IDEXX",
         "domain": "idexx.com",
         "country": "",
@@ -158213,6 +158441,18 @@
         ]
     },
     {
+        "victim": "Infosat",
+        "domain": "infosat.ma",
+        "country": "MA",
+        "timeline": [
+            {
+                "date": "2026-08-16",
+                "type": "claimed",
+                "group": "Panzer"
+            }
+        ]
+    },
+    {
         "victim": "infosysbpm.com",
         "domain": "infosysbpm.com",
         "country": "IN",
@@ -161075,6 +161315,18 @@
                 "date": "2023-04-13",
                 "type": "claimed",
                 "group": "unsafe"
+            }
+        ]
+    },
+    {
+        "victim": "INVENSITY",
+        "domain": "invensity.com",
+        "country": "DE",
+        "timeline": [
+            {
+                "date": "2026-08-16",
+                "type": "claimed",
+                "group": "qilin"
             }
         ]
     },
@@ -168014,6 +168266,18 @@
         ]
     },
     {
+        "victim": "Jone Précision",
+        "domain": "joneprecision.com",
+        "country": "FR",
+        "timeline": [
+            {
+                "date": "2026-08-15",
+                "type": "claimed",
+                "group": "qilin"
+            }
+        ]
+    },
+    {
         "victim": "jones-hamilton.com",
         "domain": "jones-hamilton.com",
         "country": "",
@@ -172653,6 +172917,18 @@
                 "date": "2024-08-22",
                 "type": "assessed",
                 "group": "ElDorado"
+            }
+        ]
+    },
+    {
+        "victim": "Kennedy Jenks",
+        "domain": "kennedyjenks.com",
+        "country": "US",
+        "timeline": [
+            {
+                "date": "2026-08-16",
+                "type": "claimed",
+                "group": "Helix"
             }
         ]
     },
@@ -178074,6 +178350,18 @@
                 "date": "2024-11-18",
                 "type": "assessed",
                 "group": "safepay"
+            }
+        ]
+    },
+    {
+        "victim": "KT RESTAURANT",
+        "domain": "ktr.co.th",
+        "country": "TH",
+        "timeline": [
+            {
+                "date": "2026-07-09",
+                "type": "claimed",
+                "group": "majinahanashi"
             }
         ]
     },
@@ -187864,6 +188152,18 @@
         "timeline": [
             {
                 "date": "2025-08-07",
+                "type": "claimed",
+                "group": "qilin"
+            }
+        ]
+    },
+    {
+        "victim": "Loescher editore Torino",
+        "domain": "loescher.it",
+        "country": "IT",
+        "timeline": [
+            {
+                "date": "2026-08-16",
                 "type": "claimed",
                 "group": "qilin"
             }
@@ -200811,6 +201111,18 @@
         ]
     },
     {
+        "victim": "Megawide",
+        "domain": "megawide.com.ph",
+        "country": "PH",
+        "timeline": [
+            {
+                "date": "2026-08-16",
+                "type": "claimed",
+                "group": "qilin"
+            }
+        ]
+    },
+    {
         "victim": "Megawork",
         "domain": "megawork.com.br",
         "country": "BR",
@@ -210268,6 +210580,18 @@
         ]
     },
     {
+        "victim": "MOSAID Technologies",
+        "domain": "mosaid.com",
+        "country": "CA",
+        "timeline": [
+            {
+                "date": "2026-08-16",
+                "type": "claimed",
+                "group": "qilin"
+            }
+        ]
+    },
+    {
         "victim": "moscati.org",
         "domain": "moscati.org",
         "country": "IT",
@@ -210276,6 +210600,18 @@
                 "date": "2026-07-01",
                 "type": "claimed",
                 "group": "krybit"
+            }
+        ]
+    },
+    {
+        "victim": "Moscord",
+        "domain": "moscord.com",
+        "country": "SG",
+        "timeline": [
+            {
+                "date": "2026-08-14",
+                "type": "claimed",
+                "group": "Eclipse"
             }
         ]
     },
@@ -210562,6 +210898,18 @@
                 "date": "2023-11-11",
                 "type": "claimed",
                 "group": "abyss"
+            }
+        ]
+    },
+    {
+        "victim": "motorenmaier gmbh",
+        "domain": "motorenmaier.de",
+        "country": "DE",
+        "timeline": [
+            {
+                "date": "2026-08-15",
+                "type": "claimed",
+                "group": "qilin"
             }
         ]
     },
@@ -212451,6 +212799,18 @@
                 "date": "2025-05-29",
                 "type": "claimed",
                 "group": "medusalocker"
+            }
+        ]
+    },
+    {
+        "victim": "Mulino Padano",
+        "domain": "mulinopadano.it",
+        "country": "IT",
+        "timeline": [
+            {
+                "date": "2026-08-16",
+                "type": "claimed",
+                "group": "qilin"
             }
         ]
     },
@@ -242530,6 +242890,18 @@
         ]
     },
     {
+        "victim": "PIO PIO",
+        "domain": "piopio.com.co",
+        "country": "CO",
+        "timeline": [
+            {
+                "date": "2026-07-04",
+                "type": "claimed",
+                "group": "majinahanashi"
+            }
+        ]
+    },
+    {
         "victim": "PipelBiz.com",
         "domain": "pipelbiz.com",
         "country": "IL",
@@ -267135,6 +267507,18 @@
         ]
     },
     {
+        "victim": "SAGASTA sro",
+        "domain": "sagasta.cz",
+        "country": "CZ",
+        "timeline": [
+            {
+                "date": "2026-08-16",
+                "type": "claimed",
+                "group": "Panzer"
+            }
+        ]
+    },
+    {
         "victim": "Saginaw Chippewa Indian Tribe",
         "domain": "sagchip.org",
         "country": "US",
@@ -282981,6 +283365,18 @@
         ]
     },
     {
+        "victim": "Smartsoft",
+        "domain": "smartsoft.com.tw",
+        "country": "TW",
+        "timeline": [
+            {
+                "date": "2026-08-16",
+                "type": "claimed",
+                "group": "Orova"
+            }
+        ]
+    },
+    {
         "victim": "Smart Source, Inc.",
         "domain": "smartsource-inc.com",
         "country": "US",
@@ -287909,6 +288305,18 @@
                 "date": "2023-04-23",
                 "type": "claimed",
                 "group": "blackbasta"
+            }
+        ]
+    },
+    {
+        "victim": "Spoonful of Comfort",
+        "domain": "spoonfulofcomfort.com",
+        "country": "US",
+        "timeline": [
+            {
+                "date": "2026-08-16",
+                "type": "claimed",
+                "group": "qilin"
             }
         ]
     },
@@ -301477,6 +301885,18 @@
         ]
     },
     {
+        "victim": "tecosim.com",
+        "domain": "tecosim.com",
+        "country": "DE",
+        "timeline": [
+            {
+                "date": "2026-08-16",
+                "type": "claimed",
+                "group": "lockbit5"
+            }
+        ]
+    },
+    {
         "victim": "Tecta America",
         "domain": "tectaamerica.com",
         "country": "US",
@@ -301694,6 +302114,18 @@
                 "date": "2023-03-30",
                 "type": "claimed",
                 "group": "royal"
+            }
+        ]
+    },
+    {
+        "victim": "Teikoku USA",
+        "domain": "teikokuusa.com",
+        "country": "US",
+        "timeline": [
+            {
+                "date": "2026-08-16",
+                "type": "claimed",
+                "group": "qilin"
             }
         ]
     },
@@ -304479,6 +304911,18 @@
                 "date": "2026-02-10",
                 "type": "claimed",
                 "group": "incransom"
+            }
+        ]
+    },
+    {
+        "victim": "Thecourierguy",
+        "domain": "thecourierguy.co.za",
+        "country": "ZA",
+        "timeline": [
+            {
+                "date": "2026-08-16",
+                "type": "claimed",
+                "group": "medusalocker"
             }
         ]
     },
@@ -307357,6 +307801,18 @@
                 "date": "2023-06-19",
                 "type": "claimed",
                 "group": "lockbit3"
+            }
+        ]
+    },
+    {
+        "victim": "tiltstudio.com",
+        "domain": "tiltstudio.com",
+        "country": "DE",
+        "timeline": [
+            {
+                "date": "2026-07-27",
+                "type": "claimed",
+                "group": "settra"
             }
         ]
     },
@@ -324769,6 +325225,29 @@
         ]
     },
     {
+        "victim": "vgrn.de",
+        "domain": "vgrn.de",
+        "country": "DE",
+        "timeline": [
+            {
+                "date": "2026-08-16",
+                "type": "claimed",
+                "group": "lockbit5"
+            },
+            {
+                "date": "2026-08-07",
+                "type": "discovered",
+                "summary": "La Verbandsgemeinde Rhein-Nahe est actuellement affectée par une cyberattaque qui limite ses services publics, sa gestion financière et la communication par e-mail. L'attaque, découverte le 16 juillet, est attribuée à une tentative de rançongiciel (ransomware) visant à extorquer une rançon. Les autorités locales affirment que l'attaque est externe et qu'elle n'est pas due à une erreur utilisateur ou à une attaque par phishing. Les spécialistes ont détecté des tentatives d'accès provenant de Russie et d'autres pays européens. La municipalité est en train de restaurer ses systèmes, mais cela prendra plusieurs jours, et les coûts de réponse sont estimés à plusieurs dizaines de milliers d'euros.",
+                "title": "Cyberangriff in Rhein-Nahe: Bürgerdienste eingeschränkt",
+                "url": "https://www.wochenblatt-reporter.de/c-ratgeber/cyberangriff-in-rhein-nahe-buergerdienste-eingeschraenkt_a846282"
+            },
+            {
+                "date": "2026-07-16",
+                "type": "reported"
+            }
+        ]
+    },
+    {
         "victim": "Van Hook Dental Studio",
         "domain": "vhdental.com",
         "country": "US",
@@ -341099,6 +341578,18 @@
                 "date": "2025-08-29",
                 "type": "claimed",
                 "group": "safepay"
+            }
+        ]
+    },
+    {
+        "victim": "Zanichelli",
+        "domain": "zanichelli.it",
+        "country": "IT",
+        "timeline": [
+            {
+                "date": "2026-08-16",
+                "type": "claimed",
+                "group": "qilin"
             }
         ]
     },
