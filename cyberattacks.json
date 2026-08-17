@@ -1,5 +1,16 @@
 [
     {
+        "date": "2026-06-17",
+        "victim": "Baylor Genetics",
+        "domain": "baylorgenetics.com",
+        "country": "USA",
+        "summary": "Baylor Genetics, une entreprise de génomique diagnostique, a été victime d'une violation de cybersécurité. L'accès non autorisé à leur réseau a eu lieu entre le 11 juin et le 17 juin. Les données affectées incluent les informations des patients (date de naissance, résultats de tests, potentiellement assurance maladie, et pour un sous-ensemble très limité, les numéros de sécurité sociale) ainsi que les informations personnelles des employés actuels et anciens (numéros de sécurité sociale, identification gouvernementale, informations financières). La société est actuellement en train d'informer les personnes potentiellement touchées.",
+        "description": "",
+        "title": "Baylor Genetics hit by cybersecurity attack targeting patient, staff information",
+        "url": "https://www.fiercebiotech.com/medtech/baylor-genetics-hit-cybersecurity-attack-personal-information-patients-staff-impacted",
+        "added": "2026-08-17"
+    },
+    {
         "date": "2026-08-09",
         "victim": "Itaguaí Construções Navais (ICN)",
         "domain": "icnavais.com",
