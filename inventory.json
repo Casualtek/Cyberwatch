@@ -132,6 +132,18 @@
         ]
     },
     {
+        "victim": "*********",
+        "domain": "*********.nodomain",
+        "country": "",
+        "timeline": [
+            {
+                "date": "2026-08-15",
+                "type": "claimed",
+                "group": "xpl0itrs"
+            }
+        ]
+    },
+    {
         "victim": "********.com.br",
         "domain": "********.com.br.nodomain",
         "country": "BR",
@@ -19579,6 +19591,18 @@
         ]
     },
     {
+        "victim": "Alpine Electronics Europe",
+        "domain": "alpine-europe.com",
+        "country": "DE",
+        "timeline": [
+            {
+                "date": "2026-08-15",
+                "type": "claimed",
+                "group": "Panzer"
+            }
+        ]
+    },
+    {
         "victim": "alpine4u.com",
         "domain": "alpine4u.com",
         "country": "",
@@ -20953,6 +20977,18 @@
                 "date": "2026-06-12",
                 "type": "claimed",
                 "group": "threeam"
+            }
+        ]
+    },
+    {
+        "victim": "www.amca.org.ar",
+        "domain": "amca.org.ar",
+        "country": "AR",
+        "timeline": [
+            {
+                "date": "2026-08-15",
+                "type": "claimed",
+                "group": "blackwater"
             }
         ]
     },
@@ -29688,7 +29724,7 @@
         ]
     },
     {
-        "victim": "associatedasset.com",
+        "victim": "AAM:HOA Management",
         "domain": "associatedasset.com",
         "country": "US",
         "timeline": [
@@ -29696,6 +29732,11 @@
                 "date": "2025-02-24",
                 "type": "claimed",
                 "group": "cactus"
+            },
+            {
+                "date": "2026-08-15",
+                "type": "claimed",
+                "group": "direwolf"
             },
             {
                 "date": "2025-02-06",
@@ -73156,6 +73197,18 @@
         ]
     },
     {
+        "victim": "Colla Health",
+        "domain": "collahealth.com",
+        "country": "US",
+        "timeline": [
+            {
+                "date": "2026-08-15",
+                "type": "claimed",
+                "group": "direwolf"
+            }
+        ]
+    },
+    {
         "victim": "Law Offices of Alan M. Cohen & Associates LLC (\"AMC\")",
         "domain": "collections-law.com",
         "country": "US",
@@ -94291,6 +94344,18 @@
         ]
     },
     {
+        "victim": "DodoPayments",
+        "domain": "dodopayments.com",
+        "country": "IN",
+        "timeline": [
+            {
+                "date": "2026-08-15",
+                "type": "claimed",
+                "group": "direwolf"
+            }
+        ]
+    },
+    {
         "victim": "Dodson & Horrell",
         "domain": "dodsonandhorrell.com",
         "country": "GB",
@@ -98319,14 +98384,19 @@
         ]
     },
     {
-        "victim": "DXS SYSTEMS",
+        "victim": "DXS International",
         "domain": "dxs-systems.co.uk",
-        "country": "UK",
+        "country": "GB",
         "timeline": [
             {
                 "date": "2025-12-14",
                 "type": "claimed",
                 "group": "devman"
+            },
+            {
+                "date": "2026-08-15",
+                "type": "claimed",
+                "group": "direwolf"
             },
             {
                 "date": "2025-12-18",
@@ -98485,6 +98555,18 @@
                 "date": "2024-06-03",
                 "type": "assessed",
                 "group": "blackbasta"
+            }
+        ]
+    },
+    {
+        "victim": "Dynatrace",
+        "domain": "dynatrace.com",
+        "country": "AT",
+        "timeline": [
+            {
+                "date": "2026-06-12",
+                "type": "claimed",
+                "group": "xpl0itrs"
             }
         ]
     },
@@ -160292,6 +160374,11 @@
                 "date": "2026-08-11",
                 "type": "claimed",
                 "group": "genesis"
+            },
+            {
+                "date": "2026-08-15",
+                "type": "claimed",
+                "group": "anubis"
             }
         ]
     },
@@ -184566,6 +184653,18 @@
             {
                 "date": "2025-12-20",
                 "type": "reported"
+            }
+        ]
+    },
+    {
+        "victim": "Lepi Enterprises",
+        "domain": "lepienterprises.com",
+        "country": "US",
+        "timeline": [
+            {
+                "date": "2026-08-15",
+                "type": "claimed",
+                "group": "securotrop"
             }
         ]
     },
@@ -233056,6 +233155,18 @@
         ]
     },
     {
+        "victim": "Oz Hair & Beauty",
+        "domain": "ozhairandbeauty.com",
+        "country": "AU",
+        "timeline": [
+            {
+                "date": "2026-08-15",
+                "type": "claimed",
+                "group": "xpl0itrs"
+            }
+        ]
+    },
+    {
         "victim": "Ozmit s.r.o.",
         "domain": "ozmit.eu",
         "country": "CZ",
@@ -236657,6 +236768,18 @@
                 "date": "2023-09-03",
                 "type": "claimed",
                 "group": "ransomed"
+            }
+        ]
+    },
+    {
+        "victim": "PayrHealth",
+        "domain": "payrhealth.com",
+        "country": "US",
+        "timeline": [
+            {
+                "date": "2026-08-15",
+                "type": "claimed",
+                "group": "direwolf"
             }
         ]
     },
@@ -254985,6 +255108,18 @@
             {
                 "date": "2023-08-09",
                 "type": "reported"
+            }
+        ]
+    },
+    {
+        "victim": "RapidFort",
+        "domain": "rapidfort.com",
+        "country": "US",
+        "timeline": [
+            {
+                "date": "2026-08-15",
+                "type": "claimed",
+                "group": "xpl0itrs"
             }
         ]
     },
@@ -273369,6 +273504,18 @@
         ]
     },
     {
+        "victim": "SEARS (Grupo Sanborns)",
+        "domain": "sears.com.mx",
+        "country": "MX",
+        "timeline": [
+            {
+                "date": "2026-08-15",
+                "type": "claimed",
+                "group": "spacebears"
+            }
+        ]
+    },
+    {
         "victim": "www.seashoremotel.com",
         "domain": "seashoremotel.com",
         "country": "US",
@@ -275753,6 +275900,18 @@
         ]
     },
     {
+        "victim": "servmarmg.cl",
+        "domain": "servmarmg.cl",
+        "country": "CL",
+        "timeline": [
+            {
+                "date": "2026-08-15",
+                "type": "claimed",
+                "group": "ms13089"
+            }
+        ]
+    },
+    {
         "victim": "Servonix Technologies",
         "domain": "servonix.com",
         "country": "US",
@@ -276794,6 +276953,18 @@
                 "date": "2023-06-02",
                 "type": "claimed",
                 "group": "lockbit3"
+            }
+        ]
+    },
+    {
+        "victim": "www.shalina.com",
+        "domain": "shalina.com",
+        "country": "IN",
+        "timeline": [
+            {
+                "date": "2026-08-15",
+                "type": "claimed",
+                "group": "blackwater"
             }
         ]
     },
@@ -309594,6 +309765,11 @@
                 "group": "blackbyte"
             },
             {
+                "date": "2026-08-15",
+                "type": "claimed",
+                "group": "direwolf"
+            },
+            {
                 "date": "2024-10-01",
                 "type": "discovered",
                 "summary": "La société brésilienne de technologie TOTVS a été victime d'une cyberattaque, qui a été revendiquée par le groupe BlackByte, qui a affirmé avoir volé des données de l'entreprise. TOTVS a informé ses clients de l'incident et a pris des mesures pour garantir la continuité de ses services et opérations. L'entreprise n'a pas confirmé l'ampleur de l'attaque ou si ses clients ont été impactés.",
@@ -328051,6 +328227,18 @@
                 "date": "2025-07-28",
                 "type": "claimed",
                 "group": "d4rk4rmy"
+            }
+        ]
+    },
+    {
+        "victim": "VR Advogados",
+        "domain": "vradvogados.com.br",
+        "country": "BR",
+        "timeline": [
+            {
+                "date": "2026-08-15",
+                "type": "claimed",
+                "group": "Barracuda"
             }
         ]
     },
