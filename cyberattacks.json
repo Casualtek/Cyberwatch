@@ -1,5 +1,16 @@
 [
     {
+        "date": "2026-08-15",
+        "victim": "Lincoln",
+        "domain": "lincolnmaine.org",
+        "country": "USA",
+        "summary": "Le bureau de la ville de Lincoln a été contraint de fermer suite à une cyberattaque qui a chiffré une partie de son réseau. Les autorités locales travaillent à la restauration des systèmes pour éviter toute réinfection et minimiser les perturbations des services.",
+        "description": "",
+        "title": "Lincoln town office closed after cyberattack",
+        "url": "https://www.bangordailynews.com/2026/08/17/penobscot/penobscot-government/lincoln-maine-town-office-closed-cyberattack/",
+        "added": "2026-08-17"
+    },
+    {
         "date": "2026-06-17",
         "victim": "Baylor Genetics",
         "domain": "baylorgenetics.com",
