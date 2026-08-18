@@ -1,5 +1,16 @@
 [
     {
+        "date": "2026-08-16",
+        "victim": "University of Texas at San Antonio",
+        "domain": "utsa.edu",
+        "country": "USA",
+        "summary": "La présence d'une activité non autorisée sur les systèmes technologiques de l'Université du Texas à San Antonio (UT San Antonio) a nécessité la suspension de certains services en ligne et téléphoniques. L'incident a été détecté le week-end, avant qu'il n'atteigne les systèmes centraux. Les autorités universitaires ont immédiatement coupé l'accès à certains services pour contenir la menace. Bien qu'une enquête soit en cours, les responsables ont indiqué qu'aucune preuve de violation de données n'a été trouvée. En raison de l'incident, les dates limites de paiement et d'inscription ont été prolongées.",
+        "description": "",
+        "title": "UT San Antonio's systems go offline after attempted cyber breach",
+        "url": "https://sanantonioreport.org/ut-san-antonio-systems-go-offline-after-attempted-cybersecurity-breach/",
+        "added": "2026-08-18"
+    },
+    {
         "date": "2026-08-15",
         "victim": "Administration de l'État de Berlin",
         "domain": "berlin.de",
