@@ -1,5 +1,12 @@
 [
   {
+    "victim": "INDESMALLA",
+    "domain": "indesmalla.com",
+    "country": "AR",
+    "date": "2026-02-20",
+    "group": "akira"
+  },
+  {
     "victim": "CF Supply",
     "domain": "cfsupplyinc.com",
     "country": "US",
@@ -15673,9 +15680,9 @@
     "group": "akira"
   },
   {
-    "victim": "tempel.com",
+    "victim": "Tempel",
     "domain": "tempel.com",
-    "country": "US",
+    "country": "DE",
     "date": "2025-02-09",
     "group": "cactus"
   },
@@ -15939,7 +15946,7 @@
     "group": "play"
   },
   {
-    "victim": "associatedasset.com",
+    "victim": "AAM:HOA Management",
     "domain": "associatedasset.com",
     "country": "US",
     "date": "2025-02-06",
