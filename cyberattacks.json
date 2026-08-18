@@ -1,5 +1,16 @@
 [
     {
+        "date": "2026-08-15",
+        "victim": "Administration de l'État de Berlin",
+        "domain": "berlin.de",
+        "country": "DEU",
+        "summary": "Le réseau de l'État de Berlin a été victime d'une cyberattaque. Deux administrations sénatoriales, celles de l'Aménagement du territoire et de la Mobilité, ont été isolées du réseau après la découverte d'une intrusion. L'attaque, attribuée à une vulnérabilité dans le système de l'administration de l'Aménagement du territoire, a entraîné un exfiltrage de données potentiellement sensibles. Les autorités sont en enquête, avec l'implication du parquet et du BSI.",
+        "description": "",
+        "title": "Hackerangriff auf Berliner Landesnetz verübt - sensible Daten abgeflossen",
+        "url": "https://www.rbb24.de/politik/beitrag/2026/08/berlin-landesnetz-sicherheitsvorfall-it-senatsverwaltung.html",
+        "added": "2026-08-18"
+    },
+    {
         "date": "2026-08-14",
         "victim": "Ville de Fort Smith",
         "domain": "fortsmithar.gov",
