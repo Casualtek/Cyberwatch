@@ -1,5 +1,16 @@
 [
     {
+        "date": "2026-08-17",
+        "victim": "ARMA",
+        "domain": "arma.gov.ua",
+        "country": "UKR",
+        "summary": "Les serveurs de l'ARMA, l'agence ukrainienne de recouvrement et de gestion des avoirs, ont été victimes d'une intrusion non autorisée, ayant les caractéristiques d'une cyberattaque, juste avant la clôture des candidatures pour le concours de sélection du gestionnaire des actifs. Cette intrusion fait suite à des tentatives d'interférence observées depuis le printemps de cette année. Les autorités compétentes (NABU et SBU) sont en train d'enquêter sur ces événements, qui pourraient faire partie d'une campagne coordonnée visant à paralyser l'Agence et à discréditer le concours.",
+        "description": "",
+        "title": "Сьогодні сервери АРМА зазнали хакерської атаки. Ведеться слідство",
+        "url": "https://arma.gov.ua/news/typical/sogodni-serveri-arma-zaznali-hakerskoi-ataki-vedetsya-slidstvo",
+        "added": "2026-08-18"
+    },
+    {
         "date": "2026-08-16",
         "victim": "University of Texas at San Antonio",
         "domain": "utsa.edu",
