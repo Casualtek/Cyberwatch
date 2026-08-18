@@ -160161,6 +160161,11 @@
                 "date": "2026-04-20",
                 "type": "claimed",
                 "group": "akira"
+            },
+            {
+                "date": "2025-11-13",
+                "type": "assessed",
+                "group": "akira"
             }
         ]
     },
@@ -333434,6 +333439,11 @@
             {
                 "date": "2026-02-24",
                 "type": "claimed",
+                "group": "akira"
+            },
+            {
+                "date": "2025-11-13",
+                "type": "assessed",
                 "group": "akira"
             }
         ]
