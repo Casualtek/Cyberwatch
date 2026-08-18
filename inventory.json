@@ -157539,11 +157539,16 @@
     {
         "victim": "INDESMALLA",
         "domain": "indesmalla.com",
-        "country": "ES",
+        "country": "AR",
         "timeline": [
             {
                 "date": "2026-04-15",
                 "type": "claimed",
+                "group": "akira"
+            },
+            {
+                "date": "2026-02-20",
+                "type": "assessed",
                 "group": "akira"
             }
         ]
