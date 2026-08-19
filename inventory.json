@@ -1651,6 +1651,18 @@
         ]
     },
     {
+        "victim": "4M REALTY COMPANY",
+        "domain": "4mrealty.com",
+        "country": "US",
+        "timeline": [
+            {
+                "date": "2026-08-17",
+                "type": "claimed",
+                "group": "Global Secret Group"
+            }
+        ]
+    },
+    {
         "victim": "4murs",
         "domain": "4murs.fr",
         "country": "FR",
@@ -30333,6 +30345,18 @@
         ]
     },
     {
+        "victim": "Arizona State University (ASU)",
+        "domain": "asu.edu",
+        "country": "US",
+        "timeline": [
+            {
+                "date": "2026-08-17",
+                "type": "claimed",
+                "group": "direwolf"
+            }
+        ]
+    },
+    {
         "victim": "asunim.co",
         "domain": "asunim.co",
         "country": "CO",
@@ -47027,6 +47051,18 @@
         ]
     },
     {
+        "victim": "BMW Group",
+        "domain": "bmwgroup.com",
+        "country": "DE",
+        "timeline": [
+            {
+                "date": "2026-08-15",
+                "type": "claimed",
+                "group": "xpl0itrs"
+            }
+        ]
+    },
+    {
         "victim": "BMW Munique Motors",
         "domain": "bmwmuniquemotors.com.br",
         "country": "BR",
@@ -50437,6 +50473,18 @@
                 "date": "2026-07-10",
                 "type": "claimed",
                 "group": "Deadlock"
+            }
+        ]
+    },
+    {
+        "victim": "Bridgeport Capital Services",
+        "domain": "bridgeportcapital.com",
+        "country": "US",
+        "timeline": [
+            {
+                "date": "2026-08-17",
+                "type": "claimed",
+                "group": "play"
             }
         ]
     },
@@ -56040,6 +56088,17 @@
                 "date": "2026-08-03",
                 "type": "claimed",
                 "group": "anubis"
+            },
+            {
+                "date": "2026-08-19",
+                "type": "discovered",
+                "summary": "Le Cameron Regional Medical Center a été victime d'une attaque par ransomware. L'incident a été découvert le 18 juin 2026. Le groupe Anubis a revendiqué l'attaque le 3 août 2026, affirmant avoir obtenu une large gamme de données, incluant dossiers médicaux, informations financières, données personnelles et informations sur les employés. Le Centre hospitalier a indiqué que les informations potentiellement compromises comprennent les noms, adresses, dates de naissance, numéros de sécurité sociale, informations financières et dossiers médicaux.",
+                "title": "Cameron Regional Medical Confirms Ransomware Attack",
+                "url": "https://www.claimdepot.com/data-breach/cameron-regional-medical-center-2026"
+            },
+            {
+                "date": "2026-06-18",
+                "type": "reported"
             }
         ]
     },
@@ -59427,6 +59486,18 @@
                 "date": "2024-07-26",
                 "type": "claimed",
                 "group": "ransomhub"
+            }
+        ]
+    },
+    {
+        "victim": "Castilla La Mancha",
+        "domain": "castillalamancha.es",
+        "country": "ES",
+        "timeline": [
+            {
+                "date": "2026-08-17",
+                "type": "claimed",
+                "group": "Panzer"
             }
         ]
     },
@@ -72525,6 +72596,11 @@
                 "date": "2025-04-10",
                 "type": "claimed",
                 "group": "play"
+            },
+            {
+                "date": "2026-08-17",
+                "type": "claimed",
+                "group": "insomnia"
             },
             {
                 "date": "2025-04-02",
@@ -91946,6 +92022,18 @@
         ]
     },
     {
+        "victim": "Planungsgruppe M+M AG",
+        "domain": "dieplanungsgruppe.de",
+        "country": "DE",
+        "timeline": [
+            {
+                "date": "2026-08-17",
+                "type": "claimed",
+                "group": "aurora"
+            }
+        ]
+    },
+    {
         "victim": "diesel-electric.co.za",
         "domain": "diesel-electric.co.za",
         "country": "ZA",
@@ -93715,6 +93803,18 @@
         ]
     },
     {
+        "victim": "DL E&C",
+        "domain": "dlenc.co.kr",
+        "country": "KR",
+        "timeline": [
+            {
+                "date": "2026-08-17",
+                "type": "claimed",
+                "group": "Panzer"
+            }
+        ]
+    },
+    {
         "victim": "Druckman Law Group",
         "domain": "dlgnylaw.com",
         "country": "US",
@@ -94614,6 +94714,18 @@
                 "date": "2024-04-14",
                 "type": "claimed",
                 "group": "hunters"
+            }
+        ]
+    },
+    {
+        "victim": "Doimo Cucine",
+        "domain": "doimocucine.com",
+        "country": "IT",
+        "timeline": [
+            {
+                "date": "2026-08-17",
+                "type": "claimed",
+                "group": "Panzer"
             }
         ]
     },
@@ -99023,6 +99135,18 @@
                 "date": "2024-06-05",
                 "type": "claimed",
                 "group": "akira"
+            }
+        ]
+    },
+    {
+        "victim": "Albania's Official National Teacher Training Portal",
+        "domain": "e-trajnime.al",
+        "country": "AL",
+        "timeline": [
+            {
+                "date": "2026-08-16",
+                "type": "claimed",
+                "group": "emperador"
             }
         ]
     },
@@ -105344,6 +105468,18 @@
         ]
     },
     {
+        "victim": "EmpireWorks",
+        "domain": "empireworks.com",
+        "country": "",
+        "timeline": [
+            {
+                "date": "2026-08-17",
+                "type": "claimed",
+                "group": "qilin"
+            }
+        ]
+    },
+    {
         "victim": "empirico-mr.com",
         "domain": "empirico-mr.com",
         "country": "US",
@@ -110612,6 +110748,18 @@
                 "date": "2023-05-15",
                 "type": "claimed",
                 "group": "lockbit3"
+            }
+        ]
+    },
+    {
+        "victim": "Eva AI Limited",
+        "domain": "eva.ai",
+        "country": "GB",
+        "timeline": [
+            {
+                "date": "2026-08-17",
+                "type": "claimed",
+                "group": "direwolf"
             }
         ]
     },
@@ -138062,10 +138210,15 @@
         "timeline": []
     },
     {
-        "victim": "Gemeinschaftsstadtwerke Kamen",
+        "victim": "GSW Gemeinschaftsstadtwerke GmbH",
         "domain": "gsw-kamen.de",
         "country": "DE",
         "timeline": [
+            {
+                "date": "2026-08-17",
+                "type": "claimed",
+                "group": "qilin"
+            },
             {
                 "date": "2026-06-30",
                 "type": "discovered",
@@ -181631,6 +181784,18 @@
         ]
     },
     {
+        "victim": "Lansing Urgent Care",
+        "domain": "lansingurgentcare.com",
+        "country": "US",
+        "timeline": [
+            {
+                "date": "2026-08-16",
+                "type": "claimed",
+                "group": "incransom"
+            }
+        ]
+    },
+    {
         "victim": "Lantech",
         "domain": "lantech.co.nz",
         "country": "NZ",
@@ -187823,6 +187988,18 @@
                 "date": "2023-07-31",
                 "type": "claimed",
                 "group": "lockbit3"
+            }
+        ]
+    },
+    {
+        "victim": "Lloyd Coils Europe",
+        "domain": "lloydcoils.eu",
+        "country": "GB",
+        "timeline": [
+            {
+                "date": "2026-08-17",
+                "type": "claimed",
+                "group": "aurora"
             }
         ]
     },
@@ -205529,6 +205706,18 @@
         ]
     },
     {
+        "victim": "Mighty Kingdom",
+        "domain": "mightykingdom.com",
+        "country": "AU",
+        "timeline": [
+            {
+                "date": "2026-08-17",
+                "type": "claimed",
+                "group": "direwolf"
+            }
+        ]
+    },
+    {
         "victim": "migonline.com",
         "domain": "migonline.com",
         "country": "US",
@@ -209843,6 +210032,18 @@
                 "date": "2025-11-26",
                 "type": "assessed",
                 "group": "safepay"
+            }
+        ]
+    },
+    {
+        "victim": "Moores",
+        "domain": "mooresdirect.com",
+        "country": "GB",
+        "timeline": [
+            {
+                "date": "2026-08-17",
+                "type": "claimed",
+                "group": "bravox"
             }
         ]
     },
@@ -216135,6 +216336,18 @@
                 "date": "2024-08-01",
                 "type": "assessed",
                 "group": "cactus"
+            }
+        ]
+    },
+    {
+        "victim": "Natco Home Group",
+        "domain": "natcohome.com",
+        "country": "US",
+        "timeline": [
+            {
+                "date": "2026-08-17",
+                "type": "claimed",
+                "group": "aurora"
             }
         ]
     },
@@ -232958,6 +233171,18 @@
                 "date": "2024-10-25",
                 "type": "claimed",
                 "group": "nitrogen"
+            }
+        ]
+    },
+    {
+        "victim": "Otter Tail County, Minnesota",
+        "domain": "ottertailcounty.gov",
+        "country": "US",
+        "timeline": [
+            {
+                "date": "2026-08-11",
+                "type": "claimed",
+                "group": "incransom"
             }
         ]
     },
@@ -265695,6 +265920,18 @@
         ]
     },
     {
+        "victim": "The Rubber Group",
+        "domain": "rubber-group.com",
+        "country": "US",
+        "timeline": [
+            {
+                "date": "2026-08-17",
+                "type": "claimed",
+                "group": "Global Secret Group"
+            }
+        ]
+    },
+    {
         "victim": "The Rubber Resources",
         "domain": "rubber-resources.com",
         "country": "US",
@@ -266438,6 +266675,18 @@
                 "date": "2026-03-19",
                 "type": "assessed",
                 "group": "incransom"
+            }
+        ]
+    },
+    {
+        "victim": "Rx Networks",
+        "domain": "rxnetworks.com",
+        "country": "CA",
+        "timeline": [
+            {
+                "date": "2026-07-21",
+                "type": "claimed",
+                "group": "everest"
             }
         ]
     },
@@ -268719,6 +268968,18 @@
             {
                 "date": "2024-04-11",
                 "type": "assessed",
+                "group": "play"
+            }
+        ]
+    },
+    {
+        "victim": "Sam Pack Auto Group",
+        "domain": "sampack.com",
+        "country": "US",
+        "timeline": [
+            {
+                "date": "2026-08-17",
+                "type": "claimed",
                 "group": "play"
             }
         ]
@@ -322213,6 +322474,18 @@
         ]
     },
     {
+        "victim": "The University of the West Indies",
+        "domain": "uwi.edu",
+        "country": "TT",
+        "timeline": [
+            {
+                "date": "2026-08-17",
+                "type": "claimed",
+                "group": "qilin"
+            }
+        ]
+    },
+    {
         "victim": "Université de Winnipeg",
         "domain": "uwinnipeg.ca",
         "country": "CA",
@@ -324765,6 +325038,18 @@
                 "date": "2025-02-25",
                 "type": "claimed",
                 "group": "hunters"
+            }
+        ]
+    },
+    {
+        "victim": "Vermont XCenter",
+        "domain": "vermont.com.br",
+        "country": "BR",
+        "timeline": [
+            {
+                "date": "2026-08-17",
+                "type": "claimed",
+                "group": "dragonforce"
             }
         ]
     },
@@ -334327,6 +334612,18 @@
         ]
     },
     {
+        "victim": "White-Daters & Associates, Inc",
+        "domain": "whitedaters.com",
+        "country": "US",
+        "timeline": [
+            {
+                "date": "2026-08-17",
+                "type": "claimed",
+                "group": "qilin"
+            }
+        ]
+    },
+    {
         "victim": "www.whiteleafent.net",
         "domain": "whiteleafent.net",
         "country": "IN",
@@ -336299,6 +336596,18 @@
         ]
     },
     {
+        "victim": "Wishfully Studios",
+        "domain": "wishfully.se",
+        "country": "SE",
+        "timeline": [
+            {
+                "date": "2026-08-17",
+                "type": "claimed",
+                "group": "direwolf"
+            }
+        ]
+    },
+    {
         "victim": "Waterloo Information Systems",
         "domain": "wisl.com",
         "country": "CA",
@@ -337313,6 +337622,29 @@
                 "date": "2025-12-23",
                 "type": "claimed",
                 "group": "anubis"
+            }
+        ]
+    },
+    {
+        "victim": "Woodhaven Association",
+        "domain": "woodhavenassociation.com",
+        "country": "US",
+        "timeline": [
+            {
+                "date": "2026-08-17",
+                "type": "claimed",
+                "group": "play"
+            },
+            {
+                "date": "2026-08-09",
+                "type": "discovered",
+                "summary": "Woodhaven Lakes a réussi à contenir et à stopper une attaque par ransomware qui chiffrait les fichiers sur ses systèmes locaux. L'attaque était limitée aux fichiers Microsoft Office et aux documents stockés localement, sans atteinte à la base de données des propriétaires. La société est en cours de remédiation et de restauration des services, mais le rétablissement complet prend du temps.",
+                "title": "Woodhaven Lakes victim of ransomware attack Thursday",
+                "url": "https://www.starvedrock.media/wlpo/woodhaven-lakes-victim-of-ransomware-attack-thursday/article_7a63c7bf-3865-4f1d-a12e-dc433bbd6de6.html"
+            },
+            {
+                "date": "2026-08-06",
+                "type": "reported"
             }
         ]
     },
