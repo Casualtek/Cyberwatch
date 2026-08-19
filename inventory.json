@@ -11503,6 +11503,18 @@
         ]
     },
     {
+        "victim": "ADL Embedded Solutions",
+        "domain": "adl-usa.com",
+        "country": "US",
+        "timeline": [
+            {
+                "date": "2026-08-18",
+                "type": "claimed",
+                "group": "securotrop"
+            }
+        ]
+    },
+    {
         "victim": "adlan.com",
         "domain": "adlan.com",
         "country": "CA",
@@ -26332,6 +26344,18 @@
         ]
     },
     {
+        "victim": "Prefeitura Municipal de Arcos",
+        "domain": "arcos.mg.gov.br",
+        "country": "BR",
+        "timeline": [
+            {
+                "date": "2026-08-18",
+                "type": "claimed",
+                "group": "emperador"
+            }
+        ]
+    },
+    {
         "victim": "Arc System Works",
         "domain": "arcsystemworks.com",
         "country": "US",
@@ -39468,6 +39492,29 @@
         ]
     },
     {
+        "victim": "Berlin Brandenburgische Wohnungsbaugenossenschaft",
+        "domain": "bbwbg.de",
+        "country": "DE",
+        "timeline": [
+            {
+                "date": "2026-08-18",
+                "type": "claimed",
+                "group": "qilin"
+            },
+            {
+                "date": "2026-08-13",
+                "type": "discovered",
+                "summary": "La Berlin Brandenburgische Wohnungsbaugenossenschaft a été victime d'une cyberattaque. Des acteurs non autorisés ont pu accéder temporairement à certaines parties de ses systèmes informatiques, qui ont été compromis. Une enquête est en cours pour déterminer si des données sensibles des locataires ont été consultées ou copiées, mais à ce stade, il n'y a pas eu accès aux données personnelles des locataires. L'identité des attaquants reste inconnue.",
+                "title": "Cyberangriff bei Wohnungsbaugenossenschaft: Sensible Mieter-Daten im Visier?",
+                "url": "https://www.morgenpost.de/berlin/article412850366/cyberangriff-bei-wohnungsbaugenossenschaft-sensible-mieter-daten-im-visier.html"
+            },
+            {
+                "date": "2026-08-08",
+                "type": "reported"
+            }
+        ]
+    },
+    {
         "victim": "Buckley BalaWilson Mew",
         "domain": "bbwmlaw.com",
         "country": "US",
@@ -47925,6 +47972,18 @@
         ]
     },
     {
+        "victim": "BOMOHSA",
+        "domain": "bomohsa.com",
+        "country": "HN",
+        "timeline": [
+            {
+                "date": "2026-08-18",
+                "type": "claimed",
+                "group": "gunra"
+            }
+        ]
+    },
+    {
         "victim": "Drogaria Preco Bom",
         "domain": "bomprecodrogaria.com.br",
         "country": "BR",
@@ -48230,6 +48289,18 @@
         "timeline": [
             {
                 "date": "2024-02-01",
+                "type": "claimed",
+                "group": "akira"
+            }
+        ]
+    },
+    {
+        "victim": "Borchert & LaSpina",
+        "domain": "borchertandlaspina.com",
+        "country": "US",
+        "timeline": [
+            {
+                "date": "2026-08-18",
                 "type": "claimed",
                 "group": "akira"
             }
@@ -73986,6 +74057,18 @@
             {
                 "date": "2025-08-12",
                 "type": "reported"
+            }
+        ]
+    },
+    {
+        "victim": "Coltrane Systems",
+        "domain": "coltranesystems.com",
+        "country": "US",
+        "timeline": [
+            {
+                "date": "2026-08-18",
+                "type": "claimed",
+                "group": "play"
             }
         ]
     },
@@ -120423,6 +120506,29 @@
         ]
     },
     {
+        "victim": "Foresee Pharmaceuticals",
+        "domain": "foreseepharma.com",
+        "country": "TW",
+        "timeline": [
+            {
+                "date": "2026-08-18",
+                "type": "claimed",
+                "group": "incransom"
+            },
+            {
+                "date": "2026-08-10",
+                "type": "discovered",
+                "summary": "Foresee a immédiatement activé ses mécanismes de défense en matière de sécurité de l'information et a fait appel à des entreprises et à des experts externes spécialisés dans la cybersécurité afin de contenir la faille, d'en évaluer l'ampleur et de renforcer l'infrastructure réseau. D'après l'évaluation interne préliminaire de Foresee, cette attaque n'a pas d'impact significatif sur les activités courantes de l'entreprise.",
+                "title": "",
+                "url": "https://www.ithome.com.tw/news/177983"
+            },
+            {
+                "date": "2026-08-04",
+                "type": "reported"
+            }
+        ]
+    },
+    {
         "victim": "Forestdale",
         "domain": "forestdaleinc.org",
         "country": "GB",
@@ -128984,6 +129090,18 @@
                 "date": "2025-08-10",
                 "type": "claimed",
                 "group": "qilin"
+            }
+        ]
+    },
+    {
+        "victim": "Penfold",
+        "domain": "getpenfold.com",
+        "country": "GB",
+        "timeline": [
+            {
+                "date": "2026-08-17",
+                "type": "claimed",
+                "group": "Storm"
             }
         ]
     },
@@ -188574,6 +188692,18 @@
         ]
     },
     {
+        "victim": "Logitech/ Streamlabs",
+        "domain": "logitech.com",
+        "country": "CH",
+        "timeline": [
+            {
+                "date": "2026-06-24",
+                "type": "claimed",
+                "group": "shinyhunters"
+            }
+        ]
+    },
+    {
         "victim": "logtainer.com",
         "domain": "logtainer.com",
         "country": "IT",
@@ -226751,6 +226881,18 @@
         ]
     },
     {
+        "victim": "nyklawfirm.com nyk.ae",
+        "domain": "nyk.ae",
+        "country": "AE",
+        "timeline": [
+            {
+                "date": "2026-08-18",
+                "type": "claimed",
+                "group": "incransom"
+            }
+        ]
+    },
+    {
         "victim": "NYK Group",
         "domain": "nyk.com",
         "country": "JP",
@@ -255498,6 +255640,18 @@
         ]
     },
     {
+        "victim": "Ramsey Bros",
+        "domain": "ramseybros.com.au",
+        "country": "AU",
+        "timeline": [
+            {
+                "date": "2026-08-17",
+                "type": "claimed",
+                "group": "Storm"
+            }
+        ]
+    },
+    {
         "victim": "Ramtha",
         "domain": "ramtha.com",
         "country": "",
@@ -256780,6 +256934,18 @@
                 "date": "2024-04-18",
                 "type": "assessed",
                 "group": "play"
+            }
+        ]
+    },
+    {
+        "victim": "R & D Machine and Engineering",
+        "domain": "rdmachine.com",
+        "country": "US",
+        "timeline": [
+            {
+                "date": "2026-08-18",
+                "type": "claimed",
+                "group": "dragonforce"
             }
         ]
     },
@@ -273597,6 +273763,18 @@
         ]
     },
     {
+        "victim": "SD Associates Sdn Bhd",
+        "domain": "sda-my.com",
+        "country": "MY",
+        "timeline": [
+            {
+                "date": "2026-08-18",
+                "type": "claimed",
+                "group": "incransom"
+            }
+        ]
+    },
+    {
         "victim": "San Diego Community College District",
         "domain": "sdccd.edu",
         "country": "US",
@@ -280234,14 +280412,19 @@
         ]
     },
     {
-        "victim": "SIG.biz",
+        "victim": "Scholle IPN / SIG",
         "domain": "sig.biz",
-        "country": "CH",
+        "country": "DE",
         "timeline": [
             {
                 "date": "2026-04-20",
                 "type": "claimed",
                 "group": "coinbasecartel"
+            },
+            {
+                "date": "2026-08-18",
+                "type": "claimed",
+                "group": "anubis"
             }
         ]
     },
@@ -287654,6 +287837,18 @@
         ]
     },
     {
+        "victim": "SpearFin Ltd",
+        "domain": "spearfin.net",
+        "country": "MU",
+        "timeline": [
+            {
+                "date": "2026-08-18",
+                "type": "claimed",
+                "group": "incransom"
+            }
+        ]
+    },
+    {
         "victim": "Specialty Process Equipment",
         "domain": "spec-pro.com",
         "country": "",
@@ -289707,6 +289902,18 @@
         ]
     },
     {
+        "victim": "ssf-int.com ssf-ing.de",
+        "domain": "ssf-int.com",
+        "country": "DE",
+        "timeline": [
+            {
+                "date": "2026-08-18",
+                "type": "claimed",
+                "group": "incransom"
+            }
+        ]
+    },
+    {
         "victim": "La Superintendencia del Subsidio Familiar",
         "domain": "ssf.gov.co",
         "country": "CO",
@@ -290556,6 +290763,18 @@
                 "date": "2025-09-11",
                 "type": "claimed",
                 "group": "akira"
+            }
+        ]
+    },
+    {
+        "victim": "Standard Tool & Die",
+        "domain": "standardtool.net",
+        "country": "US",
+        "timeline": [
+            {
+                "date": "2026-08-17",
+                "type": "claimed",
+                "group": "Storm"
             }
         ]
     },
@@ -303521,6 +303740,18 @@
         ]
     },
     {
+        "victim": "terra-petra.com",
+        "domain": "terra-petra.com",
+        "country": "DE",
+        "timeline": [
+            {
+                "date": "2026-08-17",
+                "type": "claimed",
+                "group": "lockbit5"
+            }
+        ]
+    },
+    {
         "victim": "terracaribbean.com",
         "domain": "terracaribbean.com",
         "country": "BB",
@@ -307126,6 +307357,18 @@
                 "date": "2025-04-08",
                 "type": "claimed",
                 "group": "metaencryptor"
+            }
+        ]
+    },
+    {
+        "victim": "Third Coast Bancshares",
+        "domain": "thirdcoast.bank",
+        "country": "US",
+        "timeline": [
+            {
+                "date": "2026-08-18",
+                "type": "claimed",
+                "group": "incransom"
             }
         ]
     },
@@ -313853,7 +314096,7 @@
         ]
     },
     {
-        "victim": "Troutman Pepper",
+        "victim": "Troutman Pepper Locke",
         "domain": "troutman.com",
         "country": "US",
         "timeline": [
@@ -313861,6 +314104,11 @@
                 "date": "2023-03-23",
                 "type": "claimed",
                 "group": "blackbasta"
+            },
+            {
+                "date": "2026-08-18",
+                "type": "claimed",
+                "group": "SilentRansomGroup"
             }
         ]
     },
@@ -323093,6 +323341,18 @@
                 "date": "2023-07-17",
                 "type": "claimed",
                 "group": "clop"
+            }
+        ]
+    },
+    {
+        "victim": "Valor Defense Solutions, Inc",
+        "domain": "valordefensesolutions.com",
+        "country": "US",
+        "timeline": [
+            {
+                "date": "2026-08-17",
+                "type": "claimed",
+                "group": "Storm"
             }
         ]
     },
@@ -333491,6 +333751,18 @@
         ]
     },
     {
+        "victim": "Westco Motors Cairns",
+        "domain": "westcomotors.com.au",
+        "country": "AU",
+        "timeline": [
+            {
+                "date": "2026-08-17",
+                "type": "claimed",
+                "group": "Storm"
+            }
+        ]
+    },
+    {
         "victim": "West Craft Manufacturing",
         "domain": "westcraftmfg.net",
         "country": "US",
@@ -336008,6 +336280,18 @@
                 "date": "2025-02-06",
                 "type": "assessed",
                 "group": "akira"
+            }
+        ]
+    },
+    {
+        "victim": "WindRose Health Network",
+        "domain": "windrosehealth.net",
+        "country": "US",
+        "timeline": [
+            {
+                "date": "2026-08-16",
+                "type": "claimed",
+                "group": "Storm"
             }
         ]
     },
