@@ -1,5 +1,16 @@
 [
     {
+        "date": "2026-08-10",
+        "victim": "Weba",
+        "domain": "weba.be",
+        "country": "BEL",
+        "summary": "Les pirates informatiques du groupe Qilin ont dérobé des données clients chez WEBA et ont partiellement paralysé ses systèmes. Aucune rançon n'a été versée ; les magasins et la boutique en ligne sont à nouveau opérationnels depuis le 12 août. Les clients doivent rester vigilants face aux tentatives d'hameçonnage.",
+        "description": "",
+        "title": "DPG Media Privacy Gate",
+        "url": "https://www.hln.be/tech/cyberaanval-treft-meubelgigant-weba-klantgegevens-gestolen~a318dde7/?referrer=https%3A%2F%2Fnews.google.com%2F",
+        "added": "2026-08-19"
+    },
+    {
         "date": "2026-06-18",
         "victim": "Cameron Regional Medical Center",
         "domain": "cameronregional.org",
