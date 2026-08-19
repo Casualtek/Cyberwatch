@@ -1,5 +1,16 @@
 [
     {
+        "date": "2026-08-18",
+        "victim": "CG Power",
+        "domain": "cgglobal.com",
+        "country": "IND",
+        "summary": "CG Power a signalé un incident présumé de cybersécurité affectant ses systèmes informatiques (IT). L'entreprise a assuré que ses systèmes opérationnels essentiels et sa production manufacturière n'ont pas été affectés. L'incident, signalé le 18 août 2026, est actuellement sous investigation par des experts internes et externes, et la notification réglementaire a été faite à CERT-In.",
+        "description": "",
+        "title": "CG Power Discloses Possible Cyber Incident As Core Systems Remain Safe",
+        "url": "https://www.sahi.com/news/cg-power-discloses-possible-cyber-incident-as-core-systems-remain-safe-70-PE1_CORPO",
+        "added": "2026-08-19"
+    },
+    {
         "date": "2026-08-10",
         "victim": "Weba",
         "domain": "weba.be",
