@@ -1,5 +1,16 @@
 [
     {
+        "date": "2026-08-14",
+        "victim": "Ryomo Systems",
+        "domain": "ryomo.co.jp",
+        "country": "JPN",
+        "summary": "Ryomo Systems, une société japonaise de technologies de l'information, a confirmé avoir subi une cyberattaque ayant entraîné un accès non autorisé à ses systèmes internes le 14 août. La société est actuellement en pleine investigation pour déterminer l'étendue de l'intrusion, la méthode d'attaque et si des données ont été exfiltrées. À ce jour, aucun groupe responsable n'a été identifié, et aucune attribution officielle n'a été faite. Ryomo Systems, qui fournit des solutions à des secteurs critiques (eau, énergie, santé, administration, etc.), est un objectif particulièrement sensible.",
+        "description": "",
+        "title": "La japonesa Ryomo Systems investiga qué datos han robado los hackers de sus clientes",
+        "url": "https://www.escudodigital.com/ciberseguridad/la-japonesa-ryomo-systems-investiga-que-datos-han-robado-los-hackers-de-sus-clientes.html",
+        "added": "2026-08-19"
+    },
+    {
         "date": "2026-08-18",
         "victim": "CG Power",
         "domain": "cgglobal.com",
