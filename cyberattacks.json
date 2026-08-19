@@ -1,5 +1,16 @@
 [
     {
+        "date": "2026-06-18",
+        "victim": "Cameron Regional Medical Center",
+        "domain": "cameronregional.org",
+        "country": "USA",
+        "summary": "Le Cameron Regional Medical Center a été victime d'une attaque par ransomware. L'incident a été découvert le 18 juin 2026. Le groupe Anubis a revendiqué l'attaque le 3 août 2026, affirmant avoir obtenu une large gamme de données, incluant dossiers médicaux, informations financières, données personnelles et informations sur les employés. Le Centre hospitalier a indiqué que les informations potentiellement compromises comprennent les noms, adresses, dates de naissance, numéros de sécurité sociale, informations financières et dossiers médicaux.",
+        "description": "",
+        "title": "Cameron Regional Medical Confirms Ransomware Attack",
+        "url": "https://www.claimdepot.com/data-breach/cameron-regional-medical-center-2026",
+        "added": "2026-08-19"
+    },
+    {
         "date": "2026-08-17",
         "victim": "ARMA",
         "domain": "arma.gov.ua",
