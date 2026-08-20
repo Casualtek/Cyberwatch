@@ -1,5 +1,16 @@
 [
     {
+        "date": "2026-08-09",
+        "victim": "Sakura",
+        "domain": "sakura.ad.jp",
+        "country": "JPN",
+        "summary": "Sakura confirmé une intrusion par un tiers dans une partie de ses serveurs de location ('Sakura Rental Server'). L'incident, survenu le 9 août 2026, impliquait l'accès non autorisé à environ 583 comptes. Il a été confirmé que des données personnelles, y compris des informations clients, ont pu être consultées ou obtenues par l'attaquant. L'entreprise enquête sur la cause, la portée et les données spécifiques divulguées. Les clients potentiellement affectés ont été informés individuellement.",
+        "description": "",
+        "title": "当社レンタルサーバーサービスの一部環境に対する不正なアクセスについて | さくらインターネット",
+        "url": "https://www.sakura.ad.jp/corporate/information/newsreleases/2026/08/17/1968225614/",
+        "added": "2026-08-20"
+    },
+    {
         "date": "2026-06-22",
         "victim": "Inission Power Finland",
         "domain": "inission.com",
