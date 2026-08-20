@@ -1,5 +1,16 @@
 [
     {
+        "date": "2026-08-18",
+        "victim": "Alation",
+        "domain": "alation.com",
+        "country": "US",
+        "summary": "Alation, un géant des données et de l'IA, a confirmé avoir été victime d'une cyberattaque après avoir récemment signalé un incident. L'entreprise enquête sur l'incident, qui a entraîné une dégradation de la disponibilité pour certains clients. Alation n'a pas précisé la nature de l'attaque, sa cause profonde ou le nombre de clients affectés.",
+        "description": "",
+        "title": "AI data giant Alation confirms cyberattack | TechCrunch",
+        "url": "https://techcrunch.com/2026/08/20/ai-data-giant-alation-confirms-cyberattack/",
+        "added": "2026-08-20"
+    },
+    {
         "date": "2026-08-09",
         "victim": "Sakura",
         "domain": "sakura.ad.jp",
