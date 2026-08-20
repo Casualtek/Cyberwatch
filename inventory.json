@@ -134522,6 +134522,11 @@
                 "date": "2026-08-14",
                 "type": "claimed",
                 "group": "safepay"
+            },
+            {
+                "date": "2026-07-20",
+                "type": "assessed",
+                "group": "safepay"
             }
         ]
     },
