@@ -1,5 +1,16 @@
 [
     {
+        "date": "2026-08-01",
+        "victim": "Zabka",
+        "domain": "zabka.pl",
+        "country": "POL",
+        "summary": "Les autorités polonaises enquêtent sur une cyberattaque visant la chaîne de magasins Zabka. L'incident, survenu au début du mois d'août, concernait un accès non autorisé à certains systèmes informatiques utilisés pour l'échange d'informations entre le franchisé et le franchisé. L'attaque, attribuée à l'utilisation du compte d'un fournisseur de services externe, a entraîné une fuite des données personnelles des employés et partenaires ayant accès à l'infrastructure de Zabka, et potentiellement une fuite partielle des données de certains clients. Les autorités précisent que les données transactionnelles et celles de l'application Zabka n'ont pas été affectées. Les enquêteurs travaillent sur le mécanisme de l'attaque, qui a permis aux cybercriminels de mettre les données volées en vente pour une somme modeste, incluant notamment l'accès au système Jira de Zabka.",
+        "description": "",
+        "title": "В Польше произошла кибератака на сеть магазинов Zabka",
+        "url": "https://www.eurointegration.com.ua/rus/news/2026/08/22/7243970/",
+        "added": "2026-08-23"
+    },
+    {
         "date": "2026-07-10",
         "victim": "Apollo Global Management",
         "domain": "apollo.com",
