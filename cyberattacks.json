@@ -1,5 +1,16 @@
 [
     {
+        "date": "2026-08-14",
+        "victim": "Douglas County Sheriff's Office",
+        "domain": "dgso.org",
+        "country": "USA",
+        "summary": "Le bureau du shérif du comté de Douglas a été victime d'une cyberattaque sérieuse. L'incident a été découvert récemment, lorsque le bureau a dû rendre ses services en ligne indisponibles. Bien que l'attaque ait été qualifiée initialement de 'problèmes techniques', elle est maintenant qualifiée d''activité suspecte'. Le bureau refuse de fournir des détails sur l'attaque, y compris si des informations personnelles ont été exposées ou le coût de la résolution, invoquant la nécessité de préserver la sécurité publique et le caractère confidentiel des documents.",
+        "description": "",
+        "title": "County says sharing information about ‘suspicious activity’ in sheriff’s computer system would ‘jeopardize public safety’",
+        "url": "https://www2.ljworld.com/news/public-safety/2026/aug/22/county-says-sharing-details-about-suspicious-activity-in-sheriffs-computer-system-would-jeopardize-public-safety/",
+        "added": "2026-08-23"
+    },
+    {
         "date": "2026-06-01",
         "victim": "Adelmannsfelden",
         "domain": "adelmannsfelden.de",
