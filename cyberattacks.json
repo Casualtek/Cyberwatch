@@ -1,5 +1,16 @@
 [
     {
+        "date": "2026-07-10",
+        "victim": "Apollo Global Management",
+        "domain": "apollo.com",
+        "country": "USA",
+        "summary": "Apollo Global Management a confirmé une fuite de données personnelles suite à une cyberattaque sur son infrastructure cloud. Les attaquants ont obtenu une quantité substantielle d'informations sensibles, incluant noms, dates de naissance, coordonnées, adresses et numéros de sécurité sociale américains. L'accès non autorisé, qui a utilisé des techniques d'ingénierie sociale, s'est déroulé du 6 au 10 juillet. La fuite pourrait concerner les employés d'Apollo ainsi que des individus liés aux entreprises de son portefeuille.",
+        "description": "",
+        "title": "Apollo Global Management Confirms Personal Data Breach Following Cloud Cyberattack",
+        "url": "https://mezha.net/eng/bukvy/184bf2ce_apollo_global_management/",
+        "added": "2026-08-23"
+    },
+    {
         "date": "2026-08-18",
         "victim": "Alation",
         "domain": "alation.com",
