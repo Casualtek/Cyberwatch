@@ -1,5 +1,16 @@
 [
     {
+        "date": "2026-06-01",
+        "victim": "Adelmannsfelden",
+        "domain": "adelmannsfelden.de",
+        "country": "DEU",
+        "summary": "La municipalité d'Adelmannsfelden a été victime d'une cyberattaque qui a paralysé l'administration pendant plusieurs semaines. L'attaque, survenue au début du mois de juin, a nécessité une intervention rapide de la municipalité, des prestataires informatiques et de l'agence de cybersécurité du Bade-Wurtemberg pour contenir les dégâts. Pendant environ un mois, la municipalité n'était joignable que par téléphone ou en personne, et le service en ligne a été rétabli seulement au début juillet. Les autorités ont confirmé que les données n'ont pas été compromises.",
+        "description": "",
+        "title": "Cyberangriff auf Gemeinde: Einen Monat lang keine E-Mails möglich",
+        "url": "https://www.schwaebische-post.de/ostalb/ellwangen/adelmannsfelden/hackerangriff-trifft-die-gemeindeverwaltung-adelmannsfelden-94454362.html",
+        "added": "2026-08-23"
+    },
+    {
         "date": "2026-08-13",
         "victim": "Andover",
         "domain": "andoverma.gov",
