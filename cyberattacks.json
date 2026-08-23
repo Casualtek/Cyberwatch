@@ -1,5 +1,16 @@
 [
     {
+        "date": "2026-08-20",
+        "victim": "Gruppo Spaggiari Parma",
+        "domain": "spaggiari.eu",
+        "country": "ITA",
+        "summary": "Le groupe de cybercriminels xpl0itrs affirme avoir compromis l'infrastructure de Gruppo Spaggiari Parma, un fournisseur technologique majeur du système éducatif italien. Cette intrusion aurait permis le vol de 6,1 Téraoctets de données provenant de plus de 3 000 établissements scolaires. Les données exfiltrées incluraient des informations personnelles des élèves et professeurs, des données médicales, des informations d'identité et des coordonnées. L'attaque n'est pas encore vérifiée de manière indépendante, mais elle souligne le risque majeur lié à la concentration des données dans les plateformes éducatives.",
+        "description": "",
+        "title": "Hackers aseguran haber robado datos de miles de alumnos de 3.000 colegios italianos",
+        "url": "https://www.escudodigital.com/ciberseguridad/hackers-aseguran-haber-robado-datos-de-miles-de-alumnos-de-3000-colegios-italianos.html",
+        "added": "2026-08-23"
+    },
+    {
         "date": "2026-08-01",
         "victim": "Zabka",
         "domain": "zabka.pl",
