@@ -1,5 +1,16 @@
 [
     {
+        "date": "2026-08-13",
+        "victim": "Andover",
+        "domain": "andoverma.gov",
+        "country": "USA",
+        "summary": "La ville d'Andover, MA, a subi une cyberattaque ayant entraîné une panne réseau de quatre jours. L'incident a été détecté le 13 août et a perturbé les services municipaux et le calendrier de publication des affectations des enseignants pour les familles des écoles publiques. Bien que les systèmes aient été restaurés le 17 août, les autorités n'ont pas précisé la cause, la méthode d'accès ou si des données ont été compromises.",
+        "description": "",
+        "title": "Cyberattack Caused Four-Day Network Outage For Town, APS | Andover News",
+        "url": "https://andovermanews.com/cyberattack-caused-four-day-network-outage-for-town-aps/",
+        "added": "2026-08-23"
+    },
+    {
         "date": "2026-08-20",
         "victim": "Gruppo Spaggiari Parma",
         "domain": "spaggiari.eu",
