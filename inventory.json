@@ -46654,6 +46654,18 @@
         ]
     },
     {
+        "victim": "Borchert & LaSpina",
+        "domain": "blpcny.com",
+        "country": "US",
+        "timeline": [
+            {
+                "date": "2026-07-27",
+                "type": "assessed",
+                "group": "akira"
+            }
+        ]
+    },
+    {
         "victim": "blr",
         "domain": "blr.com",
         "country": "IN",
