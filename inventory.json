@@ -7391,6 +7391,18 @@
         ]
     },
     {
+        "victim": "Abacus Advisors",
+        "domain": "abacusadv.com",
+        "country": "US",
+        "timeline": [
+            {
+                "date": "2026-08-22",
+                "type": "claimed",
+                "group": "coinbasecartel"
+            }
+        ]
+    },
+    {
         "victim": "António Belém & António Gonçalves",
         "domain": "abag-sroc.pt",
         "country": "PT",
@@ -15525,6 +15537,18 @@
         ]
     },
     {
+        "victim": "PT Perusahaan Jamu Air Mancur",
+        "domain": "airmancur.co.id",
+        "country": "ID",
+        "timeline": [
+            {
+                "date": "2026-08-22",
+                "type": "claimed",
+                "group": "coinbasecartel"
+            }
+        ]
+    },
+    {
         "victim": "airoyal.biz",
         "domain": "airoyal.com",
         "country": "US",
@@ -22544,6 +22568,11 @@
                 "date": "2026-08-06",
                 "type": "claimed",
                 "group": "qilin"
+            },
+            {
+                "date": "2026-08-22",
+                "type": "claimed",
+                "group": "Helix"
             }
         ]
     },
@@ -48092,6 +48121,18 @@
         ]
     },
     {
+        "victim": "BOK Financial",
+        "domain": "bokfinancial.com",
+        "country": "US",
+        "timeline": [
+            {
+                "date": "2026-06-24",
+                "type": "claimed",
+                "group": "shinyhunters"
+            }
+        ]
+    },
+    {
         "victim": "BOLD Furniture",
         "domain": "bold-plus.com",
         "country": "US",
@@ -49426,6 +49467,18 @@
                 "date": "2023-09-16",
                 "type": "claimed",
                 "group": "noescape"
+            }
+        ]
+    },
+    {
+        "victim": "PT. Bank Perekonomian Rakyat Bintan",
+        "domain": "bprbintan.co.id",
+        "country": "ID",
+        "timeline": [
+            {
+                "date": "2026-08-22",
+                "type": "claimed",
+                "group": "coinbasecartel"
             }
         ]
     },
@@ -62116,6 +62169,18 @@
                 "date": "2026-02-18",
                 "type": "claimed",
                 "group": "akira"
+            }
+        ]
+    },
+    {
+        "victim": "cedarridge.org",
+        "domain": "cedarridge.org",
+        "country": "US",
+        "timeline": [
+            {
+                "date": "2026-08-01",
+                "type": "claimed",
+                "group": "L Group"
             }
         ]
     },
@@ -82071,6 +82136,18 @@
             {
                 "date": "2024-01-18",
                 "type": "reported"
+            }
+        ]
+    },
+    {
+        "victim": "CRI Electric",
+        "domain": "crielectric.com",
+        "country": "US",
+        "timeline": [
+            {
+                "date": "2026-08-22",
+                "type": "claimed",
+                "group": "rhysida"
             }
         ]
     },
@@ -103788,6 +103865,18 @@
         ]
     },
     {
+        "victim": "el-group",
+        "domain": "el-group.ch",
+        "country": "CH",
+        "timeline": [
+            {
+                "date": "2026-08-22",
+                "type": "claimed",
+                "group": "incransom"
+            }
+        ]
+    },
+    {
         "victim": "El-Mohandes",
         "domain": "el-mohandes.com",
         "country": "EG",
@@ -111772,6 +111861,18 @@
         ]
     },
     {
+        "victim": "Everglades Boats",
+        "domain": "evergladesboats.com",
+        "country": "US",
+        "timeline": [
+            {
+                "date": "2026-08-13",
+                "type": "claimed",
+                "group": "termite"
+            }
+        ]
+    },
+    {
         "victim": "Ever Green Industria e Comercio Ltda",
         "domain": "evergreen.com.br",
         "country": "BR",
@@ -112028,7 +112129,7 @@
         ]
     },
     {
-        "victim": "evn.com.vn",
+        "victim": "Vietnam Electricity(EVNHANOI)",
         "domain": "evn.com.vn",
         "country": "VN",
         "timeline": [
@@ -112036,6 +112137,11 @@
                 "date": "2023-12-21",
                 "type": "claimed",
                 "group": "stormous"
+            },
+            {
+                "date": "2026-08-22",
+                "type": "claimed",
+                "group": "emperador"
             }
         ]
     },
@@ -119539,6 +119645,18 @@
         ]
     },
     {
+        "victim": "Flecha Bus",
+        "domain": "flechabus.com.ar",
+        "country": "AR",
+        "timeline": [
+            {
+                "date": "2026-08-22",
+                "type": "claimed",
+                "group": "coinbasecartel"
+            }
+        ]
+    },
+    {
         "victim": "Fleet Canada",
         "domain": "fleet.ca",
         "country": "CA",
@@ -123353,6 +123471,18 @@
             {
                 "date": "2024-01-28",
                 "type": "reported"
+            }
+        ]
+    },
+    {
+        "victim": "Freelom",
+        "domain": "freelom.cz",
+        "country": "CZ",
+        "timeline": [
+            {
+                "date": "2026-08-22",
+                "type": "claimed",
+                "group": "spacebears"
             }
         ]
     },
@@ -149980,6 +150110,18 @@
         ]
     },
     {
+        "victim": "holzmarkt chemnitz",
+        "domain": "holzmarkt-chemnitz.de",
+        "country": "DE",
+        "timeline": [
+            {
+                "date": "2026-08-22",
+                "type": "claimed",
+                "group": "spacebears"
+            }
+        ]
+    },
+    {
         "victim": "Holz Ruser GmbH & Co. KG",
         "domain": "holzruser.de",
         "country": "DE",
@@ -155517,6 +155659,29 @@
         ]
     },
     {
+        "victim": "icnavais.com",
+        "domain": "icnavais.com",
+        "country": "PT",
+        "timeline": [
+            {
+                "date": "2026-08-22",
+                "type": "claimed",
+                "group": "lockbit5"
+            },
+            {
+                "date": "2026-08-16",
+                "type": "discovered",
+                "summary": "L'Itaguaí Construções Navais (ICN) a été victime d'une cyberattaque par ransomware qui a touché ses systèmes informatiques, y compris les serveurs de messagerie, les systèmes de fichiers et les bases de données. L'attaque a été détectée le dimanche soir (9) et a entraîné la cryptographie des données. L'entreprise a isolé immédiatement l'environnement pour contenir le malware. Au moment de la publication de l'article (le 14), l'ICN était toujours sans accès à ses systèmes, et l'étendue de l'attaque, notamment si des données avaient été extraites, n'a pas été précisée par l'entreprise.",
+                "title": "Ataque cibernético paralisa sistemas da ICN em Itaguaí - Jornal Atual | Jornalismo Regional com Credibilidade desde 2001",
+                "url": "https://jornalatual.com.br/ataque-cibernetico-icn/"
+            },
+            {
+                "date": "2026-08-09",
+                "type": "reported"
+            }
+        ]
+    },
+    {
         "victim": "ICO",
         "domain": "ico.com.br",
         "country": "BR",
@@ -157022,6 +157187,18 @@
             {
                 "date": "2025-09-27",
                 "type": "reported"
+            }
+        ]
+    },
+    {
+        "victim": "Integrated Health Systems",
+        "domain": "ihs911.com",
+        "country": "US",
+        "timeline": [
+            {
+                "date": "2026-08-22",
+                "type": "claimed",
+                "group": "coinbasecartel"
             }
         ]
     },
@@ -164121,6 +164298,18 @@
                 "date": "2023-04-19",
                 "type": "claimed",
                 "group": "dispossessor"
+            }
+        ]
+    },
+    {
+        "victim": "Island Networks",
+        "domain": "islandnetjm.com",
+        "country": "JM",
+        "timeline": [
+            {
+                "date": "2026-08-20",
+                "type": "claimed",
+                "group": "pear"
             }
         ]
     },
@@ -174591,6 +174780,18 @@
         ]
     },
     {
+        "victim": "Kessler Creative",
+        "domain": "kesslercreative.com",
+        "country": "US",
+        "timeline": [
+            {
+                "date": "2026-08-22",
+                "type": "claimed",
+                "group": "coinbasecartel"
+            }
+        ]
+    },
+    {
         "victim": "Ketat Grundstücksverwertungs GmbH",
         "domain": "ketat.at",
         "country": "AT",
@@ -176830,6 +177031,18 @@
                 "date": "2025-09-15",
                 "type": "claimed",
                 "group": "qilin"
+            }
+        ]
+    },
+    {
+        "victim": "Klasko Immigration Law Partners",
+        "domain": "klaskolaw.com",
+        "country": "US",
+        "timeline": [
+            {
+                "date": "2026-08-22",
+                "type": "claimed",
+                "group": "coinbasecartel"
             }
         ]
     },
@@ -184432,6 +184645,18 @@
         ]
     },
     {
+        "victim": "LifeBank Microfinance Foundation",
+        "domain": "lbf.ph",
+        "country": "PH",
+        "timeline": [
+            {
+                "date": "2026-08-22",
+                "type": "claimed",
+                "group": "coinbasecartel"
+            }
+        ]
+    },
+    {
         "victim": "Levine Bagade Han LLP",
         "domain": "lbhip.com",
         "country": "US",
@@ -189979,6 +190204,18 @@
             {
                 "date": "2026-01-02",
                 "type": "reported"
+            }
+        ]
+    },
+    {
+        "victim": "Longhorn Investments",
+        "domain": "longhorninvestments.com",
+        "country": "US",
+        "timeline": [
+            {
+                "date": "2026-08-22",
+                "type": "claimed",
+                "group": "coinbasecartel"
             }
         ]
     },
@@ -203702,6 +203939,18 @@
         ]
     },
     {
+        "victim": "Meridian Logistics Group",
+        "domain": "meridianlogisticgroup.com",
+        "country": "US",
+        "timeline": [
+            {
+                "date": "2026-08-22",
+                "type": "claimed",
+                "group": "thegentlemen"
+            }
+        ]
+    },
+    {
         "victim": "Meridian Senior",
         "domain": "meridiansenior.com",
         "country": "US",
@@ -205397,7 +205646,7 @@
         ]
     },
     {
-        "victim": "mgrlaw.com",
+        "victim": "Mogren, Glessner & Ahrens, P.S.",
         "domain": "mgrlaw.com",
         "country": "US",
         "timeline": [
@@ -205405,6 +205654,11 @@
                 "date": "2026-06-12",
                 "type": "claimed",
                 "group": "threeam"
+            },
+            {
+                "date": "2026-08-20",
+                "type": "claimed",
+                "group": "pear"
             }
         ]
     },
@@ -225992,6 +226246,18 @@
         ]
     },
     {
+        "victim": "NovoCure Limited",
+        "domain": "novocure.com",
+        "country": "IL",
+        "timeline": [
+            {
+                "date": "2026-06-24",
+                "type": "claimed",
+                "group": "shinyhunters"
+            }
+        ]
+    },
+    {
         "victim": "Novogene",
         "domain": "novogene.com",
         "country": "CN",
@@ -234403,6 +234669,18 @@
         ]
     },
     {
+        "victim": "OTEIS Conseil & Ingénierie",
+        "domain": "oteis.fr",
+        "country": "FR",
+        "timeline": [
+            {
+                "date": "2026-08-22",
+                "type": "claimed",
+                "group": "coinbasecartel"
+            }
+        ]
+    },
+    {
         "victim": "Othon, Inc.",
         "domain": "othon.com",
         "country": "US",
@@ -238047,6 +238325,18 @@
             {
                 "date": "2024-06-29",
                 "type": "reported"
+            }
+        ]
+    },
+    {
+        "victim": "Patel",
+        "domain": "patelcpaoffice.com",
+        "country": "US",
+        "timeline": [
+            {
+                "date": "2026-08-22",
+                "type": "claimed",
+                "group": "coinbasecartel"
             }
         ]
     },
@@ -268238,6 +268528,18 @@
             {
                 "date": "2026-03-03",
                 "type": "reported"
+            }
+        ]
+    },
+    {
+        "victim": "RXPE Group",
+        "domain": "rxpe.com",
+        "country": "CN",
+        "timeline": [
+            {
+                "date": "2026-08-22",
+                "type": "claimed",
+                "group": "coinbasecartel"
             }
         ]
     },
@@ -312484,6 +312786,18 @@
         ]
     },
     {
+        "victim": "Tower Insurance",
+        "domain": "tower.co.nz",
+        "country": "NZ",
+        "timeline": [
+            {
+                "date": "2026-08-22",
+                "type": "claimed",
+                "group": "coinbasecartel"
+            }
+        ]
+    },
+    {
         "victim": "Tower Insurance Services",
         "domain": "towerinsur.com",
         "country": "US",
@@ -327923,6 +328237,18 @@
                 "date": "2025-10-15",
                 "type": "claimed",
                 "group": "qilin"
+            }
+        ]
+    },
+    {
+        "victim": "Victory Personal Care, Inc",
+        "domain": "victorypersonalcare.weebly.com",
+        "country": "US",
+        "timeline": [
+            {
+                "date": "2026-08-22",
+                "type": "claimed",
+                "group": "nightspire"
             }
         ]
     },
