@@ -88605,11 +88605,16 @@
     {
         "victim": "Deas Millwork",
         "domain": "deasmillwork.com",
-        "country": "",
+        "country": "US",
         "timeline": [
             {
                 "date": "2026-08-20",
                 "type": "claimed",
+                "group": "akira"
+            },
+            {
+                "date": "2026-07-28",
+                "type": "assessed",
                 "group": "akira"
             }
         ]
