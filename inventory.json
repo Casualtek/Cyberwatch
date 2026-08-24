@@ -253287,6 +253287,18 @@
         ]
     },
     {
+        "victim": "Ericksen Krentel",
+        "domain": "psha.com",
+        "country": "US",
+        "timeline": [
+            {
+                "date": "2026-07-24",
+                "type": "assessed",
+                "group": "akira"
+            }
+        ]
+    },
+    {
         "victim": "PSI",
         "domain": "psi.de",
         "country": "DE",
