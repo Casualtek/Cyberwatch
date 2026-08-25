@@ -1,5 +1,16 @@
 [
     {
+        "date": "2026-06-30",
+        "victim": "Spaggiari Parma",
+        "domain": "spaggiari.eu",
+        "country": "ITA",
+        "summary": "L'entreprise Spaggiari Parma, éditeur du registre électronique le plus utilisé en Italie (ClasseViva), a subi une cyberattaque ayant affecté le logiciel Bergantini dédié à la gestion des formulaires. L'attaque remonte au 30 juin, bien qu'elle n'ait été rendue publique par le groupe de cybercriminels xplOitrs que le 20 août. L'entreprise a confirmé que les registres de classe n'ont pas été touchés, mais a invité les utilisateurs à modifier leurs identifiants de connexion. Bien que des rumeurs aient circulé concernant le vol de 6,1 téraoctets de données sensibles, l'entreprise a précisé que l'accès illicite a concerné une partie des pièces jointes téléchargées par les utilisateurs, entraînant un risque pour la confidentialité, sans toutefois qu'aucune preuve d'utilisation frauduleuse des données n'ait été établie.",
+        "description": "",
+        "title": "Attacco hacker alla piattaforma di modulistica per le scuole del Gruppo Spaggiari, «rubati dati di studenti, famiglie e professori per chiedere un riscatto»",
+        "url": "https://www.corriere.it/tecnologia/26_agosto_23/attacco-hacker-al-registro-elettronico-classe-viva-rubati-dati-di-studenti-famiglie-e-professori-per-chiedere-un-riscatto-b580a26b-ba4d-4690-a47c-da2c0da18xlk_amp.shtml",
+        "added": "2026-08-25"
+    },
+    {
         "date": "2026-08-23",
         "victim": "IServ",
         "domain": "iserv.de",
