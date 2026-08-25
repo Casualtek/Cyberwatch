@@ -1,5 +1,16 @@
 [
     {
+        "date": "2026-08-23",
+        "victim": "IServ",
+        "domain": "iserv.de",
+        "country": "DEU",
+        "summary": "La plateforme scolaire nationale IServ a été victime d'une cyberattaque affectant un module cloud de l'opérateur. La municipalité de Hattingen a confirmé que les écoles locales utilisent ce module et pourraient être indirectement touchées, bien qu'aucune fuite de données personnelles d'élèves ou de parents n'ait été confirmée à ce stade. Une enquête est en cours.",
+        "description": "",
+        "title": "Cyberangriff auf Schulplattform IServ: Auch Hattingen prüft mögliche Betroffenheit",
+        "url": "https://ruhrkanal.news/cyberangriff-auf-schulplattform-iserv-auch-hattingen-prueft-moegliche-betroffenheit/",
+        "added": "2026-08-25"
+    },
+    {
         "date": "2026-08-21",
         "victim": "BizLink Holding Inc.",
         "domain": "bizlinktech.com",
