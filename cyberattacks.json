@@ -1,5 +1,16 @@
 [
     {
+        "date": "2026-08-24",
+        "victim": "Nutex",
+        "domain": "nutexhealth.com",
+        "country": "USA",
+        "summary": "Nutex, un fournisseur de services de santé, enquête sur une violation de données où un tiers non autorisé a exfiltré des informations des serveurs de l'entreprise. L'incident a été divulgué à la SEC, et la société a engagé des spécialistes externes pour gérer la crise. Nutex n'a pas encore déterminé le type de données compromises (patients, employés, etc.) ni l'impact sur ses opérations.",
+        "description": "",
+        "title": "Hospital operator Nutex Health says data stolen in cyberattack",
+        "url": "https://www.bleepingcomputer.com/news/security/hospital-operator-nutex-health-says-data-stolen-in-cyberattack/",
+        "added": "2026-08-25"
+    },
+    {
         "date": "2026-08-13",
         "victim": "Hersleth Entreprenør",
         "domain": "hersleth.no",
