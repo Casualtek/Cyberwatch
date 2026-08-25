@@ -1,5 +1,16 @@
 [
     {
+        "date": "2026-08-23",
+        "victim": "Ayuntamiento de San Luis Potosí",
+        "domain": "sanluis.gob.mx",
+        "country": "MEX",
+        "summary": "Le gouvernement municipal de San Luis Potosí a été victime d'une cyberattaque par rançongiciel (ransomware). Les attaquants ont exigé une rançon en échange de la libération des informations volées. L'attaque a principalement ciblé les déclarations patrimoniales des employés municipaux. La municipalité a décidé de ne pas négocier et a déposé une plainte fédérale. Le maire a précisé qu'une grande partie des données extraites était déjà publique, mais a confirmé que les systèmes municipaux ont été vulnérabilisés.",
+        "description": "",
+        "title": "Tras hackeo intentan extorsionar al Ayuntamiento de San Luis Potosí",
+        "url": "https://sanluis.eluniversal.com.mx/municipios/tras-hackeo-intentan-extorsionar-al-ayuntamiento-de-san-luis-potosi/",
+        "added": "2026-08-25"
+    },
+    {
         "date": "2026-07-15",
         "victim": "Turner Construction",
         "domain": "turnerconstruction.com",
