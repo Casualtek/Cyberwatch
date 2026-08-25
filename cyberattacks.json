@@ -1,5 +1,16 @@
 [
     {
+        "date": "2026-07-15",
+        "victim": "Turner Construction",
+        "domain": "turnerconstruction.com",
+        "country": "USA",
+        "summary": "Turner Construction a subi une violation de données s'étendant sur près de deux semaines, entre le 2 juillet et le 15 juillet. Le groupe de ransomware Payout Kings a pris la responsabilité de cette attaque, affirmant avoir obtenu 27,2 téraoctets de données. Les informations compromises incluent des numéros de sécurité sociale, des informations bancaires, des numéros de passeport, des documents d'ingénierie, des dossiers de projets militaires, des accords de non-divulgation (NDA) et des dossiers juridiques. L'incident a affecté des milliers de résidents dans plusieurs États américains, et Turner a engagé des experts en cybersécurité pour mener une enquête.",
+        "description": "",
+        "title": "Turner Construction Data Breach May Include Military Files",
+        "url": "https://www.bisnow.com/news/national/construction-development/turner-construction-data-breach-may-include-military-files-ndas",
+        "added": "2026-08-25"
+    },
+    {
         "date": "2026-06-30",
         "victim": "Spaggiari Parma",
         "domain": "spaggiari.eu",
