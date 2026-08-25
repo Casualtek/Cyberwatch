@@ -1,5 +1,16 @@
 [
     {
+        "date": "2026-08-24",
+        "victim": "Sotheby's International",
+        "domain": "sothebys.com",
+        "country": "NZL",
+        "summary": "Sotheby's International, une société immobilière de luxe, enquête sur un incident de cybersécurité impliquant un accès non autorisé à des données stockées sur une plateforme logicielle tierce. Les données potentiellement compromises incluent des noms, adresses, adresses e-mail et numéros de téléphone. La société a précisé que les échanges d'e-mails, la documentation ou tout autre matériel substantiel lié aux propriétés n'ont pas été accédés, et que la plateforme n'est pas utilisée pour les transactions financières des clients. L'entreprise a pris des mesures pour contenir l'incident et travaille avec des spécialistes en cybersécurité indépendants.",
+        "description": "",
+        "title": "Luxury real estate firm hit by cyber security attack",
+        "url": "https://www.rnz.co.nz/news/crime-and-justice/1118363/luxury-real-estate-firm-hit-by-cyber-security-attack",
+        "added": "2026-08-25"
+    },
+    {
         "date": "2026-08-23",
         "victim": "Ayuntamiento de San Luis Potosí",
         "domain": "sanluis.gob.mx",
