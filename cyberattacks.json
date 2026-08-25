@@ -1,5 +1,16 @@
 [
     {
+        "date": "2026-08-13",
+        "victim": "Hersleth Entreprenør",
+        "domain": "hersleth.no",
+        "country": "NOR",
+        "summary": "Une cyberattaque a visé le chantier résidentiel Lysverket à Moss, en Norvège, paralysant les communications radio et les systèmes de contrôle d'une grue. Par mesure de sécurité, l'entreprise générale Hersleth Entreprenør a immédiatement interrompu les opérations et refusé les livraisons de béton, provoquant d'importants retards. Qualifié de « pur sabotage » par les responsables du projet, cet incident fait désormais l'objet d'une enquête criminelle menée par la police locale.",
+        "description": "",
+        "title": "(+) Byggeplassen ble hacket – måtte stenge kran",
+        "url": "https://www.bygg.no/entreprenorer-hms-ikt/byggeplassen-ble-hacket-matte-stenge-kran/2948533",
+        "added": "2026-08-25"
+    },
+    {
         "date": "2026-08-24",
         "victim": "Sotheby's International",
         "domain": "sothebys.com",
