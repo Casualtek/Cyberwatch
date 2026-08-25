@@ -1,6 +1,17 @@
 [
     {
         "date": "2026-08-24",
+        "victim": "Franklin Mint Federal Credit Union",
+        "domain": "fmfcu.org",
+        "country": "USA",
+        "summary": "Franklin Mint Federal Credit Union (FMFCU) a connu une perturbation de son site web et de son accès bancaire numérique en raison d'un problème de domaine. L'incident a commencé lundi et s'est poursuivi mardi. Bien que les transactions aient continué à être traitées, les membres n'ont pas pu accéder aux services en ligne. Les registres publics indiquent que le domaine fmfcu.org a été transféré à un autre registraire lundi, et mardi, il redirigeait vers une page GoDaddy en vente. FMFCU n'a pas qualifié l'événement de cyberattaque.",
+        "description": "",
+        "title": "Franklin Mint credit union domain issue disrupts digital banking access in Pennsylvania",
+        "url": "https://dysruptionhub.com/fmfcu-domain-digital-banking-outage/",
+        "added": "2026-08-25"
+    },
+    {
+        "date": "2026-08-24",
         "victim": "Nutex",
         "domain": "nutexhealth.com",
         "country": "USA",
