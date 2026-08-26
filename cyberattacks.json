@@ -1,5 +1,27 @@
 [
     {
+        "date": "2026-08-01",
+        "victim": "Hotel Ózon",
+        "domain": "hotelozon.hu",
+        "country": "HUN",
+        "summary": "Le Hotel Ózon a a été victime d'une cyberattaque par rançongiciel, qui a rendu son système informatique inaccessible. Les attaquants ont chiffré les sauvegardes et ont exigé 25 000 euros. L'incident, détecté le 1er août 2026, a affecté les données de réservations allant du 1er novembre 2022 au 31 juillet 2026, incluant des informations personnelles détaillées des clients. Le hotel n'a pas payé la rançon. L'incident a nécessité l'information de près de 40 000 clients.",
+        "description": "",
+        "title": "Kibertámadás: mátrai hotelre csaptak le a kiberbűnözök, több tízezer eurót akartak",
+        "url": "https://mfor.hu/cikkek/turizmus/matra-hotel-ozon-hacker-kibertamadas.html",
+        "added": "2026-08-26"
+    },
+    {
+        "date": "2026-07-31",
+        "victim": "Micro-Comm",
+        "domain": "scadaview.com",
+        "country": "USA",
+        "summary": "Le FBI enquête sur une cyberattaque contre Micro-Comm, une entreprise basée au Kansas qui fabrique des contrôleurs logiques programmables pour les infrastructures critiques. L'enseigne de ransomware Barracuda a revendiqué l'incident et a publié près de 850 000 fichiers, totalisant environ 644 gigaoctets. Micro-Comm a découvert la violation le 31 juillet. Bien que l'attaque ait été qualifiée d'opportuniste, l'entreprise a averti ses clients de changer leurs mots de passe. L'incident s'inscrit dans une série d'attaques de fin juillet sur des contrôleurs logiques dans plusieurs États américains.",
+        "description": "",
+        "title": "FBI investigates cyberattack on Micro-Comm in Kansas",
+        "url": "https://ua.news/en/world/fbr-rozsliduie-kiberataku-na-virobnika-obladnannia-micro-comm-u-kanzasi",
+        "added": "2026-08-26"
+    },
+    {
         "date": "2026-08-25",
         "victim": "Boston Scientific",
         "domain": "bostonscientific.com",
