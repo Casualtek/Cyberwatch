@@ -246318,11 +246318,16 @@
     {
         "victim": "Plumley Engineering",
         "domain": "plumleyeng.com",
-        "country": "GB",
+        "country": "US",
         "timeline": [
             {
                 "date": "2026-07-16",
                 "type": "claimed",
+                "group": "akira"
+            },
+            {
+                "date": "2026-05-01",
+                "type": "assessed",
                 "group": "akira"
             }
         ]
