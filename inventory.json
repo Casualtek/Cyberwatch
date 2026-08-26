@@ -169189,11 +169189,16 @@
     {
         "victim": "JMS Southeast",
         "domain": "jms-se.com",
-        "country": "",
+        "country": "US",
         "timeline": [
             {
                 "date": "2026-06-25",
                 "type": "claimed",
+                "group": "akira"
+            },
+            {
+                "date": "2026-06-02",
+                "type": "assessed",
                 "group": "akira"
             }
         ]
