@@ -18886,6 +18886,11 @@
             {
                 "date": "2025-10-06",
                 "type": "reported"
+            },
+            {
+                "date": "2025-10-04",
+                "type": "assessed",
+                "group": "akira"
             }
         ]
     },
