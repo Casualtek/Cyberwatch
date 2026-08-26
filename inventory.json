@@ -120562,6 +120562,17 @@
                 "date": "2023-07-15",
                 "type": "claimed",
                 "group": "dispossessor"
+            },
+            {
+                "date": "2026-08-25",
+                "type": "discovered",
+                "summary": "Franklin Mint Federal Credit Union (FMFCU) a connu une perturbation de son site web et de son accès bancaire numérique en raison d'un problème de domaine. L'incident a commencé lundi et s'est poursuivi mardi. Bien que les transactions aient continué à être traitées, les membres n'ont pas pu accéder aux services en ligne. Les registres publics indiquent que le domaine fmfcu.org a été transféré à un autre registraire lundi, et mardi, il redirigeait vers une page GoDaddy en vente. FMFCU n'a pas qualifié l'événement de cyberattaque.",
+                "title": "Franklin Mint credit union domain issue disrupts digital banking access in Pennsylvania",
+                "url": "https://dysruptionhub.com/fmfcu-domain-digital-banking-outage/"
+            },
+            {
+                "date": "2026-08-24",
+                "type": "reported"
             }
         ]
     },
@@ -239007,6 +239018,17 @@
                 "date": "2026-01-15",
                 "type": "claimed",
                 "group": "akira"
+            },
+            {
+                "date": "2026-08-26",
+                "type": "discovered",
+                "summary": "La société de gestion des avantages sociaux Paylogix a été victime d'une cyberattaque. Des pirates informatiques ont volé des informations sensibles, y compris des numéros de sécurité sociale, des données financières, des informations de santé et des numéros de passeport, appartenant à des dizaines de milliers de personnes. L'incident, qui a eu lieu entre le 13 et le 18 novembre, a été revendiqué par l'enseigne de ransomware Akira en janvier 2026.",
+                "title": "Employee benefits platform Paylogix says hackers stole financial and health",
+                "url": "https://therecord.media/paylogix-cyberattack-akira-ransomware"
+            },
+            {
+                "date": "2026-11-18",
+                "type": "reported"
             }
         ]
     },
@@ -288475,6 +288497,17 @@
             {
                 "date": "2025-07-24",
                 "type": "reported"
+            },
+            {
+                "date": "2026-08-25",
+                "type": "discovered",
+                "summary": "Sotheby's International, une société immobilière de luxe, enquête sur un incident de cybersécurité impliquant un accès non autorisé à des données stockées sur une plateforme logicielle tierce. Les données potentiellement compromises incluent des noms, adresses, adresses e-mail et numéros de téléphone. La société a précisé que les échanges d'e-mails, la documentation ou tout autre matériel substantiel lié aux propriétés n'ont pas été accédés, et que la plateforme n'est pas utilisée pour les transactions financières des clients. L'entreprise a pris des mesures pour contenir l'incident et travaille avec des spécialistes en cybersécurité indépendants.",
+                "title": "Luxury real estate firm hit by cyber security attack",
+                "url": "https://www.rnz.co.nz/news/crime-and-justice/1118363/luxury-real-estate-firm-hit-by-cyber-security-attack"
+            },
+            {
+                "date": "2026-08-24",
+                "type": "reported"
             }
         ]
     },
@@ -289262,6 +289295,17 @@
                 "date": "2026-08-15",
                 "type": "claimed",
                 "group": "xpl0itrs"
+            },
+            {
+                "date": "2026-08-25",
+                "type": "discovered",
+                "summary": "L'entreprise Spaggiari Parma, éditeur du registre électronique le plus utilisé en Italie (ClasseViva), a subi une cyberattaque ayant affecté le logiciel Bergantini dédié à la gestion des formulaires. L'attaque remonte au 30 juin, bien qu'elle n'ait été rendue publique par le groupe de cybercriminels xplOitrs que le 20 août. L'entreprise a confirmé que les registres de classe n'ont pas été touchés, mais a invité les utilisateurs à modifier leurs identifiants de connexion. Bien que des rumeurs aient circulé concernant le vol de 6,1 téraoctets de données sensibles, l'entreprise a précisé que l'accès illicite a concerné une partie des pièces jointes téléchargées par les utilisateurs, entraînant un risque pour la confidentialité, sans toutefois qu'aucune preuve d'utilisation frauduleuse des données n'ait été établie.",
+                "title": "Attacco hacker alla piattaforma di modulistica per le scuole del Gruppo Spaggiari, «rubati dati di studenti, famiglie e professori per chiedere un riscatto»",
+                "url": "https://www.corriere.it/tecnologia/26_agosto_23/attacco-hacker-al-registro-elettronico-classe-viva-rubati-dati-di-studenti-famiglie-e-professori-per-chiedere-un-riscatto-b580a26b-ba4d-4690-a47c-da2c0da18xlk_amp.shtml"
+            },
+            {
+                "date": "2026-06-30",
+                "type": "reported"
             },
             {
                 "date": "2026-08-23",
@@ -324852,6 +324896,11 @@
             {
                 "date": "2026-05-18",
                 "type": "claimed",
+                "group": "akira"
+            },
+            {
+                "date": "2026-05-12",
+                "type": "assessed",
                 "group": "akira"
             }
         ]
