@@ -1,5 +1,16 @@
 [
     {
+        "date": "2026-08-25",
+        "victim": "Boston Scientific",
+        "domain": "bostonscientific.com",
+        "country": "USA",
+        "summary": "Boston Scientific a révélé un incident de cybersécurité affectant certains systèmes informatiques, entraînant des perturbations opérationnelles. L'incident a limité l'accès à des systèmes d'information et des applications commerciales essentielles, y compris la capacité de traiter et d'expédier les commandes des clients. L'entreprise a engagé des experts externes pour évaluer et contenir la menace, mais l'ampleur et le calendrier de la restauration ne sont pas encore connus.",
+        "description": "",
+        "title": "Boston Scientific meldet Cyberangriff – Betrieb beeinträchtigt, Aktie gibt nach Von Investing.com",
+        "url": "https://de.investing.com/news/stock-market-news/boston-scientific-meldet-cyberangriff--betrieb-beeintrachtigt-aktie-gibt-nach-93CH-3637271",
+        "added": "2026-08-26"
+    },
+    {
         "date": "2026-11-18",
         "victim": "Paylogix",
         "domain": "paylogix.com",
