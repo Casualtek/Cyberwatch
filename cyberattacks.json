@@ -1,5 +1,16 @@
 [
     {
+        "date": "2026-11-18",
+        "victim": "Paylogix",
+        "domain": "paylogix.com",
+        "country": "USA",
+        "summary": "La société de gestion des avantages sociaux Paylogix a été victime d'une cyberattaque. Des pirates informatiques ont volé des informations sensibles, y compris des numéros de sécurité sociale, des données financières, des informations de santé et des numéros de passeport, appartenant à des dizaines de milliers de personnes. L'incident, qui a eu lieu entre le 13 et le 18 novembre, a été revendiqué par l'enseigne de ransomware Akira en janvier 2026.",
+        "description": "",
+        "title": "Employee benefits platform Paylogix says hackers stole financial and health",
+        "url": "https://therecord.media/paylogix-cyberattack-akira-ransomware",
+        "added": "2026-08-26"
+    },
+    {
         "date": "2026-08-24",
         "victim": "Franklin Mint Federal Credit Union",
         "domain": "fmfcu.org",
