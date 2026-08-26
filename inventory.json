@@ -199957,6 +199957,18 @@
     },
     {
         "victim": "McCraw Oil",
+        "domain": "mccrawoil.com",
+        "country": "US",
+        "timeline": [
+            {
+                "date": "2025-09-26",
+                "type": "assessed",
+                "group": "akira"
+            }
+        ]
+    },
+    {
+        "victim": "McCraw Oil",
         "domain": "mccrawoilandpropane.com",
         "country": "US",
         "timeline": [
