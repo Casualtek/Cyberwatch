@@ -1,5 +1,16 @@
 [
     {
+        "date": "2026-08-06",
+        "victim": "Circleville",
+        "domain": "circlevilleoh.gov",
+        "country": "USA",
+        "summary": "La ville de Circleville, Ohio, a restauré ses systèmes municipaux après une activité de ransomware qui a forcé les responsables à déconnecter les ordinateurs de la ville le 6 août. L'attaque a retardé les paiements par carte et d'autres travaux informatisés. La ville a confirmé ne pas avoir payé de rançon et a reconstruit les systèmes à partir d'environnements propres. Bien que les services d'urgence (dispatch, eau, etc.) n'aient pas été directement affectés, des questions subsistent concernant l'étendue de l'incident, le calendrier de notification aux autorités du comté et l'impact sur la technologie policière.",
+        "description": "",
+        "title": "Circleville, Ohio, restores city systems after ransomware incident",
+        "url": "https://dysruptionhub.com/circleville-ransomware-systems-restored/",
+        "added": "2026-08-27"
+    },
+    {
         "date": "2026-08-25",
         "victim": "Merrimack County",
         "domain": "merrimackcounty.net",
