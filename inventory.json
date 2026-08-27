@@ -964,6 +964,18 @@
         ]
     },
     {
+        "victim": "STRUCTURED SETTLEMENT CAPITAL LLC",
+        "domain": "123lumpsum.com",
+        "country": "US",
+        "timeline": [
+            {
+                "date": "2026-08-25",
+                "type": "claimed",
+                "group": "qilin"
+            }
+        ]
+    },
+    {
         "victim": "Fifteenfortyseven Critical Systems Realty (1547realty.com)",
         "domain": "1547realty.com",
         "country": "US",
@@ -6724,6 +6736,18 @@
                 "date": "2023-03-02",
                 "type": "claimed",
                 "group": "8base"
+            }
+        ]
+    },
+    {
+        "victim": "A-Plus Software Limited",
+        "domain": "a-plussoft.com",
+        "country": "GB",
+        "timeline": [
+            {
+                "date": "2026-08-25",
+                "type": "claimed",
+                "group": "ShadowByt3$"
             }
         ]
     },
@@ -14476,6 +14500,18 @@
             {
                 "date": "2025-07-20",
                 "type": "reported"
+            }
+        ]
+    },
+    {
+        "victim": "AGROLAND S.A.",
+        "domain": "agroland.com",
+        "country": "RO",
+        "timeline": [
+            {
+                "date": "2026-08-25",
+                "type": "claimed",
+                "group": "qilin"
             }
         ]
     },
@@ -27141,6 +27177,18 @@
         ]
     },
     {
+        "victim": "Arich Enterprise Co., Ltd.",
+        "domain": "arich.com.tw",
+        "country": "TW",
+        "timeline": [
+            {
+                "date": "2026-08-25",
+                "type": "claimed",
+                "group": "Orova"
+            }
+        ]
+    },
+    {
         "victim": "arieladar.com",
         "domain": "arieladar.com",
         "country": "",
@@ -36426,6 +36474,18 @@
                 "date": "2025-02-26",
                 "type": "assessed",
                 "group": "incransom"
+            }
+        ]
+    },
+    {
+        "victim": "Bai-chi CPA Firm",
+        "domain": "baichi.com.tw",
+        "country": "TW",
+        "timeline": [
+            {
+                "date": "2026-08-25",
+                "type": "claimed",
+                "group": "Orova"
             }
         ]
     },
@@ -50315,6 +50375,29 @@
                 "date": "2026-07-25",
                 "type": "claimed",
                 "group": "arcusmedia"
+            }
+        ]
+    },
+    {
+        "victim": "Brazosport College",
+        "domain": "brazosport.edu",
+        "country": "US",
+        "timeline": [
+            {
+                "date": "2026-08-25",
+                "type": "claimed",
+                "group": "qilin"
+            },
+            {
+                "date": "2026-08-14",
+                "type": "discovered",
+                "summary": "Les systèmes de Brazosport College sont restés hors ligne suite à un incident de cybersécurité dont la cause reste inconnue. L'incident a été découvert le lundi par l'équipe informatique du collège, et des spécialistes externes ont été appelés pour mener l'enquête.",
+                "title": "Cause unknown in Brazosport College cyber incident",
+                "url": "https://thefacts.com/news/cause-unknown-in-brazosport-college-cyber-incident/article_9d52d9df-0260-4f23-b1e8-1f336bc44d09.html"
+            },
+            {
+                "date": "2026-08-11",
+                "type": "reported"
             }
         ]
     },
@@ -79011,6 +79094,18 @@
         ]
     },
     {
+        "victim": "copcp.com",
+        "domain": "copcp.com",
+        "country": "CN",
+        "timeline": [
+            {
+                "date": "2026-08-25",
+                "type": "claimed",
+                "group": "chaos"
+            }
+        ]
+    },
+    {
         "victim": "Copetrol",
         "domain": "copetrol.com.py",
         "country": "PY",
@@ -80226,6 +80321,18 @@
                 "date": "2024-03-14",
                 "type": "claimed",
                 "group": "hunters"
+            }
+        ]
+    },
+    {
+        "victim": "Cosmon",
+        "domain": "cosmon.com",
+        "country": "US",
+        "timeline": [
+            {
+                "date": "2026-08-19",
+                "type": "claimed",
+                "group": "beast"
             }
         ]
     },
@@ -87930,6 +88037,18 @@
         ]
     },
     {
+        "victim": "Davis & Ferber",
+        "domain": "davisferber.com",
+        "country": "US",
+        "timeline": [
+            {
+                "date": "2026-08-25",
+                "type": "claimed",
+                "group": "akira"
+            }
+        ]
+    },
+    {
         "victim": "Davis Kitchens, United States",
         "domain": "daviskitchens.com",
         "country": "US",
@@ -90897,6 +91016,18 @@
                 "date": "2026-05-30",
                 "type": "claimed",
                 "group": "shinyhunters"
+            }
+        ]
+    },
+    {
+        "victim": "Dentist in New Britain, CT",
+        "domain": "dentistinnewbritain.com",
+        "country": "US",
+        "timeline": [
+            {
+                "date": "2026-08-25",
+                "type": "claimed",
+                "group": "Dark Project"
             }
         ]
     },
@@ -159920,6 +160051,18 @@
         ]
     },
     {
+        "victim": "industry.airliquide.kr",
+        "domain": "industry.airliquide.kr",
+        "country": "KR",
+        "timeline": [
+            {
+                "date": "2026-08-25",
+                "type": "claimed",
+                "group": "safepay"
+            }
+        ]
+    },
+    {
         "victim": "InEar hear the difference",
         "domain": "inear.de",
         "country": "DE",
@@ -170122,6 +170265,18 @@
         ]
     },
     {
+        "victim": "Johnson City Honda",
+        "domain": "johnsoncityhonda.com",
+        "country": "US",
+        "timeline": [
+            {
+                "date": "2026-08-25",
+                "type": "claimed",
+                "group": "Global Secret Group"
+            }
+        ]
+    },
+    {
         "victim": "Johnson Controls International",
         "domain": "johnsoncontrols.com",
         "country": "US",
@@ -176126,6 +176281,18 @@
                 "date": "2024-08-21",
                 "type": "claimed",
                 "group": "lynx"
+            }
+        ]
+    },
+    {
+        "victim": "National Kidney Registry",
+        "domain": "kidneyregistry.com",
+        "country": "US",
+        "timeline": [
+            {
+                "date": "2026-08-25",
+                "type": "claimed",
+                "group": "direwolf"
             }
         ]
     },
@@ -190276,6 +190443,18 @@
                 "date": "2024-12-11",
                 "type": "claimed",
                 "group": "nitrogen"
+            }
+        ]
+    },
+    {
+        "victim": "Lockheed Architectural Solutions, Inc.",
+        "domain": "lockheedsolutions.com",
+        "country": "US",
+        "timeline": [
+            {
+                "date": "2026-08-25",
+                "type": "claimed",
+                "group": "Global Secret Group"
             }
         ]
     },
@@ -214798,6 +214977,18 @@
         ]
     },
     {
+        "victim": "mswalker.com",
+        "domain": "mswalker.com",
+        "country": "US",
+        "timeline": [
+            {
+                "date": "2026-08-25",
+                "type": "claimed",
+                "group": "chaos"
+            }
+        ]
+    },
+    {
         "victim": "MSX International",
         "domain": "msxi.com",
         "country": "",
@@ -221246,6 +221437,18 @@
         ]
     },
     {
+        "victim": "Central Florida Civil LLC",
+        "domain": "network.procore.com",
+        "country": "US",
+        "timeline": [
+            {
+                "date": "2026-08-25",
+                "type": "claimed",
+                "group": "Orova"
+            }
+        ]
+    },
+    {
         "victim": "Neubox",
         "domain": "neubox.com",
         "country": "MX",
@@ -223750,7 +223953,7 @@
         ]
     },
     {
-        "victim": "Nintendo Company (Nintendo.com)",
+        "victim": "Nintendo Corporation",
         "domain": "nintendo.com",
         "country": "JP",
         "timeline": [
@@ -223763,6 +223966,11 @@
                 "date": "2026-06-16",
                 "type": "claimed",
                 "group": "shadowbyt3$"
+            },
+            {
+                "date": "2026-08-25",
+                "type": "claimed",
+                "group": "ShadowByt3$"
             }
         ]
     },
@@ -228144,10 +228352,15 @@
         ]
     },
     {
-        "victim": "Nottingham Trent University",
+        "victim": "Knottingham Trent University",
         "domain": "ntu.ac.uk",
         "country": "GB",
         "timeline": [
+            {
+                "date": "2026-08-25",
+                "type": "claimed",
+                "group": "ShadowByt3$"
+            },
             {
                 "date": "2025-07-15",
                 "type": "discovered",
@@ -236726,6 +236939,18 @@
         ]
     },
     {
+        "victim": "SC PaderTeG Cabluri Electrice",
+        "domain": "paderteg.ro",
+        "country": "RO",
+        "timeline": [
+            {
+                "date": "2026-08-25",
+                "type": "claimed",
+                "group": "qilin"
+            }
+        ]
+    },
+    {
         "victim": "Padget Technologies",
         "domain": "padgettechnologies.com",
         "country": "US",
@@ -238310,6 +238535,18 @@
             {
                 "date": "2026-04-29",
                 "type": "reported"
+            }
+        ]
+    },
+    {
+        "victim": "parkderochie.com",
+        "domain": "parkderochie.com",
+        "country": "NL",
+        "timeline": [
+            {
+                "date": "2026-08-25",
+                "type": "claimed",
+                "group": "chaos"
             }
         ]
     },
@@ -240214,6 +240451,18 @@
                 "date": "2024-10-15",
                 "type": "assessed",
                 "group": "ElDorado"
+            }
+        ]
+    },
+    {
+        "victim": "PCA Group Sdn. Bhd.",
+        "domain": "pcagroup.com",
+        "country": "MY",
+        "timeline": [
+            {
+                "date": "2026-08-25",
+                "type": "claimed",
+                "group": "majinahanashi"
             }
         ]
     },
@@ -254773,6 +255022,18 @@
         ]
     },
     {
+        "victim": "Pump Engineering Company",
+        "domain": "pumpengineering.net",
+        "country": "US",
+        "timeline": [
+            {
+                "date": "2026-08-25",
+                "type": "claimed",
+                "group": "Dark Project"
+            }
+        ]
+    },
+    {
         "victim": "Hydro-Vacuum S.A.",
         "domain": "pumps-hv.com",
         "country": "PL",
@@ -259872,6 +260133,18 @@
                 "date": "2025-06-05",
                 "type": "claimed",
                 "group": "akira"
+            }
+        ]
+    },
+    {
+        "victim": "Redacted",
+        "domain": "redacted.com",
+        "country": "",
+        "timeline": [
+            {
+                "date": "2026-08-25",
+                "type": "claimed",
+                "group": "kazu"
             }
         ]
     },
@@ -286300,6 +286573,18 @@
         ]
     },
     {
+        "victim": "Sinar Mas Agribusiness and Food Golden Agri-Resources)",
+        "domain": "smart-tbk.com",
+        "country": "ID",
+        "timeline": [
+            {
+                "date": "2026-08-25",
+                "type": "claimed",
+                "group": "ShadowByt3$"
+            }
+        ]
+    },
+    {
         "victim": "smart-union.org",
         "domain": "smart-union.org",
         "country": "US",
@@ -297039,6 +297324,18 @@
         "domain": "studiojf.com",
         "country": "IT",
         "timeline": []
+    },
+    {
+        "victim": "Studio Legale ESE",
+        "domain": "studiolegaleese.it",
+        "country": "IT",
+        "timeline": [
+            {
+                "date": "2026-08-25",
+                "type": "claimed",
+                "group": "direwolf"
+            }
+        ]
     },
     {
         "victim": "Studioline Photography",
@@ -311481,6 +311778,18 @@
                 "date": "2025-06-29",
                 "type": "claimed",
                 "group": "worldleaks"
+            }
+        ]
+    },
+    {
+        "victim": "Tiseo Paving",
+        "domain": "tiseopaving.com",
+        "country": "US",
+        "timeline": [
+            {
+                "date": "2026-08-25",
+                "type": "claimed",
+                "group": "Global Secret Group"
             }
         ]
     },
@@ -339593,6 +339902,18 @@
         "timeline": [
             {
                 "date": "2024-07-23",
+                "type": "claimed",
+                "group": "akira"
+            }
+        ]
+    },
+    {
+        "victim": "WINTER Ingenieure",
+        "domain": "winter-ingenieure.de",
+        "country": "DE",
+        "timeline": [
+            {
+                "date": "2026-08-25",
                 "type": "claimed",
                 "group": "akira"
             }
