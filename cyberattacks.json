@@ -1,5 +1,16 @@
 [
     {
+        "date": "2026-08-25",
+        "victim": "Bureau des Alcools, du Tabac, des Armes de Feu et des Explosifs (ATF)",
+        "domain": "atf.gov",
+        "country": "USA",
+        "summary": "Le Bureau des Alcools, du Tabac, des Armes de Feu et des Explosifs (ATF) répond à un incident de cybersécurité affectant un système autonome. L'ATF a immédiatement coupé les connexions à l'environnement affecté et a lancé des activités de réponse aux incidents et d'investigation forensique. Il n'y a aucune indication que l'incident ait affecté le réseau de l'ATF ou d'autres systèmes.",
+        "description": "",
+        "title": "ATF Press Release",
+        "url": "https://www.atf.gov/news/press-releases/atf-responds-to-cybersecurity-incident",
+        "added": "2026-08-27"
+    },
+    {
         "date": "2026-08-26",
         "victim": "Manchester Airports Group",
         "domain": "magairports.com",
