@@ -1,5 +1,16 @@
 [
     {
+        "date": "2026-08-24",
+        "victim": "Commission de la construction du Québec (CCQ)",
+        "domain": "rbq.gouv.qc.ca",
+        "country": "CAN",
+        "summary": "La Commission de la construction du Québec (CCQ) est paralysée depuis lundi en raison d'une cyberattaque. L'organisme a confirmé l'incident et a fait appel à des experts externes pour évaluer l'étendue des dégâts. La CCQ n'a pas encore confirmé si des données ont été compromises, mais elle assure que la protection des renseignements personnels est une priorité. Des services d'urgence restent accessibles.",
+        "description": "",
+        "title": "Une cyberattaque paralyse des services de la Commission de la construction du Québec",
+        "url": "https://www.lapresse.ca/actualites/2026-08-26/une-cyberattaque-paralyse-des-services-de-la-commission-de-la-construction-du-quebec.php",
+        "added": "2026-08-27"
+    },
+    {
         "date": "2026-08-27",
         "victim": "Transports publics de l'Attique",
         "domain": "oasa.gr",
