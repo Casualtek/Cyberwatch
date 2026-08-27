@@ -1,5 +1,16 @@
 [
     {
+        "date": "2026-08-26",
+        "victim": "Université d'Uşak",
+        "domain": "usak.edu.tr",
+        "country": "TUR",
+        "summary": "L'Université d'Uşak a détecté une cyberattaque ciblant ses systèmes d'information le 26 août 2026. Suite à l'incident, les accès réseau des serveurs affectés ont été coupés pour protéger les données. L'université a informé les autorités compétentes et est en collaboration avec le Bureau de la Cybersécurité de la Présidence de la République de Turquie pour gérer la situation, entraînant des problèmes d'accès temporaires à certains services numériques.",
+        "description": "",
+        "title": "Siber Saldırı Sonrası Uşak Üniversitesi’nden Kamuoyu Duyurusu",
+        "url": "https://www.yesilsivasligazetesi.com/siber-saldiri-sonrasi-usak-universitesinden-kamuoyu-duyurusu",
+        "added": "2026-08-27"
+    },
+    {
         "date": "2026-08-06",
         "victim": "Circleville",
         "domain": "circlevilleoh.gov",
