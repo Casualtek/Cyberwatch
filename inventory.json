@@ -217857,6 +217857,18 @@
         ]
     },
     {
+        "victim": "Nafco",
+        "domain": "nafcofish.com/",
+        "country": "JP",
+        "timeline": [
+            {
+                "date": "2026-02-20",
+                "type": "assessed",
+                "group": "akira"
+            }
+        ]
+    },
+    {
         "victim": "naffco.com",
         "domain": "naffco.com",
         "country": "AE",
