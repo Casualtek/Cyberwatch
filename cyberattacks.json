@@ -1,5 +1,16 @@
 [
     {
+        "date": "2024-12-02",
+        "victim": "Tata Memorial Centre",
+        "domain": "tmc.gov.in",
+        "country": "IND",
+        "summary": "Le Centre Tata Memorial, à Chandigarh, a été victime d'une cyberattaque par ransomware (Interlock) qui a perturbé les systèmes informatiques du Centre de recherche Homi Bhabha Cancer Hospital. Un rapport de l'Auditeur Général (CAG) a mis en lumière de graves lacunes en matière de préparation à la cybersécurité, notamment l'absence d'analyse des causes profondes et de mesures préventives. L'attaque a eu lieu le 2 décembre 2024, et bien que 95% des services aient été restaurés d'ici le 12 décembre 2024, le Centre n'a pas réussi à identifier la cause réelle de l'incident, malgré des alertes antérieures de CERT-In.",
+        "description": "",
+        "title": "CAG flags inability to protect sensitive data after ransomware attack at Punjab cancer centre",
+        "url": "https://timesofindia.indiatimes.com/city/chandigarh/cag-flags-inability-to-protect-sensitive-data-after-ransomware-attack-at-punjab-cancer-centre/articleshow/133547927.cms",
+        "added": "2026-08-27"
+    },
+    {
         "date": "2026-08-25",
         "victim": "Bureau des Alcools, du Tabac, des Armes de Feu et des Explosifs (ATF)",
         "domain": "atf.gov",
