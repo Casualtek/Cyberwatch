@@ -12626,6 +12626,18 @@
         ]
     },
     {
+        "victim": "A&E + SMA Design",
+        "domain": "ae.design",
+        "country": "AE",
+        "timeline": [
+            {
+                "date": "2026-08-24",
+                "type": "claimed",
+                "group": "qilin"
+            }
+        ]
+    },
+    {
         "victim": "American Eagle Logistics",
         "domain": "aeagleoilfield.com",
         "country": "US",
@@ -44530,6 +44542,18 @@
         ]
     },
     {
+        "victim": "Bihl",
+        "domain": "bihl.com",
+        "country": "GB",
+        "timeline": [
+            {
+                "date": "2026-08-24",
+                "type": "claimed",
+                "group": "akira"
+            }
+        ]
+    },
+    {
         "victim": "Bija Industrie",
         "domain": "bija-industrie.com",
         "country": "FR",
@@ -52137,6 +52161,18 @@
                 "date": "2024-03-12",
                 "type": "claimed",
                 "group": "rhysida"
+            }
+        ]
+    },
+    {
+        "victim": "Brookview Financial",
+        "domain": "brookviewfinancial.com",
+        "country": "CA",
+        "timeline": [
+            {
+                "date": "2026-08-24",
+                "type": "claimed",
+                "group": "dragonforce"
             }
         ]
     },
@@ -66260,6 +66296,18 @@
         ]
     },
     {
+        "victim": "Chernyy & Associates",
+        "domain": "chernyy-law.com",
+        "country": "RU",
+        "timeline": [
+            {
+                "date": "2026-08-24",
+                "type": "claimed",
+                "group": "Booba Project"
+            }
+        ]
+    },
+    {
         "victim": "Cherokee County School District",
         "domain": "cherokee1.org",
         "country": "US",
@@ -69065,6 +69113,29 @@
                 "date": "2025-08-17",
                 "type": "assessed",
                 "group": "safepay"
+            }
+        ]
+    },
+    {
+        "victim": "City of Mitchell",
+        "domain": "cityofmitchellsd.gov",
+        "country": "US",
+        "timeline": [
+            {
+                "date": "2026-08-23",
+                "type": "claimed",
+                "group": "Storm"
+            },
+            {
+                "date": "2026-08-08",
+                "type": "discovered",
+                "summary": "La ville de Mitchell, au Dakota du Sud, a isolé une partie de son réseau vendredi après avoir détecté un incident potentiel de cybersécurité. Bien que les services critiques et d'urgence soient restés opérationnels, l'incident a nécessité l'intervention d'experts légistes pour déterminer l'étendue de la situation. Les autorités n'ont pas encore précisé le type d'attaque, les systèmes affectés, ni si des données ont été compromises.",
+                "title": "Mitchell, South Dakota, shuts part of network during cybersecurity probe",
+                "url": "https://dysruptionhub.com/mitchell-sd-cybersecurity-incident/"
+            },
+            {
+                "date": "2026-08-07",
+                "type": "reported"
             }
         ]
     },
@@ -73954,6 +74025,18 @@
         ]
     },
     {
+        "victim": "Coldfish Seafood",
+        "domain": "coldfish.ca",
+        "country": "CA",
+        "timeline": [
+            {
+                "date": "2026-08-24",
+                "type": "claimed",
+                "group": "qilin"
+            }
+        ]
+    },
+    {
         "victim": "Cold Front Distribution",
         "domain": "coldfrontdist.com",
         "country": "US",
@@ -77451,6 +77534,18 @@
             {
                 "date": "2024-11-13",
                 "type": "reported"
+            }
+        ]
+    },
+    {
+        "victim": "Consultores de Seguros",
+        "domain": "consegsa.com",
+        "country": "BR",
+        "timeline": [
+            {
+                "date": "2026-08-24",
+                "type": "claimed",
+                "group": "qilin"
             }
         ]
     },
@@ -82338,6 +82433,18 @@
         ]
     },
     {
+        "victim": "Criba",
+        "domain": "criba.com.ar",
+        "country": "AR",
+        "timeline": [
+            {
+                "date": "2026-08-24",
+                "type": "claimed",
+                "group": "dragonforce"
+            }
+        ]
+    },
+    {
         "victim": "CRI Electric",
         "domain": "crielectric.com",
         "country": "US",
@@ -85318,6 +85425,18 @@
         ]
     },
     {
+        "victim": "Country-Wide Insurance",
+        "domain": "cwico.com",
+        "country": "US",
+        "timeline": [
+            {
+                "date": "2026-08-24",
+                "type": "claimed",
+                "group": "Booba Project"
+            }
+        ]
+    },
+    {
         "victim": "CW Lighting, LLC",
         "domain": "cwlighting.com",
         "country": "US",
@@ -86012,6 +86131,18 @@
             {
                 "date": "2023-12-13",
                 "type": "reported"
+            }
+        ]
+    },
+    {
+        "victim": "Design-Aire Engineering, INC",
+        "domain": "daengineering.com",
+        "country": "US",
+        "timeline": [
+            {
+                "date": "2026-08-24",
+                "type": "claimed",
+                "group": "Dark Project"
             }
         ]
     },
@@ -87847,6 +87978,18 @@
                 "date": "2025-04-12",
                 "type": "assessed",
                 "group": "interlock"
+            }
+        ]
+    },
+    {
+        "victim": "Davroc",
+        "domain": "davroc.co.uk",
+        "country": "GB",
+        "timeline": [
+            {
+                "date": "2026-08-24",
+                "type": "claimed",
+                "group": "Booba Project"
             }
         ]
     },
@@ -116611,6 +116754,18 @@
         ]
     },
     {
+        "victim": "Federis Abogados",
+        "domain": "federisabogados.com",
+        "country": "MX",
+        "timeline": [
+            {
+                "date": "2026-08-24",
+                "type": "claimed",
+                "group": "Booba Project"
+            }
+        ]
+    },
+    {
         "victim": "FedEx",
         "domain": "fedex.com",
         "country": "US",
@@ -117335,6 +117490,18 @@
                 "date": "2026-04-08",
                 "type": "claimed",
                 "group": "gunra"
+            }
+        ]
+    },
+    {
+        "victim": "FFKR Architects",
+        "domain": "ffkr.com",
+        "country": "US",
+        "timeline": [
+            {
+                "date": "2026-08-24",
+                "type": "claimed",
+                "group": "incransom"
             }
         ]
     },
@@ -123504,6 +123671,18 @@
         ]
     },
     {
+        "victim": "Frato",
+        "domain": "frato.com",
+        "country": "BR",
+        "timeline": [
+            {
+                "date": "2026-08-24",
+                "type": "claimed",
+                "group": "dragonforce"
+            }
+        ]
+    },
+    {
         "victim": "Frawner",
         "domain": "frawnercorp.com",
         "country": "US",
@@ -125462,6 +125641,30 @@
                 "date": "2024-10-10",
                 "type": "assessed",
                 "group": "blackbasta"
+            }
+        ]
+    },
+    {
+        "victim": "FBC",
+        "domain": "furnbed.co.za",
+        "country": "ZA",
+        "timeline": [
+            {
+                "date": "2026-08-24",
+                "type": "claimed",
+                "group": "Deadlock"
+            }
+        ]
+    },
+    {
+        "victim": "Furnished Quarters",
+        "domain": "furnishedquarters.com",
+        "country": "US",
+        "timeline": [
+            {
+                "date": "2026-08-24",
+                "type": "claimed",
+                "group": "Dark Project"
             }
         ]
     },
@@ -170137,6 +170340,18 @@
         ]
     },
     {
+        "victim": "Jones, Little & Co., CPAs, LLP",
+        "domain": "jonesandlittle.com",
+        "country": "US",
+        "timeline": [
+            {
+                "date": "2026-08-24",
+                "type": "claimed",
+                "group": "Dark Project"
+            }
+        ]
+    },
+    {
         "victim": "Jones Day",
         "domain": "jonesday.com",
         "country": "US",
@@ -182060,6 +182275,18 @@
         ]
     },
     {
+        "victim": "lagegepesca.it",
+        "domain": "lagegepesca.it",
+        "country": "IT",
+        "timeline": [
+            {
+                "date": "2026-08-24",
+                "type": "claimed",
+                "group": "safepay"
+            }
+        ]
+    },
+    {
         "victim": "Lago Group Spa",
         "domain": "lagogroup.it",
         "country": "ES",
@@ -187895,6 +188122,18 @@
                 "date": "2025-11-24",
                 "type": "claimed",
                 "group": "sinobi"
+            }
+        ]
+    },
+    {
+        "victim": "The Liberty Group",
+        "domain": "libertygrp.com",
+        "country": "US",
+        "timeline": [
+            {
+                "date": "2026-08-24",
+                "type": "claimed",
+                "group": "Dark Project"
             }
         ]
     },
@@ -196701,6 +196940,18 @@
         ]
     },
     {
+        "victim": "Mark’Techno",
+        "domain": "marcktechno.com",
+        "country": "IN",
+        "timeline": [
+            {
+                "date": "2026-08-24",
+                "type": "claimed",
+                "group": "arcusmedia"
+            }
+        ]
+    },
+    {
         "victim": "marcom-inc.ca",
         "domain": "marcom-inc.ca",
         "country": "CA",
@@ -204330,6 +204581,18 @@
                 "date": "2025-08-14",
                 "type": "claimed",
                 "group": "akira"
+            }
+        ]
+    },
+    {
+        "victim": "Meridian Forest Services",
+        "domain": "meridianforest.ca",
+        "country": "CA",
+        "timeline": [
+            {
+                "date": "2026-08-16",
+                "type": "claimed",
+                "group": "beast"
             }
         ]
     },
@@ -213698,6 +213961,18 @@
                 "date": "2023-10-31",
                 "type": "claimed",
                 "group": "noescape"
+            }
+        ]
+    },
+    {
+        "victim": "ManagementPro",
+        "domain": "mproerp.com",
+        "country": "US",
+        "timeline": [
+            {
+                "date": "2026-08-24",
+                "type": "claimed",
+                "group": "arcusmedia"
             }
         ]
     },
@@ -235815,6 +236090,18 @@
         ]
     },
     {
+        "victim": "Wozair",
+        "domain": "ozair.com",
+        "country": "AE",
+        "timeline": [
+            {
+                "date": "2026-08-24",
+                "type": "claimed",
+                "group": "dragonforce"
+            }
+        ]
+    },
+    {
         "victim": "ozarkah2o.com",
         "domain": "ozarkah2o.com",
         "country": "US",
@@ -254073,6 +254360,18 @@
         ]
     },
     {
+        "victim": "www.ptesm.com",
+        "domain": "ptesm.com",
+        "country": "PT",
+        "timeline": [
+            {
+                "date": "2026-08-24",
+                "type": "claimed",
+                "group": "blackwater"
+            }
+        ]
+    },
+    {
         "victim": "performance-therapies",
         "domain": "ptforhealth.com",
         "country": "US",
@@ -261450,6 +261749,18 @@
                 "date": "2023-12-19",
                 "type": "claimed",
                 "group": "toufan"
+            }
+        ]
+    },
+    {
+        "victim": "resi.com",
+        "domain": "resi.com",
+        "country": "GB",
+        "timeline": [
+            {
+                "date": "2026-08-24",
+                "type": "claimed",
+                "group": "krybit"
             }
         ]
     },
@@ -278436,6 +278747,18 @@
         ]
     },
     {
+        "victim": "Senvibe",
+        "domain": "senvibe.uns.ac.rs",
+        "country": "RS",
+        "timeline": [
+            {
+                "date": "2026-08-24",
+                "type": "claimed",
+                "group": "Panzer"
+            }
+        ]
+    },
+    {
         "victim": "Seoul Semiconductor",
         "domain": "seoulsemicon.com",
         "country": "",
@@ -280399,6 +280722,18 @@
                 "date": "2025-01-14",
                 "type": "claimed",
                 "group": "spacebears"
+            }
+        ]
+    },
+    {
+        "victim": "Sharp Motor Group",
+        "domain": "sharpmotorgroup.com.au",
+        "country": "AU",
+        "timeline": [
+            {
+                "date": "2026-08-23",
+                "type": "claimed",
+                "group": "Storm"
             }
         ]
     },
@@ -285725,6 +286060,18 @@
             {
                 "date": "2025-05-21",
                 "type": "reported"
+            }
+        ]
+    },
+    {
+        "victim": "SHAHEEN LAW GROUP PLC - Richmond, Virginia, USA",
+        "domain": "slgjustice.com",
+        "country": "US",
+        "timeline": [
+            {
+                "date": "2026-08-24",
+                "type": "claimed",
+                "group": "Deadlock"
             }
         ]
     },
@@ -331254,6 +331601,18 @@
                 "date": "2025-04-04",
                 "type": "assessed",
                 "group": "play"
+            }
+        ]
+    },
+    {
+        "victim": "Government of Vojvodina",
+        "domain": "vojvodina.gov.rs",
+        "country": "RS",
+        "timeline": [
+            {
+                "date": "2026-08-24",
+                "type": "claimed",
+                "group": "Panzer"
             }
         ]
     },
