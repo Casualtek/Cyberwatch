@@ -1,5 +1,16 @@
 [
     {
+        "date": "2026-08-25",
+        "victim": "Merrimack County",
+        "domain": "merrimackcounty.net",
+        "country": "USA",
+        "summary": "Merrimack County, dans le New Hampshire, a subi un incident de sécurité réseau qui a temporairement empêché les opérateurs de la préfecture d'accéder aux systèmes d'informations criminelles de l'État. Bien que d'autres systèmes du comté soient restés hors ligne, l'incident n'a pas perturbé la prise d'appels 911 ni la réponse policière. Le comté travaille avec des spécialistes externes pour résoudre le problème, mais la cause n'a pas été identifiée et il n'y a pas eu de confirmation de violation de données.",
+        "description": "",
+        "title": "Merrimack County, New Hampshire, cybersecurity incident disrupts police records access",
+        "url": "https://dysruptionhub.com/merrimack-county-network-security/",
+        "added": "2026-08-27"
+    },
+    {
         "date": "2026-08-24",
         "victim": "TeamSystem",
         "domain": "teamsystem.it",
