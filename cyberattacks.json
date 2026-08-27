@@ -1,5 +1,16 @@
 [
     {
+        "date": "2026-07-18",
+        "victim": "Alliance Distribution Services",
+        "domain": "alliancedistributionservices.com",
+        "country": "AUS",
+        "summary": "Une cyberattaque a touché Alliance Distribution Services (ADS), une filiale de Hachette Australia, l'un des plus grands distributeurs de livres d'Australie. L'incident, survenu le 18 juillet, a gravement perturbé la distribution de titres, laissant les librairies indépendantes et les auteurs australiens en difficulté pour répondre à la demande des clients. Un expert en cybersécurité a émis l'hypothèse d'une attaque par rançongiciel (ransomware) ou d'une attaque visant spécifiquement la chaîne d'approvisionnement. Hachette Australia travaille à la restauration des systèmes, mais la situation crée une grande incertitude pour l'industrie.",
+        "description": "",
+        "title": "Bookstores struggle to fill shelves after cyber attack on major publisher",
+        "url": "https://www.abc.net.au/news/2026-08-27/cyber-attack-targets-hachette-bookshops-authors-struggling/107081122",
+        "added": "2026-08-27"
+    },
+    {
         "date": "2024-12-02",
         "victim": "Tata Memorial Centre",
         "domain": "tmc.gov.in",
