@@ -1,5 +1,16 @@
 [
     {
+        "date": "2026-08-26",
+        "victim": "Manchester Airports Group",
+        "domain": "magairports.com",
+        "country": "GBR",
+        "summary": "Le groupe Manchester Airports Group (MAG), propriétaire des aéroports de Manchester, Stansted et East Midlands, a subi une cyberattaque. Un tiers non autorisé a accédé à des données clients liées au stationnement, aux salons, aux réservations Fast Track et aux inscriptions au Wi-Fi. Les informations compromises incluent les adresses e-mail, les numéros de téléphone, les immatriculations de véhicules et les codes postaux. MAG a confirmé que les détails bancaires ou de paiement des clients n'ont pas été exposés. Les clients affectés sont contactés pour les avertir de la nécessité d'être vigilants face aux communications suspectes.",
+        "description": "",
+        "title": "Airport Cyber Attack Hits Manchester, Stansted and East Midlands",
+        "url": "https://the-european.eu/story-65173/cyber-attack-hits-manchester-stansted-and-east-midlands-airports-as-customer-data-stolen.html",
+        "added": "2026-08-27"
+    },
+    {
         "date": "2026-08-01",
         "victim": "Hotel Ózon",
         "domain": "hotelozon.hu",
