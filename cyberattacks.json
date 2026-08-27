@@ -1,5 +1,16 @@
 [
     {
+        "date": "2026-08-24",
+        "victim": "TeamSystem",
+        "domain": "teamsystem.it",
+        "country": "ITA",
+        "summary": "TeamSystem, un fournisseur de logiciels de gestion, a confirmé avoir subi une intrusion majeure dans ses systèmes de comptabilité en ligne. L'attaque, détectée le 24 août 2026, a entraîné l'exfiltration de données personnelles des clients, incluant les coordonnées bancaires (IBAN), les données d'identité, les coordonnées de contact et l'historique des mouvements comptables. Bien que l'entreprise affirme que les mots de passe des utilisateurs ne sont pas compromis, les données volées présentent un risque élevé de phishing et de fraudes de paiement, car les cybercriminels peuvent utiliser ces informations pour rendre leurs tentatives d'escroquerie plus crédibles.",
+        "description": "",
+        "title": "Attacco hacker a TeamSystem: trafugati gli IBAN e i dati personali dei clienti",
+        "url": "https://www.fanpage.it/innovazione/tecnologia/attacco-hacker-a-teamsystem-trafugati-gli-iban-e-i-dati-personali-dei-clienti/",
+        "added": "2026-08-27"
+    },
+    {
         "date": "2026-07-18",
         "victim": "Alliance Distribution Services",
         "domain": "alliancedistributionservices.com",
