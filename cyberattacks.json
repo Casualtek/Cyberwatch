@@ -1,5 +1,16 @@
 [
     {
+        "date": "2026-03-10",
+        "victim": "Swagelok",
+        "domain": "nsfst.co.jp",
+        "country": "JPN",
+        "summary": "La société japonaise Nihon Swagelok FST a annoncé qu'une cyberattaque par rançongiciel et un accès non autorisé survenus le 10 mars 2026 ont potentiellement entraîné la fuite de données personnelles. Les informations concernées incluent les noms, adresses, numéros de téléphone, et les coordonnées des familles des employés actuels et anciens, ainsi que les coordonnées des responsables de clients et de clients potentiels. Une telle attaque a été revendiquée par Akira le 1er avril 2026.",
+        "description": "",
+        "title": "日本スウェージロックFST、3月に発生したのランサムウェアの被害で個人情報漏洩の恐れ 従業員や取引先担当者が対象|セキュリティニュースのセキュリティ対策Lab",
+        "url": "https://rocket-boys.co.jp/security-measures-lab/nippon-swagelok-fst-ransomware-leak/",
+        "added": "2026-08-28"
+    },
+    {
         "date": "2026-08-24",
         "victim": "Commission de la construction du Québec (CCQ)",
         "domain": "rbq.gouv.qc.ca",
