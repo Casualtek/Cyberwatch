@@ -1,5 +1,16 @@
 [
     {
+        "date": "2026-08-17",
+        "victim": "Euskal Moneta",
+        "domain": "euskalmoneta.org",
+        "country": "FRA",
+        "summary": "Euskal Moneta, l'association gérant la monnaie locale Eusko, a été victime d'une cyberattaque détectée le 17 août 2026. Les attaquants ont obtenu un accès important à l'infrastructure informatique, ce qui signifie qu'une consultation ou une copie de données personnelles des adhérents ne peut être totalement exclue. Cependant, aucune exfiltration ou utilisation de données n'est actuellement confirmée. L'attaque, dont l'objectif principal aurait été l'exploitation du domaine pour améliorer le référencement d'un autre site, a conduit Euskal Moneta à reconstruire son infrastructure, à informer ses adhérents et à déclarer l'incident à la CNIL.",
+        "description": "",
+        "title": "Cyberattaque de l’Eusko : des données personnelles potentiellement exposées",
+        "url": "https://frenchbreaches.com/alertes/euskal-moneta-eusko-mtbr7on3s5riduqxif",
+        "added": "2026-08-28"
+    },
+    {
         "date": "2026-06-19",
         "victim": "Hands Holdings Co., Ltd.",
         "domain": "hands-holdings.co.jp",
