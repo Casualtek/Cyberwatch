@@ -12,6 +12,9 @@ import json
 # Constants
 GROQ_MODEL = 'qwen/qwen3.6-27b'
 GROQ_BASE_URL = 'https://api.groq.com/openai/v1'
+# Stay comfortably under the 8000 TPM rate limit on the batch call.
+TRIAGE_CHUNK_SIZE = 30
+CHUNK_DELAY = 8  # seconds between chunked triage calls
 SEEN_ITEMS_FILE = './seen_items.txt'
 
 # List of RSS feeds
@@ -114,18 +117,51 @@ def triage_batch(client, titles):
         model=GROQ_MODEL,
         instructions=system,
         input=numbered,
-        max_output_tokens=4000,
+        max_output_tokens=8192,
     )
     time.sleep(1)
 
     text = response.output_text.strip()
-    match = re.search(r'\[.*\]', text, flags=re.DOTALL)
-    if not match:
-        raise ValueError(f'no JSON array in response: {text[:200]!r}')
-    verdicts = [v.strip().lower() for v in json.loads(match.group(0))]
+    valid = {'first', 'likely', 'unlikely', 'no'}
+
+    try:
+        data = json.loads(text)
+    except json.JSONDecodeError:
+        # Tolerate markdown fences or surrounding chatter.
+        match = re.search(r'```(?:json)?\s*(\[.*?\]|\{.*?\})\s*```', text, flags=re.DOTALL) or \
+                re.search(r'(\[.*\]|\{.*\})', text, flags=re.DOTALL)
+        if not match:
+            # Maybe the model answered with the bare verdict, e.g. "likely".
+            bare = text.strip().lower().strip('"\'`')
+            if bare in ('first', 'likely', 'unlikely', 'no'):
+                data = [bare]
+            else:
+                raise ValueError(f'no JSON in response: {text[:200]!r}')
+        else:
+            data = json.loads(match.group(1))
+
+    if isinstance(data, str):
+        data = [data]
+    elif isinstance(data, dict):
+        # Small models sometimes answer {"1": "first", "2": "no", ...}
+        # instead of an array.
+        try:
+            data = [data[k] for k in sorted(data, key=lambda k: int(re.sub(r'\D', '', str(k))))]
+        except Exception:
+            data = list(data.values())
+
+    if len(titles) == 1 and isinstance(data, list) and len(data) != 1:
+        # Model gave a full batch-style answer to a single-title prompt.
+        data = [data[0]]
+
+    verdicts = []
+    for v in data:
+        if not isinstance(v, str):
+            raise ValueError(f'unexpected verdict value: {v!r}')
+        verdicts.append(v.strip().lower())
+
     if len(verdicts) != len(titles):
         raise ValueError(f'expected {len(titles)} verdicts, got {len(verdicts)}')
-    valid = {'first', 'likely', 'unlikely', 'no'}
     return [v if v in valid else 'no' for v in verdicts]
 
 def translate_title(client, title):
@@ -183,8 +219,13 @@ def process_entries(client, entries, fg):
         return
 
     titles = [p['title'] for p in pending]
+    chunks = [titles[i:i + TRIAGE_CHUNK_SIZE] for i in range(0, len(titles), TRIAGE_CHUNK_SIZE)]
     try:
-        verdicts = triage_batch(client, titles)
+        verdicts = []
+        for chunk in chunks:
+            verdicts += triage_batch(client, chunk)
+            if len(chunks) > 1:
+                time.sleep(CHUNK_DELAY)
     except Exception as e:
         print(f'Batch triage failed, falling back to individual calls: {e}')
         verdicts = []
