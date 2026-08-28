@@ -1,5 +1,16 @@
 [
     {
+        "date": "2026-08-26",
+        "victim": "Komandor",
+        "domain": "sm-komandor.ru",
+        "country": "RUS",
+        "summary": "La chaîne de supermarchés «Komandor» a confirmé avoir été victime d'une cyberattaque qui a causé des dysfonctionnements dans ses systèmes, notamment les systèmes de paiement par carte et le système «Chestny Znak». Les spécialistes ont immédiatement commencé à contrer l'attaque et à restaurer l'infrastructure informatique, réussissant à rétablir les caisses automatiques et les paiements électroniques dans la plupart des magasins d'ici midi la veille.",
+        "description": "",
+        "title": "Хакерская атака стала причиной сбоев в красноярской сети супермаркетов «Командор»",
+        "url": "https://sibnovosti.ru/news/456733/",
+        "added": "2026-08-28"
+    },
+    {
         "date": "2026-08-23",
         "victim": "Partners Financial Services",
         "domain": "partnersholdco.com",
