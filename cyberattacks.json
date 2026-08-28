@@ -1,5 +1,16 @@
 [
     {
+        "date": "2026-07-29",
+        "victim": "Mistertemp' group",
+        "domain": "mistertemp-group.com",
+        "country": "FRA",
+        "summary": "Mistertemp' group, un groupe français de recrutement et de travail temporaire, a confirmé avoir été victime d'un incident de sécurité informatique le 29 juillet 2026. Cet incident a entraîné un accès non autorisé à certaines données personnelles, incluant le nom, le prénom, l'adresse e-mail, le numéro de téléphone et la nationalité. L'entreprise a précisé qu'aucune donnée bancaire, mot de passe ou pièce d'identité n'a été compromise. Mistertemp' group a corrigé la vulnérabilité, confiné l'incident, notifié la CNIL et déposé une plainte pénale, tout en identifiant des risques de phishing et d'usurpation d'identité pour les personnes concernées.",
+        "description": "",
+        "title": "Cyberattaque Mistertemp' group : des données personnelles exposées...",
+        "url": "https://frenchbreaches.com/alertes/mistertemp-group-mtbjjqahg9jzou0akq4",
+        "added": "2026-08-28"
+    },
+    {
         "date": "2026-08-17",
         "victim": "Euskal Moneta",
         "domain": "euskalmoneta.org",
