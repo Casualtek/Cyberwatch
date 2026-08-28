@@ -1,5 +1,16 @@
 [
     {
+        "date": "2026-08-23",
+        "victim": "Partners Financial Services",
+        "domain": "partnersholdco.com",
+        "country": "CZE",
+        "summary": "Le groupe financier Partners a été victime d'une cyberattaque qui a entraîné la fuite de certaines données personnelles de ses clients. L'attaque, survenue le dimanche précédent la publication, a affecté plusieurs entités du groupe, notamment Partners Financial Services, Simplea, Rentea et Simplea Financial Services en Slovaquie. Les données compromises incluent des informations d'identification, des coordonnées, des détails de contrats financiers et des enregistrements d'appels jusqu'en 2021. Le groupe a assuré que les fonds des clients n'étaient pas menacés et que l'infrastructure de Partners Bank n'était pas compromise. L'entreprise a alerté ses clients contre les tentatives de fraude et a signalé l'incident aux autorités compétentes.",
+        "description": "",
+        "title": "Tập đoàn tài chính Partners bị tấn công mạng, lộ dữ liệu cá nhân của khách hàng",
+        "url": "https://tamdamedia.eu/tap-doan-tai-chinh-partners-bi-tan-cong-mang-lo-du-lieu-ca-nhan-cua-khach-hang",
+        "added": "2026-08-28"
+    },
+    {
         "date": "2026-07-29",
         "victim": "Mistertemp' group",
         "domain": "mistertemp-group.com",
