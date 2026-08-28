@@ -1,5 +1,16 @@
 [
     {
+        "date": "2026-06-19",
+        "victim": "Hands Holdings Co., Ltd.",
+        "domain": "hands-holdings.co.jp",
+        "country": "JPN",
+        "summary": "Hands Holdings Co., Ltd. a publié un deuxième rapport concernant l'accès non autorisé à son système, initialement annoncé le 22 juin. L'enquête a révélé que l'accès externe et l'infection par un rançongiciel ont potentiellement exposé des informations personnelles des employés (y compris les anciens et les ayants droit), telles que noms, numéros d'employé, adresses, dates de naissance, etc. Il y a également un risque que les numéros My Number des employés aient été consultés, bien que l'entreprise n'ait pas confirmé de fuite à ce jour.",
+        "description": "",
+        "title": "ハンズホールディングスにランサムウェア攻撃、従業員等のマイナンバー閲覧のおそれ | ScanNetSecurity",
+        "url": "https://scan.netsecurity.ne.jp/article/2026/08/28/56066.html",
+        "added": "2026-08-28"
+    },
+    {
         "date": "2026-03-10",
         "victim": "Swagelok",
         "domain": "nsfst.co.jp",
