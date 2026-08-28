@@ -4733,6 +4733,18 @@
         ]
     },
     {
+        "victim": "National Salvage",
+        "domain": "NationalSalvage.nodomain",
+        "country": "US",
+        "timeline": [
+            {
+                "date": "2026-08-24",
+                "type": "claimed",
+                "group": "Storm"
+            }
+        ]
+    },
+    {
         "victim": "Neovia",
         "domain": "Neovia.nodomain",
         "country": "FR",
@@ -4897,6 +4909,18 @@
                 "date": "2026-06-30",
                 "type": "claimed",
                 "group": "thegentlemen"
+            }
+        ]
+    },
+    {
+        "victim": "Our Hospice Of South Central Indiana",
+        "domain": "OurHospiceOfSouthCentralIndiana.nodomain",
+        "country": "US",
+        "timeline": [
+            {
+                "date": "2026-08-26",
+                "type": "claimed",
+                "group": "Storm"
             }
         ]
     },
@@ -14314,6 +14338,18 @@
                 "date": "2025-12-24",
                 "type": "claimed",
                 "group": "akira"
+            }
+        ]
+    },
+    {
+        "victim": "Agrimac",
+        "domain": "agri-mac.com.au",
+        "country": "AU",
+        "timeline": [
+            {
+                "date": "2026-08-26",
+                "type": "claimed",
+                "group": "Storm"
             }
         ]
     },
@@ -42020,6 +42056,18 @@
         ]
     },
     {
+        "victim": "BENCIVIL",
+        "domain": "bencivil.com",
+        "country": "US",
+        "timeline": [
+            {
+                "date": "2026-08-27",
+                "type": "claimed",
+                "group": "incransom"
+            }
+        ]
+    },
+    {
         "victim": "Bender UK",
         "domain": "bender-uk.com",
         "country": "GB",
@@ -64230,6 +64278,18 @@
         ]
     },
     {
+        "victim": "Cetylite",
+        "domain": "cetylite.com",
+        "country": "US",
+        "timeline": [
+            {
+                "date": "2026-08-27",
+                "type": "claimed",
+                "group": "akira"
+            }
+        ]
+    },
+    {
         "victim": "Ceva Logistics",
         "domain": "cevalogistics.com",
         "country": "GB",
@@ -64680,6 +64740,18 @@
                 "date": "2025-06-27",
                 "type": "claimed",
                 "group": "play"
+            }
+        ]
+    },
+    {
+        "victim": "CGP MEP",
+        "domain": "cgpmep.com",
+        "country": "GB",
+        "timeline": [
+            {
+                "date": "2026-08-27",
+                "type": "claimed",
+                "group": "akira"
             }
         ]
     },
@@ -86190,6 +86262,18 @@
         ]
     },
     {
+        "victim": "DAB Investments",
+        "domain": "dabinvestments.com",
+        "country": "GB",
+        "timeline": [
+            {
+                "date": "2026-08-27",
+                "type": "claimed",
+                "group": "qilin"
+            }
+        ]
+    },
+    {
         "victim": "Coulter & Tateoka",
         "domain": "dac-law.com",
         "country": "US",
@@ -89279,6 +89363,18 @@
             {
                 "date": "2023-09-05",
                 "type": "reported"
+            }
+        ]
+    },
+    {
+        "victim": "dece.cz",
+        "domain": "dece.cz",
+        "country": "CZ",
+        "timeline": [
+            {
+                "date": "2026-08-27",
+                "type": "claimed",
+                "group": "lockbit5"
             }
         ]
     },
@@ -94396,6 +94492,18 @@
         ]
     },
     {
+        "victim": "Displaydata",
+        "domain": "displaydata.com",
+        "country": "GB",
+        "timeline": [
+            {
+                "date": "2026-08-27",
+                "type": "claimed",
+                "group": "qilin"
+            }
+        ]
+    },
+    {
         "victim": "Displayit",
         "domain": "displayit.com",
         "country": "US",
@@ -96928,6 +97036,18 @@
             {
                 "date": "2022-11-28",
                 "type": "reported"
+            }
+        ]
+    },
+    {
+        "victim": "Dotlines",
+        "domain": "dotlines.com.sg",
+        "country": "SG",
+        "timeline": [
+            {
+                "date": "2026-08-27",
+                "type": "claimed",
+                "group": "qilin"
             }
         ]
     },
@@ -111506,6 +111626,18 @@
         ]
     },
     {
+        "victim": "ETNA Software",
+        "domain": "etnasoft.com",
+        "country": "IT",
+        "timeline": [
+            {
+                "date": "2026-08-27",
+                "type": "claimed",
+                "group": "Eclipse"
+            }
+        ]
+    },
+    {
         "victim": "Trilinklogistics Inc / Leacked by www.etornetworks.com/",
         "domain": "etornetworks.com",
         "country": "CA",
@@ -123361,6 +123493,18 @@
         ]
     },
     {
+        "victim": "fpmanagement.nl",
+        "domain": "fpmanagement.nl",
+        "country": "NL",
+        "timeline": [
+            {
+                "date": "2026-08-27",
+                "type": "claimed",
+                "group": "lockbit5"
+            }
+        ]
+    },
+    {
         "victim": "Family Partnerships of Central Florida",
         "domain": "fpocf.org",
         "country": "US",
@@ -132538,6 +132682,18 @@
         ]
     },
     {
+        "victim": "Globalport Terminals",
+        "domain": "globalports.com.ph",
+        "country": "PH",
+        "timeline": [
+            {
+                "date": "2026-08-27",
+                "type": "claimed",
+                "group": "qilin"
+            }
+        ]
+    },
+    {
         "victim": "Global Remote Services",
         "domain": "globalremoteservices.com",
         "country": "",
@@ -135674,6 +135830,18 @@
                 "date": "2023-03-21",
                 "type": "claimed",
                 "group": "lockbit3"
+            }
+        ]
+    },
+    {
+        "victim": "GPS Grothkopp und Partner",
+        "domain": "gps-stb.de",
+        "country": "DE",
+        "timeline": [
+            {
+                "date": "2026-08-27",
+                "type": "claimed",
+                "group": "qilin"
             }
         ]
     },
@@ -145545,6 +145713,18 @@
         ]
     },
     {
+        "victim": "Health",
+        "domain": "health.nsw.gov.au",
+        "country": "AU",
+        "timeline": [
+            {
+                "date": "2026-08-27",
+                "type": "claimed",
+                "group": "medusalocker"
+            }
+        ]
+    },
+    {
         "victim": "healthandvitalitycenter.com",
         "domain": "healthandvitalitycenter.com",
         "country": "US",
@@ -154375,6 +154555,18 @@
                 "date": "2024-10-06",
                 "type": "claimed",
                 "group": "argonauts"
+            }
+        ]
+    },
+    {
+        "victim": "Hungry Lion",
+        "domain": "hungrylion.co.za",
+        "country": "GH",
+        "timeline": [
+            {
+                "date": "2026-08-27",
+                "type": "claimed",
+                "group": "medusalocker"
             }
         ]
     },
@@ -165907,6 +166099,18 @@
         ]
     },
     {
+        "victim": "ITD Informations technologie",
+        "domain": "itd-home.de",
+        "country": "DE",
+        "timeline": [
+            {
+                "date": "2026-08-24",
+                "type": "claimed",
+                "group": "Storm"
+            }
+        ]
+    },
+    {
         "victim": "Internet Technologies Designs",
         "domain": "itd-system.com",
         "country": "FR",
@@ -169404,6 +169608,18 @@
                 "date": "2026-04-27",
                 "type": "claimed",
                 "group": "apt73"
+            }
+        ]
+    },
+    {
+        "victim": "Jgsee",
+        "domain": "jgsee.kmutt.ac.th",
+        "country": "TH",
+        "timeline": [
+            {
+                "date": "2026-08-27",
+                "type": "claimed",
+                "group": "medusalocker"
             }
         ]
     },
@@ -178235,6 +178451,18 @@
         "timeline": [
             {
                 "date": "2025-10-19",
+                "type": "claimed",
+                "group": "qilin"
+            }
+        ]
+    },
+    {
+        "victim": "Kling Automaten",
+        "domain": "kling-gmbh.de",
+        "country": "DE",
+        "timeline": [
+            {
+                "date": "2026-08-27",
                 "type": "claimed",
                 "group": "qilin"
             }
@@ -188232,6 +188460,18 @@
                 "date": "2025-11-17",
                 "type": "claimed",
                 "group": "akira"
+            }
+        ]
+    },
+    {
+        "victim": "LGG Advisors",
+        "domain": "lggadvisors.com",
+        "country": "GB",
+        "timeline": [
+            {
+                "date": "2026-08-27",
+                "type": "claimed",
+                "group": "qilin"
             }
         ]
     },
@@ -217047,6 +217287,18 @@
         ]
     },
     {
+        "victim": "Capitol Mechanics",
+        "domain": "mycarservice.com",
+        "country": "US",
+        "timeline": [
+            {
+                "date": "2026-08-27",
+                "type": "claimed",
+                "group": "emperador"
+            }
+        ]
+    },
+    {
         "victim": "CinemaTech",
         "domain": "mycinematech.com",
         "country": "US",
@@ -233934,6 +234186,18 @@
         ]
     },
     {
+        "victim": "Open Sports",
+        "domain": "opensports.com.ar",
+        "country": "AR",
+        "timeline": [
+            {
+                "date": "2026-08-27",
+                "type": "claimed",
+                "group": "qilin"
+            }
+        ]
+    },
+    {
         "victim": "Opera Comique",
         "domain": "opera-comique.com",
         "country": "FR",
@@ -236155,6 +236419,18 @@
                 "date": "2024-04-30",
                 "type": "claimed",
                 "group": "lockbit3"
+            }
+        ]
+    },
+    {
+        "victim": "Otto Sieve GmbH",
+        "domain": "otto-sieve.de",
+        "country": "DE",
+        "timeline": [
+            {
+                "date": "2026-08-24",
+                "type": "claimed",
+                "group": "Storm"
             }
         ]
     },
@@ -254315,6 +254591,18 @@
         ]
     },
     {
+        "victim": "Providence Investments",
+        "domain": "providenceinvestments.com",
+        "country": "US",
+        "timeline": [
+            {
+                "date": "2026-08-27",
+                "type": "claimed",
+                "group": "qilin"
+            }
+        ]
+    },
+    {
         "victim": "Providence Public School Department",
         "domain": "providenceschools.org",
         "country": "US",
@@ -256861,6 +257149,18 @@
                 "date": "2025-01-10",
                 "type": "claimed",
                 "group": "rhysida"
+            }
+        ]
+    },
+    {
+        "victim": "Qualisteel",
+        "domain": "qualisteel.com",
+        "country": "US",
+        "timeline": [
+            {
+                "date": "2026-08-27",
+                "type": "claimed",
+                "group": "medusalocker"
             }
         ]
     },
@@ -262846,6 +263146,18 @@
         ]
     },
     {
+        "victim": "Ipro.com(revealdata.com) customer DB + full database backup",
+        "domain": "revealdata.com",
+        "country": "",
+        "timeline": [
+            {
+                "date": "2026-08-27",
+                "type": "claimed",
+                "group": "emperador"
+            }
+        ]
+    },
+    {
         "victim": "REV Engineering",
         "domain": "reveng.ca",
         "country": "CA",
@@ -267136,6 +267448,18 @@
         ]
     },
     {
+        "victim": "Rohloff Group",
+        "domain": "rohloff.co.za",
+        "country": "ZA",
+        "timeline": [
+            {
+                "date": "2026-08-27",
+                "type": "claimed",
+                "group": "incransom"
+            }
+        ]
+    },
+    {
         "victim": "Rohner",
         "domain": "rohnerspraybooths.com",
         "country": "CH",
@@ -269368,6 +269692,18 @@
                 "date": "2023-03-14",
                 "type": "claimed",
                 "group": "clop"
+            }
+        ]
+    },
+    {
+        "victim": "Ruby Seven Studios",
+        "domain": "rubyseven.com",
+        "country": "US",
+        "timeline": [
+            {
+                "date": "2026-08-27",
+                "type": "claimed",
+                "group": "incransom"
             }
         ]
     },
@@ -275124,6 +275460,18 @@
         ]
     },
     {
+        "victim": "SCA Logistik & Fulfillment GmbH",
+        "domain": "sca-muc.de",
+        "country": "DE",
+        "timeline": [
+            {
+                "date": "2026-08-27",
+                "type": "claimed",
+                "group": "aurora"
+            }
+        ]
+    },
+    {
         "victim": "South China Athletic Association",
         "domain": "scaa.org.hk",
         "country": "HK",
@@ -277402,6 +277750,18 @@
                 "date": "2025-08-21",
                 "type": "claimed",
                 "group": "qilin"
+            }
+        ]
+    },
+    {
+        "victim": "Seabrook Island",
+        "domain": "seabrookisland.com",
+        "country": "US",
+        "timeline": [
+            {
+                "date": "2026-08-27",
+                "type": "claimed",
+                "group": "akira"
             }
         ]
     },
@@ -280116,6 +280476,18 @@
                 "date": "2023-03-16",
                 "type": "claimed",
                 "group": "clop"
+            }
+        ]
+    },
+    {
+        "victim": "Servifruit",
+        "domain": "servifruit.com",
+        "country": "MX",
+        "timeline": [
+            {
+                "date": "2026-08-27",
+                "type": "claimed",
+                "group": "medusalocker"
             }
         ]
     },
@@ -284983,6 +285355,18 @@
                 "date": "2023-02-17",
                 "type": "claimed",
                 "group": "alphv"
+            }
+        ]
+    },
+    {
+        "victim": "singleton.com",
+        "domain": "singleton.com",
+        "country": "AU",
+        "timeline": [
+            {
+                "date": "2026-08-27",
+                "type": "claimed",
+                "group": "chaos"
             }
         ]
     },
@@ -292438,6 +292822,18 @@
                 "date": "2025-11-25",
                 "type": "assessed",
                 "group": "lockbit5"
+            }
+        ]
+    },
+    {
+        "victim": "Sprachakademie Rhein-Ruhr",
+        "domain": "sprachakademie.eu",
+        "country": "DE",
+        "timeline": [
+            {
+                "date": "2026-08-24",
+                "type": "claimed",
+                "group": "Storm"
             }
         ]
     },
@@ -302930,6 +303326,18 @@
         ]
     },
     {
+        "victim": "takt.be",
+        "domain": "takt.be",
+        "country": "BE",
+        "timeline": [
+            {
+                "date": "2026-08-27",
+                "type": "claimed",
+                "group": "lockbit5"
+            }
+        ]
+    },
+    {
         "victim": "TaLachaim",
         "domain": "talachaim.co.il",
         "country": "IL",
@@ -309476,6 +309884,18 @@
                 "date": "2025-12-18",
                 "type": "claimed",
                 "group": "akira"
+            }
+        ]
+    },
+    {
+        "victim": "theheartcenterofmemphis.com",
+        "domain": "theheartcenterofmemphis.com",
+        "country": "US",
+        "timeline": [
+            {
+                "date": "2026-08-27",
+                "type": "claimed",
+                "group": "lockbit5"
             }
         ]
     },
@@ -346972,6 +347392,18 @@
             {
                 "date": "2025-11-30",
                 "type": "reported"
+            }
+        ]
+    },
+    {
+        "victim": "Zion Construction",
+        "domain": "zionconstructionllc.com",
+        "country": "US",
+        "timeline": [
+            {
+                "date": "2026-08-27",
+                "type": "claimed",
+                "group": "thegentlemen"
             }
         ]
     },
