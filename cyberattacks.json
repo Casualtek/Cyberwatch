@@ -1,5 +1,16 @@
 [
     {
+        "date": "2026-08-21",
+        "victim": "Police d'Uttarakhand et Autorité de santé de l'État",
+        "domain": "policecitizenportal.uk.gov.in",
+        "country": "IND",
+        "summary": "Les services en ligne de la police d'Uttarakhand, notamment la fonctionnalité de dépôt de plaintes en ligne (FIR), sont interrompus depuis environ 15 jours suite à une cyberattaque. Parallèlement, les données de l'autorité de santé de l'État ont été compromises la nuit du 21 août. L'attaque sur la police a causé des dommages au serveur, tandis que l'inciden a impliqué le vol des identifiants (ID/mot de passe) de l'autorité, mettant en danger les données de millions de personnes.",
+        "description": "",
+        "title": "साइबर हमला: उत्तराखंड पुलिस की ऑनलाइन एफआईआर सेवा ठप, स्वास्थ्य प्राधिकरण के डेटा में भी लगी सेंध",
+        "url": "https://www.amarujala.com/dehradun/uttarakhand-police-fir-service-down-for-15-days-health-authority-data-breached-read-all-updates-in-hindi-2026-08-29",
+        "added": "2026-08-29"
+    },
+    {
         "date": "2026-08-06",
         "victim": "Windsor-Essex Children's Aid Society",
         "domain": "wecas.on.ca",
