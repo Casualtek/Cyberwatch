@@ -1,5 +1,16 @@
 [
     {
+        "date": "2026-08-01",
+        "victim": "Norcross",
+        "domain": "norcrossga.net",
+        "country": "USA",
+        "summary": "La ville de Norcross (Géorgie) a été victime d'une cyberattaque par ransomware qui a affecté certains de ses systèmes informatiques au début du mois d'août. Les autorités ont fait appel à des experts externes en cybersécurité et ont prévenu les résidents que des perturbations limitées pourraient encore survenir pendant la restauration des réseaux. Il n'a pas été précisé si des données sensibles de résidents ou d'employés ont été compromises, ni si une demande de rançon a été faite.",
+        "description": "",
+        "title": "Ransomware attack targets Norcross city computer systems, officials say",
+        "url": "https://www.fox5atlanta.com/news/ransomware-attack-targets-norcross-computer-systems-city-says",
+        "added": "2026-08-29"
+    },
+    {
         "date": "2026-08-21",
         "victim": "Police d'Uttarakhand et Autorité de santé de l'État",
         "domain": "policecitizenportal.uk.gov.in",
