@@ -13,7 +13,7 @@ import json
 GROQ_MODEL = 'qwen/qwen3.6-27b'
 GROQ_BASE_URL = 'https://api.groq.com/openai/v1'
 # Stay comfortably under the 8000 TPM rate limit on the batch call.
-TRIAGE_CHUNK_SIZE = 30
+TRIAGE_CHUNK_SIZE = 20
 CHUNK_DELAY = 8  # seconds between chunked triage calls
 SEEN_ITEMS_FILE = './seen_items.txt'
 
@@ -117,7 +117,7 @@ def triage_batch(client, titles):
         model=GROQ_MODEL,
         instructions=system,
         input=numbered,
-        max_output_tokens=8192,
+        max_output_tokens=2000,
     )
     time.sleep(1)
 
