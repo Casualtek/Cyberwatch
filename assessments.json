@@ -3437,9 +3437,9 @@
     "group": "SilentRansomGroup"
   },
   {
-    "victim": "GRAUS GmbH",
+    "victim": "Grau GmbH",
     "domain": "graus.bz",
-    "country": "IT",
+    "country": "AT",
     "date": "2026-04-07",
     "group": "akira"
   },
@@ -23319,7 +23319,7 @@
   {
     "victim": "Air International Thermal Systems",
     "domain": "ai-thermal.com",
-    "country": "US",
+    "country": "GB",
     "date": "2024-08-06",
     "group": "play"
   },
