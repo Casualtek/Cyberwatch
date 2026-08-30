@@ -10,8 +10,8 @@ from openai import OpenAI
 import json
 
 # Constants
-GROQ_MODEL = 'qwen/qwen3.6-27b'
-GROQ_BASE_URL = 'https://api.groq.com/openai/v1'
+NVIDIA_MODEL = 'google/gemma-4-31b-it'
+NVIDIA_BASE_URL = 'https://integrate.api.nvidia.com/v1'
 # Stay comfortably under the 8000 TPM rate limit on the batch call.
 TRIAGE_CHUNK_SIZE = 20
 CHUNK_DELAY = 8  # seconds between chunked triage calls
@@ -113,15 +113,16 @@ def triage_batch(client, titles):
               "Date d'aujourd'hui : " + today.strftime('%Y-%m-%d') + ".")
 
     numbered = "\n".join(f"{i + 1}. {t}" for i, t in enumerate(titles))
-    response = client.responses.create(
-        model=GROQ_MODEL,
-        instructions=system,
-        input=numbered,
-        max_output_tokens=2000,
+    response = client.chat.completions.create(
+        model=NVIDIA_MODEL,
+        messages=[{'role': 'user', 'content': system + "\n\nTitres:\n" + numbered}],
+        max_tokens=2000,
+        temperature=0.2,
+        extra_body={"chat_template_kwargs": {"enable_thinking": False}},
     )
     time.sleep(1)
 
-    text = response.output_text.strip()
+    text = response.choices[0].message.content.strip()
     valid = {'first', 'likely', 'unlikely', 'no'}
 
     try:
@@ -168,14 +169,15 @@ def translate_title(client, title):
     system = ("Tu es un traducteur professionnel. Traduis le titre d'article suivant en anglais."
               "Réponds uniquement avec le titre traduit, sans guillemets ni commentaire.")
 
-    response = client.responses.create(
-        model=GROQ_MODEL,
-        instructions=system,
-        input=title,
-        max_output_tokens=200,
+    response = client.chat.completions.create(
+        model=NVIDIA_MODEL,
+        messages=[{'role': 'user', 'content': system + "\n\n" + title}],
+        max_tokens=200,
+        temperature=0.3,
+        extra_body={"chat_template_kwargs": {"enable_thinking": False}},
     )
     time.sleep(1)
-    return response.output_text.strip()
+    return response.choices[0].message.content.strip()
 
 def extract_title(input_string):
     index_dash = input_string.find(" - ")
@@ -251,8 +253,8 @@ def process_entries(client, entries, fg):
 
 def main():
     client = OpenAI(
-        api_key=os.environ.get('GROQ_API_KEY'),
-        base_url=GROQ_BASE_URL,
+        api_key=os.environ.get('NVIDIA_API_KEY'),
+        base_url=NVIDIA_BASE_URL,
     )
 
     fg = FeedGenerator()
