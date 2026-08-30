@@ -21,7 +21,7 @@ jobs:
           pip3 install -r requirements.txt
       - name: Generate RSS Feed
         env:
-          GROQ_API_KEY: ${{ secrets.GROQ_API }}
+          NVIDIA_API_KEY: ${{ secrets.NVIDIA_API_KEY }}
         run: |
           python3 rss.py
       - uses: stefanzweifel/git-auto-commit-action@v4
