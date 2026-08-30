@@ -42514,6 +42514,18 @@
         ]
     },
     {
+        "victim": "BEPeterson",
+        "domain": "bepeterson.com",
+        "country": "US",
+        "timeline": [
+            {
+                "date": "2026-08-19",
+                "type": "assessed",
+                "group": "akira"
+            }
+        ]
+    },
+    {
         "victim": "Belmont Engineered Plastics",
         "domain": "beplastics.com",
         "country": "US",
