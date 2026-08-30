@@ -1,5 +1,16 @@
 [
     {
+        "date": "2026-08-27",
+        "victim": "Ville de Tarnos",
+        "domain": "ville-tarnos.fr",
+        "country": "FRA",
+        "summary": "La Ville de Tarnos est victime d'une cyberattaque par rançongiciel visant son service de messagerie Zimbra depuis le 27 août. Le maire, Marc Mabillet, a confirmé l'attaque et la demande de rançon. La ville a suspendu le serveur et fait appel à l'Agence landaise pour l'Informatique (Alpi) pour gérer l'incident, qui est toujours en cours d'investigation. Il est possible que des données personnelles et sensibles aient été dérobées.",
+        "description": "",
+        "title": "Landes : la Ville de Tarnos victime d’une cyberattaque avec demande de rançon",
+        "url": "https://www.sudouest.fr/landes/tarnos/landes-la-ville-de-tarnos-victime-d-une-cyberattaque-avec-demande-de-rancon-30413165.php",
+        "added": "2026-08-30"
+    },
+    {
         "date": "2026-08-01",
         "victim": "Norcross",
         "domain": "norcrossga.net",
