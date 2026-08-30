@@ -131718,6 +131718,11 @@
                 "date": "2026-08-26",
                 "type": "claimed",
                 "group": "akira"
+            },
+            {
+                "date": "2026-08-14",
+                "type": "assessed",
+                "group": "akira"
             }
         ]
     },
@@ -273526,6 +273531,17 @@
                 "date": "2026-08-26",
                 "type": "claimed",
                 "group": "krybit"
+            },
+            {
+                "date": "2026-08-30",
+                "type": "discovered",
+                "summary": "Sanko Techno, une entreprise manufacturière japonaise de premier plan, principalement reconnue pour son expertise dans le développement, la fabrication et la vente d'ancrages post-installation (chevilles de fixation) et d'équipements de construction, a annoncé que sa filiale vietnamienne, Sanko Fastem, avait été victime d'un incident de cybersécurité.",
+                "title": "サンコーテクノ、越現法がサイバー攻撃被害 - NNA ASIA・ベトナム・製造",
+                "url": "https://www.nna.jp/news/2961465"
+            },
+            {
+                "date": "2026-08-28",
+                "type": "reported"
             }
         ]
     },
