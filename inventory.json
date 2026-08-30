@@ -20744,6 +20744,18 @@
         ]
     },
     {
+        "victim": "Alumax",
+        "domain": "alumax.ind.br",
+        "country": "BR",
+        "timeline": [
+            {
+                "date": "2026-08-22",
+                "type": "assessed",
+                "group": "akira"
+            }
+        ]
+    },
+    {
         "victim": "Mahoney Foundry, Inc.",
         "domain": "aluminumsandcastingsfoundry.com",
         "country": "IN",
