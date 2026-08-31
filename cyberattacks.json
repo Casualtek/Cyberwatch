@@ -1,5 +1,16 @@
 [
     {
+        "date": "2026-08-10",
+        "victim": "Delta School District",
+        "domain": "deltalearns.ca",
+        "country": "CAN",
+        "summary": "Le district scolaire de Delta a été victime d'un incident de cybersécurité affectant son environnement informatique DeltaLearns.ca. Le district a découvert l'incident le 10 août 2026, lorsque des activités non autorisées ont été détectées, rendant le site indisponible. Bien qu'il n'y ait pas de preuve que des informations personnelles aient été compromises, le district a pris des mesures de précaution et a notifié les parents et le personnel, car les données affectées incluent des formulaires soumis au département des services d'apprentissage.",
+        "description": "",
+        "title": "Delta School District reports website cyber attack",
+        "url": "https://www.delta-optimist.com/local-news/delta-school-district-reports-website-cyber-attack-12721085",
+        "added": "2026-08-31"
+    },
+    {
         "date": "2026-08-28",
         "victim": "McKesson",
         "domain": "mckesson.com",
