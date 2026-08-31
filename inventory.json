@@ -51431,11 +51431,16 @@
     {
         "victim": "briggsplc.com",
         "domain": "briggsplc.com",
-        "country": "GB",
+        "country": "US",
         "timeline": [
             {
                 "date": "2026-08-04",
                 "type": "claimed",
+                "group": "lockbit5"
+            },
+            {
+                "date": "2026-07-17",
+                "type": "assessed",
                 "group": "lockbit5"
             }
         ]
