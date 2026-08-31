@@ -1,5 +1,16 @@
 [
     {
+        "date": "2026-08-31",
+        "victim": "Universitat de Barcelona (UB)",
+        "domain": "ub.edu",
+        "country": "ESP",
+        "summary": "L'Universitat de Barcelona (UB) enquête sur un cyberattaque détectée récemment dans certains de ses systèmes. L'institution travaille avec l'Agence de Cybersécurité de Catalogne et le Consorci de Services Universitaires de Catalogne (CSUC) pour déterminer l'ampleur de l'incident. Des mesures de confinement, de surveillance et de renforcement ont été prises, incluant le renouvellement des identifiants et l'interruption temporaire de certains services. L'université assure que, pour l'instant, aucun de ses données n'a été affecté, mais maintient les mesures préventives.",
+        "description": "",
+        "title": "La UB investiga el alcance de un ciberataque detectado \"recientemente\" en varios de sus sistemas",
+        "url": "https://www.20minutos.es/cataluna/barcelona/ub-investiga-alcance-un-ciberataque-detectado-recientemente-varios-sus-sistemas_7031009_0.html",
+        "added": "2026-08-31"
+    },
+    {
         "date": "2026-08-06",
         "victim": "Ambition DX Holdings",
         "domain": "am-bition.jp",
