@@ -1,5 +1,16 @@
 [
     {
+        "date": "2026-08-06",
+        "victim": "Ambition DX Holdings",
+        "domain": "am-bition.jp",
+        "country": "JPN",
+        "summary": "Ambition DX Holdings a été victime d'un accès non autorisé à son serveur de fichiers, entraînant la confirmation d'une fuite de certaines informations. Les données potentiellement compromises incluent des informations personnelles (noms, adresses, numéros de téléphone, adresses e-mail) de clients, de propriétaires de biens locatifs, d'occupants, de partenaires commerciaux et d'employés. Bien que le groupe de rançongiciel/extorsion de données 'Settra' ait affirmé avoir volé 437 Go de données, Ambition DX Holdings n'a pas confirmé cette quantité ni l'attribution de l'attaque à Settra. L'entreprise a mis en place un nouveau réseau sécurisé et a signalé l'incident à la Commission de protection des données et à la police. Les investigations sont toujours en cours pour déterminer l'étendue exacte de la fuite.",
+        "description": "",
+        "title": "アンビションDXホールディングス、サイバー攻撃で情報漏えいを確認-ランサムウェア グループが437GB窃取を主張|セキュリティニュースのセキュリティ対策Lab",
+        "url": "https://rocket-boys.co.jp/security-measures-lab/ambition-dx-cyberattack-437gb-leak/",
+        "added": "2026-08-31"
+    },
+    {
         "date": "2026-08-28",
         "victim": "T&K TOKA",
         "domain": "toka-global.com",
