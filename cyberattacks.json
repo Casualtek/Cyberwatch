@@ -1,5 +1,16 @@
 [
     {
+        "date": "2026-08-01",
+        "victim": "Daisen",
+        "domain": "daisen.co.jp",
+        "country": "JPN",
+        "summary": "La société Daisen a annoncé qu'un accès non autorisé à son système avait été détecté. L'incident, qui a débuté vers 2h du matin le 1er août, a entraîné une infection par un logiciel malveillant. Suite à la détection, l'entreprise a coupé tous ses systèmes internes, ce qui a affecté ses opérations de commande et d'expédition. Des experts en sécurité externes sont mobilisés depuis le 2 août pour identifier l'étendue des dégâts et analyser les journaux. Bien qu'aucune fuite de données n'ait été confirmée à ce jour, l'entreprise travaille à la restauration de ses systèmes une fois la sécurité du réseau interne assurée.",
+        "description": "",
+        "title": "大仙のシステムに不正アクセス、社内全システム遮断し受注出荷業務に影響 | ScanNetSecurity",
+        "url": "https://scan.netsecurity.ne.jp/article/2026/08/31/56077.html",
+        "added": "2026-08-31"
+    },
+    {
         "date": "2026-08-27",
         "victim": "Orient Blackswan",
         "domain": "orientblackswan.com",
