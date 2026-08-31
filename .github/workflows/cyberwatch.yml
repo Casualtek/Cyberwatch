@@ -2,7 +2,6 @@ name: Update Cyberwatch RSS Feed
 
 on:
   schedule:
-    - cron: '30 * * * *'
   workflow_dispatch:
 
 concurrency:
