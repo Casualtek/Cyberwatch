@@ -259740,6 +259740,11 @@
                 "date": "2026-07-11",
                 "type": "claimed",
                 "group": "lockbit5"
+            },
+            {
+                "date": "2026-06-11",
+                "type": "assessed",
+                "group": "lockbit5"
             }
         ]
     },
