@@ -5,34 +5,29 @@ on:
     - cron: '30 * * * *'
   workflow_dispatch:
 
-# to consider: the use of action jobs to breakout each task
-# https://docs.github.com/en/actions/learn-github-actions/essential-features-of-github-actions#sharing-data-between-jobs
+concurrency:
+  group: cyberwatch-rss
+  cancel-in-progress: false
 
 jobs:
   run-cyberwatch:
     runs-on: ubuntu-22.04
-    timeout-minutes: 170
+    timeout-minutes: 30
     environment: CI
     steps:
       - name: Checkout the repo
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
+
       - name: Install dependencies
-        run: |
-          pip3 install -r requirements.txt
+        run: pip3 install -r requirements.txt
+
       - name: Generate RSS Feed
         env:
           NVIDIA_API_KEY: ${{ secrets.NVIDIA_API_KEY }}
-        run: |
-          python3 rss.py
-      - uses: stefanzweifel/git-auto-commit-action@v4
+        run: python3 rss.py
+
+      - name: Commit results
+        uses: stefanzweifel/git-auto-commit-action@v5
         with:
-          repository: ./
-          push_options: --force
-      - name: Save changes
-        run: |  
-          DATE=$(date -Iseconds)
-          git config user.name github-actions
-          git config user.email 41898282+github-actions[bot]@users.noreply.github.com
-          git pull origin main
-          git commit --all --message "Updated by Crontab on $DATE" || echo "no changes to commit" 
-          git push origin main
+          commit_message: "chore(feed): update cyberattacks news [skip ci]"
+          file_pattern: "cyberattacks_news.xml seen_items.txt"
