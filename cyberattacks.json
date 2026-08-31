@@ -1,6 +1,17 @@
 [
     {
         "date": "2026-08-27",
+        "victim": "Orient Blackswan",
+        "domain": "orientblackswan.com",
+        "country": "IND",
+        "summary": "La maison d'édition Orient Blackswan a été victime d'une cyberattaque par rançongiciel (ransomware) qui a perturbé son infrastructure informatique et chiffré des données commerciales critiques. Les attaquants ont exigé 20 millions de roupies pour restaurer l'accès. L'incident a été signalé par le vice-président de la maison d'édition et les systèmes affectés ont été isolés pour prévenir la propagation.",
+        "description": "",
+        "title": "Rs 20 mn ransom sought in publishing house cyberattack in Hyderabad",
+        "url": "https://www.newindianexpress.com/cities/hyderabad/2026/Aug/31/rs-20-mn-ransom-sought-in-publishing-house-cyberattack-in-hyderabad",
+        "added": "2026-08-31"
+    },
+    {
+        "date": "2026-08-27",
         "victim": "DZI \"Obsho zastrahovane\"",
         "domain": "dzi.bg",
         "country": "BGR",
