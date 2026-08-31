@@ -1,5 +1,16 @@
 [
     {
+        "date": "2026-08-28",
+        "victim": "T&K TOKA",
+        "domain": "toka-global.com",
+        "country": "JPN",
+        "summary": "T&K TOKA, fabricant de peintures et de résines synthétiques, a confirmé avoir été victime d'une cyberattaque par ransomware et d'un accès non autorisé à certains de ses systèmes. L'incident, signalé le 28 août 2026, a entraîné l'arrêt de certaines activités de l'entreprise. L'entreprise est en collaboration avec la police pour enquêter sur les causes et l'étendue des dégâts. À ce stade, l'entreprise n'a pas divulgué le vecteur d'intrusion, l'identité des attaquants, l'étendue de l'exfiltration de données, ni l'impact sur les informations personnelles des clients ou des employés.",
+        "description": "",
+        "title": "T&K TOKA、ランサムウェアの被害で一部業務を停止 不正アクセスの原因・情報流出は調査中|セキュリティニュースのセキュリティ対策Lab",
+        "url": "https://rocket-boys.co.jp/security-measures-lab/tk-toka-ransomware-investigation/",
+        "added": "2026-08-31"
+    },
+    {
         "date": "2026-08-01",
         "victim": "Daisen",
         "domain": "daisen.co.jp",
