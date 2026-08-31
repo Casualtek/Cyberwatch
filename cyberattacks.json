@@ -1,5 +1,16 @@
 [
     {
+        "date": "2026-08-30",
+        "victim": "Compucase Enterprise Co., Ltd.",
+        "domain": "hec-group.com.tw",
+        "country": "TWN",
+        "summary": "Le 30 août 2026, Compucase a détecté un incident de cybersécurité affectant une partie limitée de son réseau informatique. Cette entreprise taïwanaise, spécialisée dans la conception et la fabrication de composants pour ordinateurs, a immédiatement réagi en isolant les systèmes touchés et en engageant des experts externes pour mener l'enquête et restaurer la sécurité des systèmes. Selon les évaluations actuelles, aucune donnée personnelle ou confidentielle n'a été fuitée et l'activité opérationnelle de la société n'est pas impactée.",
+        "description": "",
+        "title": "Today's Information",
+        "url": "https://emops.twse.com.tw/server-java/t05sr01_1_e?&isNew=Y&seq_no=1&spoke_time=193302&spoke_date=20260830&co_id=3032",
+        "added": "2026-08-31"
+    },
+    {
         "date": "2026-08-28",
         "victim": "Sanko Fatem",
         "domain": "sankovn.com",
