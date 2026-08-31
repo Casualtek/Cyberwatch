@@ -1,5 +1,16 @@
 [
     {
+        "date": "2026-08-28",
+        "victim": "McKesson",
+        "domain": "mckesson.com",
+        "country": "USA",
+        "summary": "La société pharmaceutique et de technologie de la santé McKesson a été victime d'une cyberattaque menée par le groupe de cybercriminels ShinyHunters. L'attaque, qui a eu lieu vendredi soir, a permis aux pirates d'accéder à une application tierce non nommée et d'exfiltrer des données de clients, notamment celles des unités d'oncologie et de chirurgie. McKesson a informé les régulateurs et les clients, promettant des services de surveillance de crédit et de protection d'identité. Bien que l'entreprise ait reçu l'assurance que les pirates n'étaient plus dans ses systèmes, des problèmes de dégradation de service intermittente ont été signalés aux clients.",
+        "description": "",
+        "title": "Pharmaceutical giant McKesson warns of 'service degradation' following cyberattack",
+        "url": "https://therecord.media/mckesson-cyberattack-ransomware-pharma",
+        "added": "2026-08-31"
+    },
+    {
         "date": "2026-06-25",
         "victim": "Cardiology Associates of Port Huron (CAPH)",
         "domain": "porthuronheartcenter.com",
