@@ -171721,6 +171721,18 @@
         ]
     },
     {
+        "victim": "JRT Mechanical",
+        "domain": "jrtmechanical.com",
+        "country": "US",
+        "timeline": [
+            {
+                "date": "2026-08-01",
+                "type": "assessed",
+                "group": "akira"
+            }
+        ]
+    },
+    {
         "victim": "j*********a.net",
         "domain": "jsantamaria.net",
         "country": "ES",
