@@ -218194,6 +218194,18 @@
         ]
     },
     {
+        "victim": "n-tree.com",
+        "domain": "n-tree.com",
+        "country": "AT",
+        "timeline": [
+            {
+                "date": "2026-08-03",
+                "type": "assessed",
+                "group": "ZaWoo"
+            }
+        ]
+    },
+    {
         "victim": "Nikki-Universal Co Ltd",
         "domain": "n-u.co.jp",
         "country": "JP",
