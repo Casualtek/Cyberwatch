@@ -1,5 +1,12 @@
 [
   {
+    "victim": "sms-sme.com",
+    "domain": "sms-sme.com",
+    "country": "RO",
+    "date": "2026-06-25",
+    "group": "lockbit5"
+  },
+  {
     "victim": "pcclimitedindia.com",
     "domain": "pcclimitedindia.com",
     "country": "IN",
