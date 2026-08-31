@@ -1,5 +1,12 @@
 [
   {
+    "victim": "micropack.com.ar",
+    "domain": "micropack.com.ar",
+    "country": "AR",
+    "date": "2026-07-16",
+    "group": "lockbit5"
+  },
+  {
     "victim": "ravagnan.com",
     "domain": "ravagnan.com",
     "country": "IT",
