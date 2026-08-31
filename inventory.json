@@ -117791,6 +117791,18 @@
         ]
     },
     {
+        "victim": "fes-sport.de",
+        "domain": "fes-sport.de",
+        "country": "DE",
+        "timeline": [
+            {
+                "date": "2026-07-06",
+                "type": "assessed",
+                "group": "ZaWoo"
+            }
+        ]
+    },
+    {
         "victim": "FESCO Adecco",
         "domain": "fescoadecco.com",
         "country": "CN",
