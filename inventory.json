@@ -10289,6 +10289,18 @@
         ]
     },
     {
+        "victim": "acqbuilt.com",
+        "domain": "acqbuilt.com",
+        "country": "CA",
+        "timeline": [
+            {
+                "date": "2026-08-15",
+                "type": "assessed",
+                "group": "ZaWoo"
+            }
+        ]
+    },
+    {
         "victim": "Acqua development",
         "domain": "acqua.ro",
         "country": "RO",
