@@ -265163,6 +265163,11 @@
                 "date": "2026-08-12",
                 "type": "claimed",
                 "group": "SilentRansomGroup"
+            },
+            {
+                "date": "2026-07-31",
+                "type": "assessed",
+                "group": "SilentRansomGroup"
             }
         ]
     },
