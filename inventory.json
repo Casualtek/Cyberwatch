@@ -95809,6 +95809,18 @@
         ]
     },
     {
+        "victim": "DistributionNOW (DNOW Inc.)",
+        "domain": "dnow.com",
+        "country": "US",
+        "timeline": [
+            {
+                "date": "2026-07-14",
+                "type": "assessed",
+                "group": "Falcon"
+            }
+        ]
+    },
+    {
         "victim": "Daegu University AI Department",
         "domain": "dnue.ac.kr",
         "country": "KR",
