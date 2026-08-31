@@ -1,5 +1,16 @@
 [
     {
+        "date": "2026-08-27",
+        "victim": "DZI \"Obsho zastrahovane\"",
+        "domain": "dzi.bg",
+        "country": "BGR",
+        "summary": "La compagnie d'assurance bulgare DZI \"Obsto Zastrakhovane\" a informé ses clients d'une possible fuite de données personnelles. Cette violation a permis un accès non autorisé aux noms des clients, à leur numéro d'identification civile (EGN) et à leurs coordonnées. Bien que l'entreprise affirme que cela n'a pas d'impact sur les polices d'assurance, elle recommande aux clients d'être vigilants face aux appels ou courriels suspects. L'article souligne également la vulnérabilité du secteur de l'assurance bulgare aux cyberattaques, citant des incidents précédents chez Uniqa et Eurohold/Euroins.",
+        "description": "",
+        "title": "Кибератака и срещу ДЗИ, възможно е изтичане на лични данни на клиенти - Mediapool.bg",
+        "url": "https://www.mediapool.bg/kiberataka-i-sreshtu-dzi-vazmozhno-e-iztichane-na-lichni-danni-na-klienti-news387013.html",
+        "added": "2026-08-31"
+    },
+    {
         "date": "2026-08-30",
         "victim": "Compucase Enterprise Co., Ltd.",
         "domain": "hec-group.com.tw",
