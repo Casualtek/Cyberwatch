@@ -1,5 +1,16 @@
 [
     {
+        "date": "2026-06-25",
+        "victim": "Cardiology Associates of Port Huron (CAPH)",
+        "domain": "porthuronheartcenter.com",
+        "country": "USA",
+        "summary": "Cardiology Associates of Port Huron (CAPH), un cabinet médical du Michigan, a été potentiellement victime d'une violation de données par le groupe Orova. Orova prétend avoir acquis 496 Go de données, incluant des informations d'identification personnelles et des données de santé protégées (PHI) de 256 382 fichiers. Les analyses indépendantes suggèrent que plus de 150 000 patients ont été affectés. Les données comprennent des numéros de sécurité sociale, des informations d'assurance maladie, des codes de diagnostic et des informations de contact, ce qui présente un risque significatif pour les patients. CAPH n'a pas répondu publiquement à l'incident.",
+        "description": "",
+        "title": "Time’s Up: Ransomware Group Claims 150,000+ Cardiology Patient Records. We’ve Seen the Data. - DataBreaches.Net",
+        "url": "https://databreaches.net/2026/08/31/times-up-ransomware-group-claims-150000-cardiology-patient-records-weve-seen-the-data/",
+        "added": "2026-08-31"
+    },
+    {
         "date": "2026-08-31",
         "victim": "Universitat de Barcelona (UB)",
         "domain": "ub.edu",
