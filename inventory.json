@@ -132974,6 +132974,18 @@
         ]
     },
     {
+        "victim": "Globus Medical",
+        "domain": "globusmedical.com",
+        "country": "US",
+        "timeline": [
+            {
+                "date": "2026-08-21",
+                "type": "assessed",
+                "group": "Falcon"
+            }
+        ]
+    },
+    {
         "victim": "glop.mx",
         "domain": "glop.mx",
         "country": "MX",
