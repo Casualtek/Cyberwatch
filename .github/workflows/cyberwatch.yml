@@ -1,7 +1,6 @@
 name: Update Cyberwatch RSS Feed
 
 on:
-  schedule:
   workflow_dispatch:
 
 concurrency:
