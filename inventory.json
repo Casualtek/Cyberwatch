@@ -340744,6 +340744,11 @@
                 "date": "2026-07-22",
                 "type": "claimed",
                 "group": "BrainCipher"
+            },
+            {
+                "date": "2026-07-20",
+                "type": "assessed",
+                "group": "BrainCipher"
             }
         ]
     },
