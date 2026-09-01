@@ -1,5 +1,16 @@
 [
     {
+        "date": "2026-07-31",
+        "victim": "Technopark de Gyeongbuk",
+        "domain": "gbtp.or.kr",
+        "country": "KOR",
+        "summary": "Le Technopark de Gyeongbuk a été victime d'une cyberattaque par rançongiciel (ransomware) qui a chiffré ses données. Bien que le système ait été restauré, l'incident a mis en lumière la nécessité urgente de renforcer les systèmes de sécurité des institutions publiques régionales. Les experts soulignent que ces organismes sont souvent vulnérables en raison de coupes budgétaires en matière de sécurité.",
+        "description": "",
+        "title": "경북TP ‘랜섬웨어’ 공격…공공기관 보안 강화해야",
+        "url": "https://v.daum.net/v/20260831220624476?f=p",
+        "added": "2026-09-01"
+    },
+    {
         "date": "2026-08-31",
         "victim": "Kommunix GmbH",
         "domain": "kommunix.de",
