@@ -1,5 +1,16 @@
 [
     {
+        "date": "2026-06-17",
+        "victim": "South Plains Rural Health Services, Inc. (SPRHS)",
+        "domain": "sprhs.org",
+        "country": "USA",
+        "summary": "Une organisation de santé rurale du Texas, South Plains Rural Health Services, Inc. (SPRHS), aurait été victime d'une cyberattaque par le groupe de ransomware PEAR. Selon les déclarations de PEAR, environ 1,4 To de données ont été exfiltrées. Ces données incluent des informations personnelles et médicales de milliers de patients, ainsi que des documents administratifs et d'entreprise. Il est important de noter que ces informations ne sont pas confirmées publiquement par SPRHS.",
+        "description": "",
+        "title": "PEAR leaks data allegedly exfiltrated from South Plains Rural Health Services while SPRHS remains silent - DataBreaches.Net",
+        "url": "https://databreaches.net/2026/08/29/pear-leaks-data-allegedly-exfiltrated-from-south-plains-rural-health-services-while-sprhs-remains-silent/",
+        "added": "2026-09-01"
+    },
+    {
         "date": "2026-08-31",
         "victim": "Préfecture de Cordoue",
         "domain": "cordoba.gov.co",
