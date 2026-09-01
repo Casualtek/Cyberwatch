@@ -1,5 +1,16 @@
 [
     {
+        "date": "2025-03-05",
+        "victim": "EETAA",
+        "domain": "eetaa.gr",
+        "country": "GR",
+        "summary": "L'Autorité de protection des données a sanctionné le Ministère de la Cohésion Sociale et de la Famille et l'EETAA (Société Hellénique de Développement Local et d'Autonomie) suite à une cyberattaque par ransomware. L'attaque, survenue entre le 1er et le 5 mars 2025, a affecté les systèmes d'information de l'EETAA et a compromis les données de 2,5 millions de personnes. Les sanctions incluent des amendes totales de 350 000 euros. L'Autorité a également souligné la négligence des deux entités, notamment l'absence de contrat de traitement de données valide entre elles au moment de l'incident, ce qui a aggravé la situation.",
+        "description": "",
+        "title": "Ransomware στην ΕΕΤΑΑ: Πρόστιμα 350.000 ευρώ για την παραβίαση δεδομένων 2,5 εκατ. προσώπων",
+        "url": "https://www.lawspot.gr/nomika-nea/ransomware-sten-eetaa-prostima-350000-euro-gia-ten-parabiase-dedomenon-25-ekat-prosopon/",
+        "added": "2026-09-01"
+    },
+    {
         "date": "2026-06-17",
         "victim": "South Plains Rural Health Services, Inc. (SPRHS)",
         "domain": "sprhs.org",
