@@ -237902,6 +237902,11 @@
                 "date": "2026-06-30",
                 "type": "claimed",
                 "group": "BrainCipher"
+            },
+            {
+                "date": "2026-06-13",
+                "type": "assessed",
+                "group": "BrainCipher"
             }
         ]
     },
