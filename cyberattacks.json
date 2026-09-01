@@ -1,5 +1,16 @@
 [
     {
+        "date": "2026-08-31",
+        "victim": "Kommunix GmbH",
+        "domain": "kommunix.de",
+        "country": "DEU",
+        "summary": "Le Landkreise Wolfenbüttel a été affecté par une cyberattaque ciblant le système de prise de rendez-vous en ligne, basé sur la plateforme Tevis, gérée par Kommunix. L'incident a entraîné la désactivation de ce service, notamment pour les rendez-vous prévus les 31 août et 1er septembre. La municipalité a confirmé une possible fuite de données personnelles des citoyens qui ont utilisé le portail par le passé.",
+        "description": "",
+        "title": "Cyberangriff Wolfenbüttel: Bürgerservices am 31. August offline",
+        "url": "https://borncity.com/news/cyberangriff-wolfenbuettel-buergerservices-am-31-august-offline/",
+        "added": "2026-09-01"
+    },
+    {
         "date": "2026-08-10",
         "victim": "Delta School District",
         "domain": "deltalearns.ca",
