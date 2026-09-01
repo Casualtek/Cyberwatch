@@ -1,5 +1,16 @@
 [
     {
+        "date": "2026-08-31",
+        "victim": "Préfecture de Cordoue",
+        "domain": "cordoba.gov.co",
+        "country": "COL",
+        "summary": "La préfecture de Cordoue a confirmé que l'infrastructure technologique de la Direction des recettes départementales avait été victime d'une cyberattaque, qui a temporairement paralysé le portail de paiement des impôts. Les autorités ont activé des protocoles d'urgence et mènent actuellement une analyse technique afin d'identifier le vecteur de l'attaque. À ce jour, il n'a pas été confirmé si des données des contribuables avaient été exposées ni s'il s'agissait d'une attaque de rançon.",
+        "description": "",
+        "title": "Ataque cibernético afectó los sistemas de Rentas Departamentales de Córdoba",
+        "url": "https://larazon.co/ataque-cibernetico-afecta-los-sistemas-de-rentas-departamentales-de-cordoba/",
+        "added": "2026-09-01"
+    },
+    {
         "date": "2026-07-31",
         "victim": "Technopark de Gyeongbuk",
         "domain": "gbtp.or.kr",
