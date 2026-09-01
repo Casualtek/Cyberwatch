@@ -1,5 +1,16 @@
 [
     {
+        "date": "2026-08-15",
+        "victim": "Novocure",
+        "domain": "novocure.com",
+        "country": "USA",
+        "summary": "L'entreprise d'oncologie Novocure a signalé un incident de sécurité cibernétique qui a exposé les dossiers internes de plus de 1 400 patients américains. L'accès non autorisé aux systèmes d'information a eu lieu à la mi-août.",
+        "description": "",
+        "title": "A empresa de oncologia Novocure afirma que um ataque cibernético expôs registros de pacientes nos EUA",
+        "url": "https://br.tradingview.com/news/reuters.com,2026:newsml_L1N44T0G7:0/",
+        "added": "2026-09-01"
+    },
+    {
         "date": "2025-03-05",
         "victim": "EETAA",
         "domain": "eetaa.gr",
