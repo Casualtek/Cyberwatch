@@ -1,5 +1,16 @@
 [
     {
+        "date": "2026-08-28",
+        "victim": "Park Dental Partners Inc.",
+        "domain": "parkdental.com",
+        "country": "USA",
+        "summary": "Park Dental Partners Inc., une entreprise de services dentaires américaine, a confirmé avoir détecté un accès non autorisé à son réseau informatique le 28 août. L'entreprise a immédiatement lancé des protocoles de réponse aux incidents et engagé des experts en cybersécurité et en criminalistique pour enquêter sur l'incident. Bien qu'aucune perturbation majeure des opérations commerciales n'ait été signalée à ce jour, l'entreprise évalue les impacts financiers, légaux et réputationnels potentiels, notamment en raison de l'accès possible aux données des patients.",
+        "description": "",
+        "title": "파크 덴탈 파트너스, 사이버 공격으로 네트워크 무단 침입 발생…\"환자 정보 유출 조사 중\"",
+        "url": "https://www.datatooza.com/article/202609020507032521cd1e7a1a5e_80",
+        "added": "2026-09-02"
+    },
+    {
         "date": "2026-08-31",
         "victim": "Salus di Trieste",
         "domain": "polifvg.it",
