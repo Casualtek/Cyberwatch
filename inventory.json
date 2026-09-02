@@ -16214,6 +16214,17 @@
                 "date": "2026-08-21",
                 "type": "claimed",
                 "group": "thegentlemen"
+            },
+            {
+                "date": "2026-09-02",
+                "type": "discovered",
+                "summary": "La société Akatake Engineering Co., Ltd. a annoncé le 13 août avoir été victime d'une infection par rançongiciel. L'entreprise a subi des pannes de système et mène une enquête avec des experts externes et la police pour déterminer l'étendue des dégâts, y compris une éventuelle fuite de données personnelles et de clients. Elle travaille également à la restauration rapide de ses systèmes.",
+                "title": "赤武エンジニアリングでランサムウェア感染によるシステム障害が発生 | ScanNetSecurity",
+                "url": "https://scan.netsecurity.ne.jp/article/2026/09/02/56105.html"
+            },
+            {
+                "date": "2026-08-13",
+                "type": "reported"
             }
         ]
     },
@@ -16401,6 +16412,18 @@
                 "date": "2026-03-04",
                 "type": "claimed",
                 "group": "nightspire"
+            }
+        ]
+    },
+    {
+        "victim": "Akpera Gayrimenkul Yatırım A.Ş.",
+        "domain": "akpera.com.tr",
+        "country": "TR",
+        "timeline": [
+            {
+                "date": "2026-08-28",
+                "type": "claimed",
+                "group": "Doommageddon"
             }
         ]
     },
@@ -20489,6 +20512,18 @@
         ]
     },
     {
+        "victim": "Alter Consultores Legales",
+        "domain": "alterconsultores.es",
+        "country": "ES",
+        "timeline": [
+            {
+                "date": "2026-08-28",
+                "type": "claimed",
+                "group": "qilin"
+            }
+        ]
+    },
+    {
         "victim": "Alternate Energy",
         "domain": "alternateenergyhawaii.com",
         "country": "US",
@@ -20756,6 +20791,18 @@
             {
                 "date": "2025-08-15",
                 "type": "assessed",
+                "group": "akira"
+            }
+        ]
+    },
+    {
+        "victim": "Alumax",
+        "domain": "alumax.com.br",
+        "country": "BR",
+        "timeline": [
+            {
+                "date": "2026-08-28",
+                "type": "claimed",
                 "group": "akira"
             }
         ]
@@ -22854,6 +22901,18 @@
             {
                 "date": "2024-10-03",
                 "type": "reported"
+            }
+        ]
+    },
+    {
+        "victim": "amzur.com",
+        "domain": "amzur.com",
+        "country": "BR",
+        "timeline": [
+            {
+                "date": "2026-08-28",
+                "type": "claimed",
+                "group": "unsafe"
             }
         ]
     },
@@ -31071,6 +31130,18 @@
                 "date": "2026-07-14",
                 "type": "claimed",
                 "group": "dragonforce"
+            }
+        ]
+    },
+    {
+        "victim": "Atcomm",
+        "domain": "atcomm.cn",
+        "country": "CN",
+        "timeline": [
+            {
+                "date": "2026-08-26",
+                "type": "claimed",
+                "group": "global"
             }
         ]
     },
@@ -42547,6 +42618,11 @@
         "country": "US",
         "timeline": [
             {
+                "date": "2026-08-28",
+                "type": "claimed",
+                "group": "akira"
+            },
+            {
                 "date": "2026-08-19",
                 "type": "assessed",
                 "group": "akira"
@@ -42907,6 +42983,29 @@
                 "date": "2023-12-19",
                 "type": "claimed",
                 "group": "toufan"
+            }
+        ]
+    },
+    {
+        "victim": "Berlin, Germany",
+        "domain": "berlin.de",
+        "country": "DE",
+        "timeline": [
+            {
+                "date": "2026-08-28",
+                "type": "claimed",
+                "group": "rhysida"
+            },
+            {
+                "date": "2026-08-18",
+                "type": "discovered",
+                "summary": "Le réseau de l'État de Berlin a été victime d'une cyberattaque. Deux administrations sénatoriales, celles de l'Aménagement du territoire et de la Mobilité, ont été isolées du réseau après la découverte d'une intrusion. L'attaque, attribuée à une vulnérabilité dans le système de l'administration de l'Aménagement du territoire, a entraîné un exfiltrage de données potentiellement sensibles. Les autorités sont en enquête, avec l'implication du parquet et du BSI.",
+                "title": "Hackerangriff auf Berliner Landesnetz verübt - sensible Daten abgeflossen",
+                "url": "https://www.rbb24.de/politik/beitrag/2026/08/berlin-landesnetz-sicherheitsvorfall-it-senatsverwaltung.html"
+            },
+            {
+                "date": "2026-08-15",
+                "type": "reported"
             }
         ]
     },
@@ -55771,6 +55870,18 @@
                 "date": "2023-10-19",
                 "type": "claimed",
                 "group": "alphv"
+            }
+        ]
+    },
+    {
+        "victim": "Caduceus Medical Group",
+        "domain": "caduceusmedicalgroup.com",
+        "country": "US",
+        "timeline": [
+            {
+                "date": "2026-08-28",
+                "type": "claimed",
+                "group": "anubis"
             }
         ]
     },
@@ -79795,6 +79906,18 @@
         ]
     },
     {
+        "victim": "corematerials.com",
+        "domain": "corematerials.com",
+        "country": "US",
+        "timeline": [
+            {
+                "date": "2026-08-28",
+                "type": "claimed",
+                "group": "chaos"
+            }
+        ]
+    },
+    {
         "victim": "corenroll.com",
         "domain": "corenroll.com",
         "country": "US",
@@ -80497,7 +80620,7 @@
         ]
     },
     {
-        "victim": "Cosmocolor",
+        "victim": "Cosmocolor SA de CV",
         "domain": "cosmocolor.com.mx",
         "country": "MX",
         "timeline": [
@@ -80505,6 +80628,11 @@
                 "date": "2024-03-14",
                 "type": "claimed",
                 "group": "hunters"
+            },
+            {
+                "date": "2026-08-28",
+                "type": "claimed",
+                "group": "qilin"
             }
         ]
     },
@@ -92650,6 +92778,18 @@
         ]
     },
     {
+        "victim": "Directorate-General for Education",
+        "domain": "dges.gov.pt",
+        "country": "PT",
+        "timeline": [
+            {
+                "date": "2026-08-28",
+                "type": "claimed",
+                "group": "Panzer"
+            }
+        ]
+    },
+    {
         "victim": "General Directorate of Taxes and Estates",
         "domain": "dgid.sn",
         "country": "SN",
@@ -93691,6 +93831,18 @@
                 "date": "2026-01-16",
                 "type": "claimed",
                 "group": "akira"
+            }
+        ]
+    },
+    {
+        "victim": "DigiGround",
+        "domain": "digiground.com.au",
+        "country": "AU",
+        "timeline": [
+            {
+                "date": "2026-08-28",
+                "type": "claimed",
+                "group": "qilin"
             }
         ]
     },
@@ -105172,6 +105324,18 @@
                 "date": "2025-03-09",
                 "type": "claimed",
                 "group": "dragonforce"
+            }
+        ]
+    },
+    {
+        "victim": "Elekta AB",
+        "domain": "elekta.com",
+        "country": "SE",
+        "timeline": [
+            {
+                "date": "2026-08-28",
+                "type": "claimed",
+                "group": "shinyhunters"
             }
         ]
     },
@@ -143311,6 +143475,18 @@
         ]
     },
     {
+        "victim": "Hanwha Renewables",
+        "domain": "hanwharenewables.com",
+        "country": "KR",
+        "timeline": [
+            {
+                "date": "2026-08-28",
+                "type": "claimed",
+                "group": "emperador"
+            }
+        ]
+    },
+    {
         "victim": "Hanzestrohm",
         "domain": "hanzestrohm.nl",
         "country": "NL",
@@ -155111,6 +155287,18 @@
         ]
     },
     {
+        "victim": "H.W. Lochner",
+        "domain": "hwlochner.com",
+        "country": "US",
+        "timeline": [
+            {
+                "date": "2026-08-28",
+                "type": "claimed",
+                "group": "payoutsking"
+            }
+        ]
+    },
+    {
         "victim": "Halliday Watkins Mann",
         "domain": "hwmlawfirm.com",
         "country": "US",
@@ -160720,6 +160908,18 @@
                 "date": "2026-07-26",
                 "type": "claimed",
                 "group": "genesis"
+            }
+        ]
+    },
+    {
+        "victim": "Infinnium",
+        "domain": "infinnium.com",
+        "country": "US",
+        "timeline": [
+            {
+                "date": "2026-08-28",
+                "type": "claimed",
+                "group": "qilin"
             }
         ]
     },
@@ -167156,6 +167356,18 @@
         ]
     },
     {
+        "victim": "Jack Henry & Associates",
+        "domain": "jackhenry.com",
+        "country": "US",
+        "timeline": [
+            {
+                "date": "2026-08-28",
+                "type": "claimed",
+                "group": "shinyhunters"
+            }
+        ]
+    },
+    {
         "victim": "Jacklett Construction LLC",
         "domain": "jacklett.com",
         "country": "",
@@ -171820,6 +172032,11 @@
         "domain": "jrtmechanical.com",
         "country": "US",
         "timeline": [
+            {
+                "date": "2026-08-28",
+                "type": "claimed",
+                "group": "akira"
+            },
             {
                 "date": "2026-08-01",
                 "type": "assessed",
@@ -194787,6 +195004,18 @@
         ]
     },
     {
+        "victim": "macallister.com",
+        "domain": "macallister.com",
+        "country": "GB",
+        "timeline": [
+            {
+                "date": "2026-08-28",
+                "type": "claimed",
+                "group": "chaos"
+            }
+        ]
+    },
+    {
         "victim": "maccarinelli.it",
         "domain": "maccarinelli.it",
         "country": "IT",
@@ -201852,6 +202081,29 @@
             },
             {
                 "date": "2025-04-15",
+                "type": "reported"
+            }
+        ]
+    },
+    {
+        "victim": "McKesson Corporation",
+        "domain": "mckesson.com",
+        "country": "US",
+        "timeline": [
+            {
+                "date": "2026-08-28",
+                "type": "claimed",
+                "group": "shinyhunters"
+            },
+            {
+                "date": "2026-08-31",
+                "type": "discovered",
+                "summary": "La société pharmaceutique et de technologie de la santé McKesson a été victime d'une cyberattaque menée par le groupe de cybercriminels ShinyHunters. L'attaque, qui a eu lieu vendredi soir, a permis aux pirates d'accéder à une application tierce non nommée et d'exfiltrer des données de clients, notamment celles des unités d'oncologie et de chirurgie. McKesson a informé les régulateurs et les clients, promettant des services de surveillance de crédit et de protection d'identité. Bien que l'entreprise ait reçu l'assurance que les pirates n'étaient plus dans ses systèmes, des problèmes de dégradation de service intermittente ont été signalés aux clients.",
+                "title": "Pharmaceutical giant McKesson warns of 'service degradation' following cyberattack",
+                "url": "https://therecord.media/mckesson-cyberattack-ransomware-pharma"
+            },
+            {
+                "date": "2026-08-28",
                 "type": "reported"
             }
         ]
@@ -223165,6 +223417,29 @@
         ]
     },
     {
+        "victim": "Newton County School System",
+        "domain": "newtoncountyschools.org",
+        "country": "US",
+        "timeline": [
+            {
+                "date": "2026-08-28",
+                "type": "claimed",
+                "group": "qilin"
+            },
+            {
+                "date": "2026-07-28",
+                "type": "discovered",
+                "summary": "Les Newton County Schools, situés en Géorgie, ont mis hors ligne leurs systèmes informatiques suite à la découverte d'une activité réseau non autorisée, juste avant la rentrée scolaire. Le district a fait appel à des spécialistes en cybersécurité pour enquêter et restaurer les opérations. Les autorités n'ont pas encore confirmé la nature de l'incident (ransomware, malware), ni si des données personnelles ont été compromises.",
+                "title": "Newton County Schools in Georgia takes systems offline after cyber incident",
+                "url": "https://dysruptionhub.com/newton-schools-georgia-cyber-incident/"
+            },
+            {
+                "date": "2026-07-27",
+                "type": "reported"
+            }
+        ]
+    },
+    {
         "victim": "Newton IT Solutions",
         "domain": "newtonit.co.uk",
         "country": "UK",
@@ -227946,6 +228221,17 @@
                 "date": "2026-06-24",
                 "type": "claimed",
                 "group": "shinyhunters"
+            },
+            {
+                "date": "2026-09-01",
+                "type": "discovered",
+                "summary": "L'entreprise d'oncologie Novocure a signalé un incident de sécurité cibernétique qui a exposé les dossiers internes de plus de 1 400 patients américains. L'accès non autorisé aux systèmes d'information a eu lieu à la mi-août.",
+                "title": "A empresa de oncologia Novocure afirma que um ataque cibernético expôs registros de pacientes nos EUA",
+                "url": "https://br.tradingview.com/news/reuters.com,2026:newsml_L1N44T0G7:0/"
+            },
+            {
+                "date": "2026-08-15",
+                "type": "reported"
             }
         ]
     },
@@ -248367,6 +248653,18 @@
         ]
     },
     {
+        "victim": "Bayview Real Estate WARNING",
+        "domain": "pm.livable.com",
+        "country": "US",
+        "timeline": [
+            {
+                "date": "2026-08-28",
+                "type": "claimed",
+                "group": "ShadowByt3$"
+            }
+        ]
+    },
+    {
         "victim": "PMA",
         "domain": "pmacanada.com",
         "country": "CA",
@@ -253454,6 +253752,18 @@
         ]
     },
     {
+        "victim": "ProCare",
+        "domain": "procarehr.com",
+        "country": "US",
+        "timeline": [
+            {
+                "date": "2026-08-28",
+                "type": "claimed",
+                "group": "moneymessage"
+            }
+        ]
+    },
+    {
         "victim": "processsolutions.com",
         "domain": "processsolutions.com",
         "country": "US",
@@ -256936,6 +257246,18 @@
                 "date": "2023-08-28",
                 "type": "claimed",
                 "group": "noescape"
+            }
+        ]
+    },
+    {
+        "victim": "Hangzhou Qihan Biotech Co., Ltd.",
+        "domain": "qihanbio.com",
+        "country": "CN",
+        "timeline": [
+            {
+                "date": "2026-08-12",
+                "type": "claimed",
+                "group": "global"
             }
         ]
     },
@@ -286301,6 +286623,18 @@
         ]
     },
     {
+        "victim": "SITTNAK Lojistik A.Ş.",
+        "domain": "sittnak.com.tr",
+        "country": "TR",
+        "timeline": [
+            {
+                "date": "2026-08-28",
+                "type": "claimed",
+                "group": "Doommageddon"
+            }
+        ]
+    },
+    {
         "victim": "SitusAMC",
         "domain": "situsamc.com",
         "country": "US",
@@ -293123,6 +293457,17 @@
                 "date": "2026-06-17",
                 "type": "claimed",
                 "group": "pear"
+            },
+            {
+                "date": "2026-09-01",
+                "type": "discovered",
+                "summary": "Une organisation de santé rurale du Texas, South Plains Rural Health Services, Inc. (SPRHS), aurait été victime d'une cyberattaque par le groupe de ransomware PEAR. Selon les déclarations de PEAR, environ 1,4 To de données ont été exfiltrées. Ces données incluent des informations personnelles et médicales de milliers de patients, ainsi que des documents administratifs et d'entreprise. Il est important de noter que ces informations ne sont pas confirmées publiquement par SPRHS.",
+                "title": "PEAR leaks data allegedly exfiltrated from South Plains Rural Health Services while SPRHS remains silent - DataBreaches.Net",
+                "url": "https://databreaches.net/2026/08/29/pear-leaks-data-allegedly-exfiltrated-from-south-plains-rural-health-services-while-sprhs-remains-silent/"
+            },
+            {
+                "date": "2026-06-17",
+                "type": "reported"
             }
         ]
     },
@@ -295736,6 +296081,18 @@
                 "date": "2023-06-15",
                 "type": "claimed",
                 "group": "lockbit3"
+            }
+        ]
+    },
+    {
+        "victim": "Shanghai Tunnel Engineering Co Ltd",
+        "domain": "stecs.com.sg",
+        "country": "SG",
+        "timeline": [
+            {
+                "date": "2026-08-19",
+                "type": "claimed",
+                "group": "global"
             }
         ]
     },
@@ -313653,6 +314010,18 @@
         ]
     },
     {
+        "victim": "tnmed.org",
+        "domain": "tnmed.org",
+        "country": "TN",
+        "timeline": [
+            {
+                "date": "2026-08-27",
+                "type": "claimed",
+                "group": "lockbit5"
+            }
+        ]
+    },
+    {
         "victim": "Trans-Northern Pipelines",
         "domain": "tnpi.ca",
         "country": "CA",
@@ -316148,6 +316517,18 @@
                 "date": "2025-03-30",
                 "type": "claimed",
                 "group": "safepay"
+            }
+        ]
+    },
+    {
+        "victim": "Tramigo",
+        "domain": "tramigo.com",
+        "country": "FI",
+        "timeline": [
+            {
+                "date": "2026-08-28",
+                "type": "claimed",
+                "group": "qilin"
             }
         ]
     },
@@ -330331,6 +330712,18 @@
         ]
     },
     {
+        "victim": "Valley Health Team",
+        "domain": "vht.org",
+        "country": "US",
+        "timeline": [
+            {
+                "date": "2026-08-28",
+                "type": "claimed",
+                "group": "rhysida"
+            }
+        ]
+    },
+    {
         "victim": "via-optronics",
         "domain": "via-optronics.com",
         "country": "DE",
@@ -330892,6 +331285,18 @@
                 "date": "2025-11-19",
                 "type": "assessed",
                 "group": "play"
+            }
+        ]
+    },
+    {
+        "victim": "Vigilia",
+        "domain": "vigilia.com.uy",
+        "country": "UY",
+        "timeline": [
+            {
+                "date": "2026-08-06",
+                "type": "claimed",
+                "group": "global"
             }
         ]
     },
@@ -339388,6 +339793,18 @@
         "timeline": [
             {
                 "date": "2026-08-17",
+                "type": "claimed",
+                "group": "qilin"
+            }
+        ]
+    },
+    {
+        "victim": "Whitehouse",
+        "domain": "whitehouseandco.com",
+        "country": "GB",
+        "timeline": [
+            {
+                "date": "2026-08-28",
                 "type": "claimed",
                 "group": "qilin"
             }
