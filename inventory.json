@@ -149878,6 +149878,11 @@
                 "date": "2026-08-12",
                 "type": "claimed",
                 "group": "kairos"
+            },
+            {
+                "date": "2026-07-20",
+                "type": "assessed",
+                "group": "kairos"
             }
         ]
     },
