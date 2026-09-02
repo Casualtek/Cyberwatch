@@ -315543,6 +315543,11 @@
                 "date": "2026-07-25",
                 "type": "claimed",
                 "group": "kairos"
+            },
+            {
+                "date": "2026-07-13",
+                "type": "assessed",
+                "group": "kairos"
             }
         ]
     },
