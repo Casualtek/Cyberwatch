@@ -1,5 +1,16 @@
 [
     {
+        "date": "2026-09-02",
+        "victim": "Ministère de la Transition écologique",
+        "domain": "ecologie.gouv.fr",
+        "country": "FRA",
+        "summary": "Plusieurs sites internet gouvernementaux liés au ministère de la Transition écologique sont inaccessibles suite à une cyberattaque revendiquée par un utilisateur anonyme sur un forum criminel. L'Agence nationale de la sécurité des systèmes d'information (Anssi) mène des investigations suite à des suspicions de compromission de comptes utilisateurs. L'incident a entraîné des dysfonctionnements et l'interruption temporaire de certains services numériques, notamment dans la préfecture de la Creuse.",
+        "description": "",
+        "title": "Plusieurs sites internet gouvernementaux liés au ministère de la Transition écologique inaccessibles",
+        "url": "https://www.france24.com/fr/info-en-continu/20260902-plusieurs-sites-internet-gouvernementaux-liés-au-ministère-de-la-transition-écologique-inaccessibles",
+        "added": "2026-09-02"
+    },
+    {
         "date": "2026-05-26",
         "victim": "Cornerstone Behavioral Healthcare",
         "domain": "cornerstonebhc.com",
