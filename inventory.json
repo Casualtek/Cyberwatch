@@ -20076,6 +20076,18 @@
         ]
     },
     {
+        "victim": "www.alphaplantes.com",
+        "domain": "alphaplantes.com",
+        "country": "CA",
+        "timeline": [
+            {
+                "date": "2026-09-01",
+                "type": "claimed",
+                "group": "krybit"
+            }
+        ]
+    },
+    {
         "victim": "alphascriptrx.com",
         "domain": "alphascriptrx.com",
         "country": "US",
@@ -22743,6 +22755,18 @@
                 "date": "2024-10-04",
                 "type": "claimed",
                 "group": "hunters"
+            }
+        ]
+    },
+    {
+        "victim": "amptc.net",
+        "domain": "amptc.net",
+        "country": "US",
+        "timeline": [
+            {
+                "date": "2026-09-01",
+                "type": "claimed",
+                "group": "krybit"
             }
         ]
     },
@@ -55339,6 +55363,18 @@
         ]
     },
     {
+        "victim": "BYK Construction",
+        "domain": "bykconstruction.com",
+        "country": "US",
+        "timeline": [
+            {
+                "date": "2026-09-01",
+                "type": "claimed",
+                "group": "akira"
+            }
+        ]
+    },
+    {
         "victim": "Byonyks",
         "domain": "byonyks.com",
         "country": "US",
@@ -58836,6 +58872,18 @@
         ]
     },
     {
+        "victim": "CareerSource Palm Beach County",
+        "domain": "careersourcepbc.com",
+        "country": "US",
+        "timeline": [
+            {
+                "date": "2026-09-01",
+                "type": "claimed",
+                "group": "thegentlemen"
+            }
+        ]
+    },
+    {
         "victim": "Careium",
         "domain": "careium.se",
         "country": "SE",
@@ -62216,6 +62264,18 @@
         "timeline": [
             {
                 "date": "2026-08-21",
+                "type": "claimed",
+                "group": "qilin"
+            }
+        ]
+    },
+    {
+        "victim": "Commission de la construction du Quebec",
+        "domain": "ccq.org",
+        "country": "CA",
+        "timeline": [
+            {
+                "date": "2026-09-01",
                 "type": "claimed",
                 "group": "qilin"
             }
@@ -77996,6 +78056,18 @@
                 "date": "2024-06-27",
                 "type": "assessed",
                 "group": "play"
+            }
+        ]
+    },
+    {
+        "victim": "Congressional Iron Works",
+        "domain": "congressionalironworks.com",
+        "country": "US",
+        "timeline": [
+            {
+                "date": "2026-09-01",
+                "type": "claimed",
+                "group": "akira"
             }
         ]
     },
@@ -96273,6 +96345,18 @@
             {
                 "date": "2026-06-01",
                 "type": "reported"
+            }
+        ]
+    },
+    {
+        "victim": "dmt-group.com",
+        "domain": "dmt-group.com",
+        "country": "DE",
+        "timeline": [
+            {
+                "date": "2026-09-01",
+                "type": "claimed",
+                "group": "krybit"
             }
         ]
     },
@@ -121361,6 +121445,18 @@
         ]
     },
     {
+        "victim": "Flex1",
+        "domain": "flex1.space",
+        "country": "CA",
+        "timeline": [
+            {
+                "date": "2026-09-01",
+                "type": "claimed",
+                "group": "akira"
+            }
+        ]
+    },
+    {
         "victim": "Flexform",
         "domain": "flexform.it",
         "country": "IT",
@@ -146098,6 +146194,18 @@
         ]
     },
     {
+        "victim": "hccd-construction.com",
+        "domain": "hccd-construction.com",
+        "country": "US",
+        "timeline": [
+            {
+                "date": "2026-09-01",
+                "type": "claimed",
+                "group": "krybit"
+            }
+        ]
+    },
+    {
         "victim": "hccs.edu",
         "domain": "hccs.edu",
         "country": "US",
@@ -150854,6 +150962,18 @@
         ]
     },
     {
+        "victim": "Holland & Knight",
+        "domain": "hklaw.com",
+        "country": "US",
+        "timeline": [
+            {
+                "date": "2026-09-01",
+                "type": "claimed",
+                "group": "SilentRansomGroup"
+            }
+        ]
+    },
+    {
         "victim": "Hardin, Kundla, McKeon, & Poletto, P.C.",
         "domain": "hkmpp.com",
         "country": "US",
@@ -152347,6 +152467,18 @@
                 "date": "2023-11-28",
                 "type": "claimed",
                 "group": "8base"
+            }
+        ]
+    },
+    {
+        "victim": "Honeycomb Programs Inc",
+        "domain": "honeycombinsurance.com",
+        "country": "US",
+        "timeline": [
+            {
+                "date": "2026-09-01",
+                "type": "claimed",
+                "group": "direwolf"
             }
         ]
     },
@@ -164566,6 +164698,18 @@
         ]
     },
     {
+        "victim": "PT Intraco Penta Tbk",
+        "domain": "intracopenta.com",
+        "country": "ID",
+        "timeline": [
+            {
+                "date": "2026-09-01",
+                "type": "claimed",
+                "group": "direwolf"
+            }
+        ]
+    },
+    {
         "victim": "intrama-bg",
         "domain": "intrama-bg.com",
         "country": "BG",
@@ -166929,10 +167073,15 @@
         ]
     },
     {
-        "victim": "Italtel",
+        "victim": "Italtel Peru",
         "domain": "italtel.com",
-        "country": "IT",
+        "country": "PE",
         "timeline": [
+            {
+                "date": "2026-09-01",
+                "type": "claimed",
+                "group": "everest"
+            },
             {
                 "date": "2023-09-25",
                 "type": "discovered",
@@ -167822,6 +167971,18 @@
                 "date": "2025-10-02",
                 "type": "claimed",
                 "group": "sinobi"
+            }
+        ]
+    },
+    {
+        "victim": "iwin",
+        "domain": "iwin.kr",
+        "country": "KR",
+        "timeline": [
+            {
+                "date": "2026-08-28",
+                "type": "claimed",
+                "group": "Black X"
             }
         ]
     },
@@ -172888,6 +173049,18 @@
                 "date": "2026-01-05",
                 "type": "assessed",
                 "group": "akira"
+            }
+        ]
+    },
+    {
+        "victim": "jswlaw.bt",
+        "domain": "jswlaw.bt",
+        "country": "BT",
+        "timeline": [
+            {
+                "date": "2026-09-01",
+                "type": "claimed",
+                "group": "krybit"
             }
         ]
     },
@@ -186729,6 +186902,18 @@
         ]
     },
     {
+        "victim": "Lawter",
+        "domain": "lawter.com",
+        "country": "US",
+        "timeline": [
+            {
+                "date": "2026-09-01",
+                "type": "claimed",
+                "group": "medusalocker"
+            }
+        ]
+    },
+    {
         "victim": "Law Offices of Thomas J Skinner, IV",
         "domain": "lawtjs.com",
         "country": "US",
@@ -196413,6 +196598,29 @@
         ]
     },
     {
+        "victim": "Manchester Airports Group",
+        "domain": "magairports.com",
+        "country": "GB",
+        "timeline": [
+            {
+                "date": "2026-09-01",
+                "type": "claimed",
+                "group": "fulcrumsec"
+            },
+            {
+                "date": "2026-08-27",
+                "type": "discovered",
+                "summary": "Le groupe Manchester Airports Group (MAG), propriétaire des aéroports de Manchester, Stansted et East Midlands, a subi une cyberattaque. Un tiers non autorisé a accédé à des données clients liées au stationnement, aux salons, aux réservations Fast Track et aux inscriptions au Wi-Fi. Les informations compromises incluent les adresses e-mail, les numéros de téléphone, les immatriculations de véhicules et les codes postaux. MAG a confirmé que les détails bancaires ou de paiement des clients n'ont pas été exposés. Les clients affectés sont contactés pour les avertir de la nécessité d'être vigilants face aux communications suspectes.",
+                "title": "Airport Cyber Attack Hits Manchester, Stansted and East Midlands",
+                "url": "https://the-european.eu/story-65173/cyber-attack-hits-manchester-stansted-and-east-midlands-airports-as-customer-data-stolen.html"
+            },
+            {
+                "date": "2026-08-26",
+                "type": "reported"
+            }
+        ]
+    },
+    {
         "victim": "MagaluPay",
         "domain": "magalupay.com.br",
         "country": "BR",
@@ -204016,6 +204224,18 @@
                 "date": "2026-08-19",
                 "type": "claimed",
                 "group": "threeam"
+            }
+        ]
+    },
+    {
+        "victim": "meccahighfeed.blogspot.com",
+        "domain": "meccahighfeed.blogspot.com",
+        "country": "SA",
+        "timeline": [
+            {
+                "date": "2026-09-01",
+                "type": "claimed",
+                "group": "krybit"
             }
         ]
     },
@@ -230795,6 +231015,29 @@
         ]
     },
     {
+        "victim": "Nutex Health",
+        "domain": "nutexhealth.com",
+        "country": "US",
+        "timeline": [
+            {
+                "date": "2026-09-01",
+                "type": "claimed",
+                "group": "thegentlemen"
+            },
+            {
+                "date": "2026-08-25",
+                "type": "discovered",
+                "summary": "Nutex, un fournisseur de services de santé, enquête sur une violation de données où un tiers non autorisé a exfiltré des informations des serveurs de l'entreprise. L'incident a été divulgué à la SEC, et la société a engagé des spécialistes externes pour gérer la crise. Nutex n'a pas encore déterminé le type de données compromises (patients, employés, etc.) ni l'impact sur ses opérations.",
+                "title": "Hospital operator Nutex Health says data stolen in cyberattack",
+                "url": "https://www.bleepingcomputer.com/news/security/hospital-operator-nutex-health-says-data-stolen-in-cyberattack/"
+            },
+            {
+                "date": "2026-08-24",
+                "type": "reported"
+            }
+        ]
+    },
+    {
         "victim": "Nutis Press",
         "domain": "nutis.com",
         "country": "US",
@@ -235743,6 +235986,18 @@
         ]
     },
     {
+        "victim": "Oportunidados",
+        "domain": "oportunidados.com.br",
+        "country": "BR",
+        "timeline": [
+            {
+                "date": "2026-09-01",
+                "type": "claimed",
+                "group": "direwolf"
+            }
+        ]
+    },
+    {
         "victim": "OnePoint Patient Care",
         "domain": "oppc.com",
         "country": "US",
@@ -236530,6 +236785,18 @@
                 "date": "2026-01-27",
                 "type": "claimed",
                 "group": "nightspire"
+            }
+        ]
+    },
+    {
+        "victim": "orex.co.th",
+        "domain": "orex.co.th",
+        "country": "TH",
+        "timeline": [
+            {
+                "date": "2026-09-01",
+                "type": "claimed",
+                "group": "krybit"
             }
         ]
     },
@@ -258751,6 +259018,18 @@
         ]
     },
     {
+        "victim": "Quality Resource Pvt",
+        "domain": "qualityresourcepvt.com",
+        "country": "US",
+        "timeline": [
+            {
+                "date": "2026-09-01",
+                "type": "claimed",
+                "group": "Global Secret Group"
+            }
+        ]
+    },
+    {
         "victim": "Quanterm Logistics Sdn Bhd",
         "domain": "quanterm.com",
         "country": "MY",
@@ -263352,6 +263631,18 @@
         ]
     },
     {
+        "victim": "reignwoodpark.com",
+        "domain": "reignwoodpark.com",
+        "country": "CN",
+        "timeline": [
+            {
+                "date": "2026-09-01",
+                "type": "claimed",
+                "group": "krybit"
+            }
+        ]
+    },
+    {
         "victim": "Reilly Foam Corp",
         "domain": "reillyfoam.com",
         "country": "US",
@@ -264876,6 +265167,29 @@
                 "date": "2024-05-08",
                 "type": "claimed",
                 "group": "embargo"
+            }
+        ]
+    },
+    {
+        "victim": "REXT Holdings Co., Ltd.",
+        "domain": "rext.jp",
+        "country": "JP",
+        "timeline": [
+            {
+                "date": "2026-09-01",
+                "type": "claimed",
+                "group": "ransomhouse"
+            },
+            {
+                "date": "2026-08-12",
+                "type": "discovered",
+                "summary": "Le 9 août 2026, la société REXT, prestataire pour le service « APORITO » de l'entreprise RIZAP, a été victime d'une attaque par ransomware. L'intrusion a provoqué des pannes sur une partie du réseau interne de REXT, entraînant une limitation de certains services d'APORITO. RIZAP collabore actuellement avec REXT pour déterminer l'étendue des dommages et identifier la cause précise de l'incident.",
+                "title": "当社「APORITO」事業におけるシステム障害および一部店舗のサービス停止について｜RIZAP株式会社",
+                "url": "https://rizap.co.jp/news/7D0KEiFZ"
+            },
+            {
+                "date": "2026-08-09",
+                "type": "reported"
             }
         ]
     },
@@ -266918,6 +267232,18 @@
                 "date": "2025-06-04",
                 "type": "claimed",
                 "group": "sarcoma"
+            }
+        ]
+    },
+    {
+        "victim": "Rise UP",
+        "domain": "riseup.ai",
+        "country": "",
+        "timeline": [
+            {
+                "date": "2026-09-01",
+                "type": "claimed",
+                "group": "everest"
             }
         ]
     },
@@ -277678,6 +278004,18 @@
         ]
     },
     {
+        "victim": "SCHMIDT",
+        "domain": "schmidtmfg.com",
+        "country": "US",
+        "timeline": [
+            {
+                "date": "2026-09-01",
+                "type": "claimed",
+                "group": "bravox"
+            }
+        ]
+    },
+    {
         "victim": "Schmidt's",
         "domain": "schmidts.at",
         "country": "AT",
@@ -279633,6 +279971,18 @@
                 "date": "2026-08-15",
                 "type": "claimed",
                 "group": "spacebears"
+            }
+        ]
+    },
+    {
+        "victim": "seashellhospital.com",
+        "domain": "seashellhospital.com",
+        "country": "IN",
+        "timeline": [
+            {
+                "date": "2026-09-01",
+                "type": "claimed",
+                "group": "krybit"
             }
         ]
     },
@@ -292721,6 +293071,18 @@
         ]
     },
     {
+        "victim": "southsign.in",
+        "domain": "southsign.in",
+        "country": "IN",
+        "timeline": [
+            {
+                "date": "2026-09-01",
+                "type": "claimed",
+                "group": "krybit"
+            }
+        ]
+    },
+    {
         "victim": "SouthState Bank",
         "domain": "southstatebank.com",
         "country": "US",
@@ -304401,6 +304763,18 @@
         ]
     },
     {
+        "victim": "Szechenyi Programiroda Nonprofit Kf",
+        "domain": "szpi.hu",
+        "country": "HU",
+        "timeline": [
+            {
+                "date": "2026-09-01",
+                "type": "claimed",
+                "group": "rhysida"
+            }
+        ]
+    },
+    {
         "victim": "SP ZOZ Szpital Specjalistyczny MSWiA w Złocieńcu (Centre de Santé Psychique de Drawsko Pomorskie)",
         "domain": "szpitalkansk.pl",
         "country": "PL",
@@ -309512,7 +309886,7 @@
         ]
     },
     {
-        "victim": "TERRA*** & MON****",
+        "victim": "TERRACOM & MONTCAU",
         "domain": "terracom.es",
         "country": "ES",
         "timeline": [
@@ -309697,6 +310071,18 @@
                 "date": "2026-06-10",
                 "type": "claimed",
                 "group": "qilin"
+            }
+        ]
+    },
+    {
+        "victim": "Total Education Solutions",
+        "domain": "tesidea.com",
+        "country": "US",
+        "timeline": [
+            {
+                "date": "2026-09-01",
+                "type": "claimed",
+                "group": "Wallstreet"
             }
         ]
     },
@@ -312550,6 +312936,18 @@
                 "date": "2023-04-18",
                 "type": "claimed",
                 "group": "lockbit3"
+            }
+        ]
+    },
+    {
+        "victim": "The Sole",
+        "domain": "thesole.com",
+        "country": "GB",
+        "timeline": [
+            {
+                "date": "2026-09-01",
+                "type": "claimed",
+                "group": "thegentlemen"
             }
         ]
     },
@@ -318125,6 +318523,23 @@
         ]
     },
     {
+        "victim": "transportesmontejo.com",
+        "domain": "transportesmontejo.com",
+        "country": "MX",
+        "timeline": [
+            {
+                "date": "2026-09-01",
+                "type": "claimed",
+                "group": "krybit"
+            },
+            {
+                "date": "2026-09-01",
+                "type": "claimed",
+                "group": "nightspire"
+            }
+        ]
+    },
+    {
         "victim": "Transport Laberge",
         "domain": "transportlaberge.com",
         "country": "CA",
@@ -321577,6 +321992,18 @@
         ]
     },
     {
+        "victim": "tum.com.mx",
+        "domain": "tum.com.mx",
+        "country": "MX",
+        "timeline": [
+            {
+                "date": "2026-09-01",
+                "type": "claimed",
+                "group": "krybit"
+            }
+        ]
+    },
+    {
         "victim": "Tunad",
         "domain": "tunad.io",
         "country": "NO",
@@ -323980,6 +324407,18 @@
             {
                 "date": "2023-12-21",
                 "type": "reported"
+            }
+        ]
+    },
+    {
+        "victim": "uicc.org",
+        "domain": "uicc.org",
+        "country": "CH",
+        "timeline": [
+            {
+                "date": "2026-09-01",
+                "type": "claimed",
+                "group": "krybit"
             }
         ]
     },
@@ -330471,6 +330910,18 @@
         ]
     },
     {
+        "victim": "vedantaainstitute.in",
+        "domain": "vedantaainstitute.in",
+        "country": "IN",
+        "timeline": [
+            {
+                "date": "2026-09-01",
+                "type": "claimed",
+                "group": "krybit"
+            }
+        ]
+    },
+    {
         "victim": "Veeco",
         "domain": "veeco.com",
         "country": "US",
@@ -334336,14 +334787,19 @@
         ]
     },
     {
-        "victim": "Vivtok",
+        "victim": "VIVOTEK",
         "domain": "vivotek.com",
-        "country": "",
+        "country": "TW",
         "timeline": [
             {
                 "date": "2023-08-31",
                 "type": "claimed",
                 "group": "stormous"
+            },
+            {
+                "date": "2026-09-01",
+                "type": "claimed",
+                "group": "everest"
             }
         ]
     },
