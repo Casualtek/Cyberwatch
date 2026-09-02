@@ -35825,6 +35825,11 @@
                 "date": "2026-08-20",
                 "type": "claimed",
                 "group": "kairos"
+            },
+            {
+                "date": "2026-08-12",
+                "type": "assessed",
+                "group": "kairos"
             }
         ]
     },
