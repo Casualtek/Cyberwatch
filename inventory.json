@@ -337351,6 +337351,18 @@
         ]
     },
     {
+        "victim": "Warwick Fabrics",
+        "domain": "warwick.com.nz",
+        "country": "NZ",
+        "timeline": [
+            {
+                "date": "2026-07-14",
+                "type": "assessed",
+                "group": "kairos"
+            }
+        ]
+    },
+    {
         "victim": "Warwick Hotels and Resorts",
         "domain": "warwickhotels.com",
         "country": "US",
