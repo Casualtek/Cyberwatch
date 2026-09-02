@@ -8399,6 +8399,18 @@
         ]
     },
     {
+        "victim": "Absolute Consultancy Services",
+        "domain": "absolutecs.co.uk",
+        "country": "GB",
+        "timeline": [
+            {
+                "date": "2026-08-30",
+                "type": "claimed",
+                "group": "qilin"
+            }
+        ]
+    },
+    {
         "victim": "Absolute Machine Tools",
         "domain": "absolutemachine.com",
         "country": "US",
@@ -10295,6 +10307,11 @@
         "timeline": [
             {
                 "date": "2026-08-15",
+                "type": "claimed",
+                "group": "ZaWoo"
+            },
+            {
+                "date": "2026-08-15",
                 "type": "assessed",
                 "group": "ZaWoo"
             }
@@ -11642,6 +11659,18 @@
                 "date": "2026-01-02",
                 "type": "assessed",
                 "group": "lockbit5"
+            }
+        ]
+    },
+    {
+        "victim": "Adkisson Group",
+        "domain": "adkissondevelopment.com",
+        "country": "US",
+        "timeline": [
+            {
+                "date": "2026-08-30",
+                "type": "claimed",
+                "group": "thegentlemen"
             }
         ]
     },
@@ -23581,6 +23610,29 @@
                 "date": "2024-12-29",
                 "type": "assessed",
                 "group": "qilin"
+            }
+        ]
+    },
+    {
+        "victim": "Andover",
+        "domain": "andoverma.gov",
+        "country": "US",
+        "timeline": [
+            {
+                "date": "2026-08-30",
+                "type": "claimed",
+                "group": "Wallstreet"
+            },
+            {
+                "date": "2026-08-23",
+                "type": "discovered",
+                "summary": "La ville d'Andover, MA, a subi une cyberattaque ayant entraîné une panne réseau de quatre jours. L'incident a été détecté le 13 août et a perturbé les services municipaux et le calendrier de publication des affectations des enseignants pour les familles des écoles publiques. Bien que les systèmes aient été restaurés le 17 août, les autorités n'ont pas précisé la cause, la méthode d'accès ou si des données ont été compromises.",
+                "title": "Cyberattack Caused Four-Day Network Outage For Town, APS | Andover News",
+                "url": "https://andovermanews.com/cyberattack-caused-four-day-network-outage-for-town-aps/"
+            },
+            {
+                "date": "2026-08-13",
+                "type": "reported"
             }
         ]
     },
@@ -42861,6 +42913,18 @@
         ]
     },
     {
+        "victim": "berghotel-oberhof.de",
+        "domain": "berghotel-oberhof.de",
+        "country": "DE",
+        "timeline": [
+            {
+                "date": "2026-08-18",
+                "type": "claimed",
+                "group": "ZaWoo"
+            }
+        ]
+    },
+    {
         "victim": "Berg Lilly",
         "domain": "berglilly.com",
         "country": "US",
@@ -46524,12 +46588,17 @@
         ]
     },
     {
-        "victim": "Black Cat Engineering & Construction WLL",
+        "victim": "Black Cat Engineering Construction Wll",
         "domain": "blackcat.com.qa",
         "country": "QA",
         "timeline": [
             {
                 "date": "2026-08-23",
+                "type": "claimed",
+                "group": "qilin"
+            },
+            {
+                "date": "2026-08-30",
                 "type": "claimed",
                 "group": "qilin"
             }
@@ -49464,6 +49533,18 @@
         ]
     },
     {
+        "victim": "BOTEC-CZ",
+        "domain": "botec.com",
+        "country": "DE",
+        "timeline": [
+            {
+                "date": "2026-08-18",
+                "type": "claimed",
+                "group": "ZaWoo"
+            }
+        ]
+    },
+    {
         "victim": "Botek",
         "domain": "botek.de",
         "country": "DE",
@@ -50865,6 +50946,18 @@
                 "date": "2025-08-03",
                 "type": "assessed",
                 "group": "qilin"
+            }
+        ]
+    },
+    {
+        "victim": "Brebur",
+        "domain": "breburltd.co.uk",
+        "country": "GB",
+        "timeline": [
+            {
+                "date": "2026-08-30",
+                "type": "claimed",
+                "group": "thegentlemen"
             }
         ]
     },
@@ -83795,6 +83888,18 @@
         ]
     },
     {
+        "victim": "Crystalpharmatech",
+        "domain": "crystalbiosolutions.com",
+        "country": "",
+        "timeline": [
+            {
+                "date": "2026-08-30",
+                "type": "claimed",
+                "group": "qilin"
+            }
+        ]
+    },
+    {
         "victim": "Crystal Coast Pain Management",
         "domain": "crystalcoastpm.com",
         "country": "US",
@@ -96103,6 +96208,11 @@
         "domain": "dnow.com",
         "country": "US",
         "timeline": [
+            {
+                "date": "2026-07-14",
+                "type": "claimed",
+                "group": "Falcon"
+            },
             {
                 "date": "2026-07-14",
                 "type": "assessed",
@@ -110111,6 +110221,18 @@
         ]
     },
     {
+        "victim": "Erdem Hospital",
+        "domain": "erdemhastahanesi.com.tr",
+        "country": "TR",
+        "timeline": [
+            {
+                "date": "2026-08-30",
+                "type": "claimed",
+                "group": "direwolf"
+            }
+        ]
+    },
+    {
         "victim": "Rescue Mission Alliance",
         "domain": "erescuemission.org",
         "country": "US",
@@ -110625,6 +110747,18 @@
         ]
     },
     {
+        "victim": "ESB Puerto Rico Corp",
+        "domain": "esbpr.com",
+        "country": "PR",
+        "timeline": [
+            {
+                "date": "2026-08-30",
+                "type": "claimed",
+                "group": "thegentlemen"
+            }
+        ]
+    },
+    {
         "victim": "Esc Pau Etudes-Conseils",
         "domain": "esc-pau.fr",
         "country": "FR",
@@ -111019,6 +111153,18 @@
                 "date": "2026-07-10",
                 "type": "claimed",
                 "group": "Deadlock"
+            }
+        ]
+    },
+    {
+        "victim": "esopartnerscpa",
+        "domain": "esopartnerscpa.com",
+        "country": "CN",
+        "timeline": [
+            {
+                "date": "2026-08-18",
+                "type": "claimed",
+                "group": "ZaWoo"
             }
         ]
     },
@@ -113499,6 +113645,18 @@
                 "date": "2023-04-25",
                 "type": "claimed",
                 "group": "lockbit3"
+            }
+        ]
+    },
+    {
+        "victim": "Exacta Optech Labcenter",
+        "domain": "exactaoptech.com",
+        "country": "BR",
+        "timeline": [
+            {
+                "date": "2026-08-30",
+                "type": "claimed",
+                "group": "thegentlemen"
             }
         ]
     },
@@ -117359,6 +117517,18 @@
         ]
     },
     {
+        "victim": "FE CREDIT",
+        "domain": "fecredit.com.vn",
+        "country": "VN",
+        "timeline": [
+            {
+                "date": "2026-08-28",
+                "type": "claimed",
+                "group": "Black X"
+            }
+        ]
+    },
+    {
         "victim": "www.fecrwy.com",
         "domain": "fecrwy.com",
         "country": "US",
@@ -118061,10 +118231,15 @@
         ]
     },
     {
-        "victim": "fes-sport.de",
+        "victim": "fessport",
         "domain": "fes-sport.de",
         "country": "DE",
         "timeline": [
+            {
+                "date": "2026-08-18",
+                "type": "claimed",
+                "group": "ZaWoo"
+            },
             {
                 "date": "2026-07-06",
                 "type": "assessed",
@@ -125223,6 +125398,18 @@
         ]
     },
     {
+        "victim": "frm.ind.br",
+        "domain": "frm.ind.br",
+        "country": "BR",
+        "timeline": [
+            {
+                "date": "2026-08-18",
+                "type": "claimed",
+                "group": "ZaWoo"
+            }
+        ]
+    },
+    {
         "victim": "Fromm (FrommBeauty.com)",
         "domain": "frommbeauty.com",
         "country": "US",
@@ -130091,6 +130278,18 @@
         ]
     },
     {
+        "victim": "General Gruppo",
+        "domain": "generalgruppo.it",
+        "country": "IT",
+        "timeline": [
+            {
+                "date": "2026-08-30",
+                "type": "claimed",
+                "group": "thegentlemen"
+            }
+        ]
+    },
+    {
         "victim": "General Hardware",
         "domain": "generalhardware.co",
         "country": "CO",
@@ -132628,6 +132827,18 @@
         ]
     },
     {
+        "victim": "Glassdoor",
+        "domain": "glassdoor.com",
+        "country": "US",
+        "timeline": [
+            {
+                "date": "2026-08-30",
+                "type": "claimed",
+                "group": "thegentlemen"
+            }
+        ]
+    },
+    {
         "victim": "glasserstv.com",
         "domain": "glasserstv.com",
         "country": "CA",
@@ -133304,6 +133515,11 @@
         "domain": "globusmedical.com",
         "country": "US",
         "timeline": [
+            {
+                "date": "2026-08-21",
+                "type": "claimed",
+                "group": "Falcon"
+            },
             {
                 "date": "2026-08-21",
                 "type": "assessed",
@@ -138207,6 +138423,18 @@
                 "date": "2024-01-29",
                 "type": "claimed",
                 "group": "lockbit3"
+            }
+        ]
+    },
+    {
+        "victim": "G R Infraprojects",
+        "domain": "grinfra.com",
+        "country": "IN",
+        "timeline": [
+            {
+                "date": "2026-08-30",
+                "type": "claimed",
+                "group": "thegentlemen"
             }
         ]
     },
@@ -145956,6 +146184,18 @@
         ]
     },
     {
+        "victim": "hd-werkstaetten.de",
+        "domain": "hd-werkstaetten.de",
+        "country": "DE",
+        "timeline": [
+            {
+                "date": "2026-08-18",
+                "type": "claimed",
+                "group": "ZaWoo"
+            }
+        ]
+    },
+    {
         "victim": "HDFC Asset Management Company",
         "domain": "hdfcfund.com",
         "country": "IN",
@@ -150995,6 +151235,18 @@
         ]
     },
     {
+        "victim": "hoerburger",
+        "domain": "hoerburger.de",
+        "country": "DE",
+        "timeline": [
+            {
+                "date": "2026-08-18",
+                "type": "claimed",
+                "group": "ZaWoo"
+            }
+        ]
+    },
+    {
         "victim": "HOERMANN-GRUPPE.COM",
         "domain": "hoermann-gruppe.com",
         "country": "",
@@ -155970,6 +156222,18 @@
                 "date": "2026-04-14",
                 "type": "claimed",
                 "group": "thegentlemen"
+            }
+        ]
+    },
+    {
+        "victim": "i-one",
+        "domain": "i-one.co.kr",
+        "country": "KR",
+        "timeline": [
+            {
+                "date": "2026-08-28",
+                "type": "claimed",
+                "group": "Black X"
             }
         ]
     },
@@ -164519,6 +164783,18 @@
         ]
     },
     {
+        "victim": "AFSARD",
+        "domain": "ipardpa.gov.mk",
+        "country": "MK",
+        "timeline": [
+            {
+                "date": "2026-08-30",
+                "type": "claimed",
+                "group": "qilin"
+            }
+        ]
+    },
+    {
         "victim": "ipathpr.com",
         "domain": "ipathpr.com",
         "country": "US",
@@ -167265,6 +167541,18 @@
                 "date": "2023-11-07",
                 "type": "claimed",
                 "group": "rhysida"
+            }
+        ]
+    },
+    {
+        "victim": "Ixa Systems",
+        "domain": "ixasystems.ch",
+        "country": "CH",
+        "timeline": [
+            {
+                "date": "2026-08-30",
+                "type": "claimed",
+                "group": "thegentlemen"
             }
         ]
     },
@@ -175253,6 +175541,18 @@
                 "date": "2025-05-20",
                 "type": "assessed",
                 "group": "play"
+            }
+        ]
+    },
+    {
+        "victim": "kdynium.cz",
+        "domain": "kdynium.cz",
+        "country": "CZ",
+        "timeline": [
+            {
+                "date": "2026-08-18",
+                "type": "claimed",
+                "group": "ZaWoo"
             }
         ]
     },
@@ -200991,6 +201291,18 @@
         ]
     },
     {
+        "victim": "MB Associates",
+        "domain": "mbassociates.org",
+        "country": "GB",
+        "timeline": [
+            {
+                "date": "2026-08-30",
+                "type": "claimed",
+                "group": "thegentlemen"
+            }
+        ]
+    },
+    {
         "victim": "MBC",
         "domain": "mbcbank.com",
         "country": "US",
@@ -203146,6 +203458,18 @@
                 "date": "2026-01-02",
                 "type": "claimed",
                 "group": "qilin"
+            }
+        ]
+    },
+    {
+        "victim": "wmdn.net",
+        "domain": "mdn.net",
+        "country": "MD",
+        "timeline": [
+            {
+                "date": "2026-08-30",
+                "type": "claimed",
+                "group": "threeam"
             }
         ]
     },
@@ -213301,6 +213625,18 @@
         ]
     },
     {
+        "victim": "montronix.de",
+        "domain": "montronix.de",
+        "country": "DE",
+        "timeline": [
+            {
+                "date": "2026-08-18",
+                "type": "claimed",
+                "group": "ZaWoo"
+            }
+        ]
+    },
+    {
         "victim": "montship.ca",
         "domain": "montship.ca",
         "country": "CA",
@@ -218645,6 +218981,11 @@
         "domain": "n-tree.com",
         "country": "AT",
         "timeline": [
+            {
+                "date": "2026-08-03",
+                "type": "claimed",
+                "group": "ZaWoo"
+            },
             {
                 "date": "2026-08-03",
                 "type": "assessed",
@@ -224168,6 +224509,18 @@
                 "date": "2026-02-10",
                 "type": "claimed",
                 "group": "thegentlemen"
+            }
+        ]
+    },
+    {
+        "victim": "ng-engineering.de",
+        "domain": "ng-engineering.de",
+        "country": "DE",
+        "timeline": [
+            {
+                "date": "2026-08-18",
+                "type": "claimed",
+                "group": "ZaWoo"
             }
         ]
     },
@@ -230129,6 +230482,18 @@
         ]
     },
     {
+        "victim": "Nutrypollo",
+        "domain": "nutrypollo.com.mx",
+        "country": "MX",
+        "timeline": [
+            {
+                "date": "2026-08-30",
+                "type": "claimed",
+                "group": "thegentlemen"
+            }
+        ]
+    },
+    {
         "victim": "NUUO",
         "domain": "nuuo.com",
         "country": "TW",
@@ -230362,6 +230727,18 @@
             {
                 "date": "2024-08-31",
                 "type": "reported"
+            }
+        ]
+    },
+    {
+        "victim": "Northwest Trophy",
+        "domain": "nwtrophy.com",
+        "country": "US",
+        "timeline": [
+            {
+                "date": "2026-08-30",
+                "type": "claimed",
+                "group": "thegentlemen"
             }
         ]
     },
@@ -256142,6 +256519,18 @@
         ]
     },
     {
+        "victim": "Probe Test System",
+        "domain": "ptse.com.tw",
+        "country": "TW",
+        "timeline": [
+            {
+                "date": "2026-08-30",
+                "type": "claimed",
+                "group": "thegentlemen"
+            }
+        ]
+    },
+    {
         "victim": "p********y.com",
         "domain": "ptsecurity.com",
         "country": "RU",
@@ -261663,6 +262052,18 @@
                 "date": "2025-04-11",
                 "type": "assessed",
                 "group": "play"
+            }
+        ]
+    },
+    {
+        "victim": "Hospital Clnico Universidad de Chile",
+        "domain": "redclinica.cl",
+        "country": "CL",
+        "timeline": [
+            {
+                "date": "2026-08-30",
+                "type": "claimed",
+                "group": "direwolf"
             }
         ]
     },
@@ -270007,7 +270408,7 @@
         ]
     },
     {
-        "victim": "rsk-immobilien",
+        "victim": "rsk-immobilien.de",
         "domain": "rsk-immobilien.de",
         "country": "DE",
         "timeline": [
@@ -270020,6 +270421,11 @@
                 "date": "2024-08-23",
                 "type": "claimed",
                 "group": "helldown"
+            },
+            {
+                "date": "2026-08-18",
+                "type": "claimed",
+                "group": "ZaWoo"
             }
         ]
     },
@@ -271909,6 +272315,18 @@
                 "date": "2026-04-10",
                 "type": "claimed",
                 "group": "qilin"
+            }
+        ]
+    },
+    {
+        "victim": "Servicios Aereos Estrella",
+        "domain": "sae.com.mx",
+        "country": "MX",
+        "timeline": [
+            {
+                "date": "2026-08-30",
+                "type": "claimed",
+                "group": "thegentlemen"
             }
         ]
     },
@@ -300718,7 +301136,7 @@
         ]
     },
     {
-        "victim": "sunsea.co.th",
+        "victim": "SUNSEA",
         "domain": "sunsea.co.th",
         "country": "TH",
         "timeline": [
@@ -300726,6 +301144,11 @@
                 "date": "2026-08-19",
                 "type": "claimed",
                 "group": "krybit"
+            },
+            {
+                "date": "2026-08-30",
+                "type": "claimed",
+                "group": "thegentlemen"
             }
         ]
     },
@@ -307045,6 +307468,18 @@
         ]
     },
     {
+        "victim": "Tecno Accion",
+        "domain": "tecnoaccion.com.ar",
+        "country": "AR",
+        "timeline": [
+            {
+                "date": "2026-08-30",
+                "type": "claimed",
+                "group": "thegentlemen"
+            }
+        ]
+    },
+    {
         "victim": "Tecnocad Group",
         "domain": "tecnocad.it",
         "country": "IT",
@@ -309653,6 +310088,18 @@
                 "date": "2024-04-09",
                 "type": "assessed",
                 "group": "lockbit3"
+            }
+        ]
+    },
+    {
+        "victim": "Thai Film Industries PCL",
+        "domain": "thaifilmind.com",
+        "country": "TH",
+        "timeline": [
+            {
+                "date": "2026-08-30",
+                "type": "claimed",
+                "group": "thegentlemen"
             }
         ]
     },
@@ -312642,6 +313089,18 @@
                 "date": "2024-03-05",
                 "type": "claimed",
                 "group": "redransomware"
+            }
+        ]
+    },
+    {
+        "victim": "THQ Nordic",
+        "domain": "thqnordic.com",
+        "country": "SE",
+        "timeline": [
+            {
+                "date": "2026-08-30",
+                "type": "claimed",
+                "group": "direwolf"
             }
         ]
     },
@@ -329425,6 +329884,18 @@
         ]
     },
     {
+        "victim": "vectorsoft.de",
+        "domain": "vectorsoft.de",
+        "country": "DE",
+        "timeline": [
+            {
+                "date": "2026-08-18",
+                "type": "claimed",
+                "group": "ZaWoo"
+            }
+        ]
+    },
+    {
         "victim": "Vector Transport (vectortransport.com)",
         "domain": "vectortransport.com",
         "country": "IN",
@@ -341768,6 +342239,18 @@
         ]
     },
     {
+        "victim": "winterdienst-berlin.com",
+        "domain": "winterdienst-berlin.com",
+        "country": "DE",
+        "timeline": [
+            {
+                "date": "2026-08-18",
+                "type": "claimed",
+                "group": "ZaWoo"
+            }
+        ]
+    },
+    {
         "victim": "Wintergreen Learning Materials",
         "domain": "wintergreen.ca",
         "country": "CA",
@@ -347845,6 +348328,18 @@
             {
                 "date": "2026-07-25",
                 "type": "reported"
+            }
+        ]
+    },
+    {
+        "victim": "zenithtechnology",
+        "domain": "zenithtechnology.co.nz",
+        "country": "NZ",
+        "timeline": [
+            {
+                "date": "2026-08-18",
+                "type": "claimed",
+                "group": "ZaWoo"
             }
         ]
     },
