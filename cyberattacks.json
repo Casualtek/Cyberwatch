@@ -1,5 +1,16 @@
 [
     {
+        "date": "2026-08-11",
+        "victim": "Charm",
+        "domain": "charm.co.jp",
+        "country": "JPN",
+        "summary": "La société Charm a annoncé qu'un accès non autorisé à ses magasins Charm Honten 1 et 2 avait été détecté le 12 août 2026, suite à une intrusion par un tiers le 11 août 2026. L'entreprise enquête actuellement sur l'étendue des dégâts, confirmant que certaines informations clients ont pu fuiter. Environ 230 000 enregistrements sont concernés, incluant des données telles que noms, adresses, numéros de téléphone, dates de naissance, adresses e-mail, points de fidélité, et des hachages de mots de passe. En conséquence, les opérations de commande et d'expédition dans les deux magasins ont été suspendues du 12 août, bien que les succursales aient repris les commandes le 13 août et l'expédition le 14 août.",
+        "description": "",
+        "title": "チャーム本店 1 号店及びチャーム本店 2 号店に不正アクセス、受注・出荷業務を停止 | ScanNetSecurity",
+        "url": "https://scan.netsecurity.ne.jp/article/2026/09/02/56103.html",
+        "added": "2026-09-02"
+    },
+    {
         "date": "2026-09-02",
         "victim": "Liga Nacional contra el Cáncer",
         "domain": "ligacancercolombia.org",
