@@ -1,6 +1,17 @@
 [
     {
         "date": "2026-09-02",
+        "victim": "Liga Nacional contra el Cáncer",
+        "domain": "ligacancercolombia.org",
+        "country": "COL",
+        "summary": "La Liga Nacional contra el Cáncer a communiqué que son victime d'un incident de cybersécurité qui a affecté temporairement les services de son Département de Radiothérapie. L'institution a confirmé que l'incident fait l'objet d'une enquête par les autorités compétentes et a assuré aux patients que son équipe travaille pour résoudre le problème et rétablir les services rapidement.",
+        "description": "",
+        "title": "Ciberataque Afecta Servicios De La Liga Nacional Contra El Cáncer - La Red 106.1 FM",
+        "url": "https://www.lared1061.com/posts/ciberataque-afecta-servicios-de-la-liga-nacional-contra-el-cancer",
+        "added": "2026-09-02"
+    },
+    {
+        "date": "2026-09-02",
         "victim": "Ministère de la Transition écologique",
         "domain": "ecologie.gouv.fr",
         "country": "FRA",
