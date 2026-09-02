@@ -1,5 +1,16 @@
 [
     {
+        "date": "2026-08-13",
+        "victim": "Akatake Engineering Co., Ltd.",
+        "domain": "akatake.co.jp",
+        "country": "JPN",
+        "summary": "La société Akatake Engineering Co., Ltd. a annoncé le 13 août avoir été victime d'une infection par rançongiciel. L'entreprise a subi des pannes de système et mène une enquête avec des experts externes et la police pour déterminer l'étendue des dégâts, y compris une éventuelle fuite de données personnelles et de clients. Elle travaille également à la restauration rapide de ses systèmes.",
+        "description": "",
+        "title": "赤武エンジニアリングでランサムウェア感染によるシステム障害が発生 | ScanNetSecurity",
+        "url": "https://scan.netsecurity.ne.jp/article/2026/09/02/56105.html",
+        "added": "2026-09-02"
+    },
+    {
         "date": "2026-08-28",
         "victim": "Park Dental Partners Inc.",
         "domain": "parkdental.com",
