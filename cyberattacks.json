@@ -1,5 +1,16 @@
 [
     {
+        "date": "2026-08-31",
+        "victim": "Salus di Trieste",
+        "domain": "polifvg.it",
+        "country": "ITA",
+        "summary": "Le systèmes informatiques de la clinique Salus de Trieste sont inutilisables depuis le 31 août en raison d'une attaque par ransomware. L'attaque, qui a également entraîné une demande de rançon, est attribuée à un groupe de cybercriminels russo-albanais connu pour d'autres vols, dont celui du casino de Lipizza. La clinique a engagé une société de cybersécurité et travaille avec la police d'État. Bien qu'un système de sauvegarde des données de santé existe, il n'est pas confirmé si les données des patients ont été exfiltrées.",
+        "description": "",
+        "title": "Cripto per i dati: le informazioni sanitarie della Salus sequestrate in un attacco hacker, chiesto un riscatto",
+        "url": "https://www.triesteprima.it/cronaca/ransomware-salus-trieste.html",
+        "added": "2026-09-02"
+    },
+    {
         "date": "2026-08-25",
         "victim": "Van Wezel Autoparts",
         "domain": "vanwezel.be",
