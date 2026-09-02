@@ -1,5 +1,16 @@
 [
     {
+        "date": "2026-05-26",
+        "victim": "Cornerstone Behavioral Healthcare",
+        "domain": "cornerstonebhc.com",
+        "country": "USA",
+        "summary": "Cornerstone Behavioral Healthcare, un fournisseur de soins de santé comportementaux basé dans le Maine, a subi une cyberattaque par ransomware le 26 mai 2026. L'incident a affecté environ 14 830 personnes. L'enquête initiale a révélé que les informations de santé protégées et personnelles de 2 830 individus ont pu être compromises, incluant noms, adresses, dates de naissance, informations de santé et numéros de sécurité sociale. De plus, un journal de rappels de rendez-vous pour 12 000 autres individus a pu être consulté. L'entreprise n'a pas payé la rançon et a réussi à stopper le processus de chiffrement.",
+        "description": "",
+        "title": "Cornerstone Healthcare Data Breach: 14,830 Patients Exposed",
+        "url": "https://www.claimdepot.com/data-breach/cornerstone-behavioral-healthcare-2026",
+        "added": "2026-09-02"
+    },
+    {
         "date": "2026-09-02",
         "victim": "Hangte",
         "domain": "hangtepower.com",
