@@ -329445,6 +329445,11 @@
             {
                 "date": "2026-05-06",
                 "type": "reported"
+            },
+            {
+                "date": "2026-05-04",
+                "type": "assessed",
+                "group": "kairos"
             }
         ]
     },
