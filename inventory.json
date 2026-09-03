@@ -232255,6 +232255,17 @@
                 "date": "2025-08-20",
                 "type": "claimed",
                 "group": "nitrogen"
+            },
+            {
+                "date": "2026-09-03",
+                "type": "discovered",
+                "summary": "L'Ocean Edge Resort & Golf Club a subi une violation de données suite à une attaque par rançongiciel menée par le groupe Nitrogen. Cette violation a exposé une large gamme d'informations sensibles des consommateurs, incluant des numéros d'identification gouvernementaux, des dossiers de santé, des numéros de sécurité sociale, des informations financières et des informations médicales. Les victimes pourraient être éligibles à une compensation.",
+                "title": "Ocean Edge Resort Data Breach Lawsuit Investigation",
+                "url": "https://www.claimdepot.com/investigations/ocean-edge-resort-data-breach-2026"
+            },
+            {
+                "date": "2025-07-31",
+                "type": "reported"
             }
         ]
     },
@@ -344445,6 +344456,11 @@
             {
                 "date": "2026-07-15",
                 "type": "claimed",
+                "group": "majinahanashi"
+            },
+            {
+                "date": "2026-07-08",
+                "type": "assessed",
                 "group": "majinahanashi"
             }
         ]
