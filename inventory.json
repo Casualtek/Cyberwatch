@@ -112351,6 +112351,18 @@
         ]
     },
     {
+        "victim": "Eticod",
+        "domain": "eticod.pl",
+        "country": "PL",
+        "timeline": [
+            {
+                "date": "2026-08-09",
+                "type": "assessed",
+                "group": "majinahanashi"
+            }
+        ]
+    },
+    {
         "victim": "etisalat.ae",
         "domain": "etisalat.ae",
         "country": "AE",
