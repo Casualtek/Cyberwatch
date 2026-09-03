@@ -297010,13 +297010,18 @@
         ]
     },
     {
-        "victim": "GRUPO STARFOODS",
+        "victim": "Grupo Starfoods",
         "domain": "starfoods.pt",
         "country": "PT",
         "timeline": [
             {
                 "date": "2026-07-13",
                 "type": "claimed",
+                "group": "majinahanashi"
+            },
+            {
+                "date": "2026-07-06",
+                "type": "assessed",
                 "group": "majinahanashi"
             }
         ]
