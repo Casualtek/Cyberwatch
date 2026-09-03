@@ -1,5 +1,16 @@
 [
     {
+        "date": "2026-06-30",
+        "victim": "Thomson Reuters",
+        "domain": "thomsonreuters.com",
+        "country": "USA",
+        "summary": "Thomson Reuters a signalé un incident de cybersécurité affectant la plateforme de gestion des affaires C-Track. L'incident, détecté le 30 juin, a impliqué un accès non autorisé à certains fichiers de dossiers judiciaires dans 11 États américains, les Îles Vierges américaines et le Canada. Bien que les opérations C-Track n'aient pas été interrompues, des dossiers contenant des noms et des informations personnelles ont été affectés. L'entreprise a pris des mesures de sécurité, notifié les clients et engagé des experts externes.",
+        "description": "",
+        "title": "Thomson Reuters reports cyber incident involving C-Track files",
+        "url": "https://ua.news/en/world/thomson-reuters-povidomila-pro-kiberintsident-iz-failami-sudovoyi-platformi-c-track",
+        "added": "2026-09-03"
+    },
+    {
         "date": "2026-03-01",
         "victim": "Tlajomulco",
         "domain": "tlajomulco.gob.mx",
