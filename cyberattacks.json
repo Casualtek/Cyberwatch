@@ -1,5 +1,16 @@
 [
     {
+        "date": "2026-09-03",
+        "victim": "Préfecture de Tottori",
+        "domain": "tottori.jp",
+        "country": "JPN",
+        "summary": "Le système de collecte de données de rayonnement, utilisé autour de centrales nucléaires comme celle de Shimane, a été victime d'une cyberattaque. Les autorités ont confirmé que les serveurs de sauvegarde n'ont pas été affectés, ce qui signifie que le suivi des données n'est pas impacté.",
+        "description": "",
+        "title": "鳥取県 放射線監視システムにサイバー攻撃 情報流出なし | NHKニュース",
+        "url": "https://news.web.nhk/newsweb/na/nb-4040024179",
+        "added": "2026-09-03"
+    },
+    {
         "date": "2025-07-31",
         "victim": "Ocean Edge Resort & Golf Club",
         "domain": "oceanedge.com",
