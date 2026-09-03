@@ -244405,6 +244405,18 @@
         ]
     },
     {
+        "victim": "PennFab",
+        "domain": "pennfab.com",
+        "country": "US",
+        "timeline": [
+            {
+                "date": "2026-08-11",
+                "type": "assessed",
+                "group": "akira"
+            }
+        ]
+    },
+    {
         "victim": "Penn Fencing",
         "domain": "pennfencing.com",
         "country": "US",
