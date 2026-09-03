@@ -174464,13 +174464,18 @@
         ]
     },
     {
-        "victim": "CARIBE / SUBRA",
+        "victim": "Caribe / Subra",
         "domain": "kalimancaribe.com",
         "country": "CO",
         "timeline": [
             {
                 "date": "2026-07-25",
                 "type": "claimed",
+                "group": "majinahanashi"
+            },
+            {
+                "date": "2026-07-11",
+                "type": "assessed",
                 "group": "majinahanashi"
             }
         ]
