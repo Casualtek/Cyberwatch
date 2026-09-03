@@ -49250,13 +49250,18 @@
         ]
     },
     {
-        "victim": "BONJOUR GROUP",
+        "victim": "Bonjour Group",
         "domain": "bonjourgroup.net",
         "country": "IN",
         "timeline": [
             {
                 "date": "2026-07-09",
                 "type": "claimed",
+                "group": "majinahanashi"
+            },
+            {
+                "date": "2026-07-02",
+                "type": "assessed",
                 "group": "majinahanashi"
             }
         ]
