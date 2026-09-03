@@ -1,6 +1,17 @@
 [
     {
         "date": "2026-09-03",
+        "victim": "Dustin",
+        "domain": "dustingroup.com",
+        "country": "SWE",
+        "summary": "Dustin, un revendeur informatique suédois opérant également dans la région du Benelux via Centralpoint, a dû mettre hors ligne une partie de son environnement informatique suite à un grave incident de sécurité. Des individus non autorisés ont accédé à ses systèmes internes, ce qui a conduit à la fermeture temporaire de son site web et de sa boutique en ligne dans plusieurs pays européens. L'entreprise enquête en collaboration avec des experts externes et les autorités, mais il n'est pas encore clair si des données clients ont été compromises.",
+        "description": "",
+        "title": "IT online store Dustin takes systems offline after a breach",
+        "url": "https://www.techzine.eu/news/security/144042/it-online-store-dustin-takes-systems-offline-after-a-breach/",
+        "added": "2026-09-03"
+    },
+    {
+        "date": "2026-09-03",
         "victim": "Préfecture de Tottori",
         "domain": "tottori.jp",
         "country": "JPN",
