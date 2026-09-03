@@ -292038,6 +292038,18 @@
         ]
     },
     {
+        "victim": "Son-Video",
+        "domain": "son-video.com",
+        "country": "FR",
+        "timeline": [
+            {
+                "date": "2026-07-06",
+                "type": "assessed",
+                "group": "majinahanashi"
+            }
+        ]
+    },
+    {
         "victim": "Sonabhy.bf",
         "domain": "sonabhy.bf",
         "country": "BF",
