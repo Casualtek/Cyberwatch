@@ -278113,13 +278113,18 @@
         ]
     },
     {
-        "victim": "SCHMITZ & NITTENWILM",
+        "victim": "majinahanashi",
         "domain": "schmitz-nittenwilm.de",
         "country": "DE",
         "timeline": [
             {
                 "date": "2026-08-10",
                 "type": "claimed",
+                "group": "majinahanashi"
+            },
+            {
+                "date": "2026-08-03",
+                "type": "assessed",
                 "group": "majinahanashi"
             }
         ]
