@@ -172537,13 +172537,18 @@
         ]
     },
     {
-        "victim": "Goccia S.p.A.",
+        "victim": "majinahanashi",
         "domain": "joygioielli.com",
         "country": "IT",
         "timeline": [
             {
                 "date": "2026-08-10",
                 "type": "claimed",
+                "group": "majinahanashi"
+            },
+            {
+                "date": "2026-08-03",
+                "type": "assessed",
                 "group": "majinahanashi"
             }
         ]
