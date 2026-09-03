@@ -248294,11 +248294,16 @@
     {
         "victim": "PIO PIO",
         "domain": "piopio.com.co",
-        "country": "CO",
+        "country": "CI",
         "timeline": [
             {
                 "date": "2026-07-04",
                 "type": "claimed",
+                "group": "majinahanashi"
+            },
+            {
+                "date": "2026-06-27",
+                "type": "assessed",
                 "group": "majinahanashi"
             }
         ]
