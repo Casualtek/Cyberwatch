@@ -45727,6 +45727,18 @@
     },
     {
         "victim": "UAB Biotecha",
+        "domain": "biotecha.it",
+        "country": "IT",
+        "timeline": [
+            {
+                "date": "2026-08-08",
+                "type": "assessed",
+                "group": "majinahanashi"
+            }
+        ]
+    },
+    {
+        "victim": "UAB Biotecha",
         "domain": "biotecha.lt",
         "country": "LT",
         "timeline": [
