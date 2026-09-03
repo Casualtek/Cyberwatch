@@ -56609,6 +56609,18 @@
         ]
     },
     {
+        "victim": "Caliche",
+        "domain": "caliche.es",
+        "country": "ES",
+        "timeline": [
+            {
+                "date": "2026-08-11",
+                "type": "assessed",
+                "group": "majinahanashi"
+            }
+        ]
+    },
+    {
         "victim": "Calida",
         "domain": "calida.com.au",
         "country": "AU",
