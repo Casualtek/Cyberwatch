@@ -279236,6 +279236,18 @@
         ]
     },
     {
+        "victim": "ScrubaDub Auto Wash Centers",
+        "domain": "scrubadub.com",
+        "country": "US",
+        "timeline": [
+            {
+                "date": "2026-08-12",
+                "type": "assessed",
+                "group": "akira"
+            }
+        ]
+    },
+    {
         "victim": "Scrubs & Beyond",
         "domain": "scrubsandbeyond.com",
         "country": "US",
