@@ -1,5 +1,16 @@
 [
     {
+        "date": "2026-06-18",
+        "victim": "Széchenyi Programiroda",
+        "domain": "szpi.hu",
+        "country": "HUN",
+        "summary": "La Széchenyi Programiroda a été victime d'une cyberattaque partielle, suite à laquelle des données de l'entreprise et de deux de ses employés ont été compromises. L'attaque a été attribuée au groupe Rhysida hekkercsoport, qui a exigé 20 bitcoins en échange des données. Les autorités nationales de cybersécurité et d'enquête sont en train d'examiner l'incident.",
+        "description": "",
+        "title": "Kibertámadás érte a Széchenyi Programirodát, személyes adatok is kiszivárogtak",
+        "url": "https://index.hu/techtud/2026/09/03/kibertamadas-hekkeles-szechenyi-programiroda-szemelyes-adatok-adatszivargas/",
+        "added": "2026-09-04"
+    },
+    {
         "date": "2026-08-25",
         "victim": "Ville de Fort Scott",
         "domain": "fscity.org",
