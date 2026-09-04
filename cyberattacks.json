@@ -1,6 +1,17 @@
 [
     {
         "date": "2026-09-03",
+        "victim": "PTAC",
+        "domain": "ptac.gov.lv",
+        "country": "LVA",
+        "summary": "Le Centre de protection des droits des consommateurs (PTAC) a été victime d'une cyberattaque qui a permis à un attaquant d'accéder à des données via une vulnérabilité dans la partie publique de son système de statistiques (ASDIS). L'incident a été détecté par l'institution de cybersécurité Cert.lv. Les données volées comprennent les coordonnées de 697 représentants commerciaux et 34 responsables du PTAC. Le PTAC a confirmé que les données volées étaient des coordonnées de contact (nom, prénom, e-mail, numéro de téléphone) et qu'aucune donnée personnelle sensible n'était stockée. Le PTAC a fermé le système concerné et a informé les autorités compétentes.",
+        "description": "",
+        "title": "\"Cert.lv\" atklāj, kā notika kiberuzbrukums PTAC sistēmai",
+        "url": "https://nra.lv/latvija/529162-cert-lv-informacija-par-kiberuzbrukumu-ptac.htm",
+        "added": "2026-09-04"
+    },
+    {
+        "date": "2026-09-03",
         "victim": "Özel Adatıp Hastanesi",
         "domain": "adatiphastanesi.com",
         "country": "TUR",
