@@ -1,5 +1,16 @@
 [
     {
+        "date": "2026-08-28",
+        "victim": "Vice-rectorat de Wallis-et-Futuna",
+        "domain": "ac-wf.wf",
+        "country": "WLF",
+        "summary": "Le vice-rectorat de Wallis-et-Futuna a détecté une cyberattaque qui perturbe une partie de ses systèmes informatiques depuis le 28 août. L'incident a notamment affecté la messagerie académique et rendu inaccessible des services essentiels comme Pronote, ce qui a forcé le report des conseils de classe. Les autorités ont été saisies et des investigations sont en cours pour sécuriser les systèmes et rétablir le fonctionnement normal.",
+        "description": "",
+        "title": "Cyberattaque au vice-rectorat : Pronote inaccessible et les conseils de classe reportés - Outre-mer La 1ère",
+        "url": "https://la1ere.francetvinfo.fr/wallisfutuna/alofi/cyberattaque-au-vice-rectorat-pronote-inaccessible-et-les-conseils-de-classe-reportes-1735187.html",
+        "added": "2026-09-04"
+    },
+    {
         "date": "2026-09-03",
         "victim": "Dustin",
         "domain": "dustingroup.com",
