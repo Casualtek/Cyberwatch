@@ -1,5 +1,16 @@
 [
     {
+        "date": "2026-01-15",
+        "victim": "Järve Biopuhastus",
+        "domain": "idavesi.ee",
+        "country": "EST",
+        "summary": "Järve Biopuhastus, fournisseur d'eau pour environ 54 000 habitants d'Ida-Virumaa, a été victime d'une cyberattaque au début de l'année. L'attaque a paralysé les serveurs du service d'eau et d'assainissement, mais l'entreprise a réussi à éviter des conséquences graves.",
+        "description": "",
+        "title": "Кибератака парализовала серверы водоканала в Ида-Вирумаа. Чем это может грозить потребителям?",
+        "url": "https://rus.delfi.ee/statja/120608163/kiberataka-paralizovala-servery-vodokanala-v-ida-virumaa-chem-eto-mozhet-grozit-potrebitelyam",
+        "added": "2026-09-04"
+    },
+    {
         "date": "2026-06-18",
         "victim": "Széchenyi Programiroda",
         "domain": "szpi.hu",
