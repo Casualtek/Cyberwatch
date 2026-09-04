@@ -1,5 +1,16 @@
 [
     {
+        "date": "2026-08-05",
+        "victim": "CEC",
+        "domain": "cec.com.cn",
+        "country": "JPN",
+        "summary": "La société CEC a publié un rapport final concernant une cyberattaque par rançongiciel survenue dans son centre de données à Tokyo. Après enquête, le conglomérat spécialisé dans la fabrication de composants électroniques, a confirmé qu'aucune fuite de données n'a eu lieu et que les systèmes des clients n'ont pas été affectés. Bien que les détails spécifiques du rançongiciel et du vecteur d'intrusion ne soient pas divulgués pour des raisons de sécurité, CEC a isolé et reconstruit la zone compromise, et a mis en place des mesures de prévention pour éviter de futures récidives.",
+        "description": "",
+        "title": "シーイーシー、ランサムウェア攻撃の最終報 情報漏えい「なし」を確認、社内調査を完了|セキュリティニュースのセキュリティ対策Lab",
+        "url": "https://rocket-boys.co.jp/security-measures-lab/cec-final-report-no-leak/",
+        "added": "2026-09-04"
+    },
+    {
         "date": "2026-09-03",
         "victim": "Conseil juridique de l'État",
         "domain": "nsk.gov.gr",
