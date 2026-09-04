@@ -1,5 +1,16 @@
 [
     {
+        "date": "2026-08-25",
+        "victim": "Ville de Fort Scott",
+        "domain": "fscity.org",
+        "country": "USA",
+        "summary": "La ville de Fort Scott a été touchée par une cyberattaque par rançongiciel (ransomware) fin août. Le directeur informatique, Stephen Mitchell, a indiqué que les systèmes de la ville ont été rétablis en six jours. L'attaque a été détectée le mardi matin, et Mitchell a décrit le malware comme un virus crypto sophistiqué. L'incident a été aggravé par un bug Microsoft qui a désactivé l'antivirus de la ville. L'équipe informatique a réussi à reconstruire le réseau en utilisant des quarts de travail intensifs, mais la ville a perdu environ une semaine de données sur deux machines sauvegardées sur OneDrive.",
+        "description": "",
+        "title": "Fort Scott recovered from a ransomware attack in six days; commission cuts demolition funding 3-2 and will rewrite historic-district penalties",
+        "url": "https://fortscott.biz/news/fort-scott-recovered-from-a-ransomware-attack-in-six-days-commission-cuts-demolition-funding-3-2-and-will-rewrite-historic-district-penalties",
+        "added": "2026-09-04"
+    },
+    {
         "date": "2026-08-05",
         "victim": "CEC",
         "domain": "cec.com.cn",
