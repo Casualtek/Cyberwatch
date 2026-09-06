@@ -1,5 +1,16 @@
 [
     {
+        "date": "2026-07-08",
+        "victim": "Beaver County Behavioral Health",
+        "domain": "beavercountypa.gov",
+        "country": "USA",
+        "summary": "Beaver County Behavioral Health a annoncé avoir été victime d'une attaque par rançongiciel. L'enquête a révélé que des cybercriminels ont copié des données du réseau de BCBH, y compris des informations de santé protégées. L'agence travaille avec les forces de l'ordre fédérales et des consultants en cybersécurité. Les types d'informations affectées incluent le nom, la date de naissance, le numéro de sécurité sociale, le numéro de permis de conduire, les informations médicales et les informations d'assurance. L'agence fournira des avis écrits aux personnes concernées.",
+        "description": "",
+        "title": "Beaver County agency announces it was ransomware attack victim",
+        "url": "https://www.timesonline.com/story/news/local/2026/09/04/beaver-county-pa-behavioral-health-clients-warned-information-might-be-at-risk-ransomware/91617014007/",
+        "added": "2026-09-06"
+    },
+    {
         "date": "2026-08-18",
         "victim": "Tirupati Sugar Mill Bagaha",
         "domain": "yadu.in",
