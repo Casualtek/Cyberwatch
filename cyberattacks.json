@@ -1,5 +1,16 @@
 [
     {
+        "date": "2026-09-07",
+        "victim": "Grandi Holding Co., Ltd.",
+        "domain": "grandi.com.tw",
+        "country": "TWN",
+        "summary": "La société Grandi Holding Co., Ltd. a été victime d'une attaque par ransomware ayant touché plusieurs de ses serveurs, entraînant notamment le dysfonctionnement de son système ERP. L'équipe de sécurité du groupe de marketing intégré et d'investissement créatif a immédiatement isolé le réseau et activé les protocoles de réponse aux incidents pour sécuriser les systèmes. Les services sont en cours de restauration progressive et l'entreprise estime que l'impact global sur ses opérations et ses finances ne sera pas significatif.",
+        "description": "",
+        "title": "Today's Information",
+        "url": "https://emops.twse.com.tw/server-java/t05sr01_1_e?&isNew=Y&seq_no=2&spoke_time=173619&spoke_date=20260907&co_id=6136",
+        "added": "2026-09-07"
+    },
+    {
         "date": "2026-08-22",
         "victim": "BMS Engineering",
         "domain": "bms-engineering.lu",
