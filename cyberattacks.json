@@ -1,5 +1,16 @@
 [
     {
+        "date": "2026-08-22",
+        "victim": "BMS Engineering",
+        "domain": "bms-engineering.lu",
+        "country": "LUX",
+        "summary": "Le prestataire informatique BMS Engineering, qui héberge des données de santé sensibles pour de nombreux cabinets médicaux au Luxembourg, a été victime d'une cyberattaque majeure. L'incident, détecté le 22 août 2026, a provoqué la paralysie des services digitaux et la perte ou corruption de données personnelles. L'attaque a affecté au moins 80 cabinets médicaux et une trentaine de PME. La firme a communiqué tardivement sur l'incident, suscitant des inquiétudes quant à l'ampleur réelle de la fuite de données.",
+        "description": "",
+        "title": "Exclusif: Une cyberattaque qui fait paniquer les médecins - Reporter.lu",
+        "url": "https://www.reporter.lu/exclusif-sante-digitale-une-cyberattaque-qui-fait-paniquer-les-medecins/",
+        "added": "2026-09-07"
+    },
+    {
         "date": "2025-10-13",
         "victim": "Euronics XXL",
         "domain": "euronics.de",
