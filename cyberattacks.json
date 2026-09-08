@@ -1,5 +1,16 @@
 [
     {
+        "date": "2026-08-14",
+        "victim": "Reasuransi Marein (MREI)",
+        "domain": "marein-re.com",
+        "country": "IDN",
+        "summary": "Reasuransi Marein (MREI) a subi une cyberattaque qui a entraîné un retard dans la publication de ses rapports financiers et annuels pour l'exercice 2025. L'incident a été géré, et il n'y a eu aucune fuite de données jusqu'à la tenue de l'Assemblée Générale Extraordinaire. L'OJK (Autorité de Surveillance des Assurances) a souligné l'importance de renforcer la résilience cybernétique et la gestion des risques dans le secteur, tandis que Marein travaille avec des professionnels pour sécuriser ses systèmes et finaliser les calculs comptables.",
+        "description": "",
+        "title": "OJK: Insiden Reasuransi Marein Jadi Pengingat Pentingnya Ketahanan Siber",
+        "url": "https://keuangan.kontan.co.id/news/ojk-insiden-reasuransi-marein-jadi-pengingat-pentingnya-ketahanan-siber",
+        "added": "2026-09-08"
+    },
+    {
         "date": "2026-09-02",
         "victim": "SPZOZ Warszawa-Ursynów",
         "domain": "zozursynow.pl",
