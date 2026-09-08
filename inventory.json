@@ -18181,6 +18181,18 @@
         ]
     },
     {
+        "victim": "Algra Group",
+        "domain": "algragroup.ch",
+        "country": "CH",
+        "timeline": [
+            {
+                "date": "2026-09-02",
+                "type": "claimed",
+                "group": "akira"
+            }
+        ]
+    },
+    {
         "victim": "Alhambra-Eidos",
         "domain": "alhambra-eidos.com",
         "country": "",
@@ -29300,6 +29312,18 @@
                 "date": "2025-11-26",
                 "type": "claimed",
                 "group": "qilin"
+            }
+        ]
+    },
+    {
+        "victim": "Asfaltos y Pavimentos S.A. (Asfalpasa)",
+        "domain": "asfalpasa.es",
+        "country": "ES",
+        "timeline": [
+            {
+                "date": "2026-09-01",
+                "type": "claimed",
+                "group": "incransom"
             }
         ]
     },
@@ -60091,6 +60115,18 @@
         ]
     },
     {
+        "victim": "Cartrack Holdings",
+        "domain": "cartrack.co.za",
+        "country": "ZA",
+        "timeline": [
+            {
+                "date": "2026-09-02",
+                "type": "claimed",
+                "group": "direwolf"
+            }
+        ]
+    },
+    {
         "victim": "Carus",
         "domain": "carus.com",
         "country": "FI",
@@ -67606,6 +67642,18 @@
                 "date": "2025-09-23",
                 "type": "claimed",
                 "group": "qilin"
+            }
+        ]
+    },
+    {
+        "victim": "Chip 1 Exchange",
+        "domain": "chip1.com",
+        "country": "US",
+        "timeline": [
+            {
+                "date": "2026-09-02",
+                "type": "claimed",
+                "group": "aurora"
             }
         ]
     },
@@ -137822,6 +137870,18 @@
         ]
     },
     {
+        "victim": "Grayson Rural Electric Cooperative",
+        "domain": "graysonrecc.com",
+        "country": "US",
+        "timeline": [
+            {
+                "date": "2026-09-02",
+                "type": "claimed",
+                "group": "qilin"
+            }
+        ]
+    },
+    {
         "victim": "G. R. si. Consultants Ltd.",
         "domain": "grc-c.co.il",
         "country": "IL",
@@ -140192,6 +140252,18 @@
         ]
     },
     {
+        "victim": "Metales Panamericanos",
+        "domain": "grupometales.com",
+        "country": "PA",
+        "timeline": [
+            {
+                "date": "2026-09-01",
+                "type": "claimed",
+                "group": "incransom"
+            }
+        ]
+    },
+    {
         "victim": "MHE9 Logística Ltda",
         "domain": "grupomhe9.com.br",
         "country": "BR",
@@ -141440,6 +141512,18 @@
                 "date": "2023-05-09",
                 "type": "claimed",
                 "group": "bianlian"
+            }
+        ]
+    },
+    {
+        "victim": "Greenberg Traurig",
+        "domain": "gtlaw.com",
+        "country": "US",
+        "timeline": [
+            {
+                "date": "2026-09-02",
+                "type": "claimed",
+                "group": "SilentRansomGroup"
             }
         ]
     },
@@ -190100,6 +190184,18 @@
         ]
     },
     {
+        "victim": "Ville de Libercourt",
+        "domain": "libercourt.fr",
+        "country": "FR",
+        "timeline": [
+            {
+                "date": "2026-09-02",
+                "type": "claimed",
+                "group": "kairos"
+            }
+        ]
+    },
+    {
         "victim": "liberty-township.com",
         "domain": "liberty-township.com",
         "country": "US",
@@ -190384,6 +190480,18 @@
                 "date": "2026-08-31",
                 "type": "claimed",
                 "group": "incransom"
+            }
+        ]
+    },
+    {
+        "victim": "Licindia",
+        "domain": "licindia.com",
+        "country": "IN",
+        "timeline": [
+            {
+                "date": "2026-09-02",
+                "type": "claimed",
+                "group": "medusalocker"
             }
         ]
     },
@@ -199670,7 +199778,7 @@
         ]
     },
     {
-        "victim": "marlboroughpartners.com",
+        "victim": "Marlborough Partners",
         "domain": "marlboroughpartners.com",
         "country": "GB",
         "timeline": [
@@ -199683,6 +199791,11 @@
                 "date": "2026-04-08",
                 "type": "claimed",
                 "group": "coinbasecartel"
+            },
+            {
+                "date": "2026-09-02",
+                "type": "claimed",
+                "group": "anubis"
             }
         ]
     },
@@ -217975,6 +218088,18 @@
                 "date": "2024-07-04",
                 "type": "claimed",
                 "group": "hunters"
+            }
+        ]
+    },
+    {
+        "victim": "Multiver Ltée",
+        "domain": "multiver.ca",
+        "country": "CA",
+        "timeline": [
+            {
+                "date": "2026-09-01",
+                "type": "claimed",
+                "group": "incransom"
             }
         ]
     },
@@ -237232,6 +237357,18 @@
         ]
     },
     {
+        "victim": "Ormond Beach Florida",
+        "domain": "ormondbeach.org",
+        "country": "US",
+        "timeline": [
+            {
+                "date": "2026-09-02",
+                "type": "claimed",
+                "group": "Wallstreet"
+            }
+        ]
+    },
+    {
         "victim": "Ville d'Ornex",
         "domain": "ornex.fr",
         "country": "FR",
@@ -241545,6 +241682,18 @@
         ]
     },
     {
+        "victim": "part1.simplexengg.in",
+        "domain": "part1.simplexengg.in",
+        "country": "IN",
+        "timeline": [
+            {
+                "date": "2026-09-02",
+                "type": "claimed",
+                "group": "Eclipse"
+            }
+        ]
+    },
+    {
         "victim": "Partitio",
         "domain": "partitio.com",
         "country": "FR",
@@ -244444,6 +244593,11 @@
         "domain": "pennfab.com",
         "country": "US",
         "timeline": [
+            {
+                "date": "2026-09-02",
+                "type": "claimed",
+                "group": "akira"
+            },
             {
                 "date": "2026-08-11",
                 "type": "assessed",
@@ -250747,6 +250901,29 @@
         ]
     },
     {
+        "victim": "Policlinico Triestino",
+        "domain": "polifvg.it",
+        "country": "IT",
+        "timeline": [
+            {
+                "date": "2026-09-01",
+                "type": "claimed",
+                "group": "incransom"
+            },
+            {
+                "date": "2026-09-02",
+                "type": "discovered",
+                "summary": "Le systèmes informatiques de la clinique Salus de Trieste sont inutilisables depuis le 31 août en raison d'une attaque par ransomware. L'attaque, qui a également entraîné une demande de rançon, est attribuée à un groupe de cybercriminels russo-albanais connu pour d'autres vols, dont celui du casino de Lipizza. La clinique a engagé une société de cybersécurité et travaille avec la police d'État. Bien qu'un système de sauvegarde des données de santé existe, il n'est pas confirmé si les données des patients ont été exfiltrées.",
+                "title": "Cripto per i dati: le informazioni sanitarie della Salus sequestrate in un attacco hacker, chiesto un riscatto",
+                "url": "https://www.triesteprima.it/cronaca/ransomware-salus-trieste.html"
+            },
+            {
+                "date": "2026-08-31",
+                "type": "reported"
+            }
+        ]
+    },
+    {
         "victim": "poliserv.ro",
         "domain": "poliserv.ro",
         "country": "RO",
@@ -255644,6 +255821,11 @@
         "country": "US",
         "timeline": [
             {
+                "date": "2026-09-02",
+                "type": "claimed",
+                "group": "payoutsking"
+            },
+            {
                 "date": "2023-05-24",
                 "type": "discovered",
                 "summary": "Proliance Surgeons a informé 437 392 patients d'une violation de données suite à une attaque par ransomware qui a entraîné le chiffrement de fichiers et le vol de données personnelles, y compris des informations médicales et d'identification. La cyberattaque a été détectée pour la première fois le 24 mai 2023, avec un accès non autorisé remontant au 11 février 2023, mais les détails spécifiques concernant les individus affectés n'ont été identifiés qu'après une enquête approfondie. Aucune réponse n'a été fournie aux questions de DataBreaches concernant les détails de l'attaque, et il n'y a pas d'indication que les données aient été divulguées sur le dark web",
@@ -257421,6 +257603,18 @@
             {
                 "date": "2026-01-27",
                 "type": "reported"
+            }
+        ]
+    },
+    {
+        "victim": "PTT Oil and Retail Business",
+        "domain": "pttor.com",
+        "country": "TH",
+        "timeline": [
+            {
+                "date": "2026-09-02",
+                "type": "claimed",
+                "group": "direwolf"
             }
         ]
     },
@@ -270815,6 +271009,18 @@
         ]
     },
     {
+        "victim": "Royal Plaza On Scotts",
+        "domain": "royalplaza.com.sg",
+        "country": "SG",
+        "timeline": [
+            {
+                "date": "2026-09-02",
+                "type": "claimed",
+                "group": "Eclipse"
+            }
+        ]
+    },
+    {
         "victim": "Royal Thai",
         "domain": "royalthai.com",
         "country": "US",
@@ -279288,6 +279494,11 @@
         "country": "US",
         "timeline": [
             {
+                "date": "2026-09-02",
+                "type": "claimed",
+                "group": "akira"
+            },
+            {
                 "date": "2026-08-12",
                 "type": "assessed",
                 "group": "akira"
@@ -280172,12 +280383,17 @@
     {
         "victim": "Seasia Infotech",
         "domain": "seasiainfotech.com",
-        "country": "",
+        "country": "IN",
         "timeline": [
             {
                 "date": "2023-07-18",
                 "type": "claimed",
                 "group": "snatch"
+            },
+            {
+                "date": "2026-09-02",
+                "type": "claimed",
+                "group": "thegentlemen"
             }
         ]
     },
@@ -294069,6 +294285,18 @@
         "timeline": [
             {
                 "date": "2024-05-20",
+                "type": "claimed",
+                "group": "incransom"
+            }
+        ]
+    },
+    {
+        "victim": "specialtytextile.com",
+        "domain": "specialtytextile.com",
+        "country": "US",
+        "timeline": [
+            {
+                "date": "2026-09-01",
                 "type": "claimed",
                 "group": "incransom"
             }
@@ -320822,6 +321050,18 @@
         ]
     },
     {
+        "victim": "Trucka",
+        "domain": "trucka.com.mx",
+        "country": "MX",
+        "timeline": [
+            {
+                "date": "2026-09-01",
+                "type": "claimed",
+                "group": "incransom"
+            }
+        ]
+    },
+    {
         "victim": "Truckload Carriers Association",
         "domain": "truckload.org",
         "country": "US",
@@ -328461,6 +328701,29 @@
                 "date": "2025-08-01",
                 "type": "assessed",
                 "group": "safepay"
+            }
+        ]
+    },
+    {
+        "victim": "Uak University",
+        "domain": "usak.edu.tr",
+        "country": "TR",
+        "timeline": [
+            {
+                "date": "2026-09-02",
+                "type": "claimed",
+                "group": "qilin"
+            },
+            {
+                "date": "2026-08-27",
+                "type": "discovered",
+                "summary": "L'Université d'Uşak a détecté une cyberattaque ciblant ses systèmes d'information le 26 août 2026. Suite à l'incident, les accès réseau des serveurs affectés ont été coupés pour protéger les données. L'université a informé les autorités compétentes et est en collaboration avec le Bureau de la Cybersécurité de la Présidence de la République de Turquie pour gérer la situation, entraînant des problèmes d'accès temporaires à certains services numériques.",
+                "title": "Siber Saldırı Sonrası Uşak Üniversitesi’nden Kamuoyu Duyurusu",
+                "url": "https://www.yesilsivasligazetesi.com/siber-saldiri-sonrasi-usak-universitesinden-kamuoyu-duyurusu"
+            },
+            {
+                "date": "2026-08-26",
+                "type": "reported"
             }
         ]
     },
@@ -340840,6 +341103,18 @@
             {
                 "date": "2024-11-14",
                 "type": "reported"
+            }
+        ]
+    },
+    {
+        "victim": "Westfield Public School District",
+        "domain": "westfieldnjk12.org",
+        "country": "US",
+        "timeline": [
+            {
+                "date": "2026-09-01",
+                "type": "claimed",
+                "group": "incransom"
             }
         ]
     },
