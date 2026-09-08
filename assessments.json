@@ -1,5 +1,12 @@
 [
   {
+    "victim": "actua.fr",
+    "domain": "actua.fr",
+    "country": "FR",
+    "date": "2026-08-07",
+    "group": "lockbit5"
+  },
+  {
     "victim": "BYK Construction",
     "domain": "bykconstruction.com",
     "country": "US",
