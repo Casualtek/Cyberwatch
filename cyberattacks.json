@@ -1,5 +1,16 @@
 [
     {
+        "date": "2026-09-02",
+        "victim": "SNEXI",
+        "domain": "snexi.fr",
+        "country": "FRA",
+        "summary": "SNEXI, entreprise de diagnostics immobiliers, a confirmé avoir été victime d'une cyberattaque le 2 septembre 2026, entraînant une violation de données personnelles. Les données potentiellement compromises incluent des noms, prénoms, adresses e-mail, adresses postales et numéros de téléphone, ainsi que des informations liées à des biens immobiliers (propriétaires, locataires). SNEXI a sécurisé ses systèmes, notifié l'incident à la CNIL et mène toujours des investigations pour déterminer l'étendue exacte de la fuite. L'entreprise précise qu'aucune donnée financière, bancaire ou sensible n'a été compromise.",
+        "description": "",
+        "title": "Fuite de données chez SNEXI : des informations sur des propriétaires,...",
+        "url": "https://frenchbreaches.com/alertes/snexi-mtndjyfm1p926jbh30z",
+        "added": "2026-09-08"
+    },
+    {
         "date": "2026-09-07",
         "victim": "Everett",
         "domain": "cityofeverett.com",
