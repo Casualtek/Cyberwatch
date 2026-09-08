@@ -1,5 +1,16 @@
 [
     {
+        "date": "2026-09-03",
+        "victim": "Springfield Public Schools",
+        "domain": "springfieldpublicschools.com",
+        "country": "USA",
+        "summary": "Les écoles publiques de Springfield, dans le Massachusetts, ont été contraintes de fermer leurs 64 établissements suite à un incident cybernétique, perturbant l'instruction de plus de 23 000 élèves. La direction a annoncé la fermeture lundi, donnant aux autorités le temps d'enquêter et de restaurer les systèmes. Bien que l'incident ait été identifié publiquement, les détails précis, tels que la méthode d'accès initiale, le type de logiciel malveillant ou si des données d'élèves ou d'employés ont été compromises, restent inconnus.",
+        "description": "",
+        "title": "Cyber incident forces closure of 64 Springfield, Massachusetts, schools",
+        "url": "https://dysruptionhub.com/springfield-schools-cyber-incident/",
+        "added": "2026-09-08"
+    },
+    {
         "date": "2026-09-07",
         "victim": "Grandi Holding Co., Ltd.",
         "domain": "grandi.com.tw",
