@@ -5831,6 +5831,18 @@
         ]
     },
     {
+        "victim": "Stransky Heiz-Mess-Regeltechnik GmbH",
+        "domain": "StranskyHeiz-Mess-RegeltechnikGmbH.nodomain",
+        "country": "DE",
+        "timeline": [
+            {
+                "date": "2026-09-04",
+                "type": "claimed",
+                "group": "akira"
+            }
+        ]
+    },
+    {
         "victim": "Strategy First International College",
         "domain": "StrategyFirstInternationalCollege.nodomain",
         "country": "MM",
@@ -24174,6 +24186,18 @@
         ]
     },
     {
+        "victim": "Annapurna Fashion",
+        "domain": "annapurnafashion.com",
+        "country": "IN",
+        "timeline": [
+            {
+                "date": "2026-09-04",
+                "type": "claimed",
+                "group": "Vexy Ransomware"
+            }
+        ]
+    },
+    {
         "victim": "Annecy",
         "domain": "annecy.fr",
         "country": "FR",
@@ -25013,6 +25037,18 @@
                 "date": "2026-02-16",
                 "type": "claimed",
                 "group": "nightspire"
+            }
+        ]
+    },
+    {
+        "victim": "AP CAPITAL PARTNERS LIMITED",
+        "domain": "apcapitalpartners.com",
+        "country": "IN",
+        "timeline": [
+            {
+                "date": "2026-09-04",
+                "type": "claimed",
+                "group": "qilin"
             }
         ]
     },
@@ -30672,6 +30708,18 @@
                 "date": "2023-11-05",
                 "type": "claimed",
                 "group": "qilin"
+            }
+        ]
+    },
+    {
+        "victim": "Hochschule Heilbronn Bildungscampus",
+        "domain": "asta.hs-heilbronn.de",
+        "country": "DE",
+        "timeline": [
+            {
+                "date": "2026-09-04",
+                "type": "claimed",
+                "group": "Panzer"
             }
         ]
     },
@@ -47075,6 +47123,18 @@
         ]
     },
     {
+        "victim": "Blanco & Etcheverry",
+        "domain": "blancoetcheverry.com",
+        "country": "UY",
+        "timeline": [
+            {
+                "date": "2026-09-04",
+                "type": "claimed",
+                "group": "gunra"
+            }
+        ]
+    },
+    {
         "victim": "blankstyle.com",
         "domain": "blankstyle.com",
         "country": "US",
@@ -62396,12 +62456,17 @@
         ]
     },
     {
-        "victim": "Commission de la construction du Quebec",
+        "victim": "Commission de la construction du Quebec (CCQ)",
         "domain": "ccq.org",
         "country": "CA",
         "timeline": [
             {
                 "date": "2026-09-01",
+                "type": "claimed",
+                "group": "qilin"
+            },
+            {
+                "date": "2026-09-04",
                 "type": "claimed",
                 "group": "qilin"
             }
@@ -77042,6 +77107,18 @@
                 "date": "2025-10-10",
                 "type": "claimed",
                 "group": "sinobi"
+            }
+        ]
+    },
+    {
+        "victim": "Complete Packaging Solutions",
+        "domain": "completepackaginggroup.com",
+        "country": "US",
+        "timeline": [
+            {
+                "date": "2026-09-04",
+                "type": "claimed",
+                "group": "qilin"
             }
         ]
     },
@@ -140860,6 +140937,18 @@
         ]
     },
     {
+        "victim": "EDIF S.p.A.",
+        "domain": "gruppoedif.it",
+        "country": "IT",
+        "timeline": [
+            {
+                "date": "2026-08-27",
+                "type": "claimed",
+                "group": "aurora"
+            }
+        ]
+    },
+    {
         "victim": "Gruppo ICM SPA",
         "domain": "gruppoicm.com",
         "country": "IT",
@@ -155669,6 +155758,18 @@
                 "date": "2024-08-13",
                 "type": "claimed",
                 "group": "helldown"
+            }
+        ]
+    },
+    {
+        "victim": "huisartsencentrumkleiniterson.nl",
+        "domain": "huisartsencentrumkleiniterson.nl",
+        "country": "NL",
+        "timeline": [
+            {
+                "date": "2026-09-04",
+                "type": "claimed",
+                "group": "lockbit5"
             }
         ]
     },
@@ -174647,6 +174748,18 @@
                 "date": "2025-11-22",
                 "type": "claimed",
                 "group": "qilin"
+            }
+        ]
+    },
+    {
+        "victim": "kalahealth.eu",
+        "domain": "kalahealth.eu",
+        "country": "DE",
+        "timeline": [
+            {
+                "date": "2026-09-04",
+                "type": "claimed",
+                "group": "lockbit5"
             }
         ]
     },
@@ -198976,6 +199089,18 @@
         ]
     },
     {
+        "victim": "mansurovogroup",
+        "domain": "mansurovogroup.ru",
+        "country": "RU",
+        "timeline": [
+            {
+                "date": "2026-09-04",
+                "type": "claimed",
+                "group": "AuditTeam"
+            }
+        ]
+    },
+    {
         "victim": "Mantel Machine Products",
         "domain": "mantelmachine.com",
         "country": "US",
@@ -202570,6 +202695,18 @@
                 "date": "2026-07-06",
                 "type": "claimed",
                 "group": "thegentlemen"
+            }
+        ]
+    },
+    {
+        "victim": "MBT Telecom",
+        "domain": "mbt.com.mm",
+        "country": "MM",
+        "timeline": [
+            {
+                "date": "2026-09-04",
+                "type": "claimed",
+                "group": "DYSPHOR1A"
             }
         ]
     },
@@ -232600,6 +232737,18 @@
         ]
     },
     {
+        "victim": "Occidental",
+        "domain": "occidental-ins.com",
+        "country": "VE",
+        "timeline": [
+            {
+                "date": "2026-09-04",
+                "type": "claimed",
+                "group": "gunra"
+            }
+        ]
+    },
+    {
         "victim": "The Superior Court of California",
         "domain": "occourts.org",
         "country": "US",
@@ -240362,6 +240511,18 @@
                 "date": "2025-03-19",
                 "type": "claimed",
                 "group": "lynx"
+            }
+        ]
+    },
+    {
+        "victim": "Palsana Enviro (PEPL)",
+        "domain": "palsanaenviro.com",
+        "country": "IN",
+        "timeline": [
+            {
+                "date": "2026-09-04",
+                "type": "claimed",
+                "group": "Vexy Ransomware"
             }
         ]
     },
@@ -257245,6 +257406,18 @@
             {
                 "date": "2024-12-22",
                 "type": "reported"
+            }
+        ]
+    },
+    {
+        "victim": "pscindustries.com",
+        "domain": "pscindustries.com",
+        "country": "US",
+        "timeline": [
+            {
+                "date": "2026-09-04",
+                "type": "claimed",
+                "group": "lockbit5"
             }
         ]
     },
@@ -275434,6 +275607,18 @@
         ]
     },
     {
+        "victim": "Sancity Soft Touch",
+        "domain": "sancitysofttouch.in",
+        "country": "US",
+        "timeline": [
+            {
+                "date": "2026-09-04",
+                "type": "claimed",
+                "group": "Vexy Ransomware"
+            }
+        ]
+    },
+    {
         "victim": "SANDALAWOFFICES.COM",
         "domain": "sandalawoffices.com",
         "country": "US",
@@ -283889,6 +284074,18 @@
                 "date": "2023-08-17",
                 "type": "claimed",
                 "group": "lockbit3"
+            }
+        ]
+    },
+    {
+        "victim": "Schwartz, Giannini, Lantsberger & Adamson (SGLA)",
+        "domain": "sglacpas.com",
+        "country": "US",
+        "timeline": [
+            {
+                "date": "2026-09-04",
+                "type": "claimed",
+                "group": "spacebears"
             }
         ]
     },
@@ -293504,6 +293701,18 @@
         ]
     },
     {
+        "victim": "SouthernCarlson",
+        "domain": "southerncarlson.com",
+        "country": "US",
+        "timeline": [
+            {
+                "date": "2026-09-04",
+                "type": "claimed",
+                "group": "tridentlocker"
+            }
+        ]
+    },
+    {
         "victim": "Southern design RV",
         "domain": "southerndesignrv.com.au",
         "country": "AU",
@@ -295427,6 +295636,18 @@
                 "date": "2024-08-31",
                 "type": "claimed",
                 "group": "rhysida"
+            }
+        ]
+    },
+    {
+        "victim": "Sports Endeavors",
+        "domain": "sportsendeavors.com",
+        "country": "US",
+        "timeline": [
+            {
+                "date": "2026-09-04",
+                "type": "claimed",
+                "group": "spacebears"
             }
         ]
     },
@@ -306579,6 +306800,18 @@
                 "date": "2025-05-26",
                 "type": "claimed",
                 "group": "nightspire"
+            }
+        ]
+    },
+    {
+        "victim": "Tanner",
+        "domain": "tanner.cl",
+        "country": "CL",
+        "timeline": [
+            {
+                "date": "2026-09-04",
+                "type": "claimed",
+                "group": "qilin"
             }
         ]
     },
@@ -345143,6 +345376,18 @@
         ]
     },
     {
+        "victim": "Wolfram Research",
+        "domain": "wolfram.com",
+        "country": "US",
+        "timeline": [
+            {
+                "date": "2026-09-04",
+                "type": "claimed",
+                "group": "direwolf"
+            }
+        ]
+    },
+    {
         "victim": "wolfs block management limited",
         "domain": "wolfsproperty.co.uk",
         "country": "UK",
@@ -345930,6 +346175,18 @@
                 "date": "2026-05-06",
                 "type": "claimed",
                 "group": "thegentlemen"
+            }
+        ]
+    },
+    {
+        "victim": "Worrell",
+        "domain": "worrellcorp.com",
+        "country": "US",
+        "timeline": [
+            {
+                "date": "2026-09-04",
+                "type": "claimed",
+                "group": "akira"
             }
         ]
     },
