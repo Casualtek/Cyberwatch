@@ -1,5 +1,16 @@
 [
     {
+        "date": "2026-05-01",
+        "victim": "Education Software Co., Ltd.",
+        "domain": "kyoikusw.co.jp",
+        "country": "JPN",
+        "summary": "La société japonaise de logiciels éducatifs a annoncé qu'un accès non autorisé avait été détecté sur un serveur inactif. Cet accès a entraîné une cryptage par rançongiciel et des traces d'accès non autorisé par des tiers. L'incident, découvert grâce à l'entreprise de location de serveurs, concerne des données de 4 627 personnes (clients et partenaires) qui ont utilisé un service web (système d'auto-évaluation) avant 2016. Les informations potentiellement compromises incluent des données clients, le nom de l'université, le nom et une partie du numéro d'étudiant.",
+        "description": "",
+        "title": "教育ソフトウェアの休眠中のレンタルサーバにランサムウェア攻撃、暗号化被害と不正アクセスの痕跡を確認 | ScanNetSecurity",
+        "url": "https://s.netsecurity.ne.jp/article/2026/09/08/56158.html",
+        "added": "2026-09-08"
+    },
+    {
         "date": "2026-09-03",
         "victim": "Springfield Public Schools",
         "domain": "springfieldpublicschools.com",
