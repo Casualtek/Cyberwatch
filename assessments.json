@@ -1,5 +1,12 @@
 [
   {
+    "victim": "microphase.com",
+    "domain": "microphase.com",
+    "country": "US",
+    "date": "2026-07-25",
+    "group": "lockbit5"
+  },
+  {
     "victim": "setic-pourtier.com",
     "domain": "setic-pourtier.com",
     "country": "FR",
