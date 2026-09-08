@@ -1,5 +1,16 @@
 [
     {
+        "date": "2026-09-07",
+        "victim": "Everett",
+        "domain": "cityofeverett.com",
+        "country": "USA",
+        "summary": "La ville d'Everett, dans le Massachusetts, a fermé son Hôtel de Ville suite à un incident de cybersécurité qui a affecté ses systèmes internes. La ville a découvert l'incident dimanche soir et a commencé à travailler avec des experts en cybersécurité. Bien que l'Hôtel de Ville soit fermé, les services d'urgence, les paiements en ligne et les opérations des services publics (police, pompiers, etc.) ont continué normalement. La ville n'a pas encore précisé la méthode d'accès initiale, si des données ont été compromises ou si un acteur malveillant a été identifié.",
+        "description": "",
+        "title": "Everett, Massachusetts, closes City Hall after cybersecurity incident",
+        "url": "https://dysruptionhub.com/everett-ma-city-hall-cyber-incident/",
+        "added": "2026-09-08"
+    },
+    {
         "date": "2026-09-01",
         "victim": "Stadtwerke Landsberg",
         "domain": "stadtwerke-landsberg.de",
