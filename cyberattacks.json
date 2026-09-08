@@ -1,6 +1,17 @@
 [
     {
         "date": "2026-09-02",
+        "victim": "SPZOZ Warszawa-Ursynów",
+        "domain": "zozursynow.pl",
+        "country": "POL",
+        "summary": "Le SPZOZ Warszawa-Ursynów, qui gère six cabinets médicaux et un centre de traitement à Varsovie, a été victime d'une cyberattaque par ransomware qui a affecté son serveur de messagerie. Le logiciel malveillant a chiffré la correspondance stockée, et il existe un risque potentiel de fuite de données personnelles des patients (nom, prénom, numéro PESEL, données de santé, etc.). L'incident a été signalé aux autorités compétentes, et l'établissement a isolé le serveur pour mener des analyses approfondies.",
+        "description": "",
+        "title": "Atak na sieć przychodni w Warszawie. Możliwy wyciek danych",
+        "url": "https://cyberdefence24.pl/cyberbezpieczenstwo/cyberataki/atak-na-siec-przychodni-w-warszawie-mozliwy-wyciek-danych",
+        "added": "2026-09-08"
+    },
+    {
+        "date": "2026-09-02",
         "victim": "SNEXI",
         "domain": "snexi.fr",
         "country": "FRA",
