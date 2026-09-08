@@ -310048,11 +310048,16 @@
     {
         "victim": "terra-petra.com",
         "domain": "terra-petra.com",
-        "country": "DE",
+        "country": "US",
         "timeline": [
             {
                 "date": "2026-08-17",
                 "type": "claimed",
+                "group": "lockbit5"
+            },
+            {
+                "date": "2026-08-10",
+                "type": "assessed",
                 "group": "lockbit5"
             }
         ]
