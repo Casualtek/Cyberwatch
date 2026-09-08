@@ -1,5 +1,16 @@
 [
     {
+        "date": "2026-09-01",
+        "victim": "Stadtwerke Landsberg",
+        "domain": "stadtwerke-landsberg.de",
+        "country": "GER",
+        "summary": "Une entreprise de services publics municipale en Bavière a été victime d'une cyberattaque qui a chiffré son réseau informatique central. L'incident, survenu la semaine du 1er septembre, a perturbé les systèmes de bureau, mais n'a pas affecté les services essentiels tels que l'électricité et l'eau. L'entreprise, Stadtwerke Landsberg, n'a pas identifié de groupe de ransomware spécifique ni confirmé une demande de rançon, mais elle ne peut exclure que des données personnelles (noms, adresses, numéros de téléphone, adresses e-mail et coordonnées bancaires) aient été consultées ou volées. L'enquête forensique est en cours.",
+        "description": "",
+        "title": "Cyberattack encrypts systems at Bavarian municipal utility",
+        "url": "https://therecord.media/cyberattack-bavaria-germany-utility",
+        "added": "2026-09-08"
+    },
+    {
         "date": "2026-05-01",
         "victim": "Education Software Co., Ltd.",
         "domain": "kyoikusw.co.jp",
