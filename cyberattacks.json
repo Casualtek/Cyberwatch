@@ -1,5 +1,16 @@
 [
     {
+        "date": "2026-08-06",
+        "victim": "Lancaster",
+        "domain": "lancasterohio.gov",
+        "country": "USA",
+        "summary": "La ville de Lancaster, Ohio, a dû mettre hors ligne ses ordinateurs municipaux le 6 août suite à des alertes de rançongiciel sur plusieurs machines. Bien que les systèmes essentiels (911, eau, etc.) n'aient pas été directement affectés, l'incident a entraîné des perturbations. Le 28 août, un comité a confirmé que 90% des données et programmes avaient été récupérés, mais le processus de récupération était incomplet, et 10% des données restaient en cours de traitement pour des raisons de sécurité. La ville n'a pas précisé si des informations personnelles ou financières ont été compromises, ni comment l'attaquant a accédé au réseau.",
+        "description": "",
+        "title": "Ransomware forces Lancaster, Ohio, to take city computers offline",
+        "url": "https://dysruptionhub.com/lancaster-ransomware-recovery-incomplete/",
+        "added": "2026-09-09"
+    },
+    {
         "date": "2026-09-09",
         "victim": "Le Tampon",
         "domain": "letampon.fr",
