@@ -17065,6 +17065,18 @@
         ]
     },
     {
+        "victim": "Alaska Electrical Apprenticeship",
+        "domain": "alaskaelectricalapprenticeship.org",
+        "country": "US",
+        "timeline": [
+            {
+                "date": "2026-09-08",
+                "type": "claimed",
+                "group": "qilin"
+            }
+        ]
+    },
+    {
         "victim": "ALB Forex",
         "domain": "alb.com",
         "country": "TK",
@@ -30571,6 +30583,18 @@
                 "date": "2024-06-04",
                 "type": "assessed",
                 "group": "lockbit3"
+            }
+        ]
+    },
+    {
+        "victim": "assiprime.it",
+        "domain": "assiprime.it",
+        "country": "IT",
+        "timeline": [
+            {
+                "date": "2026-09-08",
+                "type": "claimed",
+                "group": "safepay"
             }
         ]
     },
@@ -51381,6 +51405,30 @@
         ]
     },
     {
+        "victim": "Brent Electric",
+        "domain": "brentelectricinc.com",
+        "country": "GB",
+        "timeline": [
+            {
+                "date": "2026-09-08",
+                "type": "claimed",
+                "group": "akira"
+            }
+        ]
+    },
+    {
+        "victim": "Brentwood Country Club",
+        "domain": "brentwoodcc.net",
+        "country": "US",
+        "timeline": [
+            {
+                "date": "2026-09-08",
+                "type": "claimed",
+                "group": "akira"
+            }
+        ]
+    },
+    {
         "victim": "breslinbuilders.com",
         "domain": "breslinbuilders.com",
         "country": "US",
@@ -58137,6 +58185,18 @@
         ]
     },
     {
+        "victim": "cannonpuntana.com",
+        "domain": "cannonpuntana.com",
+        "country": "AR",
+        "timeline": [
+            {
+                "date": "2026-09-08",
+                "type": "claimed",
+                "group": "safepay"
+            }
+        ]
+    },
+    {
         "victim": "Cano Industrial",
         "domain": "canoindustrial.com",
         "country": "MX",
@@ -63939,6 +63999,18 @@
                 "date": "2024-03-03",
                 "type": "claimed",
                 "group": "medusa"
+            }
+        ]
+    },
+    {
+        "victim": "cenmar-manila.com",
+        "domain": "cenmar-manila.com",
+        "country": "PH",
+        "timeline": [
+            {
+                "date": "2026-09-08",
+                "type": "claimed",
+                "group": "safepay"
             }
         ]
     },
@@ -79533,6 +79605,18 @@
         ]
     },
     {
+        "victim": "contreras.com.ar",
+        "domain": "contreras.com.ar",
+        "country": "AR",
+        "timeline": [
+            {
+                "date": "2026-09-08",
+                "type": "claimed",
+                "group": "lockbit5"
+            }
+        ]
+    },
+    {
         "victim": "Control Concepts Technology",
         "domain": "controlconceptstexas.com",
         "country": "US",
@@ -80140,6 +80224,18 @@
         "timeline": [
             {
                 "date": "2026-08-25",
+                "type": "claimed",
+                "group": "chaos"
+            }
+        ]
+    },
+    {
+        "victim": "copeplastics.com",
+        "domain": "copeplastics.com",
+        "country": "GB",
+        "timeline": [
+            {
+                "date": "2026-09-08",
                 "type": "claimed",
                 "group": "chaos"
             }
@@ -83085,6 +83181,18 @@
                 "date": "2024-10-18",
                 "type": "claimed",
                 "group": "everest"
+            }
+        ]
+    },
+    {
+        "victim": "CreateASoft",
+        "domain": "createasoft.com",
+        "country": "",
+        "timeline": [
+            {
+                "date": "2026-09-08",
+                "type": "claimed",
+                "group": "akira"
             }
         ]
     },
@@ -108373,6 +108481,18 @@
         ]
     },
     {
+        "victim": "EMS1R",
+        "domain": "ems1r.com",
+        "country": "US",
+        "timeline": [
+            {
+                "date": "2026-09-08",
+                "type": "claimed",
+                "group": "direwolf"
+            }
+        ]
+    },
+    {
         "victim": "Emergency Medical Services Authority (EMSA)",
         "domain": "emsaonline.com",
         "country": "US",
@@ -118148,6 +118268,18 @@
         ]
     },
     {
+        "victim": "fdcputman.nl",
+        "domain": "fdcputman.nl",
+        "country": "NL",
+        "timeline": [
+            {
+                "date": "2026-09-08",
+                "type": "claimed",
+                "group": "lockbit5"
+            }
+        ]
+    },
+    {
         "victim": "fdf.org",
         "domain": "fdf.org",
         "country": "",
@@ -120658,6 +120790,18 @@
             {
                 "date": "2024-03-04",
                 "type": "reported"
+            }
+        ]
+    },
+    {
+        "victim": "Financière d'Uzès",
+        "domain": "finuzes.fr",
+        "country": "FR",
+        "timeline": [
+            {
+                "date": "2026-09-08",
+                "type": "claimed",
+                "group": "Panzer"
             }
         ]
     },
@@ -129866,6 +130010,18 @@
                 "date": "2026-01-08",
                 "type": "claimed",
                 "group": "qilin"
+            }
+        ]
+    },
+    {
+        "victim": "gayafores.es",
+        "domain": "gayafores.es",
+        "country": "ES",
+        "timeline": [
+            {
+                "date": "2026-09-08",
+                "type": "claimed",
+                "group": "safepay"
             }
         ]
     },
@@ -141648,6 +141804,18 @@
         ]
     },
     {
+        "victim": "gsngestion.es",
+        "domain": "gsngestion.es",
+        "country": "ES",
+        "timeline": [
+            {
+                "date": "2026-09-08",
+                "type": "claimed",
+                "group": "safepay"
+            }
+        ]
+    },
+    {
         "victim": "Gsolutionz",
         "domain": "gsolutionz.com",
         "country": "US",
@@ -141944,6 +142112,18 @@
             {
                 "date": "2023-10-23",
                 "type": "reported"
+            }
+        ]
+    },
+    {
+        "victim": "GT Distributors",
+        "domain": "gtdist.com",
+        "country": "US",
+        "timeline": [
+            {
+                "date": "2026-09-08",
+                "type": "claimed",
+                "group": "play"
             }
         ]
     },
@@ -146833,6 +147013,18 @@
                 "date": "2025-09-11",
                 "type": "claimed",
                 "group": "Ethics"
+            }
+        ]
+    },
+    {
+        "victim": "hbpro.pt",
+        "domain": "hbpro.pt",
+        "country": "PT",
+        "timeline": [
+            {
+                "date": "2026-09-08",
+                "type": "claimed",
+                "group": "safepay"
             }
         ]
     },
@@ -204506,6 +204698,18 @@
         ]
     },
     {
+        "victim": "mcnishsteel.com",
+        "domain": "mcnishsteel.com",
+        "country": "CA",
+        "timeline": [
+            {
+                "date": "2026-09-08",
+                "type": "claimed",
+                "group": "safepay"
+            }
+        ]
+    },
+    {
         "victim": "Mitrani Caballero Ojam & Ruiz Moreno - Abogados",
         "domain": "mcolex.com",
         "country": "AR",
@@ -206502,6 +206706,18 @@
         "domain": "mef.gob.pe",
         "country": "PE",
         "timeline": []
+    },
+    {
+        "victim": "Mefa Group www.mefagroup.com.tr / MEFA Endüstri www.mefaendustri.com / and (Efachem, Eco...",
+        "domain": "mefagroup.com.tr",
+        "country": "TR",
+        "timeline": [
+            {
+                "date": "2026-08-25",
+                "type": "claimed",
+                "group": "blacknevas"
+            }
+        ]
     },
     {
         "victim": "Megacentro",
@@ -241031,6 +241247,18 @@
         ]
     },
     {
+        "victim": "palmettoeyeinstitute.com",
+        "domain": "palmettoeyeinstitute.com",
+        "country": "US",
+        "timeline": [
+            {
+                "date": "2026-09-08",
+                "type": "claimed",
+                "group": "safepay"
+            }
+        ]
+    },
+    {
         "victim": "palmfs.com",
         "domain": "palmfs.com",
         "country": "US",
@@ -264029,6 +264257,18 @@
         ]
     },
     {
+        "victim": "recoverycafe.org",
+        "domain": "recoverycafe.org",
+        "country": "US",
+        "timeline": [
+            {
+                "date": "2026-09-08",
+                "type": "claimed",
+                "group": "safepay"
+            }
+        ]
+    },
+    {
         "victim": "Recsa",
         "domain": "recsa.com",
         "country": "CR",
@@ -264359,6 +264599,18 @@
                 "date": "2025-12-11",
                 "type": "claimed",
                 "group": "nightspire"
+            }
+        ]
+    },
+    {
+        "victim": "Red Star Oil",
+        "domain": "redstaroil.com",
+        "country": "RS",
+        "timeline": [
+            {
+                "date": "2026-09-08",
+                "type": "claimed",
+                "group": "play"
             }
         ]
     },
@@ -265043,6 +265295,18 @@
             {
                 "date": "2025-11-10",
                 "type": "assessed",
+                "group": "safepay"
+            }
+        ]
+    },
+    {
+        "victim": "reichenau.at",
+        "domain": "reichenau.at",
+        "country": "AT",
+        "timeline": [
+            {
+                "date": "2026-09-08",
+                "type": "claimed",
                 "group": "safepay"
             }
         ]
@@ -274552,6 +274816,18 @@
         ]
     },
     {
+        "victim": "SAD'S Interim",
+        "domain": "sads-interim.eu",
+        "country": "FR",
+        "timeline": [
+            {
+                "date": "2026-09-08",
+                "type": "claimed",
+                "group": "rhysida"
+            }
+        ]
+    },
+    {
         "victim": "Sadtek",
         "domain": "sadtek.com",
         "country": "TR",
@@ -275661,6 +275937,18 @@
                 "date": "2025-06-13",
                 "type": "assessed",
                 "group": "safepay"
+            }
+        ]
+    },
+    {
+        "victim": "Sales Boomerang",
+        "domain": "salesboomerang.com",
+        "country": "US",
+        "timeline": [
+            {
+                "date": "2026-09-08",
+                "type": "claimed",
+                "group": "direwolf"
             }
         ]
     },
@@ -276865,6 +277153,18 @@
                 "date": "2026-03-09",
                 "type": "claimed",
                 "group": "thegentlemen"
+            }
+        ]
+    },
+    {
+        "victim": "The Zhou Law Group",
+        "domain": "sanjoseattorneys.com",
+        "country": "US",
+        "timeline": [
+            {
+                "date": "2026-09-08",
+                "type": "claimed",
+                "group": "Eclipse"
             }
         ]
     },
@@ -323345,6 +323645,18 @@
                 "date": "2023-03-23",
                 "type": "claimed",
                 "group": "clop"
+            }
+        ]
+    },
+    {
+        "victim": "TTG Asia Media",
+        "domain": "ttgasia.com",
+        "country": "SG",
+        "timeline": [
+            {
+                "date": "2026-09-08",
+                "type": "claimed",
+                "group": "Eclipse"
             }
         ]
     },
