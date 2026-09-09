@@ -92069,6 +92069,18 @@
         ]
     },
     {
+        "victim": "eAssist Dental Solutions",
+        "domain": "dentalbilling.com",
+        "country": "US",
+        "timeline": [
+            {
+                "date": "2026-09-06",
+                "type": "claimed",
+                "group": "direwolf"
+            }
+        ]
+    },
+    {
         "victim": "DentaQuest.com",
         "domain": "dentaquest.com",
         "country": "US",
@@ -103857,6 +103869,18 @@
         ]
     },
     {
+        "victim": "Edacentrum",
+        "domain": "edacentrum.de",
+        "country": "DE",
+        "timeline": [
+            {
+                "date": "2026-09-06",
+                "type": "claimed",
+                "group": "Panzer"
+            }
+        ]
+    },
+    {
         "victim": "edc.dk",
         "domain": "edc.dk",
         "country": "DK",
@@ -113708,6 +113732,18 @@
                 "date": "2025-02-12",
                 "type": "assessed",
                 "group": "cactus"
+            }
+        ]
+    },
+    {
+        "victim": "evergenbio.com",
+        "domain": "evergenbio.com",
+        "country": "US",
+        "timeline": [
+            {
+                "date": "2026-09-06",
+                "type": "claimed",
+                "group": "chaos"
             }
         ]
     },
@@ -152867,6 +152903,18 @@
         ]
     },
     {
+        "victim": "Homewood Sales",
+        "domain": "homewoodsales.com",
+        "country": "US",
+        "timeline": [
+            {
+                "date": "2026-09-04",
+                "type": "claimed",
+                "group": "dragonforce"
+            }
+        ]
+    },
+    {
         "victim": "Homeyer Consulting Services, Inc",
         "domain": "homeyer.com",
         "country": "US",
@@ -178221,6 +178269,18 @@
         ]
     },
     {
+        "victim": "KHALED ALFAGIH ENGINEERING CONSULTANCY",
+        "domain": "kfoco.com",
+        "country": "SA",
+        "timeline": [
+            {
+                "date": "2026-09-06",
+                "type": "claimed",
+                "group": "Panzer"
+            }
+        ]
+    },
+    {
         "victim": "KFZ Sauter GmbH Co. KG",
         "domain": "kfz-sauter.com",
         "country": "DE",
@@ -203369,7 +203429,7 @@
         ]
     },
     {
-        "victim": "McDonald's Ecuador",
+        "victim": "McDonalds Ecuador",
         "domain": "mcdonalds.com.ec",
         "country": "EC",
         "timeline": [
@@ -219959,6 +220019,18 @@
         ]
     },
     {
+        "victim": "myLaurel",
+        "domain": "mylaurelhealth.com",
+        "country": "US",
+        "timeline": [
+            {
+                "date": "2026-09-06",
+                "type": "claimed",
+                "group": "direwolf"
+            }
+        ]
+    },
+    {
         "victim": "www.mylawcompany.com",
         "domain": "mylawcompany.com",
         "country": "US",
@@ -229511,6 +229583,18 @@
                 "date": "2025-08-15",
                 "type": "claimed",
                 "group": "sinobi"
+            }
+        ]
+    },
+    {
+        "victim": "Norwood Law Firm",
+        "domain": "norwoodlegal.com",
+        "country": "US",
+        "timeline": [
+            {
+                "date": "2026-09-04",
+                "type": "claimed",
+                "group": "dragonforce"
             }
         ]
     },
@@ -272287,6 +272371,18 @@
         ]
     },
     {
+        "victim": "RTAD GOV MM",
+        "domain": "rtad.gov.mm",
+        "country": "MM",
+        "timeline": [
+            {
+                "date": "2026-09-06",
+                "type": "claimed",
+                "group": "DYSPHOR1A"
+            }
+        ]
+    },
+    {
         "victim": "RTA",
         "domain": "rtafleet.com",
         "country": "US",
@@ -272525,6 +272621,18 @@
                 "date": "2026-05-15",
                 "type": "assessed",
                 "group": "lockbit5"
+            }
+        ]
+    },
+    {
+        "victim": "rubbermill.com",
+        "domain": "rubbermill.com",
+        "country": "US",
+        "timeline": [
+            {
+                "date": "2026-08-15",
+                "type": "claimed",
+                "group": "dragonforce"
             }
         ]
     },
@@ -275831,6 +275939,18 @@
                 "date": "2026-01-20",
                 "type": "claimed",
                 "group": "thegentlemen"
+            }
+        ]
+    },
+    {
+        "victim": "Sancity",
+        "domain": "sancity.in",
+        "country": "IN",
+        "timeline": [
+            {
+                "date": "2026-09-06",
+                "type": "claimed",
+                "group": "Vexy Ransomware"
             }
         ]
     },
@@ -341893,6 +342013,17 @@
                 "date": "2026-09-01",
                 "type": "claimed",
                 "group": "incransom"
+            },
+            {
+                "date": "2026-09-09",
+                "type": "discovered",
+                "summary": "Les Westfield Public Schools, dans le New Jersey, ont subi une panne de réseau qui a perturbé les communications et l'enseignement numérique pendant la première semaine de l'année scolaire. Bien que le district ait initialement attribué la panne à une défaillance matérielle, le groupe INC Ransom a revendiqué la responsabilité de l'incident et a listé le district sur son site de fuite, affichant des images de formulaires W-2 d'employés. Le district n'a pas confirmé qu'il s'agissait d'une cyberattaque, mais a qualifié le problème de « perturbation technologique ».",
+                "title": "Network outage disrupts Westfield Public Schools in New Jersey as ransomware group posts samples",
+                "url": "https://dysruptionhub.com/westfield-schools-network-outage/"
+            },
+            {
+                "date": "2026-09-01",
+                "type": "reported"
             }
         ]
     },
