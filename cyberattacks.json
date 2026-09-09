@@ -1,5 +1,16 @@
 [
     {
+        "date": "2026-09-01",
+        "victim": "Westfield Public Schools",
+        "domain": "westfieldnjk12.org",
+        "country": "USA",
+        "summary": "Les Westfield Public Schools, dans le New Jersey, ont subi une panne de réseau qui a perturbé les communications et l'enseignement numérique pendant la première semaine de l'année scolaire. Bien que le district ait initialement attribué la panne à une défaillance matérielle, le groupe INC Ransom a revendiqué la responsabilité de l'incident et a listé le district sur son site de fuite, affichant des images de formulaires W-2 d'employés. Le district n'a pas confirmé qu'il s'agissait d'une cyberattaque, mais a qualifié le problème de « perturbation technologique ».",
+        "description": "",
+        "title": "Network outage disrupts Westfield Public Schools in New Jersey as ransomware group posts samples",
+        "url": "https://dysruptionhub.com/westfield-schools-network-outage/",
+        "added": "2026-09-09"
+    },
+    {
         "date": "2026-01-29",
         "victim": "Ville de Bourg-Achard",
         "domain": "bourgachard.fr",
