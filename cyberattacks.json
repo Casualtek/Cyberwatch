@@ -1,5 +1,16 @@
 [
     {
+        "date": "2026-02-04",
+        "victim": "Gex Corporation",
+        "domain": "gex-fp.co.jp",
+        "country": "JPN",
+        "summary": "La société Gex Corporation a annoncé avoir été victime d'une attaque par rançongiciel sur ses serveurs. L'incident a été découvert le 4 février, lorsque des fichiers sur certains de ses serveurs ont été chiffrés, et a été confirmé comme étant une attaque par rançongiciel.",
+        "description": "",
+        "title": "ジェックスにランサムウェア攻撃、商品の出荷を停止 | ScanNetSecurity",
+        "url": "https://scan.netsecurity.ne.jp/article/2026/02/25/54700.html",
+        "added": "2026-09-09"
+    },
+    {
         "date": "2026-09-06",
         "victim": "Gojin Motors",
         "domain": "gojin.com",
