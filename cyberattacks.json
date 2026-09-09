@@ -1,5 +1,16 @@
 [
     {
+        "date": "2026-09-06",
+        "victim": "Gojin Motors",
+        "domain": "gojin.com",
+        "country": "KOR",
+        "summary": "Le concessionnaire officiel de voitures importées, Gojin Motors, a été victime d'un accès illégal externe et d'une infection par ransomware sur certains de ses serveurs internes. L'incident a déclenché une enquête pour déterminer l'étendue de la fuite de données personnelles de ses clients, incluant des informations d'identité et des historiques de service. Bien que Gojin Motors affirme que l'ampleur de la fuite est faible, l'incident soulève des préoccupations concernant la gestion des données clients dans le secteur des concessionnaires de voitures importées, car ces informations peuvent être utilisées pour des attaques de phishing sophistiquées ou des fraudes.",
+        "description": "",
+        "title": "아우디 딜러 고진모터스, 랜섬웨어 공격…수입차, 개인정보 보안 ‘비상’",
+        "url": "https://www.asiatoday.co.kr/kn/view.php?key=20260909010003626",
+        "added": "2026-09-09"
+    },
+    {
         "date": "2026-09-01",
         "victim": "Westfield Public Schools",
         "domain": "westfieldnjk12.org",
