@@ -1,5 +1,16 @@
 [
     {
+        "date": "2026-09-08",
+        "victim": "Hilltop National Bank",
+        "domain": "hilltop.bank",
+        "country": "USA",
+        "summary": "La Hilltop National Bank, basée à Casper, Wyoming, a dû fermer tous ses bureaux et ses systèmes internes après avoir détecté un incident de cybersécurité. Cet incident a perturbé les services bancaires en ligne, mobiles, les services téléphoniques et les paiements programmés. La banque a isolé son réseau pour protéger les données et a informé les autorités réglementaires. Elle a promis de rembourser les frais et charges engendrés par l'incident.",
+        "description": "",
+        "title": "Hilltop National Bank closes Wyoming branches after cybersecurity incident",
+        "url": "https://dysruptionhub.com/hilltop-bank-wyoming-cyber-incident/",
+        "added": "2026-09-10"
+    },
+    {
         "date": "2026-08-06",
         "victim": "Lancaster",
         "domain": "lancasterohio.gov",
