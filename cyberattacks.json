@@ -1,5 +1,16 @@
 [
     {
+        "date": "2026-06-29",
+        "victim": "Salida Union School District",
+        "domain": "salida.k12.ca.us",
+        "country": "USA",
+        "summary": "Le Salida School District, situé dans le Colorado, a subi une cyberattaque qui a forcé la mise hors ligne de son réseau le 29 juin. L'attaque a endommagé des fichiers stockés localement et perturbé les opérations administratives, bien que les systèmes basés sur le cloud soient restés opérationnels. Bien qu'il n'y ait pas de confirmation publique de l'extraction de données, l'incident a été signalé aux forces de l'ordre et une enquête est en cours. Une telle attaque a été revendiquée par Qilin le 27 juillet.",
+        "description": "",
+        "title": "Cyberattack damages files at Salida School District in Colorado",
+        "url": "https://dysruptionhub.com/salida-school-district-cyberattack/",
+        "added": "2026-09-10"
+    },
+    {
         "date": "2026-09-08",
         "victim": "Hilltop National Bank",
         "domain": "hilltop.bank",
