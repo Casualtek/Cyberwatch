@@ -1,5 +1,16 @@
 [
     {
+        "date": "2026-03-23",
+        "victim": "Hrastnik",
+        "domain": "hrastnik.si",
+        "country": "SVN",
+        "summary": "La ville de Hrastnik a été victime d'une cyberattaque par rançongiciel, découverte le 23 mars 2026. Les attaquants ont pénétré le système d'information de la municipalité via un compte de connexion à distance test. L'attaque a paralysé le travail de l'administration pendant plusieurs jours. Bien que la majorité des données aient été chiffrées, l'analyse technique a confirmé qu'il n'y a pas eu de fuite ou d'abus de données. La municipalité estime le coût de la restauration du système à environ 70 000 euros. Les autorités locales ont renforcé la sécurité et ont signalé l'incident à la police et aux organismes nationaux de cybersécurité. L'attaque est attribuée à un groupe criminel organisé.",
+        "description": "",
+        "title": "Vdrli v sistem Občine Hrastnik in povzročili za 70.000 evrov škode",
+        "url": "https://zon.si/vdrli-v-sistem-obcine-hrastnik-in-povzrocili-za-70-000-evrov-skode/",
+        "added": "2026-09-10"
+    },
+    {
         "date": "2026-09-06",
         "victim": "Batipro",
         "domain": "batipro.lu",
