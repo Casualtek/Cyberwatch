@@ -1,5 +1,16 @@
 [
     {
+        "date": "2026-09-06",
+        "victim": "Batipro",
+        "domain": "batipro.lu",
+        "country": "LUX",
+        "summary": "Batipro, un fournisseur de matériaux de construction basé à Betrange, a été victime d'une cyberattaque qui a ciblé l'ensemble de ses six serveurs. L'incident, survenu le week-end, pourrait potentiellement entraîner un léger retard dans le paiement des heures supplémentaires. Le syndicat LCGB note que c'est le premier cas de cyberattaque dans le secteur de la construction au Luxembourg, soulignant une augmentation perçue de ces incidents. L'article mentionne également d'autres incidents récents, tels que des attaques contre des cabinets médicaux et des sites gouvernementaux.",
+        "description": "",
+        "title": "First known cyberattack on construction sector delays overtime pay for 800 staff",
+        "url": "https://www.luxtimes.lu/luxembourg/first-known-cyberattack-on-construction-sector-delays-overtime-pay-for-800-staff/161218050.html",
+        "added": "2026-09-10"
+    },
+    {
         "date": "2026-06-29",
         "victim": "Salida Union School District",
         "domain": "salida.k12.ca.us",
