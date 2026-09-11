@@ -1,5 +1,16 @@
 [
     {
+        "date": "2026-09-10",
+        "victim": "Mississippi Institutions of Higher Learning (IHL)",
+        "domain": "mississippi.edu",
+        "country": "USA",
+        "summary": "Un incident de sécurité réseau a affecté le bureau d'aide financière des étudiants de Mississippi. Bien que le portail d'aide en ligne (MAAPP) soit resté opérationnel, l'organisme a fait appel à des experts en cybersécurité pour déterminer si des données confidentielles avaient été compromises. Aucune université n'a signalé de problèmes, et l'enquête est encore à un stade précoce.",
+        "description": "",
+        "title": "Mississippi public university system reports financial aid disruption",
+        "url": "https://dysruptionhub.com/mississippi-ihl-financial-aid-incident/",
+        "added": "2026-09-11"
+    },
+    {
         "date": "2026-09-11",
         "victim": "DR.WU Skincare Co., Ltd.",
         "domain": "drwu.com",
