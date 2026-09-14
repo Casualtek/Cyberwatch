@@ -1,5 +1,16 @@
 [
     {
+        "date": "2026-09-11",
+        "victim": "Duopharma Biotech Bhd (DPHARMA)",
+        "domain": "duopharmabiotech.com",
+        "country": "MYS",
+        "summary": "La société de produits pharmaceutiques Duopharma Biotech a été victime d'une cyberattaque, avec des intrus non autorisés accédant à son infrastructure informatique. Une enquête préliminaire suggère que des archives, potentiellement incluant des données personnelles, ont été volées. L'entreprise a mis en place des mesures de confinement immédiates et assure que ses systèmes opérationnels et son réseau central ne sont pas affectés, permettant la continuité des activités. Duopharma a lancé une enquête numérique complète et s'engage à renforcer sa sécurité en attendant de déterminer l'étendue exacte des données compromises.",
+        "description": "",
+        "title": "联合药业遭网络攻击 个人资料或外泄",
+        "url": "https://www.klsescreener.com/v2/news/view/1790765/联合药业遭网络攻击_个人资料或外泄",
+        "added": "2026-09-14"
+    },
+    {
         "date": "2026-09-08",
         "victim": "Comune di Prato",
         "domain": "comune.prato.it",
