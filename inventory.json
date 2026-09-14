@@ -301487,6 +301487,18 @@
         ]
     },
     {
+        "victim": "Stransky Heiz-Mess-Regeltechnik GmbH",
+        "domain": "stransky.co.at",
+        "country": "AT",
+        "timeline": [
+            {
+                "date": "2026-08-24",
+                "type": "assessed",
+                "group": "akira"
+            }
+        ]
+    },
+    {
         "victim": "St Raphael'S Hospice",
         "domain": "straphaels.org.uk",
         "country": "UK",
