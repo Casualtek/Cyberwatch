@@ -51425,6 +51425,11 @@
                 "date": "2026-09-08",
                 "type": "claimed",
                 "group": "akira"
+            },
+            {
+                "date": "2026-07-31",
+                "type": "assessed",
+                "group": "akira"
             }
         ]
     },
@@ -99833,6 +99838,17 @@
                 "group": "lockbit5"
             },
             {
+                "date": "2026-09-11",
+                "type": "discovered",
+                "summary": "Le système d'information interne de DR.WU Skincare a été victime d'une cyberattaque. L'entreprise a évalué que l'impact sur ses opérations n'est pas majeur. Après avoir détecté l'anomalie, elle a immédiatement activé son mécanisme de réponse aux incidents de sécurité et a isolé les systèmes concernés. L'entreprise n'a pas trouvé de fuite de données personnelles à ce jour.",
+                "title": "證期權",
+                "url": "https://ww2.money-link.com.tw/RealtimeNews/NewsContent.aspx?SN=2420626002&PU=0010"
+            },
+            {
+                "date": "2026-09-11",
+                "type": "reported"
+            },
+            {
                 "date": "2026-03-19",
                 "type": "assessed",
                 "group": "lockbit5"
@@ -100903,6 +100919,17 @@
                 "date": "2024-09-18",
                 "type": "claimed",
                 "group": "ValenciaLeaks"
+            },
+            {
+                "date": "2026-09-14",
+                "type": "discovered",
+                "summary": "La société de produits pharmaceutiques Duopharma Biotech a été victime d'une cyberattaque, avec des intrus non autorisés accédant à son infrastructure informatique. Une enquête préliminaire suggère que des archives, potentiellement incluant des données personnelles, ont été volées. L'entreprise a mis en place des mesures de confinement immédiates et assure que ses systèmes opérationnels et son réseau central ne sont pas affectés, permettant la continuité des activités. Duopharma a lancé une enquête numérique complète et s'engage à renforcer sa sécurité en attendant de déterminer l'étendue exacte des données compromises.",
+                "title": "联合药业遭网络攻击 个人资料或外泄",
+                "url": "https://www.klsescreener.com/v2/news/view/1790765/联合药业遭网络攻击_个人资料或外泄"
+            },
+            {
+                "date": "2026-09-11",
+                "type": "reported"
             }
         ]
     },
@@ -276026,6 +276053,17 @@
                 "date": "2026-07-22",
                 "type": "claimed",
                 "group": "qilin"
+            },
+            {
+                "date": "2026-09-10",
+                "type": "discovered",
+                "summary": "Le Salida School District, situé dans le Colorado, a subi une cyberattaque qui a forcé la mise hors ligne de son réseau le 29 juin. L'attaque a endommagé des fichiers stockés localement et perturbé les opérations administratives, bien que les systèmes basés sur le cloud soient restés opérationnels. Bien qu'il n'y ait pas de confirmation publique de l'extraction de données, l'incident a été signalé aux forces de l'ordre et une enquête est en cours. Une telle attaque a été revendiquée par Qilin le 27 juillet.",
+                "title": "Cyberattack damages files at Salida School District in Colorado",
+                "url": "https://dysruptionhub.com/salida-school-district-cyberattack/"
+            },
+            {
+                "date": "2026-06-29",
+                "type": "reported"
             }
         ]
     },
