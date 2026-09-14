@@ -184351,6 +184351,18 @@
         ]
     },
     {
+        "victim": "Kyodo USA",
+        "domain": "kyodousa.com",
+        "country": "US",
+        "timeline": [
+            {
+                "date": "2026-06-24",
+                "type": "assessed",
+                "group": "akira"
+            }
+        ]
+    },
+    {
         "victim": "Kyokuto Kaihatsu Kogyo",
         "domain": "kyokuto.com",
         "country": "JP",
