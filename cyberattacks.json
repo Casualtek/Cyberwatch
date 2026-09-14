@@ -1,5 +1,16 @@
 [
     {
+        "date": "2026-09-09",
+        "victim": "Port of Tanjung Pelepas",
+        "domain": "ptp.com.my",
+        "country": "MYS",
+        "summary": "Le Port de Tanjung Pelepas a confirmé avoir subi un incident de cybersécurité qui a affecté ses systèmes d'exploitation et a temporairement interrompu les opérations du terminal à conteneurs. Un redémarrage progressif a commencé le 10 septembre.",
+        "description": "",
+        "title": "Cyber attack disrupts operations at Malaysia’s Port of Tanjung Pelepas",
+        "url": "https://www.lloydslist.com/LL1158420/Cyber-attack-disrupts-operations-at-Malaysia%E2%80%99s-Port-of-Tanjung-Pelepas",
+        "added": "2026-09-14"
+    },
+    {
         "date": "2026-09-11",
         "victim": "Machelen",
         "domain": "machelen.be",
