@@ -1,5 +1,16 @@
 [
     {
+        "date": "2026-09-08",
+        "victim": "Comune di Prato",
+        "domain": "comune.prato.it",
+        "country": "ITA",
+        "summary": "Le systèmes du Comune di Prato ont été touchés par une cyberattaque le 8 septembre. L'incident a été rapidement détecté et contenu par les systèmes de surveillance. Les premières vérifications n'ont révélé aucune altération des bases de données, des archives ou des dossiers réseau. Le Conseil municipal a mis en place des mesures de sécurité et a signalé l'incident à la police postale pour identifier les responsables.",
+        "description": "",
+        "title": "Attacco informatico al Comune di Prato, nessuna violazione delle banche dati",
+        "url": "https://www.notiziediprato.it/attualita/attacco-informatico-al-comune-di-prato-nessuna-violazione-delle-banche-dati/",
+        "added": "2026-09-14"
+    },
+    {
         "date": "2026-09-11",
         "victim": "Kreishandwerkerschaft Borken",
         "domain": "kh-borken.de",
