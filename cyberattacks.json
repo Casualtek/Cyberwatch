@@ -1,6 +1,17 @@
 [
     {
         "date": "2026-09-11",
+        "victim": "Machelen",
+        "domain": "machelen.be",
+        "country": "BEL",
+        "summary": "Le gouvernement local de Machelen est confronté à un incident de cybersécurité qui a paralysé ses systèmes numériques depuis le vendredi 11 septembre 2026. L'attaque, qui semble être survenue via du 'phishing', a forcé la fermeture des guichets municipaux. Les autorités enquêtent pour déterminer l'étendue des dégâts et s'assurer qu'aucune donnée personnelle n'a été divulguée. Bien que les services numériques de base (site web, e-loket) restent accessibles via d'autres systèmes, la communication par e-mail est interrompue.",
+        "description": "",
+        "title": "Cyberaanval treft dienstverlening van gemeente Machelen: \"Vermoedelijk geen persoonsgegevens gestolen\" | VRT NWS Nieuws",
+        "url": "https://www.vrt.be/vrtnws/nl/2026/09/14/cyberaanval-treft-dienstverlening-van-gemeente-machelen-vermoe/",
+        "added": "2026-09-14"
+    },
+    {
+        "date": "2026-09-11",
         "victim": "Duopharma Biotech Bhd (DPHARMA)",
         "domain": "duopharmabiotech.com",
         "country": "MYS",
