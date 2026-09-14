@@ -1,5 +1,16 @@
 [
     {
+        "date": "2026-09-11",
+        "victim": "Kreishandwerkerschaft Borken",
+        "domain": "kh-borken.de",
+        "country": "DEU",
+        "summary": "La Kreishandwerkerschaft Borken a été victime d'une cyberattaque. Le serveur de l'institution a été compromis dans la nuit du jeudi au vendredi 11 septembre, rendant l'organisation injoignable par téléphone et par courriel. Cette situation devrait durer au moins jusqu'au mercredi 16 septembre, voire plus longtemps.",
+        "description": "",
+        "title": "Kreishandwerkerschaft von Hackern angegriffen",
+        "url": "https://www.wn.de/muensterland/kreis-borken/gronau/kreishandwerkerschaft-von-hackern-angegriffen-3646428?pid=true&ueg=default",
+        "added": "2026-09-14"
+    },
+    {
         "date": "2026-09-10",
         "victim": "Mississippi Institutions of Higher Learning (IHL)",
         "domain": "mississippi.edu",
