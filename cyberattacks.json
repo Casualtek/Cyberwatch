@@ -1,5 +1,16 @@
 [
     {
+        "date": "2026-08-14",
+        "victim": "Cedar County Memorial Hospital",
+        "domain": "cedarcomem.com",
+        "country": "USA",
+        "summary": "Le Cedar County Memorial Hospital, situé à El Dorado Springs, Missouri, a subi une panne de ses réseaux informatiques le 14 août, entraînant l'indisponibilité des dossiers de santé électroniques, du portail patient et de l'accès Internet. L'incident, qui a affecté également sa clinique médicale, a nécessité que le personnel documente les soins manuellement. Bien que la panne ait été résolue en grande partie d'ici le 28 août, le système Meditech est resté hors ligne pendant deux semaines. Le groupe de ransomware Wallstreet a publié une page le 28 août, affirmant avoir des données volées de l'hôpital. L'hôpital a indiqué que des experts externes et le FBI enquêtaient, mais n'a pas confirmé si les informations des patients avaient été affectées.",
+        "description": "",
+        "title": "Ransomware group claims attack on Missouri’s Cedar County Memorial Hospital after IT outage",
+        "url": "https://dysruptionhub.com/cedar-county-hospital-it-shutdown/",
+        "added": "2026-09-16"
+    },
+    {
         "date": "2026-09-09",
         "victim": "Port of Tanjung Pelepas",
         "domain": "ptp.com.my",
