@@ -1,5 +1,16 @@
 [
     {
+        "date": "2026-08-23",
+        "victim": "Ville de Libercourt",
+        "domain": "libercourt.fr",
+        "country": "FRA",
+        "summary": "La ville de Libercourt a été victime d'une cyberattaque par rançongiciel (ransomware) à la fin du mois d'août. Bien que les services municipaux ne soient pas impactés, il est confirmé que des données personnelles ont été exfiltrées. La municipalité a renforcé la sécurité de ses serveurs et a signalé l'incident à la CNIL et à l'ANSSI. Selon une source externe, les cybercriminels, se revendiquant de l'enseigne Qilin, auraient volé 817 Go de données, incluant des bulletins de paie et des cartes d'identité, et menacent de les publier.",
+        "description": "",
+        "title": "« Des données personnelles ont été exfiltrées » : la ville de Libercourt visée par une cyberattaque",
+        "url": "https://www.lavoixdunord.fr/1737463/article/2026-09-15/des-donnees-personnelles-ont-ete-exfiltrees-la-ville-de-libercourt-visee-par-une",
+        "added": "2026-09-16"
+    },
+    {
         "date": "2026-09-10",
         "victim": "Maison du souvenir de Maillé",
         "domain": "maisondusouvenir.fr",
