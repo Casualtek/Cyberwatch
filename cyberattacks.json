@@ -1,5 +1,16 @@
 [
     {
+        "date": "2026-09-10",
+        "victim": "Maison du souvenir de Maillé",
+        "domain": "maisondusouvenir.fr",
+        "country": "FRA",
+        "summary": "La Maison du souvenir de Maillé a été victime d'une cyberattaque par rançongiciel, qui a chiffré et rendu inaccessibles l'ensemble de ses données, y compris des photographies, des documents de recherche et des témoignages collectés sur plus de vingt ans. Les pirates exigent une rançon de 5000 $ en bitcoins pour la récupération des données. L'incident a été découvert dans la nuit du 9 au 10 septembre 2026, et la Maison du souvenir est confrontée à un dilemme quant au paiement de la rançon, tout en étant également victime d'une violation de données à caractère personnel (adresses électroniques d'adhérents).",
+        "description": "",
+        "title": "\"Vingt années de travail anéanties\" : une cyberattaque vise la Maison du souvenir de Maillé, témoin du massacre de 1944",
+        "url": "https://france3-regions.franceinfo.fr/centre-val-de-loire/indre-loire/vingt-annees-de-travail-aneanties-une-cyberattaque-vise-la-maison-du-souvenir-de-maille-temoin-du-massacre-de-1944-3417461.html",
+        "added": "2026-09-16"
+    },
+    {
         "date": "2026-08-14",
         "victim": "Cedar County Memorial Hospital",
         "domain": "cedarcomem.com",
