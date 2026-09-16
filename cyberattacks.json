@@ -1,5 +1,16 @@
 [
     {
+        "date": "2026-08-30",
+        "victim": "Avelogic",
+        "domain": "avelogic.com",
+        "country": "SGP",
+        "summary": "Le système de paie des mosquées et madrasahs à Singapour, géré par le Conseil religieux islamique de Singapour (MUIS), a été victime d'une cyberattaque par rançongiciel. Le système SmartHRMS, fourni par le fournisseur de logiciels Avelogic, a été compromis, potentiellement affectant les détails du personnel, y compris les noms, coordonnées, salaires et numéros de compte bancaire. L'incident a été détecté pour la première fois le 30 et 31 août. Bien que des efforts aient été faits pour récupérer les données et que l'on ait pu restaurer le dernier ensemble de données mis à jour, les autorités mènent toujours des enquêtes, et il n'est pas clair si les données ont été volées en masse ou si la rançon a été payée.",
+        "description": "",
+        "title": "Payroll system of mosques, madrasahs hit by ransomware; staff details potentially compromised",
+        "url": "https://www.straitstimes.com/singapore/courts-crime/payroll-system-of-mosques-madrasahs-hit-by-ransomware-staff-details-potentially-compromised",
+        "added": "2026-09-16"
+    },
+    {
         "date": "2026-08-23",
         "victim": "Ville de Libercourt",
         "domain": "libercourt.fr",
