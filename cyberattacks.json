@@ -1,5 +1,16 @@
 [
     {
+        "date": "2026-09-15",
+        "victim": "Ayuntamiento de Collado Villalba",
+        "domain": "colladovillalba.es",
+        "country": "ESP",
+        "summary": "L'Ayuntamiento de Collado Villalba a été victime d'une cyberattaque qui a paralysé son support informatique municipal. L'incident a entraîné la chute complète du site web électronique de la municipalité et la fermeture des deux bureaux de service aux citoyens. Initialement attribué à une panne technique, l'Ayuntamiento a confirmé par la suite qu'il s'agissait d'une attaque informatique délibérée. La municipalité a déposé une plainte auprès de la Guardia Civil et a coordonné l'analyse avec la Consejería de Digitalización de la Communauté de Madrid.",
+        "description": "",
+        "title": "Un ciberataque colapsa los servicios informáticos del Ayuntamiento de Collado Villalba y deja a miles de vecinos sin atención",
+        "url": "https://cadenaser.com/cmadrid/2026/09/15/collado-villalba-paraliza-sus-oficinas-de-atencion-y-la-sede-web-por-un-fallo-informatico-en-el-ayuntamiento-ser-madrid-sierra/",
+        "added": "2026-09-16"
+    },
+    {
         "date": "2026-08-30",
         "victim": "Avelogic",
         "domain": "avelogic.com",
