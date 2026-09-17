@@ -1,6 +1,17 @@
 [
     {
         "date": "2026-09-15",
+        "victim": "Evergreen Aviation Technologies Corporation",
+        "domain": "egat.com.tw",
+        "country": "TWN",
+        "summary": "Le 15 septembre 2026, la société Evergreen Aviation Technologies Corporation a détecté une cyberattaque visant certains de ses systèmes d'information internes. L'entreprise a immédiatement isolé les points d'accès affectés et fait appel à une équipe technique externe pour mener une enquête forensique. Selon l'évaluation préliminaire, les opérations commerciales et les systèmes centraux fonctionnent normalement, et aucune fuite de données personnelles sensibles concernant des clients ou des tiers n'a été identifiée.",
+        "description": "",
+        "title": "Today's Information",
+        "url": "https://emops.twse.com.tw/server-java/t05sr01_1_e?&isNew=Y&seq_no=2&spoke_time=213042&spoke_date=20260915&co_id=2645",
+        "added": "2026-09-17"
+    },
+    {
+        "date": "2026-09-15",
         "victim": "EVA AIRWAYS CORPORATION",
         "domain": "evaair.com",
         "country": "TWN",
