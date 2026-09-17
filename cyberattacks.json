@@ -1,6 +1,17 @@
 [
     {
         "date": "2026-09-15",
+        "victim": "EVA AIRWAYS CORPORATION",
+        "domain": "evaair.com",
+        "country": "TWN",
+        "summary": "Le 15 septembre 2026, la compagnie EVA Airways a détecté une infiltration malveillante de son réseau interne via des adresses IP suspectes. L'attaquant a accédé aux noms et aux coordonnées professionnelles de certains employés. L'entreprise a immédiatement pris des mesures de protection, informé les autorités réglementaires et a confirmé que ses opérations et ses services n'ont pas été impactés.",
+        "description": "",
+        "title": "Today's Information",
+        "url": "https://emops.twse.com.tw/server-java/t05sr01_1_e?&isNew=Y&seq_no=2&spoke_time=212731&spoke_date=20260915&co_id=2618",
+        "added": "2026-09-17"
+    },
+    {
+        "date": "2026-09-15",
         "victim": "Ayuntamiento de Collado Villalba",
         "domain": "colladovillalba.es",
         "country": "ESP",
