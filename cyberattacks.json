@@ -1,5 +1,16 @@
 [
     {
+        "date": "2026-08-25",
+        "victim": "Nittetsu Kokowa Fudosan Co., Ltd.",
+        "domain": "nittetsukou.co.jp",
+        "country": "JPN",
+        "summary": "Nittetsu Kokowa Fudosan Co., Ltd. a annoncé avoir détecté un accès non autorisé par un tiers à une partie de son service cloud le 25 août. Ce service contenait des informations clients relatives aux ventes d'appartements. Bien qu'aucune fuite ou utilisation frauduleuse de données personnelles n'ait été confirmée à ce jour, l'entreprise a cessé la connexion au service concerné et mène une enquête en collaboration avec l'opérateur du système.",
+        "description": "",
+        "title": "日鉄興和不動産が利用するクラウドサービスに不正アクセス、マンション販売業務等に関する顧客情報を保存 | ScanNetSecurity",
+        "url": "https://scan.netsecurity.ne.jp/article/2026/09/16/56246.html",
+        "added": "2026-09-17"
+    },
+    {
         "date": "2026-09-15",
         "victim": "Evergreen Aviation Technologies Corporation",
         "domain": "egat.com.tw",
