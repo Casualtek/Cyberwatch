@@ -1,5 +1,16 @@
 [
     {
+        "date": "2026-09-08",
+        "victim": "TOM Group (02383.HK)",
+        "domain": "tomgroup.com",
+        "country": "TWN",
+        "summary": "Le groupe TOM (02383.HK) a détecté une cyberattaque sur ses serveurs situés à Taïwan autour du 8 septembre 2026. Cette attaque a affecté les données de la division \"Commercial Weekly\" de sa filiale, Chengbang Culture. Le 9 septembre 2026, l'incident s'est étendu à Hong Kong, affectant également les serveurs et les données du groupe dans cette juridiction. Les enquêtes sont toujours en cours.",
+        "description": "",
+        "title": "TOM集团(02383.HK)：发生数据安全事件 调查仍在进行中",
+        "url": "https://m.sohu.com/a/1076495293_122123195?scm=10001.325_13-325_13.0.0-0-0-0-0.5_1334",
+        "added": "2026-09-18"
+    },
+    {
         "date": "2026-06-14",
         "victim": "MIP Holdings",
         "domain": "hollard.co.za",
