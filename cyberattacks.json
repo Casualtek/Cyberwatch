@@ -1,5 +1,16 @@
 [
     {
+        "date": "2026-09-15",
+        "victim": "Comunidade Intermunicipal (CIM) da Região de Leiria",
+        "domain": "cimregiaodeleiria.pt",
+        "country": "PRT",
+        "summary": "La Communauté Intermunicipale (CIM) de la Région de Leiria a été victime d'une attaque par ransomware. L'attaque a été identifiée dans la nuit de mardi à mercredi et le serveur de messagerie a été isolé. Bien que le système de cybersécurité et les sauvegardes aient fonctionné, un seul des dix municipalités membres (Porto de Mós) est temporairement sans accès à son courriel par mesure de précaution. L'incident a été signalé aux autorités.",
+        "description": "",
+        "title": "CIM de Leiria alvo de ataque informático. Apenas um dos dez municípios está desligado",
+        "url": "https://eco.sapo.pt/2026/09/16/cim-de-leiria-alvo-de-ataque-informatico-apenas-um-dos-dez-municipios-esta-desligado/",
+        "added": "2026-09-18"
+    },
+    {
         "date": "2026-09-03",
         "victim": "Lazy Boyz",
         "domain": "lazyboyz.no",
