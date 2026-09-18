@@ -1,5 +1,16 @@
 [
     {
+        "date": "2026-09-15",
+        "victim": "Viação Águia Branca",
+        "domain": "aguiabranca.com.br",
+        "country": "BRA",
+        "summary": "A Viação Águia Branca, une des grandes entreprises de transport de passagers au Brésil, a identifié un incident de cybersécurité sur ses sites de vente de billets. L'enquête interne a révélé que les données de 7 883 clients ont potentiellement été compromises. L'entreprise a informé tous les clients concernés et a notifié l'Agence Nationale de Protection des Données (ANPD), soulignant que l'impact est limité et n'a pas affecté l'application, Zap Passagens ou les billets déjà émis.",
+        "description": "",
+        "title": "Viação Águia Branca sofre ataque cibernético",
+        "url": "https://www.agazeta.com.br/colunas/abdo-filho/viacao-aguia-branca-sofre-ataque-cibernetico-0926",
+        "added": "2026-09-18"
+    },
+    {
         "date": "2026-09-16",
         "victim": "Sutton (Massachusetts)",
         "domain": "suttonma.org",
