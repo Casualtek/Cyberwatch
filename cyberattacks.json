@@ -1,5 +1,16 @@
 [
     {
+        "date": "2026-08-15",
+        "victim": "Tecnoabi",
+        "domain": "tecnoabi.com",
+        "country": "ESP",
+        "summary": "Une entreprise prestataire de la Consejería de Agricultura, nommée Tecnoabi, a été victime d'une cyberattaque qui a exposé les données personnelles (identifiants, contacts et bancaires) de milliers d'agriculteurs et de propriétaires de terres bénéficiaires des aides de la Politique Agricole Commune (PAC) entre 2005 et 2012, ainsi qu'en 2016. La Junta de Andalucía a activé des protocoles de sécurité et a assuré que le système de paiement des aides PAC fonctionne normalement. Les autorités ont alerté les bénéficiaires, notamment dans la région de Grenade, pour les prévenir des risques de fraude et de phishing.",
+        "description": "",
+        "title": "Un ciberataque expone los datos de miles de agricultores y ganaderos | Ideal",
+        "url": "https://www.ideal.es/granada/ciberataque-expone-datos-miles-agricultores-ganaderos-20260916233109-nt.html",
+        "added": "2026-09-18"
+    },
+    {
         "date": "2026-09-12",
         "victim": "Revolut",
         "domain": "revolut.com",
