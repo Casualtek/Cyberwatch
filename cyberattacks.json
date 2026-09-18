@@ -1,5 +1,16 @@
 [
     {
+        "date": "2026-06-14",
+        "victim": "MIP Holdings",
+        "domain": "hollard.co.za",
+        "country": "ZAF",
+        "summary": "Une cyberattaque a affecté MIP Holdings, un fournisseur de services tiers pour plusieurs assureurs sud-africains, compromettant des informations personnelles de clients. L'attaque, attribuée au groupe de rançongiciels « The Gentlemen », a eu lieu en juin. Bien que l'assureur Hollard ait rejeté toute compromission de ses propres systèmes, il a confirmé que les données provenaient d'un incident chez MIP Holdings. MIP Holdings a détecté l'attaque d'extorsion le 14 juin, ciblant sa plateforme de gestion de projets Jira, et a notifié les autorités réglementaires.",
+        "description": "",
+        "title": "Hollard rejects hacking claim, points to MIP cyber breach",
+        "url": "https://www.itweb.co.za/article/hollard-rejects-hacking-claim-points-to-mip-cyber-breach/Pero37Z36boMQb6m",
+        "added": "2026-09-18"
+    },
+    {
         "date": "2026-09-14",
         "victim": "Universidade Católica do Salvador (UCSal)",
         "domain": "ucsal.br",
