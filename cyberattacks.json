@@ -1,5 +1,16 @@
 [
     {
+        "date": "2026-08-15",
+        "victim": "Cartrack",
+        "domain": "cartrack.co.za",
+        "country": "ZAF",
+        "summary": "L'Information Regulator enquête sur une violation de données chez Cartrack, une société de suivi de véhicules. L'incident, qui est survenu en août, a été un incident de ransomware. Cartrack a confirmé que sa base de données client a été accédée, contenant des informations personnelles telles que les coordonnées, les informations bancaires et les données des véhicules. Le groupe de ransomware Dire Wolf a listé Cartrack sur son site de fuite sur le dark web, affirmant avoir exfiltré 500 gigaoctets de données.",
+        "description": "",
+        "title": "Regulator probes ransomware attack on Cartrack - SABC News - Breaking news, special reports, world, business, sport coverage of all South African current events. Africa's news leader.",
+        "url": "https://www.sabcnews.com/sabcnews/regulator-probes-ransomware-attack-on-cartrack/",
+        "added": "2026-09-18"
+    },
+    {
         "date": "2026-09-14",
         "victim": "Communauté de communes du Pays de L’Aigle (Cdc), CIAS, Office de tourisme du Pays de L’Aigle",
         "domain": "paysdelaigle.fr",
