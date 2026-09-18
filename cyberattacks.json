@@ -1,6 +1,17 @@
 [
     {
         "date": "2026-09-16",
+        "victim": "Sutton (Massachusetts)",
+        "domain": "suttonma.org",
+        "country": "USA",
+        "summary": "Un incident de cybersécurité affectant une partie du réseau de la ville de Sutton et des écoles publiques de Sutton est toujours en cours d'enquête. La ville a pris des mesures immédiates pour sécuriser ses systèmes, contenir l'incident et minimiser l'impact sur les opérations. Des professionnels indépendants en cybersécurité et en criminalistique ont été engagés, et les autorités judiciaires ont été informées.",
+        "description": "",
+        "title": "Sutton officials reviewing potentially affected data after cyber incident – Shrewsbury Post",
+        "url": "https://shrewsburypost.com/2026/09/16/sutton-officials-reviewing-potentially-affected-data-after-cyber-incident/",
+        "added": "2026-09-18"
+    },
+    {
+        "date": "2026-09-16",
         "victim": "Nipigon District Memorial Hospital",
         "domain": "ndmh.ca",
         "country": "CAN",
