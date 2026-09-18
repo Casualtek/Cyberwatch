@@ -1,5 +1,16 @@
 [
     {
+        "date": "2026-09-12",
+        "victim": "Revolut",
+        "domain": "revolut.com",
+        "country": "GBR",
+        "summary": "Revolut a confirmé avoir été victime d'une cyberattaque sophistiquée d'usurpation où des fraudeurs ont obtenu des données clients, y compris des passeports, des selfies de vérification, des permis de conduire, des adresses et des relevés de transactions Bitcoin. L'attaque a utilisé un email provenant d'un domaine officiel d'une agence gouvernementale. Revolut a assuré que les systèmes et les fonds des clients ne sont pas affectés, et que les codes de connexion et les données biométriques n'ont pas été exposés. L'entreprise a alerté les autorités compétentes et est en cours d'enquête.",
+        "description": "",
+        "title": "Revolut confirme avoir envoyé des données de passeport et de Bitcoin à une fausse adresse gouvernementale",
+        "url": "https://fr.finance.yahoo.com/actualites/revolut-confirme-avoir-envoy%C3%A9-donn%C3%A9es-092043291.html",
+        "added": "2026-09-18"
+    },
+    {
         "date": "2026-09-08",
         "victim": "TOM Group (02383.HK)",
         "domain": "tomgroup.com",
