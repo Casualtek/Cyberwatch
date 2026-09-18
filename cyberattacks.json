@@ -1,5 +1,16 @@
 [
     {
+        "date": "2026-09-14",
+        "victim": "Communauté de communes du Pays de L’Aigle (Cdc), CIAS, Office de tourisme du Pays de L’Aigle",
+        "domain": "paysdelaigle.fr",
+        "country": "FRA",
+        "summary": "La Communauté de communes du Pays de L’Aigle (Cdc), le CIAS et l’Office de tourisme du Pays de L’Aigle ont été victimes d'une intrusion informatique dans leur serveur de messagerie. Des données personnelles, potentiellement sensibles (notamment des adresses mail et leur contenu), ont pu être dérobées. Les autorités (gendarmerie, CNIL, ANSSI) ont été alertées et des mesures de sécurisation ont été prises. Les services de la Cdc limitent temporairement les échanges par courriel et recommandent aux usagers de changer leurs mots de passe.",
+        "description": "",
+        "title": "Pays de L'Aigle : Communauté de communes, Cias et Office de tourisme ont été piratés",
+        "url": "https://actu.fr/normandie/l-aigle_61214/pays-de-l-aigle-communaute-de-communes-cias-et-office-de-tourisme-ont-ete-pirates_64802728.html",
+        "added": "2026-09-18"
+    },
+    {
         "date": "2026-08-25",
         "victim": "Nittetsu Kokowa Fudosan Co., Ltd.",
         "domain": "nittetsukou.co.jp",
