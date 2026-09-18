@@ -1,5 +1,16 @@
 [
     {
+        "date": "2026-08-16",
+        "victim": "Tangerhütte",
+        "domain": "tangerhuette.de",
+        "country": "DEU",
+        "summary": "Le service numérique de la mairie de Tangerhütte est inaccessible depuis plus de deux semaines en raison d'une attaque externe. Bien qu'un incident similaire à Berlin ait récemment conduit à la vente de données sur le Darknet, il n'est pas confirmé que cela soit arrivé à Tangerhütte.",
+        "description": "",
+        "title": "Vorerst offline: Das Digitale Rathaus in Tangerhütte wurde angegriffen",
+        "url": "https://www.volksstimme.de/lokal/tangerhuette/vorerst-offline-das-digitale-rathaus-in-tangerhutte-wurde-angegriffen-4320663",
+        "added": "2026-09-18"
+    },
+    {
         "date": "2026-07-15",
         "victim": "Clausing",
         "domain": "clausing-tiefbau.com",
