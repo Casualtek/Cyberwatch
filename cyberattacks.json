@@ -1,5 +1,16 @@
 [
     {
+        "date": "2026-09-16",
+        "victim": "Nipigon District Memorial Hospital",
+        "domain": "ndmh.ca",
+        "country": "CAN",
+        "summary": "L'Hôpital de Nipigon District Memorial a fait face à un incident de cybersécurité impliquant un rançongiciel (ransomware) qui a affecté ses systèmes informatiques. Des fichiers contenant des informations personnelles et de santé ont été chiffrés. L'hôpital a activé ses procédures de réponse aux incidents et travaille avec des experts externes et les forces de l'ordre. En conséquence, certains services, notamment le laboratoire externe et l'imagerie diagnostique, sont fermés et les patients peuvent connaître des délais d'attente plus longs.",
+        "description": "",
+        "title": "Nipigon hospital hit by ransomware attack",
+        "url": "https://www.snnewswatch.com/local-journalism-initiative-lji/nipigon-hospital-hit-by-ransomware-attack-12786504",
+        "added": "2026-09-18"
+    },
+    {
         "date": "2026-08-15",
         "victim": "Cartrack",
         "domain": "cartrack.co.za",
