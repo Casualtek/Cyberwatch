@@ -1,5 +1,16 @@
 [
     {
+        "date": "2026-09-14",
+        "victim": "Universidade Católica do Salvador (UCSal)",
+        "domain": "ucsal.br",
+        "country": "BRA",
+        "summary": "La Universidade Católica do Salvador (UCSal) a été victime d'une cyberattaque par ransomware, nommée Wallstreet Ransomware. L'attaque a affecté les laboratoires de l'école d'Ingénierie de Logiciel, bloquant les ordinateurs et les serveurs et menaçant d'exfiltrer les bases de données SQL des étudiants et professeurs. Bien que l'université ait confirmé avoir contenu l'accès non autorisé, elle a dû prendre des mesures de sécurité, entraînant l'instabilité du réseau et le report de certaines activités académiques.",
+        "description": "",
+        "title": "Alunos da UCSal relatam ataque hacker e suspensão de aulas em Salvador",
+        "url": "https://www.correio24horas.com.br/salvador/alunos-da-ucsal-relatam-ataque-hacker-e-suspensao-de-aulas-em-salvador-0926",
+        "added": "2026-09-18"
+    },
+    {
         "date": "2026-08-16",
         "victim": "Tangerhütte",
         "domain": "tangerhuette.de",
