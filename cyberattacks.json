@@ -1,5 +1,16 @@
 [
     {
+        "date": "2026-09-11",
+        "victim": "Mairie d’Espelette",
+        "domain": "mairie-espelette.fr",
+        "country": "FRA",
+        "summary": "La mairie d’Espelette a été victime d'un piratage suite à l'ouverture d'un fichier PDF malveillant nommé « FACTURE FC_PDF ». Ce malware a pris le contrôle des ordinateurs, a perturbé le secrétariat et a permis le piratage de l'adresse mail accueil@mairie-espelette.fr, qui a ensuite propagé le mail frauduleux à d'autres utilisateurs.",
+        "description": "",
+        "title": "Pays basque. La commune d’Espelette victime d’un piratage : des mails piégés portant un virus sont automatiquement envoyés par la mairie",
+        "url": "https://www.sudouest.fr/pyrenees-atlantiques/espelette/pays-basque-la-commune-d-espelette-victime-d-un-piratage-des-mails-pieges-portant-un-virus-sont-automatiquement-envoyes-par-la-mairie-30651628.php",
+        "added": "2026-09-19"
+    },
+    {
         "date": "2026-08-15",
         "victim": "Tecnoabi",
         "domain": "tecnoabi.com",
