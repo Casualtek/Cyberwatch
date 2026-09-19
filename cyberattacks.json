@@ -1,5 +1,16 @@
 [
     {
+        "date": "2026-09-17",
+        "victim": "Ellis County",
+        "domain": "ellisco.net",
+        "country": "USA",
+        "summary": "Le comté d'Ellis a été victime d'un incident de ransomware affectant certaines de ses systèmes informatiques. Les autorités du comté ont pris des mesures immédiates pour contenir la perturbation et ont engagé des spécialistes en cybersécurité. Bien qu'aucune preuve d'accès à des informations personnelles ou sensibles n'ait été trouvée à ce stade, l'enquête est toujours en cours. Le comté travaille avec les forces de l'ordre locales et des partenaires en cybersécurité pour déterminer l'étendue et la cause de l'incident et restaurer les systèmes affectés.",
+        "description": "",
+        "title": "Ellis County reports ransomware incident",
+        "url": "https://hayspost.com/posts/e81e8354-23bb-4821-8b53-e22aa23d0c6a",
+        "added": "2026-09-19"
+    },
+    {
         "date": "2026-09-11",
         "victim": "Mairie d’Espelette",
         "domain": "mairie-espelette.fr",
