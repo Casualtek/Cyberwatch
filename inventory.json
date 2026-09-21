@@ -102235,6 +102235,18 @@
         ]
     },
     {
+        "victim": "Eagle Construction",
+        "domain": "eagleofva.com",
+        "country": "US",
+        "timeline": [
+            {
+                "date": "2026-08-03",
+                "type": "assessed",
+                "group": "akira"
+            }
+        ]
+    },
+    {
         "victim": "Eagle Oil & Gas",
         "domain": "eagleog.com",
         "country": "US",
