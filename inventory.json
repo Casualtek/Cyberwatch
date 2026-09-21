@@ -199574,6 +199574,18 @@
         ]
     },
     {
+        "victim": "Manders",
+        "domain": "mandersco.com",
+        "country": "US",
+        "timeline": [
+            {
+                "date": "2026-08-13",
+                "type": "assessed",
+                "group": "akira"
+            }
+        ]
+    },
+    {
         "victim": "Mairie de Mandeure",
         "domain": "mandeure.fr",
         "country": "FR",
