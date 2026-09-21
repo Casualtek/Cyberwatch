@@ -1,5 +1,16 @@
 [
     {
+        "date": "2026-09-21",
+        "victim": "Data Hub Pvt. Ltd. (et le marché boursier du Népal)",
+        "domain": "datahub.com.np",
+        "country": "Népal",
+        "summary": "Le marché boursier du Népal a été brusquement fermé le lundi suite à une cyberattaque par ransomware ciblant l'infrastructure de Data Hub Pvt. Ltd., qui héberge les serveurs du Système de Gestion des Transactions (TMS) de 72 sociétés de courtage. L'attaque a été détectée vers 5h30 du matin. Les autorités ont suspendu le commerce pour permettre une analyse forensique complète et garantir la sécurité du système, après que Data Hub ait isolé l'infrastructure affectée.",
+        "description": "",
+        "title": "Ransomware attack shuts stock market as investors raise security concerns",
+        "url": "https://english.onlinekhabar.com/ransomware-attack-shuts-nepse.html",
+        "added": "2026-09-21"
+    },
+    {
         "date": "2026-09-05",
         "victim": "GUTcert",
         "domain": "gut-cert.de",
