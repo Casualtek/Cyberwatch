@@ -41772,6 +41772,18 @@
         ]
     },
     {
+        "victim": "Bee Maid Honey",
+        "domain": "beemaid.com",
+        "country": "CA",
+        "timeline": [
+            {
+                "date": "2026-08-27",
+                "type": "assessed",
+                "group": "akira"
+            }
+        ]
+    },
+    {
         "victim": "Built Environment Engineers",
         "domain": "beengrs.com",
         "country": "US",
