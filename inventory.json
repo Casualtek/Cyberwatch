@@ -188379,6 +188379,29 @@
         ]
     },
     {
+        "victim": "Lazy Boyz",
+        "domain": "lazyboyz.no",
+        "country": "NO",
+        "timeline": [
+            {
+                "date": "2026-09-18",
+                "type": "discovered",
+                "summary": "Lazy Boyz a été victime d'une cyberattaque étendue. L'incident a été découvert le 3 septembre 2026, et des mesures immédiates ont été prises pour stopper l'attaque. L'entreprise a confirmé que des données de ses serveurs avaient été divulguées sur le darknet. Lazy Boyz collabore avec Kripos/NC3 et a informé l'autorité de protection des données. Bien qu'un rançongiciel ait été trouvé, l'entreprise a choisi de ne pas payer la rançon et a rompu le contact avec les attaquants. Les opérations en magasin sont revenues à la normale pendant que les serveurs sont reconstruits.",
+                "title": "Informasjon fra Lazy Boyz AS vedrørende Cyberangrep",
+                "url": "https://www.bike.no/nyheter/informasjon-fra-lazy-boyz-as-vedrorende-cyberangrep/"
+            },
+            {
+                "date": "2026-09-03",
+                "type": "reported"
+            },
+            {
+                "date": "2026-06-23",
+                "type": "assessed",
+                "group": "akira"
+            }
+        ]
+    },
+    {
         "victim": "LBA",
         "domain": "lbaproperties.com",
         "country": "",
