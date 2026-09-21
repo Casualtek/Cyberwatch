@@ -51448,11 +51448,16 @@
     {
         "victim": "Brent Electric",
         "domain": "brentelectricinc.com",
-        "country": "GB",
+        "country": "US",
         "timeline": [
             {
                 "date": "2026-09-08",
                 "type": "claimed",
+                "group": "akira"
+            },
+            {
+                "date": "2026-08-17",
+                "type": "assessed",
                 "group": "akira"
             }
         ]
