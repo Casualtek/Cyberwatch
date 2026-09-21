@@ -122308,6 +122308,18 @@
         ]
     },
     {
+        "victim": "Flexi e-Solutions Pty Ltd",
+        "domain": "flexihostings.net",
+        "country": "AU",
+        "timeline": [
+            {
+                "date": "2026-08-19",
+                "type": "assessed",
+                "group": "akira"
+            }
+        ]
+    },
+    {
         "victim": "flexity.com",
         "domain": "flexity.com",
         "country": "",
