@@ -293119,6 +293119,18 @@
         ]
     },
     {
+        "victim": "PLP SoCal",
+        "domain": "socaltelephone.com",
+        "country": "US",
+        "timeline": [
+            {
+                "date": "2026-08-21",
+                "type": "assessed",
+                "group": "akira"
+            }
+        ]
+    },
+    {
         "victim": "Socarpor",
         "domain": "socarpor-aveiro.pt",
         "country": "PT",
