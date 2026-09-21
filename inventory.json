@@ -60380,6 +60380,17 @@
                 "date": "2026-09-02",
                 "type": "claimed",
                 "group": "direwolf"
+            },
+            {
+                "date": "2026-09-18",
+                "type": "discovered",
+                "summary": "L'Information Regulator enquête sur une violation de données chez Cartrack, une société de suivi de véhicules. L'incident, qui est survenu en août, a été un incident de ransomware. Cartrack a confirmé que sa base de données client a été accédée, contenant des informations personnelles telles que les coordonnées, les informations bancaires et les données des véhicules. Le groupe de ransomware Dire Wolf a listé Cartrack sur son site de fuite sur le dark web, affirmant avoir exfiltré 500 gigaoctets de données.",
+                "title": "Regulator probes ransomware attack on Cartrack - SABC News - Breaking news, special reports, world, business, sport coverage of all South African current events. Africa's news leader.",
+                "url": "https://www.sabcnews.com/sabcnews/regulator-probes-ransomware-attack-on-cartrack/"
+            },
+            {
+                "date": "2026-08-15",
+                "type": "reported"
             }
         ]
     },
@@ -63301,6 +63312,17 @@
                 "date": "2026-08-31",
                 "type": "claimed",
                 "group": "Wallstreet"
+            },
+            {
+                "date": "2026-09-16",
+                "type": "discovered",
+                "summary": "Le Cedar County Memorial Hospital, situé à El Dorado Springs, Missouri, a subi une panne de ses réseaux informatiques le 14 août, entraînant l'indisponibilité des dossiers de santé électroniques, du portail patient et de l'accès Internet. L'incident, qui a affecté également sa clinique médicale, a nécessité que le personnel documente les soins manuellement. Bien que la panne ait été résolue en grande partie d'ici le 28 août, le système Meditech est resté hors ligne pendant deux semaines. Le groupe de ransomware Wallstreet a publié une page le 28 août, affirmant avoir des données volées de l'hôpital. L'hôpital a indiqué que des experts externes et le FBI enquêtaient, mais n'a pas confirmé si les informations des patients avaient été affectées.",
+                "title": "Ransomware group claims attack on Missouri’s Cedar County Memorial Hospital after IT outage",
+                "url": "https://dysruptionhub.com/cedar-county-hospital-it-shutdown/"
+            },
+            {
+                "date": "2026-08-14",
+                "type": "reported"
             }
         ]
     },
@@ -71317,6 +71339,17 @@
                 "date": "2026-08-08",
                 "type": "claimed",
                 "group": "qilin"
+            },
+            {
+                "date": "2026-09-18",
+                "type": "discovered",
+                "summary": "La société Clausing a été plongée dans le chaos pendant quelques jours en juillet. Matthias Kurowski et ses collègues sont en train de gérer les conséquences de cet événement. L'attaque a été revendiquée par Qilin le 8 août.",
+                "title": "Osnabrück: Verstärkte Sicherheitsmaßnahmen nach Cyberangriff",
+                "url": "https://www.ndr.de/fernsehen/sendungen/hallo_niedersachsen/osnabrueck-verstaerkte-sicherheitsmassnahmen-nach-cyberangriff,hallonds-10294.html"
+            },
+            {
+                "date": "2026-07-15",
+                "type": "reported"
             }
         ]
     },
@@ -152899,6 +152932,17 @@
                 "date": "2026-09-07",
                 "type": "claimed",
                 "group": "thegentlemen"
+            },
+            {
+                "date": "2026-09-18",
+                "type": "discovered",
+                "summary": "Une cyberattaque a affecté MIP Holdings, un fournisseur de services tiers pour plusieurs assureurs sud-africains, compromettant des informations personnelles de clients. L'attaque, attribuée au groupe de rançongiciels « The Gentlemen », a eu lieu en juin. Bien que l'assureur Hollard ait rejeté toute compromission de ses propres systèmes, il a confirmé que les données provenaient d'un incident chez MIP Holdings. MIP Holdings a détecté l'attaque d'extorsion le 14 juin, ciblant sa plateforme de gestion de projets Jira, et a notifié les autorités réglementaires.",
+                "title": "Hollard rejects hacking claim, points to MIP cyber breach",
+                "url": "https://www.itweb.co.za/article/hollard-rejects-hacking-claim-points-to-mip-cyber-breach/Pero37Z36boMQb6m"
+            },
+            {
+                "date": "2026-06-14",
+                "type": "reported"
             }
         ]
     },
@@ -191151,6 +191195,17 @@
                 "date": "2026-09-02",
                 "type": "claimed",
                 "group": "kairos"
+            },
+            {
+                "date": "2026-09-16",
+                "type": "discovered",
+                "summary": "La ville de Libercourt a été victime d'une cyberattaque par rançongiciel (ransomware) à la fin du mois d'août. Bien que les services municipaux ne soient pas impactés, il est confirmé que des données personnelles ont été exfiltrées. La municipalité a renforcé la sécurité de ses serveurs et a signalé l'incident à la CNIL et à l'ANSSI. Selon une source externe, les cybercriminels, se revendiquant de l'enseigne Qilin, auraient volé 817 Go de données, incluant des bulletins de paie et des cartes d'identité, et menacent de les publier.",
+                "title": "« Des données personnelles ont été exfiltrées » : la ville de Libercourt visée par une cyberattaque",
+                "url": "https://www.lavoixdunord.fr/1737463/article/2026-09-15/des-donnees-personnelles-ont-ete-exfiltrees-la-ville-de-libercourt-visee-par-une"
+            },
+            {
+                "date": "2026-08-23",
+                "type": "reported"
             }
         ]
     },
@@ -249437,6 +249492,18 @@
                 "date": "2024-05-01",
                 "type": "claimed",
                 "group": "clop"
+            }
+        ]
+    },
+    {
+        "victim": "Pilot Precision",
+        "domain": "pilotprecision.com",
+        "country": "US",
+        "timeline": [
+            {
+                "date": "2026-08-14",
+                "type": "assessed",
+                "group": "akira"
             }
         ]
     },
@@ -310460,6 +310527,17 @@
                 "date": "2026-08-14",
                 "type": "claimed",
                 "group": "m3rx"
+            },
+            {
+                "date": "2026-09-18",
+                "type": "discovered",
+                "summary": "Une entreprise prestataire de la Consejería de Agricultura, nommée Tecnoabi, a été victime d'une cyberattaque qui a exposé les données personnelles (identifiants, contacts et bancaires) de milliers d'agriculteurs et de propriétaires de terres bénéficiaires des aides de la Politique Agricole Commune (PAC) entre 2005 et 2012, ainsi qu'en 2016. La Junta de Andalucía a activé des protocoles de sécurité et a assuré que le système de paiement des aides PAC fonctionne normalement. Les autorités ont alerté les bénéficiaires, notamment dans la région de Grenade, pour les prévenir des risques de fraude et de phishing.",
+                "title": "Un ciberataque expone los datos de miles de agricultores y ganaderos | Ideal",
+                "url": "https://www.ideal.es/granada/ciberataque-expone-datos-miles-agricultores-ganaderos-20260916233109-nt.html"
+            },
+            {
+                "date": "2026-08-15",
+                "type": "reported"
             }
         ]
     },
