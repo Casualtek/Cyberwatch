@@ -1,5 +1,16 @@
 [
     {
+        "date": "2026-09-16",
+        "victim": "LMU (Université Ludwig Maximilian de Munich)",
+        "domain": "lmu.de",
+        "country": "DEU",
+        "summary": "L'Université Ludwig Maximilian de Munich (LMU) a été victime d'une cyberattaque ayant permis à un attaquant non autorisé d'accéder aux données d'inscription stockées dans un de ses systèmes informatiques. Les données potentiellement compromises incluent des informations d'identification (nom, date de naissance, sexe, etc.), des coordonnées (adresse, e-mail, téléphone), des données bancaires (IBAN), des numéros d'assurance maladie, des numéros BAföG et des informations sur le parcours d'études. L'université a pris des mesures immédiates, retirant la composante affectée du système et collaborant avec les autorités d'enquête. Il n'y a pas de preuve que les données aient été publiées ou utilisées à mauvais escient, et le fonctionnement des études n'a pas été perturbé.",
+        "description": "",
+        "title": "Information über einen Datenschutzvorfall",
+        "url": "https://www.lmu.de/de/newsroom/newsuebersicht/news/information-ueber-einen-datenschutzvorfall-f446c16e.html",
+        "added": "2026-09-21"
+    },
+    {
         "date": "2026-09-12",
         "victim": "Ministère de la Défense et des Affaires des Vétérans (MODVA)",
         "domain": "mod.gov.na",
