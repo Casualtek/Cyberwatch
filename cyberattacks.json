@@ -1,5 +1,16 @@
 [
     {
+        "date": "2026-09-17",
+        "victim": "Boustead Singapore",
+        "domain": "boustead.sg",
+        "country": "SGP",
+        "summary": "Le 18 septembre, le groupe Boustead Singapore a annoncé qu'une de ses unités commerciales à l'étranger avait été victime d'un incident de cybersécurité. L'unité concernée a immédiatement isolé les systèmes touchés et fait appel à des experts externes pour gérer la crise ; les données et systèmes critiques ont depuis été entièrement restaurés grâce aux sauvegardes. L'entreprise a informé les autorités compétentes, dont la Commission de protection des données personnelles (PDPC) de Singapour. Le groupe précise qu'aucune autre entité n'a été affectée et qu'il n'y a eu aucun impact matériel significatif sur ses opérations. Un audit de cybersécurité indépendant sera mené pour renforcer la résilience de ses systèmes.",
+        "description": "",
+        "title": "www.theedgesingapore.com",
+        "url": "https://www.theedgesingapore.com/amp/news/company-news/boustead-singapore-says-overseas-business-unit-subject--cybersecurity-incident",
+        "added": "2026-09-21"
+    },
+    {
         "date": "2026-09-16",
         "victim": "LMU (Université Ludwig Maximilian de Munich)",
         "domain": "lmu.de",
