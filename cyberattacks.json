@@ -1,5 +1,16 @@
 [
     {
+        "date": "2026-09-05",
+        "victim": "GUTcert",
+        "domain": "gut-cert.de",
+        "country": "DEU",
+        "summary": "L'organisme de certification GUTcert, basé à Berlin, a été victime d'une cyberattaque. L'attaque a débuté le 5 septembre 2026 et a permis à des attaquants d'accéder à des parties des systèmes informatiques de l'entreprise. Entre le 6 et le 9 septembre 2026, environ 640 Go de données ont été volés. Les données concernées incluent des informations personnelles des employés, des données financières et fiscales de GUTcert, ainsi que des données clients, notamment des coordonnées, des rapports d'audit, des documentations de systèmes de gestion et des informations techniques sur les vulnérabilités. L'incident est particulièrement critique car GUTcert certifie de nombreuses entreprises de l'infrastructure critique (KRITIS) en Allemagne, ce qui signifie que les données volées peuvent inclure des informations très sensibles sur les réseaux d'énergie (centrales électriques, stations de distribution, etc.), telles que les plans de structure du réseau et les informations sur les vulnérabilités.",
+        "description": "",
+        "title": "Hackerangriff auf die GUTcert; Kundendaten abgeflossen - ein KRITIS-Problem?",
+        "url": "https://borncity.com/blog/2026/09/20/hackerangriff-auf-die-gutcert-kundendaten-abgeflossen/",
+        "added": "2026-09-21"
+    },
+    {
         "date": "2026-09-17",
         "victim": "Boustead Singapore",
         "domain": "boustead.sg",
