@@ -334691,6 +334691,18 @@
         ]
     },
     {
+        "victim": "Vetta",
+        "domain": "vetta.com.br",
+        "country": "BR",
+        "timeline": [
+            {
+                "date": "2026-04-15",
+                "type": "assessed",
+                "group": "akira"
+            }
+        ]
+    },
+    {
         "victim": "VF Corporation",
         "domain": "vfc.com",
         "country": "",
