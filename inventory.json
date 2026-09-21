@@ -83276,11 +83276,16 @@
     {
         "victim": "CreateASoft",
         "domain": "createasoft.com",
-        "country": "",
+        "country": "US",
         "timeline": [
             {
                 "date": "2026-09-08",
                 "type": "claimed",
+                "group": "akira"
+            },
+            {
+                "date": "2026-08-19",
+                "type": "assessed",
                 "group": "akira"
             }
         ]
