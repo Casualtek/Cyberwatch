@@ -16687,6 +16687,18 @@
         ]
     },
     {
+        "victim": "AK Stamping",
+        "domain": "akstamping.com",
+        "country": "US",
+        "timeline": [
+            {
+                "date": "2026-08-19",
+                "type": "assessed",
+                "group": "akira"
+            }
+        ]
+    },
+    {
         "victim": "AKSV",
         "domain": "aksv.dk",
         "country": "DK",
