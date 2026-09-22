@@ -1,5 +1,16 @@
 [
     {
+        "date": "2026-09-14",
+        "victim": "Kolkata Municipal Corporation (KMC)",
+        "domain": "kmcgov.in",
+        "country": "IND",
+        "summary": "Le Conseil municipal de Kolkata (KMC) a été victime d'une cyberattaque par rançongiciel (ransomware) qui a affecté son serveur central et son site web à partir du 14 septembre. Cette attaque a perturbé de nombreux services en ligne, y compris les portails de certificats de naissance et de décès, le paiement des taxes foncières et les services des départements de construction, de trésorerie et de finances. Les services ont été temporairement interrompus pour des raisons de sécurité, mais la situation est désormais revenue à la normale.",
+        "description": "",
+        "title": "KMC की वेबसाइट पर साइबर हमला, अब स्थिति सामान्य",
+        "url": "https://sanmarg.in/kolkata_city/kmc-website-cyber-attack-situation-normal",
+        "added": "2026-09-22"
+    },
+    {
         "date": "2026-09-21",
         "victim": "Data Hub Pvt. Ltd. (et le marché boursier du Népal)",
         "domain": "datahub.com.np",
