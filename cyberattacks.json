@@ -1,5 +1,16 @@
 [
     {
+        "date": "2026-09-17",
+        "victim": "Verbandsgemeinde Otterbach-Otterberg",
+        "domain": "otterbach-otterberg.de",
+        "country": "DEU",
+        "summary": "Une plateforme d'échange de documents pour les crèches dans le district de Kaiserslautern a été victime d'une cyberattaque. La municipalité de Verbandsgemeinde Otterbach-Otterberg a été informée de l'attaque vendredi soir. Bien que les données administratives ne semblent pas avoir été affectées, il n'est pas exclu que des données personnelles sur la plateforme des crèches aient été compromises. Les services en ligne ont été temporairement désactivés par mesure de sécurité, et les autorités mènent une enquête.",
+        "description": "",
+        "title": "Cyberangriff auf Kita-Plattform: Sind Daten betroffen?",
+        "url": "https://www.swr.de/swraktuell/rheinland-pfalz/kaiserslautern/kita-opfer-von-hackerangriff-westpfalz-otterbach-otterberg-102.html",
+        "added": "2026-09-22"
+    },
+    {
         "date": "2026-09-14",
         "victim": "Kolkata Municipal Corporation (KMC)",
         "domain": "kmcgov.in",
