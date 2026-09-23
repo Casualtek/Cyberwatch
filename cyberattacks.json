@@ -1,6 +1,17 @@
 [
     {
         "date": "2026-09-21",
+        "victim": "Fresenius Medical Care",
+        "domain": "freseniusmedicalcare.com",
+        "country": "DEU",
+        "summary": "Fresenius Medical Care a fait état d'un incident de cybersécurité impliquant un accès non autorisé à un nombre limité de systèmes internes. L'entreprise a indiqué que les soins aux patients, les opérations de fabrication et la continuité des activités n'ont pas été affectés. L'incident a été contenu, et des experts en cybersécurité et les forces de l'ordre ont été notifiés le 23 septembre 2026.",
+        "description": "",
+        "title": "Fresenius Medical Care stock falls 0.8 percent as cyber incident emerges",
+        "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/fresenius-medical-care-stock-falls-0-8-percent-as-cyber-incident-emerges/70165445",
+        "added": "2026-09-23"
+    },
+    {
+        "date": "2026-09-21",
         "victim": "Spokane Public Schools",
         "domain": "spokaneschools.org",
         "country": "USA",
