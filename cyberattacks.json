@@ -1,5 +1,16 @@
 [
     {
+        "date": "2026-09-23",
+        "victim": "Skroutz Last Mile",
+        "domain": "skroutz.gr",
+        "country": "GR",
+        "summary": "Skroutz Last Mile a annoncé un incident d'accès non autorisé à son système d'information. Les données affectées concernent les envois de colis et incluent des noms, des adresses et des numéros de téléphone. L'entreprise a précisé que les informations de cartes de crédit et autres détails de paiement, ainsi que les mots de passe, n'ont pas été compromises, car elles ne sont pas stockées dans ses systèmes. L'entreprise a pris des mesures de protection et a alerté les utilisateurs sur les risques potentiels de phishing.",
+        "description": "",
+        "title": "Στο στόχαστρο των χάκερ η Skroutz Last Mile: Επηρεάστηκαν ονοματεπώνυμα, διευθύνσεις και τηλέφωνα - Η ανακοίνωση",
+        "url": "https://www.capital.gr/epixeiriseis/4018872/sto-stoxastro-ton-xaker-i-skroutz-last-mile-epireastikan-onomateponuma-dieuthunseis-kai-tilefona-i-anakoinosi/?amp=true",
+        "added": "2026-09-23"
+    },
+    {
         "date": "2026-09-17",
         "victim": "Verbandsgemeinde Otterbach-Otterberg",
         "domain": "otterbach-otterberg.de",
