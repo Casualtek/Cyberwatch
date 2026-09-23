@@ -20187,6 +20187,18 @@
         ]
     },
     {
+        "victim": "alphaomega-eng.com",
+        "domain": "alphaomega-eng.com",
+        "country": "DE",
+        "timeline": [
+            {
+                "date": "2026-09-02",
+                "type": "assessed",
+                "group": "lockbit5"
+            }
+        ]
+    },
+    {
         "victim": "www.alphaplantes.com",
         "domain": "alphaplantes.com",
         "country": "CA",
