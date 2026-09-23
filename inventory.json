@@ -157394,6 +157394,18 @@
         ]
     },
     {
+        "victim": "hygear.com",
+        "domain": "hygear.com",
+        "country": "DE",
+        "timeline": [
+            {
+                "date": "2026-09-11",
+                "type": "assessed",
+                "group": "lockbit5"
+            }
+        ]
+    },
+    {
         "victim": "Hygieneering",
         "domain": "hygieneering.com",
         "country": "US",
