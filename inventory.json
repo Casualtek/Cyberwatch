@@ -338580,6 +338580,11 @@
                 "date": "2026-09-07",
                 "type": "claimed",
                 "group": "lockbit5"
+            },
+            {
+                "date": "2026-09-03",
+                "type": "assessed",
+                "group": "lockbit5"
             }
         ]
     },
