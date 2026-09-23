@@ -1,5 +1,16 @@
 [
     {
+        "date": "2026-09-20",
+        "victim": "Banque de Sang de Cordons de Boryeong",
+        "domain": "brcell.co.kr",
+        "country": "KOR",
+        "summary": "La Banque de Sang de Cordons de Boryeong (Boryeong Saedaehyeol Bank), la première banque de sang de cordons en Corée du Sud, a signalé une possible fuite de données personnelles de mères et d'enfants suite à une infection par ransomware de son système de traitement des informations personnelles le 20 septembre. Les informations potentiellement compromises incluent les noms, numéros de carte d'identité, numéros de téléphone de la mère et du conjoint, ainsi que le nom et la date de naissance de l'enfant. Pour les membres inscrits avant juillet 2016, des informations professionnelles pourraient également avoir été compromises. Bien que la banque affirme que les informations financières ou sensibles ne sont pas incluses et qu'aucune fuite n'a été confirmée à ce jour, la Commission de Protection des Données Personnelles a ouvert une enquête.",
+        "description": "",
+        "title": "[단독]랜섬웨어에 제대혈은행 뚫렸다…“아기 정보도 유출 가능성”",
+        "url": "https://ichannela.com/news/detail/000000551923.do",
+        "added": "2026-09-23"
+    },
+    {
         "date": "2026-09-23",
         "victim": "CTOS Digital",
         "domain": "ctosdigital.com",
