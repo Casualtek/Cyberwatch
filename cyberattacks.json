@@ -1,5 +1,16 @@
 [
     {
+        "date": "2026-09-09",
+        "victim": "Centre de données de l'État du Bengale-Occidental",
+        "domain": "hosting.wb.gov.in",
+        "country": "IND",
+        "summary": "Le centre de données de l'État du Bengale-Occidental a subi une cyberattaque pendant cinq jours, du 9 au 13 septembre. Des experts soupçonnent que des données importantes de plusieurs départements gouvernementaux, y compris le ministère des Finances, ont été volées ou détruites. Les services en ligne, tels que l'enregistrement des naissances et des décès, ont été affectés, bien que les autorités n'aient pas encore confirmé officiellement le vol de données.",
+        "description": "",
+        "title": "बंगाल के सरकारी डाटा सेंटर पर साइबर हमला, कई विभागों के अहम दस्तावेज चोरी होने की आशंका - west bengal data center cyber attack data theft feared",
+        "url": "https://www.jagran.com/west-bengal/kolkata-west-bengal-data-center-cyber-attack-data-theft-feared-40381877.html",
+        "added": "2026-09-23"
+    },
+    {
         "date": "2026-09-20",
         "victim": "Banque de Sang de Cordons de Boryeong",
         "domain": "brcell.co.kr",
