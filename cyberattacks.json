@@ -1,5 +1,16 @@
 [
     {
+        "date": "2026-09-17",
+        "victim": "Genertel",
+        "domain": "genertel.hu",
+        "country": "HUN",
+        "summary": "La compagnie d'assurance Genertel a été victime d'une cyberattaque le 17 septembre, lors de laquelle des tiers non autorisés ont accédé aux données personnelles d'une partie de ses clients. L'entreprise a temporairement suspendu ses services en ligne.",
+        "description": "",
+        "title": "Támadás ért egy biztosítót, személyes adatokhoz is hozzáfértek",
+        "url": "https://www.hirstart.hu/hk/20260923_kibertamadas_erte_a_genertel_biztositot",
+        "added": "2026-09-23"
+    },
+    {
         "date": "2026-09-21",
         "victim": "Fresenius Medical Care",
         "domain": "freseniusmedicalcare.com",
