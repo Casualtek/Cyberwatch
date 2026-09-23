@@ -22740,6 +22740,18 @@
         ]
     },
     {
+        "victim": "amorsaude.com.br",
+        "domain": "amorsaude.com.br",
+        "country": "BR",
+        "timeline": [
+            {
+                "date": "2026-08-22",
+                "type": "assessed",
+                "group": "lockbit5"
+            }
+        ]
+    },
+    {
         "victim": "Amouage",
         "domain": "amouage.com",
         "country": "OM",
