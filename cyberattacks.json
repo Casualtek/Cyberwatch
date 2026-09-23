@@ -1,6 +1,17 @@
 [
     {
         "date": "2026-09-23",
+        "victim": "CTOS Digital",
+        "domain": "ctosdigital.com",
+        "country": "MYS",
+        "summary": "CTOS Digital a subi un incident de cybersécurité où des données personnelles de consommateurs ont été accédées sans autorisation. L'entreprise a immédiatement activé ses plans d'urgence, a réussi à contenir et à bloquer l'environnement affecté, et a engagé une équipe de réponse aux incidents indépendante pour une enquête légale. Les systèmes de l'entreprise sont actuellement opérationnels et l'incident est circonscrit à l'environnement spécifique affecté.",
+        "description": "",
+        "title": "CTOS遭网络攻击 部分消费者资料遭非法访问",
+        "url": "https://www.klsescreener.com/v2/news/view/1796407/ctos%E9%81%AD%E7%BD%91%E7%BB%9C%E6%94%BB%E5%87%BB-%E9%83%A8%E5%88%86%E6%B6%88%E8%B4%B9%E8%80%85%E8%B5%84%E6%96%99%E9%81%AD%E9%9D%9E%E6%B3%95%E8%AE%BF%E9%97%AE",
+        "added": "2026-09-23"
+    },
+    {
+        "date": "2026-09-23",
         "victim": "Skroutz Last Mile",
         "domain": "skroutz.gr",
         "country": "GR",
