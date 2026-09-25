@@ -1,5 +1,16 @@
 [
     {
+        "date": "2026-02-13",
+        "victim": "Washington Hotel Co., Ltd.",
+        "domain": "whg-hotels.jp",
+        "country": "JPN",
+        "summary": "Le 7 septembre, la société Washington Hotel a publié le rapport final concernant une attaque par ransomware survenue le 13 février. L'intrusion, passée par un équipement connecté à l'extérieur, avait entraîné le chiffrement de certains serveurs et causé des pannes de terminaux de cartes bancaires dans certains établissements. L'enquête forensique a révélé qu'aucune donnée n'a été exfiltrée vers le dark web et que les données clients, hébergées par un prestataire externe, n'ont pas été touchées. En revanche, les informations personnelles de certains employés étaient présentes sur un serveur affecté, et ces derniers sont en cours de notification. L'entreprise a pu restaurer ses fichiers administratifs grâce à ses sauvegardes et a désormais déployé une solution EDR (Endpoint Detection and Response) sur l'ensemble de ses terminaux et serveurs pour prévenir toute récidive.",
+        "description": "",
+        "title": "403 ERROR",
+        "url": "https://www.excite.co.jp/news/article/Scannetsecurity_56299/",
+        "added": "2026-09-25"
+    },
+    {
         "date": "2026-09-03",
         "victim": "mylife Diabetes Care",
         "domain": "mylife-diabetescare.com",
