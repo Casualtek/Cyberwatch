@@ -1,5 +1,16 @@
 [
     {
+        "date": "2026-09-01",
+        "victim": "Zdrowit S.A.",
+        "domain": "zdrowit.pl",
+        "country": "POL",
+        "summary": "Zdrowit S.A. a été victime d'un incident de sécurité impliquant un accès non autorisé à ses systèmes informatiques et le chiffrement d'une partie de ses ressources. La société a confirmé que des procédures de sécurité ont permis de stopper les actions non autorisées. Bien que le groupe de ransomware ait publié un fichier prétendant provenir de Zdrowit S.A., il n'a pas pu être confirmé que les données provenaient de l'entreprise. La société a souligné que cet incident n'affecte pas les apothicaires (Aptek Zdrowit), qui fonctionnent avec un logiciel spécialisé distinct.",
+        "description": "",
+        "title": "Cyberatak na Zdrowit. Spółka potwierdza",
+        "url": "https://cyberdefence24.pl/cyberbezpieczenstwo/cyberataki/cyberatak-na-zdrowit-spolka-potwierdza",
+        "added": "2026-09-25"
+    },
+    {
         "date": "2026-09-23",
         "victim": "Hôpital clinique régional de Yaroslavl",
         "domain": "med-b-okb-yaroslavl-r78.gosweb.gosuslugi.ru",
