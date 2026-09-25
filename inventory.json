@@ -309913,6 +309913,18 @@
         ]
     },
     {
+        "victim": "TDMI",
+        "domain": "tdmi-us.com",
+        "country": "US",
+        "timeline": [
+            {
+                "date": "2026-09-04",
+                "type": "assessed",
+                "group": "akira"
+            }
+        ]
+    },
+    {
         "victim": "tdra",
         "domain": "tdra.gov.ae",
         "country": "AE",
