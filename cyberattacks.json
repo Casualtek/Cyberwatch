@@ -1,5 +1,16 @@
 [
     {
+        "date": "2026-09-23",
+        "victim": "Maileva",
+        "domain": "maileva.com",
+        "country": "FRA",
+        "summary": "Maileva, un service de La Poste, a interrompu ses services suite à des tentatives d'accès non autorisés. Un cybercriminel cherchait à utiliser la plateforme pour procéder à l'envoi illégitime de courriers. L'incident a été détecté et les services ont été arrêtés préventivement le 23 septembre 2026. Aucune fuite de données personnelles n'a été annoncée à ce stade, et une plainte a été déposée.",
+        "description": "",
+        "title": "Cyberattaque chez La Poste : Maileva interrompt ses services après des...",
+        "url": "https://frenchbreaches.com/alertes/maileva-mufora09gh9so92vdk",
+        "added": "2026-09-25"
+    },
+    {
         "date": "2026-09-01",
         "victim": "Zdrowit S.A.",
         "domain": "zdrowit.pl",
