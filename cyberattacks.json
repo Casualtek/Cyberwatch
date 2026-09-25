@@ -1,5 +1,16 @@
 [
     {
+        "date": "2026-09-23",
+        "victim": "Hôpital clinique régional de Yaroslavl",
+        "domain": "med-b-okb-yaroslavl-r78.gosweb.gosuslugi.ru",
+        "country": "RUS",
+        "summary": "L'hôpital régional de Yaroslavl a été victime d'une cyberattaque. L'attaque, qui a entraîné la perte de toutes les informations stockées sur les serveurs, a été attribuée à des hackers ukrainiens qui ont demandé une rançon. Bien que les données aient été restaurées, la direction de l'hôpital a décidé de remplacer l'équipement. Le président du comité de la santé et le directeur de l'hôpital, Mikhail Osipov, a souligné l'importance de renforcer la sécurité informatique des établissements de santé et a demandé que des fonds supplémentaires soient alloués au budget régional pour 2027.",
+        "description": "",
+        "title": "Ярославская областная больница подверглась кибератаке- Яррег - новости Ярославской области",
+        "url": "https://yarreg.ru/articles/yaroslavskaya-oblastnaya-bolnica-podverglas-kiberatake/",
+        "added": "2026-09-25"
+    },
+    {
         "date": "2026-09-22",
         "victim": "Astrana",
         "domain": "astranahealth.com",
