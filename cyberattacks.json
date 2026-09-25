@@ -1,5 +1,16 @@
 [
     {
+        "date": "2026-04-20",
+        "victim": "James Fallon High School",
+        "domain": "jamesfallo-h.schools.nsw.gov.au",
+        "country": "AUS",
+        "summary": "L'école secondaire James Fallon, située à North Albury, a été victime d'une violation de données en avril 2026. Le ministère de l'Éducation de Nouvelle-Galles du Sud (NSW) a confirmé que l'incident, dont la source était située en dehors de NSW, a été contenu rapidement. L'enquête, menée en collaboration avec Cyber NSW, a conclu que les informations concernées incluaient des politiques scolaires, des matériaux pédagogiques et des données relatives aux élèves, aux parents et au personnel. Les familles sont invitées à rester vigilantes face aux tentatives de sollicitation d'informations personnelles.",
+        "description": "",
+        "title": "Department investigation concludes after cyber breach at Border high school",
+        "url": "https://www.bordermail.com.au/story/9357299/james-fallon-high-school-hit-by-data-breach-after-cyber-attack/",
+        "added": "2026-09-25"
+    },
+    {
         "date": "2026-09-21",
         "victim": "Écoles publiques de Burnaby",
         "domain": "burnabyschools.ca",
