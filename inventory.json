@@ -25229,6 +25229,18 @@
         ]
     },
     {
+        "victim": "Apex Litigation Support",
+        "domain": "apex-lit.com",
+        "country": "US",
+        "timeline": [
+            {
+                "date": "2026-08-17",
+                "type": "assessed",
+                "group": "akira"
+            }
+        ]
+    },
+    {
         "victim": "apex.uk.net",
         "domain": "apex.uk.net",
         "country": "GB",
@@ -244254,7 +244266,7 @@
                 "url": "https://therecord.media/paylogix-cyberattack-akira-ransomware"
             },
             {
-                "date": "2026-11-18",
+                "date": "2025-11-18",
                 "type": "reported"
             }
         ]
