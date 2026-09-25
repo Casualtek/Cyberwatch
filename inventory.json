@@ -94602,6 +94602,18 @@
         ]
     },
     {
+        "victim": "DI.C.S.EL. S.R.L.",
+        "domain": "dicsel.it",
+        "country": "IT",
+        "timeline": [
+            {
+                "date": "2026-06-30",
+                "type": "assessed",
+                "group": "akira"
+            }
+        ]
+    },
+    {
         "victim": "Did Asia",
         "domain": "didasia.co.th",
         "country": "TH",
