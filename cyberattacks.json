@@ -1,5 +1,16 @@
 [
     {
+        "date": "2026-09-16",
+        "victim": "International Meteor Organization",
+        "domain": "imo.net",
+        "country": "BEL",
+        "summary": "L'International Meteor Organization (IMO), organisation internationale de suivi des météores, a subi une cyberattaque qui a gravement affecté son site web. L'organisation a dû fermer son site pendant plusieurs semaines pour migrer vers une nouvelle infrastructure. Bien que le site principal soit hors service, l'IMO continue de suivre les astéroïdes et les météores via sa page Facebook et a rétabli son système de signalement de boules de feu.",
+        "description": "",
+        "title": "International Meteor Organization says cyberattack dealt ‘critical blow’ to website",
+        "url": "https://therecord.media/international-meteor-organization-cyberattack",
+        "added": "2026-09-25"
+    },
+    {
         "date": "2026-09-08",
         "victim": "Nippon Trex Co., Ltd.",
         "domain": "trex.co.jp",
