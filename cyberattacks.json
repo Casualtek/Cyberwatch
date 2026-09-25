@@ -1,5 +1,16 @@
 [
     {
+        "date": "2026-09-23",
+        "victim": "Stevens Point",
+        "domain": "stevenspoint.com",
+        "country": "USA",
+        "summary": "Les autorités de Stevens Point enquêtent sur une possible cyberattaque qui a mis hors service plusieurs serveurs informatiques municipaux, perturbant les services téléphoniques et par courriel. Bien que les employés aient initialement identifié l'incident comme une cyberattaque, le maire a affirmé que la cause n'était pas confirmée publiquement. Il n'y a, à ce jour, aucune preuve que des données clients aient été compromises. Les services d'urgence restent opérationnels.",
+        "description": "",
+        "title": "Stevens Point investigates possible cyberattack after city servers go offline",
+        "url": "https://spmetrowire.com/stevens-point-investigates-possible-cyberattack-after-city-servers-go-offline/",
+        "added": "2026-09-25"
+    },
+    {
         "date": "2026-09-16",
         "victim": "International Meteor Organization",
         "domain": "imo.net",
