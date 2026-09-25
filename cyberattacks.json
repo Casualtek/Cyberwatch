@@ -1,5 +1,16 @@
 [
     {
+        "date": "2026-09-22",
+        "victim": "Astrana",
+        "domain": "astranahealth.com",
+        "country": "USA",
+        "summary": "La société de technologie de santé Astrana a informé les régulateurs qu'une cyberattaque récente a exposé des informations confidentielles. Les pirates ont réussi à accéder aux serveurs de l'entreprise en se faisant passer pour du personnel d'Astrana et en usurpant le numéro de téléphone corporatif principal. Bien que le nombre de clients impactés et le type de données volées ne soient pas précisés, l'entreprise a dû restaurer certains systèmes à partir de sauvegardes propres et a notifié les autorités et les clients.",
+        "description": "",
+        "title": "Astrana latest healthcare tech firm to report data breach to SEC",
+        "url": "https://therecord.media/astrana-cyberattack-sec-ransomware",
+        "added": "2026-09-25"
+    },
+    {
         "date": "2026-09-17",
         "victim": "Genertel",
         "domain": "genertel.hu",
