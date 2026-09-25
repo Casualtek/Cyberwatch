@@ -82684,6 +82684,18 @@
         ]
     },
     {
+        "victim": "Coe Press Equipment",
+        "domain": "cpec.com",
+        "country": "US",
+        "timeline": [
+            {
+                "date": "2026-07-07",
+                "type": "assessed",
+                "group": "akira"
+            }
+        ]
+    },
+    {
         "victim": "City Plumbing & Electric Supply Co.",
         "domain": "cpesupply.com",
         "country": "US",
