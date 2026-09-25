@@ -1,5 +1,12 @@
 [
   {
+    "victim": "dece.cz",
+    "domain": "dece.cz",
+    "country": "CZ",
+    "date": "2026-05-25",
+    "group": "lockbit5"
+  },
+  {
     "victim": "notaris-brunovandamme.be",
     "domain": "takt.be",
     "country": "BE",
