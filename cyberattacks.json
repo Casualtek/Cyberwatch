@@ -1,5 +1,16 @@
 [
     {
+        "date": "2026-09-03",
+        "victim": "mylife Diabetes Care",
+        "domain": "mylife-diabetescare.com",
+        "country": "DEU",
+        "summary": "mylife Diabetes Care, un fournisseur international de dispositifs médicaux pour le diabète, a été victime d'une cyberattaque. Le serveur géré par son prestataire informatique, SINOVO health solutions GmbH, a été compromis par un groupe de ransomware. L'attaque, survenue le 3 septembre 2026, a entraîné l'exfiltration de données utilisateur telles que les noms, prénoms, dates de naissance et adresses e-mail. Des données techniques pseudonymisées, potentiellement liées à la thérapie (comme les données de bolus ou de mesure de glucose), ont également été extraites. Les mots de passe étaient stockés de manière chiffrée et n'ont pas été compromis. L'entreprise a signalé l'incident aux autorités de protection des données et recommande aux utilisateurs de changer leurs mots de passe par précaution.",
+        "description": "",
+        "title": "Cyberangriff auf mylife App und mylife Cloud (Diabetes-Care)",
+        "url": "https://borncity.com/blog/2026/09/25/cyberangriff-auf-mylife-app-und-mylife-cloud-diabetes-care/",
+        "added": "2026-09-25"
+    },
+    {
         "date": "2026-04-20",
         "victim": "James Fallon High School",
         "domain": "jamesfallo-h.schools.nsw.gov.au",
