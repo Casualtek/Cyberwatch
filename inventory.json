@@ -25096,11 +25096,16 @@
     {
         "victim": "apatpa.com",
         "domain": "apatpa.com",
-        "country": "MX",
+        "country": "US",
         "timeline": [
             {
                 "date": "2026-08-28",
                 "type": "claimed",
+                "group": "lockbit5"
+            },
+            {
+                "date": "2026-08-17",
+                "type": "assessed",
                 "group": "lockbit5"
             }
         ]
