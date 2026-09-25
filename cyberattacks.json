@@ -1,5 +1,16 @@
 [
     {
+        "date": "2026-09-08",
+        "victim": "Nippon Trex Co., Ltd.",
+        "domain": "trex.co.jp",
+        "country": "JPN",
+        "summary": "Kyokuto Kaihatsu Kogyo Co., Ltd. a annoncé qu'une panne de système était survenue le 8 septembre suite à un accès non autorisé à sa filiale, Nippon Trex Co., Ltd. Les services affectés incluent les commandes en ligne, le système de commande de pièces des agents et l'envoi/réception d'e-mails. Bien que les opérations soient maintenues par des moyens alternatifs, aucune fuite de données personnelles ou clients n'a été confirmée à ce jour.",
+        "description": "",
+        "title": "極東開発工業子会社の日本トレクス、不正アクセスによるシステム障害を発表 | ScanNetSecurity",
+        "url": "https://scan.netsecurity.ne.jp/article/2026/09/25/56303.html",
+        "added": "2026-09-25"
+    },
+    {
         "date": "2026-02-13",
         "victim": "Washington Hotel Co., Ltd.",
         "domain": "whg-hotels.jp",
