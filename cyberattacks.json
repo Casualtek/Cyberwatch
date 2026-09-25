@@ -1,5 +1,16 @@
 [
     {
+        "date": "2026-09-19",
+        "victim": "Patra",
+        "domain": "e-patras.gr",
+        "country": "GRC",
+        "summary": "Le service municipal de Patra (Grèce) a subi une violation de données lorsque des informations d'employés et de cinq citoyens ont été compromises. Un tiers non autorisé a accédé au système d'information de la municipalité en utilisant des identifiants d'utilisateur et a téléchargé des documents électroniques. Suite à la découverte, la municipalité a désactivé les comptes affectés, activé l'authentification à deux facteurs (2FA) et renforcé ses mesures de cybersécurité.",
+        "description": "",
+        "title": "Δήμος Πατρέων: Παραβίαση συστήματος - Εκλάπησαν ηλεκτρονικά έγγραφα",
+        "url": "https://www.skai.gr/news/greece/dimos-patreon-paraviasi-systimatos-eklapisan-ilektronika-eggrafa",
+        "added": "2026-09-25"
+    },
+    {
         "date": "2026-09-14",
         "victim": "Dyfed-Powys Police",
         "domain": "dyfed-powys.police.uk",
