@@ -1,5 +1,16 @@
 [
     {
+        "date": "2026-09-14",
+        "victim": "Dyfed-Powys Police",
+        "domain": "dyfed-powys.police.uk",
+        "country": "GBR",
+        "summary": "La police de Dyfed-Powys (Pays de Galles) a été victime d'une cyberattaque détectée le 14 septembre, qui a perturbé certains de ses systèmes non urgents, notamment les contacts en ligne et les e-mails. Les services d'urgence (lignes 999 et 101) sont toutefois restés opérationnels tout au long de l'incident. L'enquête, menée par l'unité régionale contre le crime organisé Tarian, tente toujours de déterminer l'origine de l'attaque et si un ransomware a été utilisé. Si aucune preuve ne montre que des données du public ont été compromises, la police enquête toujours pour savoir si des informations concernant son personnel ont été consultées. L'Information Commissioner's Office (l'autorité de protection des données au Royaume-Uni) a été informée de la situation.",
+        "description": "",
+        "title": "Dyfed-Powys Police cops to cyberattack, staff data potentially nicked",
+        "url": "https://www.theregister.com/cyber-crime/2026/09/25/dyfed-powys-police-cops-to-cyberattack-staff-data-potentially-nicked/5299112",
+        "added": "2026-09-25"
+    },
+    {
         "date": "2026-09-23",
         "victim": "Stevens Point",
         "domain": "stevenspoint.com",
@@ -1595,7 +1606,7 @@
         "added": "2026-08-26"
     },
     {
-        "date": "2026-11-18",
+        "date": "2025-11-18",
         "victim": "Paylogix",
         "domain": "paylogix.com",
         "country": "USA",
