@@ -318049,11 +318049,16 @@
     {
         "victim": "tnmed.org",
         "domain": "tnmed.org",
-        "country": "TN",
+        "country": "US",
         "timeline": [
             {
                 "date": "2026-08-27",
                 "type": "claimed",
+                "group": "lockbit5"
+            },
+            {
+                "date": "2026-08-27",
+                "type": "assessed",
                 "group": "lockbit5"
             }
         ]
