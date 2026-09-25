@@ -330449,6 +330449,18 @@
         "timeline": []
     },
     {
+        "victim": "Urban Engineering",
+        "domain": "urban-ltd.com",
+        "country": "US",
+        "timeline": [
+            {
+                "date": "2026-09-09",
+                "type": "assessed",
+                "group": "akira"
+            }
+        ]
+    },
+    {
         "victim": "urban1.com",
         "domain": "urban1.com",
         "country": "US",
