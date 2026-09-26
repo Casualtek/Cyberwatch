@@ -1,5 +1,16 @@
 [
     {
+        "date": "2026-09-26",
+        "victim": "Air Traffic and Navigation Services (ATNS)",
+        "domain": "atns.co.za",
+        "country": "ZAF",
+        "summary": "Air Traffic and Navigation Services (ATNS) a été victime d'une cyberattaque par ransomware qui aurait potentiellement pu mettre à l'arrêt les activités de l'aviation commerciale en Afrique du Sud. L'enquête forensique est en cours pour déterminer l'origine de l'attaque, l'étendue des dommages et si des données ont été exfiltrées vers des adresses IP en Chine. ATNS examine également la possibilité que des employés aient collaboré avec les hackers ou aient accédé illégalement à des informations personnelles.",
+        "description": "",
+        "title": "Air traffic agency probes cyberattack",
+        "url": "https://www.businessday.co.za/business-times/2026-09-26-air-traffic-agency-probes-cyberattack/",
+        "added": "2026-09-26"
+    },
+    {
         "date": "2026-09-19",
         "victim": "Patra",
         "domain": "e-patras.gr",
