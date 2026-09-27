@@ -13930,6 +13930,18 @@
         ]
     },
     {
+        "victim": "Metropolitan Community Health Services",
+        "domain": "agapechc.org",
+        "country": "US",
+        "timeline": [
+            {
+                "date": "2026-09-14",
+                "type": "claimed",
+                "group": "insomnia"
+            }
+        ]
+    },
+    {
         "victim": "agapefrance.org",
         "domain": "agapefrance.org",
         "country": "FR",
@@ -18406,6 +18418,18 @@
                 "date": "2024-03-27",
                 "type": "assessed",
                 "group": "lockbit3"
+            }
+        ]
+    },
+    {
+        "victim": "Alicotrans",
+        "domain": "alicotrans.com",
+        "country": "BR",
+        "timeline": [
+            {
+                "date": "2026-09-14",
+                "type": "claimed",
+                "group": "qilin"
             }
         ]
     },
@@ -32261,6 +32285,11 @@
                 "date": "2026-03-23",
                 "type": "claimed",
                 "group": "insomnia"
+            },
+            {
+                "date": "2026-09-14",
+                "type": "claimed",
+                "group": "Booba Project"
             }
         ]
     },
@@ -43687,6 +43716,18 @@
         ]
     },
     {
+        "victim": "Bernath & Rosenberg",
+        "domain": "bernathandrosenberg.com",
+        "country": "US",
+        "timeline": [
+            {
+                "date": "2026-09-14",
+                "type": "claimed",
+                "group": "genesis"
+            }
+        ]
+    },
+    {
         "victim": "Bureau d'architecture basé à Berne",
         "domain": "berne.ch",
         "country": "CH",
@@ -44289,7 +44330,7 @@
         ]
     },
     {
-        "victim": "Better Accounting Solutions ",
+        "victim": "Better Accounting Solutions",
         "domain": "betteraccountingsolutions.com",
         "country": "US",
         "timeline": [
@@ -44302,6 +44343,11 @@
                 "date": "2025-01-27",
                 "type": "claimed",
                 "group": "babuk2"
+            },
+            {
+                "date": "2026-09-14",
+                "type": "claimed",
+                "group": "anubis"
             }
         ]
     },
@@ -78046,6 +78092,18 @@
         ]
     },
     {
+        "victim": "comune.robeccosulnaviglio.mi.it",
+        "domain": "comune.robeccosulnaviglio.mi.it",
+        "country": "IT",
+        "timeline": [
+            {
+                "date": "2026-09-14",
+                "type": "claimed",
+                "group": "lockbit5"
+            }
+        ]
+    },
+    {
         "victim": "Sorso",
         "domain": "comune.sorso.ss.it",
         "country": "IT",
@@ -98489,6 +98547,18 @@
         ]
     },
     {
+        "victim": "Dorfman Abrams Music, P.C",
+        "domain": "dorfman.com",
+        "country": "US",
+        "timeline": [
+            {
+                "date": "2026-09-14",
+                "type": "claimed",
+                "group": "genesis"
+            }
+        ]
+    },
+    {
         "victim": "dorimedia",
         "domain": "dorimedia.com",
         "country": "CH",
@@ -100802,6 +100872,18 @@
                 "date": "2024-10-17",
                 "type": "claimed",
                 "group": "cicada3301"
+            }
+        ]
+    },
+    {
+        "victim": "Dublin City Schools GA",
+        "domain": "dublincityschools.us",
+        "country": "US",
+        "timeline": [
+            {
+                "date": "2026-09-14",
+                "type": "claimed",
+                "group": "Eclipse"
             }
         ]
     },
@@ -124215,6 +124297,18 @@
         ]
     },
     {
+        "victim": "Foremost Mfg",
+        "domain": "foremost-mfg.com",
+        "country": "US",
+        "timeline": [
+            {
+                "date": "2026-09-14",
+                "type": "claimed",
+                "group": "qilin"
+            }
+        ]
+    },
+    {
         "victim": "Foremost Asset Management",
         "domain": "foremostcapitalltd.com",
         "country": "US",
@@ -131379,6 +131473,18 @@
         ]
     },
     {
+        "victim": "geekybunch.com",
+        "domain": "geekybunch.com",
+        "country": "US",
+        "timeline": [
+            {
+                "date": "2026-09-14",
+                "type": "claimed",
+                "group": "unsafe"
+            }
+        ]
+    },
+    {
         "victim": "GEG Telecomunicazioni",
         "domain": "geg.it",
         "country": "IT",
@@ -134468,6 +134574,18 @@
                 "date": "2024-10-10",
                 "type": "claimed",
                 "group": "hunters"
+            }
+        ]
+    },
+    {
+        "victim": "glasfloss.com",
+        "domain": "glasfloss.com",
+        "country": "US",
+        "timeline": [
+            {
+                "date": "2026-09-14",
+                "type": "claimed",
+                "group": "chaos"
             }
         ]
     },
@@ -156410,6 +156528,18 @@
                 "date": "2024-08-26",
                 "type": "claimed",
                 "group": "ransomhub"
+            }
+        ]
+    },
+    {
+        "victim": "httoy.fi",
+        "domain": "httoy.fi",
+        "country": "FI",
+        "timeline": [
+            {
+                "date": "2026-09-14",
+                "type": "claimed",
+                "group": "lockbit5"
             }
         ]
     },
@@ -188762,6 +188892,18 @@
         ]
     },
     {
+        "victim": "Mestechkin Law Group P.C.",
+        "domain": "lawmlg.com",
+        "country": "US",
+        "timeline": [
+            {
+                "date": "2026-09-14",
+                "type": "claimed",
+                "group": "Booba Project"
+            }
+        ]
+    },
+    {
         "victim": "The Law Offices of Michael C George",
         "domain": "lawofficemcg.com",
         "country": "US",
@@ -213664,6 +213806,18 @@
         ]
     },
     {
+        "victim": "Minmer Global",
+        "domain": "minmerglobal.com",
+        "country": "MX",
+        "timeline": [
+            {
+                "date": "2026-09-14",
+                "type": "claimed",
+                "group": "qilin"
+            }
+        ]
+    },
+    {
         "victim": "minneapolisparks.org",
         "domain": "minneapolisparks.org",
         "country": "US",
@@ -219265,6 +219419,18 @@
                 "date": "2026-09-07",
                 "type": "claimed",
                 "group": "kazu"
+            }
+        ]
+    },
+    {
+        "victim": "Massey, Stotser & Nichols",
+        "domain": "msnattorneys.com",
+        "country": "US",
+        "timeline": [
+            {
+                "date": "2026-09-14",
+                "type": "claimed",
+                "group": "insomnia"
             }
         ]
     },
@@ -271098,6 +271264,18 @@
         ]
     },
     {
+        "victim": "RoadEx America",
+        "domain": "roadex.com",
+        "country": "US",
+        "timeline": [
+            {
+                "date": "2026-09-14",
+                "type": "claimed",
+                "group": "qilin"
+            }
+        ]
+    },
+    {
         "victim": "Roadies",
         "domain": "roadiesinc.com",
         "country": "",
@@ -272873,6 +273051,18 @@
             {
                 "date": "2024-06-02",
                 "type": "reported"
+            }
+        ]
+    },
+    {
+        "victim": "Rosello et Fils",
+        "domain": "rosello-fils.fr",
+        "country": "FR",
+        "timeline": [
+            {
+                "date": "2026-09-14",
+                "type": "claimed",
+                "group": "Eclipse"
             }
         ]
     },
@@ -300879,6 +301069,18 @@
         ]
     },
     {
+        "victim": "steelhausinc.com",
+        "domain": "steelhausinc.com",
+        "country": "US",
+        "timeline": [
+            {
+                "date": "2026-09-14",
+                "type": "claimed",
+                "group": "chaos"
+            }
+        ]
+    },
+    {
         "victim": "steelofcarolina.com",
         "domain": "steelofcarolina.com",
         "country": "",
@@ -321118,6 +321320,18 @@
         ]
     },
     {
+        "victim": "tpi.tw",
+        "domain": "tpi.tw",
+        "country": "TW",
+        "timeline": [
+            {
+                "date": "2026-09-14",
+                "type": "claimed",
+                "group": "lockbit5"
+            }
+        ]
+    },
+    {
         "victim": "TPI",
         "domain": "tpicorp.com",
         "country": "US",
@@ -338255,6 +338469,18 @@
         ]
     },
     {
+        "victim": "Vitar Group",
+        "domain": "vitargroup.com",
+        "country": "AR",
+        "timeline": [
+            {
+                "date": "2026-09-14",
+                "type": "claimed",
+                "group": "qilin"
+            }
+        ]
+    },
+    {
         "victim": "Vitas",
         "domain": "vitas.ps",
         "country": "",
@@ -346960,6 +347186,18 @@
                 "date": "2024-02-16",
                 "type": "assessed",
                 "group": "play"
+            }
+        ]
+    },
+    {
+        "victim": "Winston Contracting, LLC",
+        "domain": "winstoncontract.com",
+        "country": "US",
+        "timeline": [
+            {
+                "date": "2026-09-14",
+                "type": "claimed",
+                "group": "qilin"
             }
         ]
     },
