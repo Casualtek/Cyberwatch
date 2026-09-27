@@ -13001,6 +13001,18 @@
         ]
     },
     {
+        "victim": "Agencia Estatal de Meteorología",
+        "domain": "aemet.es",
+        "country": "ES",
+        "timeline": [
+            {
+                "date": "2026-09-11",
+                "type": "claimed",
+                "group": "Panzer"
+            }
+        ]
+    },
+    {
         "victim": "Aeonsparx",
         "domain": "aeonsparx.com",
         "country": "MY",
@@ -77729,7 +77741,7 @@
         ]
     },
     {
-        "victim": "clgroup",
+        "victim": "compunnel.com",
         "domain": "compunnel.com",
         "country": "US",
         "timeline": [
@@ -77737,6 +77749,11 @@
                 "date": "2026-08-12",
                 "type": "claimed",
                 "group": "incransom"
+            },
+            {
+                "date": "2026-09-11",
+                "type": "claimed",
+                "group": "safepay"
             }
         ]
     },
@@ -94482,6 +94499,18 @@
         ]
     },
     {
+        "victim": "DiamondLease",
+        "domain": "diamondlease.com",
+        "country": "AE",
+        "timeline": [
+            {
+                "date": "2026-09-11",
+                "type": "claimed",
+                "group": "nightspire"
+            }
+        ]
+    },
+    {
         "victim": "Diamond Technical Services, Inc.",
         "domain": "diamondtechnicalservices.com",
         "country": "US",
@@ -101469,6 +101498,29 @@
                 "date": "2024-11-15",
                 "type": "assessed",
                 "group": "lynx"
+            }
+        ]
+    },
+    {
+        "victim": "Dustin Group",
+        "domain": "dustingroup.com",
+        "country": "SE",
+        "timeline": [
+            {
+                "date": "2026-09-11",
+                "type": "claimed",
+                "group": "fulcrumsec"
+            },
+            {
+                "date": "2026-09-03",
+                "type": "discovered",
+                "summary": "Dustin, un revendeur informatique suédois opérant également dans la région du Benelux via Centralpoint, a dû mettre hors ligne une partie de son environnement informatique suite à un grave incident de sécurité. Des individus non autorisés ont accédé à ses systèmes internes, ce qui a conduit à la fermeture temporaire de son site web et de sa boutique en ligne dans plusieurs pays européens. L'entreprise enquête en collaboration avec des experts externes et les autorités, mais il n'est pas encore clair si des données clients ont été compromises.",
+                "title": "IT online store Dustin takes systems offline after a breach",
+                "url": "https://www.techzine.eu/news/security/144042/it-online-store-dustin-takes-systems-offline-after-a-breach/"
+            },
+            {
+                "date": "2026-09-03",
+                "type": "reported"
             }
         ]
     },
@@ -124926,6 +124978,18 @@
                 "date": "2026-01-10",
                 "type": "claimed",
                 "group": "incransom"
+            }
+        ]
+    },
+    {
+        "victim": "Foss Inc.",
+        "domain": "fossinc.com",
+        "country": "US",
+        "timeline": [
+            {
+                "date": "2026-09-09",
+                "type": "claimed",
+                "group": "pear"
             }
         ]
     },
@@ -161918,6 +161982,18 @@
         ]
     },
     {
+        "victim": "Imperial Healthcare Solutions",
+        "domain": "imperialhealthcaresystems.com",
+        "country": "US",
+        "timeline": [
+            {
+                "date": "2026-09-11",
+                "type": "claimed",
+                "group": "qilin"
+            }
+        ]
+    },
+    {
         "victim": "Imperiali AG",
         "domain": "imperiali.ch",
         "country": "",
@@ -182451,6 +182527,18 @@
                 "date": "2025-10-28",
                 "type": "claimed",
                 "group": "nightspire"
+            }
+        ]
+    },
+    {
+        "victim": "Konica Minolta Bulgaria",
+        "domain": "konicaminolta.bg",
+        "country": "BG",
+        "timeline": [
+            {
+                "date": "2026-09-11",
+                "type": "claimed",
+                "group": "Panzer"
             }
         ]
     },
@@ -206728,6 +206816,18 @@
                 "date": "2025-06-25",
                 "type": "claimed",
                 "group": "incransom"
+            }
+        ]
+    },
+    {
+        "victim": "Medical Department Store",
+        "domain": "medicaldepartmentstore.com",
+        "country": "US",
+        "timeline": [
+            {
+                "date": "2026-09-10",
+                "type": "claimed",
+                "group": "dragonforce"
             }
         ]
     },
@@ -240931,6 +241031,18 @@
         ]
     },
     {
+        "victim": "Ozel & Ozel Laws Office",
+        "domain": "ozel.av.tr",
+        "country": "TR",
+        "timeline": [
+            {
+                "date": "2026-09-11",
+                "type": "claimed",
+                "group": "nightspire"
+            }
+        ]
+    },
+    {
         "victim": "Oz Hair & Beauty",
         "domain": "ozhairandbeauty.com",
         "country": "AU",
@@ -252476,6 +252588,18 @@
         ]
     },
     {
+        "victim": "Perimetral Oriental de Bogotá S.A.S.",
+        "domain": "pob.com.co",
+        "country": "CO",
+        "timeline": [
+            {
+                "date": "2026-09-11",
+                "type": "claimed",
+                "group": "nightspire"
+            }
+        ]
+    },
+    {
         "victim": "Pocahontas Medical Clinic, PA",
         "domain": "pocahontasmedicalclinic.com",
         "country": "US",
@@ -259554,6 +259678,29 @@
                 "date": "2023-04-25",
                 "type": "claimed",
                 "group": "lockbit3"
+            }
+        ]
+    },
+    {
+        "victim": "Port of Tanjung Pelepas",
+        "domain": "ptp.com.my",
+        "country": "MY",
+        "timeline": [
+            {
+                "date": "2026-09-11",
+                "type": "claimed",
+                "group": "direwolf"
+            },
+            {
+                "date": "2026-09-14",
+                "type": "discovered",
+                "summary": "Le Port de Tanjung Pelepas a confirmé avoir subi un incident de cybersécurité qui a affecté ses systèmes d'exploitation et a temporairement interrompu les opérations du terminal à conteneurs. Un redémarrage progressif a commencé le 10 septembre.",
+                "title": "Cyber attack disrupts operations at Malaysia’s Port of Tanjung Pelepas",
+                "url": "https://www.lloydslist.com/LL1158420/Cyber-attack-disrupts-operations-at-Malaysia%E2%80%99s-Port-of-Tanjung-Pelepas"
+            },
+            {
+                "date": "2026-09-09",
+                "type": "reported"
             }
         ]
     },
@@ -324722,6 +324869,18 @@
                 "date": "2024-04-02",
                 "type": "claimed",
                 "group": "raworld"
+            }
+        ]
+    },
+    {
+        "victim": "Tuboaços da Amazônia Ltda.",
+        "domain": "tuboacos.com.br",
+        "country": "BR",
+        "timeline": [
+            {
+                "date": "2026-09-11",
+                "type": "claimed",
+                "group": "nightspire"
             }
         ]
     },
