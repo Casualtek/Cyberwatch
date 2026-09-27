@@ -15556,6 +15556,11 @@
                 "group": "bianlian"
             },
             {
+                "date": "2026-04-04",
+                "type": "claimed",
+                "group": "thegentlemen"
+            },
+            {
                 "date": "2023-09-19",
                 "type": "discovered",
                 "summary": "Un groupe non autorisé a brièvement obtenu un accès limité à un système interne d'Air Canada, touchant des informations personnelles limitées de certains employés et certains dossiers. Les systèmes d'opérations de vol et les systèmes orientés client n'ont pas été affectés, et aucune information client n'a été consultée. Air Canada a confirmé que tous ses systèmes sont pleinement opérationnels et a mis en œuvre des améliorations de sécurité supplémentaires avec l'aide d'experts mondiaux en cybersécurité pour prévenir de tels incidents à l'avenir.",
@@ -22751,6 +22756,11 @@
         "timeline": [
             {
                 "date": "2026-08-22",
+                "type": "claimed",
+                "group": "lockbit5"
+            },
+            {
+                "date": "2026-08-22",
                 "type": "assessed",
                 "group": "lockbit5"
             }
@@ -26269,6 +26279,18 @@
             {
                 "date": "2023-12-07",
                 "type": "reported"
+            }
+        ]
+    },
+    {
+        "victim": "Aqualogus",
+        "domain": "aqualogus.com",
+        "country": "PT",
+        "timeline": [
+            {
+                "date": "2026-09-09",
+                "type": "claimed",
+                "group": "Panzer"
             }
         ]
     },
@@ -40218,6 +40240,18 @@
         ]
     },
     {
+        "victim": "BAYMER",
+        "domain": "baymer-recruiting.de",
+        "country": "DE",
+        "timeline": [
+            {
+                "date": "2026-09-09",
+                "type": "claimed",
+                "group": "emperador"
+            }
+        ]
+    },
+    {
         "victim": "Bayou DeSiard Country Club - Monroe, LA",
         "domain": "bayoudesiardcc.com",
         "country": "US",
@@ -44799,14 +44833,19 @@
         ]
     },
     {
-        "victim": "BHMAC",
+        "victim": "Bosnia and Herzegovina Mine Action Center",
         "domain": "bhmac.org",
-        "country": "HR",
+        "country": "BA",
         "timeline": [
             {
                 "date": "2024-06-03",
                 "type": "claimed",
                 "group": "arcusmedia"
+            },
+            {
+                "date": "2026-09-09",
+                "type": "claimed",
+                "group": "emperador"
             }
         ]
     },
@@ -86095,6 +86134,18 @@
         ]
     },
     {
+        "victim": "cullottalaw.com",
+        "domain": "cullottalaw.com",
+        "country": "US",
+        "timeline": [
+            {
+                "date": "2026-09-09",
+                "type": "claimed",
+                "group": "incransom"
+            }
+        ]
+    },
+    {
         "victim": "Cullum Services",
         "domain": "culluminc.com",
         "country": "",
@@ -102039,6 +102090,18 @@
                 "date": "2025-10-28",
                 "type": "assessed",
                 "group": "akira"
+            }
+        ]
+    },
+    {
+        "victim": "Mitsuwa Trading Co., Ltd",
+        "domain": "e-mitsuwa.com",
+        "country": "JP",
+        "timeline": [
+            {
+                "date": "2026-09-09",
+                "type": "claimed",
+                "group": "qilin"
             }
         ]
     },
@@ -122441,6 +122504,18 @@
         ]
     },
     {
+        "victim": "Flexmaster",
+        "domain": "flexmaster.com",
+        "country": "CA",
+        "timeline": [
+            {
+                "date": "2026-09-07",
+                "type": "claimed",
+                "group": "Storm"
+            }
+        ]
+    },
+    {
         "victim": "Flexofast Indonesia",
         "domain": "flexofast.com",
         "country": "ID",
@@ -129495,6 +129570,18 @@
         ]
     },
     {
+        "victim": "gardensalive.com, bitsandpieces.com, iselinursery.local, weeksroses.org, esm.local",
+        "domain": "gardensalive.com",
+        "country": "US",
+        "timeline": [
+            {
+                "date": "2026-09-09",
+                "type": "claimed",
+                "group": "embargo"
+            }
+        ]
+    },
+    {
         "victim": "Gardiner Family Chiropractic",
         "domain": "gardinerfamilychiropractic.com",
         "country": "US",
@@ -131147,6 +131234,18 @@
             {
                 "date": "2024-11-06",
                 "type": "reported"
+            }
+        ]
+    },
+    {
+        "victim": "Gellibrand Support Services",
+        "domain": "gellibrand.org.au",
+        "country": "AU",
+        "timeline": [
+            {
+                "date": "2026-09-09",
+                "type": "claimed",
+                "group": "anubis"
             }
         ]
     },
@@ -171804,6 +171903,18 @@
         ]
     },
     {
+        "victim": "Jet Specialty",
+        "domain": "jetspecialty.com",
+        "country": "US",
+        "timeline": [
+            {
+                "date": "2026-09-09",
+                "type": "claimed",
+                "group": "qilin"
+            }
+        ]
+    },
+    {
         "victim": "Art Jetter & Company",
         "domain": "jetter.com",
         "country": "US",
@@ -184606,6 +184717,11 @@
         "country": "US",
         "timeline": [
             {
+                "date": "2026-09-09",
+                "type": "claimed",
+                "group": "akira"
+            },
+            {
                 "date": "2026-06-24",
                 "type": "assessed",
                 "group": "akira"
@@ -193871,6 +193987,18 @@
         ]
     },
     {
+        "victim": "Logar Network Solutions",
+        "domain": "logar.com.br",
+        "country": "BR",
+        "timeline": [
+            {
+                "date": "2026-09-09",
+                "type": "claimed",
+                "group": "Vexy Ransomware"
+            }
+        ]
+    },
+    {
         "victim": "www.loghmanpharma.com",
         "domain": "loghmanpharma.com",
         "country": "IR",
@@ -194980,6 +195108,18 @@
                 "date": "2025-01-22",
                 "type": "assessed",
                 "group": "safepay"
+            }
+        ]
+    },
+    {
+        "victim": "Lowerys",
+        "domain": "lowerys.com",
+        "country": "CA",
+        "timeline": [
+            {
+                "date": "2026-09-07",
+                "type": "claimed",
+                "group": "Storm"
             }
         ]
     },
@@ -206516,6 +206656,18 @@
         ]
     },
     {
+        "victim": "https://mediengruppethiel.de/",
+        "domain": "mediengruppethiel.de",
+        "country": "DE",
+        "timeline": [
+            {
+                "date": "2026-09-09",
+                "type": "claimed",
+                "group": "incransom"
+            }
+        ]
+    },
+    {
         "victim": "Medifarma",
         "domain": "medifarma.com.pe",
         "country": "PE",
@@ -207532,6 +207684,18 @@
             {
                 "date": "2025-06-21",
                 "type": "reported"
+            }
+        ]
+    },
+    {
+        "victim": "Melitron",
+        "domain": "melitron.com",
+        "country": "CA",
+        "timeline": [
+            {
+                "date": "2026-09-07",
+                "type": "claimed",
+                "group": "Storm"
             }
         ]
     },
@@ -208621,6 +208785,18 @@
                 "date": "2023-06-21",
                 "type": "claimed",
                 "group": "play"
+            }
+        ]
+    },
+    {
+        "victim": "Mesan USA",
+        "domain": "mesanusa.com",
+        "country": "US",
+        "timeline": [
+            {
+                "date": "2026-09-09",
+                "type": "claimed",
+                "group": "Global Secret Group"
             }
         ]
     },
@@ -248173,10 +248349,15 @@
         ]
     },
     {
-        "victim": "PharmaEssentia",
+        "victim": "PharmaEssentia Corporation",
         "domain": "pharmaessentia.com",
         "country": "TW",
         "timeline": [
+            {
+                "date": "2026-04-04",
+                "type": "claimed",
+                "group": "thegentlemen"
+            },
             {
                 "date": "2026-08-10",
                 "type": "claimed",
@@ -266076,6 +266257,18 @@
                 "date": "2025-05-17",
                 "type": "assessed",
                 "group": "safepay"
+            }
+        ]
+    },
+    {
+        "victim": "RelyComply AML Platform",
+        "domain": "relycomply.com",
+        "country": "GB",
+        "timeline": [
+            {
+                "date": "2026-09-09",
+                "type": "claimed",
+                "group": "direwolf"
             }
         ]
     },
@@ -296098,6 +296291,18 @@
         ]
     },
     {
+        "victim": "Specchem LLC",
+        "domain": "specchem.com",
+        "country": "US",
+        "timeline": [
+            {
+                "date": "2026-09-09",
+                "type": "claimed",
+                "group": "Dark Project"
+            }
+        ]
+    },
+    {
         "victim": "Specflue",
         "domain": "specflue.com",
         "country": "US",
@@ -310725,6 +310930,18 @@
                 "date": "2024-09-12",
                 "type": "claimed",
                 "group": "medusa"
+            }
+        ]
+    },
+    {
+        "victim": "Technology Dynamics",
+        "domain": "technologydynamicsinc.com",
+        "country": "US",
+        "timeline": [
+            {
+                "date": "2026-09-08",
+                "type": "claimed",
+                "group": "Storm"
             }
         ]
     },
@@ -329788,6 +330005,18 @@
                 "date": "2025-07-04",
                 "type": "claimed",
                 "group": "spacebears"
+            }
+        ]
+    },
+    {
+        "victim": "Universal Starch-Chem Allied Ltd",
+        "domain": "universalstarch.com",
+        "country": "IN",
+        "timeline": [
+            {
+                "date": "2026-09-09",
+                "type": "claimed",
+                "group": "emperador"
             }
         ]
     },
