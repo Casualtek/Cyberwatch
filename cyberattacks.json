@@ -1,5 +1,16 @@
 [
     {
+        "date": "2026-09-25",
+        "victim": "Keio Electric Railway",
+        "domain": "keio.co.jp",
+        "country": "JPN",
+        "summary": "Keio Electric Railway a été frappé par une attaque par rançongiciel, entraînant la panne de certains systèmes opérationnels. Le fonctionnement des trains n'est pas affecté.",
+        "description": "",
+        "title": "勒索軟體駭入東京地鐵、京王 近6萬筆會員email恐外流",
+        "url": "https://news.tvbs.com.tw/world/4028306",
+        "added": "2026-09-27"
+    },
+    {
         "date": "2026-09-14",
         "victim": "Venâncio Aires",
         "domain": "venancioaires.rs.gov.br",
