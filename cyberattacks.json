@@ -1,5 +1,16 @@
 [
     {
+        "date": "2026-09-14",
+        "victim": "Venâncio Aires",
+        "domain": "venancioaires.rs.gov.br",
+        "country": "BRA",
+        "summary": "Le lundi 14, le conseil municipal de Venâncio Aires (Brésil) a été victime d'une cyberattaque ayant paralysé son système informatique interne et son accès à internet.\r\nLes attaquants ont contacté l'institution pour réclamer une récompense en échange du rétablissement des services, sans toutefois préciser le montant demandé. Le président du conseil a déposé une plainte officielle auprès de la police pour signaler l'incident.",
+        "description": "",
+        "title": "folhadomate.com",
+        "url": "https://folhadomate.com/cidades/venancio-aires/camara-sofre-ataque-cibernetico-com-pedido-de-recompensa/",
+        "added": "2026-09-27"
+    },
+    {
         "date": "2026-09-26",
         "victim": "Air Traffic and Navigation Services (ATNS)",
         "domain": "atns.co.za",
