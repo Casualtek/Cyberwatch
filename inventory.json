@@ -59676,6 +59676,18 @@
         ]
     },
     {
+        "victim": "CARIDRO VAL DE LOIRE",
+        "domain": "caridrovaldeloire.fr",
+        "country": "FR",
+        "timeline": [
+            {
+                "date": "2026-09-13",
+                "type": "claimed",
+                "group": "qilin"
+            }
+        ]
+    },
+    {
         "victim": "Carient Heart & Vascular",
         "domain": "carient.com",
         "country": "US",
@@ -65039,6 +65051,18 @@
                 "date": "2024-01-24",
                 "type": "claimed",
                 "group": "8base"
+            }
+        ]
+    },
+    {
+        "victim": "Cerámicas Kantu",
+        "domain": "ceramicaskantu.com",
+        "country": "PE",
+        "timeline": [
+            {
+                "date": "2026-09-13",
+                "type": "claimed",
+                "group": "Panzer"
             }
         ]
     },
@@ -133884,6 +133908,18 @@
         ]
     },
     {
+        "victim": "Gilco Scaffolding",
+        "domain": "gilcoscaffolding.com",
+        "country": "GB",
+        "timeline": [
+            {
+                "date": "2026-09-13",
+                "type": "claimed",
+                "group": "qilin"
+            }
+        ]
+    },
+    {
         "victim": "GILDE Handwerk Macrander GmbH & Co. KG",
         "domain": "gildehandwerk.com",
         "country": "DE",
@@ -158225,6 +158261,18 @@
         ]
     },
     {
+        "victim": "i2i-systems",
+        "domain": "i2i-systems.com",
+        "country": "TR",
+        "timeline": [
+            {
+                "date": "2026-09-13",
+                "type": "claimed",
+                "group": "Barracuda"
+            }
+        ]
+    },
+    {
         "victim": "i2k2 Networks",
         "domain": "i2k2.com",
         "country": "IN",
@@ -162455,6 +162503,18 @@
         "domain": "incomegypt.com",
         "country": "EG",
         "timeline": []
+    },
+    {
+        "victim": "INCOR Group",
+        "domain": "incor.in",
+        "country": "IN",
+        "timeline": [
+            {
+                "date": "2026-09-13",
+                "type": "claimed",
+                "group": "Doommageddon"
+            }
+        ]
     },
     {
         "victim": "INCYTE",
@@ -176888,6 +176948,18 @@
         ]
     },
     {
+        "victim": "www.kashkha.com",
+        "domain": "kashkha.com",
+        "country": "AE",
+        "timeline": [
+            {
+                "date": "2026-09-13",
+                "type": "claimed",
+                "group": "krybit"
+            }
+        ]
+    },
+    {
         "victim": "kasida.bg",
         "domain": "kasida.bg",
         "country": "",
@@ -179999,6 +180071,18 @@
                 "date": "2025-11-21",
                 "type": "claimed",
                 "group": "akira"
+            }
+        ]
+    },
+    {
+        "victim": "Kimberly-Clark",
+        "domain": "kimberly-clark.com",
+        "country": "US",
+        "timeline": [
+            {
+                "date": "2026-09-13",
+                "type": "claimed",
+                "group": "shinyhunters"
             }
         ]
     },
@@ -223924,6 +224008,18 @@
                 "date": "2024-08-30",
                 "type": "claimed",
                 "group": "hunters"
+            }
+        ]
+    },
+    {
+        "victim": "Navitrans",
+        "domain": "navitrans.com.co",
+        "country": "CO",
+        "timeline": [
+            {
+                "date": "2026-09-13",
+                "type": "claimed",
+                "group": "emperador"
             }
         ]
     },
