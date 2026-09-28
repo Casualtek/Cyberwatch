@@ -3403,6 +3403,18 @@
         ]
     },
     {
+        "victim": "FRANCARETRAD",
+        "domain": "FRANCARETRAD.nodomain",
+        "country": "FR",
+        "timeline": [
+            {
+                "date": "2026-09-19",
+                "type": "claimed",
+                "group": "ZaWoo"
+            }
+        ]
+    },
+    {
         "victim": "Fi***************.pa",
         "domain": "Fi***************.pa.nodomain",
         "country": "",
@@ -3789,6 +3801,18 @@
                 "date": "2026-09-10",
                 "type": "claimed",
                 "group": "clop"
+            }
+        ]
+    },
+    {
+        "victim": "HEOLIS",
+        "domain": "HEOLIS.nodomain",
+        "country": "FR",
+        "timeline": [
+            {
+                "date": "2026-09-19",
+                "type": "claimed",
+                "group": "ZaWoo"
             }
         ]
     },
@@ -16542,6 +16566,18 @@
         ]
     },
     {
+        "victim": "AKAZZO",
+        "domain": "akazzo.com.br",
+        "country": "BR",
+        "timeline": [
+            {
+                "date": "2026-09-19",
+                "type": "claimed",
+                "group": "arcusmedia"
+            }
+        ]
+    },
+    {
         "victim": "AK Constructors, Inc.",
         "domain": "akconstructors.com",
         "country": "US",
@@ -21732,6 +21768,18 @@
                 "date": "2025-04-22",
                 "type": "claimed",
                 "group": "cicada3301"
+            }
+        ]
+    },
+    {
+        "victim": "ambpvc",
+        "domain": "amb-pvc.com",
+        "country": "FR",
+        "timeline": [
+            {
+                "date": "2026-09-19",
+                "type": "claimed",
+                "group": "ZaWoo"
             }
         ]
     },
@@ -61795,6 +61843,18 @@
                 "date": "2023-02-13",
                 "type": "claimed",
                 "group": "lockbit3"
+            }
+        ]
+    },
+    {
+        "victim": "Cassias MG Government",
+        "domain": "cassia.mg.gov.br",
+        "country": "BR",
+        "timeline": [
+            {
+                "date": "2026-09-19",
+                "type": "claimed",
+                "group": "emperador"
             }
         ]
     },
@@ -107441,6 +107501,18 @@
                 "date": "2025-01-30",
                 "type": "assessed",
                 "group": "cactus"
+            }
+        ]
+    },
+    {
+        "victim": "Electrolux",
+        "domain": "electroluxgroup.com",
+        "country": "SE",
+        "timeline": [
+            {
+                "date": "2026-09-19",
+                "type": "claimed",
+                "group": "emperador"
             }
         ]
     },
@@ -180635,6 +180707,29 @@
                 "date": "2025-04-28",
                 "type": "claimed",
                 "group": "akira"
+            }
+        ]
+    },
+    {
+        "victim": "Kreishandwerkerschaft Borken",
+        "domain": "kh-borken.de",
+        "country": "DE",
+        "timeline": [
+            {
+                "date": "2026-09-19",
+                "type": "claimed",
+                "group": "rhysida"
+            },
+            {
+                "date": "2026-09-14",
+                "type": "discovered",
+                "summary": "La Kreishandwerkerschaft Borken a été victime d'une cyberattaque. Le serveur de l'institution a été compromis dans la nuit du jeudi au vendredi 11 septembre, rendant l'organisation injoignable par téléphone et par courriel. Cette situation devrait durer au moins jusqu'au mercredi 16 septembre, voire plus longtemps.",
+                "title": "Kreishandwerkerschaft von Hackern angegriffen",
+                "url": "https://www.wn.de/muensterland/kreis-borken/gronau/kreishandwerkerschaft-von-hackern-angegriffen-3646428?pid=true&ueg=default"
+            },
+            {
+                "date": "2026-09-11",
+                "type": "reported"
             }
         ]
     },
@@ -262915,6 +263010,18 @@
         ]
     },
     {
+        "victim": "Quy Nhon University",
+        "domain": "qnu.edu.vn",
+        "country": "VN",
+        "timeline": [
+            {
+                "date": "2026-09-18",
+                "type": "claimed",
+                "group": "Vexy Ransomware"
+            }
+        ]
+    },
+    {
         "victim": "Qosina",
         "domain": "qosina.com",
         "country": "US",
@@ -283543,6 +283650,18 @@
                 "date": "2025-03-05",
                 "type": "claimed",
                 "group": "fog"
+            }
+        ]
+    },
+    {
+        "victim": "Schneider’s Computing",
+        "domain": "scomputing.ca",
+        "country": "CA",
+        "timeline": [
+            {
+                "date": "2026-09-19",
+                "type": "claimed",
+                "group": "arcusmedia"
             }
         ]
     },
@@ -341098,6 +341217,18 @@
         ]
     },
     {
+        "victim": "voltgames.io",
+        "domain": "voltgames.io",
+        "country": "PT",
+        "timeline": [
+            {
+                "date": "2026-09-19",
+                "type": "claimed",
+                "group": "unsafe"
+            }
+        ]
+    },
+    {
         "victim": "Volt Infrastructure",
         "domain": "voltinfra.com",
         "country": "US",
@@ -353918,6 +354049,18 @@
                 "date": "2023-06-03",
                 "type": "claimed",
                 "group": "mallox"
+            }
+        ]
+    },
+    {
+        "victim": "Young Injury Law",
+        "domain": "younginjurylawnv.com",
+        "country": "US",
+        "timeline": [
+            {
+                "date": "2026-09-19",
+                "type": "claimed",
+                "group": "cry0"
             }
         ]
     },
