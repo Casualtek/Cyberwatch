@@ -1,5 +1,16 @@
 [
     {
+        "date": "2026-09-26",
+        "victim": "Fosko S.A.",
+        "domain": "fosko.cl",
+        "country": "CHI",
+        "summary": "Fosko S.A., fabricant de contenants plastiques, a été victime d'une cyberattaque par ransomware de la variante LockBit 3.0. L'incident a été détecté lorsqu'un utilisateur n'a pas pu accéder à des fichiers de facturation. L'attaque a affecté deux postes de travail et un serveur de fichiers. L'entreprise, qui disposait d'une infrastructure technologique minimale, a activé le service d'Egs-Latam, qui a fourni une réponse immédiate, incluant une analyse forensique détaillée et un renforcement de l'infrastructure, permettant à Fosko de maintenir son opération sans paralysie totale.",
+        "description": "",
+        "title": "Fosko mitiga ataque de ransomware con respuesta especializada de Egs-Latam",
+        "url": "https://www.trendtic.cl/2026/09/fosko-mitiga-ataque-de-ransomware-con-respuesta-especializada-de-egs-latam/",
+        "added": "2026-09-28"
+    },
+    {
         "date": "2026-08-11",
         "victim": "Alto Calore Servizi",
         "domain": "altocalore.it",
