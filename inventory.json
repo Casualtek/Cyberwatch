@@ -342862,6 +342862,18 @@
         ]
     },
     {
+        "victim": "Wallatec",
+        "domain": "wallatec.com",
+        "country": "DE",
+        "timeline": [
+            {
+                "date": "2026-09-17",
+                "type": "assessed",
+                "group": "akira"
+            }
+        ]
+    },
+    {
         "victim": "Waller",
         "domain": "wallercorporation.com",
         "country": "US",
