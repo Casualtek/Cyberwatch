@@ -1,5 +1,16 @@
 [
     {
+        "date": "2026-08-11",
+        "victim": "Alto Calore Servizi",
+        "domain": "altocalore.it",
+        "country": "ITA",
+        "summary": "Alto Calore Servizi a reconnu avoir subi une cyberattaque entre le 10 et le 11 août, ce qui a causé des perturbations importantes dans la gestion des services et des facturations. L'entreprise a indiqué que la pleine fonctionnalité n'a été rétablie que récemment, et que des incohérences dans la gestion des communications et des factures sont en cours de correction. L'attaque a été revendiquée par Titan le 20 août.",
+        "description": "",
+        "title": "Alto Calore: \"Abbiamo subito un attacco informatico. Ci scusiamo con gli utenti\"",
+        "url": "https://www.avellinotoday.it/attualita/alto-calore-attacco-informatico.html",
+        "added": "2026-09-28"
+    },
+    {
         "date": "2026-09-27",
         "victim": "SRG SSR",
         "domain": "srgssr.ch",
