@@ -1,5 +1,16 @@
 [
     {
+        "date": "2026-09-27",
+        "victim": "SRG SSR",
+        "domain": "srgssr.ch",
+        "country": "CHE",
+        "summary": "La SRG a détecté une cyberattaque ayant permis à des personnes non autorisées d'accéder aux données de collaborateurs de SRF. L'incident a entraîné une fuite de données, principalement des coordonnées et des informations organisationnelles de 340 employés actuels et anciens de l'unité 'Information' de SRF, datant de 2020. Les données concernées incluent noms, fonctions et coordonnées professionnelles et parfois privées. Il n'y a pas de preuves actuelles que des mots de passe, des données financières, des sources journalistiques ou des contenus de communication aient été touchés. La SRG a immédiatement réagi en désactivant les accès, a informé les autorités et mène une enquête approfondie.",
+        "description": "",
+        "title": "SRG von Cybervorfall betroffen",
+        "url": "https://www.presseportal.ch/de/pm/100014224/100942588",
+        "added": "2026-09-28"
+    },
+    {
         "date": "2026-09-25",
         "victim": "Keio Electric Railway",
         "domain": "keio.co.jp",
