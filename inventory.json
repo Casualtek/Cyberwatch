@@ -10016,6 +10016,18 @@
         ]
     },
     {
+        "victim": "acilnet.com",
+        "domain": "acilnet.com",
+        "country": "TR",
+        "timeline": [
+            {
+                "date": "2026-09-20",
+                "type": "claimed",
+                "group": "krybit"
+            }
+        ]
+    },
+    {
         "victim": "acima",
         "domain": "acima.com",
         "country": "US",
@@ -17155,6 +17167,18 @@
                 "date": "2024-08-26",
                 "type": "claimed",
                 "group": "ransomhub"
+            }
+        ]
+    },
+    {
+        "victim": "Alabama Woman's Health Care",
+        "domain": "alabamawomenshealth.com",
+        "country": "US",
+        "timeline": [
+            {
+                "date": "2026-09-20",
+                "type": "claimed",
+                "group": "emperador"
             }
         ]
     },
@@ -28873,6 +28897,18 @@
         ]
     },
     {
+        "victim": "arsrenacer.com",
+        "domain": "arsrenacer.com",
+        "country": "AR",
+        "timeline": [
+            {
+                "date": "2026-09-01",
+                "type": "claimed",
+                "group": "dragonforce"
+            }
+        ]
+    },
+    {
         "victim": "Arkansas Oral & Maxillofacial Surgeons",
         "domain": "arsurgeons.com",
         "country": "US",
@@ -35387,6 +35423,18 @@
             {
                 "date": "2023-05-04",
                 "type": "reported"
+            }
+        ]
+    },
+    {
+        "victim": "Euramex Management Group",
+        "domain": "avilare.com",
+        "country": "US",
+        "timeline": [
+            {
+                "date": "2026-09-20",
+                "type": "claimed",
+                "group": "Orova"
             }
         ]
     },
@@ -82391,6 +82439,18 @@
         ]
     },
     {
+        "victim": "Studio Notarile Associato Salvatore Costantino E Anna Favarato",
+        "domain": "costantinofavarato.it",
+        "country": "IT",
+        "timeline": [
+            {
+                "date": "2026-09-20",
+                "type": "claimed",
+                "group": "emperador"
+            }
+        ]
+    },
+    {
         "victim": "Costa Solutions, LLC",
         "domain": "costasolutions.com",
         "country": "US",
@@ -117978,6 +118038,18 @@
         ]
     },
     {
+        "victim": "Fanatics (global sports commerce platform)",
+        "domain": "fanatics.com",
+        "country": "US",
+        "timeline": [
+            {
+                "date": "2026-09-20",
+                "type": "claimed",
+                "group": "N0n"
+            }
+        ]
+    },
+    {
         "victim": "Fancy Foods",
         "domain": "fancyfoods.com",
         "country": "US",
@@ -140015,6 +140087,18 @@
                 "date": "2025-08-15",
                 "type": "claimed",
                 "group": "anubis"
+            }
+        ]
+    },
+    {
+        "victim": "Great Bay Bio",
+        "domain": "greatbay-bio.com",
+        "country": "HK",
+        "timeline": [
+            {
+                "date": "2026-09-20",
+                "type": "claimed",
+                "group": "nightspire"
             }
         ]
     },
@@ -183139,6 +183223,18 @@
             {
                 "date": "2024-07-10",
                 "type": "assessed",
+                "group": "qilin"
+            }
+        ]
+    },
+    {
+        "victim": "KMLS",
+        "domain": "kmls.de",
+        "country": "DE",
+        "timeline": [
+            {
+                "date": "2026-09-20",
+                "type": "claimed",
                 "group": "qilin"
             }
         ]
@@ -289871,6 +289967,18 @@
         ]
     },
     {
+        "victim": "ShopDunk",
+        "domain": "shopdunk.com",
+        "country": "TH",
+        "timeline": [
+            {
+                "date": "2026-09-20",
+                "type": "claimed",
+                "group": "qilin"
+            }
+        ]
+    },
+    {
         "victim": "Flipo Group",
         "domain": "shopflipo.com",
         "country": "IN",
@@ -290701,6 +290809,18 @@
             {
                 "date": "2024-02-28",
                 "type": "reported"
+            }
+        ]
+    },
+    {
+        "victim": "Siddhi Green Excellence Pvt. Ltd",
+        "domain": "siddhigreen.com",
+        "country": "IN",
+        "timeline": [
+            {
+                "date": "2026-09-20",
+                "type": "claimed",
+                "group": "Orova"
             }
         ]
     },
@@ -312566,6 +312686,18 @@
         ]
     },
     {
+        "victim": "Touring Club Suisse",
+        "domain": "tcs.ch",
+        "country": "CH",
+        "timeline": [
+            {
+                "date": "2026-09-20",
+                "type": "claimed",
+                "group": "qilin"
+            }
+        ]
+    },
+    {
         "victim": "Tulare City School District",
         "domain": "tcsdk8.org",
         "country": "US",
@@ -314133,6 +314265,18 @@
                 "date": "2024-12-11",
                 "type": "claimed",
                 "group": "nitrogen"
+            }
+        ]
+    },
+    {
+        "victim": "TEK SPB",
+        "domain": "tek-spb.ru",
+        "country": "RU",
+        "timeline": [
+            {
+                "date": "2026-09-20",
+                "type": "claimed",
+                "group": "AuditTeam"
             }
         ]
     },
@@ -322721,6 +322865,18 @@
                 "date": "2026-05-15",
                 "type": "claimed",
                 "group": "rhysida"
+            }
+        ]
+    },
+    {
+        "victim": "TOWILL",
+        "domain": "towill.com",
+        "country": "US",
+        "timeline": [
+            {
+                "date": "2026-09-20",
+                "type": "claimed",
+                "group": "bravox"
             }
         ]
     },
@@ -356170,6 +356326,18 @@
                 "date": "2024-07-28",
                 "type": "claimed",
                 "group": "abyss"
+            }
+        ]
+    },
+    {
+        "victim": "Zorlu Holding",
+        "domain": "zorlu.com",
+        "country": "TR",
+        "timeline": [
+            {
+                "date": "2026-09-20",
+                "type": "claimed",
+                "group": "qilin"
             }
         ]
     },
