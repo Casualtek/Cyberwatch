@@ -1065,6 +1065,18 @@
         ]
     },
     {
+        "victim": "First Secure Community Bank",
+        "domain": "1stsecurebank.com",
+        "country": "US",
+        "timeline": [
+            {
+                "date": "2026-09-18",
+                "type": "claimed",
+                "group": "Storm"
+            }
+        ]
+    },
+    {
         "victim": "1stsource.com",
         "domain": "1stsource.com",
         "country": "",
@@ -1850,6 +1862,18 @@
         ]
     },
     {
+        "victim": "Vietnamese betting operator (GC789 network / Boundless TE)",
+        "domain": "789bet.com",
+        "country": "VN",
+        "timeline": [
+            {
+                "date": "2026-09-18",
+                "type": "claimed",
+                "group": "N0n"
+            }
+        ]
+    },
+    {
         "victim": "7G Distributing",
         "domain": "7gdistributing.com",
         "country": "",
@@ -2127,6 +2151,18 @@
                 "date": "2026-08-20",
                 "type": "claimed",
                 "group": "DYSPHOR1A"
+            }
+        ]
+    },
+    {
+        "victim": "Accela.com",
+        "domain": "Accela.com",
+        "country": "US",
+        "timeline": [
+            {
+                "date": "2026-09-18",
+                "type": "claimed",
+                "group": "EndZone"
             }
         ]
     },
@@ -22281,6 +22317,18 @@
         ]
     },
     {
+        "victim": "American Casting Company",
+        "domain": "americancastingco.com",
+        "country": "US",
+        "timeline": [
+            {
+                "date": "2026-09-18",
+                "type": "claimed",
+                "group": "Storm"
+            }
+        ]
+    },
+    {
         "victim": "American Golf ",
         "domain": "americangolf.com",
         "country": "US",
@@ -23844,6 +23892,18 @@
         ]
     },
     {
+        "victim": "Anderson Industries",
+        "domain": "anderson-industries.com",
+        "country": "US",
+        "timeline": [
+            {
+                "date": "2026-09-18",
+                "type": "claimed",
+                "group": "akira"
+            }
+        ]
+    },
+    {
         "victim": "Jeff Anderson & Associates PA",
         "domain": "andersonadvocates.com",
         "country": "US",
@@ -25029,6 +25089,18 @@
             {
                 "date": "2025-01-07",
                 "type": "reported"
+            }
+        ]
+    },
+    {
+        "victim": "ANYTHINGIT",
+        "domain": "anythingit.com",
+        "country": "US",
+        "timeline": [
+            {
+                "date": "2026-09-18",
+                "type": "claimed",
+                "group": "Spirals"
             }
         ]
     },
@@ -27789,7 +27861,19 @@
         ]
     },
     {
-        "victim": "Ejército Argentino",
+        "victim": "Argentem Creek Partners (investment firm)",
+        "domain": "argentemcreek.com",
+        "country": "US",
+        "timeline": [
+            {
+                "date": "2026-09-18",
+                "type": "claimed",
+                "group": "N0n"
+            }
+        ]
+    },
+    {
+        "victim": "Ministry of Education — Argentina",
         "domain": "argentina.gob.ar",
         "country": "AR",
         "timeline": [
@@ -27802,6 +27886,11 @@
                 "date": "2026-07-24",
                 "type": "claimed",
                 "group": "qilin"
+            },
+            {
+                "date": "2026-09-18",
+                "type": "claimed",
+                "group": "N0n"
             }
         ]
     },
@@ -29387,6 +29476,18 @@
                 "date": "2024-08-06",
                 "type": "assessed",
                 "group": "lynx"
+            }
+        ]
+    },
+    {
+        "victim": "Ascend Com",
+        "domain": "ascendcom.com.sg",
+        "country": "SG",
+        "timeline": [
+            {
+                "date": "2026-09-18",
+                "type": "claimed",
+                "group": "qilin"
             }
         ]
     },
@@ -31412,6 +31513,18 @@
         ]
     },
     {
+        "victim": "AstraZeneca Türkiye",
+        "domain": "astrazeneca.com.tr",
+        "country": "TR",
+        "timeline": [
+            {
+                "date": "2026-09-18",
+                "type": "claimed",
+                "group": "N0n"
+            }
+        ]
+    },
+    {
         "victim": "Astreya",
         "domain": "astreya.com",
         "country": "US",
@@ -32912,7 +33025,7 @@
         ]
     },
     {
-        "victim": "AT&T Careers",
+        "victim": "AT&T",
         "domain": "att.com",
         "country": "US",
         "timeline": [
@@ -32920,6 +33033,11 @@
                 "date": "2025-10-22",
                 "type": "claimed",
                 "group": "everest"
+            },
+            {
+                "date": "2026-09-18",
+                "type": "claimed",
+                "group": "EndZone"
             }
         ]
     },
@@ -39365,6 +39483,18 @@
         ]
     },
     {
+        "victim": "Barrett Mahony Consulting Engineers",
+        "domain": "barrettmahony.com",
+        "country": "IE",
+        "timeline": [
+            {
+                "date": "2026-09-18",
+                "type": "claimed",
+                "group": "play"
+            }
+        ]
+    },
+    {
         "victim": "BARRICK.COM",
         "domain": "barrick.com",
         "country": "",
@@ -42508,6 +42638,18 @@
             {
                 "date": "2026-05-29",
                 "type": "reported"
+            }
+        ]
+    },
+    {
+        "victim": "BeLi Teacher / FSC education centers (AWS)",
+        "domain": "beliteachers.com",
+        "country": "VN",
+        "timeline": [
+            {
+                "date": "2026-09-18",
+                "type": "claimed",
+                "group": "N0n"
             }
         ]
     },
@@ -65478,6 +65620,18 @@
                 "date": "2025-09-09",
                 "type": "claimed",
                 "group": "thegentlemen"
+            }
+        ]
+    },
+    {
+        "victim": "Ceres Tolvas",
+        "domain": "cerestolvas.com.ar",
+        "country": "AR",
+        "timeline": [
+            {
+                "date": "2026-09-18",
+                "type": "claimed",
+                "group": "qilin"
             }
         ]
     },
@@ -122282,6 +122436,18 @@
         ]
     },
     {
+        "victim": "First Secure Bank and Trust",
+        "domain": "firstsecurebank.com",
+        "country": "US",
+        "timeline": [
+            {
+                "date": "2026-09-18",
+                "type": "claimed",
+                "group": "Storm"
+            }
+        ]
+    },
+    {
         "victim": "First Trinity Financial",
         "domain": "firsttrinityfinancial.com",
         "country": "US",
@@ -125553,6 +125719,18 @@
             {
                 "date": "2024-06-27",
                 "type": "reported"
+            }
+        ]
+    },
+    {
+        "victim": "forus.cl",
+        "domain": "forus.cl",
+        "country": "CL",
+        "timeline": [
+            {
+                "date": "2026-09-18",
+                "type": "claimed",
+                "group": "lockbit5"
             }
         ]
     },
@@ -129023,6 +129201,18 @@
             {
                 "date": "2025-08-08",
                 "type": "reported"
+            }
+        ]
+    },
+    {
+        "victim": "Futuro Forestal",
+        "domain": "futuroforestal.com",
+        "country": "CL",
+        "timeline": [
+            {
+                "date": "2026-09-18",
+                "type": "claimed",
+                "group": "qilin"
             }
         ]
     },
@@ -134837,6 +135027,18 @@
             {
                 "date": "2026-05-19",
                 "type": "reported"
+            }
+        ]
+    },
+    {
+        "victim": "Giti Corp",
+        "domain": "giti-corp.com",
+        "country": "SG",
+        "timeline": [
+            {
+                "date": "2026-09-18",
+                "type": "claimed",
+                "group": "killsec"
             }
         ]
     },
@@ -142034,6 +142236,18 @@
                 "date": "2025-10-20",
                 "type": "claimed",
                 "group": "sinobi"
+            }
+        ]
+    },
+    {
+        "victim": "Grupo Juste",
+        "domain": "grupojuste.com",
+        "country": "MX",
+        "timeline": [
+            {
+                "date": "2026-09-18",
+                "type": "claimed",
+                "group": "qilin"
             }
         ]
     },
@@ -158595,6 +158809,11 @@
         "timeline": [
             {
                 "date": "2026-09-11",
+                "type": "claimed",
+                "group": "lockbit5"
+            },
+            {
+                "date": "2026-09-11",
                 "type": "assessed",
                 "group": "lockbit5"
             }
@@ -164535,6 +164754,18 @@
         ]
     },
     {
+        "victim": "Inglewood Golf",
+        "domain": "inglewoodgolfclub.ca",
+        "country": "CA",
+        "timeline": [
+            {
+                "date": "2026-09-18",
+                "type": "claimed",
+                "group": "play"
+            }
+        ]
+    },
+    {
         "victim": "Ingomar Church",
         "domain": "ingomarchurch.org",
         "country": "US",
@@ -165130,6 +165361,18 @@
                 "date": "2023-12-07",
                 "type": "assessed",
                 "group": "lockbit3"
+            }
+        ]
+    },
+    {
+        "victim": "Inovapy",
+        "domain": "inovapy.com",
+        "country": "PY",
+        "timeline": [
+            {
+                "date": "2026-09-18",
+                "type": "claimed",
+                "group": "Panzer"
             }
         ]
     },
@@ -166366,6 +166609,18 @@
         ]
     },
     {
+        "victim": "Inter (Venezuela's largest internet provider)",
+        "domain": "inter.com.ve",
+        "country": "VE",
+        "timeline": [
+            {
+                "date": "2026-09-18",
+                "type": "claimed",
+                "group": "N0n"
+            }
+        ]
+    },
+    {
         "victim": "INTERACT TECHNOLOGY SOLUTIONS",
         "domain": "interactts.com",
         "country": "EG",
@@ -167523,6 +167778,18 @@
                 "date": "2023-01-26",
                 "type": "claimed",
                 "group": "royal"
+            }
+        ]
+    },
+    {
+        "victim": "Inland and Offshore Contractors",
+        "domain": "iocltt.com",
+        "country": "TT",
+        "timeline": [
+            {
+                "date": "2026-09-18",
+                "type": "claimed",
+                "group": "qilin"
             }
         ]
     },
@@ -174478,6 +174745,18 @@
         ]
     },
     {
+        "victim": "Johnson Investment Counsel",
+        "domain": "johnsoninv.com",
+        "country": "US",
+        "timeline": [
+            {
+                "date": "2026-09-18",
+                "type": "claimed",
+                "group": "Storm"
+            }
+        ]
+    },
+    {
         "victim": "Johnson, Webbert, & Beard, LLP",
         "domain": "johnsonwebbert.com",
         "country": "US",
@@ -176560,6 +176839,18 @@
                 "date": "2024-03-05",
                 "type": "claimed",
                 "group": "redransomware"
+            }
+        ]
+    },
+    {
+        "victim": "K3G Solutions Brazil",
+        "domain": "k3gsolutions.com.br",
+        "country": "BR",
+        "timeline": [
+            {
+                "date": "2026-09-18",
+                "type": "claimed",
+                "group": "Panzer"
             }
         ]
     },
@@ -179305,14 +179596,19 @@
         ]
     },
     {
-        "victim": "Kendall Hunt Publishing",
+        "victim": "www.kendallhunt.com",
         "domain": "kendallhunt.com",
-        "country": "",
+        "country": "US",
         "timeline": [
             {
                 "date": "2023-02-22",
                 "type": "claimed",
                 "group": "alphv"
+            },
+            {
+                "date": "2026-09-18",
+                "type": "claimed",
+                "group": "incransom"
             }
         ]
     },
@@ -181644,6 +181940,18 @@
         ]
     },
     {
+        "victim": "kit-e.jp",
+        "domain": "kit-e.jp",
+        "country": "JP",
+        "timeline": [
+            {
+                "date": "2026-09-10",
+                "type": "claimed",
+                "group": "AuditTeam"
+            }
+        ]
+    },
+    {
         "victim": "kitahirosima.jp",
         "domain": "kitahirosima.jp",
         "country": "JP",
@@ -183550,6 +183858,18 @@
                 "date": "2023-09-01",
                 "type": "claimed",
                 "group": "lockbit3"
+            }
+        ]
+    },
+    {
+        "victim": "Konnatus (usucapião legal services)",
+        "domain": "konnatus.com.br",
+        "country": "BR",
+        "timeline": [
+            {
+                "date": "2026-09-18",
+                "type": "claimed",
+                "group": "N0n"
             }
         ]
     },
@@ -219176,6 +219496,18 @@
         ]
     },
     {
+        "victim": "MPA Pharma",
+        "domain": "mpapharma.de",
+        "country": "DE",
+        "timeline": [
+            {
+                "date": "2026-09-18",
+                "type": "claimed",
+                "group": "rhysida"
+            }
+        ]
+    },
+    {
         "victim": "Manassas Park City Schools",
         "domain": "mpark.net",
         "country": "PY",
@@ -252363,6 +252695,18 @@
         ]
     },
     {
+        "victim": "PITTSRAD",
+        "domain": "pittsrad.net",
+        "country": "US",
+        "timeline": [
+            {
+                "date": "2026-09-18",
+                "type": "claimed",
+                "group": "Spirals"
+            }
+        ]
+    },
+    {
         "victim": "Adrenalina",
         "domain": "piuadrenalina.com",
         "country": "IT",
@@ -257050,6 +257394,18 @@
         ]
     },
     {
+        "victim": "Prefix Corp",
+        "domain": "prefix.com",
+        "country": "US",
+        "timeline": [
+            {
+                "date": "2026-09-18",
+                "type": "claimed",
+                "group": "securotrop"
+            }
+        ]
+    },
+    {
         "victim": "Prei Capital",
         "domain": "preicapital.com",
         "country": "US",
@@ -257196,6 +257552,18 @@
                 "date": "2025-02-18",
                 "type": "claimed",
                 "group": "akira"
+            }
+        ]
+    },
+    {
+        "victim": "Premier Lighting & Controls",
+        "domain": "premierlight.com",
+        "country": "US",
+        "timeline": [
+            {
+                "date": "2026-09-18",
+                "type": "claimed",
+                "group": "Gammax"
             }
         ]
     },
@@ -263236,6 +263604,18 @@
                 "date": "2026-08-02",
                 "type": "claimed",
                 "group": "shinyhunters"
+            }
+        ]
+    },
+    {
+        "victim": "Quest Group",
+        "domain": "questgroupsearch.com",
+        "country": "US",
+        "timeline": [
+            {
+                "date": "2026-09-18",
+                "type": "claimed",
+                "group": "anubis"
             }
         ]
     },
@@ -272336,6 +272716,18 @@
                 "date": "2026-03-30",
                 "type": "claimed",
                 "group": "lockbit5"
+            }
+        ]
+    },
+    {
+        "victim": "www.roancampingholidays.com",
+        "domain": "roancampingholidays.com",
+        "country": "NL",
+        "timeline": [
+            {
+                "date": "2026-09-18",
+                "type": "claimed",
+                "group": "incransom"
             }
         ]
     },
@@ -302990,6 +303382,18 @@
         ]
     },
     {
+        "victim": "Stim",
+        "domain": "stim.fr",
+        "country": "FR",
+        "timeline": [
+            {
+                "date": "2026-09-18",
+                "type": "claimed",
+                "group": "Panzer"
+            }
+        ]
+    },
+    {
         "victim": "stimgroup.it",
         "domain": "stimgroup.it",
         "country": "IT",
@@ -303491,6 +303895,18 @@
                 "date": "2026-02-27",
                 "type": "assessed",
                 "group": "akira"
+            }
+        ]
+    },
+    {
+        "victim": "STOKR (digital securities platform)",
+        "domain": "stokr.io",
+        "country": "LU",
+        "timeline": [
+            {
+                "date": "2026-09-18",
+                "type": "claimed",
+                "group": "N0n"
             }
         ]
     },
@@ -317900,6 +318316,18 @@
         ]
     },
     {
+        "victim": "The State Bank",
+        "domain": "thestatebankgroup.com",
+        "country": "US",
+        "timeline": [
+            {
+                "date": "2026-09-18",
+                "type": "claimed",
+                "group": "Storm"
+            }
+        ]
+    },
+    {
         "victim": "Substitute Teacher Service",
         "domain": "thesubservice.com",
         "country": "US",
@@ -323220,6 +323648,18 @@
             {
                 "date": "2025-02-07",
                 "type": "reported"
+            }
+        ]
+    },
+    {
+        "victim": "PayPal support operations (Transcom WorldWide)",
+        "domain": "transcom.com",
+        "country": "SE",
+        "timeline": [
+            {
+                "date": "2026-09-18",
+                "type": "claimed",
+                "group": "N0n"
             }
         ]
     },
@@ -329255,6 +329695,18 @@
         ]
     },
     {
+        "victim": "United Federation of Teachers",
+        "domain": "uft.org",
+        "country": "US",
+        "timeline": [
+            {
+                "date": "2026-09-18",
+                "type": "claimed",
+                "group": "N0n"
+            }
+        ]
+    },
+    {
         "victim": "Universal Group For Engineering and Consulting",
         "domain": "ug-maalem.com",
         "country": "PS",
@@ -330378,6 +330830,18 @@
             {
                 "date": "2023-05-25",
                 "type": "reported"
+            }
+        ]
+    },
+    {
+        "victim": "Universitt Hamburg",
+        "domain": "uni-hamburg.de",
+        "country": "DE",
+        "timeline": [
+            {
+                "date": "2026-09-17",
+                "type": "claimed",
+                "group": "Panzer"
             }
         ]
     },
@@ -339591,6 +340055,18 @@
                 "date": "2023-02-17",
                 "type": "claimed",
                 "group": "lockbit3"
+            }
+        ]
+    },
+    {
+        "victim": "Vista Plastic Solutions",
+        "domain": "vistahelps.com",
+        "country": "CA",
+        "timeline": [
+            {
+                "date": "2026-09-18",
+                "type": "claimed",
+                "group": "play"
             }
         ]
     },
