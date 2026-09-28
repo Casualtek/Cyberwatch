@@ -304560,6 +304560,18 @@
         ]
     },
     {
+        "victim": "Strack Companies",
+        "domain": "strackcompanies.com",
+        "country": "US",
+        "timeline": [
+            {
+                "date": "2026-09-04",
+                "type": "assessed",
+                "group": "akira"
+            }
+        ]
+    },
+    {
         "victim": "Strad Solutions",
         "domain": "stradsolutions.com",
         "country": "GB",
