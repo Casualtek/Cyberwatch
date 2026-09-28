@@ -1,5 +1,16 @@
 [
     {
+        "date": "2026-08-03",
+        "victim": "Bright Smile Dental Care, Ltd.",
+        "domain": "brightsmiledentalcare.net",
+        "country": "USA",
+        "summary": "Bright Smile Dental Care, une clinique dentaire située à Fishers, a été victime d'une cyberattaque par ransomware le 3 août. L'attaque a affecté les dossiers des patients, le logiciel de gestion de la pratique et le logiciel d'imagerie dentaire. Les informations potentiellement compromises incluent les noms, dates de naissance, adresses, numéros de téléphone, informations d'assurance, informations sur les dépendants, données de santé et, dans certains cas, des numéros de sécurité sociale. La clinique a engagé des consultants en cybersécurité et informe les patients concernés.",
+        "description": "",
+        "title": "Fishers dental office reports ransomware attack on patient records",
+        "url": "https://www.larryinfishers.com/2026/09/28/fishers-dental-office-ransomware-attack/",
+        "added": "2026-09-28"
+    },
+    {
         "date": "2026-09-26",
         "victim": "Fosko S.A.",
         "domain": "fosko.cl",
