@@ -1,5 +1,16 @@
 [
     {
+        "date": "2026-09-14",
+        "victim": "FTAPI",
+        "domain": "ftapi.com",
+        "country": "DEU",
+        "summary": "La plateforme d'échange de données FTAPI a confirmé avoir subi un incident de sécurité informatique. Le groupe criminel The Gentlemen a revendiqué une intrusion dans les systèmes informatiques de FTAPI. L'incident a été détecté le 14 septembre, lorsque des individus non autorisés ont accédé à un serveur interne local et y ont injecté un rançongiciel. FTAPI a isolé les systèmes affectés et a engagé une équipe de forensic externe. L'entreprise souligne que la plateforme FTAPI, les systèmes des clients et les données échangées n'ont pas été affectés, et que les opérations n'ont pas été restreintes, bien que des enquêtes forensiques soient toujours en cours.",
+        "description": "",
+        "title": "Cyber attack on data exchange service FTAPI",
+        "url": "https://www.heise.de/en/news/Cyber-attack-on-data-exchange-service-FTAPI-11469688.html",
+        "added": "2026-09-29"
+    },
+    {
         "date": "2026-09-20",
         "victim": "SK Logi",
         "domain": "sk-logi.co.jp",
