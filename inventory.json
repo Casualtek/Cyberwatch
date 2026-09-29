@@ -1403,6 +1403,18 @@
         ]
     },
     {
+        "victim": "360 Consulenza S.r.l.",
+        "domain": "360consulenza.com",
+        "country": "IT",
+        "timeline": [
+            {
+                "date": "2026-09-21",
+                "type": "claimed",
+                "group": "nightspire"
+            }
+        ]
+    },
+    {
         "victim": "360energy.com.ar",
         "domain": "360energy.com.ar",
         "country": "AR",
@@ -3651,6 +3663,18 @@
                 "date": "2025-08-09",
                 "type": "claimed",
                 "group": "cloak"
+            }
+        ]
+    },
+    {
+        "victim": "Gomomentum.com",
+        "domain": "Gomomentum.com",
+        "country": "US",
+        "timeline": [
+            {
+                "date": "2026-09-21",
+                "type": "claimed",
+                "group": "EndZone"
             }
         ]
     },
@@ -19644,6 +19668,18 @@
         ]
     },
     {
+        "victim": "Allied Supply Co.",
+        "domain": "alliedsupply.com",
+        "country": "US",
+        "timeline": [
+            {
+                "date": "2026-09-21",
+                "type": "claimed",
+                "group": "Global Secret Group"
+            }
+        ]
+    },
+    {
         "victim": "Allied Telesis",
         "domain": "alliedtelesis.com",
         "country": "JP",
@@ -31420,6 +31456,18 @@
                 "date": "2024-04-17",
                 "type": "claimed",
                 "group": "ransomexx"
+            }
+        ]
+    },
+    {
+        "victim": "Astemo, Ltd.",
+        "domain": "astemo.com",
+        "country": "JP",
+        "timeline": [
+            {
+                "date": "2026-09-21",
+                "type": "claimed",
+                "group": "metaencryptor"
             }
         ]
     },
@@ -50247,6 +50295,18 @@
                 "date": "2024-08-14",
                 "type": "claimed",
                 "group": "akira"
+            }
+        ]
+    },
+    {
+        "victim": "Maryann Kriger",
+        "domain": "bonitaortho.com",
+        "country": "US",
+        "timeline": [
+            {
+                "date": "2026-09-21",
+                "type": "claimed",
+                "group": "incransom"
             }
         ]
     },
@@ -83504,6 +83564,18 @@
         ]
     },
     {
+        "victim": "Charlottesville Police Department",
+        "domain": "cpdcareers.com",
+        "country": "US",
+        "timeline": [
+            {
+                "date": "2026-09-21",
+                "type": "claimed",
+                "group": "Doommageddon"
+            }
+        ]
+    },
+    {
         "victim": "Coe Press Equipment",
         "domain": "cpec.com",
         "country": "US",
@@ -109888,6 +109960,18 @@
         ]
     },
     {
+        "victim": "HyVision System. Inc",
+        "domain": "en.hyvision.co.kr",
+        "country": "KR",
+        "timeline": [
+            {
+                "date": "2026-09-21",
+                "type": "claimed",
+                "group": "metaencryptor"
+            }
+        ]
+    },
+    {
         "victim": "Federal University of Sergipe",
         "domain": "en.ufs.br",
         "country": "BR",
@@ -123447,6 +123531,18 @@
             {
                 "date": "2024-06-24",
                 "type": "reported"
+            }
+        ]
+    },
+    {
+        "victim": "Flex Ltd",
+        "domain": "flex.com",
+        "country": "US",
+        "timeline": [
+            {
+                "date": "2026-09-21",
+                "type": "claimed",
+                "group": "metaencryptor"
             }
         ]
     },
@@ -142419,7 +142515,7 @@
         ]
     },
     {
-        "victim": "Grupolider | Grupo Actual",
+        "victim": "Grupolider",
         "domain": "grupolider-ao.com",
         "country": "AO",
         "timeline": [
@@ -142427,6 +142523,11 @@
                 "date": "2026-07-10",
                 "type": "claimed",
                 "group": "Deadlock"
+            },
+            {
+                "date": "2026-09-21",
+                "type": "claimed",
+                "group": "thegentlemen"
             }
         ]
     },
@@ -153669,6 +153770,18 @@
         ]
     },
     {
+        "victim": "Hogan Lovells Cadwalader",
+        "domain": "hlc.com",
+        "country": "",
+        "timeline": [
+            {
+                "date": "2026-09-21",
+                "type": "claimed",
+                "group": "SilentRansomGroup"
+            }
+        ]
+    },
+    {
         "victim": "HLF Heizung-Sanitär GmbH",
         "domain": "hlf-goslar.de",
         "country": "DE",
@@ -157842,6 +157955,18 @@
         ]
     },
     {
+        "victim": "Hudson MD Group, LLC",
+        "domain": "hudsonmdgroup.com",
+        "country": "US",
+        "timeline": [
+            {
+                "date": "2026-09-21",
+                "type": "claimed",
+                "group": "metaencryptor"
+            }
+        ]
+    },
+    {
         "victim": "Hudson River Housing",
         "domain": "hudsonriverhousing.org",
         "country": "US",
@@ -158494,6 +158619,18 @@
                 "date": "2025-08-25",
                 "type": "claimed",
                 "group": "interlock"
+            }
+        ]
+    },
+    {
+        "victim": "Hurley",
+        "domain": "hurleyco.net",
+        "country": "US",
+        "timeline": [
+            {
+                "date": "2026-09-21",
+                "type": "claimed",
+                "group": "play"
             }
         ]
     },
@@ -162273,6 +162410,18 @@
                 "date": "2023-09-06",
                 "type": "claimed",
                 "group": "incransom"
+            }
+        ]
+    },
+    {
+        "victim": "IKEGAMI TSUSHINKI COMPANY LIMITED",
+        "domain": "ikegami.co.jp",
+        "country": "JP",
+        "timeline": [
+            {
+                "date": "2026-09-21",
+                "type": "claimed",
+                "group": "qilin"
             }
         ]
     },
@@ -182405,6 +182554,18 @@
         ]
     },
     {
+        "victim": "Kjla",
+        "domain": "kjla.com",
+        "country": "US",
+        "timeline": [
+            {
+                "date": "2026-09-21",
+                "type": "claimed",
+                "group": "Global Secret Group"
+            }
+        ]
+    },
+    {
         "victim": "KAMIJO",
         "domain": "kjm.co.jp",
         "country": "JP",
@@ -186528,6 +186689,18 @@
             {
                 "date": "2026-01-11",
                 "type": "reported"
+            }
+        ]
+    },
+    {
+        "victim": "kyyba.com",
+        "domain": "kyyba.com",
+        "country": "FI",
+        "timeline": [
+            {
+                "date": "2026-09-21",
+                "type": "claimed",
+                "group": "unsafe"
             }
         ]
     },
@@ -202087,6 +202260,18 @@
         ]
     },
     {
+        "victim": "Manroc Developments",
+        "domain": "manroc.com",
+        "country": "CA",
+        "timeline": [
+            {
+                "date": "2026-09-21",
+                "type": "claimed",
+                "group": "Storm"
+            }
+        ]
+    },
+    {
         "victim": "Mansfield Family Dentistry",
         "domain": "mansfielddentistry.com",
         "country": "US",
@@ -211012,6 +211197,18 @@
             {
                 "date": "2024-07-14",
                 "type": "reported"
+            }
+        ]
+    },
+    {
+        "victim": "Metallco",
+        "domain": "metallco.com",
+        "country": "BR",
+        "timeline": [
+            {
+                "date": "2026-09-21",
+                "type": "claimed",
+                "group": "play"
             }
         ]
     },
@@ -228315,6 +228512,18 @@
                 "date": "2024-02-15",
                 "type": "assessed",
                 "group": "lockbit3"
+            }
+        ]
+    },
+    {
+        "victim": "newmantractor.com",
+        "domain": "newmantractor.com",
+        "country": "US",
+        "timeline": [
+            {
+                "date": "2026-09-21",
+                "type": "claimed",
+                "group": "threeam"
             }
         ]
     },
@@ -258109,6 +258318,11 @@
         "country": "US",
         "timeline": [
             {
+                "date": "2026-09-21",
+                "type": "claimed",
+                "group": "akira"
+            },
+            {
                 "date": "2026-08-17",
                 "type": "assessed",
                 "group": "akira"
@@ -285101,6 +285315,18 @@
         ]
     },
     {
+        "victim": "SECOND HOUSE",
+        "domain": "secondhouse.es",
+        "country": "ES",
+        "timeline": [
+            {
+                "date": "2026-09-21",
+                "type": "claimed",
+                "group": "incransom"
+            }
+        ]
+    },
+    {
         "victim": "Southeast Cooler",
         "domain": "secooler.com",
         "country": "US",
@@ -291353,6 +291579,18 @@
                 "date": "2023-12-07",
                 "type": "claimed",
                 "group": "lockbit3"
+            }
+        ]
+    },
+    {
+        "victim": "siinqeebank.com",
+        "domain": "siinqeebank.com",
+        "country": "SO",
+        "timeline": [
+            {
+                "date": "2026-09-20",
+                "type": "claimed",
+                "group": "lockbit5"
             }
         ]
     },
@@ -306411,6 +306649,18 @@
         ]
     },
     {
+        "victim": "Summa Gold",
+        "domain": "summagold.com",
+        "country": "PE",
+        "timeline": [
+            {
+                "date": "2026-09-21",
+                "type": "claimed",
+                "group": "anubis"
+            }
+        ]
+    },
+    {
         "victim": "summervillepolice.com",
         "domain": "summervillepolice.com",
         "country": "US",
@@ -314864,6 +315114,18 @@
         ]
     },
     {
+        "victim": "Telrad Networks",
+        "domain": "telrad.com",
+        "country": "IL",
+        "timeline": [
+            {
+                "date": "2026-09-21",
+                "type": "claimed",
+                "group": "qilin"
+            }
+        ]
+    },
+    {
         "victim": "Telstar-Hommel",
         "domain": "telstar-hommel.com",
         "country": "KR",
@@ -317970,6 +318232,18 @@
             {
                 "date": "2024-01-24",
                 "type": "reported"
+            }
+        ]
+    },
+    {
+        "victim": "The Money Store",
+        "domain": "themoneystore.com",
+        "country": "US",
+        "timeline": [
+            {
+                "date": "2026-09-21",
+                "type": "claimed",
+                "group": "Storm"
             }
         ]
     },
@@ -326416,6 +326690,18 @@
         ]
     },
     {
+        "victim": "TrueCore Behavioral Solutions",
+        "domain": "truecorebehavioral.com",
+        "country": "US",
+        "timeline": [
+            {
+                "date": "2026-09-21",
+                "type": "claimed",
+                "group": "Storm"
+            }
+        ]
+    },
+    {
         "victim": "True Family Enterprises",
         "domain": "truefamilyenterprises.com",
         "country": "US",
@@ -334287,6 +334573,18 @@
         ]
     },
     {
+        "victim": "U.S. Electrical Services and Wiedenbach Brown",
+        "domain": "usesi.com",
+        "country": "US",
+        "timeline": [
+            {
+                "date": "2026-09-21",
+                "type": "claimed",
+                "group": "moneymessage"
+            }
+        ]
+    },
+    {
         "victim": "University of San Francisco",
         "domain": "usfca.edu",
         "country": "US",
@@ -340365,6 +340663,18 @@
                 "date": "2026-09-18",
                 "type": "claimed",
                 "group": "play"
+            }
+        ]
+    },
+    {
+        "victim": "Visual Intelligence, Inc.",
+        "domain": "visualintelligenceinc.com",
+        "country": "US",
+        "timeline": [
+            {
+                "date": "2026-09-21",
+                "type": "claimed",
+                "group": "metaencryptor"
             }
         ]
     },
