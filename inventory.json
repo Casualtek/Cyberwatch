@@ -14002,6 +14002,18 @@
         ]
     },
     {
+        "victim": "AFRICA-TECH (IT services / document processing)",
+        "domain": "africatech-mali.com",
+        "country": "ML",
+        "timeline": [
+            {
+                "date": "2026-09-22",
+                "type": "claimed",
+                "group": "N0n"
+            }
+        ]
+    },
+    {
         "victim": "AF Supply",
         "domain": "afsupply.com",
         "country": "",
@@ -72005,6 +72017,18 @@
         ]
     },
     {
+        "victim": "Clark Hill",
+        "domain": "clarkhill.com",
+        "country": "US",
+        "timeline": [
+            {
+                "date": "2026-09-22",
+                "type": "claimed",
+                "group": "SilentRansomGroup"
+            }
+        ]
+    },
+    {
         "victim": "clarkmechanicalinc.com",
         "domain": "clarkmechanicalinc.com",
         "country": "US",
@@ -77153,6 +77177,18 @@
                 "date": "2023-05-30",
                 "type": "claimed",
                 "group": "lockbit3"
+            }
+        ]
+    },
+    {
+        "victim": "Columbus Informatica",
+        "domain": "columbusinformatica.it",
+        "country": "IT",
+        "timeline": [
+            {
+                "date": "2026-09-22",
+                "type": "claimed",
+                "group": "qilin"
             }
         ]
     },
@@ -83252,6 +83288,18 @@
         ]
     },
     {
+        "victim": "Cozen O'Connor",
+        "domain": "cozen.com",
+        "country": "US",
+        "timeline": [
+            {
+                "date": "2026-09-22",
+                "type": "claimed",
+                "group": "SilentRansomGroup"
+            }
+        ]
+    },
+    {
         "victim": "cozwolle.nl",
         "domain": "cozwolle.nl",
         "country": "NL",
@@ -83580,6 +83628,11 @@
         "domain": "cpec.com",
         "country": "US",
         "timeline": [
+            {
+                "date": "2026-09-22",
+                "type": "claimed",
+                "group": "akira"
+            },
             {
                 "date": "2026-07-07",
                 "type": "assessed",
@@ -95587,6 +95640,11 @@
         "domain": "dicsel.it",
         "country": "IT",
         "timeline": [
+            {
+                "date": "2026-09-22",
+                "type": "claimed",
+                "group": "akira"
+            },
             {
                 "date": "2026-06-30",
                 "type": "assessed",
@@ -122161,6 +122219,18 @@
         ]
     },
     {
+        "victim": "FinSoft (Kolibri retail back-office software)",
+        "domain": "finsoft.uz",
+        "country": "UZ",
+        "timeline": [
+            {
+                "date": "2026-09-22",
+                "type": "claimed",
+                "group": "N0n"
+            }
+        ]
+    },
+    {
         "victim": "FINTRAC (Financial Transactions and Reports Analysis Centre of Canada)",
         "domain": "fintrac-canafe.canada.ca",
         "country": "CA",
@@ -127547,6 +127617,29 @@
         ]
     },
     {
+        "victim": "Fresenius Medical Care",
+        "domain": "freseniusmedicalcare.com",
+        "country": "DE",
+        "timeline": [
+            {
+                "date": "2026-06-24",
+                "type": "claimed",
+                "group": "shinyhunters"
+            },
+            {
+                "date": "2026-09-23",
+                "type": "discovered",
+                "summary": "Fresenius Medical Care a fait état d'un incident de cybersécurité impliquant un accès non autorisé à un nombre limité de systèmes internes. L'entreprise a indiqué que les soins aux patients, les opérations de fabrication et la continuité des activités n'ont pas été affectés. L'incident a été contenu, et des experts en cybersécurité et les forces de l'ordre ont été notifiés le 23 septembre 2026.",
+                "title": "Fresenius Medical Care stock falls 0.8 percent as cyber incident emerges",
+                "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/fresenius-medical-care-stock-falls-0-8-percent-as-cyber-incident-emerges/70165445"
+            },
+            {
+                "date": "2026-09-21",
+                "type": "reported"
+            }
+        ]
+    },
+    {
         "victim": "fresh2you.eu",
         "domain": "fresh2you.eu",
         "country": "NL",
@@ -129800,6 +129893,18 @@
                 "date": "2023-06-11",
                 "type": "claimed",
                 "group": "medusa"
+            }
+        ]
+    },
+    {
+        "victim": "Gaedke & Partner Steuerberatung",
+        "domain": "gaedke.co.at",
+        "country": "AT",
+        "timeline": [
+            {
+                "date": "2026-09-22",
+                "type": "claimed",
+                "group": "anubis"
             }
         ]
     },
@@ -138598,6 +138703,18 @@
         ]
     },
     {
+        "victim": "GOTTHELF",
+        "domain": "gotthelfmd.com",
+        "country": "MD",
+        "timeline": [
+            {
+                "date": "2026-09-22",
+                "type": "claimed",
+                "group": "Booba Project"
+            }
+        ]
+    },
+    {
         "victim": "Gough Construction",
         "domain": "goughconstruction.com",
         "country": "US",
@@ -140896,6 +141013,18 @@
                 "date": "2023-03-11",
                 "type": "claimed",
                 "group": "lockbit3"
+            }
+        ]
+    },
+    {
+        "victim": "gregjoneslaw.com",
+        "domain": "gregjoneslaw.com",
+        "country": "US",
+        "timeline": [
+            {
+                "date": "2026-09-08",
+                "type": "claimed",
+                "group": "settra"
             }
         ]
     },
@@ -155908,6 +156037,18 @@
                 "date": "2026-05-28",
                 "type": "claimed",
                 "group": "cmdorganization"
+            }
+        ]
+    },
+    {
+        "victim": "Grupo Hospifar S.R.L.",
+        "domain": "hospifar.com",
+        "country": "AR",
+        "timeline": [
+            {
+                "date": "2026-09-22",
+                "type": "claimed",
+                "group": "titan"
             }
         ]
     },
@@ -184837,6 +184978,18 @@
         ]
     },
     {
+        "victim": "Krapf Group",
+        "domain": "krapfbus.com",
+        "country": "US",
+        "timeline": [
+            {
+                "date": "2026-09-22",
+                "type": "claimed",
+                "group": "kairos"
+            }
+        ]
+    },
+    {
         "victim": "kras.hr",
         "domain": "kras.hr",
         "country": "HR",
@@ -187774,7 +187927,7 @@
         ]
     },
     {
-        "victim": "Lake Beverage Corp.",
+        "victim": "lakebeverage.com",
         "domain": "lakebeverage.com",
         "country": "US",
         "timeline": [
@@ -187782,6 +187935,11 @@
                 "date": "2025-03-03",
                 "type": "claimed",
                 "group": "frag"
+            },
+            {
+                "date": "2026-09-07",
+                "type": "claimed",
+                "group": "settra"
             },
             {
                 "date": "2024-11-12",
@@ -219318,6 +219476,18 @@
         ]
     },
     {
+        "victim": "moscone.com",
+        "domain": "moscone.com",
+        "country": "US",
+        "timeline": [
+            {
+                "date": "2026-09-11",
+                "type": "claimed",
+                "group": "settra"
+            }
+        ]
+    },
+    {
         "victim": "Moscord",
         "domain": "moscord.com",
         "country": "SG",
@@ -224237,6 +224407,11 @@
                 "date": "2025-03-27",
                 "type": "claimed",
                 "group": "akira"
+            },
+            {
+                "date": "2026-09-22",
+                "type": "claimed",
+                "group": "secp0"
             }
         ]
     },
@@ -224430,6 +224605,18 @@
                 "date": "2024-03-20",
                 "type": "assessed",
                 "group": "lockbit3"
+            }
+        ]
+    },
+    {
+        "victim": "namtheun2.com",
+        "domain": "namtheun2.com",
+        "country": "LA",
+        "timeline": [
+            {
+                "date": "2026-09-11",
+                "type": "claimed",
+                "group": "settra"
             }
         ]
     },
@@ -263867,6 +264054,18 @@
         ]
     },
     {
+        "victim": "quantummarketing-group.com",
+        "domain": "quantummarketing-group.com",
+        "country": "DE",
+        "timeline": [
+            {
+                "date": "2026-08-13",
+                "type": "claimed",
+                "group": "settra"
+            }
+        ]
+    },
+    {
         "victim": "Quantum Radiology",
         "domain": "quantumradiology.com.au",
         "country": "AU",
@@ -285050,6 +285249,18 @@
         ]
     },
     {
+        "victim": "Sealcon",
+        "domain": "sealconusa.com",
+        "country": "US",
+        "timeline": [
+            {
+                "date": "2026-09-22",
+                "type": "claimed",
+                "group": "termite"
+            }
+        ]
+    },
+    {
         "victim": "Sealevel Systems, Inc.",
         "domain": "sealevelinc.com",
         "country": "US",
@@ -289375,6 +289586,18 @@
                 "date": "2023-08-02",
                 "type": "claimed",
                 "group": "clop"
+            }
+        ]
+    },
+    {
+        "victim": "Sherman Chan, DDS, Inc.",
+        "domain": "shermanchandds.com",
+        "country": "US",
+        "timeline": [
+            {
+                "date": "2026-09-22",
+                "type": "claimed",
+                "group": "titan"
             }
         ]
     },
@@ -313148,6 +313371,11 @@
         "country": "US",
         "timeline": [
             {
+                "date": "2026-09-22",
+                "type": "claimed",
+                "group": "akira"
+            },
+            {
                 "date": "2026-09-04",
                 "type": "assessed",
                 "group": "akira"
@@ -316426,6 +316654,18 @@
         ]
     },
     {
+        "victim": "Textile City",
+        "domain": "textilecity.ca",
+        "country": "CA",
+        "timeline": [
+            {
+                "date": "2026-09-22",
+                "type": "claimed",
+                "group": "qilin"
+            }
+        ]
+    },
+    {
         "victim": "textiles.org.tw",
         "domain": "textiles.org.tw",
         "country": "TW",
@@ -317667,6 +317907,18 @@
         ]
     },
     {
+        "victim": "The Fifty/50",
+        "domain": "thefifty50.com",
+        "country": "US",
+        "timeline": [
+            {
+                "date": "2026-09-22",
+                "type": "claimed",
+                "group": "qilin"
+            }
+        ]
+    },
+    {
         "victim": "thefireplacewarehouse.co.uk",
         "domain": "thefireplacewarehouse.co.uk",
         "country": "GB",
@@ -318096,6 +318348,18 @@
                 "date": "2023-11-05",
                 "type": "claimed",
                 "group": "medusa"
+            }
+        ]
+    },
+    {
+        "victim": "theLender",
+        "domain": "thelender.com",
+        "country": "US",
+        "timeline": [
+            {
+                "date": "2026-09-22",
+                "type": "claimed",
+                "group": "termite"
             }
         ]
     },
@@ -321005,6 +321269,18 @@
                 "date": "2025-02-17",
                 "type": "assessed",
                 "group": "play"
+            }
+        ]
+    },
+    {
+        "victim": "Tulare Western High School",
+        "domain": "tjuhsd.org",
+        "country": "US",
+        "timeline": [
+            {
+                "date": "2026-09-22",
+                "type": "claimed",
+                "group": "Booba Project"
             }
         ]
     },
@@ -326541,6 +326817,18 @@
                 "date": "2023-10-20",
                 "type": "claimed",
                 "group": "play"
+            }
+        ]
+    },
+    {
+        "victim": "TruAmerica Multifamily",
+        "domain": "truamerica.com",
+        "country": "US",
+        "timeline": [
+            {
+                "date": "2026-09-22",
+                "type": "claimed",
+                "group": "termite"
             }
         ]
     },
@@ -333139,6 +333427,18 @@
                 "date": "2024-04-16",
                 "type": "claimed",
                 "group": "raworld"
+            }
+        ]
+    },
+    {
+        "victim": "universalautogroup.com",
+        "domain": "universalautogroup.com",
+        "country": "US",
+        "timeline": [
+            {
+                "date": "2026-08-12",
+                "type": "claimed",
+                "group": "settra"
             }
         ]
     },
@@ -340739,6 +341039,18 @@
                 "date": "2026-07-27",
                 "type": "claimed",
                 "group": "chaos"
+            }
+        ]
+    },
+    {
+        "victim": "vit.ac.in",
+        "domain": "vit.ac.in",
+        "country": "IN",
+        "timeline": [
+            {
+                "date": "2026-09-22",
+                "type": "claimed",
+                "group": "AuditTeam"
             }
         ]
     },
