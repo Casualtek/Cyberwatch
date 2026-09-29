@@ -4435,6 +4435,18 @@
         ]
     },
     {
+        "victim": "Legis",
+        "domain": "Legis.nodomain",
+        "country": "CO",
+        "timeline": [
+            {
+                "date": "2026-09-23",
+                "type": "claimed",
+                "group": "rhysida"
+            }
+        ]
+    },
+    {
         "victim": "Louis Tieu DDS MD",
         "domain": "LouisTieuDDSMD.nodomain",
         "country": "US",
@@ -8644,6 +8656,18 @@
         ]
     },
     {
+        "victim": "Abtach Ltd.",
+        "domain": "abtach.com",
+        "country": "PK",
+        "timeline": [
+            {
+                "date": "2026-09-23",
+                "type": "claimed",
+                "group": "Barracuda"
+            }
+        ]
+    },
+    {
         "victim": "AB Texel",
         "domain": "abtexel.nl",
         "country": "NL",
@@ -8711,6 +8735,18 @@
                 "date": "2026-03-05",
                 "type": "claimed",
                 "group": "qilin"
+            }
+        ]
+    },
+    {
+        "victim": "Abv",
+        "domain": "abv.bg",
+        "country": "BG",
+        "timeline": [
+            {
+                "date": "2026-09-23",
+                "type": "claimed",
+                "group": "medusalocker"
             }
         ]
     },
@@ -14903,6 +14939,18 @@
                 "date": "2025-07-29",
                 "type": "assessed",
                 "group": "qilin"
+            }
+        ]
+    },
+    {
+        "victim": "AGROFRUTO SAC",
+        "domain": "agrofruto.pe",
+        "country": "PE",
+        "timeline": [
+            {
+                "date": "2026-09-23",
+                "type": "claimed",
+                "group": "arcusmedia"
             }
         ]
     },
@@ -25342,6 +25390,18 @@
         ]
     },
     {
+        "victim": "Aokkef",
+        "domain": "aokkef.fr",
+        "country": "FR",
+        "timeline": [
+            {
+                "date": "2026-09-23",
+                "type": "claimed",
+                "group": "medusalocker"
+            }
+        ]
+    },
+    {
         "victim": "Accessoires Outillage Ltee",
         "domain": "aolaml.com",
         "country": "CA",
@@ -25641,6 +25701,11 @@
         "domain": "apex-lit.com",
         "country": "US",
         "timeline": [
+            {
+                "date": "2026-09-23",
+                "type": "claimed",
+                "group": "akira"
+            },
             {
                 "date": "2026-08-17",
                 "type": "assessed",
@@ -31847,6 +31912,18 @@
                 "date": "2025-02-04",
                 "type": "claimed",
                 "group": "ransomhub"
+            }
+        ]
+    },
+    {
+        "victim": "ASYAD GROUP",
+        "domain": "asyad.com",
+        "country": "OM",
+        "timeline": [
+            {
+                "date": "2026-09-23",
+                "type": "claimed",
+                "group": "Spirals"
             }
         ]
     },
@@ -82400,6 +82477,18 @@
             {
                 "date": "2025-05-13",
                 "type": "reported"
+            }
+        ]
+    },
+    {
+        "victim": "COSEF - Consorzio di Sviluppo Economico del Friuli",
+        "domain": "cosef.fvg.it",
+        "country": "IT",
+        "timeline": [
+            {
+                "date": "2026-09-23",
+                "type": "claimed",
+                "group": "Booba Project"
             }
         ]
     },
@@ -137774,6 +137863,18 @@
         ]
     },
     {
+        "victim": "goldstarfinancial.com",
+        "domain": "goldstarfinancial.com",
+        "country": "US",
+        "timeline": [
+            {
+                "date": "2026-09-23",
+                "type": "claimed",
+                "group": "BrainCipher"
+            }
+        ]
+    },
+    {
         "victim": "goldstarmetal.com",
         "domain": "goldstarmetal.com",
         "country": "TH",
@@ -153358,6 +153459,29 @@
         ]
     },
     {
+        "victim": "HIT dd",
+        "domain": "hit.si",
+        "country": "SI",
+        "timeline": [
+            {
+                "date": "2026-09-23",
+                "type": "claimed",
+                "group": "akira"
+            },
+            {
+                "date": "2026-08-28",
+                "type": "discovered",
+                "summary": "Les casinos du Groupe Hit, un géant slovene de l'hôtellerie et du tourisme, ont été touchés par une cyberattaque. L'incident, survenu dans la nuit entre le lundi et le mardi 25 août, a nécessité la fermeture de six casinos à Nova Gorica et dans le reste du territoire national. L'origine de l'attaque et l'étendue des dégâts sont inconnues, bien qu'il y ait des rumeurs non confirmées concernant la compromission des archives clients. Le Groupe Hit mène une enquête pour déterminer la cause et l'objectif de l'intrusion.",
+                "title": "Attacco hacker ai casinò Hit in Slovenia, ferme le sei case da gioco di Nova Gorica",
+                "url": "https://www.ilnordest.it/oltre-confine/attacco-hacker-casino-hit-nova-gorica-chiusi-qq4u2qkv"
+            },
+            {
+                "date": "2026-08-25",
+                "type": "reported"
+            }
+        ]
+    },
+    {
         "victim": "Hitachi High-Tech",
         "domain": "hitachi-hightech.com",
         "country": "JP",
@@ -165447,6 +165571,18 @@
                 "date": "2026-08-06",
                 "type": "claimed",
                 "group": "thegentlemen"
+            }
+        ]
+    },
+    {
+        "victim": "Inkript",
+        "domain": "inkript.com",
+        "country": "LB",
+        "timeline": [
+            {
+                "date": "2026-09-23",
+                "type": "claimed",
+                "group": "qilin"
             }
         ]
     },
@@ -210956,6 +211092,29 @@
         ]
     },
     {
+        "victim": "The Merrimack County",
+        "domain": "merrimackcounty.net",
+        "country": "US",
+        "timeline": [
+            {
+                "date": "2026-09-23",
+                "type": "claimed",
+                "group": "Booba Project"
+            },
+            {
+                "date": "2026-08-27",
+                "type": "discovered",
+                "summary": "Merrimack County, dans le New Hampshire, a subi un incident de sécurité réseau qui a temporairement empêché les opérateurs de la préfecture d'accéder aux systèmes d'informations criminelles de l'État. Bien que d'autres systèmes du comté soient restés hors ligne, l'incident n'a pas perturbé la prise d'appels 911 ni la réponse policière. Le comté travaille avec des spécialistes externes pour résoudre le problème, mais la cause n'a pas été identifiée et il n'y a pas eu de confirmation de violation de données.",
+                "title": "Merrimack County, New Hampshire, cybersecurity incident disrupts police records access",
+                "url": "https://dysruptionhub.com/merrimack-county-network-security/"
+            },
+            {
+                "date": "2026-08-25",
+                "type": "reported"
+            }
+        ]
+    },
+    {
         "victim": "Merri-Makers",
         "domain": "merrimakers.com",
         "country": "US",
@@ -240191,6 +240350,11 @@
         "country": "US",
         "timeline": [
             {
+                "date": "2026-09-23",
+                "type": "claimed",
+                "group": "emperador"
+            },
+            {
                 "date": "2025-08-28",
                 "type": "discovered",
                 "summary": "OnTrac suffered a data breach, providing free credit monitoring services to affected individuals. The breach led to the exposure of sensitive information, prompting the company to offer proactive fraud assistance. Affected individuals are encouraged to enroll in credit monitoring services to protect their information.",
@@ -267508,6 +267672,18 @@
         ]
     },
     {
+        "victim": "RECEITA FEDERAL DO BRASIL",
+        "domain": "receita.fazenda.gov.br",
+        "country": "BR",
+        "timeline": [
+            {
+                "date": "2026-09-23",
+                "type": "claimed",
+                "group": "emperador"
+            }
+        ]
+    },
+    {
         "victim": "Rechler Equity Partners",
         "domain": "rechlerequity.com",
         "country": "US",
@@ -288213,6 +288389,18 @@
         ]
     },
     {
+        "victim": "Seznam",
+        "domain": "seznam.cz",
+        "country": "CZ",
+        "timeline": [
+            {
+                "date": "2026-09-23",
+                "type": "claimed",
+                "group": "medusalocker"
+            }
+        ]
+    },
+    {
         "victim": "SFA Engineering Corporation",
         "domain": "sfa.co.kr",
         "country": "KR",
@@ -295047,6 +295235,18 @@
             {
                 "date": "2024-07-13",
                 "type": "reported"
+            }
+        ]
+    },
+    {
+        "victim": "Smart Eye Care",
+        "domain": "smarteyecare.com",
+        "country": "US",
+        "timeline": [
+            {
+                "date": "2026-09-23",
+                "type": "claimed",
+                "group": "Booba Project"
             }
         ]
     },
@@ -322349,6 +322549,18 @@
         ]
     },
     {
+        "victim": "Tomix / Grupo JOPER",
+        "domain": "tomix.com.pt",
+        "country": "PT",
+        "timeline": [
+            {
+                "date": "2026-09-23",
+                "type": "claimed",
+                "group": "spacebears"
+            }
+        ]
+    },
+    {
         "victim": "tommer construction",
         "domain": "tommerconstruction.com",
         "country": "US",
@@ -327243,6 +327455,18 @@
                 "date": "2025-12-06",
                 "type": "claimed",
                 "group": "anubis"
+            }
+        ]
+    },
+    {
+        "victim": "Trump Mobile",
+        "domain": "trumpmobile.com",
+        "country": "US",
+        "timeline": [
+            {
+                "date": "2026-09-23",
+                "type": "claimed",
+                "group": "EndZone"
             }
         ]
     },
@@ -334248,6 +334472,11 @@
         "country": "US",
         "timeline": [
             {
+                "date": "2026-09-23",
+                "type": "claimed",
+                "group": "akira"
+            },
+            {
                 "date": "2026-09-09",
                 "type": "assessed",
                 "group": "akira"
@@ -338583,6 +338812,18 @@
         ]
     },
     {
+        "victim": "vestfrostsolutions.com",
+        "domain": "vestfrostsolutions.com",
+        "country": "NO",
+        "timeline": [
+            {
+                "date": "2026-08-31",
+                "type": "claimed",
+                "group": "settra"
+            }
+        ]
+    },
+    {
         "victim": "Vestil Manufacturing",
         "domain": "vestil.com",
         "country": "US",
@@ -341406,6 +341647,18 @@
         ]
     },
     {
+        "victim": "Lemon Law",
+        "domain": "vlemonlaw.com",
+        "country": "US",
+        "timeline": [
+            {
+                "date": "2026-09-23",
+                "type": "claimed",
+                "group": "incransom"
+            }
+        ]
+    },
+    {
         "victim": "Vlp Hellas",
         "domain": "vlp.gr",
         "country": "GR",
@@ -344045,6 +344298,18 @@
             {
                 "date": "2024-01-24",
                 "type": "reported"
+            }
+        ]
+    },
+    {
+        "victim": "Washington County",
+        "domain": "washingtoncountymaine.com",
+        "country": "US",
+        "timeline": [
+            {
+                "date": "2026-09-23",
+                "type": "claimed",
+                "group": "Booba Project"
             }
         ]
     },
