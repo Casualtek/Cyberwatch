@@ -1,5 +1,16 @@
 [
     {
+        "date": "2026-09-20",
+        "victim": "SK Logi",
+        "domain": "sk-logi.co.jp",
+        "country": "JPN",
+        "summary": "La société SK Logi a annoncé avoir été victime d'une cyberattaque par accès non autorisé à ses systèmes internes. L'incident, survenu le 20 septembre 2026, a entraîné l'arrêt de son système de commande et des difficultés dans la gestion des expéditions et des stocks. Les autorités sont actuellement en train d'enquêter sur l'étendue des dégâts, y compris la possibilité d'une fuite de données, et n'ont pas encore identifié le vecteur d'attaque ni le groupe responsable.",
+        "description": "",
+        "title": "エスケーロジ、サイバー攻撃の被害を公表 受注システム停止、出荷・在庫管理にも影響|セキュリティニュースのセキュリティ対策Lab",
+        "url": "https://rocket-boys.co.jp/security-measures-lab/sk-logi-cyberattack-2026-09/",
+        "added": "2026-09-29"
+    },
+    {
         "date": "2026-08-03",
         "victim": "Bright Smile Dental Care, Ltd.",
         "domain": "brightsmiledentalcare.net",
