@@ -192899,6 +192899,11 @@
                 "date": "2026-08-14",
                 "type": "claimed",
                 "group": "qilin"
+            },
+            {
+                "date": "2026-07-14",
+                "type": "assessed",
+                "group": "qilin"
             }
         ]
     },
