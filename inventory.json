@@ -25310,6 +25310,11 @@
                 "date": "2026-09-15",
                 "type": "claimed",
                 "group": "Vexy Ransomware"
+            },
+            {
+                "date": "2026-09-15",
+                "type": "assessed",
+                "group": "Vexy Ransomware"
             }
         ]
     },
