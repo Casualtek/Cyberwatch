@@ -120552,6 +120552,18 @@
         ]
     },
     {
+        "victim": "FERRARI MANGIMI SRL",
+        "domain": "ferrarimangini.nodomain",
+        "country": "IT",
+        "timeline": [
+            {
+                "date": "2026-05-27",
+                "type": "assessed",
+                "group": "qilin"
+            }
+        ]
+    },
+    {
         "victim": "Ferraro Group",
         "domain": "ferraroporte.com",
         "country": "IT",
