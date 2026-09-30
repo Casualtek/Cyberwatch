@@ -1,5 +1,16 @@
 [
     {
+        "date": "2026-09-21",
+        "victim": "Ikegami Tsushinki Co., Ltd.",
+        "domain": "ikegami.co.jp",
+        "country": "JPN",
+        "summary": "Ikegami a confirmé avoir été victime d'une cyberattaque ayant entraîné l'accès non autorisé à certains de ses serveurs et le chiffrement d'une partie de ses fichiers. Pour empêcher l'extension des dommages, l'entreprise a maintenu son réseau interne déconnecté. L'enquête a révélé que des documents internes de la société ont été exfiltrés, après que l'entreprise a analysé des informations provenant d'une source externe. L'étendue exacte de la fuite de données est toujours en cours d'évaluation avec l'aide d'experts. La société a informé les autorités compétentes et prévoit de rétablir ses systèmes et son réseau progressivement, une fois la sécurité totalement vérifiée.",
+        "description": "",
+        "title": "池上通信機[6771]：当社に対するサイバー攻撃に関するお知らせ 2026年9月30日(適時開示) ：日経会社情報DIGITAL：日本経済新聞",
+        "url": "https://www.nikkei.com/nkd/disclosure/tdnr/20260930543349/",
+        "added": "2026-09-30"
+    },
+    {
         "date": "2026-09-14",
         "victim": "FTAPI",
         "domain": "ftapi.com",
