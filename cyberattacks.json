@@ -1,5 +1,16 @@
 [
     {
+        "date": "2026-09-20",
+        "victim": "Boryung Biopharma",
+        "domain": "boryungbio.co.kr",
+        "country": "KOR",
+        "summary": "Boryung Biopharma a été victime d'une infection par rançongiciel, ce qui a entraîné la coupure du réseau du siège social et des usines (y compris Jincheon). Cette attaque a perturbé la distribution de médicaments depuis la mi-mois. L'entreprise a également signalé une possible fuite de données personnelles des clients de sa banque de sang, bien qu'aucune fuite externe n'ait été confirmée à ce jour. L'entreprise a notifié l'incident à KISA (Korea Internet & Security Agency).",
+        "description": "",
+        "title": "[데일리팜]보령바이오파마, 랜섬웨어 감염…망 차단에 의약품 유통 차질",
+        "url": "https://www.dailypharm.com/user/news/342871",
+        "added": "2026-09-30"
+    },
+    {
         "date": "2026-09-29",
         "victim": "Radford",
         "domain": "radfordva.gov",
