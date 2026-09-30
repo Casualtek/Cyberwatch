@@ -13008,11 +13008,16 @@
     {
         "victim": "A&E + SMA Design",
         "domain": "ae.design",
-        "country": "AE",
+        "country": "US",
         "timeline": [
             {
                 "date": "2026-08-24",
                 "type": "claimed",
+                "group": "qilin"
+            },
+            {
+                "date": "2026-07-15",
+                "type": "assessed",
                 "group": "qilin"
             }
         ]
