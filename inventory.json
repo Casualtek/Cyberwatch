@@ -244693,6 +244693,11 @@
                 "date": "2026-09-04",
                 "type": "claimed",
                 "group": "Vexy Ransomware"
+            },
+            {
+                "date": "2026-07-06",
+                "type": "assessed",
+                "group": "Vexy Ransomware"
             }
         ]
     },
