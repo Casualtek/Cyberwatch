@@ -1,5 +1,16 @@
 [
     {
+        "date": "2025-08-27",
+        "victim": "Kovack Financial, LLC",
+        "domain": "kovackfinancial.com",
+        "country": "USA",
+        "summary": "Kovack Financial, LLC experienced a data breach between August 8, 2025, and August 27, 2025, where an unknown actor gained access to files within their network. The breach was discovered on July 16, 2026. The incident may have impacted some of the company's information.",
+        "description": "",
+        "title": "Submitted Breach Notification Sample",
+        "url": "https://oag.ca.gov/ecrime/databreach/reports/sb24-628054",
+        "added": "2026-10-01"
+    },
+    {
         "date": "2026-06-12",
         "victim": "Universal Plant Services, LLC",
         "domain": "universalphantservices.com",
