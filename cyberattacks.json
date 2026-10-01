@@ -1,5 +1,16 @@
 [
     {
+        "date": "2023-09-14",
+        "victim": "St James' Anglican School",
+        "domain": "stjames.wa.edu.au",
+        "country": "AUS",
+        "summary": "L'école anglicane St James a identifié un incident de cybersécurité impliquant un accès non autorisé à ses systèmes informatiques. L'école a sécurisé ses systèmes, mené un audit de cybersécurité et a informé les familles que des informations personnelles de la communauté scolaire étaient concernées. L'incident a été signalé au Centre australien de cybersécurité (ACSC) et au Commissaire australien à l'information.",
+        "description": "",
+        "title": "Discover St James’",
+        "url": "https://stjames.wa.edu.au/incident-updates/",
+        "added": "2026-10-01"
+    },
+    {
         "date": "2026-09-30",
         "victim": "Terrebonne Parish Government",
         "domain": "tpcg.org",
