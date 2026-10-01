@@ -1,5 +1,16 @@
 [
     {
+        "date": "2026-05-26",
+        "victim": "Catalyst Brands LLC",
+        "domain": "catalystbrands.com",
+        "country": "USA",
+        "summary": "Catalyst Brands LLC experienced a cybersecurity incident around May 26, 2026, involving unauthorized access to third-party servers used for HR and payroll services. On August 5, 2026, it was determined that personal information was compromised. The exposed data varied by individual but included names, Social Security numbers, dates of birth, driver’s license and passport numbers, contact details, financial account numbers, and login credentials.",
+        "description": "",
+        "title": "",
+        "url": "https://oag.ca.gov/system/files/EXP_Q3591_CATALYST_DBM-5969_L01_SAS_0.pdf",
+        "added": "2026-10-01"
+    },
+    {
         "date": "2026-04-09",
         "victim": "PAN AMERICAN GROUP LLC",
         "domain": "panamgroup.com",
