@@ -1,5 +1,16 @@
 [
     {
+        "date": "2026-10-01",
+        "victim": "Svedala kommun",
+        "domain": "svedala.se",
+        "country": "SWE",
+        "summary": "La municipalité de Svedala a été victime d'une attaque par ransomware, entraînant l'arrêt de tous ses systèmes. La municipalité est entrée en état de crise et travaille avec la police pour déterminer l'étendue des dégâts, car des tentatives de vol de données ont été signalées.",
+        "description": "",
+        "title": "IT-attack mot Svedala kommun: ”Handbroms på allt” | Sveriges Radio",
+        "url": "https://www.sverigesradio.se/artikel/it-attack-mot-svedala-kommun-system-ligger-nere",
+        "added": "2026-10-01"
+    },
+    {
         "date": "2025-11-28",
         "victim": "NSE Insurance Agencies",
         "domain": "nseinsurance.com",
