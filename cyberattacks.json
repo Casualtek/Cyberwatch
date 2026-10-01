@@ -1,5 +1,16 @@
 [
     {
+        "date": "2026-07-27",
+        "victim": "Terry J. Dubrow, MD, A Medical Corporation",
+        "domain": "drdubrow.com",
+        "country": "USA",
+        "summary": "An unauthorized actor accessed a portion of the medical corporation's network, acquiring certain patient data, including names, driver's license or state ID numbers, phone numbers, mailing addresses, email addresses, Social Security Numbers, and medical information.",
+        "description": "",
+        "title": "",
+        "url": "https://oag.ca.gov/system/files/Dubrow%20-%20Regulatory%20Notification%20Packet%20%28CA%29_0.pdf",
+        "added": "2026-10-01"
+    },
+    {
         "date": "2025-08-27",
         "victim": "Kovack Financial, LLC",
         "domain": "kovackfinancial.com",
