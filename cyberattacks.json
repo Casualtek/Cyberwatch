@@ -1,5 +1,16 @@
 [
     {
+        "date": "2026-06-21",
+        "victim": "May Trucking Company",
+        "domain": "maytrucking.com",
+        "country": "USA",
+        "summary": "May Trucking Company suffered a data breach that may have exposed customers' first and last names and Social Security numbers. The breach occurred when unauthorized individuals acquired certain files within the company's network. A cyberattack was claimed by Embargo on June 30.",
+        "description": "",
+        "title": "",
+        "url": "https://oag.ca.gov/system/files/May%20Trucking%20-%20Regulatory%20Report%20Letter%20%28CA%29_0.pdf",
+        "added": "2026-10-01"
+    },
+    {
         "date": "2026-07-27",
         "victim": "Terry J. Dubrow, MD, A Medical Corporation",
         "domain": "drdubrow.com",
