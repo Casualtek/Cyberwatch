@@ -1,5 +1,27 @@
 [
     {
+        "date": "2026-06-22",
+        "victim": "Genesis Healthcare Management",
+        "domain": "genesishcc.com",
+        "country": "USA",
+        "summary": "On June 22, 2026, Genesis Healthcare Management detected unusual activity on its network and launched an investigation with outside experts. The review found unauthorized access to certain files containing PWC data, prompting a full assessment of the affected files and their associated individuals.",
+        "description": "",
+        "title": "",
+        "url": "https://oag.ca.gov/system/files/drop42_Audits_Genesis-PWC_Letter_final_12%20months_revd1%20%28Redacted%29.pdf",
+        "added": "2026-10-01"
+    },
+    {
+        "date": "2026-06-22",
+        "victim": "Genesis Healthcare Management",
+        "domain": "genesishcc.com",
+        "country": "USA",
+        "summary": "On June 22, 2026, Genesis Healthcare Management detected unusual activity on its network and launched an investigation with outside experts. The review found unauthorized access to certain files containing PWC data, prompting a full assessment of the affected files and their associated individuals.",
+        "description": "",
+        "title": "",
+        "url": "https://oag.ca.gov/system/files/drop42_Audits_Genesis-PWC_Letter_final_12%20months_revd1%20%28Redacted%29.pdf",
+        "added": "2026-10-01"
+    },
+    {
         "date": "2026-07-15",
         "victim": "Turner Construction Company",
         "domain": "turnerconstruction.com",
