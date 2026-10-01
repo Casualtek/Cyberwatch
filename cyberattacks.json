@@ -1,5 +1,16 @@
 [
     {
+        "date": "2026-04-09",
+        "victim": "PAN AMERICAN GROUP LLC",
+        "domain": "panamgroup.com",
+        "country": "USA",
+        "summary": "On April 9, 2026, suspicious network activity was detected, prompting immediate security measures and a full investigation. The inquiry found that an unknown actor accessed certain servers between April 8 and April 9, 2026, obtaining or viewing specific files. A review of those files later identified that information related to you may have been included.",
+        "description": "",
+        "title": "",
+        "url": "https://oag.ca.gov/system/files/Pan%20American%20Group%20LLC%20-%20Notice%20of%20Data%20Event%20-%20CA_0.pdf",
+        "added": "2026-10-01"
+    },
+    {
         "date": "2025-07-11",
         "victim": "Los Angeles County Museum of Art",
         "domain": "lacma.org",
