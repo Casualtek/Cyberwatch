@@ -1,5 +1,16 @@
 [
     {
+        "date": "2026-06-12",
+        "victim": "Universal Plant Services, LLC",
+        "domain": "universalphantservices.com",
+        "country": "USA",
+        "summary": "Universal Plant Services, LLC suffered a data breach where an unauthorized individual accessed data within their network from June 8, 2026, through June 12, 2026. The breach potentially includes first and last names, Social Security numbers, driver's license numbers, and financial account information. The organization has taken measures to secure the affected information and is offering identity monitoring services to affected individuals.",
+        "description": "",
+        "title": "",
+        "url": "https://oag.ca.gov/system/files/Universal%20Plant%20Services%20Adult%20CM.pdf",
+        "added": "2026-10-01"
+    },
+    {
         "date": "2026-09-13",
         "victim": "Weld Re-8 School District",
         "domain": "weld8.org",
