@@ -1,5 +1,16 @@
 [
     {
+        "date": "2025-07-11",
+        "victim": "Los Angeles County Museum of Art",
+        "domain": "lacma.org",
+        "country": "USA",
+        "summary": "An unauthorized party accessed part of a network from July 7–11, 2025, with suspicious activity detected on July 11. After an investigation with cybersecurity experts in August 2025, a data-review firm analyzed affected files, and initial results arrived in late February 2026. Work has continued since then to confirm contact details for notifying affected individuals.",
+        "description": "",
+        "title": "",
+        "url": "https://oag.ca.gov/system/files/August%202026%20LACMA%20Notice%20-%20CM%20Redacted.pdf",
+        "added": "2026-10-01"
+    },
+    {
         "date": "2026-06-22",
         "victim": "Genesis Healthcare Management",
         "domain": "genesishcc.com",
