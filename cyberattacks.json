@@ -1,5 +1,16 @@
 [
     {
+        "date": "2026-07-20",
+        "victim": "AngMar Management Services",
+        "domain": "angmarcompanies.com",
+        "country": "USA",
+        "summary": "AngMar Management Services, une entreprise texane de gestion de soins à domicile, a subi une brèche de sécurité majeure. Le 11 août, le groupe de ransomware Interlock a revendiqué l'exfiltration de 710 Go de données, incluant des dossiers médicaux complets de plus de 35 916 résidents au Texas. L'accès non autorisé aux systèmes de l'entreprise a eu lieu autour du 18 juillet 2026, et l'incident a été détecté le 20 juillet 2026.",
+        "description": "",
+        "title": "AngMar: 35.916 texanos víctimas de una filtración de datos",
+        "url": "https://investx.fr/es/noticias-cripto/filtracion-datos-angmar-ransomware-interlock-texanos/",
+        "added": "2026-10-01"
+    },
+    {
         "date": "2023-09-14",
         "victim": "St James' Anglican School",
         "domain": "stjames.wa.edu.au",
