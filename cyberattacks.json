@@ -1,5 +1,16 @@
 [
     {
+        "date": "2026-01-10",
+        "victim": "LeMaitre Vascular, Inc.",
+        "domain": "lemaitre.com",
+        "country": "USA",
+        "summary": "On or around January 10, 2026, LeMaitre discovered a network disruption and launched an investigation with independent cybersecurity experts. After reviewing the data, LeMaitre found that some files may have been accessed without authorization. By about September 14, 2026, the review showed personal information for certain New Hampshire residents was potentially affected. LeMaitre reports no evidence that the information was misused or attempted to be misused.",
+        "description": "",
+        "title": "",
+        "url": "https://mm.nh.gov/files/uploads/doj/remote-docs/lemaitre-vascular-20260918.pdf",
+        "added": "2026-10-01"
+    },
+    {
         "date": "2025-10-27",
         "victim": "Fun For Less Tours",
         "domain": "funforlesstours.com",
