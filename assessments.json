@@ -1,5 +1,12 @@
 [
   {
+    "victim": "cromados.com",
+    "domain": "cromados.com",
+    "country": "ES",
+    "date": "2026-08-10",
+    "group": "safepay"
+  },
+  {
     "victim": "FERRARI MANGIMI SRL",
     "domain": "ferrarimangini.nodomain",
     "country": "IT",
