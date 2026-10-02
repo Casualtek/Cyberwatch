@@ -24558,6 +24558,17 @@
                 "date": "2026-08-11",
                 "type": "claimed",
                 "group": "interlock"
+            },
+            {
+                "date": "2026-10-01",
+                "type": "discovered",
+                "summary": "AngMar Management Services, une entreprise texane de gestion de soins à domicile, a subi une brèche de sécurité majeure. Le 11 août, le groupe de ransomware Interlock a revendiqué l'exfiltration de 710 Go de données, incluant des dossiers médicaux complets de plus de 35 916 résidents au Texas. L'accès non autorisé aux systèmes de l'entreprise a eu lieu autour du 18 juillet 2026, et l'incident a été détecté le 20 juillet 2026.",
+                "title": "AngMar: 35.916 texanos víctimas de una filtración de datos",
+                "url": "https://investx.fr/es/noticias-cripto/filtracion-datos-angmar-ransomware-interlock-texanos/"
+            },
+            {
+                "date": "2026-07-20",
+                "type": "reported"
             }
         ]
     },
@@ -85216,6 +85227,18 @@
         ]
     },
     {
+        "victim": "cromados.com",
+        "domain": "cromados.com",
+        "country": "ES",
+        "timeline": [
+            {
+                "date": "2026-08-10",
+                "type": "assessed",
+                "group": "safepay"
+            }
+        ]
+    },
+    {
         "victim": "Crompton Lamps, UK",
         "domain": "cromptonlamps.com",
         "country": "GB",
@@ -129229,6 +129252,17 @@
                 "date": "2025-12-01",
                 "type": "claimed",
                 "group": "anubis"
+            },
+            {
+                "date": "2026-10-01",
+                "type": "discovered",
+                "summary": "Fun For Less Tours, Inc. experienced a ransomware attack on October 27, 2025, where an unauthorized third party accessed their network and acquired files containing personal information. While there is no evidence that the information has been misused for fraud or identity theft, the company has secured its systems, notified law enforcement, and is advising affected individuals. A cyberattack was claimed by Anubis on December 1, 2025.",
+                "title": "",
+                "url": "https://oag.ca.gov/system/files/Fun%20For%20Less%20Tours%20-%20Adult%20CM_R2.pdf"
+            },
+            {
+                "date": "2025-10-27",
+                "type": "reported"
             }
         ]
     },
@@ -205854,6 +205888,17 @@
                 "date": "2026-06-30",
                 "type": "claimed",
                 "group": "embargo"
+            },
+            {
+                "date": "2026-10-01",
+                "type": "discovered",
+                "summary": "May Trucking Company suffered a data breach that may have exposed customers' first and last names and Social Security numbers. The breach occurred when unauthorized individuals acquired certain files within the company's network. A cyberattack was claimed by Embargo on June 30.",
+                "title": "",
+                "url": "https://oag.ca.gov/system/files/May%20Trucking%20-%20Regulatory%20Report%20Letter%20%28CA%29_0.pdf"
+            },
+            {
+                "date": "2026-06-21",
+                "type": "reported"
             }
         ]
     },
@@ -234688,6 +234733,17 @@
                 "date": "2025-12-11",
                 "type": "claimed",
                 "group": "chaos"
+            },
+            {
+                "date": "2026-10-01",
+                "type": "discovered",
+                "summary": "The cyberattack was claimed by Chaos on December 11, 2025.",
+                "title": "",
+                "url": "https://oag.ca.gov/system/files/SSN_Rev2_Redacted_40157812v1.pdf"
+            },
+            {
+                "date": "2025-11-28",
+                "type": "reported"
             }
         ]
     },
@@ -240839,6 +240895,17 @@
                 "date": "2026-07-08",
                 "type": "claimed",
                 "group": "chaos"
+            },
+            {
+                "date": "2026-10-01",
+                "type": "discovered",
+                "summary": "The cyberattack was claimed by Chaos on July 8.",
+                "title": "",
+                "url": "https://oag.ca.gov/system/files/USBFS4975_Opportune-Adult-file2.pdf_23%2840124410.1%29_Redacted_40140877v1.pdf"
+            },
+            {
+                "date": "2026-06-22",
+                "type": "reported"
             }
         ]
     },
