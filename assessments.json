@@ -1,5 +1,12 @@
 [
   {
+    "victim": "econ-tec.com",
+    "domain": "econ-tec.com",
+    "country": "DE",
+    "date": "2026-09-25",
+    "group": "safepay"
+  },
+  {
     "victim": "cromados.com",
     "domain": "cromados.com",
     "country": "ES",
