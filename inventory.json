@@ -105294,6 +105294,18 @@
         ]
     },
     {
+        "victim": "econ-tec.com",
+        "domain": "econ-tec.com",
+        "country": "DE",
+        "timeline": [
+            {
+                "date": "2026-09-25",
+                "type": "assessed",
+                "group": "safepay"
+            }
+        ]
+    },
+    {
         "victim": "eConceptions",
         "domain": "econceptions.mobi",
         "country": "PK",
