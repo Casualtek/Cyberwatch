@@ -1,6 +1,17 @@
 [
     {
         "date": "2026-10-02",
+        "victim": "De Bernardusscholen in Oudenaarde",
+        "domain": "bernardusscholen.be",
+        "country": "BEL",
+        "summary": "Les écoles de De Bernardus à Oudenaarde ont été victimes d'une cyberattaque. Les données d'environ 4 200 élèves et membres du personnel ont été volées. Les informations volées incluent des noms, des adresses e-mail, des numéros de registre de population et des adresses de domicile des enseignants, ainsi que des données des élèves. La direction a bloqué tous les comptes et a lancé une opération de changement de mots de passe. L'école a déposé une plainte auprès de la police.",
+        "description": "",
+        "title": "Cyberaanval op Bernardusscholen Oudenaarde: gegevens van 4.200 leerlingen en personeelsleden gestolen | VRT NWS Nieuws",
+        "url": "https://www.vrt.be/vrtnws/nl/2026/10/02/bernardusscholen-cyberaanval-oudenaarde/",
+        "added": "2026-10-05"
+    },
+    {
+        "date": "2026-10-02",
         "victim": "Université publique d'Osaka",
         "domain": "omu.ac.jp",
         "country": "JPN",
