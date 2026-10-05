@@ -78875,6 +78875,11 @@
                 "date": "2026-09-14",
                 "type": "claimed",
                 "group": "lockbit5"
+            },
+            {
+                "date": "2026-09-01",
+                "type": "assessed",
+                "group": "lockbit5"
             }
         ]
     },
