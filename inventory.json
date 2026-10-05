@@ -172340,6 +172340,18 @@
         ]
     },
     {
+        "victim": "Jampac Alimentos",
+        "domain": "jampac.com.br",
+        "country": "BR",
+        "timeline": [
+            {
+                "date": "2026-08-18",
+                "type": "assessed",
+                "group": "akira"
+            }
+        ]
+    },
+    {
         "victim": "Jampen Holzbau AG",
         "domain": "jampen-holzbau.ch",
         "country": "CH",
