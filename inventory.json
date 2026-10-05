@@ -126232,6 +126232,11 @@
                 "date": "2026-09-18",
                 "type": "claimed",
                 "group": "lockbit5"
+            },
+            {
+                "date": "2026-05-13",
+                "type": "assessed",
+                "group": "lockbit5"
             }
         ]
     },
