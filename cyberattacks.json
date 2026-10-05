@@ -1,5 +1,16 @@
 [
     {
+        "date": "2023-12-19",
+        "victim": "Nagano Nippo",
+        "domain": "nagano-np.co.jp",
+        "country": "JPN",
+        "summary": "La société de presse régionale Nagano Nippo a été victime d'une cyberattaque par rançongiciel. L'incident a été découvert le 19 décembre 2023, à 22h50, juste avant l'impression du journal du 20 décembre. L'attaque a rendu inutilisables la plupart des serveurs et des ordinateurs, détruisant presque toutes les données. Malgré la gravité de la situation, la direction a pris la décision de ne pas négocier avec les attaquants afin de maintenir la publication du journal, même sous forme de presse murale.",
+        "description": "",
+        "title": "「紙齢をつなぐ」——ランサムウェア被害に地域紙はどう立ち向かったか? 長野日報社の2か月（マイナビニュース）｜ｄメニューニュース",
+        "url": "https://topics.smt.docomo.ne.jp/amp/article/mycom/business/mycom_3230656",
+        "added": "2026-10-05"
+    },
+    {
         "date": "2026-10-04",
         "victim": "Indiana Area School District",
         "domain": "iasd.cc",
