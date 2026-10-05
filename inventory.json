@@ -132637,6 +132637,18 @@
         ]
     },
     {
+        "victim": "Geebee Garments",
+        "domain": "geebeegarments.ae",
+        "country": "AE",
+        "timeline": [
+            {
+                "date": "2026-09-22",
+                "type": "assessed",
+                "group": "akira"
+            }
+        ]
+    },
+    {
         "victim": "www.geedingconstruction.com",
         "domain": "geedingconstruction.com",
         "country": "US",
