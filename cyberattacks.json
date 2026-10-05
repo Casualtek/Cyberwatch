@@ -1,5 +1,16 @@
 [
     {
+        "date": "2026-08-12",
+        "victim": "Beyond Gravity",
+        "domain": "beyondgravity.com",
+        "country": "USA",
+        "summary": "Beyond Gravity, un fournisseur aérospatial fédéral, a été victime d'une cyberattaque ciblée menée par un acteur hautement professionnel. La société a détecté les premières indications d'activité malveillante dans son environnement informatique le 12 août et mène actuellement une enquête en collaboration avec le Bureau fédéral de cybersécurité et la firme de sécurité Mandiant.",
+        "description": "",
+        "title": "The aerospace company Beyond Gravity was the target of a cyberattack",
+        "url": "https://www.bluewin.ch/en/news/the-aerospace-company-beyond-gravity-was-the-target-of-a-cyberattack-li.3622429",
+        "added": "2026-10-05"
+    },
+    {
         "date": "2026-09-24",
         "victim": "Holiday Inn Vilnius",
         "domain": "holiday-inn-vilnius.vilniushotels.net",
