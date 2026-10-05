@@ -347282,6 +347282,18 @@
         ]
     },
     {
+        "victim": "Wesmar",
+        "domain": "wesmar.com",
+        "country": "US",
+        "timeline": [
+            {
+                "date": "2026-08-27",
+                "type": "assessed",
+                "group": "akira"
+            }
+        ]
+    },
+    {
         "victim": "wessels.group",
         "domain": "wessels.group",
         "country": "DE",
