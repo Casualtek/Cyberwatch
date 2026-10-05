@@ -100206,6 +100206,18 @@
         ]
     },
     {
+        "victim": "DPL Group",
+        "domain": "dpl.ie",
+        "country": "IE",
+        "timeline": [
+            {
+                "date": "2026-09-24",
+                "type": "assessed",
+                "group": "akira"
+            }
+        ]
+    },
+    {
         "victim": "Wilmington Personal Injury Lawyer - DPLAW",
         "domain": "dplaw.com",
         "country": "US",
