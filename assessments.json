@@ -1,5 +1,12 @@
 [
   {
+    "victim": "comune.robeccosulnaviglio.mi.it",
+    "domain": "comune.robeccosulnaviglio.mi.it",
+    "country": "IT",
+    "date": "2026-09-01",
+    "group": "lockbit5"
+  },
+  {
     "victim": "tpi.tw",
     "domain": "tpi.tw",
     "country": "TW",
