@@ -1,5 +1,16 @@
 [
     {
+        "date": "2026-09-24",
+        "victim": "Holiday Inn Vilnius",
+        "domain": "holiday-inn-vilnius.vilniushotels.net",
+        "country": "LTU",
+        "summary": "Le groupe \"Holiday Inn\" a été victime d'une cyberattaque par ransomware, attribuée au groupe \"Safepay\". Les données de clients et d'employés ont été compromises. Les données de clients, incluant noms, adresses, numéros d'identité et dates de séjour, couvrent une période allant du 28 juillet au 3 août 2026. Les données des employés, incluant codes personnels, informations salariales et documents d'identité, ont également été volées. Les données ont été découvertes le 24 septembre 2026 et publiées le 1er octobre 2026. L'hôtel est en collaboration avec les autorités lituaniennes et internationales dans le cadre d'une enquête judiciaire.",
+        "description": "",
+        "title": "Iš viešbučio „Holiday Inn“ pavogti ir nesumokėjus išpirkos paviešinti 500 klientų duomenys",
+        "url": "https://www.lrt.lt/naujienos/mokslas-ir-it/11/3070307/is-viesbucio-holiday-inn-pavogti-ir-nesumokejus-ispirkos-paviesinti-500-klientu-duomenys",
+        "added": "2026-10-05"
+    },
+    {
         "date": "2026-10-02",
         "victim": "De Bernardusscholen in Oudenaarde",
         "domain": "bernardusscholen.be",
