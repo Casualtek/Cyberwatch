@@ -244030,6 +244030,18 @@
         ]
     },
     {
+        "victim": "Pacific Tank Lines",
+        "domain": "pacifictanklines.com",
+        "country": "US",
+        "timeline": [
+            {
+                "date": "2026-09-26",
+                "type": "assessed",
+                "group": "akira"
+            }
+        ]
+    },
+    {
         "victim": "pacificwestinjury.com",
         "domain": "pacificwestinjury.com",
         "country": "US",
