@@ -1,5 +1,16 @@
 [
     {
+        "date": "2026-10-02",
+        "victim": "Université publique d'Osaka",
+        "domain": "omu.ac.jp",
+        "country": "JPN",
+        "summary": "L'Université publique d'Osaka a été victime d'une cyberattaque par rançongiciel, entraînant l'arrêt de près de 500 serveurs via l'intrusion dans son infrastructure de virtualisation. De nombreuses sauvegardes ont également été chiffrées. L'incident, survenu à partir du 2 octobre 2026, affecte les systèmes de l'université sur ses cinq campus. Au total, les informations personnelles d'au moins 130 000 étudiants et anciens étudiants (incluant des cohortes de 1995 et 2005) sont stockées dans les systèmes touchés, et l'université enquête sur une éventuelle fuite de ces données (adresses, emails, numéros de téléphone). La reprise des cours est reportée au 9 octobre 2026, et la date de résolution n'est pas encore connue.",
+        "description": "",
+        "title": "大阪公立大学、ランサムウェア攻撃で約500台のサーバー停止―バックアップの多くも暗号化、8日まで全授業休講|セキュリティニュースのセキュリティ対策Lab",
+        "url": "https://rocket-boys.co.jp/security-measures-lab/osaka-metropolitan-university-ransomware-update-20261005/",
+        "added": "2026-10-05"
+    },
+    {
         "date": "2023-12-19",
         "victim": "Nagano Nippo",
         "domain": "nagano-np.co.jp",
