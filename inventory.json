@@ -309815,6 +309815,18 @@
         ]
     },
     {
+        "victim": "SH Architecture",
+        "domain": "swisherhall.com",
+        "country": "US",
+        "timeline": [
+            {
+                "date": "2026-08-13",
+                "type": "assessed",
+                "group": "akira"
+            }
+        ]
+    },
+    {
         "victim": "SWISHSMILES.COM",
         "domain": "swishsmiles.com",
         "country": "",
