@@ -1,5 +1,16 @@
 [
     {
+        "date": "2026-09-21",
+        "victim": "Primăria Cugir",
+        "domain": "primariacugir.ro",
+        "country": "ROU",
+        "summary": "La Mairie de Cugir a été victime d'une cyberattaque de type ransomware qui a affecté le système informatique du service des transports publics. L'incident a été géré en récupérant les bases de données à partir d'une sauvegarde ancienne, ce qui a permis de rétablir le service après plusieurs semaines. Les autorités judiciaires d'Alba ont finalement classé le dossier, car les enquêteurs n'ont pas pu identifier les auteurs de l'attaque. La mairie a depuis installé un antivirus et prévoit d'acquérir des services de cybersécurité pour prévenir de futurs incidents.",
+        "description": "",
+        "title": "Cum s-a terminat cazul unui atac al hackerilor asupra unor calculatoare din Primăria Cugir. Ce au decis magistrații din Alba",
+        "url": "https://alba24.ro/cum-s-a-terminat-cazul-unui-atac-al-hackerilor-asupra-unor-calculatoare-din-primaria-cugir-ce-au-decis-magistratii-din-alba-1161133.html",
+        "added": "2026-10-06"
+    },
+    {
         "date": "2026-08-12",
         "victim": "Beyond Gravity",
         "domain": "beyondgravity.com",
