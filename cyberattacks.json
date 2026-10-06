@@ -1,5 +1,16 @@
 [
     {
+        "date": "2026-10-05",
+        "victim": "ATB",
+        "domain": "atb.ua",
+        "country": "UKR",
+        "summary": "La chaîne de supermarchés ATB a confirmé avoir subi une cyberattaque sur ses serveurs. L'entreprise a assuré que cette attaque n'a pas entraîné de fuite de données personnelles des clients, car les données n'étaient pas stockées sur les serveurs attaqués. ATB est en train de restaurer ses serveurs et a précisé que les pages temporaires sur le site web n'affectent pas la sécurité des données.",
+        "description": "",
+        "title": "ATB称服务器遭网络攻击后客户个人信息未泄露",
+        "url": "https://mezha.net/ch/news/d49ee369_atb_says_cyberattack/",
+        "added": "2026-10-06"
+    },
+    {
         "date": "2026-10-06",
         "victim": "ASOS",
         "domain": "asos.com",
