@@ -1,5 +1,16 @@
 [
     {
+        "date": "2026-10-04",
+        "victim": "Trump Mobile",
+        "domain": "trumpmobile.com",
+        "country": "USA",
+        "summary": "Trump Mobile, une société de téléphonie mobile liée à la famille de Donald Trump, a été victime d'une cyberattaque par un groupe de ransomware nouvellement établi, BYOD. Cette attaque a entraîné l'exposition des données personnelles de 3 615 clients, incluant des noms, adresses e-mail, numéros de téléphone, adresses résidentielles et détails de commandes. Le groupe BYOD a divulgué ces données sur son site de fuite sur le dark web. L'accès a été obtenu après qu'un employé de la société Liberty Mobile, basée en Floride, ait été infecté par un logiciel malveillant. Trump Mobile a été critiquée pour sa gestion de l'incident, répondant par une déclaration peu professionnelle.",
+        "description": "",
+        "title": "Trump Mobile’s latest problem: Hackers just released customer information",
+        "url": "https://san.com/cc/trump-mobiles-latest-problem-hackers-just-released-customer-information/",
+        "added": "2026-10-06"
+    },
+    {
         "date": "2026-10-05",
         "victim": "ATB",
         "domain": "atb.ua",
