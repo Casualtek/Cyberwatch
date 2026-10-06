@@ -1,5 +1,16 @@
 [
     {
+        "date": "2026-10-06",
+        "victim": "ASOS",
+        "domain": "asos.com",
+        "country": "GBR",
+        "summary": "Des utilisateurs de l'application ASOS au Royaume-Uni ont reçu des messages pop-up apparemment envoyés par des hackers, tentant d'extorquer l'entreprise. Le message, adressé au DPO et à l'équipe informatique d'ASOS, prétend que les attaquants ont « entièrement compromis l'instance Snowflake ». Les experts en cybersécurité notent que l'attaque est grave, car les hackers ont utilisé l'application elle-même comme note de rançon. Le groupe criminel, se nommant Xuanye Group, a créé un canal Telegram pour communiquer.",
+        "description": "",
+        "title": "'ASOS hacked': App users receive notifications apparently sent by hackers",
+        "url": "https://www.bbc.com/news/articles/cj62ylzpr6d3o",
+        "added": "2026-10-06"
+    },
+    {
         "date": "2026-09-03",
         "victim": "Bicielx",
         "domain": "bicielx.es",
