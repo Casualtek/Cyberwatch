@@ -1,5 +1,16 @@
 [
     {
+        "date": "2026-09-03",
+        "victim": "Bicielx",
+        "domain": "bicielx.es",
+        "country": "ESP",
+        "summary": "L'entreprise publique Pimesa a été victime d'une cyberattaque visant la plateforme de gestion Bicielx. L'attaque, survenue le 3 septembre, a été menée par un individu qui a reconnu sa participation et s'est offert de collaborer à l'enquête. Bien que le service n'ait pas été interrompu, l'incident a entraîné l'exposition de données personnelles de certains utilisateurs. Pimesa a activé les protocoles de sécurité, notifié les autorités compétentes (y compris le CCN-CERT et l'Agence Espagnole de Protection des Données) et a commencé à renforcer l'infrastructure technologique de Bicielx.",
+        "description": "",
+        "title": "Un 'hacker' ataca con un agente de inteligencia artificial a una empresa municipal de Elche | TodoAlicante",
+        "url": "https://www.todoalicante.es/elche/hacker-ataca-agente-inteligencia-artificial-empresa-municipal-20261005155515-nt_amp.html",
+        "added": "2026-10-06"
+    },
+    {
         "date": "2026-10-05",
         "victim": "Ministère des Finances de l'État du Tocantins",
         "domain": "to.gov.br",
