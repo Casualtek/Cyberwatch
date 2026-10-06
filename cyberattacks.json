@@ -1,5 +1,16 @@
 [
     {
+        "date": "2026-09-21",
+        "victim": "Bristol City Council",
+        "domain": "tradingwithschools.com",
+        "country": "GBR",
+        "summary": "Le Conseil de Bristol a détecté une activité suspecte sur son service 'Trading with Schools' le 21 septembre, qui a été identifié comme une cyberattaque. L'incident a affecté 87 écoles. Bien que le Conseil n'ait pas encore trouvé de preuve de vol de données, le système contient des informations sensibles (détails du personnel, informations sur les élèves, budgets, etc.), ce qui soulève des préoccupations de rançon et de manipulation. Le Conseil a déconnecté les écoles affectées du réseau pour limiter la propagation du logiciel malveillant.",
+        "description": "",
+        "title": "Bristol City Council took four days to detect schools' cyber hack",
+        "url": "https://www.bbc.com/news/articles/cmed30pg4x7lo",
+        "added": "2026-10-06"
+    },
+    {
         "date": "2026-10-04",
         "victim": "Trump Mobile",
         "domain": "trumpmobile.com",
