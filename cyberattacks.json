@@ -1,5 +1,27 @@
 [
     {
+        "date": "2026-10-07",
+        "victim": "Katun Corporation",
+        "domain": "katun.com",
+        "country": "USA",
+        "summary": "Le 7 octobre 2026, Katun Corporation a détecté un incident de sécurité informatique impliquant des activités d'accès anormal sur certains systèmes d'information. L'entreprise a immédiatement activé son mécanisme de réponse cyber, isolant les appareils affectés. À ce jour, aucune donnée personnelle, confidentielle ou document critique n'a été compromise, et les opérations ne sont pas impactées. Katun Corporation poursuit ses analyses forensiques tout en renforçant ses protocoles de sécurité, notamment les contrôles d'accès à distance, la protection du réseau et la sensibilisation des employés, afin de prévenir de futurs incidents.",
+        "description": "",
+        "title": "Today's Information",
+        "url": "https://emops.twse.com.tw/server-java/t05sr01_1_e?&isNew=Y&seq_no=1&spoke_time=181003&spoke_date=20261007&co_id=6128",
+        "added": "2026-10-07"
+    },
+    {
+        "date": "2026-10-03",
+        "victim": "Comté de Jefferson",
+        "domain": "jeffcomo.gov",
+        "country": "USA",
+        "summary": "Les autorités du comté de Jefferson enquêtent sur une possible cyberattaque qui a forcé la mise hors service de certains systèmes téléphoniques et en ligne. Les administrateurs ont identifié une menace de sécurité vendredi et travaillent à déterminer son impact. Bien qu'il n'y ait pas d'indication de violation de données, le réseau et le système téléphonique ont été mis hors ligne par mesure de précaution. Les opérations des forces de l'ordre du comté de Jefferson n'ont pas été affectées.",
+        "description": "",
+        "title": "Jefferson County phone system, online network taken down after possible cyber attack",
+        "url": "https://www.firstalert4.com/2026/10/06/jefferson-county-phone-system-online-network-taken-down-after-possible-cyber-attack/",
+        "added": "2026-10-07"
+    },
+    {
         "date": "2026-09-21",
         "victim": "Bristol City Council",
         "domain": "tradingwithschools.com",
