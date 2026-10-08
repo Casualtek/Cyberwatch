@@ -1,5 +1,16 @@
 [
     {
+        "date": "2026-09-30",
+        "victim": "PK Softech AG",
+        "domain": "pksoftech.ch",
+        "country": "CHE",
+        "summary": "Le fournisseur PK Softech a été victime d'une cyberattaque à la fin du mois de septembre, ce qui a entraîné une fuite de données au sein de la caisse de retraite Publica. Il est présumé que des données personnelles confidentielles, incluant des informations sur les salaires, les soldes de prévoyance et les montants de retraite, ont été volées. Les autorités fédérales ont ouvert une enquête sur cet incident.",
+        "description": "",
+        "title": "Datenabfluss bei Pensionskasse des Bundes",
+        "url": "https://www.inside-it.ch/datenabfluss-bei-pensionskasse-des-bundes-20261008",
+        "added": "2026-10-08"
+    },
+    {
         "date": "2026-10-07",
         "victim": "Katun Corporation",
         "domain": "katun.com",
