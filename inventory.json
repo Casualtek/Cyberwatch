@@ -14573,6 +14573,18 @@
         ]
     },
     {
+        "victim": "agiliance.fr",
+        "domain": "agiliance.fr",
+        "country": "FR",
+        "timeline": [
+            {
+                "date": "2026-08-18",
+                "type": "claimed",
+                "group": "ZaWoo"
+            }
+        ]
+    },
+    {
         "victim": "Agilitas IT Solutions Limited",
         "domain": "agilitasitsolutions.com",
         "country": "",
@@ -16217,6 +16229,18 @@
                 "date": "2023-05-16",
                 "type": "claimed",
                 "group": "lockbit3"
+            }
+        ]
+    },
+    {
+        "victim": "airtanzania.co.tz / airtanzania.com",
+        "domain": "airtanzania.co.tz",
+        "country": "TZ",
+        "timeline": [
+            {
+                "date": "2026-09-24",
+                "type": "claimed",
+                "group": "krybit"
             }
         ]
     },
@@ -20088,6 +20112,18 @@
         ]
     },
     {
+        "victim": "All Tech Machine & Engineering",
+        "domain": "alltechinc.com",
+        "country": "US",
+        "timeline": [
+            {
+                "date": "2026-09-24",
+                "type": "claimed",
+                "group": "qilin"
+            }
+        ]
+    },
+    {
         "victim": "All Truck Transportation Co",
         "domain": "alltruck.com",
         "country": "US",
@@ -21913,10 +21949,15 @@
         ]
     },
     {
-        "victim": "ambpvc",
+        "victim": "amb-pvc.com",
         "domain": "amb-pvc.com",
         "country": "FR",
         "timeline": [
+            {
+                "date": "2026-08-18",
+                "type": "claimed",
+                "group": "ZaWoo"
+            },
             {
                 "date": "2026-09-19",
                 "type": "claimed",
@@ -28417,6 +28458,18 @@
         ]
     },
     {
+        "victim": "Arizona Vascular Medical Equipment, Inc",
+        "domain": "arizonavascular.com",
+        "country": "US",
+        "timeline": [
+            {
+                "date": "2026-09-23",
+                "type": "claimed",
+                "group": "dragonforce"
+            }
+        ]
+    },
+    {
         "victim": "arkansasprimarycare.com",
         "domain": "arkansasprimarycare.com",
         "country": "US",
@@ -28538,6 +28591,18 @@
             {
                 "date": "2025-05-15",
                 "type": "reported"
+            }
+        ]
+    },
+    {
+        "victim": "Armada Credit Bureau",
+        "domain": "armadacrb.co.ug",
+        "country": "UG",
+        "timeline": [
+            {
+                "date": "2026-09-24",
+                "type": "claimed",
+                "group": "Spirals"
             }
         ]
     },
@@ -49464,6 +49529,18 @@
         ]
     },
     {
+        "victim": "bnlawmacau.com www.bn-ip.com",
+        "domain": "bnlawmacau.com",
+        "country": "MO",
+        "timeline": [
+            {
+                "date": "2026-09-24",
+                "type": "claimed",
+                "group": "incransom"
+            }
+        ]
+    },
+    {
         "victim": "bnm.bg",
         "domain": "bnm.bg",
         "country": "",
@@ -57049,6 +57126,18 @@
         ]
     },
     {
+        "victim": "Grupo Caberj",
+        "domain": "caberj.com.br",
+        "country": "BR",
+        "timeline": [
+            {
+                "date": "2026-09-24",
+                "type": "claimed",
+                "group": "incransom"
+            }
+        ]
+    },
+    {
         "victim": "CabinC.com",
         "domain": "cabinc.com",
         "country": "US",
@@ -62452,6 +62541,18 @@
                 "date": "2024-04-29",
                 "type": "assessed",
                 "group": "blacksuit"
+            }
+        ]
+    },
+    {
+        "victim": "Catholic University of El Salvador",
+        "domain": "catolica.edu.sv",
+        "country": "SV",
+        "timeline": [
+            {
+                "date": "2026-09-24",
+                "type": "claimed",
+                "group": "Wallstreet"
             }
         ]
     },
@@ -81151,6 +81252,18 @@
         ]
     },
     {
+        "victim": "Agora coopérative agricole",
+        "domain": "coopagora.fr",
+        "country": "FR",
+        "timeline": [
+            {
+                "date": "2026-09-24",
+                "type": "claimed",
+                "group": "qilin"
+            }
+        ]
+    },
+    {
         "victim": "Cooperativa de Hostelería de Navarra",
         "domain": "coope.com",
         "country": "ES",
@@ -89776,6 +89889,18 @@
                 "date": "2026-06-08",
                 "type": "claimed",
                 "group": "thegentlemen"
+            }
+        ]
+    },
+    {
+        "victim": "Dao Group",
+        "domain": "daogroup.com",
+        "country": "",
+        "timeline": [
+            {
+                "date": "2026-09-24",
+                "type": "claimed",
+                "group": "qilin"
             }
         ]
     },
@@ -106304,6 +106429,18 @@
         ]
     },
     {
+        "victim": "efada.sa",
+        "domain": "efada.sa",
+        "country": "SA",
+        "timeline": [
+            {
+                "date": "2026-09-24",
+                "type": "claimed",
+                "group": "krybit"
+            }
+        ]
+    },
+    {
         "victim": "East Field Corporation",
         "domain": "efc-tono.com",
         "country": "JP",
@@ -114392,6 +114529,18 @@
                 "date": "2026-01-20",
                 "type": "claimed",
                 "group": "blackshrantac"
+            }
+        ]
+    },
+    {
+        "victim": "eTeam",
+        "domain": "eteaminc.com",
+        "country": "US",
+        "timeline": [
+            {
+                "date": "2026-09-24",
+                "type": "claimed",
+                "group": "EndZone"
             }
         ]
     },
@@ -127019,6 +127168,18 @@
         ]
     },
     {
+        "victim": "www.francare.com",
+        "domain": "francare.com",
+        "country": "FR",
+        "timeline": [
+            {
+                "date": "2026-08-18",
+                "type": "claimed",
+                "group": "ZaWoo"
+            }
+        ]
+    },
+    {
         "victim": "France terre d'asile",
         "domain": "france-terre-asile.org",
         "country": "FR",
@@ -132401,6 +132562,18 @@
                 "date": "2023-10-03",
                 "type": "claimed",
                 "group": "knight"
+            }
+        ]
+    },
+    {
+        "victim": "GDM Pipelines",
+        "domain": "gdmpipelines.com",
+        "country": "GB",
+        "timeline": [
+            {
+                "date": "2026-09-24",
+                "type": "claimed",
+                "group": "qilin"
             }
         ]
     },
@@ -150238,6 +150411,29 @@
                 "date": "2025-10-06",
                 "type": "assessed",
                 "group": "akira"
+            }
+        ]
+    },
+    {
+        "victim": "HEC Group",
+        "domain": "hec-group.com.tw",
+        "country": "TW",
+        "timeline": [
+            {
+                "date": "2026-09-24",
+                "type": "claimed",
+                "group": "dragonforce"
+            },
+            {
+                "date": "2026-08-31",
+                "type": "discovered",
+                "summary": "Le 30 août 2026, Compucase a détecté un incident de cybersécurité affectant une partie limitée de son réseau informatique. Cette entreprise taïwanaise, spécialisée dans la conception et la fabrication de composants pour ordinateurs, a immédiatement réagi en isolant les systèmes touchés et en engageant des experts externes pour mener l'enquête et restaurer la sécurité des systèmes. Selon les évaluations actuelles, aucune donnée personnelle ou confidentielle n'a été fuitée et l'activité opérationnelle de la société n'est pas impactée.",
+                "title": "Today's Information",
+                "url": "https://emops.twse.com.tw/server-java/t05sr01_1_e?&isNew=Y&seq_no=1&spoke_time=193302&spoke_date=20260830&co_id=3032"
+            },
+            {
+                "date": "2026-08-30",
+                "type": "reported"
             }
         ]
     },
@@ -175757,6 +175953,18 @@
         ]
     },
     {
+        "victim": "www.jonesthegrocer.com",
+        "domain": "jonesthegrocer.com",
+        "country": "AU",
+        "timeline": [
+            {
+                "date": "2026-09-24",
+                "type": "claimed",
+                "group": "krybit"
+            }
+        ]
+    },
+    {
         "victim": "Jon Richard",
         "domain": "jonrichard.com",
         "country": "UK",
@@ -178944,6 +179152,17 @@
             },
             {
                 "date": "2026-06-02",
+                "type": "reported"
+            },
+            {
+                "date": "2026-10-07",
+                "type": "discovered",
+                "summary": "Le 7 octobre 2026, Katun Corporation a détecté un incident de sécurité informatique impliquant des activités d'accès anormal sur certains systèmes d'information. L'entreprise a immédiatement activé son mécanisme de réponse cyber, isolant les appareils affectés. À ce jour, aucune donnée personnelle, confidentielle ou document critique n'a été compromise, et les opérations ne sont pas impactées. Katun Corporation poursuit ses analyses forensiques tout en renforçant ses protocoles de sécurité, notamment les contrôles d'accès à distance, la protection du réseau et la sensibilisation des employés, afin de prévenir de futurs incidents.",
+                "title": "Today's Information",
+                "url": "https://emops.twse.com.tw/server-java/t05sr01_1_e?&isNew=Y&seq_no=1&spoke_time=181003&spoke_date=20261007&co_id=6128"
+            },
+            {
+                "date": "2026-10-07",
                 "type": "reported"
             }
         ]
@@ -204186,6 +204405,18 @@
         ]
     },
     {
+        "victim": "Martin Lawrence Galleries",
+        "domain": "martinlawrence.com",
+        "country": "US",
+        "timeline": [
+            {
+                "date": "2026-09-22",
+                "type": "claimed",
+                "group": "pear"
+            }
+        ]
+    },
+    {
         "victim": "Martin Mechanical (martin.local)",
         "domain": "martinmechanical.com",
         "country": "US",
@@ -226991,6 +227222,18 @@
         ]
     },
     {
+        "victim": "NEAD Pro",
+        "domain": "nead.pro",
+        "country": "IT",
+        "timeline": [
+            {
+                "date": "2026-09-24",
+                "type": "claimed",
+                "group": "rhysida"
+            }
+        ]
+    },
+    {
         "victim": "neafidi",
         "domain": "neafidi.it",
         "country": "IT",
@@ -234490,6 +234733,18 @@
                 "date": "2025-12-26",
                 "type": "claimed",
                 "group": "lockbit5"
+            }
+        ]
+    },
+    {
+        "victim": "Indroj Medical Group Inc.",
+        "domain": "npiprofile.com",
+        "country": "US",
+        "timeline": [
+            {
+                "date": "2026-09-22",
+                "type": "claimed",
+                "group": "pear"
             }
         ]
     },
@@ -253741,6 +253996,18 @@
         ]
     },
     {
+        "victim": "Elite Industech Co., Ltd",
+        "domain": "pjemetal.com",
+        "country": "TH",
+        "timeline": [
+            {
+                "date": "2026-09-23",
+                "type": "claimed",
+                "group": "dragonforce"
+            }
+        ]
+    },
+    {
         "victim": "PJ Green Inc",
         "domain": "pjgreen.com",
         "country": "US",
@@ -256079,6 +256346,18 @@
         ]
     },
     {
+        "victim": "BMGP Groupe",
+        "domain": "polyresine.com",
+        "country": "FR",
+        "timeline": [
+            {
+                "date": "2026-09-23",
+                "type": "claimed",
+                "group": "dragonforce"
+            }
+        ]
+    },
+    {
         "victim": "BM GROUP POLYTEC S.p.A.",
         "domain": "polytec.bmgroup.com",
         "country": "",
@@ -257840,6 +258119,18 @@
                 "date": "2024-08-10",
                 "type": "assessed",
                 "group": "ransomhub"
+            }
+        ]
+    },
+    {
+        "victim": "Prater & Ridley Attorneys At Law",
+        "domain": "prater-ridleylaw.com",
+        "country": "US",
+        "timeline": [
+            {
+                "date": "2026-09-24",
+                "type": "claimed",
+                "group": "Wallstreet"
             }
         ]
     },
@@ -261366,6 +261657,18 @@
         ]
     },
     {
+        "victim": "Zig Inge Group",
+        "domain": "prospecthillcamberwell.com.au",
+        "country": "AU",
+        "timeline": [
+            {
+                "date": "2026-09-24",
+                "type": "claimed",
+                "group": "qilin"
+            }
+        ]
+    },
+    {
         "victim": "Prospect Medical Holdings",
         "domain": "prospectmedical.com",
         "country": "US",
@@ -261772,6 +262075,18 @@
                 "date": "2023-09-09",
                 "type": "claimed",
                 "group": "ransomed"
+            }
+        ]
+    },
+    {
+        "victim": "Inversiones Bolívar",
+        "domain": "proyectosdevida.com",
+        "country": "CO",
+        "timeline": [
+            {
+                "date": "2026-09-24",
+                "type": "claimed",
+                "group": "qilin"
             }
         ]
     },
@@ -270539,6 +270854,29 @@
                 "date": "2026-01-11",
                 "type": "claimed",
                 "group": "obscura"
+            }
+        ]
+    },
+    {
+        "victim": "Revolut",
+        "domain": "revolut.com",
+        "country": "GB",
+        "timeline": [
+            {
+                "date": "2026-09-24",
+                "type": "claimed",
+                "group": "ImNotAVillain"
+            },
+            {
+                "date": "2026-09-18",
+                "type": "discovered",
+                "summary": "Revolut a confirmé avoir été victime d'une cyberattaque sophistiquée d'usurpation où des fraudeurs ont obtenu des données clients, y compris des passeports, des selfies de vérification, des permis de conduire, des adresses et des relevés de transactions Bitcoin. L'attaque a utilisé un email provenant d'un domaine officiel d'une agence gouvernementale. Revolut a assuré que les systèmes et les fonds des clients ne sont pas affectés, et que les codes de connexion et les données biométriques n'ont pas été exposés. L'entreprise a alerté les autorités compétentes et est en cours d'enquête.",
+                "title": "Revolut confirme avoir envoyé des données de passeport et de Bitcoin à une fausse adresse gouvernementale",
+                "url": "https://fr.finance.yahoo.com/actualites/revolut-confirme-avoir-envoy%C3%A9-donn%C3%A9es-092043291.html"
+            },
+            {
+                "date": "2026-09-12",
+                "type": "reported"
             }
         ]
     },
@@ -297766,6 +298104,18 @@
         ]
     },
     {
+        "victim": "Solucioning S.A.",
+        "domain": "solucioning.com",
+        "country": "AR",
+        "timeline": [
+            {
+                "date": "2026-09-24",
+                "type": "claimed",
+                "group": "Barracuda"
+            }
+        ]
+    },
+    {
         "victim": "Solumek",
         "domain": "solumeksa.com",
         "country": "US",
@@ -305460,6 +305810,11 @@
         "domain": "strackcompanies.com",
         "country": "US",
         "timeline": [
+            {
+                "date": "2026-09-24",
+                "type": "claimed",
+                "group": "akira"
+            },
             {
                 "date": "2026-09-04",
                 "type": "assessed",
@@ -327708,6 +328063,17 @@
                 "date": "2026-09-23",
                 "type": "claimed",
                 "group": "EndZone"
+            },
+            {
+                "date": "2026-10-06",
+                "type": "discovered",
+                "summary": "Trump Mobile, une société de téléphonie mobile liée à la famille de Donald Trump, a été victime d'une cyberattaque par un groupe de ransomware nouvellement établi, BYOD. Cette attaque a entraîné l'exposition des données personnelles de 3 615 clients, incluant des noms, adresses e-mail, numéros de téléphone, adresses résidentielles et détails de commandes. Le groupe BYOD a divulgué ces données sur son site de fuite sur le dark web. L'accès a été obtenu après qu'un employé de la société Liberty Mobile, basée en Floride, ait été infecté par un logiciel malveillant. Trump Mobile a été critiquée pour sa gestion de l'incident, répondant par une déclaration peu professionnelle.",
+                "title": "Trump Mobile’s latest problem: Hackers just released customer information",
+                "url": "https://san.com/cc/trump-mobiles-latest-problem-hackers-just-released-customer-information/"
+            },
+            {
+                "date": "2026-10-04",
+                "type": "reported"
             }
         ]
     },
@@ -331316,6 +331682,18 @@
                 "date": "2025-12-12",
                 "type": "claimed",
                 "group": "rhysida"
+            }
+        ]
+    },
+    {
+        "victim": "ukbjja.org",
+        "domain": "ukbjja.org",
+        "country": "GB",
+        "timeline": [
+            {
+                "date": "2026-09-24",
+                "type": "claimed",
+                "group": "incransom"
             }
         ]
     },
@@ -344003,8 +344381,13 @@
     {
         "victim": "Wallatec",
         "domain": "wallatec.com",
-        "country": "DE",
+        "country": "AT",
         "timeline": [
+            {
+                "date": "2026-09-24",
+                "type": "claimed",
+                "group": "akira"
+            },
             {
                 "date": "2026-09-17",
                 "type": "assessed",
@@ -346743,6 +347126,18 @@
         ]
     },
     {
+        "victim": "welgenone.com",
+        "domain": "welgenone.com",
+        "country": "US",
+        "timeline": [
+            {
+                "date": "2026-09-24",
+                "type": "claimed",
+                "group": "incransom"
+            }
+        ]
+    },
+    {
         "victim": "Welker",
         "domain": "welker.com",
         "country": "US",
@@ -348139,6 +348534,18 @@
                 "date": "2023-05-22",
                 "type": "claimed",
                 "group": "royal"
+            }
+        ]
+    },
+    {
+        "victim": "Westside GI",
+        "domain": "westsidegicenter.com",
+        "country": "US",
+        "timeline": [
+            {
+                "date": "2026-09-22",
+                "type": "claimed",
+                "group": "pear"
             }
         ]
     },
@@ -350210,7 +350617,7 @@
         ]
     },
     {
-        "victim": "WinFashion ERP",
+        "victim": "winfashion",
         "domain": "winfashion.com",
         "country": "US",
         "timeline": [
@@ -350218,6 +350625,11 @@
                 "date": "2024-06-11",
                 "type": "claimed",
                 "group": "arcusmedia"
+            },
+            {
+                "date": "2026-08-24",
+                "type": "claimed",
+                "group": "dragonforce"
             }
         ]
     },
