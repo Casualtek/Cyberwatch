@@ -35897,6 +35897,18 @@
         ]
     },
     {
+        "victim": "LA PONDEROSA",
+        "domain": "avicolaponderosa.com",
+        "country": "MX",
+        "timeline": [
+            {
+                "date": "2026-10-01",
+                "type": "claimed",
+                "group": "emperador"
+            }
+        ]
+    },
+    {
         "victim": "Avico Spice",
         "domain": "avicospice.com",
         "country": "US",
@@ -94197,6 +94209,18 @@
         ]
     },
     {
+        "victim": "Den Hartog Industries",
+        "domain": "denhartogindustries.com",
+        "country": "US",
+        "timeline": [
+            {
+                "date": "2026-10-01",
+                "type": "claimed",
+                "group": "incransom"
+            }
+        ]
+    },
+    {
         "victim": "Denkai America",
         "domain": "denkaiamerica.com",
         "country": "US",
@@ -97767,7 +97791,7 @@
         ]
     },
     {
-        "victim": "Disk Precision",
+        "victim": "DISK PRECISION GROUP - diskprecision.com",
         "domain": "diskprecision.com",
         "country": "SG",
         "timeline": [
@@ -97775,6 +97799,11 @@
                 "date": "2026-04-19",
                 "type": "claimed",
                 "group": "thegentlemen"
+            },
+            {
+                "date": "2026-10-01",
+                "type": "claimed",
+                "group": "krybit"
             }
         ]
     },
@@ -101047,6 +101076,11 @@
         "country": "IE",
         "timeline": [
             {
+                "date": "2026-10-01",
+                "type": "claimed",
+                "group": "akira"
+            },
+            {
                 "date": "2026-09-24",
                 "type": "assessed",
                 "group": "akira"
@@ -103870,6 +103904,18 @@
         "timeline": [
             {
                 "date": "2026-07-01",
+                "type": "claimed",
+                "group": "qilin"
+            }
+        ]
+    },
+    {
+        "victim": "Dynamic Office Solutions",
+        "domain": "dynamicos.co.uk",
+        "country": "GB",
+        "timeline": [
+            {
+                "date": "2026-10-01",
                 "type": "claimed",
                 "group": "qilin"
             }
@@ -116003,6 +116049,18 @@
                 "date": "2026-07-10",
                 "type": "claimed",
                 "group": "qilin"
+            }
+        ]
+    },
+    {
+        "victim": "EURODITEL/RESOTELECOM",
+        "domain": "euroditel.com",
+        "country": "FR",
+        "timeline": [
+            {
+                "date": "2026-10-01",
+                "type": "claimed",
+                "group": "krybit"
             }
         ]
     },
@@ -130293,6 +130351,18 @@
         ]
     },
     {
+        "victim": "FUNAP - Fundação \"Prof. Dr. Manoel Pedro Pimentel\"",
+        "domain": "funap.sp.gov.br",
+        "country": "BR",
+        "timeline": [
+            {
+                "date": "2026-10-01",
+                "type": "claimed",
+                "group": "Booba Project"
+            }
+        ]
+    },
+    {
         "victim": "Fundação Caixa Beneficente dos Servidores (Funcabes)",
         "domain": "funcabes.com.br",
         "country": "BR",
@@ -132665,6 +132735,18 @@
                 "date": "2024-08-13",
                 "type": "claimed",
                 "group": "meow"
+            }
+        ]
+    },
+    {
+        "victim": "ASSOCIATED GASTROENTEROLOGISTS OF CENTRAL NEW YORK, P.C",
+        "domain": "gastrocny.com",
+        "country": "US",
+        "timeline": [
+            {
+                "date": "2026-10-01",
+                "type": "claimed",
+                "group": "Booba Project"
             }
         ]
     },
@@ -141596,6 +141678,18 @@
         ]
     },
     {
+        "victim": "Graybar Electric Company, Inc.",
+        "domain": "graybar.com",
+        "country": "US",
+        "timeline": [
+            {
+                "date": "2026-10-01",
+                "type": "claimed",
+                "group": "Redact"
+            }
+        ]
+    },
+    {
         "victim": "Grayhill",
         "domain": "grayhill.com",
         "country": "",
@@ -145691,6 +145785,18 @@
                 "date": "2021-01-24",
                 "type": "claimed",
                 "group": "babuk"
+            }
+        ]
+    },
+    {
+        "victim": "Guardian Pharmacy LLC",
+        "domain": "guardianpharmacy.com",
+        "country": "US",
+        "timeline": [
+            {
+                "date": "2026-10-01",
+                "type": "claimed",
+                "group": "incransom"
             }
         ]
     },
@@ -153590,6 +153696,18 @@
             {
                 "date": "2024-03-15",
                 "type": "reported"
+            }
+        ]
+    },
+    {
+        "victim": "Hospital Hermilio Valdizán",
+        "domain": "hhv.gob.pe",
+        "country": "PE",
+        "timeline": [
+            {
+                "date": "2026-08-21",
+                "type": "claimed",
+                "group": "ransomhouse"
             }
         ]
     },
@@ -182296,6 +182414,11 @@
         "domain": "ketkcpa.com",
         "country": "US",
         "timeline": [
+            {
+                "date": "2026-10-01",
+                "type": "claimed",
+                "group": "akira"
+            },
             {
                 "date": "2026-09-09",
                 "type": "assessed",
@@ -228256,6 +228379,18 @@
         ]
     },
     {
+        "victim": "Northern Counties Health Care",
+        "domain": "nchcvt.org",
+        "country": "US",
+        "timeline": [
+            {
+                "date": "2026-10-01",
+                "type": "claimed",
+                "group": "incransom"
+            }
+        ]
+    },
+    {
         "victim": "NCheng",
         "domain": "ncheng.com",
         "country": "US",
@@ -245143,6 +245278,18 @@
         ]
     },
     {
+        "victim": "Owens Distributors",
+        "domain": "owensdistributors.com",
+        "country": "US",
+        "timeline": [
+            {
+                "date": "2026-10-01",
+                "type": "claimed",
+                "group": "genesis"
+            }
+        ]
+    },
+    {
         "victim": "Owens Group",
         "domain": "owensgroup.uk",
         "country": "UK",
@@ -247698,6 +247845,29 @@
                 "date": "2025-08-30",
                 "type": "claimed",
                 "group": "dragonforce"
+            }
+        ]
+    },
+    {
+        "victim": "parkdental.com",
+        "domain": "parkdental.com",
+        "country": "GB",
+        "timeline": [
+            {
+                "date": "2026-10-01",
+                "type": "claimed",
+                "group": "chaos"
+            },
+            {
+                "date": "2026-09-02",
+                "type": "discovered",
+                "summary": "Park Dental Partners Inc., une entreprise de services dentaires américaine, a confirmé avoir détecté un accès non autorisé à son réseau informatique le 28 août. L'entreprise a immédiatement lancé des protocoles de réponse aux incidents et engagé des experts en cybersécurité et en criminalistique pour enquêter sur l'incident. Bien qu'aucune perturbation majeure des opérations commerciales n'ait été signalée à ce jour, l'entreprise évalue les impacts financiers, légaux et réputationnels potentiels, notamment en raison de l'accès possible aux données des patients.",
+                "title": "파크 덴탈 파트너스, 사이버 공격으로 네트워크 무단 침입 발생…\"환자 정보 유출 조사 중\"",
+                "url": "https://www.datatooza.com/article/202609020507032521cd1e7a1a5e_80"
+            },
+            {
+                "date": "2026-08-28",
+                "type": "reported"
             }
         ]
     },
@@ -258771,6 +258941,18 @@
         ]
     },
     {
+        "victim": "Post Metal Recycling",
+        "domain": "postmetalrecycling.com",
+        "country": "US",
+        "timeline": [
+            {
+                "date": "2026-10-01",
+                "type": "claimed",
+                "group": "incransom"
+            }
+        ]
+    },
+    {
         "victim": "Postnord",
         "domain": "postnord.se",
         "country": "SE",
@@ -262844,6 +263026,18 @@
                 "date": "2024-01-11",
                 "type": "claimed",
                 "group": "snatch"
+            }
+        ]
+    },
+    {
+        "victim": "ProMind IT",
+        "domain": "promindit.com",
+        "country": "IT",
+        "timeline": [
+            {
+                "date": "2026-10-01",
+                "type": "claimed",
+                "group": "AuditTeam"
             }
         ]
     },
@@ -274412,6 +274606,18 @@
         ]
     },
     {
+        "victim": "Rimrock Foundation",
+        "domain": "rimrock.org",
+        "country": "US",
+        "timeline": [
+            {
+                "date": "2026-10-01",
+                "type": "claimed",
+                "group": "incransom"
+            }
+        ]
+    },
+    {
         "victim": "Ring: Security Systems",
         "domain": "ring.com",
         "country": "",
@@ -276748,6 +276954,18 @@
                 "date": "2023-10-25",
                 "type": "assessed",
                 "group": "lockbit3"
+            }
+        ]
+    },
+    {
+        "victim": "Laboratorios Roemmers SAICF",
+        "domain": "roemmers.com.ar",
+        "country": "AR",
+        "timeline": [
+            {
+                "date": "2026-10-01",
+                "type": "claimed",
+                "group": "aurora"
             }
         ]
     },
@@ -297102,6 +297320,29 @@
         ]
     },
     {
+        "victim": "Slate Valley Unified School District",
+        "domain": "slatevalleyunified.org",
+        "country": "US",
+        "timeline": [
+            {
+                "date": "2026-10-01",
+                "type": "claimed",
+                "group": "kairos"
+            },
+            {
+                "date": "2026-09-30",
+                "type": "discovered",
+                "summary": "Le district scolaire unifié de Slate Valley, dans le Vermont, a été affecté par un incident de cybersécurité qui a perturbé ses systèmes Internet, ses courriels et la technologie des élèves. L'incident a débuté le 3 septembre, entraînant une demande de rançon. Le conseil scolaire a voté le 28 septembre pour refuser de payer. Bien que les services Internet et les courriels du personnel aient commencé à être restaurés le 10 septembre, les systèmes n'étaient pas entièrement opérationnels au 29 septembre. Le district travaille avec des experts en cybersécurité et les forces de l'ordre pour évaluer l'incident.",
+                "title": "Cybersecurity incident disrupts Slate Valley schools in Vermont",
+                "url": "https://dysruptionhub.com/slate-valley-vermont-ransom-demand/"
+            },
+            {
+                "date": "2026-09-03",
+                "type": "reported"
+            }
+        ]
+    },
+    {
         "victim": "Slawson Companies",
         "domain": "slawsoncompanies.com",
         "country": "US",
@@ -305924,6 +306165,18 @@
         ]
     },
     {
+        "victim": "steelco",
+        "domain": "steelco.it",
+        "country": "IT",
+        "timeline": [
+            {
+                "date": "2026-10-01",
+                "type": "claimed",
+                "group": "AuditTeam"
+            }
+        ]
+    },
+    {
         "victim": "Steel Dynamics",
         "domain": "steeldynamics.com",
         "country": "US",
@@ -310794,6 +311047,18 @@
                 "date": "2025-05-13",
                 "type": "claimed",
                 "group": "akira"
+            }
+        ]
+    },
+    {
+        "victim": "Superior Plating Technology CO",
+        "domain": "superiortec.com",
+        "country": "TW",
+        "timeline": [
+            {
+                "date": "2026-10-01",
+                "type": "claimed",
+                "group": "morpheus"
             }
         ]
     },
@@ -318575,6 +318840,18 @@
         ]
     },
     {
+        "victim": "Terca",
+        "domain": "terca.com.br",
+        "country": "BR",
+        "timeline": [
+            {
+                "date": "2026-08-21",
+                "type": "claimed",
+                "group": "ransomhouse"
+            }
+        ]
+    },
+    {
         "victim": "terex",
         "domain": "terex.com",
         "country": "CA",
@@ -324270,6 +324547,18 @@
                 "date": "2023-06-24",
                 "type": "claimed",
                 "group": "mallox"
+            }
+        ]
+    },
+    {
+        "victim": "TLC Perinatal",
+        "domain": "tlcperinatal.com",
+        "country": "US",
+        "timeline": [
+            {
+                "date": "2026-10-01",
+                "type": "claimed",
+                "group": "genesis"
             }
         ]
     },
@@ -341370,6 +341659,18 @@
         ]
     },
     {
+        "victim": "Vera Science",
+        "domain": "veroscience.com",
+        "country": "US",
+        "timeline": [
+            {
+                "date": "2026-10-01",
+                "type": "claimed",
+                "group": "genesis"
+            }
+        ]
+    },
+    {
         "victim": "VERRAMOBILITY.COM",
         "domain": "verramobility.com",
         "country": "",
@@ -345421,6 +345722,18 @@
             {
                 "date": "2021-10-31",
                 "type": "reported"
+            }
+        ]
+    },
+    {
+        "victim": "VPNE",
+        "domain": "vpne.com",
+        "country": "",
+        "timeline": [
+            {
+                "date": "2026-10-01",
+                "type": "claimed",
+                "group": "genesis"
             }
         ]
     },
@@ -349895,6 +350208,11 @@
         "domain": "wesmar.com",
         "country": "US",
         "timeline": [
+            {
+                "date": "2026-10-01",
+                "type": "claimed",
+                "group": "akira"
+            },
             {
                 "date": "2026-08-27",
                 "type": "assessed",
