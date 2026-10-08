@@ -24627,6 +24627,18 @@
         ]
     },
     {
+        "victim": "Automovil Club del Ecuador ANETA",
+        "domain": "aneta.org.ec",
+        "country": "EC",
+        "timeline": [
+            {
+                "date": "2026-10-02",
+                "type": "claimed",
+                "group": "Barracuda"
+            }
+        ]
+    },
+    {
         "victim": "aneticaid.com",
         "domain": "aneticaid.com",
         "country": "US",
@@ -38780,6 +38792,18 @@
             {
                 "date": "2025-02-13",
                 "type": "reported"
+            }
+        ]
+    },
+    {
+        "victim": "baltimorefreightliner.com",
+        "domain": "baltimorefreightliner.com",
+        "country": "US",
+        "timeline": [
+            {
+                "date": "2026-09-07",
+                "type": "claimed",
+                "group": "settra"
             }
         ]
     },
@@ -75824,8 +75848,13 @@
     {
         "victim": "The Official College of Architects of León (COAL)",
         "domain": "coal.es",
-        "country": "ES",
+        "country": "MX",
         "timeline": [
+            {
+                "date": "2026-10-02",
+                "type": "claimed",
+                "group": "akira"
+            },
             {
                 "date": "2026-09-22",
                 "type": "assessed",
@@ -106810,6 +106839,18 @@
         ]
     },
     {
+        "victim": "EdgeEndo® USA",
+        "domain": "edgeendo.com",
+        "country": "US",
+        "timeline": [
+            {
+                "date": "2026-10-02",
+                "type": "claimed",
+                "group": "Booba Project"
+            }
+        ]
+    },
+    {
         "victim": "Edge Solutions | Stone Ridge Payments",
         "domain": "edgesolutions.com",
         "country": "US",
@@ -108836,6 +108877,18 @@
                 "date": "2025-01-30",
                 "type": "assessed",
                 "group": "cactus"
+            }
+        ]
+    },
+    {
+        "victim": "Electro Heat Sweden AB",
+        "domain": "electroheat.com",
+        "country": "SE",
+        "timeline": [
+            {
+                "date": "2026-10-02",
+                "type": "claimed",
+                "group": "rhysida"
             }
         ]
     },
@@ -119936,6 +119989,18 @@
                 "date": "2026-02-05",
                 "type": "claimed",
                 "group": "akira"
+            }
+        ]
+    },
+    {
+        "victim": "Far West Contractors",
+        "domain": "farwestcontractors.com",
+        "country": "US",
+        "timeline": [
+            {
+                "date": "2026-10-02",
+                "type": "claimed",
+                "group": "Deadlock"
             }
         ]
     },
@@ -139094,6 +139159,18 @@
         ]
     },
     {
+        "victim": "goldenpearfunding.com",
+        "domain": "goldenpearfunding.com",
+        "country": "US",
+        "timeline": [
+            {
+                "date": "2026-09-25",
+                "type": "claimed",
+                "group": "settra"
+            }
+        ]
+    },
+    {
         "victim": "Goldenrod",
         "domain": "goldenrodcorp.com",
         "country": "US",
@@ -156457,6 +156534,18 @@
         ]
     },
     {
+        "victim": "hollypoultry.com",
+        "domain": "hollypoultry.com",
+        "country": "GB",
+        "timeline": [
+            {
+                "date": "2026-09-24",
+                "type": "claimed",
+                "group": "settra"
+            }
+        ]
+    },
+    {
         "victim": "Hollysys Asia Pacific",
         "domain": "hollysys.com",
         "country": "SG",
@@ -166059,6 +166148,18 @@
         ]
     },
     {
+        "victim": "www.windor.com",
+        "domain": "indor.com",
+        "country": "US",
+        "timeline": [
+            {
+                "date": "2026-09-25",
+                "type": "claimed",
+                "group": "settra"
+            }
+        ]
+    },
+    {
         "victim": "indoramaventures.com",
         "domain": "indoramaventures.com",
         "country": "TH",
@@ -167528,6 +167629,18 @@
                 "date": "2023-12-07",
                 "type": "assessed",
                 "group": "lockbit3"
+            }
+        ]
+    },
+    {
+        "victim": "Inova Semiconductors GmbH",
+        "domain": "inova-semiconductors.de",
+        "country": "DE",
+        "timeline": [
+            {
+                "date": "2026-10-02",
+                "type": "claimed",
+                "group": "qilin"
             }
         ]
     },
@@ -172426,6 +172539,18 @@
         ]
     },
     {
+        "victim": "PT Indo Tambangraya Megah",
+        "domain": "itmg.co.id",
+        "country": "ID",
+        "timeline": [
+            {
+                "date": "2026-09-12",
+                "type": "claimed",
+                "group": "ransomhouse"
+            }
+        ]
+    },
+    {
         "victim": "i**s.co.th",
         "domain": "itms.co.th",
         "country": "TH",
@@ -173841,6 +173966,11 @@
         "domain": "jampac.com.br",
         "country": "BR",
         "timeline": [
+            {
+                "date": "2026-10-02",
+                "type": "claimed",
+                "group": "akira"
+            },
             {
                 "date": "2026-08-18",
                 "type": "assessed",
@@ -186990,7 +187120,7 @@
         ]
     },
     {
-        "victim": "kres.cz",
+        "victim": "www.kres.cz",
         "domain": "kres.cz",
         "country": "CZ",
         "timeline": [
@@ -186998,6 +187128,11 @@
                 "date": "2026-02-07",
                 "type": "claimed",
                 "group": "safepay"
+            },
+            {
+                "date": "2026-10-02",
+                "type": "claimed",
+                "group": "krybit"
             }
         ]
     },
@@ -190001,6 +190136,18 @@
             {
                 "date": "2025-02-14",
                 "type": "reported"
+            }
+        ]
+    },
+    {
+        "victim": "Soni Medical Centre",
+        "domain": "lakewoodmedical.ca",
+        "country": "CA",
+        "timeline": [
+            {
+                "date": "2026-10-02",
+                "type": "claimed",
+                "group": "Booba Project"
             }
         ]
     },
@@ -196832,6 +196979,18 @@
         ]
     },
     {
+        "victim": "Thai Lion Air",
+        "domain": "lionairthai.com",
+        "country": "TH",
+        "timeline": [
+            {
+                "date": "2026-10-02",
+                "type": "claimed",
+                "group": "qilin"
+            }
+        ]
+    },
+    {
         "victim": "Kankakee Public Library",
         "domain": "lions-online.org",
         "country": "US",
@@ -202962,6 +203121,18 @@
         ]
     },
     {
+        "victim": "Main Place Mall",
+        "domain": "mainplace.com.my",
+        "country": "MY",
+        "timeline": [
+            {
+                "date": "2026-10-02",
+                "type": "claimed",
+                "group": "netrunner"
+            }
+        ]
+    },
+    {
         "victim": "Mainstreet Equities Corp.",
         "domain": "mainst.biz",
         "country": "CA",
@@ -206509,6 +206680,18 @@
         ]
     },
     {
+        "victim": "Mat Bao Corporation",
+        "domain": "matbao.com",
+        "country": "VN",
+        "timeline": [
+            {
+                "date": "2026-10-02",
+                "type": "claimed",
+                "group": "rhysida"
+            }
+        ]
+    },
+    {
         "victim": "Materialogic",
         "domain": "materialogic.com",
         "country": "",
@@ -209518,6 +209701,18 @@
                 "date": "2024-07-23",
                 "type": "assessed",
                 "group": "cactus"
+            }
+        ]
+    },
+    {
+        "victim": "mcpolymers.com",
+        "domain": "mcpolymers.com",
+        "country": "US",
+        "timeline": [
+            {
+                "date": "2026-09-23",
+                "type": "claimed",
+                "group": "settra"
             }
         ]
     },
@@ -225201,6 +225396,18 @@
                 "date": "2024-09-10",
                 "type": "claimed",
                 "group": "meow"
+            }
+        ]
+    },
+    {
+        "victim": "Sangre de Cristo Electric Association",
+        "domain": "myelectric.coop",
+        "country": "US",
+        "timeline": [
+            {
+                "date": "2026-10-01",
+                "type": "claimed",
+                "group": "incransom"
             }
         ]
     },
@@ -245995,6 +246202,11 @@
         "country": "US",
         "timeline": [
             {
+                "date": "2026-10-02",
+                "type": "claimed",
+                "group": "akira"
+            },
+            {
                 "date": "2026-09-26",
                 "type": "assessed",
                 "group": "akira"
@@ -246227,6 +246439,18 @@
                 "date": "2024-04-05",
                 "type": "claimed",
                 "group": "medusa"
+            }
+        ]
+    },
+    {
+        "victim": "Paessolucoes",
+        "domain": "paessolucoes.com.br",
+        "country": "BR",
+        "timeline": [
+            {
+                "date": "2026-10-02",
+                "type": "claimed",
+                "group": "Panzer"
             }
         ]
     },
@@ -254651,6 +254875,18 @@
                 "date": "2024-08-06",
                 "type": "claimed",
                 "group": "ransomhub"
+            }
+        ]
+    },
+    {
+        "victim": "www.pierrefeu.fr",
+        "domain": "pierrefeu.fr",
+        "country": "FR",
+        "timeline": [
+            {
+                "date": "2026-10-02",
+                "type": "claimed",
+                "group": "krybit"
             }
         ]
     },
@@ -267310,6 +267546,18 @@
         ]
     },
     {
+        "victim": "www.raajratna.com",
+        "domain": "raajratna.com",
+        "country": "IN",
+        "timeline": [
+            {
+                "date": "2026-10-02",
+                "type": "claimed",
+                "group": "krybit"
+            }
+        ]
+    },
+    {
         "victim": "Raben Group",
         "domain": "raben-group.com",
         "country": "PL",
@@ -273121,6 +273369,18 @@
         ]
     },
     {
+        "victim": "Raleigh Family Medicine",
+        "domain": "rfppa.com",
+        "country": "US",
+        "timeline": [
+            {
+                "date": "2026-10-02",
+                "type": "claimed",
+                "group": "Booba Project"
+            }
+        ]
+    },
+    {
         "victim": "NSW Rural Fire Service",
         "domain": "rfs.nsw.gov.au",
         "country": "AU",
@@ -276966,6 +277226,18 @@
                 "date": "2026-10-01",
                 "type": "claimed",
                 "group": "aurora"
+            }
+        ]
+    },
+    {
+        "victim": "UNION FA",
+        "domain": "rogdianakis.gr",
+        "country": "GR",
+        "timeline": [
+            {
+                "date": "2026-10-02",
+                "type": "claimed",
+                "group": "Deadlock"
             }
         ]
     },
@@ -281542,6 +281814,18 @@
                 "date": "2025-01-08",
                 "type": "claimed",
                 "group": "ransomhub"
+            }
+        ]
+    },
+    {
+        "victim": "sai.org.in",
+        "domain": "sai.org.in",
+        "country": "IN",
+        "timeline": [
+            {
+                "date": "2026-10-02",
+                "type": "claimed",
+                "group": "krybit"
             }
         ]
     },
@@ -303283,6 +303567,18 @@
                 "date": "2026-09-04",
                 "type": "claimed",
                 "group": "spacebears"
+            }
+        ]
+    },
+    {
+        "victim": "Sports Events365",
+        "domain": "sportsevents365.com",
+        "country": "GB",
+        "timeline": [
+            {
+                "date": "2026-10-02",
+                "type": "claimed",
+                "group": "qilin"
             }
         ]
     },
@@ -327846,6 +328142,18 @@
         ]
     },
     {
+        "victim": "translarity.com",
+        "domain": "translarity.com",
+        "country": "US",
+        "timeline": [
+            {
+                "date": "2026-09-03",
+                "type": "claimed",
+                "group": "settra"
+            }
+        ]
+    },
+    {
         "victim": "translink.se",
         "domain": "translink.se",
         "country": "SE",
@@ -329848,6 +330156,18 @@
                 "date": "2025-11-26",
                 "type": "claimed",
                 "group": "qilin"
+            }
+        ]
+    },
+    {
+        "victim": "Tronex A/S",
+        "domain": "tronex.dk",
+        "country": "DK",
+        "timeline": [
+            {
+                "date": "2026-10-02",
+                "type": "claimed",
+                "group": "Wallstreet"
             }
         ]
     },
@@ -333980,6 +334300,18 @@
             {
                 "date": "2023-12-21",
                 "type": "reported"
+            }
+        ]
+    },
+    {
+        "victim": "University of Illinois Chicago",
+        "domain": "uic.edu",
+        "country": "US",
+        "timeline": [
+            {
+                "date": "2026-10-02",
+                "type": "claimed",
+                "group": "Booba Project"
             }
         ]
     },
