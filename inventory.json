@@ -12827,6 +12827,18 @@
         ]
     },
     {
+        "victim": "advantech.com",
+        "domain": "advantech.com",
+        "country": "TW",
+        "timeline": [
+            {
+                "date": "2026-09-29",
+                "type": "claimed",
+                "group": "chaos"
+            }
+        ]
+    },
+    {
         "victim": "Advantest",
         "domain": "advantest.com",
         "country": "JP",
@@ -15317,6 +15329,18 @@
                 "date": "2026-09-28",
                 "type": "claimed",
                 "group": "incransom"
+            }
+        ]
+    },
+    {
+        "victim": "AHeadStart Tutoring",
+        "domain": "aheadstart.co.nz",
+        "country": "NZ",
+        "timeline": [
+            {
+                "date": "2026-09-29",
+                "type": "claimed",
+                "group": "Gammax"
             }
         ]
     },
@@ -42127,6 +42151,18 @@
         ]
     },
     {
+        "victim": "bcx.co.za",
+        "domain": "bcx.co.za",
+        "country": "ZA",
+        "timeline": [
+            {
+                "date": "2026-09-29",
+                "type": "claimed",
+                "group": "incransom"
+            }
+        ]
+    },
+    {
         "victim": "Bd",
         "domain": "bd.zh.ch",
         "country": "CH",
@@ -59031,6 +59067,18 @@
         ]
     },
     {
+        "victim": "camorim.com.br",
+        "domain": "camorim.com.br",
+        "country": "BR",
+        "timeline": [
+            {
+                "date": "2026-09-28",
+                "type": "claimed",
+                "group": "lockbit5"
+            }
+        ]
+    },
+    {
         "victim": "www.campbell.edu",
         "domain": "campbell.edu",
         "country": "US",
@@ -61214,6 +61262,18 @@
             {
                 "date": "2023-09-27",
                 "type": "reported"
+            }
+        ]
+    },
+    {
+        "victim": "carolinaasthma.com",
+        "domain": "carolinaasthma.com",
+        "country": "US",
+        "timeline": [
+            {
+                "date": "2026-09-29",
+                "type": "claimed",
+                "group": "chaos"
             }
         ]
     },
@@ -83908,6 +83968,18 @@
         ]
     },
     {
+        "victim": "cpacb.com",
+        "domain": "cpacb.com",
+        "country": "CA",
+        "timeline": [
+            {
+                "date": "2026-09-29",
+                "type": "claimed",
+                "group": "m3rx"
+            }
+        ]
+    },
+    {
         "victim": "cpacsystems.se",
         "domain": "cpacsystems.se",
         "country": "SE",
@@ -85906,6 +85978,18 @@
                 "date": "2024-06-19",
                 "type": "assessed",
                 "group": "madliberator"
+            }
+        ]
+    },
+    {
+        "victim": "Crowder Industries, Inc",
+        "domain": "crowderindustries.com",
+        "country": "US",
+        "timeline": [
+            {
+                "date": "2026-09-29",
+                "type": "claimed",
+                "group": "Gammax"
             }
         ]
     },
@@ -135750,6 +135834,18 @@
         ]
     },
     {
+        "victim": "Gibson Area Hospital & Health Services",
+        "domain": "gibsonhospital.org",
+        "country": "US",
+        "timeline": [
+            {
+                "date": "2026-09-29",
+                "type": "claimed",
+                "group": "Wallstreet"
+            }
+        ]
+    },
+    {
         "victim": "GIC Housing Finance",
         "domain": "gichfindia.com",
         "country": "IN",
@@ -139410,6 +139506,18 @@
                 "date": "2026-05-13",
                 "type": "claimed",
                 "group": "payload"
+            }
+        ]
+    },
+    {
+        "victim": "goriteway.com",
+        "domain": "goriteway.com",
+        "country": "US",
+        "timeline": [
+            {
+                "date": "2026-09-29",
+                "type": "claimed",
+                "group": "BrainCipher"
             }
         ]
     },
@@ -161625,6 +161733,18 @@
         ]
     },
     {
+        "victim": "iccsi.com",
+        "domain": "iccsi.com",
+        "country": "US",
+        "timeline": [
+            {
+                "date": "2026-09-29",
+                "type": "claimed",
+                "group": "m3rx"
+            }
+        ]
+    },
+    {
         "victim": "The International Civil Defense Organization",
         "domain": "icdo.int",
         "country": "",
@@ -168157,6 +168277,18 @@
                 "date": "2025-01-14",
                 "type": "claimed",
                 "group": "ransomhub"
+            }
+        ]
+    },
+    {
+        "victim": "intense.pl",
+        "domain": "intense.pl",
+        "country": "PL",
+        "timeline": [
+            {
+                "date": "2026-09-29",
+                "type": "claimed",
+                "group": "m3rx"
             }
         ]
     },
@@ -191139,6 +191271,18 @@
         ]
     },
     {
+        "victim": "latitudesubro.com",
+        "domain": "latitudesubro.com",
+        "country": "BR",
+        "timeline": [
+            {
+                "date": "2026-09-29",
+                "type": "claimed",
+                "group": "BrainCipher"
+            }
+        ]
+    },
+    {
         "victim": "Latona Trucking",
         "domain": "latonatrucking.com",
         "country": "US",
@@ -206614,6 +206758,18 @@
         ]
     },
     {
+        "victim": "maxwell-group.com",
+        "domain": "maxwell-group.com",
+        "country": "GB",
+        "timeline": [
+            {
+                "date": "2026-09-29",
+                "type": "claimed",
+                "group": "BrainCipher"
+            }
+        ]
+    },
+    {
         "victim": "Max Wild GmbH",
         "domain": "maxwild.com",
         "country": "DE",
@@ -207723,6 +207879,18 @@
                 "date": "2026-04-15",
                 "type": "claimed",
                 "group": "dragonforce"
+            }
+        ]
+    },
+    {
+        "victim": "mccordclaims.com",
+        "domain": "mccordclaims.com",
+        "country": "US",
+        "timeline": [
+            {
+                "date": "2026-09-29",
+                "type": "claimed",
+                "group": "BrainCipher"
             }
         ]
     },
@@ -223101,6 +223269,18 @@
         ]
     },
     {
+        "victim": "mulholland.com",
+        "domain": "mulholland.com",
+        "country": "US",
+        "timeline": [
+            {
+                "date": "2026-09-29",
+                "type": "claimed",
+                "group": "BrainCipher"
+            }
+        ]
+    },
+    {
         "victim": "Mulia Raya",
         "domain": "muliaraya.co.id",
         "country": "ID",
@@ -233299,6 +233479,18 @@
         ]
     },
     {
+        "victim": "noonsugar.com",
+        "domain": "noonsugar.com",
+        "country": "AE",
+        "timeline": [
+            {
+                "date": "2026-09-29",
+                "type": "claimed",
+                "group": "m3rx"
+            }
+        ]
+    },
+    {
         "victim": "Nopa Industriearmaturen",
         "domain": "nopa-valves.de",
         "country": "DE",
@@ -233923,7 +234115,7 @@
         ]
     },
     {
-        "victim": "Northeast Rehabilitation Hospital Network",
+        "victim": "northeastrehab.com",
         "domain": "northeastrehab.com",
         "country": "US",
         "timeline": [
@@ -233931,6 +234123,11 @@
                 "date": "2024-07-18",
                 "type": "claimed",
                 "group": "hunters"
+            },
+            {
+                "date": "2026-09-29",
+                "type": "claimed",
+                "group": "BrainCipher"
             },
             {
                 "date": "2025-06-20",
@@ -243963,6 +244160,18 @@
                 "date": "2026-08-22",
                 "type": "claimed",
                 "group": "coinbasecartel"
+            }
+        ]
+    },
+    {
+        "victim": "oterolaw.com",
+        "domain": "oterolaw.com",
+        "country": "US",
+        "timeline": [
+            {
+                "date": "2026-09-29",
+                "type": "claimed",
+                "group": "m3rx"
             }
         ]
     },
@@ -256953,6 +257162,18 @@
         ]
     },
     {
+        "victim": "Polikem",
+        "domain": "polikem.com.co",
+        "country": "CO",
+        "timeline": [
+            {
+                "date": "2026-09-29",
+                "type": "claimed",
+                "group": "emperador"
+            }
+        ]
+    },
+    {
         "victim": "poliserv.ro",
         "domain": "poliserv.ro",
         "country": "RO",
@@ -259300,6 +259521,18 @@
                 "date": "2023-04-04",
                 "type": "claimed",
                 "group": "blackbasta"
+            }
+        ]
+    },
+    {
+        "victim": "Precision Facades Ltd",
+        "domain": "precisionfacades.co.uk",
+        "country": "GB",
+        "timeline": [
+            {
+                "date": "2026-09-29",
+                "type": "claimed",
+                "group": "N0n"
             }
         ]
     },
@@ -262991,6 +263224,18 @@
                 "date": "2026-04-15",
                 "type": "claimed",
                 "group": "qilin"
+            }
+        ]
+    },
+    {
+        "victim": "Groupe Proxitel",
+        "domain": "proxi.tel",
+        "country": "TL",
+        "timeline": [
+            {
+                "date": "2026-09-29",
+                "type": "claimed",
+                "group": "Vexy Ransomware"
             }
         ]
     },
@@ -299264,6 +299509,18 @@
         ]
     },
     {
+        "victim": "somasolucoes.com",
+        "domain": "somasolucoes.com",
+        "country": "BR",
+        "timeline": [
+            {
+                "date": "2026-09-29",
+                "type": "claimed",
+                "group": "m3rx"
+            }
+        ]
+    },
+    {
         "victim": "www.someco.com",
         "domain": "someco.com",
         "country": "US",
@@ -301661,6 +301918,18 @@
                 "date": "2025-09-25",
                 "type": "claimed",
                 "group": "qilin"
+            }
+        ]
+    },
+    {
+        "victim": "spg.co.kr",
+        "domain": "spg.co.kr",
+        "country": "KR",
+        "timeline": [
+            {
+                "date": "2026-09-29",
+                "type": "claimed",
+                "group": "lockbit5"
             }
         ]
     },
@@ -316703,6 +316972,18 @@
         ]
     },
     {
+        "victim": "Tekko Enterprises, Inc",
+        "domain": "tekkoinc.com",
+        "country": "US",
+        "timeline": [
+            {
+                "date": "2026-09-29",
+                "type": "claimed",
+                "group": "interlock"
+            }
+        ]
+    },
+    {
         "victim": "Teklas",
         "domain": "teklas.com",
         "country": "",
@@ -326198,6 +326479,18 @@
         ]
     },
     {
+        "victim": "trailerbridge.com",
+        "domain": "trailerbridge.com",
+        "country": "US",
+        "timeline": [
+            {
+                "date": "2026-09-29",
+                "type": "claimed",
+                "group": "BrainCipher"
+            }
+        ]
+    },
+    {
         "victim": "Trailer Transit Inc",
         "domain": "trailertransit.com",
         "country": "US",
@@ -334577,6 +334870,18 @@
                 "date": "2026-06-08",
                 "type": "claimed",
                 "group": "nightspire"
+            }
+        ]
+    },
+    {
+        "victim": "Unique Repair Services",
+        "domain": "uniquerepair.com",
+        "country": "US",
+        "timeline": [
+            {
+                "date": "2026-09-29",
+                "type": "claimed",
+                "group": "kairos"
             }
         ]
     },
@@ -350969,6 +351274,18 @@
                 "date": "2023-03-16",
                 "type": "claimed",
                 "group": "clop"
+            }
+        ]
+    },
+    {
+        "victim": "wildmanbg.com",
+        "domain": "wildmanbg.com",
+        "country": "BG",
+        "timeline": [
+            {
+                "date": "2026-09-29",
+                "type": "claimed",
+                "group": "BrainCipher"
             }
         ]
     },
