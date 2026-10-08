@@ -30236,6 +30236,18 @@
         ]
     },
     {
+        "victim": "Asesoría FAR",
+        "domain": "asesoriafar.com",
+        "country": "ES",
+        "timeline": [
+            {
+                "date": "2026-09-27",
+                "type": "claimed",
+                "group": "Panzer"
+            }
+        ]
+    },
+    {
         "victim": "asesoriauriel.com",
         "domain": "asesoriauriel.com",
         "country": "MX",
@@ -86312,6 +86324,18 @@
         ]
     },
     {
+        "victim": "Car Service Abschlepp",
+        "domain": "csa-abschleppdienst-berlin.de",
+        "country": "DE",
+        "timeline": [
+            {
+                "date": "2026-09-27",
+                "type": "claimed",
+                "group": "emperador"
+            }
+        ]
+    },
+    {
         "victim": "csaas.com",
         "domain": "csaas.com",
         "country": "US",
@@ -119618,6 +119642,18 @@
         ]
     },
     {
+        "victim": "Willatt & Flickinger",
+        "domain": "faustin.com",
+        "country": "US",
+        "timeline": [
+            {
+                "date": "2026-09-27",
+                "type": "claimed",
+                "group": "qilin"
+            }
+        ]
+    },
+    {
         "victim": "Favbet",
         "domain": "favbet.com",
         "country": "UA",
@@ -123324,12 +123360,17 @@
         ]
     },
     {
-        "victim": "First Secure Bank and Trust",
+        "victim": "First Secure Bank Group",
         "domain": "firstsecurebank.com",
         "country": "US",
         "timeline": [
             {
                 "date": "2026-09-18",
+                "type": "claimed",
+                "group": "Storm"
+            },
+            {
+                "date": "2026-09-27",
                 "type": "claimed",
                 "group": "Storm"
             }
@@ -170477,6 +170518,18 @@
             {
                 "date": "2024-05-24",
                 "type": "reported"
+            }
+        ]
+    },
+    {
+        "victim": "Island",
+        "domain": "island.ca",
+        "country": "CA",
+        "timeline": [
+            {
+                "date": "2026-09-27",
+                "type": "claimed",
+                "group": "qilin"
             }
         ]
     },
@@ -246056,6 +246109,18 @@
         ]
     },
     {
+        "victim": "Pantaneiro Capas",
+        "domain": "pantaneirocapas.com.br",
+        "country": "BR",
+        "timeline": [
+            {
+                "date": "2026-09-27",
+                "type": "claimed",
+                "group": "arcusmedia"
+            }
+        ]
+    },
+    {
         "victim": "PANTHERx Rare",
         "domain": "pantherxrare.com",
         "country": "US",
@@ -270944,6 +271009,18 @@
         ]
     },
     {
+        "victim": "Ressources Si",
+        "domain": "ressources-si.com",
+        "country": "FR",
+        "timeline": [
+            {
+                "date": "2026-09-27",
+                "type": "claimed",
+                "group": "Panzer"
+            }
+        ]
+    },
+    {
         "victim": "restargp.com",
         "domain": "restargp.com",
         "country": "JP",
@@ -271248,6 +271325,18 @@
                 "date": "2023-10-15",
                 "type": "assessed",
                 "group": "akira"
+            }
+        ]
+    },
+    {
+        "victim": "Revenga Smart Solutions",
+        "domain": "revenga.com",
+        "country": "ES",
+        "timeline": [
+            {
+                "date": "2026-09-27",
+                "type": "claimed",
+                "group": "qilin"
             }
         ]
     },
@@ -354998,6 +355087,18 @@
                 "date": "2026-03-31",
                 "type": "claimed",
                 "group": "beast"
+            }
+        ]
+    },
+    {
+        "victim": "XICO",
+        "domain": "xicoled.com",
+        "country": "MX",
+        "timeline": [
+            {
+                "date": "2026-09-27",
+                "type": "claimed",
+                "group": "qilin"
             }
         ]
     },
