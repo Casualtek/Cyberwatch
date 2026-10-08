@@ -24495,6 +24495,18 @@
         ]
     },
     {
+        "victim": "anery.com.br",
+        "domain": "anery.com.br",
+        "country": "BR",
+        "timeline": [
+            {
+                "date": "2026-09-23",
+                "type": "claimed",
+                "group": "lockbit5"
+            }
+        ]
+    },
+    {
         "victim": "Anesco Ltd",
         "domain": "anesco.co.uk",
         "country": "NL",
@@ -26939,6 +26951,18 @@
                 "date": "2023-09-01",
                 "type": "claimed",
                 "group": "lockbit3"
+            }
+        ]
+    },
+    {
+        "victim": "Ar Valve Resources",
+        "domain": "ar-resources.com",
+        "country": "GB",
+        "timeline": [
+            {
+                "date": "2026-09-25",
+                "type": "claimed",
+                "group": "Wallstreet"
             }
         ]
     },
@@ -42286,6 +42310,18 @@
         ]
     },
     {
+        "victim": "Beatus Cartons",
+        "domain": "beatuscartons.co.uk",
+        "country": "GB",
+        "timeline": [
+            {
+                "date": "2026-09-25",
+                "type": "claimed",
+                "group": "Wallstreet"
+            }
+        ]
+    },
+    {
         "victim": "beaudry.ca",
         "domain": "beaudry.ca",
         "country": "CA",
@@ -52300,6 +52336,18 @@
                 "date": "2026-03-06",
                 "type": "assessed",
                 "group": "lockbit5"
+            }
+        ]
+    },
+    {
+        "victim": "Breast Implant Center of Hawaii",
+        "domain": "breastimplantcenterofhawaii.com",
+        "country": "US",
+        "timeline": [
+            {
+                "date": "2026-09-25",
+                "type": "claimed",
+                "group": "Wallstreet"
             }
         ]
     },
@@ -65058,7 +65106,7 @@
         ]
     },
     {
-        "victim": "CEN and Cenelec",
+        "victim": "CENELEC",
         "domain": "cencenelec.eu",
         "country": "BE",
         "timeline": [
@@ -65066,6 +65114,11 @@
                 "date": "2026-08-01",
                 "type": "claimed",
                 "group": "coinbasecartel"
+            },
+            {
+                "date": "2026-09-25",
+                "type": "claimed",
+                "group": "everest"
             }
         ]
     },
@@ -82068,6 +82121,18 @@
                 "date": "2024-01-09",
                 "type": "claimed",
                 "group": "qilin"
+            }
+        ]
+    },
+    {
+        "victim": "corisricambi.it",
+        "domain": "corisricambi.it",
+        "country": "IT",
+        "timeline": [
+            {
+                "date": "2026-09-24",
+                "type": "claimed",
+                "group": "lockbit5"
             }
         ]
     },
@@ -108011,6 +108076,18 @@
         ]
     },
     {
+        "victim": "Electrolux & Ontrac",
+        "domain": "electrolux.com",
+        "country": "US",
+        "timeline": [
+            {
+                "date": "2026-09-25",
+                "type": "claimed",
+                "group": "emperador"
+            }
+        ]
+    },
+    {
         "victim": "Electrolux",
         "domain": "electroluxgroup.com",
         "country": "SE",
@@ -114826,6 +114903,18 @@
                 "date": "2024-12-14",
                 "type": "claimed",
                 "group": "dragonforce"
+            }
+        ]
+    },
+    {
+        "victim": "ETS",
+        "domain": "ets.org",
+        "country": "US",
+        "timeline": [
+            {
+                "date": "2026-09-25",
+                "type": "claimed",
+                "group": "everest"
             }
         ]
     },
@@ -134701,6 +134790,18 @@
         ]
     },
     {
+        "victim": "GE Vernova Inc.",
+        "domain": "gevernova.com",
+        "country": "US",
+        "timeline": [
+            {
+                "date": "2026-09-25",
+                "type": "claimed",
+                "group": "metaencryptor"
+            }
+        ]
+    },
+    {
         "victim": "Gevril",
         "domain": "gevril.com",
         "country": "US",
@@ -144415,6 +144516,18 @@
                 "date": "2026-05-21",
                 "type": "claimed",
                 "group": "payload"
+            }
+        ]
+    },
+    {
+        "victim": "GTFM",
+        "domain": "gtfmllc.com",
+        "country": "US",
+        "timeline": [
+            {
+                "date": "2026-09-25",
+                "type": "claimed",
+                "group": "Wallstreet"
             }
         ]
     },
@@ -160570,6 +160683,18 @@
                 "date": "2025-11-25",
                 "type": "claimed",
                 "group": "everest"
+            }
+        ]
+    },
+    {
+        "victim": "Iberia Compositech Manufacturing",
+        "domain": "iberiacompositech.com",
+        "country": "ES",
+        "timeline": [
+            {
+                "date": "2026-09-25",
+                "type": "claimed",
+                "group": "qilin"
             }
         ]
     },
@@ -201912,6 +202037,18 @@
         ]
     },
     {
+        "victim": "Majani Insurance Brokers",
+        "domain": "majaninsure.com",
+        "country": "KE",
+        "timeline": [
+            {
+                "date": "2026-09-25",
+                "type": "claimed",
+                "group": "Vexy Ransomware"
+            }
+        ]
+    },
+    {
         "victim": "Majestic",
         "domain": "majestic.nodomain",
         "country": "US",
@@ -220009,6 +220146,18 @@
         "timeline": [
             {
                 "date": "2024-05-01",
+                "type": "claimed",
+                "group": "everest"
+            }
+        ]
+    },
+    {
+        "victim": "Morula IVF",
+        "domain": "morulaivf.co.id",
+        "country": "ZA",
+        "timeline": [
+            {
+                "date": "2026-09-25",
                 "type": "claimed",
                 "group": "everest"
             }
@@ -251574,6 +251723,18 @@
         ]
     },
     {
+        "victim": "pharma5.ma",
+        "domain": "pharma5.ma",
+        "country": "MA",
+        "timeline": [
+            {
+                "date": "2026-09-25",
+                "type": "claimed",
+                "group": "incransom"
+            }
+        ]
+    },
+    {
         "victim": "Pharmacare",
         "domain": "pharmacareservices.com",
         "country": "",
@@ -254141,6 +254302,18 @@
         ]
     },
     {
+        "victim": "PKF Hadiwinata",
+        "domain": "pkfhadiwinata.com",
+        "country": "ID",
+        "timeline": [
+            {
+                "date": "2026-09-25",
+                "type": "claimed",
+                "group": "metaencryptor"
+            }
+        ]
+    },
+    {
         "victim": "pkmsteel.com",
         "domain": "pkmsteel.com",
         "country": "IN",
@@ -254749,6 +254922,18 @@
                 "date": "2025-08-30",
                 "type": "assessed",
                 "group": "worldleaks"
+            }
+        ]
+    },
+    {
+        "victim": "Platinum Healthcare Staffing",
+        "domain": "platinumhs.com",
+        "country": "US",
+        "timeline": [
+            {
+                "date": "2026-09-25",
+                "type": "claimed",
+                "group": "metaencryptor"
             }
         ]
     },
@@ -269686,6 +269871,18 @@
                 "date": "2025-05-25",
                 "type": "claimed",
                 "group": "blacklock"
+            }
+        ]
+    },
+    {
+        "victim": "Reliance Audit",
+        "domain": "relianceaudit.com.sg",
+        "country": "SG",
+        "timeline": [
+            {
+                "date": "2026-09-25",
+                "type": "claimed",
+                "group": "everest"
             }
         ]
     },
@@ -286438,6 +286635,18 @@
                 "date": "2024-01-26",
                 "type": "claimed",
                 "group": "lockbit3"
+            }
+        ]
+    },
+    {
+        "victim": "Securitas Group",
+        "domain": "securitas.com",
+        "country": "SE",
+        "timeline": [
+            {
+                "date": "2026-09-25",
+                "type": "claimed",
+                "group": "everest"
             }
         ]
     },
@@ -312679,6 +312888,18 @@
         ]
     },
     {
+        "victim": "TapClicks (marketing analytics platform)",
+        "domain": "tapclicks.com",
+        "country": "US",
+        "timeline": [
+            {
+                "date": "2026-09-25",
+                "type": "claimed",
+                "group": "N0n"
+            }
+        ]
+    },
+    {
         "victim": "www.taperuvicha.com",
         "domain": "taperuvicha.com",
         "country": "AR",
@@ -312984,6 +313205,18 @@
                 "date": "2026-03-03",
                 "type": "assessed",
                 "group": "play"
+            }
+        ]
+    },
+    {
+        "victim": "taspenlife.com",
+        "domain": "taspenlife.com",
+        "country": "KZ",
+        "timeline": [
+            {
+                "date": "2026-09-22",
+                "type": "claimed",
+                "group": "lockbit5"
             }
         ]
     },
@@ -322708,6 +322941,18 @@
                 "date": "2024-02-05",
                 "type": "claimed",
                 "group": "blacksuit"
+            }
+        ]
+    },
+    {
+        "victim": "Tobin & Company",
+        "domain": "tobinandco.com",
+        "country": "US",
+        "timeline": [
+            {
+                "date": "2026-09-25",
+                "type": "claimed",
+                "group": "Wallstreet"
             }
         ]
     },
@@ -333459,6 +333704,18 @@
                 "date": "2023-07-06",
                 "type": "claimed",
                 "group": "play"
+            }
+        ]
+    },
+    {
+        "victim": "UNIRITA",
+        "domain": "unirita.co.jp",
+        "country": "JP",
+        "timeline": [
+            {
+                "date": "2026-09-25",
+                "type": "claimed",
+                "group": "everest"
             }
         ]
     },
