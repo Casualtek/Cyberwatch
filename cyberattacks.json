@@ -1,5 +1,16 @@
 [
     {
+        "date": "2026-10-05",
+        "victim": "Fondation des Sites Mémoriaux de Brandebourg",
+        "domain": "stiftung-bg.de",
+        "country": "DEU",
+        "summary": "La Fondation des Sites Mémoriaux de Brandebourg a été victime d'une cyberattaque qui a rendu ses sites internet inaccessibles. Les sites des sept mémoriaux affiliés ainsi que des pages de projets individuels ont été mis hors ligne pour des raisons de sécurité. Les autorités locales ont été informées et l'enquête est en cours. La fondation estime qu'il faudra au moins une semaine pour rétablir l'accès aux sites.",
+        "description": "",
+        "title": "Brandenburg: Cyberangriff legt Webseiten der Brandenburger Gedenkstätten lahm",
+        "url": "https://www.tagesschau.de/inland/regional/brandenburg/rbb-cyberangriff-legt-webseiten-der-brandenburger-gedenkstaetten-lahm-102.html",
+        "added": "2026-10-09"
+    },
+    {
         "date": "2026-10-07",
         "victim": "IDC Frontier",
         "domain": "idcf.jp",
