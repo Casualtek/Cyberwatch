@@ -1,5 +1,16 @@
 [
     {
+        "date": "2026-10-07",
+        "victim": "Nissui Butsuryu",
+        "domain": "nissui.co.jp",
+        "country": "JPN",
+        "summary": "La société Nissui Butsuryu, une filiale du groupe Nissui, a été victime d'une cyberattaque par rançongiciel (ransomware) sur un serveur de son centre de données cloud. L'incident, survenu le 7 octobre, a provoqué une panne système et l'arrêt des opérations d'entrée et de sortie des produits. Une enquête est actuellement en cours pour déterminer si des données personnelles ont été compromises.",
+        "description": "",
+        "title": "サイバー攻撃で495の企業や自治体で影響 独自検証“AIハッキング”の実態（テレ朝NEWS）｜ｄメニューニュース",
+        "url": "https://topics.smt.docomo.ne.jp/amp/article/tvasahinews/business/tvasahinews-900201473",
+        "added": "2026-10-09"
+    },
+    {
         "date": "2026-10-08",
         "victim": "St-Pierre-des-Corps",
         "domain": "saintpierredescorps.fr",
