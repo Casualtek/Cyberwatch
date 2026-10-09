@@ -1,6 +1,17 @@
 [
     {
         "date": "2026-10-08",
+        "victim": "St-Pierre-des-Corps",
+        "domain": "saintpierredescorps.fr",
+        "country": "FRA",
+        "summary": "La ville de St-Pierre-des-Corps a été victime d'une cyberattaque le 8 octobre 2026. L'incident a entraîné le blocage complet de son système téléphonique et une paralysie partielle de son réseau informatique. La municipalité a mobilisé ses équipes et des experts en cybersécurité pour sécuriser l'infrastructure. Une enquête technique et administrative a été ouverte, et les autorités compétentes, notamment la CNIL et l'ANSSI, ont été saisies pour vérifier l'impact sur les données.",
+        "description": "",
+        "title": "Info Tours | Une cyberattaque à St-Pierre-des-Corps : la mairie perturbée et une enquête lancée",
+        "url": "https://info-tours.fr/toursagglo/2026/10/08/une-cyberattaque-a-st-pierre-des-corps-la-mairie-perturbee-et-une-enquete-lancee/",
+        "added": "2026-10-09"
+    },
+    {
+        "date": "2026-10-08",
         "victim": "Easthampton Public Schools",
         "domain": "epsd.us",
         "country": "USA",
