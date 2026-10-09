@@ -1,5 +1,16 @@
 [
     {
+        "date": "2026-10-04",
+        "victim": "Pathao",
+        "domain": "pathao.com",
+        "country": "BGD",
+        "summary": "Pathao, une plateforme de services de covoiturage et de livraison au Bangladesh, a confirmé avoir été victime d'un incident de cybersécurité survenu le 4 octobre 2026. Cet incident a permis à des acteurs malveillants d'obtenir des informations personnelles de certains utilisateurs, notamment leurs noms, adresses e-mail et numéros de téléphone. La société a pris des mesures de confinement immédiates, engagé des experts externes et mis en garde ses utilisateurs contre les tentatives de phishing.",
+        "description": "",
+        "title": "Pathao says cyber attack exposed users’ names, emails and phone numbers",
+        "url": "https://www.thedailystar.net/news/technology/news/pathao-says-cyber-attack-exposed-users-names-emails-and-phone-numbers-4293936",
+        "added": "2026-10-09"
+    },
+    {
         "date": "2026-10-02",
         "victim": "Green Clinic",
         "domain": "green-clinic.com",
