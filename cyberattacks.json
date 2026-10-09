@@ -1,5 +1,16 @@
 [
     {
+        "date": "2026-08-04",
+        "victim": "Einstein Hospital Israelita",
+        "domain": "einstein.br",
+        "country": "BRA",
+        "summary": "L'Einstein Hospital Israelita, situé à São Paulo, a été victime d'une cyberattaque ayant compromis une partie de sa base de données de patients. Les informations potentiellement compromises incluent le nom, le CPF, la date de naissance, ainsi que des données de santé telles que des prescriptions et des résultats d'examens. L'hôpital a signalé l'incident à l'Autorité Nationale de Protection des Données (ANPD) et à la Police Fédérale. Bien qu'aucune preuve de divulgation ou d'utilisation abusive des données n'ait été trouvée, les patients affectés sont informés individuellement.",
+        "description": "",
+        "title": "Einstein é alvo de ataque hacker e dados de pacientes são acessados sem autorização",
+        "url": "https://oglobo.globo.com/saude/noticia/2026/10/08/einstein-e-alvo-de-ataque-hacker-e-dados-de-pacientes-sao-acessados-sem-autorizacao.ghtml",
+        "added": "2026-10-09"
+    },
+    {
         "date": "2026-10-04",
         "victim": "Pathao",
         "domain": "pathao.com",
