@@ -1,5 +1,16 @@
 [
     {
+        "date": "2026-10-07",
+        "victim": "IDC Frontier",
+        "domain": "idcf.jp",
+        "country": "JPN",
+        "summary": "IDC Frontier a annoncé une cyberattaque par rançongiciel (ransomware) ciblant son service cloud IDCF Cloud. L'incident, survenu le 7 octobre 2026 à 3h40 du matin, a affecté la région Est du Japon (East Japan Region 1) et impacté 495 entreprises et collectivités locales. L'entreprise a procédé à l'isolement du réseau et à l'arrêt des systèmes pour contenir la menace.",
+        "description": "",
+        "title": "【第2報】当社サービスの一部システムに対する不正アクセスについて | IDCフロンティア",
+        "url": "https://www.idcf.jp/news/topics/20261007002",
+        "added": "2026-10-09"
+    },
+    {
         "date": "2026-10-05",
         "victim": "Corby Rock Mill",
         "domain": "corbyrock.ie",
