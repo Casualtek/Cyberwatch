@@ -1,5 +1,16 @@
 [
     {
+        "date": "2026-10-01",
+        "victim": "Yıldız Teknik Üniversitesi",
+        "domain": "yildiz.edu.tr",
+        "country": "TUR",
+        "summary": "L'université Yıldız Teknik a été victime d'une cyberattaque par rançongiciel (ransomware) qui a affecté son infrastructure de virtualisation et ses serveurs. L'incident, survenu le 1er octobre 2026, a potentiellement exposé les données d'environ 140 000 étudiants et 4 500 membres du personnel. Bien que l'incident ait été officiellement signalé aux autorités de protection des données, les catégories spécifiques de données personnelles compromises n'ont pas encore été déterminées.",
+        "description": "",
+        "title": "YTÜ’ye fidye yazılımı saldırısı; 140 bin öğrencinin verisi riskte - TR724",
+        "url": "https://www.tr724.com/ytuye-fidye-yazilimi-saldirisi-140-bin-ogrencinin-verisi-riskte/",
+        "added": "2026-10-09"
+    },
+    {
         "date": "2026-08-04",
         "victim": "Einstein Hospital Israelita",
         "domain": "einstein.br",
