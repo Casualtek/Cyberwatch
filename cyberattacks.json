@@ -1,5 +1,16 @@
 [
     {
+        "date": "2026-10-02",
+        "victim": "Green Clinic",
+        "domain": "green-clinic.com",
+        "country": "USA",
+        "summary": "La Green Clinic, située à Ruston, Louisiane, a été victime d'une cyberattaque qui a perturbé les soins. Les systèmes sont tombés le vendredi, empêchant le personnel d'accéder aux dossiers des patients et aux plannings. Bien que des sources non identifiées aient attribué l'incident au groupe Wallstreet, la clinique et son propriétaire, Allegiance Health Management, n'ont pas confirmé la cause. Les consultations se sont poursuivies en utilisant des documents papier.",
+        "description": "",
+        "title": "Reported cyberattack disrupts care at Green Clinic in Louisiana",
+        "url": "https://dysruptionhub.com/green-clinic-cyberattack-louisiana/",
+        "added": "2026-10-09"
+    },
+    {
         "date": "2026-10-05",
         "victim": "Fondation des Sites Mémoriaux de Brandebourg",
         "domain": "stiftung-bg.de",
