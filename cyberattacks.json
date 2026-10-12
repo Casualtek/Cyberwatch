@@ -1,6 +1,17 @@
 [
     {
         "date": "2026-10-12",
+        "victim": "Ahold Delhaize",
+        "domain": "aholddelhaize.com",
+        "country": "NLD",
+        "summary": "Ahold Delhaize, le groupe néerlandais-belge, a dû mettre hors ligne une partie de ses systèmes informatiques pour se protéger contre une cyberattaque affectant ses chaînes Mega Image et Profi en Roumanie. L'entreprise a confirmé la situation le 12 octobre 2026, tout en assurant que les magasins restent ouverts et opérationnels pour les clients.",
+        "description": "",
+        "title": "Atac cibernetic la Ahold Delhaize, proprietarul lanțurilor Mega Image și Profi - Economica.net",
+        "url": "https://www.economica.net/atac-cibernetic-la-ahold-delhaize-proprietarul-lanurilor-mega-image-si-profi_984656.html",
+        "added": "2026-10-12"
+    },
+    {
+        "date": "2026-10-12",
         "victim": "Super U",
         "domain": "magasins-u.com",
         "country": "FRA",
