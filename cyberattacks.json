@@ -1,5 +1,16 @@
 [
     {
+        "date": "2026-10-12",
+        "victim": "Super U",
+        "domain": "magasins-u.com",
+        "country": "FRA",
+        "summary": "Une cyberattaque de grande ampleur a paralysé les systèmes de régulation frigorifique de près de 150 magasins Intermarché et de l'enseigne Super U, ainsi que d'autres acteurs de la grande distribution française. L'incident, survenu dans la nuit du 11 au 12 octobre 2026, a ciblé l'équipementier Danfoss, fournisseur des systèmes de gestion thermique. Cette intrusion a provoqué une rupture massive de la chaîne du froid, entraînant la destruction de stocks de produits frais et surgelés.",
+        "description": "",
+        "title": "Intermarché, Leclerc, Monoprix, Super U... la température est montée jusqu'à 50 degrés, la cyberattaque dévaste la chaîne du froid",
+        "url": "https://www.laprovence.com/article/economie/23395706628068/cyberattaque-inedite-et-inacceptable-intermarche-et-super-u-vises-la-chaine-du-froid-brisee",
+        "added": "2026-10-12"
+    },
+    {
         "date": "2026-10-01",
         "victim": "Yıldız Teknik Üniversitesi",
         "domain": "yildiz.edu.tr",
