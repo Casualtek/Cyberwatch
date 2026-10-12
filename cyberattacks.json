@@ -1,5 +1,16 @@
 [
     {
+        "date": "2026-10-08",
+        "victim": "Kreiskliniken Kassel",
+        "domain": "kreisklinikenkassel.de",
+        "country": "DEU",
+        "summary": "Les Kreiskliniken Kassel ont été victimes d'une cyberattaque affectant les sites de Hofgeismar et Wolfhagen. L'incident a été détecté le 8 octobre 2026, et les plans d'urgence ont été activés. Bien que la prise en charge médicale et les opérations courantes restent pleinement assurées, les autorités examinent actuellement la possibilité d'une fuite de données personnelles. Le Vorfall a été signalé aux autorités allemandes compétentes (BSI, etc.).",
+        "description": "",
+        "title": "Cyberangriff trifft Kreiskliniken Kassel",
+        "url": "https://www.medconweb.de/blog/it-edv/cyberangriff-trifft-kreiskliniken-kassel/",
+        "added": "2026-10-12"
+    },
+    {
         "date": "2026-10-12",
         "victim": "Ahold Delhaize",
         "domain": "aholddelhaize.com",
