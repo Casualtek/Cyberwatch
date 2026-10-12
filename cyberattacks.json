@@ -1,6 +1,17 @@
 [
     {
         "date": "2026-10-08",
+        "victim": "Hochschulservicezentrum Baden-Württemberg",
+        "domain": "hsz-bw.de",
+        "country": "DEU",
+        "summary": "Le Hochschulservicezentrum Baden-Württemberg (HSZ-BW) de Reutlingen a été victime d'une cyberattaque. L'incident a été détecté par le département informatique le mercredi soir. Les autorités compétentes, incluant l'agence de cybersécurité BW et la police de Reutlingen, ont ouvert une enquête. Un groupe de crise est mobilisé pour gérer la situation.",
+        "description": "",
+        "title": "Cyberangriff trifft Hochschulservicezentrum Baden-Württemberg in Reutlingen",
+        "url": "https://www.badische-zeitung.de/cyberangriff-trifft-hochschulservicezentrum-baden-wuerttemberg-in-reutlingen",
+        "added": "2026-10-12"
+    },
+    {
+        "date": "2026-10-08",
         "victim": "Kreiskliniken Kassel",
         "domain": "kreisklinikenkassel.de",
         "country": "DEU",
