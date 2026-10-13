@@ -1,5 +1,16 @@
 [
     {
+        "date": "2026-09-08",
+        "victim": "North Slope Borough School District",
+        "domain": "nsbsd.org",
+        "country": "USA",
+        "summary": "Le North Slope Borough School District en Alaska a été victime d'un incident de cybersécurité qui a entraîné une perturbation de son service téléphonique à partir du 8 septembre 2026. Bien que les opérations aient repris le 5 octobre, le district a avertit que des informations personnelles des employés, telles que des numéros de sécurité sociale, des informations sur les permis de conduire et des données de bénéfices, pourraient avoir été consultées. Le district a engagé des spécialistes externes, coopère avec le FBI et a offert une surveillance d'identité gratuite à tous les membres du personnel et aux étudiants.",
+        "description": "",
+        "title": "Cyber incident disrupts phone service across North Slope Borough School District in Alaska",
+        "url": "https://dysruptionhub.com/north-slope-alaska-cyber-incident-recovery/",
+        "added": "2026-10-13"
+    },
+    {
         "date": "2026-10-13",
         "victim": "Ville d'Eichstätt",
         "domain": "eichstaett.de",
