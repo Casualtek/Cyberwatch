@@ -1,5 +1,16 @@
 [
     {
+        "date": "2026-10-09",
+        "victim": "North Platte et Lincoln County",
+        "domain": "northplattene.gov",
+        "country": "USA",
+        "summary": "Un incident de cybersécurité a perturbé les services téléphoniques et Internet des autorités de North Platte et du Lincoln County, Nebraska. Les bureaux du comté ont dû fermer. Les autorités ont déconnecté certains logiciels et ont sollicité l'aide de la Garde Nationale du Nebraska pour contenir la brèche. L'origine de l'intrusion et les responsables n'ont pas été identifiés.",
+        "description": "",
+        "title": "Cyber incident closes offices, disrupts North Platte and Lincoln County phones in Nebraska",
+        "url": "https://dysruptionhub.com/north-platte-nebraska-cyber-phone-outage/",
+        "added": "2026-10-13"
+    },
+    {
         "date": "2026-10-11",
         "victim": "The Foschini Group",
         "domain": "tfglimited.co.za",
