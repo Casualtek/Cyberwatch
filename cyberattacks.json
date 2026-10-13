@@ -1,5 +1,16 @@
 [
     {
+        "date": "2026-10-13",
+        "victim": "Ville d'Eichstätt",
+        "domain": "eichstaett.de",
+        "country": "DEU",
+        "summary": "La ville d'Eichstätt a été victime d'une cyberattaque, présumée être une attaque par ransomware. Tous les serveurs de la municipalité sont actuellement hors service, paralysant l'ensemble de l'administration. Les autorités n'ont pas encore déterminé si des données ont été exfiltrées, mais elles alertent les citoyens sur la possibilité que des factures officielles puissent être falsifiées. Les enquêtes sont menées par les autorités bavarois, mais l'identité des attaquants reste inconnue.",
+        "description": "",
+        "title": "Cyberangriff legt Stadtverwaltung in Oberbayern lahm: „Wir bereiten uns auf alle Eventualitäten vor“",
+        "url": "https://www.merkur.de/bayern/cyberangriff-legt-stadtverwaltung-lahm-notfallhotline-eingerichtet-94538064.html",
+        "added": "2026-10-13"
+    },
+    {
         "date": "2026-10-08",
         "victim": "Hochschulservicezentrum Baden-Württemberg",
         "domain": "hsz-bw.de",
