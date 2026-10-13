@@ -1,5 +1,16 @@
 [
     {
+        "date": "2026-10-07",
+        "victim": "U.S.NEXT",
+        "domain": "usnx.com",
+        "country": "USA",
+        "summary": "L'entreprise d'hébergement web U.S.NEXT a été victime d'une cyberattaque qui a perturbé les sites web et les services de messagerie de plusieurs entités gouvernementales du Mississippi (incluant les comtés de Madison, Warren, Hinds et Clarke) ainsi que d'une entreprise en Iowa. La perturbation a entraîné des retards dans les démarches administratives et les paiements en ligne. U.S.NEXT a confirmé que les informations de facturation des clients n'avaient pas été compromises, mais n'a pas précisé si le contenu des sites web ou les données de messagerie avaient été accédés. L'attaque n'a pas été attribuée.",
+        "description": "",
+        "title": "U.S.NEXT cyberattack disrupts websites and email in Mississippi",
+        "url": "https://dysruptionhub.com/usnext-mississippi-cyberattack-web-email/",
+        "added": "2026-10-13"
+    },
+    {
         "date": "2026-09-08",
         "victim": "North Slope Borough School District",
         "domain": "nsbsd.org",
