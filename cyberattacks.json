@@ -1,5 +1,16 @@
 [
     {
+        "date": "2026-10-13",
+        "victim": "Tangerhütte",
+        "domain": "tangerhuette.de",
+        "country": "DEU",
+        "summary": "Le 'Rathaus numérique' de Tangerhütte, en Allemagne, a été victime d'une cyberattaque attribuée à l'utilisation de l'Intelligence Artificielle (IA). L'attaque a exploité une faille de type Zero-Day dans le logiciel municipal, forçant la fermeture du service numérique et obligeant les citoyens à recourir à des procédures analogiques pendant plusieurs semaines. Bien que les attaquants n'aient pas réussi à exfiltrer de données réelles, cet incident est considéré comme le premier cas connu d'une cyberattaque par IA contre une municipalité allemande.",
+        "description": "",
+        "title": "In Sachsen-Anhalt: Bundesweit erster KI-Angriff auf Kommune in Deutschland",
+        "url": "https://www.mdr.de/nachrichten/deutschland/politik/hacker-in-sachsen-anhalt-offenbar-erster,ki-angriff-100.html",
+        "added": "2026-10-13"
+    },
+    {
         "date": "2026-10-07",
         "victim": "U.S.NEXT",
         "domain": "usnx.com",
