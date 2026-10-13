@@ -1,5 +1,16 @@
 [
     {
+        "date": "2025-12-21",
+        "victim": "Department of Trade and Industry (DTI)",
+        "domain": "dti.gov.ph",
+        "country": "PHL",
+        "summary": "Le Département du Commerce et de l'Industrie (DTI) a été victime d'une cyberattaque par rançongiciel (ransomware) le 21 décembre 2025. L'attaque a rendu impossible la récupération des registres comptables de l'agence. En raison de l'absence de sauvegardes accessibles (serveur partagé, cloud inaccessible, pas de copies hors ligne), le DTI a dû solliciter la Commission d'Audit (COA) pour obtenir des copies de ses documents financiers et reconstruire près d'un an de transactions. Cet incident a mis en lumière de graves failles dans la protection des données et la gestion des archives de l'agence.",
+        "description": "",
+        "title": "DTI loses nearly a year’s accounting records to ransomware, turns to COA for copies",
+        "url": "https://bilyonaryo.com/cris-roque-sablay-dti-loses-nearly-a-years-accounting-records-to-ransomware-turns-to-coa-for-copies/",
+        "added": "2026-10-13"
+    },
+    {
         "date": "2026-10-13",
         "victim": "Tangerhütte",
         "domain": "tangerhuette.de",
