@@ -1,5 +1,12 @@
 [
   {
+    "victim": "dd-automation.ch",
+    "domain": "dd-automation.ch",
+    "country": "CH",
+    "date": "2026-09-25",
+    "group": "safepay"
+  },
+  {
     "victim": "comune.robeccosulnaviglio.mi.it",
     "domain": "comune.robeccosulnaviglio.mi.it",
     "country": "IT",
@@ -79,7 +86,7 @@
   {
     "victim": "The Official College of Architects of León (COAL)",
     "domain": "coal.es",
-    "country": "ES",
+    "country": "MX",
     "date": "2026-09-22",
     "group": "akira"
   },
@@ -163,7 +170,7 @@
   {
     "victim": "Wallatec",
     "domain": "wallatec.com",
-    "country": "DE",
+    "country": "AT",
     "date": "2026-09-17",
     "group": "akira"
   },
