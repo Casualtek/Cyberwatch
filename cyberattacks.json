@@ -1,5 +1,16 @@
 [
     {
+        "date": "2026-10-06",
+        "victim": "Egide",
+        "domain": "egide-group.com",
+        "country": "FRA",
+        "summary": "Egide, un groupe industriel français spécialisé dans les composants pour l'électronique sensible (défense, spatial), a été victime d'une cyberattaque le 6 octobre 2026. L'incident a été détecté via un prestataire informatique externe. Par mesure de précaution, Egide a dû interrompre temporairement une partie de ses activités sur son site de Bollène. L'entreprise n'a pas encore confirmé l'exfiltration de données, les investigations étant toujours en cours.",
+        "description": "",
+        "title": "Egide frappé par une cyberattaque : son site de Bollène partiellement interrompu",
+        "url": "https://www.cyberattaque.org/egide-frappe-par-une-cyberattaque-son-site-de-bollene-partiellement-interrompu/",
+        "added": "2026-10-14"
+    },
+    {
         "date": "2026-10-05",
         "victim": "Mandurah State Emergency Service (Mandurah SES)",
         "domain": "mandurahses.org.au",
