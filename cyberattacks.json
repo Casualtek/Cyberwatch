@@ -1,5 +1,16 @@
 [
     {
+        "date": "2026-10-05",
+        "victim": "Mandurah State Emergency Service (Mandurah SES)",
+        "domain": "mandurahses.org.au",
+        "country": "AUS",
+        "summary": "Le groupe de ransomware The Gentlemen a ciblé l'unité Mandurah State Emergency Service (Mandurah SES) en Australie. L'incident a été signalé le 5 octobre 2026 par les autorités de cybersécurité de l'État de Western Australia (WASOC), suite à un accès non autorisé à l'un de ses serveurs. Le serveur affecté contenait des archives historiques antérieures à 2022, ainsi que des sauvegardes et des données d'opérations. Les opérations de la Mandurah SES se poursuivent normalement, et une enquête est en cours pour déterminer l'étendue de l'incident.",
+        "description": "",
+        "title": "Exclusive: Mandurah SES confirms operations unaffected by ransomware attack",
+        "url": "https://www.cyberdaily.au/security/14294-exclusive-mandurah-ses-confirms-operations-unaffected-by-ransomware-attack",
+        "added": "2026-10-14"
+    },
+    {
         "date": "2026-10-12",
         "victim": "Femern Link Contractors (FLC)",
         "domain": "femernlinkcontractors.com",
