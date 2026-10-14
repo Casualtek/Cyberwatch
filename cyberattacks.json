@@ -1,5 +1,16 @@
 [
     {
+        "date": "2026-10-11",
+        "victim": "Interseguro",
+        "domain": "interseguro.pe",
+        "country": "PER",
+        "summary": "L'assureur péruvien Interseguro a été mentionné dans une alerte de cybersécurité émanant du groupe de ransomware Direwolf, qui prétend avoir accédé à 2,5 téraoctets de données. Interseguro a confirmé l'accès non autorisé à des informations d'un groupe de clients, incluant potentiellement des documents internes et des données personnelles. Cependant, l'entreprise assure que les données compromises ne permettent pas de compromettre les transactions ou les opérations d'assurance, et que ses services continuent de fonctionner normalement. Le volume et l'étendue de la fuite ne sont pas confirmés de manière indépendante.",
+        "description": "",
+        "title": "Interseguro enfrenta una alerta por presunta filtración de datos: reportan DNI, información financiera y archivos internos en la dark web",
+        "url": "https://www.infobae.com/peru/2026/10/13/interseguro-enfrenta-una-alerta-por-presunta-filtracion-de-datos-reportan-dni-informacion-financiera-y-archivos-internos-en-la-dark-web/?outputType=amp-type",
+        "added": "2026-10-14"
+    },
+    {
         "date": "2026-10-10",
         "victim": "Centre de commandement des pompiers de Wolsfeld",
         "domain": "feuerwehrwolsfeld32a1acc2a2.wordpress.com",
