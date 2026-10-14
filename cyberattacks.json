@@ -1,5 +1,16 @@
 [
     {
+        "date": "2026-10-10",
+        "victim": "Centre de commandement des pompiers de Wolsfeld",
+        "domain": "feuerwehrwolsfeld32a1acc2a2.wordpress.com",
+        "country": "DEU",
+        "summary": "Une cyberattaque a été confirmée contre le centre de commandement des pompiers de Wolsfeld (Eifelkreis Bitburg-Prüm). Les hackers ont réussi à accéder à plusieurs ordinateurs. L'incident a été découvert lorsqu'un responsable a reçu une notification de serveur hors ligne. Les équipements affectés ont été isolés et remplacés, permettant au centre de redevenir opérationnel dès le dimanche. Les enquêtes sont en cours et l'identité des auteurs reste inconnue.",
+        "description": "",
+        "title": "++ Info-Date am Morgen, 14.10.: Koalition legt Streit um Zuckersteuer bei ++ Ermittlungen nach Cyberangriff auf Feuerwehrzentrale in Wolsfeld in der Eifel ++",
+        "url": "https://www.swr.de/swraktuell-radio/info-date-am-morgen-2026-10-14-koalition-legt-streit-um-zuckersteuer-bei-100.html",
+        "added": "2026-10-14"
+    },
+    {
         "date": "2026-10-06",
         "victim": "Egide",
         "domain": "egide-group.com",
