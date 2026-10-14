@@ -15499,6 +15499,17 @@
             {
                 "date": "2024-11-07",
                 "type": "reported"
+            },
+            {
+                "date": "2026-10-12",
+                "type": "discovered",
+                "summary": "Ahold Delhaize, le groupe néerlandais-belge, a dû mettre hors ligne une partie de ses systèmes informatiques pour se protéger contre une cyberattaque affectant ses chaînes Mega Image et Profi en Roumanie. L'entreprise a confirmé la situation le 12 octobre 2026, tout en assurant que les magasins restent ouverts et opérationnels pour les clients.",
+                "title": "Atac cibernetic la Ahold Delhaize, proprietarul lanțurilor Mega Image și Profi - Economica.net",
+                "url": "https://www.economica.net/atac-cibernetic-la-ahold-delhaize-proprietarul-lanurilor-mega-image-si-profi_984656.html"
+            },
+            {
+                "date": "2026-10-12",
+                "type": "reported"
             }
         ]
     },
@@ -92130,6 +92141,18 @@
         ]
     },
     {
+        "victim": "dd-automation.ch",
+        "domain": "dd-automation.ch",
+        "country": "CH",
+        "timeline": [
+            {
+                "date": "2026-09-25",
+                "type": "assessed",
+                "group": "safepay"
+            }
+        ]
+    },
+    {
         "victim": "DDB Unlimited (ddbunlimited.com)",
         "domain": "ddbunlimited.com",
         "country": "",
@@ -102546,6 +102569,17 @@
                 "date": "2026-01-11",
                 "type": "claimed",
                 "group": "thegentlemen"
+            },
+            {
+                "date": "2026-10-13",
+                "type": "discovered",
+                "summary": "Le Département du Commerce et de l'Industrie (DTI) a été victime d'une cyberattaque par rançongiciel (ransomware) le 21 décembre 2025. L'attaque a rendu impossible la récupération des registres comptables de l'agence. En raison de l'absence de sauvegardes accessibles (serveur partagé, cloud inaccessible, pas de copies hors ligne), le DTI a dû solliciter la Commission d'Audit (COA) pour obtenir des copies de ses documents financiers et reconstruire près d'un an de transactions. Cet incident a mis en lumière de graves failles dans la protection des données et la gestion des archives de l'agence.",
+                "title": "DTI loses nearly a year’s accounting records to ransomware, turns to COA for copies",
+                "url": "https://bilyonaryo.com/cris-roque-sablay-dti-loses-nearly-a-years-accounting-records-to-ransomware-turns-to-coa-for-copies/"
+            },
+            {
+                "date": "2025-12-21",
+                "type": "reported"
             }
         ]
     },
@@ -236805,6 +236839,17 @@
                 "date": "2026-09-28",
                 "type": "claimed",
                 "group": "incransom"
+            },
+            {
+                "date": "2026-10-13",
+                "type": "discovered",
+                "summary": "Le North Slope Borough School District en Alaska a été victime d'un incident de cybersécurité qui a entraîné une perturbation de son service téléphonique à partir du 8 septembre 2026. Bien que les opérations aient repris le 5 octobre, le district a avertit que des informations personnelles des employés, telles que des numéros de sécurité sociale, des informations sur les permis de conduire et des données de bénéfices, pourraient avoir été consultées. Le district a engagé des spécialistes externes, coopère avec le FBI et a offert une surveillance d'identité gratuite à tous les membres du personnel et aux étudiants.",
+                "title": "Cyber incident disrupts phone service across North Slope Borough School District in Alaska",
+                "url": "https://dysruptionhub.com/north-slope-alaska-cyber-incident-recovery/"
+            },
+            {
+                "date": "2026-09-08",
+                "type": "reported"
             }
         ]
     },
