@@ -1,5 +1,16 @@
 [
     {
+        "date": "2026-10-14",
+        "victim": "Colmobil",
+        "domain": "colmobil.at",
+        "country": "ISR",
+        "summary": "Colmobil, le plus grand importateur de véhicules en Israël, a été victime d'une cyberattaque qui a perturbé ses opérations. L'entreprise a détecté l'incident il y a quelques heures et ses équipes techniques mènent actuellement une enquête. Les centres de service continuent de fonctionner, mais de manière limitée. La nature exacte et l'étendue de l'incident, notamment si des données clients ou des systèmes internes ont été compromis, restent inconnues.",
+        "description": "",
+        "title": "Cyber incident disrupts operations at Israel’s largest car importer, Colmobil | CTech",
+        "url": "https://www.calcalistech.com/ctechnews/article/skw40vpsfl",
+        "added": "2026-10-15"
+    },
+    {
         "date": "2026-10-10",
         "victim": "Seetelhotels",
         "domain": "seetel.de",
