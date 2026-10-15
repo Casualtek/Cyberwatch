@@ -7209,6 +7209,18 @@
         ]
     },
     {
+        "victim": "AAA Architectural Hardware",
+        "domain": "aaahardware.com",
+        "country": "US",
+        "timeline": [
+            {
+                "date": "2026-09-18",
+                "type": "assessed",
+                "group": "akira"
+            }
+        ]
+    },
+    {
         "victim": "A A Al Moosa Enterprises (ARENCO Group)",
         "domain": "aaalmoosa.com",
         "country": "AE",
