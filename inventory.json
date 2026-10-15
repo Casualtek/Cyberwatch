@@ -254677,6 +254677,18 @@
         ]
     },
     {
+        "victim": "PIC GROUP, INC",
+        "domain": "picgroupinc.com",
+        "country": "US",
+        "timeline": [
+            {
+                "date": "2026-09-15",
+                "type": "assessed",
+                "group": "akira"
+            }
+        ]
+    },
+    {
         "victim": "picosoft.biz",
         "domain": "picosoft.biz",
         "country": "",
