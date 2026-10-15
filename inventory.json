@@ -14840,6 +14840,18 @@
         ]
     },
     {
+        "victim": "Agri Industrial",
+        "domain": "agri-industrial.com",
+        "country": "US",
+        "timeline": [
+            {
+                "date": "2026-10-05",
+                "type": "claimed",
+                "group": "everest"
+            }
+        ]
+    },
+    {
         "victim": "Agrimac",
         "domain": "agri-mac.com.au",
         "country": "AU",
@@ -24247,6 +24259,18 @@
         "timeline": [
             {
                 "date": "2025-05-06",
+                "type": "claimed",
+                "group": "SilentRansomGroup"
+            }
+        ]
+    },
+    {
+        "victim": "Andersen Group",
+        "domain": "andersen.com",
+        "country": "CA",
+        "timeline": [
+            {
+                "date": "2026-10-06",
                 "type": "claimed",
                 "group": "SilentRansomGroup"
             }
@@ -37653,6 +37677,18 @@
         ]
     },
     {
+        "victim": "B-accountants",
+        "domain": "b-accountants.be",
+        "country": "BE",
+        "timeline": [
+            {
+                "date": "2026-10-06",
+                "type": "claimed",
+                "group": "everest"
+            }
+        ]
+    },
+    {
         "victim": "BK Aerospace",
         "domain": "b-kmfg.com",
         "country": "US",
@@ -50102,6 +50138,18 @@
         ]
     },
     {
+        "victim": "BNYH",
+        "domain": "bnyh.com",
+        "country": "US",
+        "timeline": [
+            {
+                "date": "2026-10-06",
+                "type": "claimed",
+                "group": "qilin"
+            }
+        ]
+    },
+    {
         "victim": "BNZ Materials",
         "domain": "bnzmaterials.com",
         "country": "US",
@@ -55608,6 +55656,18 @@
             {
                 "date": "2025-08-11",
                 "type": "reported"
+            }
+        ]
+    },
+    {
+        "victim": "Beni Suef Technological University – BTU",
+        "domain": "btu.edu.eg",
+        "country": "EG",
+        "timeline": [
+            {
+                "date": "2026-10-06",
+                "type": "claimed",
+                "group": "UmBra"
             }
         ]
     },
@@ -70901,6 +70961,18 @@
         ]
     },
     {
+        "victim": "Ciftay Insaat Taahhut Ve Ticaret Anonim Sirketi",
+        "domain": "ciftay.com.tr",
+        "country": "TR",
+        "timeline": [
+            {
+                "date": "2026-10-06",
+                "type": "claimed",
+                "group": "qilin"
+            }
+        ]
+    },
+    {
         "victim": "CIGAM Software Corporativo Ltda",
         "domain": "cigam.com.br",
         "country": "BR",
@@ -82570,6 +82642,29 @@
         ]
     },
     {
+        "victim": "CORBY ROCK MILL",
+        "domain": "corbyrock.ie",
+        "country": "IE",
+        "timeline": [
+            {
+                "date": "2026-10-06",
+                "type": "claimed",
+                "group": "qilin"
+            },
+            {
+                "date": "2026-10-09",
+                "type": "discovered",
+                "summary": "Corby Rock Mill, une entreprise d'aliments située à Monaghan, en Irlande, a été gravement perturbée par une cyberattaque, rendant ses systèmes informatiques inopérants. Le moulin de volaille fonctionne à capacité réduite, tandis que le moulin pour ruminants est à l'arrêt. L'entreprise a refusé de confirmer la nature exacte de l'incident.",
+                "title": "Cyber attack on Corby Rock Mill hits production",
+                "url": "https://www.farmersjournal.ie/news/news/cyber-attack-on-corby-rock-mill-hits-production-935873"
+            },
+            {
+                "date": "2026-10-05",
+                "type": "reported"
+            }
+        ]
+    },
+    {
         "victim": "Cordeiro Guerra & Associati",
         "domain": "cordeiroguerra.it",
         "country": "IT",
@@ -94117,6 +94212,18 @@
             {
                 "date": "2024-05-27",
                 "type": "reported"
+            }
+        ]
+    },
+    {
+        "victim": "Delta Marine",
+        "domain": "deltamarine.com",
+        "country": "FI",
+        "timeline": [
+            {
+                "date": "2026-10-06",
+                "type": "claimed",
+                "group": "qilin"
             }
         ]
     },
@@ -107022,6 +107129,18 @@
                 "date": "2026-03-09",
                 "type": "claimed",
                 "group": "thegentlemen"
+            }
+        ]
+    },
+    {
+        "victim": "EDFelectronics",
+        "domain": "edfelectronics.com",
+        "country": "PL",
+        "timeline": [
+            {
+                "date": "2026-10-06",
+                "type": "claimed",
+                "group": "Panzer"
             }
         ]
     },
@@ -125936,6 +126055,18 @@
         ]
     },
     {
+        "victim": "Flydubai",
+        "domain": "flydubai.com",
+        "country": "AE",
+        "timeline": [
+            {
+                "date": "2026-10-06",
+                "type": "claimed",
+                "group": "everest"
+            }
+        ]
+    },
+    {
         "victim": "Frontier Airlines",
         "domain": "flyfrontier.com",
         "country": "US",
@@ -127903,6 +128034,11 @@
                 "date": "2024-01-25",
                 "type": "claimed",
                 "group": "0mega"
+            },
+            {
+                "date": "2026-10-06",
+                "type": "claimed",
+                "group": "UmBra"
             }
         ]
     },
@@ -142913,6 +143049,18 @@
                 "date": "2023-03-11",
                 "type": "claimed",
                 "group": "lockbit3"
+            }
+        ]
+    },
+    {
+        "victim": "Greggio Argento",
+        "domain": "greggio.com",
+        "country": "IT",
+        "timeline": [
+            {
+                "date": "2026-10-06",
+                "type": "claimed",
+                "group": "Deadlock"
             }
         ]
     },
@@ -161469,6 +161617,11 @@
         "country": "US",
         "timeline": [
             {
+                "date": "2026-10-06",
+                "type": "claimed",
+                "group": "akira"
+            },
+            {
                 "date": "2026-07-21",
                 "type": "assessed",
                 "group": "akira"
@@ -175384,6 +175537,18 @@
         ]
     },
     {
+        "victim": "J&D Financial",
+        "domain": "jdfinancial.com",
+        "country": "US",
+        "timeline": [
+            {
+                "date": "2026-10-06",
+                "type": "claimed",
+                "group": "qilin"
+            }
+        ]
+    },
+    {
         "victim": "JD Lighting",
         "domain": "jdlighting.com",
         "country": "US",
@@ -182524,6 +182689,18 @@
         ]
     },
     {
+        "victim": "Kennametal",
+        "domain": "kennametal.com",
+        "country": "US",
+        "timeline": [
+            {
+                "date": "2026-10-06",
+                "type": "claimed",
+                "group": "everest"
+            }
+        ]
+    },
+    {
         "victim": "Kennedy Funding",
         "domain": "kennedyfunding.com",
         "country": "US",
@@ -186864,6 +187041,18 @@
                 "date": "2025-01-23",
                 "type": "claimed",
                 "group": "fog"
+            }
+        ]
+    },
+    {
+        "victim": "KOOKABARRA JUICE",
+        "domain": "kookabarra.com",
+        "country": "AU",
+        "timeline": [
+            {
+                "date": "2026-10-06",
+                "type": "claimed",
+                "group": "Vexy Ransomware"
             }
         ]
     },
@@ -203146,7 +203335,7 @@
         ]
     },
     {
-        "victim": "Magna Legal Services",
+        "victim": "magnals.com",
         "domain": "magnals.com",
         "country": "US",
         "timeline": [
@@ -203154,6 +203343,11 @@
                 "date": "2026-09-24",
                 "type": "claimed",
                 "group": "Storm"
+            },
+            {
+                "date": "2026-10-06",
+                "type": "claimed",
+                "group": "incransom"
             }
         ]
     },
@@ -219176,6 +219370,18 @@
         ]
     },
     {
+        "victim": "Michael K Shelby, CPA",
+        "domain": "mkshelbycpa.com",
+        "country": "US",
+        "timeline": [
+            {
+                "date": "2026-10-06",
+                "type": "claimed",
+                "group": "akira"
+            }
+        ]
+    },
+    {
         "victim": "MKS Transformator",
         "domain": "mksltd.net",
         "country": "TR",
@@ -221569,6 +221775,18 @@
             {
                 "date": "2023-04-17",
                 "type": "reported"
+            }
+        ]
+    },
+    {
+        "victim": "Morcon Developments",
+        "domain": "morcon.com.au",
+        "country": "AU",
+        "timeline": [
+            {
+                "date": "2026-10-06",
+                "type": "claimed",
+                "group": "everest"
             }
         ]
     },
@@ -254564,6 +254782,18 @@
                 "date": "2024-10-21",
                 "type": "claimed",
                 "group": "fog"
+            }
+        ]
+    },
+    {
+        "victim": "Philander Smith University",
+        "domain": "philander.edu",
+        "country": "US",
+        "timeline": [
+            {
+                "date": "2026-10-06",
+                "type": "claimed",
+                "group": "EndZone"
             }
         ]
     },
@@ -313430,6 +313660,18 @@
                 "date": "2026-04-30",
                 "type": "assessed",
                 "group": "lockbit5"
+            }
+        ]
+    },
+    {
+        "victim": "SweetRush",
+        "domain": "sweetrush.com",
+        "country": "US",
+        "timeline": [
+            {
+                "date": "2026-10-06",
+                "type": "claimed",
+                "group": "Panzer"
             }
         ]
     },
