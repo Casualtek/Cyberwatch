@@ -50498,6 +50498,18 @@
         ]
     },
     {
+        "victim": "Bold Spring Nursery",
+        "domain": "boldspring.com",
+        "country": "US",
+        "timeline": [
+            {
+                "date": "2026-10-04",
+                "type": "claimed",
+                "group": "play"
+            }
+        ]
+    },
+    {
         "victim": "Bolidt",
         "domain": "bolidt.com",
         "country": "",
@@ -65872,6 +65884,18 @@
         ]
     },
     {
+        "victim": "Center State Engineering",
+        "domain": "centerstateengineering.com",
+        "country": "US",
+        "timeline": [
+            {
+                "date": "2026-10-04",
+                "type": "claimed",
+                "group": "thegentlemen"
+            }
+        ]
+    },
+    {
         "victim": "Central Arkansas Pediatrics",
         "domain": "central-pediatrics.edan.io",
         "country": "US",
@@ -67545,6 +67569,18 @@
                 "date": "2025-07-22",
                 "type": "claimed",
                 "group": "blacknevas"
+            }
+        ]
+    },
+    {
+        "victim": "Chadwick Switchboards",
+        "domain": "chadwickswitchboards.com.au",
+        "country": "AU",
+        "timeline": [
+            {
+                "date": "2026-10-04",
+                "type": "claimed",
+                "group": "qilin"
             }
         ]
     },
@@ -83602,6 +83638,18 @@
         ]
     },
     {
+        "victim": "Cotesma",
+        "domain": "cotesma.coop",
+        "country": "CL",
+        "timeline": [
+            {
+                "date": "2026-10-04",
+                "type": "claimed",
+                "group": "qilin"
+            }
+        ]
+    },
+    {
         "victim": "Cothron's Security Professionals",
         "domain": "cothrons.com",
         "country": "US",
@@ -90690,14 +90738,19 @@
         ]
     },
     {
-        "victim": "Dar Al Teb",
+        "victim": "daralteb.com",
         "domain": "daralteb.com",
-        "country": "EG",
+        "country": "IR",
         "timeline": [
             {
                 "date": "2025-04-23",
                 "type": "claimed",
                 "group": "gunra"
+            },
+            {
+                "date": "2026-10-04",
+                "type": "claimed",
+                "group": "krybit"
             },
             {
                 "date": "2025-04-07",
@@ -111192,6 +111245,18 @@
         ]
     },
     {
+        "victim": "Emser",
+        "domain": "emser.es",
+        "country": "ES",
+        "timeline": [
+            {
+                "date": "2026-10-04",
+                "type": "claimed",
+                "group": "qilin"
+            }
+        ]
+    },
+    {
         "victim": "EMSSHI.COM",
         "domain": "emsshi.com",
         "country": "",
@@ -116193,12 +116258,17 @@
         ]
     },
     {
-        "victim": "EURODITEL/RESOTELECOM",
+        "victim": "euroditel.com",
         "domain": "euroditel.com",
         "country": "FR",
         "timeline": [
             {
                 "date": "2026-10-01",
+                "type": "claimed",
+                "group": "krybit"
+            },
+            {
+                "date": "2026-10-04",
                 "type": "claimed",
                 "group": "krybit"
             }
@@ -221707,6 +221777,18 @@
         ]
     },
     {
+        "victim": "MorseLife Health System, Inc.",
+        "domain": "morselife.org",
+        "country": "US",
+        "timeline": [
+            {
+                "date": "2026-10-02",
+                "type": "claimed",
+                "group": "Booba Project"
+            }
+        ]
+    },
+    {
         "victim": "MORSEMOVING",
         "domain": "morsemoving.com",
         "country": "US",
@@ -225133,6 +225215,18 @@
         "timeline": [
             {
                 "date": "2026-01-21",
+                "type": "claimed",
+                "group": "qilin"
+            }
+        ]
+    },
+    {
+        "victim": "Mutsumi Group",
+        "domain": "mutsumi-g.co.jp",
+        "country": "JP",
+        "timeline": [
+            {
+                "date": "2026-10-04",
                 "type": "claimed",
                 "group": "qilin"
             }
@@ -229000,6 +229094,29 @@
                 "date": "2025-02-11",
                 "type": "claimed",
                 "group": "fog"
+            }
+        ]
+    },
+    {
+        "victim": "Nipigon District Memorial Hospital",
+        "domain": "ndmh.ca",
+        "country": "CA",
+        "timeline": [
+            {
+                "date": "2026-10-04",
+                "type": "claimed",
+                "group": "Storm"
+            },
+            {
+                "date": "2026-09-18",
+                "type": "discovered",
+                "summary": "L'Hôpital de Nipigon District Memorial a fait face à un incident de cybersécurité impliquant un rançongiciel (ransomware) qui a affecté ses systèmes informatiques. Des fichiers contenant des informations personnelles et de santé ont été chiffrés. L'hôpital a activé ses procédures de réponse aux incidents et travaille avec des experts externes et les forces de l'ordre. En conséquence, certains services, notamment le laboratoire externe et l'imagerie diagnostique, sont fermés et les patients peuvent connaître des délais d'attente plus longs.",
+                "title": "Nipigon hospital hit by ransomware attack",
+                "url": "https://www.snnewswatch.com/local-journalism-initiative-lji/nipigon-hospital-hit-by-ransomware-attack-12786504"
+            },
+            {
+                "date": "2026-09-16",
+                "type": "reported"
             }
         ]
     },
@@ -241983,6 +242100,18 @@
                 "date": "2023-04-26",
                 "type": "claimed",
                 "group": "ransomhouse"
+            }
+        ]
+    },
+    {
+        "victim": "OMUR HIRDAVAT LTD",
+        "domain": "omurhirdavat.com",
+        "country": "TR",
+        "timeline": [
+            {
+                "date": "2026-10-04",
+                "type": "claimed",
+                "group": "emperador"
             }
         ]
     },
@@ -295232,6 +295361,18 @@
         ]
     },
     {
+        "victim": "Silicon Valley Glass",
+        "domain": "siliconvalleyglass.com",
+        "country": "US",
+        "timeline": [
+            {
+                "date": "2026-10-04",
+                "type": "claimed",
+                "group": "play"
+            }
+        ]
+    },
+    {
         "victim": "Silipos",
         "domain": "silipos.com",
         "country": "US",
@@ -300106,6 +300247,18 @@
             {
                 "date": "2023-07-26",
                 "type": "reported"
+            }
+        ]
+    },
+    {
+        "victim": "Softruck",
+        "domain": "softruck.com",
+        "country": "BR",
+        "timeline": [
+            {
+                "date": "2026-10-04",
+                "type": "claimed",
+                "group": "direwolf"
             }
         ]
     },
@@ -311671,6 +311824,18 @@
                 "date": "2023-07-08",
                 "type": "claimed",
                 "group": "cyclops"
+            }
+        ]
+    },
+    {
+        "victim": "superpack.com.co",
+        "domain": "superpack.com.co",
+        "country": "CO",
+        "timeline": [
+            {
+                "date": "2026-10-04",
+                "type": "claimed",
+                "group": "krybit"
             }
         ]
     },
@@ -335764,6 +335929,18 @@
                 "date": "2025-09-03",
                 "type": "claimed",
                 "group": "nova"
+            }
+        ]
+    },
+    {
+        "victim": "Unident Group",
+        "domain": "unidentgroup.net",
+        "country": "US",
+        "timeline": [
+            {
+                "date": "2026-10-04",
+                "type": "claimed",
+                "group": "qilin"
             }
         ]
     },
