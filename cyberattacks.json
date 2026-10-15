@@ -1,5 +1,16 @@
 [
     {
+        "date": "2026-10-10",
+        "victim": "Seetelhotels",
+        "domain": "seetel.de",
+        "country": "DEU",
+        "summary": "Les Seetelhotels, situés sur Usedom, ont été victimes d'une cyberattaque par ransomware. L'incident a été détecté le week-end du 10 octobre 2026 et le système a été immédiatement isolé. Une enquête forensique est actuellement menée pour déterminer l'étendue de l'attaque et si des données personnelles ont été compromises. Les autorités locales enquêtent également.",
+        "description": "",
+        "title": "Cyberangriff auf Usedomer Hotelkette",
+        "url": "https://www.ndr.de/nachrichten/mecklenburg-vorpommern/vorpommern/cyberangriff-auf-usedomer-hotelkette,mvregiogreifswald-5914.html",
+        "added": "2026-10-15"
+    },
+    {
         "date": "2026-10-05",
         "victim": "Koike Sanso Kogyō",
         "domain": "koike.com",
