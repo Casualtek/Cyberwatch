@@ -1,5 +1,16 @@
 [
     {
+        "date": "2026-10-13",
+        "victim": "TNMSC",
+        "domain": "tnterminals.com",
+        "country": "FRA",
+        "summary": "Un dysfonctionnement informatique a affecté l'entreprise TNMSC sur le port du Havre, entraînant l'immobilisation de marchandises et l'arrêt des opérations de transbordement (import et export). L'incident a été détecté dans la soirée du mardi 13 octobre 2026. Bien que certains employés évoquent une cyberattaque, la nature exacte de l'incident n'a pas été confirmée.",
+        "description": "",
+        "title": "Le Havre. L'activité portuaire en partie à l'arrêt en raison d'un problème informatique",
+        "url": "https://www.tendanceouest.com/actualite-443369-le-havre-l-activite-portuaire-en-partie-a-l-arret-en-raison-d-un-probleme-informatique",
+        "added": "2026-10-15"
+    },
+    {
         "date": "2026-10-14",
         "victim": "Colmobil",
         "domain": "colmobil.at",
