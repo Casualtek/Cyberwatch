@@ -1,5 +1,16 @@
 [
     {
+        "date": "2026-10-07",
+        "victim": "JBA (Japan Basketball Association)",
+        "domain": "japanbasketball.jp",
+        "country": "JPN",
+        "summary": "L'Association Japonaise de Basketball (JBA) a été victime d'une cyberattaque par rançongiciel (ransomware) le 7 octobre 2026. L'attaque a entraîné la panne de son site officiel et des dommages aux données. Le président de la JBA a expliqué que la perte de données était critique car les sauvegardes étaient stockées sur le même cloud que les données originales, rendant la restauration impossible. Bien que les informations des fans et les données de carte de crédit n'aient pas été compromises, la JBA a mis en place un site temporaire et prévoit de lancer un nouveau site d'ici la mi-novembre ou le début décembre.",
+        "description": "",
+        "title": "랜섬웨어 공격받은 JBA, 홈페이지 먹통…국내도 경각심 가져야 한다",
+        "url": "http://www.jumpball.co.kr/news/newsview.php?ncode=1065573655634894",
+        "added": "2026-10-15"
+    },
+    {
         "date": "2026-10-11",
         "victim": "Interseguro",
         "domain": "interseguro.pe",
