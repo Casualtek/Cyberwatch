@@ -1,5 +1,16 @@
 [
     {
+        "date": "2026-10-06",
+        "victim": "Federal Motor Carrier Safety Administration (FMCSA)",
+        "domain": "fmcsa.dot.gov",
+        "country": "USA",
+        "summary": "La Federal Motor Carrier Safety Administration (FMCSA), gérée par le prestataire Censher, a été victime d'une cyberattaque qui a entraîné la perturbation temporaire de son centre d'appels et de son service en ligne Motus. Ce service est essentiel pour l'enregistrement et l'assistance des chauffeurs de camions et de véhicules lourds. Bien que l'attaque ait causé des dysfonctionnements techniques, l'agence a affirmé que ses données n'ont pas été compromises. Certains rapports suggèrent que l'attaque pourrait avoir été assistée par des technologies d'intelligence artificielle.",
+        "description": "",
+        "title": "هجوم إلكتروني يعطل مركز اتصال تابع لوزارة النقل الأمريكية | إرم نيوز",
+        "url": "https://www.eremnews.com/news/world/ynzc76l",
+        "added": "2026-10-15"
+    },
+    {
         "date": "2026-10-07",
         "victim": "JBA (Japan Basketball Association)",
         "domain": "japanbasketball.jp",
