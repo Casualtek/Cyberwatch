@@ -19815,6 +19815,18 @@
         ]
     },
     {
+        "victim": "Allied Machine & Engineering",
+        "domain": "alliedmachine.com",
+        "country": "US",
+        "timeline": [
+            {
+                "date": "2026-10-02",
+                "type": "claimed",
+                "group": "Storm"
+            }
+        ]
+    },
+    {
         "victim": "allied-mechanical-services-inc",
         "domain": "alliedmechanical.com",
         "country": "US",
@@ -36339,6 +36351,18 @@
                 "date": "2023-12-08",
                 "type": "claimed",
                 "group": "lockbit3"
+            }
+        ]
+    },
+    {
+        "victim": "Aware",
+        "domain": "aware.com",
+        "country": "US",
+        "timeline": [
+            {
+                "date": "2026-10-03",
+                "type": "claimed",
+                "group": "thegentlemen"
             }
         ]
     },
@@ -75869,12 +75893,17 @@
         ]
     },
     {
-        "victim": "The Official College of Architects of León (COAL)",
+        "victim": "The Official Collegeof Architects of León (COAL)",
         "domain": "coal.es",
         "country": "MX",
         "timeline": [
             {
                 "date": "2026-10-02",
+                "type": "claimed",
+                "group": "akira"
+            },
+            {
+                "date": "2026-10-03",
                 "type": "claimed",
                 "group": "akira"
             },
@@ -134620,6 +134649,18 @@
         ]
     },
     {
+        "victim": "Genesis Credit Management",
+        "domain": "genesiscred.com",
+        "country": "US",
+        "timeline": [
+            {
+                "date": "2026-10-03",
+                "type": "claimed",
+                "group": "qilin"
+            }
+        ]
+    },
+    {
         "victim": "GENESISENERGY.COM",
         "domain": "genesisenergy.com",
         "country": "",
@@ -135436,6 +135477,18 @@
             {
                 "date": "2024-02-02",
                 "type": "reported"
+            }
+        ]
+    },
+    {
+        "victim": "Gerrity Stone",
+        "domain": "gerritystone.com",
+        "country": "US",
+        "timeline": [
+            {
+                "date": "2026-10-03",
+                "type": "claimed",
+                "group": "thegentlemen"
             }
         ]
     },
@@ -204216,6 +204269,29 @@
         ]
     },
     {
+        "victim": "Mandurah State Emergency Service",
+        "domain": "mandurahses.org.au",
+        "country": "AU",
+        "timeline": [
+            {
+                "date": "2026-10-03",
+                "type": "claimed",
+                "group": "thegentlemen"
+            },
+            {
+                "date": "2026-10-14",
+                "type": "discovered",
+                "summary": "Le groupe de ransomware The Gentlemen a ciblé l'unité Mandurah State Emergency Service (Mandurah SES) en Australie. L'incident a été signalé le 5 octobre 2026 par les autorités de cybersécurité de l'État de Western Australia (WASOC), suite à un accès non autorisé à l'un de ses serveurs. Le serveur affecté contenait des archives historiques antérieures à 2022, ainsi que des sauvegardes et des données d'opérations. Les opérations de la Mandurah SES se poursuivent normalement, et une enquête est en cours pour déterminer l'étendue de l'incident.",
+                "title": "Exclusive: Mandurah SES confirms operations unaffected by ransomware attack",
+                "url": "https://www.cyberdaily.au/security/14294-exclusive-mandurah-ses-confirms-operations-unaffected-by-ransomware-attack"
+            },
+            {
+                "date": "2026-10-05",
+                "type": "reported"
+            }
+        ]
+    },
+    {
         "victim": "Negociado de Manejo de Emergencias (NMEAD)",
         "domain": "manejodeemergencias.pr.gov",
         "country": "PR",
@@ -236330,14 +236406,19 @@
         ]
     },
     {
-        "victim": "Novo Nordisk",
+        "victim": "Forma Therapeutics Holdings, Inc.",
         "domain": "novonordisk.com",
-        "country": "DK",
+        "country": "US",
         "timeline": [
             {
                 "date": "2026-06-16",
                 "type": "claimed",
                 "group": "fulcrumsec"
+            },
+            {
+                "date": "2026-10-03",
+                "type": "claimed",
+                "group": "nightspire"
             },
             {
                 "date": "2026-06-16",
@@ -260756,6 +260837,18 @@
         ]
     },
     {
+        "victim": "Precon Marine Inc",
+        "domain": "preconmarine.com",
+        "country": "US",
+        "timeline": [
+            {
+                "date": "2026-10-03",
+                "type": "claimed",
+                "group": "netrunner"
+            }
+        ]
+    },
+    {
         "victim": "Preferred Properties",
         "domain": "preferred.properties",
         "country": "US",
@@ -278372,6 +278465,18 @@
         ]
     },
     {
+        "victim": "Rotamac",
+        "domain": "rotamac.ca",
+        "country": "CA",
+        "timeline": [
+            {
+                "date": "2026-10-03",
+                "type": "claimed",
+                "group": "thegentlemen"
+            }
+        ]
+    },
+    {
         "victim": "Rotary Club",
         "domain": "rotary.org",
         "country": "US",
@@ -282820,6 +282925,18 @@
         ]
     },
     {
+        "victim": "World Cup 2034",
+        "domain": "samaholding.sa",
+        "country": "SA",
+        "timeline": [
+            {
+                "date": "2026-10-03",
+                "type": "claimed",
+                "group": "Wallstreet"
+            }
+        ]
+    },
+    {
         "victim": "Samart",
         "domain": "samartcorp.com",
         "country": "TH",
@@ -284113,6 +284230,18 @@
                 "date": "2026-05-01",
                 "type": "assessed",
                 "group": "lockbit5"
+            }
+        ]
+    },
+    {
+        "victim": "Hospital de la Santa Creu i Sant Pau",
+        "domain": "santpau.cat",
+        "country": "ES",
+        "timeline": [
+            {
+                "date": "2026-10-03",
+                "type": "claimed",
+                "group": "thegentlemen"
             }
         ]
     },
@@ -291208,9 +291337,9 @@
         ]
     },
     {
-        "victim": "Seven Seas",
+        "victim": "seven seas group",
         "domain": "sevenseasgroup.com",
-        "country": "",
+        "country": "AE",
         "timeline": [
             {
                 "date": "2023-12-13",
@@ -291221,6 +291350,11 @@
                 "date": "2024-03-04",
                 "type": "claimed",
                 "group": "snatch"
+            },
+            {
+                "date": "2026-10-03",
+                "type": "claimed",
+                "group": "Spirals"
             }
         ]
     },
@@ -297004,6 +297138,18 @@
         "domain": "sk1.com",
         "country": "",
         "timeline": []
+    },
+    {
+        "victim": "Skaff Group",
+        "domain": "skaffgroup.com",
+        "country": "LB",
+        "timeline": [
+            {
+                "date": "2026-10-03",
+                "type": "claimed",
+                "group": "rhysida"
+            }
+        ]
     },
     {
         "victim": "skalar.com",
@@ -306235,6 +306381,18 @@
         ]
     },
     {
+        "victim": "States Industries",
+        "domain": "statesind.com",
+        "country": "US",
+        "timeline": [
+            {
+                "date": "2026-10-02",
+                "type": "claimed",
+                "group": "Storm"
+            }
+        ]
+    },
+    {
         "victim": "Statesman Business Advisors",
         "domain": "statesmanbiz.com",
         "country": "US",
@@ -306831,6 +306989,18 @@
         ]
     },
     {
+        "victim": "Step By Step",
+        "domain": "stepbystepusa.com",
+        "country": "US",
+        "timeline": [
+            {
+                "date": "2026-10-02",
+                "type": "claimed",
+                "group": "Storm"
+            }
+        ]
+    },
+    {
         "victim": "Stephenson's Rental Services",
         "domain": "stephensons.ca",
         "country": "CA",
@@ -307230,6 +307400,18 @@
                 "date": "2026-04-04",
                 "type": "claimed",
                 "group": "thegentlemen"
+            }
+        ]
+    },
+    {
+        "victim": "St. Francis Healthcare Systems of Hawaii",
+        "domain": "stfrancishawaii.org",
+        "country": "US",
+        "timeline": [
+            {
+                "date": "2026-10-03",
+                "type": "claimed",
+                "group": "Wallstreet"
             }
         ]
     },
@@ -351463,6 +351645,18 @@
         ]
     },
     {
+        "victim": "Westrop Primary & Nursery School",
+        "domain": "westropprimaryschool.co.uk",
+        "country": "GB",
+        "timeline": [
+            {
+                "date": "2026-10-03",
+                "type": "claimed",
+                "group": "thegentlemen"
+            }
+        ]
+    },
+    {
         "victim": "Westside",
         "domain": "westside-health.org",
         "country": "",
@@ -355529,6 +355723,18 @@
             {
                 "date": "2023-04-23",
                 "type": "reported"
+            }
+        ]
+    },
+    {
+        "victim": "WOOSHIN SAFETY SYSTEMS CO LTD",
+        "domain": "wooshinsys.co.kr",
+        "country": "KR",
+        "timeline": [
+            {
+                "date": "2026-10-03",
+                "type": "claimed",
+                "group": "thegentlemen"
             }
         ]
     },
@@ -360016,6 +360222,18 @@
                 "date": "2024-12-20",
                 "type": "assessed",
                 "group": "play"
+            }
+        ]
+    },
+    {
+        "victim": "Zelham",
+        "domain": "zelham.com",
+        "country": "US",
+        "timeline": [
+            {
+                "date": "2026-10-03",
+                "type": "claimed",
+                "group": "thegentlemen"
             }
         ]
     },
