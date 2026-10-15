@@ -358054,6 +358054,18 @@
         ]
     },
     {
+        "victim": "Yarema",
+        "domain": "yarema.com",
+        "country": "US",
+        "timeline": [
+            {
+                "date": "2026-09-02",
+                "type": "assessed",
+                "group": "akira"
+            }
+        ]
+    },
+    {
         "victim": "y***o.c*m.tw",
         "domain": "yasco.com.tw",
         "country": "TW",
