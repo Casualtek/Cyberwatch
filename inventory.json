@@ -161091,6 +161091,18 @@
         ]
     },
     {
+        "victim": "Hygrade",
+        "domain": "hygradesafety.com",
+        "country": "US",
+        "timeline": [
+            {
+                "date": "2026-07-21",
+                "type": "assessed",
+                "group": "akira"
+            }
+        ]
+    },
+    {
         "victim": "hymer-alu.de",
         "domain": "hymer-alu.de",
         "country": "DE",
