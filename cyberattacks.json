@@ -1,5 +1,16 @@
 [
     {
+        "date": "2026-10-05",
+        "victim": "Koike Sanso Kogyō",
+        "domain": "koike.com",
+        "country": "JPN",
+        "summary": "Koike Sanso Kogyō a annoncé avoir été victime d'une cyberattaque, découverte le 5 octobre. L'incident a entraîné des dysfonctionnements dans certains systèmes et des perturbations opérationnelles. Des fichiers électroniques soupçonnés d'avoir été exfiltrés, incluant des informations personnelles, ont été retrouvés en ligne. L'entreprise a également signalé cet incident à la Commission de protection des informations personnelles.",
+        "description": "",
+        "title": "小池酸素工業－反落 サイバー攻撃で情報流出の疑い 一部業務に支障(トレーダーズ・ウェブ) - Yahoo!ファイナンス",
+        "url": "https://finance.yahoo.co.jp/news/detail/a1640236c47eca1fd1892ab79325a0bbff8690b7",
+        "added": "2026-10-15"
+    },
+    {
         "date": "2026-10-06",
         "victim": "Federal Motor Carrier Safety Administration (FMCSA)",
         "domain": "fmcsa.dot.gov",
