@@ -1,6 +1,17 @@
 [
     {
         "date": "2026-10-15",
+        "victim": "Heber City",
+        "domain": "heberut.gov",
+        "country": "USA",
+        "summary": "Une cyberattaque a compromis le réseau du gouvernement local de Heber City, Utah. L'incident a été rapidement contenu par l'équipe informatique de la ville, et les systèmes ont été rétablis. Aucun service essentiel n'a été suspendu. Le FBI mène actuellement une enquête forensique. La ville n'a pas identifié de rançongiciel ni de groupe responsable, et il reste inconnu si des informations municipales ont été accédées ou supprimées.",
+        "description": "",
+        "title": "Cyberattack breaches Heber City government network in Utah",
+        "url": "https://dysruptionhub.com/heber-city-utah-cyberattack/",
+        "added": "2026-10-16"
+    },
+    {
+        "date": "2026-10-15",
         "victim": "Mampf",
         "domain": "mampf1a.de",
         "country": "DEU",
