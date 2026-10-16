@@ -1,5 +1,16 @@
 [
     {
+        "date": "2026-10-13",
+        "victim": "Colegio Oficial de Médicos de Tenerife (COMTF)",
+        "domain": "medicostenerife.es",
+        "country": "ESP",
+        "summary": "Le Colegio Oficial de Médicos de Tenerife (COMTF) a été victime d'une cyberattaque le 13 octobre 2026. L'entité a déconnecté son réseau pour stopper l'accès non autorisé et analyser l'incident. Bien qu'une note reçue par les équipes suggère que des données ont été chiffrées et volées, le COMTF n'a pas encore détecté de fuite de données. L'entité a signalé l'incident aux autorités espagnoles compétentes.",
+        "description": "",
+        "title": "El Colegio de Médicos de Tenerife sufre un ciberataque y analiza un posible robo de datos",
+        "url": "https://www.atlanticohoy.com/tenerife/colegio-medicos-tenerife-sufre-ciberataque-analiza-posible-robo-datos_1568532_102.html",
+        "added": "2026-10-16"
+    },
+    {
         "date": "2026-10-09",
         "victim": "Bernalillo",
         "domain": "tobnm.gov",
