@@ -1,5 +1,16 @@
 [
     {
+        "date": "2026-10-16",
+        "victim": "Depozitarul Central",
+        "domain": "depozitarulcentral.ro",
+        "country": "ROU",
+        "summary": "Le Depozitarul Central, une entité du groupe de la Bourse de Valeurs de Bucarest, a été victime d'une cyberattaque. Cette intrusion a permis l'accès aux données personnelles des utilisateurs, incluant les noms, adresses, numéros de CNP (Cod Numeric Personal), numéros de carte d'identité, adresses e-mail, numéros de téléphone et codes IBAN. L'application d'inscription des investisseurs est temporairement indisponible. L'institution a notifié le DNSC et a émis des recommandations de sécurité aux utilisateurs pour prévenir les tentatives de fraude et d'ingénierie sociale.",
+        "description": "",
+        "title": "Atac cibernetic la Depozitarul Central. CNP-uri și coduri IBAN, printre datele personale accesate",
+        "url": "https://m.ziare.com/amp/depozitar-central/atac-cibernetic-2041803",
+        "added": "2026-10-16"
+    },
+    {
         "date": "2026-10-13",
         "victim": "Colegio Oficial de Médicos de Tenerife (COMTF)",
         "domain": "medicostenerife.es",
