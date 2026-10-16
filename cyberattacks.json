@@ -1,5 +1,16 @@
 [
     {
+        "date": "2026-10-09",
+        "victim": "Bernalillo",
+        "domain": "tobnm.gov",
+        "country": "USA",
+        "summary": "La ville de Bernalillo, au Nouveau-Mexique, a été victime d'une cyberattaque qui a bloqué les paiements en ligne des factures d'eau et forcé la fermeture du bureau des véhicules à moteur. Les autorités locales ont contacté le FBI et des spécialistes en cybersécurité pour rétablir les services. L'incident a été initialement signalé comme une panne de réseau le vendredi précédent.",
+        "description": "",
+        "title": "Cyberattack blocks payments, closes motor vehicle office in Bernalillo, New Mexico",
+        "url": "https://dysruptionhub.com/bernalillo-new-mexico-cyberattack/",
+        "added": "2026-10-16"
+    },
+    {
         "date": "2026-10-13",
         "victim": "Clinique vétérinaire Voltaire",
         "domain": "veterinairevoltaire.com",
