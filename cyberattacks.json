@@ -1,5 +1,16 @@
 [
     {
+        "date": "2026-10-14",
+        "victim": "Fukuda Hospital",
+        "domain": "fukuda-hp.or.jp",
+        "country": "JPN",
+        "summary": "Une cyberattaque généralisée affectant les cliniques obstétricales de Kumamoto a entraîné l'arrêt du système de réservation de l'Hôpital Fukuda. L'établissement a été notifié d'un possible accès non autorisé le 14 octobre. Bien que les consultations médicales ne soient pas impactées, l'incident perturbe la gestion des rendez-vous et des files d'attente, forçant l'utilisation de méthodes manuelles.",
+        "description": "",
+        "title": "全国的なサイバー攻撃 熊本市の産婦人科で予約システムに影響 同じ運営会社のシステムは他の医療機関でも使用（ＫＫＴ熊本県民テレビ） - Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/articles/c51ead2c0a07b2d6b21c680791456e087a11f543",
+        "added": "2026-10-16"
+    },
+    {
         "date": "2026-10-16",
         "victim": "Depozitarul Central",
         "domain": "depozitarulcentral.ro",
