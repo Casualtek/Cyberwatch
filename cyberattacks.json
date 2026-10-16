@@ -1,5 +1,16 @@
 [
     {
+        "date": "2026-04-06",
+        "victim": "Lycée Jean-Moulin de Béziers",
+        "domain": "jean-moulin-beziers.mon-ent-occitanie.fr",
+        "country": "FRA",
+        "summary": "Le Lycée Jean-Moulin de Béziers a été victime d'une cyberattaque par ransomware en avril 2026. Le groupe cybercriminel russe Medusa a exploité la vétusté de 700 ordinateurs sous Windows 7 pour crypter les fichiers de plus de 1285 postes pédagogiques. Bien qu'aucune rançon n'ait été demandée et qu'aucune donnée sensible n'ait été volée, l'incident a paralysé l'établissement et nécessité une mobilisation massive du personnel et de la Région Occitanie.",
+        "description": "",
+        "title": "\"Ils ne nous ont pas choisis au hasard\" : comment le lycée Jean-Moulin de Béziers a été visé par une vaste cyberattaque de la part d’un groupe russe",
+        "url": "https://www.midilibre.fr/2026/10/16/ils-ne-nous-ont-pas-choisis-au-hasard-comment-le-lycee-jean-moulin-de-beziers-a-ete-vise-par-une-vaste-cyberattaque-de-la-part-dun-groupe-russe-13603574.php",
+        "added": "2026-10-16"
+    },
+    {
         "date": "2026-09-15",
         "victim": "Sangre de Cristo Electric Association (SDCEA)",
         "domain": "myelectric.coop",
