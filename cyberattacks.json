@@ -1,5 +1,16 @@
 [
     {
+        "date": "2026-10-14",
+        "victim": "Southville Primary School",
+        "domain": "southville.bristol.sch.uk",
+        "country": "GBR",
+        "summary": "Un conseil municipal a confirmé qu'une cyberattaque ciblée a touché l'école primaire Southville. Les dossiers du système d'information de gestion de l'école ont été exportés lors de l'attaque. Bien que cet incident soit distinct d'une cyberattaque antérieure contre le réseau informatique des écoles, le conseil soupçonne que les mêmes criminels sont à l'origine de l'attaque. Une enquête est en cours avec des experts en cybersécurité et l'Information Commissioner's Office (ICO).",
+        "description": "",
+        "title": "Southville Primary school in Bristol hit by targeted cyber-attack",
+        "url": "https://www.bbc.com/news/articles/cwe8r2p98vleo",
+        "added": "2026-10-16"
+    },
+    {
         "date": "2026-04-06",
         "victim": "Lycée Jean-Moulin de Béziers",
         "domain": "jean-moulin-beziers.mon-ent-occitanie.fr",
