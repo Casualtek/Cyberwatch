@@ -1,5 +1,16 @@
 [
     {
+        "date": "2026-10-13",
+        "victim": "Clinique vétérinaire Voltaire",
+        "domain": "veterinairevoltaire.com",
+        "country": "FRA",
+        "summary": "La Clinique vétérinaire Voltaire de Dijon est confrontée à une cyberattaque depuis le 13 octobre 2026, entraînant l'indisponibilité de son site web et de la prise de rendez-vous en ligne. L'établissement opère avec des services numériques dégradés et redirige ses clients vers le secrétariat téléphonique. À ce stade, aucune fuite de données, rançongiciel ou revendication d'un groupe cybercriminel n'a été confirmée, et l'origine exacte de l'attaque reste inconnue.",
+        "description": "",
+        "title": "La clinique vétérinaire Voltaire à Dijon victime d’une cyberattaque",
+        "url": "https://www.cyberattaque.org/la-clinique-veterinaire-voltaire-a-dijon-victime-dune-cyberattaque/",
+        "added": "2026-10-16"
+    },
+    {
         "date": "2026-10-15",
         "victim": "Maruki Ikashikai",
         "domain": "maruki-ms.co.jp",
