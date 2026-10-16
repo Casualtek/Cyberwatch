@@ -1,5 +1,16 @@
 [
     {
+        "date": "2026-09-15",
+        "victim": "Sangre de Cristo Electric Association (SDCEA)",
+        "domain": "myelectric.coop",
+        "country": "USA",
+        "summary": "Sangre de Cristo Electric Association (SDCEA) a confirmé qu'une organisation cybercriminelle a obtenu un accès non autorisé à son réseau informatique en septembre 2026. Cet accès a permis aux attaquants d'accéder à un serveur contenant des fichiers internes. Bien que l'entreprise affirme que les informations financières des membres ne sont pas stockées sur le réseau compromis, l'incident a provoqué la perturbation temporaire des services de paiement des factures et des services téléphoniques. SDCEA a renforcé ses mesures de sécurité et a avertit les membres de rester vigilants face aux tentatives de fraude.",
+        "description": "",
+        "title": "SDCEA: Cybercriminal organization gained access to IT network",
+        "url": "https://www.chaffeecountytimes.com/news/sdcea-cybercriminal-organization-gained-access-to-it-network/article_f503d7e0-c1b3-48b5-a544-ccf92965510d.html",
+        "added": "2026-10-16"
+    },
+    {
         "date": "2026-10-09",
         "victim": "Tribunaux de faillite fédéraux américains",
         "domain": "fjc.gov",
