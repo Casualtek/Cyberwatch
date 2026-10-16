@@ -1,5 +1,16 @@
 [
     {
+        "date": "2026-10-09",
+        "victim": "Tribunaux de faillite fédéraux américains",
+        "domain": "fjc.gov",
+        "country": "USA",
+        "summary": "Un incident de cybersécurité a perturbé la production et la distribution des avis des tribunaux de faillite fédéraux américains à l'échelle nationale. L'incident, qui a débuté le 9 octobre, a retardé les communications aux créanciers et affecté les avis électroniques et papier. Le centre de notification des faillites, opéré par BAE Systems, est à l'origine de la perturbation. Les tribunaux continuent de traiter les dossiers, mais des retards sont à prévoir dans la livraison des ordres et des notifications.",
+        "description": "",
+        "title": "Cyber incident halts U.S. bankruptcy court notices nationwide",
+        "url": "https://dysruptionhub.com/bankruptcy-court-notices-cyber-incident/",
+        "added": "2026-10-16"
+    },
+    {
         "date": "2026-10-15",
         "victim": "Heber City",
         "domain": "heberut.gov",
