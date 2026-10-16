@@ -1,5 +1,16 @@
 [
     {
+        "date": "2026-10-15",
+        "victim": "Maruki Ikashikai",
+        "domain": "maruki-ms.co.jp",
+        "country": "JPN",
+        "summary": "Maruki Ikashikai, un fournisseur de matériel médical basé à Sendai, au Japon, a annoncé le 15 octobre 2026 que son système central de gestion des commandes, des achats et des stocks a été complètement paralysé suite à une cyberattaque survenue vers 10h00. Cet incident a entraîné l'arrêt des opérations normales de réception de commandes et d'expédition, provoquant des retards de livraison. L'entreprise a mis en place une mesure temporaire en acceptant les commandes par fax et travaille avec des experts externes pour identifier la cause et rétablir le système, sans avoir encore communiqué de calendrier de récupération.",
+        "description": "",
+        "title": "丸木医科器械にサイバー攻撃、医療機器の受注・出荷を停止―基幹システム全面ダウン、FAXで代替受付|セキュリティニュースのセキュリティ対策Lab",
+        "url": "https://rocket-boys.co.jp/security-measures-lab/maruki-medical-cyberattack-order-shipping-suspension-20261015/",
+        "added": "2026-10-16"
+    },
+    {
         "date": "2026-10-14",
         "victim": "Southville Primary School",
         "domain": "southville.bristol.sch.uk",
