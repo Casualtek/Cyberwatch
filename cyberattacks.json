@@ -1,5 +1,16 @@
 [
     {
+        "date": "2025-10-11",
+        "victim": "Mino Group",
+        "domain": "mino-in.co.jp",
+        "country": "JPN",
+        "summary": "Le groupe Mino, un fabricant de machines au Japon, a été victime d'une cyberattaque par rançongiciel. L'incident a été découvert en octobre 2025, lorsque des employés ont trouvé des documents de menace sur les serveurs internes. Les données de production, les informations financières et les manuels opérationnels ont été cryptés. La cause principale de la compromission a été un compte utilisateur oublié (« compte zombie ») créé avec un mot de passe simple. La société a refusé de payer la rançon demandée (environ 30 milliards de yens) et a mis en place des mesures de sécurité renforcées, notamment la réinitialisation des mots de passe de tous les employés. L'attaque a été revendiquée par Safepay le 24 octobre 2025.",
+        "description": "",
+        "title": "消し忘れていた“たった1つのアカウント”が原因だった…サイバー攻撃の被害に遭った会社が明かす 要求された身代金は約300億円（CBCテレビ） - Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/articles/62a799793b9faa9be6c09f65d552f49280a64910",
+        "added": "2026-10-19"
+    },
+    {
         "date": "2026-10-19",
         "victim": "Societatea Națională de Radiocomunicații S.A. (SNR)",
         "domain": "radiocom.ro",
