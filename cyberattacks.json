@@ -1,5 +1,16 @@
 [
     {
+        "date": "2026-10-19",
+        "victim": "Societatea Națională de Radiocomunicații S.A. (SNR)",
+        "domain": "radiocom.ro",
+        "country": "ROU",
+        "summary": "La Societatea Națională de Radiocomunicații S.A. (SNR) a détecté un incident de cybersécurité de type ransomware le 19 octobre 2026. L'incident est actuellement sous investigation par le Directorat Național de Securitate Cibernetică (DNSC). Des mesures de limitation ont été prises, notamment la suspension préventive du service de messagerie. Les services clients continuent de fonctionner, et aucune donnée n'a été confirmée comme compromise à ce jour.",
+        "description": "",
+        "title": "Incident de securitate cibernetică la Societatea Națională de Radiocomunicații S.A. (SNR) București",
+        "url": "https://curierulnational.ro/incident-de-securitate-cibernetica-la-societatea-nationala-de-radiocomunicatii-s-a-snr-bucuresti/",
+        "added": "2026-10-19"
+    },
+    {
         "date": "2026-10-17",
         "victim": "Jerome School District",
         "domain": "jeromeschools.org",
