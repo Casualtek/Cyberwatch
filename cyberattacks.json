@@ -1,5 +1,16 @@
 [
     {
+        "date": "2026-10-18",
+        "victim": "Loxone",
+        "domain": "loxone.com",
+        "country": "AUT",
+        "summary": "Loxone, une entreprise autrichienne de technologie pour l'automatisation de bâtiments, a confirmé avoir été victime d'une cyberattaque sur ses systèmes internes le 18 octobre 2026. L'attaque semble être de type rançongiciel (ransomware), avec des menaces de publication de données exfiltrées (environ 201,6 Go). Bien que les systèmes d'automatisation principaux (Miniserver, Remote Connect) ne semblent pas affectés, le groupe travaille avec des experts en cybersécurité pour isoler les systèmes compromis et mener une analyse forensique.",
+        "description": "",
+        "title": "Sicherheitsvorfall bei Loxone (18. Okt. 2026)",
+        "url": "https://borncity.com/blog/2026/10/19/sicherheitsvorfall-bei-loxone/",
+        "added": "2026-10-19"
+    },
+    {
         "date": "2026-10-17",
         "victim": "Municipalité d'Ovar",
         "domain": "cm-ovar.pt",
