@@ -1,5 +1,16 @@
 [
     {
+        "date": "2026-09-18",
+        "victim": "The Japan Times Group",
+        "domain": "japantimes.co.jp",
+        "country": "JPN",
+        "summary": "Le groupe The Japan Times a été victime d'une cyberattaque par rançongiciel (ransomware) et d'un accès non autorisé. L'incident a été confirmé le 18 septembre 2026. La cible était un serveur de fichiers administratif utilisé jusqu'en août 2022. Les données potentiellement compromises incluent des informations sur le personnel et les partenaires datant de 2001 à août 2022. Les services numériques (édition en ligne, bases de données) sont maintenus sur une infrastructure indépendante et n'ont pas été affectés. La cyberattaque a été revendiquée par Eclipse le 30 septembre.",
+        "description": "",
+        "title": "ジャパンタイムズにランサムウェア攻撃、窃取を主張するデータの公開を確認 2022年まで使ったサーバーが対象",
+        "url": "https://innovatopia.jp/cyber-security/cyber-security-news/119017/",
+        "added": "2026-10-19"
+    },
+    {
         "date": "2026-10-18",
         "victim": "Loxone",
         "domain": "loxone.com",
