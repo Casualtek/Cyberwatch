@@ -1,5 +1,16 @@
 [
     {
+        "date": "2026-10-17",
+        "victim": "Jerome School District",
+        "domain": "jeromeschools.org",
+        "country": "USA",
+        "summary": "Le district scolaire de Jerome, situé dans l'Idaho, a été victime d'une cyberattaque qui a mis ses réseaux hors service samedi. Suite à cet incident, les cours ont été annulés le lundi. Les autorités locales et des agences fédérales enquêtent sur l'attaque, mais l'attaquant n'a pas été identifié et la nature exacte de l'incident (ransomware ou accès aux données) reste inconnue.",
+        "description": "",
+        "title": "Cyberattack forces Jerome School District in Idaho to cancel classes",
+        "url": "https://dysruptionhub.com/jerome-idaho-school-district-cyberattack/",
+        "added": "2026-10-19"
+    },
+    {
         "date": "2026-09-18",
         "victim": "The Japan Times Group",
         "domain": "japantimes.co.jp",
