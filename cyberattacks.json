@@ -1,5 +1,16 @@
 [
     {
+        "date": "2026-10-16",
+        "victim": "Bullhorn",
+        "domain": "bullhorn.com",
+        "country": "USA",
+        "summary": "La société américaine de logiciels de recrutement Bullhorn a dû désactiver l'accès à sa plateforme suite à une cyberattaque ayant provoqué une panne généralisée. L'incident, dont les premiers signes ont été observés le vendredi 16 octobre 2026, a été contenu par l'entreprise qui a isolé la menace et lancé une enquête forensique. À ce jour, il n'a pas été déterminé si des données clients ont été exfiltrées.",
+        "description": "",
+        "title": "Bullhorn takes staffing platform offline to contain cyberattack",
+        "url": "https://www.bleepingcomputer.com/news/security/bullhorn-takes-staffing-platform-offline-to-contain-cyberattack/",
+        "added": "2026-10-20"
+    },
+    {
         "date": "2026-10-17",
         "victim": "Community Medical Center de Falls City",
         "domain": "cmcfc.org",
