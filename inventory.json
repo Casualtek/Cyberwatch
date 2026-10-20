@@ -155461,6 +155461,18 @@
         ]
     },
     {
+        "victim": "hiqbio.com",
+        "domain": "hiqbio.com",
+        "country": "TW",
+        "timeline": [
+            {
+                "date": "2026-10-02",
+                "type": "assessed",
+                "group": "safepay"
+            }
+        ]
+    },
+    {
         "victim": "hirebus.com",
         "domain": "hirebus.com",
         "country": "US",
@@ -174777,6 +174789,17 @@
                 "date": "2026-09-30",
                 "type": "claimed",
                 "group": "Eclipse"
+            },
+            {
+                "date": "2026-10-19",
+                "type": "discovered",
+                "summary": "Le groupe The Japan Times a été victime d'une cyberattaque par rançongiciel (ransomware) et d'un accès non autorisé. L'incident a été confirmé le 18 septembre 2026. La cible était un serveur de fichiers administratif utilisé jusqu'en août 2022. Les données potentiellement compromises incluent des informations sur le personnel et les partenaires datant de 2001 à août 2022. Les services numériques (édition en ligne, bases de données) sont maintenus sur une infrastructure indépendante et n'ont pas été affectés. La cyberattaque a été revendiquée par Eclipse le 30 septembre.",
+                "title": "ジャパンタイムズにランサムウェア攻撃、窃取を主張するデータの公開を確認 2022年まで使ったサーバーが対象",
+                "url": "https://innovatopia.jp/cyber-security/cyber-security-news/119017/"
+            },
+            {
+                "date": "2026-09-18",
+                "type": "reported"
             }
         ]
     },
@@ -218439,6 +218462,17 @@
                 "date": "2025-10-24",
                 "type": "claimed",
                 "group": "safepay"
+            },
+            {
+                "date": "2026-10-19",
+                "type": "discovered",
+                "summary": "Le groupe Mino, un fabricant de machines au Japon, a été victime d'une cyberattaque par rançongiciel. L'incident a été découvert en octobre 2025, lorsque des employés ont trouvé des documents de menace sur les serveurs internes. Les données de production, les informations financières et les manuels opérationnels ont été cryptés. La cause principale de la compromission a été un compte utilisateur oublié (« compte zombie ») créé avec un mot de passe simple. La société a refusé de payer la rançon demandée (environ 30 milliards de yens) et a mis en place des mesures de sécurité renforcées, notamment la réinitialisation des mots de passe de tous les employés. L'attaque a été revendiquée par Safepay le 24 octobre 2025.",
+                "title": "消し忘れていた“たった1つのアカウント”が原因だった…サイバー攻撃の被害に遭った会社が明かす 要求された身代金は約300億円（CBCテレビ） - Yahoo!ニュース",
+                "url": "https://news.yahoo.co.jp/articles/62a799793b9faa9be6c09f65d552f49280a64910"
+            },
+            {
+                "date": "2025-10-11",
+                "type": "reported"
             }
         ]
     },
@@ -226152,6 +226186,17 @@
                 "date": "2026-10-01",
                 "type": "claimed",
                 "group": "incransom"
+            },
+            {
+                "date": "2026-10-16",
+                "type": "discovered",
+                "summary": "Sangre de Cristo Electric Association (SDCEA) a confirmé qu'une organisation cybercriminelle a obtenu un accès non autorisé à son réseau informatique en septembre 2026. Cet accès a permis aux attaquants d'accéder à un serveur contenant des fichiers internes. Bien que l'entreprise affirme que les informations financières des membres ne sont pas stockées sur le réseau compromis, l'incident a provoqué la perturbation temporaire des services de paiement des factures et des services téléphoniques. SDCEA a renforcé ses mesures de sécurité et a avertit les membres de rester vigilants face aux tentatives de fraude.",
+                "title": "SDCEA: Cybercriminal organization gained access to IT network",
+                "url": "https://www.chaffeecountytimes.com/news/sdcea-cybercriminal-organization-gained-access-to-it-network/article_f503d7e0-c1b3-48b5-a544-ccf92965510d.html"
+            },
+            {
+                "date": "2026-09-15",
+                "type": "reported"
             }
         ]
     },
