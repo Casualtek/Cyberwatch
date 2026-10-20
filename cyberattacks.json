@@ -1,5 +1,16 @@
 [
     {
+        "date": "2022-07-18",
+        "victim": "Eglo",
+        "domain": "eglo.com",
+        "country": "AUT",
+        "summary": "Dans la nuit du 18 juillet 2022, le fabricant tyrolien de luminaires Eglo, basé à Pill, a été frappé par une attaque ransomware déclenchée par un groupe ayant acheté sur le darknet un mot de passe Citrix volé ; l'assaillant était en réalité entré dans le réseau dès fin juin et avait silencieusement acquis des droits d'administrateur dans 35 sites à travers le monde.",
+        "description": "",
+        "title": "Unter Beschuss: Zwei Tiroler Firmen nach dem Cyberangriff",
+        "url": "https://www.top.tirol/news/unter-beschuss-zwei-tiroler-firmen-nach-dem-cyberangriff",
+        "added": "2026-10-20"
+    },
+    {
         "date": "2026-10-16",
         "victim": "Bullhorn",
         "domain": "bullhorn.com",
