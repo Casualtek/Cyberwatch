@@ -1,5 +1,16 @@
 [
     {
+        "date": "2026-10-17",
+        "victim": "Community Medical Center de Falls City",
+        "domain": "cmcfc.org",
+        "country": "USA",
+        "summary": "Le Community Medical Center (CMC) de Falls City a été attaqué par le Groupe Qilin, le week-end du 17-18 octobre 2026. L'attaque a permis d'accéder à certaines parties du réseau informatique et a causé des dommages aux fichiers commerciaux. Le système a été verrouillé, entraînant des perturbations majeures des services hospitaliers, des retards de rendez-vous et des difficultés pour les services d'ambulance. Bien que l'information des patients ne semble pas avoir été compromise, le CMC déploie un nouveau réseau informatique pour sécuriser l'établissement.",
+        "description": "",
+        "title": "CMC in Falls City targeted by Cyber Attack",
+        "url": "https://mscnews.net/local-news/936628",
+        "added": "2026-10-20"
+    },
+    {
         "date": "2026-10-13",
         "victim": "Toho Holdings (via Entouch)",
         "domain": "tohohd.co.jp",
