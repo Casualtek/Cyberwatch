@@ -1,5 +1,16 @@
 [
     {
+        "date": "2026-10-02",
+        "victim": "Institute of American Indian Arts (IAIA)",
+        "domain": "iaia.edu",
+        "country": "USA",
+        "summary": "L'Institute of American Indian Arts (IAIA) a été perturbé par un incident présumé de cybersécurité, entraînant une fermeture d'urgence du campus le 8 octobre. Les problèmes de réseau, qui ont débuté le 2 octobre, ont rendu les outils numériques et la plateforme d'apprentissage Canvas indisponibles. Bien qu'une allégation de logiciel malveillant ait circulé, la cause exacte n'a pas été confirmée par l'établissement. La récupération a nécessité la restauration d'une sauvegarde de septembre, soulevant la possibilité de perte de fichiers.",
+        "description": "",
+        "title": "Suspected cyber incident disrupts teaching at New Mexico’s Institute of American Indian Arts",
+        "url": "https://dysruptionhub.com/iaia-new-mexico-suspected-cyber-disruption/",
+        "added": "2026-10-20"
+    },
+    {
         "date": "2026-10-10",
         "victim": "CUSI",
         "domain": "cusi.com",
