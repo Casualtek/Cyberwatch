@@ -1,5 +1,16 @@
 [
     {
+        "date": "2026-10-12",
+        "victim": "Colorado County",
+        "domain": "colorado.tx.us",
+        "country": "USA",
+        "summary": "Le comté de Colorado, au Texas, a signalé une perturbation de ses systèmes gouvernementaux et des risques pour les services essentiels, y compris la sécurité publique. Bien qu'une liste de rançongiciel NightSpire ait été enregistrée le 14 octobre, le lien avec la perturbation du comté n'est pas confirmé. Les autorités ont émis des avis d'urgence les 13 et 15 octobre pour faire face à une menace imminente, mais n'ont pas encore divulgué la cause de la perturbation ou si des données ont été compromises.",
+        "description": "",
+        "title": "Ransomware claim emerges as disruption threatens Colorado County, Texas, services",
+        "url": "https://dysruptionhub.com/colorado-county-texas-systems-disruption/",
+        "added": "2026-10-20"
+    },
+    {
         "date": "2025-10-11",
         "victim": "Mino Group",
         "domain": "mino-in.co.jp",
