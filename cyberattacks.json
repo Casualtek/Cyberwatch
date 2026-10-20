@@ -1,5 +1,16 @@
 [
     {
+        "date": "2026-10-13",
+        "victim": "Toho Holdings (via Entouch)",
+        "domain": "tohohd.co.jp",
+        "country": "JPN",
+        "summary": "Toho Holdings a annoncé qu'une cyberattaque par ransomware a compromis la base de données de sa filiale Entouch. L'incident a été découvert le 13 octobre 2026. Les données compromises incluent les noms et affiliations des professionnels de la santé, les coordonnées, les noms de sociétés pharmaceutiques et les informations relatives aux rendez-vous. Bien que l'étendue exacte des données volées soit toujours en cours d'enquête, l'entreprise affirme que les autres systèmes du groupe n'ont pas été affectés.",
+        "description": "",
+        "title": "東邦HD子会社エンタッチにランサムウェア攻撃、医療従事者や面談予約情報の漏えいを確認|セキュリティニュースのセキュリティ対策Lab",
+        "url": "https://rocket-boys.co.jp/security-measures-lab/entouch_tohohd_ransomware_data_leak_20261019/",
+        "added": "2026-10-20"
+    },
+    {
         "date": "2026-10-02",
         "victim": "Institute of American Indian Arts (IAIA)",
         "domain": "iaia.edu",
