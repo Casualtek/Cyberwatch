@@ -1,5 +1,16 @@
 [
     {
+        "date": "2025-10-05",
+        "victim": "Localmind",
+        "domain": "localmind.ai",
+        "country": "AUT",
+        "summary": "Dans la nuit du 5 octobre 2025, soit à peine un an et demi après sa création, la jeune start-up d'IA innsbruckoise Localmind — qui fait alors confiance à plus de 150 entreprises et institutions — est frappée par une intrusion repérée à 5 h 43, alors que le CTO est à Vienne, que l'employee responsable de l'infrastructure venait de partir et que les autres cadres clés étaient indisponibles ; le point d'entrée était une instance bêta accessible de l'extérieur accordant automatiquement des droits d'administrateur, couplée à un système d'automatisation tiers où toutes les clés d'accès pouvaient être lues à cause d'une erreur logicielle, tandis que le fournisseur n'avait jamais communiqué son avertissement de sécurité.",
+        "description": "",
+        "title": "Unter Beschuss: Zwei Tiroler Firmen nach dem Cyberangriff",
+        "url": "https://www.top.tirol/news/unter-beschuss-zwei-tiroler-firmen-nach-dem-cyberangriff",
+        "added": "2026-10-20"
+    },
+    {
         "date": "2022-07-18",
         "victim": "Eglo",
         "domain": "eglo.com",
