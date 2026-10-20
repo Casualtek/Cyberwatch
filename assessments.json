@@ -1,5 +1,12 @@
 [
   {
+    "victim": "hiqbio.com",
+    "domain": "hiqbio.com",
+    "country": "TW",
+    "date": "2026-10-02",
+    "group": "safepay"
+  },
+  {
     "victim": "Yarema",
     "domain": "yarema.com",
     "country": "US",
@@ -119,7 +126,7 @@
     "group": "akira"
   },
   {
-    "victim": "The Official College of Architects of León (COAL)",
+    "victim": "The Official Collegeof Architects of León (COAL)",
     "domain": "coal.es",
     "country": "MX",
     "date": "2026-09-22",
@@ -14819,9 +14826,9 @@
     "group": "incransom"
   },
   {
-    "victim": "Dar Al Teb",
+    "victim": "daralteb.com",
     "domain": "daralteb.com",
-    "country": "EG",
+    "country": "IR",
     "date": "2025-04-07",
     "group": "gunra"
   },
