@@ -1,5 +1,16 @@
 [
     {
+        "date": "2026-10-20",
+        "victim": "Ville de Columbia",
+        "domain": "columbiasc.gov",
+        "country": "USA",
+        "summary": "Un incident de sécurité réseau a perturbé les services en ligne de la ville de Columbia, en Caroline du Sud. Les services d'urgence, l'eau et les paiements en ligne sont restés opérationnels. Les perturbations ont affecté les demandes de services, les licences commerciales et les permis. Les autorités enquêtent, mais aucune compromission de données ou attribution d'attaquant n'a été confirmée.",
+        "description": "",
+        "title": "Network security incident disrupts Columbia’s online services in South Carolina",
+        "url": "https://dysruptionhub.com/columbia-south-carolina-security-outage/",
+        "added": "2026-10-22"
+    },
+    {
         "date": "2026-07-11",
         "victim": "Borough de Petersburg",
         "domain": "petersburgak.gov",
