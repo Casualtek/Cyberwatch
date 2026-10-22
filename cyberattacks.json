@@ -1,6 +1,17 @@
 [
     {
         "date": "2026-10-21",
+        "victim": "COMAPA Victoria",
+        "domain": "comapavictoria.gob.mx",
+        "country": "MEX",
+        "summary": "COMAPA Victoria a été victime d'une tentative de cyberattaque par rançongiciel (ransomware). Les cybercriminels cherchaient à extorquer une rançon en bloquant les fichiers de l'organisme. Grâce à des sauvegardes à jour, l'institution a réussi à restaurer toutes les données sans effectuer de paiement. COMAPA a assuré que les données personnelles et bancaires des utilisateurs n'ont pas été compromises, car l'organisme ne stocke pas ces informations sensibles.",
+        "description": "",
+        "title": "COMAPA en Ciudad Victoria, Tamaulipas, refuerza su seguridad digital tras ciberataque",
+        "url": "https://voxpopulinoticias.com.mx/2026/10/comapa-en-ciudad-victoria-tamaulipas-refuerza-su-seguridad-digital-tras-ciberataque/",
+        "added": "2026-10-22"
+    },
+    {
+        "date": "2026-10-21",
         "victim": "Richmond Public Schools",
         "domain": "rvaschools.net",
         "country": "USA",
