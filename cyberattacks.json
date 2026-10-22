@@ -1,6 +1,17 @@
 [
     {
         "date": "2026-10-22",
+        "victim": "Cutlers Hill Surgery",
+        "domain": "cutlershillsurgery.co.uk",
+        "country": "GBR",
+        "summary": "Cutlers Hill Surgery, une clinique médicale à Halesworth, a signalé un incident de cybersécurité affectant ses systèmes de commande de médicaments. Cet incident pourrait entraîner des retards dans la réception de certains traitements, obligeant la clinique à explorer des fournisseurs alternatifs pour minimiser les perturbations.",
+        "description": "",
+        "title": "Medication delays warning as 'cyber incident' hits GP dispensary systems",
+        "url": "https://www.edp24.co.uk/news/26661030.halesworth-surgery-warns-delays-cyber-incident/",
+        "added": "2026-10-22"
+    },
+    {
+        "date": "2026-10-22",
         "victim": "Quest Diagnostics",
         "domain": "questdiagnostics.com",
         "country": "USA",
