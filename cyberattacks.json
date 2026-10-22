@@ -1,5 +1,16 @@
 [
     {
+        "date": "2026-10-21",
+        "victim": "TAKKT AG",
+        "domain": "takkt.de",
+        "country": "DEU",
+        "summary": "TAKKT AG a été victime d'une cyberattaque ciblant des parties de ses systèmes informatiques. Les divisions Industrial & Packaging en Europe et Foodservices en Amérique du Nord sont affectées, entraînant des restrictions significatives sur le traitement des commandes, le service client et les livraisons. L'entreprise a immédiatement mis en œuvre son plan d'urgence et travaille avec des experts en cybersécurité et en forensique informatique pour rétablir le fonctionnement normal.",
+        "description": "",
+        "title": "EQS-Adhoc: TAKKT AG: Cyberangriff bei TAKKT AG (deutsch)",
+        "url": "https://www.boerse-online.de/dpa-afx/eqs-adhoc-takkt-ag-cyberangriff-bei-takkt-ag-deutsch-559914.html",
+        "added": "2026-10-22"
+    },
+    {
         "date": "2026-10-20",
         "victim": "Administration du district d'Oberspreewald-Lausitz",
         "domain": "osl-online.de",
