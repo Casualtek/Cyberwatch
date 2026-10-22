@@ -1,5 +1,16 @@
 [
     {
+        "date": "2026-07-11",
+        "victim": "Borough de Petersburg",
+        "domain": "petersburgak.gov",
+        "country": "USA (États-Unis)",
+        "summary": "Le Borough de Petersburg, en Alaska, a révélé avoir été victime d'une cyberattaque par ransomware le 11 juillet 2026. L'incident a ciblé le logiciel de facturation des services publics, permettant l'accès aux noms des clients et aux numéros de compte. Les informations bancaires et les données de carte de crédit n'ont pas été compromises. Les attaquants n'ont pas été identifiés.",
+        "description": "",
+        "title": "Petersburg Borough in Alaska discloses ransomware attack affecting utility billing",
+        "url": "https://dysruptionhub.com/petersburg-alaska-ransomware-utility-billing/",
+        "added": "2026-10-22"
+    },
+    {
         "date": "2026-10-12",
         "victim": "Parkview Health",
         "domain": "parkviewhealthathome.com",
