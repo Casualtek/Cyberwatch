@@ -1,5 +1,16 @@
 [
     {
+        "date": "2026-10-22",
+        "victim": "Quest Diagnostics",
+        "domain": "questdiagnostics.com",
+        "country": "USA",
+        "summary": "Quest Diagnostics a signalé un accès non autorisé à son système Quanum-LSM, utilisé pour les commandes de tests et la consultation des résultats. Cette cyberattaque a entraîné l'atteinte de dossiers de patients.",
+        "description": "",
+        "title": "Der Laborbetreiber Quest meldet einen Cyberangriff, von dem Patientenakten betroffen sind",
+        "url": "https://de.tradingview.com/news/reuters.com,2026:newsml_L8N46818Z:0/",
+        "added": "2026-10-22"
+    },
+    {
         "date": "2026-10-17",
         "victim": "Shinryo Reinetsu Kogyo Co., Ltd.",
         "domain": "shinryo.com",
