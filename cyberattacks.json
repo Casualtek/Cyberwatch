@@ -1,5 +1,16 @@
 [
     {
+        "date": "2026-10-21",
+        "victim": "Richmond Public Schools",
+        "domain": "rvaschools.net",
+        "country": "USA",
+        "summary": "Richmond Public Schools, en Virginie, a coupé l'accès à Internet suite à un incident de cybersécurité. Des messages ont été reçus par les employés affirmant que le réseau et les informations sensibles étaient compromis, menaçant de publier des données volées. Bien que l'incident soit confirmé, l'attaquant et la nature exacte de l'attaque (rançongiciel ou vol de données) ne sont pas encore identifiés. L'interruption a perturbé les outils d'enseignement en ligne et les fonctions administratives.",
+        "description": "",
+        "title": "Cyber incident forces Richmond Public Schools in Virginia to shut internet access",
+        "url": "https://dysruptionhub.com/richmond-schools-cyber-incident/",
+        "added": "2026-10-22"
+    },
+    {
         "date": "2026-10-20",
         "victim": "Ville de Columbia",
         "domain": "columbiasc.gov",
