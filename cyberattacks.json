@@ -1,5 +1,16 @@
 [
     {
+        "date": "2026-10-20",
+        "victim": "Graines de Culture(s) / Communauté de communes Pévèle Carembault",
+        "domain": "mediatheques.pevelecarembault.fr",
+        "country": "FRA",
+        "summary": "Le réseau de médiathèques Graines de Culture(s), géré par la Communauté de communes Pévèle Carembault, a été victime d'une cyberattaque le 20 octobre 2026. Cette attaque a rendu le portail numérique commun (mediatheques.pevelecarembault.fr) inaccessible, affectant les services de 34 médiathèques. Aucune fuite de données personnelles n'a été confirmée à ce stade, mais les usagers sont fortement invités à ne pas saisir d'identifiants ou de données personnelles sur le portail avant son rétablissement sécurisé.",
+        "description": "",
+        "title": "Graines de Culture(s) : une cyberattaque coupe le portail de 34 médiathèques en Pévèle Carembault",
+        "url": "https://www.cyberattaque.org/graines-de-cultures-une-cyberattaque-coupe-le-portail-de-34-mediatheques-en-pevele-carembault/",
+        "added": "2026-10-22"
+    },
+    {
         "date": "2026-10-21",
         "victim": "TAKKT AG",
         "domain": "takkt.de",
