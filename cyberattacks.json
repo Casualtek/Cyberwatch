@@ -1,5 +1,16 @@
 [
     {
+        "date": "2026-09-06",
+        "victim": "Sunin Motors",
+        "domain": "suninford.co.kr",
+        "country": "KOR",
+        "summary": "Sunin Motors, l'un des plus grands concessionnaires Ford et Lincoln en Corée du Sud, a été victime d'une cyberattaque par rançongiciel (ransomware) le 6 septembre 2026. L'attaque a paralysé le réseau informatique de l'entreprise et entraîné une fuite massive de données clients. Les informations compromises incluent les noms, coordonnées, numéros d'immatriculation des véhicules, numéros de série (VIN) et l'historique détaillé de l'entretien. Sunin Motors a signalé l'incident à la Commission de protection des informations personnelles et est en cours de mise à niveau de son système. Des discussions sont en cours concernant l'indemnisation des victimes.",
+        "description": "",
+        "title": "[단독] 포드·링컨 딜러사 선인자동차, 랜섬웨어 감염… 정비 예약내역 ‘통째로 막혔다’ - 뉴스W",
+        "url": "https://www.newsw.co.kr/news/articleView.html?idxno=20058",
+        "added": "2026-10-22"
+    },
+    {
         "date": "2026-10-21",
         "victim": "COMAPA Victoria",
         "domain": "comapavictoria.gob.mx",
