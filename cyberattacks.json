@@ -1,5 +1,16 @@
 [
     {
+        "date": "2026-10-17",
+        "victim": "Shinryo Reinetsu Kogyo Co., Ltd.",
+        "domain": "shinryo.com",
+        "country": "JPN",
+        "summary": "Shinryo Reinetsu Kogyo, spécialiste du génie climatique, a été victime d'une cyberattaque entraînant une défaillance de son système d'information. L'accès non autorisé a eu lieu le 17 octobre 2026. Bien que certains services soient affectés, aucune fuite de données personnelles ou clients n'a été confirmée à ce jour, et les investigations sont en cours en collaboration avec des experts externes.",
+        "description": "",
+        "title": "新菱冷熱工業、サイバー攻撃でシステム障害 10月17日に不正アクセス、一部サービスに影響|セキュリティニュースのセキュリティ対策Lab",
+        "url": "https://rocket-boys.co.jp/security-measures-lab/shinryo_cyberattack_system_outage_20261022/",
+        "added": "2026-10-22"
+    },
+    {
         "date": "2026-09-06",
         "victim": "Sunin Motors",
         "domain": "suninford.co.kr",
