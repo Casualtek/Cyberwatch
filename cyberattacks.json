@@ -1,5 +1,16 @@
 [
     {
+        "date": "2026-10-12",
+        "victim": "Parkview Health",
+        "domain": "parkviewhealthathome.com",
+        "country": "USA",
+        "summary": "Parkview Health a désactivé de manière proactive son réseau suite à une activité suspectée, ce qui a entraîné l'indisponibilité de MyChart et des recherches de médecins en ligne. L'incident a eu lieu le lundi, et bien que les services aient été perturbés, l'entreprise a affirmé qu'il n'y avait aucune indication que les données aient été compromises.",
+        "description": "",
+        "title": "Suspected cyber incident blocks Parkview Health patient portal in Indiana and Ohio",
+        "url": "https://dysruptionhub.com/parkview-health-indiana-mychart-shutdown/",
+        "added": "2026-10-22"
+    },
+    {
         "date": "2026-10-20",
         "victim": "Graines de Culture(s) / Communauté de communes Pévèle Carembault",
         "domain": "mediatheques.pevelecarembault.fr",
