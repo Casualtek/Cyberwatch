@@ -1,6 +1,17 @@
 [
     {
         "date": "2026-10-22",
+        "victim": "Oneonta City School District",
+        "domain": "oneontacityschools.com",
+        "country": "USA",
+        "summary": "Une attaque par rançongiciel (ransomware) a contraint le district scolaire de Oneonta City à fermer les écoles et à ajuster les horaires pour les élèves et le personnel. Les autorités travaillent avec des professionnels pour gérer l'incident, mais l'étendue complète des dégâts n'est pas encore connue.",
+        "description": "",
+        "title": "Oneonta City School District Closed Friday and Monday Due to Ransomeware Attack",
+        "url": "https://www.wktv.com/news/crime/oneonta-city-school-district-closed-friday-and-monday-due-to-ransomeware-attack/article_b3e7934d-e73d-4079-9bbc-e12dd041c5b0.html",
+        "added": "2026-10-23"
+    },
+    {
+        "date": "2026-10-22",
         "victim": "Cutlers Hill Surgery",
         "domain": "cutlershillsurgery.co.uk",
         "country": "GBR",
