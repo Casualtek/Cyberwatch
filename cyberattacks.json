@@ -1,5 +1,16 @@
 [
     {
+        "date": "2026-10-26",
+        "victim": "Centre des Sciences de la Santé de l'Université du Nouveau-Mexique (UNM HSC)",
+        "domain": "hsc.unm.edu",
+        "country": "USA",
+        "summary": "Le Centre des Sciences de la Santé de l'Université du Nouveau-Mexique (UNM HSC) a été confronté à un incident de cybersécurité le 26 octobre 2026. Cet événement a entraîné des perturbations temporaires, l'annulation de rendez-vous et de chirurgies, et la fermeture du campus pour les employés non essentiels. Les équipes de sécurité ont travaillé à la résolution du problème, et les opérations ont commencé à reprendre le 27 octobre 2026.",
+        "description": "",
+        "title": "Update on Cybersecurity Event at UNM Health Sciences Center",
+        "url": "https://hscnews.unm.edu/news/ambulance-traffic-diverted-clinical-appointments-cancelled-and-classes-cancelled-due-to-cybersecurity-issue-at-unm-hsc",
+        "added": "2026-10-27"
+    },
+    {
         "date": "2026-10-22",
         "victim": "Oneonta City School District",
         "domain": "oneontacityschools.com",
