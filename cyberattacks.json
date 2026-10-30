@@ -1,5 +1,16 @@
 [
     {
+        "date": "2026-10-28",
+        "victim": "Université de Leipzig",
+        "domain": "uni-leipzig.de",
+        "country": "DEU",
+        "summary": "L'Université de Leipzig a été victime d'une cyberattaque. Les serveurs connectés à Internet ont été mis hors ligne le mercredi pour prévenir tout dommage. L'attaque a affecté le site web et le système de messagerie, empêchant les étudiants et le personnel de communiquer. Les autorités mènent des analyses pour déterminer la nature de l'attaque, la méthode d'intrusion et si des données ont été exfiltrées.",
+        "description": "",
+        "title": "Nach Hackerangriff: Uni Leipzig weiter offline",
+        "url": "https://www.mdr.de/nachrichten/sachsen/leipzig/leipzig-leipzig-land/news-cyberangriff-internet-sicherheit,hackerangriff-uni-100.html",
+        "added": "2026-10-30"
+    },
+    {
         "date": "2026-10-26",
         "victim": "Centre des Sciences de la Santé de l'Université du Nouveau-Mexique (UNM HSC)",
         "domain": "hsc.unm.edu",
