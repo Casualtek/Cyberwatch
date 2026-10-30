@@ -1,5 +1,16 @@
 [
     {
+        "date": "2026-10-30",
+        "victim": "Caisse Nationale d'Assurance Sociale (CNAS)",
+        "domain": "cnas.gov.md",
+        "country": "MDA",
+        "summary": "La Caisse Nationale d'Assurance Sociale (CNAS) a signalé des perturbations temporaires de ses services électroniques suite à une cyberattaque sur ses systèmes d'information. L'institution conseille aux utilisateurs de faire preuve de vigilance, de ne pas fournir de données personnelles par téléphone ou message, et de n'utiliser que le site web officiel (www.cnas.gov.md).",
+        "description": "",
+        "title": "Часть услуг НКСС могут быть недоступны из-за кибератаки",
+        "url": "https://logos-pres.md/ru/novosti/chast-uslug-nkss-mogut-byt-nedostupny-iz-za-kiberataki/",
+        "added": "2026-10-30"
+    },
+    {
         "date": "2026-08-27",
         "victim": "Serviciul Public Finanțe Locale Ploiești",
         "domain": "spfl.ro",
