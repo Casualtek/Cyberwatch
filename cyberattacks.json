@@ -1,5 +1,16 @@
 [
     {
+        "date": "2026-09-24",
+        "victim": "Université de Saga",
+        "domain": "saga-u.ac.jp",
+        "country": "JPN",
+        "summary": "L'Université de Saga a annoncé avoir été victime d'une attaque par rançongiciel (ransomware) ciblant une partie de son système d'information administratif. L'incident a été détecté le 24 septembre 2026, lorsque des fichiers sur un NAS (stockage réseau) ont été cryptés. Les autorités universitaires ont immédiatement isolé le NAS. Une enquête est en cours pour déterminer l'origine de l'infection et l'étendue des dégâts. À ce jour, aucun impact n'a été signalé sur les systèmes liés à l'enseignement, à la recherche ou aux soins.",
+        "description": "",
+        "title": "佐賀大学の事務情報システムでランサムウエアによる被害発生 NAS内でファイルが暗号化 | 行政・社会 | 佐賀県のニュース | 佐賀新聞",
+        "url": "https://www.saga-s.co.jp/articles/-/1798549",
+        "added": "2026-10-31"
+    },
+    {
         "date": "2026-10-30",
         "victim": "Caisse Nationale d'Assurance Sociale (CNAS)",
         "domain": "cnas.gov.md",
