@@ -94866,6 +94866,18 @@
         ]
     },
     {
+        "victim": "deom.be",
+        "domain": "deom.be",
+        "country": "BE",
+        "timeline": [
+            {
+                "date": "2026-10-27",
+                "type": "assessed",
+                "group": "safepay"
+            }
+        ]
+    },
+    {
         "victim": "DePaoli Mosaic Company",
         "domain": "depaolimosaic.com",
         "country": "US",
