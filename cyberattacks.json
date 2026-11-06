@@ -1,5 +1,16 @@
 [
     {
+        "date": "2026-10-31",
+        "victim": "ISAE-Supméca",
+        "domain": "isae-supmeca.fr",
+        "country": "FRA",
+        "summary": "L'école d'ingénieurs ISAE-Supméca a été victime d'une cyberattaque par rançongiciel le 31 octobre 2026, qui a compromis l'intégralité de son infrastructure informatique. L'incident a provoqué des perturbations dans le fonctionnement de plusieurs services. L'établissement a immédiatement saisi l'ANSSI et la CNIL, et a déposé une plainte le 2 novembre 2026. Bien qu'un groupe de ransomware ait revendiqué l'attaque, le nom des cybercriminels n'a pas été communiqué, et aucune fuite de données n'a été confirmée.",
+        "description": "",
+        "title": "Cyberattaque : l'école d'ingénieurs ISAE-Supméca touchée par un...",
+        "url": "https://frenchbreaches.com/alertes/cyberattaque-isae-supmeca-rancongiciel-infrastructure-informatique-mw4w3zidii5j32t03la",
+        "added": "2026-11-06"
+    },
+    {
         "date": "2026-09-24",
         "victim": "Université de Saga",
         "domain": "saga-u.ac.jp",
