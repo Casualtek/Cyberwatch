@@ -1,5 +1,16 @@
 [
     {
+        "date": "2026-10-23",
+        "victim": "G&H Distributing",
+        "domain": "ghdistributing.com",
+        "country": "USA",
+        "summary": "G&H Distributing, une entreprise familiale basée à Sioux Falls, a été victime d'une cyberattaque par ransomware. L'incident a été découvert le vendredi matin, le 23 octobre 2026. L'attaque a paralysé les systèmes critiques, y compris les serveurs ERP et les serveurs de fichiers, en exploitant une vulnérabilité connue de son pare-feu. L'entreprise a subi une interruption d'activité d'environ une semaine.",
+        "description": "",
+        "title": "First 48 hours: What ransomware attack taught family business about cybersecurity, trusted partnerships",
+        "url": "https://siouxfalls.business/first-48-hours-what-ransomware-attack-taught-family-business-about-cybersecurity-trusted-partnerships/",
+        "added": "2026-11-09"
+    },
+    {
         "date": "2026-10-22",
         "victim": "Centre de Recherche en Pathologie et Scan de Pankaj",
         "domain": "drpankajlab.in",
