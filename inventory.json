@@ -136669,6 +136669,17 @@
                 "group": "akira"
             },
             {
+                "date": "2026-11-09",
+                "type": "discovered",
+                "summary": "G&H Distributing, une entreprise familiale basée à Sioux Falls, a été victime d'une cyberattaque par ransomware. L'incident a été découvert le vendredi matin, le 23 octobre 2026. L'attaque a paralysé les systèmes critiques, y compris les serveurs ERP et les serveurs de fichiers, en exploitant une vulnérabilité connue de son pare-feu. L'entreprise a subi une interruption d'activité d'environ une semaine.",
+                "title": "First 48 hours: What ransomware attack taught family business about cybersecurity, trusted partnerships",
+                "url": "https://siouxfalls.business/first-48-hours-what-ransomware-attack-taught-family-business-about-cybersecurity-trusted-partnerships/"
+            },
+            {
+                "date": "2026-10-23",
+                "type": "reported"
+            },
+            {
                 "date": "2025-10-09",
                 "type": "assessed",
                 "group": "akira"
@@ -193345,6 +193356,17 @@
             {
                 "date": "2025-04-16",
                 "type": "reported"
+            },
+            {
+                "date": "2026-11-09",
+                "type": "discovered",
+                "summary": "Le PDG de Layer-Großhandel, David Layer, a décrit une cyberattaque subie par son entreprise de grossiste en outils à Tettnang. L'incident a été détecté le 16 avril 2025 et s'est étendu pendant les vacances de Pâques 2025. L'attaque a été stoppée après que l'équipe informatique ait coupé le système.",
+                "title": "Zwischen Datensicherung und Erpressung – Unternehmen ringen mit Cyberbedrohungen",
+                "url": "https://www.suedkurier.de/bodenseekreis/cyberangriffe-zwingen-mittelstand-zum-handeln-erfahrungen-und-konsequenzen-fuer-betriebe-115524787"
+            },
+            {
+                "date": "2025-04-16",
+                "type": "reported"
             }
         ]
     },
@@ -248988,6 +249010,17 @@
                 "date": "2026-07-27",
                 "type": "claimed",
                 "group": "safepay"
+            },
+            {
+                "date": "2026-11-09",
+                "type": "discovered",
+                "summary": "Le Paritätischer NRW, une organisation de bien-être en Allemagne, a été victime d'une cyberattaque ayant entraîné un vol de données. Des informations sensibles, y compris des coordonnées bancaires, ont été compromises. L'organisation a immédiatement pris des mesures de protection, a bloqué l'accès aux données, déposé une plainte pénale et fait appel à des experts externes pour enquêter sur l'incident.",
+                "title": "Cyberangriff beim Paritätischen - sensible Daten betroffen",
+                "url": "https://www.wz.de/nrw/cyberangriff-beim-paritaetischen-sensible-daten-betroffen_aid-157336287"
+            },
+            {
+                "date": "2026-10-27",
+                "type": "reported"
             }
         ]
     },
