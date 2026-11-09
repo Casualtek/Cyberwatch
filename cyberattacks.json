@@ -1,5 +1,16 @@
 [
     {
+        "date": "2026-10-27",
+        "victim": "Jumonji Gakuen Women's University",
+        "domain": "jumonji-u.ac.jp",
+        "country": "JPN",
+        "summary": "Jumonji Gakuen Women's University confirmed a cyber attack on its systems, resulting in the exposure of organizational information on an external website. The university is currently investigating the incident to determine the full scope of the potential data breach.",
+        "description": "",
+        "title": "404 Not Found お探しのページ(URL)が見つかりません",
+        "url": "https://www.jumonji-u.ac.jp/important/systemfailure_20261028/",
+        "added": "2026-11-09"
+    },
+    {
         "date": "2025-09-15",
         "victim": "Cox",
         "domain": "coxs-japan.com",
