@@ -1,5 +1,16 @@
 [
     {
+        "date": "2026-10-21",
+        "victim": "Garanka",
+        "domain": "garanka.fr",
+        "country": "FRA",
+        "summary": "Garanka, une entreprise spécialisée dans les équipements de chauffage, a confirmé avoir été victime d'une cyberattaque le 26 octobre 2026. Afin de limiter les conséquences, l'entreprise a isolé ses systèmes informatiques, ce qui a entraîné des perturbations dans les communications et le report d'interventions. Garanka rassure ses clients en précisant que leurs installations de chauffage ne sont pas affectées. Bien que la nature exacte de l'attaque ne soit pas précisée, aucune fuite de données personnelles n'est confirmée à ce stade.",
+        "description": "",
+        "title": "Garanka victime d'une cyberattaque : des interventions chez les clients perturbées",
+        "url": "https://frenchbreaches.com/alertes/garanka-cyberattaque-piratage-fuite-de-donnees-systemes-informatiques-mvp5u5169z0jw96lm8e",
+        "added": "2026-11-09"
+    },
+    {
         "date": "2026-10-22",
         "victim": "Bathurst RSL Club",
         "domain": "bathurstrsl.com.au",
