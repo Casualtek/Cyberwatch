@@ -1,5 +1,16 @@
 [
     {
+        "date": "2026-10-06",
+        "victim": "Retim Ecologic Service SA",
+        "domain": "retim.ro",
+        "country": "ROU",
+        "summary": "Retim Ecologic Service SA, un opérateur de services publics en Roumanie, a été victime d'une cyberattaque. L'incident a forcé l'entreprise à désactiver la section « Mon Compte » de son site web, utilisée pour le paiement des factures. Les données personnelles des clients ont été affectées. En réponse, l'entreprise a invalidé les mots de passe et supprimé les données de session, et conseille aux utilisateurs de changer leurs mots de passe.",
+        "description": "",
+        "title": "Un atac cibernetic blochează de trei săptămâni plata facturilor pe site-ul operatorului de salubritate Retim - Actualitati-Arad",
+        "url": "https://www.actualitati-arad.ro/un-atac-cibernetic-blocheaza-de-trei-saptamani-plata-facturilor-pe-site-ul-operatorului-de-salubritate-retim/",
+        "added": "2026-11-09"
+    },
+    {
         "date": "2026-10-18",
         "victim": "Bajaj Hospital",
         "domain": "bajajhospital.com",
