@@ -1,5 +1,16 @@
 [
     {
+        "date": "2026-10-28",
+        "victim": "Gamdom",
+        "domain": "gamdom.com",
+        "country": "CRI",
+        "summary": "Le groupe de ransomware Whitearmor a menacé Gamdom en exigeant 15 millions de dollars en Bitcoin. Les attaquants affirment avoir compromis les données de 15,4 millions de comptes clients, avec un accès à 146 champs par compte. L'incident a été rendu possible par l'exploitation d'un ancien compte machine interne dont les identifiants n'avaient pas été mis à jour régulièrement.",
+        "description": "",
+        "title": "게임덤, 1500만 달러 비트코인 요구 랜섬웨어 공격...데이터 유출 우려 (BTC, Gamdom, Whitearmor, 1500만 달러)",
+        "url": "https://www.minsimnews.com/news/articleView.html?idxno=96125",
+        "added": "2026-11-09"
+    },
+    {
         "date": "2026-10-27",
         "victim": "Paritätischer NRW",
         "domain": "paritaet-nrw.org",
