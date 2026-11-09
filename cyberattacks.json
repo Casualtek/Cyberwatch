@@ -1,5 +1,16 @@
 [
     {
+        "date": "2026-11-06",
+        "victim": "Bergmann",
+        "domain": "bergmann-dumper.com",
+        "country": "DEU",
+        "summary": "Une cyberattaque a touché l'entreprise Bergmann (spécialiste des matériaux de construction) ainsi que la Trauco Group. L'incident a provoqué des pannes informatiques temporaires dans de nombreux sites, forçant l'utilisation de méthodes de commande alternatives telles que le téléphone ou le fax.",
+        "description": "",
+        "title": "Cyberangriff auf Bergmann in Steinfeld: Kunden erhalten KI-Anrufe",
+        "url": "https://www.om-online.de/landkreis-vechta/steinfeld/artikel/cyberangriff-bei-bergmann-ki-anrufe-verunsichern-kunden-51707851",
+        "added": "2026-11-09"
+    },
+    {
         "date": "2025-09-29",
         "victim": "Llano Independent School District",
         "domain": "llanoisd.org",
