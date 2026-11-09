@@ -1,5 +1,12 @@
 [
   {
+    "victim": "fuss-sprunggelenk.de",
+    "domain": "fuss-sprunggelenk.de",
+    "country": "DE",
+    "date": "2026-09-01",
+    "group": "safepay"
+  },
+  {
     "victim": "MicroSearch",
     "domain": "microsearch.net",
     "country": "US",
