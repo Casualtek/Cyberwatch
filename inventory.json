@@ -232123,6 +232123,18 @@
         ]
     },
     {
+        "victim": "New Tec Tool Limited",
+        "domain": "newtectool.com",
+        "country": "CA",
+        "timeline": [
+            {
+                "date": "2026-10-09",
+                "type": "assessed",
+                "group": "play"
+            }
+        ]
+    },
+    {
         "victim": "Newton & Associates, Inc",
         "domain": "newtonandassociates.com",
         "country": "US",
