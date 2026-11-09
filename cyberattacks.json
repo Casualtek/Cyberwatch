@@ -1,5 +1,16 @@
 [
     {
+        "date": "2025-09-29",
+        "victim": "Llano Independent School District",
+        "domain": "llanoisd.org",
+        "country": "USA",
+        "summary": "Le district scolaire indépendant de Llano, au Texas, a signalé un incident de cybersécurité suite à des pannes d'internet et de téléphone survenues le 29 septembre 2025. Le district a pris des mesures pour isoler les systèmes affectés et a fait appel à des spécialistes. Le groupe de ransomware Qilin a listé le district comme victime, mais cette revendication reste non vérifiée, et le district n'a pas confirmé la cause de la perturbation ni l'exfiltration de données.",
+        "description": "",
+        "title": "Llano School District in Texas reports cyber incident after internet and phone outages",
+        "url": "https://dysruptionhub.com/llano-isd-texas-internet-phone-outages/",
+        "added": "2026-11-09"
+    },
+    {
         "date": "2026-10-12",
         "victim": "WHIZ (Station de radio et de télévision)",
         "domain": "whiznews.com",
