@@ -1,5 +1,16 @@
 [
     {
+        "date": "2026-10-22",
+        "victim": "Andest Holdings",
+        "domain": "andst-hd.co.jp",
+        "country": "JAP",
+        "summary": "Andest Holdings a annoncé qu'une cyberattaque a compromis ses serveurs d'entreprise le 22 octobre 2026. Environ 2,5 millions de données clients et 10 000 données de fournisseurs ont potentiellement été exposées. Les informations concernées incluent noms, adresses, numéros de téléphone, adresses de livraison et identifiants. Bien que la boutique en ligne reste accessible, l'utilisation des points de fidélité est suspendue.",
+        "description": "",
+        "title": "アンドエスティHDにサイバー攻撃、顧客約250万件の個人情報漏えいの恐れーアンドエスティは営業継続|セキュリティニュースのセキュリティ対策Lab",
+        "url": "https://rocket-boys.co.jp/security-measures-lab/andst_hd_cyberattack_customer_2500000_privacy_risk_20261023/",
+        "added": "2026-11-09"
+    },
+    {
         "date": "2026-10-09",
         "victim": "Medienwerkstatt (Mattenbach-Gruppe)",
         "domain": "medienwerkstatt-ag.ch",
