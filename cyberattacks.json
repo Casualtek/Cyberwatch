@@ -1,5 +1,16 @@
 [
     {
+        "date": "2026-08-27",
+        "victim": "Centrale solaire Huatacondo",
+        "domain": "eiffage.es",
+        "country": "CHL",
+        "summary": "La centrale solaire Huatacondo, située au Chili, a été victime d'une cyberattaque le 27 août 2026. L'incident a provoqué la déconnexion de la centrale photovoltaïque et de son système de stockage d'énergie (BESS) du Réseau Électrique National. La disponibilité de l'installation est restée à 0 % pendant près de deux mois, jusqu'au 17 octobre.",
+        "description": "",
+        "title": "Coordinador Eléctrico registró ciberataque en planta solar Huatacondo | Diario Financiero",
+        "url": "https://www.df.cl/senal-df/datos-de-sobremesa/coordinador-electrico-registro-ciberataque-en-planta-solar-huatacondo",
+        "added": "2026-11-09"
+    },
+    {
         "date": "2026-10-23",
         "victim": "Program Consultores S.A.",
         "domain": "municipalidad.com",
