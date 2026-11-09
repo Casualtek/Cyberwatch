@@ -1,5 +1,16 @@
 [
     {
+        "date": "2026-10-22",
+        "victim": "Centre de Recherche en Pathologie et Scan de Pankaj",
+        "domain": "drpankajlab.in",
+        "country": "IND",
+        "summary": "Le Centre de Recherche en Pathologie et Scan de Pankaj, situé à Agra, a été victime d'une cyberattaque par rançongiciel. Les attaquants ont réussi à crypter et à supprimer les données de près de 1,4 million de patients, couvrant quatre années d'informations. L'incident a été signalé par le centre le 22 octobre. Les pirates ont laissé un message exigeant une rançon pour la restitution des données, qui pourraient être vendues sur le dark web. Les autorités locales enquêtent sur cette attaque, qui fait partie d'une campagne plus large ciblant des centres de diagnostic dans 56 villes. Bien que les données récentes aient été récupérées, les archives plus anciennes restent inaccessibles.",
+        "description": "",
+        "title": "आगरा के नामी पैथोलाजी सेंटर पर साइबर हमला, 14 लाख मरीजों का संवेदनशील डाटा हैक - agra pankaj mahendru scanning pathology research centre data hacked cyber criminals",
+        "url": "https://www.jagran.com/uttar-pradesh/agra-city-agra-pankaj-mahendru-scanning-pathology-research-centre-data-hacked-cyber-criminals-40417771.html",
+        "added": "2026-11-09"
+    },
+    {
         "date": "2026-10-21",
         "victim": "Garanka",
         "domain": "garanka.fr",
