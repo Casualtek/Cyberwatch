@@ -1,6 +1,17 @@
 [
     {
         "date": "2026-10-22",
+        "victim": "Hanjin Information & Communication",
+        "domain": "hanjinkal.com",
+        "country": "KOR",
+        "summary": "Hanjin Information & Communication, une société de services informatiques du groupe Hanjin, a officiellement confirmé une fuite de données suite à une cyberattaque externe. Le groupe de ransomware 'n0n' a affirmé avoir compromis le système ITSM le 21 octobre 2026 et a menacé de publier des informations. L'entreprise a confirmé le 23 octobre 2026 que les noms et adresses e-mail de 980 utilisateurs du système ITSM avaient été exposés. L'attaquant a également affirmé détenir des informations plus sensibles, telles que les détails sur le déploiement du personnel chez les clients et les informations sur les comptes des partenaires tiers, ce qui représente un risque significatif pour la sécurité de la chaîne d'approvisionnement, bien qu'aucune confirmation de perturbation du système ou de chiffrement de fichiers n'ait été faite.",
+        "description": "",
+        "title": "[단독] 한진그룹 IT 서비스 전문기업 한진정보통신 해킹…항공·물류 공급망 보안 위협 우려 - 데일리시큐",
+        "url": "https://www.dailysecu.com/news/articleView.html?idxno=209036",
+        "added": "2026-11-09"
+    },
+    {
+        "date": "2026-10-22",
         "victim": "Andest Holdings",
         "domain": "andst-hd.co.jp",
         "country": "JAP",
