@@ -1,5 +1,16 @@
 [
     {
+        "date": "2026-10-24",
+        "victim": "TG-iPASS (Gouvernement de Telangana)",
+        "domain": "ipass.telangana.gov.in",
+        "country": "IND",
+        "summary": "Le portail TG-iPASS, appartenant au gouvernement de Telangana, a été victime d'une cyberattaque par rançongiciel (ransomware). L'incident a été découvert lorsqu'un message de rançon a été trouvé sur le serveur, utilisant l'identifiant 'DataLeaks5'. Les autorités ont confirmé que la base de données et certains fichiers ont été chiffrés. Le Bureau de la Cybersécurité (CSB) a ouvert une enquête, mais les détails sur l'identité des attaquants, la méthode d'intrusion et l'ampleur de la fuite de données restent inconnus.",
+        "description": "",
+        "title": "టీజీ ఐపాస్ సర్వర్పై ర్యాన్సమ్వేర్ దాడి.. రంగంలోకి సీఎస్బీ",
+        "url": "https://www.v6velugu.com/ransomware-attack-on-telangana’s-tg-ipass-portal",
+        "added": "2026-11-09"
+    },
+    {
         "date": "2026-10-23",
         "victim": "Stad Damme",
         "domain": "damme.be",
