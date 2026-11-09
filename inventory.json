@@ -131276,6 +131276,18 @@
         ]
     },
     {
+        "victim": "fuss-sprunggelenk.de",
+        "domain": "fuss-sprunggelenk.de",
+        "country": "DE",
+        "timeline": [
+            {
+                "date": "2026-09-01",
+                "type": "assessed",
+                "group": "safepay"
+            }
+        ]
+    },
+    {
         "victim": "FUTURA Fundamentsysteme was hacked",
         "domain": "futura-energiesparen.de",
         "country": "DE",
