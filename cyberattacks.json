@@ -1,5 +1,16 @@
 [
     {
+        "date": "2026-10-23",
+        "victim": "Program Consultores S.A.",
+        "domain": "municipalidad.com",
+        "country": "ARG",
+        "summary": "La Municipalité de Villa Carlos Paz a été victime d'une cyberattaque par ransomware qui a compromis ses systèmes de gestion et mis hors service la plateforme des taxes municipales. L'incident, survenu le 23 octobre 2026, est d'une portée nationale, affectant d'autres municipalités argentines utilisant la plateforme de PGM (Program Consultores S.A.), un fournisseur de solutions informatiques. Les services de paiement et de démarches numériques sont actuellement interrompus, tandis que les autorités travaillent à la conteneurisation de l'attaque et à la récupération des services.",
+        "description": "",
+        "title": "Carlos Paz, afectada por un ciberataque que golpea a municipios de todo el país",
+        "url": "https://www.carlospazvivo.com/carlos-paz-afectada-por-un-ciberataque-que-golpea-a-municipios-de-todo-el-pais/",
+        "added": "2026-11-09"
+    },
+    {
         "date": "2025-04-16",
         "victim": "Layer-Großhandel",
         "domain": "layer-grosshandel.de",
