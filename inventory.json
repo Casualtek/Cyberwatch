@@ -216418,6 +216418,18 @@
         ]
     },
     {
+        "victim": "MicroSearch",
+        "domain": "microsearch.net",
+        "country": "US",
+        "timeline": [
+            {
+                "date": "2026-10-03",
+                "type": "assessed",
+                "group": "play"
+            }
+        ]
+    },
+    {
         "victim": "Microsoft",
         "domain": "microsoft.com",
         "country": "US",
