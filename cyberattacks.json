@@ -1,6 +1,17 @@
 [
     {
         "date": "2026-10-23",
+        "victim": "Stad Damme",
+        "domain": "damme.be",
+        "country": "BEL",
+        "summary": "La ville de Damme a été victime d'une cyberattaque, ce qui l'a contrainte de mettre hors ligne plusieurs formulaires de demande par mesure de précaution. Les services en ligne sont temporairement indisponibles. La ville n'a pas précisé les formulaires concernés, le moment exact de l'attaque, ni si les données des résidents ont été compromises.",
+        "description": "",
+        "title": "Inwoners van Damme kunnen na een cyberaanval geen aanvragen meer doen via de website van de stad",
+        "url": "https://www.lokaalnieuws.online/2026/10/24/damme-cyberaanval-e-loket-offline/",
+        "added": "2026-11-09"
+    },
+    {
+        "date": "2026-10-23",
         "victim": "Jamaica Electronic Transfer Services (JETS) Limited",
         "domain": "multilink-jm.nodomain",
         "country": "JAM",
