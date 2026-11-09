@@ -1,5 +1,16 @@
 [
     {
+        "date": "2025-09-15",
+        "victim": "Cox",
+        "domain": "coxs-japan.com",
+        "country": "JPN",
+        "summary": "Quatre détaillants (Don Quijote, Nagasakiya, Tachibana Department Store et UD Retail) ont annoncé le 28 octobre 2026 une possible fuite de données clients suite à un accès non autorisé au serveur de leur prestataire externe de réparation d'horloges, Cox. Le serveur a été chiffré par un rançongiciel (ransomware). L'incident a été détecté le 15 septembre 2025. Les clients concernés sont ceux ayant demandé une réparation depuis septembre 2025. Les informations potentiellement compromises incluent le nom, une partie de l'adresse et une partie du numéro de téléphone.",
+        "description": "",
+        "title": "ドン・キホーテなど4社、顧客情報漏えいの可能性 時計修理の委託先にランサムウェア攻撃（アスキー） - Yahoo!ニュース",
+        "url": "https://news.yahoo.co.jp/articles/8cdfa52994d8c8f48e14ef0889b75294f0673bc9",
+        "added": "2026-11-09"
+    },
+    {
         "date": "2026-10-28",
         "victim": "Gamdom",
         "domain": "gamdom.com",
