@@ -1,6 +1,17 @@
 [
     {
         "date": "2026-10-31",
+        "victim": "Gouvernement de Formosa",
+        "domain": "formosa.gob.ar",
+        "country": "ARG",
+        "summary": "Le gouvernement de Formosa a confirmé qu'une cyberattaque a affecté son infrastructure technologique, compromettant le fonctionnement des systèmes numériques de l'administration publique provinciale. En mesure préventive, les autorités ont décidé de suspendre temporairement les services numériques pour contenir l'incident, éviter sa propagation et protéger les données stockées.",
+        "description": "",
+        "title": "El Gobierno provincial suspendió temporalmente los servicios digitales tras un ciberataque",
+        "url": "https://neahoy.com/2026/10/31/el-gobierno-provincial-suspendio-temporalmente-los-servicios-digitales-tras-un-ciberataque/",
+        "added": "2026-11-09"
+    },
+    {
+        "date": "2026-10-31",
         "victim": "ISAE-Supméca",
         "domain": "isae-supmeca.fr",
         "country": "FRA",
