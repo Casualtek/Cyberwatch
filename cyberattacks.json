@@ -1,5 +1,16 @@
 [
     {
+        "date": "2026-10-09",
+        "victim": "Medienwerkstatt (Mattenbach-Gruppe)",
+        "domain": "medienwerkstatt-ag.ch",
+        "country": "CHE",
+        "summary": "Le prestataire de services médiatiques Medienwerkstatt, faisant partie du groupe Mattenbach, a été victime d'une cyberattaque par ransomware attribuée au groupe Akira. L'incident a été détecté le 9 octobre 2026. Les attaquants ont volé environ 130 Go de données sensibles, incluant des coordonnées professionnelles, des données clients, des contrats et des fichiers de production. L'entreprise a réussi à restaurer ses systèmes et à reprendre ses activités sans céder aux exigences des pirates.",
+        "description": "",
+        "title": "Thurgauer Medienwerkstatt meldet Cybervorfall",
+        "url": "https://www.inside-it.ch/thurgauer-medienwerkstatt-meldet-cybervorfall-20261023",
+        "added": "2026-11-09"
+    },
+    {
         "date": "2026-11-06",
         "victim": "Bergmann",
         "domain": "bergmann-dumper.com",
