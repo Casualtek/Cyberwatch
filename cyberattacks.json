@@ -1,5 +1,16 @@
 [
     {
+        "date": "2026-10-22",
+        "victim": "Bathurst RSL Club",
+        "domain": "bathurstrsl.com.au",
+        "country": "AUS",
+        "summary": "Le Bathurst RSL Club a été victime d'une cyberattaque par le groupe de rançongiciels Qilin. Le groupe a publié des données personnelles, incluant des scans de passeport et des demandes de passeport, appartenant au personnel du club. Le PDG a confirmé que l'incident avait été contenu et que les systèmes de gestion des membres et de jeux n'avaient pas été affectés.",
+        "description": "",
+        "title": "Exclusive: Bathurst RSL says cyber incident contained after Qilin ransomware attack",
+        "url": "https://www.cyberdaily.au/security/14349-exclusive-bathurst-rsl-says-cyber-incident-contained-after-qilin-ransomware-attack",
+        "added": "2026-11-09"
+    },
+    {
         "date": "2026-10-25",
         "victim": "Colmobil",
         "domain": "colmobil.com",
