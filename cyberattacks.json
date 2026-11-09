@@ -1,5 +1,16 @@
 [
     {
+        "date": "2026-10-25",
+        "victim": "Colmobil",
+        "domain": "colmobil.com",
+        "country": "ISR",
+        "summary": "L'importateur de voitures Colmobil a été victime d'une cyberattaque par rançongiciel (ransomware), entraînant une interruption de ses activités, des retards dans les livraisons de véhicules et une déconnexion de ses systèmes avec le ministère des Transports. Bien que l'attaque ait été résolue après que la société ait payé la rançon, l'article met en lumière des menaces plus larges pour l'industrie automobile israélienne, incluant la compromission des mises à jour logicielles, la désactivation des bornes de recharge et le risque de prise de contrôle à distance des véhicules.",
+        "description": "",
+        "title": "מתקפת הסייבר על כלמוביל היא רק ההתחלה: הסכנה האמיתית נמצאת על הכביש | כלכליסט",
+        "url": "https://www.calcalist.co.il/local_news/car/article/rj5pdxj2zg",
+        "added": "2026-11-09"
+    },
+    {
         "date": "2026-10-24",
         "victim": "TG-iPASS (Gouvernement de Telangana)",
         "domain": "ipass.telangana.gov.in",
