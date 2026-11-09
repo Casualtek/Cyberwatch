@@ -218973,6 +218973,18 @@
         ]
     },
     {
+        "victim": "Misura",
+        "domain": "misura.ca",
+        "country": "CA",
+        "timeline": [
+            {
+                "date": "2026-10-28",
+                "type": "assessed",
+                "group": "play"
+            }
+        ]
+    },
+    {
         "victim": "MIT HJERTE",
         "domain": "mit-hjerte.de",
         "country": "DE",
