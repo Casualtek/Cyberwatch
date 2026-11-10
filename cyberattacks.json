@@ -1,5 +1,16 @@
 [
     {
+        "date": "2026-10-18",
+        "victim": "AC Environnement",
+        "domain": "ac-environnement.com",
+        "country": "FRA",
+        "summary": "AC Environnement a fait face à un incident de cybersécurité affectant une partie de ses systèmes informatiques le 18 octobre. L'entreprise a confirmé que l'incident a été contenu le jour même de sa détection et a engagé des mesures de sécurisation avec l'aide d'experts. Une plainte a été déposée, et l'ampleur et la nature exacte de l'attaque sont toujours en cours de diagnostic.",
+        "description": "",
+        "title": "Loire. L'entreprise AC environnement victime d’une cyberattaque",
+        "url": "https://www.leprogres.fr/faits-divers-justice/2026/11/02/ac-environnement-victime-d-une-cyberattaque",
+        "added": "2026-11-10"
+    },
+    {
         "date": "2026-11-02",
         "victim": "Beget",
         "domain": "beget.com",
