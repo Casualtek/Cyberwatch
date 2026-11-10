@@ -272557,6 +272557,17 @@
                 "date": "2026-09-08",
                 "type": "claimed",
                 "group": "safepay"
+            },
+            {
+                "date": "2026-11-10",
+                "type": "discovered",
+                "summary": "La municipalité de Reichenau a été victime d'une cyberattaque en juillet 2026, entraînant le vol et la publication de données personnelles de nombreux résidents sur le Darknet. Bien que les attaquants aient pris contact avec la municipalité après l'accès illégal, celle-ci n'a ni négocié ni payé de rançon. Une enquête est en cours pour déterminer l'étendue exacte des données compromises.",
+                "title": "Auf Rat der Polizei kein Kontakt mit Tätern: Nach Cyber-Angriff – Reichenau erklärt sich",
+                "url": "https://www.meinbezirk.at/neunkirchen/c-lokales/nach-cyber-angriff-reichenau-erklaert-sich_a8980296"
+            },
+            {
+                "date": "2026-07-15",
+                "type": "reported"
             }
         ]
     },
