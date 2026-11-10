@@ -1,5 +1,16 @@
 [
     {
+        "date": "2026-09-20",
+        "victim": "Data Hub",
+        "domain": "datahub.com.np",
+        "country": "NPL",
+        "summary": "Le centre de données Data Hub, qui hébergeait 72 sociétés de courtage sur la Bourse du Népal (NEPSE), a été victime d'une cyberattaque par rançongiciel le 20 septembre 2026. L'attaque a perturbé les systèmes de négociation, forçant la suspension du commerce sur la NEPSE le 21 septembre. Data Hub a choisi de ne pas payer la rançon et a restauré les données à partir de sauvegardes conservées dans son centre de reprise de sinistre. Suite à cet incident, les autorités réglementaires (SEBON et NEPSE) ont mis en place des recommandations et des politiques de cybersécurité plus strictes pour prévenir de futurs incidents.",
+        "description": "",
+        "title": "NEPSE’s cybersecurity report offers only superficial solutions after ransomware attack",
+        "url": "https://english.onlinekhabar.com/nepse-report-superficial-ransomware-attack.html",
+        "added": "2026-11-10"
+    },
+    {
         "date": "2026-10-28",
         "victim": "Verrières-en-Forez",
         "domain": "verrieresenforez.fr",
