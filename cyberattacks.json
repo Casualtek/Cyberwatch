@@ -1,5 +1,16 @@
 [
     {
+        "date": "2026-10-01",
+        "victim": "Michigan State University",
+        "domain": "msu.edu",
+        "country": "USA",
+        "summary": "L'Université de Michigan State a été ciblée par le groupe de ransomware BYOD. L'université a découvert une activité suspectée début octobre 2026, ce qui a nécessité la réinitialisation des mots de passe pour tous les comptes étudiants et employés. Le groupe BYOD a ensuite affirmé avoir volé les informations personnelles de 1,3 million d'étudiants et anciens étudiants. L'université affirme que, selon les preuves actuelles, il n'y a pas eu de compromission réussie de son environnement Active Directory central et que ses mesures de sécurité fonctionnent comme prévu.",
+        "description": "",
+        "title": "Michigan State cyber incident claimed by ransomware gang behind recent hospital attack",
+        "url": "https://therecord.media/michigan-state-university-byod-gang-cyber-incident",
+        "added": "2026-11-10"
+    },
+    {
         "date": "2026-11-02",
         "victim": "Ayuntamiento de San Cristóbal de La Laguna",
         "domain": "aytolalaguna.es",
