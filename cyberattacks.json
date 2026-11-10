@@ -1,5 +1,16 @@
 [
     {
+        "date": "2026-07-15",
+        "victim": "Reichenau an der Rax",
+        "domain": "reichenau.at",
+        "country": "AUT",
+        "summary": "La municipalité de Reichenau a été victime d'une cyberattaque en juillet 2026, entraînant le vol et la publication de données personnelles de nombreux résidents sur le Darknet. Bien que les attaquants aient pris contact avec la municipalité après l'accès illégal, celle-ci n'a ni négocié ni payé de rançon. Une enquête est en cours pour déterminer l'étendue exacte des données compromises.",
+        "description": "",
+        "title": "Auf Rat der Polizei kein Kontakt mit Tätern: Nach Cyber-Angriff – Reichenau erklärt sich",
+        "url": "https://www.meinbezirk.at/neunkirchen/c-lokales/nach-cyber-angriff-reichenau-erklaert-sich_a8980296",
+        "added": "2026-11-10"
+    },
+    {
         "date": "2026-10-28",
         "victim": "Liberté FM",
         "domain": "libertefm.fr",
