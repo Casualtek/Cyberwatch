@@ -1,5 +1,16 @@
 [
     {
+        "date": "2026-11-05",
+        "victim": "Câmara Municipal de Santa Maria da Feira",
+        "domain": "cm-feira.pt",
+        "country": "PRT",
+        "summary": "Le Conseil Municipal de Santa Maria da Feira a été victime d'une cyberattaque la nuit du 5 novembre 2026. Tous les systèmes informatiques de la municipalité sont affectés, entraînant des perturbations significatives dans le fonctionnement des services municipaux, notamment l'indisponibilité des adresses e-mail et des lignes téléphoniques fixes. L'incident a été immédiatement signalé au Centre National de Cybersécurité (CNCS). Aucune fuite ou compromission de données n'a été confirmée publiquement.",
+        "description": "",
+        "title": "Câmara Municipal de Santa Maria da Feira alvo de ataque informático",
+        "url": "https://pplware.sapo.pt/internet/camara-municipal-de-santa-maria-da-feira-alvo-de-ataque-informatico/",
+        "added": "2026-11-10"
+    },
+    {
         "date": "2026-11-04",
         "victim": "Laboratoire clinique Maenhout",
         "domain": "labomaenhout.be",
