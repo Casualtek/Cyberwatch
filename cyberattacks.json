@@ -1,5 +1,16 @@
 [
     {
+        "date": "2026-11-02",
+        "victim": "Turning Stone Enterprises",
+        "domain": "turningstoneenterprises.com",
+        "country": "USA",
+        "summary": "Turning Stone Enterprises, exploitant des casinos et des magasins à New York, a été victime d'un incident de cybersécurité le lundi matin. En réponse, l'entreprise a dû fermer certains systèmes de son réseau par mesure de précaution. L'impact est majeur : les établissements n'acceptent plus que les espèces, les distributeurs automatiques sont hors service, et les services de paris sportifs, de bingo et de fidélité sont indisponibles. L'entreprise n'a pas encore identifié la cause de l'incident ni attribué la responsabilité à un groupe spécifique.",
+        "description": "",
+        "title": "Cyber incident forces Turning Stone’s New York casinos and stores to go cash-only",
+        "url": "https://dysruptionhub.com/turning-stone-new-york-cyber-incident/",
+        "added": "2026-11-10"
+    },
+    {
         "date": "2026-10-01",
         "victim": "Michigan State University",
         "domain": "msu.edu",
