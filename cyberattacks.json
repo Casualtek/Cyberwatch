@@ -1,5 +1,16 @@
 [
     {
+        "date": "2026-10-23",
+        "victim": "J.B Hunt",
+        "domain": "jbhunt.com",
+        "country": "USA",
+        "summary": "Trois anciens employés de J.B. Hunt ont intenté un procès en justice contre l'entreprise pour une violation de données. Le piratage, signalé le 23 octobre 2026, est attribué au groupe de ransomware \"Whitearmor\". Les plaignants affirment que les hackers ont accédé aux informations personnelles (PPI) de milliers d'employés, incluant des numéros de sécurité sociale, des dates de naissance et des données financières. Les poursuites accusent J.B. Hunt de négligence et de ne pas avoir mis en place les mesures de sécurité adéquates pour protéger les données.",
+        "description": "",
+        "title": "Former employees sue J.B. Hunt in claimed data breach | Arkansas Democrat Gazette",
+        "url": "https://www.arkansasonline.com/news/2026/oct/29/former-employees-sue-jb-hunt-in-claimed-data/",
+        "added": "2026-11-10"
+    },
+    {
         "date": "2026-10-27",
         "victim": "Municipalité d'Eldorado",
         "domain": "eldorado.gob.ar",
