@@ -1,5 +1,16 @@
 [
     {
+        "date": "2026-10-29",
+        "victim": "Revolve Group",
+        "domain": "revolvegroup.co.nz",
+        "country": "NZL",
+        "summary": "Revolve Group a divulgué un incident de cybersécurité impliquant un accès non autorisé à certains de ses systèmes. Bien que l'entreprise n'anticipe pas d'impact matériel sur ses activités et que les opérations n'aient pas été perturbées, des informations sensibles de clients (noms, coordonnées, numéros et dates d'expiration de cartes de paiement enregistrées) ont pu être compromises. Revolve Group a remédié à l'activité non autorisée, mis en place des mesures de sécurité renforcées, notifié les forces de l'ordre fédérales et engagé des experts externes pour l'enquête.",
+        "description": "",
+        "title": "Revolve Group Reports Cyber Incident, Says No Material Business Impact Expected",
+        "url": "https://www.tradingview.com/news/tradingview:5e1fe46d01dd6:0-revolve-group-reports-cyber-incident-says-no-material-business-impact-expected/",
+        "added": "2026-11-10"
+    },
+    {
         "date": "2026-10-30",
         "victim": "AU Small Finance Bank",
         "domain": "au.bank.in",
