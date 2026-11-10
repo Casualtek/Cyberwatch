@@ -1,5 +1,16 @@
 [
     {
+        "date": "2026-09-03",
+        "victim": "Câmara Municipal de Santa Bárbara d'Oeste",
+        "domain": "camarasantabarbara.sp.gov.br",
+        "country": "BRA",
+        "summary": "La Chambre Municipale de Santa Bárbara d'Oeste a été victime d'une cyberattaque par ransomware (Luke Ransomware). L'incident a été détecté le 3 septembre 2026, entraînant l'interruption des systèmes informatiques. Les équipes ont isolé les réseaux et procédé au formatage des machines. Bien que certains systèmes internes (workflow, Siave) fonctionnent partiellement en mode externe, l'infrastructure interne reste en maintenance. L'autorité nationale de protection des données (ANPD) a été notifiée.",
+        "description": "",
+        "title": "Câmara de Santa Bárbara d'Oeste sofre ataque cibernético e fica sem sistema de internet e computadores - SBNotícias, a sua cidade on-line",
+        "url": "https://sbnoticias.com.br/noticia/Camara-de-Santa-Barbara-dOeste-fica-sem-sistema-de-internet-e-computadores-apos-ataque-cibernetico/232832",
+        "added": "2026-11-10"
+    },
+    {
         "date": "2026-11-05",
         "victim": "Câmara Municipal de Santa Maria da Feira",
         "domain": "cm-feira.pt",
