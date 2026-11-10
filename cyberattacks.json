@@ -1,5 +1,16 @@
 [
     {
+        "date": "2025-06-09",
+        "victim": "12 STOREEZ",
+        "domain": "12storeez.store",
+        "country": "RUS",
+        "summary": "Le détaillant russe 12 STOREEZ a été victime d'une cyberattaque massive entre le 8 et le 9 juin 2025. Les attaquants ont exigé une rançon de 20 millions de roubles en cryptomonnaie. L'analyse technique a révélé que l'absence d'authentification à deux facteurs (2FA) était la principale vulnérabilité exploitée. L'entreprise a opté pour la transparence en refusant de négocier et en rendant l'incident public.",
+        "description": "",
+        "title": "Деньги или репутация: почему 12 STOREEZ выбрали второе и чему научила нас громкая кибератака — разбираемся с экспертом",
+        "url": "https://www.marieclaire.ru/stil-zjizny/dengi-ili-reputaciya-pochemu-12-storeez-vybrali-vtoroe-i-chemu-nauchila-nas-gromkaya-kiberataka-razbiraemsya-s-ekspertom/",
+        "added": "2026-11-10"
+    },
+    {
         "date": "2026-10-29",
         "victim": "Revolve Group",
         "domain": "revolvegroup.co.nz",
