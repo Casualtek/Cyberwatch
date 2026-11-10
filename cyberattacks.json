@@ -1,5 +1,16 @@
 [
     {
+        "date": "2026-10-30",
+        "victim": "Taiwan Optical Platform Co., Ltd.",
+        "domain": "topmso.com.tw",
+        "country": "TWN",
+        "summary": "La société Taiwan Optical Platform Co., Ltd. a annoncé avoir été victime d'une cyberattaque externe contre ses systèmes d'information et ceux de ses filiales. L'attaque a entraîné le chiffrement de fichiers sur certains serveurs, perturbant ainsi le fonctionnement de certaines opérations internes. L'entreprise a immédiatement activé son plan de réponse aux incidents, incluant l'isolement des équipements et la restauration des systèmes via des sauvegardes. Bien qu'il n'y ait actuellement aucune preuve de fuite de données personnelles ou de secrets d'entreprise, l'impact sur les opérations et les finances est jugé mineur. La société s'engage à renforcer ses mesures de sécurité et sa formation interne pour prévenir de futurs incidents.",
+        "description": "",
+        "title": "證期權",
+        "url": "https://ww2.money-link.com.tw/RealtimeNews/NewsContent.aspx?SN=2436866002&PU=0010",
+        "added": "2026-11-10"
+    },
+    {
         "date": "2026-07-15",
         "victim": "TDM UralTech",
         "domain": "tdm-ural.com",
