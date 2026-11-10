@@ -1,5 +1,16 @@
 [
     {
+        "date": "2026-10-30",
+        "victim": "Club Tourism",
+        "domain": "club-t.com",
+        "country": "JPN",
+        "summary": "Club Tourism a annoncé une cyberattaque ayant entraîné une fuite potentielle des informations personnelles d'environ 4,32 millions de membres internet. L'accès non autorisé a été détecté le 30 octobre 2026. Les données compromises incluent les noms, adresses, numéros de téléphone, adresses e-mail, dates de naissance, identifiants de membre et contacts d'urgence. La société a isolé les serveurs et est en cours d'enquête.",
+        "description": "",
+        "title": "クラブツーリズムへ不正アクセスによるサイバー攻撃、最大約432万件の個人情報漏洩の恐れ|セキュリティニュースのセキュリティ対策Lab",
+        "url": "https://rocket-boys.co.jp/security-measures-lab/club_tourism_20261101_data_breach_article/",
+        "added": "2026-11-10"
+    },
+    {
         "date": "2026-10-29",
         "victim": "Rosstat",
         "domain": "rosstat.gov.ru",
