@@ -1,5 +1,16 @@
 [
     {
+        "date": "2026-07-15",
+        "victim": "TDM UralTech",
+        "domain": "tdm-ural.com",
+        "country": "RUS",
+        "summary": "L'usine TDM UralTech, située dans la région de Sverdlovsk, a suspend ses activités et procède à des licenciements en raison de graves difficultés financières. La direction a attribué cette situation à une cyberattaque sur ses serveurs survenue cet été, entraînant la perte de données (notamment les bases 1C) et des pertes de stocks importantes. Les employés ont déposé des plaintes auprès des autorités concernant le non-paiement de certains salaires.",
+        "description": "",
+        "title": "В Свердловской области завод остановил работу и сокращает сотрудников - АБН 24",
+        "url": "https://abnews.ru/ural/news/ekaterinburg/2026/11/1/v-sverdlovskoj-oblasti-zavod-ostanovil-rabotu-i-sokrashhaet-sotrudnikov",
+        "added": "2026-11-10"
+    },
+    {
         "date": "2026-10-30",
         "victim": "Club Tourism",
         "domain": "club-t.com",
