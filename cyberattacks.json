@@ -1,5 +1,16 @@
 [
     {
+        "date": "2026-10-27",
+        "victim": "Token Corporation",
+        "domain": "token.co.jp",
+        "country": "JPN",
+        "summary": "Token Corporation a annoncé le 28 octobre 2026 avoir été victime d'une cyberattaque externe. L'incident a été découvert suite à une panne de réseau interne survenue le 27 octobre. L'entreprise a mis hors service certains systèmes internes et externes pour enquêter sur l'étendue de l'attaque et l'éventuelle fuite de données personnelles.",
+        "description": "",
+        "title": "東建コーポレーションにサイバー攻撃、社内・社外向けシステムの一部が停止 個人情報への影響は調査中|セキュリティニュースのセキュリティ対策Lab",
+        "url": "https://rocket-boys.co.jp/security-measures-lab/token_corporation_cyberattack_system_outage_20261031/",
+        "added": "2026-11-10"
+    },
+    {
         "date": "2026-10-29",
         "victim": "Bureau du greffier du comté de Seminole",
         "domain": "seminoleclerk.org",
