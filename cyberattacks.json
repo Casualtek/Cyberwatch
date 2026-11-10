@@ -1,5 +1,16 @@
 [
     {
+        "date": "2026-10-30",
+        "victim": "AU Small Finance Bank",
+        "domain": "au.bank.in",
+        "country": "IND",
+        "summary": "AU Small Finance Bank a été victime d'une cyberattaque et d'une fuite de données, selon des informations rapportées le 30 octobre 2026. Le groupe de hackers 'ScarlettGroup' a affirmé avoir volé des données sensibles de millions de clients, incluant des informations personnelles (PAN, Aadhaar), des relevés bancaires, des dossiers de prêts et des données d'employés. Bien que la banque ait déclaré que ses serveurs principaux étaient sécurisés, elle mène une enquête approfondie sur une fuite potentielle liée à une plateforme SaaS (Salesforce) utilisée pour les clients de prêts automobiles. La banque conseille aux clients de rester extrêmement vigilants face aux tentatives de fraude.",
+        "description": "",
+        "title": "धक्कादायक! AU Small Finance Bank च्या डेटावर हॅकर्सचा दरोडा; पॅन, आधार कार्डसह लाखो ग्राहकांची वैयक्तिक माहिती लीक झाल्याचा दावा",
+        "url": "https://marathi.timesnownews.com/india/au-small-finance-bank-data-compromised-hackers-allegedly-steal-pan-aadhaar-and-other-sensitive-customer-data-article-156434164/amp",
+        "added": "2026-11-10"
+    },
+    {
         "date": "2026-10-23",
         "victim": "J.B Hunt",
         "domain": "jbhunt.com",
