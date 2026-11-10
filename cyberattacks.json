@@ -1,5 +1,16 @@
 [
     {
+        "date": "2024-09-12",
+        "victim": "Sekitō Holdings Co., Ltd. (関通ホールディングス株式会社)",
+        "domain": "kantsuhd.com",
+        "country": "JPN",
+        "summary": "Sekitō Holdings Co., Ltd. a été victime d'une cyberattaque par ransomware (Akira) le 12 septembre 2024. L'incident, causé par des failles dans la gestion des accès et la vulnérabilité du VPN, a entraîné un arrêt des ventes pendant environ trois mois et des pertes financières estimées à 1,7 milliard de JPY. L'entreprise a ensuite opéré une transformation radicale en migrant vers le cloud complet, en réduisant sa surface d'attaque et en adoptant les principes de Zero Trust, notamment en renforçant l'authentification et en effectuant des audits réguliers des comptes et des appareils.",
+        "description": "",
+        "title": "「思い出すと震える」悪夢のランサムウェア攻撃、被害からの回復、そしてセキュリティ企業の立ち上げへ――その生々しい経緯をCyber Governance Labの達城利元社長が語る【Security Days Fall 2026】",
+        "url": "https://internet.watch.impress.co.jp/docs/event/2152285.html",
+        "added": "2026-11-10"
+    },
+    {
         "date": "2026-11-01",
         "victim": "SES-MT (Secretaria de Estado de Saúde de Mato Grosso)",
         "domain": "saude.mt.gov.br",
