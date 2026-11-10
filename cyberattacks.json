@@ -1,5 +1,16 @@
 [
     {
+        "date": "2026-11-01",
+        "victim": "SES-MT (Secretaria de Estado de Saúde de Mato Grosso)",
+        "domain": "saude.mt.gov.br",
+        "country": "BRA",
+        "summary": "La Secretaria de Estado de Saúde de Mato Grosso (SES-MT) a été victime d'une nouvelle cyberattaque le 1er novembre 2026. Il s'agit du deuxième incident de ce type en 2026. L'attaque, attribuée au ransomware LockBit, a entraîné la suspension temporaire des systèmes des unités de la secrétaire pour des vérifications de sécurité. Les services essentiels continuent d'être fournis malgré des limitations d'accès. Un incident antérieur en mars 2026 avait également ciblé l'entité, détruisant des fichiers d'enquête et exigeant une rançon de 500 000 dollars en Bitcoin.",
+        "description": "",
+        "title": "Secretaria de Saúde de MT é alvo de ataque hacker; sistemas foram suspensos | CNN Brasil",
+        "url": "https://www.cnnbrasil.com.br/nacional/centro-oeste/mt/secretaria-de-saude-de-mt-e-alvo-de-ataque-hacker-sistemas-foram-suspensos/",
+        "added": "2026-11-10"
+    },
+    {
         "date": "2026-11-02",
         "victim": "Turning Stone Enterprises",
         "domain": "turningstoneenterprises.com",
