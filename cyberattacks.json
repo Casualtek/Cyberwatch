@@ -1,5 +1,16 @@
 [
     {
+        "date": "2026-11-02",
+        "victim": "Beget",
+        "domain": "beget.com",
+        "country": "RUS",
+        "summary": "Le fournisseur d'hébergement Beget a été victime d'une cyberattaque massive dans la nuit du 2 novembre 2026. L'attaque a gravement perturbé ses services, affectant les panneaux de contrôle, les sites web, les serveurs DNS, les connexions réseau et les systèmes de messagerie. Des efforts de restauration sont en cours, et bien que les sauvegardes soient disponibles, le délai de rétablissement complet de tous les services reste incertain.",
+        "description": "",
+        "title": "Сбой в работе хостинг-провайдера Beget назвали кибератакой и обстоятельством непреодолимой силы (форс-мажором)",
+        "url": "https://habr.com/ru/news/1102774/",
+        "added": "2026-11-10"
+    },
+    {
         "date": "2026-10-13",
         "victim": "Association Médico-Sociale Anne Morgan (AMSAM)",
         "domain": "amsam.net",
