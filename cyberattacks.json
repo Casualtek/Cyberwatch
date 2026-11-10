@@ -1,5 +1,16 @@
 [
     {
+        "date": "2026-07-06",
+        "victim": "Uchicomi",
+        "domain": "uchicomi.com",
+        "country": "JPN",
+        "summary": "Le service de location immobilière Uchicomi a annoncé avoir été victime d'une cyberattaque par rançongiciel. Suite à une défaillance de son serveur le 6 juillet 2026, une enquête a révélé que des fichiers avaient été chiffrés et volés par des tiers. Potentiellement 142 591 comptes ont été affectés, exposant des informations personnelles telles que le nom, l'adresse, le numéro de téléphone, la date de naissance et l'adresse e-mail. L'entreprise a précisé qu'elle ne détenait pas d'informations de carte de crédit.",
+        "description": "",
+        "title": "不動産賃貸サービス「ウチコミ！」、ランサムウェアによるサイバー攻撃で14万2,591アカウントの個人情報漏洩の可能性|セキュリティニュースのセキュリティ対策Lab",
+        "url": "https://rocket-boys.co.jp/security-measures-lab/uchicomi_ransomware_142591_accounts_20261105/",
+        "added": "2026-11-10"
+    },
+    {
         "date": "2026-11-02",
         "victim": "SIKOA",
         "domain": "sikoa.fr",
