@@ -1,5 +1,16 @@
 [
     {
+        "date": "2026-11-03",
+        "victim": "Air Botswana",
+        "domain": "airbotswana.co.bw",
+        "country": "BOT",
+        "summary": "Air Botswana a révélé un incident de cybersécurité, identifié le 3 novembre 2026, impliquant une attaque suspectée par ransomware. L'attaque a donné accès à des systèmes internes contenant des informations sur les employés et des données internes (telles que les dossiers RH, la paie et les contrats). L'entreprise a précisé que les systèmes critiques, notamment les réservations de passagers, les opérations de vol et les systèmes de sécurité aérienne, n'ont pas été affectés. L'attribution de l'attaque et l'ampleur exacte de la fuite de données restent inconnues.",
+        "description": "",
+        "title": "Air Botswana Reports Suspected Ransomware Attack On Internal Systems",
+        "url": "https://cioafrica.co/air-botswana-reports-suspected-ransomware-attack-on-internal-systems/",
+        "added": "2026-11-10"
+    },
+    {
         "date": "2026-07-06",
         "victim": "Uchicomi",
         "domain": "uchicomi.com",
