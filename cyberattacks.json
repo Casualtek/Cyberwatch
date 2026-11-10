@@ -1,5 +1,16 @@
 [
     {
+        "date": "2026-10-15",
+        "victim": "Municipalité et Intercommunalité de Cholet",
+        "domain": "cholet.fr",
+        "country": "FRA",
+        "summary": "La municipalité et l'intercommunalité de Cholet (Maine-et-Loire) ont signalé un incident informatique, soupçonné d'être une cyberattaque, entraînant la perturbation de plusieurs services. Les services sont actuellement injoignables par téléphone et par courriel. Les diagnostics sont en cours pour déterminer l'origine de l'attaque et les conséquences sur les usagers. Aucune fuite de données n'a été constatée à ce jour.",
+        "description": "",
+        "title": "« L’origine reste pour l’heure indéterminée » : une possible cyberattaque perturbe les services de la ville de Cholet",
+        "url": "https://angers.maville.com/actu/actudet_-l-origine-reste-pour-l-heure-indeterminee-une-possible-cyberattaque-perturbe-les-services-de-la-ville-de-cholet_dep-7550459_actu.Htm",
+        "added": "2026-11-10"
+    },
+    {
         "date": "2026-09-15",
         "victim": "Pedigo Products Inc.",
         "domain": "pedigo-usa.com",
