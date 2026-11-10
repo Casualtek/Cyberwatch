@@ -1,6 +1,17 @@
 [
     {
         "date": "2026-11-02",
+        "victim": "Ministère des Situations d'Urgence de Russie (MChS)",
+        "domain": "mchs.gov.ru",
+        "country": "RUS",
+        "summary": "L'application mobile du Ministère russe des Situations d'Urgence (MChS) a été victime d'une cyberattaque massive. Cette attaque a permis aux attaquants de diffuser de fausses informations au public. Le ministère a recommandé aux utilisateurs de cesser temporairement d'utiliser le service en attendant sa stabilisation, et des travaux sont en cours pour restaurer le service.",
+        "description": "",
+        "title": "МЧС РФ сообщило о массированной кибератаке на свое мобильное приложение",
+        "url": "https://news.ru/russia/mchs-rf-soobshilo-o-massirovannoj-kiberatake-na-svoe-mobilnoe-prilozhenie",
+        "added": "2026-11-10"
+    },
+    {
+        "date": "2026-11-02",
         "victim": "Air Alert",
         "domain": "alerts.in.ua",
         "country": "UKR",
