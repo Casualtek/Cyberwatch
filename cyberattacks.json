@@ -1,5 +1,16 @@
 [
     {
+        "date": "2026-10-22",
+        "victim": "Cărturești",
+        "domain": "carturesti.ro",
+        "country": "ROM",
+        "summary": "La librairie en ligne Cărturești a été victime d'un incident de cybersécurité, entraînant la mise hors service temporaire de son site web et de son application. Bien qu'une enquête soit en cours, la compagnie n'a pas encore trouvé de preuves que les données des utilisateurs aient été accédées ou extraites. Elle a également précisé que les données des cartes de paiement ne sont pas stockées par l'entreprise. Cărturești avertit ses utilisateurs de tentatives de phishing (messages frauduleux demandant des mots de passe ou des paiements) et recommande de changer les mots de passe si ceux-ci sont réutilisés sur d'autres plateformes.",
+        "description": "",
+        "title": "Atac cibernetic la Cărturești: site-ul, temporar indisponibil",
+        "url": "https://www.romania-actualitati.ro/stiri/romania/atac-cibernetic-la-carturesti-site-ul-temporar-indisponibil-id236510.html",
+        "added": "2026-11-10"
+    },
+    {
         "date": "2026-10-12",
         "victim": "Communauté de communes des Portes du Berry",
         "domain": "cdc-portesduberry.fr",
