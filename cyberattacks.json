@@ -1,5 +1,16 @@
 [
     {
+        "date": "2026-10-29",
+        "victim": "Police de Bhopal (Madhya Pradesh, Inde)",
+        "domain": "mppolice.gov.in",
+        "country": "IND",
+        "summary": "Un ransomware a ciblé un système client connecté au réseau CCTNS (Crime and Criminal Tracking Network and Systems) au poste de police d'Ayodhya Nagar à Bhopal, Madhya Pradesh. Les données et fichiers sur le disque dur de l'ordinateur affecté ont été chiffrés. Le serveur principal est resté sécurisé. Les autorités ont isolé le système et une enquête forensique est en cours pour déterminer la nature des données compromises.",
+        "description": "",
+        "title": "जिस पुलिस पर साइबर अपराध रोकने की जिम्मेदारी, उसी के सिस्टम पर साइबर अटैक! डेटा लॉक",
+        "url": "https://thesootr.com/state/madhya-pradesh/bhopal-police-computer-ransomware-attack-cctns-system/articleshow/135263457.html",
+        "added": "2026-11-10"
+    },
+    {
         "date": "2026-07-15",
         "victim": "Reichenau an der Rax",
         "domain": "reichenau.at",
