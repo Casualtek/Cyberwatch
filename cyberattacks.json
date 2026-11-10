@@ -1,5 +1,16 @@
 [
     {
+        "date": "2026-10-13",
+        "victim": "Association Médico-Sociale Anne Morgan (AMSAM)",
+        "domain": "amsam.net",
+        "country": "FRA",
+        "summary": "L'Association Médico-Sociale Anne Morgan (AMSAM), située à Soissons, a été victime d'une cyberattaque par le groupe de ransomware BravoX. L'incident a été détecté le 13 octobre 2026, et l'association a officiellement confirmé le vol de données personnelles. Les cybercriminels ont revendiqué le dérobement de 922,3 Go de données, incluant des factures de bénéficiaires, des documents administratifs, des plannings de salariés et des informations de soins. L'AMSAM a déposé plainte et informé la CNIL, tout en assurant que les services ont pu être maintenus.",
+        "description": "",
+        "title": "AMSAM : les patients et salariés alertés d’une fuite de leurs données personnelles après une cyberattaque",
+        "url": "https://www.cyberattaque.org/amsam-les-patients-et-salaries-alertes-dune-fuite-de-leurs-donnees-personnelles-apres-une-cyberattaque/",
+        "added": "2026-11-10"
+    },
+    {
         "date": "2026-11-02",
         "victim": "Ministère des Situations d'Urgence de Russie (MChS)",
         "domain": "mchs.gov.ru",
