@@ -1,5 +1,16 @@
 [
     {
+        "date": "2026-10-28",
+        "victim": "Verrières-en-Forez",
+        "domain": "verrieresenforez.fr",
+        "country": "FRA",
+        "summary": "Verrières-en-Forez, dans le département de la Loire a été victime d'une cyberattaque le 28 octobre 2026. L'attaque a ciblé son serveur de stockage de données, entraînant le chiffrement des informations et l'arrêt du travail du secrétariat. Bien qu'une demande de rançon ait été formulée, la commune a décidé de ne pas y répondre. L'attaque s'inscrit dans une recherche de failles informatiques visant divers services publics et collectivités.",
+        "description": "",
+        "title": "Loire. La mairie de Verrières-en-Forez victime d’une cyberattaque et d’un rançonnage",
+        "url": "https://www.leprogres.fr/politique/2026/10/31/la-mairie-de-verrieres-en-forez-victime-d-une-cyberattaque-et-d-un-ranconnage",
+        "added": "2026-11-10"
+    },
+    {
         "date": "2026-10-30",
         "victim": "Floin AG",
         "domain": "floin.com",
