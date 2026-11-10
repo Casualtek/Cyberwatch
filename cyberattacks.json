@@ -1,5 +1,16 @@
 [
     {
+        "date": "2026-10-29",
+        "victim": "Plainfield",
+        "domain": "plainfieldct.org",
+        "country": "USA",
+        "summary": "La ville de Plainfield mène une enquête sur une potentielle violation de cybersécurité affectant son réseau informatique municipal. Les autorités ont confirmé que les systèmes de vote de la ville n'ont pas été compromis, car ils fonctionnent sur un réseau séparé, utilisant des bulletins papier et des tabulateurs non connectés à Internet. Les services essentiels et les services de police continuent de fonctionner pendant l'enquête.",
+        "description": "",
+        "title": "Plainfield investigates cyber incident, votes remain secure - AOL",
+        "url": "https://www.aol.com/articles/plainfield-investigates-cyber-incident-votes-174730000.html",
+        "added": "2026-11-10"
+    },
+    {
         "date": "2026-10-15",
         "victim": "Municipalité et Intercommunalité de Cholet",
         "domain": "cholet.fr",
