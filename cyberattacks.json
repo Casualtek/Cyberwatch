@@ -1,5 +1,16 @@
 [
     {
+        "date": "2026-10-12",
+        "victim": "Communauté de communes des Portes du Berry",
+        "domain": "cdc-portesduberry.fr",
+        "country": "FRA",
+        "summary": "La Communauté de communes des Portes du Berry a été victime d'une cyberattaque détectée le 12 octobre 2026. L'intrusion a rendu certaines données informatiques inaccessibles et a potentiellement compromis des informations personnelles d'administrés, notamment celles relatives aux démarches d'urbanisme et d'assainissement. Bien qu'une violation de données soit confirmée, le vol de données n'est pas encore établi, mais la collectivité alerte sur les risques d'usurpation d'identité et de fraude.",
+        "description": "",
+        "title": "Portes du Berry : une cyberattaque menace les dossiers personnels des habitants",
+        "url": "https://www.cyberattaque.org/portes-du-berry-une-cyberattaque-menace-les-dossiers-personnels-des-habitants/",
+        "added": "2026-11-10"
+    },
+    {
         "date": "2026-10-28",
         "victim": "Zuken",
         "domain": "zuken.com",
