@@ -1,5 +1,16 @@
 [
     {
+        "date": "2026-10-29",
+        "victim": "Rosstat",
+        "domain": "rosstat.gov.ru",
+        "country": "RUS",
+        "summary": "Rosstat a signalé des cyberattaques ciblées sur ses ressources entre le 29 octobre et le 1er novembre. L'infrastructure a fonctionné normalement et aucune compromission de base de données ou fuite de données n'a été détectée. Des experts et les autorités enquêtent actuellement pour identifier le vecteur de l'attaque et ses sources.",
+        "description": "",
+        "title": "Росстат заявил о кибератаках на его информационные ресурсы с 29 октября по 1 ноября",
+        "url": "https://www.interfax.ru/russia/1126380",
+        "added": "2026-11-10"
+    },
+    {
         "date": "2026-09-20",
         "victim": "Data Hub",
         "domain": "datahub.com.np",
