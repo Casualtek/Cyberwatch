@@ -1,5 +1,16 @@
 [
     {
+        "date": "2026-11-02",
+        "victim": "Air Alert",
+        "domain": "alerts.in.ua",
+        "country": "UKR",
+        "summary": "L'application Air Alert, suite à une cyberattaque, est en cours de rétablissement. Elle a repris l'envoi de notifications d'alerte anti-aérienne, bien que les cibles affichées sur la carte soient temporairement suspendues.",
+        "description": "",
+        "title": "Air Alert在遭网络攻击后逐步恢复运行 - 开发者 | Межа",
+        "url": "https://mezha.net/ch/news/mezha-3e18752cf0f125f8828bd1d4_air-alert-gradually-resumes-operations-after/",
+        "added": "2026-11-10"
+    },
+    {
         "date": "2026-10-30",
         "victim": "Taiwan Optical Platform Co., Ltd.",
         "domain": "topmso.com.tw",
