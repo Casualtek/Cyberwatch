@@ -1,5 +1,16 @@
 [
     {
+        "date": "2026-11-02",
+        "victim": "Ayuntamiento de San Cristóbal de La Laguna",
+        "domain": "aytolalaguna.es",
+        "country": "ESP",
+        "summary": "Le Conseil municipal de San Cristóbal de La Laguna a été victime d'une grave cyberattaque le 2 novembre 2026. L'incident a affecté ses services numériques essentiels, notamment le site web officiel, la plateforme électronique, ainsi que les systèmes de gestion des dossiers administratifs et les outils fiscaux et comptables. Les équipes techniques travaillent à la résolution de l'attaque, mais l'intégrité des données et l'ampleur réelle de l'intrusion ne sont pas encore confirmées.",
+        "description": "",
+        "title": "Un ciberataque masivo golpea al Ayuntamiento de La Laguna y compromete sus principales servicios digitales",
+        "url": "https://diariodeavisos.elespanol.com/2026/11/ciberataque-ayuntamiento-la-laguna/",
+        "added": "2026-11-10"
+    },
+    {
         "date": "2026-10-18",
         "victim": "AC Environnement",
         "domain": "ac-environnement.com",
