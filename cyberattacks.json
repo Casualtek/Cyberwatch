@@ -1,5 +1,16 @@
 [
     {
+        "date": "2026-09-15",
+        "victim": "Pedigo Products Inc.",
+        "domain": "pedigo-usa.com",
+        "country": "",
+        "summary": "Pedigo Products Inc., fabricant d'équipements médicaux, a subi une violation de données suite à une attaque par rançongiciel. Un groupe de cybercriminalité nommé Interlock a affirmé avoir obtenu 1,3 téraoctet de données, incluant des informations personnelles sensibles telles que des numéros de sécurité sociale, des adresses, des dates de naissance et des détails financiers. L'entreprise propose un suivi d'identité gratuit de 24 mois aux personnes concernées.",
+        "description": "",
+        "title": "Pedigo Products Data Breach Exposes Financial Information and SSNs",
+        "url": "https://www.claimdepot.com/data-breach/pedigo-2026",
+        "added": "2026-11-10"
+    },
+    {
         "date": "2026-10-29",
         "victim": "WS Audiology",
         "domain": "wsa.com",
