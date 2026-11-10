@@ -1,5 +1,16 @@
 [
     {
+        "date": "2026-10-30",
+        "victim": "Floin AG",
+        "domain": "floin.com",
+        "country": "LIE",
+        "summary": "La plateforme de cryptomonnaies Floin, basée à Vaduz (Liechtenstein), a été victime d'une cyberattaque le 30 octobre 2026, ce qui a entraîné l'arrêt de tous ses services. Le 3 novembre, Floin a confirmé qu'une violation de la protection des données personnelles avait été détectée. Les données potentiellement compromises incluent les informations de base, les coordonnées, les données de compte et le statut de vérification d'identité, bien que l'ampleur exacte de la fuite soit toujours en cours d'investigation.",
+        "description": "",
+        "title": "Floin Cyberangriff: MiCA-Börse aus Liechtenstein offline",
+        "url": "https://cryptoticker.io/de/floin-cyberangriff-plattform-offline/",
+        "added": "2026-11-10"
+    },
+    {
         "date": "2026-10-27",
         "victim": "Token Corporation",
         "domain": "token.co.jp",
