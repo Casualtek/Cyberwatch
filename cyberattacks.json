@@ -1,6 +1,17 @@
 [
     {
         "date": "2026-10-29",
+        "victim": "Bureau du greffier du comté de Seminole",
+        "domain": "seminoleclerk.org",
+        "country": "USA",
+        "summary": "Le bureau du greffier du comté de Seminole a été victime d'une cyberattaque. L'intrusion a été détectée le mercredi 29 octobre, forçant la fermeture des systèmes informatiques et des bureaux. Bien qu'il y ait eu une interruption de service, les autorités ont confirmé qu'aucun chiffrement ni rançongiciel n'a été utilisé. Les services devraient reprendre normalement le lundi.",
+        "description": "",
+        "title": "Seminole County clerk's office closed after cyber attack, services expected to resume Monday",
+        "url": "https://www.wesh.com/article/seminole-county-clerks-office-cyber-attack-closure/74298766",
+        "added": "2026-11-10"
+    },
+    {
+        "date": "2026-10-29",
         "victim": "Plainfield",
         "domain": "plainfieldct.org",
         "country": "USA",
