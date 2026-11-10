@@ -1,5 +1,16 @@
 [
     {
+        "date": "2026-10-28",
+        "victim": "RSA di Rovereto",
+        "domain": "apspvannetti.it",
+        "country": "ITA",
+        "summary": "Une résidence sanitaire assistée (RSA) de Rovereto, dans le Trentin, a été victime d'une cyberattaque par rançongiciel. L'intrusion a été détectée le mercredi 28 octobre, et les techniciens travaillent actuellement à la restauration du système. Aucune information n'est encore disponible concernant l'ampleur des dommages, la compromission éventuelle des données ou l'identité des auteurs de l'attaque.",
+        "description": "",
+        "title": "Attacco hacker alla Rsa di Rovereto: chiesto un riscatto, tecnici al lavoro",
+        "url": "https://www.ladige.it/salute-e-benessere/attacco-hacker-alla-rsa-di-rovereto-chiesto-un-riscatto-tecnici-al-lavoro-o55xsxq4",
+        "added": "2026-11-10"
+    },
+    {
         "date": "2026-10-29",
         "victim": "Police de Bhopal (Madhya Pradesh, Inde)",
         "domain": "mppolice.gov.in",
