@@ -1,5 +1,16 @@
 [
     {
+        "date": "2026-10-29",
+        "victim": "WS Audiology",
+        "domain": "wsa.com",
+        "country": "NLD",
+        "summary": "WS Audiology a été victime d'un incident de cybersécurité fin octobre 2026. Cet accès non autorisé a visé son environnement de gestion de la relation client (CRM) ainsi que ses systèmes informatiques opérationnels internes, entraînant une interruption immédiate et temporaire des services de son écosystème numérique.",
+        "description": "",
+        "title": "WS Audiology hit by new cyberattack",
+        "url": "https://medwatch.com/News/hearing_health/article19787621.ece",
+        "added": "2026-11-10"
+    },
+    {
         "date": "2025-06-09",
         "victim": "12 STOREEZ",
         "domain": "12storeez.store",
