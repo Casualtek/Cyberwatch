@@ -10344,6 +10344,18 @@
         ]
     },
     {
+        "victim": "acmestamping.com",
+        "domain": "acmestamping.com",
+        "country": "US",
+        "timeline": [
+            {
+                "date": "2026-10-06",
+                "type": "claimed",
+                "group": "incransom"
+            }
+        ]
+    },
+    {
         "victim": "ACME Truck Line, Inc.",
         "domain": "acmetruck.com",
         "country": "US",
@@ -25713,9 +25725,9 @@
         ]
     },
     {
-        "victim": "AON.COM",
+        "victim": "Aon",
         "domain": "aon.com",
-        "country": "",
+        "country": "US",
         "timeline": [
             {
                 "date": "2022-07-03",
@@ -25726,6 +25738,11 @@
                 "date": "2023-06-16",
                 "type": "claimed",
                 "group": "clop"
+            },
+            {
+                "date": "2026-10-06",
+                "type": "claimed",
+                "group": "termite"
             }
         ]
     },
@@ -27859,6 +27876,18 @@
                 "date": "2025-01-22",
                 "type": "claimed",
                 "group": "akira"
+            }
+        ]
+    },
+    {
+        "victim": "architekt-vondanwitz.de",
+        "domain": "architekt-vondanwitz.de",
+        "country": "DE",
+        "timeline": [
+            {
+                "date": "2026-10-06",
+                "type": "claimed",
+                "group": "incransom"
             }
         ]
     },
@@ -36081,6 +36110,18 @@
                 "date": "2023-03-28",
                 "type": "claimed",
                 "group": "ransomhouse"
+            }
+        ]
+    },
+    {
+        "victim": "Matadero Frigorífico Avinyó",
+        "domain": "avinyo.net",
+        "country": "ES",
+        "timeline": [
+            {
+                "date": "2026-10-07",
+                "type": "claimed",
+                "group": "qilin"
             }
         ]
     },
@@ -69604,6 +69645,18 @@
         ]
     },
     {
+        "victim": "Chibitek",
+        "domain": "chibitek.com",
+        "country": "US",
+        "timeline": [
+            {
+                "date": "2026-10-07",
+                "type": "claimed",
+                "group": "N0n"
+            }
+        ]
+    },
+    {
         "victim": "Chicago Atlantic Group",
         "domain": "chicagoatlantic.com",
         "country": "US",
@@ -74463,6 +74516,18 @@
                 "date": "2023-08-29",
                 "type": "claimed",
                 "group": "lockbit3"
+            }
+        ]
+    },
+    {
+        "victim": "City of Cloverdale",
+        "domain": "cloverdale.net",
+        "country": "US",
+        "timeline": [
+            {
+                "date": "2025-12-14",
+                "type": "claimed",
+                "group": "incransom"
             }
         ]
     },
@@ -113849,6 +113914,18 @@
         ]
     },
     {
+        "victim": "EPTISA",
+        "domain": "eptisa.com",
+        "country": "ES",
+        "timeline": [
+            {
+                "date": "2026-10-07",
+                "type": "claimed",
+                "group": "qilin"
+            }
+        ]
+    },
+    {
         "victim": "Epworth-Hospital",
         "domain": "epworth.org.au",
         "country": "AU",
@@ -133311,6 +133388,18 @@
         ]
     },
     {
+        "victim": "Gate | Crypto Exchange",
+        "domain": "gate.com",
+        "country": "SG",
+        "timeline": [
+            {
+                "date": "2026-10-07",
+                "type": "claimed",
+                "group": "BYOD"
+            }
+        ]
+    },
+    {
         "victim": "gates-cooper.com",
         "domain": "gates-cooper.com",
         "country": "US",
@@ -149174,6 +149263,18 @@
                 "date": "2025-12-09",
                 "type": "claimed",
                 "group": "coinbasecartel"
+            }
+        ]
+    },
+    {
+        "victim": "harborpacific.com",
+        "domain": "harborpacific.com",
+        "country": "US",
+        "timeline": [
+            {
+                "date": "2026-10-06",
+                "type": "claimed",
+                "group": "incransom"
             }
         ]
     },
@@ -193951,6 +194052,18 @@
                 "date": "2024-12-10",
                 "type": "claimed",
                 "group": "apt73"
+            }
+        ]
+    },
+    {
+        "victim": "Leadec",
+        "domain": "leadec-services.com",
+        "country": "DE",
+        "timeline": [
+            {
+                "date": "2026-10-07",
+                "type": "claimed",
+                "group": "anubis"
             }
         ]
     },
@@ -254012,6 +254125,18 @@
         ]
     },
     {
+        "victim": "Petrosul Distribuidora, Transportadora e Comércio de Combustíveis Ltda.",
+        "domain": "petrosul.com.br",
+        "country": "BR",
+        "timeline": [
+            {
+                "date": "2026-10-07",
+                "type": "claimed",
+                "group": "dragonforce"
+            }
+        ]
+    },
+    {
         "victim": "petrotec.com.qa",
         "domain": "petrotec.com.qa",
         "country": "QA",
@@ -267409,6 +267534,18 @@
         ]
     },
     {
+        "victim": "Qatar National Import & Export",
+        "domain": "qnie.com",
+        "country": "QA",
+        "timeline": [
+            {
+                "date": "2026-10-07",
+                "type": "claimed",
+                "group": "qilin"
+            }
+        ]
+    },
+    {
         "victim": "Quy Nhon University",
         "domain": "qnu.edu.vn",
         "country": "VN",
@@ -270075,6 +270212,18 @@
                 "date": "2026-05-01",
                 "type": "claimed",
                 "group": "fulcrumsec"
+            }
+        ]
+    },
+    {
+        "victim": "Raqib",
+        "domain": "raqib.sa",
+        "country": "SA",
+        "timeline": [
+            {
+                "date": "2026-10-07",
+                "type": "claimed",
+                "group": "UmBra"
             }
         ]
     },
@@ -273595,6 +273744,18 @@
         ]
     },
     {
+        "victim": "RÉSO",
+        "domain": "reso.fr",
+        "country": "FR",
+        "timeline": [
+            {
+                "date": "2026-10-07",
+                "type": "claimed",
+                "group": "dragonforce"
+            }
+        ]
+    },
+    {
         "victim": "Resolve Law Group",
         "domain": "resolvelawgroup.com",
         "country": "US",
@@ -276766,6 +276927,18 @@
                 "date": "2025-10-14",
                 "type": "claimed",
                 "group": "qilin"
+            }
+        ]
+    },
+    {
+        "victim": "Riviera Healthcare Center",
+        "domain": "rivierahealthcare.com",
+        "country": "US",
+        "timeline": [
+            {
+                "date": "2026-10-07",
+                "type": "claimed",
+                "group": "interlock"
             }
         ]
     },
@@ -284165,6 +284338,18 @@
                 "date": "2026-07-15",
                 "type": "claimed",
                 "group": "Black X"
+            }
+        ]
+    },
+    {
+        "victim": "SANAtech Global Solutions",
+        "domain": "sanatechgs.com",
+        "country": "EG",
+        "timeline": [
+            {
+                "date": "2026-10-07",
+                "type": "claimed",
+                "group": "UmBra"
             }
         ]
     },
@@ -315367,6 +315552,18 @@
         ]
     },
     {
+        "victim": "TMobile",
+        "domain": "t-mobile.com",
+        "country": "US",
+        "timeline": [
+            {
+                "date": "2026-10-07",
+                "type": "claimed",
+                "group": "BYOD"
+            }
+        ]
+    },
+    {
         "victim": "T Online",
         "domain": "t-online.de",
         "country": "DE",
@@ -318954,6 +319151,18 @@
         ]
     },
     {
+        "victim": "Tec Imports",
+        "domain": "tecimports.com",
+        "country": "BR",
+        "timeline": [
+            {
+                "date": "2025-07-10",
+                "type": "claimed",
+                "group": "incransom"
+            }
+        ]
+    },
+    {
         "victim": "tecnicarobertorocca.edu.ar",
         "domain": "tecnicarobertorocca.edu.ar",
         "country": "AR",
@@ -321920,6 +322129,11 @@
                 "date": "2024-12-17",
                 "type": "claimed",
                 "group": "termite"
+            },
+            {
+                "date": "2026-10-07",
+                "type": "claimed",
+                "group": "UmBra"
             }
         ]
     },
@@ -326470,6 +326684,18 @@
                 "date": "2026-07-13",
                 "type": "assessed",
                 "group": "kairos"
+            }
+        ]
+    },
+    {
+        "victim": "The New Community School",
+        "domain": "tncs.org",
+        "country": "US",
+        "timeline": [
+            {
+                "date": "2026-10-07",
+                "type": "claimed",
+                "group": "incransom"
             }
         ]
     },
@@ -334466,6 +334692,18 @@
         ]
     },
     {
+        "victim": "UAE Pro League",
+        "domain": "uaeproleague.ae",
+        "country": "AE",
+        "timeline": [
+            {
+                "date": "2025-10-07",
+                "type": "claimed",
+                "group": "incransom"
+            }
+        ]
+    },
+    {
         "victim": "uaes.com",
         "domain": "uaes.com",
         "country": "",
@@ -336681,6 +336919,18 @@
             {
                 "date": "2024-11-30",
                 "type": "reported"
+            }
+        ]
+    },
+    {
+        "victim": "University of Rostock",
+        "domain": "uni-rostock.de",
+        "country": "DE",
+        "timeline": [
+            {
+                "date": "2026-10-07",
+                "type": "claimed",
+                "group": "Panzer"
             }
         ]
     },
@@ -349670,6 +349920,18 @@
                 "date": "2024-06-10",
                 "type": "claimed",
                 "group": "darkvault"
+            }
+        ]
+    },
+    {
+        "victim": "Wavecrest HFA",
+        "domain": "wavecrestalp.com",
+        "country": "US",
+        "timeline": [
+            {
+                "date": "2026-07-07",
+                "type": "claimed",
+                "group": "incransom"
             }
         ]
     },
