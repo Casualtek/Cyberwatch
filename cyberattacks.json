@@ -1,5 +1,16 @@
 [
     {
+        "date": "2026-11-09",
+        "victim": "Ridgecrest Regional Hospital",
+        "domain": "rrh.org",
+        "country": "USA",
+        "summary": "Ridgecrest Regional Hospital (RRH) a dû mettre ses systèmes hors ligne suite à un incident de cybersécurité. Le groupe ScarlettGroup a listé le domaine de l'hôpital sur son site d'extorsion, affirmant détenir des dossiers patients, employés, de paie, cliniques et financiers. L'incident a entraîné des retards dans le traitement des ordonnances à la pharmacie. Bien que des menaces d'extorsion aient été documentées, l'hôpital n'a pas confirmé l'attribution de l'attaque ni la nature exacte de l'incident (rançongiciel ou vol de données).",
+        "description": "",
+        "title": "Ridgecrest Regional Hospital in California takes systems offline after cyber incident",
+        "url": "https://dysruptionhub.com/ridgecrest-california-hospital-cyber-incident/?utm_source=rss",
+        "added": "2026-11-11"
+    },
+    {
         "date": "2026-10-28",
         "victim": "Barbour County Schools",
         "domain": "bcsvw.com",
