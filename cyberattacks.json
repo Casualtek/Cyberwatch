@@ -1,5 +1,16 @@
 [
     {
+        "date": "2026-11-05",
+        "victim": "Giken",
+        "domain": "giken.com",
+        "country": "JPN",
+        "summary": "GIKEN a annoncé le 9 novembre 2026 avoir été victime d'une cyberattaque par ransomware. L'accès non autorisé à un serveur a exposé les informations personnelles d'environ 3 200 personnes, incluant des identifiants de connexion et des mots de passe cryptés du système de support client. L'anomalie a été détectée le 5 novembre et l'accès a été coupé le 6 novembre. Bien qu'aucune preuve de transmission externe n'ait été confirmée à ce jour, la possibilité d'une fuite de données n'est pas exclue.",
+        "description": "",
+        "title": "技研製作所にランサムウェアを伴う不正アクセス、約3,200人の個人情報漏えいのおそれ 顧客支援システムのID・暗号化パスワードも対象|セキュリティニュースのセキュリティ対策Lab",
+        "url": "https://rocket-boys.co.jp/security-measures-lab/giken_ransomware_3200_potential_data_leak_20261109/",
+        "added": "2026-11-11"
+    },
+    {
         "date": "2026-11-08",
         "victim": "Municipalité de Narni",
         "domain": "narni.tr.it",
