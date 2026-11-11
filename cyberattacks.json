@@ -1,5 +1,16 @@
 [
     {
+        "date": "2026-11-10",
+        "victim": "ePUAP (Système gouvernemental polonais)",
+        "domain": "epuap.gov.pl",
+        "country": "POL",
+        "summary": "Une cyberattaque a été découverte et stoppée sur le système gouvernemental polonais ePUAP. Le ministre de la Digitalisation, Krzysztof Gawkowski, a confirmé que les équipes de sécurité ont agi rapidement pour maintenir la stabilité de l'infrastructure. Des travaux techniques sont actuellement en cours pour restaurer complètement le fonctionnement du système. L'Agence de sécurité intérieure polonaise (ABW) est impliquée dans l'enquête, mais aucune information concernant l'origine de l'attaque n'a été communiquée.",
+        "description": "",
+        "title": "Кибератаку на польскую систему ePUAP остановили — Polsat News",
+        "url": "https://ua.news/ru/dovkolo-svitu/u-polshchi-zupinili-kiberataku-na-derzhavnu-sistemu-epuap-polsat-news",
+        "added": "2026-11-11"
+    },
+    {
         "date": "2026-09-30",
         "victim": "Next One",
         "domain": "next-one.com",
