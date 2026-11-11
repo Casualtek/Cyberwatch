@@ -1,5 +1,16 @@
 [
     {
+        "date": "2026-10-17",
+        "victim": "Bbt Se",
+        "domain": "bbt-se.com",
+        "country": "FRA",
+        "summary": "Une cyberattaque a ciblé les systèmes de Bbt Se, la société responsable de la conception et de la construction du Tunnel de Base du Brenner. L'intrusion, survenue le 17 octobre 2026, a permis à des personnes non autorisées d'accéder à des données non publiques. Les autorités, notamment la Polizia Postale de Bolzano et le Parquet de Trento, mènent une enquête. Bien qu'un possible lien avec des hackers d'origine russe soit évoqué, il n'a pas été confirmé. La société a confirmé que l'incident n'a eu aucune répercussion sur les activités opérationnelles ou les travaux du tunnel.",
+        "description": "",
+        "title": "Attacco informatico alla galleria del Brennero, aperto un fascicolo",
+        "url": "https://www.altoadige.it/cronaca/galleria-del-brennero-sotto-attacco-informatico-violati-dati-riservati-omgvr3y8",
+        "added": "2026-11-11"
+    },
+    {
         "date": "2026-11-10",
         "victim": "Port de Santos",
         "domain": "portodesantos.com.br",
