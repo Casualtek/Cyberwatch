@@ -1,5 +1,16 @@
 [
     {
+        "date": "2026-11-02",
+        "victim": "Busan Bon Hospital",
+        "domain": "bonhospital.co.kr",
+        "country": "KOR",
+        "summary": "Le Busan Bon Hospital, spécialisé dans la colonne et les articulations a été victime d'une cyberattaque par rançongiciel (ransomware). L'attaque, survenue le 2 novembre 2026, a entraîné la perte de tous les dossiers médicaux et des informations des patients. La paralysie du système a stoppé les admissions de nouveaux patients et les règlements des patients sortants. Les attaquants ont exigé une somme importante en Bitcoin pour la récupération des données.",
+        "description": "",
+        "title": "[단독] \"병원도 뚫렸다\"‥랜섬웨어 해킹에 진료 마비",
+        "url": "https://imnews.imbc.com/replay/2026/nwdesk/article/6863510_37004.html",
+        "added": "2026-11-11"
+    },
+    {
         "date": "2026-11-01",
         "victim": "AWO Ruhr-Lippe-Ems",
         "domain": "awo-rle.de",
