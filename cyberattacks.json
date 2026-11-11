@@ -1,6 +1,17 @@
 [
     {
         "date": "2026-11-08",
+        "victim": "Municipalité de Narni",
+        "domain": "narni.tr.it",
+        "country": "ITA",
+        "summary": "Le service informatique de la municipalité de Narni a détecté une tentative d'intrusion sur son serveur, qui contenait des milliers de données sensibles. L'attaque a été déjouée par le personnel, qui a immédiatement sécurisé le serveur de messagerie. L'incident souligne la nécessité d'amplifier les méthodes de défense du système.",
+        "description": "",
+        "title": "Attacco informatico al Comune di Narni. I dati messi in sicurezza prima dell’intrusione vera e propria",
+        "url": "https://terninrete.it/notizie-di-terni-attacco-informatico-al-comune-di-narni-i-dati-messi-in-sicurezza-prima-dellintrusione-vera-e-propria-dellhater/",
+        "added": "2026-11-11"
+    },
+    {
+        "date": "2026-11-08",
         "victim": "ESTT",
         "domain": "estt.ru",
         "country": "RUS",
