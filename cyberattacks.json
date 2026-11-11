@@ -1,5 +1,16 @@
 [
     {
+        "date": "2026-11-04",
+        "victim": "Bibliothèque publique de Queens (QPL)",
+        "domain": "queenslibrary.org",
+        "country": "USA",
+        "summary": "La Bibliothèque publique de Queens (QPL) a confirmé avoir été victime d'une cyberattaque par rançongiciel (ransomware) mercredi soir. L'incident a entraîné la paralysie de ses services numériques, incluant le site web, le Wi-Fi, les applications mobiles et les machines de prêt. Aucune organisation criminelle n'a encore revendiqué la responsabilité de l'attaque.",
+        "description": "",
+        "title": "纽约皇后区公共图书馆对抗勒索软件罪犯：Wi-Fi、借还服务和网站陷入瘫痪",
+        "url": "https://news.lavx.hu/zh-Hans/article/niu-yue-huang-hou-qu-gong-gong-tu-shu-guan-dui-kang-le-suo-ruan-jian-zui-fan-wi-fi-jie-hai-fu-wu-he-wang-zhan-xian-ru-tan-huan",
+        "added": "2026-11-11"
+    },
+    {
         "date": "2026-11-02",
         "victim": "Hanil Networks",
         "domain": "hanilnetworks.com",
