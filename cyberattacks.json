@@ -1,5 +1,16 @@
 [
     {
+        "date": "2026-10-19",
+        "victim": "Seminole County School System",
+        "domain": "seminole.k12.ga.us",
+        "country": "USA",
+        "summary": "Le système scolaire de Seminole County en Géorgie a été victime d'une cyberattaque par rançongiciel (ransomware) attribuée au groupe Global Secret Group (GSG). L'incident a été détecté le 19 octobre 2026, forçant le district à mettre ses systèmes hors ligne. Le groupe GSG a revendiqué l'accès à environ 39,6 Go de données. Le district n'a pas encore confirmé si des données ont été volées ou si des fichiers ont été chiffrés, et l'enquête est toujours en cours.",
+        "description": "",
+        "title": "Seminole County schools in Georgia shut systems after cyber incident",
+        "url": "https://dysruptionhub.com/seminole-georgia-schools-cyber-incident/",
+        "added": "2026-11-11"
+    },
+    {
         "date": "2026-11-04",
         "victim": "Bibliothèque publique de Queens (QPL)",
         "domain": "queenslibrary.org",
