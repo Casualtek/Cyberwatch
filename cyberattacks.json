@@ -1,5 +1,16 @@
 [
     {
+        "date": "2026-09-30",
+        "victim": "Next One",
+        "domain": "next-one.com",
+        "country": "FRA",
+        "summary": "Next One, une entreprise française spécialisée dans l'affichage publicitaire, a été victime d'une cyberattaque par rançongiciel fin septembre 2026. L'attaque a chiffré sa base de données SQL Server et rendu ses sauvegardes informatiques inutilisables, paralysant ainsi ses opérations quotidiennes (devis, factures, consultation des clients). Après l'intervention de prestataires, un serveur de secours a été mis en place rapidement. La récupération complète des données et le retour à la normale ont nécessité environ un mois. L'identité des cybercriminels n'a pas été rendue publique, et aucune fuite de données personnelles n'a été confirmée.",
+        "description": "",
+        "title": "Le géant français de l'affichage publicitaire Next One paralysé par une cyberattaque",
+        "url": "https://frenchbreaches.com/blog/le-geant-francais-de-laffichage-publicitaire-next-one-paralyse-par-une-cyberattaque",
+        "added": "2026-11-11"
+    },
+    {
         "date": "2025-10-16",
         "victim": "Kurogane Kasei",
         "domain": "kuroganekasei.com",
