@@ -1,5 +1,16 @@
 [
     {
+        "date": "2026-10-31",
+        "victim": "Fullerton Health",
+        "domain": "fullertonhealth.com",
+        "country": "SGP",
+        "summary": "Le fournisseur de solutions de santé Fullerton Health a été victime d'une cyberattaque impliquant un accès non autorisé à un serveur. L'incident, découvert le 31 octobre, concerne potentiellement les données personnelles des participants au programme Migrant Worker Primary Care Plan (PCP) géré par le Ministère de la Main-d'œuvre (MOM). Les données compromises incluent le nom, le numéro d'identification étranger, la date de naissance, le numéro de téléphone, l'adresse e-mail et l'adresse résidentielle des travailleurs migrants. Fullerton Health a confirmé que les données de santé ou financières n'ont pas été affectées et coopère avec les autorités compétentes.",
+        "description": "",
+        "title": "Fullerton Health hit by cyber attack, personal data of migrant workers exposed",
+        "url": "https://www.asiaone.com/singapore/fullerton-health-data-breach-migrant-workers",
+        "added": "2026-11-11"
+    },
+    {
         "date": "2026-11-10",
         "victim": "ePUAP (Système gouvernemental polonais)",
         "domain": "epuap.gov.pl",
