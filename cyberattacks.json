@@ -1,5 +1,16 @@
 [
     {
+        "date": "2026-11-06",
+        "victim": "LAHSA (Los Angeles Homeless Services Authority)",
+        "domain": "lahsa.org",
+        "country": "USA",
+        "summary": "L'Autorité des Services aux Sans-Abri de Los Angeles (LAHSA) a ordonné à son personnel de se déconnecté des systèmes informatiques et des e-mails suite à une enquête sur un incident de cybersécurité potentiel. L'ordre a été émis vendredi. Bien que l'agence maintienne ses opérations essentielles, l'accès aux données sensibles des clients (informations de santé, revenus, etc.) et l'impact sur les services clients restent inconnus.",
+        "description": "",
+        "title": "Cybersecurity investigation shuts down computers at Los Angeles Homeless Services Authority",
+        "url": "https://dysruptionhub.com/lahsa-los-angeles-cybersecurity-shutdown/?utm_source=rss",
+        "added": "2026-11-11"
+    },
+    {
         "date": "2026-11-09",
         "victim": "Ridgecrest Regional Hospital",
         "domain": "rrh.org",
