@@ -1,5 +1,16 @@
 [
     {
+        "date": "2026-11-09",
+        "victim": "Vanderbilt University",
+        "domain": "vanderbilt.edu",
+        "country": "USA",
+        "summary": "L'Université Vanderbilt a été victime d'une cyberattaque par logiciel malveillant, attribuée au groupe \"BYOD\". L'attaque a commencé le lundi matin, entraînant la propagation de logiciels malveillants et la modification de fichiers au format .byod. L'université a dû demander à sa communauté de déconnectée immédiatement de son réseau. Selon les informations disponibles, les pirates auraient obtenu des données personnelles étendues, incluant des dossiers d'étudiants et plus d'un million de numéros de sécurité sociale.",
+        "description": "",
+        "title": "Ransomware Attack Puts Vanderbilt on Lockdown",
+        "url": "https://www.nashvillescene.com/news/pithinthewind/vanderbilt-university-cyber-attack-lockdown/article_c7136f1f-a103-4e75-93bc-826ca02e894e.html",
+        "added": "2026-11-11"
+    },
+    {
         "date": "2026-11-07",
         "victim": "Kinnarps",
         "domain": "kinnarps.com",
