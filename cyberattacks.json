@@ -1,5 +1,16 @@
 [
     {
+        "date": "2025-10-16",
+        "victim": "Kurogane Kasei",
+        "domain": "kuroganekasei.com",
+        "country": "JPN",
+        "summary": "La Kurogane Kasei a confirmé avoir été victime d'une cyberattaque par rançongiciel (ransomware) et d'un accès non autorisé à ses serveurs. L'incident a été découvert le 16 octobre 2025, suite à des problèmes de connectivité. L'enquête a révélé des traces d'accès non autorisés provenant de l'étranger. L'attaque a entraîné une fuite potentielle de données personnelles (noms, adresses, numéros de téléphone, adresses e-mail, titres et départ) concernant des clients, des cadres, des employés et des candidats à l'emploi. L'entreprise a mis en place des mesures de sécurité renforcées, incluant l'initialisation des systèmes, l'adoption de l'authentification multi-facteurs, l'introduction de services de surveillance (MDR) et le renforcement des politiques de sauvegarde et de filtrage.",
+        "description": "",
+        "title": "黒金化成にランサムウェア攻撃 調査結果公表1年後 | ScanNetSecurity",
+        "url": "https://scan.netsecurity.ne.jp/article/2026/11/10/56718.html",
+        "added": "2026-11-11"
+    },
+    {
         "date": "2026-11-05",
         "victim": "Giken",
         "domain": "giken.com",
