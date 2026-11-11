@@ -1,5 +1,16 @@
 [
     {
+        "date": "2026-11-08",
+        "victim": "ESTT",
+        "domain": "estt.ru",
+        "country": "RUS",
+        "summary": "Le fournisseur d'hébergement russe ESTT a été victime d'une cyberattaque par rançongiciel le 8 novembre 2026. L'attaque a provoqué une panne massive de ses services clients et de son infrastructure cloud. Bien qu'ESTT affirme qu'aucune fuite de données n'a eu lieu et que 90 % des serveurs virtuels ont été restaurés, les portails utilisateurs restent inaccessibles, et le délai de récupération complet n'est pas précisé.",
+        "description": "",
+        "title": "Второй за неделю российский хостинг стал жертвой атаки хакеров",
+        "url": "https://korrespondent.net/world/russia/4927425-vtoroi-za-nedelui-rossyiskyi-khostynh-stal-zhertvoi-ataky-khakerov",
+        "added": "2026-11-11"
+    },
+    {
         "date": "2026-11-02",
         "victim": "Busan Bon Hospital",
         "domain": "bonhospital.co.kr",
