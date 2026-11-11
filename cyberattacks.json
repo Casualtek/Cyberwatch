@@ -1,5 +1,16 @@
 [
     {
+        "date": "2026-11-01",
+        "victim": "AWO Ruhr-Lippe-Ems",
+        "domain": "awo-rle.de",
+        "country": "DEU",
+        "summary": "L'AWO Ruhr-Lippe-Ems a été victime d'une cyberattaque le 1er novembre, où des attaquants inconnus ont pénétré dans certaines parties de son infrastructure informatique. Les pirates ont réussi à obtenir des coordonnées et potentiellement à copier des documents relatifs aux services de conseil ou de facturation. L'AWO a réagi en renouvelant préventivement les accès, les mots de passe et les codes de sécurité, et a déposé une plainte. Bien que l'incident ait été pris au sérieux, les 170 établissements de l'organisation continuent de fonctionner normalement.",
+        "description": "",
+        "title": "Cyberangriff auf die AWO: Unbekannte Täter kopieren Daten vom Server",
+        "url": "https://www1.wdr.de/nrw/ruhrgebiet/kreis-unna/awo-cyberangriff-ruhr-lippe-ems-100.html",
+        "added": "2026-11-11"
+    },
+    {
         "date": "2026-11-06",
         "victim": "LAHSA (Los Angeles Homeless Services Authority)",
         "domain": "lahsa.org",
