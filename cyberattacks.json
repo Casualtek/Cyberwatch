@@ -1,5 +1,16 @@
 [
     {
+        "date": "2026-11-07",
+        "victim": "Kinnarps",
+        "domain": "kinnarps.com",
+        "country": "SWE",
+        "summary": "Le fabricant de meubles Kinnarps a été victime d'une cyberattaque. L'intrusion a été découverte le samedi soir, forçant l'entreprise à arrêter sa production dans trois de ses sites (Kinnarp, Jönköping et Skillingaryd) et à mettre son site web hors ligne afin de minimiser les dégâts. L'incident a été signalé à la police.",
+        "description": "",
+        "title": "Cyberattack tvingade Kinnarps att stoppa produktionen på tre orter",
+        "url": "https://www.borskollen.se/nyheter/27/cyberattack-tvingade-kinnarps-att-stoppa-produktionen-pa-tre-orter",
+        "added": "2026-11-11"
+    },
+    {
         "date": "2026-09-03",
         "victim": "Câmara Municipal de Santa Bárbara d'Oeste",
         "domain": "camarasantabarbara.sp.gov.br",
