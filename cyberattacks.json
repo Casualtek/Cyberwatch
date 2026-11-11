@@ -1,5 +1,16 @@
 [
     {
+        "date": "2026-11-07",
+        "victim": "Mairie de Chambourcy",
+        "domain": "chambourcy.fr",
+        "country": "FRA",
+        "summary": "La mairie de Chambourcy a été victime d'une cyberattaque le week-end du 7 et 8 novembre 2026. L'incident a entraîné la mise à l'arrêt préventive de son réseau informatique, forçant les services municipaux à basculer en grande partie en mode papier. La mairie a déposé une plainte et informé la CNIL de l'incident. Elle met également en garde les habitants contre les tentatives d'escroquerie exploitant cette situation.",
+        "description": "",
+        "title": "Chambourcy : cyberattaque à la mairie",
+        "url": "https://www.infosyvelines.fr/articles/chambourcy-mairie-victime-cyberattaque-services-mode",
+        "added": "2026-11-11"
+    },
+    {
         "date": "2026-10-17",
         "victim": "Bbt Se",
         "domain": "bbt-se.com",
