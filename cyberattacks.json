@@ -1,5 +1,16 @@
 [
     {
+        "date": "2026-11-02",
+        "victim": "Hanil Networks",
+        "domain": "hanilnetworks.com",
+        "country": "KOR",
+        "summary": "Hanil Networks, une filiale d'infrastructure informatique du groupe Ubase, a été victime d'une attaque par rançongiciel (ransomware) le 2 novembre 2026. L'entreprise affirme avoir mis en place des mesures de défense immédiates, et aucune fuite de données n'a été confirmée. Cependant, en raison de ses clients dans le secteur financier, les autorités financières ont ordonné des vérifications de sécurité auprès de toutes les institutions financières pour s'assurer qu'il n'y a pas eu de dommages indirect.",
+        "description": "",
+        "title": "한일네트웍스 랜섬웨어 공격받아... “즉시 차단, 유출 피해 없어” - 보안뉴스",
+        "url": "https://www.boannews.com/news/articleView.html?idxno=147152",
+        "added": "2026-11-11"
+    },
+    {
         "date": "2026-11-07",
         "victim": "Mairie de Chambourcy",
         "domain": "chambourcy.fr",
