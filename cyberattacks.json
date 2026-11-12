@@ -1,5 +1,16 @@
 [
     {
+        "date": "2026-11-11",
+        "victim": "Wilmington College",
+        "domain": "wilmington.edu",
+        "country": "USA",
+        "summary": "Le Wilmington College a fermé son campus en Ohio le mercredi 11 novembre pour enquêter sur un incident de sécurité potentiel. L'établissement a interdit l'accès à des systèmes clés tels que SharePoint, OneDrive et Jenzabar pour ses étudiants et employés en attendant plus d'informations.",
+        "description": "",
+        "title": "Wilmington College closes Ohio campus early over possible cyber incident",
+        "url": "https://dysruptionhub.com/wilmington-college-ohio-cyber-incident-campus-closure/?utm_source=rss",
+        "added": "2026-11-12"
+    },
+    {
         "date": "2026-11-12",
         "victim": "Evergreen Logistics Corp.",
         "domain": "evergreen-logistics.com",
