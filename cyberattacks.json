@@ -1,5 +1,16 @@
 [
     {
+        "date": "2026-11-12",
+        "victim": "Evergreen Logistics Corp.",
+        "domain": "evergreen-logistics.com",
+        "country": "TWN",
+        "summary": "Le 12 novembre 2026, Evergreen Logistics a détecté des anomalies dans certains de ses systèmes d'information, potentiellement liées à une cyberattaque. L'entreprise a immédiatement activé ses mécanismes de réponse aux incidents de cybersécurité et fait appel à une société externe spécialisée pour l'investigation et l'analyse judiciaire, tandis que les systèmes continuent de fonctionner normalement sans interruption de service. À ce stade, l'incident n'a entraîné aucun impact significatif sur la situation financière ou les opérations du groupe consolidé, et des mesures de renforcement de la sécurité ainsi qu'une surveillance continues seront maintenus, avec des communications ultérieures si des développements importants surviennent.",
+        "description": "",
+        "title": "Today's Information",
+        "url": "https://emops.twse.com.tw/server-java/t05sr01_1_e?&isNew=Y&seq_no=2&spoke_time=182348&spoke_date=20261112&co_id=2607",
+        "added": "2026-11-12"
+    },
+    {
         "date": "2026-09-15",
         "victim": "Proclin Utrecht",
         "domain": "proclin.nl",
