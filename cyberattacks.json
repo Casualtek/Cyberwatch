@@ -1,5 +1,16 @@
 [
     {
+        "date": "2026-11-11",
+        "victim": "Worten",
+        "domain": "worten.pt",
+        "country": "POR",
+        "summary": "La société Worten, appartenant au groupe Sonae, a révélé avoir été victime d'une cyberattaque. Un accès non autorisé à certains données personnelles d'un groupe restreint de clients a été constaté. Les données compromises incluent le numéro de contribuable, les coordonnées (téléphone, email) et les numéros d'identification de commandes. La société assure que les mots de passe et les données de paiement n'ont pas été affectés. Elle travaille en collaboration avec les autorités compétentes et a renforcé les mesures de sécurité de ses systèmes.",
+        "description": "",
+        "title": "Worten alvo de ataque informático. Dados pessoais de clientes afetados",
+        "url": "https://www.jornaldenegocios.pt/empresas/comercio/detalhe/worten-alvo-de-ataque-informatico",
+        "added": "2026-11-12"
+    },
+    {
         "date": "2026-10-31",
         "victim": "Fullerton Health",
         "domain": "fullertonhealth.com",
