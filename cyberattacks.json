@@ -1,5 +1,16 @@
 [
     {
+        "date": "2026-11-09",
+        "victim": "Monadnock Community Hospital",
+        "domain": "monadnockcommunityhospital.com",
+        "country": "USA",
+        "summary": "Monadnock Community Hospital, situé dans le New Hampshire, a été confronté à une panne de serveur qui a entraîné la déviation des ambulances et l'annulation de soins électifs. Bien que l'incident soit suspecté d'être lié à une cyberattaque, la cause reste non confirmée et l'hôpital travaille avec des experts externes pour rétablir les services.",
+        "description": "",
+        "title": "Monadnock Community Hospital in New Hampshire diverts ambulances amid suspected cyber incident",
+        "url": "https://dysruptionhub.com/monadnock-community-hospital-suspected-cyber-incident/",
+        "added": "2026-11-12"
+    },
+    {
         "date": "2026-11-11",
         "victim": "Wilmington College",
         "domain": "wilmington.edu",
