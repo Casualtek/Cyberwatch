@@ -1,5 +1,16 @@
 [
     {
+        "date": "2026-11-06",
+        "victim": "Geodetska uprava de la République de Slovénie",
+        "domain": "e-uprava.gov.si",
+        "country": "SLO",
+        "summary": "La Geodetska uprava de la République de Slovénie a été victime d'une cyberattaque. L'incident, survenu le vendredi 6 novembre 2026, a permis à des attaquants non identifiés d'accéder à plus de 15 000 enregistrements d'utilisateurs dans le système Domino de l'organisme, dont 7 216 mots de passe hachés. En réponse à l'incident, l'administration a dû désactiver préventivement certains de ses services en ligne. Les autorités sont actuellement en train d'enquêter sur la nature exacte de l'attaque.",
+        "description": "",
+        "title": "Gurs po varnostnem incidentu ponovno vklaplja baze. Je šlo za kibernetski napad?",
+        "url": "https://n1info.si/novice/slovenija/gurs-po-varnostnem-incidentu-ponovno-vklaplja-baze-je-slo-za-kibernetski-napad/",
+        "added": "2026-11-12"
+    },
+    {
         "date": "2026-10-12",
         "victim": "Churer Zentrum Gleis D / Medi Porta",
         "domain": "gleisd.ch",
