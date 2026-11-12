@@ -1,5 +1,16 @@
 [
     {
+        "date": "2026-11-10",
+        "victim": "Minmed",
+        "domain": "minmed.sg",
+        "country": "SGP",
+        "summary": "Le groupe médical Minmed a été victime d'une cyberattaque ciblant son système de consultation médicale à distance et de dépistage. Le groupe a confirmé que les dossiers médicaux cliniques des patients n'ont pas été affectés. Suite à la découverte de la menace, Minmed a immédiatement pris des mesures pour contrôler la situation, a engagé la société de cybersécurité Ensign InfoSecurity pour l'enquête, a corrigé les vulnérabilités et a notifié les autorités compétentes.",
+        "description": "",
+        "title": "医疗集团Minmed 远程医疗和体检服务系统遭恶意网袭",
+        "url": "https://www.zaobao.com.sg/news/singapore/story20261111-9982881",
+        "added": "2026-11-12"
+    },
+    {
         "date": "2026-11-08",
         "victim": "Stadtwerke Achim",
         "domain": "stadtwerke-achim.de",
