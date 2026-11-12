@@ -1,5 +1,16 @@
 [
     {
+        "date": "2026-11-08",
+        "victim": "Stadtwerke Achim",
+        "domain": "stadtwerke-achim.de",
+        "country": "DEU",
+        "summary": "Les Stadtwerke Achim ont été victimes d'une cyberattaque qui a paralysé leurs systèmes informatiques centraux. L'incident a été détecté le 8 novembre 2026. Bien que l'approvisionnement en électricité, gaz et chaleur reste assuré, les portails clients sont indisponibles et les fonctions de gestion sont fortement limitées. L'entreprise a mobilisé une équipe de crise, fait appel à des experts externes et a informé les autorités compétentes (BSI, police). Aucune preuve de fuite de données n'a été trouvée, mais les clients sont invités à rester vigilants face aux tentatives de fraude.",
+        "description": "",
+        "title": "Cyberangriff auf Achimer Stadtwerke: IT-Systeme lahmgelegt",
+        "url": "https://www.weser-kurier.de/landkreis-verden/stadt-achim/cyberangriff-auf-achimer-stadtwerke-it-systeme-lahmgelegt-doc88feidafgmdhl0xoarw",
+        "added": "2026-11-12"
+    },
+    {
         "date": "2026-11-11",
         "victim": "Worten",
         "domain": "worten.pt",
