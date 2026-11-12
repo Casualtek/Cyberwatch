@@ -1,5 +1,16 @@
 [
     {
+        "date": "2026-10-12",
+        "victim": "Churer Zentrum Gleis D / Medi Porta",
+        "domain": "gleisd.ch",
+        "country": "CHE",
+        "summary": "Le centre médical Churer Zentrum Gleis D, ainsi que la pharmacie Medi Porta à Chur, ont été victimes d'une cyberattaque le 12 octobre. Des données personnelles (noms, adresses, ordonnances, radiographies) et des données d'employés ont été exfiltrées. Cependant, les données de santé sensibles (diagnostics et traitements), stockées dans une application séparée, n'ont pas été compromises. L'enquête est en cours pour déterminer l'origine de l'attaque.",
+        "description": "",
+        "title": "Cyberangriff auf Zentrum Gleis D in Chur",
+        "url": "https://www.srf.ch/news/schweiz/it-sicherheit-cyberangriff-auf-churer-gesundheitszentrum",
+        "added": "2026-11-12"
+    },
+    {
         "date": "2026-11-10",
         "victim": "Minmed",
         "domain": "minmed.sg",
