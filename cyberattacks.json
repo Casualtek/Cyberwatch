@@ -1,5 +1,16 @@
 [
     {
+        "date": "2026-10-29",
+        "victim": "Cancillería",
+        "domain": "minrel.gov.cl",
+        "country": "CHL",
+        "summary": "Un cyberattaque a affecté le Système d'Attention Consulaire et le registre des visas de Cancillería. L'incident a débuté il y a deux semaines via un courriel compromis. Le ministère confirme mener des analyses forensiques et l'Agence Nationale de Cybersécurité a confirmé l'ouverture d'une enquête. L'origine de l'attaque et l'ampleur d'une éventuelle extraction de données ne sont pas encore établies publiquement.",
+        "description": "",
+        "title": "ClicAM: ciberataque a Cancillería, paro camionero y rechazo del presupuesto de Interior | El Mostrador",
+        "url": "https://www.elmostrador.cl/noticias/multimedia/clic-am/2026/11/11/clicam-ciberataque-a-cancilleria-paro-camionero-y-rechazo-del-presupuesto-de-interior/",
+        "added": "2026-11-12"
+    },
+    {
         "date": "2026-11-06",
         "victim": "Geodetska uprava de la République de Slovénie",
         "domain": "e-uprava.gov.si",
