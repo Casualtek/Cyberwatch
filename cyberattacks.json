@@ -1,5 +1,16 @@
 [
     {
+        "date": "2026-09-15",
+        "victim": "Proclin Utrecht",
+        "domain": "proclin.nl",
+        "country": "NLD",
+        "summary": "La clinique dentaire Proclin Utrecht a été victime d'une cyberattaque en septembre. L'attaque, qui a consisté en une intrusion externe et le chiffrement d'un serveur local, a affecté les dossiers électroniques des patients. Ces données incluent des informations personnelles (noms, adresses, numéros de sécurité sociale, etc.) et des informations médicales. L'incident a été isolé, le serveur reconstruit et l'Autorité des Données Personnelles a été informée. Les patients sont informés et sont invités à rester vigilants face aux tentatives de phishing.",
+        "description": "",
+        "title": "Patiëntgegevens betrokken bij de cyberaanval op Proclin Utrecht | Nieuws030 - Nieuws030",
+        "url": "https://www.nieuws030.nl/nieuws/pati-ntgegevens-betrokken-bij-cyberaanval-op-proclin-utrecht/",
+        "added": "2026-11-12"
+    },
+    {
         "date": "2026-10-29",
         "victim": "Cancillería",
         "domain": "minrel.gov.cl",
