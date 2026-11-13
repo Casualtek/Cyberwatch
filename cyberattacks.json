@@ -1,5 +1,16 @@
 [
     {
+        "date": "2026-11-11",
+        "victim": "Acadia Parish School System",
+        "domain": "acadia.k12.la.us",
+        "country": "USA",
+        "summary": "Le système scolaire d'Acadia Parish en Louisiane a fermé ses systèmes informatiques pour enquêter sur un possible compromis réseau. Le district prévoit que les cours et les opérations normales devraient se poursuivre malgré l'incident.",
+        "description": "",
+        "title": "Acadia Parish School System in Louisiana shuts down computers amid suspected cyber incident",
+        "url": "https://dysruptionhub.com/acadia-parish-louisiana-schools-cyber-shutdown/",
+        "added": "2026-11-13"
+    },
+    {
         "date": "2026-11-09",
         "victim": "Monadnock Community Hospital",
         "domain": "monadnockcommunityhospital.com",
