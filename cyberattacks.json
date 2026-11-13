@@ -1,5 +1,16 @@
 [
     {
+        "date": "2026-11-10",
+        "victim": "ActiveCloud",
+        "domain": "activecloud.by",
+        "country": "BLR",
+        "summary": "Le fournisseur biélorusse ActiveCloud a été victime d'une cyberattaque massive. L'incident, détecté le 10 novembre 2026, a entraîné l'indisponibilité de nombreux services et canaux de communication, y compris le site web, les chats, la téléphonie et le système de tickets de support.",
+        "description": "",
+        "title": "Белорусский облачный провайдер ActiveCloud сообщил о серьезном сбое из-за кибератаки",
+        "url": "https://nashaniva.com/ru/408915",
+        "added": "2026-11-13"
+    },
+    {
         "date": "2026-11-13",
         "victim": "Univerzita Karlova (UK)",
         "domain": "cuni.cz",
