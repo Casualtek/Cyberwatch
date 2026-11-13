@@ -1,5 +1,16 @@
 [
     {
+        "date": "2026-10-07",
+        "victim": "MKG Bremen",
+        "domain": "mkg-bremen.de",
+        "country": "DEU",
+        "summary": "Un centre de soins médicaux (MKG Bremen) à Brême a été victime d'une cyberattaque ayant entraîné la fuite de données personnelles de patients. Les informations compromises incluent des données d'identification (nom, adresse, date de naissance, contacts) ainsi que des dossiers médicaux (notes de médecins, radiographies, diagnostics). Les autorités et des experts externes sont mobilisés pour enquêter sur l'étendue de la violation et prévenir les risques d'usurpation d'identité ou de phishing.",
+        "description": "",
+        "title": "Cyberangriff bei MKG Bremen: Hacker stehlen Daten aus Patientenakten",
+        "url": "https://www.weser-kurier.de/bremen/cyberangriff-bei-mkg-bremen-hacker-stehlen-daten-aus-patientenakten-doc88eyaphsi2b3ezx8jpm",
+        "added": "2026-11-13"
+    },
+    {
         "date": "2026-11-11",
         "victim": "Acadia Parish School System",
         "domain": "acadia.k12.la.us",
