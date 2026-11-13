@@ -1,5 +1,16 @@
 [
     {
+        "date": "2026-11-11",
+        "victim": "Ville de Koka",
+        "domain": "koka.lg.jp",
+        "country": "JPN",
+        "summary": "La ville de Koka (préfecture de Shiga) a annoncé le 12 novembre 2026 que le serveur de son système de diffusion vocale, utilisé pour les alertes d'urgence en cas de catastrophe, avait été victime d'une cyberattaque. Le système est devenu inutilisable dès le début de la matinée du 11 novembre 2026.",
+        "description": "",
+        "title": "滋賀県甲賀市の音声放送システムサーバーにサイバー攻撃 復旧の見通し立たず｜京都新聞デジタル 京都・滋賀のニュースサイト",
+        "url": "https://www.kyoto-np.co.jp/articles/-/1825071",
+        "added": "2026-11-13"
+    },
+    {
         "date": "2026-10-07",
         "victim": "MKG Bremen",
         "domain": "mkg-bremen.de",
