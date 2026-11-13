@@ -1,5 +1,16 @@
 [
     {
+        "date": "2026-11-06",
+        "victim": "Yodobashi Holdings",
+        "domain": "yodobashi.com",
+        "country": "JPN",
+        "summary": "Yodobashi Holdings a confirmé une intrusion non autorisée sur ses serveurs le 6 novembre 2026, exposant potentiellement les données personnelles de 37,62 millions de membres et d'utilisateurs de commerce en ligne. Bien que les numéros de carte de crédit n'aient pas été compromis, l'entreprise prévoit d'informer les clients affectés par courrier électronique.",
+        "description": "",
+        "title": "日本宜得利遭非法存取！3762萬筆會員資料恐外洩 代理式AI加劇網路攻擊",
+        "url": "https://tw.news.yahoo.com/%E6%97%A5%E6%9C%AC%E5%AE%9C%E5%BE%97%E5%88%A9%E9%81%AD%E9%9D%9E%E6%B3%95%E5%AD%98%E5%8F%96-3762%E8%90%AC%E7%AD%86%E6%9C%83%E5%93%A1%E8%B3%87%E6%96%99%E6%81%90%E5%A4%96%E6%B4%A9-%E4%BB%A3%E7%90%86%E5%BC%8Fai%E5%8A%A0%E5%8A%87%E7%B6%B2%E8%B7%AF%E6%94%BB%E6%93%8A-093900472.html",
+        "added": "2026-11-13"
+    },
+    {
         "date": "2026-11-11",
         "victim": "Ville de Koka",
         "domain": "koka.lg.jp",
