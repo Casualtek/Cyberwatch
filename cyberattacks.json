@@ -1,5 +1,16 @@
 [
     {
+        "date": "2026-11-13",
+        "victim": "Univerzita Karlova (UK)",
+        "domain": "cuni.cz",
+        "country": "CZE",
+        "summary": "L'Université de Karlova (UK) a été victime d'une cyberattaque sérieuse. Une application web a été compromise, donnant à l'attaquant un accès non autorisé au Système d'Information Étudiant (SIS). Des données, incluant des informations personnelles, ont été exfiltrées. L'université a signalé l'incident au NÚKIB et a mis en place des mesures de sécurité, notamment l'obligation pour les utilisateurs de changer leurs mots de passe.",
+        "description": "",
+        "title": "Univerzita Karlova řeší kybernetický útok, útočník získal i osobní údaje | ČeskéNoviny.cz",
+        "url": "https://www.ceskenoviny.cz/zpravy/univerzita-karlova-resi-kyberneticky-utok-utocnik-ziskal-osobni-udaje/2901579",
+        "added": "2026-11-13"
+    },
+    {
         "date": "2026-11-06",
         "victim": "Yodobashi Holdings",
         "domain": "yodobashi.com",
