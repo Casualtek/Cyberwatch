@@ -1,5 +1,16 @@
 [
     {
+        "date": "2026-08-12",
+        "victim": "Hiroshima Gas",
+        "domain": "hiroshima-gas.co.jp",
+        "country": "JPN",
+        "summary": "Hiroshima Gas a annoncé une possible fuite de données concernant environ 3 200 de ses clients suite à une cyberattaque par rançongiciel (ransomware) survenue le 12 août 2026. L'attaque a ciblé le système de son prestataire, Ryōge Systems, qui gérait les informations électriques. Les données compromises incluent l'adresse du lieu d'utilisation, la consommation mensuelle et les frais, mais ne contiennent pas d'informations personnelles sensibles telles que les noms, les coordonnées bancaires ou les cartes de crédit.",
+        "description": "",
+        "title": "広島ガス、電気契約情報約3,200件に漏えいのおそれ 両毛システムズへのランサムウェア攻撃で判明|セキュリティニュースのセキュリティ対策Lab",
+        "url": "https://rocket-boys.co.jp/security-measures-lab/hiroshima-gas-ryomo-electric-customer-data-3200-risk-2026/",
+        "added": "2026-11-16"
+    },
+    {
         "date": "2026-11-15",
         "victim": "Tribunal de Justiça de Minas Gerais (TJMG)",
         "domain": "tjmg.jus.br",
