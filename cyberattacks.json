@@ -1,5 +1,16 @@
 [
     {
+        "date": "2026-11-15",
+        "victim": "Tribunal de Justiça de Minas Gerais (TJMG)",
+        "domain": "tjmg.jus.br",
+        "country": "BRA",
+        "summary": "Le Tribunal de Justiça de Minas Gerais (TJMG) a confirmé une fuite de données suite à un incident de cybersécurité identifié récemment. Bien que des fichiers aient été divulgués, le TJMG assure que l'intégrité de ses systèmes judiciaires et administratifs est préservée. Les personnes potentiellement affectées sont contactées individuellement pour recevoir des conseils de sécurité. Le tribunal a également informé l'ANPD et les autorités policières pour permettre l'enquête.",
+        "description": "",
+        "title": "TJMG: Vazamento de dados após ataque cibernético é investigado | G1",
+        "url": "https://g1.globo.com/mg/minas-gerais/noticia/2026/11/15/tjmg-apura-vazamento-de-arquivos-apos-ataque-cibernetico.ghtml",
+        "added": "2026-11-16"
+    },
+    {
         "date": "2026-11-09",
         "victim": "EiCOh",
         "domain": "eicoh.com",
