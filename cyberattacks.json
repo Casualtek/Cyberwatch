@@ -1,6 +1,17 @@
 [
     {
         "date": "2026-11-15",
+        "victim": "Coles",
+        "domain": "coles.com",
+        "country": "AUS",
+        "summary": "Coles, un géant de la grande distribution, a lancé une enquête suite à un incident de cybersécurité. L'entreprise assure à ses clients que les magasins physiques et les services de commerce en ligne ne sont pas affectés par cet incident.",
+        "description": "",
+        "title": "Supermarket giant Coles hit by cyber hack",
+        "url": "https://www.couriermail.com.au/business/economy/retail/coles-calls-in-cyber-experts-after-security-incident-with-stores-operating-as-normal/news-story/cea0ee0788e896bc77887f2d48b4d689",
+        "added": "2026-11-16"
+    },
+    {
+        "date": "2026-11-15",
         "victim": "Perry Local Schools",
         "domain": "perrylocal.org",
         "country": "USA",
