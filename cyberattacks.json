@@ -1,5 +1,16 @@
 [
     {
+        "date": "2026-11-10",
+        "victim": "Douanes de Lituanie",
+        "domain": "muitine.lrv.lt",
+        "country": "LTU",
+        "summary": "Les Douanes de Lituanie ont signalé un incident cyber potentiel dans leurs systèmes informatiques le 10 novembre 2026. Cet incident a entraîné la suspension temporaire de l'accès au port de gestion des utilisateurs généraux (BAP). Les autorités ont mis en place des mesures de sécurité pour isoler l'infrastructure et enquêter. À ce stade, aucune fuite de données n'a été confirmée.",
+        "description": "",
+        "title": "Muitinei patyrus kibernetinį incidentą, sustabdyta vartotojų valdymo portalo prieiga",
+        "url": "https://www.lrt.lt/naujienos/lietuvoje/2/3110453/lietuvos-muitine-patyre-kibernetini-incidenta",
+        "added": "2026-11-16"
+    },
+    {
         "date": "2026-11-11",
         "victim": "Autopay S.A.",
         "domain": "autopay.pl",
