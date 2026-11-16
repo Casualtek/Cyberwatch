@@ -1,5 +1,16 @@
 [
     {
+        "date": "2026-11-09",
+        "victim": "EiCOh",
+        "domain": "eicoh.com",
+        "country": "JPN",
+        "summary": "La société Aiko Co., Ltd. a annoncé le 13 novembre 2026 avoir été victime d'un accès non autorisé et d'une attaque par rançongiciel (ransomware) sur certains de ses systèmes. L'incident a été confirmé le 9 novembre 2026. L'entreprise mène actuellement une enquête pour déterminer l'étendue des dégâts et l'existence d'une fuite de données. Elle a également émis une alerte auprès de ses clients et partenaires pour se méfier des courriels usurpant son identité, notamment ceux demandant des modifications de coordonnées bancaires.",
+        "description": "",
+        "title": "エイコー、ランサムウェア被害を公表 11月9日に一部システムで不正アクセス確認、振込先変更を装う連絡に注意喚起|セキュリティニュースのセキュリティ対策Lab",
+        "url": "https://rocket-boys.co.jp/security-measures-lab/eicoh-ransomware-unauthorized-access-payment-change-2026/",
+        "added": "2026-11-16"
+    },
+    {
         "date": "2026-11-04",
         "victim": "Salvamento Marítimo",
         "domain": "salvamentomarítimo.es",
