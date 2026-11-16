@@ -1,5 +1,16 @@
 [
     {
+        "date": "2026-11-11",
+        "victim": "Autopay S.A.",
+        "domain": "autopay.pl",
+        "country": "POL",
+        "summary": "Autopay S.A., une société polonaise, a signalé une cyberattaque le 11 novembre 2026, impliquant un accès non autorisé à une partie de son infrastructure et à des données de paiement. L'entreprise décrit l'incident comme une attaque de nouvelle génération utilisant massivement des outils d'intelligence artificielle et d'automatisation, sans recours à des logiciels malveillants ou au phishing. Bien que l'exfiltration de données ne soit pas confirmée, Autopay a isolé les serveurs et a informé les autorités polonaises compétentes. Les services de traitement des transactions n'ont pas été affectés.",
+        "description": "",
+        "title": "Autopay заявила о кибератаке и доступе к данным о платежах — RMF24",
+        "url": "https://ua.news/ru/world/u-polshchi-autopay-zaiavila-pro-kiberataku-ta-dostup-do-danikh-pro-platezhi-rmf24",
+        "added": "2026-11-16"
+    },
+    {
         "date": "2026-08-12",
         "victim": "Hiroshima Gas",
         "domain": "hiroshima-gas.co.jp",
