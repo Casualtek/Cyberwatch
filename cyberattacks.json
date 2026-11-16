@@ -1,5 +1,16 @@
 [
     {
+        "date": "2026-11-11",
+        "victim": "Bringhen Group",
+        "domain": "bringhen.ch",
+        "country": "CHE",
+        "summary": "La Bringhen Group, une PME suisse basée à Visp, a été victime d'une cyberattaque par ransomware attribuée au groupe The Gentlemen. L'attaque a eu lieu le mardi soir et a entraîné l'arrêt complet des opérations le mercredi et le jeudi. Grâce à des sauvegardes régulières, la majorité des données a pu être récupérée. L'entreprise a rapidement isolé son système, contacté les autorités (Office fédéral de la cybersécurité et le Préposé fédéral à la protection des données) et fait appel à des experts externes. L'exfiltration de données clients est toujours en cours d'investigation.",
+        "description": "",
+        "title": "Walliser KMU wird Opfer einer weltbekannten Hackergruppe",
+        "url": "https://www.blick.ch/wirtschaft/weltbekannte-gentlemen-hacker-greifen-bringhen-group-im-wallis-an/vsqlnzn",
+        "added": "2026-11-16"
+    },
+    {
         "date": "2026-10-30",
         "victim": "University of Texas at Arlington (UTA)",
         "domain": "uta.edu",
