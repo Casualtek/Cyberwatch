@@ -1,5 +1,16 @@
 [
     {
+        "date": "2026-11-04",
+        "victim": "Salvamento Marítimo",
+        "domain": "salvamentomarítimo.es",
+        "country": "ESP",
+        "summary": "Salvamento Marítimo a été victime d'une cyberattaque par ransomware, attribuée au groupe Booba Team. L'intrusion a été détectée le 4 novembre 2026. Bien que des systèmes clés (SIGO, SIMAN, Navision) aient été forcés hors service, les opérations de sauvetage se sont poursuivies normalement. L'incident a été signalé à la Police Nationale et au CCN-CERT pour enquête.",
+        "description": "",
+        "title": "Un ciberataque obligó a desconectar sistemas de Salvamento Marítimo en plena crisis migratoria",
+        "url": "https://www.eldiario.es/tecnologia/ciberataque-obligo-desconectar-sistemas-salvamento-maritimo-plena-crisis-migratoria_1_13651742.html",
+        "added": "2026-11-16"
+    },
+    {
         "date": "2026-11-15",
         "victim": "Coles",
         "domain": "coles.com",
