@@ -1,5 +1,16 @@
 [
     {
+        "date": "2026-11-15",
+        "victim": "South Portland",
+        "domain": "southportland.gov",
+        "country": "USA",
+        "summary": "La ville de South Portland fait face à un incident de cybersécurité qui affectent ses systèmes informatiques et ses services. L'incident, signalé pour la première fois le dimanche, a conduit à la fermeture de la mairie et de la bibliothèque le lundi. Les perturbations incluent les lignes téléphoniques, les paiements en ligne et en personne, ainsi que l'accès aux portails administratifs. Les autorités locales enquêtent sur la cause, soupçonnant une attaque par des \"acteurs malveillants\", mais n'ont pas encore de calendrier pour la résolution.",
+        "description": "",
+        "title": "South Portland closes city offices after cybersecurity incident",
+        "url": "https://wgme.com/news/local/south-portland-closes-city-offices-after-cybersecurity-incident-maine",
+        "added": "2026-11-17"
+    },
+    {
         "date": "2026-11-10",
         "victim": "Douanes de Lituanie",
         "domain": "muitine.lrv.lt",
