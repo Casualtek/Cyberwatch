@@ -1,5 +1,16 @@
 [
     {
+        "date": "2026-11-13",
+        "victim": "Powiatowy Urząd Pracy w Zgorzelcu",
+        "domain": "zgorzelec.praca.gov.pl",
+        "country": "POL",
+        "summary": "Le Powiatowy Urząd Pracy (PUP) de Zgorzelec a été victime d'une cyberattaque externe. L'incident, signalé le 13 novembre 2026, a entraîné des perturbations dans le fonctionnement des systèmes informatiques. Les données des clients potentiellement compromises incluent le nom, le prénom, le numéro PESEL, les numéros d'identité, l'adresse et le numéro de téléphone. Aucune attribution n'a été faite à cette attaque.",
+        "description": "",
+        "title": "Atak na urząd pracy w Zgorzelcu. Nie działa część systemów",
+        "url": "https://cyberdefence24.pl/cyberbezpieczenstwo/cyberataki/atak-na-urzad-pracy-w-zgorzelcu-nie-dziala-czesc-systemow",
+        "added": "2026-11-17"
+    },
+    {
         "date": "2026-09-08",
         "victim": "Nephrology Associates, P.C.",
         "domain": "nephrologyassoc.net",
