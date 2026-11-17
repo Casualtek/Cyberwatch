@@ -1,5 +1,16 @@
 [
     {
+        "date": "2026-09-08",
+        "victim": "Nephrology Associates, P.C.",
+        "domain": "nephrologyassoc.net",
+        "country": "USA",
+        "summary": "Nephrology Associates, P.C., une clinique de soins rénaux située dans la région de Bridgeport, Connecticut, a découvert un incident de ransomware le 8 septembre 2026. L'incident a impliqué un accès non autorisé à un serveur contenant des dossiers médicaux historiques et des informations personnelles de patients et d'employés. Bien qu'aucune preuve de suppression de données n'ait été trouvée, les individus affectés sont offerts 24 mois de surveillance de crédit gratuite.",
+        "description": "",
+        "title": "Nephrology Associates Data Breach: Ransomware in CT",
+        "url": "https://openclassactions.com/news/data-breaches/nephrology-associates-connecticut-ransomware-data-breach.php",
+        "added": "2026-11-17"
+    },
+    {
         "date": "2026-11-16",
         "victim": "WIESON TECHNOLOGIES CO., LTD.",
         "domain": "wieson.com",
