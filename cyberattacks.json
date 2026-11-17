@@ -1,5 +1,16 @@
 [
     {
+        "date": "2026-11-11",
+        "victim": "Ipsos",
+        "domain": "ipsos.com",
+        "country": "FRA",
+        "summary": "Ipsos, l'entreprise française de sondages et d'études de marché, a annoncé avoir été victime d'une cyberattaque affectant un système d'information interne. L'entreprise a déposé une plainte auprès des autorités compétentes. Bien que l'incident ait été identifié le 11 novembre, Ipsos assure que cette compromission n'a eu aucun impact sur ses opérations et que l'enquête est en cours pour déterminer l'ampleur de l'incident.",
+        "description": "",
+        "title": "Sans fournir de détail sur \"la nature et l'ampleur de l'incident\", l'institut de sondage Ipsos annonce avoir été victime d'une cyberattaque",
+        "url": "https://www.bfmtv.com/tech/cybersecurite/sans-fournir-de-detail-sur-la-nature-et-l-ampleur-de-l-incident-l-institut-de-sondage-ipsos-annonce-avoir-ete-victime-d-une-cyberattaque_AD-202611160791.html",
+        "added": "2026-11-17"
+    },
+    {
         "date": "2026-11-15",
         "victim": "South Portland",
         "domain": "southportland.gov",
