@@ -1,5 +1,16 @@
 [
     {
+        "date": "2026-11-16",
+        "victim": "WIESON TECHNOLOGIES CO., LTD.",
+        "domain": "wieson.com",
+        "country": "TWN",
+        "summary": "L'entreprise de composants électroniques Wieson Technologies a découvert qu'une cyberattaque avait ciblé certains de ses systèmes d'information. La société a immédiatement activé son mécanisme de réponse aux incidents, isolant les équipements affectés et procédant à la restauration des systèmes. Les opérations quotidiennes et les systèmes centraux restent normaux, et aucune fuite de données n'a été détectée à ce stade.",
+        "description": "",
+        "title": "驊陞部分資訊系統遭網路攻擊，核心系統未受影響",
+        "url": "https://www.ithome.com.tw/news/180554",
+        "added": "2026-11-17"
+    },
+    {
         "date": "2026-11-11",
         "victim": "Ipsos",
         "domain": "ipsos.com",
