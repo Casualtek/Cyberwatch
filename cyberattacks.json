@@ -1,5 +1,16 @@
 [
     {
+        "date": "2026-11-14",
+        "victim": "Hospital Clínico de la Universidad de Chile",
+        "domain": "redclinica.cl",
+        "country": "CHL",
+        "summary": "Le Hospital Clínico de la Universidad de Chile a confirmé avoir été victime d'une cyberattaque. L'incident, détecté le samedi 14 novembre, a affecté la disponibilité de certains systèmes informatiques institutionnels. Bien que la continuité des soins cliniques soit maintenue, l'interruption de services a engendré des difficultés dans les processus de prise en charge et les services de support, notamment pour la planification des consultations. L'établissement collabore avec l'Agence Nationale de Cybersécurité (ANCI) pour la récupération sécurisée des systèmes.",
+        "description": "",
+        "title": "Hospital Clínico de la Universidad de Chile confirma ciberataque: presenta \"dificultades en procesos de atención y servicios\"",
+        "url": "https://www.t13.cl/noticia/nacional/hospital-clinico-universidad-chile-denuncia-ciberataque-presenta-dificultades-p-16-11-2026",
+        "added": "2026-11-17"
+    },
+    {
         "date": "2026-11-16",
         "victim": "Kreiskrankenhaus Greiz-Ronneburg",
         "domain": "kreiskrankenhaus-greiz.de",
