@@ -1,5 +1,16 @@
 [
     {
+        "date": "2026-11-16",
+        "victim": "Kreiskrankenhaus Greiz-Ronneburg",
+        "domain": "kreiskrankenhaus-greiz.de",
+        "country": "DEU",
+        "summary": "Le Kreiskrankenhaus Greiz-Ronneburg a été victime d'une cyberattaque menée par des acteurs inconnus qui ont accédé à ses systèmes informatiques. L'incident a entraîné la fermeture de l'urgence et des perturbations dans les soins planifiés. Les autorités ont ouvert une enquête, mais la nature exacte de l'attaque, son ampleur et les responsables restent inconnus.",
+        "description": "",
+        "title": "Cyberangriff auf Kreiskrankenhaus in Greiz",
+        "url": "https://www.kma-online.de/aktuelles/it-digital-health/detail/cyberangriff-auf-kreiskrankenhaus-in-greiz-56516",
+        "added": "2026-11-17"
+    },
+    {
         "date": "2026-11-17",
         "victim": "MiTAC Digital Technology Corporation",
         "domain": "mitacmdt.com",
