@@ -1,5 +1,16 @@
 [
     {
+        "date": "2026-10-05",
+        "victim": "Ride On Express Co., Ltd. (Gin no Sara, Kamatori, Sushi Joutou)",
+        "domain": "rideonexpresshd.co.jp",
+        "country": "JPN",
+        "summary": "La société Ride On Express (opératrice des marques Gin no Sara, Kamatori et Sushi Joutou) a confirmé avoir été victime d'une cyberattaque par rançongiciel. L'accès non autorisé aux serveurs, qui stockaient les informations des utilisateurs, a été détecté le 5 octobre. L'attaque a été confirmée le 7 octobre, entraînant une panne de système. L'entreprise enquête sur une potentielle fuite de données affectant jusqu'à environ 6,5 millions d'inscrits, incluant des informations personnelles (nom, adresse, téléphone, email, date de naissance, mot de passe haché) et des historiques de commandes. La société est en train d'informer les clients potentiellement concernés et renforce sa sécurité.",
+        "description": "",
+        "title": "「銀のさら・釜寅・すし上等」公式サイト・公式アプリにランサムウェア攻撃 | ScanNetSecurity",
+        "url": "https://scan.netsecurity.ne.jp/article/2026/11/18/56817.html",
+        "added": "2026-11-18"
+    },
+    {
         "date": "2026-11-17",
         "victim": "Choose",
         "domain": "choosead.gr",
