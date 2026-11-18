@@ -1,5 +1,16 @@
 [
     {
+        "date": "2026-11-15",
+        "victim": "SPRC (Star Petroleum Refining Company)",
+        "domain": "sprc.co.th",
+        "country": "THA",
+        "summary": "SPRC (Star Petroleum Refining Company) a publié un communiqué suite à une cyberattaque ayant permis l'accès non autorisé aux données de la société ainsi que de ses filiales (Star Fuels Marketing Co., Ltd. et Star Petroleum Refining Co., Ltd.). L'entreprise est actuellement en phase d'investigation pour déterminer l'étendue de la violation et l'impact financier potentiel. SPRC a également émis des avertissements aux utilisateurs concernant les tentatives de phishing et la diffusion de données potentiellement compromises.",
+        "description": "",
+        "title": "ด่วน!SPRCโดนโจมตีทางไซเบอร์ เร่งตรวจสอบข้อมูลที่ถูกเข้าถึง-ผลกระทบทางการเงิน",
+        "url": "https://th.headtopics.com/news/36043656362336080046-89947707",
+        "added": "2026-11-18"
+    },
+    {
         "date": "2026-11-17",
         "victim": "Superhosting",
         "domain": "superhosting.bg",
