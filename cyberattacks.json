@@ -1,5 +1,16 @@
 [
     {
+        "date": "2026-11-17",
+        "victim": "Equinor",
+        "domain": "equinor.com",
+        "country": "NOR",
+        "summary": "Equinor a été victime d'une cyberattaque, mais l'entreprise a confirmé que ses opérations et sa production n'ont pas été affectées.",
+        "description": "",
+        "title": "Equinor utsatt for cyberangrep",
+        "url": "https://www.dn.no/jus/equinor/equinor-bekrefter-pagaende-cyberangrep-rettet-mot-it-systemer/2-1-2075578",
+        "added": "2026-11-18"
+    },
+    {
         "date": "2026-11-14",
         "victim": "Hospital Clínico de la Universidad de Chile",
         "domain": "redclinica.cl",
