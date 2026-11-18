@@ -1,5 +1,16 @@
 [
     {
+        "date": "2026-11-14",
+        "victim": "Contabo",
+        "domain": "contabo.com",
+        "country": "DEU",
+        "summary": "L'hébergeur allemand Contabo a confirmé avoir subi un accès non autorisé à ses systèmes informatiques le 14 novembre 2026. L'entreprise a immédiatement pris des mesures de sécurité, notamment la réinitialisation des mots de passe VNC et le blocage des chemins d'accès suspects. Bien qu'une enquête technique soit en cours pour déterminer l'ampleur de l'intrusion, Contabo n'a pas encore confirmé la fuite de données personnelles.",
+        "description": "",
+        "title": "Contabo victime d'une cyberattaque, l'hébergeur allemand confirme une intrusion dans ses systèmes",
+        "url": "https://frenchbreaches.com/blog/contabo-victime-dune-cyberattaque-lhebergeur-allemand-confirme-une-intrusion-dans-ses-systemes",
+        "added": "2026-11-18"
+    },
+    {
         "date": "2026-11-12",
         "victim": "Divalto",
         "domain": "divalto.com",
