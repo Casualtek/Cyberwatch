@@ -1,5 +1,16 @@
 [
     {
+        "date": "2026-10-31",
+        "victim": "Quantum Systems",
+        "domain": "quantum-systems.com",
+        "country": "DEU",
+        "summary": "Le fabricant allemand de drones Quantum Systems a été victime d'une cyberattaque majeure fin octobre. L'attaque visait le serveur de mise à jour de QBase, le système de planification des missions. Par mesure de précaution, l'armée allemande (Bundeswehr) a temporairement mis à l'arrêt un grand nombre de drones de l'entreprise. Quantum Systems affirme que l'incident est maîtrisé et qu'il n'y a pas de risque actuel pour les opérateurs. L'incident souligne la vulnérabilité de l'infrastructure informatique des fabricants de drones militaires.",
+        "description": "",
+        "title": "Cyberaanval treft Duitse dronefabrikant, Bundeswehr houdt toestellen aan de grond",
+        "url": "https://www.dronewatch.nl/2026/11/12/cyberaanval-treft-duitse-dronefabrikant-bundeswehr-houdt-toestellen-aan-de-grond/",
+        "added": "2026-11-18"
+    },
+    {
         "date": "2026-11-18",
         "victim": "Osaki Electric Industry",
         "domain": "osaki.co.jp",
