@@ -1,5 +1,16 @@
 [
     {
+        "date": "2026-11-17",
+        "victim": "Choose",
+        "domain": "choosead.gr",
+        "country": "GRC",
+        "summary": "L'entreprise Choose a confirmé avoir subi un accès non autorisé à un de ses systèmes de test. L'incident est strictement limité à cet environnement et n'a pas affecté les systèmes de production. Bien qu'un nombre limité de 4 266 numéros d'identification fiscale (ΑΦΜ) et de noms ait été accédé dans le cadre de tests, aucune fuite de données n'a été confirmée. Les autorités compétentes ont été informées et des mesures d'isolement ont été prises.",
+        "description": "",
+        "title": "Choose: Κυβερνοεπίθεση σε σύστημα που διεξάγονταν δοκιμές - Περιείχε ΑΦΜ και ονοματεπώνυμα - Mononews.gr",
+        "url": "https://www.mononews.gr/business/choose-kyvernoepithesi-se-systima-pou-diexagontan-dokimes-perieiche-afm-kai-onomateponyma",
+        "added": "2026-11-18"
+    },
+    {
         "date": "2026-08-01",
         "victim": "Otter Tail County",
         "domain": "ottertailcounty.gov",
