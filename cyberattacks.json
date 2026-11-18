@@ -1,6 +1,17 @@
 [
     {
         "date": "2026-11-18",
+        "victim": "Osaki Electric Industry",
+        "domain": "osaki.co.jp",
+        "country": "JPN",
+        "summary": "L'entreprise Osaki Electric Industry, fabricant de compteurs connectés, a publié un premier rapport concernant une cyberattaque par rançongiciel (ransomware) qui a entraîné l'arrêt de sa production.",
+        "description": "",
+        "title": "大崎電気工業[6644]：ランサムウェアによるサイバー攻撃に伴う生産停止の発生に関するお知らせ（第一報） 2026年11月18日(適時開示) ：日経会社情報DIGITAL：日本経済新聞",
+        "url": "https://www.nikkei.com/nkd/disclosure/tdnr/20261118582902/",
+        "added": "2026-11-18"
+    },
+    {
+        "date": "2026-11-18",
         "victim": "Yuantai",
         "domain": "yfy.com",
         "country": "TWN",
