@@ -1,5 +1,16 @@
 [
     {
+        "date": "2026-11-17",
+        "victim": "Superhosting",
+        "domain": "superhosting.bg",
+        "country": "BGR",
+        "summary": "Superhosting, une société d'hébergement bulgare, a été victime d'une cyberattaque ayant entraîné un accès non autorisé à son système interne. L'entreprise a confirmé que des données personnelles des clients (nom, email, numéro de téléphone, informations de facturation) ont été compromises. Bien que les mots de passe aient été hachés et que les services d'hébergement ne soient pas affectés, l'entreprise a alerté ses utilisateurs sur une campagne de phishing concurrent.",
+        "description": "",
+        "title": "Хакери удариха най-голямата хостинг компания в България",
+        "url": "https://money.bg/internet-it/hakeri-udariha-superhosting.html",
+        "added": "2026-11-18"
+    },
+    {
         "date": "2026-10-05",
         "victim": "Ride On Express Co., Ltd. (Gin no Sara, Kamatori, Sushi Joutou)",
         "domain": "rideonexpresshd.co.jp",
