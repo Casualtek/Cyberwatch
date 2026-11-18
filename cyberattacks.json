@@ -1,5 +1,16 @@
 [
     {
+        "date": "2026-11-17",
+        "victim": "Neuried",
+        "domain": "neuried.de",
+        "country": "DEU",
+        "summary": "L'administration municipale de Neuried a été victime d'une cyberattaque le 17 novembre 2026. Suite à une perturbation, la municipalité a dû mettre ses systèmes informatiques hors service. Des auteurs inconnus ont accédé à l'infrastructure IT et ont laissé un message dans les fichiers du réseau. Les autorités, y compris la police criminelle et le parquet, enquêtent sur l'incident, mais l'ampleur des dégâts, les services affectés et l'éventuelle exfiltration de données ne sont pas encore confirmés.",
+        "description": "",
+        "title": "Neuried: Cyberangriff auf Gemeindeverwaltung",
+        "url": "https://breisgau.live/polizeimeldungen/neuried-cyberangriff-auf-gemeindeverwaltung/",
+        "added": "2026-11-18"
+    },
+    {
         "date": "2026-11-16",
         "victim": "Rikagaku Araştırma Enstitüsü (RIKEN)",
         "domain": "riken.jp",
