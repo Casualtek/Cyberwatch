@@ -1,5 +1,16 @@
 [
     {
+        "date": "2026-08-01",
+        "victim": "Otter Tail County",
+        "domain": "ottertailcounty.gov",
+        "country": "USA",
+        "summary": "Le comté d'Otter Tail, dans le Minnesota, a été victime d'une cyberattaque ayant entraîné un accès non autorisé à son réseau. L'intrusion, qui a permis la copie de données, s'est déroulée entre le 3 juillet et le 1er août 2026. Le comté informe les résidents via son site web en raison de la complexité des données affectées.",
+        "description": "",
+        "title": "Otter Tail County Notifying Residents of Compromised Data Following Cyber-Attack",
+        "url": "https://fergusnow.com/2026/11/17/otter-tail-county-notifying-residents-of-potentially-compromised-data-following-cyber-attack/",
+        "added": "2026-11-18"
+    },
+    {
         "date": "2026-11-14",
         "victim": "Contabo",
         "domain": "contabo.com",
