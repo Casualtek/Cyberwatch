@@ -1,5 +1,16 @@
 [
     {
+        "date": "2026-11-12",
+        "victim": "Divalto",
+        "domain": "divalto.com",
+        "country": "FRA",
+        "summary": "L'éditeur français de logiciels Divalto a été victime d'une cyberattaque ciblée et répétée, dont les difficultés ont été signalées dès le 12 novembre 2026. Cette intrusion a perturbé les services ERP et CRM, affectant notamment Belles Lettres Diffusion Distribution (BLDD), un distributeur utilisant les outils de Divalto. Les conséquences sont opérationnelles, entraînant des retards logistiques et des difficultés dans la gestion des commandes et des stocks. À ce stade, Divalto n'a confirmé aucun vol ou compromission de données clients.",
+        "description": "",
+        "title": "Cyberattaque chez Divalto : le distributeur du programme de LFI touché, les commandes des librairies perturbées",
+        "url": "https://www.cyberattaque.org/cyberattaque-chez-divalto-le-distributeur-du-programme-de-lfi-touche-les-commandes-des-librairies-perturbees/",
+        "added": "2026-11-18"
+    },
+    {
         "date": "2026-11-17",
         "victim": "Neuried",
         "domain": "neuried.de",
