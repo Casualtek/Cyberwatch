@@ -1,5 +1,16 @@
 [
     {
+        "date": "2026-11-15",
+        "victim": "Canton de Basel-Landschaft",
+        "domain": "baselland.ch",
+        "country": "CHE",
+        "summary": "Le Canton de Basel-Landschaft est confronté à une cyberattaque jugée \"sévère et très étendue\" visant son infrastructure informatique. Depuis le dimanche, les attaques ont forcé le canton à isoler certains serveurs du réseau, provoquant des pannes de services numériques et des perturbations des numéros d'urgence de la police. Une équipe de cybersécurité cantonale est mobilisée pour mettre en œuvre les contre-mesures nécessaires.",
+        "description": "",
+        "title": "Kantonale Server betroffen: «Heftiger, breit angelegter Angriff»: Seit Sonntag finden Cyberattacken auf die Baselbieter IT-Struktur statt",
+        "url": "https://www.bazonline.ch/cyberangriff-auf-basel-landschaft-server-isoliert-736977549861",
+        "added": "2026-11-18"
+    },
+    {
         "date": "2026-10-31",
         "victim": "Quantum Systems",
         "domain": "quantum-systems.com",
