@@ -1,6 +1,17 @@
 [
     {
         "date": "2026-11-18",
+        "victim": "wittenberg-net",
+        "domain": "stadtwerke-wittenberg.de",
+        "country": "DEU",
+        "summary": "Le fournisseur régional de télécommunications \"wittenberg-net\" a été victime d'une cyberattaque, ce qui a provoqué des pannes généralisées de téléphonie et d'internet à Wittenberg et dans ses environs. L'incident, initialement qualifié de perturbation informatique diffuse, a été confirmé comme une cyberattaque.",
+        "description": "",
+        "title": "Stadtwerke bestätigen Cyberangriff auf „wittenberg-net“: Sind Kundendaten betroffen?",
+        "url": "https://www.mz.de/lokal/wittenberg/stadtwerke-bestatigen-cyberangriff-auf-wittenberg-net-sind-kundendaten-betroffen-4358794",
+        "added": "2026-11-19"
+    },
+    {
+        "date": "2026-11-18",
         "victim": "Wilmington School District 209U",
         "domain": "209u.net",
         "country": "USA",
