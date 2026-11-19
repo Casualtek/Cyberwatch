@@ -1,5 +1,16 @@
 [
     {
+        "date": "2026-11-08",
+        "victim": "Klinik im Kurpark",
+        "domain": "klinikimkurpark.de",
+        "country": "DEU",
+        "summary": "La clinique im Kurpark de Bad Rothenfelde a été victime d'une cyberattaque qui a paralysé ses systèmes informatiques pendant dix jours, obligeant le personnel à travailler manuellement. L'attaque, attribuée par une entreprise mandatée à un groupe de hackers chinois, est survenue via un prestataire de services externe. Bien que les données personnelles n'aient pas été compromises, la clinique met en place une surveillance assistée par IA pour prévenir de futurs incidents.",
+        "description": "",
+        "title": "Zehn Tage mit Papier und Stift gearbeitet: Klinik nach Cyberattacke wieder online",
+        "url": "https://www.ndr.de/nachrichten/niedersachsen/osnabrueck_emsland/bad-rothenfelde-klinik-technik-nach-cyberangriff-wieder-online,cyberangriff-164.html",
+        "added": "2026-11-19"
+    },
+    {
         "date": "2026-11-18",
         "victim": "Skagerak Energi",
         "domain": "skagerakenergi.no",
