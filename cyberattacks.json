@@ -1,5 +1,16 @@
 [
     {
+        "date": "2026-11-09",
+        "victim": "Commission européenne",
+        "domain": "commission.europa.eu",
+        "country": "BEL",
+        "summary": "Une cyberattaque massive a ciblé la Commission européenne. L'incident, détecté par CERT-EU, a potentiellement compromis des données personnelles et causé une perturbation de plus de dix jours des systèmes de gestion du personnel (salaires, congés). Les attaquants auraient utilisé ARTEX, un framework offensif agentique. La Commission a confirmé avoir contenu la majorité de l'attaque.",
+        "description": "",
+        "title": "Cyberattack hits the Commission",
+        "url": "https://www.politico.eu/newsletter/brussels-playbook/cyberattack-hits-the-commission/",
+        "added": "2026-11-19"
+    },
+    {
         "date": "2026-11-08",
         "victim": "Klinik im Kurpark",
         "domain": "klinikimkurpark.de",
