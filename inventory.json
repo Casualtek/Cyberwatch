@@ -57847,6 +57847,18 @@
         ]
     },
     {
+        "victim": "Coast 2 Coast",
+        "domain": "c2cescrow.com",
+        "country": "US",
+        "timeline": [
+            {
+                "date": "2026-10-14",
+                "type": "assessed",
+                "group": "play"
+            }
+        ]
+    },
+    {
         "victim": "C2O Architects",
         "domain": "c2o-architects.be",
         "country": "BE",
