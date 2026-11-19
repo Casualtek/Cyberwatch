@@ -359169,6 +359169,18 @@
         ]
     },
     {
+        "victim": "WSBI-ESBG",
+        "domain": "wsbi-esbg.org",
+        "country": "BE",
+        "timeline": [
+            {
+                "date": "2026-10-09",
+                "type": "assessed",
+                "group": "play"
+            }
+        ]
+    },
+    {
         "victim": "Water and Sewerage Corporation",
         "domain": "wsc.com.bs",
         "country": "BS",
