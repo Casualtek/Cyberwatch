@@ -1,6 +1,17 @@
 [
     {
         "date": "2026-11-18",
+        "victim": "Skagerak Energi",
+        "domain": "skagerakenergi.no",
+        "country": "NOR",
+        "summary": "L'entreprise Skagerak Energi a été victime d'une tentative de cyberattaque. Selon la société, l'incident n'a eu aucun impact sur ses opérations ou sa production, et il n'y a aucune indication que des informations aient été compromises. Les autorités compétentes ont été informées et l'entreprise travaille actuellement à l'évaluation de la situation.",
+        "description": "",
+        "title": "Skagerak Energi utsatt for forsøk på cyberangrep",
+        "url": "https://www.nettavisen.no/nyheter/skagerak-energi-utsatt-for-forsok-pa-cyberangrep/s/30-95-26304",
+        "added": "2026-11-19"
+    },
+    {
+        "date": "2026-11-18",
         "victim": "wittenberg-net",
         "domain": "stadtwerke-wittenberg.de",
         "country": "DEU",
