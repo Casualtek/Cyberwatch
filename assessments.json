@@ -1,5 +1,12 @@
 [
   {
+    "victim": "WSBI-ESBG",
+    "domain": "wsbi-esbg.org",
+    "country": "BE",
+    "date": "2026-10-09",
+    "group": "play"
+  },
+  {
     "victim": "Coast 2 Coast",
     "domain": "c2cescrow.com",
     "country": "US",
