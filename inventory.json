@@ -348973,6 +348973,18 @@
         ]
     },
     {
+        "victim": "VPC Builders",
+        "domain": "vpcbuilders.com",
+        "country": "US",
+        "timeline": [
+            {
+                "date": "2026-10-20",
+                "type": "assessed",
+                "group": "play"
+            }
+        ]
+    },
+    {
         "victim": "VantagePoint Management & Autoclear",
         "domain": "vpcp.com",
         "country": "US",
