@@ -1,5 +1,16 @@
 [
     {
+        "date": "2026-11-10",
+        "victim": "DonorPerfect / SofterWare",
+        "domain": "donorperfect.com",
+        "country": "USA",
+        "summary": "Une cyberattaque a affecté la plateforme DonorPerfect, gérée par SofterWare, perturbant les efforts de collecte de fonds et les dons en ligne des organisations à but non lucratif. Le service a été mis hors ligne le 10 novembre. Bien que l'accès principal ait été rétabli le 18 novembre, des outils mobiles et certaines intégrations (tels que les formulaires de dons et les API) restent indisponibles. SofterWare n'a pas encore confirmé si des informations clients ont été compromises.",
+        "description": "",
+        "title": "DonorPerfect cyberattack delays year-end fundraising",
+        "url": "https://dysruptionhub.com/donorperfect-cyberattack-fundraising/?utm_source=rss",
+        "added": "2026-11-20"
+    },
+    {
         "date": "2026-11-14",
         "victim": "Instituto da Mobilidade e dos Transportes (IMT)",
         "domain": "imt.madeira.gov.pt",
