@@ -68786,6 +68786,18 @@
         ]
     },
     {
+        "victim": "Charles E. Tabor AAL LLC",
+        "domain": "charlestaborlaw.com",
+        "country": "US",
+        "timeline": [
+            {
+                "date": "2026-10-11",
+                "type": "claimed",
+                "group": "rhysida"
+            }
+        ]
+    },
+    {
         "victim": "Charleston School of Law",
         "domain": "charlestonlaw.edu",
         "country": "US",
@@ -80851,6 +80863,18 @@
                 "date": "2024-05-14",
                 "type": "claimed",
                 "group": "ransomhub"
+            }
+        ]
+    },
+    {
+        "victim": "Confipetrol",
+        "domain": "confipetrol.com",
+        "country": "CO",
+        "timeline": [
+            {
+                "date": "2026-10-11",
+                "type": "claimed",
+                "group": "qilin"
             }
         ]
     },
@@ -130157,6 +130181,18 @@
         ]
     },
     {
+        "victim": "Friendship Christian School",
+        "domain": "friendshipchristian.net",
+        "country": "US",
+        "timeline": [
+            {
+                "date": "2026-10-11",
+                "type": "claimed",
+                "group": "qilin"
+            }
+        ]
+    },
+    {
         "victim": "Friendship House",
         "domain": "friendshiphousede.org",
         "country": "US",
@@ -160411,6 +160447,29 @@
         ]
     },
     {
+        "victim": "hsc.mb.ca",
+        "domain": "hsc.mb.ca",
+        "country": "CA",
+        "timeline": [
+            {
+                "date": "2026-10-10",
+                "type": "claimed",
+                "group": "incransom"
+            },
+            {
+                "date": "2026-08-11",
+                "type": "discovered",
+                "summary": "Le Health Sciences Centre de Winnipeg a été touché par une cyberattaque par ransomware affectant les systèmes de maintenance de certains bâtiments, notamment l'accès par les portes, le chauffage, la ventilation et la climatisation. Bien que les soins aux patients et les opérations cliniques ne soient pas affectés, l'incident a nécessité une enquête pour déterminer l'étendue de l'attaque. L'incident survient deux ans après qu'un vérificateur général du Manitoba ait averti l'établissement de la nécessité d'améliorer sa cybersécurité.",
+                "title": "Ransomware attack on Health Sciences Centre affects doors, ventilation and air-conditioning",
+                "url": "https://ca.news.yahoo.com/ransomware-attack-health-sciences-centre-224238098.html"
+            },
+            {
+                "date": "2026-08-10",
+                "type": "reported"
+            }
+        ]
+    },
+    {
         "victim": "HSE (Holding Slovenske Elektrarne)",
         "domain": "hse.si",
         "country": "SI",
@@ -161654,6 +161713,18 @@
                 "date": "2025-12-09",
                 "type": "claimed",
                 "group": "coinbasecartel"
+            }
+        ]
+    },
+    {
+        "victim": "huntcompanies.com",
+        "domain": "huntcompanies.com",
+        "country": "US",
+        "timeline": [
+            {
+                "date": "2026-10-11",
+                "type": "claimed",
+                "group": "BrainCipher"
             }
         ]
     },
@@ -183896,6 +183967,18 @@
                 "date": "2024-04-23",
                 "type": "claimed",
                 "group": "shinyhunters"
+            }
+        ]
+    },
+    {
+        "victim": "CNESTEN",
+        "domain": "kerix.net",
+        "country": "MA",
+        "timeline": [
+            {
+                "date": "2026-10-11",
+                "type": "claimed",
+                "group": "qilin"
             }
         ]
     },
@@ -273237,6 +273320,18 @@
         ]
     },
     {
+        "victim": "Reed & Giordano PA",
+        "domain": "reedgiordano.com",
+        "country": "US",
+        "timeline": [
+            {
+                "date": "2026-10-11",
+                "type": "claimed",
+                "group": "rhysida"
+            }
+        ]
+    },
+    {
         "victim": "Reed Pope Law",
         "domain": "reedpope.ca",
         "country": "CA",
@@ -305712,6 +305807,18 @@
         ]
     },
     {
+        "victim": "Spelman Logistics",
+        "domain": "spelmanlogistics.com",
+        "country": "",
+        "timeline": [
+            {
+                "date": "2026-10-11",
+                "type": "claimed",
+                "group": "emperador"
+            }
+        ]
+    },
+    {
         "victim": "Spergel",
         "domain": "spergel.ca",
         "country": "CA",
@@ -330343,6 +330450,18 @@
                 "date": "2026-07-10",
                 "type": "claimed",
                 "group": "Deadlock"
+            }
+        ]
+    },
+    {
+        "victim": "TQC S.A.",
+        "domain": "tqc.com.pe",
+        "country": "PE",
+        "timeline": [
+            {
+                "date": "2026-10-11",
+                "type": "claimed",
+                "group": "dragonforce"
             }
         ]
     },
