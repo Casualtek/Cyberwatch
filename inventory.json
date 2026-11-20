@@ -221991,6 +221991,18 @@
         ]
     },
     {
+        "victim": "Money Concepts Capital",
+        "domain": "moneyconcepts.com",
+        "country": "US",
+        "timeline": [
+            {
+                "date": "2026-08-04",
+                "type": "assessed",
+                "group": "play"
+            }
+        ]
+    },
+    {
         "victim": "MoneyGram",
         "domain": "moneygram.com",
         "country": "US",
