@@ -5159,6 +5159,18 @@
         ]
     },
     {
+        "victim": "PG Group (Pure Options)",
+        "domain": "PGGroup(PureOptions).nodomain",
+        "country": "US",
+        "timeline": [
+            {
+                "date": "2026-10-13",
+                "type": "claimed",
+                "group": "N0n"
+            }
+        ]
+    },
+    {
         "victim": "P******Y.ca",
         "domain": "PHARMACY.ca",
         "country": "CA",
@@ -12138,6 +12150,18 @@
         ]
     },
     {
+        "victim": "Admirals Trading",
+        "domain": "admirals.ae",
+        "country": "AE",
+        "timeline": [
+            {
+                "date": "2026-10-13",
+                "type": "claimed",
+                "group": "AuditTeam"
+            }
+        ]
+    },
+    {
         "victim": "ADM LAW",
         "domain": "admlaw.com",
         "country": "US",
@@ -15551,6 +15575,18 @@
         ]
     },
     {
+        "victim": "Ahlqvist & Almqvist Arkitekter AB",
+        "domain": "ahlqvist-almqvist.se",
+        "country": "SE",
+        "timeline": [
+            {
+                "date": "2026-10-13",
+                "type": "claimed",
+                "group": "Wallstreet"
+            }
+        ]
+    },
+    {
         "victim": "www.ahmadiyya.ca",
         "domain": "ahmadiyya.ca",
         "country": "CA",
@@ -16502,6 +16538,18 @@
                 "date": "2026-01-13",
                 "type": "claimed",
                 "group": "nova"
+            }
+        ]
+    },
+    {
+        "victim": "Advanced Imaging Solutions",
+        "domain": "ais-mn.com",
+        "country": "MN",
+        "timeline": [
+            {
+                "date": "2026-10-13",
+                "type": "claimed",
+                "group": "play"
             }
         ]
     },
@@ -18693,6 +18741,18 @@
                 "date": "2023-08-11",
                 "type": "assessed",
                 "group": "play"
+            }
+        ]
+    },
+    {
+        "victim": "Alfameli Group",
+        "domain": "alfameli.com",
+        "country": "MY",
+        "timeline": [
+            {
+                "date": "2026-10-13",
+                "type": "claimed",
+                "group": "Orova"
             }
         ]
     },
@@ -41416,6 +41476,18 @@
         ]
     },
     {
+        "victim": "Byrån för Arkitektur och Urbanism",
+        "domain": "bau.se",
+        "country": "SE",
+        "timeline": [
+            {
+                "date": "2026-10-13",
+                "type": "claimed",
+                "group": "Wallstreet"
+            }
+        ]
+    },
+    {
         "victim": "BAUCENTER",
         "domain": "baucenter.it",
         "country": "IT",
@@ -53737,6 +53809,18 @@
         ]
     },
     {
+        "victim": "Briab Group AB",
+        "domain": "briab.se",
+        "country": "SE",
+        "timeline": [
+            {
+                "date": "2026-10-13",
+                "type": "claimed",
+                "group": "Wallstreet"
+            }
+        ]
+    },
+    {
         "victim": "Brian Cox",
         "domain": "brian-cox.co.uk",
         "country": "GB",
@@ -55525,6 +55609,18 @@
         ]
     },
     {
+        "victim": "Brunnberg & Forshed Arkitektkontor",
+        "domain": "brunnbergoforshed.se",
+        "country": "SE",
+        "timeline": [
+            {
+                "date": "2026-10-13",
+                "type": "claimed",
+                "group": "Wallstreet"
+            }
+        ]
+    },
+    {
         "victim": "Brunswick",
         "domain": "brunswick.com",
         "country": "US",
@@ -56185,6 +56281,18 @@
             {
                 "date": "2023-05-15",
                 "type": "reported"
+            }
+        ]
+    },
+    {
+        "victim": "The Buckner Company, Inc.",
+        "domain": "buckner.com",
+        "country": "US",
+        "timeline": [
+            {
+                "date": "2026-10-13",
+                "type": "claimed",
+                "group": "aurora"
             }
         ]
     },
@@ -75308,6 +75416,18 @@
         ]
     },
     {
+        "victim": "CMC AUDITORES SRL",
+        "domain": "cmc.com.ar",
+        "country": "AR",
+        "timeline": [
+            {
+                "date": "2026-10-13",
+                "type": "claimed",
+                "group": "emperador"
+            }
+        ]
+    },
+    {
         "victim": "cmc.com.br",
         "domain": "cmc.com.br",
         "country": "BR",
@@ -77089,6 +77209,18 @@
         ]
     },
     {
+        "victim": "Codar (Pte) Ltd",
+        "domain": "codar.com.sg",
+        "country": "SG",
+        "timeline": [
+            {
+                "date": "2026-10-13",
+                "type": "claimed",
+                "group": "Orova"
+            }
+        ]
+    },
+    {
         "victim": "codesco.com",
         "domain": "codesco.com",
         "country": "DE",
@@ -78853,6 +78985,29 @@
                 "date": "2025-11-27",
                 "type": "claimed",
                 "group": "qilin"
+            }
+        ]
+    },
+    {
+        "victim": "Comisión Municipal de Agua Potable y Alcantarillado de Victoria",
+        "domain": "comapavictoria.gob.mx",
+        "country": "MX",
+        "timeline": [
+            {
+                "date": "2026-10-13",
+                "type": "claimed",
+                "group": "qilin"
+            },
+            {
+                "date": "2026-10-22",
+                "type": "discovered",
+                "summary": "COMAPA Victoria a été victime d'une tentative de cyberattaque par rançongiciel (ransomware). Les cybercriminels cherchaient à extorquer une rançon en bloquant les fichiers de l'organisme. Grâce à des sauvegardes à jour, l'institution a réussi à restaurer toutes les données sans effectuer de paiement. COMAPA a assuré que les données personnelles et bancaires des utilisateurs n'ont pas été compromises, car l'organisme ne stocke pas ces informations sensibles.",
+                "title": "COMAPA en Ciudad Victoria, Tamaulipas, refuerza su seguridad digital tras ciberataque",
+                "url": "https://voxpopulinoticias.com.mx/2026/10/comapa-en-ciudad-victoria-tamaulipas-refuerza-su-seguridad-digital-tras-ciberataque/"
+            },
+            {
+                "date": "2026-10-21",
+                "type": "reported"
             }
         ]
     },
@@ -82774,6 +82929,18 @@
             {
                 "date": "2024-05-14",
                 "type": "reported"
+            }
+        ]
+    },
+    {
+        "victim": "Cooper Tec Solutions",
+        "domain": "coopertecs.com.br",
+        "country": "BR",
+        "timeline": [
+            {
+                "date": "2026-09-29",
+                "type": "claimed",
+                "group": "HYFLOCK"
             }
         ]
     },
@@ -88858,6 +89025,18 @@
         ]
     },
     {
+        "victim": "Culinary Specialties",
+        "domain": "culinaryspecialties.net",
+        "country": "US",
+        "timeline": [
+            {
+                "date": "2026-10-13",
+                "type": "claimed",
+                "group": "play"
+            }
+        ]
+    },
+    {
         "victim": "CULines (container shipping)",
         "domain": "culines.com",
         "country": "CN",
@@ -91478,6 +91657,18 @@
         ]
     },
     {
+        "victim": "Danvikshem (Stiftelsen Danviks Hospital)",
+        "domain": "danvikshem.se",
+        "country": "SE",
+        "timeline": [
+            {
+                "date": "2026-10-13",
+                "type": "claimed",
+                "group": "Wallstreet"
+            }
+        ]
+    },
+    {
         "victim": "Danzo Group",
         "domain": "danzogroup.com",
         "country": "JP",
@@ -93684,6 +93875,18 @@
                 "date": "2025-02-18",
                 "type": "claimed",
                 "group": "akira"
+            }
+        ]
+    },
+    {
+        "victim": "Decorolala",
+        "domain": "decorolala.com",
+        "country": "CA",
+        "timeline": [
+            {
+                "date": "2026-10-13",
+                "type": "claimed",
+                "group": "BYOD"
             }
         ]
     },
@@ -96725,6 +96928,18 @@
                 "date": "2026-09-08",
                 "type": "claimed",
                 "group": "settra"
+            }
+        ]
+    },
+    {
+        "victim": "DFK Group",
+        "domain": "dfkgroup.de",
+        "country": "DE",
+        "timeline": [
+            {
+                "date": "2026-10-13",
+                "type": "claimed",
+                "group": "play"
             }
         ]
     },
@@ -104525,6 +104740,18 @@
                 "date": "2026-01-19",
                 "type": "claimed",
                 "group": "nitrogen"
+            }
+        ]
+    },
+    {
+        "victim": "Durga Bearings",
+        "domain": "durgabrgs.com",
+        "country": "IN",
+        "timeline": [
+            {
+                "date": "2026-10-13",
+                "type": "claimed",
+                "group": "Orova"
             }
         ]
     },
@@ -113390,6 +113617,18 @@
         ]
     },
     {
+        "victim": "Englunds Konsultbyrå AB",
+        "domain": "englundsab.se",
+        "country": "SE",
+        "timeline": [
+            {
+                "date": "2026-10-13",
+                "type": "claimed",
+                "group": "Wallstreet"
+            }
+        ]
+    },
+    {
         "victim": "Enterprise Network Group of Indiana",
         "domain": "engofinllc.com",
         "country": "US",
@@ -118698,6 +118937,18 @@
         ]
     },
     {
+        "victim": "Excess Baggage",
+        "domain": "excess-baggage.com",
+        "country": "GB",
+        "timeline": [
+            {
+                "date": "2026-10-05",
+                "type": "claimed",
+                "group": "ransomhouse"
+            }
+        ]
+    },
+    {
         "victim": "Exclusive Networks",
         "domain": "exclusive-networks.com",
         "country": "FR",
@@ -119887,6 +120138,18 @@
                 "date": "2025-11-06",
                 "type": "claimed",
                 "group": "warlock"
+            }
+        ]
+    },
+    {
+        "victim": "Fab Support AB",
+        "domain": "fabsupport.se",
+        "country": "SE",
+        "timeline": [
+            {
+                "date": "2026-10-13",
+                "type": "claimed",
+                "group": "Wallstreet"
             }
         ]
     },
@@ -140625,6 +140888,18 @@
         ]
     },
     {
+        "victim": "The Golden Legacy Financing",
+        "domain": "goldenfinancing.com",
+        "country": "PH",
+        "timeline": [
+            {
+                "date": "2026-10-13",
+                "type": "claimed",
+                "group": "qilin"
+            }
+        ]
+    },
+    {
         "victim": "Golden GBC",
         "domain": "goldengbc.com",
         "country": "HK",
@@ -143437,6 +143712,18 @@
                 "date": "2026-06-17",
                 "type": "claimed",
                 "group": "lamashtu"
+            }
+        ]
+    },
+    {
+        "victim": "Great Lakes",
+        "domain": "greatlakes.edu.in",
+        "country": "IN",
+        "timeline": [
+            {
+                "date": "2026-10-13",
+                "type": "claimed",
+                "group": "incransom"
             }
         ]
     },
@@ -147489,6 +147776,18 @@
                 "date": "2026-01-31",
                 "type": "assessed",
                 "group": "lockbit5"
+            }
+        ]
+    },
+    {
+        "victim": "Guarufilme",
+        "domain": "guarufilme.com.br",
+        "country": "BR",
+        "timeline": [
+            {
+                "date": "2026-10-13",
+                "type": "claimed",
+                "group": "Vexy Ransomware"
             }
         ]
     },
@@ -162176,6 +162475,18 @@
         ]
     },
     {
+        "victim": "Hunter Neurology",
+        "domain": "hunterneurology.com.au",
+        "country": "AU",
+        "timeline": [
+            {
+                "date": "2026-10-13",
+                "type": "claimed",
+                "group": "N0n"
+            }
+        ]
+    },
+    {
         "victim": "Huntington Hotel Group",
         "domain": "huntingtonhotelgroup.com",
         "country": "US",
@@ -165726,6 +166037,18 @@
         ]
     },
     {
+        "victim": "IGPL",
+        "domain": "igpetro.com",
+        "country": "NG",
+        "timeline": [
+            {
+                "date": "2026-10-10",
+                "type": "claimed",
+                "group": "HYFLOCK"
+            }
+        ]
+    },
+    {
         "victim": "igpi.co.jp",
         "domain": "igpi.co.jp",
         "country": "JP",
@@ -166477,12 +166800,17 @@
         ]
     },
     {
-        "victim": "Iliff",
+        "victim": "Iliff, Meredith, Wildberger & Brennan, P.C",
         "domain": "ilimer.com",
         "country": "US",
         "timeline": [
             {
                 "date": "2026-06-10",
+                "type": "claimed",
+                "group": "qilin"
+            },
+            {
+                "date": "2026-10-13",
                 "type": "claimed",
                 "group": "qilin"
             }
@@ -171365,6 +171693,29 @@
                 "date": "2023-08-12",
                 "type": "claimed",
                 "group": "alphv"
+            }
+        ]
+    },
+    {
+        "victim": "Interseguro",
+        "domain": "interseguro.pe",
+        "country": "PE",
+        "timeline": [
+            {
+                "date": "2026-10-13",
+                "type": "claimed",
+                "group": "direwolf"
+            },
+            {
+                "date": "2026-10-14",
+                "type": "discovered",
+                "summary": "L'assureur péruvien Interseguro a été mentionné dans une alerte de cybersécurité émanant du groupe de ransomware Direwolf, qui prétend avoir accédé à 2,5 téraoctets de données. Interseguro a confirmé l'accès non autorisé à des informations d'un groupe de clients, incluant potentiellement des documents internes et des données personnelles. Cependant, l'entreprise assure que les données compromises ne permettent pas de compromettre les transactions ou les opérations d'assurance, et que ses services continuent de fonctionner normalement. Le volume et l'étendue de la fuite ne sont pas confirmés de manière indépendante.",
+                "title": "Interseguro enfrenta una alerta por presunta filtración de datos: reportan DNI, información financiera y archivos internos en la dark web",
+                "url": "https://www.infobae.com/peru/2026/10/13/interseguro-enfrenta-una-alerta-por-presunta-filtracion-de-datos-reportan-dni-informacion-financiera-y-archivos-internos-en-la-dark-web/?outputType=amp-type"
+            },
+            {
+                "date": "2026-10-11",
+                "type": "reported"
             }
         ]
     },
@@ -190557,6 +190908,18 @@
         ]
     },
     {
+        "victim": "KVH",
+        "domain": "kvh.com",
+        "country": "US",
+        "timeline": [
+            {
+                "date": "2026-10-13",
+                "type": "claimed",
+                "group": "everest"
+            }
+        ]
+    },
+    {
         "victim": "www.kvhealth.net",
         "domain": "kvhealth.net",
         "country": "US",
@@ -191743,6 +192106,18 @@
         ]
     },
     {
+        "victim": "Laerdal",
+        "domain": "laerdal.com",
+        "country": "NO",
+        "timeline": [
+            {
+                "date": "2026-10-13",
+                "type": "claimed",
+                "group": "everest"
+            }
+        ]
+    },
+    {
         "victim": "La Fabrica",
         "domain": "lafabrica.com.ar",
         "country": "ES",
@@ -192478,6 +192853,18 @@
                 "date": "2025-03-12",
                 "type": "assessed",
                 "group": "akira"
+            }
+        ]
+    },
+    {
+        "victim": "Lambertinum Seniorenwohnanlage",
+        "domain": "lambertinum.de",
+        "country": "DE",
+        "timeline": [
+            {
+                "date": "2026-10-13",
+                "type": "claimed",
+                "group": "Wallstreet"
             }
         ]
     },
@@ -206921,6 +207308,18 @@
         ]
     },
     {
+        "victim": "Mantum Holding AB",
+        "domain": "mantum.se",
+        "country": "SE",
+        "timeline": [
+            {
+                "date": "2026-10-13",
+                "type": "claimed",
+                "group": "Wallstreet"
+            }
+        ]
+    },
+    {
         "victim": "EUROFILM ΜΑΝΤΖΑΡΗΣ Α.Ε",
         "domain": "mantzaris-film.com",
         "country": "GR",
@@ -207403,6 +207802,18 @@
                 "date": "2023-09-03",
                 "type": "claimed",
                 "group": "lockbit3"
+            }
+        ]
+    },
+    {
+        "victim": "MarieBelle New York",
+        "domain": "mariebelle.com",
+        "country": "US",
+        "timeline": [
+            {
+                "date": "2026-10-11",
+                "type": "claimed",
+                "group": "N0n"
             }
         ]
     },
@@ -215412,6 +215823,18 @@
         ]
     },
     {
+        "victim": "merkezilac_archives",
+        "domain": "merkezilac.com",
+        "country": "TR",
+        "timeline": [
+            {
+                "date": "2026-10-13",
+                "type": "claimed",
+                "group": "HYFLOCK"
+            }
+        ]
+    },
+    {
         "victim": "Merkle",
         "domain": "merkle.com",
         "country": "JP",
@@ -219751,6 +220174,18 @@
         "timeline": [
             {
                 "date": "2026-01-24",
+                "type": "claimed",
+                "group": "qilin"
+            }
+        ]
+    },
+    {
+        "victim": "Milstein Siegel, LLC",
+        "domain": "milsteinfamilylaw.com",
+        "country": "US",
+        "timeline": [
+            {
+                "date": "2026-10-13",
                 "type": "claimed",
                 "group": "qilin"
             }
@@ -236725,6 +237160,18 @@
         ]
     },
     {
+        "victim": "nodhom.com",
+        "domain": "nodhom.com",
+        "country": "SA",
+        "timeline": [
+            {
+                "date": "2026-10-01",
+                "type": "claimed",
+                "group": "HYFLOCK"
+            }
+        ]
+    },
+    {
         "victim": "noe.wifi.at",
         "domain": "noe.wifi.at",
         "country": "AT",
@@ -241888,6 +242335,18 @@
                 "date": "2024-08-15",
                 "type": "assessed",
                 "group": "akira"
+            }
+        ]
+    },
+    {
+        "victim": "ocean beverages",
+        "domain": "oceanbeverages.in",
+        "country": "IN",
+        "timeline": [
+            {
+                "date": "2026-10-11",
+                "type": "claimed",
+                "group": "HYFLOCK"
             }
         ]
     },
@@ -260940,6 +261399,18 @@
                 "date": "2024-08-14",
                 "type": "claimed",
                 "group": "ransomhub"
+            }
+        ]
+    },
+    {
+        "victim": "Ecuador police headquarters",
+        "domain": "policia.gob.ec",
+        "country": "EC",
+        "timeline": [
+            {
+                "date": "2026-10-12",
+                "type": "claimed",
+                "group": "HYFLOCK"
             }
         ]
     },
@@ -284484,6 +284955,18 @@
         ]
     },
     {
+        "victim": "Saddlers Court MFG",
+        "domain": "saddlerscourtmfg.com",
+        "country": "GB",
+        "timeline": [
+            {
+                "date": "2026-10-13",
+                "type": "claimed",
+                "group": "play"
+            }
+        ]
+    },
+    {
         "victim": "Sadler Gibb & Associates",
         "domain": "sadlergibb.com",
         "country": "US",
@@ -306270,6 +306753,18 @@
         ]
     },
     {
+        "victim": "Spectrum Arkitekter AB",
+        "domain": "spectrumarkitekter.se",
+        "country": "SE",
+        "timeline": [
+            {
+                "date": "2026-10-13",
+                "type": "claimed",
+                "group": "Wallstreet"
+            }
+        ]
+    },
+    {
         "victim": "spectrumchemical.com",
         "domain": "spectrumchemical.com",
         "country": "US",
@@ -320487,6 +320982,18 @@
         ]
     },
     {
+        "victim": "tdotnet",
+        "domain": "tdotnetbd.com",
+        "country": "BD",
+        "timeline": [
+            {
+                "date": "2026-10-12",
+                "type": "claimed",
+                "group": "HYFLOCK"
+            }
+        ]
+    },
+    {
         "victim": "tdra",
         "domain": "tdra.gov.ae",
         "country": "AE",
@@ -325375,6 +325882,18 @@
         ]
     },
     {
+        "victim": "The Innovation Group",
+        "domain": "theinnovationgroup.com",
+        "country": "US",
+        "timeline": [
+            {
+                "date": "2026-10-13",
+                "type": "claimed",
+                "group": "play"
+            }
+        ]
+    },
+    {
         "victim": "The InterTech Group",
         "domain": "theintertechgroup.com",
         "country": "US",
@@ -329961,6 +330480,18 @@
             {
                 "date": "2025-10-23",
                 "type": "reported"
+            }
+        ]
+    },
+    {
+        "victim": "Topcon Healthcare",
+        "domain": "topconhealthcare.jp",
+        "country": "JP",
+        "timeline": [
+            {
+                "date": "2026-10-13",
+                "type": "claimed",
+                "group": "everest"
             }
         ]
     },
@@ -343279,6 +343810,18 @@
         ]
     },
     {
+        "victim": "Valode & Pistre",
+        "domain": "v-p.com",
+        "country": "FR",
+        "timeline": [
+            {
+                "date": "2026-10-13",
+                "type": "claimed",
+                "group": "Panzer"
+            }
+        ]
+    },
+    {
         "victim": "v-silicon.com",
         "domain": "v-silicon.com",
         "country": "TW",
@@ -345204,6 +345747,18 @@
                 "date": "2023-03-30",
                 "type": "claimed",
                 "group": "royal"
+            }
+        ]
+    },
+    {
+        "victim": "Vendus Sweden AB",
+        "domain": "vendusfastigheter.se",
+        "country": "SE",
+        "timeline": [
+            {
+                "date": "2026-10-13",
+                "type": "claimed",
+                "group": "Wallstreet"
             }
         ]
     },
@@ -358988,7 +359543,7 @@
         ]
     },
     {
-        "victim": "wolfusofsky.de",
+        "victim": "Wolf & Sofsky GmbH",
         "domain": "wolfusofsky.de",
         "country": "DE",
         "timeline": [
@@ -358996,6 +359551,11 @@
                 "date": "2026-09-30",
                 "type": "claimed",
                 "group": "safepay"
+            },
+            {
+                "date": "2026-10-13",
+                "type": "claimed",
+                "group": "incransom"
             }
         ]
     },
@@ -363430,6 +363990,18 @@
         ]
     },
     {
+        "victim": "YYC Advisors",
+        "domain": "yycadvisors.com",
+        "country": "MY",
+        "timeline": [
+            {
+                "date": "2026-09-09",
+                "type": "claimed",
+                "group": "HYFLOCK"
+            }
+        ]
+    },
+    {
         "victim": "Yau Yat Chuen Garden City Club",
         "domain": "yycclub.org",
         "country": "HK",
@@ -364132,6 +364704,18 @@
                 "date": "2023-02-15",
                 "type": "claimed",
                 "group": "8base"
+            }
+        ]
+    },
+    {
+        "victim": "Zenidoc",
+        "domain": "zenidoc.fr",
+        "country": "FR",
+        "timeline": [
+            {
+                "date": "2026-10-13",
+                "type": "claimed",
+                "group": "Panzer"
             }
         ]
     },
