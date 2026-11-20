@@ -1,5 +1,16 @@
 [
     {
+        "date": "2026-11-14",
+        "victim": "Instituto da Mobilidade e dos Transportes (IMT)",
+        "domain": "imt.madeira.gov.pt",
+        "country": "PRT",
+        "summary": "L'Instituto da Mobilidade e dos Transportes (IMT) a confirmé avoir été la cible de plusieurs cyberattaques. En raison de l'instabilité et pour protéger l'intégrité de ses systèmes, l'IMT a suspendu temporairement ses services en ligne, qui sont inaccessibles depuis samedi dernier. Cette situation perturbe gravement les professionnels, notamment les conducteurs et les écoles de conduite, en bloquant l'émission de certificats. Les autorités compétentes mènent actuellement une enquête sur l'incident.",
+        "description": "",
+        "title": "Falhas no IMT foram provocadas por ataque informático. Site continua inacessível",
+        "url": "https://www.jn.pt/nacional/artigo/falhas-no-imt-foram-provocadas-por-ataque-informatico-site-continua-inacessivel/18150144",
+        "added": "2026-11-20"
+    },
+    {
         "date": "2026-08-26",
         "victim": "Park Dental Partners",
         "domain": "parkdentalpartners.com",
