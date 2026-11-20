@@ -7223,8 +7223,13 @@
     {
         "victim": "AAA Architectural Hardware",
         "domain": "aaahardware.com",
-        "country": "US",
+        "country": "UE",
         "timeline": [
+            {
+                "date": "2026-10-12",
+                "type": "claimed",
+                "group": "akira"
+            },
             {
                 "date": "2026-09-18",
                 "type": "assessed",
@@ -13493,6 +13498,18 @@
                 "date": "2026-01-06",
                 "type": "claimed",
                 "group": "interlock"
+            }
+        ]
+    },
+    {
+        "victim": "Aeroklas Duys / Duys Engineering Group",
+        "domain": "aeroklasduys.co.za",
+        "country": "ZA",
+        "timeline": [
+            {
+                "date": "2026-10-12",
+                "type": "claimed",
+                "group": "Deadlock"
             }
         ]
     },
@@ -22063,6 +22080,18 @@
         ]
     },
     {
+        "victim": "Amantya Technologies",
+        "domain": "amantyatech.com",
+        "country": "IN",
+        "timeline": [
+            {
+                "date": "2026-10-12",
+                "type": "claimed",
+                "group": "Orova"
+            }
+        ]
+    },
+    {
         "victim": "Amanzi Marble & Granite",
         "domain": "amanzigranite.com",
         "country": "US",
@@ -26494,6 +26523,18 @@
         ]
     },
     {
+        "victim": "Apical Group (commodity processing and logistics)",
+        "domain": "apicalgroup.com",
+        "country": "SG",
+        "timeline": [
+            {
+                "date": "2026-10-12",
+                "type": "claimed",
+                "group": "N0n"
+            }
+        ]
+    },
+    {
         "victim": "APIQROO",
         "domain": "apiqroo.com.mx",
         "country": "",
@@ -27007,6 +27048,18 @@
                 "date": "2025-09-05",
                 "type": "assessed",
                 "group": "akira"
+            }
+        ]
+    },
+    {
+        "victim": "April Asia (port agency operations)",
+        "domain": "aprilasia.com",
+        "country": "ID",
+        "timeline": [
+            {
+                "date": "2026-10-12",
+                "type": "claimed",
+                "group": "N0n"
             }
         ]
     },
@@ -32556,6 +32609,18 @@
                 "date": "2026-09-23",
                 "type": "claimed",
                 "group": "Spirals"
+            }
+        ]
+    },
+    {
+        "victim": "Asyaport (container terminal operations)",
+        "domain": "asyaport.com",
+        "country": "TR",
+        "timeline": [
+            {
+                "date": "2026-10-12",
+                "type": "claimed",
+                "group": "N0n"
             }
         ]
     },
@@ -46847,6 +46912,18 @@
         ]
     },
     {
+        "victim": "BigID",
+        "domain": "bigid.com",
+        "country": "US",
+        "timeline": [
+            {
+                "date": "2026-10-12",
+                "type": "claimed",
+                "group": "thegentlemen"
+            }
+        ]
+    },
+    {
         "victim": "Big Issue Group",
         "domain": "bigissue.com",
         "country": "GB",
@@ -48501,6 +48578,18 @@
         ]
     },
     {
+        "victim": "BKH ICD (inland container depot operations)",
+        "domain": "bkhicd.com",
+        "country": "KR",
+        "timeline": [
+            {
+                "date": "2026-10-12",
+                "type": "claimed",
+                "group": "N0n"
+            }
+        ]
+    },
+    {
         "victim": "Benson Kearley IFG - Insurance Brokers & Financial Advisors",
         "domain": "bkifg.com",
         "country": "CA",
@@ -50106,6 +50195,18 @@
         ]
     },
     {
+        "victim": "BMT IQ (marine surveying and inspection)",
+        "domain": "bmtiq.com",
+        "country": "GB",
+        "timeline": [
+            {
+                "date": "2026-10-12",
+                "type": "claimed",
+                "group": "N0n"
+            }
+        ]
+    },
+    {
         "victim": "Bmtp",
         "domain": "bmtp.co.th",
         "country": "TH",
@@ -50296,6 +50397,18 @@
             {
                 "date": "2025-07-01",
                 "type": "reported"
+            }
+        ]
+    },
+    {
+        "victim": "BNCT Busan New Container Terminal",
+        "domain": "bnctkorea.com",
+        "country": "KR",
+        "timeline": [
+            {
+                "date": "2026-10-12",
+                "type": "claimed",
+                "group": "N0n"
             }
         ]
     },
@@ -54916,6 +55029,18 @@
                 "date": "2025-06-24",
                 "type": "claimed",
                 "group": "pear"
+            }
+        ]
+    },
+    {
+        "victim": "brookslawfirm.com",
+        "domain": "brookslawfirm.com",
+        "country": "US",
+        "timeline": [
+            {
+                "date": "2026-10-12",
+                "type": "claimed",
+                "group": "incransom"
             }
         ]
     },
@@ -59564,6 +59689,18 @@
                 "date": "2025-08-07",
                 "type": "claimed",
                 "group": "qilin"
+            }
+        ]
+    },
+    {
+        "victim": "Camellia Line (ferry and RoRo operations)",
+        "domain": "camellia-line.co.jp",
+        "country": "JP",
+        "timeline": [
+            {
+                "date": "2026-10-12",
+                "type": "claimed",
+                "group": "N0n"
             }
         ]
     },
@@ -68106,6 +68243,18 @@
         ]
     },
     {
+        "victim": "GNCNet / DGT Busan (port community IT)",
+        "domain": "chainportal.co.kr",
+        "country": "KR",
+        "timeline": [
+            {
+                "date": "2026-10-12",
+                "type": "claimed",
+                "group": "N0n"
+            }
+        ]
+    },
+    {
         "victim": "ChainPower Technology",
         "domain": "chainpower.com.tw",
         "country": "TW",
@@ -73161,6 +73310,18 @@
         ]
     },
     {
+        "victim": "Claire's Inc.",
+        "domain": "claires.com",
+        "country": "US",
+        "timeline": [
+            {
+                "date": "2026-10-12",
+                "type": "claimed",
+                "group": "Dark Project"
+            }
+        ]
+    },
+    {
         "victim": "clair",
         "domain": "clairglobal.com",
         "country": "",
@@ -75733,6 +75894,18 @@
         ]
     },
     {
+        "victim": "Canadian Mennonite University (CMU)",
+        "domain": "cmu.ca",
+        "country": "CA",
+        "timeline": [
+            {
+                "date": "2026-10-12",
+                "type": "claimed",
+                "group": "dragonforce"
+            }
+        ]
+    },
+    {
         "victim": "Carnegie Mellon University",
         "domain": "cmu.edu",
         "country": "US",
@@ -77357,6 +77530,18 @@
                 "date": "2026-04-15",
                 "type": "claimed",
                 "group": "coinbasecartel"
+            }
+        ]
+    },
+    {
+        "victim": "Cognosis Limited",
+        "domain": "cognosis.co.uk",
+        "country": "GB",
+        "timeline": [
+            {
+                "date": "2026-10-12",
+                "type": "claimed",
+                "group": "nightspire"
             }
         ]
     },
@@ -80299,6 +80484,18 @@
         ]
     },
     {
+        "victim": "ConAuto",
+        "domain": "conauto.com.ec",
+        "country": "EC",
+        "timeline": [
+            {
+                "date": "2026-10-12",
+                "type": "claimed",
+                "group": "qilin"
+            }
+        ]
+    },
+    {
         "victim": "Concord Components",
         "domain": "conc.com",
         "country": "US",
@@ -80483,6 +80680,18 @@
                 "date": "2023-12-04",
                 "type": "assessed",
                 "group": "cactus"
+            }
+        ]
+    },
+    {
+        "victim": "Concord Eye Center",
+        "domain": "concordeyecenternh.com",
+        "country": "US",
+        "timeline": [
+            {
+                "date": "2026-10-12",
+                "type": "claimed",
+                "group": "interlock"
             }
         ]
     },
@@ -80875,6 +81084,18 @@
                 "date": "2026-10-11",
                 "type": "claimed",
                 "group": "qilin"
+            }
+        ]
+    },
+    {
+        "victim": "Confluent",
+        "domain": "confluent.io",
+        "country": "US",
+        "timeline": [
+            {
+                "date": "2026-10-12",
+                "type": "claimed",
+                "group": "thegentlemen"
             }
         ]
     },
@@ -88633,6 +88854,18 @@
                 "date": "2025-12-17",
                 "type": "claimed",
                 "group": "devman"
+            }
+        ]
+    },
+    {
+        "victim": "CULines (container shipping)",
+        "domain": "culines.com",
+        "country": "CN",
+        "timeline": [
+            {
+                "date": "2026-10-12",
+                "type": "claimed",
+                "group": "N0n"
             }
         ]
     },
@@ -100906,6 +101139,30 @@
         ]
     },
     {
+        "victim": "Dong-A Tanker (oil tanker operations)",
+        "domain": "dongatanker.com",
+        "country": "KR",
+        "timeline": [
+            {
+                "date": "2026-10-12",
+                "type": "claimed",
+                "group": "N0n"
+            }
+        ]
+    },
+    {
+        "victim": "Dongkuk Steel (steel manufacturing)",
+        "domain": "dongkuksteel.com",
+        "country": "KR",
+        "timeline": [
+            {
+                "date": "2026-10-12",
+                "type": "claimed",
+                "group": "N0n"
+            }
+        ]
+    },
+    {
         "victim": "Don Hierro",
         "domain": "donhierro.com",
         "country": "MX",
@@ -106814,6 +107071,18 @@
                 "date": "2026-08-02",
                 "type": "claimed",
                 "group": "incransom"
+            }
+        ]
+    },
+    {
+        "victim": "Engineers Contractors Fabricators Inc. (ECF)",
+        "domain": "ecfinc.net",
+        "country": "US",
+        "timeline": [
+            {
+                "date": "2026-10-12",
+                "type": "claimed",
+                "group": "interlock"
             }
         ]
     },
@@ -117130,6 +117399,18 @@
         ]
     },
     {
+        "victim": "Eurogate Tanger (container terminal operations)",
+        "domain": "eurogate.de",
+        "country": "MA",
+        "timeline": [
+            {
+                "date": "2026-10-12",
+                "type": "claimed",
+                "group": "N0n"
+            }
+        ]
+    },
+    {
         "victim": "eurohold.bg",
         "domain": "eurohold.bg",
         "country": "BG",
@@ -117356,6 +117637,18 @@
                 "date": "2023-05-15",
                 "type": "claimed",
                 "group": "lockbit3"
+            }
+        ]
+    },
+    {
+        "victim": "EUSU Logistics (logistics operations)",
+        "domain": "eusu-logistics.com",
+        "country": "KR",
+        "timeline": [
+            {
+                "date": "2026-10-12",
+                "type": "claimed",
+                "group": "N0n"
             }
         ]
     },
@@ -117775,6 +118068,18 @@
                 "date": "2025-07-01",
                 "type": "claimed",
                 "group": "nightspire"
+            }
+        ]
+    },
+    {
+        "victim": "Eversource Energy",
+        "domain": "eversource.com",
+        "country": "US",
+        "timeline": [
+            {
+                "date": "2026-10-12",
+                "type": "claimed",
+                "group": "Redact"
             }
         ]
     },
@@ -129341,6 +129646,18 @@
         ]
     },
     {
+        "victim": "Franklin Miller Inc.",
+        "domain": "franklinmiller.com",
+        "country": "US",
+        "timeline": [
+            {
+                "date": "2026-10-12",
+                "type": "claimed",
+                "group": "Dark Project"
+            }
+        ]
+    },
+    {
         "victim": "franklin nursing home",
         "domain": "franklinnursinghome.com",
         "country": "US",
@@ -133974,6 +134291,18 @@
         ]
     },
     {
+        "victim": "Gatetech Technology",
+        "domain": "gatetech.com.tw",
+        "country": "TW",
+        "timeline": [
+            {
+                "date": "2026-10-12",
+                "type": "claimed",
+                "group": "Orova"
+            }
+        ]
+    },
+    {
         "victim": "Gateway Casinos and Entertainment",
         "domain": "gatewaycasinos.com",
         "country": "CA",
@@ -134560,6 +134889,18 @@
                 "date": "2023-09-26",
                 "type": "claimed",
                 "group": "alphv"
+            }
+        ]
+    },
+    {
+        "victim": "GCS Kuwait (port community system operations)",
+        "domain": "gcskw.com",
+        "country": "KW",
+        "timeline": [
+            {
+                "date": "2026-10-12",
+                "type": "claimed",
+                "group": "N0n"
             }
         ]
     },
@@ -135154,6 +135495,18 @@
             {
                 "date": "2026-04-01",
                 "type": "reported"
+            }
+        ]
+    },
+    {
+        "victim": "Nam Dinh Vu Port (container terminal operations)",
+        "domain": "gemadept.com.vn",
+        "country": "VN",
+        "timeline": [
+            {
+                "date": "2026-10-12",
+                "type": "claimed",
+                "group": "N0n"
             }
         ]
     },
@@ -138664,6 +139017,18 @@
         "domain": "globalnetauto.com.tw",
         "country": "TW",
         "timeline": []
+    },
+    {
+        "victim": "GlobalNet LCL (port agency operations)",
+        "domain": "globalnetindonesia.com",
+        "country": "ID",
+        "timeline": [
+            {
+                "date": "2026-10-12",
+                "type": "claimed",
+                "group": "N0n"
+            }
+        ]
     },
     {
         "victim": "Global Parts & Maintenance",
@@ -143554,6 +143919,18 @@
                 "date": "2025-10-14",
                 "type": "claimed",
                 "group": "qilin"
+            }
+        ]
+    },
+    {
+        "victim": "Greentech Environmental",
+        "domain": "greentechenv.com",
+        "country": "US",
+        "timeline": [
+            {
+                "date": "2026-10-12",
+                "type": "claimed",
+                "group": "interlock"
             }
         ]
     },
@@ -149135,6 +149512,18 @@
                 "date": "2024-06-11",
                 "type": "claimed",
                 "group": "ransomhub"
+            }
+        ]
+    },
+    {
+        "victim": "HPC Hamburg Port Consulting (port operations)",
+        "domain": "hamburgportconsulting.com",
+        "country": "DE",
+        "timeline": [
+            {
+                "date": "2026-10-12",
+                "type": "claimed",
+                "group": "N0n"
             }
         ]
     },
@@ -156201,8 +156590,13 @@
     {
         "victim": "hiqbio.com",
         "domain": "hiqbio.com",
-        "country": "TW",
+        "country": "US",
         "timeline": [
+            {
+                "date": "2026-10-12",
+                "type": "claimed",
+                "group": "safepay"
+            },
             {
                 "date": "2026-10-02",
                 "type": "assessed",
@@ -157376,6 +157770,18 @@
                 "date": "2025-06-24",
                 "type": "assessed",
                 "group": "akira"
+            }
+        ]
+    },
+    {
+        "victim": "Rechtsanwaltskanzlei Dr. Bien",
+        "domain": "hoelzemann-bien.de",
+        "country": "DE",
+        "timeline": [
+            {
+                "date": "2026-10-12",
+                "type": "claimed",
+                "group": "aurora"
             }
         ]
     },
@@ -165945,6 +166351,18 @@
                 "date": "2023-10-31",
                 "type": "claimed",
                 "group": "knight"
+            }
+        ]
+    },
+    {
+        "victim": "ILCS Pelindo (port logistics operations)",
+        "domain": "ilcs.co.id",
+        "country": "ID",
+        "timeline": [
+            {
+                "date": "2026-10-12",
+                "type": "claimed",
+                "group": "N0n"
             }
         ]
     },
@@ -178051,6 +178469,18 @@
         ]
     },
     {
+        "victim": "NCT Kandla (container terminal operations)",
+        "domain": "jmbaxi.com",
+        "country": "IN",
+        "timeline": [
+            {
+                "date": "2026-10-12",
+                "type": "claimed",
+                "group": "N0n"
+            }
+        ]
+    },
+    {
         "victim": "JM Bozeman Enterprises",
         "domain": "jmbozeman.com",
         "country": "US",
@@ -181335,6 +181765,18 @@
         ]
     },
     {
+        "victim": "Tsuneishi / Kambara Kisen (shipbuilding and ship management)",
+        "domain": "kambara-kisen.co.jp",
+        "country": "JP",
+        "timeline": [
+            {
+                "date": "2026-10-12",
+                "type": "claimed",
+                "group": "N0n"
+            }
+        ]
+    },
+    {
         "victim": "Kamo Jou Trading ",
         "domain": "kamojou.co.za",
         "country": "ZA",
@@ -184592,6 +185034,11 @@
                 "date": "2025-06-26",
                 "type": "claimed",
                 "group": "shinyhunters"
+            },
+            {
+                "date": "2026-10-12",
+                "type": "claimed",
+                "group": "thegentlemen"
             }
         ]
     },
@@ -188174,6 +188621,18 @@
         "timeline": []
     },
     {
+        "victim": "Korea Ferry (ferry operations)",
+        "domain": "koreaferry.kr",
+        "country": "KR",
+        "timeline": [
+            {
+                "date": "2026-10-12",
+                "type": "claimed",
+                "group": "N0n"
+            }
+        ]
+    },
+    {
         "victim": "Korea Petroleum Industrial Co. Ltd",
         "domain": "koreapetroleum.com",
         "country": "",
@@ -188404,6 +188863,18 @@
                 "date": "2026-06-15",
                 "type": "claimed",
                 "group": "thegentlemen"
+            }
+        ]
+    },
+    {
+        "victim": "KP Industries",
+        "domain": "kp-i.co.uk",
+        "country": "GB",
+        "timeline": [
+            {
+                "date": "2026-10-12",
+                "type": "claimed",
+                "group": "nightspire"
             }
         ]
     },
@@ -197693,6 +198164,18 @@
         ]
     },
     {
+        "victim": "Libre Wireless Technologies",
+        "domain": "librewireless.com",
+        "country": "IN",
+        "timeline": [
+            {
+                "date": "2026-10-12",
+                "type": "claimed",
+                "group": "Orova"
+            }
+        ]
+    },
+    {
         "victim": "Libyana was hacked A company with an enormous amount of vulnerabilities has allowed its cu",
         "domain": "libyana.ly",
         "country": "LY",
@@ -200902,6 +201385,18 @@
                 "date": "2026-03-26",
                 "type": "claimed",
                 "group": "qilin"
+            }
+        ]
+    },
+    {
+        "victim": "Louis Fusco",
+        "domain": "louisfusco.com",
+        "country": "",
+        "timeline": [
+            {
+                "date": "2026-10-12",
+                "type": "claimed",
+                "group": "akira"
             }
         ]
     },
@@ -216618,6 +217113,18 @@
         ]
     },
     {
+        "victim": "MGNP (port terminal operations)",
+        "domain": "mgnp.co.kr",
+        "country": "KR",
+        "timeline": [
+            {
+                "date": "2026-10-12",
+                "type": "claimed",
+                "group": "N0n"
+            }
+        ]
+    },
+    {
         "victim": "MG Oil",
         "domain": "mgoil.com",
         "country": "US",
@@ -216718,6 +217225,18 @@
                 "date": "2026-08-20",
                 "type": "claimed",
                 "group": "pear"
+            }
+        ]
+    },
+    {
+        "victim": "MGT Lojistik AŞ",
+        "domain": "mgtlog.com",
+        "country": "TR",
+        "timeline": [
+            {
+                "date": "2026-10-12",
+                "type": "claimed",
+                "group": "nightspire"
             }
         ]
     },
@@ -222186,6 +222705,11 @@
         "domain": "moneygram.com",
         "country": "US",
         "timeline": [
+            {
+                "date": "2026-10-12",
+                "type": "claimed",
+                "group": "thegentlemen"
+            },
             {
                 "date": "2024-09-24",
                 "type": "discovered",
@@ -227867,6 +228391,18 @@
         ]
     },
     {
+        "victim": "MyMichigan Health",
+        "domain": "mymichigan.org",
+        "country": "US",
+        "timeline": [
+            {
+                "date": "2026-10-12",
+                "type": "claimed",
+                "group": "metaencryptor"
+            }
+        ]
+    },
+    {
         "victim": "Mynd",
         "domain": "mynd.co",
         "country": "US",
@@ -231607,6 +232143,18 @@
                 "date": "2026-08-18",
                 "type": "claimed",
                 "group": "settra"
+            }
+        ]
+    },
+    {
+        "victim": "NEOM Ports (industrial port operations)",
+        "domain": "neom.com",
+        "country": "SA",
+        "timeline": [
+            {
+                "date": "2026-10-12",
+                "type": "claimed",
+                "group": "N0n"
             }
         ]
     },
@@ -239990,6 +240538,18 @@
         ]
     },
     {
+        "victim": "Nu-Quest Distribution Inc",
+        "domain": "nuquest.com",
+        "country": "US",
+        "timeline": [
+            {
+                "date": "2026-10-12",
+                "type": "claimed",
+                "group": "interlock"
+            }
+        ]
+    },
+    {
         "victim": "NurseSpring",
         "domain": "nursespring.com",
         "country": "US",
@@ -244157,6 +244717,18 @@
                 "date": "2024-03-01",
                 "type": "assessed",
                 "group": "lockbit3"
+            }
+        ]
+    },
+    {
+        "victim": "Premier Alliance (shipping network operations)",
+        "domain": "one-line.com",
+        "country": "NL",
+        "timeline": [
+            {
+                "date": "2026-10-12",
+                "type": "claimed",
+                "group": "N0n"
             }
         ]
     },
@@ -250549,6 +251121,18 @@
         ]
     },
     {
+        "victim": "The Park Lane Hong Kong",
+        "domain": "parklane.com.hk",
+        "country": "HK",
+        "timeline": [
+            {
+                "date": "2026-10-12",
+                "type": "claimed",
+                "group": "Orova"
+            }
+        ]
+    },
+    {
         "victim": "parkleigh.com",
         "domain": "parkleigh.com",
         "country": "US",
@@ -253216,6 +253800,29 @@
         ]
     },
     {
+        "victim": "Pedigo Products, Inc.",
+        "domain": "pedigo-usa.com",
+        "country": "US",
+        "timeline": [
+            {
+                "date": "2026-10-12",
+                "type": "claimed",
+                "group": "interlock"
+            },
+            {
+                "date": "2026-11-10",
+                "type": "discovered",
+                "summary": "Pedigo Products Inc., fabricant d'équipements médicaux, a subi une violation de données suite à une attaque par rançongiciel. Un groupe de cybercriminalité nommé Interlock a affirmé avoir obtenu 1,3 téraoctet de données, incluant des informations personnelles sensibles telles que des numéros de sécurité sociale, des adresses, des dates de naissance et des détails financiers. L'entreprise propose un suivi d'identité gratuit de 24 mois aux personnes concernées.",
+                "title": "Pedigo Products Data Breach Exposes Financial Information and SSNs",
+                "url": "https://www.claimdepot.com/data-breach/pedigo-2026"
+            },
+            {
+                "date": "2026-09-15",
+                "type": "reported"
+            }
+        ]
+    },
+    {
         "victim": "Pedsurology",
         "domain": "pedsurology.com",
         "country": "US",
@@ -253795,7 +254402,7 @@
         ]
     },
     {
-        "victim": "PennEastern Architects",
+        "victim": "PennEastern Architects LCC",
         "domain": "penneastern.com",
         "country": "US",
         "timeline": [
@@ -253803,6 +254410,11 @@
                 "date": "2026-05-08",
                 "type": "claimed",
                 "group": "cmdorganization"
+            },
+            {
+                "date": "2026-10-12",
+                "type": "claimed",
+                "group": "Dark Project"
             }
         ]
     },
@@ -256909,6 +257521,11 @@
         "country": "US",
         "timeline": [
             {
+                "date": "2026-10-12",
+                "type": "claimed",
+                "group": "akira"
+            },
+            {
                 "date": "2026-09-15",
                 "type": "assessed",
                 "group": "akira"
@@ -258475,6 +259092,18 @@
         ]
     },
     {
+        "victim": "Placer AI",
+        "domain": "placer.ai",
+        "country": "US",
+        "timeline": [
+            {
+                "date": "2026-10-12",
+                "type": "claimed",
+                "group": "thegentlemen"
+            }
+        ]
+    },
+    {
         "victim": "The Plainview Volunteer FD",
         "domain": "plainviewfd.org",
         "country": "US",
@@ -259830,6 +260459,18 @@
         ]
     },
     {
+        "victim": "Pusan Newport Company (container terminal operations)",
+        "domain": "pnitl.com",
+        "country": "KR",
+        "timeline": [
+            {
+                "date": "2026-10-12",
+                "type": "claimed",
+                "group": "N0n"
+            }
+        ]
+    },
+    {
         "victim": "pnp.co.za",
         "domain": "pnp.co.za",
         "country": "ZA",
@@ -260234,6 +260875,18 @@
                 "date": "2024-11-19",
                 "type": "claimed",
                 "group": "ransomhub"
+            }
+        ]
+    },
+    {
+        "victim": "Polaris Shipping (dry bulk shipping)",
+        "domain": "polaris-shipping.com",
+        "country": "KR",
+        "timeline": [
+            {
+                "date": "2026-10-12",
+                "type": "claimed",
+                "group": "N0n"
             }
         ]
     },
@@ -261184,6 +261837,29 @@
         ]
     },
     {
+        "victim": "Santos Brasil (port operations)",
+        "domain": "portodesantos.com.br",
+        "country": "BR",
+        "timeline": [
+            {
+                "date": "2026-10-12",
+                "type": "claimed",
+                "group": "N0n"
+            },
+            {
+                "date": "2026-11-11",
+                "type": "discovered",
+                "summary": "Des investigations sont en cours au plus grand complexe portuaire d'Amérique Latine, le port de Santos qu Brésil, afin d'identifier l'origine du problème, d'évaluer la sécurité des données et de rétablir la normalité des opérations.",
+                "title": "Porto de Santos investiga suspeita de ataque cibernético após falhas em sistema",
+                "url": "https://g1.globo.com/sp/santos-regiao/videos-bom-dia-regiao/video/porto-de-santos-investiga-suspeita-de-ataque-cibernetico-apos-falhas-em-sistema-15174613.ghtml"
+            },
+            {
+                "date": "2026-11-10",
+                "type": "reported"
+            }
+        ]
+    },
+    {
         "victim": "Port of Oostende",
         "domain": "portofoostende.be",
         "country": "BE",
@@ -261228,6 +261904,18 @@
             {
                 "date": "2025-06-24",
                 "type": "reported"
+            }
+        ]
+    },
+    {
+        "victim": "Portonave (container terminal operations)",
+        "domain": "portonave.com.br",
+        "country": "BR",
+        "timeline": [
+            {
+                "date": "2026-10-12",
+                "type": "claimed",
+                "group": "N0n"
             }
         ]
     },
@@ -265027,6 +265715,18 @@
                 "date": "2023-09-04",
                 "type": "claimed",
                 "group": "8base"
+            }
+        ]
+    },
+    {
+        "victim": "Prodiel",
+        "domain": "prodiel.com",
+        "country": "ES",
+        "timeline": [
+            {
+                "date": "2026-10-12",
+                "type": "claimed",
+                "group": "qilin"
             }
         ]
     },
@@ -277441,6 +278141,18 @@
         ]
     },
     {
+        "victim": "RingSide Creative",
+        "domain": "ringsidecreative.com",
+        "country": "US",
+        "timeline": [
+            {
+                "date": "2026-10-12",
+                "type": "claimed",
+                "group": "qilin"
+            }
+        ]
+    },
+    {
         "victim": "rioglass-solar",
         "domain": "rioglass.com",
         "country": "US",
@@ -285380,6 +286092,18 @@
         ]
     },
     {
+        "victim": "Samjoo Maritime (ship management)",
+        "domain": "samjoomaritime.co.kr",
+        "country": "KR",
+        "timeline": [
+            {
+                "date": "2026-10-12",
+                "type": "claimed",
+                "group": "N0n"
+            }
+        ]
+    },
+    {
         "victim": "samkee.com",
         "domain": "samkee.com",
         "country": "US",
@@ -285521,6 +286245,18 @@
                 "date": "2023-10-17",
                 "type": "assessed",
                 "group": "play"
+            }
+        ]
+    },
+    {
+        "victim": "Samudera (coastal shipping operations)",
+        "domain": "samudera.id",
+        "country": "ID",
+        "timeline": [
+            {
+                "date": "2026-10-12",
+                "type": "claimed",
+                "group": "N0n"
             }
         ]
     },
@@ -295832,6 +296568,18 @@
                 "date": "2026-03-12",
                 "type": "claimed",
                 "group": "apt73"
+            }
+        ]
+    },
+    {
+        "victim": "Saehan Marine (ship agency operations)",
+        "domain": "shmarine.co.kr",
+        "country": "KR",
+        "timeline": [
+            {
+                "date": "2026-10-12",
+                "type": "claimed",
+                "group": "N0n"
             }
         ]
     },
@@ -314382,6 +315130,18 @@
         ]
     },
     {
+        "victim": "Superterminais (port terminal operations)",
+        "domain": "superterminais.com.br",
+        "country": "BR",
+        "timeline": [
+            {
+                "date": "2026-10-12",
+                "type": "claimed",
+                "group": "N0n"
+            }
+        ]
+    },
+    {
         "victim": "Super Vac",
         "domain": "supervacfoundry.com",
         "country": "US",
@@ -317101,6 +317861,18 @@
                 "date": "2025-07-16",
                 "type": "claimed",
                 "group": "blackbyte"
+            }
+        ]
+    },
+    {
+        "victim": "T2S (terminal systems operations)",
+        "domain": "t2s.com.br",
+        "country": "BR",
+        "timeline": [
+            {
+                "date": "2026-10-12",
+                "type": "claimed",
+                "group": "N0n"
             }
         ]
     },
@@ -334272,6 +335044,18 @@
         ]
     },
     {
+        "victim": "T.S. Lines (intra-Asia container shipping)",
+        "domain": "tslines.com",
+        "country": "TW",
+        "timeline": [
+            {
+                "date": "2026-10-12",
+                "type": "claimed",
+                "group": "N0n"
+            }
+        ]
+    },
+    {
         "victim": "TS Lines Philippines",
         "domain": "tslines.com.ph",
         "country": "PH",
@@ -334470,6 +335254,18 @@
                 "date": "2026-09-08",
                 "type": "claimed",
                 "group": "Eclipse"
+            }
+        ]
+    },
+    {
+        "victim": "TTI Algeciras (container terminal operations)",
+        "domain": "ttialgeciras.com",
+        "country": "ES",
+        "timeline": [
+            {
+                "date": "2026-10-12",
+                "type": "claimed",
+                "group": "N0n"
             }
         ]
     },
@@ -342771,6 +343567,18 @@
         ]
     },
     {
+        "victim": "Valenti Management",
+        "domain": "valentichilisrestaurants.com",
+        "country": "CL",
+        "timeline": [
+            {
+                "date": "2026-10-12",
+                "type": "claimed",
+                "group": "interlock"
+            }
+        ]
+    },
+    {
         "victim": "Valentin Hotels",
         "domain": "valentinhotels.comen",
         "country": "ES",
@@ -345885,6 +346693,18 @@
                 "date": "2024-07-07",
                 "type": "claimed",
                 "group": "medusa"
+            }
+        ]
+    },
+    {
+        "victim": "VIATechnik",
+        "domain": "viatechnik.com",
+        "country": "US",
+        "timeline": [
+            {
+                "date": "2026-10-12",
+                "type": "claimed",
+                "group": "metaencryptor"
             }
         ]
     },
@@ -362528,14 +363348,19 @@
         ]
     },
     {
-        "victim": "Yusen Logistics",
+        "victim": "Yusen Logistics Hong Kong (3PL logistics)",
         "domain": "yusen-logistics.com",
-        "country": "JP",
+        "country": "HK",
         "timeline": [
             {
                 "date": "2023-09-22",
                 "type": "claimed",
                 "group": "alphv"
+            },
+            {
+                "date": "2026-10-12",
+                "type": "claimed",
+                "group": "N0n"
             },
             {
                 "date": "2023-09-17",
@@ -364214,6 +365039,18 @@
                 "date": "2025-11-28",
                 "type": "claimed",
                 "group": "qilin"
+            }
+        ]
+    },
+    {
+        "victim": "ZPMC (port machinery and terminal engineering)",
+        "domain": "zpmc.com",
+        "country": "CN",
+        "timeline": [
+            {
+                "date": "2026-10-12",
+                "type": "claimed",
+                "group": "N0n"
             }
         ]
     },
