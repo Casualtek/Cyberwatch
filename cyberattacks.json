@@ -1,5 +1,16 @@
 [
     {
+        "date": "2026-08-26",
+        "victim": "Park Dental Partners",
+        "domain": "parkdentalpartners.com",
+        "country": "USA",
+        "summary": "Park Dental Partners, une société de services dentaires basée à Roseville (Minnesota), a été victime d'une cyberattaque. L'intrusion a été détectée le 28 août, mais les accès non autorisés datent du 26 et 27 août. L'incident a entraîné l'interruption des soins et l'annulation de rendez-vous pendant environ un jour et demi. Des informations sensibles des patients, incluant noms, dates de naissance, diagnostics et détails d'assurance, ont été exfiltrées. La société a confirmé la fuite de données le 13 octobre et a entamé les notifications aux patients et les démarches auprès des autorités.",
+        "description": "",
+        "title": "Park Dental Partners canceled appointments after cyberattack",
+        "url": "https://dysruptionhub.com/park-dental-cyberattack-appointments/?utm_source=rss",
+        "added": "2026-11-20"
+    },
+    {
         "date": "2026-11-19",
         "victim": "Cleveland Independent School District",
         "domain": "clevelandisd.org",
