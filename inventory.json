@@ -10163,6 +10163,18 @@
         ]
     },
     {
+        "victim": "ACI Proyectos SAS",
+        "domain": "aciproyectos.com",
+        "country": "CO",
+        "timeline": [
+            {
+                "date": "2026-10-10",
+                "type": "claimed",
+                "group": "qilin"
+            }
+        ]
+    },
+    {
         "victim": "Acispes",
         "domain": "acispes.org.br",
         "country": "BR",
@@ -96325,6 +96337,18 @@
         ]
     },
     {
+        "victim": "DexCom",
+        "domain": "dexcom.com",
+        "country": "US",
+        "timeline": [
+            {
+                "date": "2026-10-10",
+                "type": "claimed",
+                "group": "Redact"
+            }
+        ]
+    },
+    {
         "victim": "Dextra Rechtsschutz AG",
         "domain": "dextra.ch",
         "country": "CH",
@@ -138305,6 +138329,18 @@
         ]
     },
     {
+        "victim": "Glenhardie Country Club",
+        "domain": "glenhardiecc.com",
+        "country": "US",
+        "timeline": [
+            {
+                "date": "2026-10-10",
+                "type": "claimed",
+                "group": "qilin"
+            }
+        ]
+    },
+    {
         "victim": "glenmarkpharma.com",
         "domain": "glenmarkpharma.com",
         "country": "IN",
@@ -143738,6 +143774,18 @@
             {
                 "date": "2025-12-01",
                 "type": "reported"
+            }
+        ]
+    },
+    {
+        "victim": "Gress Clark Young & Schoepper",
+        "domain": "gressandclarklaw.com",
+        "country": "US",
+        "timeline": [
+            {
+                "date": "2026-10-10",
+                "type": "claimed",
+                "group": "rhysida"
             }
         ]
     },
@@ -156404,6 +156452,18 @@
         ]
     },
     {
+        "victim": "Helwan University (HITU)",
+        "domain": "hitu.nbra.in",
+        "country": "EG",
+        "timeline": [
+            {
+                "date": "2026-10-10",
+                "type": "claimed",
+                "group": "UmBra"
+            }
+        ]
+    },
+    {
         "victim": "Hitzinger",
         "domain": "hitzinger.at",
         "country": "AT",
@@ -162445,6 +162505,18 @@
                 "date": "2025-03-12",
                 "type": "claimed",
                 "group": "arcusmedia"
+            }
+        ]
+    },
+    {
+        "victim": "HYSYTECH S.r.l.",
+        "domain": "hysytech.com",
+        "country": "IT",
+        "timeline": [
+            {
+                "date": "2026-10-02",
+                "type": "claimed",
+                "group": "Majinahanashi"
             }
         ]
     },
@@ -187477,6 +187549,18 @@
         ]
     },
     {
+        "victim": "KOIKE Sanso Kogoyo Co. Ltd.",
+        "domain": "koike-asia.com",
+        "country": "JP",
+        "timeline": [
+            {
+                "date": "2026-10-10",
+                "type": "claimed",
+                "group": "exitium"
+            }
+        ]
+    },
+    {
         "victim": "Kolbe Striping",
         "domain": "kolbestriping.com",
         "country": "US",
@@ -194661,6 +194745,18 @@
                 "date": "2025-05-06",
                 "type": "claimed",
                 "group": "SilentRansomGroup"
+            }
+        ]
+    },
+    {
+        "victim": "LD Constructora",
+        "domain": "ldconstructora.cl",
+        "country": "CL",
+        "timeline": [
+            {
+                "date": "2026-10-10",
+                "type": "claimed",
+                "group": "qilin"
             }
         ]
     },
@@ -277262,10 +277358,15 @@
         ]
     },
     {
-        "victim": "Río Grande",
+        "victim": "Secretaría de Modernización e Innovación del Municipio",
         "domain": "riogrande.gob.ar",
-        "country": "PR",
+        "country": "AR",
         "timeline": [
+            {
+                "date": "2026-10-10",
+                "type": "claimed",
+                "group": "qilin"
+            },
             {
                 "date": "2023-11-27",
                 "type": "discovered",
@@ -281765,6 +281866,18 @@
                 "date": "2026-09-06",
                 "type": "claimed",
                 "group": "DYSPHOR1A"
+            }
+        ]
+    },
+    {
+        "victim": "Royal Thai Air Force",
+        "domain": "rtaf.mi.th",
+        "country": "TH",
+        "timeline": [
+            {
+                "date": "2026-10-10",
+                "type": "claimed",
+                "group": "thegentlemen"
             }
         ]
     },
@@ -322787,6 +322900,18 @@
                 "date": "2023-08-30",
                 "type": "claimed",
                 "group": "lockbit3"
+            }
+        ]
+    },
+    {
+        "victim": "TEXMA International Co., Ltd",
+        "domain": "texma.com.tw",
+        "country": "TW",
+        "timeline": [
+            {
+                "date": "2026-10-10",
+                "type": "claimed",
+                "group": "dragonforce"
             }
         ]
     },
