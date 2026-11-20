@@ -1,5 +1,16 @@
 [
     {
+        "date": "2026-11-16",
+        "victim": "US Department of Agriculture (USDA)",
+        "domain": "usda.gov",
+        "country": "USA",
+        "summary": "Le Département de l'Agriculture des États-Unis (USDA) a été victime d'un incident de cybersécurité qui a forcé de nombreuses applications, y compris les outils financiers gérant les paiements aux agriculteurs, à être hors service pendant plusieurs jours. L'incident a été découvert le lundi 16 novembre 2026. La résolution a nécessité la réinitialisation de tous les mots de passe de base de données dans tous les environnements, ce qui a provoqué des perturbations généralisées et des problèmes de VPN. L'origine de l'intrusion et l'existence d'une exfiltration de données restent inconnues.",
+        "description": "",
+        "title": "US Department of Agriculture Hit By Cyber Incident, Farmer Aid Systems Disrupted",
+        "url": "https://www.timesnownews.com/world/us/us-news/usda-cyberattack-us-department-of-agriculture-cyber-incident-systems-taken-offline-article-156539505",
+        "added": "2026-11-20"
+    },
+    {
         "date": "2026-11-09",
         "victim": "Commission européenne",
         "domain": "commission.europa.eu",
