@@ -1,6 +1,17 @@
 [
     {
         "date": "2026-11-16",
+        "victim": "Vermont",
+        "domain": "vermont.gov",
+        "country": "USA",
+        "summary": "Un incident de cybersécurité possible a affecté le système de dispatch Valcour de CrossWind Technologies dans l'État du Vermont. Les autorités ont mis le système hors ligne par précaution, forçant les agences à utiliser des procédures de secours (papier, radio). Bien que les appels d'urgence 911 n'aient pas été affectés, les services de signalement en ligne ont été interrompus. Une enquête est en cours pour déterminer si un intrus a accédé au système, si un rançongiciel ou un vol de données est impliqué.",
+        "description": "",
+        "title": "Possible cyber incident disrupts CrossWind dispatch system in Vermont",
+        "url": "https://dysruptionhub.com/crosswind-valcour-vermont-cyber-incident/",
+        "added": "2026-11-20"
+    },
+    {
+        "date": "2026-11-16",
         "victim": "US Department of Agriculture (USDA)",
         "domain": "usda.gov",
         "country": "USA",
