@@ -1,5 +1,12 @@
 [
   {
+    "victim": "Saddlers Court MFG",
+    "domain": "saddlerscourtmfg.com",
+    "country": "US",
+    "date": "2026-09-22",
+    "group": "play"
+  },
+  {
     "victim": "Money Concepts Capital",
     "domain": "moneyconcepts.com",
     "country": "US",
@@ -93,7 +100,7 @@
   {
     "victim": "hiqbio.com",
     "domain": "hiqbio.com",
-    "country": "TW",
+    "country": "US",
     "date": "2026-10-02",
     "group": "safepay"
   },
@@ -114,7 +121,7 @@
   {
     "victim": "AAA Architectural Hardware",
     "domain": "aaahardware.com",
-    "country": "US",
+    "country": "UE",
     "date": "2026-09-18",
     "group": "akira"
   },
