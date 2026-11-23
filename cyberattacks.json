@@ -1,5 +1,16 @@
 [
     {
+        "date": "2026-11-14",
+        "victim": "The Container Store",
+        "domain": "containerstore.com",
+        "country": "USA",
+        "summary": "Le site web et les systèmes de The Container Store ont été la cible d'une cyberattaque le week-end du 14 au 15 novembre 2026. L'entreprise a suspendu temporairement les commandes en ligne et a restauré ses systèmes. Elle affirme que les données financières des clients n'ont pas été compromises, car The Container Store ne stocke pas ces informations.",
+        "description": "",
+        "title": "The Container Store back online after cyber attack - Home Furnishings News",
+        "url": "https://www.hfndigital.com/industry-news/the-container-store-back-online-after-cyber-attack/",
+        "added": "2026-11-23"
+    },
+    {
         "date": "2026-11-13",
         "victim": "Tribunaux de King County (Superior et District)",
         "domain": "kingcounty.gov",
