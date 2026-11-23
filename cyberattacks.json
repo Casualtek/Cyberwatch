@@ -1,5 +1,16 @@
 [
     {
+        "date": "2026-11-20",
+        "victim": "Banque Delubac & Cie",
+        "domain": "delubac.com",
+        "country": "FRA",
+        "summary": "La Banque Delubac & Cie a détecté une intrusion dans ses systèmes d'information le vendredi 20 novembre 2026. Bien que l'attaque ait tenté des opérations financières frauduleuses, elle a été rapidement endiguée et aucune perte d'actifs n'a été constatée. Cependant, l'intrusion a entraîné une fuite de données concernant une partie de la clientèle. La banque a temporairement suspendu ses services, qui ont été rétablis le lundi matin, et a informé les autorités compétentes (ACPR, CNIL).",
+        "description": "",
+        "title": "La Banque Delubac & Cie a maîtrisé une intrusion informatique",
+        "url": "https://www.boursier.com/opcvm/actualites/generales/la-banque-delubac-cie-a-maitrise-une-intrusion-informatique-998678.html",
+        "added": "2026-11-23"
+    },
+    {
         "date": "2026-11-22",
         "victim": "Suzlon Energy",
         "domain": "suzlon.com",
