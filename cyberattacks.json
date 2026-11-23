@@ -1,5 +1,16 @@
 [
     {
+        "date": "2026-11-09",
+        "victim": "TST S.r.l.",
+        "domain": "termedisalsomaggiore.it",
+        "country": "ITA",
+        "summary": "TST S.r.l., gestionnaire des activités thermales de Salsomaggiore et Tabiano, a été victime d'une cyberattaque par ransomware le 9 novembre 2026. L'attaque a été accompagnée de demandes de rançon et de la menace de divulgation de données. Les autorités et les élus soulignent la gravité de l'incident en raison du traitement de données personnelles et de santé sensibles des utilisateurs.",
+        "description": "",
+        "title": "Allarme per l’attacco informatico alle Terme di Salso, Vignali: “La Regione verifichi la sicurezza dei dati sanitari”",
+        "url": "https://www.parmatoday.it/cronaca/Attacco-informatico-Tst-terme-Salsomaggiore-tabiano-forza-Italia-Vignali-interrogazione-regione.html",
+        "added": "2026-11-23"
+    },
+    {
         "date": "2026-11-21",
         "victim": "Hugendubel",
         "domain": "hugendubel.de",
