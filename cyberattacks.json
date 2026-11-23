@@ -1,5 +1,16 @@
 [
     {
+        "date": "2026-11-19",
+        "victim": "Législature de Virginie-Occident",
+        "domain": "wv.gov",
+        "country": "USA",
+        "summary": "La Législature de Virginie-Occident a été victime d'un incident de cybersécurité qui a perturbé son système informatique et rendu son site web indisponible. Des spécialistes externes ont aidé le personnel à contenir et à enquêter sur l'incident. Les autorités n'ont pas encore identifié la cause technique, ni confirmé un vol de données ou un groupe responsable. L'enquête est toujours en cours.",
+        "description": "",
+        "title": "Cybersecurity incident disrupts West Virginia Legislature website",
+        "url": "https://dysruptionhub.com/west-virginia-legislature-cybersecurity-website/",
+        "added": "2026-11-23"
+    },
+    {
         "date": "2026-11-20",
         "victim": "Peninsula Energy",
         "domain": "peninsula-energy.com",
