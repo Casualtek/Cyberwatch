@@ -1,5 +1,16 @@
 [
     {
+        "date": "2026-11-13",
+        "victim": "Nissan",
+        "domain": "nissan.com",
+        "country": "JPN",
+        "summary": "Nissan a dû désactiver sa système de diagnostic mondial suite à une intrusion non autorisée. Cette cyberattaque empêche les concessionnaires du monde entier de réaliser des réparations cruciales, telles que la reprogrammation des blocs de commande (ECU) ou la création de clés. Le problème a débuté le 13 novembre et n'était pas résolu au 20 novembre.",
+        "description": "",
+        "title": "Кібератака на Nissan: автовиробник вимкнув глобальну систему діагностики - reNews",
+        "url": "https://renews.com.ua/tehnologiyi/kiberataka-na-nissan-avtovirobnik-vimknyv-globalny-sistemy-diagnostiki/",
+        "added": "2026-11-23"
+    },
+    {
         "date": "2026-11-19",
         "victim": "Législature de Virginie-Occident",
         "domain": "wv.gov",
