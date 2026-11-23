@@ -1,5 +1,16 @@
 [
     {
+        "date": "2026-11-21",
+        "victim": "CHU de la Guadeloupe",
+        "domain": "chu-guadeloupe.fr",
+        "country": "FRA",
+        "summary": "Le CHU de la Guadeloupe a été victime d'une cyberattaque depuis le 21 novembre 2026, perturbant gravement ses services sur ses trois sites (Pointe-à-Pitre, Perrin et Palais Royal aux Abymes). L'attaque a mis hors service le téléphone, l'imagerie et les logiciels, impactant particulièrement le laboratoire et la radiologie. Une cellule de crise a été activée et des échanges ont eu lieu avec l'ANSSI. La direction a dû déprogrammer les activités non urgentes, car la situation est jugée très grave et la remise en service complète des systèmes est attendue progressivement à partir de la fin de la semaine.",
+        "description": "",
+        "title": "Le CHU de Guadeloupe victime d'une cyberattaque, une cellule de crise déclenchée",
+        "url": "https://rci.fm/guadeloupe/infos/Sante/Le-CHU-de-Guadeloupe-victime-dune-cyberattaque-une-cellule-de-crise-declenchee",
+        "added": "2026-11-23"
+    },
+    {
         "date": "2026-11-10",
         "victim": "DonorPerfect / SofterWare",
         "domain": "donorperfect.com",
