@@ -318684,6 +318684,18 @@
         ]
     },
     {
+        "victim": "Tailormade Logistics",
+        "domain": "tailormade-logistics.com",
+        "country": "BE",
+        "timeline": [
+            {
+                "date": "2026-10-15",
+                "type": "assessed",
+                "group": "play"
+            }
+        ]
+    },
+    {
         "victim": "t****n.co",
         "domain": "taiwan.co",
         "country": "TW",
