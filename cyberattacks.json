@@ -1,5 +1,16 @@
 [
     {
+        "date": "2026-11-22",
+        "victim": "Suzlon Energy",
+        "domain": "suzlon.com",
+        "country": "IND",
+        "summary": "Suzlon Energy a signalé un incident de cybersécurité, suite à une affirmation du groupe de ransomware Blackout. Ce dernier a prétendu avoir accédé à environ 200 Go de données de l'entreprise. Suzlon a déclaré que ses applications critiques n'étaient pas affectées et a activé ses protocoles de réponse, tout en informant le CERT-In. L'authenticité du vol de données n'a pas été vérifiée de manière indépendante.",
+        "description": "",
+        "title": "Suzlon Energy Reports Cyber Incident, Critical Applications Unaffected - BW Businessworld",
+        "url": "https://www.businessworld.in/article/suzlon-energy-reports-cyber-incident-critical-applications-unaffected-634819",
+        "added": "2026-11-23"
+    },
+    {
         "date": "2026-11-09",
         "victim": "TST S.r.l.",
         "domain": "termedisalsomaggiore.it",
