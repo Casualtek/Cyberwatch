@@ -1,5 +1,16 @@
 [
     {
+        "date": "2026-11-09",
+        "victim": "East-West Center",
+        "domain": "eastwestcenter.org",
+        "country": "USA",
+        "summary": "Le East-West Center, situé à Honolulu, Hawaï, a été victime d'un incident de cybersécurité ayant rendu sa base de données d'inscription des participants hors ligne. L'institution a notifié les participants et anciens élèves le 9 novembre 2026 et a proposé deux ans de surveillance de crédit gratuite en précaution. L'enquête est toujours en cours et la base de données reste inaccessible. Le centre n'a pas trouvé de preuve que la compromission des données ait entraîné une utilisation réelle des dossiers personnels.",
+        "description": "",
+        "title": "East-West Center cyber incident leaves Hawaii database offline",
+        "url": "https://dysruptionhub.com/east-west-center-hawaii-cyber-incident-database/",
+        "added": "2026-11-23"
+    },
+    {
         "date": "2026-11-21",
         "victim": "Department of Motor Traffic (DMT)",
         "domain": "dmt.gov.lk",
