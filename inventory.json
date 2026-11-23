@@ -284957,11 +284957,16 @@
     {
         "victim": "Saddlers Court MFG",
         "domain": "saddlerscourtmfg.com",
-        "country": "GB",
+        "country": "US",
         "timeline": [
             {
                 "date": "2026-10-13",
                 "type": "claimed",
+                "group": "play"
+            },
+            {
+                "date": "2026-09-22",
+                "type": "assessed",
                 "group": "play"
             }
         ]
