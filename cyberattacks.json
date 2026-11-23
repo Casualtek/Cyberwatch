@@ -1,5 +1,16 @@
 [
     {
+        "date": "2026-11-21",
+        "victim": "Cranston Police Department",
+        "domain": "cranstonpoliceri.gov",
+        "country": "USA",
+        "summary": "Le Cranston Police Department, dans le Rhode Island, a mis hors service son réseau suite à la détection d'une suspicion d'intrusion cybernétique impliquant une base de données. Les communications essentielles (téléphones et radios) sont restées opérationnelles. Les autorités n'ont pas confirmé qu'un accès réussi à la base de données ait eu lieu, ni que des informations personnelles aient été compromises.",
+        "description": "",
+        "title": "Cranston Police Department in Rhode Island shuts network after suspected cyber intrusion",
+        "url": "https://dysruptionhub.com/cranston-police-suspected-cyber-intrusion/?utm_source=rss",
+        "added": "2026-11-23"
+    },
+    {
         "date": "2026-11-14",
         "victim": "The Container Store",
         "domain": "containerstore.com",
