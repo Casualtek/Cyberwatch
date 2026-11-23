@@ -1,5 +1,16 @@
 [
     {
+        "date": "2026-11-22",
+        "victim": "Netbeat (NetBeat GmbH)",
+        "domain": "netbeat.de",
+        "country": "DEU",
+        "summary": "Netbeat, un fournisseur d'hébergement web allemand, a été victime d'une cyberattaque sur une partie de son infrastructure d'hébergement. L'incident a entraîné une fuite de données incluant des informations clients, des données de facturation et potentiellement des accès à des sites web hébergés, ainsi que des clés API. En réponse, Netbeat a mis les serveurs affectés hors ligne temporairement et a procédé au réinitialisation de tous les mots de passe des comptes clients. L'enquête est en cours pour déterminer l'étendue exacte de la compromission.",
+        "description": "",
+        "title": "Cyberangriff auf Hoster netbeat … (22.11.2026)",
+        "url": "https://borncity.com/blog/2026/11/22/cyberangriff-auf-hoster-netbeat-22-11-2026/",
+        "added": "2026-11-23"
+    },
+    {
         "date": "2026-11-21",
         "victim": "Cranston Police Department",
         "domain": "cranstonpoliceri.gov",
