@@ -1,5 +1,16 @@
 [
     {
+        "date": "2026-11-20",
+        "victim": "Peninsula Energy",
+        "domain": "peninsula-energy.com",
+        "country": "USA",
+        "summary": "Peninsula Energy a été victime d'un incident de cybersécurité affectant le système d'exploitation de son projet d'uranium Lance dans le Wyoming. L'incident, survenu le vendredi, a provoqué une perturbation opérationnelle temporaire pendant que l'entreprise menait une enquête. La compagnie a précisé que la brèche était limitée aux systèmes opérationnels et que les systèmes administratifs aux États-Unis et en Australie n'ont pas été compromis. L'impact quantitatif et les responsables de l'attaque n'ont pas été identifiés.",
+        "description": "",
+        "title": "Peninsula Energy warns of disruption after Wyoming cyber incident",
+        "url": "https://dysruptionhub.com/peninsula-energy-wyoming-cyber-incident/",
+        "added": "2026-11-23"
+    },
+    {
         "date": "2026-11-21",
         "victim": "CHU de la Guadeloupe",
         "domain": "chu-guadeloupe.fr",
