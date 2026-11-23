@@ -16544,11 +16544,16 @@
     {
         "victim": "Advanced Imaging Solutions",
         "domain": "ais-mn.com",
-        "country": "MN",
+        "country": "US",
         "timeline": [
             {
                 "date": "2026-10-13",
                 "type": "claimed",
+                "group": "play"
+            },
+            {
+                "date": "2026-09-24",
+                "type": "assessed",
                 "group": "play"
             }
         ]
