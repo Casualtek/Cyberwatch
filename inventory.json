@@ -186275,6 +186275,17 @@
             {
                 "date": "2023-06-13",
                 "type": "reported"
+            },
+            {
+                "date": "2026-11-23",
+                "type": "discovered",
+                "summary": "Les tribunaux de King County (Superior et District) ont été victimes d'une cyberattaque impliquant une vulnérabilité critique dans leur système de gestion des dossiers et des paiements en ligne. L'incident a été confirmé par le fournisseur de technologie cloud, Journal Technologies, le 13 novembre 2026. Malgré les avertissements, les responsables du comté ont publiquement attribué la panne à une « maintenance » ou à des « problèmes techniques » pendant au moins une semaine, induisant le public en erreur. Les portails de dépôt et d'enregistrement en ligne sont restés hors service pendant au moins 16 jours, impactant environ 3 millions de résidents du comté.",
+                "title": "Portal holding sensitive records remains offline over Holidays - Court officials repeatedly blamed “Maintenance” despite cyberattack warning",
+                "url": "https://www.westsideseattle.com/robinson-papers/2026/11/21/portal-holding-sensitive-records-remains-offline-over-holidays-court"
+            },
+            {
+                "date": "2026-11-13",
+                "type": "reported"
             }
         ]
     },
