@@ -47059,6 +47059,18 @@
         ]
     },
     {
+        "victim": "Estrategias BigMat S.L.U.",
+        "domain": "bigmat.es",
+        "country": "ES",
+        "timeline": [
+            {
+                "date": "2026-10-14",
+                "type": "claimed",
+                "group": "aurora"
+            }
+        ]
+    },
+    {
         "victim": "Bignault & Carter",
         "domain": "bignaultandcarter.com",
         "country": "US",
@@ -119863,7 +119875,7 @@
         ]
     },
     {
-        "victim": "E-Z Pack Holdings LLC",
+        "victim": "E-Z Pack Trucks",
         "domain": "ezpacktrucks.com",
         "country": "US",
         "timeline": [
@@ -119871,6 +119883,11 @@
                 "date": "2024-09-10",
                 "type": "claimed",
                 "group": "incransom"
+            },
+            {
+                "date": "2026-10-14",
+                "type": "claimed",
+                "group": "Wallstreet"
             }
         ]
     },
@@ -127920,6 +127937,18 @@
                 "date": "2025-10-23",
                 "type": "claimed",
                 "group": "tengu"
+            }
+        ]
+    },
+    {
+        "victim": "FOODMatch",
+        "domain": "foodmatch.com",
+        "country": "US",
+        "timeline": [
+            {
+                "date": "2026-10-14",
+                "type": "claimed",
+                "group": "akira"
             }
         ]
     },
@@ -143886,6 +143915,29 @@
         ]
     },
     {
+        "victim": "Green Clinic",
+        "domain": "green-clinic.com",
+        "country": "US",
+        "timeline": [
+            {
+                "date": "2026-10-14",
+                "type": "claimed",
+                "group": "Wallstreet"
+            },
+            {
+                "date": "2026-10-09",
+                "type": "discovered",
+                "summary": "La Green Clinic, située à Ruston, Louisiane, a été victime d'une cyberattaque qui a perturbé les soins. Les systèmes sont tombés le vendredi, empêchant le personnel d'accéder aux dossiers des patients et aux plannings. Bien que des sources non identifiées aient attribué l'incident au groupe Wallstreet, la clinique et son propriétaire, Allegiance Health Management, n'ont pas confirmé la cause. Les consultations se sont poursuivies en utilisant des documents papier.",
+                "title": "Reported cyberattack disrupts care at Green Clinic in Louisiana",
+                "url": "https://dysruptionhub.com/green-clinic-cyberattack-louisiana/"
+            },
+            {
+                "date": "2026-10-02",
+                "type": "reported"
+            }
+        ]
+    },
+    {
         "victim": "Green Resource",
         "domain": "green-resource.com",
         "country": "US",
@@ -148791,6 +148843,18 @@
                 "date": "2026-01-14",
                 "type": "claimed",
                 "group": "akira"
+            }
+        ]
+    },
+    {
+        "victim": "FINANCIAMENTO LTDA",
+        "domain": "h2financiamento.com.br",
+        "country": "BR",
+        "timeline": [
+            {
+                "date": "2026-10-14",
+                "type": "claimed",
+                "group": "incransom"
             }
         ]
     },
@@ -171444,6 +171508,18 @@
         ]
     },
     {
+        "victim": "Interior Technologies",
+        "domain": "interior-tech.com",
+        "country": "US",
+        "timeline": [
+            {
+                "date": "2026-10-11",
+                "type": "claimed",
+                "group": "N0n"
+            }
+        ]
+    },
+    {
         "victim": "Interior Metals",
         "domain": "interiormetals.com",
         "country": "CA",
@@ -176496,12 +176572,17 @@
         ]
     },
     {
-        "victim": "The Japan Times",
+        "victim": "japantimes.co.jp",
         "domain": "japantimes.co.jp",
         "country": "JP",
         "timeline": [
             {
                 "date": "2026-09-30",
+                "type": "claimed",
+                "group": "Eclipse"
+            },
+            {
+                "date": "2026-10-14",
                 "type": "claimed",
                 "group": "Eclipse"
             },
@@ -179535,7 +179616,7 @@
         ]
     },
     {
-        "victim": "joliet86.org",
+        "victim": "Joliet Public Schools District 86",
         "domain": "joliet86.org",
         "country": "US",
         "timeline": [
@@ -179543,6 +179624,11 @@
                 "date": "2024-07-18",
                 "type": "claimed",
                 "group": "lockbit3"
+            },
+            {
+                "date": "2026-10-14",
+                "type": "claimed",
+                "group": "qilin"
             }
         ]
     },
@@ -189018,6 +189104,18 @@
         ]
     },
     {
+        "victim": "kordhotels.gr",
+        "domain": "kordhotels.gr",
+        "country": "GR",
+        "timeline": [
+            {
+                "date": "2026-10-14",
+                "type": "claimed",
+                "group": "lockbit5"
+            }
+        ]
+    },
+    {
         "victim": "k***a.com",
         "domain": "korea.com",
         "country": "KR",
@@ -193601,6 +193699,18 @@
                 "date": "2025-06-02",
                 "type": "assessed",
                 "group": "safepay"
+            }
+        ]
+    },
+    {
+        "victim": "Lane Equipment",
+        "domain": "laneequipment.com",
+        "country": "US",
+        "timeline": [
+            {
+                "date": "2026-10-14",
+                "type": "claimed",
+                "group": "dragonforce"
             }
         ]
     },
@@ -222209,6 +222319,18 @@
         ]
     },
     {
+        "victim": "MOA Architecture",
+        "domain": "moaarch.com",
+        "country": "US",
+        "timeline": [
+            {
+                "date": "2026-10-14",
+                "type": "claimed",
+                "group": "qilin"
+            }
+        ]
+    },
+    {
         "victim": "Mohammad Omar Bin Haider Holding Group",
         "domain": "mobhholding.com",
         "country": "AE",
@@ -228886,6 +229008,18 @@
                 "date": "2026-10-12",
                 "type": "claimed",
                 "group": "metaencryptor"
+            }
+        ]
+    },
+    {
+        "victim": "MyM ODONTOCLINICA S.A",
+        "domain": "mymodontoclinica.com.py",
+        "country": "PY",
+        "timeline": [
+            {
+                "date": "2026-10-14",
+                "type": "claimed",
+                "group": "emperador"
             }
         ]
     },
@@ -242783,6 +242917,18 @@
         ]
     },
     {
+        "victim": "Oceania Digital Communications",
+        "domain": "odc.vu",
+        "country": "VU",
+        "timeline": [
+            {
+                "date": "2026-10-14",
+                "type": "claimed",
+                "group": "kairos"
+            }
+        ]
+    },
+    {
         "victim": "Odessa",
         "domain": "odessa-tx.gov",
         "country": "US",
@@ -248385,6 +248531,18 @@
                 "date": "2024-03-02",
                 "type": "assessed",
                 "group": "blackbasta"
+            }
+        ]
+    },
+    {
+        "victim": "Taiwan Otsuka Pharmaceutical",
+        "domain": "otsuka.com.tw",
+        "country": "TW",
+        "timeline": [
+            {
+                "date": "2026-10-14",
+                "type": "claimed",
+                "group": "Eclipse"
             }
         ]
     },
@@ -262036,6 +262194,18 @@
                 "date": "2025-11-08",
                 "type": "claimed",
                 "group": "dragonforce"
+            }
+        ]
+    },
+    {
+        "victim": "poolegroup.com.au",
+        "domain": "poolegroup.com.au",
+        "country": "AU",
+        "timeline": [
+            {
+                "date": "2026-10-14",
+                "type": "claimed",
+                "group": "lockbit5"
             }
         ]
     },
@@ -285895,6 +286065,29 @@
         ]
     },
     {
+        "victim": "saintpierredescorps.fr",
+        "domain": "saintpierredescorps.fr",
+        "country": "FR",
+        "timeline": [
+            {
+                "date": "2026-10-14",
+                "type": "claimed",
+                "group": "lockbit5"
+            },
+            {
+                "date": "2026-10-09",
+                "type": "discovered",
+                "summary": "La ville de St-Pierre-des-Corps a été victime d'une cyberattaque le 8 octobre 2026. L'incident a entraîné le blocage complet de son système téléphonique et une paralysie partielle de son réseau informatique. La municipalité a mobilisé ses équipes et des experts en cybersécurité pour sécuriser l'infrastructure. Une enquête technique et administrative a été ouverte, et les autorités compétentes, notamment la CNIL et l'ANSSI, ont été saisies pour vérifier l'impact sur les données.",
+                "title": "Info Tours | Une cyberattaque à St-Pierre-des-Corps : la mairie perturbée et une enquête lancée",
+                "url": "https://info-tours.fr/toursagglo/2026/10/08/une-cyberattaque-a-st-pierre-des-corps-la-mairie-perturbee-et-une-enquete-lancee/"
+            },
+            {
+                "date": "2026-10-08",
+                "type": "reported"
+            }
+        ]
+    },
+    {
         "victim": "Sai Oral SurgeryOral",
         "domain": "saioralsurgery.com",
         "country": "US",
@@ -296286,6 +296479,18 @@
         ]
     },
     {
+        "victim": "Shediac Lobster Shop",
+        "domain": "shediaclobster.ca",
+        "country": "CA",
+        "timeline": [
+            {
+                "date": "2026-10-14",
+                "type": "claimed",
+                "group": "akira"
+            }
+        ]
+    },
+    {
         "victim": "sheehyware.com",
         "domain": "sheehyware.com",
         "country": "",
@@ -301402,6 +301607,18 @@
             {
                 "date": "2023-06-03",
                 "type": "reported"
+            }
+        ]
+    },
+    {
+        "victim": "skycc.co.th",
+        "domain": "skycc.co.th",
+        "country": "TH",
+        "timeline": [
+            {
+                "date": "2026-10-13",
+                "type": "claimed",
+                "group": "lockbit5"
             }
         ]
     },
@@ -320960,6 +321177,18 @@
                 "date": "2023-07-07",
                 "type": "claimed",
                 "group": "clop"
+            }
+        ]
+    },
+    {
+        "victim": "Trieschmann Dumala Architectural Group",
+        "domain": "tdarchgroup.com",
+        "country": "US",
+        "timeline": [
+            {
+                "date": "2026-10-11",
+                "type": "claimed",
+                "group": "N0n"
             }
         ]
     },
@@ -347421,6 +347650,18 @@
         ]
     },
     {
+        "victim": "Torns Enterprises",
+        "domain": "vicentetorns.com",
+        "country": "ES",
+        "timeline": [
+            {
+                "date": "2026-10-14",
+                "type": "claimed",
+                "group": "akira"
+            }
+        ]
+    },
+    {
         "victim": "Vicenzi Group",
         "domain": "vicenzi.it",
         "country": "IT",
@@ -352577,6 +352818,18 @@
                 "date": "2025-09-18",
                 "type": "assessed",
                 "group": "play"
+            }
+        ]
+    },
+    {
+        "victim": "Colorado Texas",
+        "domain": "waterdatafortexas.org",
+        "country": "US",
+        "timeline": [
+            {
+                "date": "2026-10-14",
+                "type": "claimed",
+                "group": "nightspire"
             }
         ]
     },
