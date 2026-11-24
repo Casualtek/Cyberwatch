@@ -130672,6 +130672,18 @@
         ]
     },
     {
+        "victim": "Frey Properties of Highland LLC",
+        "domain": "frey-properties.com",
+        "country": "US",
+        "timeline": [
+            {
+                "date": "2026-11-09",
+                "type": "assessed",
+                "group": "play"
+            }
+        ]
+    },
+    {
         "victim": "frey.com",
         "domain": "frey.com",
         "country": "CH",
