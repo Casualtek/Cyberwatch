@@ -54935,6 +54935,18 @@
         ]
     },
     {
+        "victim": "BROTHERS EXPRESS LLC",
+        "domain": "broexp.com",
+        "country": "US",
+        "timeline": [
+            {
+                "date": "2026-11-06",
+                "type": "assessed",
+                "group": "play"
+            }
+        ]
+    },
+    {
         "victim": "Broker Educational Sales & Training",
         "domain": "brokered.net",
         "country": "US",
