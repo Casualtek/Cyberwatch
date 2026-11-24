@@ -1,6 +1,17 @@
 [
     {
         "date": "2026-11-24",
+        "victim": "Allied Media",
+        "domain": "alliedmedia.co.nz",
+        "country": "NZL",
+        "summary": "Le Centre national de cybersécurité de Nouvelle-Zélande a signalé que l'intelligence artificielle accélère la vitesse et l'ampleur des cybermenaces. Plusieurs journaux du groupe Allied Media, dont l'Otago Daily Times, ont été touchés par une cyberattaque qui a perturbé leurs systèmes de production. Les journaux prévus pour mercredi ont été retardés. Le Centre a également noté une augmentation des incidents de cybersécurité, atteignant le plus haut total trimestriel en deux ans, et a identifié les acteurs étatiques internationaux, notamment la Chine, la Russie et l'Iran, comme des menaces documentées.",
+        "description": "",
+        "title": "Newspapers delayed as Allied Media hit by cyber attack",
+        "url": "https://www.rnz.co.nz/news/business_media/2762284/newspapers-delayed-as-allied-media-hit-by-cyber-attack",
+        "added": "2026-11-24"
+    },
+    {
+        "date": "2026-11-24",
         "victim": "TV9 Telugu",
         "domain": "tv9telugu.com",
         "country": "IND",
