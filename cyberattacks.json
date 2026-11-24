@@ -1,5 +1,16 @@
 [
     {
+        "date": "2026-11-22",
+        "victim": "Quimper",
+        "domain": "quimper.bzh",
+        "country": "FRA",
+        "summary": "La ville de Quimper et Quimper Bretagne Occidentale sont actuellement victimes d'une cyberattaque. Des mesures de sécurité ont été activées pour limiter les conséquences sur les services municipaux et communautaires. Bien que le système d'information interne soit perturbé, les services publics restent assurés, même si les délais de traitement des demandes peuvent être impactés. L'incident a été signalé à l'Agence nationale de la sécurité des systèmes d'information et des experts sont mobilisés.",
+        "description": "",
+        "title": "Cyberattaque contre Quimper Bretagne Occidentale et la ville de Quimper : Les services mobilisés pour rétablir les systèmes impactés",
+        "url": "https://www.quimper.bzh/actualite/52991/3-cyberattaque-contre-quimper-bretagne-occidentale-et-la-ville-de-quimper-les-services-mobilises-pour-retablir-les-systemes-impactes.htm",
+        "added": "2026-11-24"
+    },
+    {
         "date": "2026-11-23",
         "victim": "Agência para a Energia (ADENE)",
         "domain": "adene.pt",
