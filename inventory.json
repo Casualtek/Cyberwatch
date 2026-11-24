@@ -11228,6 +11228,18 @@
         ]
     },
     {
+        "victim": "Acudor",
+        "domain": "acudor.com",
+        "country": "US",
+        "timeline": [
+            {
+                "date": "2026-11-13",
+                "type": "assessed",
+                "group": "play"
+            }
+        ]
+    },
+    {
         "victim": "Autoridad de Acueductos Y Alcantarillados",
         "domain": "acueductospr.com",
         "country": "",
