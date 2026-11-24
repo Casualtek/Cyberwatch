@@ -1,6 +1,17 @@
 [
     {
         "date": "2026-11-22",
+        "victim": "Lauderdale County Sheriff's Office",
+        "domain": "lauderdalesheriff.org",
+        "country": "USA",
+        "summary": "Le bureau du shérif du comté de Lauderdale, dans le Mississippi, a signalé un incident de cybersécurité survenu le week-end, qui a mis hors service plusieurs systèmes informatiques. Cet incident a perturbé l'accès aux programmes et a soulevé des inquiétudes quant à l'exactitude de la liste des détenus, qui pourrait ne pas refléter les informations les plus récentes. Les autorités n'ont pas précisé la cause ou la méthode de l'attaque, ni les programmes spécifiques affectés.",
+        "description": "",
+        "title": "Cyber incident disrupts Lauderdale County Sheriff's Office systems in Mississippi",
+        "url": "https://dysruptionhub.com/lauderdale-county-sheriff-mississippi-cyber-incident/?utm_source=rss",
+        "added": "2026-11-24"
+    },
+    {
+        "date": "2026-11-22",
         "victim": "Quimper",
         "domain": "quimper.bzh",
         "country": "FRA",
