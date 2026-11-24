@@ -1,5 +1,16 @@
 [
     {
+        "date": "2026-11-23",
+        "victim": "Agência para a Energia (ADENE)",
+        "domain": "adene.pt",
+        "country": "PRT",
+        "summary": "L'Agence espagnole de l'Énergia (ADENE) a été victime d'une intrusion non autorisée dans ses systèmes informatiques. En réponse, l'agence a activé son plan de réponse aux incidents et a isolé les systèmes affectés. Par précaution, le Système de Certification Énergétique des Bâtiments (SCE) et son portail sont temporairement indisponibles. La nature et l'étendue de l'intrusion, y compris une éventuelle fuite de données personnelles, sont actuellement sous enquête avec l'aide d'experts indépendants. L'incident a été notifié au Centre National de Cybersécurité (CNCS) et à la Police Judiciaire. ADENE prévient le public de tentatives de fraude liées à cet incident et prévoit de fournir une mise à jour le mardi 24 novembre 2026.",
+        "description": "",
+        "title": "ADENE sofre ataque informático e Portal do Sistema de Certificação Energética está temporariamente indisponível | Jornal Económico",
+        "url": "https://jornaleconomico.sapo.pt/noticias/adene-sofre-ataque-informatico-e-portal-do-sistema-de-certificacao-energetica-esta-temporariamente-indisponivel/",
+        "added": "2026-11-24"
+    },
+    {
         "date": "2026-11-20",
         "victim": "Banque Delubac & Cie",
         "domain": "delubac.com",
