@@ -1,6 +1,17 @@
 [
     {
         "date": "2026-11-24",
+        "victim": "Police israélienne",
+        "domain": "gov.il",
+        "country": "ISR",
+        "summary": "La police israélienne a pris des mesures préventives en suspendant tous ses applications de messagerie et de communication interne, craignant des fuites d'informations sensibles. Cette décision a désorienté les forces de l'ordre, obligeant environ 100 000 agents à changer leurs mots de passe. Les autorités enquêtent pour déterminer si l'incident est dû à une cyberattaque délibérée ou à un dysfonctionnement technique. L'application 'Misseronet', plateforme centrale de communication, est l'un des systèmes les plus touchés. Cet incident survient dans un contexte de nombreuses cyberattaques ciblant Israël, dont des attaques attribuées à l'Iran et des groupes de pirates internationaux.",
+        "description": "",
+        "title": "مخاوف من اختراق سيبراني.. الشرطة الإسرائيلية تعطل تطبيقات الاتصال وتربك عناصرها",
+        "url": "https://www.newsroom.info/488489",
+        "added": "2026-11-24"
+    },
+    {
+        "date": "2026-11-24",
         "victim": "Allied Media",
         "domain": "alliedmedia.co.nz",
         "country": "NZL",
