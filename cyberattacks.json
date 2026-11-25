@@ -1,5 +1,16 @@
 [
     {
+        "date": "2026-11-17",
+        "victim": "Bington Steel",
+        "domain": "byingtonsteel.com",
+        "country": "USA",
+        "summary": "Le groupe Kyoei Steel a annoncé que sa filiale américaine, Bington Steel, a été victime d'une cyberattaque. L'incident a été détecté le 17 novembre (heure japonaise) et les dommages se sont aggravés les 18 et 19 novembre. Les attaquants ont accédé au système d'information de Bington Steel, ont pris le contrôle des comptes administrateurs et ont modifié des identifiants et des mots de passe. Bien que l'accès au réseau interne et aux fichiers partagés soit perturbé et que la récupération soit en cours, aucune fuite de données n'a été confirmée à ce jour. L'impact direct sur l'expédition des produits et le fonctionnement des usines n'est pas rapporté.",
+        "description": "",
+        "title": "共英製鋼の米国子会社にサイバー攻撃 情報漏洩は「現時点で確認されず」 - 日本経済新聞",
+        "url": "https://www.nikkei.com/article/DGXZQOUF256JO0V21C26A1000000/",
+        "added": "2026-11-25"
+    },
+    {
         "date": "2026-11-25",
         "victim": "ABL Bio",
         "domain": "ablbio.com",
