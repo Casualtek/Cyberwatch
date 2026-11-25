@@ -1,5 +1,16 @@
 [
     {
+        "date": "2026-11-20",
+        "victim": "Systematic",
+        "domain": "systematic.com",
+        "country": "DNK",
+        "summary": "La société Systematic a été victime d'une cyberattaque la semaine dernière. Les systèmes internes ont détecté l'incident, entraînant la coupure préventive des systèmes et de l'accès à Internet. Les attaquants n'ont réussi à accéder qu'à un environnement de test, et aucune donnée client n'a été affectée. L'incident a été signalé à la police, au Service de Sécurité et de Renseignement Danois (PET) et au Centre danois pour la cybersécurité. Les opérations sont revenues à la normale.",
+        "description": "",
+        "title": "Last week, Systematic was subject to a cyberattack. Our internal systems effectively detected the attack, and we quickly shut down systems and internet access at our offices as a precaution, while we… | Systematic",
+        "url": "https://www.linkedin.com/posts/systematic-logo-share-7531023916836765696-l90x/",
+        "added": "2026-11-25"
+    },
+    {
         "date": "2026-11-23",
         "victim": "Banco do Nordeste",
         "domain": "bnb.gov.br",
