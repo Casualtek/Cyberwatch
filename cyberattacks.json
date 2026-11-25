@@ -1,5 +1,16 @@
 [
     {
+        "date": "2026-11-19",
+        "victim": "Radware",
+        "domain": "radware.com",
+        "country": "ISR",
+        "summary": "La société de cybersécurité Radware a été victime d'une brèche de sécurité où des attaquants ont accédé à des informations de compte et à des clés d'accès cloud de ses clients. L'accès a été obtenu via une API de gestion de Cloud WAF interne non sécurisée et exposée publiquement. L'incident a été détecté le jeudi, et Radware a confirmé que l'accès non autorisé a eu lieu le 19 novembre 2026. Les informations potentiellement compromises incluent des coordonnées clients et, pour certains, les identifiants utilisés pour l'exportation de journaux vers des services de stockage cloud (AWS S3, Azure Blob Storage, SFTP). Radware a conseillé aux clients affectés de renouveler immédiatement les clés exposées et de vérifier les journaux d'accès de leurs comptes de stockage.",
+        "description": "",
+        "title": "Radware discloses breach exposing customer cloud access keys",
+        "url": "https://www.bleepingcomputer.com/news/security/radware-discloses-breach-exposing-customer-cloud-access-keys/",
+        "added": "2026-11-25"
+    },
+    {
         "date": "2026-11-18",
         "victim": "Rackspace",
         "domain": "rackspace.com",
