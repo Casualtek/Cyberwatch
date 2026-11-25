@@ -30891,6 +30891,18 @@
         ]
     },
     {
+        "victim": "Asensus Surgical",
+        "domain": "asensus.com",
+        "country": "US",
+        "timeline": [
+            {
+                "date": "2026-10-20",
+                "type": "claimed",
+                "group": "Dark Project"
+            }
+        ]
+    },
+    {
         "victim": "Camen",
         "domain": "asesoriacamen.es",
         "country": "ES",
@@ -36375,6 +36387,18 @@
             {
                 "date": "2023-11-24",
                 "type": "reported"
+            }
+        ]
+    },
+    {
+        "victim": "Aveva",
+        "domain": "aveva.com",
+        "country": "GB",
+        "timeline": [
+            {
+                "date": "2026-10-20",
+                "type": "claimed",
+                "group": "Mimori"
             }
         ]
     },
@@ -43290,6 +43314,18 @@
                 "date": "2024-03-28",
                 "type": "claimed",
                 "group": "akira"
+            }
+        ]
+    },
+    {
+        "victim": "Beach Eye Medical Group",
+        "domain": "beacheye.com",
+        "country": "US",
+        "timeline": [
+            {
+                "date": "2026-10-15",
+                "type": "claimed",
+                "group": "Dark Project"
             }
         ]
     },
@@ -55915,6 +55951,18 @@
         ]
     },
     {
+        "victim": "Brüninghoff Group",
+        "domain": "brueninghoff.de",
+        "country": "DE",
+        "timeline": [
+            {
+                "date": "2026-10-20",
+                "type": "claimed",
+                "group": "payload"
+            }
+        ]
+    },
+    {
         "victim": "brumfieldconstructioninc.com",
         "domain": "brumfieldconstructioninc.com",
         "country": "US",
@@ -58016,6 +58064,18 @@
                 "date": "2025-08-04",
                 "type": "claimed",
                 "group": "BrainCipher"
+            }
+        ]
+    },
+    {
+        "victim": "BW Office World",
+        "domain": "bw-officeworld.de",
+        "country": "DE",
+        "timeline": [
+            {
+                "date": "2026-10-20",
+                "type": "claimed",
+                "group": "payload"
             }
         ]
     },
@@ -67205,6 +67265,18 @@
         ]
     },
     {
+        "victim": "centralrogers.com",
+        "domain": "centralrogers.com",
+        "country": "US",
+        "timeline": [
+            {
+                "date": "2026-10-20",
+                "type": "claimed",
+                "group": "incransom"
+            }
+        ]
+    },
+    {
         "victim": "centralromana.com.do",
         "domain": "centralromana.com.do",
         "country": "DO",
@@ -70695,6 +70767,18 @@
         ]
     },
     {
+        "victim": "Chicago Vein Institute",
+        "domain": "chicagoveininstitute.com",
+        "country": "US",
+        "timeline": [
+            {
+                "date": "2026-10-20",
+                "type": "claimed",
+                "group": "Booba Project"
+            }
+        ]
+    },
+    {
         "victim": "The Chicano Federation",
         "domain": "chicanofederation.org",
         "country": "US",
@@ -71777,6 +71861,30 @@
                 "date": "2025-07-15",
                 "type": "assessed",
                 "group": "lynx"
+            }
+        ]
+    },
+    {
+        "victim": "City Hall - Everett, MA",
+        "domain": "ci.everett.ma.us",
+        "country": "US",
+        "timeline": [
+            {
+                "date": "2026-10-20",
+                "type": "claimed",
+                "group": "Booba Project"
+            }
+        ]
+    },
+    {
+        "victim": "City of Mt. Angel, Oregon",
+        "domain": "ci.mt-angel.or.us",
+        "country": "US",
+        "timeline": [
+            {
+                "date": "2026-10-20",
+                "type": "claimed",
+                "group": "Booba Project"
             }
         ]
     },
@@ -77264,6 +77372,18 @@
                 "date": "2023-11-06",
                 "type": "assessed",
                 "group": "cactus"
+            }
+        ]
+    },
+    {
+        "victim": "COASTAL CAROLINA NEUROPSYCHIATRIC CENTER, PA",
+        "domain": "coastalcarolinapsych.com",
+        "country": "US",
+        "timeline": [
+            {
+                "date": "2026-10-20",
+                "type": "claimed",
+                "group": "Booba Project"
             }
         ]
     },
@@ -104558,6 +104678,18 @@
         ]
     },
     {
+        "victim": "Duarte Nursery, Inc.",
+        "domain": "duartenursery.com",
+        "country": "US",
+        "timeline": [
+            {
+                "date": "2026-10-20",
+                "type": "claimed",
+                "group": "aurora"
+            }
+        ]
+    },
+    {
         "victim": "Dubin Group",
         "domain": "dubingroup.com",
         "country": "US",
@@ -126445,6 +126577,11 @@
                 "date": "2025-06-22",
                 "type": "claimed",
                 "group": "play"
+            },
+            {
+                "date": "2026-10-20",
+                "type": "claimed",
+                "group": "anubis"
             }
         ]
     },
@@ -144223,6 +144360,18 @@
                 "date": "2025-04-14",
                 "type": "assessed",
                 "group": "safepay"
+            }
+        ]
+    },
+    {
+        "victim": "Graves Fireplaces, Inc.",
+        "domain": "gravesfireplaces.com",
+        "country": "US",
+        "timeline": [
+            {
+                "date": "2026-10-20",
+                "type": "claimed",
+                "group": "Global Secret Group"
             }
         ]
     },
@@ -247585,6 +247734,18 @@
         ]
     },
     {
+        "victim": "OpenText",
+        "domain": "opentext.com",
+        "country": "CA",
+        "timeline": [
+            {
+                "date": "2026-10-20",
+                "type": "claimed",
+                "group": "Mimori"
+            }
+        ]
+    },
+    {
         "victim": "Opera Comique",
         "domain": "opera-comique.com",
         "country": "FR",
@@ -255687,6 +255848,18 @@
                 "date": "2023-08-01",
                 "type": "claimed",
                 "group": "nokoyawa"
+            }
+        ]
+    },
+    {
+        "victim": "Pearland Pediatrics",
+        "domain": "pearlandpediatrics.com",
+        "country": "US",
+        "timeline": [
+            {
+                "date": "2026-10-20",
+                "type": "claimed",
+                "group": "Booba Project"
             }
         ]
     },
@@ -278738,6 +278911,18 @@
                 "date": "2024-01-31",
                 "type": "assessed",
                 "group": "lockbit3"
+            }
+        ]
+    },
+    {
+        "victim": "Research Foundation of The City University of New York",
+        "domain": "rfcuny.org",
+        "country": "US",
+        "timeline": [
+            {
+                "date": "2026-10-20",
+                "type": "claimed",
+                "group": "Booba Project"
             }
         ]
     },
@@ -327746,6 +327931,11 @@
                 "date": "2026-10-15",
                 "type": "claimed",
                 "group": "qilin"
+            },
+            {
+                "date": "2026-10-20",
+                "type": "claimed",
+                "group": "Dark Project"
             }
         ]
     },
