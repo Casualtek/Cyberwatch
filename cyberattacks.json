@@ -1,5 +1,16 @@
 [
     {
+        "date": "2026-09-27",
+        "victim": "Ville d'El Cajon",
+        "domain": "elcajon.gov",
+        "country": "USA",
+        "summary": "La ville d'El Cajon a subi une brèche de sécurité informatique qui a potentiellement exposé des informations sensibles, incluant des données de santé, des informations financières et l'identité d'agents de police en couverture. Le gestionnaire de la ville, Graham Mitchell, a confirmé cet incident de sécurité réseau le 27 septembre. Un ensemble de données de près de huit téraoctets, comprenant des fiches W-2 des employés, des enregistrements d'appels 911 et des listes d'agents en couverture, a été retrouvé sur un site de fuite de rançongiciel. Le groupe de rançongiciel Rhysida a revendiqué le vol. Les experts en cybersécurité soulignent que les municipalités sont des cibles privilégiées en raison de la quantité de données qu'elles stockent.",
+        "description": "",
+        "title": "Suspected cyberattack targets City of El Cajon",
+        "url": "https://www.nbcsandiego.com/news/local/suspected-cyberattack-targets-city-el-cajon/4105754/",
+        "added": "2026-11-25"
+    },
+    {
         "date": "2026-11-23",
         "victim": "Buttenheim",
         "domain": "buttenheim.de",
