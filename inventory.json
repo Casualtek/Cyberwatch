@@ -4369,6 +4369,18 @@
         ]
     },
     {
+        "victim": "LEGAL-RECORDS.US",
+        "domain": "LEGAL-RECORDS.US",
+        "country": "US",
+        "timeline": [
+            {
+                "date": "2026-10-21",
+                "type": "claimed",
+                "group": "clop"
+            }
+        ]
+    },
+    {
         "victim": "LITELLM/TRIVY CAMPAIGN (TEAMPCP)",
         "domain": "LITELLM/TRIVYCAMPAIGN(TEAMPCP).nodomain",
         "country": "",
@@ -12271,6 +12283,18 @@
                 "date": "2024-03-28",
                 "type": "assessed",
                 "group": "play"
+            }
+        ]
+    },
+    {
+        "victim": "Adobe Insurance Brokers, LLC",
+        "domain": "adobebrokers.com",
+        "country": "US",
+        "timeline": [
+            {
+                "date": "2026-10-21",
+                "type": "claimed",
+                "group": "pear"
             }
         ]
     },
@@ -55963,6 +55987,18 @@
         ]
     },
     {
+        "victim": "Bruin Group LLC",
+        "domain": "bruin.com",
+        "country": "US",
+        "timeline": [
+            {
+                "date": "2026-10-21",
+                "type": "claimed",
+                "group": "emperador"
+            }
+        ]
+    },
+    {
         "victim": "brumfieldconstructioninc.com",
         "domain": "brumfieldconstructioninc.com",
         "country": "US",
@@ -63501,6 +63537,18 @@
         "timeline": [
             {
                 "date": "2024-10-01",
+                "type": "claimed",
+                "group": "akira"
+            }
+        ]
+    },
+    {
+        "victim": "Cascade Flooring America",
+        "domain": "cascadefa.com",
+        "country": "US",
+        "timeline": [
+            {
+                "date": "2026-10-21",
                 "type": "claimed",
                 "group": "akira"
             }
@@ -75300,6 +75348,18 @@
         ]
     },
     {
+        "victim": "clinicaromero.com",
+        "domain": "clinicaromero.com",
+        "country": "AR",
+        "timeline": [
+            {
+                "date": "2026-10-21",
+                "type": "claimed",
+                "group": "BrainCipher"
+            }
+        ]
+    },
+    {
         "victim": "Clinica Tezza",
         "domain": "clinicatezza.com.pe",
         "country": "PE",
@@ -77338,6 +77398,18 @@
                 "date": "2026-09-22",
                 "type": "assessed",
                 "group": "akira"
+            }
+        ]
+    },
+    {
+        "victim": "Coastal Alabama Community College",
+        "domain": "coastalalabama.edu",
+        "country": "US",
+        "timeline": [
+            {
+                "date": "2026-10-21",
+                "type": "claimed",
+                "group": "interlock"
             }
         ]
     },
@@ -92103,6 +92175,18 @@
                 "date": "2026-09-15",
                 "type": "claimed",
                 "group": "thegentlemen"
+            }
+        ]
+    },
+    {
+        "victim": "dangvuongcac",
+        "domain": "dangvuongcac.com",
+        "country": "VN",
+        "timeline": [
+            {
+                "date": "2026-10-21",
+                "type": "claimed",
+                "group": "HYFLOCK"
             }
         ]
     },
@@ -127438,6 +127522,18 @@
         ]
     },
     {
+        "victim": "Flextron Circuit Assembly",
+        "domain": "flextronassembly.com",
+        "country": "US",
+        "timeline": [
+            {
+                "date": "2026-10-21",
+                "type": "claimed",
+                "group": "akira"
+            }
+        ]
+    },
+    {
         "victim": "Favaro Lavezzo Gill Caretti",
         "domain": "flgch.com",
         "country": "US",
@@ -132450,6 +132546,18 @@
         ]
     },
     {
+        "victim": "FuG-Gruppe",
+        "domain": "fug-cwit.de",
+        "country": "DE",
+        "timeline": [
+            {
+                "date": "2026-10-21",
+                "type": "claimed",
+                "group": "lamashtu"
+            }
+        ]
+    },
+    {
         "victim": "fugatesales.com",
         "domain": "fugatesales.com",
         "country": "",
@@ -133700,6 +133808,18 @@
                 "date": "2023-10-31",
                 "type": "claimed",
                 "group": "play"
+            }
+        ]
+    },
+    {
+        "victim": "gabonmeca.com leak incident",
+        "domain": "gabonmeca.com",
+        "country": "GA",
+        "timeline": [
+            {
+                "date": "2026-10-21",
+                "type": "claimed",
+                "group": "HYFLOCK"
             }
         ]
     },
@@ -137174,6 +137294,18 @@
                 "date": "2025-07-12",
                 "type": "claimed",
                 "group": "akira"
+            }
+        ]
+    },
+    {
+        "victim": "genesys.com",
+        "domain": "genesys.com",
+        "country": "US",
+        "timeline": [
+            {
+                "date": "2026-10-16",
+                "type": "claimed",
+                "group": "Scarlettgroup"
             }
         ]
     },
@@ -147893,6 +148025,18 @@
         ]
     },
     {
+        "victim": "GSE-M Technology Sdn. Bhd.",
+        "domain": "gse.com.my",
+        "country": "MY",
+        "timeline": [
+            {
+                "date": "2026-10-21",
+                "type": "claimed",
+                "group": "bravox"
+            }
+        ]
+    },
+    {
         "victim": "Girl Scouts of Eastern Massachusetts",
         "domain": "gsema.org",
         "country": "US",
@@ -151160,6 +151304,29 @@
                 "date": "2026-01-31",
                 "type": "claimed",
                 "group": "thegentlemen"
+            }
+        ]
+    },
+    {
+        "victim": "Hanjin Information Systems & Telecommunication Co., Ltd.",
+        "domain": "hanjinkal.com",
+        "country": "KR",
+        "timeline": [
+            {
+                "date": "2026-10-18",
+                "type": "claimed",
+                "group": "N0n"
+            },
+            {
+                "date": "2026-11-09",
+                "type": "discovered",
+                "summary": "Hanjin Information & Communication, une société de services informatiques du groupe Hanjin, a officiellement confirmé une fuite de données suite à une cyberattaque externe. Le groupe de ransomware 'n0n' a affirmé avoir compromis le système ITSM le 21 octobre 2026 et a menacé de publier des informations. L'entreprise a confirmé le 23 octobre 2026 que les noms et adresses e-mail de 980 utilisateurs du système ITSM avaient été exposés. L'attaquant a également affirmé détenir des informations plus sensibles, telles que les détails sur le déploiement du personnel chez les clients et les informations sur les comptes des partenaires tiers, ce qui représente un risque significatif pour la sécurité de la chaîne d'approvisionnement, bien qu'aucune confirmation de perturbation du système ou de chiffrement de fichiers n'ait été faite.",
+                "title": "[단독] 한진그룹 IT 서비스 전문기업 한진정보통신 해킹…항공·물류 공급망 보안 위협 우려 - 데일리시큐",
+                "url": "https://www.dailysecu.com/news/articleView.html?idxno=209036"
+            },
+            {
+                "date": "2026-10-22",
+                "type": "reported"
             }
         ]
     },
@@ -155983,6 +156150,18 @@
                 "date": "2021-03-11",
                 "type": "claimed",
                 "group": "babuk"
+            }
+        ]
+    },
+    {
+        "victim": "Heritage Senior Living",
+        "domain": "heritagesl.com",
+        "country": "US",
+        "timeline": [
+            {
+                "date": "2026-10-19",
+                "type": "claimed",
+                "group": "N0n"
             }
         ]
     },
@@ -164382,6 +164561,18 @@
                 "date": "2025-03-12",
                 "type": "claimed",
                 "group": "arcusmedia"
+            }
+        ]
+    },
+    {
+        "victim": "Hypertherm",
+        "domain": "hypertherm.com",
+        "country": "US",
+        "timeline": [
+            {
+                "date": "2026-10-21",
+                "type": "claimed",
+                "group": "Helix"
             }
         ]
     },
@@ -194966,6 +195157,18 @@
         ]
     },
     {
+        "victim": "Lanham Associates",
+        "domain": "lanhamassoc.com",
+        "country": "US",
+        "timeline": [
+            {
+                "date": "2026-10-21",
+                "type": "claimed",
+                "group": "everest"
+            }
+        ]
+    },
+    {
         "victim": "Lanificio Luigi Colombo S.p.A.",
         "domain": "lanificiocolombo.it",
         "country": "IT",
@@ -200584,6 +200787,18 @@
                 "date": "2026-05-09",
                 "type": "claimed",
                 "group": "qilin"
+            }
+        ]
+    },
+    {
+        "victim": "Lindauer Dornier",
+        "domain": "lindauerdornier.com",
+        "country": "DE",
+        "timeline": [
+            {
+                "date": "2026-10-21",
+                "type": "claimed",
+                "group": "everest"
             }
         ]
     },
@@ -214581,6 +214796,18 @@
                 "date": "2025-07-09",
                 "type": "claimed",
                 "group": "cicada3301"
+            }
+        ]
+    },
+    {
+        "victim": "MECA-PRECIS",
+        "domain": "mecaprecis.com",
+        "country": "FR",
+        "timeline": [
+            {
+                "date": "2026-10-21",
+                "type": "claimed",
+                "group": "lamashtu"
             }
         ]
     },
@@ -229657,6 +229884,18 @@
         ]
     },
     {
+        "victim": "mvjllp.com",
+        "domain": "mvjllp.com",
+        "country": "US",
+        "timeline": [
+            {
+                "date": "2026-10-21",
+                "type": "claimed",
+                "group": "BrainCipher"
+            }
+        ]
+    },
+    {
         "victim": "Miguel Veiga, Neiva Santos e Associados.",
         "domain": "mvns.pt",
         "country": "PT",
@@ -232869,6 +233108,18 @@
                 "date": "2024-07-17",
                 "type": "claimed",
                 "group": "incransom"
+            }
+        ]
+    },
+    {
+        "victim": "nbcuniversal.com",
+        "domain": "nbcuniversal.com",
+        "country": "US",
+        "timeline": [
+            {
+                "date": "2026-10-18",
+                "type": "claimed",
+                "group": "Scarlettgroup"
             }
         ]
     },
@@ -240733,6 +240984,18 @@
         ]
     },
     {
+        "victim": "novagroupgbc.com",
+        "domain": "novagroupgbc.com",
+        "country": "GB",
+        "timeline": [
+            {
+                "date": "2026-10-21",
+                "type": "claimed",
+                "group": "BrainCipher"
+            }
+        ]
+    },
+    {
         "victim": "Nova Medical Products",
         "domain": "novajoy.com",
         "country": "US",
@@ -244817,6 +245080,18 @@
         ]
     },
     {
+        "victim": "oflaherty-law.com",
+        "domain": "oflaherty-law.com",
+        "country": "IE",
+        "timeline": [
+            {
+                "date": "2026-10-21",
+                "type": "claimed",
+                "group": "BrainCipher"
+            }
+        ]
+    },
+    {
         "victim": "OFS",
         "domain": "ofs.com",
         "country": "US",
@@ -245964,6 +246239,18 @@
                 "date": "2024-07-07",
                 "type": "claimed",
                 "group": "medusa"
+            }
+        ]
+    },
+    {
+        "victim": "olyortho.com",
+        "domain": "olyortho.com",
+        "country": "US",
+        "timeline": [
+            {
+                "date": "2026-10-21",
+                "type": "claimed",
+                "group": "BrainCipher"
             }
         ]
     },
@@ -263202,6 +263489,18 @@
         ]
     },
     {
+        "victim": "police.rajasthan.gov.in",
+        "domain": "police.rajasthan.gov.in",
+        "country": "IN",
+        "timeline": [
+            {
+                "date": "2026-10-14",
+                "type": "claimed",
+                "group": "Scarlettgroup"
+            }
+        ]
+    },
+    {
         "victim": "Ecuadors National Police",
         "domain": "policia.gob.ec",
         "country": "EC",
@@ -263973,6 +264272,18 @@
                 "date": "2023-06-28",
                 "type": "claimed",
                 "group": "8base"
+            }
+        ]
+    },
+    {
+        "victim": "Porter Hedges LLP",
+        "domain": "porterhedges.com",
+        "country": "US",
+        "timeline": [
+            {
+                "date": "2026-10-21",
+                "type": "claimed",
+                "group": "SilentRansomGroup"
             }
         ]
     },
@@ -269156,6 +269467,18 @@
                 "date": "2024-09-07",
                 "type": "claimed",
                 "group": "medusa"
+            }
+        ]
+    },
+    {
+        "victim": "prosomnus.com",
+        "domain": "prosomnus.com",
+        "country": "US",
+        "timeline": [
+            {
+                "date": "2026-10-21",
+                "type": "claimed",
+                "group": "BrainCipher"
             }
         ]
     },
@@ -305893,6 +306216,18 @@
         ]
     },
     {
+        "victim": "sodali.com",
+        "domain": "sodali.com",
+        "country": "US",
+        "timeline": [
+            {
+                "date": "2026-10-21",
+                "type": "claimed",
+                "group": "BrainCipher"
+            }
+        ]
+    },
+    {
         "victim": "sodic.com",
         "domain": "sodic.com",
         "country": "EG",
@@ -310825,6 +311160,18 @@
         ]
     },
     {
+        "victim": "srsnodgrass.com",
+        "domain": "srsnodgrass.com",
+        "country": "US",
+        "timeline": [
+            {
+                "date": "2026-10-21",
+                "type": "claimed",
+                "group": "BrainCipher"
+            }
+        ]
+    },
+    {
         "victim": "State Road and Tollway Authority",
         "domain": "srta.ga.gov",
         "country": "US",
@@ -314474,6 +314821,18 @@
                 "date": "2023-11-15",
                 "type": "claimed",
                 "group": "8base"
+            }
+        ]
+    },
+    {
+        "victim": "Allmand-Smith Limited",
+        "domain": "stormguard.co.uk",
+        "country": "GB",
+        "timeline": [
+            {
+                "date": "2026-10-21",
+                "type": "claimed",
+                "group": "aurora"
             }
         ]
     },
@@ -328774,6 +329133,18 @@
         ]
     },
     {
+        "victim": "PLD Group",
+        "domain": "thepldgroup.com",
+        "country": "US",
+        "timeline": [
+            {
+                "date": "2026-10-21",
+                "type": "claimed",
+                "group": "everest"
+            }
+        ]
+    },
+    {
         "victim": "www.thepromisenig.com",
         "domain": "thepromisenig.com",
         "country": "NG",
@@ -329868,6 +330239,18 @@
                 "date": "2026-07-14",
                 "type": "claimed",
                 "group": "qilin"
+            }
+        ]
+    },
+    {
+        "victim": "TheHomeMag NorCal",
+        "domain": "thmnorthernca.com",
+        "country": "US",
+        "timeline": [
+            {
+                "date": "2026-10-18",
+                "type": "claimed",
+                "group": "N0n"
             }
         ]
     },
@@ -357494,6 +357877,18 @@
         ]
     },
     {
+        "victim": "WEPOS Chemie",
+        "domain": "wepos-chemie.de",
+        "country": "DE",
+        "timeline": [
+            {
+                "date": "2026-10-21",
+                "type": "claimed",
+                "group": "lamashtu"
+            }
+        ]
+    },
+    {
         "victim": "We R Family Foundation",
         "domain": "werfamilyfoundation.org",
         "country": "US",
@@ -358548,6 +358943,18 @@
                 "date": "2024-02-19",
                 "type": "assessed",
                 "group": "qilin"
+            }
+        ]
+    },
+    {
+        "victim": "Westrock Coffee",
+        "domain": "westrockcoffee.com",
+        "country": "US",
+        "timeline": [
+            {
+                "date": "2026-10-21",
+                "type": "claimed",
+                "group": "Helix"
             }
         ]
     },
@@ -364869,6 +365276,18 @@
                 "date": "2026-07-08",
                 "type": "claimed",
                 "group": "krybit"
+            }
+        ]
+    },
+    {
+        "victim": "Xylanpicks",
+        "domain": "xylanpicks.com",
+        "country": "US",
+        "timeline": [
+            {
+                "date": "2026-10-18",
+                "type": "claimed",
+                "group": "N0n"
             }
         ]
     },
