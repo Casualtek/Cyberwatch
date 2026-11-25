@@ -1,5 +1,16 @@
 [
     {
+        "date": "2026-11-23",
+        "victim": "CIA",
+        "domain": "cia.gov",
+        "country": "USA",
+        "summary": "A cyberattack has compromised unclassified information from the open-source intelligence analysis systems of the Central Intelligence Agency (CIA) and the Office of the Director of National Intelligence (ODNI). The intrusion is reported to involve the AI-powered tool ARTEX and has been linked to potential Chinese origin.",
+        "description": "",
+        "title": "nytimes.com",
+        "url": "https://www.nytimes.com/2026/11/24/us/politics/spy-agencies-computer-network-breaches.html",
+        "added": "2026-11-25"
+    },
+    {
         "date": "2026-11-20",
         "victim": "Systematic",
         "domain": "systematic.com",
