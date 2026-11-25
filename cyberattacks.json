@@ -1,5 +1,16 @@
 [
     {
+        "date": "2026-10-24",
+        "victim": "Old Dominion University",
+        "domain": "odu.edu",
+        "country": "USA",
+        "summary": "L'Old Dominion University, située en Virginie, a mis hors service son outil de sondage et d'inscription suite à un incident de cybersécurité impliquant un accès non autorisé à ses données. L'université a pris connaissance du possible vol de données vers le 24 octobre et a notifié les autorités fédérales, dont le FBI. Le groupe de ransomware Qilin a affirmé avoir volé des données universitaires et a menacé de les publier. Les réponses aux sondages et aux événements ont pu contenir des informations personnelles telles que noms, adresses ou dates de naissance. Les personnes concernées peuvent bénéficier d'un suivi d'identité gratuit jusqu'au 26 février 2027.",
+        "description": "",
+        "title": "Old Dominion University in Virginia takes survey tool offline after cyber incident",
+        "url": "https://dysruptionhub.com/old-dominion-university-survey-rsvp-cyber-incident-virginia/",
+        "added": "2026-11-25"
+    },
+    {
         "date": "2026-11-17",
         "victim": "Bington Steel",
         "domain": "byingtonsteel.com",
