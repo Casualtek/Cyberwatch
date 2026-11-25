@@ -1,5 +1,16 @@
 [
     {
+        "date": "2026-11-23",
+        "victim": "Banco do Nordeste",
+        "domain": "bnb.gov.br",
+        "country": "BRA",
+        "summary": "Le Banco do Nordeste a identifié une tentative d'attaque cybernétique le 23 novembre 2026. En réponse, l'institution a mis en place des mesures de confinement et de protection de ses systèmes, restreignant temporairement l'accès à certains canaux numériques. À ce jour, aucun préjudice financier ni fuite de données n'a été rapporté. Les équipes travaillent à la normalisation des services.",
+        "description": "",
+        "title": "Banco do Nordeste adota medidas de segurança para os seus canais digitais",
+        "url": "https://www.bnb.gov.br/web/guest/imprensa/noticias/-/asset_publisher/QGdgGhxvRtMv/content/banco-do-nordeste-adota-medidas-de-segurança-para-os-seus-canais-digitais/44540",
+        "added": "2026-11-25"
+    },
+    {
         "date": "2026-11-25",
         "victim": "RNZ",
         "domain": "rnz.co.nz",
