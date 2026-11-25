@@ -1,5 +1,16 @@
 [
     {
+        "date": "2026-11-25",
+        "victim": "RNZ",
+        "domain": "rnz.co.nz",
+        "country": "NZ",
+        "summary": "RNZ, un diffuseur public, a été victime d'une cyberattaque présumée qui a interrompu l'accès à certains systèmes éditoriaux et services en ligne. Les équipes techniques de RNZ ont identifié une activité inhabituelle dans l'un de leurs systèmes, et l'organisation est actuellement en cours d'investigation.",
+        "description": "",
+        "title": "RNZ hit by apparent cyber attack",
+        "url": "https://www.rnz.co.nz/national/programmes/checkpoint/audio/2019061411/rnz-hit-by-apparent-cyber-attack",
+        "added": "2026-11-25"
+    },
+    {
         "date": "2026-10-24",
         "victim": "Old Dominion University",
         "domain": "odu.edu",
