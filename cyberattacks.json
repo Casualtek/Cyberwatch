@@ -1,5 +1,16 @@
 [
     {
+        "date": "2026-11-16",
+        "victim": "LaLiga",
+        "domain": "laliga.com",
+        "country": "ESP",
+        "summary": "LaLiga a annoncé qu'une cyberattaque a entraîné l'extraction de données personnelles de l'une de ses plateformes numériques. La fuite, qui a eu lieu entre le 14 et le 16 novembre, a affecté des données de supporters et des informations relatives aux clubs. L'incident a été signalé à l'Agence espagnole de protection des données et à la Police nationale. LaLiga a pris connaissance de l'attaque le 16 novembre et a renforcé la surveillance de ses services numériques.",
+        "description": "",
+        "title": "Des données personnelles du site internet de LaLiga extraites lors d'une cyberattaque | Flashscore.fr",
+        "url": "https://www.flashscore.fr/actualites/des-donnees-personnelles-du-site-internet-de-laliga-extraites-lors-d-une-cyberattaque/KAvHhdGE/",
+        "added": "2026-11-25"
+    },
+    {
         "date": "2026-11-23",
         "victim": "K-tuin",
         "domain": "okdiario.com",
