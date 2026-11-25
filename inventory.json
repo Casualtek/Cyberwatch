@@ -171982,6 +171982,18 @@
         ]
     },
     {
+        "victim": "interprint.es",
+        "domain": "interprint.es",
+        "country": "ES",
+        "timeline": [
+            {
+                "date": "2026-11-16",
+                "type": "assessed",
+                "group": "safepay"
+            }
+        ]
+    },
+    {
         "victim": "interr.com",
         "domain": "interr.com",
         "country": "GB",
