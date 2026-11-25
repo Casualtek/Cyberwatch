@@ -1,5 +1,16 @@
 [
     {
+        "date": "2026-11-24",
+        "victim": "Quirónsalud",
+        "domain": "quironsalud.com",
+        "country": "ESP",
+        "summary": "Quirónsalud a été victime d'une cyberattaque utilisant l'intelligence artificielle (ARTEX AI) qui a entraîné le vol des adresses e-mail de patients de la santé publique de Madrid. L'entreprise a avertit les utilisateurs, notamment ceux du Hospital General de Villalba, de ce risque de usurpation d'identité et les a obligés à réinitialiser leurs mots de passe. Quirónsalud a précisé que le vol concerne les adresses e-mail et non les dossiers médicaux, car le portail concerné ne contient pas de données cliniques. L'incident a été notifié à l'Agence Espagnole de Protection des Données (AEPD).",
+        "description": "",
+        "title": "Quirónsalud sufre un ciberataque con IA que roba correos de pacientes en Madrid",
+        "url": "https://bilbaohiria.com/actualidad/ciberataque-quironsalud-ia-correos-pacientes-madrid/",
+        "added": "2026-11-25"
+    },
+    {
         "date": "2026-11-23",
         "victim": "CIA",
         "domain": "cia.gov",
