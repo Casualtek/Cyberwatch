@@ -16459,6 +16459,18 @@
         ]
     },
     {
+        "victim": "AirQ",
+        "domain": "airq-ad.com",
+        "country": "AD",
+        "timeline": [
+            {
+                "date": "2026-10-17",
+                "type": "claimed",
+                "group": "thegentlemen"
+            }
+        ]
+    },
+    {
         "victim": "Air Serbia",
         "domain": "airserbia.com",
         "country": "RS",
@@ -41843,6 +41855,18 @@
         ]
     },
     {
+        "victim": "Bay Alarm",
+        "domain": "bayalarm.com",
+        "country": "US",
+        "timeline": [
+            {
+                "date": "2026-10-17",
+                "type": "claimed",
+                "group": "Helix"
+            }
+        ]
+    },
+    {
         "victim": "Bayanat",
         "domain": "bayanat.ae",
         "country": "AE",
@@ -42374,6 +42398,29 @@
                 "date": "2023-03-19",
                 "type": "claimed",
                 "group": "lockbit3"
+            }
+        ]
+    },
+    {
+        "victim": "Brenner Base Tunnel",
+        "domain": "bbt-se.com",
+        "country": "AT",
+        "timeline": [
+            {
+                "date": "2026-10-17",
+                "type": "claimed",
+                "group": "everest"
+            },
+            {
+                "date": "2026-11-11",
+                "type": "discovered",
+                "summary": "Une cyberattaque a ciblé les systèmes de Bbt Se, la société responsable de la conception et de la construction du Tunnel de Base du Brenner. L'intrusion, survenue le 17 octobre 2026, a permis à des personnes non autorisées d'accéder à des données non publiques. Les autorités, notamment la Polizia Postale de Bolzano et le Parquet de Trento, mènent une enquête. Bien qu'un possible lien avec des hackers d'origine russe soit évoqué, il n'a pas été confirmé. La société a confirmé que l'incident n'a eu aucune répercussion sur les activités opérationnelles ou les travaux du tunnel.",
+                "title": "Attacco informatico alla galleria del Brennero, aperto un fascicolo",
+                "url": "https://www.altoadige.it/cronaca/galleria-del-brennero-sotto-attacco-informatico-violati-dati-riservati-omgvr3y8"
+            },
+            {
+                "date": "2026-10-17",
+                "type": "reported"
             }
         ]
     },
@@ -44465,6 +44512,18 @@
                 "date": "2026-08-27",
                 "type": "claimed",
                 "group": "incransom"
+            }
+        ]
+    },
+    {
+        "victim": "Chugoku Bend",
+        "domain": "bend.co.jp",
+        "country": "JP",
+        "timeline": [
+            {
+                "date": "2026-10-17",
+                "type": "claimed",
+                "group": "everest"
             }
         ]
     },
@@ -94165,12 +94224,17 @@
         ]
     },
     {
-        "victim": "Decorolala",
+        "victim": "Decorolala - 500 Line Sample",
         "domain": "decorolala.com",
         "country": "CA",
         "timeline": [
             {
                 "date": "2026-10-13",
+                "type": "claimed",
+                "group": "BYOD"
+            },
+            {
+                "date": "2026-10-17",
                 "type": "claimed",
                 "group": "BYOD"
             }
@@ -125708,6 +125772,18 @@
         ]
     },
     {
+        "victim": "First Brothers Co., Ltd",
+        "domain": "firstbrothers.com",
+        "country": "TH",
+        "timeline": [
+            {
+                "date": "2026-10-17",
+                "type": "claimed",
+                "group": "qilin"
+            }
+        ]
+    },
+    {
         "victim": "firstcambodia.com.kh",
         "domain": "firstcambodia.com.kh",
         "country": "KH",
@@ -125811,6 +125887,18 @@
                 "date": "2025-02-25",
                 "type": "claimed",
                 "group": "anubis"
+            }
+        ]
+    },
+    {
+        "victim": "First Dental Health",
+        "domain": "firstdentalhealth.com",
+        "country": "US",
+        "timeline": [
+            {
+                "date": "2026-10-17",
+                "type": "claimed",
+                "group": "thegentlemen"
             }
         ]
     },
@@ -138851,6 +138939,18 @@
         ]
     },
     {
+        "victim": "Gio Dental Med Spa",
+        "domain": "giodentalspa.com",
+        "country": "IT",
+        "timeline": [
+            {
+                "date": "2026-10-17",
+                "type": "claimed",
+                "group": "thegentlemen"
+            }
+        ]
+    },
+    {
         "victim": "giorgiovisconti.it",
         "domain": "giorgiovisconti.it",
         "country": "IT",
@@ -139574,12 +139674,17 @@
         ]
     },
     {
-        "victim": "Global AirFreight International",
+        "victim": "PART2 Global AirFreight International",
         "domain": "globalair.com.sg",
         "country": "SG",
         "timeline": [
             {
                 "date": "2026-10-08",
+                "type": "claimed",
+                "group": "Eclipse"
+            },
+            {
+                "date": "2026-10-17",
                 "type": "claimed",
                 "group": "Eclipse"
             }
@@ -187446,6 +187551,18 @@
                 "date": "2023-03-10",
                 "type": "claimed",
                 "group": "lockbit3"
+            }
+        ]
+    },
+    {
+        "victim": "Kissei Shoji",
+        "domain": "kissei-shoji.co.jp",
+        "country": "JP",
+        "timeline": [
+            {
+                "date": "2026-10-16",
+                "type": "claimed",
+                "group": "everest"
             }
         ]
     },
@@ -242737,6 +242854,18 @@
         ]
     },
     {
+        "victim": "oakgrovetech",
+        "domain": "oakgrovetech.com",
+        "country": "US",
+        "timeline": [
+            {
+                "date": "2026-10-02",
+                "type": "claimed",
+                "group": "dragonforce"
+            }
+        ]
+    },
+    {
         "victim": "Oakland Community School District 5",
         "domain": "oakland5.org",
         "country": "US",
@@ -243441,6 +243570,18 @@
                 "date": "2025-10-15",
                 "type": "assessed",
                 "group": "ransomhouse"
+            }
+        ]
+    },
+    {
+        "victim": "ock.com.my",
+        "domain": "ock.com.my",
+        "country": "MY",
+        "timeline": [
+            {
+                "date": "2026-10-16",
+                "type": "claimed",
+                "group": "lockbit5"
             }
         ]
     },
@@ -256675,6 +256816,18 @@
         ]
     },
     {
+        "victim": "Personify Health",
+        "domain": "personifyhealth.com",
+        "country": "US",
+        "timeline": [
+            {
+                "date": "2026-10-17",
+                "type": "claimed",
+                "group": "Helix"
+            }
+        ]
+    },
+    {
         "victim": "Persyn",
         "domain": "persyn.be",
         "country": "BE",
@@ -262511,6 +262664,18 @@
                 "date": "2026-09-29",
                 "type": "claimed",
                 "group": "emperador"
+            }
+        ]
+    },
+    {
+        "victim": "polisee Inc",
+        "domain": "polisee.com",
+        "country": "US",
+        "timeline": [
+            {
+                "date": "2026-10-16",
+                "type": "claimed",
+                "group": "Vexy Ransomware"
             }
         ]
     },
@@ -278455,7 +278620,7 @@
         ]
     },
     {
-        "victim": "rheem",
+        "victim": "Rheem Global",
         "domain": "rheem.com",
         "country": "US",
         "timeline": [
@@ -278463,6 +278628,11 @@
                 "date": "2026-04-20",
                 "type": "claimed",
                 "group": "incransom"
+            },
+            {
+                "date": "2026-10-17",
+                "type": "claimed",
+                "group": "Helix"
             }
         ]
     },
@@ -281154,6 +281324,18 @@
                 "date": "2026-02-17",
                 "type": "claimed",
                 "group": "genesis"
+            }
+        ]
+    },
+    {
+        "victim": "Robert Hitchins Limited",
+        "domain": "robert-hitchins.co.uk",
+        "country": "GB",
+        "timeline": [
+            {
+                "date": "2026-10-08",
+                "type": "claimed",
+                "group": "Majinahanashi"
             }
         ]
     },
@@ -304026,6 +304208,18 @@
                 "date": "2026-04-07",
                 "type": "claimed",
                 "group": "lynx"
+            }
+        ]
+    },
+    {
+        "victim": "Smith Douglas Homes",
+        "domain": "smithdouglas.com",
+        "country": "US",
+        "timeline": [
+            {
+                "date": "2026-10-17",
+                "type": "claimed",
+                "group": "Helix"
             }
         ]
     },
@@ -330555,6 +330749,18 @@
         ]
     },
     {
+        "victim": "Taekwang Network",
+        "domain": "tkni.co.kr",
+        "country": "KR",
+        "timeline": [
+            {
+                "date": "2026-10-17",
+                "type": "claimed",
+                "group": "everest"
+            }
+        ]
+    },
+    {
         "victim": "tks.co.th",
         "domain": "tks.co.th",
         "country": "TH",
@@ -356226,6 +356432,18 @@
                 "date": "2026-07-07",
                 "type": "claimed",
                 "group": "payoutsking"
+            }
+        ]
+    },
+    {
+        "victim": "Wellington College International School Bangkok",
+        "domain": "wellingtoncollege.ac.th",
+        "country": "TH",
+        "timeline": [
+            {
+                "date": "2026-10-17",
+                "type": "claimed",
+                "group": "thegentlemen"
             }
         ]
     },
