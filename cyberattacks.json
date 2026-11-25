@@ -1,5 +1,16 @@
 [
     {
+        "date": "2026-11-25",
+        "victim": "Financial Crimes Enforcement Network (FinCEN)",
+        "domain": "fincen.gov",
+        "country": "USA",
+        "summary": "Le Financial Crimes Enforcement Network (FinCEN), agence du Département du Trésor, enquête sur un incident de cybersécurité ayant entraîné un accès non autorisé à un sous-ensemble de ses systèmes. Par mesure préventive, l'agence a mis certains systèmes hors service, bien que le site BSA E-Filing reste opérationnel. FinCEN est responsable de la gestion d'informations sensibles et du signalement de crimes financiers.",
+        "description": "",
+        "title": "Treasury's FinCEN says 'cybersecurity incident' includes 'unauthorized access' of some systems",
+        "url": "https://abcnews.com/US/treasurys-fincen-cybersecurity-incident-includes-unauthorized-access-systems/story?id=138432822",
+        "added": "2026-11-25"
+    },
+    {
         "date": "2026-11-16",
         "victim": "LaLiga",
         "domain": "laliga.com",
