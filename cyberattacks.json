@@ -1,5 +1,16 @@
 [
     {
+        "date": "2026-11-18",
+        "victim": "Rackspace",
+        "domain": "rackspace.com",
+        "country": "USA",
+        "summary": "Rackspace a décidé de fermer sa plateforme cloud Rackspace Spot suite à une brèche de sécurité. Les pirates ont accédé aux clusters Kubernetes et aux secrets des clients. L'intrusion a été découverte le 18 novembre 2026, après que les attaquants aient compromis les identifiants le 17 novembre 2026. Les clients ont jusqu'au 8 décembre 2026 pour migrer leurs services. Rackspace conseille aux utilisateurs de considérer leurs jetons API, jetons de rafraîchissement, kubeconfigs et secrets Kubernetes comme potentiellement compromis.",
+        "description": "",
+        "title": "Rackspace shuts down Spot cloud platform after security breach",
+        "url": "https://www.bleepingcomputer.com/news/security/rackspace-shuts-down-spot-cloud-platform-after-security-breach/",
+        "added": "2026-11-25"
+    },
+    {
         "date": "2026-11-24",
         "victim": "Turnitin",
         "domain": "turnitin.com",
