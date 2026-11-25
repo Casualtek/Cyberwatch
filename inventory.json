@@ -5915,6 +5915,18 @@
         ]
     },
     {
+        "victim": "Seetelhotels.de",
+        "domain": "Seetelhotels.de",
+        "country": "DE",
+        "timeline": [
+            {
+                "date": "2026-10-19",
+                "type": "claimed",
+                "group": "incransom"
+            }
+        ]
+    },
+    {
         "victim": "Si**** West J*******",
         "domain": "Si****WestJ*******.nodomain",
         "country": "",
@@ -18181,6 +18193,18 @@
         ]
     },
     {
+        "victim": "Walbro",
+        "domain": "albro.com",
+        "country": "US",
+        "timeline": [
+            {
+                "date": "2026-10-12",
+                "type": "claimed",
+                "group": "nitrogen"
+            }
+        ]
+    },
+    {
         "victim": "www.albynhousing.org.uk",
         "domain": "albynhousing.org.uk",
         "country": "GB",
@@ -23013,6 +23037,18 @@
                 "date": "2026-02-18",
                 "type": "assessed",
                 "group": "akira"
+            }
+        ]
+    },
+    {
+        "victim": "American Campus",
+        "domain": "americancampus.com",
+        "country": "US",
+        "timeline": [
+            {
+                "date": "2026-10-19",
+                "type": "claimed",
+                "group": "Helix"
             }
         ]
     },
@@ -39001,6 +39037,18 @@
         ]
     },
     {
+        "victim": "Baker Donelson",
+        "domain": "bakerdonelson.com",
+        "country": "US",
+        "timeline": [
+            {
+                "date": "2026-10-19",
+                "type": "claimed",
+                "group": "Redact"
+            }
+        ]
+    },
+    {
         "victim": "Baker McKenzie",
         "domain": "bakermckenzie.com",
         "country": "US",
@@ -39468,6 +39516,18 @@
                 "date": "2025-03-26",
                 "type": "assessed",
                 "group": "play"
+            }
+        ]
+    },
+    {
+        "victim": "Baltimore Tank Lines",
+        "domain": "baltimoretanklines.com",
+        "country": "US",
+        "timeline": [
+            {
+                "date": "2026-10-19",
+                "type": "claimed",
+                "group": "Storm"
             }
         ]
     },
@@ -71109,6 +71169,18 @@
         ]
     },
     {
+        "victim": "chooseultimate.com",
+        "domain": "chooseultimate.com",
+        "country": "US",
+        "timeline": [
+            {
+                "date": "2026-10-19",
+                "type": "claimed",
+                "group": "lockbit5"
+            }
+        ]
+    },
+    {
         "victim": "Chowtaifook",
         "domain": "chowtaifook.com",
         "country": "",
@@ -86847,6 +86919,18 @@
         ]
     },
     {
+        "victim": "CREDIN",
+        "domain": "credin.pt",
+        "country": "PT",
+        "timeline": [
+            {
+                "date": "2026-10-19",
+                "type": "claimed",
+                "group": "qilin"
+            }
+        ]
+    },
+    {
         "victim": "www.credio.eu",
         "domain": "credio.eu",
         "country": "CZ",
@@ -96043,6 +96127,18 @@
                 "date": "2026-09-06",
                 "type": "claimed",
                 "group": "direwolf"
+            }
+        ]
+    },
+    {
+        "victim": "Dental Team FL",
+        "domain": "dentalteamfl.com",
+        "country": "US",
+        "timeline": [
+            {
+                "date": "2026-10-19",
+                "type": "claimed",
+                "group": "qilin"
             }
         ]
     },
@@ -125677,6 +125773,18 @@
         ]
     },
     {
+        "victim": "Finzly Corp",
+        "domain": "finzly.com",
+        "country": "US",
+        "timeline": [
+            {
+                "date": "2026-10-16",
+                "type": "claimed",
+                "group": "N0n"
+            }
+        ]
+    },
+    {
         "victim": "FIO",
         "domain": "fio.fr",
         "country": "FR",
@@ -131585,6 +131693,18 @@
         ]
     },
     {
+        "victim": "Froggys Fog",
+        "domain": "froggysfog.com",
+        "country": "US",
+        "timeline": [
+            {
+                "date": "2026-10-19",
+                "type": "claimed",
+                "group": "N0n"
+            }
+        ]
+    },
+    {
         "victim": "Fromm (FrommBeauty.com)",
         "domain": "frommbeauty.com",
         "country": "US",
@@ -134489,14 +134609,19 @@
         ]
     },
     {
-        "victim": "Garda",
+        "victim": "GardaWorld",
         "domain": "garda.com",
-        "country": "",
+        "country": "CA",
         "timeline": [
             {
                 "date": "2023-12-07",
                 "type": "claimed",
                 "group": "metaencryptor"
+            },
+            {
+                "date": "2026-10-19",
+                "type": "claimed",
+                "group": "qilin"
             },
             {
                 "date": "2024-03-25",
@@ -146503,6 +146628,18 @@
         ]
     },
     {
+        "victim": "Grupo Cronica",
+        "domain": "grupocronica.com.ar",
+        "country": "AR",
+        "timeline": [
+            {
+                "date": "2026-10-19",
+                "type": "claimed",
+                "group": "qilin"
+            }
+        ]
+    },
+    {
         "victim": "Grupo Cuevas",
         "domain": "grupocuevas.es",
         "country": "ES",
@@ -148246,6 +148383,18 @@
                 "date": "2026-04-14",
                 "type": "claimed",
                 "group": "dragonforce"
+            }
+        ]
+    },
+    {
+        "victim": "GTL Concreto e Logística LTDA",
+        "domain": "gtlconcreto.com.br",
+        "country": "BR",
+        "timeline": [
+            {
+                "date": "2026-10-19",
+                "type": "claimed",
+                "group": "emperador"
             }
         ]
     },
@@ -160920,6 +161069,18 @@
         ]
     },
     {
+        "victim": "Hotel DuPont",
+        "domain": "hoteldupont.com",
+        "country": "US",
+        "timeline": [
+            {
+                "date": "2026-10-16",
+                "type": "claimed",
+                "group": "N0n"
+            }
+        ]
+    },
+    {
         "victim": "hotelemc2.com",
         "domain": "hotelemc2.com",
         "country": "",
@@ -163025,6 +163186,18 @@
                 "date": "2025-09-17",
                 "type": "claimed",
                 "group": "incransom"
+            }
+        ]
+    },
+    {
+        "victim": "Kingwood Endoscopy",
+        "domain": "humblekingwoodendoscopy.com",
+        "country": "US",
+        "timeline": [
+            {
+                "date": "2026-10-16",
+                "type": "claimed",
+                "group": "N0n"
             }
         ]
     },
@@ -180271,6 +180444,18 @@
                 "date": "2026-09-18",
                 "type": "claimed",
                 "group": "Storm"
+            }
+        ]
+    },
+    {
+        "victim": "Johnson & Pace",
+        "domain": "johnsonpace.com",
+        "country": "GB",
+        "timeline": [
+            {
+                "date": "2026-10-19",
+                "type": "claimed",
+                "group": "qilin"
             }
         ]
     },
@@ -204777,6 +204962,18 @@
         ]
     },
     {
+        "victim": "Latham & Watkins",
+        "domain": "lw.com",
+        "country": "US",
+        "timeline": [
+            {
+                "date": "2026-10-19",
+                "type": "claimed",
+                "group": "SilentRansomGroup"
+            }
+        ]
+    },
+    {
         "victim": "lwginc.net",
         "domain": "lwginc.net",
         "country": "US",
@@ -216904,6 +217101,18 @@
                 "date": "2025-03-31",
                 "type": "claimed",
                 "group": "bianlian"
+            }
+        ]
+    },
+    {
+        "victim": "Merit Financial Group",
+        "domain": "meritfinancialadvisors.com",
+        "country": "US",
+        "timeline": [
+            {
+                "date": "2026-10-19",
+                "type": "claimed",
+                "group": "Storm"
             }
         ]
     },
@@ -253816,6 +254025,18 @@
         ]
     },
     {
+        "victim": "Patriot Maritime",
+        "domain": "patriotships.com",
+        "country": "US",
+        "timeline": [
+            {
+                "date": "2026-10-19",
+                "type": "claimed",
+                "group": "Storm"
+            }
+        ]
+    },
+    {
         "victim": "patriziapepe.com",
         "domain": "patriziapepe.com",
         "country": "IT",
@@ -260086,6 +260307,18 @@
         ]
     },
     {
+        "victim": "PingCAP / TiDB Cloud",
+        "domain": "pingcap.com",
+        "country": "CN",
+        "timeline": [
+            {
+                "date": "2026-10-19",
+                "type": "claimed",
+                "group": "fulcrumsec"
+            }
+        ]
+    },
+    {
         "victim": "Pinger - USA",
         "domain": "pinger.com",
         "country": "US",
@@ -264536,6 +264769,18 @@
                 "date": "2026-02-17",
                 "type": "claimed",
                 "group": "lynx"
+            }
+        ]
+    },
+    {
+        "victim": "POWERsonic Industries Inc.",
+        "domain": "powersonic.net",
+        "country": "US",
+        "timeline": [
+            {
+                "date": "2026-10-19",
+                "type": "claimed",
+                "group": "aurora"
             }
         ]
     },
@@ -272406,6 +272651,17 @@
                 "date": "2026-08-10",
                 "type": "claimed",
                 "group": "direwolf"
+            },
+            {
+                "date": "2026-11-25",
+                "type": "discovered",
+                "summary": "Quirónsalud a été victime d'une cyberattaque utilisant l'intelligence artificielle (ARTEX AI) qui a entraîné le vol des adresses e-mail de patients de la santé publique de Madrid. L'entreprise a avertit les utilisateurs, notamment ceux du Hospital General de Villalba, de ce risque de usurpation d'identité et les a obligés à réinitialiser leurs mots de passe. Quirónsalud a précisé que le vol concerne les adresses e-mail et non les dossiers médicaux, car le portail concerné ne contient pas de données cliniques. L'incident a été notifié à l'Agence Espagnole de Protection des Données (AEPD).",
+                "title": "Quirónsalud sufre un ciberataque con IA que roba correos de pacientes en Madrid",
+                "url": "https://bilbaohiria.com/actualidad/ciberataque-quironsalud-ia-correos-pacientes-madrid/"
+            },
+            {
+                "date": "2026-11-24",
+                "type": "reported"
             }
         ]
     },
@@ -284196,6 +284452,18 @@
         ]
     },
     {
+        "victim": "Rosenberg & Pittinsky",
+        "domain": "rpllplaw.com",
+        "country": "US",
+        "timeline": [
+            {
+                "date": "2026-10-19",
+                "type": "claimed",
+                "group": "Global Secret Group"
+            }
+        ]
+    },
+    {
         "victim": "Rochester Philharmonic Orchestra",
         "domain": "rpo.org",
         "country": "US",
@@ -287645,6 +287913,18 @@
                 "date": "2026-07-31",
                 "type": "claimed",
                 "group": "thegentlemen"
+            }
+        ]
+    },
+    {
+        "victim": "Salauno",
+        "domain": "salauno.com.mx",
+        "country": "MX",
+        "timeline": [
+            {
+                "date": "2026-10-19",
+                "type": "claimed",
+                "group": "qilin"
             }
         ]
     },
@@ -303231,6 +303511,18 @@
         ]
     },
     {
+        "victim": "SkyWorld Air Cargo",
+        "domain": "skyworldcargo.com",
+        "country": "AE",
+        "timeline": [
+            {
+                "date": "2026-10-19",
+                "type": "claimed",
+                "group": "qilin"
+            }
+        ]
+    },
+    {
         "victim": "SL Tennessee Information",
         "domain": "sl-america.com",
         "country": "US",
@@ -309836,6 +310128,18 @@
                 "date": "2025-12-29",
                 "type": "claimed",
                 "group": "safepay"
+            }
+        ]
+    },
+    {
+        "victim": "Seminole Schools",
+        "domain": "sps.k12.ok.us",
+        "country": "US",
+        "timeline": [
+            {
+                "date": "2026-10-19",
+                "type": "claimed",
+                "group": "Global Secret Group"
             }
         ]
     },
@@ -326885,6 +327189,18 @@
         ]
     },
     {
+        "victim": "The Akeeli Group",
+        "domain": "theakeeligroup.com",
+        "country": "US",
+        "timeline": [
+            {
+                "date": "2026-10-16",
+                "type": "claimed",
+                "group": "N0n"
+            }
+        ]
+    },
+    {
         "victim": "The Akin Law LLC",
         "domain": "theakinfirm.com",
         "country": "",
@@ -333411,6 +333727,18 @@
                 "date": "2023-07-26",
                 "type": "claimed",
                 "group": "clop"
+            }
+        ]
+    },
+    {
+        "victim": "Toyota Canarias",
+        "domain": "toyota-canarias.es",
+        "country": "ES",
+        "timeline": [
+            {
+                "date": "2026-10-19",
+                "type": "claimed",
+                "group": "qilin"
             }
         ]
     },
@@ -345919,6 +346247,18 @@
         ]
     },
     {
+        "victim": "Vormittag Associates Inc",
+        "domain": "vai.net",
+        "country": "US",
+        "timeline": [
+            {
+                "date": "2026-10-19",
+                "type": "claimed",
+                "group": "N0n"
+            }
+        ]
+    },
+    {
         "victim": "Valbifrut",
         "domain": "valbifrut.cl",
         "country": "CL",
@@ -353741,6 +354081,18 @@
                 "date": "2024-11-19",
                 "type": "assessed",
                 "group": "ransomhub"
+            }
+        ]
+    },
+    {
+        "victim": "WalkingTree Technologies",
+        "domain": "walkingtree.tech",
+        "country": "IN",
+        "timeline": [
+            {
+                "date": "2026-10-19",
+                "type": "claimed",
+                "group": "qilin"
             }
         ]
     },
