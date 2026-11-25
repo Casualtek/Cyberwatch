@@ -29618,6 +29618,18 @@
         ]
     },
     {
+        "victim": "ARRB Group",
+        "domain": "arrbgroup.net",
+        "country": "US",
+        "timeline": [
+            {
+                "date": "2026-11-06",
+                "type": "assessed",
+                "group": "play"
+            }
+        ]
+    },
+    {
         "victim": "ARRCO LSM",
         "domain": "arrco.no",
         "country": "NO",
