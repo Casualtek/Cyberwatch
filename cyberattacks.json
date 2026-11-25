@@ -1,5 +1,16 @@
 [
     {
+        "date": "2026-11-24",
+        "victim": "Shelby County",
+        "domain": "shelby.in.us",
+        "country": "USA",
+        "summary": "Le gouvernement du comté de Shelby, situé dans l'Indiana, a mis hors service des serveurs utilisés par plusieurs départements suite à un incident présumé de cybersécurité. Les équipes informatiques ont procédé à la reconstruction de ces serveurs le mardi. Les anomalies ont été remarquées vendredi, et bien que l'incident soit décrit comme une tentative d'attaque, la cause exacte des perturbations n'a pas été identifiée. Les autorités ont également indiqué qu'aucune information n'a été compromise.",
+        "description": "",
+        "title": "Shelby County Government in Indiana shuts down servers after suspected cyber incident",
+        "url": "https://dysruptionhub.com/shelby-county-government-indiana-suspected-cyber-incident/",
+        "added": "2026-11-25"
+    },
+    {
         "date": "2026-09-27",
         "victim": "Ville d'El Cajon",
         "domain": "elcajon.gov",
