@@ -1,6 +1,17 @@
 [
     {
         "date": "2026-11-24",
+        "victim": "Turnitin",
+        "domain": "turnitin.com",
+        "country": "USA",
+        "summary": "L'entreprise de technologie éducative Turnitin a signalé qu'elle avait détecté des activités non autorisées au sein de certains de ses systèmes destinés aux clients. La direction a déployé son plan de réponse aux incidents, a engagé des spécialistes externes et a notifié les autorités et les régulateurs. Turnitin affirme que ses systèmes sont pleinement opérationnels et sûrs, précisant que les systèmes affectés ne collectent pas de données d'identification gouvernementales ni d'informations financières institutionnelles. L'enquête est en cours, et la nature, l'étendue de l'activité non autorisée, ainsi que le nombre d'individus potentiellement impactés, n'ont pas encore été précisés.",
+        "description": "",
+        "title": "Turnitin discloses cyberattack affecting customer-facing systems",
+        "url": "https://www.bleepingcomputer.com/news/security/turnitin-discloses-cyberattack-affecting-customer-facing-systems/",
+        "added": "2026-11-25"
+    },
+    {
+        "date": "2026-11-24",
         "victim": "Pro-Doma",
         "domain": "pro-doma.cz",
         "country": "CZE",
