@@ -1,5 +1,16 @@
 [
     {
+        "date": "2026-11-17",
+        "victim": "Bell",
+        "domain": "bell.ca",
+        "country": "CAN",
+        "summary": "Bell a été victime d'une attaque informatique utilisant l'intelligence artificielle, qui a permis le vol de données de plusieurs clients d'affaires. L'intrusion a eu lieu le 17 novembre, lorsque les attaquants ont accédé à un environnement de pré-production du système Maximo de Bell. Les informations exfiltrées incluent des noms, titres, courriels, numéros de téléphone professionnels, adresses d'affaires, contenu de billets de service et certaines adresses IP. Bell assure que les mots de passe et les documents sensibles n'ont pas été compromis, et que le service à la clientèle n'a pas été affecté. L'entreprise a transmis les traces de l'attaque au Centre canadien pour la cybersécurité et à la GRC.",
+        "description": "",
+        "title": "Bell victime d’une attaque informatique appuyée par l’intelligence artificielle",
+        "url": "https://www.qub.ca/article/bell-victime-dune-attaque-informatique-appuyee-par-lintelligence-artificielle-1806549520",
+        "added": "2026-11-25"
+    },
+    {
         "date": "2026-11-19",
         "victim": "Radware",
         "domain": "radware.com",
