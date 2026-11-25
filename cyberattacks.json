@@ -1,5 +1,16 @@
 [
     {
+        "date": "2026-11-23",
+        "victim": "K-tuin",
+        "domain": "okdiario.com",
+        "country": "ESP",
+        "summary": "Les magasins K-tuin, situés à Palma, en Majorque, ont été victimes d'une cyberattaque qui a entraîné le vol de milliers de données clients. L'incident a été détecté le lundi 23 novembre. Les données potentiellement compromises incluent le nom, prénom, numéro de téléphone, DNI/CIF/NIE, pays, province, code postal, adresse e-mail et date d'inscription. Les informations relatives aux commandes en ligne, telles que le numéro, la date, les noms de facturation et d'expédition, les montants, l'état et les méthodes de paiement, sont également affectées. K-tuin assure que les données bancaires et les cartes de paiement n'ont pas été compromises, mais recommande aux clients de rester vigilants contre l'usurpation d'identité et les communications frauduleuses.",
+        "description": "",
+        "title": "Las tiendas de referencia de Apple en Mallorca sufren un ciberataque con robo de miles de datos de clientes",
+        "url": "https://okdiario.com/baleares/tiendas-referencia-apple-mallorca-sufren-ciberataque-robo-miles-datos-clientes-21262024",
+        "added": "2026-11-25"
+    },
+    {
         "date": "2026-11-24",
         "victim": "Quirónsalud",
         "domain": "quironsalud.com",
