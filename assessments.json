@@ -1,5 +1,12 @@
 [
   {
+    "victim": "interprint.es",
+    "domain": "interprint.es",
+    "country": "ES",
+    "date": "2026-11-16",
+    "group": "safepay"
+  },
+  {
     "victim": "BROTHERS EXPRESS LLC",
     "domain": "broexp.com",
     "country": "US",
