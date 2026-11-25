@@ -9423,6 +9423,18 @@
         ]
     },
     {
+        "victim": "acclaimcompanies.com",
+        "domain": "acclaimcompanies.com",
+        "country": "US",
+        "timeline": [
+            {
+                "date": "2026-09-08",
+                "type": "claimed",
+                "group": "settra"
+            }
+        ]
+    },
+    {
         "victim": "Accolend",
         "domain": "accolend.com",
         "country": "US",
@@ -11555,6 +11567,18 @@
                 "date": "2024-08-27",
                 "type": "assessed",
                 "group": "ransomhub"
+            }
+        ]
+    },
+    {
+        "victim": "adapt-global.com",
+        "domain": "adapt-global.com",
+        "country": "US",
+        "timeline": [
+            {
+                "date": "2026-09-30",
+                "type": "claimed",
+                "group": "settra"
             }
         ]
     },
@@ -19486,6 +19510,18 @@
         ]
     },
     {
+        "victim": "All Business Technologies (Fox Hill bookkeeping and tax practice)",
+        "domain": "allbusinesstechnologies.com",
+        "country": "US",
+        "timeline": [
+            {
+                "date": "2026-10-18",
+                "type": "claimed",
+                "group": "N0n"
+            }
+        ]
+    },
+    {
         "victim": "AllCare Pharmacy",
         "domain": "allcare pharmacy",
         "country": "",
@@ -22172,6 +22208,18 @@
                 "date": "2026-05-22",
                 "type": "claimed",
                 "group": "nova"
+            }
+        ]
+    },
+    {
+        "victim": "Amagi Media Labs",
+        "domain": "amagi.com",
+        "country": "US",
+        "timeline": [
+            {
+                "date": "2026-10-16",
+                "type": "claimed",
+                "group": "N0n"
             }
         ]
     },
@@ -43954,6 +44002,18 @@
         ]
     },
     {
+        "victim": "Belcorp",
+        "domain": "belcorp.biz",
+        "country": "PE",
+        "timeline": [
+            {
+                "date": "2026-10-18",
+                "type": "claimed",
+                "group": "qilin"
+            }
+        ]
+    },
+    {
         "victim": "BELFOR",
         "domain": "belfor.com",
         "country": "SG",
@@ -47665,6 +47725,18 @@
                 "date": "2023-08-24",
                 "type": "claimed",
                 "group": "cloak"
+            }
+        ]
+    },
+    {
+        "victim": "binsky.com",
+        "domain": "binsky.com",
+        "country": "US",
+        "timeline": [
+            {
+                "date": "2026-09-29",
+                "type": "claimed",
+                "group": "settra"
             }
         ]
     },
@@ -55883,6 +55955,18 @@
                 "date": "2025-08-06",
                 "type": "claimed",
                 "group": "everest"
+            }
+        ]
+    },
+    {
+        "victim": "BRUTRA Logistek",
+        "domain": "brutra-logistiek.nl",
+        "country": "NL",
+        "timeline": [
+            {
+                "date": "2026-10-18",
+                "type": "claimed",
+                "group": "qilin"
             }
         ]
     },
@@ -108235,6 +108319,18 @@
         ]
     },
     {
+        "victim": "ECO USA",
+        "domain": "ecousaind.com",
+        "country": "US",
+        "timeline": [
+            {
+                "date": "2026-10-15",
+                "type": "claimed",
+                "group": "N0n"
+            }
+        ]
+    },
+    {
         "victim": "ECOVACS",
         "domain": "ecovacs.com",
         "country": "CN",
@@ -119720,6 +119816,18 @@
                 "date": "2025-12-09",
                 "type": "claimed",
                 "group": "spacebears"
+            }
+        ]
+    },
+    {
+        "victim": "exo.inc",
+        "domain": "exo.inc",
+        "country": "US",
+        "timeline": [
+            {
+                "date": "2026-09-30",
+                "type": "claimed",
+                "group": "settra"
             }
         ]
     },
@@ -189607,6 +189715,18 @@
         ]
     },
     {
+        "victim": "konsis.no",
+        "domain": "konsis.no",
+        "country": "NO",
+        "timeline": [
+            {
+                "date": "2026-09-29",
+                "type": "claimed",
+                "group": "settra"
+            }
+        ]
+    },
+    {
         "victim": "Stadtverwaltung Konstanz",
         "domain": "konstanz.de",
         "country": "DE",
@@ -201155,6 +201275,29 @@
         ]
     },
     {
+        "victim": "Llano Independent School District",
+        "domain": "llanoisd.org",
+        "country": "US",
+        "timeline": [
+            {
+                "date": "2026-10-18",
+                "type": "claimed",
+                "group": "qilin"
+            },
+            {
+                "date": "2026-11-09",
+                "type": "discovered",
+                "summary": "Le district scolaire indépendant de Llano, au Texas, a signalé un incident de cybersécurité suite à des pannes d'internet et de téléphone survenues le 29 septembre 2025. Le district a pris des mesures pour isoler les systèmes affectés et a fait appel à des spécialistes. Le groupe de ransomware Qilin a listé le district comme victime, mais cette revendication reste non vérifiée, et le district n'a pas confirmé la cause de la perturbation ni l'exfiltration de données.",
+                "title": "Llano School District in Texas reports cyber incident after internet and phone outages",
+                "url": "https://dysruptionhub.com/llano-isd-texas-internet-phone-outages/"
+            },
+            {
+                "date": "2025-09-29",
+                "type": "reported"
+            }
+        ]
+    },
+    {
         "victim": "Club Lleuresport",
         "domain": "lleuresport.cat",
         "country": "ES",
@@ -204547,6 +204690,18 @@
                 "date": "2024-12-11",
                 "type": "assessed",
                 "group": "play"
+            }
+        ]
+    },
+    {
+        "victim": "Luzco Ilumination",
+        "domain": "luzco.es",
+        "country": "ES",
+        "timeline": [
+            {
+                "date": "2026-10-18",
+                "type": "claimed",
+                "group": "emperador"
             }
         ]
     },
@@ -209827,6 +209982,18 @@
         ]
     },
     {
+        "victim": "www.marvinpac.com",
+        "domain": "marvinpac.com",
+        "country": "US",
+        "timeline": [
+            {
+                "date": "2026-09-25",
+                "type": "claimed",
+                "group": "settra"
+            }
+        ]
+    },
+    {
         "victim": "Marwood",
         "domain": "marwoodltd.com",
         "country": "US",
@@ -210118,6 +210285,18 @@
                 "date": "2025-12-24",
                 "type": "claimed",
                 "group": "safepay"
+            }
+        ]
+    },
+    {
+        "victim": "Mastelli S.r.l.",
+        "domain": "mastelli.com",
+        "country": "IT",
+        "timeline": [
+            {
+                "date": "2026-10-18",
+                "type": "claimed",
+                "group": "qilin"
             }
         ]
     },
@@ -212850,6 +213029,18 @@
                 "date": "2026-03-09",
                 "type": "claimed",
                 "group": "qilin"
+            }
+        ]
+    },
+    {
+        "victim": "mckenneys",
+        "domain": "mckenneys.com",
+        "country": "US",
+        "timeline": [
+            {
+                "date": "2026-10-18",
+                "type": "claimed",
+                "group": "iah6477"
             }
         ]
     },
@@ -224209,6 +224400,18 @@
                 "date": "2025-02-01",
                 "type": "assessed",
                 "group": "play"
+            }
+        ]
+    },
+    {
+        "victim": "monroeroadways.com",
+        "domain": "monroeroadways.com",
+        "country": "US",
+        "timeline": [
+            {
+                "date": "2026-09-29",
+                "type": "claimed",
+                "group": "settra"
             }
         ]
     },
@@ -250248,6 +250451,18 @@
         ]
     },
     {
+        "victim": "Pengurusan Aset Air Berhad",
+        "domain": "paab.my",
+        "country": "MY",
+        "timeline": [
+            {
+                "date": "2026-10-18",
+                "type": "claimed",
+                "group": "qilin"
+            }
+        ]
+    },
+    {
         "victim": "paaf.gov.kw",
         "domain": "paaf.gov.kw",
         "country": "KW",
@@ -253293,6 +253508,18 @@
                 "date": "2023-08-26",
                 "type": "claimed",
                 "group": "noescape"
+            }
+        ]
+    },
+    {
+        "victim": "passavant-ee.com",
+        "domain": "passavant-ee.com",
+        "country": "EE",
+        "timeline": [
+            {
+                "date": "2026-09-25",
+                "type": "claimed",
+                "group": "settra"
             }
         ]
     },
@@ -256571,6 +256798,18 @@
                 "date": "2025-07-20",
                 "type": "claimed",
                 "group": "direwolf"
+            }
+        ]
+    },
+    {
+        "victim": "Pergande",
+        "domain": "pergande.de",
+        "country": "DE",
+        "timeline": [
+            {
+                "date": "2026-10-18",
+                "type": "claimed",
+                "group": "qilin"
             }
         ]
     },
@@ -272054,6 +272293,18 @@
                 "date": "2024-02-22",
                 "type": "claimed",
                 "group": "akira"
+            }
+        ]
+    },
+    {
+        "victim": "Quikrete",
+        "domain": "quikrete.com",
+        "country": "US",
+        "timeline": [
+            {
+                "date": "2026-10-18",
+                "type": "claimed",
+                "group": "Helix"
             }
         ]
     },
@@ -304005,6 +304256,18 @@
         ]
     },
     {
+        "victim": "SMIC US Company (Sunnyvale, CA — US arm of Semiconductor Manufacturing International Corpo...",
+        "domain": "smics.com",
+        "country": "US",
+        "timeline": [
+            {
+                "date": "2026-10-15",
+                "type": "claimed",
+                "group": "N0n"
+            }
+        ]
+    },
+    {
         "victim": "smicusa.com",
         "domain": "smicusa.com",
         "country": "US",
@@ -305766,6 +306029,18 @@
         ]
     },
     {
+        "victim": "Solid Trading B.V.",
+        "domain": "solid-fx.com",
+        "country": "NL",
+        "timeline": [
+            {
+                "date": "2026-10-15",
+                "type": "claimed",
+                "group": "N0n"
+            }
+        ]
+    },
+    {
         "victim": "solidere.com",
         "domain": "solidere.com",
         "country": "LB",
@@ -307424,6 +307699,11 @@
                 "date": "2026-03-22",
                 "type": "claimed",
                 "group": "qilin"
+            },
+            {
+                "date": "2026-10-18",
+                "type": "claimed",
+                "group": "Helix"
             }
         ]
     },
@@ -322659,6 +322939,18 @@
                 "date": "2026-06-04",
                 "type": "claimed",
                 "group": "thegentlemen"
+            }
+        ]
+    },
+    {
+        "victim": "Telecom Egypt",
+        "domain": "te.eg",
+        "country": "EG",
+        "timeline": [
+            {
+                "date": "2026-10-15",
+                "type": "claimed",
+                "group": "N0n"
             }
         ]
     },
