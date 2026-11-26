@@ -1,5 +1,16 @@
 [
     {
+        "date": "2026-11-26",
+        "victim": "Opco EP",
+        "domain": "opcoep.fr",
+        "country": "FRA",
+        "summary": "L'Opco EP, un organisme français majeur du financement de la formation professionnelle, a été victime d'un incident de cybersécurité. L'alerte a été constatée le 26 novembre 2026, entraînant la suspension temporaire de plusieurs de ses portails numériques pour sécuriser ses systèmes. Bien que l'incident soit confirmé, l'Opco EP n'a pas encore confirmé qu'une fuite de données ait eu lieu, et la nature exacte de l'attaque reste inconnue.",
+        "description": "",
+        "title": "Cyberattaque chez Opco EP, l'organisme de formation qui accompagne 442 700 entreprises suspend plusieurs services",
+        "url": "https://frenchbreaches.com/alertes/cyberattaque-opco-ep-incident-cybersecurite-mwxj8zy3wjnpievi9j",
+        "added": "2026-11-26"
+    },
+    {
         "date": "2026-11-25",
         "victim": "Queen Elizabeth School",
         "domain": "qes.org.uk",
