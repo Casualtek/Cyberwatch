@@ -15624,6 +15624,18 @@
         ]
     },
     {
+        "victim": "Antah HealthCare Group",
+        "domain": "ahcg.com.my",
+        "country": "MY",
+        "timeline": [
+            {
+                "date": "2026-10-26",
+                "type": "claimed",
+                "group": "crypto24"
+            }
+        ]
+    },
+    {
         "victim": "Advantage Home Construction Insurance",
         "domain": "ahci.co.uk",
         "country": "GB",
@@ -21775,6 +21787,18 @@
                 "date": "2023-12-13",
                 "type": "claimed",
                 "group": "lockbit3"
+            }
+        ]
+    },
+    {
+        "victim": "Kerckstede vzw",
+        "domain": "althus.be",
+        "country": "BE",
+        "timeline": [
+            {
+                "date": "2026-10-27",
+                "type": "claimed",
+                "group": "Booba Project"
             }
         ]
     },
@@ -30746,6 +30770,18 @@
                 "date": "2024-01-12",
                 "type": "claimed",
                 "group": "cactus"
+            }
+        ]
+    },
+    {
+        "victim": "Aesthetic Specialty Centre",
+        "domain": "asc-psd.com",
+        "country": "PK",
+        "timeline": [
+            {
+                "date": "2026-10-27",
+                "type": "claimed",
+                "group": "Booba Project"
             }
         ]
     },
@@ -41761,6 +41797,18 @@
             {
                 "date": "2024-04-04",
                 "type": "reported"
+            }
+        ]
+    },
+    {
+        "victim": "BASS Medical Group",
+        "domain": "bassmedicalgroup.com",
+        "country": "US",
+        "timeline": [
+            {
+                "date": "2026-10-27",
+                "type": "claimed",
+                "group": "Booba Project"
             }
         ]
     },
@@ -55255,6 +55303,18 @@
         ]
     },
     {
+        "victim": "Bristol City Council",
+        "domain": "bristol.gov.uk",
+        "country": "GB",
+        "timeline": [
+            {
+                "date": "2026-10-27",
+                "type": "claimed",
+                "group": "Wallstreet"
+            }
+        ]
+    },
+    {
         "victim": "Bristol Broadcasting",
         "domain": "bristolbroadcasting.com",
         "country": "US",
@@ -58006,7 +58066,7 @@
         ]
     },
     {
-        "victim": "Burris MacOmber",
+        "victim": "Burris & MacOmber",
         "domain": "burrismacomber.com",
         "country": "US",
         "timeline": [
@@ -58014,6 +58074,11 @@
                 "date": "2026-06-20",
                 "type": "claimed",
                 "group": "thegentlemen"
+            },
+            {
+                "date": "2026-10-27",
+                "type": "claimed",
+                "group": "everest"
             }
         ]
     },
@@ -58940,6 +59005,11 @@
         "domain": "c2cescrow.com",
         "country": "US",
         "timeline": [
+            {
+                "date": "2026-10-27",
+                "type": "claimed",
+                "group": "play"
+            },
             {
                 "date": "2026-10-14",
                 "type": "assessed",
@@ -80369,6 +80439,18 @@
         ]
     },
     {
+        "victim": "Charter Township of Commerce",
+        "domain": "commercetwp.com",
+        "country": "US",
+        "timeline": [
+            {
+                "date": "2026-10-27",
+                "type": "claimed",
+                "group": "Booba Project"
+            }
+        ]
+    },
+    {
         "victim": "Commercial Casework",
         "domain": "commercialcasework.com",
         "country": "US",
@@ -93400,6 +93482,18 @@
                 "date": "2023-08-03",
                 "type": "claimed",
                 "group": "akira"
+            }
+        ]
+    },
+    {
+        "victim": "DATEM, Inc.",
+        "domain": "datem.com.ph",
+        "country": "PH",
+        "timeline": [
+            {
+                "date": "2026-10-27",
+                "type": "claimed",
+                "group": "crypto24"
             }
         ]
     },
@@ -112960,6 +113054,18 @@
                 "date": "2024-05-16",
                 "type": "claimed",
                 "group": "lockbit3"
+            }
+        ]
+    },
+    {
+        "victim": "Energy Storage Terminal in Singapore",
+        "domain": "ema.gov.sg",
+        "country": "SG",
+        "timeline": [
+            {
+                "date": "2026-10-27",
+                "type": "claimed",
+                "group": "everest"
             }
         ]
     },
@@ -135122,6 +135228,18 @@
         ]
     },
     {
+        "victim": "gamblinglore",
+        "domain": "gamblinglore.com",
+        "country": "",
+        "timeline": [
+            {
+                "date": "2026-10-27",
+                "type": "claimed",
+                "group": "Whitearmor"
+            }
+        ]
+    },
+    {
         "victim": "Gamdom",
         "domain": "gamdom.com",
         "country": "",
@@ -145594,6 +145712,18 @@
                 "date": "2026-05-30",
                 "type": "claimed",
                 "group": "genesis"
+            }
+        ]
+    },
+    {
+        "victim": "GreenbergFarrow",
+        "domain": "greenbergfarrow.com",
+        "country": "US",
+        "timeline": [
+            {
+                "date": "2026-10-27",
+                "type": "claimed",
+                "group": "aurora"
             }
         ]
     },
@@ -159564,6 +159694,18 @@
         ]
     },
     {
+        "victim": "Hawaii Law Enforcement Fedral Credit Union",
+        "domain": "hlefcu.com",
+        "country": "US",
+        "timeline": [
+            {
+                "date": "2026-10-27",
+                "type": "claimed",
+                "group": "qilin"
+            }
+        ]
+    },
+    {
         "victim": "HLF Heizung-Sanitär GmbH",
         "domain": "hlf-goslar.de",
         "country": "DE",
@@ -161559,6 +161701,18 @@
         ]
     },
     {
+        "victim": "Horizon Eye Specialists & LASIK Center",
+        "domain": "horizonlaservision.com",
+        "country": "US",
+        "timeline": [
+            {
+                "date": "2026-10-27",
+                "type": "claimed",
+                "group": "Booba Project"
+            }
+        ]
+    },
+    {
         "victim": "horizonmedia.com",
         "domain": "horizonmedia.com",
         "country": "US",
@@ -162920,6 +163074,18 @@
                 "date": "2023-01-21",
                 "type": "claimed",
                 "group": "bianlian"
+            }
+        ]
+    },
+    {
+        "victim": "Hudson River Museum",
+        "domain": "hrm.org",
+        "country": "US",
+        "timeline": [
+            {
+                "date": "2026-10-27",
+                "type": "claimed",
+                "group": "Booba Project"
             }
         ]
     },
@@ -165158,6 +165324,11 @@
         "domain": "hygiena.com",
         "country": "US",
         "timeline": [
+            {
+                "date": "2026-10-27",
+                "type": "claimed",
+                "group": "play"
+            },
             {
                 "date": "2026-09-30",
                 "type": "assessed",
@@ -188643,6 +188814,18 @@
         ]
     },
     {
+        "victim": "KING FAMILY MEDICAL",
+        "domain": "kingfamilymedical.net",
+        "country": "US",
+        "timeline": [
+            {
+                "date": "2026-10-27",
+                "type": "claimed",
+                "group": "Booba Project"
+            }
+        ]
+    },
+    {
         "victim": "King Industries Inc.",
         "domain": "kingindustries.com",
         "country": "US",
@@ -207095,6 +207278,29 @@
         ]
     },
     {
+        "victim": "Machelen (Belgium)",
+        "domain": "machelen.be",
+        "country": "BE",
+        "timeline": [
+            {
+                "date": "2026-10-27",
+                "type": "claimed",
+                "group": "rhysida"
+            },
+            {
+                "date": "2026-09-14",
+                "type": "discovered",
+                "summary": "Le gouvernement local de Machelen est confronté à un incident de cybersécurité qui a paralysé ses systèmes numériques depuis le vendredi 11 septembre 2026. L'attaque, qui semble être survenue via du 'phishing', a forcé la fermeture des guichets municipaux. Les autorités enquêtent pour déterminer l'étendue des dégâts et s'assurer qu'aucune donnée personnelle n'a été divulguée. Bien que les services numériques de base (site web, e-loket) restent accessibles via d'autres systèmes, la communication par e-mail est interrompue.",
+                "title": "Cyberaanval treft dienstverlening van gemeente Machelen: \"Vermoedelijk geen persoonsgegevens gestolen\" | VRT NWS Nieuws",
+                "url": "https://www.vrt.be/vrtnws/nl/2026/09/14/cyberaanval-treft-dienstverlening-van-gemeente-machelen-vermoe/"
+            },
+            {
+                "date": "2026-09-11",
+                "type": "reported"
+            }
+        ]
+    },
+    {
         "victim": "www.machighway.com",
         "domain": "machighway.com",
         "country": "US",
@@ -216778,6 +216984,18 @@
         ]
     },
     {
+        "victim": "MediSolution",
+        "domain": "medisolution.com",
+        "country": "CA",
+        "timeline": [
+            {
+                "date": "2026-10-27",
+                "type": "claimed",
+                "group": "everest"
+            }
+        ]
+    },
+    {
         "victim": "meditron.com.ve",
         "domain": "meditron.com.ve",
         "country": "VE",
@@ -221313,12 +221531,17 @@
         ]
     },
     {
-        "victim": "MicroSearch Corporation",
+        "victim": "MicroSearch",
         "domain": "microsearch.net",
         "country": "US",
         "timeline": [
             {
                 "date": "2026-10-16",
+                "type": "claimed",
+                "group": "play"
+            },
+            {
+                "date": "2026-10-27",
                 "type": "claimed",
                 "group": "play"
             },
@@ -226005,6 +226228,11 @@
         "domain": "moneyconcepts.com",
         "country": "US",
         "timeline": [
+            {
+                "date": "2026-10-27",
+                "type": "claimed",
+                "group": "play"
+            },
             {
                 "date": "2026-08-04",
                 "type": "assessed",
@@ -231221,6 +231449,18 @@
         ]
     },
     {
+        "victim": "City of Big Spring",
+        "domain": "mybigspring.com",
+        "country": "US",
+        "timeline": [
+            {
+                "date": "2026-10-27",
+                "type": "claimed",
+                "group": "Booba Project"
+            }
+        ]
+    },
+    {
         "victim": "mybps.us",
         "domain": "mybps.us",
         "country": "US",
@@ -233982,6 +234222,18 @@
                 "date": "2025-10-06",
                 "type": "claimed",
                 "group": "devman"
+            }
+        ]
+    },
+    {
+        "victim": "Natuzzi",
+        "domain": "natuzzi.com",
+        "country": "IT",
+        "timeline": [
+            {
+                "date": "2026-10-27",
+                "type": "claimed",
+                "group": "everest"
             }
         ]
     },
@@ -244281,6 +244533,18 @@
         ]
     },
     {
+        "victim": "NuVista Federal Credit Union",
+        "domain": "nuvista.org",
+        "country": "US",
+        "timeline": [
+            {
+                "date": "2026-10-27",
+                "type": "claimed",
+                "group": "qilin"
+            }
+        ]
+    },
+    {
         "victim": "nuxe.com",
         "domain": "nuxe.com",
         "country": "",
@@ -249926,6 +250190,18 @@
                 "date": "2024-11-17",
                 "type": "claimed",
                 "group": "termite"
+            }
+        ]
+    },
+    {
+        "victim": "OR Technology",
+        "domain": "or-technology.com",
+        "country": "DE",
+        "timeline": [
+            {
+                "date": "2026-10-27",
+                "type": "claimed",
+                "group": "everest"
             }
         ]
     },
@@ -259632,6 +259908,18 @@
         ]
     },
     {
+        "victim": "GRUPO PETROIL",
+        "domain": "petroil.com.mx",
+        "country": "MX",
+        "timeline": [
+            {
+                "date": "2026-10-27",
+                "type": "claimed",
+                "group": "direwolf"
+            }
+        ]
+    },
+    {
         "victim": "Petropolis Pet Resort",
         "domain": "petropolis.com",
         "country": "BR",
@@ -264546,6 +264834,18 @@
                 "date": "2023-08-03",
                 "type": "claimed",
                 "group": "lockbit3"
+            }
+        ]
+    },
+    {
+        "victim": "Point Robotics",
+        "domain": "pointroboticsinc.com",
+        "country": "TW",
+        "timeline": [
+            {
+                "date": "2026-10-27",
+                "type": "claimed",
+                "group": "everest"
             }
         ]
     },
@@ -273421,6 +273721,18 @@
         ]
     },
     {
+        "victim": "QLC",
+        "domain": "qlc-labeling.com",
+        "country": "US",
+        "timeline": [
+            {
+                "date": "2026-10-27",
+                "type": "claimed",
+                "group": "play"
+            }
+        ]
+    },
+    {
         "victim": "Q Link Wireless",
         "domain": "qlinkwireless.com",
         "country": "US",
@@ -277008,6 +277320,18 @@
             {
                 "date": "2024-02-23",
                 "type": "reported"
+            }
+        ]
+    },
+    {
+        "victim": "Regent Christian Online Academy",
+        "domain": "rcoa.ca",
+        "country": "CA",
+        "timeline": [
+            {
+                "date": "2026-10-27",
+                "type": "claimed",
+                "group": "Booba Project"
             }
         ]
     },
@@ -305707,6 +306031,18 @@
         ]
     },
     {
+        "victim": "SleepEx LabRetriever",
+        "domain": "sleepex.com",
+        "country": "US",
+        "timeline": [
+            {
+                "date": "2026-10-27",
+                "type": "claimed",
+                "group": "everest"
+            }
+        ]
+    },
+    {
         "victim": "Sleepy Hollow Country Club",
         "domain": "sleepyhollowcc.org",
         "country": "US",
@@ -322842,8 +323178,13 @@
     {
         "victim": "Tailormade Logistics",
         "domain": "tailormade-logistics.com",
-        "country": "BE",
+        "country": "DK",
         "timeline": [
+            {
+                "date": "2026-10-27",
+                "type": "claimed",
+                "group": "play"
+            },
             {
                 "date": "2026-10-15",
                 "type": "assessed",
@@ -326145,6 +326486,18 @@
                 "date": "2025-07-10",
                 "type": "claimed",
                 "group": "incransom"
+            }
+        ]
+    },
+    {
+        "victim": "TECNA ICE",
+        "domain": "tecna-ice.com",
+        "country": "IT",
+        "timeline": [
+            {
+                "date": "2026-10-27",
+                "type": "claimed",
+                "group": "everest"
             }
         ]
     },
@@ -341397,6 +341750,18 @@
         ]
     },
     {
+        "victim": "TWICE SRL",
+        "domain": "twice-srl.com",
+        "country": "SM",
+        "timeline": [
+            {
+                "date": "2026-10-27",
+                "type": "claimed",
+                "group": "emperador"
+            }
+        ]
+    },
+    {
         "victim": "Twin Oaks Presbyterian Church",
         "domain": "twinoakschurch.org",
         "country": "US",
@@ -355229,6 +355594,11 @@
         "country": "US",
         "timeline": [
             {
+                "date": "2026-10-27",
+                "type": "claimed",
+                "group": "play"
+            },
+            {
                 "date": "2026-10-20",
                 "type": "assessed",
                 "group": "play"
@@ -356182,6 +356552,18 @@
                 "date": "2023-03-08",
                 "type": "claimed",
                 "group": "blackbyte"
+            }
+        ]
+    },
+    {
+        "victim": "wagyu.xyz",
+        "domain": "wagyu.xyz",
+        "country": "",
+        "timeline": [
+            {
+                "date": "2026-10-27",
+                "type": "claimed",
+                "group": "Whitearmor"
             }
         ]
     },
@@ -369744,6 +370126,18 @@
                 "date": "2026-01-26",
                 "type": "claimed",
                 "group": "kazu"
+            }
+        ]
+    },
+    {
+        "victim": "Zhito Technology",
+        "domain": "zhito.com",
+        "country": "UA",
+        "timeline": [
+            {
+                "date": "2026-10-24",
+                "type": "claimed",
+                "group": "dragonforce"
             }
         ]
     },
