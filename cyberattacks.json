@@ -1,5 +1,16 @@
 [
     {
+        "date": "2026-11-20",
+        "victim": "Câmara Municipal de Felgueiras",
+        "domain": "cm-felgueiras.pt",
+        "country": "PRT",
+        "summary": "La municipalité de Felgueiras a été victime d'une cyberattaque détectée le 20 novembre. Les équipes de cybersécurité ont réussi à intercepter l'intrusion avant que les attaquants ne puissent installer des mécanismes d'accès persistants (backdoors) et activer un rançongiciel (ransomware). Bien que les systèmes municipaux aient fonctionné sans destruction, chiffrement ou blocage d'informations, il reste à déterminer s'il y a eu accès illégitime à des données personnelles. Des difficultés récentes d'accès au site officiel ont également été observées, et des mesures de sécurité supplémentaires ont été mises en place.",
+        "description": "",
+        "title": "Câmara de Felgueiras alvo de ciberataque. Informáticos terão travado tentativa de ransomware",
+        "url": "https://www.felgueirasmagazine.pt/camara-de-felgueiras-alvo-de-ciberataque-informaticos-terao-travado-tentativa-de-ransomware/",
+        "added": "2026-11-26"
+    },
+    {
         "date": "2026-11-10",
         "victim": "DomusVi",
         "domain": "domusvi.es",
