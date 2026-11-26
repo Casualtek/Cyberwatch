@@ -1,6 +1,17 @@
 [
     {
         "date": "2026-11-25",
+        "victim": "City of Clarkesville",
+        "domain": "clarksvillega.gov",
+        "country": "USA",
+        "summary": "La ville de Clarkesville, située en Géorgie, enquête sur un incident de ransomware qui a affecté certains systèmes informatiques municipaux. Les autorités ont fait appel à des professionnels de la cybersécurité et ont informé les forces de l'ordre. Bien que l'attaque ait eu lieu récemment, les services municipaux restent opérationnels et les détails précis sur les systèmes touchés ou les données compromises ne sont pas encore disponibles.",
+        "description": "",
+        "title": "Clarkesville investigating ransomware incident affecting city systems - Now Georgia",
+        "url": "https://nowgeorgia.com/clarkesville-investigating-ransomware-incident-affecting-city-systems/",
+        "added": "2026-11-26"
+    },
+    {
+        "date": "2026-11-25",
         "victim": "Mekari",
         "domain": "talenta.co",
         "country": "IDN",
