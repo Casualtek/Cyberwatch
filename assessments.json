@@ -1,5 +1,12 @@
 [
   {
+    "victim": "Minor League Baseball",
+    "domain": "milb.com",
+    "country": "US",
+    "date": "2026-10-30",
+    "group": "play"
+  },
+  {
     "victim": "ARRB Group",
     "domain": "arrbgroup.net",
     "country": "US",
@@ -100,7 +107,7 @@
   {
     "victim": "New Tec Tool Limited",
     "domain": "newtectool.com",
-    "country": "CA",
+    "country": "HK",
     "date": "2026-10-09",
     "group": "play"
   },
@@ -133,7 +140,7 @@
     "group": "safepay"
   },
   {
-    "victim": "MicroSearch",
+    "victim": "MicroSearch Corporation",
     "domain": "microsearch.net",
     "country": "US",
     "date": "2026-10-03",
@@ -16144,7 +16151,7 @@
   {
     "victim": "Tulsat",
     "domain": "tulsat.com",
-    "country": "US",
+    "country": "KZ",
     "date": "2025-03-04",
     "group": "play"
   },
