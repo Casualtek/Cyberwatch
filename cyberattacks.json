@@ -1,5 +1,16 @@
 [
     {
+        "date": "2026-11-24",
+        "victim": "Planzer",
+        "domain": "planzer.ch",
+        "country": "CHE",
+        "summary": "Planzer, le partenaire de livraison de Galaxus et Digitec, a été victime d'une cyberattaque durant laquelle des données d'expédition ont été volées, notamment des numéros de colis, noms, adresses de livraison, e-mails et certains numéros de téléphone, les données les plus récentes datant du début 2023. Les systèmes de Galaxus et Digitec ne sont pas touchés : les comptes clients, les données de paiement et les livraisons en cours restent sécurisés. Les clients sont toutefois invités à rester vigilant face aux tentatives de phishing (faux e-mails, SMS ou appels concernant des colis), à ne jamais cliquer sur des liens suspects ni communiquer leurs identifiants, et à vérifier directement le statut de leurs commandes dans leur compte Galaxus ou Digitec.",
+        "description": "",
+        "title": "This site can’t be reached",
+        "url": "https://www.digitec.ch/de/page/cyberangriff-bei-unserem-lieferpartner-planzer-das-musst-du-wissen-44528",
+        "added": "2026-11-26"
+    },
+    {
         "date": "2026-11-17",
         "victim": "Bell",
         "domain": "bell.ca",
