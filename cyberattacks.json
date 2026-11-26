@@ -1,5 +1,16 @@
 [
     {
+        "date": "2026-11-16",
+        "victim": "Zodia Custody",
+        "domain": "zodia-custody.com",
+        "country": "GRE",
+        "summary": "La société de garde d'actifs numériques Zodia Custody, qui appartient entièrement à Standard Chartered, a été victime d'une cyberattaque. L'incident, identifié par Zodia le lundi, a entraîné la fuite de données personnelles de clients et d'employés, notamment des noms et des adresses e-mail. Bien que les transactions non autorisées n'aient pas été confirmées, l'incident représente un coup pour les ambitions de la banque dans le secteur des crypto-actifs.",
+        "description": "",
+        "title": "Κυβερνοεπίθεση σε εταιρεία crypto της Standard Chartered - Διέρρευσαν ονόματα και email πελατών",
+        "url": "https://www.bankingnews.gr/kriptonomismata/articles/913422/kyvernoepithesi-se-etaireia-crypto-tis-standard-chartered-dierrefsan-onomata-kai-email-pelaton",
+        "added": "2026-11-26"
+    },
+    {
         "date": "2026-11-26",
         "victim": "Opco EP",
         "domain": "opcoep.fr",
