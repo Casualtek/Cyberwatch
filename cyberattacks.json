@@ -1,5 +1,16 @@
 [
     {
+        "date": "2026-11-22",
+        "victim": "Septeo IT Solutions",
+        "domain": "septeo.fr",
+        "country": "FRA",
+        "summary": "Septeo IT Solutions, une entreprise française du secteur informatique, a confirmé avoir subi une cyberattaque qui a entraîné le vol de données clients. L'intrusion a été détectée le dimanche 22 novembre 2026. Les informations compromises incluent des fiches contacts, des détails de tickets de support informatique et des informations de facturation. L'entreprise a pris des mesures pour contenir l'incident et a engagé des démarches auprès des autorités.",
+        "description": "",
+        "title": "Cyberattaque chez Septeo IT Solutions, des données clients et de facturation compromises",
+        "url": "https://frenchbreaches.com/alertes/cyberattaque-septeo-it-solutions-fuite-donnees-clients-mww7besuaxley58og2k",
+        "added": "2026-11-26"
+    },
+    {
         "date": "2026-11-24",
         "victim": "Inmac Wstore",
         "domain": "inmacwstore.fr",
