@@ -1,5 +1,16 @@
 [
     {
+        "date": "2026-11-25",
+        "victim": "Mekari",
+        "domain": "talenta.co",
+        "country": "IDN",
+        "summary": "Mekari, un fournisseur indonésien de logiciels de gestion RH et de paie, a désactivé la majorité de ses services le jour de paie après la détection d'activités inhabituelles dans ses systèmes, y compris ceux de tiers connectés, sans toutefois confirmer un piratage, une fuite de données ou un ransomware. Selon l'expert Heru Sutadi, directeur de l'ICT Institute, cette décision inhabituelle indique un risque de sécurité sérieux, et il exige que l'entreprise précise publiquement si un accès non autorisé a été constaté, quelles données sont concernées et si un système tiers est à l'origine de l'incident. L'enjeu est majeur car Mekari gère les données du personnel et le versement des salaires de milliers, voire de millions de travailleurs, dont le droit à être payés à temps risque d'être affecté.",
+        "description": "",
+        "title": "www.inilah.com",
+        "url": "https://www.inilah.com/mekari-talenta-maintanance-di-tanggal-gajian-dinilai-tak-wajar-indikasi-ada-kebocoran-data",
+        "added": "2026-11-26"
+    },
+    {
         "date": "2026-11-24",
         "victim": "Planzer",
         "domain": "planzer.ch",
