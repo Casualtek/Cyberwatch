@@ -1,5 +1,16 @@
 [
     {
+        "date": "2026-11-22",
+        "victim": "CHU de Bordeaux",
+        "domain": "chu-bordeaux.fr",
+        "country": "FRA",
+        "summary": "Plusieurs hôpitaux de Gironde sont en alerte suite à une cyberattaque par rançongiciel (ransomware) attribuée au groupe Scarlettgroup. Les cybercriminels prétendent détenir des données sensibles incluant dossiers médicaux, informations personnelles, résultats d'analyses, documents d'imagerie, données financières et fichiers administratifs. Le CHU de Bordeaux est parmi les établissements concernés et se montre rassurant.",
+        "description": "",
+        "title": "Des pirates informatiques revendiquent une cyberattaque contre le centre hospitalier de Bordeaux",
+        "url": "https://www.sudouest.fr/sciences-et-technologie/des-pirates-informatiques-revendiquent-une-cyberattaque-contre-le-centre-hospitalier-de-bordeaux-31625421.php",
+        "added": "2026-11-26"
+    },
+    {
         "date": "2026-11-20",
         "victim": "Câmara Municipal de Felgueiras",
         "domain": "cm-felgueiras.pt",
