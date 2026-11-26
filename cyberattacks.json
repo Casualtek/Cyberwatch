@@ -1,5 +1,16 @@
 [
     {
+        "date": "2026-11-25",
+        "victim": "PAMTEK",
+        "domain": "pamtek.com",
+        "country": "KOREA",
+        "summary": "La société PAMTEK, fabricant d'équipements d'inspection de modules d'appareil photo et d'automatisation des processus de semi-conducteurs, a été victime d'une attaque par rançongiciel. L'incident a été découvert le 25 novembre 2026, suite à une attaque survenue le 23 novembre 2026. Cette attaque a soulevé la possibilité de fuite de données personnelles concernant les actionnaires et les employés actuels et anciens de PAMTEK et de ses filiales. Les données potentiellement compromises incluent le nom, l'adresse, le nombre d'actions détenues pour les actionnaires, et le nom, le numéro d'employé, le numéro de sécurité sociale, l'adresse, le numéro de téléphone et l'e-mail pour les anciens employés. Bien qu'aucune fuite réelle n'ait été confirmée à ce jour, PAMTEK a pris des mesures de sécurité, notamment le blocage des accès des attaquants et le renforcement de l'authentification à deux facteurs. La société a également signalé l'incident aux autorités compétentes, dont la Commission de protection des données et KISA.",
+        "description": "",
+        "title": "코스닥 상장사 팸텍, 랜섬웨어 공격 당해…주주·임직원 개인정보 유출 KISA 신고 - 데일리시큐",
+        "url": "https://www.dailysecu.com/news/articleView.html?idxno=209775",
+        "added": "2026-11-26"
+    },
+    {
         "date": "2026-11-21",
         "victim": "Planet IC",
         "domain": "planet-ic.de",
