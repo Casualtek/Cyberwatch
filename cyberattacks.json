@@ -1,5 +1,16 @@
 [
     {
+        "date": "2026-11-10",
+        "victim": "DomusVi",
+        "domain": "domusvi.es",
+        "country": "ESP",
+        "summary": "DomusVi, prestataire de services d'aide à domicile aux îles Baléares, a été victime d'une cyberattaque le 10 novembre. Cette intrusion a permis à des tiers d'accéder à des informations personnelles des utilisateurs, incluant des données bancaires et sanitaires. Le gouvernement estime que plus de 1 105 personnes sont potentiellement affectées. Les autorités ont informé les victimes et ont mis en place des mesures de protection, notamment des alertes par SMS, et recommandent aux usagers de surveiller leurs comptes et de se méfier des tentatives d'usurpation d'identité.",
+        "description": "",
+        "title": "Un ciberataque a DomusVi pudo dejar al descubierto datos de 1.105 usuarios del servicio de ayuda a domicilio en Balears",
+        "url": "https://www.diariodemallorca.es/mallorca/2026/11/26/ciberataque-domusvi-pudo-descubierto-datos-136843763.html",
+        "added": "2026-11-26"
+    },
+    {
         "date": "2026-11-25",
         "victim": "City of Clarkesville",
         "domain": "clarksvillega.gov",
