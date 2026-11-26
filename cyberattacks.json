@@ -1,5 +1,16 @@
 [
     {
+        "date": "2026-11-26",
+        "victim": "Convoy Financial Services Limited (CFS)",
+        "domain": "convoyfinance.com",
+        "country": "HKG",
+        "summary": "Convoy Financial Services Limited (CFS) a identifié un incident de cybersécurité. La société a suspendu temporairement l'accès à son système de back-office et à sa « Zone Client » pour mener ses investigations. CFS a indiqué qu'elle n'a trouvé aucune preuve que les polices d'assurance ou les comptes MPF des clients aient été affectés, et qu'aucun transaction non autorisé n'a été identifié. L'incident a été signalé aux autorités réglementaires et de l'application de la loi. Le Commissariat à la protection de la vie privée (PCPD) a pris connaissance de cette notification de violation de données et a entamé une vérification de conformité.",
+        "description": "",
+        "title": "Convoy Financial reports cyber incident; no evidence of affected policies or MPF accounts",
+        "url": "https://www.thestandard.com.hk/news/article/349788/Convoy-Financial-reports-cyber-incident-no-evidence-of-affected-policies-or-MPF-accounts",
+        "added": "2026-11-26"
+    },
+    {
         "date": "2026-11-16",
         "victim": "Zodia Custody",
         "domain": "zodia-custody.com",
