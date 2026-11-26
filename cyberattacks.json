@@ -1,5 +1,16 @@
 [
     {
+        "date": "2026-11-24",
+        "victim": "Inmac Wstore",
+        "domain": "inmacwstore.fr",
+        "country": "FRA",
+        "summary": "Inmac Wstore, distributeur français de matériel informatique appartenant au groupe allemand Bechtle, est victime d'une cyberattaque en cours depuis le 24 novembre 2026. Cet incident a provoqué des perturbations dans le traitement des commandes et des retards de livraison. L'entreprise a isolé les systèmes affectés, a saisi les autorités et a déposé plainte. À ce jour, Inmac Wstore n'a pas identifié de fuite de données, bien que cette information reste provisoire. Le site internet de l'entreprise est temporairement indisponible.",
+        "description": "",
+        "title": "Inmac Wstore : cyberattaque en cours, commandes et livraisons perturbées — Fuites Infos",
+        "url": "https://fuitesinfos.fr/article/2026-11-25-inmac-wstore",
+        "added": "2026-11-26"
+    },
+    {
         "date": "2026-11-25",
         "victim": "PAMTEK",
         "domain": "pamtek.com",
