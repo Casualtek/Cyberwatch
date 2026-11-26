@@ -1,5 +1,16 @@
 [
     {
+        "date": "2026-11-25",
+        "victim": "Queen Elizabeth School",
+        "domain": "qes.org.uk",
+        "country": "GBR",
+        "summary": "La Queen Elizabeth School et la Studio School de Kirkby Lonsdale ont fermé leurs portes le 26 novembre suite à une cyberattaque sophistiquée et ciblée. L'incident a été détecté le mercredi 25 novembre, et la fermeture du réseau a été mise en place pour protéger les systèmes informatiques et les données. Les experts travaillent activement à la résolution de cette situation.",
+        "description": "",
+        "title": "'Sophisticated' hacking attempt 'from outside UK' closes Cumbria school",
+        "url": "https://www.nwemail.co.uk/news/26765340.kirkby-lonsdale-school-closes-cyber-incident/",
+        "added": "2026-11-26"
+    },
+    {
         "date": "2026-11-26",
         "victim": "Autorità di Sistema Portuale del Mar Tirreno Settentrionale",
         "domain": "portialtotirreno.it",
