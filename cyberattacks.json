@@ -1,5 +1,16 @@
 [
     {
+        "date": "2026-11-21",
+        "victim": "Planet IC",
+        "domain": "planet-ic.de",
+        "country": "DEU",
+        "summary": "Suite à une cyberattaque visant l'entreprise d'informatique Planet IC à Schwerin, des données clients du fournisseur d'énergie WEMAG ont été compromises. L'incident, survenu le samedi précédent, a entraîné la mise hors service de plusieurs sites internet pour les clients de WEMAG. Les autorités, incluant le Landeskriminalamt et le BSI, sont mobilisées pour enquêter sur l'incident. Les autorités locales ont également signalé des dysfonctionnements sur les sites internet de plusieurs villes.",
+        "description": "",
+        "title": "Cyberangriff auf IT-Firma: Daten von Strom-Kunden betroffen - genaues Ausmaß aber noch unklar",
+        "url": "https://www.ndr.de/nachrichten/mecklenburg-vorpommern/cyberangriff-auf-schweriner-it-dienstleister,cyberangriff-170.html",
+        "added": "2026-11-26"
+    },
+    {
         "date": "2026-11-22",
         "victim": "CHU de Bordeaux",
         "domain": "chu-bordeaux.fr",
