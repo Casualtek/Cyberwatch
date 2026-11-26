@@ -12062,7 +12062,7 @@
         ]
     },
     {
-        "victim": "Adirondack Networks",
+        "victim": "Adirondack Networks, Inc.",
         "domain": "adirondacknetworks.com",
         "country": "US",
         "timeline": [
@@ -12070,6 +12070,11 @@
                 "date": "2026-02-14",
                 "type": "claimed",
                 "group": "nightspire"
+            },
+            {
+                "date": "2026-10-21",
+                "type": "claimed",
+                "group": "N0n"
             }
         ]
     },
@@ -18190,6 +18195,18 @@
                 "date": "2024-01-18",
                 "type": "assessed",
                 "group": "play"
+            }
+        ]
+    },
+    {
+        "victim": "Albertin Alcide e Figli S.n.c.",
+        "domain": "albertin-cliches.it",
+        "country": "IT",
+        "timeline": [
+            {
+                "date": "2026-10-04",
+                "type": "claimed",
+                "group": "Majinahanashi"
             }
         ]
     },
@@ -27146,6 +27163,18 @@
         ]
     },
     {
+        "victim": "GPIC Projectos Con Instalacoes Lda",
+        "domain": "appconsultores.org.pt",
+        "country": "PT",
+        "timeline": [
+            {
+                "date": "2026-10-21",
+                "type": "claimed",
+                "group": "N0n"
+            }
+        ]
+    },
+    {
         "victim": "AppDirect",
         "domain": "appdirect.com",
         "country": "CA",
@@ -31387,6 +31416,18 @@
         ]
     },
     {
+        "victim": "Asia Market Ltd",
+        "domain": "asiamarket.ie",
+        "country": "IE",
+        "timeline": [
+            {
+                "date": "2026-10-13",
+                "type": "claimed",
+                "group": "Majinahanashi"
+            }
+        ]
+    },
+    {
         "victim": "Asia Condominium Association",
         "domain": "asiamiamicondo.com",
         "country": "US",
@@ -31575,14 +31616,19 @@
         ]
     },
     {
-        "victim": "Asisken",
+        "victim": "Asisken Asistencia Médica S.A.",
         "domain": "asisken.com",
-        "country": "EC",
+        "country": "AR",
         "timeline": [
             {
                 "date": "2026-07-04",
                 "type": "claimed",
                 "group": "Wallstreet"
+            },
+            {
+                "date": "2026-10-21",
+                "type": "claimed",
+                "group": "N0n"
             }
         ]
     },
@@ -64235,6 +64281,18 @@
         ]
     },
     {
+        "victim": "Castle Howard Estate",
+        "domain": "castlehoward.co.uk",
+        "country": "GB",
+        "timeline": [
+            {
+                "date": "2026-10-24",
+                "type": "claimed",
+                "group": "qilin"
+            }
+        ]
+    },
+    {
         "victim": "Castle Rock Roofing & Restoration",
         "domain": "castlerockconstructionco.com",
         "country": "US",
@@ -68503,6 +68561,18 @@
         ]
     },
     {
+        "victim": "CFG SERRAMENTI S.r.l.",
+        "domain": "cfgserramenti.com",
+        "country": "IT",
+        "timeline": [
+            {
+                "date": "2026-10-07",
+                "type": "claimed",
+                "group": "Majinahanashi"
+            }
+        ]
+    },
+    {
         "victim": "Torus",
         "domain": "cfh.money",
         "country": "IN",
@@ -71398,6 +71468,18 @@
                 "date": "2025-05-29",
                 "type": "claimed",
                 "group": "crypto24"
+            }
+        ]
+    },
+    {
+        "victim": "www.choicegoodwill.com",
+        "domain": "choicegoodwill.com",
+        "country": "US",
+        "timeline": [
+            {
+                "date": "2026-10-24",
+                "type": "claimed",
+                "group": "krybit"
             }
         ]
     },
@@ -81517,6 +81599,18 @@
         ]
     },
     {
+        "victim": "Conax Technologies",
+        "domain": "conaxtechnologies.com",
+        "country": "NO",
+        "timeline": [
+            {
+                "date": "2026-10-24",
+                "type": "claimed",
+                "group": "thegentlemen"
+            }
+        ]
+    },
+    {
         "victim": "Concord Components",
         "domain": "conc.com",
         "country": "US",
@@ -90843,6 +90937,18 @@
                 "date": "2025-10-20",
                 "type": "claimed",
                 "group": "blackshrantac"
+            }
+        ]
+    },
+    {
+        "victim": "Commonwealth Community Bank",
+        "domain": "cwcbankhb.com",
+        "country": "US",
+        "timeline": [
+            {
+                "date": "2026-10-24",
+                "type": "claimed",
+                "group": "qilin"
             }
         ]
     },
@@ -130625,14 +130731,19 @@
         ]
     },
     {
-        "victim": "Fpapak.org",
+        "victim": "Family Planning Association of Pakistan",
         "domain": "fpapak.org",
-        "country": "US",
+        "country": "PK",
         "timeline": [
             {
                 "date": "2024-10-16",
                 "type": "claimed",
                 "group": "ransomhub"
+            },
+            {
+                "date": "2026-10-23",
+                "type": "claimed",
+                "group": "Panzer"
             }
         ]
     },
@@ -132220,6 +132331,18 @@
                 "date": "2026-10-19",
                 "type": "claimed",
                 "group": "N0n"
+            }
+        ]
+    },
+    {
+        "victim": "Frommann Energie GmbH",
+        "domain": "frommann-oel.de",
+        "country": "DE",
+        "timeline": [
+            {
+                "date": "2026-10-24",
+                "type": "claimed",
+                "group": "emperador"
             }
         ]
     },
@@ -147291,6 +147414,18 @@
         ]
     },
     {
+        "victim": "grupoeuro.com.mx",
+        "domain": "grupoeuro.com.mx",
+        "country": "MX",
+        "timeline": [
+            {
+                "date": "2026-10-24",
+                "type": "claimed",
+                "group": "krybit"
+            }
+        ]
+    },
+    {
         "victim": "grupoferrosider.com.br",
         "domain": "grupoferrosider.com.br",
         "country": "BR",
@@ -155076,6 +155211,29 @@
             },
             {
                 "date": "2026-05-07",
+                "type": "reported"
+            }
+        ]
+    },
+    {
+        "victim": "Heber City, UT",
+        "domain": "heberut.gov",
+        "country": "US",
+        "timeline": [
+            {
+                "date": "2026-10-24",
+                "type": "claimed",
+                "group": "qilin"
+            },
+            {
+                "date": "2026-10-16",
+                "type": "discovered",
+                "summary": "Une cyberattaque a compromis le réseau du gouvernement local de Heber City, Utah. L'incident a été rapidement contenu par l'équipe informatique de la ville, et les systèmes ont été rétablis. Aucun service essentiel n'a été suspendu. Le FBI mène actuellement une enquête forensique. La ville n'a pas identifié de rançongiciel ni de groupe responsable, et il reste inconnu si des informations municipales ont été accédées ou supprimées.",
+                "title": "Cyberattack breaches Heber City government network in Utah",
+                "url": "https://dysruptionhub.com/heber-city-utah-cyberattack/"
+            },
+            {
+                "date": "2026-10-15",
                 "type": "reported"
             }
         ]
@@ -165175,6 +165333,18 @@
                 "date": "2026-09-10",
                 "type": "claimed",
                 "group": "Vexy Ransomware"
+            }
+        ]
+    },
+    {
+        "victim": "i2r Packaging Solutions Limited",
+        "domain": "i2rps.com",
+        "country": "GB",
+        "timeline": [
+            {
+                "date": "2026-10-08",
+                "type": "claimed",
+                "group": "Majinahanashi"
             }
         ]
     },
@@ -207872,7 +208042,7 @@
         ]
     },
     {
-        "victim": "Main Place Mall",
+        "victim": "mainplace.com.my",
         "domain": "mainplace.com.my",
         "country": "MY",
         "timeline": [
@@ -207880,6 +208050,11 @@
                 "date": "2026-10-02",
                 "type": "claimed",
                 "group": "netrunner"
+            },
+            {
+                "date": "2026-10-24",
+                "type": "claimed",
+                "group": "krybit"
             }
         ]
     },
@@ -217878,6 +218053,18 @@
         ]
     },
     {
+        "victim": "Merical LLC",
+        "domain": "merical.com",
+        "country": "US",
+        "timeline": [
+            {
+                "date": "2026-10-24",
+                "type": "claimed",
+                "group": "payoutsking"
+            }
+        ]
+    },
+    {
         "victim": "meridenct.gov",
         "domain": "meridenct.gov",
         "country": "US",
@@ -224886,6 +225073,18 @@
         ]
     },
     {
+        "victim": "MODON Developments S.A.E",
+        "domain": "modon-sa.com",
+        "country": "EG",
+        "timeline": [
+            {
+                "date": "2026-10-24",
+                "type": "claimed",
+                "group": "krybit"
+            }
+        ]
+    },
+    {
         "victim": "Modplan",
         "domain": "modplan.co.uk",
         "country": "GB",
@@ -226759,6 +226958,18 @@
             {
                 "date": "2025-09-17",
                 "type": "reported"
+            }
+        ]
+    },
+    {
+        "victim": "Morrow Meadows Corporation",
+        "domain": "morrow-meadows.com",
+        "country": "US",
+        "timeline": [
+            {
+                "date": "2026-10-24",
+                "type": "claimed",
+                "group": "payoutsking"
             }
         ]
     },
@@ -248935,6 +249146,18 @@
         ]
     },
     {
+        "victim": "www.optika.ca",
+        "domain": "optika.ca",
+        "country": "CA",
+        "timeline": [
+            {
+                "date": "2026-10-24",
+                "type": "claimed",
+                "group": "krybit"
+            }
+        ]
+    },
+    {
         "victim": "optiline.com",
         "domain": "optiline.com",
         "country": "US",
@@ -257295,6 +257518,18 @@
         ]
     },
     {
+        "victim": "Penco Products",
+        "domain": "pencoproducts.com",
+        "country": "US",
+        "timeline": [
+            {
+                "date": "2026-10-24",
+                "type": "claimed",
+                "group": "thegentlemen"
+            }
+        ]
+    },
+    {
         "victim": "The Pendas Law Firm",
         "domain": "pendaslaw.com",
         "country": "US",
@@ -260238,6 +260473,18 @@
             {
                 "date": "2023-03-31",
                 "type": "reported"
+            }
+        ]
+    },
+    {
+        "victim": "Phoenix S&S GmbH",
+        "domain": "phoenix-s-s.de",
+        "country": "DE",
+        "timeline": [
+            {
+                "date": "2026-10-24",
+                "type": "claimed",
+                "group": "emperador"
             }
         ]
     },
@@ -277174,6 +277421,18 @@
         ]
     },
     {
+        "victim": "Red Oak Technologies",
+        "domain": "redoaktech.com",
+        "country": "US",
+        "timeline": [
+            {
+                "date": "2026-10-24",
+                "type": "claimed",
+                "group": "thegentlemen"
+            }
+        ]
+    },
+    {
         "victim": "redphoenixconstruction.com",
         "domain": "redphoenixconstruction.com",
         "country": "CA",
@@ -287568,6 +287827,18 @@
                 "date": "2023-08-08",
                 "type": "claimed",
                 "group": "arvinclub"
+            }
+        ]
+    },
+    {
+        "victim": "SA BAUFER V.F",
+        "domain": "sabaufervf.ch",
+        "country": "CH",
+        "timeline": [
+            {
+                "date": "2026-10-04",
+                "type": "claimed",
+                "group": "Majinahanashi"
             }
         ]
     },
@@ -305027,6 +305298,18 @@
                 "date": "2025-11-02",
                 "type": "assessed",
                 "group": "akira"
+            }
+        ]
+    },
+    {
+        "victim": "SLTN Inter Access",
+        "domain": "sltn.nl",
+        "country": "NL",
+        "timeline": [
+            {
+                "date": "2026-10-24",
+                "type": "claimed",
+                "group": "qilin"
             }
         ]
     },
@@ -326380,6 +326663,18 @@
         ]
     },
     {
+        "victim": "Tema Energy S.r.l.",
+        "domain": "temaenergy.it",
+        "country": "IT",
+        "timeline": [
+            {
+                "date": "2026-10-06",
+                "type": "claimed",
+                "group": "Majinahanashi"
+            }
+        ]
+    },
+    {
         "victim": "Temo Textile",
         "domain": "temotekstil.com.tr",
         "country": "TR",
@@ -327616,6 +327911,18 @@
         ]
     },
     {
+        "victim": "Texcar Inc.",
+        "domain": "texcar.com",
+        "country": "US",
+        "timeline": [
+            {
+                "date": "2026-10-21",
+                "type": "claimed",
+                "group": "N0n"
+            }
+        ]
+    },
+    {
         "victim": "Texcomp",
         "domain": "texcomp.com",
         "country": "SA",
@@ -328412,6 +328719,18 @@
                 "date": "2024-11-14",
                 "type": "claimed",
                 "group": "medusa"
+            }
+        ]
+    },
+    {
+        "victim": "Arthritis Center of Riverside",
+        "domain": "thearthritiscenter.com",
+        "country": "US",
+        "timeline": [
+            {
+                "date": "2026-10-21",
+                "type": "claimed",
+                "group": "N0n"
             }
         ]
     },
@@ -337491,6 +337810,18 @@
                 "date": "2026-03-14",
                 "type": "claimed",
                 "group": "beast"
+            }
+        ]
+    },
+    {
+        "victim": "Trinity Custom Homes",
+        "domain": "trinitycustom.com",
+        "country": "US",
+        "timeline": [
+            {
+                "date": "2026-10-24",
+                "type": "claimed",
+                "group": "Deadlock"
             }
         ]
     },
@@ -352167,6 +352498,18 @@
         ]
     },
     {
+        "victim": "Vins Viallet",
+        "domain": "vins-viallet.com",
+        "country": "FR",
+        "timeline": [
+            {
+                "date": "2026-10-24",
+                "type": "claimed",
+                "group": "lamashtu"
+            }
+        ]
+    },
+    {
         "victim": "vinsolutions.com",
         "domain": "vinsolutions.com",
         "country": "US",
@@ -358167,6 +358510,29 @@
             },
             {
                 "date": "2025-01-31",
+                "type": "reported"
+            }
+        ]
+    },
+    {
+        "victim": "Weld Re 8 School District",
+        "domain": "weld8.org",
+        "country": "US",
+        "timeline": [
+            {
+                "date": "2026-10-24",
+                "type": "claimed",
+                "group": "thegentlemen"
+            },
+            {
+                "date": "2026-10-01",
+                "type": "discovered",
+                "summary": "Le district scolaire Weld Re-8, situé dans le Colorado, a subi une perturbation de ses services (lecteurs réseau, impression et accès Internet externe) suite à une activité informatique inhabituelle. L'incident, survenu le 13 septembre, a conduit le district à isoler les systèmes affectés et à lancer une enquête avec les forces de l'ordre. Les services cloud (Google Workspace et Infinite Campus) n'ont pas été affectés. Le district n'a pas encore confirmé la nature de l'incident (rançongiciel ou autre) ni si des données ont été compromises.",
+                "title": "Unusual IT activity disrupts Weld Re-8 School District network in Colorado",
+                "url": "https://dysruptionhub.com/weld-re8-colorado-network-outage/"
+            },
+            {
+                "date": "2026-09-13",
                 "type": "reported"
             }
         ]
@@ -368665,6 +369031,18 @@
                 "date": "2026-01-26",
                 "type": "claimed",
                 "group": "kazu"
+            }
+        ]
+    },
+    {
+        "victim": "www.zhservices.com",
+        "domain": "zhservices.com",
+        "country": "IN",
+        "timeline": [
+            {
+                "date": "2026-10-24",
+                "type": "claimed",
+                "group": "krybit"
             }
         ]
     },
