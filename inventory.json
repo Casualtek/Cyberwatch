@@ -976,6 +976,18 @@
         ]
     },
     {
+        "victim": "Bankruptcy Software Specialists",
+        "domain": "13software.com",
+        "country": "US",
+        "timeline": [
+            {
+                "date": "2026-10-23",
+                "type": "claimed",
+                "group": "akira"
+            }
+        ]
+    },
+    {
         "victim": "Fifteenfortyseven Critical Systems Realty (1547realty.com)",
         "domain": "1547realty.com",
         "country": "US",
@@ -12157,6 +12169,18 @@
         ]
     },
     {
+        "victim": "ADL Lift Services Limited",
+        "domain": "adlliftservices.com",
+        "country": "GB",
+        "timeline": [
+            {
+                "date": "2026-10-23",
+                "type": "claimed",
+                "group": "AuditTeam"
+            }
+        ]
+    },
+    {
         "victim": "ADM",
         "domain": "adm.com",
         "country": "US",
@@ -13739,6 +13763,18 @@
                 "date": "2024-09-08",
                 "type": "assessed",
                 "group": "blacksuit"
+            }
+        ]
+    },
+    {
+        "victim": "Aerotop",
+        "domain": "aerotop.cl",
+        "country": "CL",
+        "timeline": [
+            {
+                "date": "2026-10-23",
+                "type": "claimed",
+                "group": "qilin"
             }
         ]
     },
@@ -30382,6 +30418,30 @@
         ]
     },
     {
+        "victim": "ARX Group SA",
+        "domain": "arx.ing",
+        "country": "CH",
+        "timeline": [
+            {
+                "date": "2026-10-23",
+                "type": "claimed",
+                "group": "aurora"
+            }
+        ]
+    },
+    {
+        "victim": "Aryza",
+        "domain": "aryza.com",
+        "country": "AR",
+        "timeline": [
+            {
+                "date": "2026-10-23",
+                "type": "claimed",
+                "group": "qilin"
+            }
+        ]
+    },
+    {
         "victim": "asa-international.com",
         "domain": "asa-international.com",
         "country": "GB",
@@ -38356,6 +38416,18 @@
                 "date": "2025-12-08",
                 "type": "claimed",
                 "group": "chaos"
+            }
+        ]
+    },
+    {
+        "victim": "B2Chat",
+        "domain": "b2chat.io",
+        "country": "ES",
+        "timeline": [
+            {
+                "date": "2026-10-23",
+                "type": "claimed",
+                "group": "emperador"
             }
         ]
     },
@@ -53577,6 +53649,18 @@
         ]
     },
     {
+        "victim": "Bravilor Bonamat",
+        "domain": "bravilor.com",
+        "country": "NL",
+        "timeline": [
+            {
+                "date": "2026-10-23",
+                "type": "claimed",
+                "group": "akira"
+            }
+        ]
+    },
+    {
         "victim": "bravodigitaltrader.co.uk",
         "domain": "bravodigitaltrader.co.uk",
         "country": "GB",
@@ -66027,6 +66111,18 @@
             {
                 "date": "2025-02-06",
                 "type": "assessed",
+                "group": "qilin"
+            }
+        ]
+    },
+    {
+        "victim": "CDG Chartered Accounting",
+        "domain": "cdgaccounting.com.au",
+        "country": "AU",
+        "timeline": [
+            {
+                "date": "2026-10-23",
+                "type": "claimed",
                 "group": "qilin"
             }
         ]
@@ -83569,6 +83665,18 @@
             {
                 "date": "2025-04-28",
                 "type": "reported"
+            }
+        ]
+    },
+    {
+        "victim": "Coop Italia",
+        "domain": "coop.it",
+        "country": "IT",
+        "timeline": [
+            {
+                "date": "2026-10-23",
+                "type": "claimed",
+                "group": "qilin"
             }
         ]
     },
@@ -102351,6 +102459,18 @@
         ]
     },
     {
+        "victim": "Don Pickett & Associates",
+        "domain": "donpickett.com",
+        "country": "US",
+        "timeline": [
+            {
+                "date": "2026-10-23",
+                "type": "claimed",
+                "group": "sarcoma"
+            }
+        ]
+    },
+    {
         "victim": "Don Ricardo",
         "domain": "donricardo.com",
         "country": "PE",
@@ -102584,6 +102704,18 @@
                 "date": "2025-06-15",
                 "type": "assessed",
                 "group": "sinobi"
+            }
+        ]
+    },
+    {
+        "victim": "dorsiacademy.it",
+        "domain": "dorsiacademy.it",
+        "country": "IT",
+        "timeline": [
+            {
+                "date": "2026-10-23",
+                "type": "claimed",
+                "group": "lockbit5"
             }
         ]
     },
@@ -131703,6 +131835,18 @@
         ]
     },
     {
+        "victim": "Fresh Farms",
+        "domain": "freshfarms.com.mx",
+        "country": "US",
+        "timeline": [
+            {
+                "date": "2026-10-20",
+                "type": "claimed",
+                "group": "pear"
+            }
+        ]
+    },
+    {
         "victim": "FRESH TASTE PRODUCE USA AND ASSOCIATES INC.",
         "domain": "freshtasteproduce.com",
         "country": "",
@@ -146863,6 +147007,18 @@
         ]
     },
     {
+        "victim": "Revi Group",
+        "domain": "grupo-revi.com",
+        "country": "MX",
+        "timeline": [
+            {
+                "date": "2026-10-23",
+                "type": "claimed",
+                "group": "qilin"
+            }
+        ]
+    },
+    {
         "victim": "Grupo ABC",
         "domain": "grupoabc.mx",
         "country": "MX",
@@ -156102,6 +156258,18 @@
         ]
     },
     {
+        "victim": "Hensel Elektrik",
+        "domain": "hensel-electric.de",
+        "country": "DE",
+        "timeline": [
+            {
+                "date": "2026-10-23",
+                "type": "claimed",
+                "group": "Deadlock"
+            }
+        ]
+    },
+    {
         "victim": "Henshaw Law",
         "domain": "henshaw.law",
         "country": "US",
@@ -159314,6 +159482,18 @@
                 "date": "2026-08-06",
                 "type": "claimed",
                 "group": "thegentlemen"
+            }
+        ]
+    },
+    {
+        "victim": "Horn of Africa Regional Environment Centre and Network",
+        "domain": "hoarec.org",
+        "country": "ET",
+        "timeline": [
+            {
+                "date": "2026-10-20",
+                "type": "claimed",
+                "group": "N0n"
             }
         ]
     },
@@ -178412,6 +178592,29 @@
         ]
     },
     {
+        "victim": "JB Hunt",
+        "domain": "jbhunt.com",
+        "country": "US",
+        "timeline": [
+            {
+                "date": "2026-10-23",
+                "type": "claimed",
+                "group": "Whitearmor"
+            },
+            {
+                "date": "2026-11-10",
+                "type": "discovered",
+                "summary": "Trois anciens employés de J.B. Hunt ont intenté un procès en justice contre l'entreprise pour une violation de données. Le piratage, signalé le 23 octobre 2026, est attribué au groupe de ransomware \"Whitearmor\". Les plaignants affirment que les hackers ont accédé aux informations personnelles (PPI) de milliers d'employés, incluant des numéros de sécurité sociale, des dates de naissance et des données financières. Les poursuites accusent J.B. Hunt de négligence et de ne pas avoir mis en place les mesures de sécurité adéquates pour protéger les données.",
+                "title": "Former employees sue J.B. Hunt in claimed data breach | Arkansas Democrat Gazette",
+                "url": "https://www.arkansasonline.com/news/2026/oct/29/former-employees-sue-jb-hunt-in-claimed-data/"
+            },
+            {
+                "date": "2026-10-23",
+                "type": "reported"
+            }
+        ]
+    },
+    {
         "victim": "jbrand.co.uk",
         "domain": "jbrand.co.uk",
         "country": "GB",
@@ -182008,6 +182211,18 @@
         "timeline": []
     },
     {
+        "victim": "JS Constructor, INC",
+        "domain": "jscon.com.ph",
+        "country": "PH",
+        "timeline": [
+            {
+                "date": "2026-10-23",
+                "type": "claimed",
+                "group": "emperador"
+            }
+        ]
+    },
+    {
         "victim": "jsfrental.com",
         "domain": "jsfrental.com",
         "country": "US",
@@ -183576,6 +183791,18 @@
                 "date": "2023-07-11",
                 "type": "claimed",
                 "group": "clop"
+            }
+        ]
+    },
+    {
+        "victim": "Kale Balata A",
+        "domain": "kalebalata.com",
+        "country": "TR",
+        "timeline": [
+            {
+                "date": "2026-10-23",
+                "type": "claimed",
+                "group": "qilin"
             }
         ]
     },
@@ -193153,6 +193380,18 @@
         ]
     },
     {
+        "victim": "Labaid Cancer Hospital And Super Speciality Center",
+        "domain": "labaidcancer.com",
+        "country": "BD",
+        "timeline": [
+            {
+                "date": "2026-10-23",
+                "type": "claimed",
+                "group": "qilin"
+            }
+        ]
+    },
+    {
         "victim": "labayenylaborde.com",
         "domain": "labayenylaborde.com",
         "country": "US",
@@ -199088,12 +199327,17 @@
         ]
     },
     {
-        "victim": "Commune Du Tampon",
+        "victim": "Tamponnt",
         "domain": "letampon.fr",
-        "country": "RE",
+        "country": "FR",
         "timeline": [
             {
                 "date": "2026-10-15",
+                "type": "claimed",
+                "group": "qilin"
+            },
+            {
+                "date": "2026-10-23",
                 "type": "claimed",
                 "group": "qilin"
             },
@@ -200398,6 +200642,18 @@
         ]
     },
     {
+        "victim": "lidoway.com",
+        "domain": "lidoway.com",
+        "country": "LI",
+        "timeline": [
+            {
+                "date": "2026-10-23",
+                "type": "claimed",
+                "group": "lockbit5"
+            }
+        ]
+    },
+    {
         "victim": "Liebra Permana",
         "domain": "liebrapermana.com",
         "country": "",
@@ -201098,6 +201354,18 @@
                 "date": "2024-03-27",
                 "type": "claimed",
                 "group": "abyss"
+            }
+        ]
+    },
+    {
+        "victim": "Line2Line Coatings",
+        "domain": "line2linecoatings.com",
+        "country": "US",
+        "timeline": [
+            {
+                "date": "2026-10-23",
+                "type": "claimed",
+                "group": "rhysida"
             }
         ]
     },
@@ -211960,6 +212228,18 @@
         ]
     },
     {
+        "victim": "MaxiSeguridad",
+        "domain": "maxiseguridad.com.ar",
+        "country": "AR",
+        "timeline": [
+            {
+                "date": "2026-10-23",
+                "type": "claimed",
+                "group": "qilin"
+            }
+        ]
+    },
+    {
         "victim": "maxprofit.mcode.me",
         "domain": "maxprofit.mcode.me",
         "country": "",
@@ -220122,6 +220402,18 @@
         ]
     },
     {
+        "victim": "mickeybody.com",
+        "domain": "mickeybody.com",
+        "country": "US",
+        "timeline": [
+            {
+                "date": "2026-10-23",
+                "type": "claimed",
+                "group": "chaos"
+            }
+        ]
+    },
+    {
         "victim": "Micon National",
         "domain": "miconnational.com.au",
         "country": "AU",
@@ -221653,6 +221945,18 @@
                 "date": "2025-04-23",
                 "type": "claimed",
                 "group": "rhysida"
+            }
+        ]
+    },
+    {
+        "victim": "Miljaus Producciones S.L (www.miljaus.com)",
+        "domain": "miljaus.com",
+        "country": "ES",
+        "timeline": [
+            {
+                "date": "2026-10-23",
+                "type": "claimed",
+                "group": "qilin"
             }
         ]
     },
@@ -223650,6 +223954,18 @@
                 "date": "2025-05-10",
                 "type": "assessed",
                 "group": "safepay"
+            }
+        ]
+    },
+    {
+        "victim": "mlh.com.lb",
+        "domain": "mlh.com.lb",
+        "country": "LB",
+        "timeline": [
+            {
+                "date": "2026-10-23",
+                "type": "claimed",
+                "group": "lockbit5"
             }
         ]
     },
@@ -268168,6 +268484,18 @@
         ]
     },
     {
+        "victim": "Prism Medical Products",
+        "domain": "prism-medical.com",
+        "country": "US",
+        "timeline": [
+            {
+                "date": "2026-10-23",
+                "type": "claimed",
+                "group": "Wallstreet"
+            }
+        ]
+    },
+    {
         "victim": "Prism Construction",
         "domain": "prismconst.com",
         "country": "CA",
@@ -269835,6 +270163,18 @@
                 "date": "2023-03-06",
                 "type": "claimed",
                 "group": "royal"
+            }
+        ]
+    },
+    {
+        "victim": "PROTEX Confection",
+        "domain": "protexconfection.com",
+        "country": "TN",
+        "timeline": [
+            {
+                "date": "2026-10-20",
+                "type": "claimed",
+                "group": "N0n"
             }
         ]
     },
@@ -289680,6 +290020,18 @@
         ]
     },
     {
+        "victim": "Sanders Law Group",
+        "domain": "sanderslaw.group",
+        "country": "US",
+        "timeline": [
+            {
+                "date": "2026-10-23",
+                "type": "claimed",
+                "group": "rhysida"
+            }
+        ]
+    },
+    {
         "victim": "Sanders Legal Group",
         "domain": "sanderslegalgroup.com",
         "country": "US",
@@ -293419,6 +293771,18 @@
                 "date": "2024-02-15",
                 "type": "claimed",
                 "group": "hunters"
+            }
+        ]
+    },
+    {
+        "victim": "SCHWAB-SYSTEM",
+        "domain": "schwab-system.ch",
+        "country": "CH",
+        "timeline": [
+            {
+                "date": "2026-10-23",
+                "type": "claimed",
+                "group": "akira"
             }
         ]
     },
@@ -318153,6 +318517,18 @@
         ]
     },
     {
+        "victim": "SunTechnics Fabrisolar AG",
+        "domain": "suntechnics.ch",
+        "country": "CH",
+        "timeline": [
+            {
+                "date": "2026-10-20",
+                "type": "claimed",
+                "group": "N0n"
+            }
+        ]
+    },
+    {
         "victim": "suntreeinternalmedicine.com",
         "domain": "suntreeinternalmedicine.com",
         "country": "US",
@@ -336453,6 +336829,18 @@
         ]
     },
     {
+        "victim": "Trevi Technology",
+        "domain": "trevi.cc",
+        "country": "TW",
+        "timeline": [
+            {
+                "date": "2026-10-23",
+                "type": "claimed",
+                "group": "Orova"
+            }
+        ]
+    },
+    {
         "victim": "Trevi",
         "domain": "trevi.it",
         "country": "IT",
@@ -351779,6 +352167,18 @@
         ]
     },
     {
+        "victim": "vinsolutions.com",
+        "domain": "vinsolutions.com",
+        "country": "US",
+        "timeline": [
+            {
+                "date": "2026-10-23",
+                "type": "claimed",
+                "group": "Scarlettgroup"
+            }
+        ]
+    },
+    {
         "victim": "VINTAGE HOMESTEAD GmbHy",
         "domain": "vintage-homestead.de",
         "country": "DE",
@@ -353517,6 +353917,18 @@
         ]
     },
     {
+        "victim": "von Schaewen",
+        "domain": "von-schaewen.de",
+        "country": "DE",
+        "timeline": [
+            {
+                "date": "2026-10-23",
+                "type": "claimed",
+                "group": "qilin"
+            }
+        ]
+    },
+    {
         "victim": "von Hagen",
         "domain": "vonhagen.net",
         "country": "DE",
@@ -354774,6 +355186,18 @@
                 "date": "2024-10-26",
                 "type": "claimed",
                 "group": "dragonransomware"
+            }
+        ]
+    },
+    {
+        "victim": "Wah Chan Consolidated Sdn Bhd",
+        "domain": "wahchan.com.my",
+        "country": "MY",
+        "timeline": [
+            {
+                "date": "2026-10-23",
+                "type": "claimed",
+                "group": "Orova"
             }
         ]
     },
@@ -359760,6 +360184,18 @@
                 "date": "2026-02-28",
                 "type": "claimed",
                 "group": "nightspire"
+            }
+        ]
+    },
+    {
+        "victim": "Whirlpool",
+        "domain": "whirlpool.com",
+        "country": "US",
+        "timeline": [
+            {
+                "date": "2026-10-21",
+                "type": "claimed",
+                "group": "Whitearmor"
             }
         ]
     },
@@ -367952,6 +368388,30 @@
             {
                 "date": "2023-06-05",
                 "type": "reported"
+            }
+        ]
+    },
+    {
+        "victim": "zelsior.es",
+        "domain": "zelsior.es",
+        "country": "ES",
+        "timeline": [
+            {
+                "date": "2026-10-23",
+                "type": "claimed",
+                "group": "lockbit5"
+            }
+        ]
+    },
+    {
+        "victim": "Zena Office",
+        "domain": "zenaoffice.it",
+        "country": "IT",
+        "timeline": [
+            {
+                "date": "2026-10-23",
+                "type": "claimed",
+                "group": "AuditTeam"
             }
         ]
     },
