@@ -1,5 +1,16 @@
 [
     {
+        "date": "2026-11-26",
+        "victim": "Autorità di Sistema Portuale del Mar Tirreno Settentrionale",
+        "domain": "portialtotirreno.it",
+        "country": "ITA",
+        "summary": "L'Autorità di Sistema Portuale del Mar Tirreno Settentrionale (AdSP) a Livorno a été victime d'une cyberattaque qui a entraîné le blocage et le crash de ses systèmes informatiques. Les équipes ont déconnecté les PC de Palazzo Rosciano et des autres sites, et des mesures ont été prises pour isoler les systèmes potentiellement touchés et mettre en œuvre un plan de restauration. L'incident a été signalé à l'Agence pour la cybersécurité nationale (ACN) et à la Police des Postes, et des vérifications sont en cours, incluant des interventions sur les accès portuaires.",
+        "description": "",
+        "title": "Attacco informatico alla rete dell'AdSP - Telegranducato di Toscana",
+        "url": "https://www.telegranducato.it/2026/11/26/attacco-informatico-alla-rete-delladsp/",
+        "added": "2026-11-26"
+    },
+    {
         "date": "2026-11-22",
         "victim": "Septeo IT Solutions",
         "domain": "septeo.fr",
