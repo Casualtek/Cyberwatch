@@ -245227,6 +245227,18 @@
         ]
     },
     {
+        "victim": "NY Snacks",
+        "domain": "nysnacks.com",
+        "country": "US",
+        "timeline": [
+            {
+                "date": "2026-11-05",
+                "type": "assessed",
+                "group": "play"
+            }
+        ]
+    },
+    {
         "victim": "Gerald Zisser GmbH",
         "domain": "nzisser.biz",
         "country": "AT",
