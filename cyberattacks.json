@@ -1,5 +1,16 @@
 [
     {
+        "date": "2026-11-27",
+        "victim": "Yōji Katsudō Kenkyukai",
+        "domain": "youji.co.jp",
+        "country": "Japon",
+        "summary": "La société Yōji Katsudō Kenkyukai (幼児活動研究会), qui fournit des services de gymnastique pour jeunes enfants et des garderies, a publié un deuxième rapport d'incident de cybersécurité le 27 novembre 2026. L'enquête a révélé que des comptes VPN ont été détournés et que les informations d'identification des administrateurs Active Directory (AD) ont été volées, dans le cadre d'une attaque par parasitisme environnemental (Living off the Land). Bien que des traces de fuite de données sur certains serveurs et terminaux aient été identifiées, aucune fuite de données client n'a été confirmée. L'incident initial a été détecté le 14 octobre 2026.",
+        "description": "",
+        "title": "幼児活動研究会へのサイバー攻撃、VPNアカウントを悪用されAD管理者の認証情報を窃取 環境寄生型攻撃と判明|セキュリティニュースのセキュリティ対策Lab",
+        "url": "https://rocket-boys.co.jp/security-measures-lab/yoji_katsudo_research_institute_20261127_updated/",
+        "added": "2026-11-27"
+    },
+    {
         "date": "2026-11-26",
         "victim": "Convoy Financial Services Limited (CFS)",
         "domain": "convoyfinance.com",
