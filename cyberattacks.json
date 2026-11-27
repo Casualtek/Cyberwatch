@@ -1,5 +1,16 @@
 [
     {
+        "date": "2026-11-27",
+        "victim": "US Air Force (via Cloud One)",
+        "domain": "af.mil",
+        "country": "USA",
+        "summary": "Des pirates informatiques ont compromis Cloud One, une plateforme de cloud computing majeure utilisée par l'armée américaine pour soutenir les fonctions critiques de l'US Air Force. Cette cyberattaque a perturbé le fonctionnement de la plateforme, forçant les services concernés à suspendre certaines procédures. La Cyber Command, la force de cyber-guerre de l'armée américaine, est intervenue pour évaluer l'étendue des dommages. Suite à la découverte de l'attaque, les efforts de migration des applications administratives vers Cloud One ont été gelés, et les mises à jour des applications en cours ont été bloquées, empêchant le personnel de l'US Air Force d'appliquer des correctifs. Il est rapporté que certains utilisateurs ont vu leurs droits d'administrateur retirés. Les attaquants auraient exploité une vulnérabilité logicielle pour accéder au niveau de contrôle de la plateforme, décrit comme un 'télécommand central', bien qu'il n'ait pas été précisé si les pirates ont exercé un contrôle opérationnel sur les aéronefs ou le matériel.",
+        "description": "",
+        "title": "Κυβερνοεπίθεση στην κορυφαία πλατφόρμα cloud της αμερικανικής Πολεμικής Αεροπορίας -«Πάγωσαν» αναβαθμίσεις και μεταφορές συστημάτων - iefimerida.gr",
+        "url": "https://www.iefimerida.gr/kosmos/kybernoepithesi-platforma-cloud-amerikanikis-polemikis-aeroporias",
+        "added": "2026-11-27"
+    },
+    {
         "date": "2026-11-23",
         "victim": "Centre hospitalier de Cadillac",
         "domain": "ch-cadillac.fr",
