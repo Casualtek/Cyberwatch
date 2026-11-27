@@ -1,5 +1,16 @@
 [
     {
+        "date": "2026-11-21",
+        "victim": "Dirección General de Casinos",
+        "domain": "gub.uy",
+        "country": "URY",
+        "summary": "La Dirección General de Casinos (DGC) a suspendu une partie de ses opérations administratives après avoir détecté une cyberattaque extérieure au pays. L'incident, détecté le samedi 21 novembre, n'a pas affecté l'exploitation des jeux dans la majorité des salles, bien que des fermetures préventives aient été imposées aux salles de divertissement de Florida et Carmelo. Les équipes techniques ont isolé l'accès au réseau pour prévenir toute compromission supplémentaire, permettant ainsi aux salles de fonctionner de manière autonome malgré des restrictions mineures. Les services administratifs sont les seuls touchés, et l'organisme travaille avec des entités spécialisées pour rétablir le fonctionnement normal.",
+        "description": "",
+        "title": "Ciberataque a Casinos del Estado obligó a cerrar las salas de Florida y Carmelo",
+        "url": "https://www.elobservador.com.uy/nacional/ciberataque-casinos-del-estado-obligo-cerrar-las-salas-florida-y-carmelo-n6065257",
+        "added": "2026-11-27"
+    },
+    {
         "date": "2026-11-27",
         "victim": "Yōji Katsudō Kenkyukai",
         "domain": "youji.co.jp",
