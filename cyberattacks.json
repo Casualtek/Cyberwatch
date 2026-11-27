@@ -1,5 +1,16 @@
 [
     {
+        "date": "2026-11-23",
+        "victim": "Centre hospitalier de Cadillac",
+        "domain": "ch-cadillac.fr",
+        "country": "FRA",
+        "summary": "Le Centre hospitalier de Cadillac a été victime d'une cyberattaque informatique dans la nuit du 22 au 23 novembre. La direction du Groupe hospitalier Sud-Gironde a confirmé que cet incident n'a entraîné aucune fuite de données et n'a pas perturbé la prise en charge des patients, et qu'aucun autre établissement du groupe n'a été affecté.",
+        "description": "",
+        "title": "Gironde : le Centre hospitalier de Cadillac-sur-Garonne victime d’une attaque informatique",
+        "url": "https://www.sudouest.fr/gironde/cadillac/gironde-le-centre-hospitalier-de-cadillac-sur-garonne-victime-d-une-attaque-informatique-31692114.php",
+        "added": "2026-11-27"
+    },
+    {
         "date": "2026-11-26",
         "victim": "Prefeitura de Taquarivaí",
         "domain": "taquarivai.sp.gov.br",
