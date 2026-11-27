@@ -3313,6 +3313,18 @@
         ]
     },
     {
+        "victim": "Echo.com",
+        "domain": "Echo.com",
+        "country": "DE",
+        "timeline": [
+            {
+                "date": "2026-10-28",
+                "type": "claimed",
+                "group": "Whitearmor"
+            }
+        ]
+    },
+    {
         "victim": "E******s.com",
         "domain": "EgyTires.com",
         "country": "EG",
@@ -8496,6 +8508,18 @@
                 "date": "2025-03-28",
                 "type": "assessed",
                 "group": "play"
+            }
+        ]
+    },
+    {
+        "victim": "A&B Lab",
+        "domain": "ablabs.com",
+        "country": "US",
+        "timeline": [
+            {
+                "date": "2026-10-28",
+                "type": "claimed",
+                "group": "genesis"
             }
         ]
     },
@@ -16826,6 +16850,18 @@
             {
                 "date": "2025-02-17",
                 "type": "reported"
+            }
+        ]
+    },
+    {
+        "victim": "The Anglican International School",
+        "domain": "aisj.co.il",
+        "country": "IL",
+        "timeline": [
+            {
+                "date": "2026-10-28",
+                "type": "claimed",
+                "group": "Global Secret Group"
             }
         ]
     },
@@ -55575,6 +55611,18 @@
         ]
     },
     {
+        "victim": "Broadstreet HEOR",
+        "domain": "broadstreetheor.com",
+        "country": "CA",
+        "timeline": [
+            {
+                "date": "2026-10-28",
+                "type": "claimed",
+                "group": "rhysida"
+            }
+        ]
+    },
+    {
         "victim": "Broadway National",
         "domain": "broadwaynational.com",
         "country": "US",
@@ -70413,6 +70461,18 @@
             {
                 "date": "2025-12-08",
                 "type": "reported"
+            }
+        ]
+    },
+    {
+        "victim": "Insurance Services",
+        "domain": "chatin.ca",
+        "country": "CA",
+        "timeline": [
+            {
+                "date": "2026-10-28",
+                "type": "claimed",
+                "group": "akira"
             }
         ]
     },
@@ -91484,6 +91544,11 @@
                 "date": "2025-02-02",
                 "type": "claimed",
                 "group": "bianlian"
+            },
+            {
+                "date": "2026-10-26",
+                "type": "claimed",
+                "group": "pear"
             }
         ]
     },
@@ -120238,6 +120303,18 @@
         ]
     },
     {
+        "victim": "EWM Group",
+        "domain": "ewm.co.uk",
+        "country": "GB",
+        "timeline": [
+            {
+                "date": "2026-10-28",
+                "type": "claimed",
+                "group": "aurora"
+            }
+        ]
+    },
+    {
         "victim": "eworldme.com",
         "domain": "eworldme.com",
         "country": "AE",
@@ -124613,6 +124690,29 @@
             },
             {
                 "date": "2026-01-09",
+                "type": "reported"
+            }
+        ]
+    },
+    {
+        "victim": "Femern Link Contractors",
+        "domain": "femernlinkcontractors.com",
+        "country": "DK",
+        "timeline": [
+            {
+                "date": "2026-10-28",
+                "type": "claimed",
+                "group": "Barracuda"
+            },
+            {
+                "date": "2026-10-14",
+                "type": "discovered",
+                "summary": "Le principal entrepreneur du projet de la Fehmarn Bält-förbindelsen, FLC (Femern Link Contractors), a été victime d'une intrusion de données. Cette cyberattaque a entraîné la panne des systèmes centraux, provoquant l'arrêt de plusieurs navires et l'interruption du fonctionnement des cartes d'accès. Les problèmes ont débuté la nuit précédant le lundi.",
+                "title": "Fehmarn Bält-bygget drabbat av cyberattack",
+                "url": "https://www.newsoresund.se/fehmarn-balt-bygget-drabbat-av-cyberattack/"
+            },
+            {
+                "date": "2026-10-12",
                 "type": "reported"
             }
         ]
@@ -130399,6 +130499,18 @@
                 "date": "2025-04-29",
                 "type": "assessed",
                 "group": "lockbit5"
+            }
+        ]
+    },
+    {
+        "victim": "Fortrex",
+        "domain": "fortrexsolutions.com",
+        "country": "US",
+        "timeline": [
+            {
+                "date": "2026-10-28",
+                "type": "claimed",
+                "group": "Wallstreet"
             }
         ]
     },
@@ -153643,6 +153755,18 @@
                 "date": "2026-07-27",
                 "type": "claimed",
                 "group": "safepay"
+            }
+        ]
+    },
+    {
+        "victim": "Hauhinco",
+        "domain": "hauhinco.de",
+        "country": "DE",
+        "timeline": [
+            {
+                "date": "2026-10-28",
+                "type": "claimed",
+                "group": "payload"
             }
         ]
     },
@@ -182966,6 +183090,18 @@
         ]
     },
     {
+        "victim": "Roberts Consulting Services",
+        "domain": "jsrconsulting.com",
+        "country": "US",
+        "timeline": [
+            {
+                "date": "2026-10-28",
+                "type": "claimed",
+                "group": "akira"
+            }
+        ]
+    },
+    {
         "victim": "JSS Almonds",
         "domain": "jssalmonds.com",
         "country": "US",
@@ -204602,6 +204738,18 @@
         ]
     },
     {
+        "victim": "Lowenstein Sandler LLP",
+        "domain": "lowenstein.com",
+        "country": "US",
+        "timeline": [
+            {
+                "date": "2026-10-28",
+                "type": "claimed",
+                "group": "SilentRansomGroup"
+            }
+        ]
+    },
+    {
         "victim": "Lower Nazareth",
         "domain": "lowernazareth.com",
         "country": "US",
@@ -210355,6 +210503,18 @@
                 "date": "2026-03-23",
                 "type": "claimed",
                 "group": "exitium"
+            }
+        ]
+    },
+    {
+        "victim": "Marbre Design",
+        "domain": "marbres-design.com",
+        "country": "FR",
+        "timeline": [
+            {
+                "date": "2026-10-28",
+                "type": "claimed",
+                "group": "payload"
             }
         ]
     },
@@ -217760,6 +217920,18 @@
                 "date": "2025-05-29",
                 "type": "assessed",
                 "group": "akira"
+            }
+        ]
+    },
+    {
+        "victim": "Meleghy Automotive & Cie. GmbH",
+        "domain": "meleghyautomotive.de",
+        "country": "DE",
+        "timeline": [
+            {
+                "date": "2026-10-28",
+                "type": "claimed",
+                "group": "aurora"
             }
         ]
     },
@@ -225849,6 +226021,18 @@
                 "date": "2025-06-14",
                 "type": "claimed",
                 "group": "safepay"
+            }
+        ]
+    },
+    {
+        "victim": "Morrison Foerster",
+        "domain": "mofo.com",
+        "country": "US",
+        "timeline": [
+            {
+                "date": "2026-10-28",
+                "type": "claimed",
+                "group": "SilentRansomGroup"
             }
         ]
     },
@@ -240487,6 +240671,18 @@
                 "date": "2024-02-05",
                 "type": "claimed",
                 "group": "lockbit3"
+            }
+        ]
+    },
+    {
+        "victim": "Noelker and Hull",
+        "domain": "noelkerhull.com",
+        "country": "US",
+        "timeline": [
+            {
+                "date": "2026-10-28",
+                "type": "claimed",
+                "group": "rhysida"
             }
         ]
     },
@@ -267214,6 +267410,18 @@
         ]
     },
     {
+        "victim": "PQE Group",
+        "domain": "pqegroup.com",
+        "country": "IT",
+        "timeline": [
+            {
+                "date": "2026-10-28",
+                "type": "claimed",
+                "group": "Panzer"
+            }
+        ]
+    },
+    {
         "victim": "Practi-Cal",
         "domain": "practi-cal.com",
         "country": "US",
@@ -288279,6 +288487,18 @@
         ]
     },
     {
+        "victim": "Ryder",
+        "domain": "ryder.com",
+        "country": "US",
+        "timeline": [
+            {
+                "date": "2026-10-27",
+                "type": "claimed",
+                "group": "Whitearmor"
+            }
+        ]
+    },
+    {
         "victim": "Ryder Scott Co.",
         "domain": "ryderscott.com",
         "country": "US",
@@ -291934,6 +292154,18 @@
                 "date": "2026-10-09",
                 "type": "claimed",
                 "group": "thegentlemen"
+            }
+        ]
+    },
+    {
+        "victim": "Santiam Hospital & Clinics",
+        "domain": "santiamhospital.org",
+        "country": "US",
+        "timeline": [
+            {
+                "date": "2026-10-28",
+                "type": "claimed",
+                "group": "anubis"
             }
         ]
     },
@@ -339874,6 +340106,18 @@
             {
                 "date": "2023-06-17",
                 "type": "reported"
+            }
+        ]
+    },
+    {
+        "victim": "Trulife",
+        "domain": "trulife.com",
+        "country": "",
+        "timeline": [
+            {
+                "date": "2026-10-28",
+                "type": "claimed",
+                "group": "akira"
             }
         ]
     },
