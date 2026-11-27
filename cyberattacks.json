@@ -1,5 +1,16 @@
 [
     {
+        "date": "2026-11-26",
+        "victim": "Prefeitura de Taquarivaí",
+        "domain": "taquarivai.sp.gov.br",
+        "country": "BRA",
+        "summary": "La municipalité de Taquarivaí (SP) a subi une cyberattaque le jeudi 26 novembre 2026, qui a compromis ses systèmes de gestion publique. Aucun préjudice financier n'a été identifié à ce jour. Les services administratifs, tels que les demandes d'engagement et de paiement, sont suspendus en attendant la restauration des systèmes.",
+        "description": "",
+        "title": "Prefeitura de Taquarivaí sofre ataque cibernético | G1",
+        "url": "https://g1.globo.com/sp/itapetininga-regiao/noticia/2026/11/27/prefeitura-de-taquarivai-sofre-ataque-cibernetico.ghtml",
+        "added": "2026-11-27"
+    },
+    {
         "date": "2026-11-27",
         "victim": "Department for Work and Pensions",
         "domain": "gov.uk",
