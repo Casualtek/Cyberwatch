@@ -1,5 +1,16 @@
 [
     {
+        "date": "2026-11-26",
+        "victim": "Kmetijske zadruga Tolmin",
+        "domain": "kz-tolmin.si",
+        "country": "SVN",
+        "summary": "La coopérative slovène Kmetijske zadruga Tolmin a été victime d'une cyberattaque qui a permis aux attaquants de modifier les paramètres de température dans ses systèmes de refroidissement et plusieurs appareils réfrigérés. Les intrus ont également ciblé des équipements dans une caisse et un magasin, augmentant les températures de 2-3°C à 20°C. L'incident a été découvert rapidement par le personnel, évitant ainsi des dommages aux produits. Le directeur a précisé que l'accès au système avait été bloqué et qu'une image du politicien italien Matteo Salvini était affichée avec une inscription en italien. En réponse, la coopérative a coupé la connexion internet des systèmes de refroidissement et a mis en place des vérifications physiques régulières des températures. Cet incident s'inscrit dans une vague d'attaques similaires observées récemment dans plusieurs pays européens, dont la Belgique, le Luxembourg, la Suède, l'Irlande, les Pays-Bas, la Finlande et l'Estonie, ainsi que des attaques contre des systèmes de supermarchés français début octobre.",
+        "description": "",
+        "title": "Napad na tolminsko mesarijo: hladilnike nastavili na 100 stopinj, na zaslonu se je pojavil politik",
+        "url": "https://www.dnevnik.si/novice/slovenija/kibernetski-napad-na-tolminsko-mesarijo-hladilnike-nastavili-na-100-stopinj-celzija-2843538/",
+        "added": "2026-11-27"
+    },
+    {
         "date": "2026-11-27",
         "victim": "US Air Force (via Cloud One)",
         "domain": "af.mil",
