@@ -1,5 +1,16 @@
 [
     {
+        "date": "2026-11-27",
+        "victim": "Department for Work and Pensions",
+        "domain": "gov.uk",
+        "country": "GBR",
+        "summary": "Le Département du Travail et des Pensions (DWP) a mis certains de ses services hors ligne par précaution suite à un incident de cybersécurité affectant ses systèmes. Les services impactés incluent les plateformes en ligne pour les demandes de pensions, de crédit universel et de PIP, ainsi que le système 'Tell Us Once'. Le DWP enquête sur la cause de l'incident et assure que les paiements réguliers de prestations et de pensions ne sont pas affectés. La nature exacte de l'incident et l'accès éventuel aux données personnelles n'ont pas été confirmés.",
+        "description": "",
+        "title": "Department for Work and Pensions takes some services offline after 'cyber incident'",
+        "url": "https://www.bbc.com/news/articles/c8wy5p6pv2e2o",
+        "added": "2026-11-27"
+    },
+    {
         "date": "2026-11-21",
         "victim": "Dirección General de Casinos",
         "domain": "gub.uy",
